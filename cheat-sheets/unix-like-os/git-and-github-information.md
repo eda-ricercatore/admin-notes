@@ -87,6 +87,27 @@ Since the process/workflow for committing modifications/updates, insertions, and
 
 
 
+###	Mitigating Problems with Pushing Commits with New Large Files and Large Deltas
+
+When commits to the repository include the addition of new large files, and large deltas for large files, the push operation to the remote Git repository/server may fail, especially when the Internet access is limited (e.g., poor Wi-Fi connection).
+
+To mitigate this problem, do the following:
++ upload the large files manually (e.g., large PDF files) to the GitHub repository via its Web page.
++ git pull
+	- This downloads changes to the repository via Web-based upload.
++ git add -A
+	- Add all files and subdirectories with small delta changes, or additions of new small files.
++ git commit -m "Update build" (or another "commit message").
+	- Commit the delta changes of smaller files to the local repository.
++ git push
+
+
+
+
+
+
+
+
 #	Author Information
 
 The MIT License (MIT)
