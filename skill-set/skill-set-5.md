@@ -128,4 +128,87 @@
 		* test-driven development
 		* code review
 		* version control with Git
-		* 
++ skill set for Platform Software Engineer (BMC):
+	- At Graphcore, we're optimistic for a future where people live healthier, more informed, more creative lives. Our team is at the forefront of the artificial intelligence revolution, enabling innovators from all industries and sectors to expand human potential with technology. We believe our IPU technology will become the worldwide standard for artificial intelligence, transforming whole industries and sectors whether you are a medical researcher, roboticist or building autonomous cars.
+	- As a Platform Software Engineer, you will be working in the engineering team in Oslo developing the Graphcore M2000 platform with scale out technology for our Intelligence Processing Unit (IPU). You will work closely with our hardware and software engineering teams to develop the platform software that our other engineering teams depends on for the final product definition.
+	- Your responsibilities:
+		* Define and develop our generic platform applications
+		* Configure operating system kernels and set up full distribution images
+		* Bring up new systems in the lab together with the FPGA and Hardware teams
+		* Board environmental monitoring, cooling/power regulation and fault handling  
+	- What you will bring:
+		* Proven experience in embedded Linux
+		* Experience with yocto based projects, bitbake, systemd, OpenBMC
+		* Experience with shell scripting, Python, C and understanding of C++
+		* Experience in Linux kernel and system configuration, package management
+		* Knowledge of low level peripheral interconnects, such as I2C, UART, SPI, PWM
+		* Knowledge of Ethernet and IP networking standards
+		* Demonstrable knowledge of computer security and authentication schemes
+	- Good to have:
+		* Knowledge of high availability (HA) systems, management
+		* Familiarity of ILOM, BMC, IPMI, Redfish and OCP (Open Compute)
+		* Familiarity with DMTF standards, Redfish and Server products
+		* Experience in working with open source projects.
+		* Experience in hands-on lab and bring-up activities, as well as knowledge of design for product and manufacturing
+		* You like to work in a fast-paced environment using agile methods
++ skill set for Research Engineer
+	- Responsibilities:
+		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
+		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
+		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
+		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
+	- Essential:
+		* MSc or PhD in Machine Learning, Computer Science, Electrical Engineering, Physics, Mathematics or a related field.
+		* In-depth understanding of modern machine learning algorithms, deep learning architectures and probability theory.
+		* Experience using modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX).
+		* Proficiency in Python and/or C++.
+		* Strong communication skills and willingness to work in a collaborative environment.
+	- Desirable:
+		* Publications at top conference venues (e.g., NeurIPS, ICLR, ICML).
+		* Contributions to open-source software projects in the area of machine intelligence.
+		* Experience in using or designing low-precision numerical formats.
+		* Kaggle competitions or other evidence of practical expertise.
++ skill set for Research Scientist:
+	- Responsibilities:
+		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
+		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
+		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
+		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
+	- Essential:
+		* MSc or PhD in Machine Learning, Computer Science, Electrical Engineering, Physics, Mathematics or a related field.
+		* In-depth understanding of modern machine learning algorithms, deep learning architectures and probability theory.
+		* Experience using modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX).
+		* Proficiency in Python and/or C++.
+		* Strong communication skills and willingness to work in a collaborative environment.
+	- Desirable:
+		* Publications at top conference venues (e.g., NeurIPS, ICLR, ICML).
+		* Contributions to open-source software projects in the area of machine intelligence.
+		* Experience in using or designing low-precision numerical formats.
+		* Kaggle competitions or other evidence of practical expertise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ AI compiler design
+	- Poplar framework for IPU architecture compiler.
++ AI compilers:
+	- MLIR
+	- TVM
+	- Glow
+
