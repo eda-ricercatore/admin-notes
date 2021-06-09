@@ -546,6 +546,36 @@ Use the [Making Your Code Citable](https://guides.github.com/activities/citable-
 
 
 
+## ⚠️ Helpful Fixes for Common Problems with *Git* Operations!!!
+
+Here are some considerations or fixes to common problems with
+	*Git* operations. 
++ When the Internet connection is slow or poor, `git push` operations may
+	fail to push commits to the remote *Git* repository (or the "*Git* server").
+	- The accumulated committed builds can be pushed together, when the
+		the Internet connection is better again.
+	- Replace it.
+		* Easy approach.
+			+ Rename the *Git* repository to a temporary name.
+			+ Clone the *Git* repository again in the parent directory.
+			+ Copy the files and subdirectories from the
+				updated/working/local repository with a temporary name
+				to this recently cloned *Git* repository.
+		* Detailed approach.
+			+ Rename the *Git* repository to a temporary name.
+			+ Clone the *Git* repository again in the parent directory.
+			+ Enumerate all the files and subdirectories from the
+				updated/working/local repository with a temporary name,
+				 and compare them to their counterparts in the recently
+				 cloned *Git* repository.
+				 - If there are any differences, copy the updated files to
+				 	this recently cloned *Git* repository.
+				- ⚠️ ***Write and use a Python script to automate this process.***
+
+
+
+
+
 #	References
 
 BibTeX entries for references that I used.
