@@ -187,8 +187,19 @@
 		* Contributions to open-source software projects in the area of machine intelligence.
 		* Experience in using or designing low-precision numerical formats.
 		* Kaggle competitions or other evidence of practical expertise.
-
-
++ skill set:
+	- Android
+	- Zephyr
+	- Linux
+	- Renode
+	- RISC-V
+	- TensorFlow
+	- Caffe
+	- OpenCV
+	- Singularity
+	- KiCad
+	- Docker
+	- ROS
 
 
 
