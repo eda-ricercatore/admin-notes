@@ -571,9 +571,32 @@ Here are some considerations or fixes to common problems with
 				 - If there are any differences, copy the updated files to
 				 	this recently cloned *Git* repository.
 				- ⚠️ ***Write and use a Python script to automate this process.***
++ For *Git* repositories with very large files, try the following:
+	- use Git Large File Storage \cite{Olson2016} for large files,
+		or large data sets.
+	- a set of steps to reduce temporary files and online larger file uploads.
+		* remove temporary files, as much and as often as possible.
+			+ Use my Ruby script to recursively enumerate subdirectories
+				to search for temporary files.
+				- Use a set of specified file extensions that these
+					temporary files have to simplify specification
+					of the set of temporary files.
+		* Use *Git* operations for `add` and `commit` for smaller files, and
+			push these commits to the remote *Git* repository (or the
+			"*Git* server").
+			+ Do this from the *Terminal* application's command-line interface.
+			+ Or, do this via a GUI-based Git client.
+		* Use the Web-based interface for cloud-based software/VLSI project 
+			repositories to upload larger files, and include appropriate
+			commit messages to describe the uploads.
 
 
 
+
+
+
+
+ 
 
 
 #	References
@@ -665,6 +688,23 @@ BibTeX entries for references that I used.
 		Title = {Mastering {Markdown}},
 		Url = {https://guides.github.com/features/mastering-markdown/},
 		Year = {2014}}
+
+	@misc{Olson2016,
+		Address = {San Francisco, {CA}},
+		Author = {Risk Danger technoweenie Olson and Brandon Keepers and Anatoly Borodin and Lucas Werkmeister and Steve Streeting and Scott Barron},
+		Howpublished = {Available online from {\it {GitHub}: {GitHub}} and {\it {GitHub}: Git Large File Storage} at: \url{https://git-lfs.github.com/} and \url{https://github.com/github/git-lfs}; April 1, 2016 was the last accessed date},
+		Month = {March 31},
+		Publisher = {{GitHub, Inc.}},
+		Title = {Git Large File Storage},
+		Url = {https://git-lfs.github.com/},
+		Year = {2016}}
+
+
+
+
+
+
+
 
 
 

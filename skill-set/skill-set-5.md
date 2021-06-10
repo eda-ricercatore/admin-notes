@@ -200,12 +200,67 @@
 	- KiCad
 	- Docker
 	- ROS
-
-
-
-
-
-
++ skill set:
+	- continuous integration/delivery (CI/CD) methodologies and practices
+	- develop open-source, scalable simulation and virtualization environments
+	- contribute to open-source frameworks
+	- design cloud infrastructure
+	- distributed CI/CD constructions
+	- cloud engineering:
+		* virtualization
+		* scalability
+		* load balancing
+		* failovers
+		* distributed computing power
+		* cloud deployments
+		* monitoring
+		* log processing
+	- orchestration tools
++ skill set:
+	- knowledge of:
+		* AXI
+		* AHB
+		* APB
+		* Wishbone
+	- knowledge of comunication interfaces:
+		* UART
+		* I2C
+		* SPI
+		* TileLink
+	- knowledge of fast comunication interfaces:
+		* PCI
+		* PCIe / PCI Expresss
+		* USB
+		* ChipLink
+	- SoC FPGA:
+		* Xilinx Zynq
+		* Xilinx UltraScale+ MPSoC
+		* Intel SoC FPGA
+		* Microsemi SmartFusion
++ skill set:
+	- develop edge AI tooling ecosystem
+	- design deep learning-capable data processing devices
+	- experience working with the following:
+		* open-source machine learning framework TensorFlow
+		* Caffe
+		* neural network architectures
+		* CUDA
+		* OpenCL
+		* OpenCV
+	- design AI system architectures:
+		* deep neural networks
+		* machine learning algorithms
+		* computer vision
+			+ video processing
+			+ object detection
+			+ object tracking
+		* speech recognition
+		* text analysis
+	- tasks include:
+		* implementing, training, and testing AI algorithms with 3-D game engines, and optimizing them for given hardware
+		* develop and improve a range of AI-oriented tools and frameworks
+		* work with Linux and other open-source operating systems
+		* automate workflow for validation vi auatomted testing/verification and continuous integration (CI) scripts
 
 
 
