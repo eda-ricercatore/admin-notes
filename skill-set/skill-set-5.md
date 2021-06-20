@@ -261,6 +261,78 @@
 		* develop and improve a range of AI-oriented tools and frameworks
 		* work with Linux and other open-source operating systems
 		* automate workflow for validation vi auatomted testing/verification and continuous integration (CI) scripts
++ skill set for data engineering:
+	- work with Scala-based core science and data platform
+	- consumer-facing product layer in java and React
+	- AWS-deployed software, using CI/CD with Kubernetes.
+	- build, optimize, test, and improve REST and gRPC services
+	- weight technical trade-offs and collaborate with coworkers to reach consensus about balancing practical necessities and ideological concerns
+	- functional programming languages:
+		* Scala
+		* Haskell
+		* Erlang
+	- cloud computing tools
+		* AWS
+		* Docker
+		* Kubernetes
+		* Terraform
+	- database systems:
+		* schema design
+		* query optimization
+		* database tuning
+		* migration tools
++ skill set:
+	- experience with multi-imaging modalities
+		* RGBN
+		* multi-/hyper- spectral
+		* thermal
+		* LiDAR
+		* radar
+	- experience delveoping algorithms and methods for object detection, classification, and characterization
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
