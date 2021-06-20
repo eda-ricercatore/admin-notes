@@ -289,8 +289,29 @@
 		* LiDAR
 		* radar
 	- experience delveoping algorithms and methods for object detection, classification, and characterization
-	
-
+	- compiled production-class OO or FP programming language
+		* Java
+		* Scala
+		* C++
+		* C#
+		* Haskell
+		* ML
+		* Erlang
+		* Clojure
+		* Rust
+	- geospatial/GIS tools:
+		* ArcGIS/QGIS
+		* ENVI
+		* ERDAS Imagine
+	- ability to think broadly and creatively about real-world problems, and technical and scientific solutions that produce value for customers
+	- experience with deep learning or machine learning methodologies
+	- cloud-based implementation of software via:
+		* AWS
+		* Azure
+		* GCP
+	- Bayesian image analysis, Bayesian statistics, optimization methods
+	- sensor and image fusion, multi-scale and multi-temporal data processing, video processing, 3-D scene reconstruction methods
+	- 
 
 
 
