@@ -311,7 +311,23 @@
 		* GCP
 	- Bayesian image analysis, Bayesian statistics, optimization methods
 	- sensor and image fusion, multi-scale and multi-temporal data processing, video processing, 3-D scene reconstruction methods
-	- 
++ skill set:
+	- JavaScript technologies
+		* React
+		* Angular
+		* Vue
+		* high-quality, functional JavaScript
+	- tools
+		* Babel
+		* Webpack/Rollup/Parcel
+	- languages
+		* Typescript
+		* ES6+
+	- Git
+	- Node.js
+	- Redux
+	- MobX
+	
 
 
 
