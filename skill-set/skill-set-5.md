@@ -327,7 +327,70 @@
 	- Node.js
 	- Redux
 	- MobX
++ skill set:
+	- buildout of serverless AI platform, using a combination of Python and AWS technologies, such as:
+		* Lambda
+		* Kinesis
+		* S3
+		* EC2
+		* Glue
+		* Batch
+		* EMR
+		* CloudFormation
++ skill set:
+	- Java/Scala
+	- front-end Web development framework
+		* React
+		* Vue.js
+		* Angular
+		* Ember
+	- leading end-to-end tech design and architecture activity
+	- test driven development
+	- GraphQL
+	- gRPC
++ skill set:
+	- Hadoop ecosystem
+		* Hive
+		* Pig
+		* Presto
+		* Spark
+		* SQOOP
+	- Columnstore DBs
+		* Redshift
+		* Vertica
+	- Python
+	- Scala
+	- MS SQL server
+	- Tableau
+	- Amazon solutions
++ skill set:
+	- SQL/NoSQL databases
+		* MySQL
+		* HBase
+		* Redis
+		* Presto/Trino
+	- Kafka
+	- Kubernetes
+	- Zookeeper
+	- Spark
+	- Consul
+	- Chef
+	- Terraform
+	- Rust
+	- Java
+	- Scala
+	- monitoring tools
+		* Prometheus
+		* Grafana
+	- building/retrofitting effective instrumentation or existing applications
+	- Terraform, or CloudFormation
+	- Orchestration
+		* Kubernetes
+		* Mesos
+		* Swarm
 	
+
+
 
 
 
