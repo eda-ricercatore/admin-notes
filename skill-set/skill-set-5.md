@@ -388,11 +388,40 @@
 		* Kubernetes
 		* Mesos
 		* Swarm
-	
-
-
-
-
++ skill set:
+	- Windbg, LLDB, GDB debugging experience
+	- SQLite, SQLCipher
+	- PKI/CA certification
+	- OpenSSL
+	- gloox, libevent, curl
++ skill set:
+	- develop software with good code quality
+	- development experience with high performance, high stability, and high availability real-time server development
+	- multithreading programming
+	- STL4
+	- TCP/IP, LAN, WAN, and P2P experience
+	- unit testing and test framework like Gtest
++ skill set:
+	- noise suppression, voice activity detection, and speacker recognition
+	- deep learning model optimization, such as quantization, neural architecture search, pruning
++ skill set:
+	- noise suppression, voice activity detection, and speacker recognition
+	- audio processing algorithms:
+		* acoustic noise cancellation
+		* noise suppression
+		* gain control
+		* de-reverberation
+		* microphone array processing
+	- linear adaptive filtering
+	- linear systems
+	- audio data analysis
++ Publications in NeurIPS, ICASSP, INTERSPEECH, TASLP.
++ ZABBIX, Python, API, Ansible, Terraform, and AWS cloud.
++ system hardware tools:
+	- MFT
+	- Video Toolbox
+	- MediaCodec
+	- VA-API
 
 
 
