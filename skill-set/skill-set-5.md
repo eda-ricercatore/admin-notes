@@ -422,7 +422,7 @@
 	- Video Toolbox
 	- MediaCodec
 	- VA-API
-
++ network operations center, NOC.
 
 
 
