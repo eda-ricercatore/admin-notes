@@ -47,20 +47,28 @@ If these citations/references are not found in this list of references,
 	information about them can be found in my BibTeX database.
 
 + Stack Overflow staff, "Markdown help," in *Stack Overflow*, Stack Exchange Inc., New York, NY, 2015. Available as *Stack Exchange: Stack Overflow (rev 2015.10.13.2885)* at: http://stackoverflow.com/editing-help; last viewed on October 14, 2015.
+	- `\cite{StackOverflowStaff2015}`
 + John Gruber, "Markdown," The Daring Fireball Company LLC, December 17, 2004. Available as *The Daring Fireball Company LLC: Projects: Markdown, Version 1.0.1* at: http://daringfireball.net/projects/markdown/; last viewed on October 14, 2015.
+	- `\cite{Gruber2004}`
 + Adam Pritchard et al., "Markdown Cheatsheet," GitHub, San Francisco, CA, August 10, 2015. Available at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet; last viewed on October 14, 2015.
+	- `\cite{Pritchard2015b}`
 + GitHub staff, "Writing on GitHub," in *GitHub Help,* GitHub, San Francisco, CA, 2015. Available from *GitHub: GitHub Help: Writing on GitHub category* at: https://help.github.com/articles/writing-on-github/; last viewed on October 14, 2015.
+	- `\cite{GitHubStaff2015}`
 + GitHub staff, "Markdown Basics," in *GitHub Help,* GitHub, San Francisco, CA, 2015. Available from *GitHub: GitHub Help: Writing on GitHub category* at: https://help.github.com/articles/markdown-basics/; last viewed on October 14, 2015.
+	- `\cite{GitHubStaff2015a}`
 + GitHub staff, "GitHub Flavored Markdown," in *GitHub Help,* GitHub, San Francisco, CA, 2015. Available from *GitHub: GitHub Help: Writing on GitHub category* at: https://help.github.com/articles/github-flavored-markdown/; last viewed on October 14, 2015.
+	- `\cite{GitHubStaff2015b}`
 + Scott Boms, "Markdown 1.0.1 Syntax Cheatsheet," Wishingline, Menlo Park, CA. Available as Version 1.0.3 at: http://scottboms.com/downloads/documentation/markdown_cheatsheet.pdf; last viewed on October 14, 2015.
+	- `\cite{Boms20XY}`
 + Daniel Greenfeld, "Markdown Basics," Revision 0dfc38d3, from the *Read the Docs* repository, 2012. Available at: http://markdown-guide.readthedocs.org/en/latest/basics.html; last viewed on October 14, 2015.
+	- `\cite{Greenfeld2012}`
 
 
 
 
 
-References (to show me how to create box with scroll bar):
-+ Stack Overflow contributors, "Static linking vs dynamic linking," Stack Exchange Inc., New York, NY, September 10, 2008. Available from ** at: http://stackoverflow.com/questions/1993390/static-linking-vs-dynamic-linking; last viewed on October 13, 2015.
+References (examples to show me how to create box with scroll bar):
++ ⚠️ ***Update This!!!***
 
 
 
@@ -72,7 +80,7 @@ References (to show me how to create box with scroll bar):
 
 The MIT License (MIT)
 
-Copyright (c) <2016> Zhiyang Ong
+Copyright (c) <2016-2021> Zhiyang Ong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
