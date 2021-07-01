@@ -543,6 +543,12 @@ We can share code fragments via GitHub Gist at: https://gist.github.com/.
 Use the [Making Your Code Citable](https://guides.github.com/activities/citable-code/) \cite{GitHubStaff2016d} document to learn how to assign a digital object identifier (DOI), so that a *GitHub* repository can be cited along with its associated research publications.
 
 
+To customize your *GitHub* profile with a Markdown document that contains text, pictures, tables, URLs, and code snippets, create a repository with the same name as your *GitHub* username and name that Markdown document `README.md`.
+
+
+
+
+
 
 
 
