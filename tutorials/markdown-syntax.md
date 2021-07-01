@@ -1,3 +1,7 @@
+[comment]: <> (This is wriiten by Zhiyang Ong to help me remember,)
+[comment]: <> (revise, and relearn *Markdown* syntax that I forget)
+[comment]: <> (occasionally.)
+
 #	Notes about the Markdown Syntax
 
 ##	Notes About Horizontal Rules/Lines
@@ -21,7 +25,7 @@ Note that these horizontal rules/lines cannot be drawn to partition
 From \cite{Magnus2018}, comments can be added as follows:
 
 	[comment]: <> (This is a comment, it will not be included)
-	[comment]: <> (in  the output file unless you use it in)
+	[comment]: <> (in the output file unless you use it in)
 	[comment]: <> (a reference style link.)
 
 
