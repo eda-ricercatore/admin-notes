@@ -423,11 +423,40 @@
 	- MediaCodec
 	- VA-API
 + network operations center, NOC.
-
-
-
-
-
++ skill set:
+	- We are seeking an experienced and highly motivated DevOps Engineer who will play a key role in the setup, support, and maintenance of the deployment strategies for our services. In this role, you will be responsible for delivery by optimizing practices, improving communications and collaborations, and creating automation.
+	- responsibilities:
+		* Own the stability and automation of our deployment.
+		* Setup, support, and maintain cloud infrastructure
+		* Setup, support and maintain code management and CI/CD pipelines
+		* Implement monitoring and security best practices.
+		* Own the stability and automation of our deployment.
+		* Guide and potentially assist API and ML engineers developing in Go and Python.
+	- experience and qualifications
+		* 3+ years of DevOps experience, preferably in a lead role
+		* Experience with Go (Strongly Preferred), or JVM languages like Java or Scala, or C/C++
+		* Proficient with HashiCorp Terraform, Vault, and Nomad
+		* Advanced ability to craft clear and concise documentation
+		* Understanding of deployment orchestration using Kubernetes.
+		* Ability to design and manage CI / CD pipelines
++ skil set:
+	- Familiarity with Go, Kubernetes, Docker, React, AWS/GCP
+	- Experience with containers and resource managers (e.g., Kubernetes, Mesos, YARN, Linux package managers)
++ skill set:
+	- Katana Graph is an enterprise graph computing system and storage engine. Our technology is the world’s fastest graph processing engine, providing compelling scalability and programmability advantages... Building on decades of experience in developing state-of-the-art distributed systems, Katana Graph is bringing together experts in hardware acceleration, cloud computing, storage systems, and high-performance computing to help create the platform of the future for data processing and analysis in this new world of specialized hardware and revitalized algorithms... Katana Graph recently completed a $28.5 million Series A financing round led by Intel Capital with participation from existing and new investors including WRVI Capital, Nepenthe Capital, Dell Technologies Capital, and Redline Capital.
+	- Are you a talented software engineer that is interested in developing solutions for difficult problems? Do you love to code and be actively engaged in the work you do?
+	- Roles:
+		* Graph Engine GPU - Software Engineer
+		* Graph Query Engine - Software Engineer
+		* Graph Transaction Engine - Software Engineer
+		* Evolving Graph Engine - Software Engineer
+		* Graph Storage Engine - Software Engineer
+	- Successful engineers at Katana Graph are familiar with GRAPH ALGORITHMS, comfortable working in C/C++, and are proficient PARALLEL PROGRAMMERS, in addition to experience in one of the following areas::
+		* Compiler, runtime or query engine development
+		* Relational and/or graph databases
+		* Distributed systems and/or high-performance computing
+		* CUDA or OpenCL
+		* Python
 
 
 
