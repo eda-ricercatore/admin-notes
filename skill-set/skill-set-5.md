@@ -457,8 +457,11 @@
 		* Distributed systems and/or high-performance computing
 		* CUDA or OpenCL
 		* Python
-
-
++ Publication record in top AI conferences (ACL, CVPR, NAACL, ICML, etc.) is a plus.
++ Hands-on experience design and development of graph-based compilers and experience in LLVM, MLIR, GLOW, etc. is a plus.
++ skill set:
+	- hands-on experience in configuring, maintaining, and building upon deployments of industry-standard tools (e.g., Jenkins, Docker, CMake, GitLab, Jira, etc.)
+	- experience in software shipping cycles (dev, deploy/CD, release, CI,) and open-source software development.
 
 
 
