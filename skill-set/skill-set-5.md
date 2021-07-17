@@ -463,7 +463,58 @@
 	- hands-on experience in configuring, maintaining, and building upon deployments of industry-standard tools (e.g., Jenkins, Docker, CMake, GitLab, Jira, etc.)
 	- experience in software shipping cycles (dev, deploy/CD, release, CI,) and open-source software development.
 + experience working with OpenCV and FFMPEG libraries
-
++ skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data. We are an angel and NSF grant backed, fast growing startup looking for a Sr. Software Engineer with experience building large scale infrastructure and developing low level systems software. If you enjoy the idiosyncrasies of C++, big data systems excite you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* While you get the freedom to define direction and build castles on-ground for now, it comes with some requirements so we can build fast and stay focused.
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand concurrency well
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Be comfortable with Linux, C++, and Python
+		* Valid work status in the US
+	- Additional qualifications
+		* Good tools make engineering more fun and the more you know about scaling, the faster you can help us scale our product
+		* Productivity, development, testing, and cluster management tools/frameworks/languages such as Gtest, git, Jupyter, shell scripting, OpenCV (to know how to handle some computer vision tasks), Kafka, Spark, Tensorflow/PyTorch/Caffe2, Docker, Kubernetes, Zookeeper, and just in general keep up with new technology to know when we should pay attention to something
+		* Practical implementation knowledge of CAP theorem, distributed systems programming
+		* Experience architecting a system to run as a service independent of the cloud vendor
+		* Knowledge of how to interact with distributed file systems
++ skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data through our unique visual database, ApertureDB. We are an angel and NSF grant backed, fast growing startup looking for a Computer Vision Systems Engineer because dealing with images and videos is challenging, particularly at scale. If you can easily tackle the likes of OpenCV and ffmpeg, dealing with large object caching excites you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* We are focused on making access to visual data simple and fast. That requires absorbing the comlexity of these data types within ApertureDB, therefore requiring certain qualifications
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand different image and video formats and encodings
+		* Experience working with OpenCV and FFMPEG libraries
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Data structure optimization techniques
+		* Valid work status in the US
+	- Additional qualifications
+		* It would be great if you already came to us with a few more tricks up your sleeve.
+		* Be comfortable with JSON, Python, Git, and Linux
+		* Other visual processing libraries
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Efficient algorithms for visual transformations
++ skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data through our unique visual database, ApertureDB. We are an angel and NSF grant backed, fast growing startup looking for a Database Architect with experience designing and building database internals. If you think locking and logging have a lot more to them than MVCC or redo, connected graph-like queries excite you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* Databases serve a vital purpose particularly as we get to define them for unstructured data. That requires a certain set of skills to even start off.
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand concurrency and ACID implementations well
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Data structure and query optimization techniques
+		* Different consistency models
+		* Valid work status in the US
+	- Additional qualifications
+		* It would be great if you already came to us with a few more tricks up your sleeve.
+		* Be comfortable with JSON, Python, Git, and Linux
+		* Object mapper interfaces
+		* Indexing vector data types
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Experience architecting a system to run as a service independent of the cloud vendor
 
 
 
