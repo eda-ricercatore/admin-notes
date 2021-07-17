@@ -462,7 +462,7 @@
 + skill set:
 	- hands-on experience in configuring, maintaining, and building upon deployments of industry-standard tools (e.g., Jenkins, Docker, CMake, GitLab, Jira, etc.)
 	- experience in software shipping cycles (dev, deploy/CD, release, CI,) and open-source software development.
-
++ experience working with OpenCV and FFMPEG libraries
 
 
 
