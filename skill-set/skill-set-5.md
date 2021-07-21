@@ -515,16 +515,49 @@
 		* Indexing vector data types
 		* Understand the effects of cache/memory/disk as they interplay with each other and processing
 		* Experience architecting a system to run as a service independent of the cloud vendor
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- end-to-end workload analysis from low-level assembly instruction code to high-level distributed algorithms
+	- experience with performance analysis on:
+		* CPUs
+		* GPUs
+		* TPU
+		* parallel architectures or distributed systems
+		* dataflow or spatial architctures
+		* many-core multi-thread environments.
++ skill set:
+	- Do you want to be in the forefront of Deep Learning innovation? Training extremely large models at a fraction of time compared to other solutions? Helping companies and labs around the world solving a real impactful problem? Working with the latest Deep Learning Architecture (i.e. Transformer, GNN…etc)? If so, then we need you!!!
+	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for deep learning workloads.
+	- Cerebras is building a team of exceptional people to work together on big problems. They aren’t afraid of taking risk and thinking outside of the box to solve fun and challenging problems.
+	- As an ML Software Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software, to develop state-of-the-art solutions for emerging problems in AI compute.
+	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, JAX, and MXNet.  Our ML software engineers are responsible for the backend of these frameworks and the integration with our own highly optimized software stack.
+	- Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.
+	- This role includes our ML framework backend and frontend stack, you will be involved in the frontend workflow for development, training and inference on our new hardware system. And the backend runtime that map the abstract computation expressed via third-party ML frameworks computation graph into our own representations that can then be compiled into highly optimized executables that target Cerebras’s system.
+	- The role includes cross team collaboration with the applied science and ML application team in one hand, and the compiler and hardware team on the other hand.
+	- Understanding of state-of-the-art deep learning model architectures and training protocols.
+	- Strong Python and C++ development skills.
+	- Experience with at least one deep learning framework internals (i.e. TensorFlow, PyTorch, JAX, Caffe 2, MXNet, PaddlePaddle, CNTK, Caffe, Theano, Chainer…etc) is strongly preferred.
+	- Experience with GPU programing such as CUDA, shading language…etc.
+	- Experience with deep learning distributed training.
+	- Familiar with compiler IR stack such as LLVM and MLIR.
++ skill set:
+	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for the deep learning workload.
+	- You will develop and maintain the automation infrastructure for functional and performance test of Cerebras product. As an Automation Framework Developer, you will be responsible for designing and developing scalable automation framework to run in cloud and in our datacenter. You will work closely with the development and QA teams to support various test flows and to improve engineering productivity for software that runs on the Wafer Scale Engine (WSE), the world’s largest and fastest AI computer.
+	- Minimum 10+ years of experience in software development environments
+	- Experience building tools, libraries and automation framework for internal customers
+	- Proficient in Python and shell scripting
+	- Proficient developing fixtures, hooks and plugins in pytest framework
+	- Experience running jobs on server clusters and workload managers like SLURM
+	- Strong end-to-end triage, debug, and troubleshooting skills in CI/CD and regressions
+	- Experience with setting up Jenkins and writing Jenkins pipelines
+	- Expertise with GitHub Actions and GitHub webhooks
+	- Linux system administration experience desirable
+	- Familiarity with Docker, Kubernetes and container technology
+	- Knowledge of building services on top of AWS or other cloud platforms at scale a plus
++ skill set:
+	- MLOps, ML Flow
+	- protocol design using protobuf + grpc
 
 
 
