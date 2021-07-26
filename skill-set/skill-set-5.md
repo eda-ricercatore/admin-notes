@@ -799,7 +799,7 @@
 		* Solve challenging problems with cutting edge design and algorithms.
 		* Work in a multidisciplinary team and collaborate with other teams across the company.
 	- Basic Requirements:
-		* Bachelor's Degree in Computer Science, Math, Physics or related field with at least 4-5 years of experience; Masters 		* with at least 2 years of experience; PhD with at least 1 year of experience
+		* Bachelor's Degree in Computer Science, Math, Physics or related field with at least 4-5 years of experience; Masters with at least 2 years of experience; PhD with at least 1 year of experience
 		* Strong software engineering practices with machine learning experience in a production setting.
 		* Clear grasp on basic Linear Algebra, Optimization, Statistics, and Algorithms.
 		* Experience with pipeline orchestration tooling (e.g. Airflow, AWS Step Function, Metaflow, KubeFlow, etc).
@@ -887,7 +887,7 @@
 		* Design reusable software components as part of an integrated system.
 		* Understand and fulfill the software practices that produce maintainable code, including automated testing, continuous integration, and code review.
 	- Qualifications:
-		* Master's degree or greater in Robotics, Computer Science or equivalent and 3+ years of industry experience, or B.S. 		* and 5+ years of industry experience.
+		* Master's degree or greater in Robotics, Computer Science or equivalent and 3+ years of industry experience, or B.S. and 5+ years of industry experience.
 		* Strong systems-level thinking and approach to problem solving.
 		* Solid C++ software development skills.
 		* Strong understanding of common software performance issues and trade-offs.
