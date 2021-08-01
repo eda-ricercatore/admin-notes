@@ -980,18 +980,282 @@
 	- Preferred Qualifications:
 		* Familiarity with automated driving hardware such as sensors, compute, etc. and software such as AI, Machine Learning algorithms, etc.
 		* Familiarity with requirements management software (Jama, Polarion, DOORs, or similar)
-
-
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- Our vision is to transform how the world uses information to enrich life. Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+	- As a Data Science Engineer at Micron, you will employ techniques and theories drawn from areas of mathematics, statistics, semiconductor physics, materials science, and information technology to uncover patterns in data from which predictive models, actionable insights, and solutions can be developed.
+	- You will interact with experienced Data Scientists, Data Engineers, Business Areas Engineers, and UX teams to identify questions and issues for data analysis projects and improvement of existing tools. In this position, you will help develop software programs, algorithms and/or automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources. There will be significant opportunities to perform exploratory and new solution development activities.
+	- Strong desire to grow a career as a Data Scientist in highly automated industrial manufacturing doing analysis and machine learning on terabytes and petabytes of diverse datasets.
+	- Experience in the areas: statistical modeling, feature extraction and analysis, supervised/unsupervised/semi-supervised learning. Exposure to the semiconductor industry is a plus but not a requirement.
+	- Ability to extract data from different databases via SQL and other query languages and applying data cleansing, outlier identification, and missing data techniques.
+	- Strong software development skills.
+	- Strong verbal and written communication skills.
+	- Experience with or desire to learn:
+		* Machine learning and other advanced analytical methods
+		* Fluency in Python and/or R
+		* pySpark and/or SparkR and/or SparklyR
+		* Hadoop (Hive, Spark, HBase)
+		* Teradata and/or another SQL databases
+		* Tensorflow, and/or other statistical software including scripting capability for automating analyses
+		* SSIS, ETL
+		* Javascript, AngularJS 2.0, Tableau
+		* Experience working with time-series data, images, semi-supervised learning, and data with frequently changing distributions is a plus
+		* Experience working with Manufacturing Execution Systems (MES) is a plus
+		* Existing papers from CVPR, NIPS, ICML, KDD, and other key conferences are plus, but this is not a research position
+		* Masters or PhD and several years of industry experience majoring in Engineering, Mathematics, Computer Science, Data Science, Physics, or equivalent
+		* Semiconductor industry experience and/or knowledge preferred
++ skill set:
+	- Blaize leads new-generation computing unleashing the potential of AI to enable leaps in the value technology delivers to improve the way we all work and live. Blaize offers transformative edge computing solutions for AI data collection and processing at the edge of network, with a focus on smart vision applications including automobility, retail, security, industrial, and metro. Blaize is funded by strategic and venture investors DENSO, Daimler, SPARX Group, Magna, Samsung Catalyst Fund, Temasek, GGV Capital, Wavemaker, and SGInnovate. With headquarters in El Dorado Hills (CA), Blaize has teams in Campbell (CA), Cary (NC), and subsidiaries in Hyderabad (India), Manila (Philippines), and Leeds and Kings Langley (UK), with 300+ employees worldwide. www.blaize.com
+	- BE/BTech/ME/MTech in Computer Science or Electronics or Electrical 
+	- 5+ years of experience
+	- Experience of multi-million gate ASIC design and verification methodologies
+	- Knowledge of Computer architecture
+	- Knowledge of digital design methodologies and tool flow
+	- Excellent logic design, debugging and problem-solving skills
+	- Experience in logic design with Verilog and/or System Verilog and validation/verification
+	- Experience in synthesis and timing analysis
+	- Experience in Multi-clock domain, Interconnects, Algorithm to Architecture
+	- Experience working on Low power design.
+	- Knowledge on Memory subsystem
+	- Experience with DSP, Datapath design and floating-point math a plus
+	- Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
++ skill set:
+	- Capability to understand a given block specification and come up with Micro Architecture
+	- Capability to derive an architecture and micro architecture based on a given algorithm
+	- Knowledge in digital logic for HW safety/protection – ECC, Parity, WDT etc.
+	- Experience of multi-million gate ASIC design and verification methodologies
+	- Knowledge of Computer architecture
+	- Experience in AMBA AXI, AHB, and APB protocols
+	- Expertise in System on Chips.
+	- Knowledge of digital design methodologies and tool flow
+	- Excellent logic design, debugging and problem-solving skills.
+	- Experience in logic design with Verilog and/or System Verilog and validation/verification
+	- Experience in lint checks, area optimization, power optimization, GLS, synthesis and timing analysis
+	- Experience in Multi-clock domain, Interconnects
+	- Knowledge on Memory subsystem
+	- Knowledge in Automotive ISO 26262 Functional Safety Standard is a plus.
+	- Experience with DSP, Datapath design and floating-point math a plus
+	- Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
+	- Understanding of GPU/AI/ML Processor architecture
++ skill set:
+	- Research and develop algorithms /system for given problem independently
+	- Provides solutions to a diverse range of moderately complex problems
+	- Development of medium sized product features
+	- Create rapid prototyping, generating quality wireframes and mockups – a portfolio of recent or salient work is required
+	- Works independently and uses judgment within defined policies and practices to influence others in technical directions.
+	- Expected to interface with colleagues outside of engineering and may mentor less experienced engineers (NCGs).
+	- Sets task level goals and may set project level schedules.
+	- Extensive expertise in a any/all below technical domain
+		* CV,ML,DL (Un/semi/supervised /reinforcement)
+		* Research/Develop CV/ML/DL algorithms using historical (training) data
+		* Expertise in rapid DL/ML/CV/RL/NLP POC development using python, Tensorflow, Pytorch,Keras,Matlab,TensorRT,ONNX etc·
+		* Expert knowledge of research methodologies in ML/DL domain·
+		* Model compression
+		* Model Pruning, sparsity , Model Decomposition , Mixed precision ,Qunatization ,sensitivity analysis , Tuning
+		* Transfer learning
+	- User experience background is a plus·
+	- Experience with usability and evaluation is a plus·
+	- Experience working within Agile framework is a plus.
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance, and tone for multiple customers·
+	- Analytical skills, conceptualize ideas, POC, understand and implement literature 
+	- Implement given task in C++, MATLAB, Python and design/code DL model using TensorFlow
+	- Strong experience in CV, ML, DNN, RNN, RL, Linear Algebra & AI
+	- Strong experience in C++, MATALB, Python, TensorFlow, PyTorch,Keras,ONNX,Pytorch
+	- Hands on Experience in rapid DL/ML/CV/RL/NLP POC development
+	- Very good Knowledge on Model optimization, Pruning ,Tuning ,ONNX, Distiller , Quantization
+	- Very good Knowledge on Object-Oriented Design & System Integration
+	- Very good knowledge on Code Optimization, Implement & Adapt Complex Algorithms (E.g. from literature, from other teams, etc.)
+	- Work Independently without supervision
+	- Work under aggressive schedules towards world-class solutions
+	- Ability to deliver exceptional results in challenging tasks
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
+	- Ability to consolidate, distill, and incorporate diverse ideas quickly
+	- Experience with usability and evaluation is a plus
+	- Experience working within Agile framework is a plus
+	- CV, ML, CNN, DNN, RNN, Linear Algebra, Pattern Recognition, DSA, OOPS,Model compression
+	- C++, MATALB, Python, TensorFlow Pytorch ,Cuda basic, ONNX,Keras
+	- Hands-on experience on NLP - NLTK,Padna ,spacy
+	- Hands-on experience of AWS (Amazon Web Services) & IoT (Internet of Things).
+	- Hands-on experience with Databases.
+	- Unity ,C#
++ Experience with related tools such as LSF/Slurm, high-performance storage arrays, ansible and VMware.
++ Automotive Software Performance Improvement and Capability dEtermination (ASPICE)
++ Experience in verification/validation using emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM.
++ Translation of network models in different ML frameworks to MLIR based graphs
++ Familiarity with Graph Compilers
++ Experience in or knowledge of MLIR flow, and in any MLIR optimizations.
++ skill set:
+	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize’s proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
+	- OpenVX Built-in kernel Development: The driver team also implements kernels using OpenCL C++ and Assembly language. This involves understanding/tweaking image-processing/CV/CNN algorithms for implementation most suited to our h/w architecture.
+	- OpenVX Application Development: The driver team also designs and writes a lot of sample applications for unit testing as well as POC of the features implemented, bugs fixed and performance improved.
+	- Tool Development: The driver team also writes tools relevant to its development and testing. The tools are developed using scripting languages etc. python, ruby or other prototyping languages.
+	- Proficiency in C/C++, OOPS, STL, Data Structures & Algorithms, Background in Graphics/Computer-Vision/Image-processing, OpenGL/OpenCL/OpenCV/CUDA, Device Driver Architecture, GPU Architecture, OpenCL C++ programming, Assembly programming.Key Skills/Abilities:C/C++ (Must): Required for design, implementation, unit testing, debugging of the driver and application code. Candidates should be well-versed in OOPS, polymorphism, STL, templates, design patterns, memory management etc.
+	- Having worked in embedded software development would be beneficial.Graphics, OpenGL, OpenCL, CV, CUDA, OpenCL C++, Assembly (highly sought after): Required for understanding h/w architecture, s/w design and architecture; Also required for writing the OpenVX built-in kernels, coming up with kernel algorithms, optimizations for driver implementation etc.
+	- Python/Shell/Ruby scripting: Required for writing scripts for automating application/test generation and execution. Also useful for automating other operations like code analysis, golden output generation etc.OpenGL, OpenCL, OpenCV, Graphics, Assembly - Any experience is welcome.
+	- C, C++, Data Structures, Algorithms & Graphic Libraries
++ skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION
+	- Research and develop state of art model compression techniques including model distillation, pruning, quantization, model binarization, and others for CNN, RNN, LSTM models.
+	- Implementing novel deep neural network architectures and develop advanced training algorithm to support model structure training, auto pruning and low-bit quantization.
+	- Apply and optimize model compression technique to variety of models in computer vision applications, audio applications, and others.
+	- Research and optimize model compression technique for Kneron CNN accelerator and jointly optimize hardware architecture for compressed model.  
+	- M.S./PhD in Computer Science, Machine Learning, Mathematics or similar field (Ph.D. is preferred)
+	- 3+ years of industry/academia experience with deep learning algorithm development and optimization.
+	- 3-5 years of software engineering experience in an academic or industrial setting.
+	- Holistic understanding of deep learning concepts, state of the art in model compression research and the mathematics of machine learning.  
+	- Solid understanding of CNN, RNN, LSTM, variety of training method, learning rate choice, hyper-parameter tuning.
+	- Research experience on any model compression technique including model distillation, pruning, quantization, model binarization.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Experience on hardware architecture design is a plus.  
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus.
+	- Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, is a strong plus.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set for SENIOR IMAGE AND VIDEO SIGNAL PROCESSING ENGINEER
+	- Develop advanced image processing and video processing algorithm for real product.
+	- Develop camera image processing pipeline from camera row data to optimized RGB including but not limited to noise reduction, interpolation, 3A, gamma correction.
+	- Develop fixed point image processing algorithm for hardware implementation.
+	- Research and develop advanced image processing algorithm such as noise cancellation, motion detection, edge detection.
+	- Research and develop advanced computer vision algorithm such as real-time robotic SLAM (Simultaneous Localization and Mapping) solutions including 3D sensing, position tracking, 3D mapping / reconstruction, and sensor fusion.
+	- Research and develop practical solutions for 3D scene understanding (e.g., object detection) using state-of-the-art deep learning (DL) and machine learning (ML) methods.
+	- M.S. in Electrical Engineering, Computer Science, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on image processing, signal processing, camera pipeline.
+	- Solid understanding on fixed point algorithm design.
+	- Understanding on 3D geometry such as SLAM, SfM, and 3D reconstruction is a big plus.
+	- Understanding and experience of applying deep learning to real problems in the fields of computer vision and robotics is a big plus.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in computer vision and deep learning frameworks is a big plus, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with image processing and camera pipeline algorithm development and optimization.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set for SENIOR AUDIO SIGNAL PROCESSING ENGINEER
+	- Develop advanced audio signal processing algorithm for real product.
+	- Develop audio signal processing pipeline from microphone digital row data to optimized audio signal including but not limited to noise reduction, beamforming, direction of arrival detection.
+	- Develop fixed point image processing algorithm for hardware implementation. Able to implement audio signal pipeline in embedded system.
+	- Apply deep learning technology to improve audio signal processing algorithm such as noise reduction.
+	- Resolve real product problems in variety of environments.
+	- M.S. in Electrical Engineering, Computer Science, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on audio signal processing, signal processing.
+	- Solid understanding on fixed point algorithm design.
+	- Real product experience on audio signal processing algorithm development.
+	- Strong experience in C/C++ programming.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with audio signal processing algorithm development and optimization.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – AUDIO APPLICATION AND NLP
+	- Implementing novel deep neural network architectures and learning techniques to solve a variety of audio related tasks and push the state of the art in performance.
+	- Research and develop advanced audio applications including speech recognition, voice recognition, voice wakeup using state of art deep learning algorithms.
+	- Research and develop advanced audio signal processing algorithms including noise cancellation, localization, acoustic detection, acoustic fingerprinting.
+	- Analyze and optimize audio signal processing and deep learning algorithms on mobile/embedded devices, e.g., using hardware acceleration such as GPU/DSP.
+	- M.S. in Computer Science, Machine Learning, Electrical Engineering, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on audio signal processing.  
+	- Solid understanding and experience of applying deep learning to real problems in the fields of voice recognition, speech recognition, and other audio related applications.
+	- Holistic understanding of deep learning concepts, state of the art in audio processing research and the mathematics of machine learning. Familiar with CNN, RNN, LSTM.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with deep learning algorithm development and optimization.
+	- Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus.
+	- Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, is a strong plus.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set for SENIOR SYSTEM/DSP ALGORITHM ARCHITECT
+	- We are looking for experienced system architect who can design algorithms for the whole system and product, optimize algorithm and system design with realist constraints, define system specification for Hardware and ASIC, define fixed point specification for algorithm and hardware.
+	- Investigate AI and deep learning algorithms and extract the computation and logic operations for hardware implementation.
+	- Define fixed point specification for hardware implementation while balancing the hardware cost and algorithm performance.
+	- Work together with hardware team and software team to define the hardware architecture for the chip and for the accelerator core.
+	- Work together with hardware team and algorithm team to define the system specification for the accelerator core including fixed point specifications.  
+	- Improve AI and deep learning algorithms considering fixed point process and hardware implementation.
+	- Develop a C/C++ based system simulator to model the behavior of the accelerator core. The system simulator and the hardware implementation should achieve bit true match.
+	- Drive the system level bit true match for hardware verification and provide test vectors.
+	- Drive system level chip debug and isolate the bug location.
+	- Drive technical debug and resolution of issues encountered at the complete system level. Propose creative workarounds and implement solutions to complex problems.
+	- Effectively present technical information to teams of engineers. Educate Field Application Engineers (FAEs) on new product features and operation
+	- Work with the Technical Publications group on engineering notes, data sheets, and architectural manuals
+	- Minimum 5 years industry experience with master’s degree in Electrical/Computer Engineering field or minimum 7 years industry experience with Bachelor’s Degree in Electrical Engineering/Computer Engineering
+	- Industry experience on fixed point algorithm design and system specification design such as digital communication systems are desired.
+	- Strong math skills and problem solving skills.
+	- Industry experience on SoC level system specification design such as software/hardware partition is preferred.
+	- Experience developing/debugging C/C++ based code is a must.
+	- Practical experience in system level debug
+	- Excellent problem solving skills
+	- Ability to work independently with little or no supervision under tight schedules
+	- Ability to quickly learn new technologies
+	- Strong communication skills, including verbal, presentation, and documentation
+	- Excellent teamwork skills
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set for SENIOR LEVEL FPGA/DSP DEVELOPER
+	- Develop FPGA implementation of Neural-network Processing Unit (NPU) for functional demonstration, digital front-end design verification and debugging purposes
+	- Develop testbench for FPGA NPU hardware, DSP hardware, compiler, and firmware interfaces
+	- Design, implement, test, integrate heterogeneous computing sub-subsystems with co-existence environment of NPU accelerator and Digital-Signal-Processor(DSP)
+	- Test and verify multiple input data path on FPGA/DSP platform, including video stream input from cameras, and audio stream input from microphones
+	- Perform multiple application-level neural-network models on FPGA/DSP platform, such as face detection/recognition, gesture detection/recognition, voice recognition, human body/position detection. demonstration etc.
+	- Co-work with firmware, compiler, and model training team to optimize NPU/DSP hardware performance
+	- Experience of FPGA and Verilog development
+	- Experience of Software and driver development on SoC FPGA environment
+	- RTL block-level and system-level debugging experience
+	- Minimum 3 years industry experience with Master’s Degree in Electrical/Computer Engineering field
+	- Ability to work independently with little or no supervision under tight schedules;
+	- Ability to quickly learn new technologies
+	- Strong communication skills, including verbal, presentation, and documentation
+	- Knowledge of ARM architecture and firmware programming
+	- Experience of Xilinx Zynq platform;
+	- Experience of computer vision and audio signal processing 
+	- Location: San Diego, CA.
++ skill set for DEEP LEARNING ALGORITHM INTERN
+	- Development the deep machine learning models covers computer vision and NLP applications
+	- Software performance bottleneck analysis in CNN/RNN/LSTM architectures and design
+	- Development of AI profiling tools for neural processor engines to optimize the entire deep neural network architectures
+	- Robust learning through minimal data, unsupervised learning, and on-device learning
+	- Basic knowledge of leading edge neural network models from TensorFlow/Tlite, Keras, Caffe/Caffe2
+	- Bachelor’s degree/Master’s degree. in Computer Science, Machine Learning, Mathematics, robotics, or similar field (Master’s degree is preferred)
+	- 1+ years of industry/academia experience with deep learning algorithm development and optimization.
+	- Experience in deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL)
+	- Experience with classification and regression algorithms (e.g. SVM, MLP)
+	- 2-3 years of software engineering experience in an academic or industrial setting.
+	- Excellent Python, C++, and object-oriented programming skills demonstrated through relevant industry experience
+	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV,Tensorflow,Keras,Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Location: San Diego, CA.
++ skill set for SOFTWARE ENGINEER (INTERN)—DEEP LEARNING/MACHINE LEARNING /COMPUTER VISION
+	- Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.
+	- Development of AI profiling tools for neural processor engines to optimize the deep neural network architectures
+	- Bachelor's /Master’s degree. in Computer Science, Machine Learning, or similar field (Master’s degree is preferred)
+	- Basic knowledge on object-oriented software design skills
+	- Software engineering experience in an academic or industrial setting.
+	- Experience with Python, C++/C, and object-oriented programming skills demonstrated through relevant industry experience.
+	- Hands-on experience running machine learning toolkits such Caffe/Caffe2, PyTorch, and TensorFlow 
+	- Basic knowledge of machine learning concepts, algorithms and architectures, including CNNs, LSTM-RNNs, etc
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Location: San Diego, CA.
++ skill set for SOFTWARE ENGINEER
+	- A Software Engineer is sought by a company providing custom Deep Learning software for image and video analytics in San Diego, CA to perform the following duties:·
+	- Design neural network structures optimized for mobile and edge hardware.·
+	- Develop and Design Face Recognition Platform including model training for face detection, alignment, and feature extraction.·
+	- Implement novel deep neural network architectures and learning techniques to solve a variety of computer vision tasks and push the State of Art in performance.·
+	- Build and maintain the infrastructure for training and deploying models, including massive data pipelines, experiment management platform, and visualization tools, etc.·
+	- Integrate model components with the product stack.·
+	- Research and develop State of Art model compression techniques including model distillation, pruning, quantization, model binarization, and others for CNN, RNN, and LSTM models.·
+	- Implement novel deep neural network architectures and develop advanced training algorithms to support model structure training, auto applications, and others.·
+	- Research and optimize model compression techniques for CNN accelerator and jointly optimize hardware architecture for compressed models.·
+	- Develop a deep learning compiler stack that interfaces frameworks such as TensorFlow, CAFFE2, and KERAS, etc.· Convert neural nets (CNN/RNN) into internal representations suitable for optimization.
+	- Must have a Master’s Degree in Computer or Computational Science.·
+	- Proficient in C, C++/STL, PYTHON, MATLAB, JAVA Programming.·
+	- Knowledge in compute algorithms and data structure.·
+	- Familiar with software development process.
+	- Note: This is a full-time position.
+	- Location: San Diego, CA.
++ skill set for SOFTWARE RESEARCH ENGINEER (SAN DIEGO, CA)
+	- A Software Research Engineer is sought by a company providing custom Deep Learning software for image and video analytics in San Diego, CA to perform the following duties:· 
+	- Design software architecture to improve software data training and machine learning framework;· 
+	- Examine current state-of-the-art AI systems and investigate new approaches and methods to increase the speed of software solutions;· 
+	- Investigate the quality of database elements/data editing and research new validation methods and procedures;· 
+	- Investigate systems and software issues affecting company’s research efforts and investigate possible solutions;· 
+	- Examine current research database and explore new ways to modify, test, verify, and analyze category and pre-processing of image data labeling;· 
+	- Prepare research manuscripts and presentations based on the company’s research discoveries;· 
+	- Examine current performance measures and investigate new, more effective methods to evaluate energy efficiency, and time and space complexity of algorithms;· 
+	- Design and conduct tests to troubleshoot and validate software for performance, reliability, and robustness; and· 
+	- Design key performance testing models and procedures to measure the efficiency and accuracy of new and existing software.
+	- Must have a master’s degree in computer engineering.
+	- Location: San Diego, CA.
 
 
 
