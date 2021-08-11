@@ -1320,10 +1320,74 @@
 		* Build a CLI tool that runs our development environment and allows engineers to register required or optional services without modifying the CLI source code.
 		* Reduce our CI build time by parallelizing tests and other processes using services like GitHub Actions.
 + Experience with Hive, R, and Python preferred
-
-
-
-
++ familiarity with WGL and STIl formats for test vectors
++ Responsible for Lead layout design and manage delivery of high frequency mixed signal blocks/IPs : DLL, PLL, HBMIO, Clktree, VCDL and DCC
++ skill set:
+	- Develop Verilog RTL code based on design specification
+	- Write test-bench for RTL verification in Verilog and System Verilog
+	- Design validation in FPGA and Silicon
+	- Develop compact, low-power digital blocks for (1) Quantum Control ASIC (2) high-speed memory controller for arbitrary waveform generator and (3) Quantum Error Correction accelerator using Surface Code.
+	- Perform logic synthesis, research power and performance trade-offs, and perform digital design back-end floor planning, clock-tree synthesis, timing closure and post-layout simulation of various digital and mixed-signal blocks/systems.
+	- Work with a cross-functional engineering team to perform algorithm/firmware/hardware co-design & co-optimization to achieve trade-offs among performance, cost and power.
+	- Perform hands-on innovative measurements of electrical components, hardware, and cryogenic systems
+	- Manage project documentation, test-board designs and laboratory testing
+	- Publish in top-tier conferences and journals in the area of Solid-state circuits, circuits and systems and quantum engineering.
+	- PhD in Electrical Engineering, Computer Engineering, or related field
+	- Minimum 2-4 years of experience
+	- Strong background and experience in digital back-end flow.
+	- Good experience in algorithm-circuit co-optimization
+	- Strong expertise in low power MCU and digital circuit design.
+	- Knowledge of readout integrated circuits for radiation sensors, including signal processing, signal filtering, signal conversion, data transmission, high speed electronics
+	- Strong team work ethic and good interpersonal skills
++ skill set:
+	- Develop compact, low-power digital blocks such as Memory, Router, Controller, Scheduler, PE, AES, FFT, etc which are frequency used in various complex computing architecture such as In-memory computing, Deep Learning Hardware and Neuromorphic computing
+	- Responsible for back-end floor planning, clock-tree synthesis, timing closure and post-layout simulation of various digital and mixed-signal blocks/systems.
+	- Work with a cross-functional engineering team to perform algorithm/firmware/hardware co-design & co-optimization to achieve trade-offs among performance, cost and power, for various Artificial Intelligence (AI) related platform development, especially analog computing.
+	- Perform simulation and verification of the corresponding circuit/blocks.
+	- PhD in Electrical Engineering, Computer Engineering, or related field
+	- Strong expertise in low power digital circuit design.
+	- Strong background and experience in digital back-end flow.
+	- Solid background in memory design, memory layout and memory testing
+	- Strong team work ethic and good interpersonal skills
++ skill set:
+	- Research Engineer / Senior Research Engineer (Advanced packaging design flow, PDK and DTCO)
+	- Develop Process Design Kit for IME’s advanced packaging line with state-of-the-art Interposer, high density fanout , chip on wafer technologies 
+	- Develop parameterised cells, surrogate models, statistical models for various building block cells within PDK.
+	- Develop essential scripts, automation, parsers needed for realising CAD flows with commercial EDA tools.
+	- Develop QA strategies with defining test structures, CD, Design-of-Experiments to generate essential measurement data for PDK recalibration. 
+	- Realise hybrid CAD flows using multi physics EDA tools and data exchange. 
+	- Sole owner of advanced package PDK baseline and its derivatives. 
+	- Support SiP design and technology co-optimization flow with nessasary automation and modelling
+	- Bachelor or Master’s Degree in Electronics / Computer Engineering or applied computer engineering streams
+	- Min 2 years of Experience in development, deployment of CMOS based PDK, with various front, back end EDA tools and design flows.
+	- Experience in developing machine learning/AI algorithms for clustering, regression, timeseries, multi modal data, optimization is a plus.
+	- Able to work both independently and as a team when required
++ skill set:
+	- Able to hands-on and performing necessary measurement and data collection.
+	- Able to work with unstructured data. Perform data cleaning, processing of structured and unstructured data
+	- Able to visualize data with the aid of data visualization tools such as Tableau, JMP
+	- Building predictive models and machine-learning algorithms
+	- Work with team to provide quality data and perform data analysis in addressing operations issue and problem solving
+	- Degree in Computer Science, Engineering,  Data Science or other quantitative field is preferred
+	- Preferable to have experience in data mining and machine learning areas and techniques, neural networks, reinforcement learning, adversarial learning
+	- Familiar with programming languages such as SQL, database, R and Python coding
+	- Experience in Semiconductor Defect and Yield management will be a plus
+	- Ability to work independently and team player to deliver in fast paced and collaborative environment
++ skill set:
+	- Interface between semiconductor foundries and internal design team.
+	- PDKs installation, libraries setup and IP control.
+	- Provide day to day tools troubleshooting and technical support to IC design and Tapeout activities.
+	- Bachelor / Master Degree in E.E. Engineering,
+     Microelectronics, Computer or equivalent.
+	- Candidate should have basic IC design knowledge
+	- Familiarity with PDK component including TECHLIB/DRC/LVS/PEX/Device Library is an added value.
+	- Conversant in several of the following areas:
+	- EDA tools (Cadence, Mentors etc.) such as design simulation, physical design and verification.
+	- Scripting knowledge in SHELL, PERL, TCL, SKILL, Python would be an advantage.
+	- Linux/Unix environment.
+	- Exposure to various semiconductor process technologies
+	- Good interpersonal skill, tactful, resourceful, possess initiative.
+	- Strong written and oral communications.
 
 
 
