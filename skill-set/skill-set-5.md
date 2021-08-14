@@ -1388,8 +1388,66 @@
 	- Exposure to various semiconductor process technologies
 	- Good interpersonal skill, tactful, resourceful, possess initiative.
 	- Strong written and oral communications.
-
-
++ skill set:
+	- What You’ll Do:
+		* Be a key member of the Anaconda Enterprise team
+		* Attend daily SCRUM meetings, sprint demos, etc.
+		* Work with other teams to coordinate joint deliverables 
+		* Work with QA team to ensure highest level of product quality
+		* Create and maintain software documentation
+	- What You Need:
+		* 5 years minimum in a System Engineering or Backend Engineering role
+		* Deep Linux system administrator knowledge
+		* Deep understanding of core AWS services (IAM, EC2, VPC, EKS)
+			+ Experience with IaC tools (Terraform, Ansible, Packer)
+		* GitOps mindset with a desire to automate everything
+		* Experience with IaC tools (Terraform, Ansible)
+			+ Experience with IaC tools (Terraform, Ansible, Packer)
+		* Experience with Kubernetes templating (Helm, Kustomize)
+			+ Kubernetes experience (EKS preferred)
+			+ Familiarity with CNCF ecosystem and its projects
+		* Production Kubernetes experience (GKE, EKS, OpenShift)
+		* Experience building and managing CI/CD pipelines (Jenkins, GitHub Actions)
+		* Production experience with Envoy and Kubernetes service meshes (Istio)
+	- What Will Make You Stand Out:
+		* Relevant programming experience with Python or Go
+		* Experience working in a fast-paced startup environment
+		* Experience running Hashicorp Vault in production
+		* Experience with GitOps tools like ArgoCD
+		* Experience working in a open source or data science-oriented company
++ skll set for UI engineer:
+	- What You’ll Do:
+		* Be a key member of the Anaconda Nucleus team that helps drive clarity and alignment across the team
+		* You take ownership of team process inefficiencies, implement cross team efforts in ensuring things are running smoothly
+		* You create and implement new processes that add to the team and/or department’s success
+		* You design solutions for large sized complex problems in such a way that is simple and easy to understand by others inside and outside the department
+		* Attend daily SCRUM meetings, sprint demos, etc.
+		* Work with other teams to coordinate joint deliverables
+		* Work with QA team to ensure highest level of product quality
+		* Create and maintain software documentation
+		* Review PRs, contribute in engineering discussions, and 
+		* Mentors other developers on best practices
+	- What You Need:
+		* Typically 10+ years of enterprise software application development experience
+		* A solid understanding of how web applications work including REST APIs and best development practices
+		* Hands on experience working on software that is in production 
+		* Hands on experience using  ES6 and typescript  (Angular 2+ and/ or React)
+		* Hands-on experience with CSS using SASS/SCSS (preferably within Bootstrap)
+		* Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+		* BS in computer science or relevant experience
+	- What Will Make You Stand Out:
+		* Hands on experience working on a SaaS, e-commerce application
+		* Startup Experience
+		* Hands-on experience with Bootstrap (preferred)
+		* UI/UX design experience
+		* Experience with state management” such as NgRX and Redux
+		* Hands-on experience with web visualization frameworks such as D3
+		* Hands-on experience with Python (or other full-stack experience)
+		* Experience mentoring others
++ Direct experience with building PQLs, online conversion, and/or freemium business models
++ skill set:
+	- Experience Administering Okta 
+	- Seasoned Experience with Systems Management Tools such as (meraki systems manager, jamf, kandji, etc.)
 
 
 
