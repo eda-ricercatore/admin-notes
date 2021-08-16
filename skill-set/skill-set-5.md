@@ -1448,10 +1448,26 @@
 + skill set:
 	- Experience Administering Okta 
 	- Seasoned Experience with Systems Management Tools such as (meraki systems manager, jamf, kandji, etc.)
-
-
-
-
++ Graphics programming (OpenGL, Metal, Vulkan, WebGL, WebGPU).
++ Location technologies (maps, GIS).
++ skill set:
+	- Joining us as a Data Engineer, you'll play a key role in one of the aspects of developing software/tech for best in class road features, navigation, and high definition maps. You'll bring your experience and skills to our exciting project within a competent, cross-functional, passionate and self-organized team.
+	- Take ownership, improve, scale and iterate on existing data processing pipelines
+	- Design and implement new data processing pipelines;
+	- Collect and monitor performance metrics;
+	- Play a central role in discussing and implementing security best practices.
+	- Good knowledge of at least one programming language (Python, Scala, Java);
+	- Comfortable with SQL, good understanding of SQL engine basics;
+	- Proficient understanding of distributed computing principles;
+	- Hands-on experience with Spark / PySpark;
+	- Experience with Hadoop (or similar) Ecosystem;
+	- Experience with workflow management tools (Airflow, Oozie, Luigi);
+	- Experience with AWS services, in particular S3, EC2, IAM, EMR, Glue, Athena, Kinesis;
+	- Creative, resourceful and innovative problem solver;
+	- Excellent team player with the ability to work within a collaborative environment;
+	- Good communication skills in English, both written and spoken.
++ Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
++ Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
 
 
 
