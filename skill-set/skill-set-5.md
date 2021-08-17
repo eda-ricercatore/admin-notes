@@ -1468,6 +1468,8 @@
 	- Good communication skills in English, both written and spoken.
 + Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
 + Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
++ Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
++ Experience developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault
 
 
 
