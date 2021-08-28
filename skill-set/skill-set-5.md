@@ -1470,13 +1470,151 @@
 + Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
 + Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
 + Experience developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault
-
-
-
-
-
-
-
++ skill set:
+	- The Eon Data Analyst is responsible for the planning, execution and closure of all assigned deliverables. The Data Analyst will work to accomplish both software implementation as well as support efforts. The Data Analyst will be responsible for a wide range of both technical and customer facing tasks, however the end state of every transaction should be overall customer satisfaction.
+	- Primary Responsibilities:
+		* Manage all assigned tasks to ensure on time delivery and complete execution.
+		* Foster quality relationships with customer contacts (end user, technical, support etc) as well as internal resources to ensure efficient and complete delivery of assigned tasks.
+		* Must adopt a customer centric approach to all assigned tasks, ensuring the end state of every effort is a satisfied customer.
+		* Participate in and contribute to all necessary implementation, support, process improvement and team meetings to ensure every opportunity for coordination is leveraged and all necessary communication is made.
+		* Ensure all customer sourced issues are routed via the proper process in a timely manner with complete information ensuring a positive outcome for the customer.
+		* Ensure all assigned implementation tasks are executed completely within the assigned time frame.
+		* Own all HL7 data mapping efforts and processes ensuring that all implementations are delivered on time.
+		* Own coordination and communication with customer resources in regard to all implementation deliverables as well as customer sourced issues.
+		* Ensure responsive communications via any necessary means ie Intercom, JIRA and email.
+		* Responsible for advocating for the customer in the overall implementation and issue resolution processes.
+		* Develop and monitor/control a detailed plan for assigned efforts ensuring a critical path to delivery whenever possible.
+		* Report and escalate to management as needed.
+		* Perform all other duties as assigned.
+	- Qualifications and Experience
+		* Bachelor’s Degree Required
+		* Healthcare experience preferred
+		* 1 year of experience working in data mapping preferred
+		* Outstanding interpersonal skills are preferred
+	- Primary Performance Measurables
+		* Customer satisfaction scores averaging above 90%
+		* Issue resolution averaging less than 5 days
+		* Time to value of all implementation is averaging 70 days or less
++ skill set:
+	- This is an opportunity to join the innovation division of EON, a leader in the healthcare patient management space, and expand our Computational Linguistics and Machine Learning capabilities. You will work with our Data Science, Engineering and Product teams to develop product features based on Computational Linguistics and Machine Learning technologies, ensuring that these new features address customer needs.
+	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people’s lives.
+	- In this role, you will apply Computational Linguistics and Machine Learning to create systems that innovate healthcare products at scale. In addition to a world-class data set, you’ll also have access to domain experts for annotations to help drive investigation and learning.
+	- Proficiency in Python and SQL
+	- Experience in one or more of the following languages: C++, Java, C#
+	- Working knowledge of Unix commands and good security practices
+	- Experience using Machine Learning frameworks such as TensorFlow, Keras, PyTorch, scikit-learn
+	- Experience in developing and validating Computational Linguistics models
+	- Experience with spaCy is a huge plus
+	- Experience in constructing and executing queries to extract data for exploratory data analysis and model development
+	- Experience performing training/testing/validation dataset construction
+	- Experience with supervised and unsupervised Machine Learning techniques and methods
+	- Deep understanding of CL fundamental concepts and models, such as language modeling, word embeddings, topic modeling, text categorisation, information extraction, natural language understanding, transfer learning
+	- Familiarity with knowledge representation, automated knowledge acquisition, and reasoning
+	- Deep understanding and experience in applying ML algorithms, such as Logistic Regression, Decision Trees, SVM, Naive Bayes, kNN, Random Forests, Dimensionality Reduction Algorithms, K-means clustering, etc.
+	- Understanding and experience with Deep Learning algorithms
+	- Experience with AWS
+	- Experience with Elasticsearch
+	- Experience with graph databases, ideally Neo4j
+	- Solid knowledge of Data Structures and Algorithms, including algorithm complexity
+	- Experience with visualisation libraries such as Matplotlib, ggplot, etc.
+	- Problem-solving, debugging, troubleshooting, designing, and implementing solutions to complex technical issues
+	- Knowledge of advanced software engineering practices including Agile techniques
+	- Proven record of writing robust, clean, and understandable code
+	- Ability to take ownership of a task and ensure its successful completion
+	- Graduate degree (or equivalent experience) in Computer Science, Machine Learning or other quantitative fields
+	- 7+ years of experience in developing and implementation of quantitative models
+	- 3+ years of experience in managing people and projects
+	- Working experience in a healthcare environment, with a healthcare software vendor, or in a public health setting
+	- Expertise in Natural Language Processing (NLP) in the clinical or biomedical domain
+	- Experience in developing CL models using spaCy
+	- Experience in training custom spaCy models is a huge plus
++ skill set:
+	- Because Quora is such a data-driven company, our data scientists play a central role in the product development process by uncovering key insights from our data. As a data scientist, you'll work closely with engineers, product designers, and product managers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems. You'll also develop tools and infrastructure to scale and automate the analyses that enable rapid product iteration. Quora has a wide range of rich data, giving you ample room for exploration and creativity. We use a variety of tools -- primarily Python and SQL--to analyze data and communicate results with the rest of the company.
+	- A Quora internship is not an ordinary internship. There is no busy work. Every project that our interns work on is important to the company and its goals. As a team, we are dedicated to holding high standards, developing a strong and passionate culture, and emphasizing impact. Interns play an important role in this, as they work alongside full-time employees as equals, working on the same projects that help drive the company and product forward. We expect interns to become valuable contributors to the team, as they work hand-in-hand with people ranging from engineering to design to business development.
+	- We also realize that mentorship is important to allow interns to grow and develop skills in areas which they're looking to improve. Every intern will have a full-time data scientist as a mentor and weekly 1:1s with their managers to get feedback and ensure things are going well.
+	- To give you a taste of what interns can do at Quora, here are some projects that data science interns have worked on in the past:
+		* Analyze external traffic patterns over time to better understand how changes in outside products cause increases or decreases in visits to Quora
+		* Study the usage differences between the English and Spanish Quora products to understand how various mechanics of Quora translate across different languages
+		* Develop methodology and prototype features in our internal experimentation platform to identify and capture novelty effects in experiments
+		* Investigate the effect of how “satisfying” a question page is on user engagement and clickthrough patterns through the rest of the product
+		* Understand effects of positional bias on home feed ranking to identify opportunities to improve ranking and feed engagement
+		* Improve the accuracy of a user engagement prediction model and understand what factors are important in determining new users' long term usage.
+		* Build a recommender system to suggest Quora topics to a user based on provided interests
+		* Evaluate statistical properties of various methods used to determine significance in ratio metrics, considering coverage, power, and feasibility
+		* Create dashboards and perform ad-hoc analyses to monitor and understand important product metrics
+	- Responsibilities:
+		* Extract actionable insights from broad, open-ended questions to influence product strategy and drive roadmap decisions
+		* Analyze data to understand the root causes of metric movements and uncover growth opportunities
+		* Design and evaluate A/B tests to make informed recommendations on product changes
+		* Develop metrics and create dashboards to orient the direction of product development and track the success of the product
+	- Minimum Qualifications:
+		* Third year undergraduate student or final year master or Ph.D. in a scientific or quantitative field
+		* Proficiency in using SQL and procedural programming languages (e.g. Python, R) to manipulate and analyze data
+		* Rigorous coursework in statistical techniques (e.g. hypothesis testing, regression)
+		* Demonstrated ability to exercise judgment and combine quantitative skills with product judgment to translate numbers into insights
+		* Demonstrated ability to clearly explain data results to cross-functional teams
+	- Preferred Qualifications:
+		* Relevant past internship or research experience working with large data sets and experiments
+		* Experience in working with large data sets and distributed computing tools (Hive, Redshift)
+		* Experience pushing code and navigating a complex codebase
+		* Active Quora user with curiosity about the product
++ skill set:
+	- Because Quora is such a data-driven company, our data scientists play a central role in the product development process by uncovering key insights from our data. As a data scientist, you'll work closely with engineers, product designers, and product managers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems. You'll also develop tools and infrastructure to scale and automate the analyses that enable rapid product iteration. Quora has a wide range of rich data, giving you ample room for exploration and creativity. We use a variety of tools -- primarily Python and SQL — to analyze data and communicate results with the rest of the company.
+	- While Quora's data scientists come from a variety of backgrounds, including statistics, computer science, economics, physics, mathematics, sociology, chemical engineering, and so on, we all share a love for data and continuous learning. Especially in your first role post-graduation, we realize that mentorship is important for professional growth and development. Every data scientist has a mentor and weekly 1:1s with their managers to get feedback and support for your career growth.
+	- To give you a taste of what data scientists at Quora do, here are some example projects:
+		* Analyze traffic patterns to similar questions and understand the metric implications of duplicate questions
+		* Forecast growth trajectory of Quora in different languages and identify growth bottlenecks and drivers
+		* Evaluate long term effects of a ranking algorithm change beyond short term metric gains as shown in experiments
+		* Devise metrics and build dashboards to measure the success of a new product feature or initiative
+		* Explain suspicious metric spikes as measured by dashboards and A/B tests
+		* Make trade-off and recommend product decisions when a key metric improves but another one drops in an A/B test
+	- Responsibilities:
+		* Extract actionable insights from broad, open-ended questions to influence product strategy and drive roadmap decisions
+		* Analyze data to understand the root causes of metric movements and uncover growth opportunities
+		* Design and evaluate A/B tests to make informed recommendations on product changes
+		* Develop metrics and create dashboards to orient the direction of product development and track the success of the product
+	- Minimum Qualifications:
+		* B.S., M.S., or Ph.D. in a scientific or quantitative field
+		* Proficiency in using SQL and procedural programming languages (e.g. Python, R) to manipulate and analyze data
+		* Rigorous coursework in statistical techniques (e.g. hypothesis testing, regression)
+		* Relevant past internship or research experience working with large data sets and experiments
+		* Demonstrated ability to exercise judgment and combine quantitative skills with product judgment to translate numbers into insights
+		* Demonstrated ability to clearly explain data results to cross-functional teams
+	- Preferred Qualifications:
+		* Experience in working with large data sets and distributed computing tools (Hive, Redshift)
+		* Experience pushing code and navigating a complex codebase
+		* Active Quora user with curiosity about the product
++ Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
++ skill set:
+	- As a data scientist at Quora, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
+	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- Extract actionable insights from broad, open-ended questions
+	- Create, design, and evaluate experiments to measure the impact of product changes
+	- Analyze data from across the product to uncover the root causes of metric movements
+	- Communicate data-driven results to cross-functional stakeholders to inform product decisions
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Improve the work of other data scientists through mentorship and by bringing industry best practices to the team
+	- Ability to be available for meetings and impromptu communication during Quora's "coordination hours" (Mon-Fri: 9am-3pm Pacific Time).  Learn why here
+	- 5+ years work experience in an analytical or quantitative role as a Data Scientist or similar title
+	- 3+ years experience working on product analytics
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora user with curiosity about the product
++ Familiarity with Python, React, GraphQL, and MySQL or similar relational databases
++ Familiarity with Python, React, GraphQL and online storage systems such as MySQL or MyRocks
++ skill set:
+	- Familiarity in data storage (e.g. MySQL, MyRocks, HBase, Memcached, Redis, etc), traffic handling (e.g. DNS, CDN, load balancing, etc) or infrastructure orchestration (Ansible, terraform, docker, Kubernetes, etc)
+	- Familiarity with AWS services (e.g. EC2, S3) or other public cloud services.
+	- Operational experience in database systems e.g. MySQL, Memcache, Redis and NoSQL systems
+	- Operational experience with Linux operating system internals, filesystems, disk/storage technologies and networking
+	- Experience with scripting languages (e.g. shell script)
+	- Experience with capacity planning for web scale systems
++ Develop full-stack web applications with Python, TypeScript, React, GraphQL, etc.
 
 
 
