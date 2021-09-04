@@ -1615,9 +1615,64 @@
 	- Experience with scripting languages (e.g. shell script)
 	- Experience with capacity planning for web scale systems
 + Develop full-stack web applications with Python, TypeScript, React, GraphQL, etc.
-
-
-
++ skill set:
+	- You will be working on cutting edge problems in Deep Learning for Deeplite optimization software stack.
+	- Work on architecture-specific neural network optimization algorithms for high performance computing.
+	- Design and develop a lightweight and high-performance inference engine for CPUs and microcontrollers.
+	- In this role you will have opportunity to develop an inference engine running on many devices.
+	- Bachelors, Masters or Ph.D. or equivalent in Computer Science, Computer Engineering, or related field.
+	- 4+ years of relevant work or research experience in high performance computing and compiler optimizations.
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+	- Excellent Python skills, and a dedication to writing clean, understandable, testable code with an eye towards maintainability.
+	- Experience with optimizing compiler, programming low-level hardware and microcontrollers.
+	- Development or research experience in a production compiler (preferably LLVM or [TVM/Apache TVM](https://tvm.apache.org/))
+	- Familiarity with ARM, RISC-V and/or x86 architectures is highly preferred
+	- Experience with deep learning runtime frameworks such as ARM-NN, CMSIS-NN, TensorRT, XLA, ONNX Runtime, OpenCL, MLIR is a huge plus
++ skill set:
+	- Post-secondary education in a related field.
+	- Must have at least 1 year of experience with Deep Learning frameworks like PyTorch or TensorFlow.
+	- Must have at least 1-3 years of experience with C/C++, Python coding or other high-level languages.
+	- A strong publication record or alternative relevant innovation experience.
+	- As an intern, you will be tasked to advance the science and technology of Deeplite's engine. You'll interact with both leading academics and industry to create new advancements in the field of deep learning alongside top academic partners, and you'll have the opportunity to define and lead research directions and contribute to the AI research community by publishing papers, securing patents, collaborating with leading academic institutions, and speak and participate at international conferences.
++ skill set:
+	- Deeplite’s revolutionary platform “Neutrino” is being used and/or evaluated by many customers, including top consumer and automotive OEMs, semiconductor companies and computer vision pioneers, globally. As a member of the customer success team, you will be the bridge between our product team and our customers to enable them to optimize and run their Artificial Intelligence (AI) solutions on eco-friendly, small footprint devices for everyday use. 
+	- In this role, you will act as an external champion of our platform and work closely with our customers to solve issues and/or educate them to speed up their projects. You will also get an opportunity to work on development of faster & smaller models for small footprint devices.
+	- Undergraduate in Computer Science or related field (master's degree is a plus). 
+	- More than 2 years' experience with the following skills 
+	- Hands on experience with Deep Learning frameworks like PyTorch, TensorFlow.
+	- Proficiency in programming languages like Python and C/C++
+	- Fundamentals of deep learning (CNN)
+	- Experience with runtime environments (OpenVINO, ONNX runtime, TVM etc.) would be a huge plus.  
+	- Experience with deep learning model compression, speedup related project is a huge plus 
+	- Experience building systems based on machine learning and/or deep learning (Experience with embedded boards is a plus) 
+	- Customer facing skills. 
+	- 2 years of industry experience working with clients for technical collaboration.
+	- Willingness to work on multiple projects concurrently.
+	- Opportunity to advance state-of-the-art software in the fields of DNN model compression, AutoML, Neural Architecture Search (NAS) and more!
++ skill set:
+	- Our platform is in the development phase, and we’re implementing academic works and our patent portfolio into our technology. In this role, you will be immersed in core concepts of deep neural networks and their low-level implementations, closely follow academic works in the field of deep learning and collaborate and increase productivity on existing research projects.
+	- Post-secondary education in a related field.
+	- Strong working knowledge of deep learning, and experience utilizing theoretical and empirical research to solve real-world problems.
+	- Must have at least 1 year of experience with Deep Learning frameworks like PyTorch or TensorFlow.
+	- Must have at least 3 years of industry experience with C/C++, Python coding or other high-level languages.
+	- Experience building systems based on machine learning and/or deep learning.
+	- An understanding of low-level implementation of neural networks.
++ Have a thirst for technical challenges with big data and distributed systems, including HBase, Kafka, Elasticsearch and Dropwizard
++ skill set:
+	- The HubSpot Infrastructure Security team is responsible for security, privacy, and compliance for HubSpot’s Cloud-based Infrastructure. Broadly, our mission is to provide world-class infrastructure as a service that empowers the product team to build, operate, and scale HubSpot’s products in a secure way. We solve technical and security challenges in a way that keeps HubSpot fast and lean, making the best and easiest solution also the most secure one. 
+	- We’re looking for software engineers who are excited by the challenges that come from working at scale and are passionate about improving the reliability and uptime of the product they own. We favor forward-thinking engineers who can identify and remediate problems before they happen, and understand how to build platforms that support security and privacy for our customers and are intuitive to use, highly performant, and extremely reliable. 
+	- Experience working with at least one programming language (Java, C#, Python etc)
+	- Knowledge of public cloud infrastructure (AWS, GCP, Azure)
+	- Basic understanding of secure development practices, public cloud, network, or host security
+	- Familiarity with common attack vectors
+	- Fascinated by the complex issues that arise as a result of operating large-scale systems
+	- Far happier writing software to automate solutions to problems instead of manually pushing buttons
++ Knowledge of machine learning frameworks such as scikit-learn, SparkML, or Tensorflow.
++ Experience with unit testing, and performance benchmarking and tuning.
++ Knowledge and/or experience with Splunk products, AWS, Docker, K8, Ansible, CICD
++ You have familiarity with any query language like SQL, SPL etc.
++ Bonus: experience with Kubernetes, Terraform, AWS, Puppet.
++ Splunk is looking for a Software Engineer to join the Data Federation engineering team and have a large impact on a team responsible for building ***Federated Search*** capabilities
 
 
 
