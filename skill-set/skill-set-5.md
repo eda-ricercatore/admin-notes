@@ -1673,8 +1673,21 @@
 + You have familiarity with any query language like SQL, SPL etc.
 + Bonus: experience with Kubernetes, Terraform, AWS, Puppet.
 + Splunk is looking for a Software Engineer to join the Data Federation engineering team and have a large impact on a team responsible for building ***Federated Search*** capabilities
-
-
++ Working knowledge of AXI, AHB, PCIe, CXL, Ethernet, DDR, or HBM
++ skill set:
+	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
+	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
+	- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM.
+	- Compilers such as TVM, Glow, Halide, CLANG, LLVM, and GCC.
++ Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers. 
++ skill set:
+	- managed, maintained, and monitored systems, using:
+		* Amazon Web Services
+		* Datadog
+		* Postgres
+		* Redis
+		* Memcached
+		* Elasticsearch
 
 
 
