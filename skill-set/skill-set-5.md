@@ -1688,6 +1688,584 @@
 		* Redis
 		* Memcached
 		* Elasticsearch
++ Experienced with Glow/TVM/NVM/TensorRT/Tensorflow compiler portion is plus
++ skill set:
+	- Work as system level architect for software architecture and software design.
+	- Collaborate with SoC design team, IP providers, and 3rd party software partners to define software requirements, architectures, and interfaces.
+	- Provide insightful recommendations for the directions and roadmaps of technologies & software products.
+	- MS degree or PhD in CS, EE, or other related engineering majors with 10+ years of experience.
+	- Semi-conductor industry background with in-depth knowledge of ARM architecture, heterogeneous CPU, and multi-core communications.
+	- Experience leading team developing large-scale SDK or application software for complex SoC.
+	- Expertise in video, audio, DSP, firmware, and embedded system.
+	- Experience in V4L2, ALSA, OpenMax, G-Streamer, or FFMPEG, etc.
+	- Knowledge of deep learning framework such as Tensorflow, Caffe, etc.
+	- knowledge of object detection systems (YOLO) and object recognitions (FaceNet).
+	- Strong experience in software architecture, design, and design methodology such as UML.
+	- Strong expertise in embedded Linux, device drivers, C programming.
+	- Fluent in English is a-must (reading, writing, AND speaking). 
+	- Background in video codec (H.264/H.265), audio codec and speech DSP processing
+	- Knowledge of Open CV, or embedded computer vison (OpenVX), and ISP, etc.
++ skill set:
+	- Solid Exeprience in image processing pipeline algorithm for video and still camera applications, including Bad Pixel Correction, Demosaicing, Denoise, Edge Enhancement etc.
+	- Knowledge and experience in ISP new features, including HDR, RGBW/RGBIR, or related
++ skill set:
+	- Broad understanding to computer security and crypto algorithms like AES/SHA/RSA/ECC
+	- Familiar with Tilelink/AMBA/AXI bus protocol
++ skill set:
+	- Experience in ISP driver, or V4L2 is strongly desired
+	- Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, etc.
++ Familiar with AMBA/AXI bus protocol
++ Experience in V4L2, ALSA, OpenMax, G-Streamer, or FFMPEG, etc.
++ Familiar with the principle of debugger, such as: OpenOCD.
++ Strong knowledge of image theory, design experience of algorithm modules such as super_resoulution/HDR/noise_reduction/frame_compression/ISP is preferred.
++ Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, framebuffer，etc.
++ Kylin, Elastic Search, Druid
++ Familiar with Android SurfaceFlinger or Linux Weston/Wayland is preferred;
++ Constraint creation/development for IP (Processor, SPI, USB, I2C, I2S, Ethernet, DDR, Asynchronous Interface) and SoC (Clock Definition and Properties, Clock and Data Path Exceptions)
++ Packaging knowledge (CSP, BGA, etc.)
++ Developing, implementing and delivering digital and mixed signal IP and test chips across a broad range of process nodes from low geometry FinFET to more specialist processes.
++ skill set:
+	- developing internal tooling and systems that help daily work of our Dev teams, on top of Cloud services, Kubernetes, Terraform
+	- Experience with CI frameworks such as Github Actions
+	- Working experience with production-ready Kubernetes cluster administration
+	- Working experience with AWS (EC2, RDS, S3, Networking)
+	- Experience with Arduino or other microcontrollers
+	- Experience with additional AWS services like: Kinesis, DynamoDB, EKS, Lambda
+	- Experience with Google Cloud Platform
+	- Expertise with the Go (Golang) or Python programming language
+	- Experience managing High Availability clusters
+	- Working knowledge of Auth0, Cloudflare
+	- Knowledge of TCP/IP networking, and network services such as DNS, SMTP, etc.
+	- Previous experience in remote teams
++ Learn to work with industry-leading tech, such as Android, Zephyr, Linux, Renode, RISC-V, TensorFlow, Caffe, OpenCV, Singularity, KiCad, Docker, ROS and more.
++ skill set:
+	- knowledge of AXI, AHB, APB, Wishbone is recommended
+	- knowledge of communication interfaces such as UART, I2C, SPI, TileLink etc.
+	- knowledge of fast communication interfaces such as PCI, PCIE, USB, ChipLink, etc.
+	- understanding of SoC FPGA (eg. Xilinx Zynq, Xilinx UltraScale+ MPSoC, Intel SoC FPGA , Microsemi SmartFusion)
++ knowledge of various issues in the field of cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)
++ skill set:
+	- Experience with modelling languages such as GEM5 and/or high level synthesis tools such as Synopsys ASIP designer or Mentor Catapult would be a positive addition
+	- Experience of low power embedded CPU pipeline development; experience of AHB and  AXI interconnects
++ skill set:
+	- Interest/experience in compilers, parsers,  LLDB
+	- compiler of our proprietary CodAL language to IR XML
+	- LLDB-based software debugger and profiler
++ skill set:
+	- Create RTL prototypes of the processor units in Codasip Studio (memory, cache, TCM, OCD, trace, etc.)
+	- Work with AMBA buses (AHB, AXI, ACE)
+	- Participate in the development of our commercial processor cores
+	- Revise internal processors´ prototypes in the CodAL language
+	- Extend on-chip debugger according to RISC-V Debug/Nexus /JTAG specification
+	- Synthesize RTL code, analyze results, optimize 
+	- Work with tools for RTL code verification
+	- Optimize and reduce energy consumption (low power)
+	- 2 years of experience (university internship in IT/electro fields could be a good background as well)
+	- Advanced knowledge of at least one HDL language (VHDL/Verilog/SystemVerilog)
+	- Active usage of HW synthesis tools for ASIC/FPGA (e.g.Xilinx ISE, Xilinx Vivado, Synopsys DC, Cadence RC/Genus)
+	- Experience in HW design debugging (using a logic analyzer, ChipScope, JTAG, etc.)
+	- Analytical thinking, self-sufficiency, and openness to team collaboration
+	- At least passive knowledge of English
+	- Familiarity with the area of computer systems and architectures
+	- Knowledge of versioning tools (Git, SVN)
+	- Experience with microcontroller programming (e.g. AVR/PIC/ARM/..., JTAG, OpenOCD)
+	- Knowledge of C++
+	- Experience with HW verification
+	- Knowledge of scripting languages (Python, Tcl)
++ skill set:
+	- Develop our MLIR compiler flow by writing unit tests or developing optimization passes
+	- Find interesting new machine learning workloads and get them running in Centaur’s accelerator flow
+	- Contribute to our libraries to produce high-performance assembly for new ML kernels
++ Integrate, design, develop, upstream and release system software: Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
++ skill set:
+	- You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded.
+	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
+	- Experience with virtualization, IOMMUs, power management, SoC platform security or device drivers
+	- Experience debugging with GDB, JTAG and OpenOCD
+	- Experience with the following: RTOSes such as FreeRTOS; C++ and Python; virtualization, IOMMUs, and SoC platform security; debugging complex multicore systems; debugging with JTAG and OpenOCD.
+	- Experience with building tool/system including Make, CMake, Yocto, and Bazel
++ skill set:
+	- Working on a team designing, deploying and supporting mission-critical infrastructure including: Continuous integration framework, Automated test-regression sub-systems, Grid compute system, Cloud compute environment.
+	- 5+ years of relevant and recent experience with a strong understanding of concepts such as Continuous Integration, filesystems, data-mining, optimization, webhooks.
+	- Fluency in languages such as Groovy, Python, Bash.
+	- Expertise in the following tools: Jenkins, Git/Github, Slurm, Saltstack/Ansible.
+	- Interest in building modular, scalable and resilient flows and tools.
++ skill set:
+	- Familiarity with object oriented and functional programming languages. Experience in Scala and/or Swift highly desirable.
+	- Collaborating with colleagues to integrate with MLIR Compiler stack written in C++.
+	- Participating in open source communities such as Chisel and LLVM CIRCT.
+	- Developing and enhancing embedded Domain Specific Languages (DSLs) in Scala and/or Swift, along with associated build tooling, for use by hardware industry professionals.
++ skill set:
+	- AI/ML Application Framework Engineer
+	- Bringing up AI/ML model including model deployment and accuracy verification/tuning.
+	- AI/ML model end to end performance analysis and tuning.
+	- Quantized ML model development and retraining.
+	- Deep learning application and flow implementation and integration.
+	- Working closely with Software and Hardware team members for performance exploring and tuning.
+	- 3+ years experience working in AI/ML model deployment, verification, tuning and quantization.
+	- 3+ proven years of experience in developing high quality production software in C/C++/Python.
+	- Experience in AI frameworks: Tensorflow/Tensorflow-Lite/Pytorch/Tensor-RT/CUDA, etc.
++ skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieves cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop a revolutionary software from the ground up.
+	- We are looking for an experienced AI/ML compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM, TVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Develope MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Develope large-scale production software with testing and continuous integration in mind.
+	- Closely collaborate with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborate with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 3+ years of experience in compiler technology.
+	- 3+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 3+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
++ skill set for Frameworks Integration Engineer:
+	- Build and maintain SiFive Software CI/CD/CT flow pipelines using build and release orchestration tools (Jenkins, Travis CI, etc.)
+	- Conduct SiFive Parallel Compute Frameworks testing and integration for product quality qualification and assurance
+	- Build the required automation tools on the basis of past experience in scripting (BASH, Perl, Powershell, Python)
+	- Closely collaborate with geographically distributed software and engineering teams.
+	- 3+ year experience on large scale software integration
+	- 1+ year experience on CI/CD/CT flow development
+	- 3+ years Software design and programming experience in C/C++/Python for testing, debugging and problem solving
+	- Experience with building tool/system like Make, CMake, Yocto, and Bazel
+	- Familiar with gtest, python unittest or other testing frameworks.
+	- Familiarity with version control tool with GIT and GitHub
+	- Familiarity with software release management tools is plus
+	- Strong system administration (Linux/Unix or Windows) at the command-line level is a plus
+	- Good understanding of Deep learning, Computer Vision, NLP is plus
+	- Familiarity with ML framework (Tensorflow/Tensorflow-Lite/Pytorch) is plus
++ skill set:
+	- Develop production-quality software, including testing, documentation, static analysis, and CI/CD/CT.
+	- Experience with RTOSes such as FreeRTOS.
++ skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up!
+	- Our LLVM-based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions. SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a new college graduate to join our LLVM compiler team, and to learn techniques for tuning and optimizing the RISC-V LLVM compiler for the SiFive Intelligence processor family.
+	- Working with SiFive’s LLVM compiler team on improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- A degree in Computer Science or equivalent technical field of study.
+	- Have completed coursework, projects, internships, and/or research in data structures/algorithms and compilers.
+	- Have completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience in compilers.
+	- Strong C++ programming skills.
++ skill set:
+	- 5+ years of experience in SSA-based optimizations for high performance architectures.
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
+	- Experience in MLIR or similar multi-level optimizing compilers.
+	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- 5+ years of experience in developing production software.
+	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
++ skill set:
+	- Developing high quality, scalable and innovative heterogeneous parallel computing runtime.
+	- Developing software that meets certain quality and real time requirements for applications in multiple domains such as Machine Learning and AI.
+	- Designing scalable and maintainable solutions from the ground up.
+	- 3+ proven years of experience in developing high quality production software.
+	- Experience in developing runtimes for parallel systems or accelerators.
++ skill set:
+	- 3+ years of experience in algorithm optimization to target parallel hardware such as GPUs, SIMD, or similar.
+	- Proven experience working close to and understanding the hardware, and optimizing algorithms for specific hardware implementations.
++ skill set:
+	- We are looking for an experienced MLIR compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Developing MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Developing large-scale production software with testing and continuous integration in mind.
+	- Closely collaborating with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborating with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 5+ years of experience in compiler technology.
+	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 5+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
++ skill set:
+	- As a QEMU Engineer in the System Software Team, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks. You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for QEMU to model IP and instruction set. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop and upstream QEMU and other simulation solutions  (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 3 years’ experience developing QEMU for both instruction set and peripheral IP modeling, with upstream involvement
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Deep understanding of computer architecture at the CPU and system levels
+	- Understanding of VLSI design concepts and how they impact hardware and software architecture
+	- Ability to read HDLs such as Verilog/Chisel
++ skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up.
+	- Our LLVM based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a solid senior LLVM compiler team member with proven experience in compiler technology such as SSA-based global optimizations, auto-vectorization, ISA extensions, and high-performance computing. The candidate should demonstrate a track record in cross-team collaboration and in delivering high quality compiler products. 
+	- Working with SiFive’s LLVM compiler team in improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- 3+ years of experience in compiler technology.
+	- Degree in computer science or engineering.
+	- Experience with open source contributions. 
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
+	- Experience with software validation for one of software (compiler, BSP/Linux kernel, and  AI/ML framework)
+	- Rich Experience with building tool/system like Make, CMake, Yocto, and Bazel
+	- Familiar with gtest, python unittest or other testing frameworks.
+	- Familiarity with software release management tools
++ skill set:
+	- System Performance Analysis Engineer
+	- System-level performance model development
+	- System performance analysis
+	- Competitor board enabling and benchmarking
+	- Competitor microarchitecture analysis
+	- Root cause the the performance difference caused by either SW and/or HW
+	- SiFive board benchmarking
+	- Experienced with system performance analysis
+	- Experienced with hypervisor
+	- Experienced with system model development
+	- Experienced with board enabling and benchmarking
+	- Experienced with micro-architecture performance analysis
+	- Experienced with microbenchmark design
++ skill set:
+	- Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborate with performance modelling team for performance exploration and optimization to meet performance goals.
+	- 8+ yrs of recent industry experience in high-performance, energy-efficient CPU designs.
+	- Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
+	- Knowledge of RISC-V architecture is a plus.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- MS/ PhD degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill design:
+	- Architecting, designing and implementing new features, performance improvements, and ISA extensions in RISC-V CPU cores and TileLink interconnect, protocol bridges, and other infrastructure/uncore logic.
+	- Microarchitecture development and specification. Ensuring that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Performing initial sandbox verification, and working with the design verification team to create and execute thorough verification test plans.
+	- Working with the physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborating with the performance modelling team for performance exploration and optimization to meet performance goals.
+	- 8+ yrs of recent industry experience in high-performance, energy-efficient CPU/SoC designs.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Knowledge of RISC-V architecture is a plus.
+	- Experience with NoC or other interconnect fabrics.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- MS/ PhD degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- Familiar with baremetal/system software programming and Experience with creating direct test cases or porting microbenchmarks to measure system power or performance for design verification.
+	- Familiar with CPU micro-architecture, memory sub-system and system software ( such as exception/interrupt handling, memory paging system.)
+	- Experience with software project architecture/design and python/C++11 above programming.
++ skill set:
+	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
+	- Review and influence product definition and specifications from a verification perspective and collaborate closely with the design team on feature specifications, test plans, and failure analysis.
+	- Develop tools, test benches, and test suites (UVM, C++/C, or otherwise as needed) to execute test plans.
+	- Write functional coverage, analyze both code and functional coverage, and close coverage holes.
+	- A minimum of 5 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
+	- Familiarity with and/or ability to learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.).
+	- A conscientious and thorough approach to Design Verification.
+	- Solid understanding of processor and SoC architecture, or a strong desire and ability to learn the same.
+	- A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
+	- Experience with prototyping and debugging systems on Field Programmable Gate Array (FPGA) platforms will be a plus.
+	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
+	- An unwavering dedication to product quality.
++ skill set:
+	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- Performing initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Knowledge of vector architecture and concepts.
+	- Prior experience designing high-performance vector and/or SIMD processors/units.
++ skill set:
+	- Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborate with performance modelling team for performance exploration and optimization to meet performance goals.
+	- 5+ yrs of recent industry experience in high-performance, energy-efficient CPU designs.
+	- Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; integer; floating-point, and vector units; load-store unit; cache and memory subsystems.
+	- Knowledge of RISC-V architecture is a plus.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- SiFive is looking for hardware engineers who are passionate about designing industry-leading CPU and interconnect IP to help drive the tidal wave of adoption of RISC-V as the architecture of choice for SoC designs across a broad variety of vertical applications. We build and maintain multiple CPU family lines, TileLink interconnects and other uncore/infrastructure IP, and are seeking motivated individuals to improve/evolve our existing IP, as well as develop new IP. Join us and surf the RISC-V wave with SiFive!
+	- Architect, design and implement an enhanced TileLink interconnect, protocol bridges, and other infrastructure/uncore logic as RTL generators, including both open-source and proprietary designs.
+	- Improve current designs and work on future designs to provide higher performance, more efficient multi-core and multi-cluster system coherence.
+	- Integrate new design content into SiFive’s Chisel/FIRRTL framework and contribute to improvements to that framework to enable automatic configuration/generation of design collateral.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- 5+ yrs of recent industry experience with coherent fabric, protocols for scalable multi-core and multi-cluster SoC designs.
+	- Experience with NoC or other interconnect fabrics.
+	- Experience with industry standard bus protocols (e.g. AMBA). Knowledge of TileLink is a plus.
+	- Knowledge of cache coherence protocols, architectures and concepts.
+	- Ability to architect solutions to connect bus fabrics of disparate protocols.
+	- Strong software engineering skills/background, including:
+		* object-oriented, aspect-oriented, and particularly functional programming;
+		* compiler infrastructures and data modeling for intermediate representations, particularly for domain-specific languages.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Chisel, Bluespec, or other HDL for expressing configurable hardware via software is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
+	- Create more efficient shared arithmetic units; combining capabilities for single/double/half-precision floating point, integer, and/or fixed-point operations
+	- Design in extensive configurability as a first-class consideration, including reuse of ALU designs for vector and scalar operations
+	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans
+	- Ensure that knowledge is shared via great documentation and a participation in a culture of collaborative design
+	- 4+ years of recent industry experience in CPU design
+	- Knowledge of vector architecture and concepts.
+	- Prior experience designing high-performance vector and/or SIMD processors/units.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU power management who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Architect test methodologies applicable to a wide range of CPU designs for CPU Power Management.
+	- Understand CPU multi-core power management from an architectural level and create effective verification strategies for these designs.
+	- Build test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Develop tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Development and use of full IP and unit level test benches that use constrained random stimulus
+	- Use of assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test power management.
+	- Provide technical leadership for verification engineers and coordinate technical teams to execute our verification strategies to meet program goals.
+	- Collaborate closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU power management and how that impacts both the RTL and verification environment.
+	- Experience with industry standard system bus protocols (e.g. AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
++ skill set:
+	- Performance Architecture Engineer - Workloads Infrastructure
+	- We at SiFive are looking for a Performance Architecture Engineer - Workloads Infrastructure to join our growing team working on developing and improving methods for gathering and processing performance analysis data from various simulation platforms. SiFive is looking for someone with outstanding knowledge and skills in workloads, databases, emulation/FPGA platforms, and workflow automation who will build an environment to be used specifically with SiFive’s device simulation, emulation, and silicon environments used for generating performance data.
+	- Develop and improve methods for gathering, post-processing, storing, retrieving, and presenting performance data generated via performance analysis and regression runs from various simulation platforms.
+	- Develop new database solutions and schemas to handle an expanding array of workloads and data artifacts used for workload performance analysis.
+	- Develop and improve components and workflows for device simulation, emulation, and silicon environments used for generating performance data.
+	- 5+ years of relevant industry experience.
+	- Experience with databases, and methods for data storing, retrieving, and presenting.
+	- Experience with emulation platforms, including building and deploying FPGA images
+	- Experience with Linux, virtual machines, and AWS.
+	- Experience with workflow automation.
++ skill set:
+	- Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).
+	- Creating effective verification strategies for CPU memory system caches.
+	- Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Developing and using unit level test benches that use constrained random stimulus.
+	- Using assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test CPU functions.
+	- Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.
+	- Collaborating closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers.
+	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)
+	- Understanding of CPU memory systems caches from an architectural level.
++ skill set:
+	- Analyze the vector microarchitecture performance
+	- Analyze and improve the performance of vector kernel
+	- Correlate the vector performance of the model and RTL
+	- Design vector microbenchmarks
+	- Root cause the performance difference caused by either SW and/or HW
+	- Competitor micro-architecture analysis
+	- Experienced with processor micro-architecture
+	- Experienced with RISC-V V-extension
+	- Experienced with micro-architecture performance analysis
+	- Experienced with microbenchmark design
+	- Good presentation skills
++ skill set:
+	- System-level verification to SiFive virtualization technologies, hypervisor, secure boot cryptography, and more on FPGA.
+	- Collaborate with cross-functional teams to ensure our core quality and confirm the core is well verified and delivered on time.
+	- Collaborate with cross-functional teams on developing and implementing emulation strategy based on product goals.
+	- A minimum of 5 years of direct system-level debug experience especially on Linux system, including system testing and debug using FPGAs and emulators
+	- Hypervisor knowledge/ background, SoC bring up, validation and debugging experiences are required
+	- Strong and wide knowledge on Linux system software and kernel, processor, memory, bus protocol, and SoC architecture, or a strong desire and ability to learn the same.
+	- A conscientious and thorough approach to Design Verification.
+	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
++ skill set:
+	- We at SiFive are looking for a Formal Verification Engineer to join our growing team working on implementing a novel application of formal verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in formal verification who will build a formal environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Leading the application of formal methodologies to parameterizable high-performance RISC-V CPU IP generators.
+	- Creating a reusable formal verification methodology library to be used in SiFive’s novel hardware design flow.
+	- Building a compiler-based hardware design suite that would automatically generate the appropriate test bench when given a parameterized instance of a chip design.
+	- Establishing through formal mathematical modeling or proofs the fidelity of given CPU IP blocks.
+	- Ensuring that CPU designs will meet given targets for power, performance, and area, by applying formal methods.
+	- Mentoring junior members of the team in the use of formal verification methodologies and tools.
+	- 7+ years of recent experience in formal verification and related tools (model checking, property verification, JasperGold, Hector DPV, and others) and methodologies.
+	- Knowledge of CPU or GPU architectures (floating point, load-store, branch prediction, out-of-order execution) and cache coherence protocols.
+	- Experience in functional verification, such as constrained random verification, test bench generation, etc.
+	- Fluency in hardware description languages such as Verilog, VHDL, or SystemVerilog.
+	- Knowledge of Register-Transfer Level circuitry (registers, combinatorial function blocks (e.g. adders and multiplexers), finite state machines.
+	- Knowledge of Traditional test bench environments - UVM, Verdi/DVE.
+	- Functional programming languages, such as Scala, Chisel, Haskell, etc.
++ skill set:
+	- Architect and implement MBIST solutions across our portfolio of RISC-V CPU’s
+	- Evaluate and implement solutions to enable high scan test coverage for our RISC-V CPU’s
+	- Support customers in all aspects of DFT: MBIST, scan and boundary scan insertion, scan compression, ATPG, and JTAG.
+	- 5+ years of DFT experience including architecture specification, implementation, test pattern development and verification;
+	- Experience with MBIST insertion, simulation, and verification on RTL and Gate Level Netlist;
+	- Experience with Scan insertion, Scan compression, Stuck-At, At-Speed test and coverage analysis;
+	- Scan ATPG pattern generation, simulation and debug on RTL and Gate Level Netlist;
+	- Hands on knowledge in state-of-the-art EDA tools for DFT, design and verification (Mentor, Cadence, Synopsys);
+	- STA DFT Test mode timing constraint development and analysis;
+	- In-depth knowledge of Verilog HDL and experience with simulators and waveform debugging tools;
+	- TCL scripting; Python scripting is a plus;
+	- Attention to detail and a focus on high-quality design;
+	- Ability to work well with others and a belief that engineering is a team sport;
+	- Bachelor’s degree in Electrical Engineering or Computer Engineering, Master’s preferred.
++ skill set:
+	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
+	- A minimum of 3 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
++ skill set:
+	- We at SiFive are now looking for a Core Architect to join our growing team! You will be vital to SiFive’s efforts to create silicon at the speed of software. You would be involved with the design and definition of various aspects of SiFive’s RISC-V ISA, high-performance core pipelines, including but not limited to, branch predictors, dispatch logic, reorder buffer, load-store queues, and prefetchers. You are tasked with creating the basic collateral and specifications that can be reused across SiFive’s RISC-V and SoC design ecosystem.
+	- Creating the design and specification of various aspects of high-performance core architecture. Such design must comprehend PPA (performance, power, and area) impact.
+	- Developing the upcoming RISC-V platforms, which will connect numerous cores together on a chip, support large bandwidth, as well as new applications and workloads
+	- Working on the design and specifications of various aspects of the RISC-V Instruction Set Architecture.
+	- Researching and analyzing emerging needs for new core architecture.
+	- If interested, the Core Architect will have a chance to analyze market verticals and design architectures specifically tailored for upcoming use cases.
+	- Working with customers to tailor cores to their needs.
+	- Opportunity to work directly with customers (which include Fortune 500 companies as well as prominent, innovative startups) to brainstorm and troubleshoot core pipeline designs.
+	- 8+ years of experience in core architecture development and chip architecture definition.
+	- Familiarity with advanced CPU architectures and pipelines.
+	- Experience in core design flow, including spec definition, Architecture design, and performance modeling.
+	- Familiarity with instruction set architecture, advanced and high-performance pipeline design concepts, such as picker logic, out-of-order scheduling, advanced branch predictors, and prefetchers.
+	- You should be familiar with memory coherence, consistency, and ordering.
+	- Basic understanding of RTL design & SoC tool flows.
+	- Basic understanding of foundry lib, IP, and process technology limitation
++ modern front-end web technology stack (such as React + Redux + ES6 / TypeScript)
++ Familiar with a certain deep learning framework, such as TensorFlow, MXNet, Caffe, Torch, etc., and have a deep understanding of deep learning
++ skill set:
+	- Familiar with common Internet infrastructure, such as hdfs, mysql, etc.
+		* Hierarchical Data Format (HDF).
+	- Experience with databases, such as MySQL, Postgres and InfluxDB.
+	- Experience with CI/CD framework, such as Jenkins.
++ skill set:
+	- Responsible for the functional design, development, verification and integration of the embedded system of the unmanned vehicle
+	- Responsible for the development of driver programs, test tools and calibration tools, performance tuning, diagnosis and other functions of the unmanned vehicle system;
+	- More than 3 years of embedded development experience, bachelor degree or above;
+	- Familiar with C/C++, familiar with at least one scripting language (python/shell), have good development habits, document specifications and coding habits;
+	- Have experience in Linux application or device driver development or RTOS driver or application development experience;
+	- Familiar with the working principles and communication protocols of common buses such as SPI, I2C, UART, CAN, and Ethernet;
+	- Understand the working principle of lidar, millimeter wave radar, camera, IMU, GNSS or other sensors;
+	- Good English reading skills, good listening and speaking skills;
+	- Self-driven, willing to delve into technical problems and find the most reasonable solution;
+	- Proficient in ARM, DSP or other CPUs
+	- Experience in Nvidia AGX Xavier platform development is preferred
+	- Experience in Jenkin CI, software integration and test development is preferred.
+	- Experience in robot control software development, sensor system development experience or ROS experience is preferred
++ Familiar with BFM of common communication, storage and bus protocols, such as PCIe/DDR/AMBA
++ Familiarity with modern planning approaches including randomized search methods and trajectory optimization
++ skill set:
+	- Oversee research process implementation, from problem definition all the way to concrete research experiments.
+	- Collaborate and communicate clearly and efficiently with the rest of the team about the status, results, and challenges of your current tasks.
+	- Contribute to designing the research roadmap of the company.
+	- Train and mentor other members of the team.
+	- Own the research function of specific product features.
+	- As a core member of our research team, you'll play an integral role in challenges such as:
+	- Creating realistic voice doubles using only a few minutes of audio.
+	- Designing and developing new algorithms for media synthesis, anomaly detection, speech recognition, speech enhancement, filler word detection, etc
+	- Devising and implementing fast and robust algorithms for spectrogram inversion.
+	- Creating tools to synthesize photo-realistic videos that match our Overdub (personalized speech synthesis) feature.
+	- Developing algorithms for detecting synthesized media.
+	- Coming up with new research directions to improve our product.
+	- Proven experience in designing and implementing deep learning algorithms. 
+	- PhD or Master’s degree specialized in Deep Learning or equivalent experience. 
+	- Track record of developing new ideas in machine learning, as demonstrated by one or more first author publications or projects. 
+	- Good programming skills and experience with deep learning frameworks.
+	- Publications at top ML/Speech conferences is a big plus: NIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set:
+	- Provide software design and programming expertise to support research projects. You will work closely with Applied Research Scientists to solve exciting research problems. You will own software development and iteration throughout the research cycle.
+	- Read, understand, and replicate recent AI research papers.
+	- Communicate clearly and efficiently with the rest of the team about the status, and results of your current tasks.
+	- Architect and implement software libraries to allow our research to improve and scale.
+	- Code data pipelines required to train deep learning models.
+	- Write and maintain good quality code.
+	- Work with our engineering team to deploy and maintain research models in production.
+	- Creating realistic voice doubles using only a few minutes of audio.
+	- Designing and developing new algorithms for media synthesis, anomaly detection, speech recognition, speech enhancement, video generation, filler word detection, and more.
+	- Devising and implementing fast and robust algorithms for spectrogram inversion.
+	- Creating tools to synthesize photo-realistic videos that match our Overdub (personalized speech synthesis) feature.
+	- Developing algorithms for detecting synthesized media.
+	- Proven experience in implementing and iterating on deep learning algorithms. 
+	- BSc/BEng degree in computer science, mathematics, physics, electrical engineering, machine learning or equivalent (MSc or PhD preferable).
+	- Good programming skills and experience with deep learning frameworks (preferably Pytorch).
+	- Strong knowledge and experience of Python.
+	- Publications at top ML/Speech conferences is a big plus: NeurIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set:
+	- Descript is offering research internships to PhD and motivated masters students working in machine learning, human computer interaction, natural language processing, computer vision or computer audition. At Descript, we make technology that is transformative for content creation and media editing. Join us and help a passionate cross-disciplinary team of researchers, engineers, and designers build the next generation of media creation tools.
+	- As a research intern, you will collaborate with our research and/or engineering teams to develop exciting and novel technology, as well as work closely with researchers who regularly publish in top-tier journals and conferences. We are also interested in fostering ongoing collaborations, and are open to longer term projects that may become part of your PhD thesis, while also having meaningful impact for Descript users. Descript is the perfect vehicle for deploying cutting edge research to real users.
+	- Our research team is located primarily in Montreal, with some researchers working from France, as well as the Bay Area. Due to the COVID-19 pandemic, the location of the internship will be flexible, if not remote. You will be paired with a full-time researcher on a project tailored towards your skillset and interests.  The expected duration of the internship is anywhere between 3-6 months, and start dates are flexible.
+	- Pursuing a PhD or Master’s degree with a focus on one or more of the following research areas: computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision.
+	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
+	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
++ skill set:
+	- Descript is powered by state-of-the-art Deep Learning technology, lowering the barrier to entry for content creation. Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit and mix spoken audio and video comes with a series of unique challenges and requires solving hard and complex problems. This team has pioneered text-based media editing through tools like Overdub and Studio Sound. 
+	- Own the ML infrastructure and production pipelines to bring the magic of AI to the end users
+	- Collaborate with the engineering team to bring  AI services to life
+	- Provide guidance on the performance trade-offs of Deep Learning models in production to the rest of the organization
+	- Ability to write flawless, readable and maintainable code in Python. Experience with Go is a plus.
+	- Familiarity with gRPC and Deep Learning model deployments
+	- Experience in design, development and maintenance of tools for ML data and modeling pipelines, including big data processing, model training and evaluation, continuous integration and development, model quality monitoring and analytics
+	- Previous experience with developing machine learning infrastructure or experience in using GPUs
+	- Strong analytical skills and a real passion for efficiency of the data and modeling process
+	- Familiarity with deep learning frameworks (e.g. Tensorflow, PyTorch)
+	- Preferred: Experience with on-device deployment of the deep learning models
+	- Preferred: Ability to deal well with ambiguous problems, and proceed with good judgement
+	- Preferred: Knowledge and experience with Google Cloud Platform and Kubernetes
++ skill set:
+	- Curious mindset : Solve ambiguous business problems using in-depth analysis to discover and size opportunities for growth levers.
+	- Empower stakeholders: Be a strategic partner to product and engineering and drive data informed decisions
+	- Build for future: Build and improve on the availability, integrity, accuracy, and reliability of data logging and data pipelines to democratize data and insights for extensive future scaling.
+	- Communication: Define how success is measured and own the creation of metrics to track product / launch performance. Build self serve dashboards reports for tracking these metrics
+	- Experiment: Design and measure experiments  using statistical and econometric models to draw detailed and impactful conclusions
+	- Build the foundation: Establish and detail foundational work and frameworks, and establish data science processes
+	- Strong storytelling: distill interesting and hard-to-find insights into a compelling, concise data story
+	- Burning desire to inspire change through data and are enthusiastic about innovating in a fast-paced data science team
+	- Comfortable with ambiguity and able to thrive with minimal oversight and process
+	- Curious and bring genuine excitement to learn new subject areas and are comfortable to be scrappy as and when needed
+	- Effective communicator and pay attention to the finer details
+	- Empathize with customers and stakeholder and build meaningful relationships
+	- Self-aware of strengths and seeking to constantly learn and improve
+	- You don’t allow perfect to become the enemy of the good
+	- 5+ years of professional experience doing quantitative analysis (or 2+ if PhD in a quantitative field)  
+	- MS or higher in a quantitative field (e.g., Math, Economics, Statistics, Sciences, Engineering, CS, OR, ML or other quantitative fields)
+	- Advanced experience with experimental design and statistical methods such as causal Inference
+	- Expert knowledge of a scientific computing language (such as R or Python), SQL, visualization, data modeling, ETL, and the data warehousing concepts
+	- 2+ years within SaaS industry-ideally at an prosumer SaaS platform
++ Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
++ Form and validate data-driven hypotheses for accelerating customer retention and revenue, working closely with engineering, design, marketing, and analytics
++ ***It is okay to be opinionated, but not ideological such that I cannot or don't want to learn new technologies as I go.***
+	- understand the trade-offs between choices of technologies and programming languages
++ use empathetic communication in technical discussions, such as during disagreements, to thoughtfully engage other perspectives and compromise when needed.
+	- communicate nuanced ideas clearly
++ technology stack:
+	- React
+	- TypeScript
+	- Node.js
+	- Memcached
+	- Postgres
+	- Docker
+	- Elasticsearch
++ ship high quality software at scale
++ used mixed methods to inform/drive product prioritization, via quantitative data (e.g., metrics and data analytics) and qualitative data (e.g., user feedback)
++ Experience in GPU/CUDA/TensorRT
+
+
+
+
+
+
+
+
 
 
 
