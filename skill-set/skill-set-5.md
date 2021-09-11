@@ -2258,7 +2258,34 @@
 + ship high quality software at scale
 + used mixed methods to inform/drive product prioritization, via quantitative data (e.g., metrics and data analytics) and qualitative data (e.g., user feedback)
 + Experience in GPU/CUDA/TensorRT
-
++ skill set:
+	- Knowledge of robotics system (ROS, PCL) is preferred
+	- Familiar with a certain deep learning framework, such as TensorFlow, MXNet, Caffe, Torch, etc., and have a deep understanding of deep learning.
+	- Experience in algorithm development of autonomous driving systems, such as lane line recognition, obstacle recognition and tracking, etc.;
+	- Familiar with computer vision related algorithms such as image segmentation, target detection and tracking;
+	- Experience in large data set processing and familiarity with real time systems
++ skill set:
+	- Responsible for research on perception algorithms of autonomous driving systems, including but not limited to: image target detection and segmentation, recognition, and tracking algorithm development; visual positioning, pose estimation, depth estimation, and 3D reconstruction algorithm research and development;
+	-  Familiar with commonly used computer vision and machine learning algorithms, with excellent mathematical ability; master the basic algorithms of image processing, familiar with camera models, multi-view geometry, optimization and other theories
+	- Have experience in the development of autonomous driving systems, including but not limited to lane line recognition/obstacle recognition and tracking/multi-view stereo/visual positioning/three-dimensional reconstruction, etc.;
++ skill set:
+	- Develop automotive standard software for vehicle-level autonomous controls.
+	- Improve and deliver reliable software through requirements generation, continuous integration, automated testing, issue tracking, and code reviews
+	- Develop and test communication interfaces to vehicle systems, sensors, and other hardware components.
+	- Design fail-operational strategies and architecture for redundant systems.
+	- Develop fault diagnostics and prognosis for safety critical hardware components.
+	- Work with component suppliers to calibrate and test sensors and actuators.
+	- Support simulation, bench and in-vehicle testing
+	- Support technical discussion with OEM and component suppliers and partners.
+	- Advanced Degree in Computer Science, Electrical Engineering, Mechanical Engineering, Mechatronics, or related disciplines.
+	- Experience with automotive standard (e.g. AUTOSAR, MISRA) software C/C++ development in the Linux environment.
+	- Experience with automotive control system development, instrumentation, and calibration tools.
+	- Understanding of the design and application of vehicle systems (e.g. steering, braking, and powertrain)
+	- Knowledge of system identification, dynamics, and controls
+	- Experience with automotive embedded and real-time control systems including OS and architecture
+	- Experience with automotive communication protocols (CAN, CAN FD, and Automotive Ethernet) and electrical architectures.
+	- Knowledge of autonomous driving software stack or advanced driver assistance features
+	- Experience with systems engineering processes and formal requirements management systems.
 
 
 
