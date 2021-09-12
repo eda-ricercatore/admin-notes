@@ -2286,7 +2286,96 @@
 	- Experience with automotive communication protocols (CAN, CAN FD, and Automotive Ethernet) and electrical architectures.
 	- Knowledge of autonomous driving software stack or advanced driver assistance features
 	- Experience with systems engineering processes and formal requirements management systems.
-
++ skill set:
+	- Technical capability to create robust and well-tested C++ software
+	- Familiarity with modern model predictive control and other advanced control techniques
+	- Experience with adaptive control, system identification, and machine learning methods
+	- Minimum of a Masters Degree in Robotics, Computer Science, Mathematics, Physics or equivalent with 3+ years experience
+	- Knowledge of robotics systems (ROS, PCL) is preferred
++ Familiarity with modern planning approaches including randomized search methods and trajectory optimization
++ skill set:
+	- As a Research Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
+	- Ph.D in Computer Science or a related field
+	- Strong programming skills in C/C++
+	- Strong mathematics and analytical skills
+	- Work experience in deep learning platforms such as Caffe or Tensorflow
+	- Domain knowledge and implementation experience with Lidar/Visual SLAM/Odometry.
++ Strong knowledge of SOC SW development, such as Nvidia Tegra, T.I. TDA series, Qualcomm Snapdragon.
++ skill set:
+	- As a Software Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
+	- Strong programming skills in C/C++ or Python
+	- Strong mathematics and analytical skills
+	- Work experience in deep learning platforms such as Caffe or Tensorflow
+	- Minimum of a Masters Degree in Computer Science or equivalent with 3+ years experiences of deep/machine learning or computer vision
+	- Work experience with LIDAR data is preferred
++ skill set:
+	- Work with experts in the field of self driving vehicles on software architecture and design, system and module design, evaluation metrics, specification and implementation of test and regression frameworks.
+	- Work with experts in machine learning to design and implement the state of the art deep learning and machine learning algorithms to solve open questions such as behavior prediction, decision making, and computer vision with real road test data.
+	- Optimize software to run robustly under tight run-time constraints.
+	- Implement user friendly tools to mine useful data from road test logs, evaluate performance, and solve real road test issues.
+	- Master in Computer Science, or at least 2 years of equivalent industry experience in similar technical fields.
+	- Solid understanding of data structures, algorithms, parallel computing, code optimization and large scale data processing.
+	- Experience in applied machine learning including data collection and analysis, evaluation and feature engineering.
+	- Expertise in C++/Python.
+	- PhD in Deep Learning, Machine Learning, Robotics, Natural Language Processing, or similar technical field of study.
+	- ***Experience in applying ML/DL for behavior prediction, imitation learning, motion planning.***
+	- Experience in deploying deep learning algorithms for real time applications, with limited computing resources.
+	- Experience in convex optimization, computational geometry or linear algebra.
+	- Experience in GPU/CUDA/TensorRT
+	- Experience with TensorFlow
++ Domain knowledge in LiDAR/visual SLAM/odometry
++ skill set:
+	- Feature engineering infra
+	- Develop and maintain a set of frameworks, APIs and tools on top of Tensorflow that enable a fast research to production lifecycle
+	- Provide tooling to help ML practitioners evaluate, debug, and improve ML algorithms, data and hyperparameters
+	- Web app for managing data lineage, experiment / metadata / artifacts, visualizing metrics (P/R, custom metrics etc.) and data distribution
+	- Collaborate with other Bets to productionize ML research (e.g. PBT, AutoML, Model/Data understanding, compression)
+	- Apply software engineering rigor on ML (CI/CD, automation etc.)
+	- Optimize everything around the nets (pruning, quantization etc.) and robotics system performance analysis / optimization through hardware/software co-play
+	- BS, MS or PhD in Computer Science, similar technical field of study, or equivalent practical experience
+	- Passion in making things run fast
+	- Experience programming in Python or C++.
+	- Elementary Tensorflow and Machine Learning knowledge
+	- Experience building and architecting large-scale, production quality backend systems, especially in applied machine learning or data pipeline
+	- Familiar with TensorFlow
+	- Familiar with parallel / distributed systems
+	- Experience with modern web stack /data visualization techniques (e.g. Angular, JavaScript/TypeScript).
+	- Experience with embedded / real time / robotics systems, and performance optimizations
+	- Experience with machine learning compiler / runtime or GPU/AI accelerator
+	- Experience/interest with ML acceleration ( compression, quantization, pruning etc.)
+	- Experience with metrics and evaluation for large systems
+	- SRE/Devops and passionate about applying software engineering best practices to ML
++ skill set:
+	- Manage Kubernetes clusters across internal and cloud (AWS, Alicloud, etc.) environments.
+	- Build and improve internal developer tools and drive the best practice of Kubernetes to increase productivity across the engineering organization.
+	- Automate the Kubernetes deployment and maintain a consistent process across cloud and on-premise environments.
+	- Performance tune, load test, and optimize scalability and availability of Kubernetes clusters.
+	- Conduct capacity planning and resource optimization to support fast-growing data processing and machine learning requirements.
+	- Bachelor of Science in Computer Science or equivalent.
+	- 3+ years of hands-on technology experience in large enterprise environments.
+	- Deep knowledge of containerization and Kubernetes.
+	- Strong programming skills in python, java, or C++.
+	- Familiarity with open-source configuration, orchestration, and CI/CD tools.
+	- Excellent communications skills, capable of working with cross-functional technical and business teams and varying levels of management, in a professional manner
+	- Strong TCP/IP networking knowledge
+	- Experience operating and developing infrastructure and services in public cloud environments (AWS, GCP, or Azure)
+	- Experience working in a 24/7 production engineering organization
++ skill set:
+	- As a Senior Software Engineer in Compute Performance, you will be developing technologies to accelerate leading applications in autonomous driving fields within computer vision, ML/DL, mapping and localization, planning and prediction.
+		* Identifying key applications for current and future autonomous driving problems and performing in-depth analysis and optimization to ensure the best possible performance on current and next-generation compute architectures.
+		* Collaborating closely with diverse groups in Pony.ai including both hardware and software to optimize and craft core parallel algorithms as well as to influence the next-generation compute platform architecture design and software infrastructure.
+	- BS/MS or Ph.D in computer science, electrical engineering or a related discipline.
+	- Strong programming skills in C/C++.
+	- Good knowledge of the fundamentals of computer architecture, including data caching, memory system, SIMD instruction sets, and compiler code generation.
+	- Good understanding of hardware performance, regarding CPU or GPU execution model, threads, registers, cache, cost/performance trade-off, etc.
+	- Experience with profiling, benchmarking and validating performance for complex computing architectures.
+	- Experience in optimizing the utilization of compute resources, identifying and resolving compute and data flow bottlenecks.
+	- Strong communication skills and ability to work cross-functionally between software and hardware teams
+	- Experience with parallel programming, ideally CUDA, OpenCL or OpenACC.
+	- Experience in computer vision, machine learning and deep learning.
+	- Strong knowledge of software design, programming techniques and algorithms.
+	- Strong mathematical fundamentals, including linear algebra and numerical methods.
+	- Good knowledge of common deep learning frameworks and libraries.
 
 
 
