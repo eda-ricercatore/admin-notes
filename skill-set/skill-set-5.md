@@ -2376,8 +2376,35 @@
 	- Strong knowledge of software design, programming techniques and algorithms.
 	- Strong mathematical fundamentals, including linear algebra and numerical methods.
 	- Good knowledge of common deep learning frameworks and libraries.
-
-
++ skill set:
+	- Responsible for content recommendation, text mining, user model construction, etc.;
+	- Optimize search recommendation system algorithm;
+	- Research on algorithms for knowledge extraction, mining, fusion and visualization based on big data;
+	- Algorithm and functional module code development, back-end algorithm API development, testing, technical documentation writing.
+	- Bachelor degree or above, major in computer, communication and other related fields;
+	- Have more than 3 years of work experience;
+	- Have a solid programming ability and master at least one back-end programming language (Python/Go/Java, etc.);
+	- Have a deep understanding of operating systems, data structures and algorithms
++ skill set:
+	- document security operations, including:
+		* runbooks
+		* process workflow
+		* program capabilities
+	- provide guidance on zero-day vulnerabilities and emerging threats
+	- improve tool and process enhancements via partnerships with security service providers, so that security posture can be improved
+	- establish meaningful and actionable security metrics and reporting
+	- finding known and unknown threats and understanding new adversary TTPs (tactics, techniques, and procedures)
+	- inspire and promote creativity and innovation while manageing missteps and mistakes as opportunities to learn and grow
+	- information security operations
+		* SIEM
+		* intrusion detection/prevention systems
+		* vulnerability assessment
+		* encrcyption
+		* identity and access control systems
+		* anti-malware
+		* security event testing
+	- security operations for cloud platforms
++ Knowledge of RF, DCR, OFDM, MIMO and transmit beamforming is a big plus.
 
 
 
