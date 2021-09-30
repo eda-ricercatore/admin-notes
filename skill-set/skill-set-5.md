@@ -2999,20 +2999,175 @@
 	- Experience with bootloaders such as u-boot
 	- Experience working with global distributed teams
 + Integrate, design, develop, upstream and release system software: Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ skill set:
+	- What you'll be doing
+		* You'll be designing and building out our state-of-the-art Scala solution, currently supplying upward of a hundred million monthly requests from our serverless React web app.
+		* You'll be working with a great team who love to share ideas, learn, and use new technologies.
+		* You'll be influencing the product by continuously providing feedback on the design, workflow process, and testing.
+		* You'll be contributing to technical and architectural discussions with the whole Engineering team both on a running basis and at our quarterly engineering off-site.
+		* Your code will help our researchers and insights journalists achieve transparency into important personnel related movements using web crawling and machine learning. You'll also help our users attract and align talent by enabling multiplayer org chart building and by supplying community building tools.
+		* You'll get at great insight the array of technologies in AWS that we use to continuously deploy and host our services. These are built and deployed using CodePipeline and they communicate via SQS. Our main processes are running Scala services, using Akka/Sangria/Cats, Postgres, Redis and ElasticSearch and are deployed using the Elastic Beanstalk. For periodically running jobs we use ECS.
+		* You will be a part of a highly collaborative and agile team that values open-source, functional programming and Domain Driven Design and Clean Architecture.
+	- Projects were working on
+		* Introducing event sourcing to provide historical view of organizational charts and tree structures
+		* Extending our ML pipeline to predict organizational structure change and compositional tagging
+		* Building out robust feeds, notifications, analytics on our site
+		* Setting up a more robust data lake using Snowflake and Fivetran
+		* Improve our the accuracy and efficiency of our webcrawler including the infrastructure it runs on in AWS (ECS, Redis, Elasticsearch etc…)
+		* Building out our client facing graphQL API that currently serves more than 100M requests pr. month.
+	- Who you are
+		* You are curious, like to experiment with new ideas and enjoy solving problems. You are open-minded and a good listener when it comes to other peoples' ideas and voice your own ideas with confidence.
+		* You have professional experience working with Java or Scala. You feel right at home designing and implementing backend features and services.
+		* You are supportive and encouraging by nature, strive to be the best version of yourself and lift those around you up.
+		* Working in a team comes natural to you, you are easy to work with and value others' input.
+		* You are ambitious and want to make a difference where you work. You are eager to contribute to a positive and productive work environment.
++ skill set:
+	- Reservoir Labs, a high performance computing R&D firm with an award winning Cybersecurity team, is seeking a High Performance Network Research Engineer to join our growing business. We were named as one of the top 500 fastest and most innovative Cybersecurity companies in the nation by Cybersecurity Ventures. You will help innovate and lead advanced research and development projects within Reservoir's security product team.
+	- Job Responsibilities
+		* Contribute to research of future architectures and development of network processing and analysis products
+		* Program and utilize advanced packet processing and data analytics hardware (physical / on-premise virtual / cloud)
+		* Develop and implement new algorithms and systems for distributed high-throughput network processing
+		* Develop systems of devices, integrating with other parts of the cybersecurity and networking infrastructure
+	- Desired Skills & Experience
+		* BS, MS, or Ph.D. in Computer Science with strength and experience in networking, algorithms, and computer systems
+		* Skilled in systems programming tools (C, C++, Python, Bash, Angular, , and/or kernels)
+		* Strong software engineering skills and experience with software engineering tools (e.g., Atlassian/Jira, Mercurial, GIT)
+	- Plus Knowledge
+		* Zeek (Bro), Suricata, ElasticSearch, Kibana, Elk, Splunk
+		* Experience with advanced networking products, protocols, hardware and tools (e.g., SDN, OpenFlow, NetFlow, sFlow, Mininet)
+		* Cybersecurity and network security
+		* Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+		* Prior work with a variety of computer architectures
++ skill set:
+	- Reservoir Labs is seeking talented engineering, computer science, and mathematics interns to join our team. We are working on some of the most interesting and challenging problems related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics.
+	- As a member of our team, you will participate directly in our research, learn new skills at the cutting edge of computer science, and gain visibility with our customers. You will work with engineers across diverse areas and will be mentored by a Ph.D. researcher. You will have the opportunity to share your fresh perspective and make strong contributions to our research and engineering team.
+	- The concrete research and deep systems experience that you will gain working on projects at Reservoir will be especially beneficial to your application to graduate schools or search of full-time industry jobs.
+	- Some examples of recent intern projects include developing parallel hypergraph analytic visualization for cybersecurity, developing parallel SAT solvers, developing advanced systems software testing infrastructure, developing advanced optimizations for LQCD physics computations.
+	- An ideal candidate will have exceptional intellectual ability, motivation, and a strong history of achievement. Solid foundation in computer science and/or software engineering and strong math background (Linear Algebra, Algorithms, Numerical Analysis) are desired. Serious consideration will be given to candidates with strong programming skills (C, C++, and Java) and knowledge of computer systems and architectures. LLVM or other compiler development experience would be particularly valuable. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
+	- Currently Reservoir Labs is operating remotely. Should on-site work resume by Summer 2022, this role will be based in Reservoir Labs' New York City offices.
+	- Candidates seeking work in Reservoir's offices in Portland, OR or Denver, CO may be considered as well on a case-by-case basis.
++ skill set:
+	- If you're interested in really neat computer architectures and the compiler challenges associated with them, then you really want to be talking to us! We work at the cutting edge of compilers and computer architecture. These are real machines and they are doing important work.
+	- Reservoir Labs is looking for a Compiler Developer to join our growing business. We are tackling some of the most interesting and challenging problems in high performance computing, including designing compilers for high performance embedded computing systems, compiler algorithms for machine learning, and simulators and software for advanced supercomputers. This is a great opportunity for a rewarding career in applied computer science research.
+	- Work on a wide range of projects within small teams of engineers
+	- Frequently interact with clients and effectively identify and meet client needs
+	- Represent the company in conferences and industry forums
+	- Opportunity to lead and manage projects
+	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong software engineering and development skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with knowledge of and previous experience in compilers. Experience with LLVM is a plus. Interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
++ skill set:
+	- If you’re interested in advancing and applying mathematics to program optimization for cutting-edge computer architectures, then you really want to be talking to us! We work on developing new and innovative compilers that break the mold of current computing.
+	- Reservoir Labs is looking for Automatic Parallelization and Compiler Engineers and Researchers to join our growing business. We are tackling some of the most interesting and challenging problems in high performance computing, including designing compilers for high performance embedded computing systems, for machine learning, and for advanced supercomputers.
+	- We have a great platform, R-Stream, for applying and advancing the polyhedral model of optimization for these challenges. This is an opportunity for a rewarding career in applied computer science research.
+	- Job Responsibilities
+		* Develop and apply polyhedral optimization for new architecture and applications
+		* Work on a wide range of projects within small teams of engineers
+		* Frequently interact with clients and effectively identify and meet client needs
+		* Represent the company in conferences and industry forums
+		* Opportunity to lead and manage projects
+	- Desired Skills
+		* An advanced degree in the field of computer science or applied mathematics
+		* Experience with compiler development, the polyhedral model, and computer architecture
+		* Experience with software engineering
+		* Solid intellectual ability, motivation, and a strong history of achievement
+		* Excellent oral and written communication skills
+	- We are particularly interested in candidates with knowledge of the polyhedral model. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
++ skill set:
+	- Reservoir Labs is a private technology research and development company headquartered in New York City. Our mission is to make the world safer, cleaner, more secure, and more efficient through the application of radical high-performance computing technologies. Our engineers and computer scientists work on projects related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics. Reservoir has a proven track record of delivering cutting-edge solutions to both government and commercial clients.
+	- Reservoir Labs is seeking talented entry level Research Engineers to join our team. We are working on some of the most interesting and challenging problems related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics.
+	- As a Research Engineer, you will work on a range of projects within small technical teams. You will be closely guided and mentored by one of our experienced researchers, providing you with an unparalleled learning experience. You will have the opportunity to publish your own research papers, attend client meetings and academic conferences.
+	- Some examples of projects our Research Engineers have contributed to include:
+		* Cybersecurity behavioral analytics using hypergraph decomposition
+		* Advanced radar tracker algorithms for ballistic missile defense
+		* Parallelizing compilers for next generation processors (exascale, low power, accelerators)
+		* Software verification systems for software radios
+		* Parallel SAT solvers and their application
+		* Parallel hypergraph decomposition for analysis of intelligence data
+	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong math, programming and engineering skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with a firm math background, knowledge of network security, and/or knowledge of compilers. Passion for Computer Science research and application is a huge plus. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
++ skill set:
+	- Reservoir Labs seeks a Technical Writer to join our growing team. In this role you'll work closely with internal researchers, engineers, and program managers to produce technical results and technical documentation for a range of high-performance computing tools and products. You will create new and improve existing documentation for government and industry R&D projects that span compilers, machine learning, networking, cybersecurity, algorithms, and mathematics. Your work will be highly visible and will have a big impact on developer and end-user experience. 
+	- Work as a peer within Reservoir’s technical teams, contributing to technical development and taking responsibility in particular for communication of technical material to stakeholders (customers, prospects, users).
+	- Write truly great documentation, tutorials, presentations, and explanations, that propels our technology to breakout recognition and uptake. 
+	- Define and maintain the quality bar for documentation content and style
+	- Stay informed of industry trends and best practices and lead development of documentation and technical communication strategy
+	- Demonstrated experience with technical documentation and/or developer experience in the computing industry
+	- Exceptional written and oral communication skills, with strong attention to detail and a knack for problem-solving
+	- Familiarity with high-performance computing and one or more of Reservoir's technical focus areas (compilers, analytics, cybersecurity, algorithms, and/or sensors)
+	- Formal training or deep interest in computer science, ideally with intimate knowledge of computer architecture, programming, mathematics, and/or networking. 
+	- Experience with modern documentation tools, e.g. Latex, Doxygen, Sandcastle
+	- Demonstrated interest in the evolving landscape of technical documentation, e.g. familiarity with Jupyter notebooks, interactive HTML
++ data engineering tooling: Airflow and Databricks
++ MongoDB, Redis, Memcached, experience crafting NoSQL data models.
++ modern tech stack:
+	- React
+	- Redux
+	- Jest
+	- React Testing Library
+	- styled-components
+	- RxJS
+	- cutting-edge libraries
++ skill set:
+	- lead and execute all required audits and security practices:
+		* SOC2
+		* secret rotation
+		* engineering access rotation
+	- experience with security and compliance software:
+		* OPA
+		* Falco
+		* OSSEC/Wazuh
+	- experience with implementing AWS security best practices:
+		* IAM
+		* Security Groups
++ production engineer, in software development
++ skill set:
+	- production level Kubernetes, Helm, and Terraform experience
+	- experience with GitOps workflows for changes to environments
+	- experience with observability tools such as Prometheus, Grafana, ELK, Tracing, etc.
++ skill set:
+	- experience with configuration automation:
+		* Chef
+		* Ansible
+		* Puppet
+		* Salt
+	- experience working with public/hybrid Cloud platforms
+	- experience with containerization frameworks
+	- tech stack:
+		* Python
+		* Flask
+		* Ascynio, or asyncio — Asynchronous I/O (or, AsyncIO)
+		* Go
+		* PostgreSQL
+		* AWS
+		* Kubernetes
++ skill set:
+	- act as a domain leader in roadmapping prioritization, planning, and stakeholder management for the Fab and Design domains
+	- design and build interactive tools, dashboards and interfaces to enable turnkey analysis by teams across the company
+	- experience in modern data pipeline technologies built with DBT, Stitch, Fivetran, or other modern ETL (Extract, Transform, Load) tools.
+	- understanding of low-level protocols for communicating with metrology tools
++ skill set:
+	- deep experience building and maintaining schema-driven, widely accessible Web APIs:
+		* OpenAI
+		* GraphQL
+		* gRPC/Protobuf
+	- experience architecting, building, and deploying microservice architectures
+	- deploying Kubernetes and/or service mesh architectures
+	- streaming systems
+		* Kafka
+		* Kinesis
++ skill set:
+	- quantum error mitigation techniques, benchmarking tools
+	- quantum circuit design
+	- full-stack quantum computing systems
+	- Python numeric toolkits:
+		* numpy
+		* scipy
+		* pandas
+		* scikit-learn
++ skill set:
+	- experience with superconducting qubits
+	- experience with cryo-RF systems including RF and DC signal manipulation (attenuation, amplification, diplexing, etc.) and delivery
+	- experience with dilution refrigerators
+	- experience with RF measurement techniques
+	- experience in RF/microwave PCB design and layout
 
 
 
