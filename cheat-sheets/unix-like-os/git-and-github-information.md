@@ -11,7 +11,37 @@ Some ("unresolved") problems with *Git* and *GitHub* are listed as follows. If t
 
 ### error: invalid object \[A short integer\] \[A (very) long alphanumeric string\] for '.gitignore'
 
-Attempted solutions that failed to resolve the problem:
+
+
+Solutions for the problem:
++ Use the command [Nikulin2018]: ```git hash-object -w \[Locaton of file with invalid object\]```.
+	- For remaining Git fatal errors for invalid object association without mentioning of specific files: ```git hash-object -t .```
+
+
+
+
+
+#### References
+
+	@misc{Nikulin2018,
+		Address = {New York, {NY}},
+		Author = {Alexey Nikulin and Joshua Pinter and Patrick {McHeyser}},
+		Howpublished = {Available online from {\it Stack Exchange Inc.: Stack Overflow: Questions} at: \url{https://stackoverflow.com/a/38603911/1531728} and \url{https://stackoverflow.com/questions/14448326/git-commit-stopped-working-error-building-trees/38603911#38603911}; October 11, 2021 was the last accessed date},
+		Month = {December 23},
+		Publisher = {{Stack Exchange, Inc.}},
+		Title = {Answer to `git commit stopped working -- Error building trees'},
+		Url = {https://stackoverflow.com/a/38603911/1531728},
+		Year = {2018},
+		Annote = {For files in a Git repository that are associated with invalid objects: git hash-object -w \[Locaton of file with invalid object\].
+			For remaining Git fatal errors for invalid object association without mentioning of specific files: ``git hash-object -t .''.}}
+
+
+
+
+
+
+
+Other attempted solutions that failed to resolve the problem:
 + https://medium.com/@panjeh/git-error-invalid-object-error-building-trees-44b582769457
 + https://git-annex.branchable.com/bugs/__34__error__58___invalid_object__34____44___after_add__59___cannot_commit/
 + https://stackoverflow.com/questions/14448326/git-commit-stopped-working-error-building-trees
