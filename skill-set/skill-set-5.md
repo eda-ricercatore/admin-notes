@@ -3168,10 +3168,75 @@
 	- experience with dilution refrigerators
 	- experience with RF measurement techniques
 	- experience in RF/microwave PCB design and layout
-
-
-
-
++ data plane development kit, DPDK, from the Linux Foundation for computer networking and interactions with the Linux operating system kernel
++ skill set:
+	- B.S./B.A. degree in Computer Science or related field; or equivalent work experience
+	- Computer Science fundamentals in systems design, data structures, algorithm design and problem solving
+	- Experience with, or a strong understanding of, agile software development principles
+	- Professional level proficiency with one or modern programming languages: Java, JavaScript, or C++ preferred
+	- Experience with Cassandra, MongoDB, Kafka, Elasticsearch, JavaScript, React, Node.js, AWS, Git, Linux and Python are all valuable pluses
+	- Knowledge and interest in computer networking and application monitoring concepts
+	- Knowledge and interest in professional software development/engineering practices and system design best practices
+	- Clear communicating with business stakeholders, users and other technical teams to envision and deliver innovative solutions
+	- A track record of personally delivering working software
++ skill set:
+	- Experience in Linux programming in the C language with emphasis on knowledge of system calls, threading, and interaction with device drivers.
+	- Knowledge of L2/L3 networking for network design, troubleshooting and programming.
+	- Experience in multiple virtualization environments such as VMware, KVM, OpenStack, AWS, Azure, GCP, and OCI.
+	- Experience with containers and Kubernetes.
+	- Hands-on knowledge and interest in network design/creation for container and VM environments.
+	- Familiarity with the Linux systems and system administration.
+	- Familiarity with git helpful.
++ skill set:
+	- Ability to specify, design, codify and communicate the technical design of the solution to key stakeholders. This includes creating high-level design artefacts, and the documentation required in order to describe the functional capability of features to stakeholders.
+	- Perform independent technical and functional analysis for multiple projects supporting several initiatives. This includes the design, implementation and integration of the various components of solution including automated testing and verification.
+	- Work with different stakeholders including customers/end users, product management, software architects and software developers to design implement world-class software solutions for Tier 1 Mobile Telecom Operators who operate the largest networks on the planet.
+	- Responsible for coming up with practical and innovative solutions to complex real world technical problems and also being able to communicate solution to internal stakeholders.
+	- Accurately planning, scheduling and executing own work with the ability to cope with changing requirements including multiple assignments. This includes the ability to estimate software development tasks accurately and when necessary to do work breakdown for other engineers.
+	- Object Oriented Design and Object Oriented Programming knowledge and experience
+	- Java programming skills, includes design, coding, testing, debugging and code optimisation.
+	- Knowledge across multiple flavours of Unix O/S (CentOS 6/7/8, RHEL, Oracle Linux) with experience of permission management, system administration and other O/S features.
+	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
+	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
+	- Excellent communications skills both written and verbal are required in this role. The ability to present complex ideas in a convincing and understandable manner is a key requirement.
+	- Aptitude for learning and demonstrated ability to master new technologies and concepts quickly.
+	- Experience in Scala and/or Python programming languages
+	- Experience of Spark and/or Kafka for stream processing
+	- Experience of using containers to package and deploy software in Docker or Kubernetes environments
+	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+	- Experience with one or more cloud platforms (AWS/Azure/GCP)
+	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
+	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
++ skill set:
+	- Object Oriented Design and Object Oriented Programming knowledge and experience
+	- Java programming skills, includes design, coding, testing, debugging and code optimisation.
+	- Knowledge across multiple flavours of Unix O/S (CentOS 6/7/8, RHEL, Oracle Linux) with experience of permission management, system administration and other O/S features.
+	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
+	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
+	- Excellent communications skills both written and verbal are required in this role. The ability to present complex ideas in a convincing and understandable manner is a key requirement.
+	- Aptitude for learning and demonstrated ability to master new technologies and concepts quickly.
+	- Experience in Scala and/or Python programming languages
+	- Experience of Spark and/or Kafka for stream processing
+	- Experience of using containers to package and deploy software in Docker or Kubernetes environments
+	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+	- Experience with one or more cloud platforms (AWS/Azure/GCP)
+	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
+	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
++ skill set:
+	- B.S./B.A. degree in Computer Science or related field; or equivalent work experience
+	- Computer Science fundamentals in systems design, data structures, algorithm design and problem
+solving
+	- Experience or a strong understanding of agile product development principles
+	- Professional level proficiency with one or modern programming languages: Java, JavaScript, or C++ preferred
+	- Experience with Cassandra, MongoDB, Kafka, Elasticsearch, JavaScript, React, Node.js, AWS, Git, Linux and Python are all valuable pluses
+	- 2-5 years of development experience
+	- Knowledge and interest in computer networking and application monitoring concepts
+	- Knowledge and interest in professional software development/engineering practices and system design
+best practices
+	- Experience in communicating with business stakeholders, users and other technical teams to envision
+and deliver innovative solutions
+	- A track record of personally delivering working software
++ Understanding of TCP Protocols protected by the Arbor Solution - Web (HTTP, HTTPS), API (SOAP, XML, REST), Email (POP/POP3, SMTP, IMAP/IMAP4), Database (MySQL, MS SQL, Oracle) & Other (Telnet, SSH, FTP).  Have a solid knowledge of these protocols, how they are used.
 
 
 
