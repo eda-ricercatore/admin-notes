@@ -5,15 +5,15 @@ This document is my summary, or cheat sheet, about the Unified Modeling
 
 ##	Table of Contents
 
-+ [Author's note](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#authors-note)
-+ [Types of UML Diagrams](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#types-of-uml-diagrams)
-+ [Class Diagrams](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#class-diagrams)
-	- [Notes about Classes and Objects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#notes-about-classes-and-objects)
-	- [Visibility and Scope of Class members](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#visibility-and-scope-of-class-members)
-	- [Types of instance-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#types-of-instance-level-relationships)
-	- [Class-level relationships](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#class-level-relationships)
-	- [Analysis stereotypes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#analysis-of-stereotypes)
-+ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md#references)
++ [Author's note](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#authors-note)
++ [Types of UML Diagrams](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#types-of-uml-diagrams)
++ [Class Diagrams](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#class-diagrams)
+	- [Notes about Classes and Objects](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#notes-about-classes-and-objects)
+	- [Visibility and Scope of Class members](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#visibility-and-scope-of-class-members)
+	- [Types of instance-level relationships](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#types-of-instance-level-relationships)
+	- [Class-level relationships](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#class-level-relationships)
+	- [Analysis stereotypes](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#analysis-of-stereotypes)
++ [References](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/uml.md#references)
 
 
 
