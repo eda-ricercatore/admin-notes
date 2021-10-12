@@ -65,7 +65,7 @@ To modify a *Git* repository using the
 
 
 
-![Git commit and push](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
+![Git commit and push](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
 
 
 
@@ -82,11 +82,11 @@ Resources for learning about *Git*:
 
 The main web page for GitHub is shown below, and is available at: https://github.com/.
 
-![main web page for GitHub](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/github-main-page.jpg)
+![main web page for GitHub](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/github-main-page.jpg)
 
 The main web page for GitHub, after logging in, is shown below.
 
-![main web page for GitHub after logging in](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/github-main-page-logged-in.jpg)
+![main web page for GitHub after logging in](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/github-main-page-logged-in.jpg)
 
 
 
@@ -97,12 +97,12 @@ To customize your *GitHub* profile, click on the icon with your profile picture
 	and select the ["Settings" option](https://github.com/settings/profile)
 	from the drop-down list.
 
-![Drop-down list "Settings" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/profile-dropdown-menu-settings.jpg)
+![Drop-down list "Settings" option](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/profile-dropdown-menu-settings.jpg)
 
 
 You can edit profile information for your *GitHub* account, such as your name, to disclose/display an email address publicly (and if so, which email address) or avoid displaying any email address, a short biography of yourself, the URL of your web page, and your current location.
 
-![Public profile settings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/profile-settings.jpg)
+![Public profile settings](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/profile-settings.jpg)
 
 
 
@@ -111,28 +111,28 @@ To change username and password of your *GitHub* profile, select the "Account" o
 
 
 
-![To change username and password of your *GitHub* profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-password.jpg)
+![To change username and password of your *GitHub* profile](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/change-username-password.jpg)
 
 
 
 To change your username for your *GitHub* profile, click on change username. You will be warned about changing your username. Proceed by clicking on the "I understand, let's change my username" option/button.
 
-![Warning about changing your username](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-2.jpg)
+![Warning about changing your username](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/change-username-2.jpg)
 
 Enter your new username, and click on the "Change my username" option/button.
 
-![Enter your new username.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-3.jpg)
+![Enter your new username.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/change-username-3.jpg)
 
 The next screen should indicate that your username has been renamed, and it should also show a button to bring you to new profile settings.
 
-![Username has been renamed](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-username-4.jpg)
+![Username has been renamed](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/change-username-4.jpg)
 
 
 
 To add and/or change email addresses associated with your *GitHub* profile, [select the "Emails" option of the "Personal settings" menu on the right](https://github.com/settings/emails).
 
 
-![To add and/or change email addresses associated with your *GitHub* profile](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/change-email.jpg)
+![To add and/or change email addresses associated with your *GitHub* profile](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/change-email.jpg)
 
 
 
@@ -153,15 +153,15 @@ Each project that you work on can be stored locally on your computer, and online
 
 To create a new *GitHub* repository, click on the plus icon "+" on the top-right corner of the *GitHub* page, on the left of the profile picture icon.
 
-![Click on the plus icon "+" on the top-right corner of the *GitHub* page](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository.jpg)
+![Click on the plus icon "+" on the top-right corner of the *GitHub* page](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/new-repository.jpg)
 
 This brings you to a page to [create a new *GitHub* repository](https://github.com/new). Provide a name for the *GitHub* repository that you are trying to create. Also, provide a description for the *GitHub* repository. In addition, select either the "Public" or "Private" option for the *GitHub* repository. Furthermore, if you want a new/empty README file for the *GitHub* repository, check the "Initialize this repository with a README" option.
 
-![Create a new *GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-1.jpg)
+![Create a new *GitHub* repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/new-repository-1.jpg)
 
 To avoid committing temporary files associated with the main/primary computer language (supported by *GitHub*) used in your repository, click on the "Add .gitignore: None" button and select one of the computer languages from the drop-down list. If you are using computer languages not supported by *GitHub* in your project/repository, ignore this step.
 
-![Select one of the computer languages from the drop-down list.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/new-repository-2.jpg)
+![Select one of the computer languages from the drop-down list.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/new-repository-2.jpg)
 
 Click on the "Create repository" button at the bottom of the web page.
 
@@ -181,19 +181,19 @@ Click on the "Create repository" button at the bottom of the web page.
 
 When viewing a text file in the *GitHub* repository, indicate if the text file can be edited by checking if there is an "editing" icon that is shaped like a pencil/pen. If this "editing" icon exists, click on the "editing" icon to edit the text file. In the picture shown below, this "editing" icon is circled in red.
 
-![Text file that can be edited, and is shown in a panel with an "editing" icon in the top-right corner of the panel](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/initial-repository.jpg)
+![Text file that can be edited, and is shown in a panel with an "editing" icon in the top-right corner of the panel](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/initial-repository.jpg)
 
 This brings you to an online text editor to edit the text file, which has read and write permissions, so that the file can be modified and saved online (i.e., commit and push the modification).
 
-![Online text editor to edit a text file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
+![Online text editor to edit a text file](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/editing-readme-file.jpg)
 
 In the text boxes under the "Commit changes" label, write a summary of the modification in the top text box labeled, and write an optional brief description of the modification in the bottom text box. To accept this modification of the file, and commit (or upload) this modification, click on the green "Commit changes" button in the bottom-left corner of the Web page.
 
-![To accept this modification of the file, and commit or upload this modification](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/committing-files.jpg)
+![To accept this modification of the file, and commit or upload this modification](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/committing-files.jpg)
 
 The updated README file is shown below.
 
-![updated README file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+![updated README file](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
 
 
 
@@ -209,7 +209,7 @@ To modify a *GitHub* repository using the
 + `git push`
 
 
-![Git commit and push](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
+![Git commit and push](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/git-commit-push-files.jpg)
 
 
 
@@ -220,16 +220,16 @@ To modify a *GitHub* repository using the
 
 To add collaborators to a *GitHub* repository, begin by clicking on the "Settings" tab of the repository, which is the rightmost tab near the top of the web page for the repository. This "Settings" tab is circled in red.
 
-![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
 
 
 On the vertical list/menu beginning with "Options" on the right side of the "Settings" page of the *GitHub* repository, click on the "Collaborators" option. This "Collaborators" option is circled in red.
 
-![click on the "Collaborators" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
+![click on the "Collaborators" option](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
 
 To add collaborators to your *GitHub* repository, enter their *GitHub* username or email addresses associated with their *GitHub* account, and click on the "Add collaborator" button on the center-right side of the page.
 
-![click on the "Add collaborator" button](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/add-collaborators.jpg)
+![click on the "Add collaborator" button](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/add-collaborators.jpg)
 
 
 
@@ -241,15 +241,15 @@ Go to the "Collaborators" page via the "Settings" page of the *GitHub* repositor
 
 Going to the "Settings" page of the *GitHub* repository.
 
-![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
 
 Go to the "Collaborators" page of the *GitHub* repository.
 
-![click on the "Collaborators" option](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
+![click on the "Collaborators" option](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/repository-settings.jpg)
 
 Click on the cross on the right side of a collaborator who you want to remove access to the repository.
 
-![Remove collaborator from the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/remove-collaborators.jpg)
+![Remove collaborator from the repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/remove-collaborators.jpg)
 
 
 
@@ -258,16 +258,16 @@ Click on the cross on the right side of a collaborator who you want to remove ac
 
 To set your *GitHub* repository to private, begin by clicking on the "Settings" tab of the repository, which is the rightmost tab near the top of the web page for the repository. This "Settings" tab is circled in red.
 
-![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
+![Click on the "Settings" tab of the repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/updated-readme-file.jpg)
 
 Initial "Settings" page of the *GitHub* repository.
 
-![Initial "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/repo-settings-page.jpg)
+![Initial "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/repo-settings-page.jpg)
 
 
 Scroll to the bottom of the "Settings" page of the *GitHub* repository.
 
-![Scroll to the bottom of the "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private.jpg)
+![Scroll to the bottom of the "Settings" page of the *GitHub* repository.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/make-repo-private.jpg)
 
 Click on the grey/gray "Make private" button (circled in red) in the "Danger Zone".
 
@@ -275,26 +275,26 @@ The tab/window would be darkened, and a pseudo-"pop-up window" would ask you to 
 
 Type in the name of the *GitHub* repository, and click on the "I understand, make this repository private." button (circled in red).
 
-![First Warning, Darkened Pop-up Window](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-warning.jpg)
+![First Warning, Darkened Pop-up Window](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-warning.jpg)
 
 
 
 You will be redirected to a page to authenticate your identity. This acts as a second warning to remind you of the seriousness of your action in making the repository private.
 
-![NetID authentication](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-authentication.jpg)
+![NetID authentication](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/make-repo-private-authentication.jpg)
 
 
 You will return to the "Settings" page of the *GitHub* repository, with the "Private" flag (circled in red) beside the name of the repository (near the top left corner of the window/tab).
 
-![Private repo 1](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-1.jpg)
+![Private repo 1](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/private-repo-1.jpg)
 
 When you scroll to the bottom of the page, you will notice a "Make public" button (circled in red) in the "Danger Zone". This is because the *GitHub* repository is currently private, and cannot be made "private private". However, it has the "Make public" button in the "Danger Zone" to allow the administrator/collaborator of the *GitHub* repository make set the *GitHub* repository to public, so that everyone can see it again.
 
-![Private repo 2](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-2.jpg)
+![Private repo 2](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/private-repo-2.jpg)
 
 Similarly, when you return to the main page of the *GitHub* repository, you will notice the "Private" flag (circled in red) beside the name of the repository (near the top left corner of the window/tab).
 
-![Private repo indicator](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/make-repo-private/private-repo-indicator.jpg)
+![Private repo indicator](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/make-repo-private/private-repo-indicator.jpg)
 
 
 
@@ -306,11 +306,11 @@ Similarly, when you return to the main page of the *GitHub* repository, you will
 
 A new file for your repository can be generated by clicking the "Create new file" button near the top of the repositories.
 
-![Create new file in repositories](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/create-new-file.jpg)
+![Create new file in repositories](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/create-new-file.jpg)
 
 An online text editor would be opened for you to edit/write a text file. This is shown below.
 
-![GitHub online text editor](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/create-new-file-2.jpg)
+![GitHub online text editor](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/create-new-file-2.jpg)
 
 
 
@@ -320,23 +320,23 @@ An online text editor would be opened for you to edit/write a text file. This is
 
 Directory of file to be deleted.
 
-![Directory of file to be deleted](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/directory-of-file-to-be-deleted.jpg)
+![Directory of file to be deleted](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/file-deletion/directory-of-file-to-be-deleted.jpg)
 
 File to be deleted. Click on the icon of a trash can on the right (circled in red) to delete the file.
 
-![File to be deleted.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/file-to-be-deleted.jpg)
+![File to be deleted.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/file-deletion/file-to-be-deleted.jpg)
 
 Deleting file.
 
-![Deleting file - Step 1](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
+![Deleting file - Step 1](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/file-deletion/deleting-file-1.jpg)
 
 Add a comment to describe this file deletion. And, click on the "Commit changes" green button below to confirm deletion of the file.
 
-![Deleting file - Step 2](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
+![Deleting file - Step 2](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/file-deletion/deleting-file-2.jpg)
 
 File deleted.
 
-![File deleted.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/file-deletion/file-deleted.jpg)
+![File deleted.](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/file-deletion/file-deleted.jpg)
 
 
 
@@ -358,11 +358,11 @@ File deleted.
 
 You can upload files for your repository by clicking the "Upload files" button near the top of the repositories.
 
-![Upload files to *Git* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
+![Upload files to *Git* repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
 
 Drag files to the shaded region labeled "Drag files here to add them to your repository," or click the hyperlink labeled "choose your files" to select files to be uploaded.
 
-![How to upload files](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/upload-files-2.jpg)
+![How to upload files](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/upload-files-2.jpg)
 
 
 
@@ -371,39 +371,39 @@ Drag files to the shaded region labeled "Drag files here to add them to your rep
 
 You can also upload folders/directories for your repository by clicking the "Upload files" button near the top of the repositories.
 
-![Upload files to *Git* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
+![Upload files to *Git* repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/upload-files.jpg)
 
 ***Drag folders/directories to the shaded region labeled "Drag files here to add them to your repository."***
 
 Initial Git repository without any syllabus.
 
-![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-before-uploads.jpg)
+![Initial Git repository without any syllabus](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/git-repo-before-uploads.jpg)
 
 Uploaded directory with two syllabi to the Git repository.
 
-![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/add-two-syllabi.jpg)
+![Adding two syllabi to the Git repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/add-two-syllabi.jpg)
 
 Added directory with two syllabi.
 
-![Added directory and two syllabi](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/added-directory.jpg)
+![Added directory and two syllabi](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/added-directory.jpg)
 
 The two added syllabi.
 
-![The two added syllabi](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/two-syllabi.jpg)
+![The two added syllabi](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/two-syllabi.jpg)
 
 Adding more syllabi to the Git repository, by uploading the modified directory (initial directory with additional files) again.
 
-![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/add-more-syllabi-upload-directory-again.jpg)
+![Adding more syllabi to the Git repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/add-more-syllabi-upload-directory-again.jpg)
 
 ***IMPORTANT NOTE!!!: Initial uploaded syllabi were not overwritten.***
 
 The directory/folder is modified. Initial uploaded syllabi were not overwritten.
 
-![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/uploaded-directory.jpg)
+![Initial uploaded syllabi were not overwritten](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/uploaded-directory.jpg)
 
 Information regarding the initial upload of files is retained, while other files are added to the directory/folder (that was uploaded).
 
-![Information regrading the initial upload of files is retained](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrite.jpg)
+![Information regrading the initial upload of files is retained](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/upload-subdirectory/no-overwrite.jpg)
 
 
 
@@ -418,7 +418,7 @@ Information regarding the initial upload of files is retained, while other files
 
 To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by SSH, click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the SSH protocol).
 
-![Clone with SSH](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-clone-ssh.jpg)
+![Clone with SSH](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/git-clone-ssh.jpg)
 
 
 
@@ -426,7 +426,7 @@ To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/e
 
 To determine the URL to [clone a *GitHub* repository](https://git-scm.com/book/en/v1/Git-Basics-Getting-a-Git-Repository) by [HTTPS](https://help.github.com/articles/cloning-a-repository/), click on the green "Clone or download" button on the right side of the Web page for the *GitHub* repository. Subsequently, click on the "copy to clipboard" icon to copy the URL (for the HTTPS protocol).
 
-![Clone with HTTPS](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/git-clone-https.jpg)
+![Clone with HTTPS](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/git-clone-https.jpg)
 
 
 
@@ -438,22 +438,22 @@ To generate a pair of SSH Keys (i.e., the public key and the corresponding
 	from the command line in the *Terminal* application,
 	use the `ssh-keygen -f [*location where SSH private and public key would be stored*]/[name associated with this pair of SSH keys] -C [A description that would be associated with this pair of SSH keys]` command.
 
-![Generate SSH keys](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key.jpg)
+![Generate SSH keys](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key.jpg)
 
 The contents of the public SHH key can be read as a text file.
 
-![Read public SSH key](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key-2.jpg)
+![Read public SSH key](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/read-public-ssh-key-2.jpg)
 
 
 ###	Associating SSH Public Keys with a *GitHub* Profile
 
 Go to your *GitHub* profile's "Settings" page, and under the "Personal settings" list on the right, select the "SSH and GPG keys" option. Click on the green "New SSH key" button to add a SSH key to this repository. Also, for each displayed SSH key that is associated with your *GitHub* profile, you can click the grey button with the "Delete" label to dissociate that SSH key from your *GitHub* profile.
 
-![Setting SSH keys](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/settings-ssh-keys.jpg)
+![Setting SSH keys](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/settings-ssh-keys.jpg)
 
 When adding a public SSH key to your *GitHub* profile, describe the public SSH key (e.g., the computer account and the computer where its corresponding private SSH key is stored) in the text box labeled "Title" and paste the public SSH key into the text box labeled "Key".
 
-![Adding public SSH key](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/add-ssh-key.jpg)
+![Adding public SSH key](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/add-ssh-key.jpg)
 
 
 
@@ -473,7 +473,7 @@ To clone a *GitHub* repository by SSH, via the command-line interface, the follo
 
 From the command-line interface, use the `git clone [URL of *GitHub* repository for the SSH protocol]` command to clone a *GitHub* repository by SSH.
 
-![CLI command for cloning *GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/terminal-clone.jpg)
+![CLI command for cloning *GitHub* repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/terminal-clone.jpg)
 
 
 
@@ -485,15 +485,15 @@ Visually, the contents of a directory where a *Git*/*GitHub* repository would be
 
 Before cloning a *Git*/*GitHub* repository, the contents of the directory are shown below.
 
-![Before cloning Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/before-clone.jpg)
+![Before cloning Git repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/before-clone.jpg)
 
 After cloning a *Git*/*GitHub* repository, the contents of the directory are shown below.
 
-![After cloning Git repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/after-clone.jpg)
+![After cloning Git repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/after-clone.jpg)
 
 The contents of the cloned *Git*/*GitHub* repository are shown below.
 
-![Contents of cloned *Git*/*GitHub* repository](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/tutorials/git-tutorial-pics/administrative-tasks/after-clone-2.jpg)
+![Contents of cloned *Git*/*GitHub* repository](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial-pics/administrative-tasks/after-clone-2.jpg)
 
 
 
