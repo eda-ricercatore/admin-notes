@@ -1,4 +1,4 @@
-hat if the main method is declared as private?
+What if the main method is declared as private?
 
 The program compiles properly but at runtime it will give “Main method not public.” message.
 
