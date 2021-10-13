@@ -2167,7 +2167,7 @@ The function `deal(a)` is used to reproduce/copy data/information from
 ###	Documentation Generation
 
 To automatically generate documentation for *GNU Octave*
-	scripts/programs, use [Texinfo](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md).
+	scripts/programs, use [Texinfo](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/tools/texinfo.md).
 
 
 
