@@ -371,14 +371,14 @@ Subfunctions are secondary functions that the primary/first function
 	in a function file would call.
 	Its scope is limited to functions in that function file 
 	\cite[\S11.9.2, pp. 192]{Eaton2016a}.
-	Here is an example of a [function in a function file](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/j-main.m)
-	calling [subfunctions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/j_subfunctions.m).
+	Here is an example of a [function in a function file](https://github.com/eda-ricercatore/octave-sandbox/blob/main/j-main.m)
+	calling [subfunctions](https://github.com/eda-ricercatore/octave-sandbox/blob/main/j_subfunctions.m).
 
 
 ####	Private Functions
 
-My [implementation](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/z-dir) of private functions was **unsuccessful**.
-	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/gnu-octave/y-dir) **failed**, too.
+My [implementation](https://github.com/eda-ricercatore/octave-sandbox/tree/main/z-dir) of private functions was **unsuccessful**.
+	Similarly, my [test case for private functions](https://github.com/eda-ricercatore/octave-sandbox/tree/main/y-dir) **failed**, too.
 
 ####	Nested Functions
 
@@ -1130,7 +1130,7 @@ Notes based on experiential analysis:
 + Calling the function *`index(s,t,direction)`* with an invalid
 	direction (i.e., not "first" nor "last") will result in a
 	thrown error \cite[\S5.5, pp. 78-79]{Eaton2016a}.
-	See [script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-strings.m).
+	See [script](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-strings.m).
 
 
 
@@ -1368,7 +1368,7 @@ When we called the function size(x), on a nested *struct* "x", it always
 	returns the array [1 1] as the size of the nested *struct*.
 	It does not return a set of values that correctly/"correctly"
 	indicates the size of the nested structure.
-	See [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m).
+	See [h-structures.m](https://github.com/eda-ricercatore/octave-sandbox/blob/main/h-structures.m).
 
 ####	Structure Creation
 
@@ -1399,13 +1399,13 @@ When elements of a *struct* are a mixture of scalar and cell arrays,
 "To create a *struct* "that has/contains "a cell array as an individual
 	field", wrap it in another cell array
 	\cite[\S6.1.3, pp. 106]{Eaton2016a}.
-	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), when we specify the cell
+	From personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/octave-sandbox/blob/main/h-structures.m), when we specify the cell
 		array using square brackets, an instance of the cell array is
 		assigned to each field; curly braces are needed to assign
 		each element in the cell array to each field of the *struct*;
 		in the cell array, each element in the cell array is
 		delimited/delineated by a comma (or white space).
-	Also, from personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-structures.m), the cardinality/dimension 
+	Also, from personal experimentation in [h-structures.m](https://github.com/eda-ricercatore/octave-sandbox/blob/main/h-structures.m), the cardinality/dimension 
 		of cell arrays in each field should match; if there is only
 		one value for a field, while the other fields have multiple
 		values, that value is repeated *n* times (dimensionality of
@@ -1535,7 +1535,7 @@ A nested cell array is hierarchically displayed via *`celldisp()`*,
 	A boolean *true* is returned if *x* is a cell array object.
 	Else, return boolean *false* \cite[\S6.2.1, pp. 113]{Eaton2016a}.
 
-The script [h-multi-dimensionall-cell-array.h](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/h-multi-dimensionall-cell-array.h) indicates that embedded
+The script [h-multi-dimensionall-cell-array.h](https://github.com/eda-ricercatore/octave-sandbox/blob/main/h-multi-dimensionall-cell-array.h) indicates that embedded
 	elements are displayed first, before visiting next cell/field.
 	This demonstrates that the elements of multi-dimensional matrices
 	are processed from the right-most dimension to the left-most
@@ -2279,7 +2279,7 @@ A global variable cannot be initialized to different values on
 		\cite[\S7.3, pp. 131]{Eaton2016a}.
 	In general, a global variable can be changed to a different value
 	you assign a new value to the global variable, without redeclaring
-	it as a global variable again; see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+	it as a global variable again; see [script to show various usage of global variables](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-variables.m).
 	After the initial assignment of a global variable, subsequent
 	assignment of a global variable to other values must not invoke
 	use of the keyword *'global'* (in these reassignment statements).
@@ -2293,7 +2293,7 @@ When a global variable is passed as an input argument during a
 	has a value that remains unchanged.
 	The global variable can be changed to a different value when it
 	is declared as a global variable in the body of a function;
-	see [script to show various usage of global variables](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+	see [script to show various usage of global variables](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-variables.m)
 	\cite[\S7.1, pp. 125]{Eaton2016a}.
 
 The function *`isglobal(name)`* returns *True* if *name* is a global
@@ -2429,7 +2429,7 @@ There are several functions to determine the status of variables:
 		If any of the names in the *[list of names]* does not match
 		an existing variable, function, operator, keyword, or file,
 		it is undefined and it will cause an error to be thrown at
-		run time. See [("commented out") implementation of this in this hyperlinked script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+		run time. See [("commented out") implementation of this in this hyperlinked script](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-variables.m)
 		By default, calling the function *`type`* displays a header
 		line printing the *name* being processed and a short
 		description of its category (such as 'function' or 'variable').
@@ -2443,7 +2443,7 @@ There are several functions to determine the status of variables:
 		each name in the *[list of names]*
 		\cite[\S7.3, pp. 132]{Eaton2016a}.
 		If the name is undefined, calling the function *`which`* will
-		produce no output; see [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m).
+		produce no output; see [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-variables.m).
 		That said, we am unable to call the function *`which`*
 		successfully with a "name defined [in] a function file",
 		which should result in displaying the filename, too; this
@@ -2453,7 +2453,7 @@ There are several functions to determine the status of variables:
 		*GNU Octave* files are *GNU Octave* scripts (or function files).
 		If this function is called without input arguments, it will
 		display *GNU Octave* files in the current working directory.  
-		See [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-variables.m)
+		See [its implementation in this *GNU Octave* script](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-variables.m)
 		\cite[\S7.3, pp. 132-133]{Eaton2016a}.
 
 
@@ -2585,7 +2585,7 @@ I do not understand the material in the second paragraph of \S8.1.1,
 
 For the case of *(m>n)*, I have experimentally determined that it will
 	result in a array/matrix "index out of bounds" error; see
-	[this script for its implementation](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/gnu-octave/i-expressions.m).
+	[this script for its implementation](https://github.com/eda-ricercatore/octave-sandbox/blob/main/i-expressions.m).
 
 
 
