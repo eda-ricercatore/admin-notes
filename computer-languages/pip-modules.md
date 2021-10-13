@@ -94,7 +94,7 @@ For consistency, try to use these common *Python* libraries in my
 	common *Python* libraries.
 	- Hence, this may prevent users/people from using *PIP* to install such
 		common *Python* libraries.
-		* However, [there are ways to force an installation to occur](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip). 
+		* However, [there are ways to force an installation to occur](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/pip-modules.md#force-installation-of-modules-via-pip). 
 
 
 
@@ -163,7 +163,7 @@ Hence, I should uninstall the current version of that *Python* library, and rein
 	it.
 + [If the *Python* library cannot be installed via *PIP* or *conda*, use these
 	specified options with *PIP* to force installation of this *Python* library
-	to occur](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
+	to occur](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
 	- If the *conda*-installed version of the *Python* library is older than the
 		available version via *PIP*, doing this will uninstall the
 		*conda*-installed version and install the currently available version
@@ -171,7 +171,7 @@ Hence, I should uninstall the current version of that *Python* library, and rein
 + Doing this via *PIP* may not work, since the associated version of *Python*
 	that is used belongs to *Python* 2.7.x (or later) rather than *Python* 3.8.x
 	(or later).
-	- Hence, [use *pip3* instead, as shown above](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
+	- Hence, [use *pip3* instead, as shown above](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/pip-modules.md#force-installation-of-modules-via-pip).
 
 
 
