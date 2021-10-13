@@ -1321,7 +1321,7 @@ Pages in \cite{Hetland2005} that deal with importing
 
 Immutable data types are \cite{Sturtz2020}:
 + tuples
-	- [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 
 Dictionary keys have to be ([hashable](https://docs.python.org/3/glossary.html#term-hashable))
 	data types \cite{Sturtz2020}, such as the following: 
@@ -2377,7 +2377,7 @@ The following modules in *The Python Standard Library* \cite{DrakeJr2016e,DrakeJ
 From \cite[Chapter 2, pp. 39]{Alchin2010}
 + lists \cite[\S5.1]{Brandl2017a}
 	- [A list can contain elements that are objects of multiple classes,
-		which are not of the basic numeric data types](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/numbers/very_abnormal_operations_with_numbers.py).
+		which are not of the basic numeric data types](https://github.com/eda-ricercatore/python-sandbox/blob/main/numbers/very_abnormal_operations_with_numbers.py).
 		* Note that this can cause TypeErrors to occur when I perform
 			arithmetic (and logic) operations.
 			+ This requires methods (or functions) that use/implement
@@ -2385,17 +2385,17 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 				performed on numbers, to check for the class/type of
 				objects in the list before enumerating the list to perform
 				these arithmetic (and logic) operations.
-	- [Examples of: embedded lists, or a list of a single list of a single list...; of enumerating a list and the index of each enumerated object; and of enumerating multiple lists with the index of the currently/concurrently enumerated objects](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/performing_operations_on_lists.py)
+	- [Examples of: embedded lists, or a list of a single list of a single list...; of enumerating a list and the index of each enumerated object; and of enumerating multiple lists with the index of the currently/concurrently enumerated objects](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/performing_operations_on_lists.py)
 		* includes an example on [list comprehension](https://en.wikipedia.org/wiki/List_comprehension), which is exploited in functional programming (for monad comprehension, set comprehension, dictionary comprehension, parallel list comprehension)
 		* "List comprehension results in faster operations than explicit *for* loops" \cite{ParewaLabsStaff20XYa}.
-		* [Using the *range(start,end,incremental_step)* function to create a list ranging from *start* to *end*, with increments of *incremental_step*, and using it to create lists of powers of 2 (e.g., 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, ...)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/range_list_enumeration.py)
+		* [Using the *range(start,end,incremental_step)* function to create a list ranging from *start* to *end*, with increments of *incremental_step*, and using it to create lists of powers of 2 (e.g., 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, ...)](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/range_list_enumeration.py)
 			- Also, uses a range of floating-point numbers with increments that are floating-point numbers, and demonstrates different solutions for doing this.
 	- From the [subsubsection on *Python* Functions (section *Python* Classes)](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/python.md#python-functions), check out the comparisons between the following:
 		* list comprehensions versus (loops and *Python* Functions) \cite{ParewaLabsStaff20XYa}.
 		* list comprehensions versus (maps and filters) \cite[Chapter 6, pp. 135]{Hetland2005}.
 + tuples (and lists, sequences, and ranges) \cite[\S5.3]{Brandl2017a}
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
-		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 	- From \cite{ParewaLabsStaff20XYc}:
 		* Since tuples are immutable,  it can be faster to enumerate a
 			tuple than a list.
@@ -2403,13 +2403,13 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 			remain read-only (or write-protected).
 		* Try to use tuples for heterogeneous (multiple) data types, and
 			lists for homogeneous (only one) data type.
-	- [Can store objects from different classes](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [Can store objects from different classes](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 	- [A tuple of a single tuple cannot be defined/represented within
-		two sets of round brackets `((an-object))`.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+		two sets of round brackets `((an-object))`.](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 		* Such tuples of a single tuple have to defined/represented
 			within two sets of round brackets, with a comma appended
 			to the object `((an-object,),)` \cite{Krishna2020,Uppalapati20XY}.
-	- [Examples of enumerating a tuple with the index of each object in the tuple, and enumerating multiple tuples (of equal lengths) with the index of the currently/concurrently enumerated objects in the tuples](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+	- [Examples of enumerating a tuple with the index of each object in the tuple, and enumerating multiple tuples (of equal lengths) with the index of the currently/concurrently enumerated objects in the tuples](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 + sets \cite[Chapter 2, pp. 39]{Alchin2010} \cite[\S5.4]{Brandl2017a}
 	- Disallow duplicates
 	- The standard constructor accepts the following as inputs:
@@ -2454,7 +2454,7 @@ From \cite[Chapter 2, pp. 39]{Alchin2010}
 	- ordered data structure
 	- Has all the features of a dictionary, while having a reliable ordering of keys
 		for its *(key,value)* pairs.
-	- From [my sample code](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/ordered_dict_color_enumeration.py),
+	- From [my sample code](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/ordered_dict_color_enumeration.py),
 		instantiating an ordered dictionary, OrderedDict, with a dictionary
 		will not create an ordered dictionary in which the keys are ordered;
 		 however, when instantiated with a list of tuples, it does order its
@@ -3437,7 +3437,7 @@ From \cite[\S8.7 Predefined Clean-up Actions]{Brandl2017a}:
 
 
 
-![Illustration of the try-except-else-finally block in *Python*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/pics/try-except-else-finally-block.jpg)
+![Illustration of the try-except-else-finally block in *Python*](https://github.com/eda-ricercatore/admin-notes/blob/main/pics/try-except-else-finally-block.jpg)
 Figure 1, Illustration of the try-except-else-finally block in *Python*.
 
 
@@ -3888,7 +3888,7 @@ The primary built-in object types in *Python*
 + lists
 + tuples
 	- Tuples are immutable \cite[Chapter 1, section on "Tuples", pp. 14]{Beazley2009}.
-		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/sandbox/python/i-data-structures/tuple_operations.py)
+		* [Examples of trying to add an element to a tuple and of trying to remove an element from a tuple. Errors for trying to do these were caught.](https://github.com/eda-ricercatore/python-sandbox/blob/main/i-data-structures/tuple_operations.py)
 + dictionaries
 
 
