@@ -188,7 +188,6 @@ Tasks that I can do:
 		* \cite{PythonPackagingAuthorityMembers2020b}
 
 
-See [example to import *Python* modules and classes](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/sandbox/python/s-import).
 
 
 
