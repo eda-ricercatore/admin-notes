@@ -1,21 +1,21 @@
 #	Notes About *GNU Octave*
 
-+ [Basic Operations for *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#basic-operations-for-gnu-octave)
-+ [Build Automation for *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#build-automation-for-gnu-octave)
-+ [Functions](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#functions)
-+ [Pseudo-Random Number Generation (PRNG) in *GNU Octave*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#pseudo-random-number-generation-prng-in-gnu-octave)
-+ [Error Management](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#error-management)
-+ [Debugging](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#debugging)
-+ [Data Types, Including Strings](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#data-types-including-strings)
-+ [Information About The Workspace](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#information-about-the-workspace)
-+ [Data Containers and Data Structures](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#data-containers-and-data-structures)
-+ [Object-Oriented Programming](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#object-oriented-programming)
-+ [Performance Improvement](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#performance-improvement)
-+ [Miscellaneous](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#miscellaneous)
-+ [Compatibility with *Matlab*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#compatibility-with-matlab)
-+ [Enabling Seamless Interoperability Between Programming Languages](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#enabling-seamless-interoperability-between-programming-languages)
-+ [References](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#references)
-+ [Author Information](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#author-information)
++ [Basic Operations for *GNU Octave*](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#basic-operations-for-gnu-octave)
++ [Build Automation for *GNU Octave*](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#build-automation-for-gnu-octave)
++ [Functions](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#functions)
++ [Pseudo-Random Number Generation (PRNG) in *GNU Octave*](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#pseudo-random-number-generation-prng-in-gnu-octave)
++ [Error Management](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#error-management)
++ [Debugging](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#debugging)
++ [Data Types, Including Strings](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#data-types-including-strings)
++ [Information About The Workspace](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#information-about-the-workspace)
++ [Data Containers and Data Structures](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#data-containers-and-data-structures)
++ [Object-Oriented Programming](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#object-oriented-programming)
++ [Performance Improvement](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#performance-improvement)
++ [Miscellaneous](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#miscellaneous)
++ [Compatibility with *Matlab*](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#compatibility-with-matlab)
++ [Enabling Seamless Interoperability Between Programming Languages](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#enabling-seamless-interoperability-between-programming-languages)
++ [References](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#references)
++ [Author Information](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#author-information)
 
 
 
@@ -2071,11 +2071,11 @@ Techniques for performance improvement
 		* LAPACK
 + "Preallocation: Minimize changing variable class".
 + "Mexing: compiled code"
-+ [Advanced indexing](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#advanced-indexing);
++ [Advanced indexing](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#advanced-indexing);
 	not only does this improve performance (i.e., execution time),
 	it can also improve memory management
 	\cite[\S8.1.1, pp. 136-137]{Eaton2016a}.
-+ [Broadcasting](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md#arithmetic-operators)
++ [Broadcasting](https://github.com/eda-ricercatore/admin-notes/blob/main/computer-languages/gnu-octave.md#arithmetic-operators)
 	- Broadcasting can handle binary operators and functions when
 		their size differ.
 		From *GNU Octave 3.6.0*, for arrays/matrices that are of
