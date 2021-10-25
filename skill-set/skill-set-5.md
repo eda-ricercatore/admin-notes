@@ -3237,31 +3237,36 @@ best practices
 and deliver innovative solutions
 	- A track record of personally delivering working software
 + Understanding of TCP Protocols protected by the Arbor Solution - Web (HTTP, HTTPS), API (SOAP, XML, REST), Email (POP/POP3, SMTP, IMAP/IMAP4), Database (MySQL, MS SQL, Oracle) & Other (Telnet, SSH, FTP).  Have a solid knowledge of these protocols, how they are used.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ AI compiler design
-	- Poplar framework for IPU architecture compiler.
-+ AI compilers:
-	- MLIR
-	- TVM
-	- Glow
-
++ Build data pipelines with tools like Apache Beam/Spark, Scio, Storm, ML tools such as Kubeflow, and cloud computing platforms such as Google Cloud Platform and AWS (Amazon Web Services). And, Google BigQuery, DBT.
++ JVM-based data processing frameworks, such as Beam, Spark, and Flink.
++ XGBoost, TensorFlow, PyTorch
++ Data visualization with ggplot and matplotlib.
++ Publications at:
+	- ICML
+	- ICLR
+	- NeurIPS
+	- AAAI
+	- CVPR
+	- ICCV
+	- WWW
+	- WSDM
+	- KDD
++ skill set:
+	- high-volume heterogeneous data with distributed systems, such as:
+		* Hadoop
+		* BigTable
+		* Cassandra
+	- distributed, high-volume services in Java, Python, or Scala
+	- knowledgeable about data modeling, data access, and data storage techniques
++ Publications for NLP at:
+	- WWW
+	- RecSys
+	- SIGIR
+	- ICML
+	- AAAI
+	- ACL
+	- EMNLP
+	- CHI
++ skill set:
+	- solid-hands-on skills in sourcing, cleaning, manipulating, analyzing, visualizing, and modeling real data.
+	- Break down complex problems into manageable steps that have an immediate impact on critical, real-world projects, without losing sight of long-terms roadmaps.
