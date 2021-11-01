@@ -23,7 +23,65 @@
 + skill set:
 	- To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
 + skill set:
-	- BLAH.
+	- databases:
+		* DynamoDB
+		* Elasticsearch
+		* Cassandra
+		* Redis
+		* IBM DB2
+		* Couchbase
+		* PostgreSQL
+		* Microsoft SQL Server
+		* SQLite
+		* Oracle
+		* MariaDB
+		* MongoDB
+		* MySQL
+		* Firebase
+	- platforms:
+		* AWS
+		* Microsoft Azure
+		* Google Cloud Platform
+		* IBM Cloud or Watson
+		* Oracle Cloud Infrastructure
+		* DigitalOcean
+		* Heroku
+	- Web frameworks:
+		* Ruby on Rails
+$77,556
+Svelte
+$62,520
+ASP.NET Core
+$60,744
+Gatsby
+$60,129
+React.js
+$58,128
+ASP.NET
+$56,220
+Flask
+$54,876
+FastAPI
+$54,049
+Spring
+$51,888
+Drupal
+$51,429
+Vue.js
+$50,000
+Angular.js
+$49,450
+Angular
+$48,852
+Express
+$47,850
+jQuery
+$45,797
+Symfony
+$45,396
+Django
+$45,379
+Laravel
 + skill set:
 	- BLAH.
 + skill set:
