@@ -48,40 +48,74 @@
 		* Heroku
 	- Web frameworks:
 		* Ruby on Rails
-$77,556
-Svelte
-$62,520
-ASP.NET Core
-$60,744
-Gatsby
-$60,129
-React.js
-$58,128
-ASP.NET
-$56,220
-Flask
-$54,876
-FastAPI
-$54,049
-Spring
-$51,888
-Drupal
-$51,429
-Vue.js
-$50,000
-Angular.js
-$49,450
-Angular
-$48,852
-Express
-$47,850
-jQuery
-$45,797
-Symfony
-$45,396
-Django
-$45,379
-Laravel
+		* Svelte
+		* ASP.NET Core
+		* Gatsby
+		* React.js
+		* ASP.NET
+		* Flask
+		* FastAPI
+		* Spring
+		* Drupal
+		* Vue.js
+		* Angular.js
+		* Angular
+		* Express
+		* jQuery
+		* Symfony
+		* Django
+		* Laravel
+	- frameworks and libraries:
+		* Apache Spark
+		* .NET Core / .NET 5
+		* Hadoop
+		* .NET Framework
+		* NumPy
+		* Pandas
+		* Torch/PyTorch
+		* Qt
+		* TensorFlow
+		* Keras
+		* React Native
+		* Cordova
+		* Flutter
+	- tools:
+		* Pulumi
+		* Terraform
+		* Chef
+		* Puppet
+		* Kubernetes
+		* Ansible
+		* Deno
+		* Docker
+		* Yarn
+		* Git
+		* Flow
+		* Xamarin
+		* Unreal Engine
+		* Unity 3D
+	- Collaboration Tools:
+		* TextMate
+		* Emacs
+		* RubyMine
+		* Rider
+		* Vim
+		* Neovim
+		* IntelliJ
+		* Xcode
+		* Visual Studio
+		* RStudio
+		* Visual Studio Code
+		* IPython/Jupyter
+		* PyCharm
+		* Notepad++
+		* Webstorm
+		* Sublime Text
+		* Atom
+		* Eclipse
+		* PHPStorm
+		* Android Studio
+		* NetBeans
 + skill set:
 	- BLAH.
 + skill set:
