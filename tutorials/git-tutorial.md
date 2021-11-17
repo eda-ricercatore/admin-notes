@@ -35,6 +35,7 @@ Use *GitHub*, or another Web-based source-code-hosting service, to share your
 	- [Documenting Projects](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#documenting-projects)
 	- [Sharing Code Fragments via GitHub Gist](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#sharing-code-fragments-via-github-gist)
 	- [Miscellaneous Information](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#miscellaneous-information)
++ [⚠️ Helpful Fixes for Common Problems with *Git* Operations!!!](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#%EF%B8%8F-helpful-fixes-for-common-problems-with-git-operations)
 + [References](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#references)
 	- [Notes about In-Text Citation](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#notes-about-in-text-citation)
 + [Author Information](https://github.com/eda-ricercatore/admin-notes/blob/main/tutorials/git-tutorial.md#author-information)
