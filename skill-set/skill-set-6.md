@@ -599,10 +599,44 @@
 	- Exposure to DFT is an asset
 	- Prior experience working on high performance technology nodes and understanding of deep sub-micron design problems/solutions
 	- Strong problem solving and debug skills across various levels of design hierarchies
++ FastAPI and SQLAlchemy
++ gRPC, open-source remote procedure call system
++ infrastructure reliability, corporate production systems, user-facing services, production serving or DevOps
 + skill set:
-	- BLAH.
+	- RLlib is an open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications. We're looking for software engineers with existing machine learning experience that are interested in continuing to improve RLlib.
+	- We are looking for senior hires as well as less experienced but motivated individuals.
+	- About the ML Ecosystem team:
+		* The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale.Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
+	- As part of this role, you will:
+		* Develop high quality open source software to simplify reinforcement learning (RLlib)
+		* Identify, implement, and evaluate promising new RL algorithms from the literature
+		* Improve the testing process for RLlib to make releases as smooth as possible
+		* Communicate your work to a broader audience through talks, tutorials, and blog posts
+	- We'd love to hear from you if you:
+		* Have relevant experience using RLlib or developing RL algorithms
+		* Have strong proficiency in Python and Tensorflow or Pytorch
+		* Are excited about working with customers who are applying RL to their own use cases
+		* Are excited about working on open source and broadcasting new features to the community
+	- About Anyscale:
+		* Anyscale provides an application development platform for developers to build distributed applications. We’re commercializing a popular open source project called Ray, which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.
+		* With Ray, we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.
 + skill set:
-	- BLAH.
+	- Anyscale is looking to hire strong individuals to develop open source machine learning libraries.
+	- The software industry largely operates on a messy zoo of specialized distributed systems such as Spark, Horovod, and TensorFlow Serving. These systems cannot easily be composed together and used as elements of a larger application. On the Machine Learning Ecosystem team at Anyscale, we are developing a rich ecosystem that will allow developers to import powerful distributed libraries and compose them together to build new applications.
+	- Part of this work will be open source as part of Ray, which is a distributed Python execution engine as well as an ecosystem of libraries for scalable machine learning.
+	- The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale. Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.
+	- Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
+	- Build elastic, scalable, fault-tolerant distributed machine learning libraries that power the next generation of machine learning platforms around the world
+	- Benchmark and improve performance and scalability of different machine learning libraries
+	- Work closely with other engineers developing Ray to build core abstractions and simplify machine learning services for open source users
+	- Work closely with the open source community (with ML researchers, ML engineers, data scientists) to scope and build new abstractions for scalable machine learning
+	- Solid background in algorithms, data structures, system design
+	- Experience with machine learning frameworks and libraries (PyTorch, Tensorflow)
+	- At least 1 year of relevant work experience (new grads should apply to a separate job posting)
+	- Experience working with a cloud technology stack (AWS, GCP, Kubernetes)
+	- Experience building machine learning training pipelines or inference services in a production setting
+	- Experience with big data tools (Spark, Flink, Hadoop)
+	- Experience in building scalable and fault-tolerant distributed systems
 + skill set:
 	- BLAH.
 + skill set:
