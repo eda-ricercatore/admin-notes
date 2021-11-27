@@ -638,7 +638,29 @@
 	- Experience with big data tools (Spark, Flink, Hadoop)
 	- Experience in building scalable and fault-tolerant distributed systems
 + skill set:
-	- BLAH.
+	- We are looking for a Machine Learning Engineer with expertise in NLP who can join our AI research and development efforts with a direct impact on our core platform. You will work with both engineering and business teams to best understand design requirements. Then, your role is to design and build practical high performance machine learning solutions.
+	- In this role, you will work on some of the latest cutting edge applications of machine learning applied to critical problems that affect businesses, governments and society. You will directly work with top management and key stakeholders to define solutions to critical problems that will have immediate impact and value at the platform and client levels. If you are passionate to work on massive, unstructured problems that can be solved using data, we are looking for you.
+	- Contribute to research and development focusing on the following areas: information extraction, multilingual NLP, automated summarization and graph network analysis.
+	- Manage the collection and annotation of large custom datasets for text classification, unsupervised pre-training, translation, tagging, and other related problems.
+	- Capable of understanding and implementing state-of-the-art methods based on research papers and/or open source libraries, and push beyond the state-of-the-art.
+	- Experience with implementing efficient and scalable software systems in Python.
+	- Ability to integrate implemented software components into a fully functional software pipeline, and provide verification and validation against requirements.
+	- Knowledge of machine learning evaluation techniques, failure modes, and limitations.
+	- Requirements
+		* Minimum 2 years of professional experience working in Natural Language Processing or closely related field, with demonstration of successful delivery of novel research and/or product offerings.
+		* Masters degree or PhD from an accredited college/university in Computer Science, Computational Linguistics, Statistics, Mathematics, Engineering, Bioinformatics, Physics, Operations Research, or related fields (strong mathematical/static background with ability to understand algorithms and methods from a mathematical and intuitive viewpoint). Some exceptions can be made depending on exceptional past accomplishments/references.
+		* Experience with command-line scripting, data structures and algorithms, and the ability to work in a Linux environment, processing large amounts of data in a cloud environment.
+		* Highly skilled in Python development, as well as: Tensorflow, Pytorch, Keras and Scikit-Learn.
+		* Able to communicate scientific concepts to both technical and non-technical audiences.
+	- Nice to Have:
+		* Working knowledge of AWS and other cloud services.
+		* Experience creating novel datasets for scientific analysis or benchmarking.
+		* Capability to contribute at the system architecture level to enhance scalability, testability, robustness.
+		* Experience with generative models of fake text or images.
+		* Experience and top performances in online competitions / hackathons, such as, kaggle.
+		* Published research in areas related to machine learning, NLP, or its applications.
+		* Record of contributions to open-source machine learning projects, or related endeavors.
+		* Experience writing detailed documentation of machine learning systems.
 + skill set:
 	- BLAH.
 + skill set:
