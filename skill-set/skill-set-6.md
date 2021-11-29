@@ -662,9 +662,27 @@
 		* Record of contributions to open-source machine learning projects, or related endeavors.
 		* Experience writing detailed documentation of machine learning systems.
 + skill set:
-	- BLAH.
+	- Target-independent optimization techniques
+	- Optimized code-generation for scalar and vector DSPs
+	- Definition and implementation of dedicated C/C++ language extensions
+	- Architecture definition and enhancements
+	- Benchmark and performance optimization
+	- B.Sc Computer science, or similar degree from a known University.
+	- Experience and knowledge of C/C++ – An advantage
+	- Team player with excellent communication skills.
+	- Experience in Python scripting – advantage
 + skill set:
-	- BLAH.
+	- Target-independent optimization techniques
+	- Optimized code-generation for scalar and vector DSPs
+	- Definition and implementation of dedicated C/C++ language extensions
+	- Architecture definition and enhancements
+	- Benchmark and performance optimizations
+	- B.Sc Computer science, or similar degree that provides strong knowledge of computer science theory along with practical software devolvement skills
+	- 3+ years software development experience with excellent knowledge of C/C++.
+	- Team player with excellent communication skills.
+	- Experience with LLVM Compilers – advantage
+	- Experience in Python scripting – advantage
++ Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).
 + skill set:
 	- BLAH.
 + skill set:
