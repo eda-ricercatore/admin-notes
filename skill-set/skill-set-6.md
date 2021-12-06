@@ -684,6 +684,96 @@
 	- Experience in Python scripting – advantage
 + Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).
 + skill set:
+	- Are you ready to be challenged, right from the interview process?  Are you looking to work with a highly intelligent but humble team? Do you want to work on cutting-edge cyber security problems and have the background to do it? Well then, this role may be for you.  
+	- GrammaTech is looking for a number of software engineers at varying levels of experience to perform advanced software development. Build new components and extend existing tooling to meet project needs. Implement both exploratory research prototypes and high-quality products. Possess significant experience contributing to large projects, developing software, with focus on C++ and Python.
+	- GrammaTech employees must be fully vaccinated against COVID-19.
+	- Location: Our R&D center is in Ithaca, NY, but we will consider remote employees with a strong match of skills and experience.
+	- Responsibilities of a research-oriented software engineer is expected to:
+		* Study and implement approaches drawn from academic literature or in-house design
+		* Evaluate the resulting prototype implementation to test its value in addressing the research goals
+		* Report results to the PI and respond by adapting the prototype to better address research goals
+		* Contribute to presentations and written reports to keep research sponsors up to date on project progress
+		* Prepare prototypes for demonstrations and evaluations by research sponsors
+		* Transition prototypes into deployable products
+	- Required Qualifications.
+		* BS in Computer Science or equivalent with a minimum of 3+ years demonstrated experience working in software development in C++ and Python. Knowledge of other languages is a plus.
+		* Experience in development activities on large code bases with software designed, built, and tested from scratch; familiarity with common software architectures and design patterns
+		* Experience with modern software -development life cycle practices including effectively using revision control systems (git), continuous integration and deployment (CI/CD), container and orchestration technology (docker, Kubernetes, etc.)
+		* Knowledge of fundamentals of software security and bug/vulnerability finding 
+	- Preferred Qualifications.
+		* MS or PhD in computer science or closely related field
+		* Knowledge of machine code, such as x86, ARM, or MIPS
+		* Background in static analysis for binaries and/or source code
+		* Experience with fuzzing or symbolic execution
+		* Experience with vulnerability research/demonstration or penetration testing (e.g., Metasploit)
+		* Compiler design, compiler front-end integration, C/C++ parsers
+		* Dynamic analysis, program instrumentation, and profiling
+		* System-administration experience, especially related to security
+		* Malware-analysis techniques
+		* Experience in using Machine Learning Frameworks like scikit-learn, TensorFlow, Keras, etc.
+	- Innovation is at the heart of GrammaTech. We are constantly pushing the boundaries of software research and development – from software assurance and software integrity to cyber-security threat mitigation and autonomic computing. 
+	- GrammaTech was founded over 30 years ago, with a firmly-grounded purpose to help organizations develop tomorrow’s software.  Given the ever-increasing dependence of software in today’s connected world, our staff is able to focus on the most challenging software issues through a constant stream of highly innovative research and commercial development programs – focused on the evolving cyber-security landscape, software hardening and intelligent systems.  Within these projects, GrammaTech employees have the opportunity to work with industry, academic, and government experts, significantly advancing their skills in engineering, research, marketing, or sales.
++ skill set:
+	- GrammaTech’s Common Lisp Software internship program offers students the opportunity to gain real experience in a friendly, open, and supportive environment. We choose projects based on real needs, and interns work closely with engineers to make sure that projects are completed successfully.  Current COMMON LISP IS REQURED FOR THIS ROLE.
+	- GrammaTech will conduct a series of programming tests and screening interviews in Common Lisp as part of our process. (Please do not apply if you do not have experience with Lisp, unfortunately, we cannot train for this role.)  
+	- GrammaTech employees must be fully vaccinated against COVID-19.
+	- Location:  Remote (must be in USA Only) with a possibility of being located in our Ithaca, NY office for the summer.  (COVID Restrictions will be considered as we get closer to the summer.)
+	- Responsibilities
+		* Research projects at GrammaTech can take on a wide variety of topics and challenges. Projects focus on software assurance, software protection, reverse engineering, and software transformation. We do both static and dynamic analysis on both source and object code, in order to tackle serious problems with practical solutions.
+		* Potential projects include:
+			+ Apply compiler optimizations to binaries. Develop some classic compiler optimizations on top of our Binary IR (https://grammatech.github.io/gtirb/)
+			+ Develop source-code program transformations for refactoring, optimization, and diversification on top of our Software Evolution Library (https://grammatech.github.io/sel)
+			+ Design and run large-scale experiments evaluating automated software modification and automated software engineering tools
+	- Required Qualifications
+		* Currently enrolled in a BS, MS, or PhD program
+		* Excellent programming skills with Common LISP (required)
+	- Preferred Qualifications
+		* Enrollment in a Computer Science PhD program
++ skill set:
+	- The primary responsibility is leading efforts to design and implement research prototypes, based on ideas drawn from academic literature and original research. Team size varies from project to project. On small projects, a scientist may implement a significant portion of the prototype, while on larger projects they will lead a team of engineers. Our scientists are expected to:
+		* Generate ideas for innovative solutions (original or drawn from the literature) that address needs identified by research sponsors
+		* Translate research ideas into working prototypes
+		* Manage researchers and engineers implementing research prototypes: identify risks, plan work, monitor progress, review designs and code used in prototypes, as well as adapt plans as we learn more about the sponsor’s needs and the benefits/deficiencies of the prototype
+		* Write proposals for research contracts
+		* Build and maintain relationships with research sponsors
+		* Document research results in written reports. Present results in-person at meetings with research sponsors
+		* Work with research sponsors to ensure success of any demonstrations or evaluations of the research prototype
+		* Promote research results in blogs, external presentations, and publications
+		* Collaborate with product and marketing teams to identify a strategy to turn the research prototype into a marketable product
+		* Ph.D. in Computer Science, Computer Engineering, or Software Engineering and a minimum of three years of industry or post-doctoral academic experience
+		* Experience leading research projects and managing/supervising a research team, as Principal Investigator (PI) or equivalent
+		* Research experience in compilers, static analysis, language-based security, or another field aligned with GrammaTech's research activities. Maybe your area of expertise is reverse engineering, or vulnerability detection, or code transformation. Expertise in machine learning or statistical techniques with applications to software development or security is highly relevant, as well. On the other hand, maybe you will be adding a new area of expertise to our team
+		* Lots of languages: C, C++, Java, machine code, etc. It's not just about our own code, it's about taking other people's software apart and showing them what makes it tick
++ skill set for Sr. SW Engineer - HW Security Analysis:
+	- Reporting to the VP of Engineering, the Sr. SW Engineer – HW Security Analysis will be responsible for developing innovative solutions that shape the way the emerging process of HW security verification and analysis is performed.
+	- Bachelor’s degree in Computer Science/Engineering (MS or PhD preferred)
+	- Expert level engineer with a minimum of 10 years of proficiency in algorithms and data structures for digital logic in the domains of Simulation, Synthesis or Formal Verification or similar products
+	- Deep knowledge in design and architecture of efficient, scalable software systems and data structures to support compilation of billion gate designs
+	- Experience in multi-threading, multi-tasking and job distribution to support analysis and netlist transformations to minimize runtime and memory footprint
+	- Expert programming and debug skills in C/C++.
+	- Ability to operate in a small team and be an effective communicator.
+	- This position can be based anywhere in the continental USA. Some travel may be required with return to normal business from COVID.
+	- Preferred qualifications
+		* Experience in the development and support of commercial EDA software
+		* Experience in the implementation and verification of SoC designs
+		* A background in Computer Security or familiarity with Computer Security topics
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
