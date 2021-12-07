@@ -758,9 +758,36 @@
 		* Experience in the implementation and verification of SoC designs
 		* A background in Computer Security or familiarity with Computer Security topics
 + skill set:
-	- BLAH.
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- Contribute to the wider research community by publishing. 
+	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
+	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
+	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification. 
+	- Work closely with our team and internal partners to develop, refine, and launch processes that help ensure Spotify is a safe and positive experience. 
+	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
+	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
+	- ***You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.***
+	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- Knowledge or experience working in emerging markets is a plus.
+	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
+	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
 + skill set:
-	- BLAH.
+	- We are looking for Data Scientist Interns to \#JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so that we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will affect the way the world experiences audio. 
+	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
+	- You are pursuing a Bachelor’s, Master’s degree, or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
+	- You have a graduation date of 2022 or 2023
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You harbor a passion for numbers and the use of data to make decisions
+	- You have the technical competence to perform more analytics in one or more of the following areas:
+		* Coding skills (such as Python, Java, or Scala)
+		* Analytics tools experience (such as Pandas, R, SPSS, SQL, or Tableau)
+		* Experience performing analysis with large datasets
 + skill set:
 	- BLAH.
 + skill set:
