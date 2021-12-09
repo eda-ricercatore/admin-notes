@@ -789,7 +789,26 @@
 		* Analytics tools experience (such as Pandas, R, SPSS, SQL, or Tableau)
 		* Experience performing analysis with large datasets
 + skill set:
-	- BLAH.
+	- Facebook is seeking a Research Scientist to join our AI Research Team, a research organization focused on making significant progress in AI. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, computational statistics, and applied mathematics, particularly including areas such as deep learning, graphical models, reinforcement learning, computer perception, natural language processing and data representation. The ideal candidate will have a keen interest in producing new science to understand intelligence and technology to make computers more intelligent. To learn more about our research, visit https://ai.facebook.com/.
+	- Lead research to advance the science and technology of intelligent machines
+	- Lead research that enables learning the semantics of data (images, video, text, audio, speech and other modalities)
+	- Devise better data-driven models of human behavior
+	- Work towards long-term ambitious research goals, while identifying intermediate milestones
+	- Influence progress of relevant research communities by producing publications
+	- Contribute research that can be applied to Facebook product development
+	- Lead and collaborate on research projects within a globally based team
+	- Experience holding a faculty, industry, or government researcher position
+	- Ph.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields
+	- Experience leading a team in solving modeling problems using AI/ML approaches
+	- Experience in theoretical and empirical research and for addressing research problems
+	- Experience communicating research for public audiences of peers
+	- Knowledge in a programming language
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+	- 1+ year(s) of work experience in a university, industry, or government lab(s), in a role with primary emphasis on AI research
+	- Experience driving original scholarship in collaboration with a team
+	- First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
+	- Experience in developing and debugging in C/C++, Python, or C#
++ Experience framework such as MLflow, Kubeflow, Airflow, Seldon Core, TFServing etc
 + skill set:
 	- BLAH.
 + skill set:
