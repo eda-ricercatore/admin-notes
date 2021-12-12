@@ -809,6 +809,567 @@
 	- First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
 	- Experience in developing and debugging in C/C++, Python, or C#
 + Experience framework such as MLflow, Kubeflow, Airflow, Seldon Core, TFServing etc
++ skill set for Senior Research Scientist, Design Automation:
+	- NVIDIA Research is seeking leading researchers in the areas of VLSI electronic design automation (EDA) to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence; systems-building experience; a broad perspective across areas including EDA algorithms and software, machine learning, and VLSI chip design methodology. Specific areas of research interest include but are not limited to applications of supervised learning, unsupervised learning, reinforcement learning and GPU acceleration to EDA algorithms.
+	- Apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Research and develop creative and innovative EDA software and algorithms.
+	- Collaborate with circuits, VLSI, and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- PhD or equivalent experience in Electrical Engineering, Computer Engineering or related field (or equivalent experience).
+	- 3+ years of relevant research experience with a strong research record, well-referenced publications and/or patents.
+	- You should display a strong background in EDA algorithms and software development, machine learning, along with knowledge of VLSI, circuits, IC design, and/or computer micro-architecture fundamentals.
+	- Experience with C, C++, Python, and scripting languages.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow).
+	- Experience with CUDA and GPU computing
+	- Strong communication skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, Design Automation - New College Grad.
+	- We are now looking for a Research Scientist – Design Automation
+	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?
+	- NVIDIA Research is seeking leading researchers in the areas of VLSI electronic design automation (EDA) to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence; systems-building experience; a broad perspective across areas including EDA algorithms and software, machine learning, and VLSI chip design methodology. Specific areas of research interest include but are not limited to applications of supervised learning, unsupervised learning, reinforcement learning and GPU acceleration to EDA algorithms.
+	- Apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Research and develop creative and innovative EDA software and algorithms.
+	- Collaborate with circuits, VLSI, and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Pursuing Ph.D in EE or related with a strong research record, well referenced publications and / or patents.
+	- You should display a strong background in EDA algorithms and software development, machine learning, along with knowledge of VLSI, circuits, IC design, and/or computer micro-architecture fundamentals.
+	- Experience with C, C++, Python, and scripting languages.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow).
+	- Experience with CUDA and GPU computing
+	- Strong communication skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- We are now looking for Sr. Research Scientist, Computational Chemistry!
+	- NVIDIA is using the power of GPU computing and computational chemistry to accelerate digital biology. We are seeking hardworking individuals to help us realize our mission. As a Sr. Computational Chemistry Researcher, you will join a team passionate about research and development using molecular simulation and machine learning. Together, we will advance NVIDIA's capacity to build digital biology solutions.
+	- You’ll build large scale molecular dynamics simulations
+	- Collaborate with multiple AI research, high performance computing, and digital biology teams
+	- Drive the testing and maintenance of the algorithms and software modules
+	- Develop tools to assist data processing, data quality control, algorithm development, and algorithm testing
+	- 8+ years of relevant experience
+	- Advanced degree in a quantitative field such as Computational Chemistry, Computational Biophysics, Physics, Computer Science, Mathematics, or equivalent work experience
+	- Experience with molecular dynamics-based modeling, enhanced sampling or free-energy calculations, or statistical approaches for analyzing large datasets
+	- Background with C++ and/or python
+	- Recognized for technical leadership contributions, capable of self-direction, and ability to learn from and teach others
+	- You should display strong communication skills, be organized and self-motivated, and play well with others (be a phenomenal teammate)
+	- Ways To Stand Out From The Crowd
+		* Ability to use structural biology and experimental data to inform computational approaches
+		* Experience applying molecular dynamics or machine learning to drug discovery, biochemical and biophysical assay development, or target analysis and selection
+		* Background with CUDA programming
+		* Experience with deep learning
++ skill set for Senior Research Scientist, Autonomous Vehicle Research:
+	- We are now recruiting top Research Scientists in Autonomous Vehicle Research.
+	- AI-powered autonomous vehicles that can learn, reason, and interact with people are no longer science fiction. Self-driving cars, autonomous delivery vehicles, and autonomous construction vehicles, among others, are getting increasingly close to widespread deployment. However, fundamental research questions still need to be addressed in order to achieve full vehicle autonomy. For instance, how can we: Remove the traditional barriers among perception, prediction, and planning in order to improve overall system performance? Equip autonomous vehicles with online and offline assurances that meet the standards for safety-critical systems? Ensure that autonomous vehicles work seamlessly in new places?
+	- These are some of the exciting questions that the newly-established NVIDIA Autonomous Vehicle Research Lab will be tackling. The lab will bring together a diverse, interdisciplinary research team working on core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as critical related areas such as decision making under uncertainty, deep learning, reinforcement learning, and the verification and validation of safety-critical AI systems. The lab will focus on basic research; lab members will be encouraged to publish their work and open-source code. NVIDIA is well known for its team culture, and lab researchers will be able to closely interact with others within the company who are experts in perception systems, machine learning, and robotics. There is an opportunity to make a strong impact on products, while having the freedom and bandwidth to conduct ground-breaking publishable research.
+	- Designing and implementing cutting-edge techniques in the field of vehicle autonomy, having an opportunity to define your own research.
+	- Publishing your original research and speaking at conferences and events.
+	- Collaborating with other research team members, a diverse set of internal product teams, and external researchers.
+	- Transferring technology you've developed to relevant product groups.
+	- PhD or equivalent experience in Robotics, Computer Science, Computer Engineering or related field.
+	- 4+ years of relevant research experience in the field of vehicle / robot autonomy.
+	- Strong knowledge of theory and practice of vehicle / robot autonomy, or a related area with a strong interest in connecting your work to autonomous vehicles.
+	- A track record of research excellence with your work published in top conferences and journals such as RSS, ICRA, IJRR, NeurIPS, ICML, CVPR, TAC, etc., and other research artifacts such as software projects.
+	- Exceptional programming skills in Python; C++ and parallel programming (e.g., CUDA) are a plus.
+	- Knowledge of common machine learning frameworks such as PyTorch and Tensorflow.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research-focused team. Experience with mentoring junior engineers and interns is a huge plus.
++ skill set:
+	- We are now recruiting top Research Scientists in Autonomous Vehicle Research.
+	- AI-powered autonomous vehicles that can learn, reason, and interact with people are no longer science fiction. Self-driving cars, autonomous delivery vehicles, and autonomous construction vehicles, among others, are getting increasingly close to widespread deployment. However, fundamental research questions still need to be addressed in order to achieve full vehicle autonomy. For instance, how can we: Remove the traditional barriers among perception, prediction, and planning in order to improve overall system performance? Equip autonomous vehicles with online and offline assurances that meet the standards for safety-critical systems? Ensure that autonomous vehicles work seamlessly in new places?
+	- These are some of the exciting questions that the newly-established NVIDIA Autonomous Vehicle Research Lab will be tackling. The lab will bring together a diverse, interdisciplinary research team working on core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as critical related areas such as decision making under uncertainty, deep learning, reinforcement learning, and the verification and validation of safety-critical AI systems. The lab will focus on basic research; lab members will be encouraged to publish their work and open-source code. NVIDIA is well known for its team culture, and lab researchers will be able to closely interact with others within the company who are experts in perception systems, machine learning, and robotics. There is an opportunity to make a strong impact on products, while having the freedom and bandwidth to conduct ground-breaking publishable research.
+	- Designing and implementing cutting-edge techniques in the field of vehicle autonomy, having an opportunity to define your own research.
+	- Publishing your original research and speaking at conferences and events.
+	- Collaborating with other research team members, a diverse set of internal product teams, and external researchers.
+	- Transferring technology you've developed to relevant product groups.
+	- Pursuing PhD or equivalent experience in Robotics, Computer Science, Computer Engineering or related field.
+	- 4+ years of relevant research experience in the field of vehicle / robot autonomy.
+	- Strong knowledge of theory and practice of vehicle / robot autonomy, or a related area with a strong interest in connecting your work to autonomous vehicles.
+	- A track record of research excellence with your work published in top conferences and journals such as ***RSS, ICRA, IJRR, NeurIPS, ICML, CVPR, TAC***, etc., and other research artifacts such as software projects.
+	- Exceptional programming skills in Python; C++ and parallel programming (e.g., CUDA) are a plus.
+	- Knowledge of common machine learning frameworks such as PyTorch and Tensorflow.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research-focused team. Experience with mentoring junior engineers and interns is a huge plus.
++ skill set:
+	- NVIDIA Research is seeking extraordinary networking innovators to join our NVResearch team. In this role, you will contribute to the development of future high-performance and embedded computing systems. You will need a great background of research excellence in building systems and a deep understanding and broad perspective across the fields of computer architecture and communication systems for distributed computation. NVIDIA has pioneered programmable GPUs and the CUDA language, and this visionary Research team will take those technologies to the next level with its creative ideas and new inventions. This position offers you the opportunity to have a real impact while working with some of the most creative and forward-thinking people in the world who are here at this dynamic, technology-focused company.
+	- This role requires the person to conduct creative and innovative research in networking and associated technologies. Positive impact to NVIDIA’s business is the key measure of success. This requires:
+	- Working with product teams and other financial sponsors to identify areas that could benefit from research
+	- Creating and inventing novel solutions to solve those problems
+	- Communicating those results internally through documentation and presentations
+	- Identifying patentable ideas and filing ISFs
+	- Publishing key research results to ensure NVIDIA maintains a right to use and contributes to the NVIDIA research brand.
+	- Much of NVIDIA’s networking research is funded by external sources (e.g. DOE, DoD). You are expected to work towards the contractual obligations, including the work areas, and assist in preparing deliverables such as reports and presentations.
+	- Ph.D. in CE/CS/EE plus publications history and excellent accomplishments in research or equivalent experience. 2+ years of relevant postgrad research work.
+	- Strong background in computer architecture, networking, VLSI, circuits, parallel processing, high-performance computing, and/or mobile computing
+	- Demonstrated ability to innovate and implement
+	- Experience with experimental computer architecture development and evaluation
+	- Experience with C, C++, and scripting languages
+	- Deep understanding of technology and passionate about what you do
++ skill set for Senior Research Scientist, Quantum Computing:
+	- NVIDIA Research is seeking leading researchers in the area of quantum computing. You should have a strong track record of research excellence, software systems building experience, and interest in advancing the state-of-the-art in applications of GPUs to the quantum computing ecosystem. Specific areas of research interest include but are not limited to quantum circuit simulation, tensor network methods, applications of machine learning to quantum circuit simulation, quantum algorithms and programming systems, and hybrid classical/quantum computations.
+	- Research and develop creative and innovative algorithms and software systems for the quantum computing ecosystem.
+	- Collaborate with research and product teams in the areas of machine learning, programming systems, and quantum computing.
+	- Publish and present your original research, speak at conferences and events.
+	- Collaborate with external quantum computing researchers.
+	- Run large-scale experiments on large clusters of GPUs to advance the state-of-the-art in quantum computing simulation.
+	- Ph.D. in Computer Science, Physics, Chemistry, Mathematics or related fields with a strong research record supported by well-referenced publications and / or patents. (or equivalent experience)
+	- 2 or more years of industrial research or postdoc research experience in quantum computing field
+	- Strong basis in linear algebra and expertise in math for quantum computing and tensor algebraic methods.
+	- Experience with C, C++, CUDA, and Python.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
+	- Strong communication and teamwork skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- NVIDIA Research is seeking leading researchers in the area of quantum computing. You should have a strong track record of research excellence, software systems building experience, and interest in advancing the state-of-the-art in applications of GPUs to the quantum computing ecosystem. Specific areas of research interest include but are not limited to quantum circuit simulation, tensor network methods, applications of machine learning to quantum circuit simulation, quantum algorithms and programming systems, and hybrid classical/quantum computations.
+	- Research and develop creative and innovative algorithms and software systems for the quantum computing ecosystem.
+	- Collaborate with research and product teams in the areas of machine learning, programming systems, and quantum computing.
+	- Publish and present your original research, speak at conferences and events.
+	- Collaborate with external quantum computing researchers.
+	- Run large-scale experiments on large clusters of GPUs to advance the state-of-the-art in quantum computing simulation.
+	- Ph.D. in Computer Science, Physics, Chemistry, Mathematics or related fields with a strong research record supported by well-referenced publications and / or patents. (or equivalent experience)
+	- Strong basis in linear algebra and expertise in math for quantum computing and tensor algebraic methods.
+	- Experience with C, C++, CUDA, and Python.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
+	- Strong communication and teamwork skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Senior Research Scientist, Hyperscale Graphics Systems:
+	- NVIDIA is searching for outstanding senior researchers for the reinvention of interactive 3D systems for games, virtual film production, and beyond, using new ideas in cloud/distributed computing, ray tracing, and machine learning. The ideal candidate is an established thought leader in academic or industry with deep experience creating technology for 3D environments, publishing and presenting at industry and academic conferences, and hands-on implementation. This role requires high-level knowledge of multiple areas within production workflow and tools, physical simulation, networking, rendering, and character animation and AI. Datacenter experience with liveops, multiuser environments, and user created content is highly valued. Come join a diverse research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Work independently on research projects and lead small teams as a principal investigator
+	- Select and solve complex problems in a multi-year research agenda
+	- Mentor graduate interns
+	- Implement experiments and research prototypes in C++, Python, CUDA, and other domain-appropriate tools
+	- Influence research initiatives across the company and in the field
+	- Protect strategic inventions with patents
+	- Publish and present findings in top-tier venues
+	- Collaborate with leading experts outside of the company
+	- Work with product groups to identify future research needs and transfer technology
+	- Participate in top-tier conference and journals as reviewer, session chair, program committee member, or editor/chairperson 
+	- A Ph.D. or comparable research experience or equivalent experience in Computer Science/Engineering or a related field.
+	- 5+ years of relevant work experience.
+	- Excellent knowledge of theory and practice in computer graphics, cloud/distributed computing, ray tracing, and machine learning
+	- Expertise with programming systems such as C++, Python, CUDA, and deep learning frameworks such as TensorFlow and PyTorch. Very strong programming skills.
+	- A track record of research excellence demonstrated in publications at leading conferences and journals and other research artifacts such as software projects
+	- Great presentation and interpersonal skills.
++ skill set:
+	- NVIDIA Research’s "Hyperscale Graphics Systems" research team is looking for a graphics software engineer. Our team's mission is to reinvent interactive 3D systems for a world where the graphics system is not one GPU, but the entire data center. We aim to reimagine metaverse simulations, virtual film production, game engines, and beyond using new ideas in cloud/distributed computing, ray tracing, and artificial intelligence. That innovation happens on top of rendering algorithms and software, AI frameworks, cloud and web development stacks, and NVIDIA's Omniverse platform. We need a skilled, creative, and self-starting graphics software engineer to help us build that future. Come join a diverse research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Build research infrastructure on top of open-source rendering frameworks such as NVIDIA's Falcor, a physically-based rendering system and collection of software modules designed to maximize graphics R&D productivity
+	- Help integrate research infrastructure, such as Falcor and hyperscale research systems, into NVIDIA Omniverse
+	- Collaborate with researchers, product engineers, and architects across the company working on aspects of hyperscale graphics
+	- Help implement and maintain modern full-stack cloud systems, working with technologies from GPU containerization to WebRTC
+	- Participate in tech transfer with engineers around NVIDIA as ideas "graduate" from research to product
+	- Extend and maintain continuous integration, nightly testing, and other professional software development systems to ensure robust and dependable infrastructure
+	- B.S., M.S. or Ph.D. in computer science or equivalent experience
+	- Strong programming skills in C++, Python, and HLSL/GLSL
+	- 3+ years of experience with 3D graphics development
+	- Experience with parallel programming on both CPUs and GPUs
+	- Understanding of and experience with modern graphics APIs: Direct3D, Vulkan, and/or OptiX
+	- A demonstrated passion for participating in collaborative interdisciplinary research teams.
++ skill set:
+	- NVIDIA is searching for outstanding applied research manager to spearhead our Computer Vision efforts. Computer Vision is a core component of NVIDIAs platforms from Drive AV to Isaac autonomous Robotics to Clara for Healthcare to Maxine streaming and broadcast and beyond. The ideal candidate is an established thought leader in academic or industry with deep experience in vision, human understanding, publishing and presenting at industry and academic conferences, and hands-on implementation. This role requires high-level knowledge of multiple areas within production workflow and tools, Deep Learning, network optimization, and vision systems. Come join a diverse applied research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Start an applied research team focused on Computer Vision specifically targeted on Video Understanding
+	- Recruit, build and lead a small applied research team with diverse skills across research, high performance computing, hardware acceleration, and system software
+	- Define and execute a multi-year applied research agenda
+	- Work with product groups to identify short and medium term technology gaps, transfer technology
+	- Identify and close gaps between research and product teams
+	- Prove out potential in existing research for use in product. Improve robustness and performance
+	- Implement experiments and research prototypes in C++, Python, CUDA, and other domain-appropriate tools
+	- Influence research initiatives across the company and in the field
+	- Protect strategic inventions with patents
+	- Publish and present findings in top-tier venues
+	- A Ph.D. or comparable research experience or equivalent experience in Computer Science/Engineering or a related field
+	- 10+ years of relevant work experience
+	- 3+ years of experience leading a team
+	- Excellent knowledge of theory and practice in computer graphics, cloud/distributed computing, ray tracing, and machine learning
+	- Expertise with programming systems such as C++, Python, CUDA, and deep learning frameworks such as TensorFlow and PyTorch
+	- Demonstrated team/management leadership in research, applied research, or product teams
+	- A track record of research excellence demonstrated in publications at leading conferences and journals and other research artifacts such as software projects
+	- Great presentation and interpersonal skills
++ skill set:
+	- NVIDIA's technology is at the heart of AI revolution, touching people across the planet by powering everything from self-driving cars, robotics, and voice-powered intelligent assistants. We work on new models for speech recognition, speech synthesis, and natural language processing. Our team crafted Jasper, QuartzNet, Talknet and other state-of-the-art neural models for ASR and text-to-speech, and we've also developed new algorithms to accelerate training large models on our GPU cloud.
+	- Be a part of the team that's released new models as part of NeMo - open-source toolkit for Conversational AI and whose models are used by world class companies for applications such as customer service, smart voice assistants, etc. This exciting opportunity will have you collaborating with internal research and product teams, as well as researchers from top machine learning labs, and we are looking for someone who's curious, tenacious, and passionate to join our applied research team to influence and build the next generation of Conversational AI systems!
+	- Develop new deep learning models and training algorithms for speech recognition, speech synthesis, information retrieval, machine translation, etc.
+	- Transfer your technology to NVIDIA’s software product teams.
+	- Publish your research at conferences (NeurIPS, Interspeech, ICASSP).
+	- Partner with Deep Learning & AI researchers in leading universities and industrial research labs.
+	- Master’s degree (or equivalent experience) or PhD in Computer Science, Electrical Engineering, Artificial Intelligence, or Applied Math.
+	- 4+ years of practical experience.
+	- Advanced understanding of Deep Learning with applications in Speech Processing and NLP, and a record of publications or significant product contributions in these areas.
+	- Strong Python programming skills and experience with deep learning frameworks such as PyTorch or TensorFlow.
+	- Expert mathematical background, especially in optimization theory, stochastic algorithms, and/or numerical methods.
+	- Excellent communication and interpersonal skills are required along with the ability to work in a dynamic, product oriented and global team. Your history of mentoring other engineers and interns is a great bonus.
+	- Strong C++ programming skills.
+	- Systems software engineering knowledge and expertise in optimizing software for computational performance.
+	- Contribution to open source software projects.
++ skill set:
+	- We are looking for a Research Scientist, Robotics - New College Graduate:
+	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. With the GPU acting as the primary computing device, robots can now perceive and understand the world around them. Today, NVIDIA has transformed into “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world working on diverse aspects of AI. Join us at the frontier of technological advancement!
+	- Robotics is an increasingly exciting field, influenced heavily by recent advances in hardware acceleration through devices such as the modern GPU. These advances have enabled tremendous progress in several areas of robotics, including manipulation, visual recognition, real-time tracking, and learning-based control. Robots are getting increasingly proficient at building 3D maps of their environments, detecting and tracking objects and people as they move through the world, learning controllers from realistic simulation, and understanding commands provided via gestures and natural language.
+	- While our ultimate goal is to reach human-level dexterity, perception, and adaptability, we still have a long way to go. To enable the next generation of robots that can robustly operate in the physical world and interact with people in a natural way, progress is still needed in multiple domains: perception, planning, learning, and control. Moreover, even more importantly, the integration of these individual contributions into complete robot systems opens new challenges.
+	- Toward this goal, the NVIDIA Robotics Research Lab brings together a diverse, interdisciplinary research team working on core robotics topics ranging from control, perception, machine learning, common sense reasoning, task planning, human-robot collaboration, and critical related areas such as deep learning for computer vision, natural language processing and decision making.
+	- The lab focuses on fundamental research questions in robotics and lab members are encouraged to publish their research and open source their code. The lab hosts numerous internships every year to foster education and communication, and the team is encouraged to collaborate broadly with institutions outside of NVIDIA, both academic and industrial. NVIDIA is well known for its team culture, and lab researchers are able to closely interact with others within the company who are experts in broad subtopics such as computer vision, computer graphics, GPU computing, AI and Deep Learning, self-driving cars, and physics-based simulation.
+	- Robot manipulation, robot control, reinforcement learning, computer vision, human-robot interaction, deep learning, physics-based simulation, neuro symbolic reasoning, and natural language processing.
+	- Pursuing PhD in Robotics, Computer Science, Engineering or related field.
+	- 3+ years of relevant research or work experience
+	- Knowledge of theory and practice of robotics, or a related area with a strong interest in connecting your work to robotics scenarios.
+	- A track record of research excellence with your work published in top conferences and journals such as Robotics (RSS, ICRA, IROS, CoRL, T-RO, IJRR), Machine Learning (NeurIPS, ICML, ICLR, AAAI, JMLR), Computer Vision (CVPR, ICCV, ECCV, TPAMI) and Language (ACL, EMNLP, NAACL).
+	- Exceptional programming skills in Python, and deep learning frameworks such as Tensorflow and Pytorch. Fluency in C/C++; CUDA and robotics frameworks such as ROS is a plus.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research focused team. A demonstrated history of mentoring junior engineers and interns is a huge plus.
+	- Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you a researcher or an engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for NVIDIA!
++ skill set:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture and virtualization or security of accelerators. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, and virtualized CPU and GPU architectures.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. in CE/CS/EE or equivalent experience with a strong background.
+	- 2+ years of work experience in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Background with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- NVIDIA is searching for a world-class Research Scientist to join our growing research team. The ideal candidate will be conducting cutting-edge research at the intersection of Machine Learning, Computer Vision and Computer Graphics, and working alongside top experts in these fields. With incredible resources in AI, graphics and robotics, you will be able to impact, contribute and advance these exciting domains. Topics include but are not limited to AI for simulation, 3D Deep Learning, DL for animation, content generation, transfer learning, domain adaptation, computer vision, and medical imaging. With its unique open culture, NVIDIA is one of the best industry labs to do AI research.
+	- Apply deep learning techniques to the simulation of complex physical phenomena such as fluid dynamics, fracture of materials, combustion, audio synthesis and propagation, and more.
+	- Work on improving realism and immersive qualities of VR environments and interactions, including intelligent characters, behavior of crowds and traffic, and human-machine interface problems.
+	- Participate in numerous projects to conduct Deep Learning research and publish papers to well known conferences (ex. ICCV)
+	- Product development for technology in Games, Virtual Reality, Education and other applications.
+	- Completion of a PhD or equivalent experience in Computer Science or a related field (or equivalent experience)
+	- Expertise in computer graphics, simulation or game development.
+	- 2+ years of experience with C++/C, CUDA, DX, or OpenGL.
+	- Dedication to producing high quality and creative results in a collaborative environment
+	- Excellent work ethic and problem-solving skills
+	- Strong publication record
+	- Ways to stand out from the crowd:
+	- A great communicator who is self-motivated towards the team goal
+	- Take pride in helping others and welcome mentoring others around you
+	- Sharp mathematics skills
+	- Image recognition and speech recognition — GPU deep learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human imagination, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidia’s GPU runs deep learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why Nvidia GPUs are used broadly for deep learning, and NVIDIA is increasingly known as “the AI computing company.”
++ skill set:
+	- NVIDIA is seeking an outstanding researcher to join our programming systems research team. If you would like to help build the future of computing by equipping programmers with the tools they need to use parallel computing systems, this team will be a great fit for you! We seek to invent innovative parallel algorithm techniques, expressive parallel programming models/languages, powerful code analysis & generation tools, and scalable runtime environments that can help accelerate a broad range of real-world applications. After developing novel solutions and building prototype software that demonstrates their promise, you will work with product teams to help integrate your ideas into NVIDIA's accelerated computing platform.
+	- Develop innovative parallel computing technologies and craft these technologies into prototype implementations.
+	- Collaborate with other researchers and engineers at NVIDIA to deliver your innovations in high-quality software systems.
+	- Engage with the research community by publishing work that advances the state of the art.
+	- A Doctoral degree (Ph.D.) or equivalent experience in a computational subject area such as computer science, computer engineering, or scientific computing. 3+ years of relevant research experience.
+	- Expertise in parallel programming and algorithmic techniques.
+	- Creativity in developing innovative solutions to the problems faced by parallel programmers and the skill to implement them in software.
+	- Experience developing software in languages, such as C++ and Python, commonly used by the developer community.
+	- An existing track record of research excellence and publications that demonstrate your body of work.
+	- Expertise in applying programming system insights and techniques to problems in machine learning, data science, and/or distributed computing.
+	- Ability to implement ideas in the CUDA programming model
+	- Experience building software systems used by other developers to solve their own problems.
++ skill set for Research Scientist, Circuits - New College Grad:
+	- We are now looking for a Research Scientist for Circuits.
+	- Advanced circuit design is critically important in the post-Moore’s Law age. Without the ability to scale process to increase performance and reduce power, we must rely more and more on creative architectural and underlying circuit solutions to provide continuing advancement from generation to generation.
+	- NVIDIA Research is seeking world-class circuit researchers to contribute to the exploration of future high-performance, low-power circuit technologies and development of prototype circuits. If you have a strong circuits background, desire to collaborate with elite researchers on critical problems, and a vision about how to advance the state-of-the-art, the team will be a great fit for you. NVIDIA has an ambitious circuit research agenda that involves taking circuit technology to the next level. This position offers an opportunity to have a real impact in a fast-moving technology-focused company.
+	- Explore circuit approaches to optimizing processor computation and interconnect performance and power
+	- Design and implement circuit approaches in prototype systems
+	- Collaborate with external researchers and a diverse set of internal product teams across research and product roles
+	- Transfer technology to product groups
+	- Publish original research and speak at conferences and events
+	- Pursuing PhD or equivalent experience in Electrical Engineering, Computer Science/Engineering, or related field. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Excellent knowledge and broad background of theory and practice of circuit design
+	- Depth in one or more areas of high-performance circuit design (PLLs and clocking, SerDes and high-speed signaling, photonics, SRAMs, power delivery/regulation, security circuits, and high-speed logic)
+	- Track record of research excellence or significant product development
+	- Excellent communication and collaboration skills
++ skill set for Research Scientist, ASIC & VLSI:
+	- NVIDIA Research is seeking leading researchers in the areas of ASIC & VLSI design and verification to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence and systems-building experience. Ideal candidates will have a broad perspective across areas including RTL and logic design and verification, machine learning, processor micro-architecture, VLSI implementation, and Electronic Design Automation (EDA) algorithms. Specific areas of research interest include but are not limited to machine learning accelerators, high-productivity VLSI design and verification methodologies, hardware/software co-design, on-chip networks and interconnect, and applications of machine learning and GPU acceleration to EDA. Applicants with specific expertise and research interest in any of these areas will be considered.
+	- Research and develop creative and innovative EDA software and algorithms, ASIC and VLSI design techniques, machine learning accelerator approaches, and/or novel digital VLSI circuits.
+	- Contribute to novel research advancing the state-of-the-art in machine learning accelerator design.
+	- Collaborate on the development of research prototype testchips.
+	- Develop and apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Collaborate with circuits and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Ph.D. or equivalent experienc in EE or related with a strong research record, well referenced publications and / or patents is required.
+	- Recent PhD graduates (Research Scientist) or candidates with more years of relevant work or research experience (Senior Research Scientists) will be considered for the open position.
+	- You should display a strong background in VLSI, circuits, IC design, computer micro-architecture fundamentals, machine learning, EDA algorithms and software development.
+	- Experience with C, C++, Python, and scripting languages required; experience with machine learning frameworks such as PyTorch or Tensorflow preferred.
+	- Strong interpersonal skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, Computer Architecture:
+	- NVIDIA is seeking extraordinary hardware and architecture researchers to contribute to the development of future high-performance and mobile computing systems. We are seeking candidates with a consistent track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in one or more of these areas of computer architecture: GPU architectures, multi-processor and memory system architectures microarchitecture/compilers, resilience and safety, architectures for security, and domain specific architectures such as machine learning. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high performance and mobile computing technology, with bold plans for future processors. This position offers the opportunity to have real impact in a fast paced, technology-focused company.
+	- Develop innovative computer architectures to address the emerging demands high performance and energy efficient computing systems.
+	- Understand and analyze the interplay between hardware, software, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. or equivalent experience in CE/CS/EE with a strong background in computer architecture, compilers, and/or high-performance computing with at least 2+ years of relevant research experience. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team having varied backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Background with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills along with dynamic presentation skills.
++ skill set for Research Scientist, Computer Architecture - New College Grad:
+	- NVIDIA is seeking extraordinary hardware and architecture researchers to contribute to the development of future high-performance and mobile computing systems. We are seeking candidates with a consistent track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in one or more of these areas of computer architecture: GPU architectures, multi-processor and memory system architectures microarchitecture/compilers, resilience and safety, architectures for security, and domain specific architectures such as machine learning. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high performance and mobile computing technology, with bold plans for future processors. This position offers the opportunity to have real impact in a fast paced, technology-focused company.
+	- Develop innovative computer architectures to address the emerging demands high performance and energy efficient computing systems.
+	- Understand and analyze the interplay between hardware, software, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. or equivalent experience in CE/CS/EE with a strong background in computer architecture, compilers, and/or high-performance computing. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team having varied backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Background with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills along with dynamic presentation skills.
++ skill set for Research Scientist, ASIC & VLSI - New College Grad:
+	- NVIDIA Research is seeking leading researchers in the areas of ASIC & VLSI design and verification to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence and systems-building experience. Ideal candidates will have a broad perspective across areas including RTL and logic design and verification, machine learning, processor micro-architecture, VLSI implementation, and Electronic Design Automation (EDA) algorithms. Specific areas of research interest include but are not limited to machine learning accelerators, high-productivity VLSI design and verification methodologies, hardware/software co-design, on-chip networks and interconnect, and applications of machine learning and GPU acceleration to EDA. Applicants with specific expertise and research interest in any of these areas will be considered.
+	- Research and develop creative and innovative EDA software and algorithms, ASIC and VLSI design techniques, machine learning accelerator approaches, and/or novel digital VLSI circuits.
+	- Contribute to novel research advancing the state-of-the-art in machine learning accelerator design.
+	- Collaborate on the development of research prototype testchips.
+	- Develop and apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Collaborate with circuits and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Ph.D. or equivalent experience in EE or related with a strong research record, well referenced publications and / or patents is required.
+	- Recent PhD graduates (Research Scientist) or candidates with more years of relevant work or research experience (Senior Research Scientists) will be considered for the open position.
+	- You should display a strong background in VLSI, circuits, IC design, computer micro-architecture fundamentals, machine learning, EDA algorithms and software development.
+	- Experience with C, C++, Python, and scripting languages required; experience with machine learning frameworks such as PyTorch or Tensorflow preferred.
+	- Strong interpersonal skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, SysArch and Software - New College Grad:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture and Runtime System to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in data parallel architectures or operating and runtime systems. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, CPU and GPU architectures, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You are pursuing a Ph.D. in CE/CS/EE with a strong background in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist - Platform Architecture and Runtime Systems:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture and Runtime System to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in data parallel architectures or operating and runtime systems. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, CPU and GPU architectures, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. in CE/CS/EE or equivalent experience with a strong background and work experience in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- We're looking for outstanding interns to apply their parallel programming skills to accelerate NVIDIA's open source software suite for data science, RAPIDS. RAPIDS combines the performance of modern GPUs with the ease of use of Python and Scala APIs. It builds on a highly-optimized computational core, written in C++ and CUDA, that leverages the parallel nature of GPUs to accelerate fundamental data operations from load and parsing, to joins, aggregations, and more. Previous interns have made significant contributions to these core libraries, and we hope you’ll be the next major contributor!
+	- Developing novel, parallel algorithms to accelerate core problems in data processing
+	- Implementing solutions in C++ and CUDA
+	- Contributing to open source RAPIDS projects, such as cuDF
+	- Benchmarking, profiling, and optimizing code
+	- Working closely with mentors and some of the world’s top experts in GPU optimization
+	- Pursuing a PhD, MS, or BS in computer science, engineering, or a related field
+	- You have strong Modern C++ programming skills
+	- Familiar with at least one parallel programming framework, such as CUDA, OpenACC, OpenMP, etc.
+	- You care deeply about robust, readable, high-performance code
+	- Excited to learn, explore new problem areas, and apply your creativity to some of the most challenging and rewarding problems we have
++ skill set:
+	- We are looking for software engineering interns for our cuSPARSE and cuSOLVER team which are a key part of high-performance computing and deep learning software stacks. The main purpose of these libraries is to provide the fastest computing primitives for sparse and dense linear algebra, like Cholesky decomposition and sparse matrix products among many others. We see strong interest in optimization of such key functionalities from various industrial and research organizations - from Gaming and Machine Learning to autonomous driving and chip modeling. Some of these kernels spend several milliseconds while others involve hundreds of GPUs and spend hours. All of them need to be optimized for current and future GPUs that involve mathematical changes of algorithms. Does the idea of being at the heart of these projects and apply your knowledge to develop and optimize algorithms which make an impact around world excite you? If yes, then come and join our team!
+	- During your internship, you will work with senior software engineers in the libraries team who will provide mentorship and guide you in developing highly optimized algorithms. Projects will involve implementing new numerical algorithms, defining APIs, analyzing performance, finding appropriate solutions for difficult numerical corner cases, and other general software engineering work.
+	- Prototype and develop numerical algorithms for high-performance math libraries in the areas of dense and sparse linear algebra for single node and multi GPU clusters
+	- Analyze the performance of GPU or CPU implementations and find opportunities for improvements.
+	- Collaborate with team members to understand software use cases and requirements
+	- Studying towards a degree in Computer Science, Applied Math, Engineering, or related field.
+	- Strong C++ programming, debugging, performance analysis, and test design skills.
+	- Strong algorithms and numerical methods fundamentals.
+	- Ability to work independently.
+	- Good teamwork, communication, and documentation habits.
+	- Parallel programming experience using multi-threading or MPI.
+	- GPU programming experience (CUDA or OpenCL).
+	- Experience developing and optimizing numerical software.
+	- Experience with sparse or dense algebra optimizations.
+	- Exposure to floating-point arithmetic and numerical error analysis.
+	- A scripting language, preferably Python.
++ skill set:
+	- We are now hiring interns for our DriveIX team, with a preferred start in August or September. Join our DriveIX team and help build the real-time, cost-effective computing platform driving our success in this exciting and quickly growing field. Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. This is truly an extraordinary time. The era of AI has begun.
+	- As a Software Intern on our Copilot team, you will be working on research, design and implementation of software features in the DriveIX and intelligent assistant. You will use machine learning, deep learning and computer vision techniques combined with rules-based domain specification to provide monitoring, communication/interaction and external perception capabilities using multiple different type of sensors and inputs on embedded platforms.
+	- Pursuing BS/MS degree in Computer Science/EE or related
+	- You have strong fundamentals in embedded systems, programming and SW design
+	- Strong knowledge of ML/DL techniques, algorithms and tools with exposure to memory networks, CNN, RNN and LSTM and/or Computer Vision
+	- Have shown ability to harness existing data, acquiring and labeling of new data and managing related work flows.
+	- Excellent fluency with C/C++ and Python
+	- You strongly believe that prototyping is the right way to prove the idea
+	- Image, sentiment and object classification experience is highly desired
+	- Experience with one of the following: dialog systems and conversational platforms, computer vision, signal processing
+	- A familiarity with GPU computing (CUDA, OpenCL, OpenACC)
+	- Background with Dockers and Kubernetes
+	- Familiarity with TensorRT
+	- Worked with variety of vision, depth and audio sensors
+	- Worked on programming automotive CAN bus
++ Proficiency in C#.net or Python/Selenium for automation development.
++ skill set:
+	- NVIDIA is searching for world-class researchers in deep learning, focused on large-scale and high-precision medical imaging analysis, federated learning to join our applied research team. We believe that Deep Learning accelerated AI will completely reshape life sciences, medicine, and healthcare as an industry. To foster that transformation, NVIDIA is democratizing deep learning by providing an end-to-end AI computing platform crafted for the healthcare community.
+	- GPU-accelerated deep learning solutions can be used to craft more sophisticated neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making. Innovations in AI are advancing the future of precision medicine and population health management in spectacular ways. We are passionate about applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA’s hardware/software AI platform. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
+	- Craft DL approaches to solving medical imaging analysis, federated learning problems.
+	- Construct and curate large problem datasets.
+	- Design and implement medical imaging, computer vision, machine learning, federated learning techniques sought at solving specific problems.
+	- Keep up with the latest DL research and collaborate with diverse teams, including DL researchers, physicians, hardware architects, and software engineers, etc.
+	- Generate high-quality patents and top-tier technical or clinical publications, transfer technology into products.
+	- Pursuing a PhD in Electrical Engineering, Computer Science/Engineering, or related field.
+	- Relevant work experience in computer vision, medical imaging, deep learning, statistical learning, federated learning.
+	- You've produced a track record of research (publication) excellence and/or significant product development. IE 4+ pieces of tier-one publications with substantial deep learning for healthcare applications.
+	- Excellent rapid prototyping skills with medical applications using Python.
+	- Excellent knowledge and development experience of common deep learning frameworks and packages (Caffe, Tensorflow, PyTorch, etc.).
+	- Excellent communications skills.
+	- Prior experience working with physicians to identify (novel) important problems and assessing possible DL solutions is a plus.
++ skill set:
+	- Data Processing Unit’s (DPU’s) are the new class of programmable processor’s igniting unprecedented innovation for modern data centers by offloading and accelerating networking, storage, compute and security services. As we work to advance and implement these technologies into our future offerings, our Compiler team is growing and seeking a top-tier Compiler Engineer Intern who wants an exciting and fun role as they help lead the charge to even greater accomplishments within a world-class organization. Come join us and to be part of the team in making a difference!
+	- We are hiring a Compiler Engineer Intern for a minimum 12-week, full-time (40 hours/week) internship for the Summer 2022 term!
+	- Design and implementation of significant parts of the compiler
+	- Work on performance analysis and design/implementation of new optimizations
+	- Partnering and collaborating with global compiler and network software teams to coordinate improvements and problem resolutions
+	- You are pursuing your BS/MS/PhD in Computer Science or Computer Engineering (MS/PhD strongly preferred) or equivalent
+	- Some work or research experience in performance analysis, compiler optimizations, code generation
+	- Knowledge of network programming, network protocols and layers
+	- Strong C/C++ and Python programming and software design skills, including debugging, performance analysis, and test design
+	- Solid interpersonal skills are required along with the ability to work in a dynamic product-oriented team
+	- Ability to collaborate well with others in an energizing environment
+	- Proven ability to design/architect compiler frameworks
+	- Experience with open source compilers and contributions to code base
+	- Background with data plane programming or Linux networking stack and hardware packet processing pipelines
++ skill set:
+	- We are looking for an extraordinary Deep Learning Software Intern to develop NVIDIA's deep learning solutions in autonomous driving vehicles. As a member of our Solution Engineering-Automotive Machine Learning team, you will utilize ground breaking NVIDIA deep learning model training/inference software libraries for deployment on NVIDIA's hardware architecture. You will develop new deep learning architectures, deploy deep learning models in low precision, and compile and optimize DNN graphs. As a part of this role, you will be building a close technical relationship with our internal automotive/framework teams during product development and coordinate with the architecture and software teams to develop the best solution on our platforms.
+	- Train, fine-tune, optimize and customize perception DNNs in low precision (FP16/INT8)
+	- Apply low precision inference, quantization, and compression of DNNs
+	- Design and develop robust inferencing software that can be scaled to multiple platforms for functionality and performance
+	- Performance analysis, optimization and tuning
+	- You'll collaborate across the company to guide the direction of machine learning inferencing, working with software, research and product teams
+	- Pursuing MS or PhD degree from a leading University in a relevant field, e.g. engineering, computer science, or computer engineering or equivalent
+	- 2+ years of relevant software development experience
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design
+	- You should display a real passion for artificial intelligence and computer vision, and knowledge of the latest developments in DL and AI
+	- Experience working with deep learning frameworks like Caffe, TensorFlow and PyTorch
+	- Dedicated and able to work without supervision
+	- Experience with low precision inference, quantization, compression of DNNs
+	- Experience with NVIDIA software libraries such as CUDA and TensorRT
+	- Open source project ownership or contribution, healthy GitHub repositories, guiding and/or mentoring experience
++ skill set:
+	- We are currently seeking a software engineer intern with strong Computer Vision, Graphics and Deep Learning fundamentals and solid implementation skills to contribute to the development of NVIDIA Maxine - a comprehensive suite of SDKs with state-of-the-art AI features for virtual collaboration and content creation.
+	- You will work alongside brilliant engineers on core technologies to solve challenging computer graphics, vision, and deep learning problems. You will work collaboratively with research and production teams on new groundbreaking approaches that transform the industry.
+	- Gain first-hand experience and grow your technical expertise in one or multiple areas of:
+		* 3D human face/body/gaze tracking
+		* Avatar 3D modeling and animation
+		* Hand pose prediction and recognition
+		* Video artifact removal, super resolution and style transfer
+		* 3D reconstruction and scene understanding
+	- Pursuing BS, MS, or PhD in Computer Science or related field
+	- Hands on experience with building, training and debugging neural networks
+	- Hands on expertise with one or more Deep Learning frameworks (Caffe, tensorflow, keras etc)
+	- Strong software engineering background, Proficiency in C++ programming or Python.
+	- Self-motivated, fast to act and eager to learn
+	- Experience of using deep learning in computer vision and graphics
+	- Background with CUDA programming, and a real passion for optimizing system performance.
+	- Background with SDK development
+	- Experience of building platforms to deploy computer vision and deep learning technologies.
++ skill set for ***Machine Learning Compiler Research Intern***:
+	- NVIDIA is hiring software engineer interns for its GPU-accelerated Deep Learning team. Academic and commercial groups around the world are using GPUs to power a revolution in deep learning, enabling breakthroughs in problems from image classification to speech recognition to natural language processing and artificial intelligence. Join NVIDIA's team building software which will be used by the entire deep learning research community.
+	- In this role, you will be responsible for developing highly optimized solutions for deep learning algorithms. You’ll collaborate with members of the open source deep learning software engineering community to define and implement the features needed to accelerate the next generation of deep learning software frameworks. The scope of these efforts ranges from defining public APIs, performance tuning and analysis, crafting and implementing compiler and optimization techniques for neural networks, and other general software engineering work.
+	- Pursuing Master's (or equivalent experience) or PhD degree in CS or related field or equivalent.
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+	- Knowledge of CPU and/or GPU architecture. CUDA or OpenCL programming experience desired but not required.
+	- Experience with the following technologies: deep learning models and algorithms, deep learning framework design, high performance compiler design, or EDA synthesis and optimization algorithms.
+	- You have a history of mentoring others.
++ skill set:
+	- NVIDIA is seeking deep learning research / engineering interns to join the AV perception research team. The team consists of a group of dynamic AI applied researchers and engineers and is committed to build industry-grade deep learning to take autonomous vehicle (AV) perception into production, we work on fundamental advances in scientific methods to enabling scaling-up the entire perception for the autonomous driving stack. We are looking for highly motivated individuals to work in the areas of deep learning, optimization and computer vision. Our interns have the unique opportunity to make algorithmic contributions to core products and apply their ideas at a very large scale. As an intern, you will conduct applied research related to one of the meaningful research topics mainly related to perception for autonomous driving. You may also have the opportunity to publish in premier conferences in the fields of Machine Learning and perception.
+	- In order to scale-up current AI-algorithms, we need to learn from datasets orders of magnitude larger than existing ones which is a very challenging task. Our team at NVIDIA is dedicated to developing new algorithms to explore the vast amount of collected data to improve AI-based applications such as AV.
+	- Efficient data selection to improve learning and scaling-up training sets including active learning and mining strategies.
+	- Network interpretability to predict network failures and to design novel algorithms to continuously learn from data and from failures.
+	- Efficient training and inference to minimize training time and enable inference in embedded platforms.
+	- Synthetic to real domain adaptation.
+	- To learn more about our high-level goals visit: https://atscaleconference.com/videos/scale-2018-keynote-inside-nvidias-ai-infrastructure-for-self-driving-cars/
+	- You will be responsible for conducting applied research to advance the performance of our codebase applied to perception for autonomous vehicles. Research is done in areas related to large scale learning including semi-supervised deep learning, active learning, deep network architecture search, parameter optimization and modeling, domain adaptation, or life-long learning. You may have opportunities to influence the progress of the field by producing publications.
+	- Contribute to integrating novel algorithms into core applications to enable a better generation of autonomous vehicles, coding in Tensorflow to facilitate the integration into our codebase.
+	- Collaborate and increase the performance of existing perception-based systems for AV.
+	- Pursuing BS, MS, or Ph.D. in Computer Science, with a focus in Deep Learning, Artificial Intelligence or related fields.
+	- Expertise in Computer Vision and Deep Learning.
+	- Strong mathematical background and ability to analyze results.
+	- Excellent Tensorflow and python programming skills to bring ideas into production systems.
+	- A dedication to bring your work to completion and see your work having a worldwide impact.
+	- A self-motivated and good teammate with good communication and social skills.
+	- Publication or experience in fields related to machine learning, analytics, large-scale systems, statistics, and mathematics.
+	- Currently enrolled in a Ph.D. program in CS or Math.
+	- First author publications in top-tier peer-reviewed conferences such as NeurIPS, ECCV, ICML, CVPR, ICCV.
+	- Research or software engineering experience confirmed via internships, relevant work experience or code competitions.
++ skill set:
+	- The Thermal Engineering Design Team at NVIDIA is seeking a Thermal Engineering Intern who will contribute to thermal designs, testing, characterization, and prototyping activities as related to NVIDIA’s GeForce (gaming), Quadro (workstation), TESLA (High performance compute), and possibly server products. Be an integral member of a collaborative team which defines and develops thermal solutions from concept through production working with multi-functional Product Development teams and overseas partners. Your proven communication skills, strong thermal and validation engineering technical background with product development knowledge including thermal engineering and related manufacturing processes, are important.
+	- As a team, we support all products NVIDIA develops. Your contribution will be towards the development, specifications, design, and manufacturing implementation from package to board level thermal solutions through complete systems including implications focusing on GeForce, Quadro, and TESLA products including development of thermal technologies.
+	- Part of your responsibility is the investigation of relevant product design concepts, perform analysis and trade-offs aligned with product goals, and contributing to thermal solution product design from beginning to end (i.e. conceptualization to production).
+	- We build physical prototype assemblies and instrument those assemblies for testing. We carry out testing, summarize and correlate data, modify, and improve our systems.
+	- One of the team's responsibilities is to build test reports and summaries, and generally detail your efforts to broaden the knowledge of your team and the company.
+	- Working towards a BS or MS or equivalent experience in Engineering (ME, Mechanical Systems, Physics or similar with emphasis on heat transfer and design).
+	- Experience in visualizing and clarifying product/solution needs from fundamental concepts through system considerations to ensure optimized designs.
+	- Experience with FEA/CFD theory, and general analysis of heat transfer tools including excellent knowledge of at least one thermal analysis SW would be very beneficial.
+	- Hands-on experience and proficiency in thermal evaluation of computer hardware to provide relevant and data driven product design suggestions (i.e. thermocouple placement, acquiring readings using automated data acquisition, assembly and tear downs) are required.
+	- Experience with CFD tools including IcePak, Fluent, or FloTHERM.
+	- Experience using a flow bench for characterizing heat sinks, fans, and systems.
+	- Background in a thermal laboratory environment and tools related to making accurate thermal measurements and related data collection for electronics (i.e. temperature, power, voltages, multimeters, and more).
+	- Familiar with NVIDIA's GPU and SOC products.
++ skill set for Energy Solution Architect Intern:
+	- NVIDIA is building the world’s leading AI company and we need Solution Architects to help our customers adopt GPU Deep Learning, accelerated data analytics, and other AI and HPC technologies. As an intern you will team up with experienced solution architects as you work as part of an NVIDIA account team supporting customers building solutions with our latest technology.
+	- You will be supporting customers in their journey to optimize code for the GPU while working to complete a special project that will be agreed upon before you join. In the process you should become familiar with our Tesla data center products for AI and HPC including the DGX-1 deep learning supercomputer, our Quadro line of professional visualization solutions, and our Tegra embedded solutions for intelligent video analytics and IoT. At the end of your internship, after being exposed to a broad scope of our technologies, you will have insight into a role as a regular solution architect at NVIDIA.
+	- The ideal candidate will have a solid computer architecture and software foundation, with some GPU-based visual or compute experience, and will be comfortable working in a fast-paced environment with changing requirements. Excellent communication skills and ability to work both independently and with a team are essential. Experience with GPU deep learning and data sciences is desirable, as is the ability to quickly learn new technologies.
+	- Working at the convergence of HPC + AI developing domain specific Deep Learning, Machine Learning, and SimNet-based solutions
+	- Coordinate the setup of experiments, tests, equipment, and otherwise facilitate evaluations that help solve customer problems using GPU deep learning and other NVIDIA technologies
+	- Work closely with the NVIDIA Solution Architect and customer account team to secure design wins through customer proof-of-concept evaluations
+	- Facilitate rapid resolution of customer issues and promote the highest levels of customer satisfaction
+	- Work to complete a special project involving key NVIDIA technologies
+	- Pursuing MS or higher in EE, CS, Math, Physics or related technical field
+	- Data sciences coursework
+	- Programming skills in 1 or more high level languages (C, C++, Python, etc.)
+	- Linux command line and system administration skills are helpful
++ skill set for Compiler DevOps, Software Intern:
+	- Do you want to help drive the progress of compiler development for cutting-edge technologies? Are you excited to learn new tools and develop infrastructure applications to assist developers? Are you passionate about improving software development workflows?
+	- We are building the next generation of compiler technologies to accelerate graphics, compute and deep learning applications. We are looking for an intern to work on infrastructure projects to accelerate compiler development & testing.
+	- In this role you will work closely with our build, release and productivity engineering teams to develop full-stack applications.
+	- Pursuing a BS in Computer Science, Computer/Electrical Engineering or related field.
+	- You are familiar with modern web UI frameworks such as React, Angular, or others.
+	- Experience with Docker containers, Jenkins, Artifactory and Kubernetes.
+	- You are skilled in wide variety of programming languages including Python and JavaScript.
+	- Background with MySQL or equivalent and exposure to NoSQL databases.
+	- Experience working across teams and converting designs to visual elements.
+	- Excellent communication, problem solving and analytical skills to decompose complex issues and present them clearly and simply.
+	- Background with agile software development methodology and practices.
+	- Experience designing and deploying large-scale and distributed system software in cloud environments.
+	- Experience with one or more version control systems, such as git or Perforce.
+	- Experience with Linux configuration and installation of apps. Networking is a plus.
+	- Interest in ground breaking technologies and the ability to take initiatives and drive them across multiple functional teams.
++ skill set for Architecture Energy Modeling Intern:
+	- At NVIDIA, we pride ourselves in having energy efficient products. We believe that continuing to maintain our products' energy efficiency compared to competition is key to our continued success. Our team is responsible for researching, developing, and deploying methodologies to help NVIDIA's products become more energy efficient; and is responsible for building energy models that integrate into architectural simulators, RTL simulation, and emulation platforms.
+	- As a member of the Power Modeling, Methodology and Analysis Team, you will collaborate with Architects, Performance Engineers, Software Engineers, ASIC Design Engineers, and Physical Design teams to study and implement energy modeling techniques for NVIDIA's next generation GPUs and Tegra SOCs. Your contributions will help us gain early insight into energy consumption of graphics and artificial intelligence workloads, and will allow us to influence architectural, design, and power management improvements.
+	- Work with architects and performance architects to develop an energy-efficient GPU.
+	- Develop methodologies and work flows to select and run a wide variety of workloads to train models using ML and/or statistical techniques.
+	- Develop methodologies to improve the accuracy of energy models under various constraints, such as, process, timing, floorplan and layout.
+	- Correlate the predicted energy from models created at different stages of the design cycle, with the goal of bridging early estimates to silicon.
+	- Develop tools to debug energy inefficiencies observed in various workloads run on silicon, RTL and architectural simulators. Work with architects to fix the identified energy inefficiencies.
+	- Work with performance, verification and emulation methodology and infrastructure development teams to integrate energy models into their platforms.
+	- Prototype new architectural features, create an energy model, and analyze the system impact.
+	- You are pursuing a BS/MS/PhD in related fields.
+	- Strong coding skills, preferably in Python, C++.
+	- Background in machine learning, AI, and/or statistical modeling.
+	- Interest in computer architecture and energy efficient GPU designs.
+	- Familiarity with Verilog and ASIC design principles is a plus.
+	- Ability to formulate and analyze algorithms, and comment on their runtime and memory complexities.
+	- Desire to bring quantitative decision-making and analytics to improve the energy efficiency of our products.
+	- Good verbal/written English and interpersonal skills.
++ skill set:
+	- NVIDIA is in search of Summer 2022 intern candidates with interests in computer architecture to join our memory system architecture team!  This team drives memory system architecture in products tailored to NVIDIA’s world changing SOCs for autonomous vehicles, mobile systems, server systems, deep-learning, and gaming.
+	- Developing architecture and micro-architecture to improve the state-of-the-art in memory system optimizing along the axes of performance, power efficiency, complexity, area, effort, and schedule.
+	- Performance modeling and simulation of features to improve memory system efficiency.
+	- Implementing and maintaining high-level functional and performance models.
+	- Analyzing benchmarks, application workloads, and performance simulation results to identify tradeoffs in areas of micro-architectural optimizations.
+	- Debugging performance and functional issues with high-level models, RTL simulation, and silicon.
+	- Enrollment in a BS, MS, or PhD program in CS/CE/EE or related field.
+	- Minimum GPA: 3.5
+	- You have an impeccable hardware engineering background with a concentration in VLSI and/or Computer Architecture.
+	- Exposure/coursework related to Digital systems and VLSI design, Computer Architecture, C/C++ programming languages.
+	- Deep understanding of memory subsystems – caches and coherence protocols, DDR and memory controller architecture, on-chip interconnects, address translation.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, product oriented, distributed team.
+	- Strengths in C++, Perl or Python. Verilog or SV/UVM are a big plus.
++ skill set for Deep Learning Architect Intern:
+	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today’s hardware and software, this is the place to be.
+	- Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
+	- Guide development of future generations of deep learning processors and computing platforms.
+	- Develop detailed performance models and simulators for computing systems accelerating DL training.
+	- Collaborate across the company to guide the direction of machine learning at NVIDIA; spanning teams from hardware to software and research to production.
+	- Drive HW/SW co-design of NVIDIA’s full deep learning platform stack, from silicon to DL frameworks.
+	- You are pursuing a PhD or MS in CS, EE or CSEE.
+	- Strong background in computer architecture, preferably with focus on high-performance parallel processors.
+	- Background in machine learning and neural networks, in particular training.
+	- Experience analyzing and tuning application performance.
+	- Experience with processor and system-level performance modelling.
+	- Programming skills in C++ and Python.
+	- Familiarity with GPU computing (CUDA, OpenCL).
++ Experience with MongoDB and/or ELK
++ Experience with at least one of the job schedulers such as LSF, SLURM, Mesos/Marathon, Kubernetes, Docker Swarm
++ Experience with containers – Docker, Clear Containers, rkt
++ Knowledge of OS/driver software stacks, e.g., Linux/QNX.
++ Some experience working with and implementing DevOps solutions including but not limited to Python, Ansible, Docker/Containers, Kubernetes and datacenter deployments
 + skill set:
 	- BLAH.
 + skill set:
@@ -825,6 +1386,12 @@
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
 
 
 
@@ -846,3 +1413,17 @@
 	- TVM
 	- Glow
 
+
+
+
+To use mathematical notations in Web browsers, try:
++ MathJax
++ MathML
++ OpenMath
++ KaTeX
++ AsciiMath
+	- Or, AsciiMathML
+	- ASCIIMathML.js
+	- ASCIIMathML
+	- LaTeXMathML
++ Lout
