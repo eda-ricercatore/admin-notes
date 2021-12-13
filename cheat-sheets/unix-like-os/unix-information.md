@@ -4,9 +4,9 @@
 
 ##	Data compression and File Archiving
 
-###	"*.tar.xz" Files
+###	"\*.tar.xz" Files
 
-To compress/archive "*.tar.xz" files, try:
+To compress/archive "\*.tar.xz" files, try:
 - xz -z
 - xz --compress
 - xz -l

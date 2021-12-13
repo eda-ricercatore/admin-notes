@@ -2,7 +2,7 @@
 
 ##	Setting Up SSH Access
 
-ssh-keygen -f ~/.ssh/[name-of-ssh-key] -C "[Description for the use of this SSH key]"
+`ssh-keygen -f ~/.ssh/[name-of-ssh-key] -C "[Description for the use of this SSH key]"`
 
 
 ###	Starting the SSH Agent
@@ -22,11 +22,11 @@ Use the following to start the SSH agent.
 
 ##	Making An SSH Connection
 
-To add an SSH agent:						ssh-add ~/.ssh/[name-of-ssh-key]
+To add an SSH agent:						`ssh-add ~/.ssh/[name-of-ssh-key]`
 
-To list all (added/active) SSH agents:		ssh-add -l
+To list all (added/active) SSH agents:		`ssh-add -l`
 
-To delete all (added/active) SSH agents:	ssh-add -D
+To delete all (added/active) SSH agents:	`ssh-add -D`
 
 
 
