@@ -1371,9 +1371,17 @@
 + Knowledge of OS/driver software stacks, e.g., Linux/QNX.
 + Some experience working with and implementing DevOps solutions including but not limited to Python, Ansible, Docker/Containers, Kubernetes and datacenter deployments
 + skill set:
-	- BLAH.
+	- Experience with Jamf Pro and Google MDM and software management tools.
+	- Experience in designing/delivering modern workflow methodologies (DEP/VPP/ABM).
+	- Experience with implementing open-source tools into an MDM product: Munki, autopkg, and osquery.
 + skill set:
-	- BLAH.
+	- computational science, especially computational physics/chemistry/biology for statistical mechanics, biophysics, fluid mechanics, and molecular dynamics.
+	- statistical methodology, modeling, and inference
+	- numerical methods for solving PDEs, PDE solvers
+	- high-performance computing and software libraries
+	- signal and image processing for neurophysiology and structural biology
+	- machine learning for scientific applications
+	- mathematics, algorithms, and optimization for deep neural networks
 + skill set:
 	- BLAH.
 + skill set:
