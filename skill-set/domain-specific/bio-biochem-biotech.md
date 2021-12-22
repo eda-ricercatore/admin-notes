@@ -12,3 +12,18 @@
 	- Schrodinger
 + write standard operating procedures (SOP) and high-quality electronic laboratory notebooks (ELN)
 
+
+
+
+
+
+
+
+
+
+
+
+Research institutes:
++ Fred Hutchinson Cancer Research Center
+	- Seattle, WA.
+	- https://www.fredhutch.org/en/about/careers.html
