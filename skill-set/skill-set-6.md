@@ -1383,7 +1383,39 @@
 	- machine learning for scientific applications
 	- mathematics, algorithms, and optimization for deep neural networks
 + skill set:
-	- BLAH.
+	- Kiwibot is looking for a Senior Machine Learning Engineer role and it could be a great opportunity to join us. You should have the right technical knowledge and understanding of common and novel computer vision, and machine learning techniques to support and develop new algorithms, and create solutions. You should also have proven experience designing, developing and deploying machine learning solutions on real world applications. 
+
+
+	- As a Machine Learning Engineer : You will report directly to our Head of AI & Robotics.
+	- Implement, train and iterate vision based deep learning models.
+	- Train models on Cloud on single and multiple GPUs. 
+	- Design and implement data pipelines for storing and processing thousands of images and videos.
+	- Design and integrate with third party labeling company API for upload and ingestion of data and labels. 
+	- Design and implementation of data harvesting from current fleet operations. 
+	- Create data visualization tools for data analysis and debugging. 
+	- Evaluate the quality of labeling of data.
+	- Design and iterate labeling instructions that produce high quality labels.
+	- Implement, design and manage databases of images, videos and metadata associated with them.
+	- Optimize models for performance on constrained environments.
+	- Deploy trained models on-premise integrated with the rest of the robot’s software stack.
+	- Report of training procedures, error analysis, data review.
+	- Offline database analysis for getting insights, generating labels automatically, doing anonymization, etc. 
+	- You have knowledge of Python and scripting (advanced) 
+	- Git (intermediate/advanced) 
+	- Docker, docker-compose (advanced) 
+	- Scrum and agile methodologies 
+	- Vast experience with deep learning frameworks like pytorch/tensorflow 
+	- Experience with one or more cloud providers (advanced), GCP is a plus 
+	- Deep understanding of DL techniques like CNN, LSTM, RNN, Transformers
+	- Hands on with semantic segmentation algorithms, object detection or depth estimation.
+	- Experience using and implementing RESTFULs services 
+	- Terraform/pulumi knowledge for deploying solutions 
+	- Experience with some MLOps, MLFlow is a plus 
+	- SQL and no SQL databases (advanced). BigQuery is a plus 
+	- ROS or ROS2 (basic) is a plus 
+	- C++ (intermediate) is a plus 
+	- Experience with sensor technologies is a plus (Lidars 2D, 3D, Stereo Cameras, Cameras, IMU, GPS) 
+	- Strong English level, both written and spoken.
 + skill set:
 	- BLAH.
 + skill set:
