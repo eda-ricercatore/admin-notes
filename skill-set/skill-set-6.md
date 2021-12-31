@@ -1383,9 +1383,7 @@
 	- machine learning for scientific applications
 	- mathematics, algorithms, and optimization for deep neural networks
 + skill set:
-	- Kiwibot is looking for a Senior Machine Learning Engineer role and it could be a great opportunity to join us. You should have the right technical knowledge and understanding of common and novel computer vision, and machine learning techniques to support and develop new algorithms, and create solutions. You should also have proven experience designing, developing and deploying machine learning solutions on real world applications. 
-
-
+	- Kiwibot is looking for a Senior Machine Learning Engineer role and it could be a great opportunity to join us. You should have the right technical knowledge and understanding of common and novel computer vision, and machine learning techniques to support and develop new algorithms, and create solutions. You should also have proven experience designing, developing and deploying machine learning solutions on real world applications.
 	- As a Machine Learning Engineer : You will report directly to our Head of AI & Robotics.
 	- Implement, train and iterate vision based deep learning models.
 	- Train models on Cloud on single and multiple GPUs. 
@@ -1416,6 +1414,119 @@
 	- C++ (intermediate) is a plus 
 	- Experience with sensor technologies is a plus (Lidars 2D, 3D, Stereo Cameras, Cameras, IMU, GPS) 
 	- Strong English level, both written and spoken.
++ skill set:
+	- We are looking for Machine Learning Interns to \#JoinTheBand and help drive a data-first culture across Spotify.  You will work on a variety of problems such as content recommendation, personalization, optimization, user intelligence, and content classification. You will work with a team to come up with new and interesting hypotheses, test them, and scale them up to huge data sets with hundreds of billions of data points. Above all, your work will impact the way the world experiences music.
+	- Apply machine learning, collaborative filtering, NLP, and deep learning methods to massive data sets
+	- Prototype new algorithms, evaluate with small scale experiments, and later productionize solutions at scale to our 140 million active users
+	- Collaborate with a cross functional agile team of software engineers, data engineers, ML experts, and others to build new product features
+	- Help drive optimization, testing and tooling to improve data quality
+	- Iterate on recommendation quality through continuous A/B testing
+	- You are pursuing a Ph.D. or Master's degree in Machine Learning, Statistics or related field preferred
+	- You have a graduation date of 2022 or 2023
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You have experience implementing machine learning systems at scale in Java, Scala, Python or similar (not just R or Matlab)
+	- You have a strong mathematical background in statistics and machine learning
+	- You care about agile software processes, data-driven development, reliability, and responsible experimentation
+	- You preferably have experience with data processing and storage frameworks like Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
+	- You preferably have machine learning publications or work on open source to share with us
+	- We are a distributed workforce enabling our band members to find a work mode that is best for them!
+	- Where in the world? For this role, it can be within the Americas region in which we have a work location.
+	- Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+	- Working hours? We operate within the Eastern Standard time zone for collaboration.
++ skill set:
+	- We are looking for a Financial Systems Engineering Intern who is organized, passionate, and excited to learn. You will join our Financial Systems team in NYC responsible for the support and growth of a suite of financial SaaS tools. In this role, you will primarily help support the daily operations of our NetSuite, Concur, Coupa, and Blackline systems. Above all, your work will impact the way the world experiences music.
+	- Provide front-line support across a suite of financial systems, learning along the way.  
+	- Troubleshoot process, application, and functional issues, and manage these through to resolution. 
+	- Identify areas of opportunity for process optimization and system automation to enable rapid growth in the Financial Systems end-user base. 
+	- Support major system upgrades in NetSuite, Coupa, and Blackline. 
+	- Support testing of ongoing enhancements. 
+	- Engage with stakeholders across the entire Spotify organization. 
+	- Work from our office in New York or remotely anywhere in the US, collaborating with our partner team based in Stockholm. 
+	- A current undergraduate or graduate student pursuing a degree in Computer Science, Engineering, Finance, or Accounting, and planning to graduate in 2023. 
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022. 
+	- You know how to balance multiple tasks, problem solve in new contexts and communicate clearly. 
+	- You are experienced in system development and/or accounting. 
+	- You care about optimizing systems and processes and have a keen eye for detail. 
+	- You have experiences with system development and accounting processes that you can tell us about.
++ skill set:
+	- We are looking for a Data Analyst Intern to \#JoinTheBand and support our Tech Learning team. As a part of our Collaborative Learning Product Area, The Tech Learning team creates peer-to-peer learning experiences that upskill and reskill Spotify employees in technical domains. We are looking for a Data Analyst Intern to consume, understand, and interpret data across our programs and create tools to better understand topics like customer demand and customer learner journeys.
+	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with the Tech Learning team, Data Scientists, and other key stakeholders across disciplines
+	- You are pursuing a Bachelor’s, Master’s degree, or bootcamp certification in Data Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
+	- You have a graduation date of 2023 or later
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You harbor a passion for numbers and the use of data to make decisions
+	- You have the technical competence to perform more analytics in one or more of the following areas:Coding skills (such as Python, Java, or Scala)Analytics tools experience (such as Bigquery, SQL, or Tableau)
+	- Experience and passion for performing analysis with large datasets
++ skill set:
+	- Spotify is looking for Data Engineering Interns to join us this Summer. You will build data driven solutions to bring audio and digital media experiences to our millions of active users and artists either by working directly on product features, publishing and insight tools for artists, or by improving the quality of our data tools and large scale data infrastructure. You will take on complex data-related problems using some of the most diverse datasets available — user behaviors, acoustical analysis, revenue streams, cultural and contextual data, and other signals across our broad range of mobile and connected platforms. Above all, your work will impact the way the world experiences audio.
+	- Build large-scale batch and real-time data pipelines with data processing frameworks like Scalding, Scio, Storm, Spark and the Google Cloud Platform.
+	- Use best practices in continuous integration and delivery.
+	- Help drive optimization, testing and tooling to improve data quality.
+	- Collaborate with other engineers, ML experts and collaborators, taking learning opportunities that will arise every single day.
+	- Work in multi-functional agile teams to continuously experiment, iterate and deliver on new product objectives.
+	- You are pursuing a Bachelor's or Master's degree or a bootcamp certification in Computer Science or Computer Engineering or a related field of study.
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You are a current sophomore, junior or senior in undergrad or a first or final year Master's student
+	- You've dabbled in high volume data, preferably with distributed systems such as Hadoop, BigTable, and Cassandra.
+	- You know how to write distributed, high-volume services in Java, Scala and Python.
+	- You've had exposure to data modeling, data access, and data storage techniques.
+	- You have an interest in agile software processes, data-driven development, reliability, and responsible experimentation.
+	- You understand the value of collaboration within teams.
++ skill set:
+	- We are looking for Machine Learning Engineering Interns to help drive a data-led culture across Spotify. You will apply machine learning methods to extensive data sets to extend improve Spotify’s means of understanding and engaging users across various contexts and modalities. You will build upon Spotify’s deep understanding of our content, users, and artists to develop rich analytics, engagement, and business applications. Above all, your work will impact the way the world experiences audio.
+	- Contribute to designing, building, evaluating, shipping, and refining Spotify’s product by hands-on ML development
+	- Collaborate with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission to connect artists and fans in personalized and relevant ways
+	- Assist in prototyping new approaches and product-ionize solutions at scale for our hundreds of millions of active users
+	- Help drive optimization, testing, and tooling to improve quality
+	- Be part of an active group of machine learning practitioners across Spotify) collaborating with one another
+	- You are pursuing a Bachelor’s or Master’s degree in Machine Learning, Computer Science, Computer Engineering or a related field of study
+	- You have dabbled in ML engineering practices via prior internships, coursework, and/or projects
+	- You have experience in working with Scala and/or PythonYou have an understanding of system design, data structures, and algorithms
+	- You care about quality and you know what it means to ship high-quality code
+	- You are currently in your final or penultimate year of your studies
++ skill set:
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- Contribute to the wider research community by publishing. 
+	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
+	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
+	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification. 
+	- Work closely with our team and internal partners to develop, refine, and launch processes that help ensure Spotify is a safe and positive experience. 
+	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
+	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
+	- You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.
+	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- Knowledge or experience working in emerging markets is a plus.
+	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
+	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
++ skill set:
+	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences audio. 
+	- Perform analyses on large sets of data to extract concrete insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions.
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
+	- You are pursuing a Bachelor’s, Master’s degree or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or similar quantitative field
+	- You are a sophomore, junior or senior in undergrad or a first or final year in a Master's program
+	- You have harbor a passion for numbers and the use of data to make decisions
+	- You have have technical competence to perform more analytics in one or more of the following areas:
+	- Coding skills (such as Python, Java, or Scala)
+	- Analytics tools experience (such as Pandas, R, SPSS, SQL or Tableau)
+	- Experience performing analysis with large datasets
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
