@@ -1639,6 +1639,7 @@
 	- PTO awarded for being part of the on call rotation
 	- Regular Unstructured Development Time to investigate new technologies that would benefit you and your team
 	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
++ OpenCV Ceres, ROS, PyTorch
 + skill set:
 	- BLAH.
 + skill set:
