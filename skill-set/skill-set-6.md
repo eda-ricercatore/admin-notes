@@ -1641,6 +1641,120 @@
 	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
 + OpenCV Ceres, ROS, PyTorch
 + skill set:
+	- GrAI Matter Labs is a young and vibrant high-tech company, which aims to revolutionize artificial intelligence for everyone. Our unique machine learning technology will drive the next generation of computer chips to power many future products. This way, we contribute to making robots, cameras, and transportation smart, safe, and power-efficient. GML is an international company, with highly motivated teams in offices in France (Paris), Netherlands (Eindhoven), and USA (San Jose).
+	- At GML, we develop new technologies for efficient low-latency and low-power processing of neural networks, for training neural networks, and for neuromorphic computing. And we are looking for talented MSc candidates to help us in this research.
+	- If you are an MSc candidate with a background in electrical engineering, computer science, or computer architecture, and you are looking for a cutting-edge environment to perform your MSc thesis project, then you should certainly consider applying at GML!
+	- You will be embedded in a team of highly trained and highly motivated architects, scientists, and engineers. In your assignment, you will work with experts in the fields of processor architecture, computer architecture, compiler construction, neural network and neuromorphic processing. These are some of the topics we are currently working on:
+		* Retraining neural networks for imposed temporal sparsity;
+		* Improving input signal sparsity;
+		* Mixed-precision training;
+		* LIDAR-based neural network applications;
+		* Bayesian machine learning on neuromorphic architectures;
+		* Neural-networks mapper algorithms for massive-multicore Systems;
+		* Auto-tuners for efficient neural-network mapping for massive multicore systems;
+		* NoC architectures for neuromorphic massive multicore systems;
+		* Low-power techniques for neuromorphic massive multicore systems.
+		* AI solutions for [ANDANTE project](https://www.andante-ai.eu/) use cases, together with partners such as ST Microelectronics, Philips, Boeing, Thales, Valeo, CEA, and Fraunhofer.
+		* AI solutions for medical sensor systems in the [pAvIs project](https://penta-eureka.eu/project-overview/penta-call-5/pavis/), together with partners such as Philips, Cochlear, and InBrain.
+	- Responsibilities:
+		* Determining the scientific contributions of your project, and advancing the state-of-the-art in neural network processing;
+		* Providing GML with new technologies for neural network processing and neuromorphic design;
+		* Defining your project goals, deliverables, and plans, to fit the timeframe of your assignment;
+		* Running and managing your project, together with your GML advisors, university supervisors, colleagues, and co-students;
+		* Delivering a final report for your MSc graduation.
+	- Requirements:
+		* Master student with a background in Electrical of
+		* Strong mathematics, computer science, and/or computer architecture background
+		* Strong machine-learning background, and hands-on experience with neural network frameworks, such as Tensorflow
+		* Strong programming skills (e.g. Python, C, C++)
+		* "Can-do" mentality, excellent problem-solving skills
+	- GrAI Matter Labs is a dynamic organization which employs some of the brightest minds in the industry and is known for the great care we take with clients and employees alike. We believe we will win as a close-knit team that converts a strong vision into products that solve use cases which our customers truly value. We also hold to the highest standards of inclusion, team spirit, and cooperation. This position is based at GrAI Matter Labs offices at the High Tech Campus in Eindhoven, The Netherlands. The High Tech Campus houses 160 companies, employing a total of 11,000 entrepreneurs and R&D employees. To our interns, we offer a nice compensation, in line with what is customary around the Eindhoven area.
++ skill set:
+	- Work on exciting Proof of Concept projects with using GrAI VIP
+	- Train Deep Learning models that work on Real-World Scenarios.
+	- Develop and optimize AI training pipelines.
+	- Use different sensors to acquire data.
+	- Create applications using AI and robotics.
+	- You will work closely with the Customer’s Solutions Architect Team to deliver contents that drive results.
+	- You are in your last year of your engineering School.
+	- Pursuing a master's degree program in Computer Science, or related technical field.
+	- Programming experience in Python. Experience in C/C++ is a plus.
+	- Good Understanding of Deep Learning fundamentals.
+	- Experience using one or more of the Machine Learning Libraries (TensorFlow, Keras, PyTorch).
+	- Experience working in Linux environments.
+	- Team Player.
+	- Problem-solver keen to find innovative solutions in any situation.
+	- Super enthusiastic, and you like to be challenged!
+	- Fluent in English and willingness to work in an international context.
++ skill set:
+	- GrAI Matter Labs is looking for a talented Senior AI Processor Architect to help us shape the next generation of our GrAI Core Architecture and its pre- and post-processing peripherals (such as image processing, FFT, IFFT...). As a Senior Core Architect you will own the specifications of one or more components of our core architecture. You will analyse the performance of our processors for selected applications, and propose, quantify and specify architectural features and optimisations to improve the performance, cost and power consumption of our next generation GrAI Core.
+	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company’s architecture, as well as adapting such concepts to work in production-grade systems.
+	- Our ideal architect is creative, curious, knowledgeable, and not afraid to get their hands dirty by helping the hardware and tools teams with implementation tasks when necessary. The right candidate knows how to find solutions that are both theoretically sound and provide the best cost-performance trade-offs, while also considering all the practical constraints created by the development process.
+	- As part of the architecture team your main responsibilities are:
+		* to carry out analysis of the performance and cost of the existing core architecture;
+		* to propose and evaluate new architectural features in collaboration with the other members of the architecture team;
+		* to draft and own specifications of features in the next generations of the GrAI Core;
+		* to provide guidance and assistance to hardware and tools engineers;
+		* to contribute to the long-term technological direction of the company.
+		* You will be working on exciting and emerging topics, finding new techniques and silicon technologies to exploit sparsity and event-driven processing of neural networks to enable new applications on the Edge.
+	- Master or PhD in Electrical engineering, Computer Engineering or Computer Science;
+	- 5+ years of experience in designing chips and hardware;
+	- Excellent theoretical knowledge and practical experience in computer architecture and hardware design, including network-on-chip, datapath, memory hierarchy;
+	- Excellent skills and experience as a hardware designer;
+	- Knowledge of VLSI process technology and backend is a big plus;
+	- Knowledge of compilers, simulators and other software development tools is a plus.
+	- Knowledge of machine learning, deep learning and AI applications is a plus.
++ skill set:
+	- The machine learning engineer’s primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- B.S. in Computer Science or equivalent
+	- Course work in machine learning and computer vision
+	- Strong programming skills in Python
+	- 3 years’ experience developing ML applications in either TensorFlow/Keras and/or PyTorch
+	- Excellent communication skills
+	- The ability to read, understand, and implement algorithms from technical ML journals
+	- Master’s in computer science of equivalent
+	- 4+ years experience developing ML applications in TensorFlow/Keras and PyTorch
+	- Multi-project experience in object classification, object detection, face recognition, and/or keyword spotting
+	- Knowledge of deep learning quantization techniques
+	- Experience with Docker and Git
+	- Experience with Scrum/Agile software development (e.g. Jira)
++ skill set:
+	- The junior machine learning engineer’s primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- B.S. in Computer Science or equivalent
+	- Course work in machine learning and computer vision
+	- Strong programming skills in Python
+	- 1 year experience developing ML applications in either TensorFlow/Keras and/or PyTorch
+	- Excellent communication skills
+	- The ability to read, understand, and implement algorithms from technical ML journals
+	- 2+ years experience developing ML applications in TensorFlow/Keras and PyTorch
+	- Multi-project experience in object classification, object detection, face recognition, and/or keyword spotting
+	- Knowledge of deep learning quantization techniques
+	- Experience with Docker and Git
+	- Experience with Scrum/Agile software development (e.g. Jira)
++ skill set:
+	- At Brainchip, we are revolutionizing Artificial Intelligence at the edge with our AkidaTM Hardware and Software products. Akida™ hardware and software products are the result of over a decade of fundamental R&D by BrainChip engineers and data scientists. Akida AI IP, AI SoC, and development environment help customers create ultra-low-power solutions with the ability to incrementally learn on-chip without the need to retrain in the cloud.
+	- We are looking for a HW Design Engineering Summer Intern (May-August 2022) with a strong background in Digital Design and excellent Verilog/System Verilog coding and scripting skills.
+	- As a HW Design Engineering Intern, you will work on our latest AI Chip and/or IP design. You will work closely with the HW Engineering team using Industry standard tools and flows for RTL design, verification, automation and debug. The position requires willingness and ability to learn quickly and excellent communication skills.
+	- GPA 3.0 and above
+	- Currently enrolled in a Bachelors/Masters program in Electrical Engineering and/or Computer Science with a graduation date of Dec 2022 or later.
+	- Candidate should be local to Southern California since this position does not provide relocation assistance.
+	- Currently pursuing a Bachelors or Masters in Electrical Engineering and/or Computer Architecture with emphasis on Digital Design, Verification or Computer Architecture
+	- Familiarity with Digital design using Verilog/System Verilog
+	- Proficient in scripting languages like Python, PERL, or Shell scripting
+	- Strong analytical and problem-solving skills
++ skill set:
+	- The machine learning research scientist’s primary role is to work with other R&D team members to imagine, define, and develop BrainChip’s spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- Ph.D. in computer science (or equivalent) or MS in computer science with +5 years of machine learning experience
+	- 3+ years of machine learning experience using Python
+	- Experience with supervised, unsupervised, and reinforcement learning
+	- Experience in popular Deep Learning/Machine Learning frameworks (Keras, Tensorflow, PyTorch, Scikit-learn, etc.)
+	- Experience in one or more of the following application fields: Image Processing/Computer Vision, ADAS, Anomaly Detection, Audio/Speech Processing, or Sensor Fusion.
+	- Experience in Neuromorphic Engineering and/or Spiking Neural Networks
+	- Experience with event-based algorithms
+	- Experience with Git version control system
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
