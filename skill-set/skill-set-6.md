@@ -1752,8 +1752,42 @@
 	- Experience in Neuromorphic Engineering and/or Spiking Neural Networks
 	- Experience with event-based algorithms
 	- Experience with Git version control system
-+ skill set:
-	- BLAH.
++ skill set for Research Scientist, Sculpting Evolution:
+	- The Sculpting Evolution Group seeks to a research scientist to supervise and assist research projects focused on advancing biotechnology safely. Ideal candidates will be committed to glimpsing the best possibilities of the future and making them real.
+	- On a practical level, we’re looking for people who:
+		* Enjoy hands-on work with a wide variety of experimental systems and biology-relevant laboratory techniques,
+		* Love continually learning, developing, applying, and teaching new methods and techniques,
+		* Are happy to be asked for help, to lend a hand when it’s possible, and to say no when it’s not,
+		* Have strong written and oral communication skills,
+		* Do their best to contribute to a supportive team atmosphere with explicit proactive communication,
+		* Are enthusiastic about mentorship and committed to building an outstanding research team.
+	- Broader views are also important. Particularly strong candidates might be those who:
+		* Aim to ensure that biotechnology benefits as many morally relevant beings as possible,
+		* Recognize the importance of mitigating catastrophic risks,
+		* Care more about long-term impact than conventional metrics,
+		* Gladly seize upon a small chance of achieving a tremendously impactful outcome.
+	- The group’s overt research interests have shifted over the past few years. We retain a focus on understanding and controlling evolution, including but not limited to our PRANCE system for high-throughput robotic directed evolution, and adding machine learning and in silico directed evolution to our repertoire. However, we now focus more on engineering mammalian systems, not just in developing novel genome editing approaches relevant to ecological engineering, but also with relevance to biosecurity and mitigating catastrophic risks, for some of the reasons outlined here. Example ongoing projects in this area include SecureDNA and the Nucleic Acid Observatory; we also work on receptor decoys and other broad-spectrum or rapidly scalable defenses against exponentially spreading agents. As these projects span an impressively large number of fields, we seek generalists with expertise covering several of them.
+	- On a day-to-day level, the position will involve designing and performing experiments, supervising diverse research projects in the group, training and mentoring new arrivals, helping manage key collaborations, writing publications and grant proposals, and optionally engaging in science communication to general audiences or to policymakers. Given the breadth of research methods that we employ, willingness to learn new skills and techniques is a must.
+	- REQUIRED:
+		* PhD in Biology, Chemisty, Physics, Bioinformatics, MechE, or Computer Science or related field;
+		* Skilled at troubleshooting experiments involving complex systems;
+		* Specialized expertise in multiple fields supporting our primary areas of interest:
+		* Examples of valuable skill sets include but are not limited to:
+			+ Genome, cell, and organism editing – applied to biosecurity, ecological engineering, and animal well-being
+			+ Cell culture, virus propagation, genome editing, flow cytometry, animal husbandry
+			+ Technology development – catalytic tools for beneficial applications in diverse settings
+			+ Microbiology, chemical biology, evolutionary biology, robotics, bioinformatics, machine learning.
+			+ Support for a major collaboration focused on developing wastewater and environmental metagenomic sequencing as an early warning system, including expertise in experimental design for sensitivity testing, sampling techniques, sequencing, and data processing, analysis, and storage.
+	- PREFERRED:
+		* One year of postdoctoral experience;
+		* Ideally some level of skill in several of these, and willingness to pick up others:
+		* Library construction, NGS sample preparation, sequencing, and data analysis
+		* Mammalian cell culture and engineering
+		* Experience with computational biology algorithms, including bioinformatics, computational structural biology, statistical machine learning, and deep learning
+		* Experience with high-performance and cloud computing, especially AWS, as well as with Github and Docker
+		* Basic familiarity with circuits, hardware, 3D printing, and/or robotics, or willingness to learn the basics
+		* Strong written and oral communication skills
+		* Enthusiastic about mentorship and helping others learn.
 + skill set:
 	- BLAH.
 + skill set:
