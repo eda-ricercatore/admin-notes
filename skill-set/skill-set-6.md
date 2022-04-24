@@ -1789,6 +1789,129 @@
 		* Strong written and oral communication skills
 		* Enthusiastic about mentorship and helping others learn.
 + skill set:
+	- As a member of our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute. 
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed. Compilers are needed to optimize the mappings of computation graphs to compute nodes. In this position, you will build the tools that generate distributed memory code from evolving intermediate representations. 
+	- Design and devise graph semantics, intermediate representations, and abstraction layers between high-level definitions (like TensorFlow and Pytorch) and low-level distributed code 
+	- Use state-of-the-art parallelization and partitioning techniques to automate generation, exploiting hand-written distributed kernels
+	- Identify and implement novel program analysis and optimization techniques for compilers targeting linear algebra applications on distributed memory architectures 
+	- Leverage open-source tools and compiler toolchains such as ISL, MLIR and LLVM to build domain specific language and compiler for programming Cerebras Wafer Scale Engine
+	- Develop and optimize the LLVM backend target for various generations of Cerebras architecture
+	- Bachelor’s, Master’s, PhD, or foreign equivalents in computer science, engineering, or related field 
+	- Familiarity with high-level parallel program analysis and optimization 
+	- Compiler experience; experience in code generation and optimization for distributed systems
+	- Strong proficiency in C/C++ or other language for designing large, performant systems
+	- Familiarity with Python or other scripting language. 
+	- Familiarity with multi-thread and multi-process programming models
+	- MLIR & LLVM compiler toolchain internals 
+	- Polyhedral models, Integer Set Library (ISL) 
+	- Familiarity with HPC kernels and their optimization 
+	- IEEE floating point representations 
+	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
+	- Knowledge of ML application areas and state-of-the-art networks in various application areas 
++ skill set:
+	- As a member of our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute. 
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed. The Cerebras compiler efficiently maps this computation onto hundreds of thousands of compute nodes, leveraging novel hardware architecture features to maximize performance while maintaining correctness. LLVM is a critical component in the compilation process, not only performing low-level optimization and efficient mapping to hardware instructions, but also ensuring effective use of novel hardware features. 
+	- Work with hardware architects to ensure future hardware designs maximize the performance accessible via automatic compilation while minimizing compiler complexity
+	- Develop effective representations of Cerebras’ novel architectural features in LLVM IR
+	- Extend the LLVM backend to target new hardware architectures, designing and implementing performant and correct mappings from LLVM IR to Cerebras’ novel hardware
+	- Design and implement LLVM IR and backend optimizations, maximizing performance on deep learning and HPC workloads
+	- Mentor junior engineers on development best practices and LLVM internals
+	- Collaborate closely with teams developing related software components to ensure compatibility, robustness, quality, and performance
+	- Contribute to the design of higher-level intermediate representations and domain specific languages and their mapping to LLVM IR
+	- Maintain our production compiler in use by customers in both the ML and HPC domains
+	- Bachelor’s or foreign equivalents in computer science, engineering, or related field 
+	- 5+ years of experience developing optimizing compilers using the LLVM tool chain 
+	- Strong C++ development skills
+	- Excellent verbal and written communication skills
+	- Able to collaborate effectively in a distributed team 
+	- Master’s, PhD, or foreign equivalents in computer science, engineering, or related field 
+	- Production compiler development experience, particularly developing LLVM target backends
+	- Experience in the design and implementation of DSLs
+	- Familiarity with machine learning frameworks and intermediate representations 
+	- Experience with parallel programming techniques and optimizations
++ skill set:
+	- Cerebras’ Wafer Scale Engine (WSE) was designed to provide significant reduction of training times for deep neural networks. Our goal is to provide customers with the computational power needed to iterate faster so that they can develop the most accurate models possible. 
+	- As an applied machine learning engineer, you will work on adapting state of the art deep learning (DL) models to run on our wafer scale system. This includes both functional validation and performance tuning of a variety of core models for applications like Natural Language Processing (NLP), Computer Vision (CV), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), and Recommendation models. 
+	- As a member of the Cerebras engineering team you will be implementing models in popular DL frameworks like TensorFlow and PyTorch and using insights into our hardware architecture to unlock to full potential of our chip.  You will work on all aspects of the DL model pipeline including: 
+		* Dataloader implementation and performance optimization 
+		* Reference model implementation and functional validation 
+		* Model convergence tuning 
+		* Model performance optimization 
+		* Model customization to meet customer needs 
+	- This role will allow you to work closely with partner companies at the forefront of their fields across many industries. You will get to see how deep learning is being applied to some of the world’s most difficult problems today and help ML researchers in these fields to innovate more rapidly and in ways that are not currently possible on other hardware systems. 
+	- Analyze, implement, and optimize DL models for the WSE 
+	- Functional and convergence of models on the WSE 
+	- Work with engineering teams to optimize models for the Cerebras stack 
+	- Support engineering teams in functional and performance scoping new models and layers 
+	- Work with customers to optimize their models for the Cerebras stack 
+	- Bachelor's degree in engineering, science, or related field 
+	- Experience programming in modern language like Python or C++ 
+	- In-depth understanding of DL learning methods and model architectures 
+	- Experience with DL frameworks like PyTorch and TensorFlow 
+	- A deep passion for cutting edge artificial intelligence techniques 
+	- Master's or PhD in engineering, science or related field 
+	- Understanding of hardware architecture 
+	- Experience programming accelerators like GPUs and FPGAs
++ skill set:
+	- Cerebras' fully-integrated system is built from the ground up with a singular focus on AI. To explore new techniques and algorithms at the frontier of machine learning uniquely enabled by our revolutionary technology, our experienced team of Machine Learning engineers and researchers work in collaboration with other experts in the company, giving insight and access to every level of our system stack.   
+	- This is an applied research position with a focus on working with state-of-the-art research and developing novel models and algorithms on top of our core technology. We are interested in a wide range of machine learning algorithms and application domains with a focus on exploring new ideas that hold the potential to substantially reduce computational constraints limiting today's machine learning research.
+	- Develop algorithms for training and inference in sparse neural networks
+	- Develop novel optimizers and learning algorithms such as local learning rules and layer-parallel training
+	- Develop novel network architectures and layers such as, normalization, activation functions, and parameter layers
+	- Publish and present research at leading machine learning conferences
+	- Experience with machine learning frameworks, such as TensorFlow, Caffe/2, and PyTorch.
+	- Fluency in a programming language, such as Python and C
+	- Strong grasp of linear algebra and statistics
+	- Strong track record of relevant research success in roles at the level of doctoral, postdoctoral in academia or in industrial R&D
+	- Strong track record of relevant publications/patents
+	- Familiarity with HPC kernels and their optimization 
+	- IEEE floating point representations 
+	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
+	- Knowledge of ML application areas and state-of-the-art networks in various application areas 
++ Knowledge of industry standards, e.g. ETSI, ASTM, NEBS, IEC, UL, CSA, ISTA, etc.
++ skill set:
+	- As an ML Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software to develop state-of-the-art solutions for emerging problems in AI compute.
+	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, and JAX. Our ML software engineers are responsible for integrating these frameworks to work with our own highly optimized software stack. Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.  
+	- In this role, you will create tools and design workflows that enable the development, training, and deployment of machine learning models on our new hardware system. The workflow covers from a small to an extremely large models with trillion of parameters. Furthermore, you will be lowering abstract computations expressed via third-party ML frameworks into representations that can be compiled into highly optimized executables that target the Cerebras system, and help us design a general backend that can accommodate most advance deep learning models. You will also have the opportunity to participate and contribute to open-source projects that we depend on. 
+	- Work on the end-to-end training, eval, and inference workflow with customer-facing API
+	- Distributed training both via data and model parallelism
+	- Scale and optimize the data pipeline
+	- Lower Deep Learning framework graph presentation into our internal IR and add any missing OPs
+	- Compiler optimization such as graph rewrite, constant folding, common expression elimination, and canonization
+	- Lower high-level OPs to low-level OPs such as affine dialect
+	- Handle both static and dynamic computational graph
+	- Bachelor’s, Master’s, or foreign equivalent in Computer Science, Engineering, or related
+	- 5+ years software development experience
+	- Understanding of state-of-the-art deep learning model architectures and training protocols
+	- Strong Python and C++ development skills
+	- Direct experience with at least one Deep Learning framework internals is strongly preferred
+	- Contributed to a deep learning framework
+	- Experience with distributed training algorithm
+	- Familiar with deep learning model architecture
+	- Experience with MLIR, LLVM, or TVM
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
