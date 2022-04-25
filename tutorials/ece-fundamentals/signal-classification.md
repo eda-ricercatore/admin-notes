@@ -11,4 +11,8 @@ Table of Signal Classification
 
 
 
-Time (vertical classification) against Amplitude (horizontal classification)
+Classification of signals is carried out by the time dimension (vertical classification) and the amplitude dimension (horizontal classification).
+
+Sampled signals are time-quantized.
+
+Amplitude quantized signals are sampled data signals.
