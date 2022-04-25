@@ -18,4 +18,6 @@ Sampled signals are time-quantized.
 Amplitude quantized signals are sampled data signals.
 
 
-Find references for this, via SystemC-AMS publications and those in signal processing and mixed-signal circuits.
+#	References
+
+***Find references for this, via SystemC-AMS publications and those in signal processing and mixed-signal circuits.***
