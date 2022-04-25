@@ -2,7 +2,13 @@
 
 
 
-| Table of Time (vertical classification) against Amplitude (horizontal classification)|			| 
-| ----------------- | ---------------------	|
-| analog			| amplitude quantized	|
-| sampled signals	| digital				|
+Table of Signal Classification
+|					| continuous-amplitude	| discrete-amplitude		|
+| ----------------- | ---------------------	|---------------------------|
+| continuous-time	| analog				| amplitude quantized		|
+| dicrete-time		| sampled signals		| digital					|
+
+
+
+
+Time (vertical classification) against Amplitude (horizontal classification)
