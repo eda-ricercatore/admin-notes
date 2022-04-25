@@ -3,10 +3,10 @@
 
 
 Table of Signal Classification
-|					| continuous-amplitude	| discrete-amplitude		|
-| ----------------- | ---------------------	|---------------------------|
-| continuous-time	| analog				| amplitude quantized		|
-| dicrete-time		| sampled signals		| digital					|
+|						| **continuous-amplitude**	| **discrete-amplitude**	|
+| ---------------------	| -------------------------	|---------------------------|
+| **continuous-time**	| analog					| amplitude quantized		|
+| **dicrete-time**		| sampled signals			| digital					|
 
 
 
