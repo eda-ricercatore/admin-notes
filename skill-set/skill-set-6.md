@@ -1889,6 +1889,8 @@
 	- Experience with distributed training algorithm
 	- Familiar with deep learning model architecture
 	- Experience with MLIR, LLVM, or TVM
++ Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
++ Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems
 + skill set:
 	- BLAH.
 + skill set:
