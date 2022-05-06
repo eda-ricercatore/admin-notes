@@ -1891,6 +1891,7 @@
 	- Experience with MLIR, LLVM, or TVM
 + Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
 + Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems
++ TensorRT, Deepstream Projects in video, speech, or NLP
 + skill set:
 	- BLAH.
 + skill set:
