@@ -1,5 +1,7 @@
-+ skill set:
-	- BLAH.
++ JAX:
+	- JAX = Autograd + XLA
+	- for high-performance machine learning research
+	- https://github.com/google/jax
 + skill set:
 	- BLAH.
 + skill set:
