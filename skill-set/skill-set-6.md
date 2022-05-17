@@ -1639,7 +1639,7 @@
 	- PTO awarded for being part of the on call rotation
 	- Regular Unstructured Development Time to investigate new technologies that would benefit you and your team
 	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
-+ OpenCV Ceres, ROS, PyTorch
++ ***OpenCV Ceres, ROS, PyTorch***
 + skill set:
 	- GrAI Matter Labs is a young and vibrant high-tech company, which aims to revolutionize artificial intelligence for everyone. Our unique machine learning technology will drive the next generation of computer chips to power many future products. This way, we contribute to making robots, cameras, and transportation smart, safe, and power-efficient. GML is an international company, with highly motivated teams in offices in France (Paris), Netherlands (Eindhoven), and USA (San Jose).
 	- At GML, we develop new technologies for efficient low-latency and low-power processing of neural networks, for training neural networks, and for neuromorphic computing. And we are looking for talented MSc candidates to help us in this research.
@@ -1868,7 +1868,7 @@
 	- IEEE floating point representations 
 	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
 	- Knowledge of ML application areas and state-of-the-art networks in various application areas 
-+ Knowledge of industry standards, e.g. ETSI, ASTM, NEBS, IEC, UL, CSA, ISTA, etc.
++ ***Knowledge of industry standards, e.g. ETSI, ASTM, NEBS, IEC, UL, CSA, ISTA, etc.***
 + skill set:
 	- As an ML Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software to develop state-of-the-art solutions for emerging problems in AI compute.
 	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, and JAX. Our ML software engineers are responsible for integrating these frameworks to work with our own highly optimized software stack. Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.  
@@ -1889,17 +1889,103 @@
 	- Experience with distributed training algorithm
 	- Familiar with deep learning model architecture
 	- Experience with MLIR, LLVM, or TVM
-+ Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
++ ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
 + Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems
-+ TensorRT, Deepstream Projects in video, speech, or NLP
++ ***TensorRT, Deepstream Projects in video, speech, or NLP***
 + skill set:
-	- BLAH.
+	- At Cleanlab you’ll get to
+		* Spend 100% of your time writing open-source ML, with guidance from MIT PhDs who are prominent in ML research. Get paid a Silicon Valley engineer salary but have the ability to work remotely from wherever you want. And the cherry on top? You get to work with a modern tech stack (the latest tooling and ML models) at a dynamic startup to pioneer the rapidly growing field of data-centric AI.
+	- What we’re looking for
+		* First and foremost, strong software engineering skills and experience productionizing your code. You should be comfortable with large software systems and love building applications.
+		* Contributed to the open-source community for more than 4 years, either via your own open-source package or via substantial contributions to existing open-source repositories, written blog posts, and tutorials.
+		* Experience working in ML: processing data, deploying models, etc. We do not require deep theoretical ML expertise, but practical experience in ML projects is desired.
+	- Responsibilities
+		* Develop and contribute novel data-centric AI algorithms to Cleanlab’s open-source projects, via high quality implementations and maintaining the highest coding standards.
+		* Be a good member of the open-source community (address Github issues and queries, review PRs, write crisp documentation/tutorials, help integrate with other packages).
+		* Work on applied ML projects with Cleanlab enterprise customers.
+		* Collaborate with other engineers to build large-scale systems and help establish a strong engineering culture across the company.
+	- Qualifications
+		* We select candidates based on strengths, not on weaknesses. Experience with the following is highly recommended, but not required:
+			+ Python, NumPy
+			+ pandas, scikit-learn
+			+ ***PyTorch/PyTorch Lightning or TensorFlow + Keras***
+		* Bonus:
+			+ ***MLOps Experience with model deployment and monitoring (MLflow, Sagemaker, etc.)***
+			+ Databases and ETL (Postgres, etc.)
+			+ Cleanlab or other data-centric AI tools
+			+ ***AutoGluon, H2O, or other AutoML tools***
+			+ ***Tableau, DataBricks, Alteryx, Trifacta***
+			+ ***Hugging Face, Snorkel, Weights and Biases, Gradio, Streamlit***
+	- Working at Cleanlab is awesome! Beyond the opportunity to work at a well-funded (backed by Bain Capital Ventures) early stage AI tech company with an incredible, friendly founding team of MIT, Stanford, and Harvard graduates, all full-time employees receive the following:
+		* $9,000 per year travel benefit
+		* Travel enhances our empathy with different cultures and enables us to work together more effectively. It’s how we grow and learn: traveling is an essential part of what makes us human. At Cleanlab, every two months you will receive a $1500 reimbursable travel benefit (resets on Jan 1, March 1, May 1, July 1, Sep 1, Nov 1). This is a unique benefit that lets you work from Paris for a week in February, then take a backpacking trip in the Andes for a weekend in March. Cleanlab will cover the flight for your partner or friend, too, as long as you attend and its within the $1500 / two-month period. For remote employees, you can use this benefit to come work with us in Boston/SF from time to time (encouraged, but not required).
+		* Premium health insurance
+			+ We provide a fantastic $4 (we cover the rest) health insurance option. We also provide a $0 deductible 100% coverage premium health care option for those who prefer the best health insurance.
+		* Stipend for attending conferences to keep up with the latest innovations in ML and software.
+		* Competitive salary (+ equity offering for certain roles), with regular opportunities for a raise if things are going well.
+	- Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. We develop next-generation DCAI algorithms that are publicly contributed via open-source (github.com/cleanlab), as well as SaaS enterprise products with interfaces for data scientists/engineers to effectively improve their data quality and produce more reliable ML models.
+	- Founded by 3 ML PhDs from MIT and engineers/scientists from Stanford & Harvard, Cleanlab is a well-funded early-stage startup that is rapidly growing to transform the future of DCAI. Some of Cleanlab’s early work (while the company was still in stealth-mode) has been featured in various media such as: Wired, MIT Technology Review, and VentureBeat.
+	- While many companies can help store/manage data or develop ML models, there exist few solutions today to improve the quality of existing data, which is the core asset of the modern enterprise. This is where you come in. At Cleanlab, you’ll be able to take ownership of critical projects that pioneer the future of data-centric AI.
+	- We are a remote-first company, with roughly half of our team located near Boston, MA (EST time) and the other half located near San Francisco, CA (PST time).
 + skill set:
-	- BLAH.
+	- Work on cutting-edge MLOps with guidance from MIT PhDs who are prominent in ML research.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Work on interesting challenges (model deployment/monitoring, managing massive datasets, rapidly scaling cloud deployments, etc.) at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
+	- As a Cleanlab software engineer, you will be responsible for Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll orchestrate cloud infrastructure for data ingestion, model training, and data analysis, and you’ll optimize the reliability of our web app, model deployments, and data management systems.
+	- We encourage applications from software engineers with DevOps/backend/cloud experience who have some familiarity with machine learning and are interested in furthering their MLOps skills. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
+	- Orchestrate cloud infrastructure to reliably support a SaaS data and machine learning pipeline.
+	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
+	- Contribute cloud/container integrations and other deployment/monitoring solutions to Cleanlab’s open-source library.
+	- Collaborate with other engineers to build and maintain large-scale systems and establish a strong engineering culture across the company.
+	- We select candidates based on strengths, not based on weaknesses. Candidates should have at leat 3+ years experience developing web apps using a modern tech stack and shipping code to production.
+		* Linux
+		* Python
+		* Shell
+		* Java/C++
+		* AWS
+		* Docker + Kubernetes
+		* Git
+		* CI/Testing, e.g. Jenkins
+		* Bonus:
+			+ AWS DevOps Stack (https://aws.amazon.com/devops/)
+			+ AWS Sagemaker
+			+ MLSys/MLOps experience
+			+ IaC, e.g. Ansible, Terraform
++ ***Infrastructure as Code (IaC)***:
+	- ***Ansible***
+	- ***Terraform***
+	- https://en.wikipedia.org/wiki/Infrastructure_as_code
 + skill set:
-	- BLAH.
+	- Contribute to open-source with guidance from MIT PhDs who are prominent in ML research.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Get paid a Silicon Valley engineer salary but have the ability to work remotely with flexible hours.
+	- Work on interesting challenges (massive datasets, scaling systems, security/privacy, novel interfaces for data editing, etc.) using modern tech stack at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
+	- As a Cleanlab software engineer, you will be responsible for building Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll work on scalable backend code for data ingestion, model training, and data analysis, and you’ll help design beautiful and easy-to-use interfaces for data visualization, interpretation, and correction.
+	- We encourage applications from full-stack software engineers who have some familiarity with machine learning and are interested in furthering their skills in building MLOps applications. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
+	- Developing a SaaS data and machine learning pipeline.
+	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
+	- Write server and client-side code for web applications, optimizing for speed, scale, and ease-of-use.
+	- Collaborate with other engineers to build large-scale systems and help establish a strong engineering culture across the company.
+	- We select candidates based on strengths, not based on weaknesses. Candidates should have at leat 3+ years experience developing web apps using a modern tech stack and shipping code to production.
+	- Experience with the following is recommended (but not necessarily required):
+		* Python, Flask
+		* Relational databases (e.g. PostgreSQL)
+		* JavaScript + React, HTML, CSS (and SCSS)
+		* AWS (or other similar cloud tools like Azure, GCP)
+	- Bonus points if you have experience with some of the following:
+		* Docker, Kubernetes
+sklearn, pandas
+		* Distributed computing (Ray, Spark, etc.)
+		* Model serving, deployment, sharing (Sagemaker, Triton, gradio, etc.)
 + skill set:
-	- BLAH.
+	- JavaScript/TypeScript
+	- React.js/Next.js
+	- HTML
+	- CSS + some CSS Framework (Chakra UI, Tailwind, Bootstrap)
+	- Module bundlers, e.g. Webpack
+	- Visualization libraries, e.g. D3.js
+	- React testing libraries, e.g. Jest
+	- Desktop app frameworks, e.g. Electron
 + skill set:
 	- BLAH.
 + skill set:
