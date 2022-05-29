@@ -14,6 +14,7 @@
 	- An advantage if you also know Spark, Databricks, Spring boot, React or Angular
 	- Our stack currently includes AWS, Spring Boot, Spring Cloud, Postgres, Elastic search, DynamoDB, Kinesis, Lambda, and many other.
 + Experience with the development of blockchains like Bitcoin, Ethereum, etc. and relevant languages such as Solidity, Rust, JavaScript, TypeScript, Python or Go.
++ Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs
 + skill set:
 	- BLAH.
 + skill set:
