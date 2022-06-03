@@ -16,9 +16,51 @@
 + Experience with the development of blockchains like Bitcoin, Ethereum, etc. and relevant languages such as Solidity, Rust, JavaScript, TypeScript, Python or Go.
 + Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs
 + skill set:
-	- BLAH.
+	- Staff LiDAR Signal Processing Software Engineer at AEye, Inc
+	- AEye creates high-performance, adaptive, AI-driven LiDAR systems for vehicle autonomy, advanced driver-assistance, and robotic vision applications. AEye’s software-driven system leverages deterministic AI to capture more intelligent information with less data, enabling faster, more accurate, and more reliable perception for everything that moves. The company is based in the San Francisco Bay Area, and backed by world-renowned investors including Kleiner Perkins, Taiwania Capital, GM Ventures, Intel Capital, Continental AG, Hella Ventures, LG Electronics, Aisin, Airbus Ventures, SK Hynix, Subaru-SBI, and Tyche Partners.
+	- We are looking for a smart, experienced and highly-motivated software engineer to lead the signal processing and software development activities of our next-generation lidar systems. The candidate will be responsible for defining the software architecture of the system, for developing a simulation environment from photon-detection to 3D point-cloud generation, and for executing progressive software developments for prototype and pilot systems. 
+	- The successful candidate will have a degree in computer science with a focus on statistical signal processing or image signal processing and have at least 7 years of industry work experience, with a strong preference for experience with lidar, radar, or complex imaging instruments. Experience in developing C/C++ applications with a focus on algorithm design and computationally-efficient implementation is required, as well as good knowledge of Matlab. The responsibilities of the job include close collaboration with the project’s hardware team, management of the development cycle, and presentations to the company’s various technical teams.
+	- Tasks, Duties & Responsibilities:
+		* Define the software architecture of the system, including low-level signal processing on FPGAs. 
+		* Co-develop computationally-efficient, robust signal processing algorithms.
+		* Develop and progressively release versions of the system’s simulation software.
+		* Develop software requirement documents to meet functional and reliability requirements.
+		* Progressively develop, validate, and release code versions, including control and synchronization of system modules, user interfaces, and efficient data pipelining.
+		* Prepare and present code design reviews.
+	- Essential Skills & Experience Requirements (required):
+		* Experience defining system software architectures.
+		* Experience developing computationally-intensive simulation environments and converting them for efficient implementation in FPGAs. 
+		* Deep knowledge of C/C++ and formal software design methodologies.
+		* Good knowledge of Matlab. 
+	- Preferred Skills & Experience (useful):
+		* LiDAR or radar experience highly desirable.
+		* Experience in the automotive space.
+		* Experience with statistical and/or image signal processing.
+		* Independent, self-starter, while working in a team setting.
+		* Excellent verbal and written communication skills.
+		* Experience in a fast-paced and demanding start-up environment. 
 + skill set:
-	- BLAH.
+	- Senior System Modeling and Algorithm Development Engineer at AEye, Inc
+	- Become a leader in building a safer future.
+	- AEye is the premier provider of intelligent, next generation, adaptive LiDAR for advanced driver-assistance, vehicle autonomy, and industrial applications that save lives and propel the future of transportation and mobility. We are technology thought leaders who value innovation to create reliable products that save lives. The company's 4Sight™ Intelligent Sensing Platform focuses on what matters most: enabling faster, more accurate and reliable perception for dynamic applications ranging from autonomous driving to intelligent infrastructure, which require precise measurement imaging to ensure safety and performance. AEye was founded in 2013 and is based in the San Francisco Bay Area. We believe in a creative atmosphere, with open, collaborative idea-sharing, where all employees are empowered to achieve their potential. Come experience our flexible and collaborative work environment!
+	- We are looking for a deep-thinking, highly-motivated System Modelling and Algorithms Development Engineer to work with the company’s Chief R&D Officer on numerical modeling, as well as signal processing algorithm development and optimization for the company’s future lidar generations. The candidate will develop Matlab behavioral models and simulate the performance of future systems in various operating conditions. They will also propose, simulate and validate algorithms to enable efficient and optimal performance of the systems. 
+	- The successful candidate will have a PhD. in Physics, EE, CS or Applied Mathematics and have at least 5 years of industry work experience, with a strong preference for the imaging, radar or lidar . A strong background in statistical signal processing is required. The responsibilities of the job include both code writing (in Matlab), presentation to the company’s technical team, and data processing of real-life lidar data. A demonstrated ability to tackle open-ended problems, define an analytical methodology to address these challenges is necessary.
+	- Tasks, Duties & Responsibilities:
+		* Create numerical models of conceptualized systems and validate key metrics
+		* Propose and validate, both numerically and experimentally, algorithms, to improve and optimize system performance
+		* Present findings to engineering and management teams
+		* Work with hardware and software engineers to implement proposed algorithms
+	- Essential Skills & Experience Requirements (required):
+		* Experience in statistical signal processing
+		* Excellent Matlab skills
+		* Deep understanding of noise sources in image sensors or radar
+		* PhD. in Physics, EE, CS or Applied Mathematics
+	- Preferred Skills & Experience (useful):
+		* LiDAR or camera-development experience is highly desirable.
+		* Experience in the automotive space is highly desirable.
+		* Independent, self-starter, while working in a team setting.
+		* Experience in a fast-paced and demanding start-up environment. 
+		* 5 years of industry work experience
 + skill set:
 	- BLAH.
 + skill set:
