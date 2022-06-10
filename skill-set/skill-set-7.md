@@ -62,9 +62,36 @@
 		* Experience in a fast-paced and demanding start-up environment. 
 		* 5 years of industry work experience
 + skill set:
-	- BLAH.
+	- Make our flagship languages feature-complete (packager integration, debugger, LSP)
+	- Keep languages up-to-date
+	- Add new languages as soon as there is community interest
+	- Create templates for common needs
+	- Built or contributed to developer tools
+	- Self-directed and comfortable working autonomously
+	- Appreciation for simplicity and pragmatism
+	- Experience building Platform/Infrastructure/Runtime as a Service
+	- Experience with NixOS or the Nix ecosystem
+	- Managed a public-facing project
 + skill set:
-	- BLAH.
+	- As a Data Analytics Engineer, you will be responsible for designing, building, and maintaining our data analytics infrastructure. You will work with stakeholders throughout the firm to understand their data needs and requirements, and help them implement data-driven solutions to a wide variety of problems. This role is a great opportunity to work closely with the many teams throughout the company, including Product, Business, Finance, and Engineering.
+	- Develop, manage, and maintain our data analytics infrastructure
+	- Design and maintain ETL processes to ensure data quality and integrity
+	- Combine data across multiple disparate sources
+	- Build and maintain dashboards and reports to help stakeholders understand and utilize data
+	- Move us towards a robust data platform with self-service capabilities for the entire team
+	- A proven track record of developing and maintaining infrastructure for data analytics
+	- Extensive experience with SQL
+	- Appreciation for simplicity and pragmatism
+	- A “roll up your sleeves” mentality and comfort with ambiguity
+	- Passionate about making programming accessible to all
+	- Experience designing and maintaining data warehouses
+	- Experience with data orchestration tools (Airflow, Luigi, Dagster, etc.)
+	- Experience with ETL tools and version control (DBT, Fivetran, etc.)
+	- Experience working with consumer data at scale
+	- Experience building a developer tool (it can be personal dev)
+	- Proficiency in Python
++ ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
+	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***
 + skill set:
 	- BLAH.
 + skill set:
