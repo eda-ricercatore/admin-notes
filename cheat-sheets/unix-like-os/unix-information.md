@@ -102,6 +102,142 @@ E.g., the command suggested is:
 
 
 
+
+##	Online *Linux* *Terminal*s
+
+
+The following online *Terminal* applications, or online integrated development environments (IDEs), can also be used to execute the (a sequence/set of) *Linux/UNIX* commands.
+
+
+You can use the online IDE of *LeetCode* to execute a sequence/set of *Linux/UNIX* commands, by selecting the language *Bash* to run the *Linux/UNIX* commands.
+
+	@misc{LeetCodeStaff2022a,
+		Address = {Palo Alto, {CA}},
+		Author = {{LeetCode staff}},
+		Howpublished = {Available online from {\it {LeetCode} -- The World's Leading Online Programming Learning Platform} at: \url{https://leetcode.com/playground/new/empty}; June 6, 2022 was the last accessed date},
+		Publisher = {{LeetCode, LLC}},
+		Title = {Untitled -- {LeetCode} Playground},
+		Url = {https://leetcode.com/playground/new/empty},
+		Year = {2022}}
+
+
+
+In addition, you can use the online *Bash* shell *Terminal* and the online Linux *Terminal*, from *Tutorials Point India Private Limited*, to run a sequence/set of *Linux/UNIX* commands.
+
+
+Online *Bash* shell interpreter, which effectively interprets/"compiles" *Linux/UNIX* shell scripts for the *Bash* shell and serve as the *Terminal* application, from *Tutorials Point India Private Limited*:
+
+	@misc{TutorialsPointIndiaPrivateLimitedStaff2022a,
+		Address = {Madhapur, Hyderabad, Telangana, India},
+		Author = {{Tutorials Point India Private Limited staff}},
+		Howpublished = {Available online from {\it Online Tutorials Library: Simply Easy Learning at your fingertips: Coding Ground For Developers -- Code, Edit, Run and Share: Online Compilers and Interpreters: Bash Shell} at: \url{https://www.tutorialspoint.com/execute_bash_online.php}; June 6, 2022 was the last accessed date},
+		Publisher = {Tutorials Point India Private Limited},
+		Title = {Online {BASH} Compiler},
+		Url = {https://www.tutorialspoint.com/execute_bash_online.php},
+		Year = {2022}}
+
+
+
+Online *Linux* *Terminal* from *Tutorials Point India Private Limited*:
+
+	@misc{TutorialsPointIndiaPrivateLimitedStaff2022b,
+		Address = {Madhapur, Hyderabad, Telangana, India},
+		Author = {{Tutorials Point India Private Limited staff}},
+		Howpublished = {Available online from {\it Online Tutorials Library: Simply Easy Learning at your fingertips: Coding Ground For Developers -- Code, Edit, Run and Share: Online Terminals: Linux Terminal} at: \url{https://www.tutorialspoint.com/linux_terminal_online.php}; June 6, 2022 was the last accessed date},
+		Publisher = {Tutorials Point India Private Limited},
+		Title = {Online Linux Terminal},
+		Url = {https://www.tutorialspoint.com/linux_terminal_online.php},
+		Year = {2022}}
+
+
+
+*CoCalc*, via *SageMath, Inc.*, also provides access to an online *Linux* *Terminal*, via \\cite[from CoCalc -- Collaborative Computation and Data Science: Projects: Create New Project: New: Create new files in: Linux Terminal]{Stein2022}.
+
+	@misc{Stein2022,
+		Address = {Seattle, {WA}},
+		Author = {William Arthur Stein and Harald Schilly},
+		Howpublished = {Available online from {\it CoCalc -- Collaborative Computation and Data Science: Projects} at: \url{https://cocalc.com/projects?session=default}; June 8, 2022 was the last accessed date},
+		Publisher = {{SageMath, Inc.}},
+		Title = {Projects -- {CoCalc}},
+		Url = {https://cocalc.com/projects?session=default},
+		Year = {2022}}
+
+
+
+
+###	Poor Online *Linux* *Terminal*s
+
+
+[CanonicalGroupLimitedStaff2022] provides an online *Linux* *Terminal* with limited access to features, since we have limited storage space in this online Linux container that is accessible for only 30 minutes during each session.
+
+	@misc{CanonicalGroupLimitedStaff2022,
+		Address = {London, {U.K.}},
+		Author = {{Canonical Group Limited staff}},
+		Howpublished = {Available online {\it Linux Containers -- Container and virtualization tools: Active projects: {LXD}: Try it online: Start: Terminal} and {\it Linux Containers -- Container and virtualization tools: {LXD}: Try it online: Start: Terminal} at: \url{https://linuxcontainers.org/lxd/try-it/}; June 9, 2022 was the last accessed date},
+		Month = {May 29},
+		Publisher = {Canonical Group Limited},
+		Title = {Linux Containers -- {LXD} -- Try it online},
+		Url = {https://linuxcontainers.org/lxd/try-it/},
+		Year = {2022}}
+
+
+
+[Ganapathi20XY] also provides an online *Linux* *Terminal* with limited access to features, since we have limited storage space. Unfortunately, it does not allow users to copy and paste information to the command line.
+
+	@misc{Ganapathi20XY,
+		Author = {Lakshmipathi Ganapathi and Freston},
+		Howpublished = {Available online from {\it Webminal: Terminal} at: \url{https://webminal.org/terminal/}; self-published; June 9, 2022 was the last accessed date},
+		Title = {Webminal},
+		Url = {https://webminal.org/terminal/}}
+
+
+
+Select one of the "Startup Link"s in [Bellard2021] to use the online *Linux* *Terminal*. Unfortunately, it does not allow users/people to copy and paste text into the online *Linux* *Terminal*. In addition, it has limited access to features, since we have limited storage space.
+
+
+	@misc{Bellard2021,
+		Author = {Fabrice Bellard},
+		Howpublished = {Available online from {\it Fabrice Bellard's Home Page: A {PC} emulator in {Javascript}: {JSLinux}} at: \url{https://bellard.org/jslinux/index.html}; self-published; June 9, 2022 was the last accessed date},
+		Title = {{JSLinux}},
+		Url = {https://bellard.org/jslinux/index.html},
+		Year = {2021},
+		Annote = {Select one of the ``Startup Link''s.
+			Does not allow users to copy and paste text into the online Linux Terminal.}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#	Additional Information
+
+See the private [network-admin](https://github.com/eda-ricercatore/network-admin) repository for scripts that I use to automate network/system administration.
+
+
+
+
+
+
+
+
+
+
+
+
 #	References
 
 
