@@ -207,6 +207,20 @@ Select one of the "Startup Link"s in [Bellard2021] to use the online *Linux* *Te
 
 
 
+###	Online *Linux* Emulation
+
+
+
+The online *Linux* emulation by [Klemann2022] is very, very slow, and is only limited to 30 minutes.
+
+	@misc{Klemann2022,
+		Address = {Schiffweiler, Neunkirchen, Saarland, Germany},
+		Author = {Andy Klemann},
+		Howpublished = {Available online at: \url{https://distrotest.net/index.php}; June 10, 2022 was the last accessed date},
+		Publisher = {Andy Klemann Group},
+		Title = {{DistroTest.net} -- The first online operating system tester},
+		Url = {https://distrotest.net/index.php},
+		Year = {2022}}
 
 
 
