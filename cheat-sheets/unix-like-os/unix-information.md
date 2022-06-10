@@ -151,6 +151,36 @@ Online *Linux* *Terminal* from *Tutorials Point India Private Limited*:
 
 
 
+
+
+Besides, [Kumar2022a] provides a good environment to run *Linux/UNIX* shell scripts for the *Bash* shell and serve as the *Terminal* application.
+
+@misc{Kumar2022a,
+	Address = {London, {U.K.}},
+	Author = {Chandan Kumar},
+	Howpublished = {Available online from {\it Geekflare -- Your trusted source for Technology Resources: Products: Compiler: Bash (5.0.0)} at: \url{https://geekflare.com/online-compiler/bash}; June 10, 2022 was the last accessed date},
+	Publisher = {Geekflare {LTD}},
+	Title = {Online Bash Compiler},
+	Url = {https://geekflare.com/online-compiler/bash},
+	Year = {2022}}
+
+
+
+Likewise for [ReplitStaff2022a].
+
+	@misc{ReplitStaff2022a,
+		Address = {San Francisco, {CA}},
+		Author = {{Replit staff}},
+		Howpublished = {Available online from {\it Replit -- Code, create, and learn together: languages: Bash} at: \url{https://replit.com/languages/bash}; June 10, 2022 was the last accessed date},
+		Publisher = {{Replit, Inc.}},
+		Title = {Replit: Code, create, and learn together},
+		Url = {https://replit.com/languages/bash},
+		Year = {2022}}
+
+
+
+
+
 *CoCalc*, via *SageMath, Inc.*, also provides access to an online *Linux* *Terminal*, via \\cite[from CoCalc -- Collaborative Computation and Data Science: Projects: Create New Project: New: Create new files in: Linux Terminal]{Stein2022}.
 
 	@misc{Stein2022,
