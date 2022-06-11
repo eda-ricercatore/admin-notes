@@ -170,6 +170,9 @@ Likewise for the following resources/references provided in *BibTeX* format:
 + [ReplitStaff2022a]
 + [NutpanPtyLtdStaff2022a]
 + [TheRextesterTeam20XYa]
++ [GoogleCloudStaff20XYa] and [GoogleCloudStaff20XYb]
+
+
 
 
 The *BibTeX* entries.
@@ -202,6 +205,31 @@ The *BibTeX* entries.
 		Howpublished = {Available online from {\it The Rextester Team: compile c{\#}\ online: Language: Bash} at: \url{https://rextester.com/l/bash_online_compiler}; self-published; June 10, 2022 was the last accessed date},
 		Title = {run bash online},
 		Url = {https://rextester.com/l/bash_online_compiler}}
+
+
+...
+
+	@misc{GoogleCloudStaff20XYb,
+		Address = {Mountain View, {CA}},
+		Author = {{Google Cloud staff}},
+		Howpublished = {Available online from {\it Google {LLC}: About: Featured products: Google Cloud: Products: Management Tools: Cloud Shell: Go to console}, {\it Google {LLC}: About: Products: For business: Google Cloud: Products: Management Tools: Cloud Shell: Go to console}, and {\it Google {LLC}: About: Products: For developers: Google Cloud: Products: Management Tools: Cloud Shell: Go to console} at: \url{https://console.cloud.google.com/projectselector2/home/dashboard?cloudshell=true&supportedpurview=project}; June 11, 2022 was the last accessed date},
+		Publisher = {Google {LLC}},
+		Title = {Dashboard -- Home -- Google Cloud Platform},
+		Url = {https://console.cloud.google.com/projectselector2/home/dashboard?cloudshell=true&supportedpurview=project}}
+
+
+...
+
+	@misc{GoogleCloudStaff20XYa,
+		Address = {Mountain View, {CA}},
+		Author = {{Google Cloud staff}},
+		Howpublished = {Available online from {\it Google {LLC}: About: Featured products: Google Cloud: Products: Management Tools: Cloud Shell}, {\it Google {LLC}: About: Products: For business: Google Cloud: Products: Management Tools: Cloud Shell}, and {\it Google {LLC}: About: Products: For developers: Google Cloud: Products: Management Tools: Cloud Shell} at: \url{https://cloud.google.com/shell/}; June 11, 2022 was the last accessed date},
+		Publisher = {Google {LLC}},
+		Title = {Cloud Shell},
+		Url = {https://cloud.google.com/shell/}}
+
+
+
 
 
 
