@@ -92,6 +92,7 @@
 	- Proficiency in Python
 + ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
 	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***
++ Experience with Google Analytics, MixPanel, and content optimization tools
 + skill set:
 	- BLAH.
 + skill set:

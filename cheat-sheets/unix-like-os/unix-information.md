@@ -166,7 +166,13 @@ Besides, [Kumar2022a] provides a good environment to run *Linux/UNIX* shell scri
 
 
 
-Likewise for [ReplitStaff2022a].
+Likewise for the following resources/references provided in *BibTeX* format:
++ [ReplitStaff2022a]
++ [NutpanPtyLtdStaff2022a]
++ [TheRextesterTeam20XYa]
+
+
+The *BibTeX* entries.
 
 	@misc{ReplitStaff2022a,
 		Address = {San Francisco, {CA}},
@@ -177,6 +183,25 @@ Likewise for [ReplitStaff2022a].
 		Url = {https://replit.com/languages/bash},
 		Year = {2022}}
 
+
+...
+
+	@misc{NutpanPtyLtdStaff2022a,
+		Author = {{Nutpan Pty Ltd staff}},
+		Howpublished = {Available online from {\it {JDoodle}: Online Compiler And Editor: Bash} at: \url{https://www.jdoodle.com/test-bash-shell-script-online/}; June 10, 2022 was the last accessed date},
+		Publisher = {Nutpan Pty Ltd},
+		Title = {Online {Bash} Shell {IDE}},
+		Url = {https://www.jdoodle.com/test-bash-shell-script-online/},
+		Year = {2022}}
+
+
+...
+
+	@misc{TheRextesterTeam20XYa,
+		Author = {{The Rextester Team}},
+		Howpublished = {Available online from {\it The Rextester Team: compile c{\#}\ online: Language: Bash} at: \url{https://rextester.com/l/bash_online_compiler}; self-published; June 10, 2022 was the last accessed date},
+		Title = {run bash online},
+		Url = {https://rextester.com/l/bash_online_compiler}}
 
 
 
@@ -331,6 +356,22 @@ These references about *UNIX* are:
 + \cite{VibrantPublishers2011b}
 + \cite{VibrantPublishers2011c}
 + \cite{VibrantPublishers2011h}
++ \cite{Moth2020}
+
+
+
+
+
+BibTeX entries for URLs pertinent to aforementioned topics.
+
+	@misc{Moth2020,
+		Author = {Jason Moth},
+		Howpublished = {Available online from {\it Blackdown: Tutorials: Scripting} at: \url{https://www.blackdown.org/online-linux-terminals-and-bash-editors/}; June 10, 2022 was the last accessed date},
+		Publisher = {Blackdown},
+		Title = {Top 15 Best Online Linux Terminals and Bash Script Editors},
+		Url = {https://www.blackdown.org/online-linux-terminals-and-bash-editors/},
+		Year = {2020}}
+
 
 
 ##	References Not in My *BibTeX* Database 
