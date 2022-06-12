@@ -257,7 +257,7 @@ The *BibTeX* entries.
 
 
 
-With the *Codeanywhere Dashboard* [CodeanywhereStaff2022] platform, the 
+With the *Codeanywhere Dashboard* [CodeanywhereStaff2022] platform, the Dashboard allows users to create containers to test, deploy, or share their (ongoing) work. It uses operating system (OS) -level virtualization to provide platform as a service products that enable users to test, deploy, or share their (ongoing) work, via containers. Each container allows users to create text editors to enter and edit their source code, and tools/features of an integrated development environment (IDE) to compile and run their computer programs or software. It also includes a *Terminal* feature to enable users to enter commands of *UNIX*-like OS, or *UNIX/Linux* commands. This *Terminal* feature allows people to copy and past a sequence of *UNIX*/*Linux* commands into the command prompt of the *Terminal*
 
 
 	@misc{CodeanywhereStaff2022,
