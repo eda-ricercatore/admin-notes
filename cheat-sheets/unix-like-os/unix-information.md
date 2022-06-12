@@ -234,6 +234,9 @@ The *BibTeX* entries.
 
 
 
+
+
+
 *CoCalc*, via *SageMath, Inc.*, also provides access to an online *Linux* *Terminal*, via \\cite[from CoCalc -- Collaborative Computation and Data Science: Projects: Create New Project: New: Create new files in: Linux Terminal]{Stein2022}.
 
 	@misc{Stein2022,
@@ -244,6 +247,32 @@ The *BibTeX* entries.
 		Title = {Projects -- {CoCalc}},
 		Url = {https://cocalc.com/projects?session=default},
 		Year = {2022}}
+
+
+
+
+
+
+
+
+
+
+With the *Codeanywhere Dashboard* [CodeanywhereStaff2022] platform, the 
+
+
+	@misc{CodeanywhereStaff2022,
+		Address = {San Francisco, {CA}},
+		Author = {{Codeanywhere staff}},
+		Howpublished = {Available online from {\it Codeanywhere: Dashboard} at: \url{https://dashboard.codeanywhere.com/}; June 11, 2022 was the last accessed date},
+		Publisher = {{Codeanywhere, Inc.}},
+		Title = {Codeanywhere Dashboard},
+		Url = {https://dashboard.codeanywhere.com/},
+		Year = {2022}}
+
+
+
+
+
 
 
 
