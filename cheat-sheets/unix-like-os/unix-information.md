@@ -171,6 +171,10 @@ Likewise for the following resources/references provided in *BibTeX* format:
 + [NutpanPtyLtdStaff2022a]
 + [TheRextesterTeam20XYa]
 + [GoogleCloudStaff20XYa] and [GoogleCloudStaff20XYb]
++ [SphereResearchLabsStaff2022]
++ [SphereResearchLabsStaff2022a]
+
+
 
 
 
@@ -227,6 +231,38 @@ The *BibTeX* entries.
 		Publisher = {Google {LLC}},
 		Title = {Cloud Shell},
 		Url = {https://cloud.google.com/shell/}}
+
+
+...
+
+	@misc{SphereResearchLabsStaff2022,
+		Address = {Gdynia, Pomeranian Voivodeship, Poland},
+		Author = {{Sphere Research Labs staff}},
+		Howpublished = {Available online at: \url{https://ideone.com/}; June 11, 2022 was the last accessed date},
+		Publisher = {Sphere Research Labs {Sp. z o.o.} (Limited)},
+		Title = {Ideone},
+		Url = {https://ideone.com/},
+		Year = {2022}}
+
+
+
+...
+
+	@misc{SphereResearchLabsStaff2022a,
+		Address = {Gdynia, Pomeranian Voivodeship, Poland},
+		Author = {{Sphere Research Labs staff}},
+		Howpublished = {Available online from {\it Sphere Engine: Products: Compilers} at: \url{https://sphere-engine.com/compilers}; June 11, 2022 was the last accessed date},
+		Publisher = {Sphere Research Labs {Sp. z o.o.} (Limited)},
+		Title = {Sphere Engine Compilers},
+		Url = {https://sphere-engine.com/compilers},
+		Year = {2022}}
+
+
+
+
+
+
+
 
 
 
@@ -315,6 +351,30 @@ Select one of the "Startup Link"s in [Bellard2021] to use the online *Linux* *Te
 		Year = {2021},
 		Annote = {Select one of the ``Startup Link''s.
 			Does not allow users to copy and paste text into the online Linux Terminal.}}
+
+
+
+
+
+[OffiDocsGroupStaff2022] allows us to run a selected version of the *Ubuntu* distribution of the *Linux* operating system, and other *Linux* distributions such as *Debian* and *Fedora*. However, the online OS, which is an instance of *Ubuntu*, *Debian*, and *Fedora*, does not allow people to paste text (such as a sequence of *UNIX*/*Linux* commands) into the command line of the *Terminal* application.
+
+
+	@misc{OffiDocsGroupStaff2022,
+		Address = {Tallinn, Estonia},
+		Author = {{OffiDocs Group staff}},
+		Howpublished = {Available online from {\it {OnWorks}: Products {\rm \&}\ Features: Ubuntu servers} at: \url{https://www.onworks.net/os-distributions/ubuntu-based}; June 12, 2022 was the last accessed date},
+		Publisher = {{OffiDocs Group OU}},
+		Title = {Run Linux Ubuntu Distributions online -- Online in the Cloud},
+		Url = {https://www.onworks.net/os-distributions/ubuntu-based},
+		Year = {2022}}
+
+
+
+
+
+
+
+
 
 
 
