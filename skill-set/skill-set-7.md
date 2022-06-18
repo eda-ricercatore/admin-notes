@@ -621,11 +621,71 @@
 	- Experience with DMA, DDR controllers, NoC configuration, and other 3rd party IP. 
 	- Logic/physical synthesis of RTL.
 + skill set:
-	- BLAH.
+	- Flex Logix is seeking Inference SoC (System on Chip) and Logic Design Engineers to join our team. You would be developing the SoC RTL that controls our Inference SoCs and interfaces and the “Softlogic” RTL that controls the execution of the compute kernels of our neural network model operators. You'll be working with software engineers, marketing specialists, physical design engineers, verification engineers, & deep learning scientists, to implement the features needed to accelerate the next generation of machine learning algorithms. 
+	- Develop chips that accelerate the execution of neural networks. 
+	- Own major portions of our chips; developing them from concept through execution and silicon brings up support. 
+	- Provide technical leadership in solving new and challenging problems that require coordination with other hardware, software and system engineering teams. 
+	- Work in every stage of silicon development: specification, coding, verification, timing closure and post-silicon validation for SoC to deliver microarchitecture and RTL for the full SoC.
+	- BS/MSEE/CE/CS with a minimum of 10 years of experience designing functional units or SOC RTL.
+	- Proven track record on delivering micro-architecture and RTL code that works on Silicon and meets timing for high-speed designs.
+	- Extensive experience coding Verilog or SystemVerilog RTL.
+	- Experience interfacing with internal and 3rd party IP suppliers.
+	- Experience scripting in Python or Perl.
+	- Experience running Lint, CDC, and other static quality checks.
+	- Experience with starting designs from scratch.
+	- Familiarity with memory architecture in SoCs.
+	- Familiarity with DDR and PCIe standards.
+	- Familiarity with NoC or AXI Crossbars.
+	- Experience with low power design techniques.
+	- Proven track record of first pass silicon success.
+	- Familiarity with C or C++ coding.
+	- Knowledge of computer architecture, especially in systolic arrays.
+	- Experience with FPGA design and emulation.
+	- Experience with FPGA and ASIC EDA tools.
 + skill set:
-	- BLAH.
+	- Senior Software Engineer
+	- The Senior Software Manager is a Key member of QuickLogic eFPGA Engineering team, reporting to the Director of Engineering, eFPGA. This is a key role at QuickLogic, with primary responsibility for leading the Software tools development for eFPGA products. The role holder is responsible for software roadmap creation, release planning, coordinate the execution of projects with the help of internal engineers/contract resources. This is a remote opportunity operating mostly in the Pacific time zone.
+	- This individual will collaborate with key stake holders, and handle projects of varying complexity, by providing appropriate direction, and strategy to reach long term goals. The individual needs to be a self-starter, with good planning and organization skills, as the role holder works closely in terms of coordination and functional integration with various groups located in multiple sites and geographies
+	- Well-developed, mature communication, influencing and self-management skills are required as the role holder would need to juggle multiple tasks and priorities. Key partners would include the eFPGA Silicon development team, External Contractors, Application Engineering team.
+	- BS/MS/PhD in CS/Computer Engineering with 12-15 years of experience in EDA related software development with minimum 3-5 years in leadership role.
+	- ***Must be a US Citizen***
+	- Prior experience in EDA software tools development, specifically in one or preferably more of the following areas:
+	- Routing and/or Placement
+	- FPGA architecture evaluation
+	- Software flows to simplify and automate the FPGA development
+	- Bit stream generation
+	- Good knowledge of FPGA hardware architecture and Digital logic design
+	- Strong C/C++ development experience
+	- Good experience of TCL/Python scripting languages
+	- Apply sound and diversified knowledge of principles, practices, and procedures of software architecture.
+	- Familiarity with VHDL and/or Verilog
+	- Exposure to Synthesis and Simulation tools
 + skill set:
-	- BLAH.
+	- Senior Post-Silicon Validation Engineer
+	- The successful candidate will join, as a key member, a team of post-silicon validation engineers that work towards the productization of high-performance FPGAs in 7nm and below. Responsibilities include:
+
+Work with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces such as GDDR6, HBM and DDR5
+Drive the bring-up, hardware validation and debug of new FPGA products
+Execute detailed test plans based on specifications, outlining validation experiments and procedures
+Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
+Analyze results and measurements, develop visualizations to assist in deeper understanding of data
+Collaborate with hardware and software teams to resolve hardware issues and optimize results
+Collaborate with the operations team to optimize parametric yield from high volume ATE tests
+Skills and Qualifications:
+MS in Electrical/Computer Engineering with 4+ Years of experience in digital design/verification and/or post-silicon validation
+Proficiency in scripting languages such as Python, Perl and TCL
+Proficiency in tools and methods for data collection and organization
+Familiarity with high-end serial protocols (e.g., PCIe Gen3/4/5 and 100/200/400Gbps Ethernet)
+Familiarity with high speed external memory interfaces (e.g., DDR4/5 memory protocols)
+Familiarity with PLLs and I/O standards
+Familiarity with test and measurement equipment:
+High-bandwidth Oscilloscopes
+BERTs
+Serial and memory protocol analyzers and exercisers
+Familiarity with signal and power integrity aspects of high speed interfaces, packages, and PCBs a plus
+Experience with FPGA design and implementation is desirable
+Excellent debugging skills
+Excellent verbal and written communication skills
 + skill set:
 	- BLAH.
 + skill set:
@@ -663,6 +723,33 @@
 
 
 
+
+
+
+
+
++ FPGA companies
+	- AMD/Xilinx
+	- Intel Altera
+	- [Lattice Semiconductor](https://www.latticesemi.com/)
+	- [QuickLogic Corporation](https://www.quicklogic.com/company/careers/)
+		* Not friendly to non- U.S. citizens.
+	- [Menta S.A.S, Sophia Antipolis](https://www.menta-efpga.com/careers)
+	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
+	- [Flex Logix Technologies, Inc.](https://flex-logix.com/)
++ machine learning hardware accelerators (including coarse-grained reconfigurable architctures, CGRA), machine learning acceleration via domain-specific computing, and heterogeneous computing systems
+	- [SimpleMachines, Inc.](https://www.simplemachines.ai/company)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
++ companies selling RISC-V -based products
+	- [SiFive, Inc.](https://www.sifive.com/careers)
+	
 
 
 
