@@ -844,7 +844,7 @@ We are growing! This is an opportunity to lead and directly contribute to the de
 	- [NAME](URL)
 	- [NAME](URL)
 	- [NAME](URL)
-	- [NAME](URL)
+	- [Qualcomm Technologies, Inc.](https://www.qualcomm.com/research/artificial-intelligence/ai-research): https://www.qualcomm.com/company/careers
 	- [Cornami, Inc.](https://cornami.com/)
 + companies selling RISC-V -based products
 	- [SiFive, Inc.](https://www.sifive.com/careers)
