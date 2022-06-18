@@ -662,32 +662,51 @@
 	- Exposure to Synthesis and Simulation tools
 + skill set:
 	- Senior Post-Silicon Validation Engineer
-	- The successful candidate will join, as a key member, a team of post-silicon validation engineers that work towards the productization of high-performance FPGAs in 7nm and below. Responsibilities include:
+	- The successful candidate will join, as a key member, a team of post-silicon validation engineers that work towards the productization of high-performance FPGAs in 7nm and below.
+	- Work with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces such as GDDR6, HBM and DDR5
+	- Drive the bring-up, hardware validation and debug of new FPGA products
+	- Execute detailed test plans based on specifications, outlining validation experiments and procedures
+	- Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
+	- Analyze results and measurements, develop visualizations to assist in deeper understanding of data
+	- Collaborate with hardware and software teams to resolve hardware issues and optimize results
+	- Collaborate with the operations team to optimize parametric yield from high volume ATE tests
+	- MS in Electrical/Computer Engineering with 4+ Years of experience in digital design/verification and/or post-silicon validation
+	- Proficiency in scripting languages such as Python, Perl and TCL
+	- Proficiency in tools and methods for data collection and organization
+	- Familiarity with high-end serial protocols (e.g., PCIe Gen3/4/5 and 100/200/400Gbps Ethernet)
+	- Familiarity with high speed external memory interfaces (e.g., DDR4/5 memory protocols)
+	- Familiarity with PLLs and I/O standards
+	- Familiarity with test and measurement equipment:
+		* High-bandwidth Oscilloscopes
+		* BERTs
+		* Serial and memory protocol analyzers and exercisers
+	- Familiarity with signal and power integrity aspects of high speed interfaces, packages, and PCBs a plus
+	- Experience with FPGA design and implementation is desirable
+	- Excellent debugging skills
+	- Excellent verbal and written communication skills
++ skill set:
+	- Staff Post-Silicon Validation Engineer
+	- The successful candidate will lead a team of post-silicon validation engineers towards the productization of high-performance FPGAs in 7nm and below. His or her responsibilities will include the following:
 
-Work with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces such as GDDR6, HBM and DDR5
-Drive the bring-up, hardware validation and debug of new FPGA products
-Execute detailed test plans based on specifications, outlining validation experiments and procedures
+Working with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces like GDDR6, HBM and DDR5
+Driving the bring-up, hardware validation and debug of new FPGA products; tracking the bringup and validation schedules through to completion
+Owning the generation and maintenance of detailed test plans based on specifications, outlining validation experiments and procedures
 Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
-Analyze results and measurements, develop visualizations to assist in deeper understanding of data
-Collaborate with hardware and software teams to resolve hardware issues and optimize results
-Collaborate with the operations team to optimize parametric yield from high volume ATE tests
-Skills and Qualifications:
-MS in Electrical/Computer Engineering with 4+ Years of experience in digital design/verification and/or post-silicon validation
+Analyzing results and measurements, developing visualizations to assist in deeper understanding of data
+Collaborating with hardware and software teams to resolve hardware issues and optimize results
+Collaborating with the operations team to optimize parametric yield from high volume ATE tests
+Mentoring and guiding junior engineers
+Skills and Qualifications
+MS in Electrical/Computer Engineering with 8+ Years of experience in post-silicon validation
 Proficiency in scripting languages such as Python, Perl and TCL
 Proficiency in tools and methods for data collection and organization
-Familiarity with high-end serial protocols (e.g., PCIe Gen3/4/5 and 100/200/400Gbps Ethernet)
-Familiarity with high speed external memory interfaces (e.g., DDR4/5 memory protocols)
-Familiarity with PLLs and I/O standards
-Familiarity with test and measurement equipment:
-High-bandwidth Oscilloscopes
-BERTs
-Serial and memory protocol analyzers and exercisers
-Familiarity with signal and power integrity aspects of high speed interfaces, packages, and PCBs a plus
+Expertise in high-end serial protocols like PCIe Gen3/4/5 and 100/200/400Gbps Ethernet, high speed external memory interfaces, memory protocols like DDR4/5 and PLLs and IO standards
+Familiarity with test and measurement equipment – high-bandwidth Oscilloscopes, BERTs, serial and memory protocol analyzers and exercisers
+Familiarity with signal integrity and power integrity aspects of high speed interfaces, packages, PCBs and measurement equipment is a plus
 Experience with FPGA design and implementation is desirable
 Excellent debugging skills
 Excellent verbal and written communication skills
-+ skill set:
-	- BLAH.
+
 + skill set:
 	- BLAH.
 + skill set:
