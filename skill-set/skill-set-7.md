@@ -754,9 +754,48 @@
 	- Well organized with excellent communication skills; ability to operate without direct supervision and collaborate efficiently with other team members
 	- BS/MS in Electrical Engineering or Computer Science + 2-6 years' experience
 + skill set:
-	- BLAH.
+	- Infrastructure Engineer
+	- At Edge Impulse we are building the future of data-driven engineering.
+	- This is a unique opportunity to join us as we usher in the future of embedded machine learning by empowering developers to create and optimize solutions with real-world data. Our teams make the process of building, deploying, and scaling embedded ML applications easier and faster than ever, unlocking massive value across every industry, with millions of developers making billions of devices smarter.
+	- Improving the scalability, performance and resilience of our infrastructure
+	- Improving the stability of our platform with observability, monitoring, alerts at the center of workflow
+	- Manage per-customer on-premise infrastructure for enterprise customers on multiple cloud providers (e.g. AWS & Azure)
+	- Ensure our cloud infrastructure meets security compliance standards (e.g. SOC2)
+	- Iterate quickly on experimental new features to solve real user problems, and enable other engineers in the team to do so too by offering high-quality CI & CD pipelines & integration tests
+	- Work alongside our ML and embedded teams to push the boundaries in embedded ML
+	- Technical curiosity and a willingness to help across the team and learn new skills
+	- Knowledge of cloud compute and storage, including public cloud vendors (AWS, GCP, or Azure)
+	- Experience using infrastructure provisioning tools such as Terraform, CloudFormation or Pulumi
+	- Experience with observability tools like AWS CloudWatch, Splunk or Grafana
+	- Experience with CI & CD solutions like Github, Gitlab or Jenkins
+	- Experience working in Linux environments
+	- Good understanding of software engineering principles and distributed systems constraints
+	- Ideally, experience with (a subset) of the following technologies & programming languages: Typescript, Node, Python, Tensorflow, Kubernetes and/or Docker
 + skill set:
-	- BLAH.
+	- Dev Sec Ops Manager (IT)
+	- At Edge Impulse we are building the future of data-driven engineering.
+This is a unique opportunity to join us as we usher in the future of embedded machine learning by empowering developers to create and optimize solutions with real-world data. Our teams make the process of building, deploying, and scaling embedded ML applications easier and faster than ever, unlocking massive value across every industry, with millions of developers making billions of devices smarter.
+
+We are growing! This is an opportunity to lead and directly contribute to the development and evolution of IT and Security operations (a 1st-of-its-kind role at Edge Impulse).
+	- Provision and enable users with appropriate access and accelerate their timeline to full productivity with key IT and Security tools and processes
+	- Maintain company systems and tools estate
+	- Manage and maintain company compliance and security processes including SOC 2 Type I/II working proactively and closely with stakeholders across the company
+	- Be 1st point of contact for completing customer, partner and vendor security inquiries
+	- Proactively identify processes and/or tools that enhance user experience and productivity across the organization
+	- A minimum of three years of experience managing system uptime and performance in a cloud-native enterprise company (more experience preferred)
+	- Experience managing and working across the organization to maintain SOC 2 Type I/II compliance
+	- Demonstrated experience building and maintaining relationships with key stakeholders across an organization
+	- Scripting and system automation necessary - - some interest in SRE is a plus
+	- Experience implementing and/or maintaining OneTrust, Drata and/or Vanta a plus
+	- Deep experience with enterprise tools such as: 
+	- Mac laptop shop
+	- MDM solutions - e.g. Kandji, Jamf
+	- Anti-virus tooling - e.g. Cortex XDR, Carbon Black 
+	- Logging tools - e.g. Splunk, Datadog
+	- Google Workspace, Slack and other enterprise-wide systems
+	- SSO - e.g. OKTA, JumpCloud, OneLogin
+	- Engineering tools - eg. Github, AWS
+	- Bachelor degree in computer science, management information systems or a related field preferred
 + skill set:
 	- BLAH.
 + skill set:
@@ -806,15 +845,17 @@
 	- [NAME](URL)
 	- [NAME](URL)
 	- [NAME](URL)
-	- [NAME](URL)
+	- [Cornami, Inc.](https://cornami.com/)
 + companies selling RISC-V -based products
 	- [SiFive, Inc.](https://www.sifive.com/careers)
-	
-
-
-
-
-
++ edge computing
+	- [EdgeImpulse Inc.](https://edgeimpulse.com/careers)
++ compiler design
+	- 
++ program analysis, or software analysis
+	- 
++ formal verification
+	- 
 
 
 
