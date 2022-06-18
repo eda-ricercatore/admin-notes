@@ -686,33 +686,73 @@
 	- Excellent verbal and written communication skills
 + skill set:
 	- Staff Post-Silicon Validation Engineer
-	- The successful candidate will lead a team of post-silicon validation engineers towards the productization of high-performance FPGAs in 7nm and below. His or her responsibilities will include the following:
-
-Working with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces like GDDR6, HBM and DDR5
-Driving the bring-up, hardware validation and debug of new FPGA products; tracking the bringup and validation schedules through to completion
-Owning the generation and maintenance of detailed test plans based on specifications, outlining validation experiments and procedures
-Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
-Analyzing results and measurements, developing visualizations to assist in deeper understanding of data
-Collaborating with hardware and software teams to resolve hardware issues and optimize results
-Collaborating with the operations team to optimize parametric yield from high volume ATE tests
-Mentoring and guiding junior engineers
-Skills and Qualifications
-MS in Electrical/Computer Engineering with 8+ Years of experience in post-silicon validation
-Proficiency in scripting languages such as Python, Perl and TCL
-Proficiency in tools and methods for data collection and organization
-Expertise in high-end serial protocols like PCIe Gen3/4/5 and 100/200/400Gbps Ethernet, high speed external memory interfaces, memory protocols like DDR4/5 and PLLs and IO standards
-Familiarity with test and measurement equipment – high-bandwidth Oscilloscopes, BERTs, serial and memory protocol analyzers and exercisers
-Familiarity with signal integrity and power integrity aspects of high speed interfaces, packages, PCBs and measurement equipment is a plus
-Experience with FPGA design and implementation is desirable
-Excellent debugging skills
-Excellent verbal and written communication skills
-
+	- The successful candidate will lead a team of post-silicon validation engineers towards the productization of high-performance FPGAs in 7nm and below.
+	- Working with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces like GDDR6, HBM and DDR5
+	- Driving the bring-up, hardware validation and debug of new FPGA products; tracking the bringup and validation schedules through to completion
+	- Owning the generation and maintenance of detailed test plans based on specifications, outlining validation experiments and procedures
+	- Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
+	- Analyzing results and measurements, developing visualizations to assist in deeper understanding of data
+	- Collaborating with hardware and software teams to resolve hardware issues and optimize results
+	- Collaborating with the operations team to optimize parametric yield from high volume ATE tests
+	- Mentoring and guiding junior engineers
+	- MS in Electrical/Computer Engineering with 8+ Years of experience in post-silicon validation
+	- Proficiency in scripting languages such as Python, Perl and TCL
+	- Proficiency in tools and methods for data collection and organization
+	- Expertise in high-end serial protocols like PCIe Gen3/4/5 and 100/200/400Gbps Ethernet, high speed external memory interfaces, memory protocols like DDR4/5 and PLLs and IO standards
+	- Familiarity with test and measurement equipment – high-bandwidth Oscilloscopes, BERTs, serial and memory protocol analyzers and exercisers
+	- Familiarity with signal integrity and power integrity aspects of high speed interfaces, packages, PCBs and measurement equipment is a plus
+	- Experience with FPGA design and implementation is desirable
+	- Excellent debugging skills
+	- Excellent verbal and written communication skills
 + skill set:
-	- BLAH.
+	- Design Doherty circuits
+	- load pull techniques
+	- tune, match, and circuit optimization
+	- optimization of circuit linearity for ***DPD***
++ new product introduction, NPI
++ new technology introduction, NTI
+	- for semiconductor manufacturing
 + skill set:
-	- BLAH.
+	- Staff Senior DFT Engineer
+	- The employee will own test-ability of the core fabric of high-performance standalone and embedded FPGAs.
+	- Develop the test methodology of the FPGA core fabric; work actively with front-end and back-end designers to support DFT implementation
+	- Create and validate custom and ATPG test vectors for SAF/TF testing of the core fabric
+	- Work with external vendor on memory BIST architecture and implementation
+	- Work with test engineers to get patterns ready for the ATE; support the test program from wafer sort to final test
+	- Provide support to customers on the testability of Achronix eFPGA products
+	- Mentor junior engineers
+	- Experience with industry standard DFT flows (ATPG, BIST, etc.) and tools
+	- Experience with production test pattern generation, fault coverage and fault analysis
+	- Experience with digital VLSI design and verification
+	- Experience programming in a scripting language
+	- Familiarity with WGL and STIL formats for test vectors
+	- Familiarity with using and/or designing FPGAs is a plus
+	- Excellent problem solving and debugging skills
+	- Well organized and excellent communication skills
+	- BS/MS in Electrical Engineering or Computer Science + 4-10 years' experience
++ Waveform Generation Language (WGL): https://www.edn.com/understanding-wgl-scan-data-structures-and-some-common-issues/
+	- compare with IEEE STIL, VCD, and eVCD.
 + skill set:
-	- BLAH.
+	- Hardware Automation Engineer
+	- The employee will own hardware design automation and flows for the core technology team at Achronix.
+	- Develop and maintain Python tools for hardware design automation and analysis
+	- Develop and support processes for bug tracking, continuous integration and hardware regression testing using a combination of internally-developed scripts and third-party tools
+	- Monitor regression environment for systematic issues and facilitate health checks (e.g., system/disk performance, rolling out script/tool/plugin updates)
+	- Identify infrastructure optimizations and validate them using data-driven processes
+	- Identify areas for improvement in the engineering process and design and develop scripts to implement these improvements
+	- Drive efforts to improve the visibility into the design process to catch errors earlier and implement automated error checking
+	- Collaborate with external teams to drive standardization of engineering processes and methodologies across organizations
+	- Excellent programming and debugging skills in Python
+	- Excellent Unix/Linux knowledge
+	- Able to build complex Python tools from scratch as needed
+	- Experience profiling and optimizing scripts, both for performance and portability
+	- Strong understanding of version control systems – e.g. perforce, git, mercurial
+	- Experience with CI/CD tools is a plus – e.g., Jenkins, TravisCI, Buildbot
+	- Familiarity with grid engine or job scheduler tools – e.g. SGE, LSF
+	- Familiarity with circuit/ASIC design process and FPGAs is a plus
+	- Familiarity with object-oriented programming concepts is a plus
+	- Well organized with excellent communication skills; ability to operate without direct supervision and collaborate efficiently with other team members
+	- BS/MS in Electrical Engineering or Computer Science + 2-6 years' experience
 + skill set:
 	- BLAH.
 + skill set:
@@ -756,6 +796,7 @@ Excellent verbal and written communication skills
 	- [Menta S.A.S, Sophia Antipolis](https://www.menta-efpga.com/careers)
 	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
 	- [Flex Logix Technologies, Inc.](https://flex-logix.com/)
+	- [Microchip Technology](https://www.microchip.com/)
 + machine learning hardware accelerators (including coarse-grained reconfigurable architctures, CGRA), machine learning acceleration via domain-specific computing, and heterogeneous computing systems
 	- [SimpleMachines, Inc.](https://www.simplemachines.ai/company)
 	- [NAME](URL)
