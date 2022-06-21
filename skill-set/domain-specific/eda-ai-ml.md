@@ -1102,7 +1102,7 @@ For the waste management market, these are the skill sets for applied machine le
 
 
 
-For the media industry, including mass media and hospital management, these are the skill sets for applied machine learning and data science roles.
+For the health care industry, including health care informatics, health care analytics, health care management and hospital management, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1128,6 +1128,85 @@ For the media industry, including mass media and hospital management, these are 
 
 
 
+
+
+For the media industry, including mass media and social media, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+For the hospitality industry, including the tourism market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+For the telecommunication industry, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
