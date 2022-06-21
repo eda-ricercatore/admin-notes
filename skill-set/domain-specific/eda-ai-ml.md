@@ -381,7 +381,7 @@ For applications of machine learning, or ML, in the following fields, see the *M
 
 
 
-For applications of machine learning, or ML, in fiannce, see the *Markdown* document for [](bio-biochem-biotech-pharma.md)
+For applications of machine learning, or ML, in finance, see the *Markdown* document for [](financial-engr-n-finance-x.md)
 
 
 
@@ -462,6 +462,10 @@ For applications of machine learning, or ML, in fiannce, see the *Markdown* docu
 
 ##	Differential Privacy
 
+
+
+
+
 + Hestia - Differential Privacy - Data Anonymization Challenge, https://www.topcoder.com/challenges/30082341
 	- https://github.com/uber/sql-differential-privacy
 	- https://github.com/arx-deidentifier/arx
@@ -511,7 +515,35 @@ This section provides information about data science roles and skills set regard
 
 
 
-For data science role and skills set regarding the tollo business
+For skill sets in data science roles regarding finance, see the *Markdown* document [](financial-engr-n-finance-x.md).
+
+
+
+
+
+
+
+
+
+
+
+For skill sets in data science roles regarding the following fields, see the *Markdown* document [](bio-biochem-biotech-pharma.md).
++ bioinformatics
++ bio design automation, BDA
++ bio manufacturing automation
++ biology
++ biochemistry
++ biotechnology
++ medicinal chemistry
++ pharmacy
++ pharmaceutical science
+
+
+
+
+
+
+
 
 
 
@@ -529,6 +561,26 @@ For data science role and skills set regarding the tollo business
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
 	- 8+ years of data analyst experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
 	- Strong experience in Python, R, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ skill set:
+	- Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
+	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
+	- Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.
+	- Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
+	- Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
+	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
+	- 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment (PBs scale, globally distributed teams).
+	- Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
+	- 2+ years experience with a fast-growing SaaS business based company is preferred.
+	- Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+
+
+
+
+
+
+
+
+
 
 
 

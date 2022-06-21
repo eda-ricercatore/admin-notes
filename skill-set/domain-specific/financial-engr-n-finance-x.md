@@ -58,7 +58,7 @@
 
 
 
-##	Computational Finance, and Financial Analytics
+##	Computational Finance
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-##	Computational Finance, and Financial Analytics
+##	Financial Analytics & Applied Machine Learning in Finance
 
 
 

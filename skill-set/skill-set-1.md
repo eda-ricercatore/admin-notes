@@ -2,17 +2,7 @@
 
 
 
-+ skill set:
-	- Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
-	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
-	- Understand business/product strategy and high-level roadmap and align analysis efforts to enable them with data insights and help achieve their strategic goals.
-	- Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
-	- Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
-	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
-	- 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment (PBs scale, globally distributed teams).
-	- Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
-	- 2+ years experience with a fast-growing SaaS business based company is preferred.
-	- Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+
 + skill set:
 	- Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
 	- Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
