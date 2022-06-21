@@ -6,6 +6,8 @@
 
 
 
+
++ skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
 + skill set:
 	- BLAH.
 + skill set:

@@ -3,65 +3,18 @@
 
 
 
-+ skill set:
-	- Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
-	- Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
-	- Demonstrate a track record of leading teams, including hiring, onboarding, and professional development. You inspire your team to reach higher. You're as good as explaining “why” as you are “how”
-	- Experience implementing tools, process, internal instrumentation, methodologies and resolving blockages
-	- Demonstrated ability to recruit and hire top talent
-	- Comfortable managing teams/projects with tight deadlines and short release cycles
-	- Experience working with and getting the best out of post-doctorate researchers
-	- Being passionate about cryptography and/or web technology such as TLS
-	- Familiarity working with DNS, database systems, Internet performance, and/or Internet security
-+ skill set:
-	- You will help build customer facing apps and our core platform to create, improve, and scale agricultural models. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us!
-	- Graduate degree in a technical field and 5+ years experience as a Data Scientist working on commercial software products
-	- Experience engineering production-level software systems evidenced by having built a parallel/distributed system, using software best practices, performance optimizations, or an automated pipeline to interpret other data science experiments
-	- Experience applying the scientific method to complex, multivariate unstructured problems to produce rigorously-defendable conclusion in prose and graphics
-	- Experience across and significant work in at least one of clustering and classification, multivariate regression, prediction, and forecasting; and dimensionality reduction and feature engineering
-	- Experience or interest in Bayesian methods of crafting generative probabilistic models; engineering informative priors and solution via MCMC
-	- Experience collecting, curating, structuring and retrieving large data sets in relational databases.
-	- Additional experience with NoSQL preferred
-	- Experience with either time-series or spatial statistics, especially Gaussian Processes
-	- Experience creating complex data visualizations for multivariate data
-	- Experience with AWS or other programmatic distributed computing environments
-	- Experience with Bayesian non-parametrics (CRP, IBP, etc.)
-	- Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
-	- Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
-+ skill set: Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
-+ Experience with data analytics platforms, such as Semantic Pro, Semantic Cortex, IBM i2
-+ Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
-+ Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
-+ You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
-+ You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
-+ Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
-+ skill set:
-	- 3+ years of experience in machine learning, data mining, natural language processing, information retrieval, or statistical analysis
-	- Experience working with large data sets using open source technologies such as Spark, Hadoop, and NoSQL
-	- Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, content understanding and NLP
-	- Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
-	- Experience developing and deploying deep learning NLP models is a plus
-	- Experience working with a knowledge graph is a plus
-+ tech stack:
-	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
-	- Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
-+ tech stack:
-	- 2+ years of analytical work experience (experience working with product organizations a plus)
-	- Strong critical thinking and problem solving skills
-	- Experience  communicating effectively with non-technical audiences
-	- Strong ability to devise data-driven solutions to business problems
-	- Strong competency with SQL
-	- Experience with or exposure to a scripting language (Python preferred)
-+ tech stack:
-	- 5+ years of relevant analytical experience working with data or MS in a relevant technical field and 2+ years of analytical work experience (experience working with product organizations a plus)
-	- Strong critical thinking and problem solving skills
-	- Comfort and expertise communicating effectively with a wide-range of audiences (including product managers, engineers, business development managers, occasionally executives)
-	- Strong ability to devise data-driven solutions to business problems
-	- Ability to drive impact by thoughtfully tackling open-ended problems
-	- Strong data intuition and deep understanding of and experience with statistical and/or ML modeling techniques
-	- Strong competency with SQL
-	- Fluency in a scripting language (Python preferred)
-	- A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
+
+
+
+
+
+
+
+
+
+
+
+
 + skill set:
 	- Strong proficiency in Python a necessity, especially the Python data science stack
 	- Experience developing data science models, workflows, and software for real world applications and working with imperfect data

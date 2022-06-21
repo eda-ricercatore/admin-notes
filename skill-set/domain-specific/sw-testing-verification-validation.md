@@ -1,4 +1,4 @@
-#	Financial Engineering, Computational Finance, and Financial Analytics
+#	Skill Sets for Roles in Software Testing, Software Verification, & Software Validation
 
 
 
@@ -6,9 +6,13 @@
 
 
 
-#	Financial Engineering
+
+##	Roles in Software Testing
 
 
+
+
++ Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
 + skill set:
 	- BLAH.
 + skill set:
@@ -58,71 +62,10 @@
 
 
 
-##	Computational Finance
 
 
 
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##	Financial Analytics & Applied Machine Learning in Finance
-
-
-
-This subsection includes skill sets for data science and applied machine learning roles in financial services, including:
-+ banking
-+ insurance
-+ investment management
-
-
-
-
+##	Roles in Software Verification
 
 
 
@@ -172,6 +115,45 @@ This subsection includes skill sets for data science and applied machine learnin
 
 
 
+
+
+##	Roles in Software Validation
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

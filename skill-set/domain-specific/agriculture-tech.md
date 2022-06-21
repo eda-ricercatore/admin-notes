@@ -4,6 +4,26 @@
 
 
 
+##	Data Science for Agricultural Technology
+
+
+
+
++ skill set:
+	- You will help build customer facing apps and our core platform to create, improve, and scale agricultural models. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us!
+	- Graduate degree in a technical field and 5+ years experience as a Data Scientist working on commercial software products
+	- Experience engineering production-level software systems evidenced by having built a parallel/distributed system, using software best practices, performance optimizations, or an automated pipeline to interpret other data science experiments
+	- Experience applying the scientific method to complex, multivariate unstructured problems to produce rigorously-defendable conclusion in prose and graphics
+	- Experience across and significant work in at least one of clustering and classification, multivariate regression, prediction, and forecasting; and dimensionality reduction and feature engineering
+	- Experience or interest in Bayesian methods of crafting generative probabilistic models; engineering informative priors and solution via MCMC
+	- Experience collecting, curating, structuring and retrieving large data sets in relational databases.
+	- Additional experience with NoSQL preferred
+	- Experience with either time-series or spatial statistics, especially Gaussian Processes
+	- Experience creating complex data visualizations for multivariate data
+	- Experience with AWS or other programmatic distributed computing environments
+	- Experience with Bayesian non-parametrics (CRP, IBP, etc.)
+	- Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
+	- Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
 
 
 
@@ -14,8 +34,7 @@
 
 
 
-
-#	Agricultural Tech Companies
+##	Agricultural Tech Companies
 
 + [CiBO Technologies](https://www.cibotechnologies.com/careers/)
 	- skill set:

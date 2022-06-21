@@ -359,6 +359,112 @@ Skill sets for application engineers of different EDA products:
 
 
 
+
+
+
++ You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
++ tech stack:
+	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
+	- Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
++ skill set:
+	- 3+ years of experience in machine learning, data mining, natural language processing, information retrieval, or statistical analysis
+	- Experience working with large data sets using open source technologies such as Spark, Hadoop, and NoSQL
+	- Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, content understanding and NLP
+	- Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
+	- Experience developing and deploying deep learning NLP models is a plus
+	- Experience working with a knowledge graph is a plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Applied Machine Learning, Applied ML
 
 
@@ -415,6 +521,18 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
+
+
+
+
+
+###	Legal Informatics & Computational Law
+
+
+
+This subsubsection includes skill sets for applied machine learning roles in legal services, including:
++ legal informatics
++ computational law
 
 
 
@@ -572,6 +690,76 @@ For skill sets in data science roles regarding the following fields, see the *Ma
 	- Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
 	- 2+ years experience with a fast-growing SaaS business based company is preferred.
 	- Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ Experience with data analytics platforms, such as Semantic Pro, Semantic Cortex, IBM i2
++ tech stack:
+	- 2+ years of analytical work experience (experience working with product organizations a plus)
+	- Strong critical thinking and problem solving skills
+	- Experience  communicating effectively with non-technical audiences
+	- Strong ability to devise data-driven solutions to business problems
+	- Strong competency with SQL
+	- Experience with or exposure to a scripting language (Python preferred)
++ tech stack:
+	- 5+ years of relevant analytical experience working with data or MS in a relevant technical field and 2+ years of analytical work experience (experience working with product organizations a plus)
+	- Strong critical thinking and problem solving skills
+	- Comfort and expertise communicating effectively with a wide-range of audiences (including product managers, engineers, business development managers, occasionally executives)
+	- Strong ability to devise data-driven solutions to business problems
+	- Ability to drive impact by thoughtfully tackling open-ended problems
+	- Strong data intuition and deep understanding of and experience with statistical and/or ML modeling techniques
+	- Strong competency with SQL
+	- Fluency in a scripting language (Python preferred)
+	- A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####	Data Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -602,7 +790,7 @@ For skill sets in data science roles regarding the following fields, see the *Ma
 This subsubsection includes the following topics of business analytics, except financial analytics which is found in the following *Markdown* document for [Financial Engineering, Computational Finance, and Financial Analytics]().
 + [Marketing Analytics]()
 + [Human Resource Analytics]()
-+ [Data Science for Logistics, Supply Chain Management, & Industrial Distribution]()
++ [Data Science for Logistics, Supply Chain Management, Industrial Distribution, & Retail Sales]()
 
 
 
@@ -622,7 +810,7 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 
-####	Data Science for Logistics, Supply Chain Management, & Industrial Distribution
+####	Data Science for Logistics, Supply Chain Management, Industrial Distribution, & Retail Sales
 
 
 
@@ -681,6 +869,14 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 
+###	Data Science for Legal Informatics & Computational Law
+
+
+This subsubsection includes skill sets for data science roles in legal services, including:
++ legal informatics
++ computational law
+
+
 
 
 
@@ -703,6 +899,233 @@ This subsubsection includes the following topics of business analytics, except f
 	- Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
 	- Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
 	- Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
++ Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
+
+
+
+
+
+
+
+
+##	Applied Machine Learning & Data Science Roles in Other Domains
+
+
+
+
+For the transportation industry, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+For the management consulting market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+For the K-12 (kindergarten to grade 12) education market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the higher education market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+For the real estate market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+For the waste management market, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+For the media industry, including mass media and hospital management, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
 
 
 
