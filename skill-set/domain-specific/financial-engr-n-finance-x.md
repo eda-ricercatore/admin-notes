@@ -1,43 +1,4 @@
-#	Web Development
-
-
-
-##	Full Stack Web Development
-
-
-
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+#	Financial Engineering, Computational Finance, and Financial Analytics
 
 
 
@@ -45,19 +6,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-##	Back-end Web Development, or Server-side Scripting
-
+#	Financial Engineering
 
 
 + skill set:
@@ -108,11 +57,64 @@
 
 
 
-##	Front-end Web Development
+
+##	Computational Finance, and Financial Analytics
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Computational Finance, and Financial Analytics
+
+
+
 + skill set:
 	- BLAH.
 + skill set:
@@ -145,6 +147,17 @@
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

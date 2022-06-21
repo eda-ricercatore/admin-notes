@@ -9,7 +9,7 @@
 	- Strong audience focused presentation and storytelling skills focused on key takeaways in a crisp and concise manner.
 	- Define hypothesis driven models and best practices to derive and publish model scores/insights/learnings at scale within the company.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
-	- 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
+	- 8+ years of data scientist experience with 4+ years of proven industry experience in a large scale environment (PBs scale, globally distributed teams).
 	- Proven lead in driving multi-million dollar revenue generator models for the company and setting up data science related best practices at a company.
 	- 2+ years experience with a fast-growing SaaS business based company is preferred.
 	- Strong experience in Python, R, Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.

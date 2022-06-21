@@ -363,9 +363,29 @@ Skill sets for application engineers of different EDA products:
 
 
 
-For applications of machine learning, or ML, in the following fields, see the set for [](bio-biochem-biotech.md)
+For applications of machine learning, or ML, in the following fields, see the *Markdown* document for [](bio-biochem-biotech-pharma.md)
 + bioinformatics
 + bio design automation, BDA
++ bio manufacturing automation
++ biology
++ biochemistry
++ biotechnology
++ medicinal chemistry
++ pharmacy
++ pharmaceutical science
+
+
+
+
+
+
+
+
+For applications of machine learning, or ML, in fiannce, see the *Markdown* document for [](bio-biochem-biotech-pharma.md)
+
+
+
+
 
 
 
@@ -428,7 +448,7 @@ For applications of machine learning, or ML, in the following fields, see the se
 
 
 
-
+##	Differential Machine Learning
 
 
 
@@ -476,6 +496,34 @@ For applications of machine learning, or ML, in the following fields, see the se
 ##	Data Science + Data Engineering
 
 
+This section provides information about data science roles and skills set regarding:
++ [Generic data science positions]()
++ [Business analytics]()
++ [Sports Analytics]()
++ [Data Science for public health]()
++ [Data Science for Advocacy, Lobbying, Think Tanks]()
++ []()
++ []()
++ []()
++ []()
++ []()
+
+
+
+
+For data science role and skills set regarding the tollo business
+
+
+
+
+
+
+
+###	Generic Data Science Roles
+
+
+
+
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -487,14 +535,22 @@ For applications of machine learning, or ML, in the following fields, see the se
 
 
 
+
+
+
+
+
+
+
+
 ###	Business Analytics
 
 
 
-
-
-####	Financial Analytics
-
+This subsubsection includes the following topics of business analytics, except financial analytics which is found in the following *Markdown* document for [Financial Engineering, Computational Finance, and Financial Analytics]().
++ [Marketing Analytics]()
++ [Human Resource Analytics]()
++ [Data Science for Logistics, Supply Chain Management, & Industrial Distribution]()
 
 
 
@@ -538,6 +594,33 @@ For applications of machine learning, or ML, in the following fields, see the se
 
 
 ###	Sports Analytics or Data Science for Sports
+
+
+
+
+
+
+
+
+
+###	Data Science for Public Health
+
+
+
+
+
+
+
+
+
+
+
+
+###	Data Science for Advocacy, Lobbying, Think Tanks
+
+
+
+
 
 
 

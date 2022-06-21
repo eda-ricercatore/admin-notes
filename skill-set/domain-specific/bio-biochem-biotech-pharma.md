@@ -2,8 +2,10 @@
 
 
 
+##	Graduates from Biology, Biochemistry, Biotechnology, Medicinal Chemistry, Pharmacy, and/or Pharmaceutical Science
 
 
+Skill set for graduates from (advanced) degree programs in biology, biochemistry, biotechnology, medicinal chemistry, or pharmacy and pharmaceutical science
 + "How to speed up cancer geneomics multi-omics analysis" Webinar from Code Ocean:
 	- Spans:
 		* pharmcology
@@ -17,6 +19,38 @@
 	- Molecular Operating Environment, MOE
 	- Schrodinger
 + write standard operating procedures (SOP) and high-quality electronic laboratory notebooks (ELN)
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -25,7 +59,23 @@
 
 
 
-## Skill sets for R&D roles in BDA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## R&D roles in Bio Design Automation, BDA
 
 + skill set:
 	- You will lead key customer software efforts starting from requirements gathering and architecture formulation through development, testing, and deployment cycles. You will build technically and aesthetically crisp software in a primarily reactive web programming environment. The stack will vary based on customer specifications, so flexibility is preferred to strict adherence to one specific stack, but ReactJS + GraphQL + NoSQL + Typescript is our most utilized set of technologies. Coding quality and robust functionality is most important, regardless of language.
@@ -58,6 +108,172 @@
 	- Work with customers to test Lattice software and translate customer feedback into engineering milestones.
 	- Work with legal team to protect Lattice IP.
 	- Promote Lattice technology, products, and process in public venues, conferences, etc.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## R&D roles in Bio Manufacturing Automation
+
+
+
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -73,7 +289,9 @@
 
 
 
-#	Research Institutes for Biochemistry, Biology, Biotechnology Ph.D.s
+
+
+#	Research Institutes for Ph.D.s in Biochemistry, Biology, Biotechnology, Medicinal Chemistry, and/or Pharmaceutical Science 
 
 
 
