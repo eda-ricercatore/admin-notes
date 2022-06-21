@@ -797,7 +797,28 @@ We are growing! This is an opportunity to lead and directly contribute to the de
 	- Engineering tools - eg. Github, AWS
 	- Bachelor degree in computer science, management information systems or a related field preferred
 + skill set:
-	- BLAH.
+	- Red Hat's Customer Identity and Access Management team is looking for a Software Engineer to join us. In this role, you will collaborate with a diverse and innovative team responsible for the key authentication, authorization, and user management service for Red Hat's open hybrid cloud platform and its surrounding integrations. You will work on the full-stack design, development, testing, and release of single sign-on (SSO) and related applications, with a focus on backend development. While we revamp this service for the next generation of Red Hat’s cloud offerings, you will closely collaborate with the Red Hat SSO team and contribute to the upstream Keycloak community. As a Software Engineer, you will contribute to the team's capabilities by demonstrating technical competence, exceptional communication skills, personal initiative, creativity, desire to learn, transparency, and ability to work as part of a team. Successful applicants must reside in a state where Red Hat is registered to do business.
+	- Collaborate with your peers, design, develop, test, maintain, and operate primarily Java applications across large, multi-region deployments
+	- Contribute to the development of core features of the Red Hat SSO offering or related to the various types of integrations with other Red Hat’s offerings and backend systems
+	- Build custom plugins for Red Hat SSO while working with that project's open source community to grow the platform for our customers
+	- Implement and support the deployment of identity and access management solutions that integrate with protocols like OIDC 2.0 and SAML 2.0
+	- Analyze and clarify business requirements
+	- Contribute to application release processes with Red Hat Ansible Automation 	- Platform, Puppet, and Red Hat OpenShift Container Platform
+	- Contribute to observability instrumentation and monitoring tools
+	- Participate in application support rotation
+	- 3+ years of professional experience in Java or other object-oriented language
+	- Experience implementing integration design patterns, especially in microservices or event-driven architecture
+	- Excellent communication skills and ability to work within a distributed team
+	- Good understanding of core concepts related to application security
+	- Ability to quickly learn new domains and technologies
+	- Familiarity with modern token-based application security standards like OAuth2 and OpenID Connect
+	- Experience using MySQL, PostgreSQL, or Mongo
+	- Experience working with distributed source control like Git, including branching and merging
+	- Good understanding of continuous integration (CI) and continuous delivery (CD) tools and processes
+	- Good understanding of DevOps principles and practices
+	- Bachelor’s or master’s degree in computer science, engineering, or other closely related field
+	- Familiarity and experience with Keycloak project or the Red Hat SSO offering and core features is a big plus
+	- Knowledge of Kubernetes or Linux Containers is a plus
 + skill set:
 	- BLAH.
 + skill set:
@@ -824,48 +845,6 @@ We are growing! This is an opportunity to lead and directly contribute to the de
 
 
 
-
-
-+ FPGA companies
-	- AMD/Xilinx
-	- Intel Altera
-	- [Lattice Semiconductor](https://www.latticesemi.com/)
-	- [QuickLogic Corporation](https://www.quicklogic.com/company/careers/)
-		* Not friendly to non- U.S. citizens.
-	- [Menta S.A.S, Sophia Antipolis](https://www.menta-efpga.com/careers)
-	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
-	- [Flex Logix Technologies, Inc.](https://flex-logix.com/)
-	- [Microchip Technology](https://www.microchip.com/)
-+ machine learning hardware accelerators (including coarse-grained reconfigurable architctures, CGRA), machine learning acceleration via domain-specific computing, and heterogeneous computing systems
-	- [SimpleMachines, Inc.](https://www.simplemachines.ai/company)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [Qualcomm Technologies, Inc.](https://www.qualcomm.com/research/artificial-intelligence/ai-research): https://www.qualcomm.com/company/careers
-	- [Cornami, Inc.](https://cornami.com/)
-+ companies selling RISC-V -based products
-	- [SiFive, Inc.](https://www.sifive.com/careers)
-+ edge computing
-	- [EdgeImpulse Inc.](https://edgeimpulse.com/careers)
-+ compiler design
-	- 
-+ program analysis, or software analysis
-	- 
-+ formal verification
-	- 
-
-
-
-
-+ AI compiler design
-	- Poplar framework for IPU architecture compiler.
-+ AI compilers:
-	- MLIR
-	- TVM
-	- Glow
 
 
 

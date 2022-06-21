@@ -1,16 +1,7 @@
 #	Sets of skills
 
-+ skill set:
-	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
-	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
-	- 8+ years of data analyst experience with 4+ years of proven industry experience in a large scale environment(PBs scale, globally distributed teams).
-	- Strong experience in Python, R, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
-+ skill set:
-	- Build and Support scalable and reliable data solutions that can enable self-service reporting and advanced analytics at Cloudflare using modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) in a agile manner.
-	- 3+ years of development experience in Big data space working with Petabytes of data and building large scale data solutions.
-	- Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
-	- Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
-	- Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
+
+
 + skill set:
 	- Partner and align with business leaders, stakeholders, product managers and internal teams to understand the business and product challenges and goals and address them using predictive analytics in a globally distributed environment.
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
