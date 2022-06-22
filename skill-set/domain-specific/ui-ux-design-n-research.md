@@ -20,4 +20,7 @@
 
 
 
-
++ skill set:
+	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
+	- Ability to think holistically about a complex, social product, and map big picture metrics to a realistic actionable plan.
+	- Passion for experimentation and new ideas.

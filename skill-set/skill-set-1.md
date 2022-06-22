@@ -15,46 +15,13 @@
 
 
 
-+ skill set:
-	- Strong proficiency in Python a necessity, especially the Python data science stack
-	- Experience developing data science models, workflows, and software for real world applications and working with imperfect data
-	- Exploratory analysis, modeling, and visualization in Jupyter notebooks
-	- Integrating data sources, creating subsets (ex. train/test) for modeling, and assessing potential datasets, tools, and approaches
-	- Translating the results of analysis into implications for people and problems
-	- Developing well-organized code that can be collaboratively reviewed, reproduced, and integrated into applications
-	- Quickly assessing and becoming productive in relevant new technologies and methods
-	- Experience with core data science tools (ex. pandas, scikit-learn, numpy, jupyter)
-	- Experience working with messy data and real-world applications
-	- Experience using IaaS like Amazon AWS
-	- Working on a small team means doing a little bit of a lot of things. We're looking for somebody who can ask the right questions to figure out what is important, iterate between brainstorming together, working independently, and managing other data scientists, scope new data science projects, and exercise sound judgment to make reasonable decisions under conditions of ambiguity.
-	- Communication is a core data science skill at DrivenData. Doing client-facing work involves articulating concepts, interpreting results, and selecting the method that satisfies the constraints of the project.
-	- Working familiarity with the tools and practices used in software engineering and deployment (including test-driven deployment, containerization (ex. Docker), platform as a service (ex. Heroku), and infrastructure as a service (ex. AWS, Azure)
-+ Interact with MySQL data stores and NSQ messaging queues.
-+ skill set:
-	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
-	- Deep experience with MySQL, NoSQL data stores like HBase or similar.
-	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
-+ skill set:
-	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
-	- Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
-+ skill set:
-	- Working knowledge of relational databases and query authoring (SQL)
-	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
-	- Experience running A/B tests to optimize the growth loop of a product
-	- Strong experience with MySQL and in-memory caching systems such as Redis, Memcached
-	- Experience with Linux operating system internals, filesystems, disk/storage technologies and storage protocols
-+ skill set:
-	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
-	- Ability to think holistically about a complex, social product, and map big picture metrics to a realistic actionable plan.
-	- Passion for experimentation and new ideas.
-+ skill set:
-	- Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
-	- Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
-	- Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
-	- Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
-	- Experience optimizing the speed and performance of websites.
-	- Experience maintaining large and growing code bases in a fast-moving environment.
-	- Interest in staying current with new and evolving web technologies.
+
+
+
+
+
+
+
 + skill set:
 	- 7+ years of industry/academic experience in Machine Learning or related field
 	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).

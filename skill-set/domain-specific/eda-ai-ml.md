@@ -708,7 +708,20 @@ For skill sets in data science roles regarding the following fields, see the *Ma
 	- Strong competency with SQL
 	- Fluency in a scripting language (Python preferred)
 	- A plus: Experience with large scale data processing tools (Apache Spark) or implementing systems in production at scale
-
++ skill set:
+	- Strong proficiency in Python a necessity, especially the Python data science stack
+	- Experience developing data science models, workflows, and software for real world applications and working with imperfect data
+	- Exploratory analysis, modeling, and visualization in Jupyter notebooks
+	- Integrating data sources, creating subsets (ex. train/test) for modeling, and assessing potential datasets, tools, and approaches
+	- Translating the results of analysis into implications for people and problems
+	- Developing well-organized code that can be collaboratively reviewed, reproduced, and integrated into applications
+	- Quickly assessing and becoming productive in relevant new technologies and methods
+	- Experience with core data science tools (ex. pandas, scikit-learn, numpy, jupyter)
+	- Experience working with messy data and real-world applications
+	- Experience using IaaS like Amazon AWS
+	- Working on a small team means doing a little bit of a lot of things. We're looking for somebody who can ask the right questions to figure out what is important, iterate between brainstorming together, working independently, and managing other data scientists, scope new data science projects, and exercise sound judgment to make reasonable decisions under conditions of ambiguity.
+	- Communication is a core data science skill at DrivenData. Doing client-facing work involves articulating concepts, interpreting results, and selecting the method that satisfies the constraints of the project.
+	- Working familiarity with the tools and practices used in software engineering and deployment (including test-driven deployment, containerization (ex. Docker), platform as a service (ex. Heroku), and infrastructure as a service (ex. AWS, Azure)
 
 
 
@@ -913,6 +926,39 @@ This subsubsection includes skill sets for data science roles in legal services,
 	- Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
 	- Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
 + Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
++ skill set:
+	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
+	- Deep experience with MySQL, NoSQL data stores like HBase or similar.
+	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
+
+
+
+
+
+
+
+
+###	Management of Information Systems
+
+
+
++ Interact with MySQL data stores and NSQ messaging queues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
