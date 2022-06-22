@@ -6,6 +6,20 @@
 
 
 
+A DevOps toolchain is a set or combination of tools that aid in the delivery, development, and management of software applications throughout the systems development life cycle, as coordinated by an organisation that uses DevOps practices.
+
+Generally, DevOps tools fit into one or more activities, which supports specific DevOps initiatives: Plan, Create, Verify, Package, Release, Configure, Monitor, and Version Control.
+
+
+DevOps include:
++ Microservices
++ DevOps automation
++ Automation with version control
+	- Many organizations use version control to power DevOps automation technologies like virtual machines, containerization (or OS-level virtualization), and CI/CD. 
+
+
+
+
 
 
 + skill set:
@@ -122,6 +136,20 @@
 
 
 ##	DevSecOps
+
+
+
+
+DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach. Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery. Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left" can be used. Security is tested in three main areas: static, software composition, and dynamic.
+
+
+
+
+
+
+
+
+
 
 
 + skill set:

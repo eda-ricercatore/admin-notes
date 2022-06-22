@@ -1012,7 +1012,31 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
-###	Data Engineering + DataOps
+###	Data Engineering, DataOps, & Management of Information Systems
+
+
+
+####	Data Engineering
+
+
+Data engineering roles involve creating *Big Data* extract, transform, load (ETL) pipelines, and provide infrastructure support to help data scientists obtain insights from processing huge amounts of data.
+
+They address:
++ readiness of data (sets)
++ format of data sets
++ resilience of infrastructure support for information systems
++ scaling of infrastructure support for information systems
++ security of infrastructure support for information systems
+
+They support databases for:
++ operational data stores
++ data marts
++ data lakes
++ (enterprise) data warehouses, DW, DWH, or EDW
+
+
+
+
 
 
 
@@ -1029,6 +1053,29 @@ This subsubsection includes skill sets for data science roles in legal services,
 	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
 
 
+Management of Information Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	DataOps
 
 
 
@@ -1066,10 +1113,41 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
+###	Management of Information Systems, MIS
 
 
 
-###	Management of Information Systems
+Goals of MIS:
++ facilitate decision making
++ coordination, control, analysis, and visualization of information in an organization
+
+
+Types of MIS include:
++ decision support systems, DSSs
++ executive information systems, EIS
++ marketing information systems
++ accounting information systems
++ human resource information systems
++ office automation systems, OAS
++ school information management systems, SIMS
++ enterprise resource planning, ERP
++ local databases
+	- primal or base-level version of MIS
+
+
+
+
+Enterprise applications of MIS:
++ enterprise resource planning, ERP
+	- or, enterprise systems
++ supply chain management, SCM
++ customer relationship management, CRM
++ knowledge management system, KMS
+
+
+
+
+
 
 
 
