@@ -20,6 +20,23 @@
 	- Experience maintaining large and growing code bases in a fast-moving environment.
 	- Interest in staying current with new and evolving web technologies.
 + skill set:
+	- Speaking of code our current stack is:
+		* Backend
+			+ Python
+			+ Django
+			+ Celery
+			+ WebRTC
+		* Frontend:
+			+ React
+			+ HTML (JSX)
+			+ CSS (in JS)
+			+ GraphQL
+		* Storage:
+			+ PostgreSQL
+			+ S3
+			+ Elasticsearch
+		* Most of our infrastructure is on AWS so it is a huge plus if you know and love AWS.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
