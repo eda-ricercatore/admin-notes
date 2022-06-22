@@ -675,6 +675,26 @@ Goals of enterprise machine learning that can be achieved through MLOps systems:
 + Monitoring and management
 
 
+A common architecture of an MLOps system would include data science platforms where models are constructed and the analytical engines where computations are performed, with the MLOps tool orchestrating the movement of machine learning models, data and outcomes between the systems.
+
+
+
+Need to address:
++ model effectiveness
++ model compliance
++ model life cycle (MLC) management as a cross-functional process
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -765,7 +785,35 @@ The ModelOps process starts with a standard representation of candidate models f
 
 
 
-
++ Spring Boot, Spring Data Rest, and Microservice Development experience
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
