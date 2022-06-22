@@ -193,12 +193,13 @@ skill levels:
 
 
 
-
-
-
-
-
-
+***Performs base-level, primal, or basic "Ops"*** for:
++ DevOps
+	- DevSecOps
++ Data Engineering
++ DataOps
++ MLOps
++ ModelOps
 
 
 

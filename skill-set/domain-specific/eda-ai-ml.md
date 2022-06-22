@@ -612,6 +612,198 @@ This subsubsection includes skill sets for applied machine learning roles in leg
 
 
 
+###	MLOps, or ML Ops, ModelOps, & AIOps 
+
+
+
+
+
+#	MLOps, or ML Ops
+
+
+
+MLOps is the set of practices at the intersection of Machine Learning, DevOps and Data Engineering.
+
+MLOps or ML Ops is a set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently.
+
+Machine learning models are tested and developed in isolated experimental systems. When an algorithm is ready to be launched, MLOps is practiced between Data Scientists, DevOps, and Machine Learning engineers to transition the algorithm to production systems.
+
+Similar to DevOps or DataOps approaches, MLOps seeks to increase automation and improve the quality of production models, while also focusing on business and regulatory requirements. While MLOps started as a set of best practices, it is slowly evolving into an independent approach to ML lifecycle management.
+
+MLOps applies to the entire lifecycle:
++ integrating with model generation
+	- software development lifecycle
+	- continuous integration/continuous delivery, CI/CD
++ orchestration
++ deployment
++ health
++ diagnostics
++ governance
++ business metrics
+
+MLOps is a subset of ModelOps
++ MLOps is focused on the operationalization of ML models, while ModelOps covers the operationalization of all types of AI models.
++ MLOps is the intersection of:
+	- machine learning engineering
+	- DevOps
+	- data engineering
+
+
+
+Steps in a machine learning lifecycle:
++ data collection
++ data processing
++ feature engineering
++ data labelling
++ model design
++ model training
++ optimization
++ endpoint deployment
++ endpoint monitoring
+
+
+
+
+Goals of enterprise machine learning that can be achieved through MLOps systems:
++ Deployment and automation
++ Reproducibility of models and predictions
++ Diagnostics
++ Governance and regulatory compliance
++ Scalability
++ Collaboration
++ Business uses
++ Monitoring and management
+
+
+
+
+
+
+
+#	ModelOps
+
+
+
+MLOps is a subset of ModelOps
++ MLOps is focused on the operationalization of ML models, while ModelOps covers the operationalization of all types of AI models.
+
+
+ModelOps (model operations), as defined by Gartner, "is focused primarily on the governance and life cycle management of a wide range of operationalized"
++ artificial intelligence (AI) models
++ decision models
+	- machine learning models
+	- knowledge graphs models
+	- rules
+	- optimization
+	- linguistic models
+	- agent-based models
+	- decision optimization models
++ optimization models
++ transformational models
+
+
+
+ModelOps has overlaps wothin:
++ DataOps
++ DevOps
+
+
+ModelOps is a programming model for reusable, platform-independent, and composable AI workflows.
++ Mitigate the accumulation of AI and machine learning models that are:
+	- undeployed
+	- unused
+	- unrefreshed
+	- manually deployed
++ Support model management of AI and machine learning models
++ address the gap between model deployment and model governance
++ ensure that all models are running in production with strong governance, and aligned with technical and business KPIs while managing the risk
++ programmatic solution for AI-aware staged deployment and reusable components that would enable model versions to match business apps, and which would include AI model concepts such as:
+	- model monitoring
+	- drift detection
+	- active learning
++ cloud-based framework and platform for end-to-end development and lifecycle management of artificial intelligence (AI) applications
++ extend the principles of software lifecycle management to enable the following for AI model pipelines:
+	- automation
+	- trust
+	- reliability
+	- traceability
+	- quality control
+	- reproducibility
++ includes:
+	- routine deployment of machine learning models
+	- continuous retraining
+	- automated updating
+	- synchronized development
+	- deployment of more complex machine learning models
+
+
+
+
+References:
++ Hummer, Waldemar; Muthusamy, Vinod. ModelOps: Cloud-based Lifecycle Management for Reliable and Trusted AI. IEEE International Conference on Cloud Engineering. Parijat Dube, Kaoutar El Maghraoui. p. 1.
+
+
+The ModelOps process focuses on:
++ automating the governance, management and monitoring of models in production across the enterprise
++ enabling AI and application developers to easily plug in life cycle capabilities
+	- bias-detection
+	- robustness and reliability
+	- drift detection
+	- technical, business and compliance KPIs
+	+ regulatory constraints and approval flows for putting AI models into production as business applications
+
+
+
+The ModelOps process starts with a standard representation of candidate models for production that includes a metamodel (the model specification) with all of the component and dependent pieces that go into building the model such as:
++ data
++ hardware and software environments
++ classifiers
++ code plug-ins
++ business and compliance/risk KPIs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#	AIOps
+
+AIOps, a similarly named, but different concept - using AI (ML) in IT and Operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##	Logical AI + Other AI
 
@@ -1079,16 +1271,46 @@ Management of Information Systems
 
 
 
+DataOps is a set of practices, processes and technologies that combines an integrated and process-oriented perspective on data with automation and methods from agile software engineering to improve quality, speed, and collaboration and promote a culture of continuous improvement in the area of data analytics.
+
+DataOps incorporates the Agile methodology to shorten the cycle time of analytics development in alignment with business goals.
+
+DevOps focuses on continuous delivery by leveraging on-demand IT resources and by automating test and deployment of software. This merging of software development and IT operations has improved velocity, quality, predictability and scale of software engineering and deployment. Borrowing methods from DevOps, DataOps seeks to bring these same improvements to data analytics.
+
+DataOps utilizes statistical process control (SPC) to monitor and control the data analytics pipeline. With SPC in place, the data flowing through an operational system is constantly monitored and verified to be working. If an anomaly occurs, the data analytics team can be notified through an automated alert.
+
+DataOps is not tied to a particular technology, architecture, tool, language or framework.
+
+Tools that support DataOps promote:
++ collaboration
++ orchestration
++ quality
++ security
++ access
++ ease of use
+
+
+
+The volume of data is forecast to grow at a rate of 32% CAGR to 180 Zettabytes by the year 2025. 
+
+DataOps seeks to provide the ***tools, processes, and organizational structures*** to cope with this significant increase in data. ***Automation streamlines the daily demands of managing large integrated databases,*** freeing the data team to develop new analytics in a more efficient and effective way. ***DataOps seeks to increase velocity, reliability, and quality of data analytics. It emphasizes communication, collaboration, integration, automation, measurement and cooperation between data scientists, analysts, data/ETL (extract, transform, load) engineers, information technology (IT), and quality assurance/governance.***
 
 
 
 
-
-
-
-
-
-
+DataOps leadership principles:
++ Establish progress and performance measurements at every stage of the data flow. Where possible, benchmark data-flow cycle times.
++ Define rules for an abstracted semantic layer. Ensure everyone is "speaking the same language" and agrees upon what the data (and metadata) is and is not.
++ Validate with the "eyeball test":
+	- Include continuous-improvement -oriented human feedback loops.
+	- Consumers must be able to trust the data, and that can only come with incremental validation.
++ Automate as many stages of the data flow as possible, including:
+	- BI
+	- data science
+	- data analytics
++ Using benchmarked performance information, identify bottlenecks and then optimize for them. This may require investment in commodity hardware, or automation of a formerly-human-delivered data-science step in the process.
++ Establish governance discipline, with a particular focus on two-way data control, data ownership, transparency, and comprehensive data lineage tracking through the entire workflow.
++ ***Design process for growth and extensibility. The data flow model must be designed to accommodate volume and variety of data.*** Ensure enabling technologies are priced affordably to scale with that enterprise data growth.”
 
 
 
