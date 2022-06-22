@@ -568,6 +568,29 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
++ Experience with Natural Language Processing
+	- Topic Modeling
+	- Document Classification
+	- Document Summarization
+	- Sentiment Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

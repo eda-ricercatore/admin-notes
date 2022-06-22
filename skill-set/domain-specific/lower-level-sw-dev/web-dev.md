@@ -36,6 +36,22 @@
 			+ S3
 			+ Elasticsearch
 		* Most of our infrastructure is on AWS so it is a huge plus if you know and love AWS.
++ skill se:
+	- Our current stack is:
+		* Backend:
+			+ Python
+			+ Django
+			+ Celery
+			+ WebRTC
+		* Frontend:
+			+ React
+			+ HTML
+			+ CSS
+		* Storage:
+			+ Postgres
+			+ S3
+			+ Elastic Search
+		* Know it or want to learn, then this is the stack for you!
 + skill set:
 	- BLAH.
 + skill set:

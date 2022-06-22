@@ -30,8 +30,8 @@
 
 
 
-+ Experience with Natural Language Processing (Topic Modeling, Document Classification, Document Summarization, Sentiment Analysis, etc.)
-+ Our current stack is Backend: Python, Django, Celery, WebRTC; Frontend: React, HTML, CSS; Storage: Postgres, S3, Elastic Search. Know it or want to learn, then this is the stack for you!
+
+
 + skill set:
 	- Experience with Kubernetes and Docker.
 	- Experience with Elasticsearch, Redis and/or Memcached.
