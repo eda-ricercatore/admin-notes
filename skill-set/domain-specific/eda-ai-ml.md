@@ -947,12 +947,6 @@ For skill sets in data science roles regarding finance, see the *Markdown* docum
 
 
 
-
-
-
-
-
-
 For skill sets in data science roles regarding the following fields, see the *Markdown* document [](bio-biochem-biotech-pharma.md).
 + bioinformatics
 + bio design automation, BDA
@@ -969,7 +963,8 @@ For skill sets in data science roles regarding the following fields, see the *Ma
 
 
 
-
+Notes:
++ In database normalization, unnormalized form (UNF), also known as an unnormalized relation or non first normal form (N1NF or NF^2),[1] is a database data model (organization of data in a database) which does not meet any of the conditions of database normalization defined by the relational model. Database systems which support unnormalized data are sometimes called non-relational or NoSQL databases. In the relational model, unnormalized relations can be considered the starting point for a process of normalization. It should not be confused with denormalization, where normalization is deliberately compromised for selected tables in a relational database.
 
 
 

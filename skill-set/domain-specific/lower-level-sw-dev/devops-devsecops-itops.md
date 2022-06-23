@@ -20,6 +20,48 @@ DevOps include:
 
 
 
+DevOps life cycle:
++ continuous development
++ continuous integration
++ continuous testing
++ continuous monitoring
++ continuous feedback
++ continuous deployment
++ continuous operations
+
+
+
+Alternate DevOps life cycle, exploiting real-time communication:
++ continuous development/build
++ continuous integration
++ continuous deployment
++ continuous operations
++ continuous feedback
++ continuous planning
+
+
+
+
+
+
+
+DevOps is at the intersection of:
++ software development
++ software quality assurance
++ ITOps
+
+
+
+***BizDevOps is DevOps that account for business needs.***
++ Or, ***BizDevOps*** is ***DevOps 2.0***.
++ Collaborate wth 
+
+
+
+
+
+
+
 
 
 + skill set:
@@ -202,21 +244,7 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 
 
 
-ITOps addresses:
-+ infrastructure capacity
-+ infrastructure availability
-+ infrastructure security
-
-
-KPIs for ITOps are based on:
-+ application performance
-+ infrastructure availability
-+ infrastructure security
-+ infrastructure cost
-
-
-
-ITOps
+ITOps (for data centers):
 + maintain core infrastructure and associated services needed to support AI and machine learning models running in business applications
 + enterprise AI role:
 	- provide highly available, secure infrastructure to operate performant models in enterprise application to scale, 24x7
@@ -240,6 +268,108 @@ ITOps
 		* monitoring
 	- real-time visibility to performance of deployed models
 + Information Technologies Operations (ITOps) is the process responsible for acquiring, designing, deploying, configuring, and maintaining the physical and virtual components that comprise your IT infrastructure
++ While ITOps takes a broad view of the entire technology landscape that your organization relies on to conduct its business mission, DevOps focuses on the task at hand.
+	- DevOps teams don’t always have the visibility or awareness of the downstream implications on the enterprise stack.
+	- And this is where can modern ITOps team can help.
++ ITOps (or) Tech Ops is the most traditional Ops that refers to managing all the physical and software components of an organization’s IT environment.
+	- It is responsible for the smooth running of a business by handling applications, delivery, maintaining services, and the underlying technologies administrated by a company's IT members to its internal or external clients.
+	- It includes:
+		* maintaining networks
+		* ensuring security
+		* managing data center
+		* system administrators
+		* regulatory compliance
+		* licensing
+		* managing software
+		* managing help desk
+		* supports IT infrastructure and systems for daily business operations
+	- IT department can effortlessly manage all the IT operations and make the job easier by using IT Operations.
+		* It guides the business to be more secure, swift, and productive.
++ includes:
+	- networking operations
+	- deploying, maintaining, and configuring applications
+	- overseeing both physical and virtual components of a company's IT environment
++ includes:
+	- administration and maintenance,
+	- network management,
+	- systems management,
+	- technical support (help desk)
+
+
+
+ITOps processes consists of 5 main aspects/phase:
++ Run Solutions
+	- The primary purpose of having ITOps teams is to run solutions such as data backups, configurations, handling servers, and restoring systems after an outage or update.
+	- The aim is to optimize the performance and allocate the proper resource for the most effective delivery.
++ Infrastructure
+	- Managing the IT infrastructure includes maintaining, provisioning, setting up, and updating all the software and hardware applications and cloud resources of the company's IT infrastructure.
+	- These components include:
+		* operating systems
+		* hypervisors
+		* network infrastructure
+		* platforms
+		* container environments
+		* physical servers
+		* application software
+	- The maintaining oversight of IT infrastructure is made on-premises data center or in the cloud.
++ Network
+	- Network management is responsible for managing all network functions for internal or external IT communications.
+	- Network management is also involved in configuring and managing telecommunication lines.
+	- In addition, it allows authorized customers to secure remote access to the company's network.
++ Security
+	- Security management is an integral function of IT service management (ITSM).
+		* It deals with:
+			+ securing the hardware and software assets
+			+ implementing security within development operations
+			+ managing access control
+			+ ensuring that security standards have reached across the IT environment of the organization
++ Problem Solving
+	- Event management or incident management is also known as Problem-solving, it can be divided into 2 types – preventive measures and reactive measures.
+		* Preventive Measures
+			+ Preventive measures reduce the possibility of disasters and find the solution to anticipate and avoid any negative impacts on the IT environment.
+		* Reactive Measures
+			+ This concept refers to cyber-attacks, critical situations, and other issue when implementing disaster recovery plans and help desk management services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ITOps addresses:
++ infrastructure capacity
++ infrastructure availability
++ infrastructure security
+
+
+KPIs for ITOps are based on:
++ application performance
++ infrastructure availability
++ infrastructure security
++ infrastructure cost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -412,8 +542,6 @@ Applications of AIOps:
 
 
 
-Notes:
-+ In database normalization, unnormalized form (UNF), also known as an unnormalized relation or non first normal form (N1NF or NF^2),[1] is a database data model (organization of data in a database) which does not meet any of the conditions of database normalization defined by the relational model. Database systems which support unnormalized data are sometimes called non-relational or NoSQL databases. In the relational model, unnormalized relations can be considered the starting point for a process of normalization. It should not be confused with denormalization, where normalization is deliberately compromised for selected tables in a relational database.
 
 
 
@@ -421,6 +549,7 @@ Notes:
 
 
 
+
 + skill set:
 	- BLAH.
 + skill set:
@@ -459,3 +588,38 @@ Notes:
 
 
 
+
+
+
+
+##	CloudOps
+
+
+
+CloudOps include:
++ cloud-specific flexible provisioning and scalability of environments,
++ built-in task automation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	NoOps
+
+
+
+NoOps (or) No Operation is the new idea that completely automates a software environment from the underlying system infrastructure through technologies including machine learning (ML), and Artificial Intelligence (AI). As a result, there is no need for any operation team to manage software in-house.
+
+With NoOps, developers can concentrate solely on writing and improving the software product’s code that improves the resources like management, security, infrastructure, product, and operations part of the lifecycle. Additionally, the service providers offer developers to develop software like resources, backups, patches, and the right cloud infrastructure to work independently without any interference.
+
+***Serverless architecture*** is the best example for NoOps software. The developer’s team aims to create their application and deploy them in ***serverless computing*** without interfering any operational or infrastructure considerations.
+
+Operating the right tools in NoOps can achieve a faster deployment process than DevOps by running Platform as a Service (PaaS) or Function as a Service (FaaS) in the cloud. Moreover, NoOps can easily be adaptable for Product as a Service companies, small-scale applications, and start-ups.
