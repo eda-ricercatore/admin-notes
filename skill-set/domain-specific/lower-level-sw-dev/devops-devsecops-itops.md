@@ -54,9 +54,9 @@ DevOps is at the intersection of:
 
 ***BizDevOps is DevOps that account for business needs.***
 + Or, ***BizDevOps*** is ***DevOps 2.0***.
-+ Collaborate wth 
-
-
++ Collaborate with business units using agile methods
+	- Business unites have to contribute to reduce the product/service backlog
+	- DevOps teams have to be more responsible for the business aspects of what they do.
 
 
 
@@ -126,6 +126,23 @@ DevOps is at the intersection of:
 
 
 ##	Site Reliability Engineering (SRE)
+
+
+
+
+
+Layers of a pyramid for Site Reliability Engineering (SRE).
++ product (design and management)
++ (product/software) development
++ (infrastructure) capacity planning
++ (software) testing and release management
++ postmortem analysis, or root-cause analysis (RCA)
++ incident response
++ (cloud computing or online Web) service monitoring
+
+
+
+
 
 
 + skill set:
@@ -333,8 +350,31 @@ ITOps processes consists of 5 main aspects/phase:
 
 
 
+ITOps tasks:
++ Network infrastructure:
+	- Configuring and managing all networking functions for internal and external IT communications
+	- Configuring and managing telecommunication lines
+	- Managing firewall ports to allow the network to communicate with outside servers
+	- Providing authorized users secure remote access to the organization’s network
+	- Monitoring network health and performance, detecting anomalies, and preventing or quickly resolving issues, which may include building and managing a network operations center (NOC, pronounced “knock”), a centralized physical location from which ITOps teams can continuously monitor a network
+Server and device management:
 
+Configuring, maintaining and managing servers for infrastructure and applications
+Managing network and individual storage to ensure they meet application requirements
+Setting up and authorizing email and file servers
+Provisioning and managing company-approved PCs
+Provisioning and managing cell phones and other mobile devices
+Managing licensing and desktop, laptop and mobile device software
+Computer operations and help desk:
 
+Managing data center locations and equipment
+Operating the help desk
+Creating, authorizing and managing all user profiles on organizational systems
+Providing network configuration auditing information to regulatory agencies, business partners and other outside entities
+Ensuring high availability of the network and disaster recovery plans
+Alerting users when a major incident impacts network services
+Instituting regular backups to facilitate data recovery when needed
+Maintaining the ITIL for the organization
 
 
 
@@ -358,8 +398,12 @@ KPIs for ITOps are based on:
 
 
 
-
-
+*Information Technology Infrastructure Library, ITIL*:
++ functions of *IT Operations Management framework*
+	- ITOps, or IT operations, refers to the processes and services administered by an organization's IT staff to its internal or external clients.
+	- applications management
+	- technical management
+	- service desk
 
 
 
@@ -523,6 +567,88 @@ AIOps process:
 	- Early *anomaly, fault and failure* (AFF) detection and analysis.[13]
 + ***Anomaly detection*** - another step in any AIOps process is based on the analysis of past behavior of users, equipment and applications. Anything that strays from that behavior baseline is considered unusual and flagged as abnormal.
 + ***Root cause determination*** is usually done by passing incoming alerts through algorithms that take into consideration correlated events as well as topology dependencies. The algorithms on which AI are basing their functioning can be influenced directly, essentially by "training" them.
+
+
+
+
+
+AIOps platforms enabling IT operations management (ITOM)
++ inputs:
+	- historic data
+	- real-time streaming data
+	- vendor-agnostic data ingestion
++ input types:
+	- logs
+	- metrics
+	- wire data
+	- document text
++ observe (monitoring)
++ act (IT Service Management process, ITSM)
++ engage (monitoring)
++ machine learning with *Big Data*
++ outputs:
+	- historical analysis
+	- anomaly detection
+	- performance analysis
+	- correlation and contextualization
+
+
+Factors of IT maturity:
++ organizational structures
++ processes and practices
++ skills and knowledge,
++ tools and policies
++ systems and data
++ documents and agreements
+
+
+
+cause-and-effect sequence
++ outcomes
++ capabilities
++ IT maturity
++ IT excellence
++ business maturity, innovation, and productivity
+
+
+
+
+Role of IT suppert services:
++ aware
+	- The organization is aware of its chaotic stage and needs.
+	- IT capabilities are unstable and success depends on the individuals' effort and technical knowledge.
++ committed
+	- IT operations are more process-oriented, thus more reputable.
+	- Success depends on process adherence and point collaboration.
+	- This level is a stable plateau where IT can "keep the lights on."
++ proactive
+	- IT organization is recognized as "mature."
+	- At this level, IT has reached a tipping point from which a path to high IT maturity is accessible.
++ aligned
+	- IT is a highly efficient internal service provider, offering a stable portfolio of optimized services.
++ business partner
+	- IT is a trusted partner and innovator for the business
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 Applications of AIOps:
