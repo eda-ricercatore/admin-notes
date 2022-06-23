@@ -53,7 +53,18 @@
 			+ Elastic Search
 		* Know it or want to learn, then this is the stack for you!
 + skill set:
-	- BLAH.
+	- Go
+	- Node.js
+	- React
+	- Python
+	- Cassandra
+	- Redis
+	- Terraform
+	- Docker
+	- Kubernetes
+	- AWS
+	- Kafka
+	- Envoy
 + skill set:
 	- BLAH.
 + skill set:
@@ -167,7 +178,27 @@
 
 
 + skill set:
-	- BLAH.
+	- React
+	- TypeScript
+	- Jest
+	- Webpack
+	- JavaScript tools
+		* Redux
+	- HTML
+	- CSS
+	- Go
+	- GraphQL
+	- Node.js
+	- Python
+	- Cassandra
+	- Redis
+	- Terraform
+	- Docker
+	- Kubernetes
+	- AWS
+	- Kafka
+	- Envoy
+	- Storybook
 + skill set:
 	- BLAH.
 + skill set:

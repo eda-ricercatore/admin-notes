@@ -106,7 +106,15 @@ DevOps is at the intersection of:
 	- working knowledge of CI/CD, and cloud deployment and testing
 	- experience with testing gRPC microservices
 + skill set:
-	- BLAH.
+	- scalable configs as code
+	- developer-facing tooling
+	- drive, implement, support, and maintain infrastructure services with:
+		* Kubernetes
+		* Envoy
+		* Kafka
+		* Cassandra
+	- collaborate and evangelize the right cloud solutions throughout the business by creating a visionary direction and road map for infrastructure-as-a-service, IaaS
+	- 
 + skill set:
 	- BLAH.
 + skill set:
@@ -512,7 +520,19 @@ Types of ITOA:
 
 
 + skill set:
-	- BLAH.
+	- experience with large-scale distributed storage and database systems
+		* SQL
+		* NoSQL
+		* MySQL
+		* Cassandra
+	- data processing experience with building and maintaining large-scale and/or real-time complex data processing pipelines using:
+		* Kafka
+		* Hadoop
+		* Hive
+		* Storm
+		* Zookeeper
+	- experience with developing complex software systems scaling to substantial data volumes or millions of users with production quality deployment, monitoring, and reliability
+	- experience running scalable (thousands of RPS) and reliable (three 9's) systems
 + skill set:
 	- BLAH.
 + skill set:
