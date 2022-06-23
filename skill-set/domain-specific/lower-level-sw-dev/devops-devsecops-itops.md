@@ -114,7 +114,34 @@ DevOps is at the intersection of:
 		* Kafka
 		* Cassandra
 	- collaborate and evangelize the right cloud solutions throughout the business by creating a visionary direction and road map for infrastructure-as-a-service, IaaS
-	- 
+	- implement automation to perform the day to day operations/functions of the cloud platform, working across all teams
+	- develop, monitor, and build alerts around error conditions and performance
+	- work in a fast-paced environment while participating in conceptualizing and building CI/CD pipelines
+	- be on-call as needed to support the infratructure and our systems, and drive philosophies around site reliability
+	- experience in infrastructure engineering
+	- experience with public cloud computing services, such as AWS and GCP
+	- experience with container technologies
+	- experience working with high availability and scalable SaaS (or consumer technologies)
+	- experience deploying highly available and scalable, secure and reliable services with automatic failover using containers and container orchestration tools like K8s
+	- use of service meshes
+	- cloud formation via Terraform and Ansible
+	- experience deploying container applications with helm charts
+	- experience with:
+		* monitoring tools:
+			+ Datalog
+		* on-call tooling
+			+ PagerDuty
+	- experience architecting, implementing, and managing environments in AWS
+	- experience implementing AWS services, such as:
+		* EC2 Load Balancing
+		* VPC
+		* Route 53
+		* Direct Connect
+		* NAT Gateway
+		* VPN
+		* EC2 Networking
+		* Transit Gateway
+		* Global Accelerator
 + skill set:
 	- BLAH.
 + skill set:
