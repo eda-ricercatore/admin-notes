@@ -1288,7 +1288,7 @@ They support databases for:
 	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
 
 
-Management of Information Systems
+
 
 
 
@@ -1417,10 +1417,62 @@ Enterprise applications of MIS:
 
 
 + Interact with MySQL data stores and NSQ messaging queues.
-
-
-
-
++ Senior Data Integration Solution Architect
+	- Join us as we pursue our disruptive new vision to make machine data accessible, usable, and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most importantly, to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
+	- As a Senior Solution Architect within the Enterprise Architecture group, you will play an important role in the success of our data integration strategy that directly impacts critical internal business processes that run our $3B+ and growing business. You will be responsible for defining the overall solution and technical architecture for our data integration platform that meets our vision for a Programmable Enterprise, while providing data integration solutions and expertise for a variety of complex internal business scenarios across the enterprise. You will need to apply your deep knowledge of ​data integration technologies, expertise with integration design patterns, and business application integration experience. To be successful you will have to balance priorities, collaborate with senior leaders, and present to executives while delivering within an agile delivery framework to meet key performance indicators.
+	- This position requires you to be a self-starter with the ability to take ownership, prioritize, and handle various tasks simultaneously while maintaining a positive demeanor. In addition, strong verbal communication and written documentation skills are a must for this role for promoting ideas throughout the business to both technical and non-technical audiences.
+	- Lead the overall technical strategy and solution design for a robust and scalable data integration and API platform
+	- Facilitate the evaluation and selection of integration tools and technologies to meet business needs and demands
+	- Define merger and acquisition data integration and migration strategies
+	- Perform proof-of-concepts (POC) to prove out solutions and establish a core codebase ready for implementation
+	- Deliver as-is and to-be application integration solution architecture for a variety of scenarios to meet business requirements and scale the company
+	- Document data flows in relevant segments and ratify data ownership and retention policy with appropriate partners
+	- Deliver high-quality deployment architecture diagrams that describe the solution and implementation
+	- Participate in organization-wide project planning activities with project and product managers to guide on integration implementation strategies and cross-team dependencies
+	- Partner closely with project managers, product managers, and engineering managers to define roadmaps and sprint planning objectives to meet solution designs
+	- Represent the IT organization as the expert for data integration and API reference architecture and ensure alignment across partners
+	- Collaborate with the broader architecture community, such as Architectural Review Board (ARB) and Enterprise Architects Council (EAC), to establish strategies and standard practices
+	- Create executive presentations and present simple solutions to sophisticated problems to diverse partners across the company
+	- 10+ years of demonstrable technical integration experience within IT application development environments
+	- 8+ years of solution and technical architecture experience within the middleware industry to meet strict security and compliance requirements
+	- Experience designing technical integration solutions for Salesforce, SAP S4/HANA, and Workday
+	- Deep experience with a variety of middleware and data integration technology solutions, such as TIBCO, Boomi, Jitterbit, Oracle SOA, IBM WebSphere, Informatica, and/or Matillion
+	- Familiarity with enterprise architecture frameworks such as Zachman and/or TOGAF
+	- Demonstrated knowledge of Service Oriented Architecture (SOA) concepts and practices
+	- Deep understanding of data integration and API concepts, patterns, and technologies
+	- Demonstrable experience working in an Agile software development environment
+	- Excellent both verbal and written communication skills to convey abstract and complex concepts
+	- Travel up to 25% between Splunk offices locations
+	- TOGAF 9 certification
+	- Experience crafting high availability, publish and subscribe systems
+	- Experience with AWS Application Integration and Compute products
+	- BA, BS, or MS in Computer Science/Information Systems/Business or equivalent experience required
+	- (Colorado only\*) Minimum base salary of $135,000.00. You may also be eligible for incentive pay + equity + benefits. \*Note: Disclosure per sb19-085 (8-5-201 et seq).
++ Experience in operations or cloud service environments and related partner platforms
+	- EDR, endpoint detection and response, or endpoint threat detection and response
+	- XDR, extended detection and response
+		* NTA, network traffic analysis
+	- CSPM
+		* cloud security posture management
+	- SEIM
+		* security event and incident management
+			+ Or, SIEM, security incident and event management
+		* SEIM = security information management + security event management
+			+ SEIM = SIM + SEM
+		* log management
+		* MSS, managed security service
+		* MSSP, managed security service provider
+		* SECaaS, security as a service
++ DLP, data loss prevention software
+	- ILDP, information leak detection and prevention
+	- ILP, information leak prevention
+	- CMF, content monitoring and filtering
+	- IPC, information protection and control
+	- EPS, extrusion prevention system
+	- IPS, intrusion prevention system
+	- IDS, intrusion detection system
+		* NIDS, network intrusion detection system
+		* HIDS, host-based intrusion detection system
 
 
 

@@ -76,8 +76,35 @@ DevOps is at the intersection of:
 		* LDAP, ActiveDirectory, and other SAML/Single-Sign-on services
 		* VMware vSphere, ESXi, AWS, Azure, GCP, and other virtual infrastructure tools
 + Familiarity with configuration/orchestration management software such as Puppet, Chef, Ansible, or Salt.
++ developer experience (DX) lead
+	- current tech stack:
+		* Golang
+		* TypeScript
+		* GCP
+		* Docker
+		* Terraform
+		* Serverless
+		* K8s
+		* VueJS
+		* gRPC, gRPC Remote Procedure Calls, general-purpose RPC infrastructure, Stubby
+	- Gopher communication protocol
 + skill set:
-	- BLAH.
+	- maintain and improve Torq's automation infrastructure and CI/CD pipelines
+	- improve test's infrastructure to support scale, reduce delivery times and improve the overall quality of all product aspects
+	- develop E2E (UI and API) tests for Torq's management app and microservices (Python)
+	- contribute to integration test framework (TypeScript) - cross platform and cross browsers tests
+	- develop performance tests over k6
+	- experience with UI automation frameworks
+		* Playwright or Puppeteer (Node.js libraries, headless browser and usage), CDP based
+		* CDP, content delivery platform - SaaS content service
+		* CMS, content management system
+		* CDP, continuous data protection, continuous backup, or real-time backup
+		* CDP, customer data protection
+	- experience writing Python-based frameworks for test automation, Python, unittest
+	- experience with writing JavaScript/TypeScript -based automation framework, Jest, Mocha
+	- hands-on experience working with Linux and modern apps using Docker containers and k8s
+	- working knowledge of CI/CD, and cloud deployment and testing
+	- experience with testing gRPC microservices
 + skill set:
 	- BLAH.
 + skill set:
@@ -357,24 +384,22 @@ ITOps tasks:
 	- Managing firewall ports to allow the network to communicate with outside servers
 	- Providing authorized users secure remote access to the organization’s network
 	- Monitoring network health and performance, detecting anomalies, and preventing or quickly resolving issues, which may include building and managing a network operations center (NOC, pronounced “knock”), a centralized physical location from which ITOps teams can continuously monitor a network
-Server and device management:
-
-Configuring, maintaining and managing servers for infrastructure and applications
-Managing network and individual storage to ensure they meet application requirements
-Setting up and authorizing email and file servers
-Provisioning and managing company-approved PCs
-Provisioning and managing cell phones and other mobile devices
-Managing licensing and desktop, laptop and mobile device software
-Computer operations and help desk:
-
-Managing data center locations and equipment
-Operating the help desk
-Creating, authorizing and managing all user profiles on organizational systems
-Providing network configuration auditing information to regulatory agencies, business partners and other outside entities
-Ensuring high availability of the network and disaster recovery plans
-Alerting users when a major incident impacts network services
-Instituting regular backups to facilitate data recovery when needed
-Maintaining the ITIL for the organization
++ Server and device management:
+	- Configuring, maintaining and managing servers for infrastructure and applications
+	- Managing network and individual storage to ensure they meet application requirements
+	- Setting up and authorizing email and file servers
+	- Provisioning and managing company-approved PCs
+	- Provisioning and managing cell phones and other mobile devices
+	- Managing licensing and desktop, laptop and mobile device software
++ Computer operations and help desk:
+	- Managing data center locations and equipment
+	- Operating the help desk
+	- Creating, authorizing and managing all user profiles on organizational systems
+	- Providing network configuration auditing information to regulatory agencies, business partners and other outside entities
+	- Ensuring high availability of the network and disaster recovery plans
+	- Alerting users when a major incident impacts network services
+	- Instituting regular backups to facilitate data recovery when needed
+	- Maintaining the ITIL for the organization
 
 
 
