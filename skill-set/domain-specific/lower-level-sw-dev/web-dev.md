@@ -200,7 +200,26 @@
 	- Envoy
 	- Storybook
 + skill set:
-	- BLAH.
+	- Ruby Developer
+	- A Developer must have experience in analyzing customer needs and developing overall concept and design objectives. The developer must be able to create software in a variety of programming and for a variety of IT software applications. You’ll analyze the needs and the environment to make sure the solution you’re developing considers the current architecture and operating environment, as well as future functionality and enhancements. You’ll need to be able to work both independently and as part of a larger team.
+	- Experience with service orientation concepts and enabling technologies
+	- Experience with Software Development and Implementation
+	- Software development skills, including design, development, testing, deployment and support
+	- 5 years of experience in debugging and correcting errors in computer programs.
+	- 5 years of experience using Agile methodologies, system architecture and object-oriented software design, REST, SOAP Web Services, and SOA architecture, JavaScript, React, RDBMS (Oracle, SQL, postgres), and an OOP language such as Java or Ruby
+	- Experience leading and mentoring junior developers
+	- Experience with any of the following:
+	- containerized applications and management systems such as Docker, Kubernetes and OpenShift
+	- experience with BPM tools such as Camunda
+	- experience with CI/CD process tools like Jenkins
+	- experience with any AWS technologies
+	- Experience working with ruby on rails as well as libraries like Rspec
+	- Ability to write clean ruby code
+	- Proficiency with code versioning tools including Git, Github, SVN, and Mercurial
+	- Experience with React and Redux
+	- Experience with frontend testing frameworks, i.e., Jest
+	- Familiarity with MVC, Mocking, RESTful, and ORM
+	- Good understanding of front-end technologies including HTML5, JavaScript, and CSS3
 + skill set:
 	- BLAH.
 + skill set:

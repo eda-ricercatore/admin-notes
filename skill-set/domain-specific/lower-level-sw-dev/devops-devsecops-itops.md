@@ -208,6 +208,10 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 
 
 + skill set:
+	- Experience monitoring cloud environments using tools like Splunk, VictorOps and Nagios
+	- Knowledge of best practices related to security, performance, and disaster recovery.
+	- Skilled in identifying performance bottlenecks, spotting anomalous system behavior, and determining the root cause of incidents.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -464,6 +468,26 @@ KPIs for ITOps are based on:
 	- applications management
 	- technical management
 	- service desk
+
+
+
+
+
+
+
++ skill set:
+	- 4+ years of experience in developing, planning, and and administering VMware ESXI and vCenter deployments
+	- Experience with vSphere, vSAN, and other VMware products and platforms
+	- Experience with troubleshooting for virtualized platform
+	- Ability to provide and manage virtual machine configurations, including networking, storage and security settings and deploy it to hosts upon request
+	- Knowledge of data center networking, including TCP/IP, switching/routing, ports and protocols, firewall concepts, or load-balancing
+
+
+
+
+
+
+
 
 
 

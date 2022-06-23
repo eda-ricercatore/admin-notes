@@ -422,7 +422,8 @@ Skill sets for application engineers of different EDA products:
 	- Experience with building end-to-end machine learning systems
 	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
 	- Previous experience building end to end Machine Learning systems
-
++ skill set:
+	- 
 
 
 
@@ -573,8 +574,20 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Document Classification
 	- Document Summarization
 	- Sentiment Analysis
-
-
++ skill set:
+	- experience with ML deployment frameworks
+	- work with highly imbalanced data sets to improve detection performance of our existing NLP models and algorithms
+	- work closely with product and platform teams, participate in design reviews, and demo your work
+	- apply the latest cutting-edge advancements in AI/ML research to our current solutions in a scalable manner for online detection
+	- take full ownership of ML models, including:
+		* collecting training data
+		* evaluating and deploying models to production with ongoing quality monitoring
++ skill set:
+	- build and operate high volume distributed systems
+	- design and build systems in a microservice-based architecture
+	- experience with ML deployment frameworks
+	- design, implement, and deploy NLP models
+	- experience working with high growth venture-backed start-ups
 
 
 
@@ -618,7 +631,7 @@ This subsubsection includes skill sets for applied machine learning roles in leg
 
 
 
-#	MLOps, or ML Ops
+####	MLOps, or ML Ops
 
 
 
@@ -688,7 +701,20 @@ Need to address:
 
 
 + skill set:
-	- BLAH.
+	- develop distributed traning infrastructure for faster training of ML models
+	- efficiently deploy ML models into production
+	- create automation pipelines for continuous training, evaluation, and deployment of models
+	- improve tracking of models, data, and experiments
+	- create the interfaces, infrastructure, and clusters to process data efficiently
+	- advance monitoring to identify model drift and active learning opportunities
+	- establish scalable, efficient, automated processes for data analyses, model deployment, model validation, and model implementation
+	- create and deploy new product features via collaboration with data scientists and software developers
+	- ***champion engineering excellence and culture, establish metrics for regular improvement***
+	- automate ML pipelines and deploy ML models in production environments
+	- design and build systems in a microservices-based architecture
+	- experience with ML deployment frameworks
+	- experience with containerized applications, databases, and distributed computing
+	- experience with deploying ML models as a Web service, and building scalable machine learning systems spanning multiple teams and organizations
 + skill set:
 	- BLAH.
 + skill set:
@@ -741,7 +767,7 @@ Need to address:
 
 
 
-#	ModelOps
+####	ModelOps
 
 
 
@@ -867,7 +893,7 @@ The ModelOps process starts with a standard representation of candidate models f
 
 
 
-#	AIOps
+####	AIOps
 
 AIOps, a similarly named, but different concept - using AI (ML) in IT and Operations.
 
@@ -1134,7 +1160,13 @@ Notes:
 ####	Data Visualization
 
 
-
++ data visualization with:
+	- Plotly
+	- Tableau
+	- PowerBI
+	- Qlik
+	- Google Charts
+	
 
 
 
