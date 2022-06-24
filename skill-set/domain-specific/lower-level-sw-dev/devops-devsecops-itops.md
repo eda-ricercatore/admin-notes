@@ -156,7 +156,28 @@ DevOps is at the intersection of:
 	- Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
 	- experience in stream processing platform, such as Flink, Storm, Spark or equivalent
 + skill set:
-	- BLAH.
+	- Senior DevOps Engineer, Cloud IaaS (US Remote Available)
+	- Splunk's IT Operations team's exciting and meaningful mission: Build, scale and maintain Splunk’s Infrastructure for all Splunkers. While various Engineering groups focus on building our products, IT Ops serves as the backbone operational support for Splunkers across the globe.
+	- We are actively seeking DevOps Engineers with a real passion for automation to help build scalable tools to run our distributed systems. You will be responsible for expanding and supporting the infrastructure platform services we provide to Splunk, as well as engaging with other teams to help improve efficiency and optimize our infrastructure. You're also an individual who’s motivated by technology and enjoys automation and problem-solving. We work hard, we like to challenge the status quo, and we enjoy having fun!
+	- Support and maintain IT Public/Private Cloud Infrastructure, including our virtualization and container platforms
+	- Be a part of the On-Call for production issues during shift or as required.
+	- Take on performance and stability issues using a wide variety of tools, including Splunk
+	- Ensure that day-to-day operational requirements and SLAs are met
+	- Work with key business partners to understand their requirements and recommend potential solutions, and secure resources to deliver
+	- Maintain critical services and provide visibility to internal teams
+	- Seek opportunities to improve or optimize processes through automation
+	- 5 + years of experience as a DevOps Engineer administering/managing an AWS Public Cloud platform
+	- 3+ years of experience providing automation with a major scripting language such as shell, python or go.
+	- 5 + years of experience providing Linux systems administration/engineering
+	- 1+ years of experience with Configuration Management tools like Ansible, Puppet or Chef
+	- CI/CD pipeline tool experience (e.g. Jenkins, GitLab, etc)
+	- Experience with Hashicorp toolsets Terraform, Vault, and Packer.
+	- A deep understanding of networking concepts and internet protocols
+	- Familiarity with Observability concepts and tools
+	- Experience with Kubernetes and containers
+	- Good understanding of cloud infrastructure security concepts
+	- Ability to provide reliable technical support and mentorship on complex issues in a high velocity, dynamic environment
+	- Ability to communicate complex technical concepts clearly to customers and upper management
 + skill set:
 	- BLAH.
 + skill set:

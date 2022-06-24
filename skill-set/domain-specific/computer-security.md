@@ -13,14 +13,12 @@
 	- security administration
 	- data management protection
 	- penetration testing
-	
+
 
 
 
 
 #	Junior Roles in Computer Security
-
-
 
 
 
@@ -33,6 +31,8 @@
 		* Rework the reverse proxy codebase (C++)
 		* Rigorously define the reverse proxy API via protobuf messages
 		* Build the fuzzing pipelines themselves
+
+
 
 
 
@@ -72,6 +72,51 @@
 	- Experience with authentication and authorization protocols like OAuth, OIDC, and, SAML.
 	- Understanding of web technologies: React+Redux, GraphQL, Web-Sockets, etc.
 	- Knowledge of compliance requirements for industry-standard certifications like PCI DSS, SOC2, HIPAA, FedRAMP
++ skill set:
+	- Threat Research Engineer (Remote)
+	- Are you passionate about working on products that make a difference for your customers? Do you enjoy building large scale applications that are powered by huge data sets? Do you value working in an environment where you're empowered to make key technical decisions across a full stack of technologies? If so, a role on the Threat Research Team might be a great fit for you.
+	- As a devoted Researcher who eats, sleeps, and breathes technology, you enjoy learning, discovering, and thinking. Because you are awesome, you have a track record that demonstrates that you go beyond just theory and big ideas; you can point to specific deliverables and tangible results. You want to make an impact in the security industry.
+	- Build analytics, playbooks, and detections for various Splunk security products.
+	- Build prototypes using existing product capabilities and creating new capabilities using Python, Go, and Javascript.
+	- Create research content (papers, blogs) to be presented at public venues.
+	- Create automation capability, such as lab and product automation, to optimize analytics development and increase market adoption of security analytics.
+	- Research all sorts of cool technologies and test ways to turn your abstract ideas into rapid prototype proof of concepts and systems that solve real- world problems.
+	- Write highly efficient, robust, and object-oriented code for a variety of security use cases across various modalities, such as cloud and mobile.
+	- Tinker, pull at threads, and investigate methods and means by which we can solve today's security challenges with containerization, cloud and mobile technologies.
+	- Work closely with a team made up of master problem solvers from a diverse group of backgrounds.
+	- 3+ years of Software Engineering experience.
+	- Bachelor's degree in Computer Science or equivalent training and work experience.
+	- Experience with Python and Javascript. Ideally you may have built and maintained open-source projects.
+	- Understanding of exploit analysis and detection development.
+	- Solid foundation in API, data structures, algorithms, software design and security.
+	- Experience in writing software and operationalizing it for deployment to cloud services.
+	- Working with the container ecosystem, using tools like Docker, Amazon ECS, and Kubernetes.
+	- Excellent problem-solving skills with great attention to detail.
+	- Strong communication and interpersonal skills.
+	- An uncanny ability to learn new technologies quickly and share your hard-won insights with fellow team members.
+	- Projects within GitHub, with regular contributions to community open-source projects.
+	- Personal research initiatives, hobbies, and projects that you are proud of.
+	- Presentations at industry events such as RSA, Blackhat, Defcon, BSides, IEEE, or ACM.
+	- Filed for and/or granted patents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

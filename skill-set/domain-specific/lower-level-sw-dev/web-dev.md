@@ -197,7 +197,40 @@
 	- Experience with Linux operating system internals, filesystems, disk/storage technologies and storage protocols
 + It would help, but not required, if you have experience with these systems that are the foundation of Splunk APM’s backend systems - Kubernetes, Docker, Kafka, Cassandra, Druid, Trino/Presto, AWS, and GCP.
 + skill set:
-	- BLAH.
+	- Senior Backend Engineer, Stream Processing
+	- Own and be accountable for the design and development of multiple features in the ultra-high performance system, processing massive amounts of data
+	- Pay extra attention to non-functional requirements (Performance, Scalability, Reliability, High Availability etc.)
+	- Be a role model that ensures the team is following Agile software development and quality standards
+	- Regularly lead design and code reviews, and participate in architecture discussions
+	- Help team estimate development work, often across a multiple sprint timelines
+	- Understand the business use cases and contribute to product direction by prototyping innovative ideas
+	- See opportunities for engineering improvements or directions, and evangelize these successfully
+	- Receive guidance from principal engineers in their area on thinking beyond their current product features and more towards overall product architecture
+	- Participate in customer engagements & partner concerns and drive overall resolution
+	- Build healthy relationships with multi-functional teams
+	- Work with product manager to influence product feature definition
+	- Expertise on two or more mainstream programming languages, such as Go or Java
+	- Expertise on developing and working with thoughtfully designed HTTP APIs, such as REST or GraphQL
+	- Expertise on test-driven development, developing different levels of automated tests, such as unit test, functional test, integration test, system test, or performance / load test
+	- Proficient in developing/debugging TCP based protocols
+	- Proficient with CI/CD, such as Jenkins, GitLab CI, or Bitbucket pipeline
+	- Proficient with modern version control system, such as Git
+	- Proficient with development on multiple operating systems, such as Linux or Unix
+	- Experience with streaming/messaging frameworks (Flink, Pulsar, Kafka) is a plus
+	- Experience with distributed systems, edge computing, and network programming
+	- Experience with large-scale data processing technologies, such as Apache Spark
+	- Able to coordinate with engineers throughout the full stack, beyond just your team
+	- Able to learn new technologies quickly
+	- Capable of coordinating and coaching the junior members in the team
+	- Strong communication skills, both verbal and written
+	- 8+ years of related experience with a technical Bachelor’s degree; or equivalent practical experience
+	- Experience with cloud technologies, such as AWS, Azure, or GCP. Ideally with certifications
+	- Experience with container technologies, such as Docker. Ideally with container orchestration such as Kubernetes or Docker Swarm
+	- Experience with stream processing platform, such as Flink, Storm or equivalent
+	- Experience with messaging system, such as Apache Pulsar, Kafka or equivalent
+	- Experience with Splunk software or a similar analytics solution
+	- Experience with leading or contributing to open source projects
+	- Experience with working in a direct customer facing environment
 + skill set:
 	- BLAH.
 + skill set:
