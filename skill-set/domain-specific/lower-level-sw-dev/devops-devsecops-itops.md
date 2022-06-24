@@ -179,7 +179,43 @@ DevOps is at the intersection of:
 	- Ability to provide reliable technical support and mentorship on complex issues in a high velocity, dynamic environment
 	- Ability to communicate complex technical concepts clearly to customers and upper management
 + skill set:
-	- BLAH.
+	- Senior Site Reliability Engineer (remote Spain)
+	- The Splunk Observability Suite is a new generation of cloud applications for microservices and distributed applications. We work on new, world-class tools to monitor and observe microservice-based applications. Site Reliability Engineers at Splunk are hybrid Software/Systems Engineers whose overarching goal is to ensure that production services are always up and running reliably.
+	- As a Software Engineer - Infrastructure, you will help us run one of the largest and most sophisticated cloud-scale, big data systems in the world. You will be responsible for improving operational efficiency, optimal utilization and system resiliency for a real-time streaming analytics platform. You are passionate about automation, infrastructure-as-code, and getting rid of tedious, manual tasks.
+	- Responsible for automating & operationalizing cloud provider infrastructure via Terraform as well as Kubernetes, Helm and Istio
+	- Monitor capacity & utilization and work closely with the infrastructure team to orchestrate scale-up/down of backend services.
+	- Own & operate critical back-end open-source services like Cassandra, Kafka, and Zookeeper.
+	- Build tools and design processes that help improve observability and system resiliency.
+	- Triage site availability incidents and proactively work towards reducing MTTR for customer-impacting incidents.
+	- Partner with service owners to implement service level metrics & service level objectives that act as service-level health indicators.
+	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
+	- Coding experience in one or more of Python, Go or Java.
+	- Infrastructure as code experience with in one or more of Terraform, Ansible, Puppet or Salt.
+	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
+	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
+	- Strong working knowledge of orchestration engines and package management including Kubernetes, Helm, and Istio
+	- Experience operating one or more OSS technologies like Kafka, Cassandra, Zookeeper; other backends and streaming systems a plus
+	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
+	- 8+ years experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
+	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
++ skill set:
+	- Software Engineer - Developer Platform Infrastructure
+	- We are looking for a Senior Software Engineer to help lead, design and build the next generation of our CI/CD and tools offerings. You will be working on the core infrastructure platform enabling the next generation of Splunk’s offerings.
+	- CI/CD and tooling expertise. Cloud, container and virtualization experience. Innovating and scaling secure services on-prem and different cloud providers is a plus. You will use Kubernetes, Docker, UCP, AWS/GCP, Jenkins, Gitlab, Ansible.
+	- Data structures and algorithms. A solid grasp of data structures, algorithms, and RESTful APIs.
+	- Observability infrastructure expertise to ensure 24/7 operational excellence and data driven decision making.
+	- Ability to work with multiple programming languages. We have code in several languages, ranging from Go to Python.
+	- BS/MS degree in EE or CS or a related technical field or 3+ years of progressive experience.
+	- Desire to learn and adapt. You will constantly be learning new areas and new technologies.
+	- Passion. Our customers are passionate about Splunk, and we want the same from our engineers. We want you to be excited and have utmost ownership of your projects.
+	- Distributed programming. Experience in working on distributed systems like databases, distributed file systems, distributed concurrency control, consistency models, CAP theorem is an added plus.
+	- Knowledge of technical excellence. You know continuous delivery, testing, security practices, performance, and observability.
+	- Opportunities to develop and grow as an engineer. We are always expanding into new areas, working with open-source projects and contributing back, and exploring new technologies.
+	- A team of incredibly capable and dedicated peers, all the way from engineering to product management and customer support.
+	- Breadth and depth. You are interested to work on an area that dynamically scales to meet the needs of Splunk’s offerings.
+	- You want to go deep into optimizing how we automate every manual process and tedious task we encounter.
+	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.
+	- Fun. We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.
 + skill set:
 	- BLAH.
 + skill set:
@@ -200,6 +236,21 @@ DevOps is at the intersection of:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
 
 
 
@@ -262,7 +313,25 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- 8+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
 	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
 + skill set:
-	- BLAH.
+	- Principal Site Reliability Engineer, Splunk Observability - remote Spain
+	- The Splunk Observability Suite is a new generation of cloud applications for microservices and distributed applications. We work on new, world-class tools to monitor and observe microservice-based applications. Site Reliability Engineers at Splunk are hybrid Software/Systems Engineers whose overarching goal is to ensure that production services are always up and running reliably.
+	- As a Principal Site Reliability Engineer, you will help us run one of the largest and most sophisticated cloud-scale, big data systems in the world. You will be responsible for improving operational efficiency, optimal utilization and system resiliency for a real-time streaming analytics platform. You are passionate about automation, infrastructure-as-code, and getting rid of tedious, manual tasks.
+	- Responsible for automating & operationalizing cloud provider infrastructure via Terraform, Kubernetes, Helm and Istio
+	- Monitor capacity & utilization and work closely with the infrastructure team to orchestrate scale-up/down of backend services.
+	- Own & operate critical back-end open-source services like Cassandra, Kafka, Elasticsearch, MongoDB, and Zookeeper.
+	- Build tools and design processes that help improve observability and system resiliency.
+	- Triage site availability incidents and proactively work towards reducing MTTR for customer-impacting incidents.
+	- Implement service level metrics & service level objectives that act as service-level health indicators.
+	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
+	- Strong coding experience in one or more of Python, Go or Java.
+	- Infrastructure as code experience within one or more of Terraform, Ansible, Puppet or Salt.
+	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
+	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
+	- Strong working knowledge of orchestration engines and package management including Kubernetes, Helm, and Istio
+	- Experience operating one or more OSS technologies like Kafka, Cassandra, Zookeeper; other backends and streaming systems a plus
+	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
+	- 12+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
+	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
 + skill set:
 	- BLAH.
 + skill set:
@@ -354,7 +423,23 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 	- Ability to work in high pressure, highly flexible environment against both short and long term requirements
 	- Passionate about technology and solving IT operations-focused problems
 + skill set:
-	- BLAH.
+	- Software Engineer - Analytics Platform (Remote)
+	- Are you passionate about working on products that make a difference for your customers? Do you enjoy building large scale applications that are powered by huge data sets? Do you value working in an environment where you're empowered to make key technical decisions across a full stack of technologies? If so, a role on the Splunk Security Analytics team might be a great fit for you.
+	- As a Software Engineer on the Security Content Engineering team, your primary focus is content distribution, content improvement, and content assurance. You will contribute to build and maintain the content distribution system and support content improvements.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world use cases to better understand what solutions will bring value to our customers.
+	- Develop new product features, clarify, and improve designs. Help put together a plan for how to make it happen using Agile Methodologies.
+	- Collaborate closely with Product Management and members of our team to design and create comprehensive end-to-end user workflows.
+	- Keep product quality top of mind by extensively using Continuous Integration/Continuous Development (CI/CD), testing technologies (unit, functional, performance), and best practices to ensure that the product is of high quality while continuously deployed in the cloud to our customers.
+	- Participate in the software development lifecycle by writing code, tests, documentation; support the sprint management process; and communicate effectively with peers and managers.
+	- 2+ years of Software Engineering experience.
+	- Bachelor's degree in Computer Science or equivalent training and work experience.
+	- Proficient with Java or Python programming.
+	- Engagement with container ecosystems (Docker, Kubernetes, Kubernetes Operator Framework).
+	- Exposure to an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, Bitbucket).
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Versed with CI/CD frameworks and experience with automation.
+	- Strong oral and written communication skills, including a demonstrated ability to prepare documentation and presentations for technical and non-technical audiences.
+	- Background in developing products for the Security market, a plus.
 + skill set:
 	- BLAH.
 + skill set:

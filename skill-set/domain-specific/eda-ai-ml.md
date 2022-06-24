@@ -351,10 +351,28 @@ Skill sets for application engineers of different EDA products:
 
 
 
+###	Machine Learning Scientist & Deep Learning Scientist Roles
+
 
 
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
-+ BLAH
++ skill set:
+	- Principal Software Engineer - Applied Machine Learning
+	- As the Principal Software Engineer for our Machine Learning team you will be responsible for ensuring that the development of ML systems and services meets all technical and quality standards. You will work with Product Management and other technical teams within Splunk, incorporating new requirements and providing technical information related to this sophisticated ML Platform as needed.
+	- work with a team of senior ML engineers, applied researchers and security researchers, and experts within their own specialty. You will set an example for this group, as well as set high standards on quality, communication and ability to deliver with deadlines.
+	- contribute to architecture and technical decisions while also mentoring junior members within the team.
+	- be working in a multi-office, multi-location development environment and prior experience working with local and remote teams or groups will be a plus.
+	- While expertise with ML products and their application within enterprise solutions is highly desirable, it is not required, provided you are willing to quickly come up to speed and you have some prior experience of ML technology and its application.
+	- 12+ years software development with focus on large scale distributed systems.
+	- Some Machine Learning application development experience, this is NOT a data scientist role, but a services/platform development role.
+	- Ability to communicate effectively in conversations with researchers and engineers from academia background.
+	- Passionate about building and encouraging good engineering practices and processes such as continuous integration and deployment.
+	- Experience developing and putting into production test automation and CI/CD systems.
+	- Expertise in developing software with container deployment and orchestration technologies at scale, with strong knowledge of the fundamentals including service discovery, deployments, monitoring, scheduling, load balancing.
+	- Strong background in building streaming applications or streaming analytics platforms.
+	- Expert in one of the streaming platforms, preferably Flink.
+	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
+	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
 
 
 
@@ -528,12 +546,84 @@ For applications of machine learning, or ML, in the following fields, see the *M
 
 
 
-
-
-
-
-
 For applications of machine learning, or ML, in finance, see the *Markdown* document for [](financial-engr-n-finance-x.md)
+
+
+
+
++ skill set:
+	- Director of Applied Machine Learning Experiences
+	- The Machine Learning team is building a new platform called Sparta and this platform will be used to build assistive intelligence experiences (AIEs).  These AIEs enable Splunk customers to accomplish their tasks while using real-time user feedback to build self-tuning cloud services. The focus of the selected candidate will be to manage the AIE portfolio and automate simple tasks and processes by harnessing the power of Big Data, cloud, and data science to aid in actionable decision-making and system remediation.
+	- Create the capability to make intelligent recommendations, detect anomalies, and help users prioritize events and alerts.
+	- Create libraries, services, and SDK to accelerate AIE development.
+	- Lead a team of engineers and researchers that collaborate with product and applied research teams to build ML features into a wide variety of products across Splunk. 
+	- Recruit, mentor, and grow world class engineers and managers
+	- Partner with cross functional team members to develop and maintain a well-defined roadmap, while balancing technological excellence.
+	- Manage the AIE portfolio (the assistive intelligence experiences)
+	- Help define technical direction and architecture with engineering team members.
+	- Facilitate coordination of multiple scrum teams to successfully deliver committed feature sets.
+	- Drive practices in training and development, and drive efficiencies across multiple feature teams.
+	- Build a culture of continuous learning, growth, and sharing of technological insights.
+	- 10+ years of hands-on technical experience.
+	- 4+ years of direct management experience of highly technical managers and engineers.
+	- Bachelor’s degree in Computer Science or another quantitative field. We will consider equivalent practical experience
+	- Experience in delivering multiple complex technical projects within an Agile environment.
+	- Familiar with machine learning and data science workflows.
+	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
+	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
+	- Proficiency with backend systems built using microservices, containerized infrastructure, and modern continuous delivery practices.
+	- Demonstrated ability to build a culture of team building and people management.
+	- Demonstrated ability to reach stretch goals in a fast-paced environment
+	- Outstanding written and verbal communication skills.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -716,7 +806,22 @@ Need to address:
 	- experience with containerized applications, databases, and distributed computing
 	- experience with deploying ML models as a Web service, and building scalable machine learning systems spanning multiple teams and organizations
 + skill set:
-	- BLAH.
+	- Principal Software Engineer - Cloud Service and Machine Learning
+	- As the Principal Software Engineer for our Machine Learning team you will be responsible for ensuring that the development of ML systems and services meets all technical and quality standards. You will work with Product Management and other technical teams within Splunk, incorporating new requirements and providing technical information related to this sophisticated ML Platform as needed.
+	- work with a team of senior ML engineers, applied researchers and security researchers, and experts within their own specialty. You will set an example for this group, as well as set high standards on quality, communication and ability to deliver with deadlines.
+	- contribute to architecture and technical decisions while also mentoring junior members within the team.
+	- be working in a multi-office, multi-location development environment and prior experience working with local and remote teams or groups will be a plus.
+	- While expertise with ML products and their application within enterprise solutions is highly desirable, it is not required, provided you are willing to quickly come up to speed and you have some prior experience of ML technology and its application.
+	- 12+ years software development with focus on large scale distributed systems.
+	- Some Machine Learning application development experience, this is NOT a data scientist role, but a services/platform development role.
+	- Ability to communicate effectively in conversations with researchers and engineers from academia background.
+	- Passionate about building and encouraging good engineering practices and processes such as continuous integration and deployment.
+	- Experience developing and putting into production test automation and CI/CD systems.
+	- Expertise in developing software with container deployment and orchestration technologies at scale, with strong knowledge of the fundamentals including service discovery, deployments, monitoring, scheduling, load balancing.
+	- Strong background in building streaming applications or streaming analytics platforms.
+	- Expert in one of the streaming platforms, preferably Flink.
+	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
+	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
 + skill set:
 	- BLAH.
 + skill set:
@@ -1404,10 +1509,40 @@ They support databases for:
 	- Deep knowledge of Python, Ansible, Terraform, Java, and AWS technologies.
 	- Ability to read, understand and reproduce machine logs.
 	- Experience with Docker, Kubernetes, GIT, and Splunk.
-
-
-
-
++ skill set:
+	- Senior Software Engineer
+	- We are seeking a passionate engineer to join our group, Data Platform. Our team designs distributed systems to collect and analyze high volumes of machine-generated data at scale. We are proud of owning what we build even after it's deployed to production. We ensure code hygiene, use open source libraries, employ continuous integration and delivery, and have a strong belief in automated testing at multiple levels (unit, integration, system). We are uniquely positioned as a globally distributed team with team members in a variety of locations. 
+	- Develop and debug client-server system software written in C++ and/or Golang
+	- Experience in distributed systems and large scale environments deployed at scale, both "on-premise" and in "cloud".
+	- Experience with Linux deployments hosted by cloud service providers such as AWS and GCP.
+	- Excellent problem solving, collaboration and communication skills, both verbal and written.
+	- Mentored junior engineers in their development skills via code reviews and design discussions.
+	- Owned features or sub-systems end-to-end from design to deployment and continuous improvement..
+	- Develop server-side applications for data collection, indexing, clustering and other distributed systems.
+	- Build robust, fault-tolerant distributed systems in a multi-threaded, multi-process environment.
+	- Analyze, identify and resolve the bottlenecks of distributed systems, data pipeline, multi-threaded coherency and other complicated scenarios.
+	- Analyze and improve the scalability of data collection, storage and retrieval.
+	- Interact cross-functionally with other partners such as PMs, SREs, Devops, and support engineers.
+	- Participate in rotating on-call duties to diagnose and fix customer issues.
++ skill set:
+	- Principal Technical Program Manager - GDI (Remote - US)
+	- We are looking for a Principal Technical Program Manager, who will be responsible for leading large-scale, complex programs from start to end within our GDI (getting data in) area. You will be working cross-functionally with a broad set of technical and business partners to drive programs that will further Splunk’s long range goals. We want a TPM who can thrive with a nebulous problem set, distill complex problems into concrete work, and guide multiple teams with their strong, critical thinking skills.
+	- Strategically leading technical programs in the Platform Engineering organization, with a clear and constant understanding of priorities to drive expected outcomes, including New Product Introduction (NPI) and Go To Market (GTM) processes
+	- Breaking down problems and operationalizing initiatives into coherent workstreams; defining program timelines and ensuring accountability of program goals; operating as the single source of truth in execution of highly complex programs
+	- Proactively anticipating risks, developing mitigation plans, and driving problems to resolution
+	- Aligning with organizational leadership and key business customers as a program lead across multiple programs
+	- Understanding system interdependencies and facilitating technical discussions; communicating solutions and decisions with both engineers and non-technical audiences
+	- Creating and maintaining detailed and easy-to-digest program documentation, managing dependencies, and tracking status across multiple teams and workstreams
+	- 10+ years experience in software program management or closely related roles
+	- Experience with enterprise software and cloud technologies, along with a deep understanding of the software development lifecycle
+	- Understanding and experience with creating and consuming APIs
+	- Experience working with or knowledge of Data Ingestion messaging or stream processing technologies, such as Flink, Kafka, Kinesis, Pulsar, Spark or similar
+	- Extensive experience with large, cross-functional programs that have broad organizational impact
+	- Demonstrated ability at juggling multiple, concurrent programs and prioritizing tasks based on criticality
+	- Communication and risk management are your forte. You can communicate effectively with stakeholders of all levels and develop plans to act upon risks appropriately
+	- Phenomenal at decision-making, consensus building, and problem solving; you don't shy away from challenges
+	- Strong technical proficiency required to understand development tasks and identify and resolve issues as they arise
+	- Understanding of key development tools and technologies such as Gitlab, AWS, Kubernetes, Terraform, etc. Experience with program management tools in the Atlassian stack (Jira and Confluence) are great
 
 
 

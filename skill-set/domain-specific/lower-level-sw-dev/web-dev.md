@@ -145,6 +145,81 @@
 	- Aware of but not reliant on object oriented and component-based JavaScript Frameworks (React, Angular, Ember, Bootstrap, etc.)
 + Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
 + skill set:
+	- Software Engineer - Full Stack
+	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
+	- We need strong engineers to address the next set of data challenges that include real-time streaming data processing, cloud migrations, and integration of disparate and distributed data sources. That's where you come in!
+	- As a Software Engineer, you will work with the team to develop insightful user experiences for the data analytics platform. You will deliver these features to meet the ever-increasing scalability, performance, and security requirements; while designing and developing with an eye on reliability and high availability.
+	- Contribute to the design and development of multiple features in the ultra-high performance system, processing immense amounts of data.
+	- Participate in the development of project timelines, implementation design specifications, system flow diagrams, documentation, testing and ongoing support of systems.
+	- Pay extra attention to non-functional requirements (Performance, Scalability, Reliability, High Availability).
+	- Take the scale and performance of the product using Splunk platform innovations, open-source, and cloud tools and technologies.
+	- Work in an Agile environment and follow scrum practices.
+	- Receive guidance from Senior engineers/architects for current and strategic features.
+	- Help identify and develop ways to improve our team's efficiency by expanding on our existing tools and processes while keeping product quality top of mind.
+	- Collaborate with members of our team to enhance frameworks and backend components.
+	- Become well versed in core Splunk technologies as they apply to application development.
+	- 4+ years of software engineering experience focused on application development.
+	- Bachelor's degree in Computer Science or another related quantitative field of study. Equivalent work experience and/or training will also be considered.
+	- Programming experience using languages such as Python, Java, C/C++, or similar languages.
+	- Practiced with client-side scripting and JavaScript frameworks (React and/or Backbone.js).
+	- Familiar with front-end technologies (HTML5, CSS3, Responsive Design).
+	- A solid grasp of data structures, algorithms, and RESTful APIs.
+	- Understanding of scalable distributed web applications using open source or proprietary technologies.
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Strong collaborative and interpersonal skills.
+	- Ability and desire to work effectively with others within a dynamic environment.
+	- Understanding of relational databases' (Postgres).
+	- Proponent of test-driven development (TDD) and understanding of CI/CD technologies.
+	- Experience with secure coding practices.
+	- Familiarity with orchestration and cloud stack and technologies like K8s, Kinesis, Kafka.
+	- Familiarity with information security is a plus.
+	- Opportunities to develop and grow as an engineer. We are always expanding into new areas, working with cloud stacks, open source projects, and exploring new technologies.
+	- Internal technical training and company-wide hackathons.
+	- A team of extraordinarily capable and dedicated peers.
+	- Breadth and depth. You are interested to work on an area that dynamically scales to meet the needs of Splunk’s offerings.
+	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.
+	- Fun. We have frequent group outings and team-building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.
+	- Work life balance, with efficient work from home environments today and modern offices standing by for future times.
+	- We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -232,9 +307,51 @@
 	- Experience with leading or contributing to open source projects
 	- Experience with working in a direct customer facing environment
 + skill set:
-	- BLAH.
+	- Senior Backend Engineer, Stream Processing
+	- Are you interested in being part of a small team tasked to build the next-generation industry-leading platform for machine data? Splunk is looking for Software Engineers to join the effort to define and create the future of Splunk. You will be joining a team that's developing our Federated Search infrastructure used for searching data in Splunk and a variety of other big-data systems
+	- We give our engineers an environment in which they can impact from day one while also providing opportunities for learning and growth. You'll learn how our entire stack works - from data ingestion and storage to searching, reporting, and building dashboards – all in distributed environments. The work you’ll do will directly impact the experience of our customers.
+	- We are an engineering- and product-focused company. Our engineers take a leading role in designing, architecting, building and testing our product. Engineers at Splunk have a wide impact, from developing new capabilities like metrics ingestion and analysis to working with customers to see their work be used to solve real-world problems.
+	- Opportunities to develop and grow as an engineer. We are at the forefront of our industry, always expanding into new areas, and working with open source and new technologies.
+	- A set of hardworking and dedicated peers, all the way from engineering and QA to product management and customer support.
+	- Breadth and depth. You want to work in an area that spans backend and frontend and SDKs? We have that. You want to go deep into optimizing how we compress data for fast random-access retrieval? We have that too, and more.
+	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe mentors help both sides of the equation.
+	- A stable, collaborative and supportive work environment. We work in an open environment, have a shared kitchen and sit down for a quick sync every morning.
+	- Balance. We don't expect people to work 12 hour days. We want you to have a successful time outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment and believe that balance helps cultivate a positive environment.
+	- Desire to Learn and Adapt. We have a lot of projects going on at once, and you'll have to learn to navigate the code and features. You'll constantly be learning new areas and new technologies.
+	- Passion. Our customers are passionate about Splunk, and we want the same from our engineers. We want you to actively lead your work and be excited about your projects.
+	- Understanding of Distributed Systems Programming. Examples of areas you may be knowledgeable in may include multi-threaded programming, distributed file systems, distributed concurrency control, consistency models, consistent hashing, CAP theorem, multi-process execution models, good grasp of data structures and algorithms, etc. You don't need to be an expert on everything, but you should have a foundation to build on.
+	- Experience with distributed architectures/systems. You have experience in writing optimized and scalable software systems that work on a large number of nodes. You have a solid understanding of map reduce fundamentals, lambda architecture, and have developed applications on systems like Spark/Flink/Hadoop and Kafka. You know how to deploy and handle distributed systems using Kubernetes or other container orchestration platforms.
+	- Ability to work with Java. We have code in several languages, ranging from C/C++ and Java to Python and JavaScript. In this position, you'll be mostly writing using Java. Experience with Java and its ecosystem including build tools (e.g. Gradle / Maven) is a must. Experience with Java frameworks (e.g. Spring) is a plus.
+	- Desire to write robust and easy-to-test code. Do you think about how to make your code testable when you create it? Do you know how to test both the happy paths but also the edge cases? Do you know when a unit test doesn’t add much value but an integration test or an end-to-end test does? Do you try to use mocking libraries sparingly because you know they produce code that is hard to refactor or add additional logic to?
 + skill set:
-	- BLAH.
+	- Senior Software Engineer - Backend
+	- Do you enjoy building large scale applications that are powered by huge data sets? Are you passionate about working on products that make a difference for your customers? Do you value working in an environment where you're empowered to drive and make key technical decisions across a full stack of technologies? If so, a role on Splunk's Mission Control team might be a great fit for you.
+	- Splunk Mission Control is a unified cloud-based platform that brings together data, analytics, and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain, and remediate threats - all from one place - resulting in faster, more efficient and more effective operations.
+	- As a Senior Software Engineer - Backend, you will evolve the architecture and design of our platform to meet the ever-increasing scalability and performance requirements. You will also help define the future of our cloud-based SaaS product, by designing, creating, testing, and maintaining backend services that directly support analysts all across the world. You will bring creativity and passion to directly influence the direction of our technology as well as mentor other members of your team.
+	- Working directly with customers is one of our core values. In this role, you'll be able to meet customers, build empathy towards their experiences, get a first-person view of how we use the products day to day. You will collaborate with product management to help define the product backlog.
+	- We give our engineers an environment in which they can contribute from day one while also providing opportunities for learning and growth. You’ll learn how our stack works – from data ingestion, storage, search, analytics to implementing dashboards and tools to support operational requirements.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world deployment scenarios to develop an understanding of which solutions will bring value to our customers.
+	- Take the scale and performance of the product using Splunk platform innovations, open-source, and cloud tools and technologies.
+	- Take lead on projects with little to no additional direction from engineering/product leadership, drive and help track them to completion.
+	- Partner with leaders from architecture, eng management, and product management on project requirements, designs, and development plans.
+	- Help identify and develop ways to improve our team's efficiency by expanding on our existing tools and processes.
+	- Collaborate with members of our team on the design and implementation of frameworks and backend components.
+	- Keep product quality top of mind by creating automated tests for the software that you help create.
+	- Become well versed in core Splunk technologies as they apply to application development.
+	- Mentor junior engineers and interns as they develop their application development skills.
+	- 7+ years of software engineering experience focused on application development.
+	- Bachelor's degree in Computer Science or another related quantitative field of study. Equivalent work experience and/or training will also be considered.
+	- 5+ years of Production-level experience developing cloud-native distributed systems processing high volumes of data at scale.
+	- Proficient with Python or Golang.
+	- Solid understanding of Kubernetes, Docker, and AWS/GCP/Azure technologies.
+	- Solid knowledge of SQL and NoSQL databases at scale.
+	- Strong foundation in data structures, algorithms, software design, and RESTful APIs.
+	- Experience with CI/CD pipelines and knowledge of cutting-edge technologies to improve the current build and infrastructure.
+	- Demonstrated ability to learn new technologies quickly.
+	- Experience collaborating with design, engineering, and DevOps teams.
+	- Familiarity with A/B testing, blue-green environments, and canary deployments.
+	- Strong verbal and written communication skills.
+	- Interest in information security is a plus.
 + skill set:
 	- BLAH.
 + skill set:
