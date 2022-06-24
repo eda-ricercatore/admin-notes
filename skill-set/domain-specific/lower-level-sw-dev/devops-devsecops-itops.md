@@ -278,7 +278,33 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 
 
 + skill set:
-	- BLAH.
+	- Senior Client Platform Engineer
+	- Ready to shake things up? Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and strive to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most significantly to each other’s success. We continue to be on a tear while enjoying incredible growth year over year.
+	- Are you the kind of systems engineer that has a passion for administering enterprise software using best of breed technologies? Are you self-motivated and require minimal supervision? Do you put together a rolling 12-month roadmap to execute against? If so, then this is the dream job you've been looking for. 
+	- Splunk is looking for a highly skilled Senior Systems Engineer focusing on endpoint security, and configuration management. You should be comfortable delivering at a high level in a fast paced and growing environment. You will drive standardization and management for our endpoints along with a number of enterprise applications and services. This role provides high visibility and impact to both the CIO and CISO organizations.
+	- Architecture, design, integration, implementation, operation, and support of enterprise-wide applications and services for our Windows fleet.
+	- Assisting in developing long-term strategies and capacity planning for meeting future end user needs
+	- Configuration Management for Windows using industry standard tools to meet Security requirements and comply with CIS benchmarks
+	- Managing configuration of our endpoint security software such as endpoint detection and response, application allow/block lists, and host-based intrusion detection software
+	- Partnering with the Security Engineering leads to coordinate efforts, initiatives, and roadmaps
+	- Administer enterprise software including deployment and package management
+	- Write scripts/policies that automate application and settings distribution using internal tools
+	- Manage transition plans for major upgrades or patches
+	- Integrate with other internal systems and tools
+	- Manage and report on application performance against KPI’s
+	- Work as the escalation point between various support teams for issues on the client platform
+	- Work as a liaison from the Splunker Technology Success org to other IT Service organizations to deliver feature enhancements and best in class solutions through shared products and goals
+	- Drive client security models and best practices in an enterprise environment
+	- Drive business decisions through data using tools like Splunk
+	- Diagnose and investigate unique and complex systemic problems
+	- Develop solutions that meet the business needs to complex customer requirements
+	- 10+ years of overall IT experience; 5+ years experience of providing application support and engineering
+	- Experience with implementing security standards and compliance across a huge enterprise organization
+	- Knowledge of bash/python scripting
+	- Experience with Endpoint Management platforms such as WorkspaceONE/InTune/LANdesk/Kace/etc.
+	- Experience with DevOps platforms such as Puppet/Salt/Chef
+	- Ability to work in high pressure, highly flexible environment against both short and long term requirements
+	- Passionate about technology and solving IT operations-focused problems
 + skill set:
 	- BLAH.
 + skill set:
