@@ -547,7 +547,29 @@
 	- Knowledge of CSS, HTML, XML, Flash, JavaScript.
 + Good knowledge in Java, Typescript and/or Angular
 + skill set:
-	- BLAH.
+	- Software Engineer, Front End
+	- Splunk builds software that lets you search, report, monitor and analyze live-streaming and historical data across the entire data spectrum, from IT to Marketing to Operations, all from one place and in real time. Getting a vast variety of extensive data in and ready for analysis is never easy.
+	- The Enterprise Dashboards team strives to simplify the creation and consumption of dashboards and reports by both advanced and beginner users in Splunk Enterprise and Splunk Cloud, and to create tools and resources that aid in making beautiful, operational, and actionable dashboards in order to democratize insights from Splunk data to the wider customer organization.
+	- You will work with cutting-edge web technologies like React, BackboneJS, HTML5, CSS3, Python
+	- You will write JavaScript unit tests
+	- You will build responsive web applications for speed and scale
+	- You will ensure the technical feasibility of UX/UI designs working actively to influence the same
+	- You will help develop specifications for the design and development of User Interface elements for Web and Mobile Applications
+	- You will build applications ensuring that development meets all usability and accessibility requirements and standards
+	- 2+ years of front end development experience
+	- Built and delivered an app on Amazon AWS, Microsoft Azure or Google Cloud Platform
+	- Intermediate knowledge of client-side scripting and JavaScript frameworks (React and/or BackboneJS)
+	- Expertise in front-end technologies (HTML5, CSS3, Responsive Design, etc.)
+	- Good understanding of asynchronous request handling, partial page updates, and AJAX
+	- Proficient understanding of cross-browser compatibility issues and how to resolve the same
+	- Proficient with Node.js and the common frameworks and npm modules
+	- Excellent problem solving skills and great attention to details
+	- Proven ability to learn new technologies quickly
+	- Experience with automated software and system management and development tools
+	- Experience working in a team-oriented, collaborative environment
+	- Exposure to project methodology or work structures; understand project lifecycle
+	- Experience in working with cross-functional teams (not just engineering)
+	- Excellent communications and interpersonal skills
 + skill set:
 	- BLAH.
 + skill set:
