@@ -134,7 +134,15 @@
 		* Knowledge of Apollo GraphQL
 		* Strong testing background (JUnit, Cypress, React-Testing-Library)
 + skill set:
-	- BLAH.
+	- Provide technical leadership for significant engineering efforts involving work from multiple teams
+	- Mentor other engineers on the team and across teams
+	- Design and implement the user interface and backend services including the evaluation and selection of key technologies
+	- Participate in end-to-end architecture reviews and discussions with the broader team, playing an influential role in overall product design
+	- Collaborate with interaction designers and visual designers to create an intuitive user experience
+	- Identify and communicate standard ways of operating for engineering
+	- Experience with Java and RESTful Web services (Jersey, Spring)
+	- Experience in design and developing rich applications with JavaScript/HTML/CSS
+	- Aware of but not reliant on object oriented and component-based JavaScript Frameworks (React, Angular, Ember, Bootstrap, etc.)
 + skill set:
 	- BLAH.
 + skill set:
