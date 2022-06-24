@@ -221,7 +221,9 @@
 	- Familiarity with MVC, Mocking, RESTful, and ORM
 	- Good understanding of front-end technologies including HTML5, JavaScript, and CSS3
 + skill set:
-	- BLAH.
+	- Good understanding of front-end technologies such as HTML5, Angular, JavaScript
+	- Experience in designing user interfaces for web
+	- Experience with Java, REST, Docker on a basic level
 + skill set:
 	- BLAH.
 + skill set:

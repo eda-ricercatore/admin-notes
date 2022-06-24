@@ -88,6 +88,47 @@ Quantitative UX research methods:
 	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
 	- Ability to think holistically about a complex, social product, and map big picture metrics to a realistic actionable plan.
 	- Passion for experimentation and new ideas.
++ skill set:
+	- As a Principal UX Researcher, your hands-on, multi-method abilities will help define a northstar vision and drive towards that future with Splunk design. These multi-methods include leading foundational studies, conducting interviews with key customers, using statistics to analyze data, and traditional design research like usability and participatory design. You will encourage teams to push their current boundaries of what is possible, identify and set product strategy, while helping teams understand complex UX ecosystems through seamlessly synthesizing data into engaging reports. You have a clear vision of what the future of user experience for Splunk products is, and have the courage to uphold that vision through forward-thinking research.
+	- In this role, you’ll build compassion and understanding of what users need, while closely collaborating with designers, engineering, product management, and various other functions daily, to help define the future of Splunk. We’re looking for thinkers and innovators who are willing to challenge the status quo and are motivated by developing creative solutions to complex problems.
+	- Be an inspiring leader on how to use research and data to advise the product experience.
+	- Cultivate and grow user research and a data-driven product design culture.
+	- Lead stakeholders dynamically that including guiding stakeholder discussions with the appropriate user research methods to achieve business and design goals.
+	- Partner with design, design managers, engineering, product and executives on research execution and/or design workshops.
+	- Identify and garner agreement for new research opportunities.
+	- Propose, plan, execute, and deliver user research at various stages of the product development lifecycle to drive decisions.
+	- Build deliverables in the form of engaging reports, journey maps, or other materials as needed by the project team.
+	- Develop outstanding research insights and deliver to cross-functional partners to build a smarter, more informed, and more user-focused team
+	- This is a very hands-on role and includes running participant recruitment, data collection (includes moderating sessions), data synthesis and analysis, and delivery of findings and recommendations
+	- 8+ years experience doing applied product mixed method, qualitative and quantitative user research on products
+	- Degree in the field of HCI, Human Factors, Design, Psychology, Anthropology or a related field / relevant work experience (advanced degree a plus)
+	- A curiosity for technology, how data is crafting the future of software development and the future of the cloud.
+	- Extensive experience planning and executing different types of research and testing activities
+	- Expert understanding of the strengths and shortcomings of different research methods, including when and how to apply them during each product phase.
+	- Unafraid of creating new systems and processes as needed.
+	- Strong sense of independence, ownership, and initiative with an ability to self-direct and handle what to work on, how to get it done, and when to deliver
+	- A consistent track record of building respect for User Research and impacting product decisions with high-quality data and insights
+	- Excellent organization skills and the ability to manage multiple high-profile projects in a dynamic organization.
+	- Outstanding written and verbal communication skills. Strong analytical and presentation skills.
+	- Effective interpersonal, communication, negotiation and collaboration skills.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
