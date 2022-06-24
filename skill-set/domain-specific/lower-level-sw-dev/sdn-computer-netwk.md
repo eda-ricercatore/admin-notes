@@ -62,6 +62,9 @@
 
 
 
+
+
++ Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
 + skill set:
 	- BLAH.
 + skill set:

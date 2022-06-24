@@ -143,7 +143,15 @@ DevOps is at the intersection of:
 		* Transit Gateway
 		* Global Accelerator
 + skill set:
-	- BLAH.
+	- Terraform 
+	- Kubernetes 
+	- Vault 
+	- Artifactory 
+	- Gitlab
+	- Argo 
+	- Experience in building and deploying cloud-native applications/services. If you have built cloud-native microservices, that’s great!  Even better is if you have experience developing CI/CD systems integrating terraform, vault, Kubernetes, AWS.  In depth experience with CI/CD pipeline tools such as Gitlab, Argo, Spinnaker, Artifactory are a definite plus!
+	- Breadth and depth. You may be diving deep into CI/CD tools and best practices, but you’ll have the freedom to work on other areas you are passionate about.
++ Specific technologies, like Spring, docker, Kubernetes, etc. are, of course, also a great help
 + skill set:
 	- BLAH.
 + skill set:
@@ -212,7 +220,25 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Knowledge of best practices related to security, performance, and disaster recovery.
 	- Skilled in identifying performance bottlenecks, spotting anomalous system behavior, and determining the root cause of incidents.
 + skill set:
-	- BLAH.
+	- Senior Site Reliability Engineer
+	- The Splunk Observability Suite is a new generation of cloud applications for microservices and distributed applications. We work on new, world-class tools to monitor and observe microservice-based applications. Site Reliability Engineers at Splunk are hybrid Software/Systems Engineers whose overarching goal is to ensure that production services are always up and running reliably.
+	- As a Software Engineer - Infrastructure, you will help us run one of the largest and most sophisticated cloud-scale, big data systems in the world. You will be responsible for improving operational efficiency, optimal utilization and system resiliency for a real-time streaming analytics platform. You are passionate about automation, infrastructure-as-code, and getting rid of tedious, manual tasks.
+	- Responsible for automating & operationalizing cloud provider infrastructure via ***Terraform*** as well as ***Kubernetes, Helm and Istio***
+	- Monitor capacity & utilization and work closely with the infrastructure team to orchestrate scale-up/down of backend services.
+	- Own & operate critical back-end open-source services like Cassandra, Kafka, and Zookeeper.
+	- Build tools and design processes that help improve observability and system resiliency.
+	- Triage site availability incidents and proactively work towards reducing MTTR for customer-impacting incidents.
+	- Partner with service owners to implement service level metrics & service level objectives that act as service-level health indicators.
+	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
+	- Coding experience in one or more of Python, Go or Java.
+	- Infrastructure as code experience with in one or more of ***Terraform, Ansible, Puppet or Salt***.
+	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
+	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
+	- Strong working knowledge of orchestration engines and package management including ***Kubernetes, Helm, and Istio***
+	- Experience operating one or more OSS technologies like ***Kafka, Cassandra, Zookeeper***; other backends and streaming systems a plus
+	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
+	- 8+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
+	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
 + skill set:
 	- BLAH.
 + skill set:

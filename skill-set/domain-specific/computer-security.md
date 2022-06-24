@@ -24,7 +24,15 @@
 
 
 
-
++ Ability to apply the MITRE ATT&CK and Killchain frameworks to security operations
++ C++ Intern Software Engineer - vCenter Platform
+	- You will innovate on an enterprise-scale project, with huge impact on product security.
+	- You will familiarize yourself with diverse and relevant technologies like libFuzzer, protobuf, REST APIs.
+	- You will define and create a fuzzing pipeline for vCenter reverse proxy.
+	- In order to create the fuzzing pipeline, you will have to:
+		* Rework the reverse proxy codebase (C++)
+		* Rigorously define the reverse proxy API via protobuf messages
+		* Build the fuzzing pipelines themselves
 
 
 
@@ -58,6 +66,12 @@
 	- Experience working with and getting the best out of post-doctorate researchers
 	- Being passionate about cryptography and/or web technology such as TLS
 	- Familiarity working with DNS, database systems, Internet performance, and/or Internet security
++ skill set:
+	- Perform Threat Modeling, security design review of distributed systems, APIs, and on-premises solutions.
+	- In-depth knowledge of common application & network protocols, cryptographic technologies, authentication & authorization protocols, common security threats, such as attack-techniques, evasive techniques, and preventative & defensive methods.
+	- Experience with authentication and authorization protocols like OAuth, OIDC, and, SAML.
+	- Understanding of web technologies: React+Redux, GraphQL, Web-Sockets, etc.
+	- Knowledge of compliance requirements for industry-standard certifications like PCI DSS, SOC2, HIPAA, FedRAMP
 
 
 

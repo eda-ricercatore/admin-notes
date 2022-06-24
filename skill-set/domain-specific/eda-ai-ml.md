@@ -1123,8 +1123,35 @@ Notes:
 	- Develop tools to scale and automate analyses, improving productivity across the company
 	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
 	- Experience pushing code and navigating a complex codebase
-
-
++ skill set:
+	- Experience in data store design (data lakes; relational, columnar, NoSQL databases, analytics/OLAP cubes)
+	- AWS and DevOps experience with AI/ML pipelines
+	- Create the vision to build and evolve the team’s data infrastructure and tools. Technically lead for the design, building, and launching of new data models and data pipelines
+	- Ensure production quality methods to retrieve, condition, validate, synthesize, and manipulate data
+	- Full-stack build custom integrations between cloud-based systems using APIs
+	- Continuously refine and improve the data architecture and delivery as new requirements surface
+	- Experience ensuring data integrity, security, and encryption
++ skill set:
+	- Associate Data Scientist (Internship):
+	- VMware Tanzu Labs partners with organizations worldwide to accelerate innovation, while reducing operating costs and risk.  The data science team at VMware Tanzu Labs is primarily a consulting practice; we work with our customers to solve real world problems.  Our customers, like us, are cross-disciplinary. We service engagements with use cases running from customer churn to optimization to detecting fraud and misconduct.  We are not just doers; we are also educators and enablers. programs.
+	- You have a passion for exploring data and connecting the value hidden in data with business outcomes and user needs.  You’re agile and retrospective, and not afraid to identify what we’re doing wrong so we can fix it, and what we're doing right so we can improve on it.  You’ll be working on a wide variety of data problems for a diverse range of clients. You will often be asked to learn new technologies and domains on the fly.   Above all, you judge your success by the success of your team and the happiness of your customers.
+	- Be given an opportunity to attend fun and educational events to kickstart your career, meanwhile, you’ll get a better feel for our culture. 
+	- Get hands-on exposure with cutting edge technology from managers, mentors, and fellow team members.
+	- Acquire the tools and knowledge to contribute on a large scale.
+	- Have the ability to advance your career in the direction you choose in the future. 
+	- While there is no such thing as a “typical day”, these are activities we frequently find ourselves doing the following:
+	- Partnering with clients to uncover and frame new opportunities for data science. Clients often come to us without a clear understanding of what we can do, so this is our chance to open their eyes to new possibilities for their businesses.
+	- Pairing and writing code together with clients around engineering features, training models, tuning hyperparameters and evaluating results.  We emphasize rigor, because data science done right at this stage leads to models that shine in production.
+	- Taking the models we build into production. This is an exciting stage for anyone who likes collaborating with product teams and seeing their model become real when users interact with it.
+	- Helping our clients develop their internal data science practices, through mentoring and pair programming, so that they can be successful when we hand off the project.
+	- Continuous learning by building demos and prototypes on new technologies, methodologies, and frameworks.  Presentation of learnings and findings for internal audiences, external conferences, and blog posts.
+	- Bachelor’s degree in an analytical or quantitative field, or currently pursuing a master’s or doctorate degree in an analytical or technical field (e.g. applied mathematics, statistics, computer science, operations research, economics, data science, etc.). 
+	- Clear and empathetic communicator. You’ll be the one sharing your insights with clients and stakeholders. As such, frequent communication and tireless empathy are essential to succeed in this role.
+	- Fluent speaking and writing ability in Chinese and English.
+	- Advanced knowledge of statistical modeling and/or machine learning methods. These are the technical skills we need to iterate and improve data science pipelines.
+	- Strong exploratory data analysis skills. Every engagement starts with an investigation of the data, and thorough EDA saves us a lot of headaches in the long run.
+	- Strong programming skills in SQL and Python/R
+	- Hands-on experience working in a distributed computing environment
 
 
 
