@@ -31,9 +31,66 @@
 		* Rework the reverse proxy codebase (C++)
 		* Rigorously define the reverse proxy API via protobuf messages
 		* Build the fuzzing pipelines themselves
-
-
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -98,9 +155,93 @@
 	- Personal research initiatives, hobbies, and projects that you are proud of.
 	- Presentations at industry events such as RSA, Blackhat, Defcon, BSides, IEEE, or ACM.
 	- Filed for and/or granted patents.
-
-
-
++ skill set:
+	- Principal Software Engineer - Cloud Security (Remote)
+	- Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun and most importantly to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
+	- Do you enjoy building large scale applications that are powered by huge data sets? Are you passionate about working on products that make a difference for your customers? Do you value working in an environment where you're empowered to drive and make key technical decisions across a full stack of technologies?
+	- Splunk>SOAR is the only purpose-built Security Orchestration & Automation Response platform, and the first to provide an open, growing community for sharing playbooks, apps, and new technologies. It makes security smarter, faster, and stronger. We are used by every company in the Fortune 100.
+	- We are looking for creative problem solvers with a passion for building cloud products and who understand the data challenges that come with security. Come join our team that’s building the next generation Cloud Security Automation & Orchestration Platform.
+	- As a Principal Software Engineer and senior member of the team, you will help define the future of our cloud offerings, by designing, creating, testing, and maintaining products that directly support security analysts all across the world. You will bring creativity and passion to directly influence the direction of our technology as well as providing mentorship to other members of your team.
+	- Working directly with customers is one of our core values. In this role, you'll be able to meet customers, build empathy towards their experiences, get a first-person view of the state of the art Security Operations Centers, and collaborate with product management to define and craft new products that streamline analysts' investigations.
+	- If staying technically challenged and learning from others is meaningful to you, you'll love our internal technical seminars and regular, company-wide hackathons.
+	- Gain a deep understanding of our product architecture, usage patterns, and real-world deployment scenarios to develop solutions that will bring value to our customers.
+	- Enhance the product; keeping scalability and performance considerations as a high priority.
+	- Lead and drive projects to completion with minimal direction.
+	- Partner with other leaders from architecture, engineering management, and product management on project requirements.
+	- Collaborate with members of our team to design and create full-stack solutions including back end and front end code.
+	- Help identify and develop ways to improve the team's productivity and efficiency by expanding on our existing tools and processes.
+	- Keep product quality top of mind with automated testing.
+	- Become well versed in Splunk's core technologies as they apply to application development.
+	- Mentor junior engineers as they develop their application development skills.
+	- 12+ years of software engineering experience with a focus on cloud application development.
+	- Bachelor's degree in Computer Science or another quantitative field of study. Equivalent education, 	- training, and practical experience will be considered.
+	- Deep understanding of building products with CloudFirst approach. (AWS, GCP, Azure).
+	- Proficiency with one of these languages: Python, Go, C++.
+	- Understand delivery models (CI/CD, Dockers, Containers, Kubernetes).
+	- Solid understanding of relational databases' such as Postgres.
+	- Demonstrated ability to learn and apply new technologies quickly.
+	- Familiarity with backend application development frameworks such as Django.
+	- Working experience with design and engineering teams to plan, develop, and release software.
+	- An understanding of test-driven development (TDD).
+	- Experience with an agile software development model.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

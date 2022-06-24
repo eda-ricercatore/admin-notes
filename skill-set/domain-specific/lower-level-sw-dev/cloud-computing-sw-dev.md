@@ -86,7 +86,30 @@ This set of skill sets is for software development roles in cloud computing.
 	- 2+ years experience in stream processing platform, such as Flink, Storm, Spark, or equivalent
 	- 2+ years experience using a messaging system, such as Apache Kafka, Pulsar or equivalent
 + skill set:
-	- BLAH.
+	- Sr Software Engineer - Cloud Infrastructure
+	- Splunk’s Cloud Infrastructure organization builds robust and resilient auto-scaling platform solutions for hosting Splunk's enterprise software. The teams are fast-paced, high-velocity, and use state-of-the-art technology. The focus is always on automation, solving complex challenges that span across multiple groups within Splunk, ensuring smooth and expedient services to Splunk users.
+	- Splunk's Cloud Infrastructure team helps scale and secure our new global SaaS offerings.  We need experienced Software Engineers (various levels) to help lead, design and build the internet traffic management systems that will power Splunk’s next generation SaaS platform.
+	- We have a substantial AWS and Kubernetes presence of large-scale containerized systems. This is an incredible opportunity to utilize your existing cloud experience and drive the growth of the Splunk Cloud.
+	- Develop and deploy software that will help drive improvements towards the availability, performance, efficiency, and security of Splunk’s services. Technologies include L4/L7 Networking,  DNS, Load Balancers, API Gateways, Kubernetes, and TLS infrastructure for securing network communication.
+	- Work with Cloud providers on integrating their networking products into our ecosystem. You will be developing and extending a control plane to scale and secure cloud networks on various cloud computing platforms (Amazon AWS, Google Cloud Platform, Microsoft Azure).
+	- Drive for automation. You are passionate about adopting and mastering new technologies that will help you automate routine tasks and free up time for innovation. You will be utilizing a variety of languages used in systems programming, ranging from Go/Python to Terraform.
+	- Knowledge of technical excellence. You'll routinely use continuous delivery, testing and security best practices.
+	- Operational excellence. Data excites you and you make decisions based on numbers rather than assumptions.
+	- You have experience building cloud native applications in an agile manner using DevOps concepts and principles.
+	- Experience having designed, implemented and released distributed SaaS and/or On-prem applications to a large customer base.
+	- Have designed and developed APIs and micro services and released them using automated CI/CD pipelines.
+	- Have experience working with one or more of the public cloud providers i.e. AWS, Azure or GCP
+	- Have distributed systems design experience and integrate multiple systems using enterprise integration patterns and standard methodologies.
+	- You are proficient in coding in Python/Go.
+	- Ability to coach/mentor junior engineers on the team, provide technical direction, perform design/code reviews and champion engineering best practices.
+	- 5+ years of relevant industry experience; Bachelor’s degree in Computer Science, Computer Engineering or equivalent work experience.
+	- Opportunities to develop and grow as an engineer. We are always expanding into new areas, working with open-source projects and contributing back, and exploring new technologies.
+	- A team of incredibly capable and dedicated peers, all the way from engineering to product management and customer support.
+	- Breadth and depth. You are interested to work on an area that dynamically scales to meet the needs of Splunk’s cloud offering. You want to go deep into optimizing how we automate every manual process and tedious task we encounter.
+	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.
+	- A stable, collaborative, and supportive work environment. We work in an open environment, work together to get things done, and adapt to the changing needs for the team. We keep it real by being open and honest. We are a collaborative team that understands the value in open communication—it's how we interact with our customers.
+	- Balance. We don't expect people to work 12 hour days. We want you to be successful outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment, and believe that balance helps cultivate a positive environment.
+	- Fun. We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.
 + skill set:
 	- BLAH.
 + skill set:

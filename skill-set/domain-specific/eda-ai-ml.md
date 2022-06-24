@@ -576,7 +576,24 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Demonstrated ability to reach stretch goals in a fast-paced environment
 	- Outstanding written and verbal communication skills.
 + skill set:
-	- BLAH.
+	- Director of Engineering - Machine Learning
+	- Recruit, mentor, and grow world class engineers and managers.
+	- Partner with cross functional team members to develop and maintain a well-defined roadmap, while balancing technological excellence.
+	- Help define technical direction and architecture with engineering team members.
+	- Facilitate coordination of multiple scrum teams to successfully deliver committed feature sets.
+	- Drive practices in training and development, and drive efficiencies across multiple feature teams.
+	- Build a culture of continuous learning, growth, and sharing of technological insights.
+	- 10+ years of hands-on technical experience.
+	- 4+ years of direct management experience of highly technical managers and engineers.
+	- Bachelor’s degree in Computer Science or another quantitative field. We will consider equivalent practical experience.
+	- Experience in delivering multiple complex technical projects within an Agile environment.
+	- Familiar with machine learning and data science workflows.
+	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
+	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
+	- Proficiency with backend systems built using microservices, containerized infrastructure, and modern continuous delivery practices.
+	- Demonstrated ability to build a culture of team building and people management.
+	- Demonstrated ability to reach stretch goals in a fast-paced environment.
+	- Outstanding written and verbal communication skills.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1565,7 +1582,25 @@ They support databases for:
 	- B.S. degree in computer science, mathematics, statistics or a similar quantitative field, or sufficient relevant experience
 + skill set:
 	- Director, Engineering
-	- 
+	- This Director for Engineering will lead critical services within our Data Processing umbrella. Success will be measured by your ability to build and lead your team as part of our overall engineering strategy. You will seamlessly integrate within our deeply innovative culture and contribute to our excellent record for delivering market leading solutions. You are a seasoned leader with a demonstrated history building and leading both established and emerging engineering talent, while encouraging an environment of inclusion, creativity, and innovation.
+	- Our Data Processing team is a dynamic technology group with a mission to be the primary data processing path for any type of data transformation and routing activity in near real-time. If you possess a passion for extraordinary technology leadership and embrace the challenge of working at the frontier of what is possible in the industry today, then this position is for you. We are building state-of-the art capabilities, real-time messaging and streaming systems, support tools, and automation instrumentation that will greatly impact how our customers successfully use data to improve their businesses performance, scalability, profitability, and market strategies.
+	- We are looking for a proven, seasoned engineering leader to lead streaming capabilities for the Data Processing team. You will build and lead an elite team of engineers who will be working on our streaming platform that will power the next generation of Splunk and enable ever deeper customer insights. You are a force multiplier who looks for ways to gain efficiencies for greater impact. You will influence the technical strategy and the roadmap to best serve our customers.
+	- Hire and grow a new team within the Data Processing Engineering organization, focused on making our industry leading technology even more valuable to our customers.
+	- Be an advocate of scalable and extensible, recoverable, manageable architecture for Core products and services.
+	- Work with senior leadership on business goals, resource requirements and influence technical strategy
+	- Diagnose and resolve systemic obstacles that prevent your team from delivering high-quality software.
+	- Champion an atmosphere of continuous improvement by serving as a coach, mentor, and technical advisor for senior managers, managers and engineers.
+	- Plan and support career development.
+	- Recruit and retain top talent.
+	- Masters or PhD in Computer Science or Engineering with 15+ years of industry experience, of which 10+ years is in Engineering Management.
+	- 3+ years of experience managing multiple managers/teams on working on solutions to deeply challenging problems in processing data at massive scale.
+	- Experience hiring and cultivating teams.
+	- Experience developing new products, either in small companies or within the context of larger organizations. A mix of start-up and bigger company experience is a plus.
+	- Experience working within geographically distributed organizations.
+	- Experience building and cultivating strong engineering practices and processes.
+	- Consistent track record of delivering scalable, high performance, and high quality software systems.
+	- Broad understanding of various cloud development technologies and trends for enterprise-scale, distributed systems.
+	- Strong technical acumen, creativity, interpersonal skills, and emotional intelligence.
 + skill set:
 	- BLAH.
 + skill set:

@@ -465,6 +465,57 @@
 	- Strong oral and written communication skills, including a demonstrated ability to prepare documentation and presentations for technical and non-technical audiences.
 	- Background in developing products for the Security market a plus.
 + skill set:
+	- Principal Client Platform Engineer (US Remote Available)
+	- Splunk is looking for a very experienced and highly skilled Systems Engineer focusing on endpoint security, and configuration management, with a passion for administering enterprise software using best of breed technologies. In this role you are comfortable delivering at a high level in a fast paced and growing environment. You'll drive standardization and management for our endpoints along with a number of enterprise applications and services. If you get energized working in a hyper-growth company and enjoy blazing a trail versus following, then this is the dream job you've been looking for.
+	- This role provides high visibility and impact to both the CIO and CISO organizations.
+	- You will be responsible for the architecture, design, integration, implementation, operation, and support of enterprise-wide applications and services
+	- Assist in developing long-term strategies and capacity planning for meeting future end user needs
+	- Configuration Management for macOS (Jamf Pro) and Windows using industry standard tools to meet Security requirements and comply with CIS benchmarks
+	- Manage configuration of our endpoint security software such as endpoint detection and response, application whitelist, and host-based intrusion detection software
+	- You will partner with the Security Engineering leads to coordinate efforts, initiatives, and roadmaps
+	- Administer enterprise software including deployment and package management
+	- Write scripts/policies that automate application and settings distribution using internal tools
+	- Manage transition plans for major upgrades or patches
+	- Integrate with other internal systems and tools
+	- Manage and report on application performance against KPI’s
+	- Work as the escalation point between various support teams for issues on the client platform
+	- Work as a liaison from the Splunker Technology Success org to other IT Service orgs to deliver feature enhancements and best in class solutions through shared products and goals
+	- Drive client security models and best practices in an enterprise environment
+	- Drive business decisions through data using tools like Splunk
+	- Diagnose and investigate unique and complex systemic problems
+	- Develop solutions that meet the business needs to complex customer requirements
+	- You are able to work proficiently with minimal daily guidance and bring mature seasoned skills when working with production systems
+	- Experience with implementing security standards and compliance across a huge enterprise organization
+	- BS in Computer Science or equivalent years of experience
+	- 8+ years experience of providing application support and engineering
+	- 12+ years experience in IT
+	- Knowledge of bash/python scripting
+	- Experience using Splunk for reporting and dashboards
+	- Experience with Endpoint Management platforms such as JAMF Pro / WorkspaceONE / Puppet / LANdesk / Intune / etc.
+	- Exceptional communication skills, verbal and written at all levels of an organization up to and including executive level management
+	- Strong documentation skills and the ability to transfer knowledge to peers
+	- Comfortable working in a high pressure, highly flexible environment against both short and long term requirements
+	- Passionate about technology and solving IT operations-focused problems
+	- Ability to work effectively with team members, peers, and others in and outside the organization to accomplish goals, objectives and to identify and resolve problems
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -486,7 +537,6 @@
 	- BLAH.
 + skill set:
 	- BLAH.
-
 
 
 
