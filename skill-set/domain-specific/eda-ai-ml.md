@@ -1257,6 +1257,7 @@ Notes:
 	- Strong exploratory data analysis skills. Every engagement starts with an investigation of the data, and thorough EDA saves us a lot of headaches in the long run.
 	- Strong programming skills in SQL and Python/R
 	- Hands-on experience working in a distributed computing environment
++ ***A project around the areas of big data, searching and statistical modelling***
 
 
 
@@ -1543,8 +1544,77 @@ They support databases for:
 	- Phenomenal at decision-making, consensus building, and problem solving; you don't shy away from challenges
 	- Strong technical proficiency required to understand development tasks and identify and resolve issues as they arise
 	- Understanding of key development tools and technologies such as Gitlab, AWS, Kubernetes, Terraform, etc. Experience with program management tools in the Atlassian stack (Jira and Confluence) are great
-
-
++ skill set:
+	- Data Engineer, DevOps (US Remote Available)
+	- The Analytics & Data Platform team (ADP) is responsible for Splunk’s data platform from ingestion to visualization. This platform enables our business partners to make the best data-driven decisions possible. We’re looking for a Data Engineer to join the team and contribute to the development and adoption of a true, self-serve, Data Mesh platform, with a focus on automation and observability. This position is responsible for the development, maintenance, and support of the data platform (including on-call rotations), partnering with all levels of customers in the course of support/adoption/migration activities, and actively participating in the growth and development of the ADP team and its capabilities and processes.
+	- Operate: Perform the day to day updates, changes, and scheduled activities on the data platform. All the while, being attentive to opportunities for automation.
+	- Support: Ensure SLAs are met by monitoring the data platform and responding to issues as they arise. Partner with other engineers or dependent teams as needed to resolve issues.
+	- Develop: SQL and Python will be your go to tools, but by no means is that all. You’ll have a broad range of technologies that you’ll need to wrestle into submission to be successful: Terraform, Gitlab, Airflow, K8, Docker, DBT, and Linux, just to name a few.
+	- Collaborate: Members of the ADP team are expected to work together to continuously improve the team’s processes, infrastructure, codebase, etc. Asking questions, challenging ideas, and recommending alternatives are all necessary for the team to continue to grow and improve. Passionate opinions are welcome.
+	- Innovate: Develop creative solutions to edge cases that are causing unnecessary complications, with a focus on maintainability and scalability.
+	- 4+ years of work experience in a relevant field (Data Engineer, DevOps Engineer, Backend Engineer, etc.)
+	- Experience with data warehousing technologies (Redshift, Snowflake, BigQuery, or similar)
+	- Proficient SQL skills and strong experience working with relational databases
+	- Proficiency in a major programming language (ideally Python)
+	- Excellent code and repo hygiene
+	- Past experience as a user of Splunk
+	- Experience with or a strong interest in containerization and/or Kubernetes
+	- Experience with declarative configuration tools such as Terraform
+	- Past experience contributing to an open source project
+	- Passionate about technology with an insatiable curiosity for learning new things
+	- B.S. degree in computer science, mathematics, statistics or a similar quantitative field, or sufficient relevant experience
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -1728,6 +1798,8 @@ Enterprise applications of MIS:
 		* MSSP, managed security service provider
 		* SECaaS, security as a service
 + You have familiarity with any query language like SQL, SPL etc.
++ skill set:
+	- BLAH.
 
 
 

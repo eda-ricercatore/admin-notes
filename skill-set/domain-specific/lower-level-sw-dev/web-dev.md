@@ -525,7 +525,7 @@
 	- Experience with JavaScript, Java and RESTful web services
 	- Comfortable working in a SaaS environment and with CI/CD
 + skill set:
-	- BLAH.
+	- PRD and ERD 
 + skill set:
 	- BLAH.
 + skill set:
