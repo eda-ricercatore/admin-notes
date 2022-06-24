@@ -217,13 +217,53 @@ DevOps is at the intersection of:
 	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.
 	- Fun. We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.
 + skill set:
-	- BLAH.
+	- Software Engineer- Tooling and Infrastructure
+	- Splunk is looking for a seasoned professional engineer to join the effort to define and build the future of Splunk. Splunk is rapidly expanding their presence in the cloud, and we are looking for engineers who are interested in being founding members of the Deployment Tooling team (D4S)  that defines and builds tools to optimize how Splunk services are deployed to the public cloud.  This is a great opportunity to both lead and to learn.
+	- In this role you will help Splunk to orchestrate deployments of its multi-tenant cloud platform across multiple regions, and to manage continuous deployment to these regions via Argo CD to provide for automated rolling deployments.  We are looking for candidates who have experience transitioning from operationalized deploys to automated deploys.  This is a position with broad impact–what you build will be used across all of Splunk cloud.  You need to be able to build robust solutions that are easy to use and provide exponential impact to an organization.
+	- Opportunities to develop and grow as an engineer. We are at the forefront of our industry, always expanding into new areas, and working with open source & new technologies.
+	- A set of talented and dedicated peers, all the way from engineering and QA to product management and customer support.
+	- Breadth and depth. You may be diving deep into CI/CD tools and best practices, but you’ll have the freedom to work on other areas you are passionate about.
+	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe mentors help both mentor and mentee alike.
+	- An open, collaborative and supportive work environment. We embody the scrum values.  We also have a number of Employee Resource Groups for employees of all backgrounds.
+	- Experience in building and deploying cloud-native applications/services. If you have built cloud-native microservices, that’s great!  Even better is if you have experience developing CI/CD systems integrating terraform, vault, Kubernetes, AWS.  In depth experience with CI/CD pipeline tools such as Gitlab, Argo, Spinnaker, Artifactory are a definite plus!
+	- Experience in systems-level programming and distributed systems. You have knowledge of operating systems, networking and network protocols, messaging, consensus, failure modes, and parallel programming.
+	- Demonstrated ability to advocate for simple and clear APIs for complex functionality. You have an API-first mentality, with the ability to build straightforward APIs to help services configure the service mesh routing, maintaining API contracts, etc.
+	- Passion. Our customers are passionate about Splunk, and we want the same from our engineers. You actively own your work and be excited about your projects.
+	- Ability to work with Golang and Python. Most of our services are written in Golang and tools are written in Python; if you are an expert at another language we can consider you, but you will be expected to program in Python and Golang.
+	- Requires 3-5 years of related experience with a technical Bachelor’s degree; or equivalent practical experience; or 3 years and a technical Master’s degree; or equivalent practical experience
+	- 3-5 years experience in programming languages: Python, GoLang, Java, C, 
+	- 2 years building and deploying cloud-native applications/services on AWS or other cloud services like GCP, Azure, etc.
+	- Terraform 
+	- Kubernetes 
+	- Vault 
+	- Artifactory 
+	- Gitlab
+	- Argo 
 + skill set:
-	- BLAH.
+	- Principal Software Engineer - Analytics Platform (Remote)
+	- We are seeking a Principal Software Engineer to help lead, design, develop and deliver Splunk's User Behavior Analytics (UBA) security analytics solution that detects known and unknown security threats at scale using big data and machine learning techniques. UBA helps security analysts quickly identify and resolve threats; delivered on customer managed resources using Kubernetes and Spark to run innovative stream processing and machine learning algorithms in near real-time.
+	- We are a passionate team who care deeply about our customers and our teammates. In this role, you will work directly with Product Management, our Design Team, our Customers and other engineering teams to help derive the best experience for the customer. We have a lean process that focuses on empowering and serving our engineers as opposed to just directing them.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real world use-cases in order to better understand what solutions will bring value to our customers.
+	- Develop new product features, clarify and improve designs, and help put together a plan for how to make it happen (using Agile Methodologies).
+	- Collaborate closely with Product Management and members of our team to design and create comprehensive end-to-end user workflows.
+	- Keep product quality top of mind by extensively using Continuous Integration/Continuous Development (CI/CD), testing technologies (unit, functional, performance), and best practices to ensure that the product is of high quality.
+	- Champion, coach and mentor others to solve problems in new and creative ways with the goal to maintain team efficiency and morale.
+	- 12+ years of Software Development experience.
+	- Bachelor's degree in Computer Science or another quantitative field. Other education and/or experience will be considered.
+	- Programming experience using languages such as Java, C/C++, or Go.
+	- Familiarity with streaming and distributed computing technologies such as Kafka, Pulsar, Flink, Spark, Hadoop, Cassandra.
+	- Exposure to working with container ecosystems (Docker, Kubernetes, Kubernetes Operator Framework).
+	- Knowledge of distributed computing architectures and principles that solve for scalability, performance, redundancy and reliability.
+	- Experienced with an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, Bitbucket).
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Strong collaborative and interpersonal skills, specifically a proven ability to effectively work with others within a dynamic environment.
+	- Background in developing machine learning products for the Security market a plus.
 + skill set:
-	- BLAH.
+	- Comfortable with Linux, Docker, AWS, GIT, Artifactory in terms of both tools and systems administration
+	- Previous experience in design and implementation of solutions to evaluate and improve performance: availability, reliability, interoperability, scalability of SaaS / Cloud Native / Bigdata Platform and application with microservice architecture
 + skill set:
-	- BLAH.
+	- Confluence
+	- Jira
 + skill set:
 	- BLAH.
 + skill set:

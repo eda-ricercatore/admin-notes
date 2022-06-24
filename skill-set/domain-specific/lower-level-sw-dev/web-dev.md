@@ -216,6 +216,7 @@
 	- Passion. Our customers are passionate about Splunk and we want the same from our engineers. We want you to actively own your work and be excited about your projects.
 	- ***Knowledge of technical excellence. You know continuous delivery, testing, security practices, performance, and disaster recovery.***
 	- ***Keeping calm and carrying on. Capable in navigating through a product outage, skilled in identifying performance bottlenecks, spotting anomalous system behavior, and figuring out the root cause of incidents.***
++ Experience with Kubernetes, Apache Kafka, Elasticsearch, PostgreSQL will be a plus
 + skill set:
 	- BLAH.
 + skill set:
@@ -384,9 +385,85 @@
 	- Strong verbal and written communication skills.
 	- Interest in information security is a plus.
 + skill set:
-	- BLAH.
+	- Principal Software Engineer
+	- Operate as the technical lead of multiple teams within Platform Observability. This person will lead the technical roadmap and vision spanning 12+ months which will provide significant innovation and customer-impact.
+	- Be active at a technical level, participating in code reviews and taking a hands-on role for strategically important, potentially risky technical initiatives required to achieve success of the Platform Observability roadmap.
+	- Have well-developed delegation skills with a strong understanding of when they must be involved in something versus when a specific task is a meaningful growth opportunity for other engineers.
+	- Demonstrate a growth mindset and provide mentorship and teaching for other engineers, helping them build the soft-skills required to drive impact through influence as well as direct contribution.
+	- Be respected for technical knowledge and followed because of their ability to influence and drive results. A measure of success in this role is that the engineer is known across many cross-functional stakeholders with a strong understanding of the needs of the customer.
+	- Is an effective communicator who is regularly leveraged as the technical spokesperson for driving architectural ideas and decisions and advocating for them with business stakeholders.
+	- Is involved in writing code, which could be prototype/PoC or production code
+		* PoC: Proof of concept.
+	- Has a track record of bringing simplicity to complex solutions
+	- Work effectively across multiple Product teams and will be a strong contributor in setting product architecture and identifying efficiencies across products.
+	- Work with Product, Engineering and Architecture and help drive alignment on product direction.
+	- Present their ideas to senior leadership to influence product and process strategies.
+	- Apply extensive knowledge of theories, practices and design matters. Lead application of existing principles and guides development of new ideas.
+	- Mentor Senior/Principal engineers and provide them with direction on how to get to the next level.
+	- Be actively involved in hiring not only Technical leaders and Architects but also Senior Engineering Leaders.
+	- You are passionate about building and operating highly observable distributed systems at scale in production.
+	- You understand the challenges and trade-offs to be made when building and deploying new systems to production.
+	- You can collaborate on a team to build, review and help design high-quality software and systems.
+	- You have experience in secure multi-tenant cloud development
+	- You have a validated foundation in RESTful APIs, data structures, algorithms, software design and security.
+	- You are enthusiastic about making many users of your product happier every day.
+	- You are expected to be a self-starter, innovative and always looking for new ways to contribute to the team.
+	- You will lead, mentor, and partner with team members and other groups.
+	- Passion for ensuring systems are observable: logs, metrics, and traces are the way you work.
+	- Experience with Grafana, Prometheus, PromQL, and OTel.
+	- Experience with Splunk and our Observability Cloud is a plus (i.e. SignalFx Infrastructure Monitoring, APM, Log Observer, RUM, Synthetic traffic, etc.)
+	- Auto-scaling, Infrastructure as code, automated monitoring, and reporting.
+	- You have worked extensively with container deployment and orchestration technologies at scale with knowledge of the fundamentals to include service discovery, deployments, monitoring, scheduling, load balancing.
+	- Knowledge of Kubernetes, Go and Docker is preferred.
+	- Experience with development and deployment in a hosted cloud environment, preferably AWS.
+	- Experience with building SaaS multi-tenant applications using OAuth or SAML authentication providers.
+	- You have the ability to learn new technologies quickly and provide mentorship.
+	- You have strong interpersonal skills, both verbal and written.
 + skill set:
-	- BLAH.
+	- Software Engineer - Backend (US/Canada PST remote)
+	- Are you interested in being part of a team building new and innovative enterprise and SAAS products integrating with cloud and cloud-native technologies? CDC (Cloud Data Collection) Connectors team is looking for a Software Engineer to be part of an agile team responsible for building new, innovative and user-friendly ways of onboarding and ingesting cloud monitoring data.  This team is part of the GDI (Getting Data In) group at Splunk, which has multiple teams working on cutting edge cloud integrations, streaming data ingest and cloud onboarding solutions that will provide the data for various Splunk products and solutions in the IT and Security monitoring, investigation and analytics space.   
+	- Develop and own moderate complexity features of sub systems the team is responsible for
+	- Efficiently write elegant, clean and re-usable code
+	- Break down complex tasks and estimate sprint sized deliverables
+	- Participate in design discussions, propose and discuss solutions to system and product changes
+	- Follow best software development practices and participate in code reviews
+	- Develop code with sufficient unit and functional test coverage
+	- Understand the overall product and have mastery of your own feature area
+	- Work with PM to clearly define user stories and acceptance criteria
+	- Receive guidance on overall product design from Senior Engineers
+	- Expertise in two or more mainstream programming languages, such as Java or Python
+	- Expertise in developing and working with thoughtfully designed HTTP APIs, such as REST or GraphQL
+	- Expertise in test-driven development, developing different levels of automated tests, such as unit test, functional test, integration test, system test, or performance / load test
+	- Proficient with CI/CD, such as Jenkins, GitLab CI, or Bitbucket pipeline
+	- Proficient with modern version control systems, such as Git
+	- Proficient with development on multiple operating systems, such as Linux or Unix
+	- Familiar with stream processing or pub-sub platforms such as Apache Kafka or Pulsar
+	- Able to learn new technologies quickly
+	- Capable of coaching junior members in the team
+	- Strong communication skills, both verbal and written
+	- 5 years of relevant industry experience; Bachelor’s degree in Computer Science, Computer Engineering or equivalent work experience 
++ skill set:
+	- Software Engineer- Backend
+	- Our backend team works in a microservices-oriented architecture using modern technologies like Docker, Kubernetes, AWS Lambda Functions, Gitlab CI/CD, Kafka, Pulsar, gRPC, Spark, among others. We write our code in Python and Go, and other languages are welcome.
+	- Work closely with the Product Development team to advance the product and technical roadmap.
+	- Design, build and maintain our ecosystem of applications, APIs, and SDKs that connect our Security Intelligence platform with third party applications and services.
+	- Pay extra attention to non-functional requirements (performance, scalability, reliability, high availability).
+	- Participate in an on-call rotation and incident retrospectives.
+	- Participate in the software development lifecycle by writing code, tests, documentation, attending daily stand up and other meetings; and communicating effectively with peers and managers.
+	- Regularly lead design and code reviews, and participate in architecture discussions.
+	- Build healthy relationships with multi-functional teams.
+	- Work with product managers to influence product feature definition.
+	- Support our DevOps operation for production services in cloud infrastructure using modern tools and frameworks.
+	- 3+ years of industry experience in backend engineering roles.
+	- Proficiency in Python and/or Go.
+	- Proven experience building and architecting web applications, services, and APIs.
+	- Experience with cloud service providers (AWS/GCP).
+	- Exposure to working with container ecosystems (Docker, Kubernetes, Kubernetes Operator Framework) and Lambda functions.
+	- Knowledge of distributed computing architectures and principles that solve for scalability, performance, redundancy and reliability.
+	- Experienced with an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, Bitbucket).
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Strong oral and written communication skills, including a demonstrated ability to prepare documentation and presentations for technical and non-technical audiences.
+	- Background in developing products for the Security market a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -493,58 +570,6 @@
 	- BLAH.
 + skill set:
 	- BLAH.
-
-
-
-
-
-
-
-
-##	Software Test Engineer
-
-
-
-
-
-
-
-
-+ Software Engineer in Test
-	- Splunk is looking for an enthusiastic and innovative test engineer to take an active role in crafting the quality of our web application, empowering our customers to quickly detect, troubleshoot and resolve their infrastructure and application issues.
-	- You will work closely within a cross-functional team of engineers, product managers, and designers in a fast-paced environment. Our engineering teams are small, fast moving and highly impactful. You will learn from the best and help us architect and build the application of our future. You will also get many opportunities to share and talk about your work through channels like conferences, meetups, and blogs.
-	- Build and execute automation solutions that are highly reliable, resilient, and extendable
-	- Drive test design discussions with the broader team, playing an influential role in test architecture decisions
-	- Analyze test results and reported issues to make recommendations for improving product quality
-	- Collaborate with product owners and developers to maintain high standards in overall product quality
-	- Keep up with and promote current test technologies and best practices
-	- Participate in design and code reviews
-	- BS EE or CS degree, or equivalent training or work experience
-	- Experience creating test plans and building end-to-end test suites
-	- Experience with test technologies for modern web applications (e.g., Cypress, Selenium)
-	- Experience with JavaScript, Java and RESTful web services
-	- Comfortable working in a SaaS environment and with CI/CD
-+ skill set:
-	- PRD and ERD 
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
 
 
 

@@ -1564,7 +1564,8 @@ They support databases for:
 	- Passionate about technology with an insatiable curiosity for learning new things
 	- B.S. degree in computer science, mathematics, statistics or a similar quantitative field, or sufficient relevant experience
 + skill set:
-	- BLAH.
+	- Director, Engineering
+	- 
 + skill set:
 	- BLAH.
 + skill set:
