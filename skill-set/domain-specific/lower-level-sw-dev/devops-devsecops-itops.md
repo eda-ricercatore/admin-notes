@@ -153,7 +153,8 @@ DevOps is at the intersection of:
 	- Breadth and depth. You may be diving deep into CI/CD tools and best practices, but you’ll have the freedom to work on other areas you are passionate about.
 + Specific technologies, like Spring, docker, Kubernetes, etc. are, of course, also a great help
 + skill set:
-	- BLAH.
+	- Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
+	- experience in stream processing platform, such as Flink, Storm, Spark or equivalent
 + skill set:
 	- BLAH.
 + skill set:

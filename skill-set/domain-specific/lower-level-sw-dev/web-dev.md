@@ -143,6 +143,7 @@
 	- Experience with Java and RESTful Web services (Jersey, Spring)
 	- Experience in design and developing rich applications with JavaScript/HTML/CSS
 	- Aware of but not reliant on object oriented and component-based JavaScript Frameworks (React, Angular, Ember, Bootstrap, etc.)
++ Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
 + skill set:
 	- BLAH.
 + skill set:
