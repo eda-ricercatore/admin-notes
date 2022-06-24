@@ -7,6 +7,41 @@
 
 
 
++ skill set:
+	- Director of Product Management, Security
+	- The Sr Director of Product Management is a unique opportunity to own the business and product outcomes for our Security Operations products, in a market space that is in a high growth phase. This candidate will be the owner of our Security Operations product portfolio (Splunk SOAR, Mission Control, and adjacent products). We’re looking for someone who can go wide in engaging multiple organizational levels with customers as well as Splunk internally, and simultaneously have a strong enough skill set to gain a deep understanding of the products they are managing. 
+	- Create and manage the vision and strategy for Security Operations products at Splunk which include SOAR and Mission Control
+	- Lead, expand, and develop the team of product managers on Mission Control and SOAR
+	- Build strong executive relationships with customers and support Executive Briefings 
+	- Work across engineering dependencies at Splunk to deliver high-impact customer outcomes in the security operations products 
+	- Monitor and react to the health of the Security Operations business, including top line revenue, product margins, renewals, and pipeline health
+	- Partner with engineering on headcount planning, delivery schedules, and cloud operations needs 
+	- Directly engage with the security sales team to understand strengths, weaknesses, and market conditions in selling your products 
+	- Assist sales and marketing in positioning your products in sales opportunities to support sales in deal structuring
+	- Partner with channel teams to build strength in region for successful product delivery and deployment
+	- Reporting of business and technology trends regularly (monthly) to executive leadership
+	- Build and adapt the pricing strategy for the security operations products 
+	- Our Product Management role at Splunk requires a hands-on collaboration with a team of engineers, QA, UX and customers to continue Splunk’s tradition of building groundbreaking products. You will be able to merge attention to technical detail with ability to understand and align to business imperatives. As part of our new Mission Team approach, you will work hand-in-glove with cross-functional execution teams to drive customer insights and inputs directly into the development process.
+	- Regular engagement with customers at all levels (technical users through CxO) to deeply understand the perception of the security operations products 
+	- Strong awareness and understanding of the security market in general, and specifically in the areas of SOAR, Security Operations, Security response platforms, Case Management, and XDR 
+	- Adaptable presentation abilities to present to CxO level audiences as well as technical users of products 
+	- Experience delivering products through a modern cloud-native enterprise sales process
+	- Technical skills strong enough to link architectural decisions to business impacts and deliver live demonstrations of the products
+	- Experience with adapting product pricing, GTM strategies, cost models, and promotions to drive business outcomes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##	Product Engineering
 
@@ -97,7 +132,9 @@
 	- Experience with helping developers create applications for SaaS tools, help developers contribute their own product to the SaaS platform community. 
 	- Experience designing for data-rich products, incorporating data visualizations
 	- Experience working in SaaS or enterprise software
-
++ skill set:
+	- Experience designing for data-rich products, incorporating data visualizations
+	- Log data search, create and manage searches, reports, and dashboards, view and manage alerts
 
 
 

@@ -111,10 +111,30 @@ Quantitative UX research methods:
 	- Excellent organization skills and the ability to manage multiple high-profile projects in a dynamic organization.
 	- Outstanding written and verbal communication skills. Strong analytical and presentation skills.
 	- Effective interpersonal, communication, negotiation and collaboration skills.
-
-
-
-
++ skill set:
+	- As a Senior User Experience Researcher, your ability to identify, prioritize, and execute high-impact research will help cross-functional teams make well-informed decisions to define the future of Splunk products. The research will come in the form of multi-methods, including but not limited to foundational, generative, and evaluative research while combining that with quantitative data sets (if applicable). You are recognized and trusted as the person who understands the constraints of the cross-functional team, and adapts the research as needed to achieve the research goals. With your involvement, your stakeholders will integrate your research into the product roadmap. 
+	- You have a clear perspective about what research is needed for the cross-functional team, and persevere with that perspective as you work with your stakeholders to create buy-in and alignment. Through your work and collaborative process, you improve non-user researchers’ understanding and engagement of user needs and how to best address those needs. We’re looking for thinkers and innovators who are willing to challenge the status quo and are energized by developing creative solutions to complex problems.
+	- Drive user-centered principles within a cross-functional team.
+	- Foster and grow user research and a data driven product design culture.
+	- Design and conduct user research for Splunk products, and communicate research insights to stakeholders and team members. 
+	- Analyze existing data and product designs to generate hypotheses and plans for high-impact research. 
+	- Identify, prioritize, and execute research to improve user experience through multi-method research projects, sometimes in collaboration with research partners  (including managers) and other cross-functional stakeholders at various stages of the product development lifecycle.
+	- Manage stakeholders dynamically that includes guiding stakeholder discussions with the appropriate user research methods to achieve business and design goals.
+	- Create deliverables in the form of engaging reports, journey maps, or other materials as needed by the project team.
+	- Drive change by communicating findings to stakeholders in the company. Make research findings convincing and actionable for cross-functional partners to create a smarter, more informed, and more empathetic team
+	- Unafraid of creating new systems and processes as needed.
+	- This is a very hands-on role, and includes managing participant recruitment, data collection (includes moderating sessions), data synthesis and analysis, and delivery of findings and recommendations. 
+	- 7+ years experience doing applied product mixed method, qualitative and quantitative user research.
+	- Degree in the field of HCI, Human Factors, Usability Engineering, or a related field (advanceddegree a plus).
+	- Interest in big data and how data is consumed by various users is a plus.
+	- Extensive experience planning and executing different types of research methodologies
+	- Strong sense of independence, ownership, and initiative with an ability to self-direct and manage what to work on, how to get it done, and when to deliver
+	- Excellent organization skills and the ability to manage multiple high-profile projects in a dynamic organization.
+	- Outstanding written and verbal communication skills. Strong analytical and presentation skills.
+	- Strong understanding of the strengths and shortcomings of different research methods, including when and how to apply them during each product phase.
+	- Effective interpersonal, communication, negotiation, and collaboration skills.
+	- Ability to drive and steer medium-to-high complexity research projects independently.
+	- Experience with enterprise software is a major plus
 
 
 

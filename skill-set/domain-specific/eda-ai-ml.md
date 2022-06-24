@@ -1359,7 +1359,24 @@ They support databases for:
 	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
 	- Deep experience with MySQL, NoSQL data stores like HBase or similar.
 	- Strong understanding of Unix/Linux variants, web network protocols, persistence solutions
-
++ skill set:
+	- Python/Java Developer (Datagens)
+	- LAB  SYSTEM & DATA ENGINEER
+	- Are you interested in being part of a small, diverse team passionate about building technologies that change the way people learn?  Splunk Education is looking for a Lab and Data Engineer to join our Education Technologies Team. Our team is focused on building systems that help users learn to use our products in innovative ways.
+	- Do you love tackling interesting problems and coming up with clean, stable solutions that delight users? We need to talk.
+	- Opportunity to grow as an engineer. This role will provide a constant stream of new things to learn, providing the opportunity to expand your current knowledge and deep dive into new technologies.
+	- Growth. We strongly believe in growing team members through ownership and leadership opportunities.
+	- We pride ourselves on a collaborative, open and supported work environment.
+	- The ability to work from home, or one of our many offices across the globe.
+	- Participate in design and development of projects, either independently or in a team.
+	- Be self-sufficient and take ownership of seeing projects through to successful conclusions.
+	- Work with a diverse team of experts in education, video production, security and IT infrastructure.
+	- Tasks include creating Terraform and Ansible playbooks to provision lab instances, along with building data generators that mock machine data across many technologies. 
+	- B.S. degree in Computer Science or related field.
+	- 8 years of experience
+	- Deep knowledge of Python, Ansible, Terraform, Java, and AWS technologies.
+	- Ability to read, understand and reproduce machine logs.
+	- Experience with Docker, Kubernetes, GIT, and Splunk.
 
 
 
