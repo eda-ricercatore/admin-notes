@@ -316,24 +316,39 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Principal Site Reliability Engineer, Splunk Observability - remote Spain
 	- The Splunk Observability Suite is a new generation of cloud applications for microservices and distributed applications. We work on new, world-class tools to monitor and observe microservice-based applications. Site Reliability Engineers at Splunk are hybrid Software/Systems Engineers whose overarching goal is to ensure that production services are always up and running reliably.
 	- As a Principal Site Reliability Engineer, you will help us run one of the largest and most sophisticated cloud-scale, big data systems in the world. You will be responsible for improving operational efficiency, optimal utilization and system resiliency for a real-time streaming analytics platform. You are passionate about automation, infrastructure-as-code, and getting rid of tedious, manual tasks.
-	- Responsible for automating & operationalizing cloud provider infrastructure via Terraform, Kubernetes, Helm and Istio
-	- Monitor capacity & utilization and work closely with the infrastructure team to orchestrate scale-up/down of backend services.
-	- Own & operate critical back-end open-source services like Cassandra, Kafka, Elasticsearch, MongoDB, and Zookeeper.
+	- ***Responsible for automating & operationalizing cloud provider infrastructure via Terraform, Kubernetes, Helm and Istio***
+	- ***Monitor capacity & utilization and work closely with the infrastructure team to orchestrate scale-up/down of backend services.***
+	- ***Own & operate critical back-end open-source services like Cassandra, Kafka, Elasticsearch, MongoDB, and Zookeeper.***
 	- Build tools and design processes that help improve observability and system resiliency.
-	- Triage site availability incidents and proactively work towards reducing MTTR for customer-impacting incidents.
+	- ***Triage site availability incidents and proactively work towards reducing MTTR for customer-impacting incidents.***
 	- Implement service level metrics & service level objectives that act as service-level health indicators.
-	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
+	- ***Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.***
 	- Strong coding experience in one or more of Python, Go or Java.
-	- Infrastructure as code experience within one or more of Terraform, Ansible, Puppet or Salt.
+	- ***Infrastructure as code experience within one or more of Terraform, Ansible, Puppet or Salt.***
 	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
-	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
-	- Strong working knowledge of orchestration engines and package management including Kubernetes, Helm, and Istio
-	- Experience operating one or more OSS technologies like Kafka, Cassandra, Zookeeper; other backends and streaming systems a plus
+	- ***Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)***
+	- ***Strong working knowledge of orchestration engines and package management including Kubernetes, Helm, and Istio***
+	- ***Experience operating one or more OSS technologies like Kafka, Cassandra, Zookeeper; other backends and streaming systems a plus***
 	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
 	- 12+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
 	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
 + skill set:
-	- BLAH.
+	- Site Reliability Engineer (Stack Automation Service Team)
+	- Splunk's Cloud group is looking for an experienced Site Reliability Engineer to join a team that is responsible for Cloud’s operational infrastructure and delivery. As a member of the Stack Automation Service team, you will be responsible for maintaining and troubleshooting Splunk's SaaS system, monitoring system stability and performance, troubleshooting complex problems, performing Amazon instance maintenance and system upgrades, and managing Amazon server/storage deployments, all while collaborating with various other Splunk Cloud teams. This is a fantastic opportunity to work with an exceptional team, grow your cloud experience, and help drive the growth of Splunk Cloud.
+	- Puppet experience. You have at least 2 years of Puppet experience, including writing Puppet code and configuration management.
+	- Python or Bash scripting experience. You will develop scripts and tools in Python/Bash.
+	- AWS experience. Knowledge of Amazon EC2 including machine image management and storage, as well as an understanding of Amazon EC2 regional centers, availability zones, and HA strategies
+	- Unix/Linux. You will use a command line terminal frequently.
+	- Multi-tenant infrastructure experience. Experience supporting customer facing multi-tenant infrastructure (SaaS) or similar cloud related services
+	- Software Development and Data Structures/Algorithms. We code primarily in Golang and Ruby, and work with RESTful APIs.
+	- Cloud and container experience. Building and scaling secure services on different cloud providers.
+	- Knowledge of technical excellence. You know continuous delivery, testing, security practices, performance, and disaster recovery.
+	- Problem Solving. You are able to fix a product outage, skilled in identifying performance bottlenecks, spotting anomalous system behavior, and figuring out the root cause of incidents.
+	- Desire to learn and adapt. Our team has many projects going on at once, and you'll have the opportunity to learn to navigate new code and features.
+	- Passion. We want you to actively own your work and be excited about your projects.
+	- ***Kubernetes experience. Working in Kubernetes systems with experience in kubectl and docker containers.***
+	- Terraform experience. Any prior work with Terraform is a plus.
+	- ***Distributed programming. Experience in working on distributed systems like databases, distributed file systems, distributed concurrency control, consistency models, CAP theorem is an added plus.***
 + skill set:
 	- BLAH.
 + skill set:

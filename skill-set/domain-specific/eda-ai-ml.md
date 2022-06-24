@@ -1664,6 +1664,18 @@ Enterprise applications of MIS:
 
 
 
++ DLP, data loss prevention software
+	- ILDP, information leak detection and prevention
+	- ILP, information leak prevention
+	- CMF, content monitoring and filtering
+	- IPC, information protection and control
+	- EPS, extrusion prevention system
+	- IPS, intrusion prevention system
+	- IDS, intrusion detection system
+		* NIDS, network intrusion detection system
+		* HIDS, host-based intrusion detection system
+
+
 
 
 
@@ -1715,16 +1727,7 @@ Enterprise applications of MIS:
 		* MSS, managed security service
 		* MSSP, managed security service provider
 		* SECaaS, security as a service
-+ DLP, data loss prevention software
-	- ILDP, information leak detection and prevention
-	- ILP, information leak prevention
-	- CMF, content monitoring and filtering
-	- IPC, information protection and control
-	- EPS, extrusion prevention system
-	- IPS, intrusion prevention system
-	- IDS, intrusion detection system
-		* NIDS, network intrusion detection system
-		* HIDS, host-based intrusion detection system
++ You have familiarity with any query language like SQL, SPL etc.
 
 
 

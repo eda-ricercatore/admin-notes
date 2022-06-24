@@ -182,9 +182,40 @@
 	- Work life balance, with efficient work from home environments today and modern offices standing by for future times.
 	- We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.
 + skill set:
-	- BLAH.
+	- Software Engineer - Backend
+	- Splunk Mission Control is a unified cloud-based platform that brings together data, analytics, and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain, and remediate threats - all from one place - resulting in faster, more efficient and more effective operations.
+	- As a Software Engineer - Backend, you will evolve the architecture and design of our platform to meet the ever-increasing scalability and performance requirements. You will also help define the future of our cloud-based SaaS product, by designing, creating, testing, and maintaining backend services that directly support security analysts all across the world. You will bring creativity and passion to directly influence the direction of our technology as well as mentor other members of your team.
+	- We give our engineers an environment in which they can contribute from day one while also providing opportunities for learning and growth. You’ll learn how our stack works – from data ingestion, storage, search, analytics to implementing dashboards and tools to support operational requirements.
+	- We are a passionate team who care deeply about our customers and our teammates. If staying technically challenged and learning from others is meaningful to you, you'll love our internal technical seminars and company-wide hackathons.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real world use-cases in order to better understand what solutions will bring value to our customers.
+	- Develop new product features, clarify and improve designs, and help put together a plan for how to make it happen (using Agile Methodologies).
+	- Collaborate closely with Product Management and members of our team to design and create comprehensive end-to-end user workflows.
+	- Keep product quality top of mind by extensively using Continuous Integration/Continuous Development (CI/CD), testing technologies (unit, functional, performance), and best practices to ensure that the product is of high quality while continuously deployed in the cloud to our customers.
+	- 4+ years of enterprise software engineering experience.
+	- Bachelor's degree in Computer Science or equivalent training and work experience.
+	- Programming experience using languages such as Java, Python, C/C++, or Go.
+	- Familiarity with distributed message queues such as Kafka.
+	- Exposure to working with cloud environments (AWS, Azure, GCP) and container ecosystems (Docker and Kubernetes).
+	- Familiarity with any of the backend application development frameworks such as Django, Flask.
+	- Knowledge of distributed computing architectures and principles that solve for scalability, performance, redundancy, and reliability.
+	- Experience with an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab).
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Experience with multi-tenant architectures, microservices is a plus.
 + skill set:
-	- BLAH.
+	- Senior Software Engineer - US REMOTE OK
+	- This role is for a group focused cloud provider automation. We have a substantial AWS and GCP presence. This is an incredible opportunity to grow your cloud experience and help drive the growth of Splunk Cloud. 
+	- Software Development. We code primarily in Golang, which is the expected language to use day-to-day on the job.
+	- Data structures and algorithms. A solid grasp of data structures and algorithms.
+	- ***REST. Experience and understanding of RESTful APIs.***
+	- ***Distributed programming. Experience in working on distributed systems like databases, distributed file systems, distributed concurrency control, consistency models, CAP theorem is an added plus.***
+	- Cloud and container experience. Building and scaling secure services on different cloud providers is a plus. You will use AWS and GCP services and technologies like Kubernetes and Docker.
+	- Drive for automation. You constantly consider, "How can I automate this manual process?"
+	- ***Operational excellence. Data excites you and you make decisions based on numbers rather than assumptions. If an issue arises, you strive to be alerted before our customers notice.***
+	- Unix/Linux.  You’ll be using a command line terminal frequently in day-to-day work.
+	- Desire to learn and adapt. Our agile team has a lot of projects going on at once, and you'll have the opportunity to learn to navigate the code and features. You'll constantly be learning new areas and new technologies.
+	- Passion. Our customers are passionate about Splunk and we want the same from our engineers. We want you to actively own your work and be excited about your projects.
+	- ***Knowledge of technical excellence. You know continuous delivery, testing, security practices, performance, and disaster recovery.***
+	- ***Keeping calm and carrying on. Capable in navigating through a product outage, skilled in identifying performance bottlenecks, spotting anomalous system behavior, and figuring out the root cause of incidents.***
 + skill set:
 	- BLAH.
 + skill set:
