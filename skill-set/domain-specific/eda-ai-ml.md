@@ -1094,10 +1094,12 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 
+##	Information Retrieval
 
 
 
 
++ Experience with search and information retrieval systems, either custom or commercial (Elasticsearch, Solr).
 
 
 

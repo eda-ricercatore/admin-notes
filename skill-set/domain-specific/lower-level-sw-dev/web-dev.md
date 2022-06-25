@@ -579,6 +579,9 @@
 	- Solid understanding of Splunk products
 	- 10+ years of experience with a BS EE or CS degree, or equivalent training or work experience
 + skill set:
+	- Experience with the Hashicorp stack, specifically Vault (cross-platform password manager and authentication tool).
+	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

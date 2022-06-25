@@ -35,10 +35,8 @@
 
 
 
-+ skill set:
-	- Experience with the Hashicorp stack, specifically Vault.
-	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
-+ Experience with search and information retrieval systems, either custom or commercial (Elasticsearch, Solr).
+
+
 + You have used GraphQL in production environments
 + skill set:
 	- You have worked with technologies like OAuth, SAML, SCIM, and LDAP
