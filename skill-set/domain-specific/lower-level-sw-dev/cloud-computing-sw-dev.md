@@ -159,7 +159,22 @@ This set of skill sets is for software development roles in cloud computing.
 	- Experience with leading or contributing to open source projects
 + You have knowledge and experience with AWS services, like EC2, S3, etc.
 + skill set:
-	- BLAH.
+	- Distinguished Engineer (Architect) Experiences Platform
+	- You will play a critical role in being our innovative and passionate area lead architect that oversees the main front-end platform that powers splunk core platform.  You will help forge technical, design, product, and architecture direction for our hybrid strategy that stratifies cloud technologies with desktop web, native mobile, and future form factors that will connect the dots for success with our customers today.  You work across teams and organizations to ensure that the architecture and design are of high quality, stable, scalable and reliable. You will establish the technical architectural standards and drive the overall technical design and best engineering practices through design reviews, architecture reviews, hackathon activities, customer visits and engagement with Ecosystem Partners.
+	- Be a Technical Area Lead working with 175+ engineers
+	- Craft and execute the technical road map to develop the next generation hybrid cloud Application platform
+	- Integrate outstanding architecture principles and goals into the team’s projects through designs, implementation strategies, and project sequence
+	- Help grow, mentor, and shape engineering culture for engineering
+	- Work with product managers early on to craft product definition so that it can be built in a flexible, extensible, and robust way.
+	- Drive a culture of quality, technical curiosity, continuous improvement, and data-driven decision-making
+	- 15+ years of software development, including extensive large scale front-end applications (native mobile, multi-tenant Web Applications), and SDKs
+	- Hands on expertise in recruiting for top talent
+	- In-depth understanding of application performance and work through high volume scalability issues
+	- Prior experience with Splunk or a similar analytics solution
+	- ***Experience in multi-year transformation initiatives and playing a critical role***
+	- ***Experience in the visualization of large, sophisticated graph structures***
+	- Experience working on open-source projects
+	- Requires a minimum of 15 years of related experience with a technical bachelor’s degree; or 12 years and a technical Master’s degree; or a PhD with 8 years’ experience; or equivalent experience.
 + skill set:
 	- BLAH.
 + skill set:

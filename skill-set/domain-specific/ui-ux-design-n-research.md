@@ -23,15 +23,42 @@
 	- 7+ years experience building and launching successful user-centric products.
 	- Live and breathe customer insights and obsess about doing what is right for them.
 	- Strong collaboration skills, with a demonstrable ability to work across customer success, sales, marketing and engineering teams and influence senior leaders.
-	- A deep understanding of JavaScript or TypeScript, CSS and HTML.
-	- Experience with technologies in our stack: React, Redux, Styled Components, Webpack, Jest, Storybook, Cypress.
+	- ***A deep understanding of JavaScript or TypeScript, CSS and HTML.***
+	- ***Experience with technologies in our stack: React, Redux, Styled Components, Webpack, Jest, Storybook, Cypress.***
 	- Experience building single-page, data-heavy web applications, and asynchronous data handling using REST APIs.
 	- Have a clear understanding of UX design principles and experience working with customers and team members as part of a design process.
 	- Ability to architect technical solutions at a high level as well as dive into the implementation.
 	- Ability to prioritize and complete multiple tasks with minimal direction, a sense of intellectual curiosity, humility, accountability, and positivity.
-	- High Level understanding of some of our backend technologies: GraphQL, stream processing, data analytics.
+	- ***High Level understanding of some of our backend technologies: GraphQL, stream processing, data analytics.***
 + skill set:
-	- BLAH.
+	- Distinguished Engineer-  Cloud Architect (Remote)
+	- Be part of our journey as we transform our security product offerings to be Cloud Native Solutions. This includes every product with our product portfolio; SEIM, UBA and SOAR.  All these offerings are tied together with our reinvented security operations product, Splunk® Mission Control  This enables enterprises to say goodbye to “swivel chair security. Mission Control is a unified cloud-based platform that brings together security data, analytics and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain and remediate threats — all from one place — resulting in faster, more efficient and more effective security operations.
+	- We are looking for creative problem solvers with a passion for scalable cloud-native distributed systems. As a member of the Security engineering leadership team you will be responsible for helping the various product teams with their journey to the Cloud.
+	- As a senior technical leadership team member, you will evolve the architecture and design of our platform to meet the ever-increasing scalability and performance requirements. You will also help define the future of our cloud-based SaaS product, by designing, creating, testing, and maintaining backend services that directly support security analysts all across the world. You will bring creativity and passion to directly influence the direction of our technology as well as mentor other members of your team.
+	- Working directly with customers is one of our core values. In this role, you'll be able to meet customers, build empathy towards their experiences, get a first-person view of the state of the art Security Operations Centers, and collaborate with product management to define and craft new products that streamline analysts' investigations.
+	- If staying technically challenged and learning from others is meaningful to you, you'll love our internal technical seminars and regular, company-wide hackathons. Along the way, you will become proficient in Splunk's Search Processing Language (SPL) which will empower you to explore large data sets and to take on endless types of problems.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world deployment scenarios to develop an understanding of which solutions will bring value to our customers.
+	- Measure and improve scale and performance of the product using Splunk platform innovations, open-source, and cloud tools and technologies.
+	- Take lead on projects with little to no additional direction from engineering/product leadership, drive and help track them to completion.
+	- Partner with architecture, eng management, and product management on project requirements, designs, and development plans.
+	- Help identify and develop ways to improve our team's efficiency by expanding on our existing tools and processes.
+	- Collaborate with members of our team on the design and implementation of frameworks and backend components.
+	- Keep product quality top of mind by creating automated tests for the software that you help create.
+	- Become well versed in core Splunk technologies as they apply to application development.
+	- Mentor junior engineers and interns as they develop their application development skills.
+	- 15+ years of engineering experience focused on application development.
+	- Demonstrated ability to learn new technologies quickly.
+	- Production-level experience developing cloud-native distributed systems processing high volumes of data at scale.
+	- Expert proficiency with Python, intermediate-to-advanced proficiency with Golang.
+	- Experience with Django or similar backend application development frameworks.
+	- Comfortable with orchestration and cloud stack and technologies like k8s, kinesis, Kafka.
+	- Solid knowledge of SQL and NoSQL database technologies at scale.
+	- Good understanding of the SDLC ranging from architectural reviews, technical design deep dives, implementation, testing, continuous integration and continuous deployment.
+	- Experience collaborating with design, engineering and DevOps teams.
+	- Familiarity with A/B testing, blue-green environments and canary deployments.
+	- Strong verbal and written communication skills.
+	- Interest in information security is a huge plus.
+	- Requires a minimum of 15 years of related experience with a technical Bachelor’s degree; or equivalent practical experience or 12 years and a technical Master’s degree; or a Ph.D. with 8 years experience; or equivalent practical experience.
 + skill set:
 	- BLAH.
 + skill set:
