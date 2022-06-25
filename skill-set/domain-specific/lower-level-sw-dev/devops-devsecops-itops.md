@@ -496,7 +496,8 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 	- Strong oral and written communication skills, including a demonstrated ability to prepare documentation and presentations for technical and non-technical audiences.
 	- Background in developing products for the Security market, a plus.
 + skill set:
-	- BLAH.
+	- Senior Software Engineer - Analytics Platform (Remote)
+	- 
 + skill set:
 	- BLAH.
 + skill set:

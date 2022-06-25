@@ -1499,6 +1499,26 @@ They support databases for:
 
 
 + skill set:
+	- Senior Data Engineer (US Remote Available)
+	- The Senior Data Engineer will be involved in building data pipelines at a large scale to enable business teams to work with data and analyze metrics that support and drive the business. You will partner with cross functional teams to identify opportunities and continuously develop and improve processes for efficiency.
+	- The team is looking for a Senior Data Engineer who can architect and build solutions across multiple data sources to deliver metrics/reporting use cases. This position is responsible to build and scale the data platform that works to provide business analytics. The role involves ownership and technical delivery, working closely with other members (BI engineer and infrastructure teams). Strong technical experience within enterprise software is essential.
+	- Responsible for developing and supporting data pipelines that support and enable the overall strategy of expanded data programs, services, process optimization and advanced business intelligence
+	- Leading data discovery sessions with business teams, comprising product owners, data analysts, and cross-team technologists to understand enterprise data requirements of analytics projects
+	- Partner with business domain experts, system analysts, data/application architects, and development teams to ensure data design is aligned with business strategy and direction
+	- Identify and document standard methodologies, standards, and architecture guidelines
+	- Dive deep, as required, to assist Business Intelligence Engineers through technical hurdles impacting delivery
+	- 7+ years of data architecture related experience such as data analysis, data modeling, and data integration.
+	- Experience with GTM and customer success business processes and applications
+	- Experience in custom ETL design, implementation, and maintenance
+	- Knowledge of programming languages (e.g. Python and Object Oriented Programming)
+	- Hands-on experience with SQL database design
+	- Experience working on CI/CD processes and source control tools such as Github and GitLab
+	- Experience working Snowflake and relational databases
+	- Extensive hands on experience in leading large-scale full-cycle cloud enterprise data warehousing (EDW) implementations like Snowflake
+	- Strong knowledge and experience with Agile/Scrum methodology and iterative practices in a service delivery lifecycle
+	- Excellent communication and interpersonal skills with a demonstrated ability to influence a large organization
+	- Passionate about data solutions, technologies, and frameworks
++ skill set:
 	- Build and Support scalable and reliable data solutions that can enable self-service reporting and advanced analytics at Cloudflare using modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) in a agile manner.
 	- 3+ years of development experience in Big data space working with Petabytes of data and building large scale data solutions.
 	- Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.

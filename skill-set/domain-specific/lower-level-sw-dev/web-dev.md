@@ -253,7 +253,31 @@
 	- Familiarity with orchestration and cloud stack and technologies like Kubernetes / K8, Kinesis, Kafka.
 	- Familiarity with information security is a plus.
 + skill set:
-	- BLAH.
+	- Software Engineer - Full-Stack
+	- Splunk is the leader in Enterprise Security and has the only purpose-built Security Automation and Orchestration (SOAR) platform. We are the first company to provide an open community for sharing playbooks, apps and new technologies. It makes security smarter, faster, and stronger, and we are used by everyone in the Fortune 100.
+	- We are looking for creative problem solvers who are excited about cloud and who understand the data challenges that come with security.
+	- As a Software Engineer on this team, you will help define the future of the cloud product, by designing, creating, testing, and maintaining products that directly support security analysts all across the world. You will bring creativity and passion to help influence the direction of our technology as well as mentor other members of your team.
+	- Working directly with customers is one of our core values. In this role, you'll be able to meet customers, build empathy towards their experiences, get a first-person view of the state of the art Security Operations Centers, and collaborate with product management to define and craft new products that streamline analysts' investigations.
+	- Gain a deep understanding of our product architecture, usage patterns, and real-world deployment scenarios to develop solutions that will bring value to our customers.
+	- Enhance the product, keeping scalability and performance considerations as a high priority.
+	- Lead and drive projects to completion.
+	- Partner with other leaders from architecture, engineering management, and product management on project requirements.
+	- Collaborate with members of our team to design and create full-stack solutions including back end and front end code.
+	- Help identify and develop ways to improve the team's production and efficiency by expanding on our existing tools and processes.
+	- Keep product quality top of mind with automated testing and shift-left DevOps engineering.
+	- Become well versed in the company's core technologies as they apply to application development.
+	- 3+ years of software engineering experience focused on cloud application development.
+	- Bachelor's degree in Computer Science or equivalent training and work experience.
+	- Have a deep understanding of building products with a cloud first approach (AWS, GCP, Azure).
+	- Proficiency with one of these languages: Python, C++, Go, or similar.
+	- Experience with continuous integration and deployment(CI/CD) and container-based technologies (Docker, Kubernetes).
+	- Strong understanding of relational (Postgres) and non-relational (DynamoDB) databases.
+	- Experience with client-side scripting and JavaScript frameworks (React, Angular, or Vue)
+	- Experience with front-end technologies (HTML5, CSS3, Responsive Design).
+	- Solid understanding of data structures, algorithms, and RESTful APIs.
+	- Experience building highly performant and highly available large-scale distributed web applications.
+	- Demonstrated ability to learn and apply new technologies quickly.
+	- Experience with the Agile software development model.
 + skill set:
 	- BLAH.
 + skill set:
@@ -719,6 +743,7 @@
 	- Passionate about design and user experience
 	- Strong communication and collaboration skills
 	- AWS, GCP, Azure experience
++ Experience developing full-featured, client-side applications using modern JavaScript technologies such as React/Redux, Backbone.js, Angular.js, Node.js.
 + skill set:
 	- BLAH.
 + skill set:

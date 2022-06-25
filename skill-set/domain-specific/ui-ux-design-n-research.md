@@ -8,7 +8,88 @@
 
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
-
++ skill set:
+	- Senior Software Engineer - UI (Remote)
+	- We are seeking a Senior Software Engineer to help design, develop and deliver our Security Intelligence solution. The service collects security threats at scale from external sources. It detects unknown threats by running innovative stream processing and machine learning algorithms in near real-time, on vast amounts of internally collected data and signals.
+	- We (Security Intelligence Team) are a passionate team who cares deeply about our customers, our teammates and you. In this role, you will work directly with product management, our design team, our customers and other engineering teams. We have a lean process that focuses on empowering and serving our engineers as opposed to just directing them.
+	- Our UI team builds web applications that security operators trust to deliver mission-critical intelligence. We work as a team to identify user flows, iterate over and enrich designs, and develop simple and intuitive workflows for our customers. There is a staggering amount of data that users can be exposed to, and it is our mission to provide the user with the flexibility and functionality to utilize all of it and still see what is relevant to them.
+	- Our Engineering Team is fully distributed and operates in the following time zones: Eastern Time, Central Time and Pacific Time.
+	- Build customer facing UI’s using our current stack by producing code, tests, documentation; supporting the sprint management process; and communicating effectively with peers and managers.
+	- Take ownership of frontend technologies in our stack, with a mindset that prioritizes security, resilience, and cross-browser compatibility.
+	- Work closely with Product and UI research teams to advance the usability and experience.
+	- Transition the integral legacy applications into self-contained and independent web apps.
+	- Create new and improve the existing tools and shared resources that will allow our web applications to scale and evolve without radically diverging from the codebase.
+	- Research new tools, frameworks and libraries that would benefit the team, communicate their importance and implement them.
+	- 7+ years experience building and launching successful user-centric products.
+	- Live and breathe customer insights and obsess about doing what is right for them.
+	- Strong collaboration skills, with a demonstrable ability to work across customer success, sales, marketing and engineering teams and influence senior leaders.
+	- A deep understanding of JavaScript or TypeScript, CSS and HTML.
+	- Experience with technologies in our stack: React, Redux, Styled Components, Webpack, Jest, Storybook, Cypress.
+	- Experience building single-page, data-heavy web applications, and asynchronous data handling using REST APIs.
+	- Have a clear understanding of UX design principles and experience working with customers and team members as part of a design process.
+	- Ability to architect technical solutions at a high level as well as dive into the implementation.
+	- Ability to prioritize and complete multiple tasks with minimal direction, a sense of intellectual curiosity, humility, accountability, and positivity.
+	- High Level understanding of some of our backend technologies: GraphQL, stream processing, data analytics.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
