@@ -218,7 +218,40 @@
 	- ***Keeping calm and carrying on. Capable in navigating through a product outage, skilled in identifying performance bottlenecks, spotting anomalous system behavior, and figuring out the root cause of incidents.***
 + Experience with Kubernetes, Apache Kafka, Elasticsearch, PostgreSQL will be a plus
 + skill set:
-	- BLAH.
+	- Senior Software Engineer - Full Stack (Remote)
+	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
+	- We need strong engineers to address the next set of data challenges that include real-time streaming data processing, cloud migrations, and integration of disparate and distributed data sources. That's where you come in!
+	- As a Senior Software Engineer, you will be able to connect with customers and learn about their experiences, you will get a first-person view of the state of the art Security Operations Centers, and you will collaborate with product management to define and craft new products that streamline analysts' investigations.
+	- You will work with the team to develop insightful user experiences for the data analytics platform. You will deliver these features to meet the ever-increasing scalability, performance, and security requirements; while designing and developing with an eye on reliability and high availability.
+	- Drive design and development of both frontend and backend features on cloud and on-prem platforms.
+	- Deliver these features to meet the ever-increasing scalability, performance, and security requirements.
+	- Work closely with Product Management, UX, Customers to shape the roadmap and build solutions which help customers monitor, detect and protect against ever growing cyber threats.
+	- Become proficient in our Search Processing Language (SPL) which will empower you to explore large data sets and to take on endless types of data problems.
+	- Own and be accountable for the design and development of multiple features in the ultra-high performance system, processing immense amounts of data.
+	- Pay extra attention to non-functional requirements (performance, scalability, reliability, high availability).
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world deployment scenarios to develop an understanding of which solutions will bring value to our customers.
+	- Take the scale and performance of the product using company platform innovations, open-source, and cloud tools and technologies.
+	- Work in an Agile environment and follow scrum practices.
+	- Receive guidance from Principal Engineers and Architects for current and strategic features.
+	- Partner with leaders from Architecture, Engineering Management, and Product Management on project requirements, designs, and development plans.
+	- Help identify and develop ways to improve our team's productivity and efficiency by expanding on our existing tools and processes.
+	- Collaborate with members of our team on the design and implementation of frameworks and backend components.
+	- Keep product quality top of mind by creating automated tests for the software that you help create.
+	- Become well versed in core Splunk technologies as they apply to application development.
+	- Mentor junior engineers and interns as they develop their application development skills.
+	- 7+ years of software engineering experience focused on application development.
+	- Programming experience using languages such as Python, Java, C/C++, or similar languages.
+	- Proficient with client-side scripting and JavaScript frameworks (React and/or Backbone.js).
+	- Proficiency in frontend technologies (HTML5, CSS3, SASS, Responsive Design).
+	- A solid grasp of data structures, algorithms, and RESTful APIs.
+	- A deep understanding of scalable distributed web applications using open source or proprietary technologies.
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Strong collaborative and interpersonal skills. A proven ability to effectively work with others within a dynamic environment.
+	- Solid understanding of relational databases' (Postgres).
+	- Proponent of test-driven development (TDD) and understanding of CI/CD technologies.
+	- Experience with secure coding practices.
+	- Familiarity with orchestration and cloud stack and technologies like Kubernetes / K8, Kinesis, Kafka.
+	- Familiarity with information security is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -498,7 +531,29 @@
 	- Passionate about technology and solving IT operations-focused problems
 	- Ability to work effectively with team members, peers, and others in and outside the organization to accomplish goals, objectives and to identify and resolve problems
 + skill set:
-	- BLAH.
+	- Principal Software Engineer - BackEnd (US Remote)
+	- Splunk is looking for an enthusiastic and innovative back-end engineer to work closely with product owners and designers to build consolidated customer-facing web applications to more easily monitor health metrics and communicate all aspects of Splunk administration in the Cloud.
+	- As a Principal Software Engineer, you will work within a multi-functional team of designers, product managers, and engineers in a fast-paced and fun environment. Our engineering teams are small, agile, and highly impactful. You will influence the technical direction for the next generation of Splunk experiences, learn from the best engineers, and help us build the applications of our future!
+	- Operate as technical lead across Splunk administrator cloud monitoring and communications products
+	- Be active at a technical level, participating in design and code reviews and taking a hands-on role for strategically important technical initiatives
+	- Break down sophisticated features and tasks into manageable results
+	- Design and develop APIs using Go
+	- Implement highly reliable and reusable back-end components
+	- Create comprehensive tests to ensure maintainability and stability
+	- Use and improve CI/CD tools for rapid deployment of quality code
+	- Keep up with and promote current back-end technologies and standard methodologies
+	- Be a mentor to junior engineers on the team
+	- Collaborate with product managers and architects to build robust back-end services
+	- While you can work from any Splunk office, or be remote, this team’s working hours are in the Pacific timezone (PT), and you’ll be expected to have your working hours line up with that
+	- Proficient in Go, node.js or related programming languages
+	- Experience creating RESTful APIs
+	- Passionate about delivering quality code at high speed using standard CI/CD practices
+	- Familiarity with standard testing approaches (unit, smoke, integration, etc)
+	- Passionate about design and user experience
+	- Strong communication and collaboration skills
+	- AWS, GCP, Azure, Kubernetes
+	- Solid understanding of Splunk products
+	- 10+ years of experience with a BS EE or CS degree, or equivalent training or work experience
 + skill set:
 	- BLAH.
 + skill set:
@@ -621,9 +676,49 @@
 	- Experience in working with cross-functional teams (not just engineering)
 	- Excellent communications and interpersonal skills
 + skill set:
-	- BLAH.
+	- Principal Software Engineer - Front End (US Remote)
+	- While you can work from any Splunk office, or be remote, this team’s working hours are in the Pacific time zone, and you’ll be expected to have your working hours line up with that.
+	- Design and develop software with React, JavaScript, HTML, and CSS
+	- Collaborate with product teams and other engineers to build scalable and performant end user experiences
+	- Utilize and improve state-of-the-art CI/CD tools for rapid deployment of quality code
+	- Write comprehensive tests to ensure maintainability and stability
+	- Build modern frameworks (e.g. authentication, API clients, Micro-Frontend) to empower web applications.
+	- Influence processes and procedures, and directly contribute to standard methodologies, architecture, and implementation
+	- Provide technical leadership for significant engineering efforts involving work from multiple teams
+	- Champion, coach and mentor others to solve problems in new and creative ways with the goal to maintain team efficiency and morale.
+	- 12+ years of relevant web development experience
+	- Expert in React.js and Javascript; Typescript a plus
+	- Experience driving technical designs for frontend systems
+	- Exposure to working with cloud environments (AWS, Azure, GCP)
+	- Strong communication skills, both verbal and written
+	- Experience building developer tools, web frameworks and engineering excellence
+	- Experience leading a technical team to deliver high quality features
+	- In-depth experience with using REST APIs
+	- In-depth experience in standard testing approaches (unit, smoke, integration, etc)
+	- Experience in an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, etc.)
+	- Passionate about design and user experience
 + skill set:
-	- BLAH.
+	- Software Engineer III, Web Experiences - Front End (US Remote)
+	- Splunk is looking for an enthusiastic and innovative front-end engineer to work closely with product owners and designers to build consolidated customer-facing web applications to administer, monitor, and manage all aspects of the Splunk portfolio both on-premises and in the Cloud.
+	- As a Software Engineer, you will work within a cross-functional team of designers, product managers, and engineers in a fast-paced and fun environment. Our engineering teams are small, fast moving and highly impactful. You will influence the technical direction for the next generation of Splunk experiences, learn from the best and help us build the applications of our future!
+	- While you can work from any Splunk office, or be remote, this team’s working hours are in the PT timezone, and you’ll be expected to have your working hours line up with that
+	- Collaborate with product owners and designers to build an intuitive user experience
+	- Break down complex features and tasks into deliverable bites
+	- Design and develop rich application features with React, JavaScript, TypeScript, HTML, and CSS
+	- Implement high-performing and reusable UI components
+	- Write comprehensive tests to ensure maintainability and stability
+	- Keep up with and promote current front-end technologies and standard methodologies
+	- Utilize and improve state-of-the-art CI/CD tools for rapid deployment of quality code
+	- Participate in design and code reviews
+	- 5+ years of experience with a BS EE or CS degree, or equivalent training or work experience
+	- Strong knowledge of JavaScript, HTML, and CSS
+	- Experience with modern JavaScript application frameworks, such as React or Angular
+	- Experience with RESTful APIs
+	- Passionate about delivering quality code at high speed utilizing standard CI/CD practices
+	- Familiarity with standard testing approaches (unit, smoke, integration, etc)
+	- Passionate about design and user experience
+	- Strong communication and collaboration skills
+	- AWS, GCP, Azure experience
 + skill set:
 	- BLAH.
 + skill set:
