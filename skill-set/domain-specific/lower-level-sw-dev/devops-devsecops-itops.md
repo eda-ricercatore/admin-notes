@@ -262,6 +262,10 @@ DevOps is at the intersection of:
 	- Comfortable with Linux, Docker, AWS, GIT, Artifactory in terms of both tools and systems administration
 	- Previous experience in design and implementation of solutions to evaluate and improve performance: availability, reliability, interoperability, scalability of SaaS / Cloud Native / Bigdata Platform and application with microservice architecture
 + skill set:
+	- Experience building infrastructure automation.
+	- Experience with logs-based analysis and RPC tracing technologies.
+	- Practical experience with Prometheus.
++ skill set:
 	- Confluence
 	- Jira
 + skill set:
@@ -711,8 +715,14 @@ KPIs for ITOps are based on:
 	- Experience with troubleshooting for virtualized platform
 	- Ability to provide and manage virtual machine configurations, including networking, storage and security settings and deploy it to hosts upon request
 	- Knowledge of data center networking, including TCP/IP, switching/routing, ports and protocols, firewall concepts, or load-balancing
-
-
++ skill set:
+	- Experience building infrastructure automation.
+	- Experience with logs-based analysis and RPC tracing technologies.
+	- Practical experience with Prometheus.
++ skill set:
+	- Knowledge of data center architecture: power, cooling, and networking.
+	- Significant experience working with data center hardware and writing software to make that easier, faster, and less manual effort
+	- Familiarity with best practices for hardware acceptance testing
 
 
 

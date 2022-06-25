@@ -177,6 +177,12 @@ This set of skill sets is for software development roles in cloud computing.
 	- Requires a minimum of 15 years of related experience with a technical bachelor’s degree; or 12 years and a technical Master’s degree; or a PhD with 8 years’ experience; or equivalent experience.
 + Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
 + skill set:
+	- Familiarity with configuration management, particularly using Ansible + Napalm.
+	- Comfortable working with Arista EOS and Juniper JunOS.
+	- Expert-level exposure to IP routing, particularly with BGP, OSPF, and IS-IS.
+	- Knowledge of MPLS, DWDM, and other backbone-related technologies
+	- Experience in network segmentation strategies, BGP VPNs, VXLAN, and segment routing
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

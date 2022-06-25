@@ -41,20 +41,9 @@
 
 
 
-+ skill set:
-	- Familiarity with configuration management, particularly using Ansible + Napalm.
-	- Comfortable working with Arista EOS and Juniper JunOS.
-	- Expert-level exposure to IP routing, particularly with BGP, OSPF, and IS-IS.
-	- Knowledge of MPLS, DWDM, and other backbone-related technologies
-	- Experience in network segmentation strategies, BGP VPNs, VXLAN, and segment routing
-+ skill set:
-	- Experience building infrastructure automation.
-	- Experience with logs-based analysis and RPC tracing technologies.
-	- Practical experience with Prometheus.
-+ skill set:
-	- Knowledge of data center architecture: power, cooling, and networking.
-	- Significant experience working with data center hardware and writing software to make that easier, faster, and less manual effort
-	- Familiarity with best practices for hardware acceptance testing
+
+
+
 + Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
 + Experience with CNCF technologies and cloud computing at scale.
 + skill set:

@@ -1114,6 +1114,20 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Data Science + Data Engineering + DataOps
 
 
