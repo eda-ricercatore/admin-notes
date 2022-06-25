@@ -1,4 +1,11 @@
-#	EDA: Electronic Design Automation Job Opportunities
+#	EDA, AI, (Applied) Machine Learning, MLOps, ModelOps, Data Science, Data Engineering, DataOps, MIS, & Corporate Research Labs
+
+
+###	EDA: Electronic Design Automation Job Opportunities
+
+
+
+###	Machine Learning for EDA
 
 + skill set:
 	- Required Machine Learning Experts for EDA Products, we need people who are passionate about technology, constantly seeking to learn and improve the skill set with good communication and interpersonal skills.
@@ -54,6 +61,959 @@
 
 
 
+##	(VLSI) Formal Verification
+
+
+Focus on mostly equivalence checking and model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
+
+This includes:
++ clock domain crossing (CDC) verification, or CDC check
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+##	Embedded Formal Verification, and Formal Verification of Cyber-Physical Systems
+
+
+Focus on mostly model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
+
+Can include equivalence checking.
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+###	Software Formal Verification
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Circuit Simulation
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+###	Electronic System-Level Design & Verification
+
+
+Includes the following:
++ high-level synthesis, or synthesis of HCL (hardware construction languages) models into logic circuits.
++ hardware/software co-design
++ hardware/software co-verification
++ hardware/software partitioning
++ software synthesis, program synthesis, or automated source code generation
++ transaction-level modeling
+	- verification
+	- synthesis, via HLS
++ power optimization, energy-efficient designs
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+###	Energy-Efficent EDA, or Low-Power EDA
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+###	Logic Synthesis
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+###	Physical Design & Physical Synthesis
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Static Timing Analysis, and Statistical Static Timing Analysis
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	VLSI Design for Manufacturing, DFM
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+###	Numerical EDA, other than circuit simulation
+
+This includes:
++ electromagnetic field solvers
++ layout extraction
++ parasitic extraction
+
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+###	IC Testing, including digital and mixed-signal VLSI Testing
+
+This includes:
++ ATPG, automatic test pattern generation
++ BIST, built-in self-test
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+###	Post-Silicon Validation
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+###	Technology CAD, TCAD
+
+
+
+####	TCAD for Process Simulation
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+####	TCAD for Device Simulation
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+###	Mask Data Preparation, MDP
+
+
+This includes:
++ layout-to-mask preparation
++ mask generation
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -77,6 +1037,31 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 + Emerging and Nanoscale Device Security
 
 Denis Gray, Ph.D.: dogray@ncsu.edu
+
+
+
+
+
+
++ skill set:
+	- Experience with hypervisor / container development
+		* Especially, Xen or OpenXT
+	- Experience with Trusted Platform Module (TPM)
+	- Experience with firmware-level code
+	- FPGA physical design
+	- Experience with device characterization or PUF techniques
+		* physical unclonable function
+	- Experience with ASIC analog and/or digital design
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -373,7 +1358,7 @@ Skill sets for application engineers of different EDA products:
 	- Expert in one of the streaming platforms, preferably Flink.
 	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
 	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
-
++ ***Capsule Networks***, or capsule neural networks
 
 
 
@@ -440,6 +1425,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with building end-to-end machine learning systems
 	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
 	- Previous experience building end to end Machine Learning systems
++ ***Capsule Networks***, or capsule neural networks
 + skill set:
 	- 
 
@@ -1115,7 +2101,7 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 
-	
+
 
 
 
@@ -1291,10 +2277,24 @@ Notes:
 	- Strong programming skills in SQL and Python/R
 	- Hands-on experience working in a distributed computing environment
 + ***A project around the areas of big data, searching and statistical modelling***
-
-
-
-
++ skill set:
+	- ***Familiarity with analytics notebooks (Jupyter, RStudio, DataBricks)***
+	- ***Strong programming skills and ability to utilize a variety of data/analytic software/languages/tools; e.g., Spark (ML, Mllib, Spark SQL), R (caret, ggplot2), Python (pandas, numpy, scipy, scikit-learn), Scala, Hive, SQL, SAS, Tableau, etc.***
+	- Familiarity with cloud computing (in AWS or Azure)
+	- Deep knowledge of a variety of statistical and data mining concepts and procedures including: generalized regression, machine learning algorithms, deep learning, media mix algorithms, and statistical graphics
+	- Predictive Analytics experience desired
+	- Experience with big data- Spark, Hive, Hadoop desired
+	- Designing and overseeing implementation of solutions for non-routine problems utilizing a large array of know-how areas within analytics e.g. generalized regression, decision tree, non-parametric; and machine learning, e.g., gradient boosting, random forest, neural networks, clustering, pattern recognition
+	- Developing best practices and repeatable processes for routine problems arising in business problems business cases including driving targeted marketing campaigns for tune-in and product adoption, creating an enhanced consumer experiences, and developing digital/social advertising audience segments
+	- Assisting with strategic decisions about processes, frameworks and standards
++ skill set:
+	- Proficient in SQL/Hive
+	- Proven ability to apply scientific methods to solve real-world problems
+	- Knowledgeable about the machine learning trade-offs and model evaluation
+	- Over 4 years of industry experience with proven ability to apply scientific methods to solve real-world problems on web scale data
+	- Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
++ Hands-on experience with open source big data platforms (Hadoop, Hive, Presto) and familiarity with data visualization (Tableau, D3) technologies
++ Familiarity with implementing metric logging and interpreting metrics to make decisions
 
 
 
@@ -1637,6 +2637,9 @@ They support databases for:
 	- Consistent track record of delivering scalable, high performance, and high quality software systems.
 	- Broad understanding of various cloud development technologies and trends for enterprise-scale, distributed systems.
 	- Strong technical acumen, creativity, interpersonal skills, and emotional intelligence.
++ ***[Apache Airflow, Luigi](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7), workflow management system (WMS), Azkaban, [Open Source Data Pipeline – Luigi vs Azkaban vs Oozie vs Airflow](https://www.bizety.com/2017/06/05/open-source-data-pipeline-luigi-vs-azkaban-vs-oozie-vs-airflow/), [Pinball](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8), Airbnb Airflow vs Apache Nifi***
+	- ***Jenkins vs Airflow. Jenkins is an open source continuous integration tool written in Java.***
++ Exposure to big data systems like Hadoop, Spark, Kafka, etc.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1870,6 +2873,8 @@ Enterprise applications of MIS:
 		* MSSP, managed security service provider
 		* SECaaS, security as a service
 + You have familiarity with any query language like SQL, SPL etc.
++ Exposure to ***MariaDB*** or other RDMS
++ Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
 + skill set:
 	- BLAH.
 

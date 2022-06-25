@@ -588,6 +588,28 @@
 	- Familiarity with GDPR, HIPAA, PCI or other compliances
 	- Experience working with Docker or Kubernetes
 	- Experience working with AWS, Azure, GCP
++ Apache Kafka Connect framework
++ skill set:
+	- Familiarity with Kafka or Kafka Connect
+	- Large public clouds: AWS, GCP, AzureDocker, Kubernetes
+	- Bridge data connectivity between various data systems and Kafka by building highly available and scalable Confluent connectors that run on top of Apache Kafka Connect framework
++ skill set:
+	- Experience with concepts of distributed systems and big data such as - Hadoop, Spark, Kafka, Big Table, HBase etc
+	- Experience in Network Security and Cloud Security
+	- 2+ Experience working with AWS, Azure, GCP security related services and other cloud agnostic security tools
+	- Strong fundamentals in distributed systems design and development
++ skill set:
+	- Working knowledge of development systems such as Git, Maven and Jenkins
+	- Experience in automating release, continuous integration/delivery system, and relevant tools (e.g. Jenkins, Packer, Terraform, Puppet, Ansible, Travis CI, etc)
+	- Experience with configuration management, distributed testing and benchmarking / load generation systems
+	- Experience with cloud computing platforms (e.g. Amazon AWS, Microsoft Azure, Google App Engine, etc.)
+	- Working knowledge of database and messaging systems (***MySql, PostgreSQL, Redis, Hbase, Voldemort, Vault, Espresso, Cassandra, Kafka***)
++ Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
++ skill set:
+	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
+	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
+	- Building a scalable & highly available observability stack for cloud and on premise
++ Expertise in design of scalable backend systems with experience in AWS, Kafka, Hive, MySQL
 + skill set:
 	- BLAH.
 + skill set:
@@ -646,6 +668,10 @@
 
 
 
++ skill set:
+	- Experience with React/Flux, modern js tooling (Gulp/Grunt)/Webpack/Babel
+	- Excellent understanding of JavaScript, HTML5, and CSS3
+	- Experience with writing/monitoring/managing large scale system deployments
 + skill set:
 	- React
 	- TypeScript

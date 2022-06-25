@@ -3,32 +3,17 @@
 This set of skill sets is for software development roles in cloud computing.
 
 
-#	Software Development for Messaging as a Service (MaaS)
+
+
+
 
 
 
 + skill set:
-	- Software Engineer - Data Stream
-	- The Splunk Messaging as a Service (MaaS) team is responsible for providing enabling technology that powers messaging, queueing and streaming for several products in the cloud and on-prem. You will be part of the team and work with other team members, engineering and Product Management to plan, develop and deliver various features and functionalities.
-	- Design technical implementations for new features in Apache Pulsar. Implement new features &test & analyze performance of existing and new features. You'll help identify and fix bugs discovered during use and/or testing
-	- You'll be writing unit tests, integration tests and collaborating with the Quality Assurance team to ensure features quality.
-	- You'll collaborate and coordinate with Product Management team to implement features or fix bugs
-	- Innovate and contribute to product road map
-	- We hope that you have a passion for mentoring as you'll have the opportunity to lead software architecture and design processes.
-	- 5 years of related experience with a technical Bachelor’s degree; or equivalent practical experience;
-	- Ability to own a set of product/service features, connectors, tests and/or modules using primarily Java on Apache Pulsar infrastructure in Linux environment.
-	- Excellent Java skills with distributed systems design and knowledge of OO programming practices.
-	- Familiarity with container technology such as Docker and Kubernetes
-	- Strong knowledge of shell scripts and/or Python.
-	- Expert knowledge with the Unix/Linux environment.
-	- Knowledge of docker/Kubernetes frameworks.
-	- Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
-	- In-depth understanding of modern SQL, NoSQL or NewSQL systems.
-	- Strong knowledge on code repository and/or automation server tools.
-	- Validated skills in load testing, performance tuning, monitoring and measuring.
-	- Very clear computer science fundamentals, data structure knowledge and software engineering principles.
-	- Passion for solving hard problems and exploring new technologies.
-	- Excellent Team player with good communication and documentation skills.
+	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
+	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
+	- Revolutionizing how data pipelines are built through Kafka Connect
+	- Running all of the above in our very own elastic, scalable cloud offering
 + skill set:
 	- Sr Principle Software Engineer - Cloud Platform
 	- Splunk is on a journey to be a SAAS data analytics platform. We have built platform 1.0 hosting Splunk developed application verticals like security, observability, IT Ops and others. It’s still early days, plenty of technology to be created and new challenges emerge every week. A person in this role can help us find directional alignment, influence simplicity of designs and create iterative value without getting bogged down by “everything else” that needs to get done. You know how to prioritize ruthlessly under internal/external pressures while keeping an eye on the prize. We can find domain experts comfortable in their prior experience to apply on the job, we can also get generalist not afraid to tinker with anyones closely held beliefs but what we really want is someone who uses the right tools for the right occasion. We value technology leaders who elevate the whole ecosystem around them (people, process and product) while building cool technology needed for the day. You are completely at ease with deeply understanding and driving business requirements, at times generating them as needed. You can influence from early engineers to senior VP’s from product and engineering. You are equally comfortable hands on and know when to go deep to advance a project and when to delegate and let the team take over. If you thrive in managed chaos and like to bring order, you will find yourself right at home. Some specific areas we are building in the platform:
@@ -127,36 +112,6 @@ This set of skill sets is for software development roles in cloud computing.
 	- Familiarity with agile development models for cloud-native architectures (Microservices, automated CICD, RESTful API’s SOA, etc) at cloud scale.
 	- Knowledge of networking protocol stacks (TCP/IP, HTTPx, DNS).
 	- Familiarity with Kubernetes, Docker, and AWS/GCP.
-+ skill set:
-	- Software Engineer, Ingestion and Data Processing
-	- Ingestion and Data Processing team is a dynamic technology group with a mission to be the primary data processing path for any type of data transformation and routing activity in near real-time. If you possess a passion for extraordinary technology and embrace the challenge of working at the frontier of what is possible in the industry today, then this position is for you. We are building state-of-the-art capabilities, real-time messaging and streaming systems, support tools, and automation instrumentation that will greatly impact how our customers successfully use data to improve their businesses performance, scalability, profitability, and market strategies. We have two teams in rapid growth:
-		* Stream Processing Service (SPS) is built on top of Apache Flink, is a stream processing platform that allows customers to define stream processing pipelines without lower-level programming languages. SPS includes the ingestion, routing, and processing of unbounded data sets and reduces the time-to-insights from days to near-real-time. SPS is a critical component to enable our customers and their data to transition seamlessly to the cloud.
-		* Messaging as a Service (Maas) is based on Apache Pulsar and provides a streaming event store for multiple sources arriving into Splunk Cloud. MaaS is a streaming message store that allows consumers to store, partition, and consume streaming events with high throughput and low latency. It aims to be the event streaming backbone for Splunk Cloud and is integral to the Data Processing ecosystem similar to the interaction between RAM and CPUs in computers.
-	- Own and be accountable for the design and development of multiple features in the ultra-high performance system, processing massive amounts of data
-	- Pay extra attention to non-functional requirements (Performance, Scalability, Reliability, High Availability etc.)
-	- Be a role model that ensures the team is following Agile software development and quality standards
-	- Regularly lead design and code reviews, and participate in architecture discussions
-	- Help team estimate development work, often across a multiple sprint timelines
-	- Understand the business use cases and contribute to product direction by prototyping innovative ideas
-	- See opportunities for engineering improvements or directions, and evangelize these successfully
-	- Receive guidance from principal engineers in their area on thinking beyond their current product features and more towards overall product architecture
-	- Participate in customer engagements & partner concerns and drive overall resolution
-	- Build healthy relationships with multi-functional teams
-	- Work with product manager to influence product feature definition
-	- Expertise on two or more mainstream programming languages, such as Go or Java
-	- Expertise on developing and working with thoughtfully designed HTTP APIs, such as REST or GraphQL
-	- Expertise on test-driven development, developing different levels of automated tests, such as unit test, functional test, integration test, system test, or performance / load test
-	- Proficient with CI/CD, such as Jenkins, GitLab CI, or Bitbucket pipeline
-	- Proficient with modern version control system, such as Git
-	- Proficient with development on multiple operating systems, such as Linux or Unix
-	- Able to learn new technologies quickly
-	- Capable of coordinating and coaching the junior members in the team
-	- Bachelor’s degree in Computer Science, Computer Engineering or equivalent
-	- Experience with cloud technologies, such as AWS, Azure, or GCP. Ideally with certifications
-	- Experience with container technologies, such as Docker. Ideally with container orchestration such as Kubernetes or Docker Swarm
-	- Experience with stream processing platform, such as Flink, Spark or equivalent
-	- Experience with messaging system, such as Apache Pulsar, Kafka or equivalent
-	- Experience with leading or contributing to open source projects
 + You have knowledge and experience with AWS services, like EC2, S3, etc.
 + skill set:
 	- Distinguished Engineer (Architect) Experiences Platform
@@ -230,6 +185,89 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
+
+##	Software Development for Messaging as a Service (MaaS)
+
+
+
++ skill set:
+	- Software Engineer - Data Stream
+	- The Splunk Messaging as a Service (MaaS) team is responsible for providing enabling technology that powers messaging, queueing and streaming for several products in the cloud and on-prem. You will be part of the team and work with other team members, engineering and Product Management to plan, develop and deliver various features and functionalities.
+	- Design technical implementations for new features in Apache Pulsar. Implement new features &test & analyze performance of existing and new features. You'll help identify and fix bugs discovered during use and/or testing
+	- You'll be writing unit tests, integration tests and collaborating with the Quality Assurance team to ensure features quality.
+	- You'll collaborate and coordinate with Product Management team to implement features or fix bugs
+	- Innovate and contribute to product road map
+	- We hope that you have a passion for mentoring as you'll have the opportunity to lead software architecture and design processes.
+	- 5 years of related experience with a technical Bachelor’s degree; or equivalent practical experience;
+	- Ability to own a set of product/service features, connectors, tests and/or modules using primarily Java on Apache Pulsar infrastructure in Linux environment.
+	- Excellent Java skills with distributed systems design and knowledge of OO programming practices.
+	- Familiarity with container technology such as Docker and Kubernetes
+	- Strong knowledge of shell scripts and/or Python.
+	- Expert knowledge with the Unix/Linux environment.
+	- Knowledge of docker/Kubernetes frameworks.
+	- Excellent solid understanding of Apache Pulsar, RabbitMQ, or Apache Kafka.
+	- In-depth understanding of modern SQL, NoSQL or NewSQL systems.
+	- Strong knowledge on code repository and/or automation server tools.
+	- Validated skills in load testing, performance tuning, monitoring and measuring.
+	- Very clear computer science fundamentals, data structure knowledge and software engineering principles.
+	- Passion for solving hard problems and exploring new technologies.
+	- Excellent Team player with good communication and documentation skills.
++ skill set:
+	- Software Engineer, Ingestion and Data Processing
+	- Ingestion and Data Processing team is a dynamic technology group with a mission to be the primary data processing path for any type of data transformation and routing activity in near real-time. If you possess a passion for extraordinary technology and embrace the challenge of working at the frontier of what is possible in the industry today, then this position is for you. We are building state-of-the-art capabilities, real-time messaging and streaming systems, support tools, and automation instrumentation that will greatly impact how our customers successfully use data to improve their businesses performance, scalability, profitability, and market strategies. We have two teams in rapid growth:
+		* Stream Processing Service (SPS) is built on top of Apache Flink, is a stream processing platform that allows customers to define stream processing pipelines without lower-level programming languages. SPS includes the ingestion, routing, and processing of unbounded data sets and reduces the time-to-insights from days to near-real-time. SPS is a critical component to enable our customers and their data to transition seamlessly to the cloud.
+		* Messaging as a Service (Maas) is based on Apache Pulsar and provides a streaming event store for multiple sources arriving into Splunk Cloud. MaaS is a streaming message store that allows consumers to store, partition, and consume streaming events with high throughput and low latency. It aims to be the event streaming backbone for Splunk Cloud and is integral to the Data Processing ecosystem similar to the interaction between RAM and CPUs in computers.
+	- Own and be accountable for the design and development of multiple features in the ultra-high performance system, processing massive amounts of data
+	- Pay extra attention to non-functional requirements (Performance, Scalability, Reliability, High Availability etc.)
+	- Be a role model that ensures the team is following Agile software development and quality standards
+	- Regularly lead design and code reviews, and participate in architecture discussions
+	- Help team estimate development work, often across a multiple sprint timelines
+	- Understand the business use cases and contribute to product direction by prototyping innovative ideas
+	- See opportunities for engineering improvements or directions, and evangelize these successfully
+	- Receive guidance from principal engineers in their area on thinking beyond their current product features and more towards overall product architecture
+	- Participate in customer engagements & partner concerns and drive overall resolution
+	- Build healthy relationships with multi-functional teams
+	- Work with product manager to influence product feature definition
+	- Expertise on two or more mainstream programming languages, such as Go or Java
+	- Expertise on developing and working with thoughtfully designed HTTP APIs, such as REST or GraphQL
+	- Expertise on test-driven development, developing different levels of automated tests, such as unit test, functional test, integration test, system test, or performance / load test
+	- Proficient with CI/CD, such as Jenkins, GitLab CI, or Bitbucket pipeline
+	- Proficient with modern version control system, such as Git
+	- Proficient with development on multiple operating systems, such as Linux or Unix
+	- Able to learn new technologies quickly
+	- Capable of coordinating and coaching the junior members in the team
+	- Bachelor’s degree in Computer Science, Computer Engineering or equivalent
+	- Experience with cloud technologies, such as AWS, Azure, or GCP. Ideally with certifications
+	- Experience with container technologies, such as Docker. Ideally with container orchestration such as Kubernetes or Docker Swarm
+	- Experience with stream processing platform, such as Flink, Spark or equivalent
+	- Experience with messaging system, such as Apache Pulsar, Kafka or equivalent
+	- Experience with leading or contributing to open source projects
+
+
+
+
+
+##	Software Development for Infrastructure as a service (IaaS)
+
+
+
+
+##	Software Development for Platform as a service (PaaS)
+
+
+
+
+##	Software Development for Software as a service (SaaS)
+
+
+
+##	Software Development for Mobile "backend" as a service (MBaaS), or backend as a service (BaaS)
+
+
+
+
+
+##	Software Development for Serverless computing or Function-as-a-Service (FaaS)
 
 
 

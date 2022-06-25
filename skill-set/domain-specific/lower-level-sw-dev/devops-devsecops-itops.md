@@ -266,6 +266,88 @@ DevOps is at the intersection of:
 	- Experience with logs-based analysis and RPC tracing technologies.
 	- Practical experience with Prometheus.
 + skill set:
+	- Design, implement, and maintain platform metadata features
+	- Designing APIs and Platform Information Architecture
+	- Serve as primary point of contact in one or more platform metadata areas
+	- Collaborate with various Confluent Engineering groups to provide strong technical guidance and leadership related to managing metadata
+	- In depth experience with concepts of distributed systems and big data such as - Kafka, Hadoop, Spark, Big Table, HBase etc
+	- Full stack experience
+	- Experience with Lineage, Governance and Auditing
+	- Experience in ML/Data Engineering
+	- Experience working with Docker or Kubernetes is a plus
+	- Experience working with AWS, Azure, and/or GCP
++ skill set (Platform DevOps Engineer):
+	- As a Platform DevOps, you will be designing and implementing a control plane to manage the life cycle of Confluent Platform using tools such as Ansible, Terraform etc. You will be responsible for building an extensible and easy to use control plane to enable deployment, elastic scaling, monitoring, and self-healing of various Confluent Platform components. We are looking for engineers with a strong desire to build a pluggable and extensible control plane with a strong emphasis on user experience.
+	- Experience in Platform/Infra deployment and configuration management frameworks such as Ansible, Terraform, Chef, Puppet etc
+	- Experience with Go, Java, C++ or Python required
+	- Experience building and operating extensible, scalable resilient systems
+	- Familiarity with using Cloud Infrastructure Providers such as AWS, GCP, and Azure
+	- Solid understanding of basic systems operations (disk, network, operating systems, etc)
+	- Knowledge of Container Orchestration framework (such as Kubernetes, Docker Swarm or Mesos)
+	- Knowledge of Apache Kafka
+	- Experience building APIs
++ skill set:
+	- As a Platform DevOps Engineer, you will be designing and implementing a control plane to manage the life cycle of Confluent Platform using tools such as Ansible, Terraform etc. You will be responsible for building an extensible and easy to use control plane to enable deployment, elastic scaling, monitoring, and self-healing of various Confluent Platform components. We are looking for engineers with a strong desire to build a pluggable and extensible control plane with a strong emphasis on user experience.
+	- Experience in Platform/Infra deployment and configuration management frameworks such as Ansible, Terraform, Chef, Puppet etc
+	- Experience building and operating extensible, scalable resilient systems
+	- Familiarity with using Cloud Infrastructure Providers such as AWS, GCP, and Azure
+	- Solid understanding of basic systems operations (disk, network, operating systems, etc)
+	- Knowledge of Container Orchestration framework (such as Kubernetes, Docker Swarm or Mesos)
+	- Knowledge of Apache Kafka
+	- Experience building APIs
++ skill set:
+	- Solid understanding of container orchestration systems such as Kubernetes, Mesos, etc.
+	- Experience with C, C++, Java or Python required
+	- Experience with container orchestration tools such as Docker, CoreOS, etc.
+	- Experience with configuration management or provisioning tools such as chef, puppet, Ansible, etc
+	- Experience building and operating large-scale systems
+	- Solid understanding of basic systems operations (disk, network, operating systems, etc)
+	- Hands-on experience with Kubernetes operator, Helm, or StatefulSets is a plus
+	- Proficiency in Go is a plus
+	- Knowledge of Apache Kafka is a plus
++ ***Experience building and scaling automation frameworks***
++ skill set:
+	- Build and maintain data foundations, metrics and dashboards to monitor the business performance and extract actionable insights
+	- Apply quantitative analysis, data mining, and presentation of data to fuel business growth and drive customer success
+	- Design and analyze experiments to test new product ideas, go to market strategies and/or funnel optimization; Convert the results into actionable recommendations
+	- Build data products to improve operational efficiencies organizationally to scale with a hyper growth start-up
+	- Inform, influence, support, and execute business decisions with senior leadership and business partners
+	- Build robust, automated data pipelines to enable team effectiveness
+	- 2+ years industry experience working with SQL (Teradata, Oracle, MySQL, BigQuery, etc.) and R (or Python)
+	- Proficiency in applying statistical modeling and/or machine learning
+	- Proficiency in data visualization (eg. Tableau, Looker, Matlab, etc.)
+	- Bachelor or advanced degrees in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc
+	- The ability to communicate cross-functionally, derive requirements and deliver insightful analysis and/or models; ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+	- Experience building data warehousing and ETL pipelines
+	- Experience with Unix/Linux environment
+	- Experience in developing data apps with Python/Java, high charts etc
+	- Excellent communications skills, with the ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+	- Experience working in the B2B growth/marketing or sales domains: CRM, sales effectiveness, branding, segmentation, web analytics, attribution, funnel optimization, etc.
+	- Experience working with Marketo, Google Analytics and SFDC
++ skill set:
+	- The mission of the Data Science team at Confluent is to serve as the central nervous system of all things data for the company: we build analytics infrastructure, insights, models and tools, to empower data-driven thinking, and optimize every part of the business. Data Engineers on the team will be the enabler and amplifiers. This position offers limitless opportunities for an ambitious data science engineer to make an immediate and meaningful impact within a hyper growth start-up, and contribute to a highly engaged open source community.
+	- We are looking for a talented and driven individual to build and scale our data analytics infrastructure and tooling. This person will build state of art data warehousing, ETL, and BI platforms, to make data accessible to the entire company. He/she will also partner closely with data scientists and cross functional leaders to develop internal data products. Data engineers are encouraged to think out of the box and play with the latest technologies while exploring their limits. Successful candidates will have strong technical capabilities, a can-do attitude, and are highly collaborative.
+	- Collaboration with data scientists, engineers, and business partners to understand data needs to drive key decision making throughout the company
+	- Implementing a solid, robust, extensible data warehousing design that supports key business flows
+	- Performing all of the necessary data transformations to populate data into a warehouse table structure that is optimized for reporting and analysis; Deploy inclusive data quality checks to ensure high quality of data
+	- Developing strong subject matter expertise and manage the SLAs for those data pipelines
+	- Set up and improve BI tooling and platforms to help the team create dynamic tools and reporting
+	- Partnering with data scientists and business partners to develop internal data products to improve operational efficiencies organizationally
+	- Building and growing  partnership with cross functional teams, and evangelize data-driven culture
+	- Contributing to innovations that fuel Confluent's vision and mission
+	- 4+ years of experience in a Data Engineering role, with a focus on data warehouse technologies, data pipelines, BI tooling and/or data apps development
+	- Bachelor or advanced degree in Computer Science, Mathematics, Statistics, Engineering, or related technical discipline
+	- Highly proficient in Python and SQL coding
+	- Highly proficient with tuning and optimizing data models and pipelines
+	- Experience in developing data apps with Python, Javascript, high charts etc
+	- The ability to communicate cross-functionally, derive requirements and architect shared datasets; ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+	- Experience with Apache Kafka
+	- Experience with B2B enterprise apps data: Salesforce, Marketo, Zendesk, etc
+	- Experience in developing data apps with Python, Javascript, high charts, etc
++ skill set:
+	- Deep knowledge of a configuration management tool (i.e. Puppet, Chef, Ansible, Salt, CFEngine). Experience with containers is a plus
+	- Familiarity with distributed systems including service discovery, pub/sub, search indexing, storage, and caching. We use Zookeeper, Kafka, Elasticsearch, MySQL, Hbase, and Memcache respectively.
++ skill set:
 	- Confluence
 	- Jira
 + skill set:
