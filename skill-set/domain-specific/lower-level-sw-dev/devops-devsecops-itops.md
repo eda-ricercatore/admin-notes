@@ -497,7 +497,22 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 	- Background in developing products for the Security market, a plus.
 + skill set:
 	- Senior Software Engineer - Analytics Platform (Remote)
-	- 
+	- Enterprise Security behavioral analytics service (Advanced Analytics) is Splunk’s next-generation, cloud-native, multi-tenant analytics solution that detects known and unknown security threats at petabyte scale. Advanced Analytics detects cybersecurity threats by using stream and batch processing, and building large scale analytics infrastructure for petabyte scale data ingestion, processing, storage, and analysis. Advanced Analytics will power large and medium scale enterprises to combat security threats, protect brand reputation and protect intellectual property.
+	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world use cases to better understand what solutions will bring value to our customers.
+	- Develop new product features, clarify and improve designs, and help put together a plan for how to make it happen (using Agile Methodologies).
+	- Collaborate closely with Product Management and members of our team to design and create comprehensive end-to-end user workflows.
+	- Keep aware of security trends in the industry and bring that knowledge back to the team.
+	- Keep product quality top of mind by extensively using Continuous Integration/Continuous Development (CI/CD), testing technologies (unit, functional, performance), and best software development practices.
+	- Champion, coach, and mentor others to solve problems in new and creative ways with the goal to maintain team efficiency and morale.
+	- 8+ years of experience in Enterprise Software Engineering.
+	- Bachelor's degree in Computer Science or another quantitative field. Other education and/or experience will be considered.
+	- Programming experience with Java, C/C++, or Go.
+	- Familiarity with streaming and distributed computing technologies such as Kafka, Pulsar, Flink, Spark, HBase, Cassandra, MongoDB.
+	- Exposure to working with cloud environments (AWS, Azure, GCP) and container ecosystems (Docker and Kubernetes).
+	- Knowledge of distributed computing architectures and principles that solve for scalability, consistency, availability, performance, and reliability.
+	- Experienced with an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab).
+	- Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.
+	- Strong collaborative and interpersonal skills, specifically a proven ability to effectively work with others within a dynamic environment.
 + skill set:
 	- BLAH.
 + skill set:
