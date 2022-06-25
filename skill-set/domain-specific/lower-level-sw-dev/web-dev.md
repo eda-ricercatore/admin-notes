@@ -583,6 +583,12 @@
 	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
 + Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
 + skill set:
+	- Experience in the following areas: TLS, SSO, SAML, OAuth2, Kerberos, LDAP
+	- Familiar with concepts of big data- Hadoop, Spark, Kafka, NoSql
+	- Familiarity with GDPR, HIPAA, PCI or other compliances
+	- Experience working with Docker or Kubernetes
+	- Experience working with AWS, Azure, GCP
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

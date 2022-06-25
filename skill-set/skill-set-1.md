@@ -46,12 +46,7 @@
 
 
 
-+ skill set:
-	- Experience in the following areas: TLS, SSO, SAML, OAuth2, Kerberos, LDAP
-	- Familiar with concepts of big data- Hadoop, Spark, Kafka, NoSql
-	- Familiarity with GDPR, HIPAA, PCI or other compliances
-	- Experience working with Docker or Kubernetes
-	- Experience working with AWS, Azure, GCP
+
 + skill set:
 	- Familiarity with Kafka or Kafka Connect
 	- Large public clouds: AWS, GCP, AzureDocker, Kubernetes
