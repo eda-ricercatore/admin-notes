@@ -44,8 +44,8 @@
 
 
 
-+ Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
-+ Experience with CNCF technologies and cloud computing at scale.
+
+
 + skill set:
 	- Experience in the following areas: TLS, SSO, SAML, OAuth2, Kerberos, LDAP
 	- Familiar with concepts of big data- Hadoop, Spark, Kafka, NoSql

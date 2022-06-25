@@ -581,6 +581,7 @@
 + skill set:
 	- Experience with the Hashicorp stack, specifically Vault (cross-platform password manager and authentication tool).
 	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
++ Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
 + skill set:
 	- BLAH.
 + skill set:
