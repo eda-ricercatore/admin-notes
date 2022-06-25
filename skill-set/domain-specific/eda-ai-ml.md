@@ -1100,7 +1100,7 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 + Experience with search and information retrieval systems, either custom or commercial (Elasticsearch, Solr).
-
++ You have used GraphQL in production environments
 
 
 

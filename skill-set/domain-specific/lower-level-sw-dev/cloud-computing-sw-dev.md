@@ -175,6 +175,7 @@ This set of skill sets is for software development roles in cloud computing.
 	- ***Experience in the visualization of large, sophisticated graph structures***
 	- Experience working on open-source projects
 	- Requires a minimum of 15 years of related experience with a technical bachelor’s degree; or 12 years and a technical Master’s degree; or a PhD with 8 years’ experience; or equivalent experience.
++ Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
 + skill set:
 	- BLAH.
 + skill set:

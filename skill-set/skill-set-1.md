@@ -37,16 +37,10 @@
 
 
 
-+ You have used GraphQL in production environments
-+ skill set:
-	- You have worked with technologies like OAuth, SAML, SCIM, and LDAP
-	- You have worked with external identity provisioning services like Azure Active Directory, Okta, OneLogin, and Ping
-+ skill set:
-	- You have experience with CDNs and SSL certificates
-	- You have experience with static site generators
-	- You have experience with Object storage system
-	- You have experience with nginx and Lua scripting
-+ Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
+
+
+
+
 + skill set:
 	- Familiarity with configuration management, particularly using Ansible + Napalm.
 	- Comfortable working with Arista EOS and Juniper JunOS.

@@ -32,6 +32,14 @@
 		* Rigorously define the reverse proxy API via protobuf messages
 		* Build the fuzzing pipelines themselves
 + skill set:
+	- You have worked with technologies like OAuth, SAML, SCIM, and LDAP
+	- You have worked with external identity provisioning services like Azure Active Directory, Okta, OneLogin, and Ping
++ skill set:
+	- You have experience with CDNs (change detection & notification) and SSL certificates
+	- You have experience with static site generators
+	- You have experience with Object storage system
+	- You have experience with nginx and Lua scripting
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
