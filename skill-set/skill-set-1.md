@@ -50,101 +50,13 @@
 
 
 
-+ skill set:
-	- Imagimob is a fast-growing, high-tech startup with an exciting future ahead. We are currently developing our next generation hybrid AI platform that allows for advanced motion detection for smaller Internet-of-things-articles, of virtually every kind. For example, the technology is today being used in projects ranging from the automotive and manufacturing industry to the health sector.
-	- We are looking for a Machine Learning / AI Application Engineer to join our development team in Stockholm. Do you have excellent programming skills and are interested in working in the frontline of artificial intelligence? Then this position might be something for you.
-	- Working with us you will get the opportunity to become part of our cross functional team with creative and innovative software engineers and AI researchers building the next generation AI beyond Deep Learning. Since we are still in a startup phase, you will also be able to develop in the areas you find the most interesting.
-	- Has excellent programming skills in one or several languages, preferably in C, C# or Python
-	- Experience with a deep learning framework (e.g. tensorflow, keras, Torch, caffe)
-	- University degree or equivalent experience in computer science, electrical engineering, engineering physics or similar
-	- A passion for Artificial Intelligence and Machine Learning technologies
-	- Extreme ownership and go-get attitude
-	- Has experience from programming on embedded platforms
-	- Good knowledge in signal processing, statistics and its practical applications
-	- Experience from Artificial Intelligence and Machine Learning technologies
-	- And if this is not enough, you will get the chance to change history and shape the future of humanity...
-	- The opportunity to be part of building the next generation AI beyond deep learning
-	- Being part of an excellent international engineering team with highly motivated individuals striving for a common goal
-	- A chance to get to solve real world problems using AI
-	- A prestigeless and an open minded company culture
-	- Short decision paths, we love getting things done
-+ skill set:
-	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
-	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
-	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
-	- DevOps and systems experience is highly valued; If you've gotten your hands dirty with package and configuration management, infrastructure-as-code principles, Kubernetes, AWS, Linux and security, PostgreSQL replication, and know your way around Docker, bash and Python, we'd love to talk with you
-	- You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on our team
-+ skill set:
-	- JavaScript, NodeJS, Java, GraphQL, Ruby, Python, and whatever's needed
-	- AWS Serverless Cloud Architecture with IaC using Terraform
-	- Agile, Scrum, CI/CD, TDD and other best practices
-	- Unit Tests, Integration Tests and End-to-End Tests
-	- Other tools: Serverless.com, Express, Jest, Jenkins, Polly.js, Yarn, NPM, ESLint, JSDoc, etc.
-	- Design, develop, test, debug, and document new and existing software features to ensure that software meets business, quality and operational needs
-	- Lead software development of business requirements closely working with product owners and other stakeholders
-	- Ensure that high quality code is delivered by following best practices like peer code reviews, code standards, unit testing and test-driven development
-	- Drive and participate in code and document reviews, mentoring team in best practices
-	- Work with business and technical product owners to interpret and translate business needs to technical requirements
-	- Evaluate and recommend tools, technologies and processes to ensure the highest quality and performance is achieved
-	- Monitor and troubleshoot code level problems quickly and efficiently
-	- Apply deep technical expertise to resolve challenging programming and design problems
-	- Focus on scalability, security and availability of all applications and processes
-	- Design and architect solutions to enable secure, scalable and maintainable software
-	- Contribute to technical roadmap and technical debt elimination, balancing time, resource, and quality constraints to achieve business and strategic goals and requirements
-	- BS/MS in Computer Science or equivalent work experience
-	- 7+ years hands-on experience developing scalable, distributed applications
-	- Experience building robust web-based APIs using REST and/or SOAP
-	- Strong development proficiency in one or more backend languages Node.js, Java, Ruby, python, Go, C#, etc.
-	- Strong experience with building on top of cloud-based service providers like AWS
-	- Experience in designing and deploying distributed microservices architecture
-	- Possess strong verbal and written communication skills
-	- Possess strong analytical skills with excellent problem-solving abilities
-	- Must be extremely detail-oriented with respect to documentation and communication
-	- Experience with Agile development, preferably Scrum
-	- Experience with code management using Git & build using Maven
-	- Experience with Jenkins for Continuous Integration/Continuous Deployment
-	- You enjoy making highly scalable and highly available distributed systems
-	- You write clean, testable and effective code
-	- You hold yourself and others to high technical standards (design, architecture and implementation)
-	- You have a deep understanding of object-oriented design and at least one modern backend framework
-	- You enjoy shipping features following agile methods
-	- You are a talented Software Engineer who is passionate about code quality, usability, and technology
-	- You are a power user of infrastructure, keeping yourself up-to-date with the latest trends and breakthroughs in platform development technology
-	- You have a strong record of project execution and completion and have experience with Scrum and agile development practices
-	- You love working with smart people and want to be part of a team
-	- You are excited by the challenge of pushing the limits of the infrastructure to deliver disruptive, innovative solutions to the world that will delight your customers
-+ skill set:
-	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
-	- Improve observability with distributed tracing for all requests from client to CDN to load balancer to cluster and back again
-	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
-	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
-	- Build observability into every aspect of our production infrastructure
-	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
-	- Help developers smoke-test better by bringing canary analysis and automated scale testing into their world
-	- DevOps and systems experience is highly valued; If you've gotten your hands dirty with package and configuration management, infrastructure-as-code principles, Kubernetes, AWS, Linux and security, PostgreSQL replication, and know your way around Docker, bash and Python, we'd love to talk with you
-	- You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on our team
-+ skill set:
-	- 2+ years of work experience developing and deploying production-quality code
-	- Foundational knowledge of commonly used machine learning techniques, such as cluster analysis, classification methods, and linear and nonlinear regression modeling
-	- Experience developing applications using Natural Language Processing techniques.
-	- Experience working with cross-functional teams in a dynamic environment
-	- Hands-on experience building deep learning models on text corpora, preferably using PyTorch and Tensor Flow
-	- Experience building machine learning models in the healthcare domain
-	- Experience using AWS infrastructure and tools for machine learning
-	- Experience with other back-end software engineering frameworks
-	- [Talkspace](https://www.talkspace.com/)
-+ knowledge of CUDA / OpenCL / OpenCV
-+ skill set:
-	- Ansible
-	- Kafka/Cassandra
-	- Linux
-	- Git (github)
-	- Vi / Vim
-	- Elastic Search Stack
-	- Graphite/Grafana
-	- Data visualization
-	- Python, Bash, Golang
-	- Familiarity with JSON
+
+
+
+
+
+
+
 + skill set:
 	- Experience with the full site of Go frameworks and tools, including dependency management tools (such as Godep, Sltr, etc.), Go's templating language, Go's code generation tools (such as Stringer), Popular Go web frameworks (such as Revel), Router packages (such as Gorilla Mux)
 	- Ability to write clean and effective Godoc comments

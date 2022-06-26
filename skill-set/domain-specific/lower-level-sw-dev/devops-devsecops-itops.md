@@ -348,6 +348,33 @@ DevOps is at the intersection of:
 	- Deep knowledge of a configuration management tool (i.e. Puppet, Chef, Ansible, Salt, CFEngine). Experience with containers is a plus
 	- Familiarity with distributed systems including service discovery, pub/sub, search indexing, storage, and caching. We use Zookeeper, Kafka, Elasticsearch, MySQL, Hbase, and Memcache respectively.
 + skill set:
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
+	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
+	- DevOps and systems experience is highly valued; If you've gotten your hands dirty with package and configuration management, infrastructure-as-code principles, Kubernetes, AWS, Linux and security, PostgreSQL replication, and know your way around Docker, bash and Python, we'd love to talk with you
+	- You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on our team
++ skill set:
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Improve observability with distributed tracing for all requests from client to CDN to load balancer to cluster and back again
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
+	- Build observability into every aspect of our production infrastructure
+	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
+	- Help developers smoke-test better by bringing canary analysis and automated scale testing into their world
+	- DevOps and systems experience is highly valued; If you've gotten your hands dirty with package and configuration management, infrastructure-as-code principles, Kubernetes, AWS, Linux and security, PostgreSQL replication, and know your way around Docker, bash and Python, we'd love to talk with you
+	- You should be passionate about getting in front of problems instead of waiting until things are on fire. If you dream of stability, love metrics, communicate well, document your code, and love building reliable systems that hum along and take care of themselves, we want you on our team
++ skill set:
+	- Ansible
+	- Kafka/Cassandra
+	- Linux
+	- Git (github)
+	- Vi / Vim
+	- Elastic Search Stack
+	- Graphite/Grafana
+	- Data visualization
+	- Python, Bash, Golang
+	- Familiarity with JSON
++ skill set:
 	- Confluence
 	- Jira
 + skill set:

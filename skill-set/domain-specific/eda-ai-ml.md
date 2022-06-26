@@ -1799,6 +1799,34 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Demonstrated ability to reach stretch goals in a fast-paced environment.
 	- Outstanding written and verbal communication skills.
 + skill set:
+	- Imagimob is a fast-growing, high-tech startup with an exciting future ahead. We are currently developing our next generation hybrid AI platform that allows for advanced motion detection for smaller Internet-of-things-articles, of virtually every kind. For example, the technology is today being used in projects ranging from the automotive and manufacturing industry to the health sector.
+	- We are looking for a Machine Learning / AI Application Engineer to join our development team in Stockholm. Do you have excellent programming skills and are interested in working in the frontline of artificial intelligence? Then this position might be something for you.
+	- Working with us you will get the opportunity to become part of our cross functional team with creative and innovative software engineers and AI researchers building the next generation AI beyond Deep Learning. Since we are still in a startup phase, you will also be able to develop in the areas you find the most interesting.
+	- Has excellent programming skills in one or several languages, preferably in C, C# or Python
+	- Experience with a deep learning framework (e.g. tensorflow, keras, Torch, caffe)
+	- University degree or equivalent experience in computer science, electrical engineering, engineering physics or similar
+	- A passion for Artificial Intelligence and Machine Learning technologies
+	- Extreme ownership and go-get attitude
+	- Has experience from programming on embedded platforms
+	- Good knowledge in signal processing, statistics and its practical applications
+	- Experience from Artificial Intelligence and Machine Learning technologies
+	- And if this is not enough, you will get the chance to change history and shape the future of humanity...
+	- The opportunity to be part of building the next generation AI beyond deep learning
+	- Being part of an excellent international engineering team with highly motivated individuals striving for a common goal
+	- A chance to get to solve real world problems using AI
+	- A prestigeless and an open minded company culture
+	- Short decision paths, we love getting things done
++ skill set:
+	- 2+ years of work experience developing and deploying production-quality code
+	- Foundational knowledge of commonly used machine learning techniques, such as cluster analysis, classification methods, and linear and nonlinear regression modeling
+	- Experience developing applications using Natural Language Processing techniques.
+	- Experience working with cross-functional teams in a dynamic environment
+	- Hands-on experience building deep learning models on text corpora, preferably using PyTorch and Tensor Flow
+	- Experience building machine learning models in the healthcare domain
+	- Experience using AWS infrastructure and tools for machine learning
+	- Experience with other back-end software engineering frameworks
+	- [Talkspace](https://www.talkspace.com/)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1860,7 +1888,7 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
-
++ knowledge of CUDA / OpenCL / OpenCV
 
 
 
