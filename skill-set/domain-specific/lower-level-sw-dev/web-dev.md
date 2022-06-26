@@ -611,6 +611,19 @@
 	- Building a scalable & highly available observability stack for cloud and on premise
 + Expertise in design of scalable backend systems with experience in AWS, Kafka, Hive, MySQL
 + skill set:
+	- Experience with the full site of Go frameworks and tools, including dependency management tools (such as Godep, Sltr, etc.), Go's templating language, Go's code generation tools (such as Stringer), Popular Go web frameworks (such as Revel), Router packages (such as Gorilla Mux)
+	- Ability to write clean and effective Godoc comments
+	- Strong knowledge of Go programming language, paradigms, constructs, and idioms
+	- Knowledge of common Goroutine and channel patterns
++ skill set:
+	- NoSQL databases experience - Dynamo
+	- Experience with Python or other scripting language
+	- Amazon RedShift experience - Nice to have
+	- Experience with Grafana & Graphite
+	- Experience with DynamoDB, Git, RedShift, Athena, Spark, CloudFormation, Terraform, Perl, Python or Go
+	- Amazon AWS experience, particularly RDS, Aurora
+	- 5+ years experience with managing high transaction volume MySQL systems
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -668,6 +681,11 @@
 
 
 
+
++ skill set:
+	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
+	- Production React experience
+	- Familiarity with responsive web design
 + skill set:
 	- Experience with React/Flux, modern js tooling (Gulp/Grunt)/Webpack/Babel
 	- Excellent understanding of JavaScript, HTML5, and CSS3

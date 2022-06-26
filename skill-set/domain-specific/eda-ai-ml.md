@@ -1577,8 +1577,71 @@ Skill sets for application engineers of different EDA products:
 	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
 	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
 + ***Capsule Networks***, or capsule neural networks
-
-
++ skill set for ***Autodesk AI Lab, Pier.9 at San Francisco***:
+	- [BrickBot](https://www.fastcompany.com/90204615/autodesks-lego-model-building-robot-is-the-future-of-manufacturing)
+	- [Auto Sketching and Vectorization](https://canvasdrawer.autodeskresearch.com/)
+	- [Topology Optimization for Specific Manufacturing Processes](https://www.autodesk.com/customer-stories/general-motors-generative-design)
+	- Exploring and developing new Machine Learning models and techniques
+	- Constantly reviewing relevant Machine Learning literature to identify emerging methods or technologies and current best practices
+	- Introduces creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
+	- Planning and designing research projects: specifying the problem and defining the project scope
+	- Connecting with academics and institutions to build relationships and collaborate
+	- Realizing solutions through prototypes
+	- Exploring new data sources and discovering techniques for best leveraging data
+	- Collecting and performing data analysis to validate and further new theories and discoveries
+	- Publishing and talking at conferences
+	- Working closely with product engineers to design, develop and incorporate AI solutions into new products
+	- Meeting with customers to understand how ML could be applied to their problems
+	- Thinking strategically about research directions
+	- Mentoring more junior researchers and engineers
+	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
+	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
+	- Truly excited by the pace of advancement in AI research and technology
+	- Understanding of fundamental CS algorithms and their scaling behaviors
+	- ***Solid background in statistical methods for Machine Learning: Bayesian methods, dimensional reduction, SVD, clustering, classification, forms of regression, etc***
+	- ***Strong familiarity with Deep Learning techniques: various network architectures (CNNs, GANs, RNNs, Auto-Encoders, etc.); regularization; embeddings; loss-functions; optimization strategies; etc***
+	- ***Familiarity with one or more typical deep learning frameworks: TensorFlow, Caffe, MxNet, TORCH, PaddlePaddle, etc***
+	- Experience training and debugging networks
+	- Strong coding abilities in: Python and C/C++
+	- Good communication skills and an awareness of how to communicate data and results effectively
+	- Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills
+	- At times, the ability to lead and rally stakeholders and team members
+	- ***Reinforcement Learning and other areas of Control Theory***
+	- Distributed Systems and High Performance Computing methods
+	- ***Geometric Shape Analysis***
+	- ***Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc***
+	- ***Knowledge Representation (semantic models, graph databases, etc.)***
++ skill set:
+	- Our AI Labs focus on research in: ***deep learning, control systems, simulation and knowledge representation applied to diverse areas such as: geometry, robotics, advanced sensing, design exploration and sustainable engineering or construction practices***. The labs also host product engineers resulting in early productization of our research, so you can see your work in action.
+	- You will be a senior researcher focusing on problems related to geometry understanding, manipulation and synthesis.
+	- The Lab brings together AI Researchers, Software Engineers and specialists in various problem areas to create novel AI solutions in all the areas mentioned above and more. They work closely with experts in: geometric modeling, simulation systems, robotics, knowledge representation, sensing and computer vision, industrial manufacturing and construction techniques.
+	- Explore and develop new Machine Learning models and techniques
+	- Constantly review relevant Machine Learning literature to identify emerging methods or technologies and current best practices
+	- Introduce creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
+	- Plan and design research projects: specifying the problem and defining the project scope
+	- Connect with academics and institutions to build relationships and collaborate
+	- Realize solutions through prototypes
+	- Explore new data sources and discover techniques for best leveraging data
+	- Collect and perform data analysis to validate and further new theories and discoveries
+	- Publish and talk at conferences
+	- Work closely with product engineers to design, develop and incorporate AI solutions into new products
+	- Meet with customers to understand how ML could be applied to their problems
+	- Think strategically about research directions
+	- Mentor more junior researchers and engineers
+	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
+	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
+	- ***Solid theoretical background in geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, etc.)***
+	- ***Good background in statistical methods for Machine Learning (e.g. Bayesian methods, HMMs, Graphical Models, dimensional reduction, clustering, classification, regression techniques, etc)***
+	- ***Familiarity with Deep Learning techniques (e.g. Network architectures; regularization techniques; learning techniques; loss-functions; optimization strategies etc)***
+	- ***Familiarity with one or more typical deep learning frameworks: TensorFlow, Caffe, MxNet, TORCH, Chainer, etc.***
+	- Strong coding abilities in: Python and C/C++
+	- Good communication skills and an awareness of how to communicate data and results effectively
+	- Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills
+	- At times, the ability to lead and rally stakeholders and team members
+	- ***Reinforcement Learning and other areas of Control Theory***
+	- Distributed Systems and High Performance Computing methods
+	- ***Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc.***
+	- ***Knowledge Representation (semantic models, graph databases, etc.)***
 
 
 
@@ -1644,49 +1707,6 @@ Skill sets for application engineers of different EDA products:
 	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
 	- Previous experience building end to end Machine Learning systems
 + ***Capsule Networks***, or capsule neural networks
-+ skill set:
-	- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 + skill set:
 	- BLAH.
 + skill set:
@@ -2886,6 +2906,9 @@ They support databases for:
 + ***[Apache Airflow, Luigi](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7), workflow management system (WMS), Azkaban, [Open Source Data Pipeline – Luigi vs Azkaban vs Oozie vs Airflow](https://www.bizety.com/2017/06/05/open-source-data-pipeline-luigi-vs-azkaban-vs-oozie-vs-airflow/), [Pinball](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8), Airbnb Airflow vs Apache Nifi***
 	- ***Jenkins vs Airflow. Jenkins is an open source continuous integration tool written in Java.***
 + Exposure to big data systems like Hadoop, Spark, Kafka, etc.
++ skill set:
+	- Understanding and experience with NoSQL such as MongoDB or Neo4j
+	- Experience with the Hadoop ecosystem (HBase, MapReduce, Hive/Pig) or Spark
 + skill set:
 	- BLAH.
 + skill set:
