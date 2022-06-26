@@ -90,8 +90,8 @@
 	- Experience working with AWS, Azure, GCP
 + Experience working with Real-time Collaboration, SAML, SCIM, or OpenID preferred
 + skill set:
-	- Experience with fuzzers, at least using and configuring them; experience with AFL especially useful
-		- American Fuzzy Lop:
+	- ***Experience with fuzzers, at least using and configuring them; experience with AFL especially useful***
+		- ***American Fuzzy Lop***:
 			* https://github.com/mirrorer/afl
 			* https://lcamtuf.coredump.cx/afl/
 			* https://afl-1.readthedocs.io/en/latest/fuzzing.html
