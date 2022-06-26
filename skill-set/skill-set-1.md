@@ -46,59 +46,26 @@
 
 
 
-+ The successful candidate must be an expert in field solver-based parasitic extraction and be able to quickly become an expert in new simulation approaches and to develop robust, maintainable, and efficient code.
-+ skill set:
-	- Able to solve a wide-range of difficult problems in imaginative and creative ways, exercising judgment within broadly defined practices and policies.
-	- MSc in Computer Science, Applied Mathematics or related field with 3+ years of experience, or BSc with 5+ years of experience
-	- Proficiency in developing and maintaining modern C++ based applications in a Unix/Linux and Windows environment. Proficiency in Qt, Python, and Tcl a plus. Experience with OpenAccess also a plus.
-	- Experience in developing enterprise level software, proficiency with debug and configuration management tools as well as quality and performance metric tools.
-	- Strong communication skills and ability to write specifications and reference documentation.
-	- Proficiency in English is a must.
-	- Interest in high performance data structures and algorithms.
-	- Prior experience with or developing CAD/EDA tools and/or hardware design also a plus as is experience with geometric algorithms.
-	- Excellent organizational, prioritization, time management skills and an unwavering commitment to integrity and professionalism.
-	- Self-starter and strong closer with multitasking ability
-	- Any other duties as assigned by the Department head
-	- Computational Geometry/Topology
-	- Graph theory
-	- Pattern recognition/machine learning
-	- Compilers/parsers (experience with Flex/Bison a plus)
-	- Computer architecture (caching, memory, networking, etc.)
-	- Boost
-	- Test Driven Development
-	- Displays strong analytical abilities both quantitative and qualitative.
-	- Excellent communication skills and the ability to interface with all levels of management.
-	- Relies on experience and judgment to plan and accomplish goals.
-	- Performs a variety of complicated tasks - a certain degree of creativity and latitude is required.
-	- A key requirement of this role is being the master of all details.
-	- Ability to multi-task and handle matters with little supervision and with excellent follow up.
-	- A strong entrepreneurial and can-do mindset, undaunted by shifting priorities, uncertainty, and a “figuring it out as we go” environment.
-	- Enough courage to say “I don't know”.
-+ skill set:
-	- Experience with parallel programming, especially pthreads, OpenMP, and MPI
-	- Strong mathematical fundamentals, including linear algebra and numerical methods
-	- Experience in implementing direct and iterative solvers for the solution of large sparse linear systems
-	- Experience with CUDA or OpenACC
-+ skill set:
-	- Background in 3D computer graphics, including APIs such as OpenGL
-	- Proficient in Java, Maven, Python, Jenkins/Groovy, Vagrant/Docker
-	- Good knowledge in DFT : OCC insertion, ATPG generation
+
+
+
+
 + skill set:
 	- Imagimob is a fast-growing, high-tech startup with an exciting future ahead. We are currently developing our next generation hybrid AI platform that allows for advanced motion detection for smaller Internet-of-things-articles, of virtually every kind. For example, the technology is today being used in projects ranging from the automotive and manufacturing industry to the health sector.
 	- We are looking for a Machine Learning / AI Application Engineer to join our development team in Stockholm. Do you have excellent programming skills and are interested in working in the frontline of artificial intelligence? Then this position might be something for you.
 	- Working with us you will get the opportunity to become part of our cross functional team with creative and innovative software engineers and AI researchers building the next generation AI beyond Deep Learning. Since we are still in a startup phase, you will also be able to develop in the areas you find the most interesting.
 	- Has excellent programming skills in one or several languages, preferably in C, C# or Python
 	- Experience with a deep learning framework (e.g. tensorflow, keras, Torch, caffe)
-	- University degree or equivalent experience in computer science, electrical engineering, engineering physics or similar
+	- University degree or equivalent experience in computer science, electrical engineering, engineering physics or similar
 	- A passion for Artificial Intelligence and Machine Learning technologies
 	- Extreme ownership and go-get attitude
 	- Has experience from programming on embedded platforms
 	- Good knowledge in signal processing, statistics and its practical applications
 	- Experience from Artificial Intelligence and Machine Learning technologies
 	- And if this is not enough, you will get the chance to change history and shape the future of humanity...
-	- The opportunity to be part of building the next generation AI beyond deep learning 
+	- The opportunity to be part of building the next generation AI beyond deep learning
 	- Being part of an excellent international engineering team with highly motivated individuals striving for a common goal
-	- A chance to get to solve real world problems using AI 
+	- A chance to get to solve real world problems using AI
 	- A prestigeless and an open minded company culture
 	- Short decision paths, we love getting things done
 + skill set:

@@ -68,9 +68,11 @@ Focus on mostly equivalence checking and model checking, and less on theorem pro
 
 This includes:
 + clock domain crossing (CDC) verification, or CDC check
+	- for functional static sign-off checks
 
 
 
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -127,6 +129,7 @@ Focus on mostly model checking, and less on theorem proving (except in combinati
 Can include equivalence checking.
 
 
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -305,6 +308,35 @@ Includes the following:
 + power optimization, energy-efficient designs
 
 
+
+The sets of skills are:
++ skill set:
+	- Able to solve a wide-range of difficult problems in imaginative and creative ways, exercising judgment within broadly defined practices and policies.
+	- MSc in Computer Science, Applied Mathematics or related field with 3+ years of experience, or BSc with 5+ years of experience
+	- ***Proficiency in developing and maintaining modern C++ based applications in a Unix/Linux and Windows environment. Proficiency in Qt, Python, and Tcl a plus. Experience with OpenAccess also a plus.***
+	- Experience in developing enterprise level software, proficiency with debug and configuration management tools as well as quality and performance metric tools.
+	- Strong communication skills and ability to write specifications and reference documentation.
+	- Proficiency in English is a must.
+	- Interest in high performance data structures and algorithms.
+	- Prior experience with or developing CAD/EDA tools and/or hardware design also a plus as is experience with geometric algorithms.
+	- ***Excellent organizational, prioritization, time management skills and an unwavering commitment to integrity and professionalism.***
+	- ***Self-starter and strong closer with multitasking ability***
+	- Any other duties as assigned by the Department head
+	- ***Computational Geometry/Topology***
+	- ***Graph theory***
+	- ***Pattern recognition/machine learning***
+	- ***Compilers/parsers (experience with Flex/Bison a plus)***
+	- Computer architecture (caching, memory, networking, etc.)
+	- ***Boost***
+	- Test Driven Development
+	- Displays strong analytical abilities both quantitative and qualitative.
+	- Excellent communication skills and the ability to interface with all levels of management.
+	- Relies on experience and judgment to plan and accomplish goals.
+	- Performs a variety of complicated tasks - a certain degree of creativity and latitude is required.
+	- ***A key requirement of this role is being the master of all details.***
+	- ***Ability to multi-task and handle matters with little supervision and with excellent follow up.***
+	- ***A strong entrepreneurial and can-do mindset, undaunted by shifting priorities, uncertainty, and a “figuring it out as we go” environment.***
+	- ***Enough courage to say “I don't know”.***
 + skill set:
 	- BLAH.
 + skill set:
@@ -358,6 +390,46 @@ Includes the following:
 
 
 
+circuit-level power optimization: 
++ transistor sizing
++ voltage scaling
++ voltage islands
++ variable VDD
++ multiple threshold voltages
+	- Modern processes can build transistors with different thresholds. Power can be saved by using a mixture of CMOS transistors with two or more different threshold voltages. In the simplest form there are two different thresholds available, common called High-Vt and Low-Vt, where Vt stands for threshold voltage. ***High threshold transistors are slower but leak less, and can be used in non-critical circuits.***
++ power gating
+	- This technique uses high Vt sleep transistors which cut-off a circuit block when the block is not switching. The sleep transistor sizing is an important design parameter. This technique, also known as MTCMOS, or Multi-Threshold CMOS reduces stand-by or leakage power, and also enables Iddq testing.
++ long-channel transistors
+	- Transistors of more than minimum length leak less, but are bigger and slower.
++ stacking and parking states
+	- Logic gates may leak differently during logically equivalent input states (say 10 on a NAND gate, as opposed to 01). State machines may have less leakage in certain states.
++ logic styles:
+	- dynamic and static logic
+
+
+
+
+
+logic synthesis for low power
++ clock gating
++ logic factorization
++ path balancing
++ technology mapping
++ state encoding
++ finite-state machine decomposition
++ retiming
+
+
+Data organization for low power: https://en.wikipedia.org/wiki/Data_organization_for_low_power
+
+
+
+
+
+
+
+
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -587,6 +659,74 @@ Includes the following:
 
 
 
+###	VLSI Verification
+
+
+
+Focuses on non-formal VLSI verification, other than circuit simulation and physical verification, such as:
++ logic simulation
++ fault simulation
++ RTL simulation
++ intelligent verification, intelligent testbench automation
+
+
+
+The sets of skills are:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -658,11 +798,15 @@ This includes:
 + electromagnetic field solvers
 + layout extraction
 + parasitic extraction
++ signal integrity analysis
++ power integrity analysis
++ voltage drop analysis
++ electromigration lifetime checks
 
 
 
-
-
+The sets of skills are:
++ The successful candidate must be an expert in field solver-based parasitic extraction and be able to quickly become an expert in new simulation approaches and to develop robust, maintainable, and efficient code.
 + skill set:
 	- BLAH.
 + skill set:
@@ -718,10 +862,16 @@ This includes:
 This includes:
 + ATPG, automatic test pattern generation
 + BIST, built-in self-test
++ DFT, design for testability
++ high-level test synthesis
 
 
 
-
+The sets of skills are:
++ skill set:
+	- Background in 3D computer graphics, including APIs such as OpenGL
+	- Proficient in Java, Maven, Python, Jenkins/Groovy, Vagrant/Docker
+	- Good knowledge in DFT: OCC insertion (for on-chip clock controllers), ATPG generation
 + skill set:
 	- BLAH.
 + skill set:
@@ -779,6 +929,19 @@ This includes:
 
 
 
+Skill set for post-silicon validation and post-silicon debugging.
++ complements VLSI simulation (ESL/TLM simulation, RTL simulation, logic simulation, and circuit simulation), VLSI formal verification and logic emulation
++ use system-boards, logic analyzers, and assertion-based tools with VLSI testing for post-silicon validation and post-silicon debugging
++ use of hardware emulator, which is like hardware acceleration for RTL/logic simulation
++ in-circuit emulation
++ hardware virtualization
+	- hardware-assisted virtualization, via platform virtualization
+		* also known as accelerated virtualization, hardware virtual machine or HVM, native virtualization
+
+
+
+
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -951,7 +1114,7 @@ This includes:
 
 
 
-
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -1000,9 +1163,64 @@ This includes:
 
 
 
+###	Physical Verification
+
+
+Includes:
++ DRC, design rule check
++ LVS, layout verses schematic check
++ XOR check
++ antenna check
+	- check for antenna effects
++ ERC, electrical rule check
+	
 
 
 
+
+The sets of skills are:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

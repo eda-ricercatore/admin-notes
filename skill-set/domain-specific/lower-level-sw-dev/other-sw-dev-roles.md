@@ -4,7 +4,7 @@ This set of skill sets is for non-common software development roles, which inclu
 
 
 
-#	Software Development for Performance Engineering
+##	Software Development for Performance Engineering
 
 + skill set:
 	- Principal Performance Engineer
@@ -73,6 +73,96 @@ This set of skill sets is for non-common software development roles, which inclu
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+##	Software Development for Numerical Computing
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Graph Computing
+
+
+
+
++ skill set:
+	- Experience with parallel programming, especially pthreads, OpenMP, and MPI
+	- Strong mathematical fundamentals, including linear algebra and numerical methods
+	- Experience in implementing direct and iterative solvers for the solution of large sparse linear systems
+	- Experience with CUDA or OpenACC
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
 
 
 
