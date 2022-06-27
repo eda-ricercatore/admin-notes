@@ -592,6 +592,9 @@ Sets of skills for physical design of digital ICs/SoCs:
 				- flip chip
 			+ classifications:
 				- 3-D SiP, 3-D system-in-package
+					* for stacked memory dies interconnected with:
+						+ wire bonds
+						+ package on package PoP
 				- 3-D WLP, 3-D wafer-level package
 + clock network synthesis
 	- clock tree synthesis
