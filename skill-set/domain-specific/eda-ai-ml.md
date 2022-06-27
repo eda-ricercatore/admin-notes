@@ -1328,9 +1328,9 @@ Device simulation TCAD includes:
 				- silicon dioxide
 				- sapphire
 					* SOS, silicon on sapphire
-			+ SOI MOSFETs
-				- PDSOI, partially depleted SOI MOSFETs
-				- FDSOI, fully depleted SOI MOSFETs
+			+ ***SOI MOSFETs***
+				- ***PDSOI, partially depleted SOI MOSFETs***
+				- ***FDSOI, fully depleted SOI MOSFETs***
 		* GOI, germanium-on-insulator
 	- BJTs, bipolar junction transistors
 	- SiGe, silicon germanium
