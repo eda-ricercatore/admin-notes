@@ -1305,6 +1305,8 @@ Device simulation TCAD includes:
 			+ use organic semiconductors
 	- for photovoltaic solar cells:
 		* selenium sulfide
+	- RF CMOS
+		* based on LDMOS
 	- power semiconductor devices, for power electronics:
 		* power MOSFETs
 			+ HexFET, hexagonal type of power MOSFET
@@ -1312,6 +1314,36 @@ Device simulation TCAD includes:
 			+ LDMOS, lateral DMOS
 			+ VDMOS, vertical DMOS
 		* IGBT, insulated-gate bipolar transistor
+		* SCR, silicon-controlled rectifiers
+		* thyristors
+			+ GTO, gate turn-off thyristors
+			+ MCT, MOS-controlled thyristors, or MCT, MOSFET-controlled thyristors
+				- MOS-gated thyristors
+			+ IGCT, integrated gate-commutated thyristors
+		* triac
+		* diodes
+			+ Schottky diodes, or Schottky barrier diodes, or hot-carrier diodes
+			+ PiN diodes
+				- has wide, undoped instrinsic semiconductor region between p-type semiconductor and n-type semiconductor
+				- for RF applications:
+					* RF power amplifiers
+		* silicon-controlled switches
+		* classifications:
+			+ based on number of terminals:
+				- 2-terminal semiconductor devices
+				- 3-terminal semiconductor devices
+				- 4-terminal semiconductor devices
+			+ based on proportion of carriers:
+				- majority carrier devices
+				- minority carrier devices
+		* parameters:
+			+ breakdown voltage
+			+ on-resistance
+			+ rise & fall times
+				- rise times
+				- fall times
+			+ safe-operating area
+			+ thermal resistance
 + large-signal nonlinear semiconductor device modeling
 	- physical models, based on semiconductor device physics
 		* approximate physical phenomena
