@@ -1290,7 +1290,16 @@ Device simulation TCAD includes:
 			+ 3-D transistors, or non-planar transistors
 				- ***FinFET, fin FETs***
 				- ***GAAFET, gate-all-around FETs***
-			+ ***DGMOS, dual-gate MOFET***
+					* sometimes called, SGT, "surrounding gate transistors"
+					* MBCFETs, multi-bridge channel FETs
+			+ ***DGMOS, dual-gate MOFETs, double-gate MOFETs***
+				- planar double-gate MOFETs
+				- double-gate TFT, double-gate thin-film transistors
+				- with silicon thin film in:
+					* strong inversion, volume-inversion MOSFET
+					* strong accumulation, volume-accumulation MOSFET
+			+ tri-gate MOSFETs
+			+ FlexFET: planar, independently double-gated transistor
 	- other field-effect transistors, FETs
 		* ***MISFET, metal-insulator-semiconductor FETs***, or ***insulator-gate FETs (IGFETs)***
 			+ all MOSFETs are MISFETs
@@ -1313,6 +1322,16 @@ Device simulation TCAD includes:
 			+ use enclosed-layout-transistors, ELTs
 			+ H-gate, another RHBD MOSFET
 			+ shallow trench isolation designs 
+	- transistors manufactured using:
+		* SOI, silicon-on-insulator
+			+ types of insulators:
+				- silicon dioxide
+				- sapphire
+					* SOS, silicon on sapphire
+			+ SOI MOSFETs
+				- PDSOI, partially depleted SOI MOSFETs
+				- FDSOI, fully depleted SOI MOSFETs
+		* GOI, germanium-on-insulator
 	- BJTs, bipolar junction transistors
 	- SiGe, silicon germanium
 	- GaAs, gallium arsenide
