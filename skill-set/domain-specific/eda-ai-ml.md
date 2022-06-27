@@ -1281,18 +1281,26 @@ Device simulation TCAD includes:
 			+ subthreshold current
 			+ drain-induced-barrier-lowering current
 		* parasitic junction & inhomogeneous substrate effects
+		* MuGFETs, multi-gate MOSFETs, multi-gate FETs, or multi-gate semiconductor device
+			+ FinFET, fin FETs
+			+ DGMOS, dual-gate MOFET
+			+ GAAFET, gate-all-around FETs
 	- other field-effect transistors, FETs
+		* MISFET, metal-insulator-semiconductor FETs, or insulator-gate FETs (IGFETs)
+			+ all MOSFETs are MISFETs
+			+ but, not all MISFETs are MOSFETs
+			+ insulators can be:
+				- silicon dioxide
+				- organic insulators for organic FETs
 		* TFT, thin-film transistors
 			+ metal oxide thin-film transistors, metal oxide TFT
 				- or, oxide thin-film transistors, oxide TFT
 			+ TFT LCDs, TFT liquid-crystal displays
 		* junction FETs
-	- MISFET, metal-insulator-semiconductor FETs, or insulator-gate FETs (IGFETs)
-		* all MOSFETs are MISFETs
-		* but, not all MISFETs are MOSFETs
-		* insulators can be:
-			+ silicon dioxide
-			+ organic insulators for organic FETs
+		* Bipolar-MOS transistors:
+			+ BiCMOS, Bipolar CMOS
+			+ IGBT, see information under "power semiconductor devices"
+		* MOS sensors
 	- BJTs, bipolar junction transistors
 	- SiGe, silicon germanium
 	- GaAs, gallium arsenide
