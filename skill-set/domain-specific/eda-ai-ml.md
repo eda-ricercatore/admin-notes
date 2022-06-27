@@ -657,8 +657,70 @@ Here are the sets of skills for physical design and physical synthesis.
 
 
 
+###	Memory Compilers
 
-###	Static Timing Analysis, and Statistical Static Timing Analysis
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Static Timing Analysis (STA), and Statistical Static Timing Analysis (SSTA)
 
 
 
@@ -812,6 +874,8 @@ Skills sets for DFM, especially reactive DRM (e.g., exploiting computational lit
 		* response surface modeling
 		* mismatch simulation
 + OAI, off-axis illumination
++ STI, shallow-trench isolation
+
 
 
 
@@ -1078,8 +1142,11 @@ The sets of skills are:
 ###	Technology CAD, TCAD
 
 
+BACPAC
+
 
 ####	TCAD for Process Simulation
+
 
 
 Process simulation TCAD includes:
@@ -1135,6 +1202,9 @@ Process simulation TCAD includes:
 			+ thermally-assisted magnetic SPL, tam-SPL
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
++ CMP, chemical-mechanical planarization
+
+
 
 
 
@@ -1195,13 +1265,88 @@ Sets of skills for process simulation TCAD are:
 
 Device simulation TCAD includes:
 + device modeling for common transistors
-	- MOSFET
+	- MOSFET, metal-oxide-semiconductor FETs 
+		* a type of insulated-gate FET
+			+ enhancement mode MOSFET
+			+ depletion mode MOSFET
+		* p-channel MOSFET, PMOS
+		* n-channel MOSFET, NMOS
+		* FGMOS, floating-gate MOSFETs
+		* MOS capacitor
 		* intrinsic MOSFET device modeling
 			+ inversion-layer mobility modeling
 			+ channel charge modeling
 			+ threshold voltage modeling
 		* substrate effects on MOSFETs
-			+ 
+			+ subthreshold current
+			+ drain-induced-barrier-lowering current
+		* parasitic junction & inhomogeneous substrate effects
+	- other field-effect transistors, FETs
+		* TFT, thin-film transistors
+			+ metal oxide thin-film transistors, metal oxide TFT
+				- or, oxide thin-film transistors, oxide TFT
+			+ TFT LCDs, TFT liquid-crystal displays
+		* junction FETs
+	- MISFET, metal-insulator-semiconductor FETs, or insulator-gate FETs (IGFETs)
+		* all MOSFETs are MISFETs
+		* but, not all MISFETs are MOSFETs
+		* insulators can be:
+			+ silicon dioxide
+			+ organic insulators for organic FETs
+	- BJTs, bipolar junction transistors
+	- SiGe, silicon germanium
+	- GaAs, gallium arsenide
+	- SiC, silicon carbide
+	- for LEDs:
+		* InAs, indium arsenide
+		* InSb, indium antimonide
+		* InP, indium phosphide
+		* organic LEDs:
+			+ use organic semiconductors
+	- for photovoltaic solar cells:
+		* selenium sulfide
+	- power semiconductor devices, for power electronics:
+		* power MOSFETs
+			+ HexFET, hexagonal type of power MOSFET
+		* DMOS, double-diffused MOSFET
+			+ LDMOS, lateral DMOS
+			+ VDMOS, vertical DMOS
+		* IGBT, insulated-gate bipolar transistor
++ large-signal nonlinear semiconductor device modeling
+	- physical models, based on semiconductor device physics
+		* approximate physical phenomena
+		* pamateric models for physical properties:
+			+ oxide thickness
+			+ substrate doping concentration
+			+ carrier mobility
+		* for simplified estimates of signal-swing limitations
+	- empirical models, using curve fitting with experimental data to obtain statistical models
++ small-signal nonlinear semiconductor device modeling
+	- to evaluate:
+		* stability
+		* gain
+		* noise
+		* bandwidth
+		* bias point, or Q-point or quiescent point
+	- small-signal parameters, from production-line testing and circuit design
+		* for predicting:
+			+ circuit gain
+			+ input impedance
+			+ output impedance
+		* from parameter sets of 2-port networks:
+			+ T-parameters, transmission parameters
+			+ h-parameters, hybrid-parameters
+			+ z-parameters, impedance parameters
+			+ y-parameters, admittance parameters
+			+ S-parameters, scattering parameters
++ methods:
+	- explicit solution
+	- iterative solution
+	- graphical solution
++ types of modeling approximation
+	- piecewise linear model
+	- mathematically idealized semiconductor device models
+
 
 
 Sets of skills for device simulation TCAD are:
