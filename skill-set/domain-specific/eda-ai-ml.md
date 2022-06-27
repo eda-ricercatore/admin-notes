@@ -240,7 +240,18 @@ The sets of skills are:
 ##	Circuit Simulation
 
 
+Skill sets for circuit simulation include those for:
++ analog ICs
++ RFICs
++ digital ICs, especially "FastSPICE"
++ mixed-signal ICs
+	- especially mixed-signal ICs.
++ model order reduction, or macromodeling
+	- ***nonlinear model order reduction***
 
+
+
+The sets of skills for circuit simulation are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -418,6 +429,7 @@ logic synthesis for low power
 + state encoding
 + finite-state machine decomposition
 + retiming
++ as part of FPGA logic synthesis
 
 
 Data organization for low power: https://en.wikipedia.org/wiki/Data_organization_for_low_power
@@ -487,7 +499,12 @@ The sets of skills are:
 ###	Logic Synthesis
 
 
+Includes information on:
++ FPGA logic synthesis
 
+
+
+The sets of skills are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -546,6 +563,46 @@ The sets of skills are:
 
 
 
+Sets of skills for physical design of digital ICs/SoCs:
++ placement
++ routing
++ physical design for 3-D ICs
+	- placement for 3-D ICs
+	- routing for 3-D ICs
++ clock network synthesis
+	- clock tree synthesis
++ cell library synthesis
+	- cell library migration from a given semiconductor manufacturing process technology node to a more advanced node
++ chip-package-board co-design
++ FPGA physical design
++ DFM-aware physical design
++ power supply networks
+	- or, power and ground routing
+
+
+
+Sets of skills for physical design of analog, RF, and mixed-signal ICs/SoCs:
++ placement
++ routing
+
+
+
+
+
+Sets of skills for physical synthesis:
++ gate sizing
++ buffer insertion
++ wire sizing
++ yield-aware physical synthesis
+	- as part of DFM-aware physical synthesis, to support proactive DFM.
+
+
+
+
+
+
+
+Here are the sets of skills for physical design and physical synthesis.
 + skill set:
 	- BLAH.
 + skill set:
@@ -741,6 +798,24 @@ The sets of skills are:
 
 
 
+Skills sets for DFM, especially reactive DRM (e.g., exploiting computational lithography for pixelization of layout designs), include:
++ RET, resolution enhancement techniques
++ OPC, optical proximity correction
+	- rules-based OPC
+	- model-based OPC
+	- inverse OPC
+	- SRAF, sub-resolution assist features
++ PSM, phase-shifting mask
++ parametric DFM for semiconductor manufacturing yield optimization
+	- statistical circuit simulation, with statistical SPICE models
+		* Monte Carlo analysis
+		* response surface modeling
+		* mismatch simulation
++ OAI, off-axis illumination
+
+
+
+Sets of skills for DFM:
 + skill set:
 	- BLAH.
 + skill set:
@@ -802,6 +877,11 @@ This includes:
 + power integrity analysis
 + voltage drop analysis
 + electromigration lifetime checks
++ noise analysis
+	- static noise analysis
+	- crosstalk analysis
+	- mitigation of noise coupling
+
 
 
 
@@ -1002,7 +1082,65 @@ The sets of skills are:
 ####	TCAD for Process Simulation
 
 
+Process simulation TCAD includes:
++ ion implantation
++ diffusion
++ oxidation
++ dry/wet etching
++ deposition
++ optical photolithography and next-generation lithography (NGL) techniques
+	- EUV lithography, extreme ultraviolet lithography, EUVL
+		* 13.5 nm extreme ultraviolet lithography
+		* assist features
+		* source mask optimization
+		* phase shift masks
+		* EUV photoresist exposure
+		* contamination effects
+			+ resist outgassing
+			+ tin deposition
+			+ hydrogen blistering
+			+ resist erosion
+			+ membrane
+		* mask defects
+		* throughput scaling issues
+			+ EUV stochastic issues
+		* used with multile patterning
+		* single patterning extension, anamorphic high-NA (NA, numerical aperture)
+	- deep UV immersion lithography
+	- electronic beam lithography
+	- nanoimprint lithography
+	- X-ray lithography
+	- focused ion beam lithography
+	- BEUV lithography, or beyond extreme ultraviolet lithography
+		* about 6.7 nm wavelength
+	- other non-mainstream lithography techniques
+		* molecular self-assembly lithography
+		* stencil lithography
+		* ion beam lithography
+		* magnetolithography
+		* plasmonic lithography
+		* soft lithography
+		* laser printing lithography
+		* nanosphere lithography
+		* proton beam lithography
+		* multiphoton lithography, direct laser lithography, direct laser writing
+		* scanning probe lithography, SPL
+			+ mechanical/thermo-mechanical SPL, m-SPL
+			+ thermal SPL, t-SPL
+			+ thermo-chemical SPL, tc-SPL, or thermochemical nanolithography, TCNL
+			+ dip-pen SPL, dp-SPL, or thermal dip-pen lithography, or dip-pen nanolithography, DPN
+			+ local oxidation lithography, o-SPL
+			+ bias-induced SPL, b-SPL
+			+ current-induced SPL, c-SPL
+			+ thermally-assisted magnetic SPL, tam-SPL
++ silicidation
++ modeling mechanics of semiconductor manufacturing processes
 
+
+
+
+
+Sets of skills for process simulation TCAD are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -1055,6 +1193,18 @@ The sets of skills are:
 
 
 
+Device simulation TCAD includes:
++ device modeling for common transistors
+	- MOSFET
+		* intrinsic MOSFET device modeling
+			+ inversion-layer mobility modeling
+			+ channel charge modeling
+			+ threshold voltage modeling
+		* substrate effects on MOSFETs
+			+ 
+
+
+Sets of skills for device simulation TCAD are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -1226,7 +1376,12 @@ The sets of skills are:
 
 
 
+###	Other EDA topics
 
+
+Other EDA topics:
++ design databases
++ 
 
 
 
