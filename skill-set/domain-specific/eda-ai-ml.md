@@ -569,6 +569,22 @@ Sets of skills for physical design of digital ICs/SoCs:
 + physical design for 3-D ICs
 	- placement for 3-D ICs
 	- routing for 3-D ICs
+	- account for different types of 3-D ICs that connect dies or wafers, using:
+		* TSVs, through-silicon vias
+		* Cu-Cu connections
+		* classification by level of interconnect hierarchy:
+			+ global level, using packages
+				- 3DWLP, 3-D wafer-level packaging
+			+ intermediate level, using bond pads
+			+ local level, using transistors
+		* alternate classifications:
+			+ 3DWLP, 3-D wafer-level packaging
+			+ 2.5D interposer-based integration
+			+ 3-D interposer-based integration
+			+ 3-D stacked ICs
+			+ monolithic 3-D ICs
+			+ 3-D heterogeneous integration
+			+ 3-D systems integration
 + clock network synthesis
 	- clock tree synthesis
 + cell library synthesis
