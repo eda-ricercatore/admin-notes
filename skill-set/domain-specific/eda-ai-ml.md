@@ -1283,9 +1283,14 @@ Device simulation TCAD includes:
 			+ drain-induced-barrier-lowering current
 		* parasitic junction & inhomogeneous substrate effects
 		* ***MuGFETs, multi-gate MOSFETs, multi-gate FETs***, or ***multi-gate semiconductor devices***
-			+ ***FinFET, fin FETs***
+			+ The multiple gates can be controlled by:
+				- a single gate electrode, where the multiple gate surfaces act electrically as a single gate
+				- independent gate electrodes
+					* ***MIGFETs, multiple-independent-gate FETs***
+			+ 3-D transistors, or non-planar transistors
+				- ***FinFET, fin FETs***
+				- ***GAAFET, gate-all-around FETs***
 			+ ***DGMOS, dual-gate MOFET***
-			+ ***GAAFET, gate-all-around FETs***
 	- other field-effect transistors, FETs
 		* ***MISFET, metal-insulator-semiconductor FETs***, or ***insulator-gate FETs (IGFETs)***
 			+ all MOSFETs are MISFETs
