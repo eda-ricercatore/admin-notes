@@ -585,6 +585,14 @@ Sets of skills for physical design of digital ICs/SoCs:
 			+ monolithic 3-D ICs
 			+ 3-D heterogeneous integration
 			+ 3-D systems integration
+	- Notes:
+		* 3-D packaging:
+			+ 3-D integration schemes that rely on traditional interconnection methods for vertical stacking, such as:
+				- wire bonding
+				- flip chip
+			+ classifications:
+				- 3-D SiP, 3-D system-in-package
+				- 3-Dwafer
 + clock network synthesis
 	- clock tree synthesis
 + cell library synthesis
