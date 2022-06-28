@@ -1445,6 +1445,11 @@ Device simulation TCAD includes:
 				- fall times
 			+ safe-operating area
 			+ thermal resistance
+	- transistor classification based on number of terminals:
+		* tetrode transistors:
+			+ 4 active terminals
+		* pentode transistors:
+			+ 5 active terminals
 + large-signal nonlinear semiconductor device modeling
 	- physical models, based on semiconductor device physics
 		* approximate physical phenomena
