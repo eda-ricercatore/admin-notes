@@ -602,8 +602,35 @@ Sets of skills for physical design of digital ICs/SoCs:
 			+ 3-D SIC, 3-D stacked ICs
 				- stack ICs chips
 					* using TSV interconnects
+					* stacking approaches:
+						+ die-to-die
+						+ die-to-wafer
+						+ wafer-to-wafer
 				- monolithic 3-D ICs
 					* use fabrication processes to realize 3-D interconnects at the local levels of the on-chip wiring hierarchy (dictated by IRDS/ITRS)
+		* Benefits:
+			+ footprint, or volume that the package takes up on a board.
+			+ cost
+			+ heterogeneous integration
+			+ shorter interconnect
+			+ power
+			+ design
+			+ circuit security
+			+ bandwidth
+		* challenges:
+			+ cost
+			+ yield
+			+ heat, thermal hotspots
+				- correlation between electrical proximity and thermal proximity
+			+ design complexity
+			+ TSV-introduced overhead
+			+ testing
+			+ lack of standards
+			+ heterogeneous integration supply chain
+			+ lack of clearly defined ownership
+		* design styles
+			+ gate-level integration
+			+ block-level integration
 + clock network synthesis
 	- clock tree synthesis
 + cell library synthesis
