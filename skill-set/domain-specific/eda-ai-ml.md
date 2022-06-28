@@ -1400,6 +1400,8 @@ Device simulation TCAD includes:
 			+ use enclosed-layout-transistors, ELTs
 			+ H-gate, another RHBD MOSFET
 			+ shallow trench isolation designs
+		* OFET, organic FET
+			+ use semiconductor device architecture of TFT, thin-film transistors
 		* ChemFET, chemically-sensitive FET
 			+ FET used as a sensor for measuring chemical concentrations in a solution
 			+ compare to chemiresistors
@@ -1428,6 +1430,11 @@ Device simulation TCAD includes:
 	- SiGe, silicon germanium
 	- GaAs, gallium arsenide
 	- SiC, silicon carbide
+	- LET, light-emitting transistors
+		* organic LETs
+			+ for digital displays and on-chip optical interconnects
+			+ can be used in an active matrix of OLETs, which OLEDs cannot be used to form
+				- OLEDs can only form active matrix of OLEDs, in combination with switching elements (such as TFTs, thin-film transistors)
 	- for LEDs:
 		* InAs, indium arsenide
 		* InSb, indium antimonide
@@ -1479,7 +1486,8 @@ Device simulation TCAD includes:
 				- fall times
 			+ safe-operating area
 			+ thermal resistance
-	- transistor classification based on number of terminals:
+	- point-contact transistors
+	- *transistor classification based on number of terminals*:
 		* tetrode transistors:
 			+ 4 active terminals
 		* pentode transistors:
