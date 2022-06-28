@@ -1664,8 +1664,22 @@ The sets of skills are:
 
 Other EDA topics:
 + design databases
-+ 
-
++ ***radiation hardening***
+	- ***radiation-hardened*** ICs, ***rad-hardened*** ICs, ***rad(iation)-hardened*** ICs, or ***rad-hard*** ICs, or ***hardened*** ICs (with context provided to indicate ***radiation-hardened*** ICs)
+	- protect against:
+		* TID, total ionizing dose
+		* ELDRS, enhanced low dose rate effects
+		* neutron and proton displacement damage
+		* SEEs, single event effects
+	- sources of radiation damage:
+		* cosmic ray radiation
+		* solar particle events
+		* Van Allen radiation belts* 
+		* secondary particles resulting from the interaction of other kinds of radiation with structures around the electronic devices
+		* nuclear reactors, in nuclear power plants
+			+ gamma radiation
+			+ neutron radiation
+		* particle accelerators
 
 
 
