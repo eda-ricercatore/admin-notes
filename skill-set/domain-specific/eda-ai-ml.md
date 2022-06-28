@@ -1378,6 +1378,7 @@ Device simulation TCAD includes:
 				- gate
 				- drain
 			+ FETs are unipolar transistors
+			+ source-gated transistors
 		* ***MISFET, metal-insulator-semiconductor FETs***, or ***insulator-gate FETs (IGFETs)***
 			+ all MOSFETs are MISFETs
 			+ but, not all MISFETs are MOSFETs
@@ -1390,7 +1391,7 @@ Device simulation TCAD includes:
 			+ metal oxide thin-film transistors, metal oxide TFT
 				- or, oxide thin-film transistors, oxide TFT
 			+ TFT LCDs, TFT liquid-crystal displays
-		* junction FETs
+		* JFETs, junction FETs, junction-gate FETs
 		* Bipolar-MOS transistors:
 			+ BiCMOS, Bipolar CMOS
 			+ IGBT, see information under "power semiconductor devices"
@@ -1409,6 +1410,10 @@ Device simulation TCAD includes:
 			+ biosensor that is based the field effect due to partial charges of DNA molecules
 		* VMOS, vertical MOSFET, V-groove MOSFET
 			+ MOSFET with V-groove shape vertically cut into the substrate material
+		* Additional notes:
+			+ flowFET
+				- microfluidic analog of FETs
+				- a microfluidic component
 	- transistors manufactured using:
 		* SOI, silicon-on-insulator
 			+ types of insulators:
