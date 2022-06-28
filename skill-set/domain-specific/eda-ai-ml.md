@@ -1340,6 +1340,10 @@ Device simulation TCAD includes:
 				- high noise immunity
 				- low static power consumption
 		* ***FGMOS, floating-gate MOSFETs***
+			+ for floating-gate memory cell, digital storage element in:
+				- EPROM
+				- EEPROM
+				- flash memory
 		* MOS capacitor
 		* intrinsic MOSFET device modeling
 			+ inversion-layer mobility modeling
@@ -1392,6 +1396,11 @@ Device simulation TCAD includes:
 		* ChemFET, chemically-sensitive FET
 			+ FET used as a sensor for measuring chemical concentrations in a solution
 			+ compare to chemiresistors
+		* ISFET, ion-sensitive FET
+			+ for measuring ion concentrations in a solution
+		* BioFET, Bio-FET, biosensor FET, FET-based biosensor, field-effect biosensor, FEB, biosensor MOSFET
+		* DNAFET, DNA FET
+			+ biosensor that is based the field effect due to partial charges of DNA molecules
 	- transistors manufactured using:
 		* SOI, silicon-on-insulator
 			+ types of insulators:
@@ -1420,7 +1429,10 @@ Device simulation TCAD includes:
 		* power MOSFETs
 			+ HexFET, hexagonal type of power MOSFET
 		* DMOS, double-diffused MOSFET
-			+ LDMOS, lateral DMOS, lateral-diffused MOSFET
+			+ LDMOS, lateral DMOS, lateral-diffused MOSFET, laterally-diffused MOSFET
+				- planar double-diffused MOSFET
+				- RF LDMOS
+					* for power amplifiers and other applications
 			+ VDMOS, vertical DMOS
 		* IGBT, insulated-gate bipolar transistor
 		* SCR, silicon-controlled rectifiers
