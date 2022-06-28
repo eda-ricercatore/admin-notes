@@ -1334,6 +1334,11 @@ Device simulation TCAD includes:
 		* p-channel MOSFET, PMOS
 		* n-channel MOSFET, NMOS
 			+ ggNMOS, grounded-gate NMOS
+				- electrostatic discharge (ESD) protection device
+		* CMOS, complementary MOSFET
+			+ advantages:
+				- high noise immunity
+				- low static power consumption
 		* ***FGMOS, floating-gate MOSFETs***
 		* MOS capacitor
 		* intrinsic MOSFET device modeling
@@ -1383,7 +1388,10 @@ Device simulation TCAD includes:
 		* RHBD, radiation-hardened-by-design
 			+ use enclosed-layout-transistors, ELTs
 			+ H-gate, another RHBD MOSFET
-			+ shallow trench isolation designs 
+			+ shallow trench isolation designs
+		* ChemFET, chemically-sensitive FET
+			+ FET used as a sensor for measuring chemical concentrations in a solution
+			+ compare to chemiresistors
 	- transistors manufactured using:
 		* SOI, silicon-on-insulator
 			+ types of insulators:
