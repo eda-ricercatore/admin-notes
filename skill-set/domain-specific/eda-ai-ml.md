@@ -1372,6 +1372,12 @@ Device simulation TCAD includes:
 			+ tri-gate MOSFETs
 			+ FlexFET: planar, independently double-gated transistor
 	- other field-effect transistors, FETs
+		* propeties and charracteristics
+			+ FETs are 3-terminal devices:
+				- source
+				- gate
+				- drain
+			+ FETs are unipolar transistors
 		* ***MISFET, metal-insulator-semiconductor FETs***, or ***insulator-gate FETs (IGFETs)***
 			+ all MOSFETs are MISFETs
 			+ but, not all MISFETs are MOSFETs
@@ -1401,6 +1407,8 @@ Device simulation TCAD includes:
 		* BioFET, Bio-FET, biosensor FET, FET-based biosensor, field-effect biosensor, FEB, biosensor MOSFET
 		* DNAFET, DNA FET
 			+ biosensor that is based the field effect due to partial charges of DNA molecules
+		* VMOS, vertical MOSFET, V-groove MOSFET
+			+ MOSFET with V-groove shape vertically cut into the substrate material
 	- transistors manufactured using:
 		* SOI, silicon-on-insulator
 			+ types of insulators:
@@ -1428,6 +1436,7 @@ Device simulation TCAD includes:
 	- power semiconductor devices, for power electronics:
 		* power MOSFETs
 			+ HexFET, hexagonal type of power MOSFET
+			+ UMOS, trench-MOS, trench-gate MOSFET
 		* DMOS, double-diffused MOSFET
 			+ LDMOS, lateral DMOS, lateral-diffused MOSFET, laterally-diffused MOSFET
 				- planar double-diffused MOSFET
