@@ -1680,7 +1680,30 @@ Other EDA topics:
 			+ gamma radiation
 			+ neutron radiation
 		* particle accelerators
-
+		* nuclear explosions
+		* chip packaging materials
+			+ fixed by using:
+				- more pure, or purer, chip packaging materials
+				- error correction code, or error correcting code, ECC
+	- radiation effects on electronics
+		* fundamental mechanisms
+			+ lattice displacement
+			+ ionizing effects
+		* resultant effects
+			+ total ionizing dose effects
+			+ transient dose effects
+			+ systems-generated EMP effects
+		* digital damage of SEEs, single event effects
+			+ single-event transient
+			+ single-event upset
+			+ single-event latchup
+			+ single-event snapback
+			+ single-event induced burnout
+			+ single-event gate rupture
+		+ SEE testing, or testing for single event effects
+	- radiation hardening techniques
+		+ physical radiation hardening
+		+ logical radiation hardening
 
 
 
