@@ -596,7 +596,14 @@ Sets of skills for physical design of digital ICs/SoCs:
 						+ wire bonds
 						+ package on package PoP
 				- 3-D WLP, 3-D wafer-level package
-					+ uses wafer-level processesdetermine
+					+ uses wafer-level processes such as redistribution layers (RDLs) and wafer bumping processes to form interconnects
+					* 2.5D interposer, using silicon/glass/organic interposer using through silicon vias (TSVs) and RDL
+		* 3-D ICs
+			+ 3-D SIC, 3-D stacked ICs
+				- stack ICs chips
+					* using TSV interconnects
+				- monolithic 3-D ICs
+					* use fabrication processes to realize 3-D interconnects at the local levels of the on-chip wiring hierarchy (dictated by IRDS/ITRS)
 + clock network synthesis
 	- clock tree synthesis
 + cell library synthesis
