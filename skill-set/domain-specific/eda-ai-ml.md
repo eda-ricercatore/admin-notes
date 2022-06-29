@@ -1207,8 +1207,8 @@ The sets of skills are:
 + DTCO
 	- Support tools
 		* BACPAC, Berkeley Advanced Chip Performance Calculator
-
-
+			+ Estimate impact of semiconductor manufacturing process technology node, or process node
+				- semiconductor manufacturing process technology node is defined by the minimum feature size
 
 
 
@@ -1221,7 +1221,7 @@ The sets of skills are:
 
 
 
-Process simulation TCAD includes:
+Process simulation TCAD:
 + ion implantation
 + diffusion
 + oxidation
@@ -1276,6 +1276,78 @@ Process simulation TCAD includes:
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical planarization
 
+
+
+
+
+Steps for wafer processing are:
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ thermal treatments
+	- rapid thermal anneal
+	- furnance anneals
+	- thermal oxidation
++ CVD, chemical vapor deposition
++ ALD, atomic layer deposition
++ PVD, physical vapor deposition
++ MBE, molecular beam epitaxy
++ laser lift-off, LED protection
++ ECD, electrochemical deposition
+	- electroplating
++ CMP, chemical-mechanical polishing
++ wafer testing
+	- via automated test equipment, ATE
+	- binning
+	- laser trimming
+
+
+
+
+
+
+Steps for die preparation are:
++ through-silicon, via semiconductor manufacturing for 3-D ICs
++ wafer mounting
++ wafer backgrinding and polishing
++ wafer bonding and wafer stacking, 3-D ICs and MEMS
++ redistribution layer manufacturing, for WLCSP packages (or wafer-level packaging)
++ wafer bumping
+	- for flip chip BGA, flip chip ball grid array
+	- for WLCSP packages (or wafer-level packaging)
++ die cutting or wafer dicing
+
+
+
+
+
+Steps for IC packaging are:
++ die attachment
++ IC bonding
+	- wire bonding
+	- thermosonic bonding
+	- flip chip, controlled collapse chip connection, C4
+	- tape-automated bonding
++ IC encapsulation, integrated heat spreader installation, or IHS installation
+	- molding
+	- baking
+	- electroplating
+	- baking marking, or silkscreen printing
+	- trim and form
++ IC testing
 
 
 
