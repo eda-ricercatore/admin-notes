@@ -1279,24 +1279,50 @@ Process simulation TCAD:
 
 
 
+main categories of wafer processing are:
++ deposition
+	- PVD, physical vapor deposition	
+	- CVD, chemical vapor deposition
+	- ECD, electrochemical deposition
+	- MBE, molecular beam epitaxy
+	- ALD, atomic layer deposition
+	- oxide layer formation
+		* thermal oxidation
+		* LOCOS, LOCal Oxidation of Silicon
++ removal (of material from the wafer)
+	- etching
+		* dry etching
+		* wet etching
++ patterning (to shape or alter deposited materials via lithography)
+	- optical photolithography
+		* coat wafers with the chemical photoresist
+		* stepper that focuses, aligns, and moves masks
++ modification of electrical properties
+	- doping transistor sources and drains
+		* via diffusion furnaces
+
+
 
 Steps for wafer processing are:
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
++ wet cleans
+	- cleaning by solvents, such as:
+		* acetone
+		* trichloroethylene
+		* ultrapure water
+	- piranha solution
+	- RCA clean
++ surface passivation
++ photolithography
++ ion implantation
++ etching (for microfabrication)
+	- dry etching
+		* plasma etching
+		* RIE, reactive-ion etching
+			+ deep reactive-ion etching
+			+ ALE, atomic layer etching
+	- wet etching
+		* buffered oxide etch
++ plasma ashing
 + thermal treatments
 	- rapid thermal anneal
 	- furnance anneals
