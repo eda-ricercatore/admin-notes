@@ -1487,11 +1487,21 @@ Device simulation TCAD includes:
 			+ safe-operating area
 			+ thermal resistance
 	- point-contact transistors
+	- UJT, unijunction transistor
+		* programmable UJT, or programmable unijunction transistor
 	- *transistor classification based on number of terminals*:
 		* tetrode transistors:
 			+ 4 active terminals
 		* pentode transistors:
 			+ 5 active terminals
++ device modeling for other devices:
+	- memristors
+	- memtransistors
+		* 2-terminal devices
+		* 7-terminal devices
+	- memistors
+		* 7-terminal devices
+	- trancitors, "transfer-capacitors"
 + large-signal nonlinear semiconductor device modeling
 	- physical models, based on semiconductor device physics
 		* approximate physical phenomena
