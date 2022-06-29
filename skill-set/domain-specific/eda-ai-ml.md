@@ -1313,7 +1313,9 @@ main categories of wafer processing are:
 
 FEOL processing, front-end-of-line processing
 + form/create the transistors directly in the silicon
-+ epitaxy, for crystal growth or material deposition to form new crystalline layers with one/multiple well-defined orientations with respect to the crystalline seed layer
++ epitaxy
+	- for crystal growth or material deposition to form new crystalline layers with one/multiple well-defined orientations with respect to the crystalline seed layer
+	- this creates/grows an ultrapure, virtually defect-free silicon layer
 	
 
 
