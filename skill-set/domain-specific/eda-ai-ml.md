@@ -1363,7 +1363,7 @@ Device simulation TCAD includes:
 				- ***GAAFET, gate-all-around FETs***
 					* sometimes called, SGT, "surrounding gate transistors"
 					* MBCFETs, multi-bridge channel FETs
-			+ ***DGMOS, dual-gate MOFETs, double-gate MOFETs***
+			+ ***DGMOS, DGMOSFET, dual-gate MOFETs, double-gate MOFETs***
 				- planar double-gate MOFETs
 				- double-gate TFT, double-gate thin-film transistors
 				- with silicon thin film in:
@@ -1391,7 +1391,23 @@ Device simulation TCAD includes:
 			+ metal oxide thin-film transistors, metal oxide TFT
 				- or, oxide thin-film transistors, oxide TFT
 			+ TFT LCDs, TFT liquid-crystal displays
+		* ***CNTFET, carbon nanotube FET***
+		* MESFET, metal-semiconductor FET
 		* JFETs, junction FETs, junction-gate FETs
+		* VTFET, vertical-transport FET
+		* Fe FET, ferroelectric FET
+		* GFET, graphene-based FET
+			+ GNRFET, graphene nanoribbon FET
+		* NOMFET, nanoparticle organic memory FET
+		* SB-FET. Schottky-barrier FET
+		* VeSFET, vertical-slit FET
+		* HEMT, high-electron-mobility FET, HFET, heterostructure FET
+		* TQFET, topological quantum FET
+		* TFET, tunnel FET
+		* MODFET, modulation-doped FET
+		* HIGFET, heterostructure insulated-gate FET
+		* DEPFET, FET formed in fully depleted substrate and simultaneously act as a sensor, amplifier, and memory node
+		* JLNT, junctionless nanowire transistor
 		* Bipolar-MOS transistors:
 			+ BiCMOS, Bipolar CMOS
 			+ IGBT, see information under "power semiconductor devices"
