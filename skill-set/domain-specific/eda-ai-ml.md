@@ -1407,6 +1407,42 @@ Steps for wafer processing are:
 
 
 
+steps in wafer fabrication:
++ grow field oxide
++ etch oxide for pMOSFET
++ diffuse n-well
++ etch oxide for nMOSFET
++ grow gate oxide
++ deposit polysilicon
++ etch polysilicon and oxide
++ implant sources and drains
++ grow nitride
++ deposit metal
++ etch metal
+
+
+
+
+
+
+
+
+
+steps for etching step/process:
++ prepare wafer
++ apply photoresist
++ align photomask
++ expose to UV light
++ develop and remove photoresist exposes to UV light
++ etch exposed oxide
++ remove remaining photoresist
+
+
+
+
+
+
+
 
 
 
