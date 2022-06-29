@@ -1311,8 +1311,8 @@ main categories of wafer processing are:
 
 
 
-FEOL processing, front-end-of-line processing
-+ form/create the transistors directly in the 
+FEOL processing, front-end-of-line processing, or front-end surface engineering
++ form/create the transistors directly in the silicon
 + optional step for advanced technology nodes:
 	- straining step to deposit silicon variant, such as silicon-germanium (SiGe)
 + epitaxy
@@ -1321,15 +1321,32 @@ FEOL processing, front-end-of-line processing
 	
 
 
-
-
+Gate oxide and implants, between FEOL and BEOL:
++ grow gate dielectric (silicon dioxide)
++ patterning of the gate
++ patterning of the source and drain regions
++ implantation or diffusion of dopants to obtain the desired complementary electrical properties
 
 
 
 
 BEOL processing, back-end-of-line processing
-+ 
++ Notes:
+	- "back end of chip fabrication" includes:
+		* packaging
+		* testing
++ create metal interconnecting wires that are isolated by dielectric layers
++ interconnects are made from subtractive aluminium
+	- deposit blanket films of aluminum
+	- pattern the films of aluminum
+	- etch the films of aluminum, such that isolated wires are left
 
+
+
+Wafer testing, post-BEOL
++ use wafer test metrology equipment to check if prior semiconductor manufacturing steps have not damaged the wafers.
++ virtual metrology
+	- for predicting wafer properties using statistical methods, without having to perform the physical measurement itself
 
 
 
@@ -1345,6 +1362,16 @@ Steps for wafer processing are:
 		* ultrapure water
 	- piranha solution
 	- RCA clean
+		* performed before high-temperature processing steps of silicon wafers in semiconductor manufacturing
+			+ oxidation
+			+ diffusion
+			+ CVD, chemical vapor deposition
+		* involves the following:
+			+ removal of the organic contaminants
+				- organic clean + particle clean
+			+ removal of thin oxide layer
+				- optional oxide strip
+			+ removal of ionic contamination (ionic clean)
 + surface passivation
 + photolithography
 + ion implantation
@@ -1373,6 +1400,7 @@ Steps for wafer processing are:
 	- via automated test equipment, ATE
 	- binning
 	- laser trimming
++ Wright etch, or Wright-Jenkins etch
 
 
 
