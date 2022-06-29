@@ -1318,7 +1318,16 @@ FEOL processing, front-end-of-line processing, or front-end surface engineering
 + epitaxy
 	- for crystal growth or material deposition to form new crystalline layers with one/multiple well-defined orientations with respect to the crystalline seed layer
 	- this creates/grows an ultrapure, virtually defect-free silicon layer
-	
++ select type of wafer to be used
++ CMP, chemical-mechanical planarization
++ cleaning of the wafer
++ STI, shallow trench isolation
++ well formation
++ gate module formation
++ source and drain module formation
+
+
+
 
 
 Gate oxide and implants, between FEOL and BEOL:
