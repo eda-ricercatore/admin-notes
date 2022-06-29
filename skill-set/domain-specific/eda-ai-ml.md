@@ -1299,7 +1299,37 @@ main categories of wafer processing are:
 		* stepper that focuses, aligns, and moves masks
 + modification of electrical properties
 	- doping transistor sources and drains
-		* via diffusion furnaces
+		* using diffusion furnaces
+		* using ion implantation
+	- furnance annealing (for old technology nodes) and rapid thermal annealing (RTA, for modern technology nodes) 
+	- UVP, UV processing
+		* expose low-k insulators to ultraviolet light to reduce their dielectric constant
+		* oxidation, to create semiconductor-insulator junctions
+			+ LOCOS, LOCal Oxidation of Silicon
+				- for manufacturing MOSFETs
+
+
+
+
+FEOL processing, front-end-of-line processing
+
+
+
+
+
+
+
+
+
+
+
+BEOL processing, back-end-of-line processing
++ 
+
+
+
+
+
 
 
 
@@ -1339,6 +1369,10 @@ Steps for wafer processing are:
 	- via automated test equipment, ATE
 	- binning
 	- laser trimming
+
+
+
+
 
 
 
