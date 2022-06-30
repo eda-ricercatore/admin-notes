@@ -1274,7 +1274,7 @@ Process simulation TCAD:
 			+ thermally-assisted magnetic SPL, tam-SPL
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
-+ CMP, chemical-mechanical planarization
++ CMP, chemical-mechanical polishing, chemical-mechanical planarization
 
 
 
@@ -1323,7 +1323,7 @@ FEOL processing, front-end-of-line processing, or front-end surface engineering
 	- for crystal growth or material deposition to form new crystalline layers with one/multiple well-defined orientations with respect to the crystalline seed layer
 	- this creates/grows an ultrapure, virtually defect-free silicon layer
 + select type of wafer to be used
-+ CMP, chemical-mechanical planarization
++ CMP, chemical-mechanical polishing, chemical-mechanical planarization
 + cleaning of the wafer
 + STI, shallow trench isolation
 + well formation
@@ -1352,11 +1352,24 @@ BEOL processing, back-end-of-line processing
 		* connect individual components/devices (such as transistors, capacitors, & resistors) to each other using wires on the wafer, the metalization layer
 		* starts from the 1st deposited layer of metal on the metal
 			+ or, when the 1st layer of metal is deposited on the wafer
-		* contacts
-		* insulating layers (or dielectrics)
+		* interconnect wires
+		* contacts/pads
+		* insulating layers (or dielectrics, or dielectric structures)
 		* metal levels
 		* bonding sites for chip-to-package connections
+		* vias
++ silicidation of source and drain regions an dthe polysilicon region
 + create metal interconnecting wires that are isolated by dielectric layers
+	- Add a dielectric (1st, lower layer is pre-metal dielectric, PMD) to isolate eta from silicon and polysilicon
+	- Process with CMP, chemical-mechanical polishing, chemical-mechanical planarization
+	- make holes in PMD
+		* make contacts in the holes
+	- add metal layer 1
+	- add a 2nd dielectric, inter-metal dielectric (IMD)
+	- make vias through dielectric to connect lower metal with higher metal
+		* fill vias by metal CVD process
+		* repeat steps from adding metal layer to filling vias via metal CVD process to obtain all metal layers
+	- add final passivation layer to protect the IC.
 + interconnects are made from subtractive aluminium
 	- deposit blanket films of aluminum
 	- pattern the films of aluminum
@@ -1416,7 +1429,7 @@ Steps for wafer processing are:
 + laser lift-off, LED protection
 + ECD, electrochemical deposition
 	- electroplating
-+ CMP, chemical-mechanical polishing
++ CMP, chemical-mechanical polishing, chemical-mechanical planarization
 + wafer testing
 	- via automated test equipment, ATE
 	- binning
