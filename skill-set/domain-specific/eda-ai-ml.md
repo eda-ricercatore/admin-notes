@@ -1344,6 +1344,7 @@ BEOL processing, back-end-of-line processing
 	- "back end of chip fabrication" includes:
 		* packaging
 		* testing
+	- Second portion of the IC fabrication
 + create metal interconnecting wires that are isolated by dielectric layers
 + interconnects are made from subtractive aluminium
 	- deposit blanket films of aluminum
