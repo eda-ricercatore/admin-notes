@@ -1312,7 +1312,11 @@ main categories of wafer processing are:
 
 
 FEOL processing, front-end-of-line processing, or front-end surface engineering
-+ form/create the transistors directly in the silicon
++ Notes:
+	- 1st portion of the semiconductor manufacturing process
+		* form/create the devices (such as transistors, capacitors, resistors, ...) directly in the silicon as patterns
+			+ or, patterned in the semiconductor
+		* from the patterning of devices on the semiconductor wafer till the deposition of metal interconnection layers (not including the 1st metal layer deposition)
 + optional step for advanced technology nodes:
 	- straining step to deposit silicon variant, such as silicon-germanium (SiGe)
 + epitaxy
@@ -1344,7 +1348,14 @@ BEOL processing, back-end-of-line processing
 	- "back end of chip fabrication" includes:
 		* packaging
 		* testing
-	- Second portion of the IC fabrication
+	- 2nd portion of the semiconductor manufacturing process
+		* connect individual components/devices (such as transistors, capacitors, & resistors) to each other using wires on the wafer, the metalization layer
+		* starts from the 1st deposited layer of metal on the metal
+			+ or, when the 1st layer of metal is deposited on the wafer
+		* contacts
+		* insulating layers (or dielectrics)
+		* metal levels
+		* bonding sites for chip-to-package connections
 + create metal interconnecting wires that are isolated by dielectric layers
 + interconnects are made from subtractive aluminium
 	- deposit blanket films of aluminum
