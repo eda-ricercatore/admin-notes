@@ -1377,6 +1377,18 @@ BEOL processing, back-end-of-line processing
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Wafer testing, post-BEOL
 + use wafer test metrology equipment to check if prior semiconductor manufacturing steps have not damaged the wafers.
 + virtual metrology
@@ -1510,6 +1522,20 @@ Steps for IC packaging are:
 	- baking marking, or silkscreen printing
 	- trim and form
 + IC testing
+
+
+
+
+
+
+Additional informations about semiconductor manufacturing:
++ self-aligned gate
+	- use gate electrode as mask for doping source and drain regions, so that the source and drain regions would be "self-aligned" to gate terminal/channel/electrode
+
+
+
+
+
 
 
 
