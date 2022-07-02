@@ -1,7 +1,30 @@
 #	EDA, AI, (Applied) Machine Learning, MLOps, ModelOps, Data Science, Data Engineering, DataOps, MIS, & Corporate Research Labs
 
 
+Important things to pay attention to, so that I can create my own 
++ Semiconductor pathfinding for research and development (R&D) activities
+	- References:
+		* [Semiconductor Pathfinding and Development](https://www.thermofisher.com/us/en/home/semiconductors/pathfinding.html)
+			+ Directed from Thermo Fisher Scientific -> Applications & Techniques -> Industrial & Applied Sciences -> ***Semiconductor Analysis*** -> Applications -> Semiconductor Pathfinding and Development
+				- https://www.thermofisher.com/us/en/home/semiconductors.html#applications
+			+ Use cases:
+				- [NEXS Software, CAD navigation and design debug solutions](https://www.thermofisher.com/us/en/home/electron-microscopy/products/software-em-3d-vis/nexs-software.html) 
+				- Circuit edit and nanoprobing
+					* [use of high-resolution focused ion beams (FiBs) and advanced chemistry to perform "nanosurgery" on semiconductor devices](https://www.thermofisher.com/us/en/home/semiconductors/circuit-edit.html)
+				- defect localization and analysis
+				- physical and chemical characterization
+
+
 ###	EDA: Electronic Design Automation Job Opportunities
+
+
+####	Integrated Device Manufacturers (IDMs)
+
+
+IDMs that may have their own EDA software develoment group:
++ [From Wikipedia, list of integrated device manufacturers (IDMs)](https://en.wikipedia.org/wiki/Integrated_device_manufacturer)
++ [From Wikipedia, list of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
++ [From Wikipedia, list of the top semiconductor companies in terms of the most revenue](https://en.wikipedia.org/wiki/Semiconductor_industry)
 
 
 
@@ -1531,8 +1554,69 @@ Steps for IC packaging are:
 Additional informations about semiconductor manufacturing:
 + self-aligned gate
 	- use gate electrode as mask for doping source and drain regions, so that the source and drain regions would be "self-aligned" to gate terminal/channel/electrode
-
-
++ [Density-functional theory (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory)
+	- "Density-functional theory (DFT) is a computational quantum mechanical modelling method used in physics, chemistry and materials science to investigate the electronic structure (or nuclear structure) (principally the ground state) of many-body systems, in particular atoms, molecules, and the condensed phases. Using this theory, the properties of a many-electron system can be determined by using functionals, i.e. functions of another function. In the case of DFT, these are functionals of the spatially dependent electron density. DFT is among the most popular and versatile methods available in condensed-matter physics, computational physics, and computational chemistry."
++ semiconductor metrology instruments
+	- Enable (statistical) quality control, or statistical process control, for the semiconductor manufacturing processes.
+	- Semiconductor inspection processes.
+	- Types of semiconductor metrology instruments:
+		* wafer probers
+			- atomic force microscopy???
+		* imaging stations
+		* ellipsometers
+		* CD-SEMs, critical-dimension scanning electron microscope
+			- includes backscattering
+				- via BSE, back-scattered electron detector
+		* reflectometers
+			* MBIR, model-based infrared reflectometry
+		* resistance probes
+		* resistance high-energy electron diffraction (RHEED) system
+		* X-ray diffractometers
+			+ CD-SAXS, critical-dimension X-ray scanning metrology technology
+				- measures:
+					* average shape of periodic nanostructures
+					* edge roughness
+					* pitch walking
+		* technologies that I don't know how to classify:
+			+ OCD metrology, optical critical dimension metrology
+				- scatterometry
+				- spectroscopic ellipsometry
+					* non-destructive optical technique
+					* can measure properties of thin-film structures in logic and memory chips
+				- can be combined with TEM, transmission electron microscope, for better cost-effectiveness
+				- disadvantages:
+					* time consuming, hence a longer time-to-market (TTM)
+					* costly
+		* Examples of semiconductor metrology instruments include:
+			+ ion mills
+			+ C-V systems
+			+ interferometers
+			+ source measure units (SME) magnetometers
+			+ optical and imaging systems
+			+ profilometers
+		* Use cases for semiconductor metrology instruments:
+			+ measurement of the line width and hole diameter of a circuit pattern at a specified location of a semiconductor wafer, using CD-SEM
+			+ measurement of the thickness of the thin films on the surface of a semiconductor wafer (e.g., using ellopsometer)
+			+ metrology system to check the accuracy of the accuracy of the overlay (i.e., overlay tool)
+			+ broadly:
+				- semiconductor failure analysis
+				- semiconductor physical characterization
+				- semiconductor chemical characterization
+				- electrostatic discharge (ESD) qualification
+				- memory device metrology and analysis
+				- power semiconductor device analysis
+				- semiconductor manufacturing yield ramp and metrology
+		* Address challenges ranging from:
+			+ SADP, self-aligned double patterning
+			+ SAQP, self-aligned quadruple patterning
+			+ EUV lithography
+			+ measurement-intensive OPC mask correction
+			+ emerging 3-D architectures
+			+ Facilitate statistical process control for these advanced semiconductor manufacturing technologies.
+		* Recommended approach:
+			+ hybrid metrology, since each category of instruments has its advantages and disadvantages
+		* References:
+			+ https://www.globalspec.com/learnmore/manufacturing_process_equipment/vacuum_equipment/thin_film_equipment/semiconductor_metrology_instruments
 
 
 
@@ -2735,13 +2819,24 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
-###	Natural Language Processing
+###	Natural Language Processing, NLP
+
+
+
+Companies involved in natural language processing, NLP:
++ https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/
++ https://localizejs.com/articles/types-of-machine-translation/
 
 
 
 
 
-+ Experience with Natural Language Processing
+
+
+
+
+Skills for natural language processing, NLP:
++ Experience with Natural Language Processing topics, such as:
 	- Topic Modeling
 	- Document Classification
 	- Document Summarization

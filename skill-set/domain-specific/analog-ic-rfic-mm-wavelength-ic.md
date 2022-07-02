@@ -1,4 +1,25 @@
-#	Financial Engineering, Computational Finance, and Financial Analytics
+#	Analog IC Design, RFIC Design, and Millimeter-Wave IC Design
+
+
+
+##	Integrated Device Manufacturers (IDMs)
+
+
+
++ [From Wikipedia, list of integrated device manufacturers (IDMs)](https://en.wikipedia.org/wiki/Integrated_device_manufacturer)
++ [From Wikipedia, list of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
++ [From Wikipedia, list of the top semiconductor companies in terms of the most revenue](https://en.wikipedia.org/wiki/Semiconductor_industry)
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 
@@ -6,60 +27,7 @@
 
 
 
-#	Financial Engineering
-
-
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##	Computational Finance
-
+##	Analog IC Design
 
 
 + skill set:
@@ -111,32 +79,62 @@
 
 
 
-##	Financial Analytics & Applied Machine Learning in Finance
+##	RFIC Design
 
 
 
-This subsection includes skill sets for data science and applied machine learning roles in financial services, including:
-+ banking
-	- retail banking
-		* for consumers, individuals and families
-		* for small businesses
-	- business banking
-		* or commercial banking
-		* for mid=market businesses
-	- corporate banking
-		* for large business entities
-	- investment banking
-		* for financial markets
-	- private banking
-		* wealth management services for high-net-worth individuals (HNWIs) and families
-			+ high-net-worth individuals (HNWIs)
-				- net worth or financial assets (excluding their primary residence): >US$1 million
-			+ very-high-net-worth individuals, very-HNWI, or VHNWIs
-				- net worth or financial assets (excluding their primary residence): >US$5 million
-			+ ultra-high-net-worth individuals, ultra-HNWI, or UHNWIs
-				- net worth or financial assets (excluding their primary residence): >US$30 million
-+ insurance
-+ investment management
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Millimeter-Wave IC Design
+
+
 
 
 
