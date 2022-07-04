@@ -28,12 +28,83 @@
 	- Experience delivering products through a modern cloud-native enterprise sales process
 	- Technical skills strong enough to link architectural decisions to business impacts and deliver live demonstrations of the products
 	- Experience with adapting product pricing, GTM strategies, cost models, and promotions to drive business outcomes 
-
-
-
-
-
-
++ Align plans and strategies with product performances metrics (KPIs), which reflect revenue as well as customer growth, engagement, and retention 
++ skill set:
+	- Manage and overview project teams while monitoring and controlling projects constraints (scope, time, cost)
+	- Ensure successful delivery by meeting quality standards jointly agreed with Customers
+	- Provide technical guidance to the project team
+	- Ensure time-efficient tasks assignments to project team members
+	- Build trust and manage successful relationships with expert.ai Customers
+	- Manage multiple projects in parallel
+	- Graduated in Computer Science with a technical background
+	- A professional with more than 5 years of experience in software development projects within consultancy firms, system integrators, IT for financial services (previous experience in the AI/NLP/NLU industry will be considered a plus)
+	- Skilled in organization and Project Management (PMP®, PSM®, Prince 2® certifications will be considered a plus)
+	- Able to deliver effective technical presentation to any audience expressing strong communication skills
+	- Problem solver and result oriented
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

@@ -402,6 +402,67 @@ DevOps is at the intersection of:
 	- Confluence
 	- Jira
 + skill set:
+	- Infrastructure Engineer.
+	- In this role you will be responsible of monitoring the constant quality of the infrastructure and corporate networks, by performing diagnostic tests and debugging procedures to optimize computing systems.
+	- Analyze and suggest changes to test, dev and prod infrastructure
+	- Ensure utmost uptime for entire network services and servers
+	- Implement infrastructure security policies
+	- Provide consultancy and support for teams with various/different levels of IT knowledge
+	- Make policy recommendations for further implementations and development
+	- Develop and maintain an IT sourcing strategy and ensure the correct provisioning of IT equipment. Solve problems using in-depth understanding of information systems and computing solutions.
+	- Monitor constantly the quality of the infrastructure and support the management of network infrastructures.
+	- Ensure data is stored securely and backed up regularly
+	- Work on process documentation as well as backup and recovery procedures, data retrieval, network and infrastructure diagrams.
+	- Research, design and recommend new approaches to improve the networked computer system
+	- Expert about networks and their protocols
+	- Proficient with both network hardware and technologies and also with shared storage technologies
+	- Skilled in backup procedures for data storage and disaster recovery
+	- Expert about cloud environments and infrastructures, in particular Microsoft Azure and Amazon AWS
+	- You have a good knowledge about firewalls and virtualization systems like VMware, Hyper-V
+	- Fluent in English written and spoken
+	- You have a good attitude towards problem solving and team working
+	- You have at least 5 years of experience in this role and a degree in Computer Science or Engineering
+	- It would be nice if you would have knowledge of container systems like Docker and Kubernetes, and CloudFlare.
++ skill set:
+	- Cloud & DevOps Engineer – Italy.
+	- Define and monitor the deployment process
+	- Deploy both on-premises by the customer and on our infrastructure
+	- Offer first-level support and triage of issues reported by customers
+	- Directly manage deployment and infrastructure issues
+	- Coordinate second-level support, engaging with developers and other teams
+	- A graduate in Computer Science, Computer Engineering or an equivalent title
+	- Expert of Windows/Linux operating systems with basic systemic knowledge
+	- Good in speaking and writing in English
+	- DevOps methodology
+	- Cloud Native Architectures (Docker, Kubernetes)
+	- Monitoring/logging systems (ELK Stack, CloudWatch)
+	- CI/CD tools (Gitlab, Jenkins)
+	- IaC tools (Terraform, Ansible)
+	- AWS ecosystem
+	- Precision, dedication and diligence
+	- Priority management while ensuring the output quality
+	- Ability to organize your tasks according to the company’s processes and procedures
+	- Curiosity towards new technology and willingness to learn
+	- Team working will be essential since you will also support other colleagues
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

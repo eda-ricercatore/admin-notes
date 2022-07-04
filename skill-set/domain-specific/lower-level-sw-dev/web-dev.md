@@ -279,7 +279,33 @@
 	- Demonstrated ability to learn and apply new technologies quickly.
 	- Experience with the Agile software development model.
 + skill set:
-	- BLAH.
+	- Senior Full Stack Developer I&C
+	- Design and implement backend API’s, and front-end components.
+	- Perform tests and validations to verify the effectiveness of the implemented solution.
+	- Contribute to the continuous improvement of the core technology.
+	- Identify suitable solutions for clients in the field of Natural Language Processing.
+	- Work with Project Managers, Software Engineers and other Knowledge Engineers on Customer’s projects.
+	- An expert in the field of Software Development because you worked in large Enterprise environments and with a depth knowledge and long-time experience in designing complex solutions.
+	- Graduated in Computer Science or Computer Engineering.
+	- An expert when using programming languages like Java, Python, Javascript.
+	- Proficient in the following domains:
+		* Web technologies: AngularJS, Vue.js, Node.js, CSS, HTML5, JQuery.
+		* Databases: MySQL, MongoDB.
+		* Services, tools, libraries and frameworks: JIRA, GIT, Maven, Spring, Springboot, Elasticsearch, Docker, Kubernetes, AWS and Azure cloud services and architectures.
+		* Web Server/Application Server: Tomcat, Jetty, Apache Http Server.
+		* Operating systems: Windows and Linux.
+	- A professional with more than 8 years of experience in developing consumer-facing web applications, services, and SOAP/REST APIs.
+	- Skilled in designing complex architecture solutions.
+	- A Flexible team player, able to work well with a globally distributed virtual team.
+	- Able to interact with Customers’ IT departments.
+	- Good communicator, able to coach juniors.
+	- Fluent in English, both oral and written.
+	- .NET languages
+	- Microsoft SQL server, ORACLE Server.
+	- Solr, Open Text, SmartLogic.
+	- Concepts of Artificial Intelligence, Machine learning, deep learning.
+	- React, Ext JS, CSS preprocessing (Sass, Less), Responsive Design Framework (Quasar, Vuetify.js, Bootstrap).
++ Java Script, Bootstrap, AngularJS, JQuery, ExtJS, HTML
 + skill set:
 	- BLAH.
 + skill set:
@@ -624,7 +650,29 @@
 	- Amazon AWS experience, particularly RDS, Aurora
 	- 5+ years experience with managing high transaction volume MySQL systems
 + skill set:
-	- BLAH.
+	- Senior Back End Developer I&C – Italy
+	- In this role you will be responsible for back-end development, writing back end code that is highly accessible and maintainable and implemented well-structured, reliable, maintainable APIs in a complex problem domain.
+	- This is an excellent opportunity to increase your knowledge and gain experience in solving complex problems without technical assistance or supervision collaborating closely with our cloud product team and UX design team to build new features.
+	- I&C Headquarter is based in Modena; work from home flexibility or fully remote positions can be evaluated according to the job position and to the candidate experience.
+	- Design, develop, test, and deploy production services and systems that serve thousands of users 24\*7
+	- Work closely with Architecture, DevOps, Security and Compliance teams to achieve the company’s short- and long-term goals
+	- Facilitate collaboration with other platform engineers, product engineers, and cross functional teams to solve interesting and challenging problems delivering customer value
+	- Ensure our systems are future proof and ready to support our growing scale
+	- Be a valued member of an autonomous, cross-functional agile environment
+	- Be a good team player, coder at heart, and problem solver in attitude
+	- Be a leader of the Expert.ai product developer community affecting and driving our architecture and the craft across the company
+	- Minimum 6+ years of hands-on experience in designing, building, testing, debugging and maintaining large-scale, high-throughput domain and event driven microservices based systems
+	- A progressive industry experience in building enterprise class SaaS platforms and applications is considered a plus
+	- Strong conceptual and hands-on practical understanding of distributed computing, streaming systems, relational databases, and NoSQL database systems
+	- Hands-on experience in enterprise backend stack such as Java, SpringBoot/Micronaut, Kafka, Spark Streaming, Redis, Elasticsearch, and MySQL
+	- Hands-on experience building services that involve multi-model services and multi-protocol integration making use of REST, gRPC, Avro/Protobuf, Parquet/Arrow
+	- Experience with authentication, authorization, tenancy management, configuration management, vault management, tokenization, payments, etc.
+	- Experience using tools: Docker, Kubernetes, Terraform
+	- Experience in designing cloud-native platform solutions on AWS
+	- Experience with observability and chaos principles, debugging, and problem solving, leveraging Grafana, Kibana etc.
+	- You are comfortable with large scale production systems encompassing APIs, gateways, orchestrators, databases, load balancing, monitoring, distributed systems, configuration management, and security
+	- You have familiarity with and enthusiasm for software engineering best practices, including but not limited to testing, continuous integration, and continuous delivery
+	- You have the ability to thrive in a rapidly evolving, globally distributed, and remote-first environment
 + skill set:
 	- BLAH.
 + skill set:
@@ -799,7 +847,32 @@
 	- AWS, GCP, Azure experience
 + Experience developing full-featured, client-side applications using modern JavaScript technologies such as React/Redux, Backbone.js, Angular.js, Node.js.
 + skill set:
-	- BLAH.
+	- Work closely with project owners and back-end engineers to implement versatile front-end solutions to web development feature of our products.
+	- Refactor existing code to improve efficiency and keep the products up to date with the latest technologies, in an ever-growing set of development tools and practices
+	- Create prototypes to deliver delightful experiences and have them.
+	- Work with research to create prototypes for proof of concepts
+	- Embrace emerging standards while promoting best practices in order to push the limits of what a browser can do
+	- Educate Engineering teams about design best practices and consumption, as well as improving accessibility in the UI
+	- Manage your own time and work well both independently and as part of a team
+	- Launch, iterate and make a difference. Provide front-end coding expertise and help make our products better for users
+	- Design and develop the front ends of user-facing products
+	- A Computer Scientist, HCI, Design with a degree or equivalent practical experience
+	- Exceptionally good & MVP-focused coding skills in JavaScript of minimum 4 years
+	- Expert with JavaScript frameworks (Vue.js, Angular.js) and CSS pre-processing frameworks (Sass or Less)
+	- Expert with node.js
+	- Expert with web technologies (object-oriented JavaScript, HTML, CSS), and experience with web standards, including HTML5 and CSS3
+	- Very good with common front-end development tools such as Webpack and NPM
+	- Familiar with modern front-end build pipelines and tools and self-contained environments (such as Docker)
+	- Experience with modern authentication/authorization frameworks
+	- Experience in microservice backend development is considered a plus
+	- Proficient in understanding of code versioning tools and bug-tracking systems, such as JIRA and GIT
+	- Interested in design creation and implementing those designs
+	- Proficient in design software (e.g.Sketch, InVision, Illustrator) is a plus
+	- Able to thrive in a fast-paced environment that requires independent self-direction
+	- Excellent with time management, focused on detail and a good team player with an open communication
+	- Able to communicate to all levels of users (internal and external), because you are adaptable, proactive, and willing to take ownership.
+	- Expert and understanding of one or more different agile methodologies, including Scrum, XP, or SAFe
+	- Willing to grow and learn to be best front-end professional ever
 + skill set:
 	- BLAH.
 + skill set:

@@ -250,14 +250,137 @@ This set of skill sets is for software development roles in cloud computing.
 ##	Software Development for Infrastructure as a service (IaaS)
 
 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 ##	Software Development for Platform as a service (PaaS)
 
 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
 
 
 ##	Software Development for Software as a service (SaaS)
+
+
++ skill set:
+	- Cloud SaaS Architect – Italy
+	- Layout roadmap, design, plan, and implement scalable information technology solutions that meet current and future business needs together with the Platform Engineering Director
+	- Build resilient system implementations to ensure information security, stability and availability of business applications
+	- Work closely with the Site Reliability Engineering Team to maintain standard, reliable, and consistent system configurations across the company enterprise as appropriate
+	- Monitor current and future technology trends and make recommendations of solutions and standards that meet the business needs and drives improvements
+	- Lead any Proof of Concept projects required to thoroughly investigate architectural possibilities and strengthen arguments for their adoption
+	- Develop and deploy software-as-a-service (SaaS) applications within popular public cloud platforms
+	- Communicate architecture design decisions and impacts to key stakeholders
+	- Understand of the current state of the art for infrastructure automation, continuous integration/deployment, SQL/NoSQL/NewSQL, networking, and cloud-based delivery models
+	- 10+ years of overall IT/software development expert, in solution design and technical architecture
+	- 5+ years of driving application architecture design specialist
+	- You have 3+ years of experience with cloud computing solutions implementations – AWS preferred
+	- Experienced in cloud computing based services architecture, technical design and implementations including Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS) delivery models
+	- Experienced in Internet, Intranet, Extranet and client/server architectures
+	- Experienced in how legacy and web-based systems interfaces, Application Programmable Interfaces (APIs) interact
+	- A specialist of Systems Development Life Cycle (SDLC) methodology and coding methods/best practices
+	- Able to design and implement reliable, scalable, high performing Web based solutions that meet the service levels associated with mission-critical Identity and Access Management based solutions
+	- You have a strong knowledge of Security Architecture, Design and Operations. Together with LDAP, Active Directory, SAML, SPML, SSO, RBAC, and web protocols XML, SOAP, JSON, REST
+	- Educated about software development security and cryptography
+	- You know how to handle Java EE and other development frameworks, cloud/containarization technologies such as EC2, docker, Kubernetes
+	- Proficient with various open source software and development tools and in one or more of Java, Go, Kotlin. You are also proficient in GIT
+	- Expert and understanding of one or more different agile methodologies, including Scrum, XP, or SAFe
+	- Curious about learning technology and problem solving
+	- A 2+ years of SaaS implementation experience is strongly preferred
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
 
 
 
@@ -265,13 +388,77 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
 
 
 ##	Software Development for Serverless computing or Function-as-a-Service (FaaS)
 
 
 
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

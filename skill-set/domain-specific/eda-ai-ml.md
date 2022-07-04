@@ -2855,9 +2855,64 @@ Skills for natural language processing, NLP:
 	- experience with ML deployment frameworks
 	- design, implement, and deploy NLP models
 	- experience working with high growth venture-backed start-ups
-
-
-
++ hybrid approach to NLU combines symbolic human-like comprehension and machine learning to transform language-intensive processes into practical knowledge, providing the insight required to improve decision making throughout organizations
++ skill set:
+	- Computational Linguist
+	- As a Computational Linguist you will join project teams to build top-notch NLP/NLU solutions for our Customers and Partners worldwide, ensuring that all issues are dealt with in the most effective and satisfactory way. Not only you have a firm grasp of general linguistics (semantics, syntax, morphology) but you have also experience with artificial intelligence, machine learning, natural language processing and computational linguistics.
+	- Identify logical patterns underlying the language, write semantic rules on Expert.ai’s proprietary IDE to meet Customers’ expectations
+	- Perform tests and validations to verify the effectiveness of the implemented solution
+	- Contribute to the continuous improvement of the core technology
+	- Identify suitable solutions for clients in the field of Natural Language Processing
+	- Work with Project Managers, Software Engineers and other Knowledge Engineers on Customer’s projects
+	- Graduated in Computational Linguist or Languages
+	- Experienced in coding with Python and/or C++: write data processing scripts to transform or extract knowledge from unstructured data, including hands-on experience with regular expressions
+	- Analytical person with excellent written and verbal communication skills in a technical context
+	- Independent worker with the ability to effectively operate with flexibility in a fast paced, constantly evolving team environment
+	- Team player with exceptional interpersonal and solution-oriented attitude
+	- Fluent English, both oral and written (the knowledge of other languages will be considered a plus)
++ skill set:
+	- Knowledge Engineer Intern
+	- If you are completing your studies in Computational Linguistics or Languages and you would like to be part of a growing company that works in an international environment, you can send us your application: we are looking for a Knowledge Engineer Intern for our Paris office.
+	- As knowledge Engineer intern you will support the Professional Services team that works on Artificial Intelligence projects aimed at helping big Companies and Public Institutions in solving the daily practical issues linked to the digital transformation and the processes’ automation. During your internship you will be trained in COGITO technology and you will develop your skills in the field of Natural Language Processing / Natural Language Understanding; you will learn the use cases of NLP for Companies and carry out a first experience as a consultant. Finally, you will contribute to the continuous development of our core technology from the linguistic point of view and you will test and verify the effectiveness of the platform.
+	- Degree in Languages, Literature, Linguistics or Computational Linguistics;
+Excellent knowledge of English and another language;
+Good knowledge of linguistics will be necessary for the rapid handling of our Cogito technology;
+Basic knowledge of programming languages like Java and Python will be considered a plus;
+Good general culture knowledge;
+Attention to the quality of work and results;
+Team work skills;
+Ability to analyze and structure information;
+The knowledge of the Arabic language will be considered as a plus.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -3469,6 +3524,7 @@ Notes:
 	- Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
 + Hands-on experience with open source big data platforms (Hadoop, Hive, Presto) and familiarity with data visualization (Tableau, D3) technologies
 + Familiarity with implementing metric logging and interpreting metrics to make decisions
++ Must possess knowledge in SW to Enterprise, SaaS and on Premise, and cloud technologies Elasticsearch for text indexing, MongoDB for structured data storage, Mysql/postgres for SQL storage, JanusGraph for Properties’ based graph storage, ArangoDB for Documents/Key Value/Graph storage, and Amazon AWS.
 
 
 
@@ -3553,6 +3609,14 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 ####	Marketing Analytics
+
+
+
+
++ Use marketing technology such as Hubspot, Salesforce, WordPress, Sendoso, and Go-To-Webinar
+	- While this list is provided for a marketing position, it indicates technologies people in marketing analytics can build for people on these platforms.
+
+
 
 
 
