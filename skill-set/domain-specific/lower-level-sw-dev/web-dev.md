@@ -7,6 +7,165 @@
 
 
 
+
+
+
+
++ ***software stacks***, or ***solution stacks***, from [WikipediaContributors2022b]:
+	- BCHS:
+		* OpenBSD (operating system)
+		* C (programming language)
+		* httpd (web server)
+		* SQLite (database)
+	- ELK:
+		* Elasticsearch (search engine)
+		* Logstash (event and log management tool)
+		* Kibana (data visualization)
+	- Ganeti:
+		* Xen or KVM (hypervisor)
+		* Linux with LVM (mass-storage device management)
+		* Distributed Replicated Block Device (storage replication)
+		* Ganeti (virtual machine cluster management tool)
+		* Ganeti Web Manager (web interface)
+	- GLASS:
+		* GemStone (database and application server)
+		* Linux (operating system)
+		* Apache (web server)
+		* Smalltalk (programming language)
+		* Seaside (web framework)
+	- GRANDstack:
+		* GraphQL (data query and manipulation language)
+		* React (web application presentation)
+		* Apollo (Data Graph Platform)
+		* Neo4j (database management systems)
+	- Jamstack:
+		* JavaScript (programming language)
+		* APIs (Application programming interfaces)
+		* Markup (content)
+	- LAMP:
+		* Linux (operating system)
+		* Apache (web server)
+		* MySQL or MariaDB (database management systems)
+		* Perl, PHP, or Python (scripting languages)
+	- LAPP:
+		* Linux (operating system)
+		* Apache (web server)
+		* PostgreSQL (database management systems)
+		* Perl, PHP, or Python (scripting languages)
+	- LEAP:
+		* Linux (operating system)
+		* Eucalyptus (free and open-source alternative to the Amazon Elastic Compute Cloud)
+		* AppScale (cloud computing-framework and free and open-source alternative to Google App Engine)
+		* Python (programming language)
+	- LEMP/LNMP:
+		* Linux (operating system)
+		* Nginx (web server)
+		* MySQL or MariaDB (database management systems)
+		* Perl, PHP, or Python (scripting languages)
+	- LLMP:
+		* Linux (operating system)
+		* Lighttpd (web server)
+		* MySQL or MariaDB (database management systems)
+		* Perl, PHP, or Python (scripting languages)
+	- LYME and LYCE:
+		* Linux (operating system)
+		* Yaws (web server, written in Erlang)
+		* Mnesia or CouchDB (database, written in Erlang)
+		* Erlang (functional programming language)
+	- MAMP:
+		* Mac OS X (operating system)
+		* Apache (web server)
+		* MySQL or MariaDB (database)
+		* PHP, Perl, or Python (programming languages)
+	- MARQS:
+		* Apache Mesos (node startup/shutdown)
+		* Akka (toolkit) (actor implementation)
+		* Riak (data store)
+		* Apache Kafka (messaging)
+		* Apache Spark (big data and MapReduce)
+	- MEAN:
+		* MongoDB (database)
+		* Express.js (application controller layer)
+		* AngularJS/Angular (web application presentation)
+		* Node.js (JavaScript runtime)
+	- MERN:
+		* MongoDB (database)
+		* Express.js (application controller layer)
+		* React.js (web application presentation)
+		* Node.js (JavaScript runtime)
+	- MEVN:
+		* MongoDB (database)
+		* Express.js (application controller layer)
+		* Vue.js (web application presentation)
+		* Node.js (JavaScript runtime)
+	- NMP:
+		* Nginx (web server)
+		* MySQL or MariaDB (database)
+		* PHP (programming language)
+	- OpenACS:
+		* Linux or Windows (operating system)
+		* NaviServer (web server)
+		* OpenACS (web application framework)
+		* PostgreSQL or Oracle Database (database)
+		* Tcl (scripting language)
+	- PERN:
+		* PostgreSQL (database)
+		* Express.js (application controller layer)
+		* React (JavaScript library) (web application presentation)
+		* Node.js (JavaScript runtime)
+	- PLONK:
+		* Prometheus (metrics and time-series)
+		* Linkerd (service mesh)
+		* OpenFaaS (management and auto-scaling of compute)
+		* NATS (asynchronous message bus/queue)
+		* Kubernetes (declarative, extensible, scale-out, self-healing clustering)
+	- SMACK:
+		* Apache Spark (big data and MapReduce)
+		* Apache Mesos (node startup/shutdown)
+		* Akka (toolkit) (actor implementation)
+		* Apache Cassandra (database)
+		* Apache Kafka (messaging)
+	- T-REx:
+		* TerminusDB (scalable graph database)
+		* React (JavaScript web framework)
+		* Express.js (framework for Node.js)
+	- WAMP:
+		* Windows (operating system)
+		* Apache (web server)
+		* MySQL or MariaDB (database)
+		* PHP, Perl, or Python (programming language)
+	- WIMP:
+		* Windows (operating system)
+		* Internet Information Services (web server)
+		* MySQL or MariaDB (database)
+		* PHP, Perl, or Python (programming language)
+	- WINS:
+		* Windows Server (operating system)
+		* Internet Information Services (web server)
+		* .NET (software framework)
+		* SQL Server (database)
+	- WISA:
+		* Windows Server (operating system)
+		* Internet Information Services (web server)
+		* SQL Server (database)
+		* ASP.NET (web framework)
+	- WISAV/WIPAV:
+		* Windows Server (operating system)
+		* Internet Information Services (web server)
+		* Microsoft SQL Server/PostgreSQL (database)
+		* ASP.NET (backend web framework)
+		* Vue.js (frontend web framework)
+	- XAMPP:
+		* cross-platform (operating system)
+		* Apache (web server)
+		* MariaDB or MySQL (database)
+		* PHP (programming language)
+		* Perl (programming language)
+	- XRX:
+		* XML database (database such as BaseX, eXist, MarkLogic Server)
+		* XQuery (Query language)
+		* REST (client interface)
+		* XForms (client)
 + Use Python, React/Redux, Spark, Presto, Airflow, Git, CircleCI, and more.
 + skill set:
 	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
@@ -895,3 +1054,41 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#	References
+
+
+
+
+	@misc{WikipediaContributors2022b,
+		Address = {San Francisco, {CA}},
+		Author = {{Wikipedia contributors}},
+		Howpublished = {Available online from {\it Wikipedia, The Free Encyclopedia: Web frameworks} at: \url{https://en.wikipedia.org/wiki/Solution_stack}; July 8, 2022 was the last accessed date},
+		Month = {June 21},
+		Publisher = {Wikimedia Foundation},
+		Title = {Solution stack},
+		Url = {https://en.wikipedia.org/wiki/Solution_stack},
+		Year = {2022}}

@@ -445,7 +445,7 @@ DevOps is at the intersection of:
 	- Curiosity towards new technology and willingness to learn
 	- Team working will be essential since you will also support other colleagues
 + skill set:
-	- Monitoring/logging systems, such as the ELK Stack (or Elastic stack).
+	- Monitoring/logging systems, such as the ELK Stack (or Elastic stack) [WikipediaContributors2022b].
 		* visualize application monitoring
 		* visualize infrastructure monitoring
 		* faiciliate troubleshooting
@@ -1296,3 +1296,26 @@ With NoOps, developers can concentrate solely on writing and improving the softw
 ***Serverless architecture*** is the best example for NoOps software. The developer’s team aims to create their application and deploy them in ***serverless computing*** without interfering any operational or infrastructure considerations.
 
 Operating the right tools in NoOps can achieve a faster deployment process than DevOps by running Platform as a Service (PaaS) or Function as a Service (FaaS) in the cloud. Moreover, NoOps can easily be adaptable for Product as a Service companies, small-scale applications, and start-ups.
+
+
+
+
+
+
+
+
+
+#	References
+
+
+
+
+	@misc{WikipediaContributors2022b,
+		Address = {San Francisco, {CA}},
+		Author = {{Wikipedia contributors}},
+		Howpublished = {Available online from {\it Wikipedia, The Free Encyclopedia: Web frameworks} at: \url{https://en.wikipedia.org/wiki/Solution_stack}; July 8, 2022 was the last accessed date},
+		Month = {June 21},
+		Publisher = {Wikimedia Foundation},
+		Title = {Solution stack},
+		Url = {https://en.wikipedia.org/wiki/Solution_stack},
+		Year = {2022}}
