@@ -72,6 +72,8 @@
 		* Yaws (web server, written in Erlang)
 		* Mnesia or CouchDB (database, written in Erlang)
 		* Erlang (functional programming language)
+		* LYME = Linux + Yaws + Mnesia + Erlang
+		* LYCE = Linux + Yaws + CouchDB + Erlang
 	- MAMP:
 		* Mac OS X (operating system)
 		* Apache (web server)
@@ -155,6 +157,8 @@
 		* Microsoft SQL Server/PostgreSQL (database)
 		* ASP.NET (backend web framework)
 		* Vue.js (frontend web framework)
+		* WISAV = Windows Server + Internet Information Services + Microsoft SQL Server + ASP.NET + Vue.js
+		* WIPAV = Windows Server + Internet Information Services + PostgreSQL + ASP.NET + Vue.js
 	- XAMPP:
 		* cross-platform (operating system)
 		* Apache (web server)
