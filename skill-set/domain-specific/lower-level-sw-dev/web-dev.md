@@ -36,7 +36,7 @@
 			+ S3
 			+ Elasticsearch
 		* Most of our infrastructure is on AWS so it is a huge plus if you know and love AWS.
-+ skill se:
++ skill set:
 	- Our current stack is:
 		* Backend:
 			+ Python

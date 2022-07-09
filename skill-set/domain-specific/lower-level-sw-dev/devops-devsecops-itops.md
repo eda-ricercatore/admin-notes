@@ -445,22 +445,22 @@ DevOps is at the intersection of:
 	- Curiosity towards new technology and willingness to learn
 	- Team working will be essential since you will also support other colleagues
 + skill set:
-	- Monitoring/logging systems, such as the ELK Stack
+	- Monitoring/logging systems, such as the ELK Stack (or Elastic stack).
 		* visualize application monitoring
 		* visualize infrastructure monitoring
 		* faiciliate troubleshooting
 		* for security analytics
-		* ELK Stack:
-			+ Elasticsearch
+		* ***ELK Stack*** (or ***Elastic stack***):
+			+ ***Elasticsearch***
 				- distributed search and analytics engine
 				- use schema-free JSON documents
-			+ Logstash
+			+ ***Logstash***
 				- ETL (extract, transform, load)
 					* ***data ingestion tool***
 					* collect data from different sources
 					* transform data
 					* send data to desired destination
-			+ Kibana
+			+ ***Kibana***
 				- data visualization of logs and events, exploration of new maintenance solutions
 				- tool for creating interactive charts
 + skill set:
