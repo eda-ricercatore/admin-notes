@@ -114,9 +114,23 @@ Semiconductor manufacturing companies to pay attention to:
 ##	Semiconductor Manufacturing Equipment Semiconductor Manufacturers
 
 
+
+Notes about semiconductor manufacturing equipment manufacturers:
++ semiconductor metrology:
+	- a subset of applied, technical, or industrial metrology
+
+
+
+
+
+
+
 List of semiconductor manufacturing equipment manufacturers, including companies that manufacture automated test equipment (ATE, or automatic test equipment) and other electronic test equipment
 + [From Wikipedia, "Semiconductor equipment sales leaders by year"](https://en.wikipedia.org/wiki/Semiconductor_equipment_sales_leaders_by_year)
 + [companies that manufacture ATEs](https://finance.yahoo.com/news/global-automated-test-equipment-market-174500066.html)
+
+
+
 
 
 

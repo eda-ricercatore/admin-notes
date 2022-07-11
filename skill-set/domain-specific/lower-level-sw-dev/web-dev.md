@@ -490,7 +490,19 @@
 	- create custom Drupal modules, in ***Drupal CMS***
 	- ***SQL databases or RDBMS***
 + skill set:
-	- BLAH.
+	- front-end stack:
+		* JavaScript
+		* TypeScript
+		* JavaScript tools:
+			+ React
+			+ Redux/mobX/Flux
+			+ ES6
+		* REST APIs
+	- Elastic Stack
+		* Kibana
+	- data visualizations
+	- back-end stack:
+		* Node.js
 + skill set:
 	- BLAH.
 + skill set:
