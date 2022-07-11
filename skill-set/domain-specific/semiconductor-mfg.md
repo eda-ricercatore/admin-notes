@@ -116,8 +116,8 @@ Semiconductor manufacturing companies to pay attention to:
 
 
 Notes about semiconductor manufacturing equipment manufacturers:
-+ semiconductor metrology:
-	- a subset of applied, technical, or industrial metrology
++ semiconductor metrology instruments:
+	- a subset of applied, technical, or industrial metrology.
 
 
 

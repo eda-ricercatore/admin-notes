@@ -1558,6 +1558,7 @@ Additional informations about semiconductor manufacturing:
 	- "Density-functional theory (DFT) is a computational quantum mechanical modelling method used in physics, chemistry and materials science to investigate the electronic structure (or nuclear structure) (principally the ground state) of many-body systems, in particular atoms, molecules, and the condensed phases. Using this theory, the properties of a many-electron system can be determined by using functionals, i.e. functions of another function. In the case of DFT, these are functionals of the spatially dependent electron density. DFT is among the most popular and versatile methods available in condensed-matter physics, computational physics, and computational chemistry."
 + semiconductor metrology instruments
 	- Enable (statistical) quality control, or statistical process control, for the semiconductor manufacturing processes.
+	- A subset of applied, technical, or industrial metrology.
 	- Semiconductor inspection processes.
 	- Types of semiconductor metrology instruments:
 		* wafer probers
