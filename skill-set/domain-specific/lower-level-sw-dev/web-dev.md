@@ -470,7 +470,25 @@
 	- React, Ext JS, CSS preprocessing (Sass, Less), Responsive Design Framework (Quasar, Vuetify.js, Bootstrap).
 + Java Script, Bootstrap, AngularJS, JQuery, ExtJS, HTML
 + skill set:
-	- BLAH.
+	- front-end stack:
+		* HTML5/XHTML
+		* ***CSS/CSS3***
+			+ understand how CSS changes, so that we can have a consistent style across platforms and browsers
+	- programming languages:
+		* Java
+		* ***PHP***
+		* JavaScript
+		* JQuery
+	- debugging tools:
+		* Firebug
+		* Chrome Inspector
+	- LAMP:
+		* Linux (operating system)
+		* Apache (web server)
+		* ***MySQL*** or MariaDB (database management systems)
+		* Perl, PHP, or Python (scripting languages)
+	- create custom Drupal modules, in ***Drupal CMS***
+	- ***SQL databases or RDBMS***
 + skill set:
 	- BLAH.
 + skill set:
