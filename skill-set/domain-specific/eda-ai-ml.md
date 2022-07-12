@@ -3883,6 +3883,15 @@ They support databases for:
 	- Understanding and experience with NoSQL such as MongoDB or Neo4j
 	- Experience with the Hadoop ecosystem (HBase, MapReduce, Hive/Pig) or Spark
 + skill set:
+	- Implements, troubleshoots, and optimizes distributed solutions based on modern big data technologies like Hive, Hadoop, Spark, Python, Elastic Search, Storm, Kafka, Oozie WFs etc. in both an on premise and cloud deployment model to solve large scale processing problems
+	- Design, build and maintain Big Data workflows/pipelines to process billions of records into and out of our data lake
+	- Provide technical leadership in the area of big data systems development including data ingestion, data curation, data storage, high-throughput data processing, analytics, user access, and security
+	- Proficiency in Amazon AWS big data technologies including S3, RDS, RedShift, Elasticsearch, Lambda, AWS Glue
+	- Keen understanding of big data and parallelization accompanied with a stellar record of delivery
+	- Experience working within the AWS Big Data/Hadoop Ecosystem (EMR is preferred), AWS Glue
+	- Experience with on-premises to cloud migrations including re-hosting, re-platforming and re-factoring
+	- Experience with orchestration template technologies such as AWS CloudFormation
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

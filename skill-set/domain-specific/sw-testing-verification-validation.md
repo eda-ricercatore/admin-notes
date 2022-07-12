@@ -52,6 +52,9 @@
 	- BS EE or CS degree; 5 + years related experience (or Masters and 3 + years related experience or PhD without experience).
 + Conduct testing such as functional testing, user acceptance testing (UAT), automated acceptance testing (AAT), and specification by example.
 + skill set:
+	- Experience using tools such as Apache Maven/ANT/Jenkins/Hudson
+	- Knowledge of Load and performance testing using open source tools such as JMeter or LoadUI
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
