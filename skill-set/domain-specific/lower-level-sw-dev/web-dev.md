@@ -867,7 +867,22 @@
 	- You have familiarity with and enthusiasm for software engineering best practices, including but not limited to testing, continuous integration, and continuous delivery
 	- You have the ability to thrive in a rapidly evolving, globally distributed, and remote-first environment
 + skill set:
-	- BLAH.
+	- Strong knowledge and experience with server-side Java applications
+	- Familiarity and experience with Adobe AEM (CQ) and related technologies
+		* Adobe Experience Manager, for the versions CQ and CRX
+			+ ["Get personalized, content-led experiences into market faster with Adobe Experience Manager, which combines digital asset management with the power of a content management system.", July 13, 2022](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
++ skill set:
+	- front-ened skills:
+		* Experience with ***Gulp (or, gulp, or gulp.js)***
+			+ open-source JavaScript toolkit that is a streaming build system
+			+ automate and enhance workflow
+				- automate slow, repetitive workflows as efficient build pipelines.
+	- back-end skills:
+		* Experience with ***Node.js***
+			+ ["open-source, cross-platform, back-end JavaScript runtime environment"](https://en.wikipedia.org/wiki/Node.js)
+			+ ["Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a 'JavaScript everywhere' paradigm, unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts."](https://en.wikipedia.org/wiki/Node.js)
+		* Experience with ***npm***
+		* Experience with ***Webpack***
 + skill set:
 	- BLAH.
 + skill set:

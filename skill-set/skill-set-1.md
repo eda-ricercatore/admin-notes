@@ -6,10 +6,8 @@
 
 
 
-+ skill set:
-	- Strong knowledge and experience with server-side Java applications
-	- Familiarity and experience with Adobe AEM (CQ) and related technologies
-+ Experience with Node.js, npm, Gulp, and Webpack
+
++ 
 + Load and performance testing using open source tools such as JMeter or LoadUI
 + Experience with using other product web end-points/APIs
 + skill set:
