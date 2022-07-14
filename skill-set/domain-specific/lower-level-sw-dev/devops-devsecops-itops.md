@@ -1,4 +1,4 @@
-#	DevOps & Site Reliability Engineering (SRE) & DevSecOps & ITOps & IT operations analytics & AIOps
+#	DevOps & Site Reliability Engineering (SRE) & DevSecOps & ITOps & IT operations analytics & AIOps & CloudOps & NoOps
 
 
 ##	DevOps
@@ -1296,6 +1296,52 @@ With NoOps, developers can concentrate solely on writing and improving the softw
 ***Serverless architecture*** is the best example for NoOps software. The developer’s team aims to create their application and deploy them in ***serverless computing*** without interfering any operational or infrastructure considerations.
 
 Operating the right tools in NoOps can achieve a faster deployment process than DevOps by running Platform as a Service (PaaS) or Function as a Service (FaaS) in the cloud. Moreover, NoOps can easily be adaptable for Product as a Service companies, small-scale applications, and start-ups.
+
+
+
+
+
+##	Software Intelligence
+
+
+Software intelligence:
++ [get] ["insight into the structural condition of software assets produced by software designed to analyze database structure, software framework and source code to better understand and control complex software systems in Information Technology environments"](https://en.wikipedia.org/wiki/Software_intelligence)
++ ["set of software tools and techniques for the mining of data and software inner-structure"](https://en.wikipedia.org/wiki/Software_intelligence)
++ ["End results are information used by business and software stakeholders to make informed decisions,[citation needed] measure the efficiency of software development organizations, communicate about software health, prevent software catastrophes."](https://en.wikipedia.org/wiki/Software_intelligence)
+
+
+
+["Software intelligence is derived from"](https://en.wikipedia.org/wiki/Software_intelligence):
++ "Software composition is the construction of software application components. Components result from software coding, as well as the integration of the source code from external components: Open source, 3rd party components, or frameworks. Other components can be integrated using application programming interface call to libraries or services."
++ "Software architecture refers to the structure and organization of elements of a system, relations, and properties among them."
++ "Software flaws designate problems that can cause security, stability, resiliency, and unexpected results. There is no standard definition of software flaws but the most accepted is from The MITRE Corporation where common flaws are cataloged as Common Weakness Enumeration."
++ "Software grades assess attributes of the software. Historically, the classification and terminology of attributes have been derived from the ISO 9126-3 and the subsequent ISO 25000:2005 quality model."
++ "Software economics refers to the resource evaluation of software in past, present, or future to make decisions and to govern."
+
+
+
+
+
+["The capabilities of Software intelligence platforms include an increasing number of components"](https://en.wikipedia.org/wiki/Software_intelligence):
++ "Code analyzer to serve as an information basis for other Software Intelligence components identifying objects created by the programming language, external objects from Open source, third parties objects, frameworks, API, or services"
++ "Graphical visualization and blueprinting of the inner structure of the software product or application considered including dependencies, from data acquisition (automated and real-time data capture, end-user entries) up to data storage, the different layers within the software, and the coupling between all elements."
++ "Navigation capabilities within components and impact analysis features"
++ "List of flaws, architectural and coding violations, against standardized best practices, cloud blocker preventing migration to a Cloud environment, and rogue data-call entailing the security and integrity of software"
++ "Grades or scores of the structural and software quality aligned with industry-standard like OMG, CISQ or SEI assessing the reliability, security, efficiency, maintainability, and scalability to cloud or other systems."
++ "Metrics quantifying and estimating software economics including work effort, sizing, and technical debt"
++ "Industry references and benchmarking allowing comparisons between outputs of analysis and industry standards"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -297,6 +297,7 @@ This set of skill sets is for software development roles in cloud computing.
 	- Experience with Service Mesh, Service Discovery, Routing tools and technologies: Istio, Consul, ZooKeeper, zuul, linkerd, envoy, etc.
 	- Experience with Metrics, Monitoring & Alerting tools: Catchpoint, Sensu, Prometheus, Nagios, Zabbix, InfluxDB, Graphite, Grafana, AWS CloudWatch, Datadog, etc.
 	- Experience with APM tools: New Relic, Dynatrace, etc.
+		* APM refers to: application performance management
 	- Experience with Log Management tools: ELK stack, Splunk, etc.
 	- Experience with secrets management, certificates, encryption and keys: Vault, AWS KMS, etc.
 	- Experience with CI/CD, DevOps and Pipeline-As-Code: Jenkins
