@@ -1333,7 +1333,7 @@ Software intelligence:
 
 
 
-
+It is used as part of ["Application Portfolio Analysis (APA)"](https://en.wikipedia.org/wiki/Software_intelligence).
 
 
 
