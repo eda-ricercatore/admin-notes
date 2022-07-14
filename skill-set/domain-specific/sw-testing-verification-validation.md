@@ -54,6 +54,7 @@
 + skill set:
 	- Experience using tools such as Apache Maven/ANT/Jenkins/Hudson
 	- Knowledge of Load and performance testing using open source tools such as JMeter or LoadUI
++ Load and performance testing using open source tools such as JMeter or LoadUI
 + skill set:
 	- BLAH.
 + skill set:

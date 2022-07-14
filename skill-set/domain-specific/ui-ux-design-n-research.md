@@ -59,6 +59,7 @@
 	- Strong verbal and written communication skills.
 	- Interest in information security is a huge plus.
 	- Requires a minimum of 15 years of related experience with a technical Bachelor’s degree; or equivalent practical experience or 12 years and a technical Master’s degree; or a Ph.D. with 8 years experience; or equivalent practical experience.
++ Experience with using other product web end-points/APIs
 + skill set:
 	- BLAH.
 + skill set:

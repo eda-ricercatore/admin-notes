@@ -4,31 +4,6 @@
 
 
 
-
-
-
-+ 
-+ Load and performance testing using open source tools such as JMeter or LoadUI
-+ Experience with using other product web end-points/APIs
-+ skill set:
-	- 10+ Years of professional software engineering experience in building large-scale distributed systems
-	- Strong hands-on experience in developing applications in one or more language stacks: Java, Python, Go
-	- Strong experience in building platform-level shared libraries, frameworks, components, tools and services
-	- Strong understanding of object-oriented programming, service-oriented architectures, microservices and design patterns
-	- Strong hands-on experience in one or more of Containers and Container Orchestration frameworks: Docker, Kubernetes, Docker Swarm, Amazon ECS, Amazon EKS, AWS Fargate, etc.
-	- Strong hands-on knowledge of one or more of Infrastructure-as-Code tools and technologies: Terraform, AWS CloudFormation, Packer, etc.
-	- 3+ Years of experience in public cloud infrastructures: AWS preferred
-	- Experience with Service Mesh, Service Discovery, Routing tools and technologies: Istio, Consul, ZooKeeper, zuul, linkerd, envoy, etc.
-	- Experience with Metrics, Monitoring & Alerting tools: Catchpoint, Sensu, Prometheus, Nagios, Zabbix, InfluxDB, Graphite, Grafana, AWS CloudWatch, Datadog, etc.
-	- Experience with APM tools: New Relic, Dynatrace, etc.
-	- Experience with Log Management tools: ELK stack, Splunk, etc.
-	- Experience with secrets management, certificates, encryption and keys: Vault, AWS KMS, etc.
-	- Experience with CI/CD, DevOps and Pipeline-As-Code: Jenkins
-	- Exposure to Configuration Management Tools: Chef, Puppet, etc.
-	- Exposure to Function-as-a-Service, AWS Lambda, Serverless, etc.
-	- Experience with Agile software development and Scrum methodology
-	- Practice strong software development principles and best practices: Test-driven development (TDD), CI/CD, code refactoring, coding standards, etc.
-+ BIM (Building Information Model)
 + skill set:
 	- Deep understanding of machine learning, statistical modeling and data mining techniques such as gradient boosting, neural networks, natural language processing and clustering
 	- Understanding of experimental design and adaptive sampling

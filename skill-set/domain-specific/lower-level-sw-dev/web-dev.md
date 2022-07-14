@@ -880,9 +880,13 @@
 	- back-end skills:
 		* Experience with ***Node.js***
 			+ ["open-source, cross-platform, back-end JavaScript runtime environment"](https://en.wikipedia.org/wiki/Node.js)
-			+ ["Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a 'JavaScript everywhere' paradigm, unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts."](https://en.wikipedia.org/wiki/Node.js)
+			+ ["Node.js lets developers use JavaScript to write command line tools and for server-side scripting -- running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a 'JavaScript everywhere' paradigm, unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts."](https://en.wikipedia.org/wiki/Node.js)
 		* Experience with ***npm***
+			+ Previously known as "Node Package Manager"
+			+ ["package manager for the JavaScript programming language"](https://en.wikipedia.org/wiki/Npm_(software))
 		* Experience with ***Webpack***
+			+ ["free and open-source module bundler for JavaScript"](https://en.wikipedia.org/wiki/Webpack)
+			+ ["It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules."](https://en.wikipedia.org/wiki/Webpack)
 + skill set:
 	- BLAH.
 + skill set:
