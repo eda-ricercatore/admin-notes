@@ -1250,8 +1250,12 @@ Process simulation TCAD:
 + oxidation
 + dry/wet etching
 + deposition
-+ optical photolithography and next-generation lithography (NGL) techniques
++ optical photolithography, photolithography, or optical lithography, and next-generation lithography (NGL) techniques
 	- multiple patterning, or multi-patterning
+	- classifications:
+		* ultraviolet lithography, UV lithography
+		* X-ray lithography
+		* EUV lithography
 	- EUV lithography, extreme ultraviolet lithography, EUVL
 		* 13.5 nm extreme ultraviolet lithography
 		* assist features
