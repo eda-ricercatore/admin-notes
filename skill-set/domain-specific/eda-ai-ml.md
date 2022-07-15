@@ -1280,8 +1280,9 @@ Process simulation TCAD:
 		* stencil lithography
 		* ion beam lithography
 		* magnetolithography
-		* plasmonic lithography
+		* plasmonic lithography, plasmonic nanolithography, plasmonic photolithography
 		* soft lithography
+			+ use elastomeric stamps, molds, and conformable photomasks to fabricate or replicate structures
 		* laser printing lithography
 			+ laser printing of single nanoparticles
 		* nanosphere lithography, NSL
