@@ -1279,7 +1279,8 @@ Process simulation TCAD:
 		* molecular self-assembly lithography
 		* stencil lithography
 		* ion beam lithography
-		* magnetolithography
+		* magnetolithography, ML
+			+ photoresist-less and photomaskless lithography
 		* plasmonic lithography, plasmonic nanolithography, plasmonic photolithography
 		* soft lithography
 			+ use elastomeric stamps, molds, and conformable photomasks to fabricate or replicate structures
