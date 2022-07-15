@@ -1251,6 +1251,7 @@ Process simulation TCAD:
 + dry/wet etching
 + deposition
 + optical photolithography and next-generation lithography (NGL) techniques
+	- multiple patterning, or multi-patterning
 	- EUV lithography, extreme ultraviolet lithography, EUVL
 		* 13.5 nm extreme ultraviolet lithography
 		* assist features
@@ -1268,19 +1269,25 @@ Process simulation TCAD:
 			+ EUV stochastic issues
 		* used with multile patterning
 		* single patterning extension, anamorphic high-NA (NA, numerical aperture)
-	- deep UV immersion lithography
+	- deep UV immersion lithography, immersion lithography
 	- electronic beam lithography
 	- nanoimprint lithography
+		* thermoplastic nanoimprint lithography
+		* photo nanoimprint lithography
+		* resist-free direct thermal nanoimprint lithography
 	- X-ray lithography
-	- focused ion beam lithography
 	- BEUV lithography, or beyond extreme ultraviolet lithography
 		* about 6.7 nm wavelength
 	- other non-mainstream lithography techniques
 		* molecular self-assembly lithography
 		* stencil lithography
-		* ion beam lithography
+		* ion beam lithography, or ion-beam lithography, or ion-projection lithography
+			+ focused ion beam lithography, FIB
+			+ similar to:
+				- electronic beam lithography
 		* magnetolithography, ML
 			+ photoresist-less and photomaskless lithography
+			+ backside lithography
 		* plasmonic lithography, plasmonic nanolithography, plasmonic photolithography
 		* soft lithography
 			+ use elastomeric stamps, molds, and conformable photomasks to fabricate or replicate structures
