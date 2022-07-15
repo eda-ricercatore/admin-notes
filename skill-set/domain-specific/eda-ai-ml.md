@@ -1270,7 +1270,6 @@ Process simulation TCAD:
 		* used with multile patterning
 		* single patterning extension, anamorphic high-NA (NA, numerical aperture)
 	- deep UV immersion lithography, immersion lithography
-	- electronic beam lithography
 	- nanoimprint lithography
 		* thermoplastic nanoimprint lithography
 		* photo nanoimprint lithography
@@ -1278,6 +1277,11 @@ Process simulation TCAD:
 	- X-ray lithography
 	- BEUV lithography, or beyond extreme ultraviolet lithography
 		* about 6.7 nm wavelength
+	- maskless lithography, MPL
+		* electronic beam lithography, e-beam lithography, EBL
+		* plasmonic direct writing lithography
+		* optical maskless lithography
+			+ multiphoton lithography, ***direct laser writing***, direct laser lithography
 	- other non-mainstream lithography techniques
 		* molecular self-assembly lithography
 		* stencil lithography
@@ -1309,6 +1313,11 @@ Process simulation TCAD:
 			+ current-induced SPL, c-SPL
 			+ thermally-assisted magnetic SPL, tam-SPL
 		* local oxidation nanolithography, LON
+		* interference lithography, or holographic lithography
+			+ not maskless lithography
+			+ no 1:1 imaging system in between
+			+ electron holographic lithography
+			+ atom holographic lithography
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical polishing, chemical-mechanical planarization
