@@ -1412,8 +1412,13 @@ BEOL processing, back-end-of-line processing
 
 
 
-Wafer testing, post-BEOL
+Wafer testing, post-BEOL, prior to die preparation (for IC packaging and IC testing)
++ synonyms of wafer testing:
+	- wafer final test, WFT
+	- electronic die sort, EDS
+	- circuit probe, CP
 + use wafer test metrology equipment to check if prior semiconductor manufacturing steps have not damaged the wafers.
+	- IC testing for functional defects,bywafer prober 
 + virtual metrology
 	- for predicting wafer properties using statistical methods, without having to perform the physical measurement itself
 
