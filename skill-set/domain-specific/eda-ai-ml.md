@@ -1283,6 +1283,7 @@ Process simulation TCAD:
 		* plasmonic lithography
 		* soft lithography
 		* laser printing lithography
+			+ laser printing of single nanoparticles
 		* nanosphere lithography, NSL
 		* direct-write lithography process
 			+ proton beam lithography, or p-beam writing
