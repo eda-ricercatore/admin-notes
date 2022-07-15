@@ -1250,7 +1250,7 @@ Process simulation TCAD:
 + oxidation
 + dry/wet etching
 + deposition
-+ optical photolithography, photolithography, or optical lithography, and next-generation lithography (NGL) techniques
++ ***optical photolithography, photolithography, or optical lithography***, and next-generation lithography (NGL) techniques for optical lithography
 	- multiple patterning, or multi-patterning
 	- classifications:
 		* ultraviolet lithography, UV lithography
@@ -1274,10 +1274,6 @@ Process simulation TCAD:
 		* used with multile patterning
 		* single patterning extension, anamorphic high-NA (NA, numerical aperture)
 	- deep UV immersion lithography, immersion lithography
-	- nanoimprint lithography
-		* thermoplastic nanoimprint lithography
-		* photo nanoimprint lithography
-		* resist-free direct thermal nanoimprint lithography
 	- X-ray lithography
 	- BEUV lithography, or beyond extreme ultraviolet lithography
 		* about 6.7 nm wavelength
@@ -1286,26 +1282,37 @@ Process simulation TCAD:
 		* plasmonic direct writing lithography
 		* optical maskless lithography
 			+ multiphoton lithography, ***direct laser writing***, direct laser lithography
+	- quantum optical lithography, QOL
 	- other non-mainstream lithography techniques
+		* nanoimprint lithography
+			+ thermoplastic nanoimprint lithography
+			+ photo nanoimprint lithography
+			+ resist-free direct thermal nanoimprint lithography
 		* molecular self-assembly lithography
 		* stencil lithography
-		* ion beam lithography, or ion-beam lithography, or ion-projection lithography
-			+ focused ion beam lithography, FIB
-			+ similar to:
-				- electronic beam lithography
+		* charged-beam lithography
+			+ ion beam lithography, or ion-beam lithography, or ion-projection lithography
+				- ion beam proximity lithography, IBL
+				- focused ion beam lithography, FIB
+				- similar to:
+					* electronic beam lithography
+				- electron-projection lithography
 		* magnetolithography, ML
 			+ photoresist-less and photomaskless lithography
 			+ backside lithography
 		* plasmonic lithography, plasmonic nanolithography, plasmonic photolithography
-		* soft lithography
+		* ***soft lithography***
 			+ use elastomeric stamps, molds, and conformable photomasks to fabricate or replicate structures
+			* PDMS lithography
+			* microcontact printing
+			* multilayer soft lithography
 		* laser printing lithography
 			+ laser printing of single nanoparticles
 		* nanosphere lithography, NSL
 		* direct-write lithography process
 			+ proton beam lithography, or p-beam writing
 		* multiphoton lithography, direct laser lithography, direct laser writing
-		* scanning probe lithography, SPL
+		* ***scanning probe lithography, SPL***
 			+ mechanical/thermo-mechanical SPL, m-SPL
 			+ thermal SPL, t-SPL
 			+ thermo-chemical SPL, tc-SPL, or thermochemical nanolithography, TCNL
@@ -1322,6 +1329,8 @@ Process simulation TCAD:
 			+ no 1:1 imaging system in between
 			+ electron holographic lithography
 			+ atom holographic lithography
+		* nanofountain darwing, or nanofountain probe
+
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical polishing, chemical-mechanical planarization
