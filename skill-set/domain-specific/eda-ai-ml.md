@@ -1283,8 +1283,9 @@ Process simulation TCAD:
 		* plasmonic lithography
 		* soft lithography
 		* laser printing lithography
-		* nanosphere lithography
-		* proton beam lithography
+		* nanosphere lithography, NSL
+		* direct-write lithography process
+			+ proton beam lithography, or p-beam writing
 		* multiphoton lithography, direct laser lithography, direct laser writing
 		* scanning probe lithography, SPL
 			+ mechanical/thermo-mechanical SPL, m-SPL
@@ -1297,6 +1298,7 @@ Process simulation TCAD:
 			+ bias-induced SPL, b-SPL
 			+ current-induced SPL, c-SPL
 			+ thermally-assisted magnetic SPL, tam-SPL
+		* local oxidation nanolithography, LON
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical polishing, chemical-mechanical planarization
