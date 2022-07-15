@@ -1290,7 +1290,9 @@ Process simulation TCAD:
 			+ mechanical/thermo-mechanical SPL, m-SPL
 			+ thermal SPL, t-SPL
 			+ thermo-chemical SPL, tc-SPL, or thermochemical nanolithography, TCNL
-			+ dip-pen SPL, dp-SPL, or thermal dip-pen lithography, or dip-pen nanolithography, DPN
+			+ dip-pen SPL, dp-SPL, or dip-pen nanolithography, DPN
+				- thermal dip-pen lithography
+				- beam pen lithography
 			+ local oxidation lithography, o-SPL
 			+ bias-induced SPL, b-SPL
 			+ current-induced SPL, c-SPL
@@ -1298,6 +1300,12 @@ Process simulation TCAD:
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical polishing, chemical-mechanical planarization
++ annealing (diffusion and dopant activation)
++ epitaxy
+
+
+
+
 
 
 
