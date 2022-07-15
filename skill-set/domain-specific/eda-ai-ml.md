@@ -1525,13 +1525,17 @@ Steps for die preparation are:
 + through-silicon, via semiconductor manufacturing for 3-D ICs
 + wafer mounting
 + wafer backgrinding and polishing
+	- synonyms of wafer backgrinding:
+		* backlap
+		* backfinish
+		* wafer thinning
 + wafer bonding and wafer stacking, 3-D ICs and MEMS
 + redistribution layer manufacturing, for WLCSP packages (or wafer-level packaging)
 + wafer bumping
 	- for flip chip BGA, flip chip ball grid array
 	- for WLCSP packages (or wafer-level packaging)
 + die cutting or wafer dicing
-
+	- separate the dies from the wafer
 
 
 
@@ -1543,12 +1547,19 @@ Steps for IC packaging are:
 	- thermosonic bonding
 	- flip chip, controlled collapse chip connection, C4
 	- tape-automated bonding
+	- down bonding
+	- quilt packaging, QP
+	- film attaching
+	- spacing attaching
 + IC encapsulation, integrated heat spreader installation, or IHS installation
 	- molding
 	- baking
 	- electroplating
 	- baking marking, or silkscreen printing
 	- trim and form
+	- laser marking
++ wafer bonding
+	- packaging for MEMS and NEMS
 + IC testing
 
 
