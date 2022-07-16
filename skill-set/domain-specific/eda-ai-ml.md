@@ -1310,7 +1310,7 @@ Process simulation TCAD:
 			+ laser printing of single nanoparticles
 		* nanosphere lithography, NSL
 		* direct-write lithography process
-			+ proton beam lithography, or p-beam writing
+			+ proton beam lithography, or p-beam writing, or proton beam writing
 		* multiphoton lithography, direct laser lithography, direct laser writing
 		* ***scanning probe lithography, SPL***
 			+ mechanical/thermo-mechanical SPL, m-SPL
