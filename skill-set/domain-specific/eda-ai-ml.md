@@ -1250,7 +1250,25 @@ Process simulation TCAD:
 + oxidation
 + dry/wet etching
 + deposition
-+ ***optical photolithography, photolithography, or optical lithography***, and next-generation lithography (NGL) techniques for optical lithography
++ ***optical lithography, photolithography, or optical photolithography***, and next-generation lithography (NGL) techniques for optical lithography
+	- ***computational lithography***, or computational scaling
+		* Mathematical and algorithmic approaches to improve attainable resolution from optical lithography.
+		* For 22 nm semiconductor manufacturing process technology nodes and beyond.
+		* To fix problems with:
+			+ 193 nm deep UV optical lithography.
+		* includes DFM techniques, such as:
+			+ resolution enhancement technologies, RET
+			+ optical proximity correction, OPC
+			+ source mask optimization
+				- or, complex modeling of the lens system and photoresist
+					* aims to improve chip manufacturability and manufacturing yield
+					* use signature of scanner to improve:
+						+ OPC model
+						+ polarization characteristics of the lens pupil
+						+ Jones matrix of the stepper lens
+						+ optical parameters of the photoresist stack
+						+ diffusion through the photoresist
+						+ stepper illumination control variables
 	- multiple patterning, or multi-patterning
 	- classifications:
 		* ultraviolet lithography, UV lithography
@@ -1330,7 +1348,6 @@ Process simulation TCAD:
 			+ electron holographic lithography
 			+ atom holographic lithography
 		* nanofountain darwing, or nanofountain probe
-
 + silicidation
 + modeling mechanics of semiconductor manufacturing processes
 + CMP, chemical-mechanical polishing, chemical-mechanical planarization
