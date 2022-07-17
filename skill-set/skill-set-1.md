@@ -6,26 +6,9 @@
 
 
 
-+ skill set:
-	- Analyze existing programs or formulate logic for new systems, devise logic procedures, prepare flowcharts, may perform Marketo and Salesforce configuration
-	- Test solutions and ensure they meet business requirements and are "fit-for-purpose." Present and validate solution with user
-	- Experience setting up big data platform service providers like Qubole
-	- Experience with AWS Services, which includes setting up S3 policies, IAM Roles, Enabling Cloudwatch Alarms, understanding AWS cost etc
-	- Experience with Service Performance Monitoring tools for big data like DataDog, Unravel etc
-	- Experience setting up Big Data Technologies like, HDFS, MapReduce, Hbase, Pig, Hive, Sqoop, Oozie, Spark, Cloudera manager, Kafka & Splunk
-	- Experience setting up schedulers like Oozie and Airflow
-	- Experience with building CI/CT/CD pipelines for AWS Services like Lambda, Glue, ECS and Firehoses
-	- Experience with AWS including S3, EC2, Lambda, Kinesis, Firehose, Step functions, Cloudwatch, Cloud formation templates
-	- Experience with Programming Languages - Java, Python, Linux Shell Scripts, PL/SQL
-	- Experience with Databases: Databases: Oracle, MySQL, SQL Server, PostgreSQL & DynamoDb
-	- Experience with Web Services like REST & SOAP
-+ skill set:
-	- Strong foundation in Python & MongoDB/DynamoDB
-	- Experienced with software support tools for version control, issue tracking, collaboration, automation, containerization, document generation (JIRA, GIT, Artifactory, Confluence, Jenkins, Docker)
-	- Experience with testing frameworks and/or AB testing tools
-+ skill set:
-	- Hands-on experience with AWS (Lambda, SAM, S3, DynamoDB, CloudFormation, EC2, IAM)
-	- Experience building and interpreting data models and analytics dashboards
+
+
+
 + skill set:
 	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
 	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way

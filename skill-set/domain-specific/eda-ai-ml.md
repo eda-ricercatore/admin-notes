@@ -3287,7 +3287,9 @@ Notes:
 	- Familiar with ML and statistical modeling tools such as R, SparkML, TensorFlow, SciKit
 	- Proven track record overseeing multiple data science projects at all stages, from initial conception to implementation and optimization
 	- Good programming skills using analytics-oriented languages such as Python, R and Scala
-
++ skill set:
+	- Hands-on experience with AWS (Lambda, SAM, S3, DynamoDB, CloudFormation, EC2, IAM)
+	- Experience building and interpreting data models and analytics dashboards
 
 
 

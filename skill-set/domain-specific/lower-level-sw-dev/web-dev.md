@@ -888,6 +888,19 @@
 			+ ["free and open-source module bundler for JavaScript"](https://en.wikipedia.org/wiki/Webpack)
 			+ ["It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules."](https://en.wikipedia.org/wiki/Webpack)
 + skill set:
+	- Analyze existing programs or formulate logic for new systems, devise logic procedures, prepare flowcharts, may perform Marketo and Salesforce configuration
+	- Test solutions and ensure they meet business requirements and are "fit-for-purpose." Present and validate solution with user
+	- Experience setting up big data platform service providers like Qubole
+	- Experience with AWS Services, which includes setting up S3 policies, IAM Roles, Enabling Cloudwatch Alarms, understanding AWS cost etc
+	- Experience with Service Performance Monitoring tools for big data like DataDog, Unravel etc
+	- Experience setting up Big Data Technologies like, HDFS, MapReduce, Hbase, Pig, Hive, Sqoop, Oozie, Spark, Cloudera manager, Kafka & Splunk
+	- Experience setting up schedulers like Oozie and Airflow
+	- Experience with building CI/CT/CD pipelines for AWS Services like Lambda, Glue, ECS and Firehoses
+	- Experience with AWS including S3, EC2, Lambda, Kinesis, Firehose, Step functions, Cloudwatch, Cloud formation templates
+	- Experience with Programming Languages - Java, Python, Linux Shell Scripts, PL/SQL
+	- Experience with Databases: Databases: Oracle, MySQL, SQL Server, PostgreSQL & DynamoDb
+	- Experience with Web Services like REST & SOAP
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

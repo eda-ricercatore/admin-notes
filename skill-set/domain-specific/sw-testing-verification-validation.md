@@ -56,6 +56,10 @@
 	- Knowledge of Load and performance testing using open source tools such as JMeter or LoadUI
 + Load and performance testing using open source tools such as JMeter or LoadUI
 + skill set:
+	- Strong foundation in Python & MongoDB/DynamoDB
+	- Experienced with software support tools for version control, issue tracking, collaboration, automation, containerization, document generation (JIRA, GIT, Artifactory, Confluence, Jenkins, Docker)
+	- Experience with testing frameworks and/or AB testing tools
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
