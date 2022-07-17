@@ -3290,11 +3290,17 @@ Notes:
 + skill set:
 	- Hands-on experience with AWS (Lambda, SAM, S3, DynamoDB, CloudFormation, EC2, IAM)
 	- Experience building and interpreting data models and analytics dashboards
-
-
-
-
-
++ skill set:
+	- Experience with data quality processes, data quality checks, validations, data quality metrics, definition, and measurement.
+	- Ability to operate with cross-functional teams (for example, customer support, data science, engineering, and sales), including a willingness to balance the changing needs of a client-facing team with a demand for data engineering best practices and the ability to communicate the tradeoffs.
++ skill set:
+	- Experience with presentation or data visualization software, such as Microsoft PPT, Tableau, Shiny, etc.
+	- Practical understanding of and experience with predictive analytics, machine learning, and/or causal inference
++ skill set:
+	- Proficiency with statistical programming languages (R, Python, etc.) and proven ability to work pragmatically with statistical concepts
+	- Practical understanding of and experience with predictive analytics, machine learning, and/or causal inference
++ Proficiency with machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
++ Experience identifying data quality and developing automated QC checks and/or reports
 
 
 
@@ -3769,9 +3775,11 @@ DataOps leadership principles:
 
 
 
-
-
-
+Skill sets for DataOps:
++ Demonstrated track record working with data warehouse concepts.
++ skill set:
+	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
+	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
 
 
 

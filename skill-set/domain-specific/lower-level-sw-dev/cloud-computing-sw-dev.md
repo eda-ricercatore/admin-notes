@@ -173,6 +173,10 @@ This set of skill sets is for software development roles in cloud computing.
 	- Content delivery network (CDN) experience
 	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
 + skill set:
+	- Reduce RPO/RTO for our S3, RDS, Redis, MongoDB, etcd and PostgreSQL instances
+	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
+	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
