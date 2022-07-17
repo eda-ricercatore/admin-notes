@@ -2345,6 +2345,20 @@ Skill sets for application engineers of different EDA products:
 	- Previous experience building end to end Machine Learning systems
 + ***Capsule Networks***, or capsule neural networks
 + skill set:
+	- Experience working with relational SQL and NoSQL databases
+	- Experience working with big data platforms (Hadoop, Spark, Hive)
+	- Fluency with one or more programing language: Python, Java, Scala, etc
+	- Good understanding of CS fundamentals, e.g. algorithms and data structures
+	- Experience with data science tools and libraries, e.g. R, pandas, Jupyter, scikit-learn, TensorFlow, etc
+	- Familiarity with statistical concepts and analyses, e.g. hypothesis testing, regression, etc
+	- Familiarity with machine learning techniques, e.g. classification, clustering, regularization, optimization, dimension reduction, etc
+	- Guide the utilization or development of a robust CI/CD capability.
+	- Identify key performance & effectiveness metrics, monitor & adjust to goals
+	- Work with test automation team to lay the groundwork for automated API testing framework and test cases
+	- Prioritize backlog & drive product releases
+	- Distill strategic intent into structured product release roadmaps that are compelling and achievable
+	- Ability to execute and manage performance and expectations within a cross-functional, matrix management environment
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -3265,7 +3279,14 @@ Notes:
 + Hands-on experience with open source big data platforms (Hadoop, Hive, Presto) and familiarity with data visualization (Tableau, D3) technologies
 + Familiarity with implementing metric logging and interpreting metrics to make decisions
 + Must possess knowledge in SW to Enterprise, SaaS and on Premise, and cloud technologies Elasticsearch for text indexing, MongoDB for structured data storage, Mysql/postgres for SQL storage, JanusGraph for Properties’ based graph storage, ArangoDB for Documents/Key Value/Graph storage, and Amazon AWS.
-
++ skill set:
+	- Deep understanding of machine learning, statistical modeling and data mining techniques such as gradient boosting, neural networks, natural language processing and clustering
+	- Understanding of experimental design and adaptive sampling
+	- Experience working with big data platforms (Hadoop, Spark, Hive)
+	- Experience working with relational SQL and NoSQL databases
+	- Familiar with ML and statistical modeling tools such as R, SparkML, TensorFlow, SciKit
+	- Proven track record overseeing multiple data science projects at all stages, from initial conception to implementation and optimization
+	- Good programming skills using analytics-oriented languages such as Python, R and Scala
 
 
 
