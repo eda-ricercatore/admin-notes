@@ -2679,7 +2679,29 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 + knowledge of CUDA / OpenCL / OpenCV
-
++ skill set:
+	- Design and implementation of state of the art monocular computer vision algorithms
+	- Solve problems involving odometry, landmark detection, structure from motion and segmentation in large scale outdoor environments
+	- Integrate vision based algorithms into our probabilistic fusion framework
+	- Help in identifying core requirements for camera sensors
+	- Code development in C++/Python
+	- Work with real data on our self driving car
+	- Masters or PhD Computer Science, Electrical Engineering or both.
+	- Deep Experience in SfM, VO, and classical computer vision algorithms
+	- Expert knowledge in computational geometry
+	- Experience in machine learning, feature detection and classification
+	- Experience with open source computer vision and linear algebra frameworks
+	- A solid background in statistics, probability and linear algebra
+	- Experience with real world datasets
+	- Experience with real time algorithm implementation
+	- Ability to work independently without direct supervision
+	- Experience with CV algorithm packages (Eigen, OpenCV, etc.)
+	- Knowledge of Deep learning techniques applied to CV
+	- Experience in Linux based environments
+	- Experience in SLAM and/or motion planning
+	- Experience with CUDA, OpenCL or other GPU frameworks
+	- Experience with automotive systems or UAV systems
+	- Ability to lead a small technical team that balances research and application
 
 
 
@@ -2815,7 +2837,14 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 + skill set:
 	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
 	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
-
++ skill set:
+	- Recommender Systems and Personalization. Almost every aspect of the Netflix experience is personalized, and much of that personalization is driven by our various flavors of recommendation algorithms. You'll apply a number of techniques, from the latest in deep learning, reinforcement learning, to causal inference.
+	- Search Ranking and Query Understanding. You'll work on the algorithms that allow our members to interactively query and explore our catalog. Using the latest in NLP techniques, you'll solve problems including: query understanding, knowledge graph discovery, and learning to rank across our global catalog of titles.
+	- Large Scale Machine Learning. Netflix is available in over 190 countries, with over 148+ million members. This gives us a unique dataset to work with, but also unique challenges in how we scale our models. You'll work on cutting edge techniques to scale your models for use in our production systems.
+	- Strong background in machine learning with a broad understanding of unsupervised and supervised learning methods
+	- Strong software development experience
+	- Successful track record of delivering results in complex cross-functional projects
+	- Strong mathematical skills with knowledge of statistical methods
 
 
 
@@ -3135,7 +3164,11 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 
-
++ skill set:
+	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
+	- Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Deep Learning or Causal Inference
+	- Cloud computing platforms and large web-scale distributed systems
 
 
 
@@ -4055,6 +4088,12 @@ Skill set for management of information systems, MIS:
 		* GraphQL client that scales with the database or data set.
 		* Includes *incremental compiler* that performs *automatic optimizations*.
 		* Supports data consistency.
++ skill set:
+	- Experience building or maintaining databases (MySQL, Hive, etc.)
+	- Experience building or maintaining Big data & streaming systems (Hadoop, HDFS, Kafka, etc.)
+	- Cross-platform coding
+	- Large-scale, large-user base website development experience
+	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
 + skill set:
 	- BLAH.
 

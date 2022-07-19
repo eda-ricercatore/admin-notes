@@ -102,6 +102,19 @@ Sets of skills for embedded software development roles:
 	- Experience with automotive or green energy background a plus
 	- Interest in solving complex and time critical problems
 + skill set:
+	- Application code development in C++
+	- Embedded peripherals and drivers (UART/CAN/SPI/I2C)
+	- Wireless communication systems (Cellular, Wifi, BLE)
+	- Networking protocols (TCP/UDP)
+	- Embedded Linux
+	- FreeRTOS or similar low level RTOS
+	- Masters degree or similar job experience
+	- Experience with algorithm packages (Eigen, OpenCV, etc.)
+	- Worked with TI M4 class processors
+	- Worked with Linux on ARM processors
+	- Worked with Embedded GCC
+	- Experience with automotive systems or UAV systems
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

@@ -1,72 +1,12 @@
 #	Sets of skills
 
 
-+ skill set:
-	- Excellent understanding of video compression. Extensive experience with compression standards such as H.264/AVC, HEVC and VP9.
-	- Strong background in image and signal processing, both algorithm design and implementation.
-	- Implemented a video codec from scratch
-	- Background in video quality metrics, video understanding, computer vision or machine learning
-	- Experience with large-scale distributed systems and cloud-computing
-	- Involvement in open-source multimedia projects (such as ffmpeg, x264, webm, VLC)
-	- Design and prototype algorithms for improving the quality and performance in our cloud-based video ingest and encoding pipeline
-	- Study current codec implementations and find areas for improvement in quality and speed
-	- Conduct research on next-generation image and video coding and propose technology for industry standards
-	- Participate in research conferences and standardization meetings
-+ skill set:
-	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
-	- Recommendation Systems, Personalization, Search, or Computational Advertising
-	- Deep Learning or Causal Inference
-	- Cloud computing platforms and large web-scale distributed systems
-+ skill set:
-	- Recommender Systems and Personalization. Almost every aspect of the Netflix experience is personalized, and much of that personalization is driven by our various flavors of recommendation algorithms. You'll apply a number of techniques, from the latest in deep learning, reinforcement learning, to causal inference.
-	- Search Ranking and Query Understanding. You'll work on the algorithms that allow our members to interactively query and explore our catalog. Using the latest in NLP techniques, you'll solve problems including: query understanding, knowledge graph discovery, and learning to rank across our global catalog of titles.
-	- Large Scale Machine Learning. Netflix is available in over 190 countries, with over 148+ million members. This gives us a unique dataset to work with, but also unique challenges in how we scale our models. You'll work on cutting edge techniques to scale your models for use in our production systems.
-	- Strong background in machine learning with a broad understanding of unsupervised and supervised learning methods
-	- Strong software development experience
-	- Successful track record of delivering results in complex cross-functional projects
-	- Strong mathematical skills with knowledge of statistical methods
-+ skill set:
-	- Experience building or maintaining databases (MySQL, Hive, etc.)
-	- Experience building or maintaining Big data & streaming systems (Hadoop, HDFS, Kafka, etc.)
-	- Cross-platform coding
-	- Large-scale, large-user base website development experience
-	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
-+ skill set:
-	- Application code development in C++
-	- Embedded peripherals and drivers (UART/CAN/SPI/I2C)
-	- Wireless communication systems (Cellular, Wifi, BLE)
-	- Networking protocols (TCP/UDP)
-	- Embedded Linux
-	- FreeRTOS or similar low level RTOS
-	- Masters degree or similar job experience
-	- Experience with algorithm packages (Eigen, OpenCV, etc.)
-	- Worked with TI M4 class processors
-	- Worked with Linux on ARM processors
-	- Worked with Embedded GCC
-	- Experience with automotive systems or UAV systems
-+ skill set:
-	- Design and implementation of state of the art monocular computer vision algorithms
-	- Solve problems involving odometry, landmark detection, structure from motion and segmentation in large scale outdoor environments
-	- Integrate vision based algorithms into our probabilistic fusion framework
-	- Help in identifying core requirements for camera sensors
-	- Code development in C++/Python
-	- Work with real data on our self driving car
-	- Masters or PhD Computer Science, Electrical Engineering or both.
-	- Deep Experience in SfM, VO, and classical computer vision algorithms
-	- Expert knowledge in computational geometry
-	- Experience in machine learning, feature detection and classification
-	- Experience with open source computer vision and linear algebra frameworks
-	- A solid background in statistics, probability and linear algebra
-	- Experience with real world datasets
-	- Experience with real time algorithm implementation
-	- Ability to work independently without direct supervision
-	- Experience with CV algorithm packages (Eigen, OpenCV, etc.)
-	- Knowledge of Deep learning techniques applied to CV
-	- Experience in Linux based environments
-	- Experience in SLAM and/or motion planning
-	- Experience with CUDA, OpenCL or other GPU frameworks
-	- Experience with automotive systems or UAV systems
-	- Ability to lead a small technical team that balances research and application
+
+
+
+
+
+
 + skill set:
 	- This role is focused on delivering the best in localization performance from our sensors.
 	- Candidates should have extensive experience working with raw navigation data. You should be very comfortable with estimation theory and have implemented complex filters in practice. Real world experience with RTK, Integer Ambiguity Estimation and other high precision techniques are a huge plus.
