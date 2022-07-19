@@ -1,13 +1,14 @@
-#	Lower-Level ECE Roles
+#	Lower-Level Embedded System Roles
 
-
+This includes skill sets for embedded system design, verification, testing, and validation. In addition, it includes embedded software development.
 
 
 ##	Lower-Level Embedded Systems/Hardware Roles
 
 
 
-Sets of skills for lower-level embedded systems/hardware roles:
+
+Sets of skills for lower-level embedded systems/hardware roles, such as those for embedded system design, verification, testing, and validation:
 + skill set:
 	- Familiarity with board /chip bringup  
 	- Experience with real-time operating systems (RTOS) like FreeRTOS, Threadx etc

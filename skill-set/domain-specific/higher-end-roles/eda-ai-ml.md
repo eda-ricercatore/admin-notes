@@ -2811,7 +2811,10 @@ Skills for natural language processing, NLP:
 
 
 
-Sets of skills for recommender systems
+Sets of skills for recommender systems, recommendation systems (or, recommendation platforms/engines):
++ skill set:
+	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
 
 
 

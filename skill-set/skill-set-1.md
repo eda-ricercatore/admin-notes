@@ -1,20 +1,6 @@
 #	Sets of skills
 
 
-
-
-
-
-
-
-
-
-
-
-
-+ skill set:
-	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
-	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
 + skill set:
 	- Excellent understanding of video compression. Extensive experience with compression standards such as H.264/AVC, HEVC and VP9.
 	- Strong background in image and signal processing, both algorithm design and implementation.
