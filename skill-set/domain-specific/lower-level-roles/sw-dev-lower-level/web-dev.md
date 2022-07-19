@@ -1098,6 +1098,7 @@
 	- Able to communicate to all levels of users (internal and external), because you are adaptable, proactive, and willing to take ownership.
 	- Expert and understanding of one or more different agile methodologies, including Scrum, XP, or SAFe
 	- Willing to grow and learn to be best front-end professional ever
++ are well wersed with any ui-library like React, Angular and have strong opinions about them
 + skill set:
 	- BLAH.
 + skill set:

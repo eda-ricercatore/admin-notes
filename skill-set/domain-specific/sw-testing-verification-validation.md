@@ -60,6 +60,11 @@
 	- Experienced with software support tools for version control, issue tracking, collaboration, automation, containerization, document generation (JIRA, GIT, Artifactory, Confluence, Jenkins, Docker)
 	- Experience with testing frameworks and/or AB testing tools
 + skill set:
+	- Expert knowledge of debugging and crash dump analysis in Windbg;
+	- Experience with system level tools like Process Monitor;
+	- Experience with profiling tools like PerfView (CPU, Memory, Garbage collection);
+	- Experience with in process and out of process COM and how it works in .NET
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

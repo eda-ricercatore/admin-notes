@@ -63,7 +63,7 @@ DevOps is at the intersection of:
 
 
 
-
+Skill set for DevOps:
 + skill set:
 	- Experience with Kubernetes and Docker.
 	- Experience with Elasticsearch, Redis and/or Memcached.
@@ -463,6 +463,16 @@ DevOps is at the intersection of:
 			+ ***Kibana***
 				- data visualization of logs and events, exploration of new maintenance solutions
 				- tool for creating interactive charts
++ skill set:
+	- Experience with CI systems (Jenkins, TeamCity);
+	- AWS - EC2, RDS, ECS etc;
+	- Docker and orchestration: Swarm, Kubernetes;
+	- Elastic Search, RabbitMQ;
+	- Bash / Powershell scripting experience;
+	- Windows / Linux - admin level;
+	- Experience with SVN / GIT - as a user and as an infrastructure owner;
+	- Experience with high loaded distributed multi-tenanted cloud systems. Including: Disaster recovering mechanisms; Monitoring and logging; Redundancy (data, network, apps);
+	- Comfortable working with distributed teams
 + skill set:
 	- BLAH.
 + skill set:

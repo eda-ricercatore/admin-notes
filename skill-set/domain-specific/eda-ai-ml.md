@@ -420,6 +420,55 @@ The sets of skills are:
 
 
 
+
+
+
+###	Design Automation of Cyber-Physical Systems
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Energy-Efficent EDA, or Low-Power EDA
 
 
@@ -1821,6 +1870,75 @@ The sets of skills are:
 
 
 
+###	MEMS CAD, and NEMS CAD
+
+
+
+The sets of skills are:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Other EDA topics
 
 
@@ -2358,6 +2476,7 @@ Skill sets for application engineers of different EDA products:
 	- Prioritize backlog & drive product releases
 	- Distill strategic intent into structured product release roadmaps that are compelling and achievable
 	- Ability to execute and manage performance and expectations within a cross-functional, matrix management environment
++ A background in machine learning and related sub-areas including ranking, personalization, search, recommendation, explore/exploit, causal learning, reinforcement learning, deep learning and probabilistic modeling.
 + skill set:
 	- BLAH.
 + skill set:
@@ -2638,7 +2757,23 @@ Skills for natural language processing, NLP:
 	- Ability to analyze and structure information;
 	- The knowledge of the Arabic language will be considered as a plus.
 + skill set:
-	- BLAH.
+	- NLP/ML Lead at SciSpace (Formerly Typeset)
+	- As one of the first engineers in Content Intelligence at Typeset, you will be required to design infrastructure and models for helping our users discover their research papers better. At Typeset, We are on a mission to help researchers connect the dots faster and accelerate scientific innovation. We want to use Machine Learning to provide an assisted discovery experience to our users.
+	- Your job responsibilities would include:
+		* 1. Choosing a technology stack for machine learning operations
+		* 2. Identify problems in our domain that can benefit from ML
+		* 3. Create a data collection/curation system
+		* 4. Craft models to help solve problems
+		* 5. Train/Tune your models
+		* 6. And most importantly, deliver an amazing discovery experience to our users
+	- This is an end-to-end gig. Typeset believes in full-stack teams who contribute to all parts of the product delivery and take total ownership of the product/features they work on.
+	- Ph.D. holder and 2+ years of prior experience working in a team that centered on NLP/ML
+	- Prior experience working with NLTK, Spacy, or similar NLP libraries
+	- Strong knowledge of Python, Data Structures and Algorithms
+	- Prior experience with any/both of the following will be given preferences a. Statistical modeling techniques, such as conditional random fields b. Deep learning fundamentals, such as RNN, LSTM, CNN, Language Models
+	- Published papers in top-tier NLP/ML conferences or journals
+	- Experience in Scholarly Document Processing (SDP) would be highly-valued
+	- Hands-on experience with AWS cloud infrastructure is a bonus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -2672,9 +2807,11 @@ Skills for natural language processing, NLP:
 
 
 
+###	Recommender Systems
 
 
 
+Sets of skills for recommender systems
 
 
 
@@ -2776,6 +2913,7 @@ Need to address:
 
 
 
+Skill sets for MLOps:
 + skill set:
 	- develop distributed traning infrastructure for faster training of ML models
 	- efficiently deploy ML models into production
@@ -2808,6 +2946,9 @@ Need to address:
 	- Expert in one of the streaming platforms, preferably Flink.
 	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
 	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
++ skill set:
+	- You will also work closely with our data scientists to make sure our customers have the necessary tools to perform high quality data integrations by building out the Machine Learning and AI infrastructure for entity resolution, automated data mapping, predictive analytics, and risk analysis.
+	- As a Software Engineer Intern you will work with a mentor to improve storage, compute, privacy, security, and compliance features necessary to support the operational workflows that help people get the assistance they need.
 + skill set:
 	- BLAH.
 + skill set:
@@ -3150,7 +3291,7 @@ Notes:
 
 
 
-
+Sets of skills for generic data science roles:
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -3301,14 +3442,24 @@ Notes:
 	- Practical understanding of and experience with predictive analytics, machine learning, and/or causal inference
 + Proficiency with machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
 + Experience identifying data quality and developing automated QC checks and/or reports
++ A senior analytics professional with a proven track record of data analysis, reporting and visualization (e.g. Tableau, D3)
 
 
 
 
 
 
-
-
+Sets of skills for more senior data science roles, such as management of data science teams:
++ skill set:
+	- At the heart of Netflix Product Innovations is an experimentation driven culture led by Science & Analytics (S&A).  In this role, you will lead teams of data scientists and analysts responsible for shaping UI and Content Innovations decisions through experimentation (A/B, quasi) and empirical studies to guide product strategy.
+	- Set an impact-focused, strategic science roadmap to guide product innovations.
+	- Recruit and inspire exceptional data scientists focused on the span of causal inference, behavioral research, and analytical activities.
+	- Uphold the culture of rigor in product decision-making through active participation in product debates.
+	- Lead and contribute to cross functional initiatives between product development (product management, design, engineering), content, and marketing.
+	- Define a team culture that balances supporting high impact business needs with forward looking research.
+	- Serve as thought partner to product development executives across product management, engineering, and design.
+	- 5+ years experience in building and inspiring a high-performing data science and analytics team.
+	- Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
 
 
 
@@ -3845,7 +3996,7 @@ Enterprise applications of MIS:
 
 
 
-
+Skill set for management of information systems, MIS:
 + Interact with MySQL data stores and NSQ messaging queues.
 + Senior Data Integration Solution Architect
 	- Join us as we pursue our disruptive new vision to make machine data accessible, usable, and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most importantly, to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
@@ -3896,6 +4047,11 @@ Enterprise applications of MIS:
 + You have familiarity with any query language like SQL, SPL etc.
 + Exposure to ***MariaDB*** or other RDMS
 + Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
++ Familiarity with GraphQL and Relay
+	- [***Relay***](https://relay.dev/)
+		* GraphQL client that scales with the database or data set.
+		* Includes *incremental compiler* that performs *automatic optimizations*.
+		* Supports data consistency.
 + skill set:
 	- BLAH.
 

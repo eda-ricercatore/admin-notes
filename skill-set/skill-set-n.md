@@ -103,43 +103,10 @@ From the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###	Other Information From Job Descriptions
 
 Funny lines in job descriptions:
 + ["Frequently caught reading and engaging too much in AI/ML banter"](https://jobs.lever.co/sigopt/b172f247-6185-43e3-bc18-4a79f243122a), last viewed May 7, 2019. Jobs with SigOpt
-
-
-
-
-
-
-
 
 
 
@@ -175,17 +142,6 @@ skill levels:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ###	Hot Trends
 
 + [ISSCC](http://isscc.org/)
@@ -200,21 +156,6 @@ skill levels:
 + DataOps
 + MLOps
 + ModelOps
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -253,58 +194,6 @@ skill levels:
 
 + [Women in Machine Learning and Data Science (WiMLDS): New York, NY](http://wimlds.org/jobs/#)
 + [VentureLoop](https://www.ventureloop.com/ventureloop/aboutus.php)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

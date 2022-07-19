@@ -177,6 +177,20 @@ This set of skill sets is for software development roles in cloud computing.
 	- Maintain/upgrade our Spinnaker + Kubernetes CI/CD pipeline, and the tooling that makes it all work, in a sane and reproducible way
 	- Automate infrastructure deployments with CloudFormation and SaltStack to help us go multi-AWS region
 + skill set:
+	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
+	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
+	- Experience with continuous integration/delivery services
+	- Experience with containerized code deployment
+	- Experience with networking concepts and protocols
+	- Experience managing large cloud infrastructures
+	- Experience scaling and ensuring reliability of large SaaS or PaaS applications
+	- Experience with orchestration frameworks such as Kubernetes or Mesos
+	- Experience with security, systems, or application monitoring and metrics
+	- Cloud application deployment and monitoring
+	- Data visualization for the web (using D3 or similar)
+	- Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
+	- Query optimization, database administration, analytics databases, and/or NoSQL
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

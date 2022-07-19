@@ -206,7 +206,13 @@
 + skill set:
 	- Experience designing for data-rich products, incorporating data visualizations
 	- Log data search, create and manage searches, reports, and dashboards, view and manage alerts
-
++ skill set:
+	- We don’t just want an experienced designer, we want the tribal freakin’ leader – someone who can put the wonder in websites, has a love of apps, a passion for UX (and gets off on gifs). You are going to design and prototype usable interfaces that accurately translate the vision and requirements of the product.
+	- Strong working knowledge of Sketch, Photoshop, Illustrator, After Effects, and other prototyping and design tools.
+	- Experience with user interface design patterns and ability to create wireframes, prototypes, workflows.
+	- Passion for design, telling customer stories, and simplifying the complex.
+	- Knowledge of latest responsive design techniques.
+	- Experience working across interaction and user research.
 
 
 

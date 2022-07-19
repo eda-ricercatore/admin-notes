@@ -1,5 +1,8 @@
-#	Compiler Design
+#	Compiler Design and Program Analysis
 
+
+
+##	Skill Set for Compiler Design
 
 Notes:
 + Compiler design involves code optimization (with the intermediate representation, and during code generation - such as instruction scheduling and register allocation), rather than merely than implementing interpreters that translate source code to binaries/executables.
@@ -12,7 +15,11 @@ Notes:
 
 
 
-
+Skill set for compiler design:
++ skill set:
+	- Retargeting of a C/C++ compiler towards specific microcontroller architectures
+	- Activities comprise participation in the development, maintenance, build, test, and release of compiler and run-time libraries for existing and forthcoming processor architectures, including competitive performance analysis, root cause analysis, and bug resolution
+	- 6+ years of experience with SQL databases (we use Postgres) and data manipulation
 + skill set:
 	- BLAH.
 + skill set:
