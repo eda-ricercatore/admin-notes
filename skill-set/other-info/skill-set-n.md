@@ -160,6 +160,25 @@ skill levels:
 
 
 
+####	Exploratory Engineering in the Context of 
+
+
+To pursue exploratory engineering in the context of technological change, technological forecasting, and technology roadmaps.
++ exploratory engineering
++ technological change
+	- technological unemployment
++ technological forecasting
+	- accelerating change
+	- horizon scanning
+	- technological singularity
+	- technological scouting
++ technology roadmaps
++ technological readiness level
+
+
+
+
+
 
 
 

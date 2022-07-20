@@ -124,6 +124,37 @@ This set of skill sets is for computational *X* software development roles, whic
 
 
 
+###	Application Domains of Computational *X*: Emerging Technologies
+
+
+Emerging technologies that would be interesting application domains of computational *X*, especially computational engineering:
++ ***4-dimensional printing***, ***4-D printing***, 4-D bioprinting, ***active origami***, or ***shape-morphing systems***
+	- uses ***programmable matter***
+		* ["Programmable matter is matter which has the ability to change its physical properties (shape, density, moduli, conductivity, optical properties, etc.) in a programmable fashion, based upon user input or autonomous sensing. Programmable matter is thus linked to the concept of a material which inherently has the ability to perform information processing."](https://en.wikipedia.org/wiki/Programmable_matter)
+			+ Robotics-based approaches
+				- ***self-reconfiguring modular robotics***
+					* Or, ***modular reconfigurable robotics***
+					* Or, ***modular reconfigurable robot systems, MRRs***
+				- claytronics
+				- cellular automata
+			+ Metamaterials are examples of programmable matter.
+				- ["Metamaterials are artificial composites that can be controlled to react in ways that do not occur in nature."](https://en.wikipedia.org/wiki/Programmable_matter)
+				- ["A metamaterial (from the Greek word μετά meta, meaning "beyond" and the Latin word materia, meaning "matter" or "material") is any material engineered to have a property that is not found in naturally occurring materials. They are made from assemblies of multiple elements fashioned from composite materials such as metals and plastics. The materials are usually arranged in repeating patterns, at scales that are smaller than the wavelengths of the phenomena they influence. Metamaterials derive their properties not from the properties of the base materials, but from their newly designed structures. Their precise shape, geometry, size, orientation and arrangement gives them their smart properties capable of manipulating electromagnetic waves: by blocking, absorbing, enhancing, or bending waves, to achieve benefits that go beyond what is possible with conventional materials."](https://en.wikipedia.org/wiki/Metamaterial)
+	- "the resulting 3D shape is able to morph into different forms in response to environmental stimulus"
+	- "4th dimension being the time-dependent shape change after the printing"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##	Software Development for Numerical Computing
 
