@@ -9,9 +9,19 @@
 
 + skill set:
 	- This role is focused on delivering the best in localization performance from our sensors.
+		* By localization, it refers to:
+			+ [(generic) navigation](https://en.wikipedia.org/wiki/Navigation)
+			+ [Robot navigation](https://en.wikipedia.org/wiki/Robot_navigation)
+				- By extension, it involves:
+					* self-localisation
+					* [path planning](https://en.wikipedia.org/wiki/Motion_planning)
+					* map-building and map interpretation
 	- Candidates should have extensive experience working with raw navigation data. You should be very comfortable with estimation theory and have implemented complex filters in practice. Real world experience with RTK, Integer Ambiguity Estimation and other high precision techniques are a huge plus.
-	- Inertial Measurement Unit Algorithms, Extended Kalman Filter, Visual Odometry, Gnss, RTK-GPS
-+ [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
+		* RTK could refer to [real-time kinematic positioning](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)
+		* [integer aperture estimation = integer ambiguity resolution](https://sciencetrends.com/integer-aperture-estimation-presence-biases/)
+	- [Inertial Measurement Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) Algorithms, [Extended Kalman Filter (EKF)](https://en.wikipedia.org/wiki/Extended_Kalman_filter), [Visual Odometry](https://en.wikipedia.org/wiki/Visual_odometry), Gnss, RTK-GPS
+		* [global navigation satellite system (GNSS)](https://en.wikipedia.org/wiki/Satellite_navigation)
+			- Or, satellite navigation, or satnav system.
 + skill set:
 	- Expertise in image and video processing, computational photography, single and multiview geometry, keypoint extraction, description, association, etc.
 	- Experience in efficient large-scale numerical optimization

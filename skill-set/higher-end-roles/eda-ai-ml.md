@@ -4094,6 +4094,8 @@ Skill set for management of information systems, MIS:
 	- Cross-platform coding
 	- Large-scale, large-user base website development experience
 	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
++ [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
+	- search engine for MySQL family of database management systems (DBMS).
 + skill set:
 	- BLAH.
 
