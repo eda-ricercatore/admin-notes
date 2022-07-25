@@ -15,6 +15,12 @@ Important things to pay attention to, so that I can create my own
 				- physical and chemical characterization
 
 
+
+##	EDA, Electronic Design Automation
+
+
+
+
 ###	EDA: Electronic Design Automation Job Opportunities
 
 
@@ -84,7 +90,36 @@ IDMs that may have their own EDA software develoment group:
 
 
 
-##	(VLSI) Formal Verification
+
+###	System-Technology Co-Optimization, STCO
+
+
+By definition, System-Technology Co-Optimization, STCO, includes Design-Technology Co-Optimization (DTCO).
+
+
+System-Technology Co-Optimization, STCO
++ Design-Technology Co-Optimization, DTCO
++ AutoML for STCO
++ Benchmarking
+	- for non- von Neumann computing paradigms
+		* optical computing
+			+ optical transistors
+				- ["An optical transistor, also known as an optical switch or a light valve, is a device that switches or amplifies optical signals. Light occurring on an optical transistor's input changes the intensity of light emitted from the transistor's output while output power is supplied by an additional optical source. Since the input signal intensity may be weaker than that of the source, an optical transistor amplifies the optical signal. The device is the optical analog of the electronic transistor that forms the basis of modern electronic devices. Optical transistors provide a means to control light using only light and has applications in optical computing and fiber-optic communication networks. Such technology has the potential to exceed the speed of electronics, while conserving more power."](https://en.wikipedia.org/wiki/Optical_transistor)
+			+ optical rectenna, or optical rectifying antenna
+				- ["An optical rectenna is a rectenna (rectifying antenna) that works with visible or infrared light. A rectenna is a circuit containing an antenna and a diode, which turns electromagnetic waves into direct current electricity. While rectennas have long been used for radio waves or microwaves, an optical rectenna would operate the same way but with infrared or visible light, turning it into electricity."](https://en.wikipedia.org/wiki/Optical_rectenna)
+	- for heterogeneous system architectures, HSA
+	- for von Neumann computing
+
+
+
+
+
+
+
+
+
+
+###	(VLSI) Formal Verification
 
 
 Focus on mostly equivalence checking and model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
@@ -144,7 +179,7 @@ The sets of skills are:
 
 
 
-##	Embedded Formal Verification, and Formal Verification of Cyber-Physical Systems
+###	Embedded Formal Verification, and Formal Verification of Cyber-Physical Systems
 
 
 Focus on mostly model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
@@ -260,7 +295,7 @@ The sets of skills are:
 
 
 
-##	Circuit Simulation
+###	Circuit Simulation
 
 
 Skill sets for circuit simulation include those for:
@@ -328,6 +363,11 @@ The sets of skills for circuit simulation are:
 
 
 ###	Electronic System-Level Design & Verification
+
+
+The emphasis regarding the design and verification processes for electronic-system level tasks are about embedded computing, or computer systems. See Subsubsection on the design automation of cyber-physical systems, and related systems, to address the interactions with the physical environment, via sensing and actuation.
+
+
 
 
 Includes the following:
@@ -423,8 +463,10 @@ The sets of skills are:
 
 
 
-###	Design Automation of Cyber-Physical Systems
+###	Design Automation of Cyber-Physical Systems and Their Networks
 
+
+This section covers the design automation of cyber-physical systems, and networks of cyber-physical systems (or, networked cyber-physical systems, including networked embedded systems).
 
 
 
