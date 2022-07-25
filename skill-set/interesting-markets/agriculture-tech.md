@@ -2,6 +2,19 @@
 
 
 
+Agricultural technologies include:
++ agricultural robotics
++ closed ecological systems
++ new farming approaches
+	- vertical farming
++ synthetic biology
+	- cultured meat
+
+
+
+
+
+
 
 
 ##	Data Science for Agricultural Technology

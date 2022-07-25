@@ -474,6 +474,8 @@ This section covers the design automation of cyber-physical systems, and network
 + ambient intelligence
 + with users
 	- haptic computing
+		* brain-computer interface, BCI; or brain-machine interface, BMCI,
+			+ neural dust
 + physical computing
 
 

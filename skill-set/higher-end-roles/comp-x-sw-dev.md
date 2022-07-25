@@ -76,6 +76,9 @@ This set of skill sets is for computational *X* software development roles, whic
 			+ mathematical optimization
 		* for:
 			+ structural engineering, or construction engineering
+				- includes the following:
+					* arcology
+						arcology = architecture + ecology
 			+ water supply systems
 			+ transport modeling,r transportation o
 				- vehicle modeling
@@ -190,6 +193,8 @@ Emerging technologies that would be interesting application domains of computati
 		* for flexible electronics
 	- [Magnonics](https://en.wikipedia.org/wiki/Magnonics)
 		* for integrating storage and logic together, in the same device.
+	- for storage systems:
+		* [holographic data storage](https://en.wikipedia.org/wiki/Holographic_data_storage)
 + civic technology, or civic tech
 	- ["Civic technology, or civic tech, enhances the relationship between the people and government with software for communications, decision-making, service delivery, and political process. It includes information and communications technology supporting government with software built by community-led teams of volunteers, nonprofits, consultants, and private companies as well as embedded tech teams working within government."](https://en.wikipedia.org/wiki/Civic_technology)
 		* ["civic tech companies"](https://en.wikipedia.org/wiki/Civic_technology_companies)
