@@ -467,9 +467,20 @@ The sets of skills are:
 
 
 This section covers the design automation of cyber-physical systems, and networks of cyber-physical systems (or, networked cyber-physical systems, including networked embedded systems).
++ Intelligent Environments, IE
+	- ["IEs describe physical environments in which information and communication technologies and sensor systems disappear as they become embedded into physical objects, infrastructures, and the surroundings in which we live, travel and work. The goal here is to allow computers to take part in activities never previously involved and allow people to interact with computers via gesture, voice, movement, and context."](https://en.wikipedia.org/wiki/Intelligent_environment)
++ [ubiquitous computing](https://en.wikipedia.org/wiki/Ubiquitous_computing)
++ [pervasive computing](https://en.wikipedia.org/wiki/Pervasive_computing)
++ ambient intelligence
++ with users
+	- haptic computing
++ physical computing
 
 
 
+
+
+Skill set for the design automation of cyber-physical systems, and networks of cyber-physical systems:
 + skill set:
 	- BLAH.
 + skill set:
