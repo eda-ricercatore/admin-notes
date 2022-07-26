@@ -151,6 +151,9 @@ This document includes skill sets for information processing, including:
 			+ ***mixed reality***, MR, ***cross reality***, or XR
 				- ***augmented reality***, AR
 				- augmented virtuality
+				- blended spaces
+					* integrated physical environments with virtual environments
+					* integrated physical space with digital space
 				- ***virtual reality***, VR
 					* immersion into VR
 						+ types:
@@ -160,7 +163,14 @@ This document includes skill sets for information processing, including:
 			+ ***modulated reality***
 				- diminished reality
 				- modified reality
-			+ multisensory extended reality
+			+ multimodal interaction
+				- multimodal input
+				- multimodal fusion
+					* multimodal input
+					* multimodal output
+				- multimodal output
+				- multimodal sentiment analysis
+				- multisensory extended reality
 	- visual and spatial reasoning
 + ***data compression***, source coding, bit-rate reduction
 	- ["Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression."](https://en.wikipedia.org/wiki/Data_compression)
