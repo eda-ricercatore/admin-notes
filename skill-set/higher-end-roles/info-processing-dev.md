@@ -186,6 +186,7 @@ This document includes skill sets for information processing, including:
 + noise reduction
 	- de-noising
 + semantic Web
++ event processing
 
 
 
