@@ -194,13 +194,40 @@ Emerging technologies that would be interesting application domains of computati
 	- ["Responsive architecture is an evolving field of architectural practice and research. Responsive architectures are those that measure actual environmental conditions (via sensors) to enable buildings to adapt their form, shape, color or character responsively (via actuators). ... Responsive architectures aim to refine and extend the discipline of architecture by improving the energy performance of buildings with responsive technologies (sensors / control systems / actuators) while also producing buildings that reflect the technological and cultural conditions of our time. ... Responsive architectures distinguish themselves from other forms of interactive design by incorporating intelligent and responsive technologies into the core elements of a building's fabric. For example: by incorporating responsive technologies into the structural systems of buildings architects have the ability to tie the shape of a building directly to its environment. This enables architects to reconsider the way they design and construct space while striving to advance the discipline rather than applying patchworks of intelligent technologies to an existing vision of 'building'."](https://en.wikipedia.org/wiki/Responsive_architecture)
 + active structure
 	- ["An active structure (also known as a smart or adaptive structure) is a mechanical structure with the ability to alter its configuration, form or properties in response to changes in the environment."](https://en.wikipedia.org/wiki/Active_structure)
++ ***semiconductor device engineering***, semiconductor device physics, solid-state physics
+	- magnonics
+	- spinmechatronics
+		* spin mechatronics
+			+ integration of nano- and micro- mechatronic systems with spin physics and spintronics
+	- spinplasmonics
+		* spinplasmonics = spintronics + plasmonics (or nanoplasmonics)
 + materials for new electronic and computer systems
-	- [Twistronics](https://en.wikipedia.org/wiki/Twistronics)
-		* for flexible electronics
-	- [Magnonics](https://en.wikipedia.org/wiki/Magnonics)
-		* for integrating storage and logic together, in the same device.
+	- electronic textiles, e-textiles
+		* different from wearable computing
 	- for storage systems:
 		* [holographic data storage](https://en.wikipedia.org/wiki/Holographic_data_storage)
+	- [Magnonics](https://en.wikipedia.org/wiki/Magnonics)
+		* for integrating storage and logic together, in the same device.
+	- multiferroics
+		* ferroelasticity
+		* ferroelectricity
+		* ferromagnetism
+	- [spintronics](https://en.wikipedia.org/wiki/Spintronics)
+		* semiconductor-based spintronic devices
+			+ antiferromagnetic storage media
+			+ magnetic-tunnel transistor
+		* spintronic-logic devices
+			+ non-volatile spintronic-logic devices, non-volatile spin-logic devices
+	- stereoelectronic effect
+	- [Straintronics](https://en.wikipedia.org/wiki/Straintronics)
+	- thin film
+	- [Twistronics](https://en.wikipedia.org/wiki/Twistronics)
+		* for flexible electronics
++ wearable computing
++ batteries
+	- flexible batteries
+		* flexible primary batteries
+		* flexible secondary batteries, flexible rechargeable batteries
 + civic technology, or civic tech
 	- ["Civic technology, or civic tech, enhances the relationship between the people and government with software for communications, decision-making, service delivery, and political process. It includes information and communications technology supporting government with software built by community-led teams of volunteers, nonprofits, consultants, and private companies as well as embedded tech teams working within government."](https://en.wikipedia.org/wiki/Civic_technology)
 		* ["civic tech companies"](https://en.wikipedia.org/wiki/Civic_technology_companies)

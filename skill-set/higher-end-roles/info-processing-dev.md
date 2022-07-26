@@ -148,6 +148,8 @@ This document includes skill sets for information processing, including:
 				- mixed reality
 					* augmented reality
 					* virtual reality
+				- organic user interface, OUI
+					* user interface, UI, with non-flat display
 			+ ***mixed reality***, MR, ***cross reality***, or XR
 				- ***augmented reality***, AR
 				- augmented virtuality

@@ -109,14 +109,37 @@ System-Technology Co-Optimization, STCO
 + AutoML for STCO
 + Benchmarking
 	- for ***non- von Neumann computing paradigms***
-		* ***optical computing***
-			+ optical transistors
-				- ["An optical transistor, also known as an optical switch or a light valve, is a device that switches or amplifies optical signals. Light occurring on an optical transistor's input changes the intensity of light emitted from the transistor's output while output power is supplied by an additional optical source. Since the input signal intensity may be weaker than that of the source, an optical transistor amplifies the optical signal. The device is the optical analog of the electronic transistor that forms the basis of modern electronic devices. Optical transistors provide a means to control light using only light and has applications in optical computing and fiber-optic communication networks. Such technology has the potential to exceed the speed of electronics, while conserving more power."](https://en.wikipedia.org/wiki/Optical_transistor)
+		* hybrid non- von Neumann computing paradigms:
+			+ quantum computing + optical computing
+				- linear optical quantum computing, linear optics quantum computation, LOQC
+		* ***optical computing, photonic computing***
+			+ approaches:
+				- computing by xeroxing on transparencies
+				- Ising machines
+				- masking optical beams
+				- optical Fourier co-processors
+				- time delays optical computing
+				- wavelength-based computing
+			+ nanophotonics, or nano-optics
+				- metamaterials
+				- near-field optics
+				- microphotonics
+				- biophotonics
+					* biofluorescence
+					* biolasing
+					* bioluminescence
+					* biophosphorescence
+					* fluorescence resonance energy transfer, Forster resonance energy transfer, FRET
 			+ optical rectenna, or optical rectifying antenna
 				- ["An optical rectenna is a rectenna (rectifying antenna) that works with visible or infrared light. A rectenna is a circuit containing an antenna and a diode, which turns electromagnetic waves into direct current electricity. While rectennas have long been used for radio waves or microwaves, an optical rectenna would operate the same way but with infrared or visible light, turning it into electricity."](https://en.wikipedia.org/wiki/Optical_rectenna)
+			+ optical transistors
+				- ["An optical transistor, also known as an optical switch or a light valve, is a device that switches or amplifies optical signals. Light occurring on an optical transistor's input changes the intensity of light emitted from the transistor's output while output power is supplied by an additional optical source. Since the input signal intensity may be weaker than that of the source, an optical transistor amplifies the optical signal. The device is the optical analog of the electronic transistor that forms the basis of modern electronic devices. Optical transistors provide a means to control light using only light and has applications in optical computing and fiber-optic communication networks. Such technology has the potential to exceed the speed of electronics, while conserving more power."](https://en.wikipedia.org/wiki/Optical_transistor)
+			+ photonic ICs, PIC, integrated optical circuit
+			+ photonic logic
+				- require resonators
+			+ silicon photonics
 			+ related emerging technologies:
-				- volumetric display devices, 3-D displays
-					* are autostereoscopic
+				- phased-array optics, optical phased array, OPA
 				- screenless displays:
 					* categories:
 						+ visual image
@@ -130,10 +153,12 @@ System-Technology Co-Optimization, STCO
 					* applications:
 						+ augmented reality
 						+ virtual reality
+				- volumetric display devices, 3-D displays
+					* are autostereoscopic				
 	- for heterogeneous system architectures, HSA
 	- for von Neumann computing
 	- other applications:
-		* digital sent technology, olfactory technology
+		* digital scent technology, olfactory technology
 			+ sense, transmit, and receive scent-enabled digital media
 			+ sensor implementations:
 				- olfactometers
@@ -141,10 +166,27 @@ System-Technology Co-Optimization, STCO
 					* field olfactometers
 					* flow olfactometers
 				- electronic noses
+				- fluctuation-enhanced sensing, FES
+					* based on higher-order statistics, HOS
 			+ scentography devices
 			+ machine olfaction
-
-
+		* electronic skin
+			+ includes:
+				- tactile sensors
+			+ conductive electronic skin
+			+ flexible and stretchy electronic skin
+			+ recyclable electronic skin
+		* electronic tongues
+			+ artificial taste
+		* flexible electronics, flex circuits
+			+ flexible display, or rollable display
+			+ flexible printed circuits, FPC
+		* printed electronics
+			+ printed technologies
+				- aerosol jet printing
+				- evaporation printing
+				- inkjet printing
+				- screen printing
 
 
 
@@ -498,7 +540,7 @@ The sets of skills are:
 
 
 This section covers the design automation of cyber-physical systems, and networks of cyber-physical systems (or, networked cyber-physical systems, including networked embedded systems).
-+ [ambient intelligence](https://en.wikipedia.org/wiki/Ambient_intelligence), Aml
++ [ambient intelligence](https://en.wikipedia.org/wiki/Ambient_intelligence), AmI
 + networks of cyber-physical systems
 	- Internet of Things, IoT
 		* AIoT, AI-based IoT
@@ -802,6 +844,7 @@ Sets of skills for physical design of digital ICs/SoCs:
 + cell library synthesis
 	- cell library migration from a given semiconductor manufacturing process technology node to a more advanced node
 + chip-package-board co-design
+	- hybrid integrated circuits, HIC, hybrid microcircuits
 + FPGA physical design
 + DFM-aware physical design
 + power supply networks
@@ -1754,6 +1797,16 @@ Device simulation TCAD includes:
 		* 7-terminal devices
 	- memistors
 		* 7-terminal devices
+	- molecular electronics
+		* molecular scale electronics, or single-molecule electronics
+	- [organic electronics](https://en.wikipedia.org/wiki/Organic_electronics)
+		* organic electronics
+			+ organic solar cells
+			+ photovoltaics
+		* organic field-effect transistors, organic FETs, OFETs
+		* organic light-emitting diodes, OLED
+			+ active-matrix OLED, AMOLED
+	- supramolecular electronics
 	- trancitors, "transfer-capacitors"
 + large-signal nonlinear semiconductor device modeling
 	- physical models, based on semiconductor device physics
