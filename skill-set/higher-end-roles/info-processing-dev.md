@@ -7,22 +7,75 @@ This document includes skill sets for information processing, including:
 	- compressive sensing
 		* compressive sensing for distributed systems
 		* VLSI/hardware implementations
+	- multi-scale signal analysis
 + stream processing
 + visual computing
 	- image processing
+		* affine transformations
+			+ identity
+			+ reflection
+			+ rotate
+			+ scale
+			+ shear
+		* blob detection and extraction
+		* color analysis
+		* edge detection
+		* feature extraction
+		* ***filtering***
+			+ morphological filtering
+		* gauging/metrology
+		* graphical projection
+			+ 3-D projection
+		* image compression
+		+ image denoising
+			+ using mathematical morphology
+		* image editing
+		* image restoration
 		* image search engines
+		* optical character recognition
 		* parallel image processing
+		* pixel counting
+		* pixelation
+		* point feature matching
+		* reading:
+			+ barcode
+			+ data matrix
+			+ 2-D barcode
+				- QR code
+		* segmentation
+		* self-organizing maps
+		* stitching/registration
+		* thresholding
 	- video processing
+		* aspect ratio control
+		* block noise reduction
+		* brightness/contrast/hue/saturation/sharpness/gamma adjustments
+		* color calibration
+			+ primary and secondary color calibration (including hue/saturation/luminance controls independently for each)
+		* color grading
+		* color point conversion (601 to 709 or 709 to 601)
+		* color space conversion (YPBPR/YCBCR to RGB or RGB to YPBPR/YCBCR)
+		* deblocking
+		* deflicking
+		* deinterlacing
+		* denoising
+		* detail enhancement
+		* digital zoom and pan
+		* edge enhancement
+		* film colorization
+			+ tinting
+		* film look
+		* frame rate conversion and inverse-telecine
+		* mosquito noise reduction
+		* motion compensation
+		* pixel art scaling
+		* resizing
+			+ comparison
+		* super-resolution imaging
+		* video matting
+		* uncompressing/decompressing the (compressed) video
 	- computer vision
-		* 3-D computer vision
-		* geometric computer vision
-		* image segmentation
-		* object categorization
-		* object detection
-		* frameworks, tools, and libraries
-			+ OpenCV
-		* visual prototyping
-		* based on machine learning
+		* see notes for "EDA & Machine Learning & AI"
 	- computer graphics
 		* image synthesis
 			+ computer-generated imagery

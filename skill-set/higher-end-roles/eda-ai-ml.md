@@ -2733,6 +2733,37 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
+Topics in computer vision:
++ 3-D computer vision
+	- 3D pose estimation
+	- 3D scene modeling
++ based on:
+	- machine learning
+		* deep learning
++ event detection
++ feature extraction
++ ***frameworks, tools, and libraries***
+	- ***OpenCV***
++ geometric computer vision
++ image restoration
++ image segmentation
++ indexing
++ learning
++ motion estimation
++ object categorization
++ object detection
++ object recognition
++ scene reconstruction
++ template finding
++ video tracking
++ visual prototyping
++ visual servoing
+	- vision-based robot control, VS
+
+
+
+
+Skill sets for computer vision:
 + knowledge of CUDA / OpenCL / OpenCV
 + skill set:
 	- Design and implementation of state of the art monocular computer vision algorithms
