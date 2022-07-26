@@ -148,9 +148,7 @@ This document includes skill sets for information processing, including:
 				- mixed reality
 					* augmented reality
 					* virtual reality
-			+ ***cross reality***
-			+ ***extended intelligence***
-			+ ***mixed reality***
+			+ ***mixed reality***, MR, ***cross reality***, or XR
 				- ***augmented reality***, AR
 				- augmented virtuality
 				- ***virtual reality***, VR
