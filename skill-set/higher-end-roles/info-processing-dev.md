@@ -141,7 +141,7 @@ This document includes skill sets for information processing, including:
 		* human-image synthesis
 		* programming language -based computer graphics
 		* ***extended reality***, XR
-		+ augmented virtuality
+			+ span the ***reality-vrtuality continuum***
 			+ computer-mediated reality
 				- modulated reality
 					* diminished reality
@@ -149,9 +149,10 @@ This document includes skill sets for information processing, including:
 					* augmented reality
 					* virtual reality
 			+ ***cross reality***
-			+ ***extended intelligence***, AR
+			+ ***extended intelligence***
 			+ ***mixed reality***
-				- ***augmented reality***
+				- ***augmented reality***, AR
+				- augmented virtuality
 				- ***virtual reality***, VR
 					* immersion into VR
 						+ types:
@@ -161,6 +162,7 @@ This document includes skill sets for information processing, including:
 			+ ***modulated reality***
 				- diminished reality
 				- modified reality
+			+ multisensory extended reality
 	- visual and spatial reasoning
 + ***data compression***, source coding, bit-rate reduction
 	- ["Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression."](https://en.wikipedia.org/wiki/Data_compression)
