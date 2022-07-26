@@ -112,6 +112,8 @@ System-Technology Co-Optimization, STCO
 		* hybrid non- von Neumann computing paradigms:
 			+ quantum computing + optical computing
 				- linear optical quantum computing, linear optics quantum computation, LOQC
+					* Boson sampling
+					* KLM scheme, KLM protocol
 		* ***optical computing, photonic computing***
 			+ approaches:
 				- computing by xeroxing on transparencies
