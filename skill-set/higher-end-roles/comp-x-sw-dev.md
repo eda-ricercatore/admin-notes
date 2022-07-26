@@ -74,6 +74,7 @@ This set of skill sets is for computational *X* software development roles, whic
 			+ Monte-Carlo simulation
 			+ queueing networks
 			+ mathematical optimization
+			+ simulation for ["methods engineering"](https://en.wikipedia.org/wiki/Methods_engineering)
 		* for:
 			+ structural engineering, or construction engineering
 				- includes the following:
@@ -122,6 +123,11 @@ This set of skill sets is for computational *X* software development roles, whic
 + computational humanities
 	- computational history
 + computational informatics
+
+
+
+Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of the computational *X* tool.
+
 
 
 

@@ -1,7 +1,7 @@
 #	EDA, AI, (Applied) Machine Learning, MLOps, ModelOps, Data Science, Data Engineering, DataOps, MIS, & Corporate Research Labs
 
 
-Important things to pay attention to, so that I can create my own 
+Important roadmaps to pay attention to, so that I can create my own:
 + Semiconductor pathfinding for research and development (R&D) activities
 	- References:
 		* [Semiconductor Pathfinding and Development](https://www.thermofisher.com/us/en/home/semiconductors/pathfinding.html)
@@ -13,6 +13,13 @@ Important things to pay attention to, so that I can create my own
 					* [use of high-resolution focused ion beams (FiBs) and advanced chemistry to perform "nanosurgery" on semiconductor devices](https://www.thermofisher.com/us/en/home/semiconductors/circuit-edit.html)
 				- defect localization and analysis
 				- physical and chemical characterization
+
+
+
+
+Additional information about EDA:
++ Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.
+
 
 
 

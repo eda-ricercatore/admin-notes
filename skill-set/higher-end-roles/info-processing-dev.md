@@ -3,12 +3,61 @@
 
 This document includes skill sets for information processing, including:
 + signal processing
+	- categories:
+		* analog signal processing
+		* continuous-time signal processing
+		* discrete-time signal processing
+		* digital signal processing
+		* nonlinear signal processing
+			+ perform in the time, frequency, or spatio-temporal domains.
+			+ nonlinear ***system identification***
+				- Volterra series models,
+				- Block-structured models,
+				- Neural network models,
+				- NARMAX models, and
+				- State-space models.
+		* statistical signal processing
+		* polynomial signal processing
+		* algebraic signal processing
+	- applications:
+		* array processing
+			+ for signals from arrays of sensors
+		* audio signal processing
+			+ audio compression
+		* financial signal processing
+		* genomic signal processing
+		* seismology
+		* wireless communication
+	- circuit realizations, and system realizations:
+		* filter design
+			+ analog filters
+				- passive filters
+				- acive filters
+			+ digital filters
+				- FIR filters, finite impulse response filters
+				- IIR filters, infinite impulse response filters
+				- stochastic filters
+		* samplers
+			+ for signal acquisition
+		* analog-to-digital converters, ADCs
+			+ for signal reconstruction
+		* digital-to-analog converters, DACs
+			+ for signal reconstruction
+		* signal compressors
+		* digital signal processors, DSPs, or DSP processors.
 	- adaptive filters
 	- compressive sensing
 		* compressive sensing for distributed systems
 		* VLSI/hardware implementations
 	- multi-scale signal analysis
-+ stream processing
++ ***stream processing***, event stream processing, data stream processing, or distributed stream processing
+	- Characteristics of target applications:
+		* ***compute intensity***, or number of arithmetic operations per I/O or global memory reference
+		* ***data parallelism***
+			+ exists in a kernel if the same function is applied to all records of an input stream and a number of records can be processed simultaneously without waiting for results from previous records
+		* ***data locality***
+			+ limited temporal locality in signal and media processing applications where data is produced once, read once or twice later in the application, and never read again
+			+ Intermediate streams passed between kernels as well as intermediate data within kernel functions can capture this locality directly using the stream processing programming model.
 + visual computing
 	- image processing
 		* affine transformations
@@ -21,6 +70,7 @@ This document includes skill sets for information processing, including:
 		* color analysis
 		* edge detection
 		* feature extraction
+			+ image understanding
 		* ***filtering***
 			+ morphological filtering
 		* gauging/metrology
@@ -29,6 +79,13 @@ This document includes skill sets for information processing, including:
 		* image compression
 		+ image denoising
 			+ using mathematical morphology
+				- dilation
+				- erosion
+				- opening
+				- closing
+			+ improvement methods
+				- smoothing method
+				- historgram equalization
 		* image editing
 		* image restoration
 		* image search engines
@@ -37,6 +94,10 @@ This document includes skill sets for information processing, including:
 		* pixel counting
 		* pixelation
 		* point feature matching
+		* quality improvement
+			+ echo cancellation
+			+ image enhancement
+			+ noise reduction
 		* reading:
 			+ barcode
 			+ data matrix
@@ -74,6 +135,7 @@ This document includes skill sets for information processing, including:
 		* super-resolution imaging
 		* video matting
 		* uncompressing/decompressing the (compressed) video
+			- video compression
 	- computer vision
 		* see notes for "EDA & Machine Learning & AI"
 	- computer graphics
@@ -90,7 +152,10 @@ This document includes skill sets for information processing, including:
 			+ ***mixed reality***
 			+ ***virtual reality***
 	- visual and spatial reasoning
-+ data compression
++ ***data compression***, source coding, bit-rate reduction
+	- ["Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression."](https://en.wikipedia.org/wiki/Data_compression)
+	- ["Lossy compression reduces bits by removing unnecessary or less important information."](https://en.wikipedia.org/wiki/Data_compression)
+	- Can be considered as a subset of data differencing (or differential compression).
 + content analysis
 + noise reduction
 	- de-noising
@@ -102,7 +167,9 @@ This document includes skill sets for information processing, including:
 
 
 This does not include speech processing, which is categorized under natural language processing.
-
++ It include:
+	- feature extraction
+		* speech recognition
 
 
 

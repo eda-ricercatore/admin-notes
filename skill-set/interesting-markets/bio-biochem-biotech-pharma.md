@@ -20,7 +20,8 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 	- Schrodinger
 + write standard operating procedures (SOP) and high-quality electronic laboratory notebooks (ELN)
 + skill set:
-	- BLAH.
+	- engineering lab-on-chips, LoCs
+	- engineering digital microfluidics, DMFs
 + skill set:
 	- BLAH.
 + skill set:
