@@ -3,6 +3,7 @@
 
 
 Agricultural technologies include:
++ data science for robotics
 + agricultural robotics
 + closed ecological systems
 + new farming approaches
@@ -37,6 +38,75 @@ Agricultural technologies include:
 	- Experience with Bayesian non-parametrics (CRP, IBP, etc.)
 	- Experience with advanced MCMC techniques such as DREAM, Hamiltonian-MC, variational approximations, etc.
 	- Experience or keen interest in FP (Scala, Haskell, Clojure, Erlang, OCaML/SML, Elm, F\#)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Agricultural Robotics
+
+
+Sets of skills in agricultural robotics:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

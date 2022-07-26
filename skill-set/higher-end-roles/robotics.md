@@ -15,6 +15,8 @@ Types of mobile robots, or
 	- UGVs can be remotely controlled by people.
 
 
+This document does not include agriculture robotics, which information is provided in the agricultural technologies document.
+
 
 
 
