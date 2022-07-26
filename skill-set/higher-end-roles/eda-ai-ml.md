@@ -108,17 +108,41 @@ System-Technology Co-Optimization, STCO
 + Design-Technology Co-Optimization, DTCO
 + AutoML for STCO
 + Benchmarking
-	- for non- von Neumann computing paradigms
-		* optical computing
+	- for ***non- von Neumann computing paradigms***
+		* ***optical computing***
 			+ optical transistors
 				- ["An optical transistor, also known as an optical switch or a light valve, is a device that switches or amplifies optical signals. Light occurring on an optical transistor's input changes the intensity of light emitted from the transistor's output while output power is supplied by an additional optical source. Since the input signal intensity may be weaker than that of the source, an optical transistor amplifies the optical signal. The device is the optical analog of the electronic transistor that forms the basis of modern electronic devices. Optical transistors provide a means to control light using only light and has applications in optical computing and fiber-optic communication networks. Such technology has the potential to exceed the speed of electronics, while conserving more power."](https://en.wikipedia.org/wiki/Optical_transistor)
 			+ optical rectenna, or optical rectifying antenna
 				- ["An optical rectenna is a rectenna (rectifying antenna) that works with visible or infrared light. A rectenna is a circuit containing an antenna and a diode, which turns electromagnetic waves into direct current electricity. While rectennas have long been used for radio waves or microwaves, an optical rectenna would operate the same way but with infrared or visible light, turning it into electricity."](https://en.wikipedia.org/wiki/Optical_rectenna)
+			+ related emerging technologies:
+				- volumetric display devices, 3-D displays
+					* are autostereoscopic
+				- screenless displays:
+					* categories:
+						+ visual image
+						+ retinal direct
+						+ synaptic interface
+					* examples:
+						+ virtual retinal display, VRD, retinal scan display, RSD, retinal projector, RP
+							- use adaptive optics, AO
+						+ bionic contact lens
+						+ fog display, fog screen, vapor screen, vapor display
+					* applications:
+						+ augmented reality
+						+ virtual reality
 	- for heterogeneous system architectures, HSA
 	- for von Neumann computing
-
-
-
+	- other applications:
+		* digital sent technology, olfactory technology
+			+ sense, transmit, and receive scent-enabled digital media
+			+ sensor implementations:
+				- olfactometers
+					* dynamic dilution olfactometers
+					* field olfactometers
+					* flow olfactometers
+				- electronic noses
+			+ scentography devices
+			+ machine olfaction
 
 
 

@@ -588,11 +588,15 @@ bio manufacturing automation:
 + Encoded Genomics
 + Genetech
 + Haystack Sciences
++ list of biotech and pharmaceutical companies:
+	- companies that sponsor, participate in the industrial showcase at, [Synthetic Biology: Engineering, Evolution & Design, SEED](https://synbioconference.org/2022)
 + Nkarta
 + OncoMed
 + Roche Molecular Systems
 + Senti Biosciences
 + Viewpoint Therapeutics
+
+
 
 
 

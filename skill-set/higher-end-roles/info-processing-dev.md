@@ -23,7 +23,6 @@ This document includes skill sets for information processing, including:
 		* array processing
 			+ for signals from arrays of sensors
 		* audio signal processing
-			+ audio compression
 		* financial signal processing
 		* genomic signal processing
 		* seismology
@@ -76,8 +75,7 @@ This document includes skill sets for information processing, including:
 		* gauging/metrology
 		* graphical projection
 			+ 3-D projection
-		* image compression
-		+ image denoising
+		* image denoising
 			+ using mathematical morphology
 				- dilation
 				- erosion
@@ -134,8 +132,6 @@ This document includes skill sets for information processing, including:
 			+ comparison
 		* super-resolution imaging
 		* video matting
-		* uncompressing/decompressing the (compressed) video
-			- video compression
 	- computer vision
 		* see notes for "EDA & Machine Learning & AI"
 	- computer graphics
@@ -144,18 +140,38 @@ This document includes skill sets for information processing, including:
 			+ digital compositing
 		* human-image synthesis
 		* programming language -based computer graphics
-		* ***extended reality***
-			+ ***augmented reality***
-			+ augmented virtuality
+		* ***extended reality***, XR
+		+ augmented virtuality
+			+ computer-mediated reality
+				- modulated reality
+					* diminished reality
+				- mixed reality
+					* augmented reality
+					* virtual reality
 			+ ***cross reality***
-			+ ***extended intelligence***
+			+ ***extended intelligence***, AR
 			+ ***mixed reality***
-			+ ***virtual reality***
+				- ***augmented reality***
+				- ***virtual reality***, VR
+					* immersion into VR
+						+ types:
+							- narrative immersion
+							- strategic immersion
+							- tactical immersion
+			+ ***modulated reality***
+				- diminished reality
+				- modified reality
 	- visual and spatial reasoning
 + ***data compression***, source coding, bit-rate reduction
 	- ["Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression."](https://en.wikipedia.org/wiki/Data_compression)
 	- ["Lossy compression reduces bits by removing unnecessary or less important information."](https://en.wikipedia.org/wiki/Data_compression)
 	- Can be considered as a subset of data differencing (or differential compression).
+	- dynamic range compression
+	- audio data compression, or audio compression
+		* speech encoding
+	- image compression
+	- video compression
+		* uncompressing/decompressing the (compressed) video
 + content analysis
 + noise reduction
 	- de-noising
