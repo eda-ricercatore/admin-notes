@@ -18,7 +18,7 @@ This document includes skill sets for information processing, including:
 				- State-space models.
 		* statistical signal processing
 		* polynomial signal processing
-		* algebraic signal processing
+		* [algebraic signal processing](https://en.wikipedia.org/wiki/Algebraic_signal_processing)
 	- applications:
 		* array processing
 			+ for signals from arrays of sensors
