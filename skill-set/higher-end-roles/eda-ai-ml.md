@@ -1,7 +1,7 @@
 #	EDA, AI, (Applied) Machine Learning, MLOps, ModelOps, Data Science, Data Engineering, DataOps, MIS, & Corporate Research Labs
 
 
-Important roadmaps to pay attention to, so that I can create my own:
+Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap) to pay attention to, so that I can create my own:
 + Semiconductor pathfinding for research and development (R&D) activities
 	- References:
 		* [Semiconductor Pathfinding and Development](https://www.thermofisher.com/us/en/home/semiconductors/pathfinding.html)
@@ -13,8 +13,61 @@ Important roadmaps to pay attention to, so that I can create my own:
 					* [use of high-resolution focused ion beams (FiBs) and advanced chemistry to perform "nanosurgery" on semiconductor devices](https://www.thermofisher.com/us/en/home/semiconductors/circuit-edit.html)
 				- defect localization and analysis
 				- physical and chemical characterization
-
-
++ additional resources for:
+	- environmental scanning
+		* horizon scanning, horizon scan
+			+ trend analysis
+			+ issue tree, logic tree
+			+ scenario planning, scenario thinking, scenario analysis, scenario prediction, scenario method
+			+ morphological analysis, or general morphological analysis, in the context of problem solving
+		* analyze the [***market environment*** and ***business environment***](https://en.wikipedia.org/wiki/Market_environment)
+	- determine scientific lacuna, or knowledge gaps in science and ***engineering***
+	- technological readiness assessment, TRA
+		* determine the [technological readiness level, TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)
+			+ basic technology research, TRLs 1-2
+			+ research to prove feasibility, TRLs 2-4
+			+ technology development, TRLs 3-5
+			+ technology demonstration, TRLs 5-7
+			+ system/subsystem development, TRLs 6-9
+				- system test, launch, and operations, TRLs 8-9
+	- [technological innovation system](https://en.wikipedia.org/wiki/Technological_innovation_system)
+		* Entrepreneurial activities
+		* Knowledge development
+		* Knowledge diffusion / knowledge exchange through networks
+		* Guidance of the search
+		* Market formation
+		* Resource mobilization
+		* Support from advocacy coalitions
+	- ethics in EDA and machine learning research
+		* [proactionary principle](https://en.wikipedia.org/wiki/Proactionary_principle)
+		* [precautionary principle, or precautionary approach](https://en.wikipedia.org/wiki/Precautionary_principle)
+		* [postcautionary principle](https://en.wikipedia.org/wiki/Postcautionary_principle)
+	- list of research labs, such as corporate research labs, research universities, and non-profit research institutes, that perform ***exploratory engineering***
+	- [technology forecasting](https://en.wikipedia.org/wiki/Technology_forecasting)
+		* [technology scouting](https://en.wikipedia.org/wiki/Technology_scouting)
+			+ part of [corporate foresight](https://en.wikipedia.org/wiki/Corporate_foresight)
+			+ improves [***competitive intelligence***, CI](https://en.wikipedia.org/wiki/Competitive_intelligence) to improve competitive strategy
+		* part of [Technology management](https://en.wikipedia.org/wiki/Technology_management)
+			+ part of [engineering management](https://en.wikipedia.org/wiki/Engineering_management)
+			+ technology strategy
+			+ technology forecasting
+				- technology scouting
+			+ technology roadmap
+				- map technologies to business and market needs
+			+ technology project portfolio
+			+ [innovation management](https://en.wikipedia.org/wiki/Innovation_management)
+				- Knowledge management tools
+				- Market intelligence techniques
+				- Cooperative and networking tools
+				- Human resources management techniques
+				- Interface management approaches
+				- Creativity development techniques
+				- Process improvement techniques
+				- Innovation project management techniques
+				- Design and product development management tools
+				- Business creation tools
+	- technology assessment
+	- ***cross-impact analysis***
 
 
 Additional information about EDA:
@@ -189,7 +242,8 @@ System-Technology Co-Optimization, STCO
 				- evaporation printing
 				- inkjet printing
 				- screen printing
-
+		+ nanoradios
+			+ biomedical applications, for drug delivery
 
 
 
@@ -643,9 +697,14 @@ logic synthesis for low power
 
 
 Data organization for low power: https://en.wikipedia.org/wiki/Data_organization_for_low_power
+ 
 
 
-
+Energy harvesting, EH, power harvesting, energy scavenging, or ambient power:
++ Circuits and systems that exploit ambient energy to power low-energy electronic circuits and systems, in applications such as:
+	- wearable electronics
+	- wireless sensor networks
+	- other wireless autonomous devices
 
 
 

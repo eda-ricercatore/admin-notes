@@ -44,6 +44,29 @@ This document includes skill sets for information processing, including:
 			+ for signal reconstruction
 		* signal compressors
 		* digital signal processors, DSPs, or DSP processors.
+			+ ISA:
+				- saturation arithmetic
+				- fixed-point arithmetic
+			+ microarchitecture, or processor architecture:
+				- deep pipelines that can be exploited by the use of single-cycle instructions.
+				- support for:
+					* multiply-accumulates (MACs) operations
+						+ includes fused multiply-add (FMA) operations
+						+ mathematical applications:
+							- convolution for filtering
+							- dot product
+							- polynomial evaluation
+						+ engineering applications:
+							- FIR filters
+							- Fast Fourier Transforms, FFT
+					* modulo operations
+						+ ring buffers
+						+ bit-reversed addressing mode for FFT cross-referencing
+					* time-stationary encoding
+						+ to simplify VLSI design
+						+ to improve software development efficiency
+				- VLIW architecture
+				- SIMD architecture
 	- adaptive filters
 	- compressive sensing
 		* compressive sensing for distributed systems
@@ -178,12 +201,42 @@ This document includes skill sets for information processing, including:
 	- ["Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression."](https://en.wikipedia.org/wiki/Data_compression)
 	- ["Lossy compression reduces bits by removing unnecessary or less important information."](https://en.wikipedia.org/wiki/Data_compression)
 	- Can be considered as a subset of data differencing (or differential compression).
-	- dynamic range compression
 	- audio data compression, or audio compression
+		* audio coding, audio coding formats, audio compression formats
+			+ vocoders
+				- for the following:
+					* analyzes and synthesizes the human voice signal for audio data compression
+					* multiplexing
+					* voice encryption
+					* voice transformation
+				- channel vocoders
+				- formant coding
+				- linear predictive coding, LPC
+			+ waveform coders
+				- time-domain waveform coders:
+					* adaptive differential pulse-code modulation, ADPCM
+					* pulse-code modulation, PCM
+				- frequency-domain waveform coders:
+					* adaptive transform acoustic coding, ATRAC
+					* sub-band coding, SBC
+			+ narrowband audio coding
+			+ wideband audio coding
+		* [dynamic range compression](https://en.wikipedia.org/wiki/Dynamic_range_compression)
+			+ downward compression
+			+ upward compression
+			+ downward expansion
+			+ upward expansion
+		* speech coding
 		* speech encoding
 	- image compression
 	- video compression
 		* uncompressing/decompressing the (compressed) video
+		* video codec
+			+ software or hardware that compresses and decompresses digital video
+			+ codec is a portmanteau of encoder and decoder
+		* video coding format, video compression format
+			+ video coding specification
+			+ video coding standard
 + content analysis
 + noise reduction
 	- de-noising

@@ -8,6 +8,18 @@ open-source instruction set architecture (ISA):
 
 
 
+support for:
++ yottascale computing, yottaFLOPS, YFLOPS
++ zettascale computing, zettaFLOPS, ZFLOPS
++ exascale computing, exaFLOPS, EFLOPS
++ petascale computing, petaFLOPS, PFLOPS
++ terascale computing, teraFLOPS, TFLOPS
++ gigascale computing, gigaFLOPS, GFLOPS
+
+
+Measure performance in terms of:
++ floating-point operations per clock cycle per core
+
 
 
 
