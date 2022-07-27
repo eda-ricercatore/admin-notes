@@ -2900,18 +2900,63 @@ Topics in computer vision:
 + geometric computer vision
 + image restoration
 + image segmentation
++ image understanding systems, IUS
 + indexing
 + learning
-+ motion estimation
++ motion estimation, motion analysis
+	- egomotion, visual odometry
+	- optical flow, optic flow
+	- tracking, video tracking
 + object categorization
-+ object detection
-+ object recognition
++ object recognition, or object classification
+	- object detection
+	- object identification
+	- specialized tasks:
+		* 2-D code reading
+		* content-based image retrieval
+		* facial recognition
+		* object character recognition, OCR
+		* pose estimation
+		* shape recognition technology, SRT
 + scene reconstruction
++ system methods:
+	- image acquistion
+	- pre-processing
+	- feature extraction
+	- detection / segmentation
+	- high-level processing
+		* verification of model-based and application-specific assumptions
+		* estimation of application-specific parameters
+			+ object pose
+			+ object size
+		* image recognition
+		* image registration
+	- decision making
 + template finding
 + video tracking
 + visual prototyping
 + visual servoing
 	- vision-based robot control, VS
+
+
+
+Applications of machine learning:
++ automatic inspection in post-manufacturing quality control/assurance
++ autonomous vehicles
++ assisting humans in identification tasks, such as species identification system of plants and animals
++ event detection
++ human-computer interaction, HCI
++ medicine
++ modeling objects or environments
++ navigation
++ organization of information
++ process control
++ tactile feedback
++ tracking surfaces or planes in 3-D coordinates
+	- enables augmented reality experiences
+
+
+
 
 
 
