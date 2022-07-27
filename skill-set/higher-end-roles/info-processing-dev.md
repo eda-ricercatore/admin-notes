@@ -45,7 +45,7 @@ This document includes skill sets for information processing, including:
 		* signal compressors
 		* digital signal processors, DSPs, or DSP processors.
 			+ ISA:
-				- saturation arithmetic
+				- [saturation arithmetic](https://en.wikipedia.org/wiki/Saturation_arithmetic)
 				- fixed-point arithmetic
 			+ microarchitecture, or processor architecture:
 				- deep pipelines that can be exploited by the use of single-cycle instructions.
@@ -67,6 +67,15 @@ This document includes skill sets for information processing, including:
 						+ to improve software development efficiency
 				- VLIW architecture
 				- SIMD architecture
+			+ program flow:
+				- hardware-controlled looping
+			+ addressing and virtual memory
+				- hardware modulo addressing
+					* circular buffers that need not test for wrapping
+				- bit-revered addressing, as a special addressing mode
+					* needed for FFTs
+				- avoids the need for memory management unit
+				- address generation unit, AGU, address computation unit, or ACU
 	- adaptive filters
 	- compressive sensing
 		* compressive sensing for distributed systems
