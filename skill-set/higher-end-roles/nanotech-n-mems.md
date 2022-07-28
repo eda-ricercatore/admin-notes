@@ -24,18 +24,29 @@ Applications not given their own sections include:
 	- bionanotechnology
 		* DNA digital data storage
 		* DNA nanotechnology
+			+ dynamic DNA nanotechnology
 		* lipid nanotechnology
 		* membrane materials
+	- living medicine
+		* phage therapy, viral phage therapy, or phagotherapy 
+	- [metal-organic framework, MOFs](https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework)
 	- nanobiology
-	- nanobiomechanics
+	- nanobiomechanics, or bionanomechanics
 	- nanobots
 	- nanodevices
-	- nanoparticles
+		* molecular machine, nanite, nanomachine
+			+ macromolecular machines, in cellular biology
+	- nanoparticles, or ultrafine particles
 	- nanoscale phenomena
 	- nanosensors
 		* in vitro biosensors
 		* in vivo biosensors
-	- nanosubmarine
+	- nanosubmarines, nanosubs
+		* conduct microsurgery
+		* decontaminate the environment
+		* destroy malicious cells
+		* detect substances
+		* perform targeted drug delivery
 	- nanozymes
 + nanosensors
 

@@ -5,9 +5,12 @@
 
 
 Robot classifications include:
-+ mobile robots, and stationary robots
 + autonomously guided robots, robots with sliding autonomy, remote-operated robots (telerobotics)
 + behavior-based robotics, BBR, or behavioral robotics
++ mobile robots, and stationary robots
+
+
+
 
 
 Types of mobile robots, or 
@@ -15,7 +18,29 @@ Types of mobile robots, or
 	- UGVs can be remotely controlled by people.
 
 
+
+
+
 This document does not include agriculture robotics, which information is provided in the agricultural technologies document.
+
+
+
+Interesting topics in robotics:
++ self-reconfiguring modular robots, self-reconfigurable modular robots, modular self-reconfiguring robotic systems
+	- architectures
+		* chain architecture
+		* hybrid architecture
+		* lattice architecture
+	- types of reconfiguration
+		* deterministic reconfiguration
+		* stochastic reconfiguration
+	- designs of modules
+		* heterogeneous modular robot systems
+		* homogeneous modular robot systems
+
+
+
+
 
 
 
