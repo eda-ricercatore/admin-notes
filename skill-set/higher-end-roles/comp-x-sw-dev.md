@@ -123,6 +123,23 @@ This set of skill sets is for computational *X* software development roles, whic
 + computational humanities
 	- computational history
 + computational informatics
++ computational creativity, artificial creativity, mechanical creativity, creative computing, or creative computation
+	- computational musicology
+		* computer music
+		* digital musicology
+		* mathematical music theory
+		* music informatics
+		* music information retrieval
+		* sound and music computing
+		* systematic musicology
+
+
+
+
+
+
+
+
 
 
 

@@ -698,7 +698,7 @@ Sets of skills in collaborative robotics, cobots, which have direct human robot 
 
 
 
-Swarm robotics is based on artificial swarm intelligence
+Swarm robotics is based on [artificial swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence).
 
 
 
