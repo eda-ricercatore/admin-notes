@@ -37,7 +37,10 @@ Interesting topics in robotics:
 	- designs of modules
 		* heterogeneous modular robot systems
 		* homogeneous modular robot systems
-
+	- mechanism reconfigurability
+		* inter-reconfigurability
+		* intra-reconfigurability
+		* nested-reconfigurability
 
 
 
