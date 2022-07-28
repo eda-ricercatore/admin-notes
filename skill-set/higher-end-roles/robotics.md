@@ -638,7 +638,7 @@ Sets of skills in nanorobotics:
 ##	Sets of Skills in Collaborative Robotics
 
 
-Sets of skills in collaborative robotics, which have direct human robot interaction (HRI) within shared spaces and human-robot collaboration, and social robots:
+Sets of skills in collaborative robotics, cobots, which have direct human robot interaction (HRI) within shared spaces and human-robot collaboration, and social robots:
 + skill set:
 	- BLAH.
 + skill set:
