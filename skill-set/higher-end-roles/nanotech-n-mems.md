@@ -19,8 +19,9 @@ Nanolithography technologies:
 Applications not given their own sections include:
 + nanobiotechnology, bionanotechnology, or nanobiology
 	- biological machines
-	- nanoparticles, and nanoscale phenomena
 	- nanodevices
+	- nanoparticles
+	- nanoscale phenomena
 + nanosensors
 
 
