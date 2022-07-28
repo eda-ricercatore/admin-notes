@@ -16,12 +16,27 @@ Nanolithography technologies:
 
 
 
+
 Applications not given their own sections include:
 + nanobiotechnology, bionanotechnology, or nanobiology
+	- artificial cells
 	- biological machines
+	- bionanotechnology
+		* DNA digital data storage
+		* DNA nanotechnology
+		* lipid nanotechnology
+		* membrane materials
+	- nanobiology
+	- nanobiomechanics
+	- nanobots
 	- nanodevices
 	- nanoparticles
 	- nanoscale phenomena
+	- nanosensors
+		* in vitro biosensors
+		* in vivo biosensors
+	- nanosubmarine
+	- nanozymes
 + nanosensors
 
 
