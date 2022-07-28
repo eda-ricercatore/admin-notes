@@ -56,6 +56,16 @@ Agricultural technologies include:
 ##	Sets of Skills in Agricultural Robotics
 
 
+Applications of agricultural robotics:
++ cloud seeding
++ environmental monitoring
++ harvesting stage
++ planting seeds
++ soil analysis
++ weed control
+
+
+
 Sets of skills in agricultural robotics:
 + skill set:
 	- BLAH.

@@ -389,10 +389,10 @@ Sets of skills in construction robotics:
 
 
 
-##	Sets of Skills in Kitchen Automation
+##	Sets of Skills in Kitchen Automation, Automated Restaurants, Robotic Restaurants
 
 
-Sets of skills in kitchen automation:
+Sets of skills in kitchen automation, automated restaurants, robotic restaurants:
 + skill set:
 	- BLAH.
 + skill set:
@@ -486,46 +486,93 @@ Sets of skills in service robotics:
 
 
 
-###	Sets of Skills in Domestic Robotics
+###	Sets of Skills in Domestic Robotics, Home Automation, Domotics, Smart Homes
 
 
-Sets of skills in domestic robotics:
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+
+Domestic Robotics
++ educational robotics, see following subsubsubsection.
++ entertainment robots
++ home automation, domotics, smart homes
 
 
 
 
+Sets of skills in domestic robotics, home automation, domotics, or smart homes:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+####	Sets of Skills in Educational Robotics
+
+
+Sets of skills in educational robotics:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -577,69 +624,6 @@ Sets of skills in nanorobotics:
 	- BLAH.
 + skill set:
 	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##	Sets of Skills in Educational Robotics
-
-
-Sets of skills in educational robotics:
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -768,10 +752,14 @@ Sets of skills in swarm robotics:
 
 
 
-##	Sets of Skills in Home Automation, Domotics, Smart Homes
+##	Sets of Skills in Animatronics
 
 
-Sets of skills in home automation, domotics, or smart homes:
+Animatronics refers to mechatronic puppets, and are used in films, TV shows, and theme parks.
+
+
+
+
 + skill set:
 	- BLAH.
 + skill set:

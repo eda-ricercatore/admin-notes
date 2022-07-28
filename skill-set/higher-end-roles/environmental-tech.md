@@ -5,6 +5,7 @@ Environmental technology, envirotech, green technology, or greentech:
 + ecological modernization
 	- ecomodernism
 	- industrial metabolism
++ industrial ecology, IE
 + purification and waste management
 	- air purification
 	- applications:

@@ -39,10 +39,11 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 		* Resource mobilization
 		* Support from advocacy coalitions
 	- ethics in EDA and machine learning research
+		* [differential technological development](https://en.wikipedia.org/wiki/Differential_technological_development)
 		* [proactionary principle](https://en.wikipedia.org/wiki/Proactionary_principle)
 		* [precautionary principle, or precautionary approach](https://en.wikipedia.org/wiki/Precautionary_principle)
 		* [postcautionary principle](https://en.wikipedia.org/wiki/Postcautionary_principle)
-	- list of research labs, such as corporate research labs, research universities, and non-profit research institutes, that perform ***exploratory engineering***
+	- list of research labs, such as corporate research labs, research universities, and non-profit research institutes, that perform [***exploratory engineering***](https://en.wikipedia.org/wiki/Exploratory_engineering)
 	- [technology forecasting](https://en.wikipedia.org/wiki/Technology_forecasting)
 		* [technology scouting](https://en.wikipedia.org/wiki/Technology_scouting)
 			+ part of [corporate foresight](https://en.wikipedia.org/wiki/Corporate_foresight)
@@ -68,7 +69,14 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 				- Business creation tools
 	- technology assessment
 	- ***cross-impact analysis***
-
+	- [frugal innovation/engineering](https://en.wikipedia.org/wiki/Frugal_innovation)
+		* jugaad, or jugaar, Hindi for a stop-gap solution
+		* inclusive innovation
+		* catalytic innovation
+		* reverse innovation
+		* bottom of the pyramid (BOP) innovation
+			+ bottom of the income pyramid
+			+ bottom of the wealth pyramid
 
 Additional information about EDA:
 + Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.
@@ -210,9 +218,16 @@ System-Technology Co-Optimization, STCO
 						+ virtual reality
 				- volumetric display devices, 3-D displays
 					* are autostereoscopic				
+		* in-memory computing
+		* hyperdimensional computing, HDC
+		* quantum computing
+			+ based on [***atomtronic circuits***](https://en.wikipedia.org/wiki/Atomtronics)
+		* hypercomputation, super-Turing computation
 	- for heterogeneous system architectures, HSA
 	- for von Neumann computing
 	- other applications:
+		* memory subsystems
+			+ racetrack memory, domain-wall memory, DWM
 		* digital scent technology, olfactory technology
 			+ sense, transmit, and receive scent-enabled digital media
 			+ sensor implementations:

@@ -137,6 +137,10 @@ Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/In
 
 
 Emerging technologies that would be interesting application domains of computational *X*, especially computational engineering:
++ [***atomtronic circuit***](https://en.wikipedia.org/wiki/Atomtronics)
+	- gravimetry
+	- quantum computing
+	- rotational sensing via the Sagnac effect
 + ***4-dimensional printing***, ***4-D printing***, 4-D bioprinting, ***active origami***, or ***shape-morphing systems***
 	- uses ***programmable matter***
 		* ["Programmable matter is matter which has the ability to change its physical properties (shape, density, moduli, conductivity, optical properties, etc.) in a programmable fashion, based upon user input or autonomous sensing. Programmable matter is thus linked to the concept of a material which inherently has the ability to perform information processing."](https://en.wikipedia.org/wiki/Programmable_matter)
