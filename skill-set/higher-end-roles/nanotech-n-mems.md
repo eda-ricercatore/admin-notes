@@ -16,6 +16,15 @@ Nanolithography technologies:
 
 
 
+Applications not given their own sections include:
++ nanobiotechnology, bionanotechnology, or nanobiology
+	- biological machines
+	- nanoparticles, and nanoscale phenomena
+	- nanodevices
++ nanosensors
+
+
+
 
 
 Sets of skills for nanotechnology:
@@ -120,6 +129,88 @@ Sets of skills for nanofluidics and other fluidic nanotechnology:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+##	Nanomedicine
+
+
+
+
+Nanomedicine applications:
++ enhance medical imaging
+	- nanoparticle contrast agents
++ enhance drug delivery
++ medical devices
+	- cell repair machines
+		* molecular nanomedicine
++ nanosensors
++ sepsis treatment
++ tissue engineering
+
+
+
+
+
+
+
+
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
