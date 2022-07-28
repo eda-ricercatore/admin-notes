@@ -697,6 +697,12 @@ Sets of skills in collaborative robotics, cobots, which have direct human robot 
 ##	Sets of Skills in Swarm Robotics
 
 
+
+Swarm robotics is based on artificial swarm intelligence
+
+
+
+
 Sets of skills in swarm robotics:
 + skill set:
 	- BLAH.
