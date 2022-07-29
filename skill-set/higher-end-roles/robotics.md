@@ -14,8 +14,20 @@ Robot classifications include:
 
 
 Types of mobile robots, or 
-+ unmanned ground vehicles (UGVs) are autonomous.
-	- UGVs can be remotely controlled by people.
++ uncrewed vehicles, or unmanned vehicles
+	- remote controlled vehicles, remote-control vehicles, or remote guided vehicles
+	- autonomous vehicles, ***autonomous robots***, automated guided vehicles, automatic guided vehicles, AGV, autonomous mobile robots, AMR
+		* helicams, remote-controlled mini helicopters
+		* unmanned aerial vehicles, UAV, unmanned aircraft systems, UAS
+			+ remotely-piloted aircrafts, RPA
+			+ unmanned-aircraft vehicle systems, UAVS, remotely piloted aerial vehicle, RPAV, remotely piloted aircraft system, RPAS
+		* unmanned underwater vehicles, UUV, underwater drones
+			+ autonomous underwater vehicles, AUVs
+				- underwater gliders
+			+ remotely operated underwater vehicles, ROUVs, ROVs
+			+ Unmanned Surface Vehicles, USVs, Unmanned Surface Vessels, USVs), Autonomous Surface Vehicles, ASVs, Uncrewed Surface Vessels, USVs, or colloquially drone ships
+	- i.e., not all unmanned ground vehicles (UGVs) are autonomous.
+		- UGVs can be remotely controlled by people.
 
 
 
@@ -26,6 +38,35 @@ This document does not include agriculture robotics, which information is provid
 
 
 Interesting topics in robotics:
++ cloud robotics
+	- applications:
+		* assistive robots
+		* autonomous mobile robots
+		* cloud medical robots
+		* industrial robots
++ cognitive robotics
++ evolutionary robotics
++ fog robotics
+	- as an architecture which consists of storage, networking functions, control with fog computing closer to robots
++ remote control animals, bio-robots, or robo-animals
++ robot ethics, roboethics
++ robot navigation
+	- robot localization
+		* self-localisation
+		* path planning
+		* map-building and map interpretation
+		* simultaneous localization and mapping, SLAM
+			+ acoustic SLAM
+			+ audio-visual SLAM
+			+ bio-inspired SLAM
+			+ collaborative SLAM
+			+ extended Kalman filter (EKF) for SLAM, EKF SLAM
+			+ GraphSLAM
+	- vision-based navigation
+		* acoustic navigation
+		* inertial navigation
+		* indoor navigation
+		* radio navigation
 + self-reconfiguring modular robots, self-reconfigurable modular robots, modular self-reconfiguring robotic systems
 	- architectures
 		* chain architecture
@@ -41,7 +82,7 @@ Interesting topics in robotics:
 		* inter-reconfigurability
 		* intra-reconfigurability
 		* nested-reconfigurability
-
++ soft robotics
 
 
 
@@ -150,7 +191,7 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 
-##	Sets of Skills For Autonomous Road Vehicles
+###	Sets of Skills For Autonomous Road Vehicles
 
 
 
@@ -187,6 +228,82 @@ Sets of skills for autonomous road vehicles:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Sets of Skills For Delivery Robots
+
+
+Delivery robots, such as sidewalk robots and delivery drones, are used for:
++ food delivery
++ grocery delivery
++ hospital delivery
++ package delivery
++ room service robots
+
+
+
+Sets of skills for delivery robots:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -694,7 +811,7 @@ Sets of skills in collaborative robotics, cobots, which have direct human robot 
 
 
 
-##	Sets of Skills in Swarm Robotics
+###	Sets of Skills in Swarm Robotics
 
 
 

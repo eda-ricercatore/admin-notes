@@ -130,6 +130,39 @@ This set of skill sets is for computational *X* software development roles, whic
 			+ part of: music psychology.
 		* computer music
 			+ application of computing technology in music composition, to help human composers create new music or to have computers independently create music, such as with algorithmic composition programs
+			+ computer audition, CA, or machine listening
+				- auditory cognition
+					* modeling of emotions
+					* anticipation and familiarity
+					* auditory surprise
+					* analysis of musical structure
+				- multi-modal analysis
+					* finding correspondences between textual, visual, and audio signals
+				- feature extraction
+					* sound descriptors
+					* segmentation
+					* onset
+					* pitch and envelope detection
+					* chroma
+					* auditory representations
+				- musical knowledge structures
+					* analysis of tonality, rhythm, and harmonies
+				- representation
+					* signal and symbolic
+					* time-frequency representations
+					* both in terms of notes and spectral models
+						+ pattern playback
+						+ audio texture
+				- sequence modeling
+					* matching and alignment between signals and note sequences
+				- source separation
+					* methods of grouping of simultaneous sounds
+						+ multiple pitch detection
+						+ time-frequency clustering methods
+				- sound similarity
+					* methods for comparison between sounds, sound identification, novelty detection, segmentation, and clustering.
+			+ machine improvisation
+				- statistical style modeling
 			+ sound synthesis
 			+ sound design
 			+ sonic diffusion
@@ -144,17 +177,21 @@ This set of skill sets is for computational *X* software development roles, whic
 	- computer art
 		* AI art
 		* algorithmic art, or algorithm art
+			+ evolutionary art
 		* digital art
 		+ fractal art
 		* generative art
 			+ generative music
 			+ visual art
+		+ information art, informatism, or data art
 		* systems art
 			+ anti-form movement
 			+ cybernetic art
 			+ generative systems
 			+ process art
 			+ systemic art
+				-systemic paintaing
+				-systemic sculpture
 	- sound and music computing
 		* AI and music, AIM
 			+ interactive scores
@@ -163,6 +200,10 @@ This set of skill sets is for computational *X* software development roles, whic
 		* assisted sound and music creation
 			+ computer tools for assisting:
 				- algorithmic composition
+					* computer-aided algorithmic composition, CAAC
+					* computer-generated scores for performance by human players
+					* evolutionary music
+					* generative music
 				- music composition
 				- sound design
 		* interfaces for sound and music
@@ -171,6 +212,8 @@ This set of skill sets is for computational *X* software development roles, whic
 		* processing of sound and music signals
 			+ audio signal processing techniques
 				- for the analysis, transformation, and resynthesis of sound and music signals
+			+ auditory scene analysis
+				- understanding and description of audio sources and events
 		* understanding and modeling sound and music
 			+ computational musicology
 			+ music information retrieval
@@ -215,7 +258,10 @@ This set of skill sets is for computational *X* software development roles, whic
 				 		+ kinematic and bioparametric
 				 			- skin conduction
 				 			- temperature
+				- machine musicianship
+					* audition driven interactive music systems
 			+ music information retrieval:
+				- methods for search and analysis of similarity between music signals
 				- retrieval technologies for music
 					* both audio and symbolic data
 					* applications include:
