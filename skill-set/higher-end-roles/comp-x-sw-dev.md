@@ -413,6 +413,7 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
++ [Numerical Library](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
 + skill set:
 	- BLAH.
 + skill set:
@@ -544,6 +545,106 @@ Emerging technologies that would be interesting application domains of computati
 	- BLAH.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Computational Optimization
+
+
+
+
++ advanced optimization algorithms:
+	- Evolutionary Algorithms
+	- surrogate model optimization
+	- particle swarm optimization
+	- Bayesian optimization
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Computational Science, or Scientific Computing
+
+
+
++ skill set:
+	- Experience in developing and debugging multi-threaded/parallel applications.
+	- Experience in image processing, computational geometry, large data application, high performance computing and scientific simulation is a good plus.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

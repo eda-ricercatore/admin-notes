@@ -115,6 +115,9 @@ Sets of skills for embedded software development roles:
 	- Worked with Embedded GCC
 	- Experience with automotive systems or UAV systems
 + skill set:
+	- Qt (or PyQt)
+	- Microcontroller firmware
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

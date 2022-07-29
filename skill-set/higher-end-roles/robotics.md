@@ -94,6 +94,23 @@ Interesting topics in robotics:
 
 Generic sets of skills in robotics:
 + skill set:
+	- Experience with Robotics perception
+	- At Starsky, the Perception team is responsible for processing sensor information and making it available to the other teams in a clean and consistent format. The models and algorithms developed aim to achieve robust real time detection and tracking of our truck and other objects in the local environment, including lane lines, vehicles, and pedestrians.
+	- As a Robotics Perception Engineer, you will be responsible for filtering, fusing and post-processing the outputs of different deep learning models and sensors. You will apply state of the art tracking and fusion algorithms which are robust to sensor noise and environmental variability. This requires working with teams across the driving stack to scope requirements and understand the strengths and limitations of different modules.
+	- Background in linear algebra, probability, 3D geometry
+	- Experience with multi-camera sensor fusion and camera-radar sensor fusion
+	- Experience with real time tracking of objects and lanes
+	- Experience with real time mapping and localization
+	- Experience with camera and radar sensor calibration
+	- Ability to write efficient real time algorithms in C++
+	- Experience in developing on linux environment
+	- 2+ years experience in C++/Python development in a fast paced production environment
+	- 2+ years experience in perception system of mobile robots
+	- Experience with ROS
+	- Experience in sensor noise analysis
+	- Experience in machine learning/deep learning
++ Background in linear algebra, probability, 3D geometry and abstract problem solving skills
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -155,6 +172,21 @@ Notes:
 
 Sets of skills for unmanned ground vehicles (UGVs):
 + skill set:
+	- This role is focused on delivering the best in localization performance from our sensors.
+		* By localization, it refers to:
+			+ [(generic) navigation](https://en.wikipedia.org/wiki/Navigation)
+			+ [Robot navigation](https://en.wikipedia.org/wiki/Robot_navigation)
+				- By extension, it involves:
+					* self-localisation
+					* [path planning](https://en.wikipedia.org/wiki/Motion_planning)
+					* map-building and map interpretation
+	- Candidates should have extensive experience working with raw navigation data. You should be very comfortable with estimation theory and have implemented complex filters in practice. Real world experience with RTK, Integer Ambiguity Estimation and other high precision techniques are a huge plus.
+		* RTK could refer to [real-time kinematic positioning](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)
+		* [integer aperture estimation = integer ambiguity resolution](https://sciencetrends.com/integer-aperture-estimation-presence-biases/)
+	- [Inertial Measurement Unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) Algorithms, [Extended Kalman Filter (EKF)](https://en.wikipedia.org/wiki/Extended_Kalman_filter), [Visual Odometry](https://en.wikipedia.org/wiki/Visual_odometry), Gnss, RTK-GPS
+		* [global navigation satellite system (GNSS)](https://en.wikipedia.org/wiki/Satellite_navigation)
+			- Or, satellite navigation, or satnav system.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -196,6 +228,10 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 Sets of skills for autonomous road vehicles:
++ skill set:
+	- Knowledge of robotics concepts and tools (ROS)
+	- Understanding of and ability to implement machine learning methods, particularly for applications in autonomous vehicle decision making and prediction
+	- Experience in production C++ development
 + skill set:
 	- BLAH.
 + skill set:
@@ -557,7 +593,12 @@ Service robotics include:
 + event robotics
 	- engage with clients and event attendees
 
+
+
+
+
 Sets of skills in service robotics:
++ Working on the robot's navigational systems for mapping, localization, path planning, obstacle detection and avoidance. Our robots are designed to work safely and reliably alongside shoppers and employees during normal store hours.
 + skill set:
 	- BLAH.
 + skill set:
@@ -950,6 +991,12 @@ Animatronics refers to mechatronic puppets, and are used in films, TV shows, and
 
 
 Sets of skills in Machine Vision:
++ skill set:
+	- Expertise in image and video processing, computational photography, single and multiview geometry, keypoint extraction, description, association, etc.
+	- Experience in efficient large-scale numerical optimization
+	- Experience in the area of camera calibration, SLAM, point cloud processing are highly desired
+	- Publication records in leading conferences such as CVPR, ICCV, ECCV, NIPS, ICML or PAMI is a plus
++ Experience in Computer Vision / Computational Geometry / Structure from Motion / SLAM
 + skill set:
 	- BLAH.
 + skill set:

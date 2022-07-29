@@ -96,6 +96,105 @@ From the [2020 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtr
 
 
 
+Programming languages, frameworks and tools:
++ .Net
++ .Net Framework
++ ABAP
++ Ada
++ Akka
++ Alice
++ AngularJS
++ Ansible
++ Apex
++ ASP.net
++ assembly language
++ Awk
++ Backbone.js
++ Bash
++ C
++ C\#
++ C++
++ CakePHP
++ CFEngine
++ Chef
++ Clojure
++ COBOL
++ Codeigniter
++ CSS
++ D
++ Dart
++ Delphi/Object Pascal
++ Django
++ Docker
++ Ember.js
++ Erlang
++ Express.js
++ F\#
++ Flask
++ Fortran
++ Go
++ Groovy
++ Haskell
++ HTML
++ Java
++ JavaScript
++ jQuery
++ Kubernetes
++ Ladder Logic
++ Linux
++ Lisp
++ Logo
++ Lua
++ Matlab
++ Meteor
++ MQL4
++ Nagios
++ NodeJS
++ Objective-C
++ Perl
++ Phalcon
++ PHP
++ Play!
++ Prolog
++ Puppet
++ Python
++ Q
++ R
++ React
++ Redux
++ Revel
++ Rkt
++ RPG (OS/400)
++ Ruby
++ Ruby on Rails
++ Rust
++ RxJS
++ SAS
++ Scala
++ Scheme
++ Scratch
++ Spring Framework
++ SQL
++ Swift
++ Symxfony
++ VHDL
++ Visual Basic
++ Visual Basic .Net
++ Windows
++ Zend
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

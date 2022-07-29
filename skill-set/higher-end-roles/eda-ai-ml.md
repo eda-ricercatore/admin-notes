@@ -1,6 +1,10 @@
 #	EDA, AI, (Applied) Machine Learning, MLOps, ModelOps, Data Science, Data Engineering, DataOps, MIS, & Corporate Research Labs
 
 
+
+##	Important Information about Innovation Management
+
+
 Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap) to pay attention to, so that I can create my own:
 + Semiconductor pathfinding for research and development (R&D) activities
 	- References:
@@ -78,13 +82,28 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 			+ bottom of the income pyramid
 			+ bottom of the wealth pyramid
 
-Additional information about EDA:
-+ Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.
 
 
 
 
 ##	EDA, Electronic Design Automation
+
+
+Skills for EDA software development, and other high-end EDA software development:
++ Production quality coding standards and patterns.
++ Build system experience, like:
+	- Maven
+	- Bazel
+	- Gradle
++ skill set:
+	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
+	- Production quality coding standards and patterns.
++ Hibernate ORM is an object-relational mapping tool for the Java programming language
+	- object-relational mapping allows software developers to convert data between type systems using object-oriented programming languages, OOPL.
++ ***Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.***
+
+
+
 
 
 
@@ -99,6 +118,16 @@ IDMs that may have their own EDA software develoment group:
 + [From Wikipedia, list of integrated device manufacturers (IDMs)](https://en.wikipedia.org/wiki/Integrated_device_manufacturer)
 + [From Wikipedia, list of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
 + [From Wikipedia, list of the top semiconductor companies in terms of the most revenue](https://en.wikipedia.org/wiki/Semiconductor_industry)
+
+
+####	EDA Companies
+
+
+List(s) of EDA companies:
++ BLAH
+
+
+
 
 
 
@@ -161,6 +190,8 @@ IDMs that may have their own EDA software develoment group:
 
 ###	System-Technology Co-Optimization, STCO
 
+
+####	Notes about STCO & DTCO
 
 By definition, System-Technology Co-Optimization, STCO, includes Design-Technology Co-Optimization (DTCO).
 
@@ -263,18 +294,34 @@ System-Technology Co-Optimization, STCO
 
 
 
-###	(VLSI) Formal Verification
-
-
-Focus on mostly equivalence checking and model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
-
-This includes:
-+ clock domain crossing (CDC) verification, or CDC check
-	- for functional static sign-off checks
+Skill sets for STCO and DTCO:
++ BLAH.
 
 
 
-The sets of skills are:
+
+
+
+
+
+
+###	VLSI Formal Verification
+
+
+####	Notes about VLSI Formal Verification
+
+
+Notes about VLSI formal verification:
++ Focus on mostly equivalence checking and model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
++ This includes:
+	- clock domain crossing (CDC) verification, or CDC check
+		* for functional static sign-off checks
+
+
+####	Sets of Skills for about VLSI Formal Verification
+
+
+The sets of skills for VLSI formal verification are:
 + skill set:
 	- BLAH.
 + skill set:
@@ -442,6 +489,8 @@ The sets of skills are:
 ###	Circuit Simulation
 
 
+###	Notes about Circuit Simulation
+
 Skill sets for circuit simulation include those for:
 + analog ICs
 + RFICs
@@ -450,6 +499,11 @@ Skill sets for circuit simulation include those for:
 	- especially mixed-signal ICs.
 + model order reduction, or macromodeling
 	- ***nonlinear model order reduction***
+
+
+
+
+###	Skill Sets for Circuit Simulation
 
 
 
@@ -509,9 +563,9 @@ The sets of skills for circuit simulation are:
 ###	Electronic System-Level Design & Verification
 
 
+####	Notes about Electronic System-Level Design & Verification
+
 The emphasis regarding the design and verification processes for electronic-system level tasks are about embedded computing, or computer systems. See Subsubsection on the design automation of cyber-physical systems, and related systems, to address the interactions with the physical environment, via sensing and actuation.
-
-
 
 
 Includes the following:
@@ -524,6 +578,10 @@ Includes the following:
 	- verification
 	- synthesis, via HLS
 + power optimization, energy-efficient designs
+
+
+
+####	Skill Sets for Electronic System-Level Design & Verification
 
 
 
@@ -610,6 +668,10 @@ The sets of skills are:
 ###	Design Automation of Cyber-Physical Systems and Their Networks
 
 
+
+####	Notes about Design Automation of Cyber-Physical Systems and Their Networks
+
+
 This section covers the design automation of cyber-physical systems, and networks of cyber-physical systems (or, networked cyber-physical systems, including networked embedded systems).
 + [ambient intelligence](https://en.wikipedia.org/wiki/Ambient_intelligence), AmI
 + networks of cyber-physical systems
@@ -631,6 +693,10 @@ This section covers the design automation of cyber-physical systems, and network
 		* brain-computer interface, BCI; or brain-machine interface, BMCI,
 			+ neural dust
 
+
+
+
+####	Skill Sets for Design Automation of Cyber-Physical Systems and Their Networks
 
 
 
@@ -680,6 +746,9 @@ Skill set for the design automation of cyber-physical systems, and networks of c
 
 
 
+####	Notes about Energy-Efficent EDA, or Low-Power EDA
+
+
 circuit-level power optimization: 
 + transistor sizing
 + voltage scaling
@@ -723,7 +792,7 @@ Energy harvesting, EH, power harvesting, energy scavenging, or ambient power:
 
 
 
-
+####	Skill Sets for Energy-Efficent EDA, or Low-Power EDA
 
 The sets of skills are:
 + skill set:
@@ -847,6 +916,9 @@ The sets of skills are:
 
 
 
+####	Notes about Physical Design & Physical Synthesis
+
+
 Sets of skills for physical design of digital ICs/SoCs:
 + placement
 + routing
@@ -928,6 +1000,7 @@ Sets of skills for physical design of digital ICs/SoCs:
 
 
 
+
 Sets of skills for physical design of analog, RF, and mixed-signal ICs/SoCs:
 + placement
 + routing
@@ -946,6 +1019,15 @@ Sets of skills for physical synthesis:
 
 
 
+
+
+
+
+
+
+
+
+####	Skill Sets for Physical Design & Physical Synthesis
 
 
 
@@ -1206,6 +1288,9 @@ The sets of skills are:
 ###	VLSI Design for Manufacturing, DFM
 
 
+####	Notes about VLSI DFM
+
+
 
 Skills sets for DFM, especially reactive DRM (e.g., exploiting computational lithography for pixelization of layout designs), include:
 + RET, resolution enhancement techniques
@@ -1226,7 +1311,17 @@ Skills sets for DFM, especially reactive DRM (e.g., exploiting computational lit
 
 
 
+####	Skill Sets for VLSI DFM
+
+
+
 Sets of skills for DFM:
++ Direct or indirect experience in OPC (Optical Proximity Correction), including rogorious lithography simulation (Hyperlith, Prolith), RET, and advanced mask technology.
++ Solid understanding of imaging theories (Abbe, Hopkins).
+	- Abbe-PCA (Abbe-Hopkins): microlithography aerial image analytical compact kernel generation based on principle component analysis
+	- Hybrid Hopkins-Abbe method for modeling oblique angle mask effects in OPC
+	- Application of the hybrid Hopkins–Abbe method in full-chip OPC
+	- transmission cross coefficients (TCCs)
 + skill set:
 	- BLAH.
 + skill set:
@@ -1280,6 +1375,9 @@ Sets of skills for DFM:
 
 ###	Numerical EDA, other than circuit simulation
 
+
+####	Notes about Numerical EDA, other than circuit simulation
+
 This includes:
 + electromagnetic field solvers
 + layout extraction
@@ -1294,6 +1392,8 @@ This includes:
 	- mitigation of noise coupling
 
 
+
+####	Skill Sets for Numerical EDA, other than circuit simulation
 
 
 The sets of skills are:
@@ -1350,12 +1450,18 @@ The sets of skills are:
 
 ###	IC Testing, including digital and mixed-signal VLSI Testing
 
+
+####	Notes about IC Testing
+
 This includes:
 + ATPG, automatic test pattern generation
 + BIST, built-in self-test
 + DFT, design for testability
 + high-level test synthesis
 
+
+
+####	Skill Sets for IC Testing
 
 
 The sets of skills are:
@@ -1419,6 +1525,7 @@ The sets of skills are:
 ###	Post-Silicon Validation
 
 
+####	Notes about Post-Silicon Validation
 
 Skill set for post-silicon validation and post-silicon debugging.
 + complements VLSI simulation (ESL/TLM simulation, RTL simulation, logic simulation, and circuit simulation), VLSI formal verification and logic emulation
@@ -1430,7 +1537,7 @@ Skill set for post-silicon validation and post-silicon debugging.
 		* also known as accelerated virtualization, hardware virtual machine or HVM, native virtualization
 
 
-
+####	Skills about Post-Silicon Validation
 
 The sets of skills are:
 + skill set:
@@ -1489,6 +1596,8 @@ The sets of skills are:
 ###	Technology CAD, TCAD
 
 
+####	Notes about Technology CAD
+
 + DTCO
 	- Support tools
 		* BACPAC, Berkeley Advanced Chip Performance Calculator
@@ -1499,14 +1608,11 @@ The sets of skills are:
 
 
 
-
-
-
 ####	TCAD for Process Simulation
 
 
 
-Process simulation TCAD:
+Notes about TCAD for process simulation:
 + ion implantation
 + diffusion
 + oxidation
@@ -1681,7 +1787,7 @@ Sets of skills for process simulation TCAD are:
 
 
 
-Device simulation TCAD includes:
+Notes about TCAD for device simulation includes:
 + device modeling for common transistors
 	- MOSFET, metal-oxide-semiconductor FETs 
 		* a type of insulated-gate FET
@@ -2232,7 +2338,7 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 + IoT and Cyber-physical System Security
 + Emerging and Nanoscale Device Security
 
-Denis Gray, Ph.D.: dogray@ncsu.edu
+
 
 
 
@@ -2620,6 +2726,9 @@ Skill sets for application engineers of different EDA products:
 	- Distributed Systems and High Performance Computing methods
 	- ***Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc.***
 	- ***Knowledge Representation (semantic models, graph databases, etc.)***
++ [Tensorboard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+	- [TensorBoard, TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
+	- https://databricks.com/tensorflow/visualisation
 
 
 
@@ -2636,8 +2745,7 @@ Skill sets for application engineers of different EDA products:
 
 
 
-
-***Machine Learning Engineer*** roles:
+***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
 + You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
 + tech stack:
 	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
@@ -2701,6 +2809,29 @@ Skill sets for application engineers of different EDA products:
 	- Ability to execute and manage performance and expectations within a cross-functional, matrix management environment
 + A background in machine learning and related sub-areas including ranking, personalization, search, recommendation, explore/exploit, causal learning, reinforcement learning, deep learning and probabilistic modeling.
 + skill set:
+	- As a Deep Learning Engineer at Simbe Robotics, you will be part of a talented team designing and training state of the art deep learning algorithms to identify placement, presentation, pricing, and availability of products in retail stores across the globe.  
+	- In this role you will lead various initiatives designing, developing, and training in-house character recognition and image caption algorithms powered by deep learning.
+	- Participate in planning and prioritizing, write functional specifications and lead design reviews for our character recognition and image caption algorithms.
+	- Generate, clean, and curate real world training datasets
+	- Create photorealistic synthetic training data for augmentation
+	- Develop, test, tune, and deploy character recognition and image caption systems across a wide variety of customers
+	- Evaluate existing character recognition and image caption methods for speed and accuracy performance improvements
+	- Collaborate with other developers, quality engineers, product managers, and documentation writers
+	- Ph.D. or M.S. preferred
+	- Strong machine learning background, with 2+ years of hands-on experience in building real systems
+	- Deep understanding of state of the art machine learning and deep learning algorithms, techniques and best practices
+	- Solid understanding of linear, non-linear, and dynamic programming
+	- Experience using or building synthetic image generation systems, data augmentation pipelines, and OCR/image caption systems
+	- Proficient in at least one of the following: Tensorflow, Keras, PyTorch. Tensorboard knowledge is a plus
+	- Must be fluent in Python, other languages are a plus
+	- Should be familiar with training and running deep learning models on GPUs (both commodity and otherwise)
+	- A good understanding of recurrent neural networks (including LSTMs and GRUs)
+	- Experience in debugging and diagnosing performance problems with ML algorithms
+	- Must have excellent written and verbal communication skills
+	- Experience with attention models, text localization, Google Cloud Platform, AWS, and serverless is a plus
+	- Strong Linux & Command Line background
+	- Ability to work hands-on in cross-functional teams with a strong sense of self-direction
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -2763,7 +2894,7 @@ For applications of machine learning, or ML, in the following fields, see the *M
 
 
 
-For applications of machine learning, or ML, in finance, see the *Markdown* document for [](financial-engr-n-finance-x.md)
+For applications of machine learning, or ML, in finance, see the *Markdown* document for [Financial Engineering, Computational Finance, and Financial Analytics](financial-engr-n-finance-x.md)
 
 
 
@@ -2840,6 +2971,12 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Experience with other back-end software engineering frameworks
 	- [Talkspace](https://www.talkspace.com/)
 + skill set:
+	- Data/Model Validation Engineer
+	- We are looking for someone passionate about learning how machine learning systems are developed to assist with validating and processing training data to evolve our state of the art systems.
+	- Engage with software engineers on the Perception team to identify and collect training data to evolve our machine learning systems.
+	- Working with engineers on the Perception team, train new machine learning models and perform analysis to quantify how they perform based on changes to the training data sets.
+	- Provide feedback on tools and processes for efficient workflow of training data creation and validation.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -2900,6 +3037,7 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 ###	Computer Vision
 
 
+####	Notes about Computer Vision
 
 Topics in computer vision:
 + 3-D computer vision
@@ -2955,7 +3093,11 @@ Topics in computer vision:
 
 
 
-Applications of machine learning:
+
+
+
+
+Applications of machine learning -based computer vision:
 + automatic inspection in post-manufacturing quality control/assurance
 + autonomous vehicles
 + assisting humans in identification tasks, such as species identification system of plants and animals
@@ -2973,7 +3115,7 @@ Applications of machine learning:
 
 
 
-
+####	Skill Sets about Computer Vision
 
 
 Skill sets for computer vision:
@@ -3001,6 +3143,24 @@ Skill sets for computer vision:
 	- Experience with CUDA, OpenCL or other GPU frameworks
 	- Experience with automotive systems or UAV systems
 	- Ability to lead a small technical team that balances research and application
++ skill set:
+	- Strong knowledge of the state-of-the-art in computer vision and machine learning algorithms with a solid understanding of OpenCV
+	- Experience working with point cloud processing and Point Cloud Library (PCL)
++ skill set:
+	- Develop pipeline for data tagging, labelling and munging to be consumed for training of ML models for vision based tasks.
+	- Architect and train machine learning models for object detection and tracking
+	- Build testing environment to test the model and simulate edge-case performance scenarios
+	- Experience with at-least one of Tensorflow/Caffe/Theano/Torch
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3280,6 +3440,29 @@ Skill sets for MLOps:
 + skill set:
 	- You will also work closely with our data scientists to make sure our customers have the necessary tools to perform high quality data integrations by building out the Machine Learning and AI infrastructure for entity resolution, automated data mapping, predictive analytics, and risk analysis.
 	- As a Software Engineer Intern you will work with a mentor to improve storage, compute, privacy, security, and compliance features necessary to support the operational workflows that help people get the assistance they need.
++ skill set:
+	- We are seeking a strategic technical leader who will be responsible for delivering the core infrastructure for machine learning on Databricks. This includes the ML runtime (a packaged environment containing Spark, Tensorflow, and other frameworks), our own machine learning algorithms, storage and IO optimizations, as well as higher level abstractions such as hyper parameter tuning and feature registries.
+	- Grow a team of application developers responsible for the Databricks ML Runtime.
+	- Grow Databricks' machine learning capabilities - increase YoY product revenue and adoption at > 100%
+	- Manage technical debt, including long term technical architecture decisions and balance product roadmap
++ [***MLflow***, An open source platform for the machine learning lifecycle](https://mlflow.org/)
++ skill set:
+	- The Machine Learning Platform team is hiring strong engineers to help us design MLflow, an open source tool for managing the Machine Learning lifecycle. In this role you will help define the APIs creating the standard that organizations use to manage their Machine Learning, from tracking offline experimentation through deployment to production systems. You will also build the services supporting the APIs in the open source and their integration into the Databricks product, a unified analytics platform that helps manage data processing and machine learning workloads in a collaborative, enterprise grade product.
+	- Design new and extend existing components of MLflow, such as experiment tracking, project management, and model deployment
+	- Implement proprietary integrations of MLflow into the core Databricks product
+	- Be responsible for full software development lifecycle - design, development, testing, operating in production
+	- Architect solutions to achieve a high level of reliability, scalability and security
+	- Communicate effectively with other engineers in the same team, with other teams and with various other stakeholders such as product managers
+	- Mentor junior engineers or other engineers on the team to help level up their skillset
+	- 7+ years of production experience developing services in: Java, Scala, C++, Go, or Python
+	- Has designed and developed APIs used in production systems.
+	- Deployed production web services using container and orchestration technologies, such as Docker and Kubernetes to public or private clouds.
+	- Developed services leveraging SQL backend stores.
+	- Demonstrates customer obsession: has altered designs for frontend or APIs with the user experience in mind
+	- Developed and debugged software running on Linux OS
+	- Experience with Continuous Integration/Continuous Deployment frameworks.
+	- Preferred Experience working on a SaaS platform or with Service Oriented Architectures
+	- Preferred Experience with software security and systems that handle sensitive data
 + skill set:
 	- BLAH.
 + skill set:
@@ -3576,6 +3759,8 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 ##	Data Science + Data Engineering + DataOps
 
 
+###	Notes about Data Science + Data Engineering + DataOps
+
 This section provides information about data science roles and skills set regarding:
 + [Generic data science positions]()
 + [Business analytics]()
@@ -3778,6 +3963,34 @@ Sets of skills for generic data science roles:
 + Proficiency with machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
 + Experience identifying data quality and developing automated QC checks and/or reports
 + A senior analytics professional with a proven track record of data analysis, reporting and visualization (e.g. Tableau, D3)
++ skill set:
+	- Use Databricks to build internal data warehouse and integrate it with BI and CRM services used internally
+	- Use Databricks to analyze usage data, and create dashboards and reports
+	- Build self-serving internal data products to make data simple within the company
+	- Work closely with Product Management and other stakeholders to understand product usage patterns and trends and to make data-driven decisions and forecasts
+	- Provide product feedback to PM and Engineering teams
+	- Strong desire to work at a rapidly growing startup
+	- Knowledge of data processing and applied statistics
+	- Proficient in data analysis and visualization using R or PyData
+	- Familiar with SQL and databases like MySQL or PostgreSQL
+	- Experience with distributed data processing systems like Spark and Hadoop
+	- General-purpose languages such as Python and Scala
+	- Desire to explore lots of data to find unexpected insights
+	- Strong communication and presentation skills
+	- [Plus] Advanced degrees in statistics, computer science, math, or similar fields
+	- [Plus] Familiarity with interactive data visualization using tools like D3.js
++ Research, evaluate, and present statistical or Machine Learning methods to provide actionable insights.
++ Enforce SOX & GDPR compliance across the analytics database and reporting tools
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3795,7 +4008,15 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- Serve as thought partner to product development executives across product management, engineering, and design.
 	- 5+ years experience in building and inspiring a high-performing data science and analytics team.
 	- Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
-
++ skill set:
+	- Starsky Robotics is looking for a full-time Senior Data Scientist. Your job will tackle a wide variety of problems in autonomous vehicles. From finding every time a car cut in front of our truck, to figuring out how to report on the quality of autonomous driving, to creating new tools and statistical methods for robotics engineers to characterize the behavior of their systems, we're looking for someone motivated to attack self-driving problems with mounds of data. Tackling these problems will require learning about the whole suite of robotics fields applied to make autonomous vehicles: motion planning, controls, perception, and behavior planning.
+	- You'll own high-level decisions such as “How do we determine if a route fits our current driving capabilities”. Day-to-day projects may have mission statements as technical as “Help us solve this spike in cross-track error on curves”, or as business-focused as “Can we get a heatmap of all the places our trucks have driven over the last year”.
+	- Additionally, you can bring best-practices for data-science to the company, including helping build up the base platform and infrastructure necessary to speed up data-centric work. Starsky has a solid base of tooling around our data, but it is ripe for improvement.
+	- Demonstrated expertise in the data scientists modern toolkit: Pandas, R, SQL, etc, and don't mind sharing your experience with the team
+	- Deep quantitative thinker: Masters or PhD in a quantitative field, or multiple years of experience in a quantitative-focused position
+	- Relish delivering answers and metrics and seeing change affected by your work
+	- Can take high level directives and take them through from research project, proof of concept, to applied & implemented feature.
+	- Are constantly looking for problems that could be solved with liberal application of data
 
 
 
@@ -3818,25 +4039,6 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- Qlik
 	- Google Charts
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4146,6 +4348,65 @@ They support databases for:
 	- Experience with on-premises to cloud migrations including re-hosting, re-platforming and re-factoring
 	- Experience with orchestration template technologies such as AWS CloudFormation
 + skill set:
+	- Architect and operate high quality, large scale, multi-geo data pipelines that drive business decisions.
+	- Redesigned data pipelines using the applicable DBR features, and incorporating external tools where necessary to have better reliability and tighter SLAs.
+	- Established conventions or new APIs for logging feature usage for PM use-cases.
+	- Understandable SLAs for each of the production data pipelines.
+	- Improved test coverage (90+%) for data pipelines. Best practices and frameworks for unit, functional and integration tests.
+	- CI and deployment processes and best practices for the production data pipelines.
+	- Reduction in overall alert noise and increase responsiveness by rethinking the current alert categories and priorities.
+	- Design schemas for financial, sales and support data in the data warehouse.
+	- Experience building, shipping and operating multi-geo data pipelines at scale.
+	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
+	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
+	- Excellent communication (writing, conversation, presentation) skills, consensus builder
+	- Strong analytical and problem solving skills
+	- Passion for data engineering and for enabling others by making their data easier to access.
+	- Experience with pipelines that are used by many downstream teams, including non-engineering functions.
+	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
+	- Experience working with Apache Spark and data warehousing products.
+	- Direct experience with a log collection and aggregation system at scale.
+	- Demonstrated execution at a growth stage technology company.
++ skill set:
+	- If you are looking for an unparalleled opportunity to build the next generation big data processing platform, and learn how to launch hundreds of thousands of VMs a day at scale while running thousands of Kubernetes clusters, you have come to the right place. The platform team builds and manages the core systems powering Databricks, allowing it to seamlessly scale and run across various geographic regions/clouds, and making Databricks the go-to product for big data processing in the cloud.
+	- You will be a senior software engineer responsible for architecting scalable systems to power Databricks, making it the de-facto platform for running Big Data and AI workloads. You will build and extend the Databricks cloud platform, which is based on a micro service architecture and includes systems for managing thousands of Kubernetes clusters at scale, systems for streaming and consuming gigabytes of log data per minute, onboarding and managing thousands of data scientists on Databricks, scalable API gateway, rate limiting framework, network security and encryption, build infrastructure (we use Bazel), and scalable CI/CD framework among many others.
+	- Develop and extend the Databricks platform. This implies, among others, writing clean, efficient code in Scala or Python and/or interacting with: cloud APIs (e.g., compute APIs, cloud formation, Terraform), with open source and third party APIs and software (e.g., Kubernetes) and with different Databricks services
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ skill set:
+	- Develop and extend the Databricks product. This implies, among others, writing software in Scala, Python or Javascript and/or interacting with: cloud APIs (e.g., compute APIs, cloud formation, Terraform), with open source and third party APIs and software (e.g., Kubernetes) and with internal APIs.
++ skill set:
+	- Develop and extend the Databricks product. This implies, among others, writing software in Scala, Python, and Javascript, building data pipelines (Apache Spark, Apache Kafka), integrating with third-party applications, and interacting with cloud APIs (AWS, Azure, CloudFormation, Terraform).
+	- To achieve this, we build data reporting pipelines that support the underlying pricing infrastructure supporting tens to hundreds of millions of DBUs (Databricks Units) across multiple clouds and regions, UIs that allow Databricks administrators to view and manage their bill, and APIs and integrations to downstream processors to handle payments for all customers.
+	- Experience in architecting, developing, deploying, and operating large scale distributed systems.
+	- Experience with distributed data processing systems (Apache Spark, Apache Kafka).
+	- Experience with cloud APIs (e.g. a public cloud such as AWS, Azure, GCP, or an advanced private cloud such as Google, Facebook).
+	- Experience working on a SaaS platform or with Service-Oriented Architectures.
+	- Experience with API development.
+	- Good knowledge of SQL.
+	- Experience with software security and systems that handle sensitive data.
+	- Exposure to container technologies, such as Kubernetes, Docker.
+	- Unified Analytics Platform
++ skill set:
+	- Our team drives state-of-the-art, open source Delta Lake project bringing reliable, scalable, ACID transactions to Apache Spark and other Big Data engines. Our mission is to deliver a robust and performant engine that enables users to build reliable data pipelines that ingest massive data volumes, optimize data layout, generate metadata and evolve data schemas all while guaranteeing transactional correctness and high query performance.
+	- Build the core features that make Delta Lake the world's best Big Data storage abstraction in terms of performance, stability, security and scalability.
++ [***Delta Lake Community***; Delta Lake is an open-source storage layer that brings ACID transactions to Apache Spark™ and big data workloads.](https://delta.io/)
++ skill set:
+	- You will build tools and features to make Databricks the best place for large-scale enterprise R workloads.
+	- Improve state of distributed R computing through Apache Spark and R integration on Databricks
+	- Implement new features on Databricks platform for R users (e.g., ACL)
+	- Improve and extend Databricks R notebooks to satisfy R users' use cases and requirements
+	- Implement new R-based APIs on Databricks platform (e.g., secret management API)
+	- Expand Databricks workspace through integration with third-party tools such as RStudio and Shiny.
+	- Integrate critical packages from the R ecosystem into Databricks Runtime
+	- Provide engineering support and thought leadership to Databricks field engineering teams on R
+	- Give talks and write blog posts about R on Databricks
++ skill set:
+	- You revel in building features quickly and iterating in a data-driven fashion
+	- You lay awake thinking about improving the design, implementation and maintenance of large software systems with millions of users
+	- Passion to hack social commerce
+	- Data & Relevancy engineers work on our massive semi-structured datasets. They have domain experience in data mining, information retrieval, or machine learning, and a strong system orientation. Key product initiatives include product feed relevance, ad targeting, information extraction, and recommendations.
+	- Infrastructure engineers scale a massive, highly-available platform end-to-end. They design distributed systems, validate performance, factor in security, and proactively monitor every corner of our stack. When things do go wrong, they are on-hand to fight the fires.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -4215,6 +4476,7 @@ They support databases for:
 ###	DataOps
 
 
+####	Notes about DataOps
 
 DataOps is a set of practices, processes and technologies that combines an integrated and process-oriented perspective on data with automation and methods from agile software engineering to improve quality, speed, and collaboration and promote a culture of continuous improvement in the area of data analytics.
 
@@ -4259,7 +4521,7 @@ DataOps leadership principles:
 
 
 
-
+####	Skill Sets about DataOps
 
 Skill sets for DataOps:
 + Demonstrated track record working with data warehouse concepts.
@@ -4285,6 +4547,8 @@ Skill sets for DataOps:
 ###	Management of Information Systems, MIS
 
 
+####	Notes about MIS
+
 
 Goals of MIS:
 + facilitate decision making
@@ -4307,15 +4571,7 @@ Types of MIS include:
 
 
 Enterprise applications of MIS:
-+ enterprise resource planning, ERP
-	- or, enterprise systems
-+ supply chain management, SCM
 + customer relationship management, CRM
-+ knowledge management system, KMS
-
-
-
-
 + DLP, data loss prevention software
 	- ILDP, information leak detection and prevention
 	- ILP, information leak prevention
@@ -4326,9 +4582,18 @@ Enterprise applications of MIS:
 	- IDS, intrusion detection system
 		* NIDS, network intrusion detection system
 		* HIDS, host-based intrusion detection system
++ enterprise resource planning, ERP
+	- or, enterprise systems
++ knowledge management system, KMS
++ supply chain management, SCM
 
 
 
+
+
+
+
+####	Skill Sets for MIS
 
 
 Skill set for management of information systems, MIS:
@@ -4395,6 +4660,7 @@ Skill set for management of information systems, MIS:
 	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
 + [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
 	- search engine for MySQL family of database management systems (DBMS).
++ AWS DynamoD
 + skill set:
 	- BLAH.
 
@@ -4422,7 +4688,7 @@ Skill set for management of information systems, MIS:
 
 
 
-For the transportation industry, these are the skill sets for applied machine learning and data science roles.
+For the ***transportation industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4453,7 +4719,7 @@ For the transportation industry, these are the skill sets for applied machine le
 
 
 
-For the management consulting market, these are the skill sets for applied machine learning and data science roles.
+For the ***management consulting market***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4485,7 +4751,7 @@ For the management consulting market, these are the skill sets for applied machi
 
 
 
-For the K-12 (kindergarten to grade 12) education market, these are the skill sets for applied machine learning and data science roles.
+For the ***K-12 (kindergarten to grade 12) education market***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4520,7 +4786,7 @@ For the K-12 (kindergarten to grade 12) education market, these are the skill se
 
 
 
-For the higher education market, these are the skill sets for applied machine learning and data science roles.
+For the ***higher education market***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4549,7 +4815,7 @@ For the higher education market, these are the skill sets for applied machine le
 
 
 
-For the real estate market, these are the skill sets for applied machine learning and data science roles.
+For the ***real estate market***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4579,7 +4845,7 @@ For the real estate market, these are the skill sets for applied machine learnin
 
 
 
-For the waste management market, these are the skill sets for applied machine learning and data science roles.
+For the ***waste management market***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4611,7 +4877,7 @@ For the waste management market, these are the skill sets for applied machine le
 
 
 
-For the health care industry, including health care informatics, health care analytics, health care management and hospital management, these are the skill sets for applied machine learning and data science roles.
+For the ***health care industry***, including health care informatics, health care analytics, health care management and hospital management, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4639,7 +4905,7 @@ For the health care industry, including health care informatics, health care ana
 
 
 
-For the media industry, including mass media and social media, these are the skill sets for applied machine learning and data science roles.
+For the ***media industry***, including mass media and social media, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4668,7 +4934,7 @@ For the media industry, including mass media and social media, these are the ski
 
 
 
-For the hospitality industry, including the tourism market, these are the skill sets for applied machine learning and data science roles.
+For the ***hospitality industry***, including the tourism market, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4695,7 +4961,7 @@ For the hospitality industry, including the tourism market, these are the skill 
 
 
 
-For the telecommunication industry, these are the skill sets for applied machine learning and data science roles.
+For the ***telecommunication industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4726,7 +4992,7 @@ For the telecommunication industry, these are the skill sets for applied machine
 
 
 
-For the electric power industry, these are the skill sets for applied machine learning and data science roles.
+For the ***electric power industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4763,7 +5029,7 @@ For the electric power industry, these are the skill sets for applied machine le
 
 
 
-For the construction industry, these are the skill sets for applied machine learning and data science roles.
+For the ***construction industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4791,7 +5057,7 @@ For the construction industry, these are the skill sets for applied machine lear
 
 
 
-For the fashion industry, these are the skill sets for applied machine learning and data science roles.
+For the ***fashion industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4821,7 +5087,7 @@ For the fashion industry, these are the skill sets for applied machine learning 
 
 
 
-For the entertainment industry, these are the skill sets for applied machine learning and data science roles.
+For the ***entertainment industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4851,7 +5117,7 @@ For the entertainment industry, these are the skill sets for applied machine lea
 
 
 
-For the music industry, these are the skill sets for applied machine learning and data science roles.
+For the ***music industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4881,7 +5147,7 @@ For the music industry, these are the skill sets for applied machine learning an
 
 
 
-For the manufacturing industry, these are the skill sets for applied machine learning and data science roles.
+For the ***manufacturing industry***, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4912,7 +5178,7 @@ For the manufacturing industry, these are the skill sets for applied machine lea
 
 
 
-For the regulatory compliance market, and regulatory enforcement and inspection/auditing market, these are the skill sets for applied machine learning and data science roles.
+For the ***regulatory compliance market***, and regulatory enforcement and inspection/auditing market, these are the skill sets for applied machine learning and data science roles.
 + skill set:
 	- BLAH.
 + skill set:

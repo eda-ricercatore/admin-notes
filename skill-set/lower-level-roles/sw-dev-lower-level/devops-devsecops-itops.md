@@ -474,6 +474,14 @@ Skill set for DevOps:
 	- Experience with high loaded distributed multi-tenanted cloud systems. Including: Disaster recovering mechanisms; Monitoring and logging; Redundancy (data, network, apps);
 	- Comfortable working with distributed teams
 + skill set:
+	- As a DevOps Engineer at Simbe Robotics you will be part of a talented team ensuring quality in our software as well deploying & managing our cloud services and world-wide fleet of autonomous robots.
+	- Has experience with automated build and continuous integration systems (e.g. Jenkins, TravisCI)
+	- Has knowledge of application/system level monitoring (Nagios, CloudWatch, Munin, Splunk)
+	- Experience with configuration management (Chef, Puppet, Ansible) tools
+	- Has experience with various application packaging and deployment technologies (Debian packages, Docker/Linux containers)
+	- Experience configuring web servers (e.g. Apache/Tomcat, nginix)
++ Infrastructure as code experience (we use terraform)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
