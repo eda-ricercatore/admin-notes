@@ -141,6 +141,20 @@ This set of skill sets is for computational *X* software development roles, whic
 		* music information retrieval
 		* sound and music computing
 		* systematic musicology
+	- computer art
+		* AI art
+		* algorithmic art, or algorithm art
+		* digital art
+		+ fractal art
+		* generative art
+			+ generative music
+			+ visual art
+		* systems art
+			+ anti-form movement
+			+ cybernetic art
+			+ generative systems
+			+ process art
+			+ systemic art
 	- sound and music computing
 		* AI and music, AIM
 			+ interactive scores
