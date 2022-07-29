@@ -126,7 +126,15 @@ This set of skill sets is for computational *X* software development roles, whic
 + computational creativity, artificial creativity, mechanical creativity, creative computing, or creative computation
 	- computational musicology
 		* cognitive musicology
+			+ compare with: cognitive neuroscience of music.
+			+ part of: music psychology.
 		* computer music
+			+ application of computing technology in music composition, to help human composers create new music or to have computers independently create music, such as with algorithmic composition programs
+			+ sound synthesis
+			+ sound design
+			+ sonic diffusion
+			+ acoustics
+			+ psychoacoustics
 		* digital musicology
 		* mathematical music theory
 		* music informatics
@@ -134,6 +142,8 @@ This set of skill sets is for computational *X* software development roles, whic
 		* sound and music computing
 		* systematic musicology
 	- sound and music computing
+		* AI and music, AIM
+			+ music composition
 		* assisted sound and music creation
 			+ computer tools for assisting:
 				- algorithmic composition
