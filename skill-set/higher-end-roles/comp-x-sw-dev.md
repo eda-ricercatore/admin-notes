@@ -143,6 +143,8 @@ This set of skill sets is for computational *X* software development roles, whic
 		* systematic musicology
 	- sound and music computing
 		* AI and music, AIM
+			+ interactive scores
+			+ music accompaniment
 			+ music composition
 		* assisted sound and music creation
 			+ computer tools for assisting:
