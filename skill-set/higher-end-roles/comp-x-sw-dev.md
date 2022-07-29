@@ -125,6 +125,7 @@ This set of skill sets is for computational *X* software development roles, whic
 + computational informatics
 + computational creativity, artificial creativity, mechanical creativity, creative computing, or creative computation
 	- computational musicology
+		* cognitive musicology
 		* computer music
 		* digital musicology
 		* mathematical music theory
@@ -135,8 +136,9 @@ This set of skill sets is for computational *X* software development roles, whic
 	- sound and music computing
 		* assisted sound and music creation
 			+ computer tools for assisting:
-				- sound design
+				- algorithmic composition
 				- music composition
+				- sound design
 		* interfaces for sound and music
 			+ design and implementation of computer interfaces for sound and music
 				- related to Human Computer Interaction.
@@ -148,20 +150,26 @@ This set of skill sets is for computational *X* software development roles, whic
 			+ music information retrieval
 			+ (computational) music cognition
 		* applications:
+			+ auditory interfaces
+				- applications where non-verbal sound is employed in the communication channel between the user and the computing device
+				- Auditory displays are used in applications and objects that require monitoring of some type of information.
+				- Sonification is used as a method for data display in a wide range of application domains where auditory inspection, analysis and summarisation can be more efficient than traditional visual display.
+				- Sonic interaction design emphasizes the role of sound in interactive contexts.
+			+ augmented action and perception:
+				- tools that increase the normal action and perception capabilities of humans
+					* systems adds virtual information to a user's sensory perception by merging real images, sounds, and haptic sensation with virtual ones
+						+ This has the effect of augmenting the user's sense of presence, and of making possible a symbiosis between her view of the world and the computer interface.
+						+ Possible applications are in the:
+							- medical domain
+							- manufacturing and repair
+							- entertainment
+							- annotation and visualization
+							- robot tele-operation
 			+ digital music instruments
 				- musical sound generation and processing devices
 					* simulation of traditional instruments
 					* transformation of sound in recording studios or at live performances
 					* musical interfaces for augmented or collaborative instruments
-			+ music production: This application domain focuses on technologies and tools for music composition. Applications range from music modeling and generation to tools for music post–production and audio editing.
-			+ music information retrieval:
-				- retrieval technologies for music
-					* both audio and symbolic data
-					* applications include:
-						+ music audio-identification
-						+ broadcast monitoring
-						+ higher-level semantic descriptions
-						+ all associated tools for search and retrieval
 			+ digital music libraries:
 				- preservation, conservation and archiving and the integration of musical audio content and meta-data descriptions, with a focus on flexible access
 				- applications range from large distributed libraries to mobile access platforms
@@ -181,21 +189,15 @@ This set of skill sets is for computational *X* software development roles, whic
 				 		+ kinematic and bioparametric
 				 			- skin conduction
 				 			- temperature
-			+ auditory interfaces
-				- applications where non-verbal sound is employed in the communication channel between the user and the computing device
-				- Auditory displays are used in applications and objects that require monitoring of some type of information.
-				- Sonification is used as a method for data display in a wide range of application domains where auditory inspection, analysis and summarisation can be more efficient than traditional visual display.
-				- Sonic interaction design emphasizes the role of sound in interactive contexts.
-			+ augmented action and perception:
-				- tools that increase the normal action and perception capabilities of humans
-					* systems adds virtual information to a user's sensory perception by merging real images, sounds, and haptic sensation with virtual ones
-						+ This has the effect of augmenting the user's sense of presence, and of making possible a symbiosis between her view of the world and the computer interface.
-						+ Possible applications are in the:
-							- medical domain
-							- manufacturing and repair
-							- entertainment
-							- annotation and visualization
-							- robot tele-operation
+			+ music information retrieval:
+				- retrieval technologies for music
+					* both audio and symbolic data
+					* applications include:
+						+ music audio-identification
+						+ broadcast monitoring
+						+ higher-level semantic descriptions
+						+ all associated tools for search and retrieval
+			+ music production: This application domain focuses on technologies and tools for music composition. Applications range from music modeling and generation to tools for music post–production and audio editing.
 
 
 
