@@ -6,7 +6,7 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
-
+##	Generic Skill Sets for Cloud Computing -based Software Development
 
 
 + skill set:
@@ -243,6 +243,18 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
+###	Notes about Messaging as a Service (MaaS)
+
+
+
+
+
+
+
+
+###	Skill Sets for Messaging as a Service (MaaS)
+
+
 + skill set:
 	- Software Engineer - Data Stream
 	- The Splunk Messaging as a Service (MaaS) team is responsible for providing enabling technology that powers messaging, queueing and streaming for several products in the cloud and on-prem. You will be part of the team and work with other team members, engineering and Product Management to plan, develop and deliver various features and functionalities.
@@ -300,7 +312,35 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
-##	Software Development for Infrastructure as a service (IaaS)
+##	Software Development for Infrastructure as a Service (IaaS)
+
+
+
+###	Notes on Infrastructure as a Service, IaaS
+
+IaaS:
++ provides you with high-level APIs used to dereference various low-level details of underlying network infrastructure
+	- backup
+	- data partitioning
+	- scaling
+	- security
+	- physical computing resources
++ A hypervisor runs the virtual machines as guests.
+	- hypervisors include:
+		* Xen
+		* Oracle VirtualBox
+		* Oracle VM
+		* KVM
+		* VMware ESX/ESXi
+		* Hyper-V
++ Pools of hypervisors within the cloud operational system can support large numbers of virtual machines as well as the ability to scale services up and down according to customers' varying requirements.
+
+
+
+
+
+###	Skill Sets for Infrastructure as a Service, IaaS
+
 
 
 
@@ -362,7 +402,7 @@ This set of skill sets is for software development roles in cloud computing.
 	- BLAH.
 
 
-##	Software Development for Platform as a service (PaaS)
+##	Software Development for Platform as a Service (PaaS)
 
 
 + skill set:
@@ -400,7 +440,24 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
-##	Software Development for Software as a service (SaaS)
+##	Software Development for Software as a Service (SaaS)
+
+
+##	Notes about Software as a Service (SaaS)
+
+
+Notes about Software as a Service, SaaS:
++ security problems with SaaS
+	- use of malware-as-a-service, MaaS, as a security threat
+		* Reference:
+			+ SplunkIncStaff2010
+				- Splunk Inc. staff, "Malware-as-a-Service (MaaS)?", Splunk Inc., San Francisco, CA, June 10, 2010. Available online from *Splunk Inc.: Resources: Splunk Blogs -- Turn Data Into Doing: Categories: Security* at: https://www.splunk.com/en_us/blog/security/malware-as-a-service-maas.html; July 30, 2022 was the last accessed date.
+
+
+
+
+
+##	Skill Sets for Software as a Service (SaaS)
 
 
 + skill set:
@@ -462,7 +519,17 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
-##	Software Development for Mobile "backend" as a service (MBaaS), or backend as a service (BaaS)
+##	Software Development for Mobile "backend" as a Service (MBaaS), or Backend as a Service (BaaS)
+
+
+###	Software Development for Mobile "backend" as a Service (MBaaS), or Backend as a Service (BaaS)
+
+
+
+###	Skill Sets for Mobile "backend" as a Service, MBaaS, or Backend as a Service, BaaS
+
+
+
 
 
 
@@ -501,8 +568,27 @@ This set of skill sets is for software development roles in cloud computing.
 
 
 
-##	Software Development for Serverless computing or Function-as-a-Service (FaaS)
+##	Software Development for Serverless Computing or Function-as-a-Service (FaaS)
 
+
+###	Notes on Serverless Computing or Function-as-a-Service (FaaS)
+
+Notes on serverless computing or Function-as-a-Service, FaaS:
++ provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app
++ Building an application following this model is one way of achieving a "serverless" architecture, and is typically used when building microservices applications.
++ Examples of serverless computing or Function-as-a-Service, FaaS:
+	- data processing
+		* batch processing
+		* stream processing
+		* extract-transform-load, ETL
+	- Internet of things, IoT, services for Internet-connected devices
+	- mobile applications
+	- Web applications
+
+
+
+
+###	Skill Sets for Serverless Computing or Function-as-a-Service (FaaS)
 
 
 + skill set:

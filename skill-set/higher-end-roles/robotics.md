@@ -998,6 +998,14 @@ Sets of skills in Machine Vision:
 	- Publication records in leading conferences such as CVPR, ICCV, ECCV, NIPS, ICML or PAMI is a plus
 + Experience in Computer Vision / Computational Geometry / Structure from Motion / SLAM
 + skill set:
+	- A fascination with the PoseNet research, for pose estimation, since its release in 2015.
+	- Fundamental understanding of Bundle Adjustment or Non-Linear Optimization.
+	- PhD or exceptional MSc involving 3D-Reconstruction, SLAM, Camera Calibration or Computational Geometry from a top ranking university or lab.
+	- Geometry from Vision is at the heart of Scape Technologies. As a research engineer on the Scape Technologies team, you will take a key role in designing and building the pipeline for cloud-based 3D-reconstruction and real-time global localization. This will require implementing and building upon existing research in Structure-from-Motion, Dense 3D-reconstruction, Camera Calibration and SLAM.
+	- This can range from non-linear optimization to efficient graph traversal, considering optimized computational parallelization.
+	- Making sure that Scape's large scale reconstruction and localization pipeline is the most efficient in the world.
+	- We are looking for curious and enthusiastic computer vision scientists who are keen on working on moonshot projects.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

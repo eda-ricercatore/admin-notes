@@ -84,6 +84,40 @@ This set of skill sets is for non-common software development roles, which inclu
 
 
 
+
+##	Software Development for Educational Technology
+
+
++ Experience with higher education SIS and LMS systems (Banner, Colleague, Jenzabar, Canvas, Blackboard, etc.) strongly preferred
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Undefined Software Development Roles
 
 

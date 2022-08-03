@@ -514,6 +514,14 @@
 		* GraphQL
 		* Spark
 + skill set:
+	- Experience in development using MEAN stack (Node.js, Angular.js, Express.js, MongoDB)
+	- Data exchange technologies like JSON
+	- Familiarity with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.
+	- Exposure to rules engines e.g. drools, ESBs e.g. MuleSoft & integration with enterprise systems
+	- Highly preferred Web UI or dashboarding experience (ie CSS, HTML, Tableau, Qlik, etc.
+	- Knowledge and hands on experience on implementation of Chatbot using Microsoft Bot Framework, API.AI or Watson
+	- Experience working in a DevOps environment, and using industry standard tools (GIT/OneStash, JIRA)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -967,6 +975,27 @@
 	- Experience working on complex, data-heavy applications
 	- Experience instrumenting services
 + skill set:
+	- GatsbyJS
+	- ElasticSearch
++ skill set:
+	- Experienced and interested in Ruby, Elixir, Java, Python, Node.JS, Phoenix Elixir, or other backend programming language or framework
++ skill set:
+	- Experience with Java, Spring Boot
+	- Experience with React, Backbone, Marionette or equivalent framework
+	- Experience with Protractor, RSpec or equivalent integration test framework
+	- Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (DynamoDB) is a plus
++ skill set:
+	- 7+ years Experience with large-scale distributed systems and client-server architectures.  Examples include Java/Spring Boot, CQRS, event streaming, Kafka, Spark
+	- Deep experience with Cloud Computing platforms (e.g. Amazon AWS, Microsoft Azure, Google App Engine)
+	- Knowledge and understanding of relevant legal and regulatory requirements, such as SOX, PCI, HIPAA, Data Protection, etc.
+	- Demonstrated experience implementing and managing high capacity, redundant, and mission critical environments
+	- Knowledge in databases and comfortable with various databases technologies.  Examples include relational database (Oracle) and/or NoSQL data technologies (Mongo, Cansandra, Couchbase) and related toolsets.
+	- Proficiency in TCP/IP networking, architecture and core technologies ( DNS, routing, iptables, tc, etc.)
+	- Experience running and maintaining a 24x7 production environment
++ skill set:
+	- Project management skills - JIRA, roadmapping, etc.
+	- Experience with any of Ruby, Java, or modern web frameworks like React
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1166,6 +1195,7 @@
 	- Willing to grow and learn to be best front-end professional ever
 + are well wersed with any ui-library like React, Angular and have strong opinions about them
 + Knowledge of TypeScript, React, Jest, Cypress is a plus
++ Love Github, Slack, Asana, AWS, Meteor, Node
 + skill set:
 	- BLAH.
 + skill set:

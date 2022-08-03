@@ -633,6 +633,9 @@ These skill sets for extended reality, includes skill sets for the following:
 
 
 + skill set:
+	- Work in an agile, CI/CD based, test-driven development environment
+	- Semantic Web (RDF/SPARQL)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

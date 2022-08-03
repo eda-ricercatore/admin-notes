@@ -1053,6 +1053,7 @@ Types of ITOA:
 		* Zookeeper
 	- experience with developing complex software systems scaling to substantial data volumes or millions of users with production quality deployment, monitoring, and reliability
 	- experience running scalable (thousands of RPS) and reliable (three 9's) systems
++ Experience with monitoring and tracking tools such as Splunk, NewRelic, Adobe/Google Analytics
 + skill set:
 	- BLAH.
 + skill set:

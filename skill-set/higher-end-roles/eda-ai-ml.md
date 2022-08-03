@@ -2899,6 +2899,35 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
+
++ skill set:
+	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
+	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
+	- Minimum 1 year of designing and building secured Big Data ETL pipelines, using Talend or Informatica Big Data Editions; for data curation and analysis of large scale production deployed solutions.
+	- Minimum 6 months of expertise in implementation with Databricks.
+	- Experience in Machine learning using Python ( sklearn) ,SparkML , H2O and/or SageMaker.
+	- Knowledge of Deep Learning (CNN, RNN, ANN) using TensorFlow.
+	- Knowledge of Auto Machine Learning tools ( H2O, Datarobot, Google AutoML).
+	- Minimum 2 years designing and implementing large scale data warehousing and analytics solutions working with RDBMS (e.g. Oracle, Teradata, DB2, Netezza,SAS) and understanding of the challenges and limitations of these traditional solutions.
+	- Minimum 1 year of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale, Jethro and others.
+	- Minimum 1 year of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for big data platforms on premise or on AWS, Google and Azure cloud.
+	- Minimum 1 year of Re-architecting and rationalizing traditional data warehouses with Hadoop, Spark or NoSQL technologies on premise or transition to AWS, Google clouds.
+	- Experience implementing data preparation technologies such as Paxata, Trifacta, Tamr for enabling self-service solutions.  
+	- Minimum 1 year of building Business Data Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies (e.g  Alation, Informatica or custom portals).
++ skill set:
+	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
+	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
+	- Minimum 1 year of designing and building secured Big Data ETL pipelines, using Talend or Informatica Big Data Editions; for data curation and analysis of large scale production deployed solutions.
+	- Minimum 6 months of experience designing and building data models to support large scale BI, Analytics and AI solutions for Big Data.
+	- Knowledge of Auto Machine Learning tools ( H2O, Datarobot, Google AutoML).
+	- Minimum 6 months of expertise in implementation with Databricks.
+	- Experience in Machine learning using Python ( sklearn) ,SparkML , H2O and/or SageMaker.
+	- Minimum 2 years designing and implementing large scale data warehousing and analytics solutions working with RDBMS (e.g. Oracle, Teradata, DB2, Netezza,SAS) and understanding of the challenges and limitations of these traditional solutions.
+	- Minimum 1 year of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale, Jethro and others.
+	- Minimum 1 year of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for big data platforms on premise or on AWS, Google and Azure cloud.
+	- Minimum 1 year of Re-architecting and rationalizing traditional data warehouses with Hadoop, Spark or NoSQL technologies on premise or transition to AWS, Google clouds.
+	- Experience implementing data preparation technologies such as Paxata, Trifacta, Tamr for enabling self-service solutions.  
+	- Minimum 3+ years of Spark/MR/ETL processing, including Java, Python, Scala, Talend; for data analysis of production Big Data applications
 + skill set:
 	- Director of Applied Machine Learning Experiences
 	- The Machine Learning team is building a new platform called Sparta and this platform will be used to build assistive intelligence experiences (AIEs).  These AIEs enable Splunk customers to accomplish their tasks while using real-time user feedback to build self-tuning cloud services. The focus of the selected candidate will be to manage the AIE portfolio and automate simple tasks and processes by harnessing the power of Big Data, cloud, and data science to aid in actionable decision-making and system remediation.
@@ -2976,6 +3005,30 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Engage with software engineers on the Perception team to identify and collect training data to evolve our machine learning systems.
 	- Working with engineers on the Perception team, train new machine learning models and perform analysis to quantify how they perform based on changes to the training data sets.
 	- Provide feedback on tools and processes for efficient workflow of training data creation and validation.
++ skill set:
+	- Project-based analytics including but not limited to: Machine Learning, Predictive Analytics, Comparative Effectiveness Analysis, Failure Analysis, Big Data Analytics, Optimization, Demand Forecasting, Customer Segmentation, Customer Analytic Record.
+	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
+	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
++ skill set:
+	- You've got a Master's degree in statistics, econometrics, mathematics, or deep learning architectures including convolutional, recurrent, autoencoders, GAN's, and ResNets
+	- You're a coding wizard with Python, C# (.NET), Scala, MxNet, CNTK, R, H2O, TensorFlow, PyTorch, cuDNN, NumPy, and SciPy
++ skill set:
+	- At least 4 years' experience in deep learning, machine learning or artificial intelligence applications like virtual agent, robotic process automation and video/image/text analytics
+	- Minimum of 2 years' experience in AI/ML/RPA functional expertise with developing use cases and building/leading Proofs of Concept
+	- At least 2 years architecting AI Pipelines orchestrating multiple analytics engines
++ skill set:
+	- Minimum 5 years of developing machine learning methods, including familiarity with techniques in clustering, regression, optimization, recommendation, neural networks, and other.
+	- Strong quantitative and analytical skills with minimum 3 years of experience with data science tools, including Python, R, Scala, Julia, or SAS
+	- Ability to technically lead data science projects
+	- Deadline-driven, organized and able to multi-task
+	- Familiarity with using cloud services (AWS, Google, Azure) or Big Data tools (Hadoop, Hive, Spark) in data science solutions
++ skill set:
+	- Proven experience with caching, queuing, RPC frameworks and other building blocks of a large scale distributed systems.
+	- Experience with NoSQL AWS data stores like DynamoDB, CloudSearch or their open source equivalents like Cassandra, HBase, Solr or ElasticSearch
+	- Experience with React or other modern javascript frameworks.
+	- Experience with MySQL, Redis, Memcache and related web-backend technologies.
+	- Experience with data pipelines (Kafka, AWS Kinesis, AWS Data Pipeline)
+	- Experience building web applications, widgets, or interactive experiences.
 + skill set:
 	- BLAH.
 + skill set:
@@ -3981,7 +4034,11 @@ Sets of skills for generic data science roles:
 	- [Plus] Familiarity with interactive data visualization using tools like D3.js
 + Research, evaluate, and present statistical or Machine Learning methods to provide actionable insights.
 + Enforce SOX & GDPR compliance across the analytics database and reporting tools
-
++ Good grasp of statistical concepts (e.g. hypothesis testing, regression)
++ skill set:
+	- Project-based analytics including but not limited to: Machine Learning, Predictive Analytics, Comparative Effectiveness Analysis, Failure Analysis, Big Data Analytics, Optimization, Demand Forecasting, Customer Segmentation, Customer Analytic Record.
+	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
+	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
 
 
 
@@ -4065,6 +4122,20 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 
+
+Skill sets for business analytics:
++ skill set:
+	- Minimum of 3 years' delivery experience in advanced modeling environment: strong understanding of statistical concepts and predictive modeling. (e.g., AI neural networks, multi-scalar dimensional models, logistic regression techniques, machine-based learning, big data platforms, SQL, etc.).
+	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
+	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
+	- Possess a blend of marketing acumen, consulting expertise and analytical capabilities that can create value and insights for our clients.
++ You're familiar with business intelligence reporting platforms like OBIEE, Tableau, MicroStrategy, and Business Objects
+
+
+
+
+
+
 ####	Marketing Analytics
 
 
@@ -4092,8 +4163,9 @@ This subsubsection includes the following topics of business analytics, except f
 ####	Data Science for Logistics, Supply Chain Management, Industrial Distribution, & Retail Sales
 
 
-
-
++ skill set:
+	- At least 5 years demonstrated results in areas of Operations Research and/or Supply Chain Projects (inventory optimization, network design, and S&OP) in sophisticated and complex environments including the use of simulation and modeling tools (Llamasoft, CPLEX, Gurobi, or other similar)
+	- At least 5 years performing data analytics and modeling with advanced languages (e.g. Python or R)
 
 
 
@@ -4126,6 +4198,23 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 
+
+
+
+
+
+
+
+
+###	Data Science for Health Companies & Other Organizations
+
+
++ skill set:
+	- At least 2 years designing and building healthcare data analysis solutions for the business payer or provider industry
+	- At least 2 years using new developments in AI, machine learning, cognitive systems, and robotics to build amazing analytical tools
+	- At least of 2 years working with tools like SAS, Python, SPSS, R, or SQL
+	- At least 2 years working with data integration tools to streamline processes in platforms like Cerner EMR, Apache Spark, MapReduce, MongoDB and Couchbase
+	- You can use data mining techniques to solve real world business problems
 
 
 
@@ -4210,6 +4299,15 @@ They support databases for:
 
 
 + skill set:
+	- Investigate the feasibility of applying scientific principles and concepts to business problems.
+	- Understand the ***Goodreads/Amazon data structures (MySQL/Data Lake/Redshift)***.
+	- Acquire data by building the necessary ***SQL ETL queries***.
+	- Import processes through various company specific interfaces for RedShift and Data Lake storage systems.
+	- Analyze data for trends and input validity by inspecting univariate distributions, exploring bivariate relationships, constructing appropriate transformations, and tracking down the source and meaning of anomalies.
+	- Build models using statistical modeling, mathematical modeling, econometric modeling, network modeling, social network modeling, natural language processing, machine learning algorithms, genetic algorithms, and neural networks.
+	- Validate models against alternative approaches, expected and observed outcome, and other business defined key performance indicators.
+	- Develop metrics to quantify the benefits of a solution and influence project resources. Partner with Engineering/Data Engineering to improve the quality of existing data and bring additional data sources in line. Audit metric data and measure project progress and success. Build/automate reports/dashboards (in Tableau) that allow the business leaders to get a clear snapshot of their operations. Design and analyze A/B tests to quantify impact of customer-facing changes. Develop innovative experimental design and measurement methodologies to understand customer growth and business efficacy. Participate in discussions, team planning, office hours, and metric reviews. Design and implement scalable and reliable approaches to support or automate decision-making throughout the business. Communicate insights to the business partners, Goodreads leadership, and Amazon stakeholders, with an emphasis on clarity, completeness, and actionability.
++ skill set:
 	- Senior Data Engineer (US Remote Available)
 	- The Senior Data Engineer will be involved in building data pipelines at a large scale to enable business teams to work with data and analyze metrics that support and drive the business. You will partner with cross functional teams to identify opportunities and continuously develop and improve processes for efficiency.
 	- The team is looking for a Senior Data Engineer who can architect and build solutions across multiple data sources to deliver metrics/reporting use cases. This position is responsible to build and scale the data platform that works to provide business analytics. The role involves ownership and technical delivery, working closely with other members (BI engineer and infrastructure teams). Strong technical experience within enterprise software is essential.
@@ -4235,6 +4333,10 @@ They support databases for:
 	- Solid understanding of Google Cloud Platform, Hadoop, Python, Spark, Hive, and Kafka.
 	- Experience in all aspects of data systems(both Big data and traditional) including data schema design, ETL, aggregation strategy, and performance optimization.
 	- Capable of working closely with business and product teams to ensure data solutions are aligned with business initiatives and are of high quality.
++ skill set:
+	- You know how to work with data engineering technologies like Spark, no SQL DB or Lambda
+	- You know everything there is to know about Robotic Process Automation
+	- A minimum of 7 years experience in deep learning, machine learning or artificial intelligence applications like virtual agent, RPA, or video/image/text analytics
 + Experience in working with large data sets and distributed computing tools (Hive, Redshift) is a plus
 + skill set:
 	- Our data infrastructure team is responsible for all things data — our data warehouse, Hadoop, Redshift, Spark, Kafka, Airflow and so on.
@@ -4407,6 +4509,59 @@ They support databases for:
 	- Data & Relevancy engineers work on our massive semi-structured datasets. They have domain experience in data mining, information retrieval, or machine learning, and a strong system orientation. Key product initiatives include product feed relevance, ad targeting, information extraction, and recommendations.
 	- Infrastructure engineers scale a massive, highly-available platform end-to-end. They design distributed systems, validate performance, factor in security, and proactively monitor every corner of our stack. When things do go wrong, they are on-hand to fight the fires.
 + skill set:
+	- Experience with data processing frameworks and data warehouses such as Hadoop, Spark, Redshift
+	- Experience with designing, implementing, and optimizing ETL in Pentaho
++ skill set:
+	- Technical fluency in one language and tool such as Python, Java or Scala, AWS (S3/EMR/Athena/Glue) and SQL.
+	- Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow.
+	- Experience working with either a MapReduce system of any size/scale.
++ skill set:
+	- Minimum 3 years of designing, building and operationalizing large scale enterprise data solutions and applications using one or more of Azure / AWS / GCP data and analytics services in combination with custom solutions -  Spark, Azure Data Lake, HDInsights, SQL DW, DocumentDB, Search, Elastic Pool etc.  
+	- Minimum 3 years experience introducing and operationalizing self-service data preparation tools (e.g. Trifacta, Paxata) on AZURE.
++ skill set:
+	- Familiarity with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.
+	- Experience working in a DevOps environment, and using industry standard tools (GIT/OneStash, JIRA)
+	- Exposure to rules engines e.g. drools, ESBs e.g. MuleSoft & integration with enterprise systems
++ skill set:
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
++ skill set:
+	- Demonstrates knowledge of the data engineering domain with experience in building and supporting non-interactive (batch, distributed) or real-time, highly available data, data pipelines.
+	- Able to build fault tolerant, self-healing, adaptive computational pipelines
+	- Contribute to the decision-making process related to the selection of software solutions that make up the architecture
++ skill set:
+	- Minimum 3+ years of architecting, implementing and successfully operationalizing large scale data solutions in production environments using Hadoop and NoSQL ecosystem on premise or on Cloud (AWS, Google or Azure) using  many of the relevant technologies such as  Nifi, Spark, Kafka, HBase, Hive, Cassandra, EMR, Kinesis, BigQuery, DataProc, Azure Data Lake etc.  
+	- Minimum 2+ years of experience implementing SQL on Hadoop solutions using tools like Presto, AtScale and others
+	- Minimum 3+ years of architecting data and building performant data models at scale for Hadoop/NoSQL ecosystem of data stores to support different business consumption patterns off a centralized data platform  
+	- Minimum 3+ years of Spark/MR/ETL processing, including Java, Python, Scala, Talend; for data analysis of production Big Data applications
+	- Minimum 3++ years of architecting and industrializing data lakes or real-time platforms for an enterprise enabling business applications and usage at scale
+	- Minimum 2+ years of experience implementing large scale BI/Visualization solutions on Big Data platforms
+	- Minimum 3+ years of experience implementing large scale secure cloud data solutions using AWS data and analytics services e.g. S3, EMR, Redshift
+	- Minimum 2+ years of experience implementing large scale secure cloud data solutions using Google data and analytics services e.g. BigQuery, DataProc
+	- Minimum 2+ years of experience building data management (metadata, lineage, tracking etc.)  and governance solutions for modern data platforms that use Hadoop and NoSQL on premise or on AWS, Google and Azure cloud
+	- Minimum 2+ years of experience securing Hadoop/NoSQL based modern data platforms on-premise or on AWS, Google, Azure cloud
+	- Minimum 2+ years of Re-architecting and rationalizing traditional data warehouses with Hadoop or NoSQL technologies on premise or transition to AWS, Google clouds
+	- Experience implementing data wrangling and data blending solutions for enabling self-service solutions using tools such as Trifacta, Paxata
+	- 4 years industry systems development and implementation experience OR Minimum of 3 years of data loading, acquisition, storage, transformation, and analysis
+	- Minimum 2+ years of using Talend, Informatica like ETL tools within a Big Data environment to perform large scale metadata integrated data transformation
+	- Minimum 1+ years of building Business Catalogs or Data Marketplaces on top of a Hybrid data platform containing Big Data technologies
+	- Architect modern data solutions in a hybrid environment of traditional and modern data technologies such as Hadoop, NoSQL
+	- Create technical and operational architectures for these solutions incorporating Hadoop, NoSQL and other modern data technologies
+	- Implement and deploy custom solutions/applications using Hadoop/NoSQL
+	- Lead and guide implementation teams and provide technical subject matter expertise in support of the following:
+	- Designing, implementing and deploying ETL to load data into Hadoop/NoSQL
+	- Security implementation of a Hadoop/NoSQL solutions
+	- Managing data in Hadoop/NoSQL co-existing with traditional data technologies in a hybrid environment
+	- Troubleshooting production issues with Hadoop/NoSQL  
+	- Performance tuning of a Hadoop/NoSQL environment
+	- Architecting and implementing metadata management solutions around Hadoop and NoSQL in a hybrid environment
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -4528,8 +4683,29 @@ Skill sets for DataOps:
 + skill set:
 	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
 	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
-
-
++ skill set:
+	- Big Data platforms e.g. Cloudera, Hortonworks MapR
+	- Big Data Analytic frameworks and query tools such as: HDINsight, Spark, Storm, Hive, Impala
+	- IoT protocols, gateways, queues, messaging hubs such as IoT Hub, MQTT, XMPP, CoAP, etc.
+	- IoT development experience on at least one of the industry leading platforms (Azure IoT, AWS IoT, GE Predix, Siemens Mindsphere, PTC Thingworx, SAP Leonardo, GCP)
+	- Streaming data tools and techniques such as Apache Kafka, Azure Streaming Analytics, AWS Kinesis
++ skill set:
+	- Minimum 1 year of building and coding applications using at least two Hadoop components – MapReduce, HDFS, Hbase, Pig, Hive, Spark, Scoop, Flume, etc
+	- Minimum 1 year coding one of the following: Python, Pig programming, Hadoop Streaming, HiveQL
+	- Minimum 1 year understanding of data modelling & data pipeline design: iterative data pipeline development from raw, curated, integrated to published data, with fit for use data modelling on Hadoop and NoSQL platforms
+	- Minimum 1 year of experience implementing large scale cloud data solutions using Cloud Service Providers:  AWS data services (e.g. EMR, Redshift, GLUE) or Azure (Data Lake Store/Analytics, SQL Data Warehouse) or Google Cloud Platform Google Cloud (Big Data:  Big Query, Big Insights)
+	- Minimum 1 year of experience delivering an operational Big Data solution using one or more of the following technologies: Hadoop, HortonWorks, Cloudera, Cassandra
+	- Minimum 1 year of experience throughout the SDLC of a Hadoop implementation technologies including HortonWorks, Cloudera, Hive, Pig, MapReduce 
+	- Minimum 1 year of experience throughout the SDLC of a HortonWorks, Cloudera, Cassandra / Hbase implementation 
+	- Minimum of a Bachelor's Degree or 3 years IT/Programming experience
+	- Minimum 1 year of experience developing REST web services
+	- Industry experience (financial services, resources, healthcare, government, products, communications, high tech)  
+	- Experience leading teams
+	- Machine Learning tools, interfaces & Libraries: R, R-Studio, Spark R, sparklyr, MLlib, H2O etc.  
+	- Experience with other tools, databases and Apache projects: Google BigQuery, Presto, Drill, Kylin, OpenTSDB, Spark Streaming
+	- Enterprise data integration, BI and analytics platforms: Informatica, Talend, InfoSphere, SAS, RevoR, QlikView, Qlik Sense, Tableau, Spotfire, D3.js
+	- Processing frameworks & programming tools: Spark (Scala/Python/Java), Kafka, Flink
+	- Client facing skills: ability to build trusted relationships with client stakeholders and act as a trusted adviser
 
 
 
@@ -4661,6 +4837,7 @@ Skill set for management of information systems, MIS:
 + [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
 	- search engine for MySQL family of database management systems (DBMS).
 + AWS DynamoD
++ Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
 + skill set:
 	- BLAH.
 
