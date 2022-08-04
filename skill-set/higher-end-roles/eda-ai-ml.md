@@ -3025,30 +3025,6 @@ Skill sets for application engineers of different EDA products:
 	- Experience with Amazon Web Services and Mechanical Turk.
 	- Strong computer systems experience in topics such as filesystems, server architectures, and distributed systems.
 	- Experience in GPU programming, data visualization, or web development.
-
-
-JE02. Development and optimization of storage systems for deep learning and simulation
-Our goal is to develop the technology to deliver the training data in storage media (either HDD or SSD), to the memory of GPU or MN-Core, as well as the technology to store the data obtained by simulation into our storage media.
-
-Communication Language: English/Japanese
-Must Requirements
-・System programming in Linux (TCP/IP, Ethernet, system calls, file I/O, FUSE)
-
-Want Requirements
-・Kernel programming in Linux (VFS, kernel modules, etc.)
-
-JP05. Research and development of large-scale computing infrastructure (infrastructure technology) for machine learning
-We will work on research and development of large-scale computers (clusters) using GPUs and MN-Core. We plan to adjust the content of the work from themes such as performance improvement of calculation infrastructure, verification of elemental technologies, and better operation technology (visualization and automation).
-
-Communication Language: Japanese
-Must Requirements
-・Ability to work on research projects voluntarily and ambitiously
-
-Want Requirements
-・Basic computer science knowledge and hardware skills
-
-
-
 + skill set:
 	- BLAH.
 + skill set:
@@ -3734,6 +3710,18 @@ Skill sets for MLOps:
 	- Experience with Continuous Integration/Continuous Deployment frameworks.
 	- Preferred Experience working on a SaaS platform or with Service Oriented Architectures
 	- Preferred Experience with software security and systems that handle sensitive data
++ skill set:
+	- Development and optimization of storage systems for deep learning and simulation
+	- Our goal is to develop the technology to deliver the training data in storage media (either HDD or SSD), to the memory of GPU or MN-Core, as well as the technology to store the data obtained by simulation into our storage media.
+	- Communication Language: English/Japanese
+	- System programming in Linux (TCP/IP, Ethernet, system calls, file I/O, FUSE)
+	- Kernel programming in Linux (VFS, kernel modules, etc.)
++ skill set:
+	- Research and development of large-scale computing infrastructure (infrastructure technology) for machine learning
+	- We will work on research and development of large-scale computers (clusters) using GPUs and MN-Core. We plan to adjust the content of the work from themes such as performance improvement of calculation infrastructure, verification of elemental technologies, and better operation technology (visualization and automation).
+	- Communication Language: Japanese
+	- Ability to work on research projects voluntarily and ambitiously
+	- Basic computer science knowledge and hardware skills
 + skill set:
 	- BLAH.
 + skill set:
