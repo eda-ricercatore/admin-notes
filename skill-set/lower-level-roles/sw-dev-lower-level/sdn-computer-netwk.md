@@ -75,6 +75,18 @@
 	- Proficient knowledge of maintaining and debugging live, business critical software systems
 	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
 	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
++ Experience working with distributed computing tools like Spark or Hadoop
+
+
+
+
+
+
+
+
+
+
+
 
 
 

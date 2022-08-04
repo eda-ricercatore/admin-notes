@@ -9,6 +9,9 @@ This set of skill sets is for software development roles in cloud computing.
 ##	Generic Skill Sets for Cloud Computing -based Software Development
 
 
+
++ view DevOps as ***configuration as code***:
+	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + skill set:
 	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
 	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka

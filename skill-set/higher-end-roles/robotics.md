@@ -111,6 +111,40 @@ Generic sets of skills in robotics:
 	- Experience in machine learning/deep learning
 + Background in linear algebra, probability, 3D geometry and abstract problem solving skills
 + skill set:
+	- Experience developing, troubleshooting, tuning and managing hardware systems including:
+		* LIDARs
+		* Standard or Depth Cameras
+		* Light systems
+		* IMUs, encoders or other odometry methods
+	- Experience designing/developing one or more of the following software systems/algorithms:
+		* Mapping, Localization, and/or SLAM
+		* Robot perception, Sensor calibration and/or fusion
+		* Motion planning and/or Autonomous navigation
+		* Production level configuration, log and system management
+		* Remote monitoring and control
+		* Performance verification and monitoring
+		* Test automation of combined software and hardware components
+		* Automated release pipelines
++ skill set:
+	- Develop and maintain scalable codebase used to calibrate sensors and actuators used on a robot system including:
+		* Camera: Intrinsic, Extrinsic, White-balance calibration of both standard and fisheye cameras
+		* Time-of-Flight cameras
+		* Lidar
+		* IMU
+		* Odometry
+	- Improvement of existing calibration processes and procedures
+	- Develop calibration methods for new sensors added to robot
+	- Hands-on deployment of calibration fixtures at contract manufacturing line
+	- Hands-on calibration of robot system to validate new calibration processes
+	- Assist mechanical, electrical and other teams to design fixtures needed for calibration
+	- Work with manufacturing and field engineers to debug field issues related to calibration
+	- Work with hardware and software teams to provide well calibrated robot system
+	- Good C++, C and python coding skills
+	- 2 years of industrial experience
+	- Previous experience with extrinsic calibration of at least two of the following sensors: RGB Camera, ToF Camera, Lidar, Odometry, IMU
+	- Understanding of standard camera calibration methods
+	- System level understanding of how calibration affects robot performance
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

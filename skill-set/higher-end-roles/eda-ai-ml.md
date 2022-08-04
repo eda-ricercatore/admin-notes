@@ -104,8 +104,8 @@ Skills for EDA software development, and other high-end software development:
 + skill set:
 	- Strive for high code standards (continuously improving testability and code quality).
 	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.
-
-
++ Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
++ Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
 
 
 
@@ -4245,9 +4245,8 @@ Sets of skills for generic data science roles:
 	- Project-based analytics including but not limited to: Machine Learning, Predictive Analytics, Comparative Effectiveness Analysis, Failure Analysis, Big Data Analytics, Optimization, Demand Forecasting, Customer Segmentation, Customer Analytic Record.
 	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
 	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
-
-
-
++ **Experience and knowledge of programming languages, data analysis packages (e.g., Python, R, SAS, MatLab, Stata, GAMS, SPSS, Hadoop, BigML, Pandas). Experience and knowledge of visualization tools (e.g., Tableau, Sigma JS) is preferred.**
++ Working knowledge of data analysis packages (e.g., SAS, MatLab, Stata, GAMS) is strongly preferred.
 
 
 
@@ -4336,6 +4335,51 @@ Skill sets for business analytics:
 	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
 	- Possess a blend of marketing acumen, consulting expertise and analytical capabilities that can create value and insights for our clients.
 + You're familiar with business intelligence reporting platforms like OBIEE, Tableau, MicroStrategy, and Business Objects
++ skill set:
+	- 2+ years SQL working experience (Redshift/PostgreSQL/MySQL)
+	- Experience with BI & reporting dashboards (Periscope, Tableau, etc)
++ skill set:
+	- enterprise resource planning, ERP
+		* ***business intelligence***
+			+ customer relationship management, CRM, customer services
+			+ sales:
+				- invoicing
+				- order placement
+				- order scheduling
+				- shipping
+		* e-commerce, electronic commerce
+			+ product lifecycle management, PLM
+				- planning
+				- optimizing manufacturing capacity and material resources
+				- manufacturing resource planning, MRP
+					* material requirements planning, MRP
+			+ supplier relationship management, SRM
+				- maximize cost savings with support for the end-to-end procurement and logistic processes
+		* enterprise asset management
+			+ corporate performance and governance
+			+ human resource
+		* industrial distribution, logistics, supply chain management, SCM
+		* accounting
+			+ financial operations
+			+ regulatory compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5045,6 +5089,20 @@ Skill set for management of information systems, MIS:
 + AWS DynamoD
 + Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
 + skill set:
+	- Experience managing enterprise monitoring solution; System Center Operations Manager (SCOM), Solarwinds, and/or CA UIM preferred
+	- Experience managing server automation tool and server patching tool; System Center Configuration Manager (SCCM) preferred
+	- Experience creating or modifying scripts or automation, such as Perl, PowerShell, Python, TCL/TK, Ruby or similar for cloud orchestration required
++ skill set:
+	- PostgreSQL
+	- MongoDB
+	- Prometheus
+		* open-source monitoring system and time series database
+		* dimensional data model
+		* flexible query language
+		* efficient time series database
+		* modern alerting approach
+	- Kubernetes
++ skill set:
 	- BLAH.
 
 
@@ -5170,6 +5228,34 @@ For the ***K-12 (kindergarten to grade 12) education market***, these are the sk
 
 
 For the ***higher education market***, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- Experience using native APIs from higher ed core systems (SIS, ERP, LMS) a plus
+		* MIS, such as: ***student information systems, SIS***, student management systems, school administration software, school administration system
+		* enterprise resource planning, ERP
+			+ business intelligence
+				- customer relationship management, CRM, customer services
+				- sales:
+					* invoicing
+					* order placement
+					* order scheduling
+					* shipping
+			+ e-commerce, electronic commerce
+				- product lifecycle management, PLM
+					* planning
+					* optimizing manufacturing capacity and material resources
+					* manufacturing resource planning, MRP
+						+ material requirements planning, MRP
+				- supplier relationship management, SRM
+					* maximize cost savings with support for the end-to-end procurement and logistic processes
+			+ enterprise asset management
+				- corporate performance and governance
+				- human resource
+			+ industrial distribution, logistics, supply chain management, SCM
+			+ accounting
+				- financial operations
+				- regulatory compliance
+		* learning management systems, LMS
+	- 3+ years' experience with enterprise level data integration working with multiple systems simultaneously; Including extracting data utilizing API integration from a variety of platforms, performing data mapping, data transformation, and loading data to the target system
 + skill set:
 	- BLAH.
 + skill set:

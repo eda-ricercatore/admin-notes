@@ -1,102 +1,9 @@
 
-+ skill set:
-	- ***Projects around data ingestion, detection and the MITRE ATT&CK framework***
-	- Handle alarms and alerts, across multiple clouds and all infra (prod/corp/dev)
-	- Tune alarms; we're allergic to false positives
-	- Create the glue between systems to make your life easier
-	- Automate responses
-	- Build runbooks
-	- Perform triage and incident response
-	- Build reporting and present to leadership
-	- Technical depth, a desire to get things done, and be recognized for your achievements
-	- Experience at a SOC and you want to do more
-	- Knowledge of Linux and/or Mac
-	- Exposure to at least one cloud environment (AWS, GCP, Azure)
-	- Some prior Security experience
-	- Ability to script in a language like Python, Ruby or Perl is a plus
-+ Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
-+ Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
-+ **Experience and knowledge of programming languages, data analysis packages (e.g., Python, R, SAS, MatLab, Stata, GAMS, SPSS, Hadoop, BigML, Pandas). Experience and knowledge of visualization tools (e.g., Tableau, Sigma JS) is preferred.**
-+ Experience working with distributed computing tools like Spark or Hadoop
-+ Working knowledge of data analysis packages (e.g., SAS, MatLab, Stata, GAMS) is strongly preferred.
-+ Proficiency with prototyping and design tools (e.g., Sketch, InVision, Adobe Creative Suite, Axure).
-+ Create product backlog/requirement documents (epics, stories, scope docs, etc) to guide engineering in developing the platform features, and work closely with the engineering and QA teams to execute the product feature per specification
-+ Experience with DFIR techniques and tools (FTK, EnCase, SIFT, including Volatility) and eDiscovery
-+ Familiar with orchestration components (Chef-Puppet-Ansible-Kubernetes-VSTS)
-+ Supports the full lifecycle of a capability from Early Adopter Programs (EAP) to General Availability (GA) and across a full range of commerce events including new sales, upgrades, renewals, downgrades, and cancellations with robust monitoring and instrumentation.
-+ skill set:
-	- Achieve security architecture compliance on requirements, including: Sarbanes-Oxley, payment card industry standards, HIPAA/HITECH, global data privacy requirements, as well as state and federal regulations.
-	- Exceptional experience in designing cloud security architecture for Azure and/or AWS.
-	- Establish a strategic security architecture vision, including standards and frameworks that are aligned with overall business strategy.
-	- Provides architectural oversight and direction for enterprise-wide security technology.
-	- Review existing architecture, identify design gaps, and recommends security enhancements.
-+ skill set:
-	- Application systems, network architecture, multiple platforms and new technologies from a security perspective to include, but not limited to, Firewalls; Intrusion Detection/Protection Systems; Operating Systems (UNIX, Windows); Networking (switches, routers, protocols, etc.); Network Services and Security Vulnerabilities; Network Architecture; Remote Access; Multiâ€factor Authentication; Platform Security (Application, Database, OS); Antivirus; Federated Identity Management; Cryptography; Active Directory; and high-level programming languages.
-	- System and network exploitation, attack pathologies and intrusion techniques (such as denial of service, sync attacks, malicious code, password cracking, etc).
-+ skill set:
-	- Experience managing enterprise monitoring solution; System Center Operations Manager (SCOM), Solarwinds, and/or CA UIM preferred
-	- Experience managing server automation tool and server patching tool; System Center Configuration Manager (SCCM) preferred
-	- Experience creating or modifying scripts or automation, such as Perl, PowerShell, Python, TCL/TK, Ruby or similar for cloud orchestration required
-+ Experience working with SOAP, REST APIs and micro services
-+ The ideal candidate will have at least 5 years of experience as a UX designer including user research, prototyping and using visual communication tools (e.g. Sketch, InVision, Axure).
-+ Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
-+ skill set:
-	- 2+ years SQL working experience (Redshift/PostgreSQL/MySQL)
-	- Experience with BI & reporting dashboards (Periscope, Tableau, etc)
-+ skill set:
-	- Experience developing, troubleshooting, tuning and managing hardware systems including:
-		* LIDARs
-		* Standard or Depth Cameras
-		* Light systems
-		* IMUs, encoders or other odometry methods
-	- Experience designing/developing one or more of the following software systems/algorithms:
-		* Mapping, Localization, and/or SLAM
-		* Robot perception, Sensor calibration and/or fusion
-		* Motion planning and/or Autonomous navigation
-		* Production level configuration, log and system management
-		* Remote monitoring and control
-		* Performance verification and monitoring
-		* Test automation of combined software and hardware components
-		* Automated release pipelines
-+ Modern networking: HTTP, TCP, MQTT and can write software that tolerates network outages
-+ skill set:
-	- Develop and maintain scalable codebase used to calibrate sensors and actuators used on a robot system including:
-		* Camera: Intrinsic, Extrinsic, White-balance calibration of both standard and fisheye cameras
-		* Time-of-Flight cameras
-		* Lidar
-		* IMU
-		* Odometry
-	- Improvement of existing calibration processes and procedures
-	- Develop calibration methods for new sensors added to robot
-	- Hands-on deployment of calibration fixtures at contract manufacturing line
-	- Hands-on calibration of robot system to validate new calibration processes
-	- Assist mechanical, electrical and other teams to design fixtures needed for calibration
-	- Work with manufacturing and field engineers to debug field issues related to calibration
-	- Work with hardware and software teams to provide well calibrated robot system
-	- Good C++, C and python coding skills
-	- 2 years of industrial experience
-	- Previous experience with extrinsic calibration of at least two of the following sensors: RGB Camera, ToF Camera, Lidar, Odometry, IMU
-	- Understanding of standard camera calibration methods
-	- System level understanding of how calibration affects robot performance
-+ skill set:
-	- Work with product management to write visualizations and searches in ELK.
-	- Design queries and system to monitor data quality from our robot fleet
-	- Extend the ELK platform to support ongoing use cases through adding infrastructure
-	- Support ongoing management of the ELK cluster
-	- Build tooling and infrastructure to increase observability of services.
-	- Support cloud operations by performing triage and responding to incidents.
-	- Production experience with the ELK platform
-	- Experience managing infrastructure and services on a public cloud provider; AWS, GCP, or Azure
-	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
-	- Proficiency with Java, Python, or Go
-+ skill set:
-	- Exposure to containers or orchestration services:  Kubernetes, Mesos, or Docker Swarm
-	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
-+ skill set:
-	- Experience using native APIs from higher ed core systems (SIS, ERP, LMS) a plus
-	- 3+ years' experience with enterprise level data integration working with multiple systems simultaneously; Including extracting data utilizing API integration from a variety of platforms, performing data mapping, data transformation, and loading data to the target system
+
+
 + skill set:
 	- Talend ETL, SQL, Postgres, AWS
+		* Talend ETL: ETL tool for data integration.
 	- Design, develop, and implement advanced ETL pipelines that bring together data from disparate sources, making it available to users using a variety of ETL tools.
 	- Facilitate cross-functional data-integration efforts upstream and downstream
 	- Detect data quality issues, identify their root causes, implement fixes, and design data audits to capture issues
@@ -108,6 +15,27 @@
 	- Recommend process improvements to increase efficiency and reliability in ETL development.
 	- Collaborate with Quality Assurance resources to debug code and ensure the timely delivery of products.
 	- Some of our technologies might include: Talend as well as various data stores such as Postgres SQL, S3, Aurora and AWS services.
+		* Amazon S3, Amazon Simple Storage Service
+			+ Minio
+			+ Azure Blob Storage
+			+ OLTP/OLAP database management
+				- OLTP, online transactional processing
+				- OLAP, online analytical processing
+		* ability to configure and use database instances, their availability, and access roles.
+		* Amazon Aurora, high-performance database
+			+ relational database service
+			+ offered by Amazon Web Service, AWS
+			+ part of Amazon Relational Database Service, RDS
+				- Postgres SQL
+			+ Amazon DynamoDB, proprietary NoSQL database service.
+			+ Amazon DocumentDB, managed proprietary NoSQL database service.
+				- MongoDB
+			+ Amazon SimpleDB, distributed database
+		* data warehouse, DWH
+			+ data warehouse architecture
+				- enterprise data warehouse, EDW
+				- operational data store, ODS
+				- data mart
 	- 2+ years of experience on Data Warehousing and building data pipelines.
 + Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
 + skill set:

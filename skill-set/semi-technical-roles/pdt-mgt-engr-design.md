@@ -41,6 +41,7 @@
 	- Skilled in organization and Project Management (PMP®, PSM®, Prince 2® certifications will be considered a plus)
 	- Able to deliver effective technical presentation to any audience expressing strong communication skills
 	- Problem solver and result oriented
++ Supports the full lifecycle of a capability from Early Adopter Programs (EAP) to General Availability (GA) and across a full range of commerce events including new sales, upgrades, renewals, downgrades, and cancellations with robust monitoring and instrumentation.
 + skill set:
 	- BLAH.
 + skill set:
@@ -125,6 +126,28 @@
 		* ISO
 		* GDPR
 		* HIPAA
++ Create product backlog/requirement documents (epics, stories, scope docs, etc) to guide engineering in developing the platform features, and work closely with the engineering and QA teams to execute the product feature per specification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

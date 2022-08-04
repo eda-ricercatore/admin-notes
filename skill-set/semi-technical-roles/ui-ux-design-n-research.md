@@ -60,6 +60,9 @@
 	- Interest in information security is a huge plus.
 	- Requires a minimum of 15 years of related experience with a technical Bachelor’s degree; or equivalent practical experience or 12 years and a technical Master’s degree; or a Ph.D. with 8 years experience; or equivalent practical experience.
 + Experience with using other product web end-points/APIs
++ Proficiency with prototyping and design tools (e.g., Sketch, InVision, Adobe Creative Suite, Axure).
++ The ideal candidate will have at least 5 years of experience as a UX designer including user research, prototyping and using visual communication tools (e.g. Sketch, InVision, Axure).
++ Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
 + skill set:
 	- BLAH.
 + skill set:

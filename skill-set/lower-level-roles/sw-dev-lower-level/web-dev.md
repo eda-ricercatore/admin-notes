@@ -12,7 +12,7 @@
 		* C (programming language)
 		* httpd (web server)
 		* SQLite (database)
-	- ELK:
+	- ELK, Elastic Stack, ELK Stack:
 		* Elasticsearch (search engine)
 		* Logstash (event and log management tool)
 		* Kibana (data visualization)
@@ -528,6 +528,9 @@
 	- Experience with Java Spring Framework
 	- Good understanding of virtualization, Linux Container, Docker
 	- Working knowledge of Big Data frameworks such as Hadoop, Storm, Spark, Flume, Kafka
++ Modern networking: HTTP, TCP, MQTT and can write software that tolerates network outages
+	- MQTT, MQ Telemetry Transport, Message Queue Telemetry Transport: lightweight, publish-subscribe messaging pattern, machine to machine network protocol
+		* open OASIS standard, Organization for the Advancement of Structured Information Standards
 + skill set:
 	- BLAH.
 + skill set:
@@ -1002,6 +1005,41 @@
 + skill set:
 	- Project management skills - JIRA, roadmapping, etc.
 	- Experience with any of Ruby, Java, or modern web frameworks like React
++ Experience working with SOAP, REST APIs and micro services
+	- SOAP, Simple Object Access Protocol
+		* messaging protocol specification for exchanging structured informationation in the implementation of Web services in computer networks
+		* uses XML Information Set for its message format
+		* relies on application layer protocols
+			+ HTTP
+			+ SMTP
+	- REST APIs:
+		* representational state transfer, REST
+		* software architectural style that describe a uniform interface between decoupled components in the Internet in a client-server architecture
+		* defines the following four interface constraints:
+			+ identification of resources
+			+ manipulation of resources
+			+ self-descriptive messages
+			+ hypermedia as the engine of application state
+		* for defining stateless, reliable Web APIs
+			+ APIs for Web servers or Web browsers
+		+ RESTful Web APIs:
+			+ RESTful Web API obeys REST constraints
+	- microservices:
+		* variant of service-oriented architecture (SOA) structural style
+		* Web-based, fine-grained, loosely-coupled discrete services for computer networks, using lightweight protocols
++ skill set:
+	- Work with product management to write visualizations and searches in ELK.
+	- Design queries and system to monitor data quality from our robot fleet
+	- Extend the ***ELK platform*** to support ongoing use cases through adding infrastructure
+		* ***Elastic Stack, ELK Stack***
+			+ ***tech stack of: Elasticsearch, Logstash, and Kibana***
+	- Support ongoing management of the ELK cluster
+	- Build tooling and infrastructure to increase observability of services.
+	- Support cloud operations by performing triage and responding to incidents.
+	- Production experience with the ELK platform
+	- Experience managing ***infrastructure and services on a public cloud provider***; AWS, GCP, or Azure
+	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef
+	- Proficiency with Java, Python, or Go
 + skill set:
 	- BLAH.
 + skill set:

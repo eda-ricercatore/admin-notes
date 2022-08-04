@@ -481,6 +481,12 @@ Skill set for DevOps:
 	- Has experience with various application packaging and deployment technologies (Debian packages, Docker/Linux containers)
 	- Experience configuring web servers (e.g. Apache/Tomcat, nginix)
 + Infrastructure as code experience (we use terraform)
++ Familiar with orchestration components (Chef-Puppet-Ansible-Kubernetes-VSTS)
++ view DevOps as ***configuration as code***:
+	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
++ skill set:
+	- Exposure to containers or orchestration services:  Kubernetes, Mesos, or Docker Swarm
+	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
 + skill set:
 	- BLAH.
 + skill set:

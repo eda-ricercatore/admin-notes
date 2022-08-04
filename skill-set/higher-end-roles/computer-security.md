@@ -100,6 +100,31 @@
 	- Experience with Windows binaries
 	- Experience with penetration testing (e.g., using MetaSploit) or vulnerability demonstration
 + skill set:
+	- ***Projects around data ingestion, detection and the MITRE ATT&CK framework***
+	- Handle alarms and alerts, across multiple clouds and all infra (prod/corp/dev)
+	- Tune alarms; we're allergic to false positives
+	- Create the glue between systems to make your life easier
+	- Automate responses
+	- Build runbooks
+	- Perform triage and incident response
+	- Build reporting and present to leadership
+	- Technical depth, a desire to get things done, and be recognized for your achievements
+	- Experience at a SOC and you want to do more
+	- Knowledge of Linux and/or Mac
+	- Exposure to at least one cloud environment (AWS, GCP, Azure)
+	- Some prior Security experience
+	- Ability to script in a language like Python, Ruby or Perl is a plus
++ Experience with DFIR techniques and tools (FTK, EnCase, SIFT, including Volatility) and eDiscovery
+	- DFIR: digital forensics and incident response
+	- FTK: Forensic Toolkit, for computer forensics
+	- EnCase, for computer forensics, cybersecurity, security analytics, e-discovery use.
+	- SIFT distribution, SIFT workstation - digital forensics and incident response distribution
+	- Volatility, open-source memory forensics framework for incident response and malware analysis
+	- eDiscovery, electronic discovery, e-discovery
++ skill set:
+	- Application systems, network architecture, multiple platforms and new technologies from a security perspective to include, but not limited to, Firewalls; Intrusion Detection/Protection Systems; Operating Systems (UNIX, Windows); Networking (switches, routers, protocols, etc.); Network Services and Security Vulnerabilities; Network Architecture; Remote Access; Multifactor Authentication; Platform Security (Application, Database, OS); Antivirus; Federated Identity Management; Cryptography; Active Directory; and high-level programming languages.
+	- System and network exploitation, attack pathologies and intrusion techniques (such as denial of service, sync attacks, malicious code, password cracking, etc).
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -252,6 +277,12 @@
 	- Working experience with design and engineering teams to plan, develop, and release software.
 	- An understanding of test-driven development (TDD).
 	- Experience with an agile software development model.
++ skill set:
+	- Achieve security architecture compliance on requirements, including: Sarbanes-Oxley, payment card industry standards, HIPAA/HITECH, global data privacy requirements, as well as state and federal regulations.
+	- Exceptional experience in designing cloud security architecture for Azure and/or AWS.
+	- Establish a strategic security architecture vision, including standards and frameworks that are aligned with overall business strategy.
+	- Provides architectural oversight and direction for enterprise-wide security technology.
+	- Review existing architecture, identify design gaps, and recommends security enhancements.
 + skill set:
 	- BLAH.
 + skill set:
