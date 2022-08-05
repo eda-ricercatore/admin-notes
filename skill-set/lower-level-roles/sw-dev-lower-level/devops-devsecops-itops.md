@@ -106,7 +106,7 @@ Skill set for DevOps:
 	- working knowledge of CI/CD, and cloud deployment and testing
 	- experience with testing gRPC microservices
 + skill set:
-	- scalable configs as code
+	- scalable ***configs as code***
 	- developer-facing tooling
 	- drive, implement, support, and maintain infrastructure services with:
 		* Kubernetes
@@ -190,7 +190,7 @@ Skill set for DevOps:
 	- Partner with service owners to implement service level metrics & service level objectives that act as service-level health indicators.
 	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
 	- Coding experience in one or more of Python, Go or Java.
-	- Infrastructure as code experience with in one or more of Terraform, Ansible, Puppet or Salt.
+	- ***Infrastructure as code*** experience with in one or more of Terraform, Ansible, Puppet or Salt.
 	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
 	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
 	- Strong working knowledge of orchestration engines and package management including Kubernetes, Helm, and Istio
@@ -480,13 +480,13 @@ Skill set for DevOps:
 	- Experience with configuration management (Chef, Puppet, Ansible) tools
 	- Has experience with various application packaging and deployment technologies (Debian packages, Docker/Linux containers)
 	- Experience configuring web servers (e.g. Apache/Tomcat, nginix)
-+ Infrastructure as code experience (we use terraform)
++ ***Infrastructure as code*** experience (we use terraform)
 + Familiar with orchestration components (Chef-Puppet-Ansible-Kubernetes-VSTS)
 + view DevOps as ***configuration as code***:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + skill set:
 	- Exposure to containers or orchestration services:  Kubernetes, Mesos, or Docker Swarm
-	- Experience with configuration as code; Puppet, SaltStack, Ansible, or Chef
+	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef
 + skill set:
 	- BLAH.
 + skill set:
@@ -583,7 +583,7 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Partner with service owners to implement service level metrics & service level objectives that act as service-level health indicators.
 	- Establish design patterns for monitoring, benchmarking and deploying new features for the backend services.
 	- Coding experience in one or more of Python, Go or Java.
-	- Infrastructure as code experience with in one or more of ***Terraform, Ansible, Puppet or Salt***.
+	- ***Infrastructure as code*** experience with in one or more of ***Terraform, Ansible, Puppet or Salt***.
 	- Strong experience with modern application development workflows and version control systems like GitHub, Gitlab or Bitbucket
 	- Strong working knowledge of Docker containers and cloud platforms (AWS, GCP and/or Azure)
 	- Strong working knowledge of orchestration engines and package management including ***Kubernetes, Helm, and Istio***
