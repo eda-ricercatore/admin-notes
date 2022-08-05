@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 + ***software stacks***, or ***solution stacks***, from [WikipediaContributors2022b]:
 	- BCHS:
 		* OpenBSD (operating system)
@@ -521,6 +516,18 @@
 	- Highly preferred Web UI or dashboarding experience (ie CSS, HTML, Tableau, Qlik, etc.
 	- Knowledge and hands on experience on implementation of Chatbot using Microsoft Bot Framework, API.AI or Watson
 	- Experience working in a DevOps environment, and using industry standard tools (GIT/OneStash, JIRA)
++ skill set:
+	- Experience testing web services with tools such as SoapUI.
+	- Excellent knowledge of web technologies such as React, NodeJS, AngularJS, D3JS, JavaScript, GWT, EXTGWT, CSS3, HTML5
+	- Excellent knowledge of at least one server-side programming language
+	- Excellent knowledge of web services development (SOAP, REST, Web Socket, RPC)
+	- Proficiency with major development tools and processes such as revision control, requirement specs, unit & system tests, etc.
+	- Proven ability to deliver on time working in a fast-paced agile environment
+	- Ability to work with team to clarify and prune requirements, strong verbal and written communication skills
+	- OO design and Java/Scala development experience.
+	- Experience with Java Spring Framework
+	- Good understanding of virtualization, Linux Container, Docker
+	- Working knowledge of Big Data frameworks such as Hadoop, Storm, Spark, Flume, Kafka
 + skill set:
 	- BLAH.
 + skill set:

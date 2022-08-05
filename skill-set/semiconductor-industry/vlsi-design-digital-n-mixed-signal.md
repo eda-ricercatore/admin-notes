@@ -28,7 +28,18 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 + skill set:
 	- hyperscale cloud and edge computing
 + skill set:
-	- BLAH.
+	- Be part of a team that owns equipment performance necessary to meet current and future manufacturing requirements.
+	- RTL design from taking product specification to defining micro-architecture, block specification, and developing IP.
+	- Hands-on work and drive various phases of RTL2GDS flow including with synthesis, logic equivalency, and timing constraint development
+	- Interact with Place and Route, Static Timing Analysis to drive best implementation for floor planning, clock tree design, timing closure, and low power
+	- Work with verification for coverage improvement and design debug
+	- Knowledge of memory interface protocols, such as SPI and DDR
+	- Bachelor’s or higher degree in Electrical or Computer Engineering or Computer Science required
+	- Minimum 5 years’ experience in digital design or MS/PhD degree with relevant course work preferred.
+	- Proficient in scripting languages, e.g. Tcl and Python
+	- Strong communication skill and a team player
+	- Unquestionable ethics – treats people with respect; keeps commitments; inspires the trust of others; works with integrity
+	- Commitment to our core values of Leadership, Innovation, Communication, Persistence, Enthusiasm, and Respect
 + skill set:
 	- BLAH.
 + skill set:

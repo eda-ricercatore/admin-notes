@@ -191,6 +191,46 @@ This set of skill sets is for software development roles in cloud computing.
 	- Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
 	- Query optimization, database administration, analytics databases, and/or NoSQL
 + skill set:
+	- Experience designing and operating very large Data Warehouses
+	- Deep understanding and knowledge of AWS stack - Redshift, EMR, S3
+		* AWE stack: cloud-computing platform.
+		* Amazon Redshift:
+			+ data warehouse
+			+ massive parallel processing (MPP) data warehouse company
+			+ large scale data set and database migrations
+			+ cloud data warehouse
+		* EMR:
+			+ Amazon EMR, Amazon Elastic MapReduce
+		* S3:
+			+ Amazon S3, Amazon Simple Storage Service
+				- store any type of object
+				- storage for:
+					* Internet applications
+					* backups
+					* disaster recovery
+					* data archives
+					* data lakes for analytics
+					* hybridy cloud storage
+	- Ability to work with search technologies such as Elasticsearch
+	- Knowledge of graph databases such as AWS Neptune
++ skill set:
+	- Design and implement practical networks and systems with both edge and cloud considerations
+	- By connecting IoT devices and the cloud, we will build a practical system with an awareness of cost and scalability. Addresses issues that require rapid network and system design and implementation that take into account stability and ease of maintenance.
+	- Communication Language: Japanese
+	- Coding ability using Python
+	- Basic knowledge about the Web and network
+	- Knowledge or experience of AWS or GCP
++ skill set:
+	- Improving the container execution environment in Kubernetes
+	- In order to improve the container execution environment of the Kubernetes clusters (MN-2, MN-3) currently in operation at PFN, we will investigate and evaluate necessary peripheral technologies, propose system designs, and develop them. You'll work on one of these topics: faster container startup times, exploring how to safely use Filesystem in Userspace (FUSE) over Kubernetes, or replacing the container networking stack.
+	- Communication Language: Japanese
+	- Basic knowledge and experience of using container technology (Docker, etc.)
+	- Basic knowledge of Kubernetes
+	- Go programming experience
+	- Knowledge of container runtime implementations and related specifications
+	- Basic knowledge of computer networks (TCP/IP, Ethernet, etc.)
+	- Knowledge and experience in container networking related technologies (CNI Plugin, BGP, eBPF, etc.)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -522,12 +562,15 @@ Notes about Software as a Service, SaaS:
 ##	Software Development for Mobile "backend" as a Service (MBaaS), or Backend as a Service (BaaS)
 
 
-###	Software Development for Mobile "backend" as a Service (MBaaS), or Backend as a Service (BaaS)
+###	Notes about Mobile "backend" as a Service, MBaaS, or Backend as a Service, BaaS
+
+
+Mobile backend as a service (MBaaS), also known as "backend as a service",[1][2][3] is a model for providing web app and mobile app developers with a way to link their applications to backend cloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.[4] These services are provided via the use of custom software development kits (SDKs) and application programming interfaces (APIs). 
+
 
 
 
 ###	Skill Sets for Mobile "backend" as a Service, MBaaS, or Backend as a Service, BaaS
-
 
 
 
