@@ -532,7 +532,13 @@
 	- MQTT, MQ Telemetry Transport, Message Queue Telemetry Transport: lightweight, publish-subscribe messaging pattern, machine to machine network protocol
 		* open OASIS standard, Organization for the Advancement of Structured Information Standards
 + skill set:
-	- BLAH.
+	- JavaScript programming skills to power front-end React application
+	- Python to power the back-end
+	- SQL
+	- Postgres
+	- design software, such as Figma
+	- Flask, micro Web framework
+	- Firebase platform for creating mobile and Web applications
 + skill set:
 	- BLAH.
 + skill set:
@@ -1041,7 +1047,12 @@
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef
 	- Proficiency with Java, Python, or Go
 + skill set:
-	- BLAH.
+	- JavaScript to power our front-end React app.
+	- HTML/CSS.
+	- design software, such as: Figma.
+	- front-end software testing frameworks
+	- Firebase platform for creating mobile and Web applications
+	- MaterialUI, MUI, React component library
 + skill set:
 	- BLAH.
 + skill set:

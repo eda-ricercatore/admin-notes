@@ -63,6 +63,7 @@
 + Proficiency with prototyping and design tools (e.g., Sketch, InVision, Adobe Creative Suite, Axure).
 + The ideal candidate will have at least 5 years of experience as a UX designer including user research, prototyping and using visual communication tools (e.g. Sketch, InVision, Axure).
 + Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
++ You can Figma in your sleep.
 + skill set:
 	- BLAH.
 + skill set:

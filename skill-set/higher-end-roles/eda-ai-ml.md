@@ -4247,6 +4247,21 @@ Sets of skills for generic data science roles:
 	- Experience in the following areas: Applied Statistics/Econometrics, Statistical Programming, Database Management & Operations, Digital, Comparative Effectiveness Research.
 + **Experience and knowledge of programming languages, data analysis packages (e.g., Python, R, SAS, MatLab, Stata, GAMS, SPSS, Hadoop, BigML, Pandas). Experience and knowledge of visualization tools (e.g., Tableau, Sigma JS) is preferred.**
 + Working knowledge of data analysis packages (e.g., SAS, MatLab, Stata, GAMS) is strongly preferred.
++ skill set:
+	- analytical mindset and strong experience with data-driven product decisions using analytics tools, such as:
+		- Amplitude
+		- Retool
+	- AI-driven insights and recommendation engines to help creators build better businesses
+	- category defining analytics platform to help creators better understand their audience
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5023,6 +5038,8 @@ Enterprise applications of MIS:
 
 
 Skill set for management of information systems, MIS:
++ database systems+ :
+	- PostgreSQL database management system
 + Interact with MySQL data stores and NSQ messaging queues.
 + Senior Data Integration Solution Architect
 	- Join us as we pursue our disruptive new vision to make machine data accessible, usable, and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most importantly, to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!

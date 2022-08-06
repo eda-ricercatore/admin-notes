@@ -1,43 +1,8 @@
 
 
 
-+ skill set:
-	- Talend ETL, SQL, Postgres, AWS
-		* Talend ETL: ETL tool for data integration.
-	- Design, develop, and implement advanced ETL pipelines that bring together data from disparate sources, making it available to users using a variety of ETL tools.
-	- Facilitate cross-functional data-integration efforts upstream and downstream
-	- Detect data quality issues, identify their root causes, implement fixes, and design data audits to capture issues
-	- Extract data from multiple sources, and integrate them into a target database, application, or file using efficient programming processes.
-	- Implement and deploy solutions in a CI/CD pipeline
-	- Write and refine code to ensure performance and reliability of data extraction and processing.
-	- Communicate with all levels of stakeholders as appropriate, including product managers, application developers, business users.
-	- Participate in requirements gathering sessions with product managers and technical staff to distill technical requirements from business requests.
-	- Recommend process improvements to increase efficiency and reliability in ETL development.
-	- Collaborate with Quality Assurance resources to debug code and ensure the timely delivery of products.
-	- Some of our technologies might include: Talend as well as various data stores such as Postgres SQL, S3, Aurora and AWS services.
-		* Amazon S3, Amazon Simple Storage Service
-			+ Minio
-			+ Azure Blob Storage
-			+ OLTP/OLAP database management
-				- OLTP, online transactional processing
-				- OLAP, online analytical processing
-		* ability to configure and use database instances, their availability, and access roles.
-		* Amazon Aurora, high-performance database
-			+ relational database service
-			+ offered by Amazon Web Service, AWS
-			+ part of Amazon Relational Database Service, RDS
-				- Postgres SQL
-			+ Amazon DynamoDB, proprietary NoSQL database service.
-			+ Amazon DocumentDB, managed proprietary NoSQL database service.
-				- MongoDB
-			+ Amazon SimpleDB, distributed database
-		* data warehouse, DWH
-			+ data warehouse architecture
-				- enterprise data warehouse, EDW
-				- operational data store, ODS
-				- data mart
-	- 2+ years of experience on Data Warehousing and building data pipelines.
-+ Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
+
+
 + skill set:
 	- Knowledge of Big Data, SAP ERP, Docker, Kubernetes, CXF or another ETL product is a plus;
 	- AWS, Azure, Google cloud, Apache Beam, NoSQL
