@@ -5,6 +5,8 @@
 
 
 
+###	Notes About DevOps
+
 
 A DevOps toolchain is a set or combination of tools that aid in the delivery, development, and management of software applications throughout the systems development life cycle, as coordinated by an organisation that uses DevOps practices.
 
@@ -60,10 +62,17 @@ DevOps is at the intersection of:
 
 
 
-
+###	Skill Set for DevOps
 
 
 Skill set for DevOps:
++ skill set:
+	- YAML, or JSON, for customizing configuration files.
+		* JSON files are valid YAML files.
+			+ JSON is a subset of YAML.
+		* YAML = Yet Another Markup Language, YAML Ain't Markup Language
+		* YAML CRD
+			+ For Kubernetes, CRD = custom resource definition.
 + skill set:
 	- Experience with Kubernetes and Docker.
 	- Experience with Elasticsearch, Redis and/or Memcached.
@@ -527,8 +536,6 @@ Skill set for DevOps:
 	- Hadoop: for distributed computing
 	- K8s, Kubernetes: container orchestration system for automating software deployment, scaling, and management 
 	- Terraform: software tool for ***infrastructure as code***
-+ skill set:
-	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
