@@ -3,9 +3,15 @@
 + skill set:
 	- Experience with Apache Big Data technologies such as Hadoop, Spark, Hive, Flink, Kafka, Beam etc
 		* Apache Hadoop: for distributed computing
-		* Apache Spark: 
+		* Apache Spark:
+			+ open-source unified analytics engine for large-scale data processing
+			+ large-scale data analytics
 		* Apache Hive: 
-		* Apache Flink: 
+		* Apache Flink:
+			+ open-source unified stream-processing and batch-processing framework
+			+ distributed streaming data-flow engine
+			+ for dataflow programs, executed in a data-parallel and pipelined manner (or task parallel manner)
+			+ pipelined runtime system that enables the execution of bulk/batch and stream processing programs
 		* Apache Kafka: 
 		* Apache Beam: for defining and executing (via distributed processing back-ends) data processing pipelines for:
 			+ ETL
