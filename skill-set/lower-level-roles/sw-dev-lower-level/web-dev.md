@@ -540,6 +540,24 @@
 	- Flask, micro Web framework
 	- Firebase platform for creating mobile and Web applications
 + skill set:
+	- Using different protocols as needed for different data services (NoSQL/JSON/REST/JMS/JMX) and providing related tests (Test-driven development/Unit Testing and automation)
+		* JMS, Java Message Service, JMS API, now rebranded as *Jakarta Messaging API*
+			+ Java API for message-oriented middleware, supports generic messaging models for the producer-consumer problem (or equivalently, the bounded-buffer problem)
+		* JMX, Java Management Extensions
+			+ JMX API is developed through the Java Community Process, JCP, for managing and monitoring (software) applications and services, system objects, devices (such as printers), and service-oriented networks
+	- Designing, implementing, testing, and deploying a data processing infrastructure that is fault tolerant and scalable to support multiple Talend Products
+	- Building ***High-Availability (HA) architectures and deployments***
+	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
+	- An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS or Azure)
+	- Experience with OAuth and other IAM related technologies would be a plus
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
+	- Document structure, process and design of all implemented solutions
+	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
+	- Experience with development using Scala/Akka
+		* Akka: toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala.
+	- An understanding of distributed and cloud computing, including. deployment related experience (ideally including Docker, AWS)
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s/Kubernetes, Terraform, AWS, GCP to name a few)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

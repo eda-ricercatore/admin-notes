@@ -537,6 +537,26 @@ Skill set for DevOps:
 	- K8s, Kubernetes: container orchestration system for automating software deployment, scaling, and management 
 	- Terraform: software tool for ***infrastructure as code***
 + skill set:
+	- Knowledge of Big Data, SAP ERP, Docker, Kubernetes, CXF or another ETL product is a plus;
+		* Apache CXF: open-source Web services framework, for developing Web services using front-end Web development APIs, such as JAX-WS and JAX-RS, in the context of service-oriented architecture (SOA).
+	- AWS, Azure, Google cloud, Apache Beam, NoSQL
+		* Apache Beam: open-source unified programming model, and set of software development kits (SDKs), to define and execute data processing pipelines, including ETL, batch and stream (continuous) processing. The data pipelines (Beam Pipelines) are executed in one of the supported distributed processing back-ends (Beam supported runners).
+	- Experience of working with JDBC, XML, Junits, Maven, Avro and JSON;
+		* JDBC, Java Database Connectivity: API for how client applications can connect to a database.
+		* Apache Maven
+			+ build automation tools, primarily for Java, and for:
+				- Ruby
+				- Scala
+				- C\#
+		* Apache Avro:
+			+ data serialization system
+			+ row-oriented remote procedure call (RPC), for distributed computing, and data serialization framework
+	- Good understanding of Web Services (SOAP/REST), knowledge of CXF is a plus.
++ skill set:
+	- Experienced in data sanitization, data import and export (ETL).
+	- Familiar with SQL Server products, i.e. SQL Integration Services and Reporting Services.
+	- Work with the application team to create and maintain effective database-coupled application logic stored procedures, triggers and user-defined functions (UDFs); these are programs that are under the control of the DBMS (SQL, MySQL, Postgres, MongoDB)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

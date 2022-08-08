@@ -1,32 +1,16 @@
 
 
-
-
-
-+ skill set:
-	- Knowledge of Big Data, SAP ERP, Docker, Kubernetes, CXF or another ETL product is a plus;
-	- AWS, Azure, Google cloud, Apache Beam, NoSQL
-	- Experience of working with JDBC, XML, Junits, Maven, Avro and JSON;
-	- Good understanding of Web Services (SOAP/REST), knowledge of CXF is a plus.
-+ skill set:
-	- Experienced in data sanitization, data import and export (ETL).
-	- Familiar with SQL Server products, i.e. SQL Integration Services and Reporting Services.
-	- Work with the application team to create and maintain effective database-coupled application logic stored procedures, triggers and user-defined functions (UDFs); these are programs that are under the control of the DBMS (SQL, MySQL, Postgres, MongoDB)
-+ skill set:
-	- Using different protocols as needed for different data services (NoSQL/JSON/REST/JMS/JMX) and providing related tests (Test-driven development/Unit Testing and automation)
-	- Designing, implementing, testing, and deploying a data processing infrastructure that is fault tolerant and scalable to support multiple Talend Products
-	- Building High-Availability (HA) architectures and deployments
-	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
-	- An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS or Azure)
-	- Experience with OAuth and other IAM related technologies would be a plus
-	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
-	- Document structure, process and design of all implemented solutions
-	- Between 3 and 5 years in professional Java programming with RESTful, Message-/Event-Driven technologies, Multi-threaded applications
-	- Experience with development using Scala/Akka
-	- An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS)
-	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
 + skill set:
 	- Experience with Apache Big Data technologies such as Hadoop, Spark, Hive, Flink, Kafka, Beam etc
+		* Apache Hadoop: for distributed computing
+		* Apache Spark: 
+		* Apache Hive: 
+		* Apache Flink: 
+		* Apache Kafka: 
+		* Apache Beam: for defining and executing (via distributed processing back-ends) data processing pipelines for:
+			+ ETL
+			+ batch processing
+			+ stream processing = continuous processing
 	- Experience with messaging systems such as ActiveMQ
 	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
 + skill set:
