@@ -12,7 +12,10 @@
 			+ distributed streaming data-flow engine
 			+ for dataflow programs, executed in a data-parallel and pipelined manner (or task parallel manner)
 			+ pipelined runtime system that enables the execution of bulk/batch and stream processing programs
-		* Apache Kafka: 
+		* Apache Kafka:
+			+ distributed event store and stream-processing platform
+			+ provide a unified, high-throughput, low-latency platform for handling real-time data feeds
+			+ provides the Kafka Streams libraries for stream processing applications
 		* Apache Beam: for defining and executing (via distributed processing back-ends) data processing pipelines for:
 			+ ETL
 			+ batch processing

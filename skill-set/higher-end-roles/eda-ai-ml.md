@@ -2680,7 +2680,7 @@ Skill sets for application engineers of different EDA products:
 
 
 
-
+###	Notes about Machine Learning, ML
 
 + ML/AI compiler design
 	- Poplar framework for IPU architecture compiler.
@@ -2693,10 +2693,29 @@ Skill sets for application engineers of different EDA products:
 		* JAX = Autograd + XLA
 		* for high-performance machine learning research
 		* https://github.com/google/jax
++ ML/AI conferences
+	- AAAI, IJCAI, NeurIPS, ACL, SIGIR, WWW, RSS, NAACL, KDD, IROS, ICRA, ICML, ICCV, EMNLP, EC, CVPR, AAMAS, HCOMP, HRI, ICAPS, ICDM, ICLR, ICWSM, IUI, KR, SAT, WSDM, UAI, AISTATS, COLT, CORL, CP, CPAIOR, ECAI, OR ECML
+
+
+
+
 
 
 
 ###	Machine Learning Scientist & Deep Learning Scientist Roles
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
