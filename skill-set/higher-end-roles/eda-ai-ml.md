@@ -3670,7 +3670,7 @@ Need to address:
 
 
 
-Skill sets for MLOps:
+***Skill sets for MLOps***:
 + skill set:
 	- develop distributed traning infrastructure for faster training of ML models
 	- efficiently deploy ML models into production
@@ -3875,7 +3875,7 @@ The ModelOps process starts with a standard representation of candidate models f
 
 
 
-
+Skill set for ModelOps:
 + Spring Boot, Spring Data Rest, and Microservice Development experience
 + skill set:
 	- BLAH.
@@ -3923,7 +3923,7 @@ AIOps, a similarly named, but different concept - using AI (ML) in IT and Operat
 
 
 
-
+Skill set for AIOps:
 + skill set:
 	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
 	- Recommendation Systems, Personalization, Search, or Computational Advertising
@@ -4581,7 +4581,7 @@ They support databases for:
 
 
 
-
+***Skill sets for data engineering***:
 + skill set:
 	- Investigate the feasibility of applying scientific principles and concepts to business problems.
 	- Understand the ***Goodreads/Amazon data structures (MySQL/Data Lake/Redshift)***.
@@ -4845,6 +4845,38 @@ They support databases for:
 	- Troubleshooting production issues with Hadoop/NoSQL  
 	- Performance tuning of a Hadoop/NoSQL environment
 	- Architecting and implementing metadata management solutions around Hadoop and NoSQL in a hybrid environment
++ skill set:
+	- Experience with Apache Big Data technologies such as Hadoop, Spark, Hive, Flink, Kafka, Beam etc
+		* Apache Hadoop: for distributed computing
+		* Apache Spark:
+			+ open-source unified analytics engine for large-scale data processing
+			+ large-scale data analytics
+		* Apache Hive:
+			+ [data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage](https://hive.apache.org/)
+				- [The Apache Hive™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage and queried using SQL syntax.](https://cwiki.apache.org/confluence/display/HIVE)
+			+ [Apache Hive is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale.](https://aws.amazon.com/big-data/what-is-hive/)
+			+ data warehouse software project built on top of Apache Hadoop for providing data query and analysis
+		* Apache Flink:
+			+ open-source unified stream-processing and batch-processing framework
+			+ distributed streaming data-flow engine
+			+ for dataflow programs, executed in a data-parallel and pipelined manner (or task parallel manner)
+			+ pipelined runtime system that enables the execution of bulk/batch and stream processing programs
+		* Apache Kafka:
+			+ distributed event store and stream-processing platform
+			+ provide a unified, high-throughput, low-latency platform for handling real-time data feeds
+			+ provides the Kafka Streams libraries for stream processing applications
+			+ [open-source distributed event streaming platform used by thousands of companies for](https://kafka.apache.org/):
+				- high-performance data pipelines
+				- streaming analytics
+				- data integration
+				- mission-critical applications
+				- ["event streaming is the practice of capturing data in real-time from event sources like databases, sensors, mobile devices, cloud services, and software applications in the form of streams of events; storing these event streams durably for later retrieval; manipulating, processing, and reacting to the event streams in real-time as well as retrospectively; and routing the event streams to different destination technologies as needed. Event streaming thus ensures a continuous flow and interpretation of data so that the right information is at the right place, at the right time."](https://kafka.apache.org/intro)
+		* Apache Beam: for defining and executing (via distributed processing back-ends) data processing pipelines for:
+			+ ETL
+			+ batch processing
+			+ stream processing = continuous processing
+	- Experience with messaging systems such as ActiveMQ
+	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
 + skill set:
 	- BLAH.
 + skill set:

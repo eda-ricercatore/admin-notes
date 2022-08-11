@@ -1,27 +1,6 @@
 
 
-+ skill set:
-	- Experience with Apache Big Data technologies such as Hadoop, Spark, Hive, Flink, Kafka, Beam etc
-		* Apache Hadoop: for distributed computing
-		* Apache Spark:
-			+ open-source unified analytics engine for large-scale data processing
-			+ large-scale data analytics
-		* Apache Hive: 
-		* Apache Flink:
-			+ open-source unified stream-processing and batch-processing framework
-			+ distributed streaming data-flow engine
-			+ for dataflow programs, executed in a data-parallel and pipelined manner (or task parallel manner)
-			+ pipelined runtime system that enables the execution of bulk/batch and stream processing programs
-		* Apache Kafka:
-			+ distributed event store and stream-processing platform
-			+ provide a unified, high-throughput, low-latency platform for handling real-time data feeds
-			+ provides the Kafka Streams libraries for stream processing applications
-		* Apache Beam: for defining and executing (via distributed processing back-ends) data processing pipelines for:
-			+ ETL
-			+ batch processing
-			+ stream processing = continuous processing
-	- Experience with messaging systems such as ActiveMQ
-	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
+
 + skill set:
 	- TMC runs as load-balanced application server instances on Amazon Web Services (AWS). After building a data pipeline in Talend Studio, the job is executed on one or several so-called “Cloud Engines” or “Remote Engines”.
 	- Cloud Engines are Java-based runtimes deployed via an Amazon Machine Image (AMI) based on CentOS.
