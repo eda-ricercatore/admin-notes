@@ -1271,7 +1271,25 @@
 + Knowledge of TypeScript, React, Jest, Cypress is a plus
 + Love Github, Slack, Asana, AWS, Meteor, Node
 + skill set:
-	- BLAH.
+	- At StackPath our frontend engineers assist our cross-functional teams deliver valuable features to customers through a suite of web applications. The frontend developers maintain a “Monorepo” consisting of several UI packages and a GraphQL server that communicates with our backend team’s collection of Go microservices over GRPC. Our team emphasizes learning and fast feedback, pair programming, constructive code reviews, and staying up to date with the frontend development community at large. 
+	- The Team Lead of our frontend engineers are ultimately responsible for ensuring that the engineers are adhering to StackPath’s software quality standards while organizing the workload of their team members and coordinating project deliverables.
+	- This role will report to the Engineering Manager.
+	- Works closely with Product teams to understand business requirements and translate them into technical designs.
+	- Develop new user-facing features.
+	- Responsible for improving the end-user’s application experience by way of feature implementation, review for effectiveness, and bug fixing.
+	- Cross-team communication to translate design components into deliverables.
+	- Create efficient and reusable front-end systems that drive complex web applications.
+	- Engage in the full development lifecycle, including design and testing.
+	- Provide accurate estimates and assists team members with estimation.
+	- Leads architectural and code reviews.
+	- Assist with bug fixes, troubleshooting, testing, and maintenance of the portal products.
+	- Stay up to date on the latest in frontend engineering and know when to apply it.
+	- Proficiency and experience working with JavaScript, CSS, and at least one frontend framework such as React or Vue. TypeScript experience is a plus, but not required.
+	- Collaborative mindset, with solid written and verbal communication skills.
+	- High coding standards with the ability to write clean, reusable, maintainable and documented code.
+	- Mastery of system design and architectural patterns.
+	- Experience with CDN technologies is a plus, but not required.
+	- Familiarity and ability to work with the backend technologies is a plus, but not required.
 + skill set:
 	- BLAH.
 + skill set:

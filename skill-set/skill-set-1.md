@@ -3,13 +3,38 @@
 
 + skill set:
 	- TMC runs as load-balanced application server instances on Amazon Web Services (AWS). After building a data pipeline in Talend Studio, the job is executed on one or several so-called “Cloud Engines” or “Remote Engines”.
-	- Cloud Engines are Java-based runtimes deployed via an Amazon Machine Image (AMI) based on CentOS.
-	- Remote Engines are optional Java-based runtimes deployed by the customer to process data behind the firewall or on a Virtual Private Cloud (VPC), e.g. this can be on-premises or in third party clouds like Google, Azure or AWS.
-	- Within this position the development will mainly be focused on server-side Java development, leveraging technologies from the Hadoop Ecosystem (like HDFS, Spark, Kafka, Zookeeper), Log Data Mgmt (like ElasticSearch), Identity & Access-Management, Metric Collection Solutions, and others. This provides the applicant with the ability to work with up to date technologies, in a modern cloud-based development and deployment environment.
+	- Cloud Engines are Java-based runtimes deployed via an ***Amazon Machine Image (AMI)*** based on CentOS.
+	- Remote Engines are optional Java-based runtimes deployed by the customer to process data behind the firewall or on a ***Virtual Private Cloud (VPC)***, e.g. this can be on-premises or in third party clouds like Google, Azure or AWS.
+	- Within this position the development will mainly be focused on **server-side Java development**, leveraging technologies from the **Hadoop Ecosystem** (like **HDFS, Spark, Kafka, Zookeeper**), **Log Data Mgmt (like ElasticSearch), Identity & Access-Management, Metric Collection Solutions**, and others. This provides the applicant with the ability to work with up to date technologies, in a modern cloud-based development and deployment environment.
+		* HDFS = Hadoop Distributed File System
+			+ Distributed file system for handling large data sets running on commodity hardware
+		* Apache Spark
+			+ Open-source unified analytics engine for large-scale data processing, while enabling implicit data parallelism and fault tolerance via its API.
+			+ architectural foundation in the resilient distributed data set (RDD), whcih is a read-only multi-set of data items distributed over a cluster of machines
+		* Apache Kafka
+			+ open-source distributed event streaming platform
+				- applications include:
+					* high-performance data pipelines
+					* streaming analytics
+					+ data integration
+					+ mission-critical applications
+			+ distributed event store and stream-processing platform
+			+ unified, high-throughput, low-latency platform for handling real-time data feeds
+		* ZooKeeper
+			+ open-source server for highly-reliable distributed coordination of cloud applications
+			+ service for distributed systems that offer a hierarchical key-value store
+				- applications:
+					* distributed configuration service
+					* synchronization service, or ***distributed synchronization***
+					* naming registry for large distributed systems
 	- Built High-Availability (HA) architectures and deployments
 	- Worked and communicated in a cross-functional geographically dispersed team environment comprised of software engineers, product managers, software test engineers, and product support engineers.
 	- Good knowledge in Java ecosystem (Java 8, Spring, junit, logging)
+		* Spring Framework
+			+ application framework and inversion of control container for the Java platform
+			+ 
 	- Skills in Restful Service and the microservice architecture (SpringBoot)
+		* SpringBoot
 	- Some basic knowledge in databases like NoSQL DB (MongoDB)
 	- Knowledge in CI tools (Maven, Jenkins)
 	- Some knowledge in AWS and Docker would be a plus
