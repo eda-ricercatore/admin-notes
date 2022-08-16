@@ -1,6 +1,23 @@
 #	Web Development
 
 
+##	Notes for Web Development
+
+
+reactive programming = asynchronous dataflow programming
++ functional reactive programming, FRP, is based on the building blocks of functional programming
+	- map
+	- reduce
+	- filter
+	- applications of FRP, by simplifying problems via the explicit modeling of time, include:
+		* graphical user interfaces, GUI, development
+		* robotics
+		* games
+		* music
+
+
+
+
 
 ##	Full Stack Web Development
 

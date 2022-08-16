@@ -31,8 +31,9 @@
 	- Worked and communicated in a cross-functional geographically dispersed team environment comprised of software engineers, product managers, software test engineers, and product support engineers.
 	- Good knowledge in Java ecosystem (Java 8, Spring, junit, logging)
 		* Spring Framework
-			+ application framework and inversion of control container for the Java platform
-			+ 
+			+ ["application framework and inversion of control container for the Java platform"](https://en.wikipedia.org/wiki/Spring_Framework)
+			+ ["provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform"](https://spring.io/projects/spring-framework)
+			+ ["infrastructural support at the application level... Spring focuses on the "plumbing" of enterprise applications so that teams can focus on application-level business logic, without unnecessary ties to specific deployment environments"](https://spring.io/projects/spring-framework)
 	- Skills in Restful Service and the microservice architecture (SpringBoot)
 		* SpringBoot
 	- Some basic knowledge in databases like NoSQL DB (MongoDB)

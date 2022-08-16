@@ -2,6 +2,25 @@
 
 
 
+##	Notes for Mobile App Development
+
+
+reactive programming = asynchronous dataflow programming
++ functional reactive programming, FRP, is based on the building blocks of functional programming
+	- map
+	- reduce
+	- filter
+	- applications of FRP, by simplifying problems via the explicit modeling of time, include:
+		* graphical user interfaces, GUI, development
+		* robotics
+		* games
+		* music
+
+
+
+
+##	Skill Sets for Mobile App Development
+
 + skill set:
 	- Senior Mobile Engineer (iOS)
 	- We are looking for a Senior Python Developer who will help make it seamless for our customers to capture telemetry from their applications to be analyzed in Splunk Observability Cloud.

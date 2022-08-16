@@ -5,6 +5,26 @@
 ##	UI/UX Design & UI Engineering
 
 
+###	Notes about UI/UX Design
+
+
+reactive programming = asynchronous dataflow programming
++ functional reactive programming, FRP, is based on the building blocks of functional programming
+	- map
+	- reduce
+	- filter
+	- applications of FRP, by simplifying problems via the explicit modeling of time, include:
+		* graphical user interfaces, GUI, development
+		* robotics
+		* games
+		* music
+
+
+
+
+
+###	Skills for UI/UX Design
+
 
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
@@ -131,6 +151,9 @@
 ##	UX Research
 
 
+###	Notes about UX Research
+
+
 
 UX research is an iterative process that can be used at anytime during product development and is a core part of user-centered design.
 
@@ -196,6 +219,9 @@ Quantitative UX research methods:
 
 
 
+
+
+###	Skill Sets for UX Research
 
 + skill set:
 	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
@@ -272,6 +298,9 @@ Quantitative UX research methods:
 ##	ResearchOps
 
 
+
+###	Notes about ResearchOps
+
 Goal of ResearchOps: reduce time taken for data collection and data processing, to support data analysis
 
 
@@ -286,7 +315,7 @@ ResearchOps is about
 
 
 
-
+###	Skill Sets for ResearchOps
 
 
 
