@@ -3,6 +3,195 @@
 This set of skill sets is for software development roles in cloud computing.
 
 
+Notes on cloud computing:
++ ***as a service***, ***aaS***, ***XaaS***, ***anything as a service***
+	- business model for ***something*** presented to internal or external customer ***as a service***
+		* service offerings are:
+			+ API-driven
+			+ controlled via Web console in a user's Web browser
+	- types of delivery, cloud computing delivery models, or business models:
+		* development as a service, DaaS
+			+ Web-based, community shared tool set
+				- compare to locally installed software development tools in traditional (non-cloud computing) delivery of software development tools
+		* banking as a service, BaaS
+			+ provision of banking products (current accounts and credit cards) as a service to non-bank third parties through APIs
+			+ banking as a platform, BaaP
+				- provided on top of Infrastructure as a Service, IaaS, model
+				- FinTech SaaS
+					* provides atomic and composite software-based financial services that are available on-demand
+			+ integrated banking as a service, BaaS, structure
+				- larger portfolio of services reduces risk of failure than single service provider
+				- efficient end-to-end proposition
+		* blockchain as a service, BaaS
+			+ provide businesses with cloud-based solutions to build, host, and use their own blockchain apps, smart contracts, and function on the blockchain infrastructure developed by a vendor
+		* car as a service, CaaS, vehicle as a service, VaaS
+			+ electric vehicle as a service, ?aaS
+		* edge as a service, EaaS
+		* encryption as a service, EaaS
+		* energy as a service, EaaS
+		* evaluation as a service, EaaS
+		* games as a service, GaaS
+		* identity as a service, IDaaS
+		* IT as a service, ITaaS
+			+ operational model for IT service providers to provide IT services to businesses
+		* logging as a service, LaaS
+			+ IT archtectural model for centrally ingesting and collecting any type of log files coming from any given source or location, such as:
+				- servers
+				- applications
+				- devices
+			+ managed service provider (MSP) environment
+				- managed services as an alternative to break/fix model and on-demand outsourcing model
+		* lighting as a service, LaaS, light as a service
+			+ service-based business model in which light service is charged on a subscription basis rather than via a one-time payment
+		* mobility as a service, MaaS
+			+ via a joint digital channel that enables users to plan, book, and pay for multiple types of mobility services (or vehicles that users can get a ride in to their destination)
+				- carpool companies
+				- ridesharing companies
+				- bicycle-sharing systems, bicycle-sharing programs, public bicycle schemes, public bike share schemes (or PBS schemes)
+				- scooter-sharing systems
+				- carsharing services, car sharing services, or car clubs
+				- "pop-up" bus services
+				- on-demand car services
+					* from self-driving cars, autonomous cars, driver-less cars, robotic cars, or robo-cars
+		* monitoring as a service, MaaS
+		* mass personalization as a service, MPaaS, personalization as a service, PaaS
+		* payment as a service, PaaS
+			+ SaaS-based connection to group of international payment systems
+		* ***quality assurance as a service***, ***QAaaS***
+		* ***recovery as a service***, ***RaaS***, ***disaster recovery as a service***, ***DRaaS***
+			+ RaaS/DRaaS architectural models:
+				- to-cloud RaaS/DRaaS
+					* source application: primary private data centr of users
+					* backup/recovery target: cloud
+				- in-cloud RaaS/DRaaS
+					* source application: cloud
+					* backup/recovery target: cloud
+				- from-cloud RaaS/DRaaS
+					* primary/production application, or data, or source: cloud
+					* backup/recovery target: private data center
+		* ***robot as a service***, ***RaaS***, ***robotics as a service***
+			+ cloud computing service that facilitates seamless integration of robot and embedded devices into Web and cloud computing environment
+			+ subset of Internet of Intelligent Things, IoIT
+				- subset of Internet of Things, IoT
+			+ cyber-physical systems consist of:
+				- computational and communication core
+				- physical elements that can interact with the physical world
+				- autonomous decentralized system, ADS
+					* components are designed to operate independently in a loosely coupled manner, so that the overall goal of the system is met
+					* share data through content-oriented protocol
+						+ data transmission on enterprise service bus, ESB
+					* based on a decoupled architecture
+					* autonomous decentralized service system, ADSS
+						+ based on service-oriented architecture, SOA
+			+ subscription-based contract for industrial or service robots
+			+ Visual IoT/Robotics Progamming Language Environment, VIPLE
+			+ uses service-oriented architecture, SOA, for:
+				- service providers:
+					* each RaaS cloud unit hosts a repository of preloaded services
+					* developer/client can deploy new services into, or remove services from, a robot
+					* services can be used by a robot, or shared with other robots
+				- set of applications deployed:
+					* developer/client can compose new applications/functionalities based on services in and outside the RaaS cloud unit
+				- service brokers:
+					* each client can look up available services and applications in the directory of the RaaS cloud unit
+					* developer/client can compose a new application/functionality based on the services available in and outside the RaaS cloud unit
+					* available services and applications are hierarchically organized in the directory of the RaaS cloud unit, so that their discovery can be facilitated
++ *content as a service, CaaS, or managed content as a service, MCaaS*
+	- provide content on demand to service consumer via Web services that are licensed under subscription
++ *big data business models*:
+	- answers as a service, AaaS
+		* cloud-based software tools for to answer questions about data sets???
+	- information as a service, Info-aaS
+		* cloud-based software tools for extract or create information from data???
+	- **data as a service, DaaS**
+		* cloud-based software tools for working with data
+			+ data management in data warehouse
+			+ data analysis with business intelligence
+		* remote desktop virtualization:
+			+ regarding virtual desktop infrastructure, VDI:
+				- application virtualization
+					* application streaming
+					* remote desktop services
+					* desktop virtualization
+					* workspace virtualization
+				- user virtualization, or user profile management systems
+				- **desktop as a service, DaaS**
+					* cloud-hosted virtual desktops
+					* more automation
+					* multi-tenancy
+					* desktop virtualization
+	- **database as a service, DBaaS**
+		* database runs on a cloud computing platform, and access to the database is provided as a service
+			+ address scalability and high availability of the database
+		* Web-based design construct where cloud data is accessed through a defined API layer
+		* deployment models:
+			+ users run databases on the cloud independently
+			+ use ***virtual machine image***
+			+ purchase access to database service
+			+ maintain cloud database provider
+	- **knowledge as a service, KaaS**
+		* knowledge models, such as knowledge graphs, based on:
+			+ decision trees
+			+ association rules
+			+ neural networks
+		* related to:
+			+ content as a service, CaaS
+			+ data as a service, DaaS
+	- **models for differentiating data, information, and knowledge**:
+		* **DIKW pyramid**
+			+ represent structural and functional relationships between:
+				- data
+				- information
+				- knowledge
+				- wisdom
+			+ DIKW hierarchy
+			+ wisdom hierarchy
+			+ knowledge hierarchy
+			+ information hierarchy, information pyramid
+			+ data hierarchy
+		* need to handle explicit knowledge and tacit knowledge
++ *security as a service, SECaaS*
+	- service provider integrates security services into corporate infrastructure on a subscription basis more cost effectively than most individuals and coporations can provide on their own, in terms of total cost of ownership
+	- security services include:
+		* authentication
+		* anti-virus detection and mitigation
+		* anti-malware/spyware detection and mitigation
+		* intrusion detection, intrusion management
+		* penetration testing
+		* security information and event management, SIEM
+			+ security event management
+		* business continuity and disaster recovery, BCDR, or BC/DR
+		* continuous monitoring
+		* data loss prevention, DLP
+		* email security
+		* encryption
+		* identity and access management, IAM
+		* network security services
+			+ managed security services, MSS
+				- + managed security service providers, MSSP
+		* security assessment
+		* vulnerability scanning
+		* Web security
++ cloud-based integration
+	- system integration business delivered as a cloud computing service that addresses:
+		* data
+		* process
+		* service-oriented architecture, SOA
+		* application integration
+	- ***integration platform as a service***, ***iPaaS***, cloud-based iPaaS integration model:
+		* suite of cloud computing services that enable customers to develop, execute, and manage/govern integration flows between disparate applications
+			+ shift for business to business (B2B) from electronic data interchange (EDI) and value-added network (VAN)
+			+ leads to the creation of new cloud-based business process management tools that don't require integration layers (provided as a separate service via )
++ ***Messaging as a Service (MaaS)***
++ ***Infrastructure as a Service, IaaS***
++ ***Platform as a Service (PaaS)***
++ ***Software as a Service (SaaS)***
++ ***Mobile "backend" as a Service, MBaaS, or Backend as a Service, BaaS***
++ ***Serverless Computing or Function-as-a-Service (FaaS)***
+
+
+
+
 
 
 
@@ -377,6 +566,25 @@ IaaS:
 		* VMware ESX/ESXi
 		* Hyper-V
 + Pools of hypervisors within the cloud operational system can support large numbers of virtual machines as well as the ability to scale services up and down according to customers' varying requirements.
++ provide virtual management of hardware/physical resources:
+	- servers
+	- networks
+	- storage
+	- system management
+	- mitigate the need for:
+		* local data center
+		* heating or cooling of local data center
+		* hardware maintenance of local data center
++ network as a service, NaaS
+	- allow users to use software-defined network (SDN), programmable networking, and API-based operations to wide area network (WAN) services, and hybrid cloud and multi-cloud.
+		* support for (multi-tenant) data center facilities, MTDCs
+		* public cloud service providers (CSPs)
+	- includes:
+		* connectivity cloud
+		* virtual private network, VPN
+		* virtual network operation
+			+ mobile virtual network operator, MVNO
+
 
 
 
@@ -448,6 +656,34 @@ IaaS:
 ##	Software Development for Platform as a Service (PaaS)
 
 
+###	Notes about Platform as a Service (PaaS)
+
+
+Notes about Platform as a Service (PaaS):
++ also known as:
+	- application Platform as a Service (aPaaS)
++ platform-based services that allow customers to carry out the following for a modular bundle based on a computing platform and a set of software applications (with a cardinality of at least one)
+	- no infrastructure building or maintenance needed ensure the development and launch of the software applications
+		* provision
+		* instantiate
+		* run
+		* manage
+	- allow software developers to do the following for software bundles:
+		* create
+		* develop
+		* package
++ unified communications as a service, UCaaS
+	- for enterprise communications
++ provide users with application platforms and databases as a cloud computing service
+	- comparable to middleware in traditional (non-cloud computing) delivery of application platforms and databases
+
+
+
+
+###	Skill Sets for Platform as a Service (PaaS)
+
+
+
 + skill set:
 	- BLAH.
 + skill set:
@@ -486,7 +722,7 @@ IaaS:
 ##	Software Development for Software as a Service (SaaS)
 
 
-##	Notes about Software as a Service (SaaS)
+###	Notes about Software as a Service (SaaS)
 
 
 Notes about Software as a Service, SaaS:
@@ -495,12 +731,23 @@ Notes about Software as a Service, SaaS:
 		* Reference:
 			+ SplunkIncStaff2010
 				- Splunk Inc. staff, "Malware-as-a-Service (MaaS)?", Splunk Inc., San Francisco, CA, June 10, 2010. Available online from *Splunk Inc.: Resources: Splunk Blogs -- Turn Data Into Doing: Categories: Security* at: https://www.splunk.com/en_us/blog/security/malware-as-a-service-maas.html; July 30, 2022 was the last accessed date.
++ software licensing and delivery model in whhich software is licenses on a subscription basis and is centrally hosted
+	- Provides:
+		* on-demand software
+		* Web-based software
+		* Web-hosted software
+		* OpenSaaS
+			+ Open-source software provided as SaaS
++ approaches of SaaS:
+	- single instance
+	- multi-instance
+	- multi-tenant
+	- flex tenancy
 
 
 
 
-
-##	Skill Sets for Software as a Service (SaaS)
+###	Skill Sets for Software as a Service (SaaS)
 
 
 + skill set:
@@ -622,6 +869,12 @@ Mobile backend as a service (MBaaS), also known as "backend as a service",[1][2]
 Notes on serverless computing or Function-as-a-Service, FaaS:
 + provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app
 + Building an application following this model is one way of achieving a "serverless" architecture, and is typically used when building microservices applications.
++ allocate machine resources on demand
++ take care of servers on behalf of customers
++ serverless databases
+	- Azure Data Lake, Azure Data Lake Analytics
+	- Amazon Aurora
+	- Oracle Autonomous Database, Oracle Autonomous Transaction Processing service
 + Examples of serverless computing or Function-as-a-Service, FaaS:
 	- data processing
 		* batch processing
@@ -635,6 +888,7 @@ Notes on serverless computing or Function-as-a-Service, FaaS:
 
 
 ###	Skill Sets for Serverless Computing or Function-as-a-Service (FaaS)
+
 
 
 + skill set:

@@ -568,7 +568,14 @@ Emerging technologies that would be interesting application domains of computati
 	- particle swarm optimization
 	- Bayesian optimization
 + skill set:
-	- BLAH.
+	- ***Google OR-Tools***.
+		* linear programming
+		* mixed integer programming
+		* constraint programming
+			+ CP-SAT problem
+		* vehicle routing
+		* also has implementations of:
+			+ graph algorithms
 + skill set:
 	- BLAH.
 + skill set:

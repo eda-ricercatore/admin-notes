@@ -92,9 +92,18 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 Skills for EDA software development, and other high-end software development:
 + Production quality coding standards and patterns.
 + Build system experience, like:
-	- Maven
-	- Bazel
-	- Gradle
+	- Maven (for JVM software, and other languages, such as C\# and Ruby)
+	- ***Bazel***
+	- Gradle (for JVM software, and C and C++)
++ continuous integration (CI) systems, such as:
+	- Jenkins
+	- TeamCity
+	- GitHub Actions
+	- GitLab
++ CI/CD with:
+	- Docker
+	- Kubernetes
+	- AWS
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.
