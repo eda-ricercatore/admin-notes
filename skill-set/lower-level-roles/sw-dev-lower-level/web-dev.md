@@ -59,6 +59,7 @@ reactive programming = asynchronous dataflow programming
 		* Apache (web server)
 		* MySQL or MariaDB (database management systems)
 		* Perl, PHP, or Python (scripting languages)
+		* LAMP is an archetypal model of web service stacks, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language.
 	- LAPP:
 		* Linux (operating system)
 		* Apache (web server)
@@ -86,6 +87,11 @@ reactive programming = asynchronous dataflow programming
 		* Erlang (functional programming language)
 		* LYME = Linux + Yaws + Mnesia + Erlang
 		* LYCE = Linux + Yaws + CouchDB + Erlang
+		* LYME and LYCE are software stacks composed entirely of free and open-source software to build high-availability heavy duty dynamic web pages. The stacks are composed of:
+			+ Linux, the operating system;
+			+ Yaws, the web server;
+			+ Mnesia or CouchDB, the database;
+			+ Erlang, the functional programming language.
 	- MAMP:
 		* Mac OS X (operating system)
 		* Apache (web server)

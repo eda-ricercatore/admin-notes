@@ -423,6 +423,14 @@ Notes on cloud computing:
 	- Basic knowledge of computer networks (TCP/IP, Ethernet, etc.)
 	- Knowledge and experience in container networking related technologies (CNI Plugin, BGP, eBPF, etc.)
 + skill set:
+	- Help us iterate quickly and deliver high-quality software releases, on-time
+	- Understanding of service based cloud architectures
+	- Work closely with the software engineering, product management and customer support teams to design, deliver, and manage our services with high uptime
+	- Implement monitoring, develop automated provisioning, and develop self-healing automation
+	- Perform incident resolution and root cause analysis of critical outages
+	- Experience with design and maintenance of a cloud based highly-available (HA) architecture
+	- Experience with configuration management and monitoring tools
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

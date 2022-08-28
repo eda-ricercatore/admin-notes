@@ -2719,15 +2719,6 @@ Skill sets for application engineers of different EDA products:
 
 
 
-
-
-
-
-
-
-
-
-
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
 + skill set:
 	- Principal Software Engineer - Applied Machine Learning
@@ -3053,6 +3044,35 @@ Skill sets for application engineers of different EDA products:
 	- Experience with Amazon Web Services and Mechanical Turk.
 	- Strong computer systems experience in topics such as filesystems, server architectures, and distributed systems.
 	- Experience in GPU programming, data visualization, or web development.
++ skill set:
+	- Machine learning. You should be able to understand and apply major machine learning methods, such as logistic regression, SVM, Decision Trees, Principal Component Analysis and K-means. Completion of Andrew Ng's Machine Learning course on Coursera is sufficient to meet this criterion.
+	- Deep learning. You should be able to understand and apply major deep learning methods, including neural network training, regularization, optimization methods (gradient descent, Adam), and be familiar with major neural network architecture types such as Convolutional Networks, RNN/LSTM. Completion of the deeplearning.ai specialization is sufficient to meet this criterion.
+	- Implementation. You should have prior experience taking a dataset, cleaning it if necessary, and applying a learning algorithm to it to get a result. You should be able to implement a learning algorithm “from scratch” using a framework such as NumPy, Tensorflow, Pytorch, Caffe, etc.
+	- General coding. You should be able to code non-trivial functions in object-oriented programming, such as popular sorting or search algorithms.
+	- Mathematics (including probabilities and statistics.) You should be able to use mathematical notations and linear algebra (matrix/vector operations, dot products, etc.), and understand basic probability theory (distributions, independence, density functions, etc.) as well as statistics (mean, variance, median, quantiles, covariance, etc.)
+	- Software Engineering. You should know how to use your terminal, work with version control systems (Git), relational databases, APIs, and build the back-end of web or mobile applications.
+	- Mean Stack
+		* MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications.
+		* The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js.
++ skill set:
+	- The steps of an end-to-end machine learning project. This includes, but is not limited to:
+		* Conducting a structured and deep literature review of a specific field.
+		* Strategizing your machine learning project end-to-end.
+		* Collecting, cleaning, labeling, and augmenting your own dataset.
+		* Training a model for a real-world application.
+		* Setting-up an efficient and organized experimentation process.
+		* Defining task-specific metrics to optimize in your experiments.
+		* Performing error analysis to improve your models.
+		* Deploying an AI product.
+		* Exposure to real-world problems that multiple AI teams in our community work on.
+	- Hands-on experience in designing, building, and deploying end-to-end AI solutions through curated content and instructor-led workshops.
+	- Career mentorship and connections with teams aligned with your career aspirations.
+	- Meet and share experiences with other machine learning engineers and data scientists.
+	- Everyone who successfully completes the Bootcamp will be awarded a certificate of completion and join the AI Bootcamp Alumni community.
+	- Machine learning Engineers and Data Scientists who have already worked on Machine Learning projects and want to get exposed to different Machine Learning problems.
+	- Demonstrated AI, data science and/or data analysis experience from previous work experience or publications.
+	- Demonstrated strong coding from previous work experience or publications. This means you're able to write a non-trivial program in Python, Java, or C++.
+	- Solid CS foundation (including but not limited to Operating Systems, Computer Networks, Database, etc.)
 + skill set:
 	- BLAH.
 + skill set:
@@ -4563,11 +4583,11 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
-###	Data Engineering, DataOps, & Management of Information Systems
+###	Data Engineering
 
 
 
-####	Data Engineering
+####	Notes about Data Engineering
 
 
 Data engineering roles involve creating *Big Data* extract, transform, load (ETL) pipelines, and provide infrastructure support to help data scientists obtain insights from processing huge amounts of data.
@@ -4588,7 +4608,7 @@ They support databases for:
 
 
 
-
+####	Skill Sets for Data Engineering
 
 ***Skill sets for data engineering***:
 + skill set:
@@ -5001,6 +5021,12 @@ DataOps leadership principles:
 
 
 
+
+
+
+
+
+
 ####	Skill Sets about DataOps
 
 Skill sets for DataOps:
@@ -5031,6 +5057,17 @@ Skill sets for DataOps:
 	- Enterprise data integration, BI and analytics platforms: Informatica, Talend, InfoSphere, SAS, RevoR, QlikView, Qlik Sense, Tableau, Spotfire, D3.js
 	- Processing frameworks & programming tools: Spark (Scala/Python/Java), Kafka, Flink
 	- Client facing skills: ability to build trusted relationships with client stakeholders and act as a trusted adviser
++ skill set:
+	- Partner with engineering leadership to buildout data driven roadmap items to address performance in critical areas
+	- Established performance test environments and frameworks
+	- Experience evangelizing performance engineering techniques within a data driven engineering culture
+	- Deep hands on experience with JVM tuning techniques
+	- Supported efforts in performance testing and improvement in common JavaScript frameworks (Angular, React, JQuery)
+	- Experience with Ruby (JRuby) and JavaScript
+	- Extremely well versed in solving data access performance challenges across SQL data stores
+	- Experience in AWS and other cloud providers when exploring different approaches to performance engineering
+	- Experience with distributed architectures
+	- Passionate about driving a performance engineering culture
 
 
 
@@ -5186,6 +5223,14 @@ Skill set for management of information systems, MIS:
 
 
 
+###	Data Modeling
+
+
+Skill set for data modeling:
++ skill set:
+	- Looker is seeking a Senior Software Engineer to join our Data Model team (database semantics, programming languages, and integrated development environment (IDE)). This team's core responsibilities include Looker's SQL normalization and code generation engine (the heart and lungs of our application), the LookML language itself, Looker's in-browser IDE for composing and versioning LookML, and the data pipeline within the Looker application.
+	- The ideal candidate will take an active role in contributing to our long-term technical roadmap and have a deep background in programming language fundamentals (e.g. compiler design) or databases (e.g. building SQL optimizers) or building IDEs, in addition to tried and true experience with software engineering best practices.
++ 
 
 
 
