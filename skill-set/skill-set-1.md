@@ -1,17 +1,20 @@
 
 
 
-+ Use of Jira and A-Ha planning tools.
-	- Jira: proprietary issue tracking product, which also supports bug tracking and agie project management
-+ Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
-+ Experience with SAML, OAuth
-+ Working with Jira and Confluence a plus.
-+ Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
-+ Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
+
+
+
+
+
+
 + tech stack:
-	- Remote hardware administration with IPMI
-	- Configuration and management of
-	- SGE/Univa, Slurm, LSF or other DRMS
+	- Remote hardware administration with IPMI, intelligent platform management interface
+		
+	- Configuration and management of:
+		* SGE/Univa
+		* Slurm
+		* LSF
+		* other DRMS
 	- Jenkins CI
 	- Phabricator
 	- FlexLM licensing

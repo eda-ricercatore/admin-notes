@@ -125,8 +125,31 @@ Skill sets for software development for project management:
 	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
 	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
 	- Minimum of 2 years of experience with transactional-based continuous improvement projects
-+ 
++ skill set:
+	- BLAH.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Product Management
+
+
+
+Skill sets for software development for product management:
+
++ Use of Jira and A-Ha planning tools.
+	- Jira: proprietary issue tracking product, which also supports bug tracking and agie project management
+	- Aha! product management tools
 
 
 

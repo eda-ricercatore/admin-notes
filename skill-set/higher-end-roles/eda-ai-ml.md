@@ -95,15 +95,21 @@ Skills for EDA software development, and other high-end software development:
 	- Maven (for JVM software, and other languages, such as C\# and Ruby)
 	- ***Bazel***
 	- Gradle (for JVM software, and C and C++)
-+ continuous integration (CI) systems, such as:
-	- Jenkins
-	- TeamCity
-	- GitHub Actions
-	- GitLab
++ project management tools:
+	- Working with Jira and Confluence a plus.
+		* Jira, for issue tracking.
+		* Confluence, wiki-based collaboration platform
 + CI/CD with:
 	- Docker
 	- Kubernetes
 	- AWS
+	- continuous integration (CI) systems, such as:
+		* Jenkins
+		* TeamCity
+		* GitHub Actions
+		* GitLab
++ configuration management:
+	- Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.
@@ -3073,6 +3079,7 @@ Skill sets for application engineers of different EDA products:
 	- Demonstrated AI, data science and/or data analysis experience from previous work experience or publications.
 	- Demonstrated strong coding from previous work experience or publications. This means you're able to write a non-trivial program in Python, Java, or C++.
 	- Solid CS foundation (including but not limited to Operating Systems, Computer Networks, Database, etc.)
++ Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
 + skill set:
 	- BLAH.
 + skill set:
@@ -5004,6 +5011,7 @@ They support databases for:
 	- You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
 + Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
 + Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
++ Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
 + skill set:
 	- BLAH.
 + skill set:

@@ -124,6 +124,9 @@
 + skill set:
 	- Application systems, network architecture, multiple platforms and new technologies from a security perspective to include, but not limited to, Firewalls; Intrusion Detection/Protection Systems; Operating Systems (UNIX, Windows); Networking (switches, routers, protocols, etc.); Network Services and Security Vulnerabilities; Network Architecture; Remote Access; Multifactor Authentication; Platform Security (Application, Database, OS); Antivirus; Federated Identity Management; Cryptography; Active Directory; and high-level programming languages.
 	- System and network exploitation, attack pathologies and intrusion techniques (such as denial of service, sync attacks, malicious code, password cracking, etc).
++ Experience with SAML, OAuth
+	- SAML: Security Assertion Markup Language
+	- OAuth: Internet protocol for authorization.
 + skill set:
 	- BLAH.
 + skill set:
