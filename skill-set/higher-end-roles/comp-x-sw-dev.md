@@ -624,6 +624,33 @@ Emerging technologies that would be interesting application domains of computati
 + skill set:
 	- Experience in developing and debugging multi-threaded/parallel applications.
 	- Experience in image processing, computational geometry, large data application, high performance computing and scientific simulation is a good plus.
++ tech stack:
+	- Write C++ code to tackle ***scientific algorithmic problems*** such as: ***transforming 3D coordinates, Metropolis Monte Carlo simulation, Gradient Descent minimization***, and others.
+	- Implement highly optimized multi-threaded C++ or CUDA code that scales well on cloud infrastructure.
+	- Work closely with other software engineers via code reviews and testing to foster high-quality software and systems.
+	- Solid computer science fundamentals, with strong competencies in data structures, algorithms, and compilers.   
+	- Experience profiling C/C++ code to find and fix performance bottlenecks.
+	- Comfort with the Linux command-line environment.
+	- Background in Biology, Chemistry or Physics.
+	- Familiarity working with Docker and Kubernetes.
+	- Knowledge of parallel computing paradigms and demonstrated proficiency in some of the following: openMP, CUDA, or openCL.
+	- https://www.atomwise.com/jobs/senior-software-engineer-scientific-computing/
++ tech stack:
+	- Interact with customers to understand their project requirements.
+	- Generate and analyze predictive results, and deliver these to our clients.
+	- Communicate our results and capabilities through scientific publications.
+	- Analyze, curate, and automate the processing of our biochemical databases.
+	- Help to develop our modeling software.
+	- Ph.D. in chemistry, biology or a related field.
+	- Extensive knowledge of medicinal chemistry.
+	- Minimum 3 years of experience in lead optimization at a pharmaceutical company.
+	- Experience in Computer-Aided Drug Design: structure/ligand-based drug design, molecular docking, virtual screening, QSAR, pharmacophore modeling, PK/PD data analysis and modeling.
+	- Comfortable on the Linux command-line.
+	- Undergraduate knowledge of statistics.
+	- Good knowledge of Python, Perl, Bash, or related scripting languages.
+	- Statistical modeling.
+	- Experience with cloud computing environments (AWS/Azure/GCE).
+	- https://www.atomwise.com/jobs/senior-computational-chemist/
 + skill set:
 	- BLAH.
 + skill set:

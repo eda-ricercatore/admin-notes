@@ -4333,7 +4333,7 @@ Sets of skills for generic data science roles:
 	- Optimization algorithms and numerical computation
 	- Spark, TensorFlow, or Keras
 	- Cloud computing platforms and large web-scale distributed systems
-
++ Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
 
 
 
@@ -4604,7 +4604,13 @@ Skill sets for business analytics:
 	- At least of 2 years working with tools like SAS, Python, SPSS, R, or SQL
 	- At least 2 years working with data integration tools to streamline processes in platforms like Cerner EMR, Apache Spark, MapReduce, MongoDB and Couchbase
 	- You can use data mining techniques to solve real world business problems
-
++ tech stack:
+	- Hadoop ecosystem and its components.
+	- Hadoop, Hive, HBase, and Pig
+	- Working experience in HQL
+	- Pig Latin Scripts and MapReduce jobs
+	- Hands-on experience in backend programming, particularly Java, and Node.js
+	- Analytical and problem-solving skills
 
 
 
