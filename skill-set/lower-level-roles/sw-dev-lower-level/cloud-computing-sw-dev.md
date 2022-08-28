@@ -430,6 +430,17 @@ Notes on cloud computing:
 	- Perform incident resolution and root cause analysis of critical outages
 	- Experience with design and maintenance of a cloud based highly-available (HA) architecture
 	- Experience with configuration management and monitoring tools
+	+ skill set:
+	- The Project Portfolio Analyst oversees the activities that support the company's most complex strategic projects by ensuring reporting and governance alignment, providing portfolio performance measurements and recommendations, and trending analytics. This position is responsible for the Portfolio's intake, supply and demand (resource management) methods, analytics and recommendations. Reporting responsibilities includes detailed analysis, dashboards and decision support updates (KPI's) and recommendations on a regular cadence. The Portfolio Analyst will at times provide project support to Project and Change managers.  This position reports to the Associate Director, Organization Engineering.
+	- Owns and administrates the project collaboration toolset including project portfolio management software and various collaboration tools
+	- Develops and maintains a project risk tracking mechanism to centralize risk tracking across the company's project portfolio
+	- Drives agile governance process that maintains control and compliance but improves project team effectiveness and improves decision making
+	- Assists in developing project management processes, tools and training as well as project status presentations and reports
+	- Supports the strategic planning process and cross-functional business reviews to include development of in-depth analysis, executive presentations, and resource modeling
+	- Owns the project idea intake process to ensure project goal and scope are clearly defined, reasonable budget and timelines are established and the project is resourced effectively to deliver the desired solution
+	- Owns the resource planning process to include maintaining resource management information and resource utilization modeling
+	- Generates, validates, distributes, archives and supports project management documentation and reporting collateral
+	- Monitors quality assurance of project implementation across a large portfolio of business and process improvement projects by establishing, monitoring and reporting on metrics to determine whether projects meet quality, cost and schedule targets
 + skill set:
 	- BLAH.
 + skill set:

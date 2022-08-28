@@ -103,6 +103,9 @@
 
 + Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
 + skill set:
+	- Experience with asynchronous I/O and coroutines
+	- Experience with event driven service architecture
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

@@ -3272,6 +3272,8 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- Experience with data pipelines (Kafka, AWS Kinesis, AWS Data Pipeline)
 	- Experience building web applications, widgets, or interactive experiences.
 + skill set:
+	- Cortex is a team of software engineers and machine learning scientist to developing state-of-the-art machine learning capabilities to refine and transform our products.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -4301,6 +4303,53 @@ Sets of skills for generic data science roles:
 		- Retool
 	- AI-driven insights and recommendation engines to help creators build better businesses
 	- category defining analytics platform to help creators better understand their audience
++ Expertise in statistical inference including experimentation and observational methods to causal inference
++ Strong coding experience. Experience with open-source ML packages (specifically sklearn, TensorFlow/Keras/PyTorch).
++ tech stack:
+	- 5+ years of research experience with a track record of delivering quality results
+	- Expertise in machine learning spanning supervised and unsupervised learning methods
+	- Experience in successfully applying machine learning to real-world problems
+	- Strong mathematical skills with knowledge of statistical methods
+	- Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+	- Great interpersonal skills
+	- PhD or MS in Computer Science, Statistics, or related field
+	- Experience in Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications
+	- Experience in optimization algorithms and numerical computation
+	- Experience with Spark, TensorFlow, or Keras
+	- Experience with cloud computing platforms and large web-scale distributed systems
+	- Open source contributions
++ tech stack:
+	- 5+ years of research experience with a track record of delivering quality results
+	- Expertise in machine learning spanning supervised and unsupervised learning methods
+	- Experience in contextual multi-armed bandit algorithms and/or reinforcement learning
+	- Experience in successfully applying machine learning to real-world problems
+	- Strong mathematical skills with knowledge of statistical methods
+	- Strong software development experience in languages such as Scala, Java, Python, C++ or C#
+	- Great interpersonal skills
+	- PhD or MS in Computer Science, Statistics, or related field
+	- Recommendation Systems, Personalization, Search, or Computational Advertising
+	- Deep Learning or Causal Inference
+	- Optimization algorithms and numerical computation
+	- Spark, TensorFlow, or Keras
+	- Cloud computing platforms and large web-scale distributed systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4367,6 +4416,33 @@ Sets of skills for more senior data science roles, such as management of data sc
 
 
 
+
+
+
+####	Data Science for Social Media Companies
+
+
+
++ skill set:
+	- The Consumer Data Science organization works closely with our cross-functional partners, and Twitter's leadership to understand user behavior, inform product decisions, safeguard the health and integrity of our services, and to influence company strategy. We are currently hiring for the following subteams on Consumer Data Science. These high-impact teams value creativity, critical thinking, and teamwork.
+	- The Consumer Data Science organization is hiring Senior Data Scientists in the following areas:
+		* Health (SF, Boulder) - The goal of this team is to improve the health of the public conversation, ensuring that users feel safe while using our platform. As part of our team, you'll help the Health Organization make strategic decisions that ensure that Twitter is a safe and informative experience for our customers. You will do this by performing and mentoring others through analyses, metrics, experimentation, research, and more.
+		* Growth (SF) - Their mission is to increase Twitter's daily utility for new and returning users through impactful and creative applications of experimentation and data analysis. As a key member of Growth Data Science, your work will directly influence exciting new product areas and help grow Twitter usage around the globe.
+		* Metrics (SF) - This team works to support company strategy by helping to define, maintain, and understand key success metrics to ensure that we continue to meet the demands of our customers.
+		* Video (NY) - This team works with the Live Video, Video on Demand, Publishers, and Camera products. The team is involved in opportunity sizing, experiment setup and analysis, and metric design in order to influence video and media strategy at Twitter.
+	- Support the entire product development lifecycle from product ideation to opportunity sizing to measurement design to experimentation and causal analysis to post-launch learning and iteration into the next development cycle.
+	- "Design and implement experiments or other econometric methods to understand how changes to the platform affect user behavior."
+	- Build novel metrics, identify the impact of product and policies, and study causal impact of our Product launches and Health initiatives.
+	- Work in tandem with team members, applying advanced statistical methods; writing complex data flows using multiple languages/frameworks such as SQL, Scala (Scalding, Spark), Python; and using data visualization tools.
+	- Communicate findings to executives and cross-functional stakeholders.
+	- You are a self-starter who is capable of learning on the job, taking initiative, and thriving within a large team.
+	- You are excited to learn and apply new data analysis techniques and tools. You are passionate about insights, not just data and methods. You are a strategic thinker and are able to synthesize technical concepts into actionable recommendations for a diverse audience.
+	- You communicate your findings clearly and effectively to a wide audience of relevant partners and are capable of building meaningful presentations and analyses that tell a story.
+	- You are rigorous, care about data quality, and strive to understand surprising results and underlying mechanisms in your analyses. You combine business insight with detailed data knowledge and statistical expertise to ensure an accurate interpretation of results.
+	- You are a capable mentor. You enjoy knowledge sharing and working with junior teammates to up-level their skills and take the time to learn from them.
+	- You value teamwork and teammates. You contribute positively and meaningfully to cultivate an inclusive team culture. You are personable, empathetic, and able to connect with each and every person on the team and throughout the company.
+	- Experience using SQL, R, or Python for analysis, modeling, and data visualization.
+	- 5+ years experience working with and analyzing large datasets to understand behavior, solve problems, and answer business questions.
 
 
 
@@ -4907,6 +4983,22 @@ They support databases for:
 	- Experience with messaging systems such as ActiveMQ
 	- Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
 + skill set:
+	- Backend development experience with a strong interest in work involving data pipelines, distributed systems, performance analysis, and/or large-scale data processing Experience with software engineering practices (e.g. unit testing, code reviews, design documentation)
+	- Able to take on complex problems, learn quickly, and persist towards a good solution
+	- Experience designing fault-tolerant distributed systems
+	- Experience with data pipelines
+	- Experience with Hadoop or other MapReduce-based architectures
+	- Experience with Kafka, Druid or other Streaming Compute based technologies is a plus
+	- Experience with ad tech is a plus
++ tech stack:
+	- Netflix culture resonates with you.
+	- You can communicate effectively with experts of all backgrounds.
+	- You are an expert analyst and can pick up any tool (e.g. Tableau, D3) to get the job done.
+	- You dream in SQL and Python (or other similar languages).
+	- You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
++ Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
++ Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -5216,6 +5308,54 @@ Skill set for management of information systems, MIS:
 		* efficient time series database
 		* modern alerting approach
 	- Kubernetes
++ skill set:
+	- This person will assist in developing data migrations, writing SQL and reports and mentoring other engineers in optimizing and writing efficient queries.
+	- Develop and proactively review the monitoring of production PostgreSQL databases
+	- Participate in system capacity planning
+	- Participate in database design, data modeling and provide recommendations for improvement or optimizations
+	- Provide query / index optimizations
+	- Participate in an agile software development life cycle including providing testing guidelines for database related changes
+	- Provide SQL development support and query tuning
+	- Mentor other engineers in developing efficient SQL queries
+	- Follow the Quality Management System for developing and deploying software
+	- Write reports
+	- 3+ years experience managing a production RDBMS including experience with PostgreSQL
+	- Experience in SQL development and database design
+	- Expertise in SQL DML and DDL
+		* DML, Data Manipulation Language
+			+ SELECT
+			+ INSERT
+			+ UPDATE
+			+ DELETE
+			+ MERGE
+			+ CALL
+			+ EXPLAIN PLAN
+			+ LOCK TABLE
+		* DDL, Data Definition Language
+			+ CREATE
+			+ ALTER
+			+ DROP
+			+ TRUNCATE
+			+ COMMENT
+			+ RENAME
+		* DCL, Data Control Language
+			+ GRANT
+			+ REVOKE
+		* DQL, Data Query Language
+			+ SELECT
+		* TCL, Transaction Control Language
+			+ COMMIT
+			+ SAVEPOINT
+			+ ROLLBACK
+			+ SET TRANSACTION
+			+ SET CONSTRAINT
+		* Procedural language (for certain SQL databases).
+		* Debugging statements (for certain SQL databases).
+	- Have a solid understanding of query planning
+	- Understand PostgreSQL tuning and optimization parameters
+	- Excellent interpersonal and communication skills in both oral and written English
+	- Able to collaborate with cross functional team members
+	- Familiarity with PostgreSQL replication techniques, data warehouse design, and Amazon RDS support beneficial
 + skill set:
 	- BLAH.
 

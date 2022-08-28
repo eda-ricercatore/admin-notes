@@ -88,6 +88,8 @@ This set of skill sets is for non-common software development roles, which inclu
 ##	Software Development for Educational Technology
 
 
+
+Skill sets for software development for educational technology:
 + Experience with higher education SIS and LMS systems (Banner, Colleague, Jenzabar, Canvas, Blackboard, etc.) strongly preferred
 
 
@@ -103,11 +105,27 @@ This set of skill sets is for non-common software development roles, which inclu
 
 
 
+##	Software Development for Project Management
 
 
 
-
-
+Skill sets for software development for project management:
++ skill set:
+	- Identify, recommend and implement improvements on the project management process and tools – examples:
+		* Project idea intake process
+		* Resource planning process
+		* Project prioritization process
+		* Project close-out process
+		* Project portfolio management software and collaboration tools
+		- Project management process, templates and tools documentation and training
+	- Demonstrated experience working with project and portfolio practice, including project ideation
+- 	Demonstrates basic understanding of project management methodology
+	- Strong influencing skills; demonstrated ability to challenge and persuade, directing a group of stakeholders to the best decision
+	- Solid analytical and problem-solving skills; ability to think strategically
+	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
+	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
+	- Minimum of 2 years of experience with transactional-based continuous improvement projects
++ 
 
 
 
