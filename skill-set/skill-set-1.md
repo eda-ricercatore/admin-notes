@@ -1,37 +1,5 @@
 
 
-
-
-
-
-
-
-
-+ tech stack:
-	- Remote hardware administration with IPMI, intelligent platform management interface
-		
-	- Configuration and management of:
-		* SGE/Univa
-		* Slurm
-		* LSF
-		* other DRMS
-	- Jenkins CI
-	- Phabricator
-	- FlexLM licensing
-	- Puppet, Ansible, Nagios
-	- LLVM, GCC
-	- DVCS e.g. Git
-	- AWS, Azure, Google Cloud
-	- XML and XPath/XSLT
-	- Web programming – HTML/DOM, JavaScript, SQL
-	- A solid knowledge about how orchestration tools (Kubernetes, Swarm, OpenStack, etc) can be used to deploy, scale, and operate virtualized entities
-	- Understand CPU virtualization and container technology from the inside out (hypervisors, Xen, LXC, Docker)
-	- The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
-	- Good knowledge of management and security frameworks (SNMP/MIB agents, CLI, RESTful API, OpenBMC) is very useful
-	- Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
-	- Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
-	- Test automation experience (Some exposure to CTest is desirable)
-+ Bonus: Prior experience with Zendesk, Jira or Asana, SQL, in Customer Service or Hospitality
 + Producing effective and interactive data visualizations (Tableau, Shiny, D3)
 + Experience with Databricks or Spark, EMR
 + Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.

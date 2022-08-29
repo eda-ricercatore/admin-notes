@@ -100,8 +100,8 @@ Skills for EDA software development, and other high-end software development:
 		* Jira, for issue tracking.
 		* Confluence, wiki-based collaboration platform
 + CI/CD with:
-	- Docker
-	- Kubernetes
+	- Docker, software platform for container orchestration by exploiting OS-level virtualization
+	- Kubernetes, for container orchestration
 	- AWS
 	- continuous integration (CI) systems, such as:
 		* Jenkins
@@ -109,7 +109,18 @@ Skills for EDA software development, and other high-end software development:
 		* GitHub Actions
 		* GitLab
 + configuration management:
+	- software configuration management includes:
+		* revision/version control
+		* build automation
+		* system configuration
+		* process management
+		* environment management
+		* defect tracking
 	- Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
+		* Ansible, software tool suite to enable infrastructure as code
+		* Puppet, for software configuration to specify system configuration
+		* Saltstack, for event-driven IT automation, remote task execution, and configuration management
+		* Nagios Core, or Nagios, for monitoring systems, networks, and infrastructure
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.

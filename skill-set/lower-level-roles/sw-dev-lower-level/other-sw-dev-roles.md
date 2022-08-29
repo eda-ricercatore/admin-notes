@@ -202,7 +202,10 @@ Skill sets for software development for product management:
 	- You have a strong record of project execution and completion and have experience with Scrum and agile development practices
 	- You love working with smart people and want to be part of a team
 	- You are excited by the challenge of pushing the limits of the infrastructure to deliver disruptive, innovative solutions to the world that will delight your customers
-
++ Bonus: Prior experience with Zendesk, Jira or Asana, SQL, in Customer Service or Hospitality
+	- Zendesk, SaaS products for customer communications, such as customer support and sales
+	- Jira, for issue tracking
+	- Asana, Web and mobile work management platform to help teams organize, track, and manage their work
 
 
 

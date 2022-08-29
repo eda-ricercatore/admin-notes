@@ -556,6 +556,50 @@ Skill set for DevOps:
 	- Experienced in data sanitization, data import and export (ETL).
 	- Familiar with SQL Server products, i.e. SQL Integration Services and Reporting Services.
 	- Work with the application team to create and maintain effective database-coupled application logic stored procedures, triggers and user-defined functions (UDFs); these are programs that are under the control of the DBMS (SQL, MySQL, Postgres, MongoDB)
++ tech stack:
+	- Remote hardware administration with IPMI, intelligent platform management interface
+		* IPMI, intelligent platform management interface: set of computer interface specifications for autonomous computer subsystem that provide management and monitoring capabilities independently of host system's processor, firmware (e.g., BIOS or UEFI), and operating system.
+	- Configuration and management of:
+		* SGE/Univa: Sun Grid Engine/Univa Grid Engine, batch-queueing system for scheduling resources in a data center applying user-configurable policies to help improve resource sharing and throughput by maximizing resource utilization.
+		* Slurm, workload manager
+		* LSF, load sharing facility
+		* other DRMS
+	- Jenkins CI
+		* automation server
+	- Phabricator, Web-based collaboration tools for Web development.
+	- FlexLM licensing, for license management
+	- Puppet, Ansible, Nagios
+		* Puppet, for software configuration to specify system configuration
+		* Ansible, automation tool that enables infrastructure as code.
+		* Nagios Core, or Nagios, for monitoring systems, networks, and infrastructure
+	- LLVM, GCC
+	- DVCS e.g. Git
+	- AWS, Azure, Google Cloud
+	- XML and XPath/XSLT
+		* XPath, XML Path Language, an expression language for supporting the query or transformation of XML documents
+		* XSLT, extensible stylesheet language transformation, XML-based language used by processing software to transform XML documents
+	- Web programming – HTML/DOM, JavaScript, SQL
+		* DOM, Document Object Model, programming API for HTML and XML documents
+	- A solid knowledge about how orchestration tools (Kubernetes, Swarm, OpenStack, etc) can be used to deploy, scale, and operate virtualized entities
+		* Kubernetes, for container orchestration
+		* Swarm, for container orchestration in Docker
+	- Understand CPU virtualization and container technology from the inside out (hypervisors, Xen, LXC, Docker)
+		* hypervisors, for virtual machine monitors (VMMs) or virtualizers
+		* Xen, a hypervisor tool.
+		* LXC, OS-level virtualization for running multiple isolated Linux systems/containers on control host using a single Linux kernel.
+	- The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
+		* BuildBot, for job scheduling of the software build process and software tests to facilitate continuous integration (of new additions or changes to the code base).
+	- Good knowledge of management and security frameworks (SNMP/MIB agents, CLI, RESTful API, OpenBMC) is very useful
+		* SNMP/MIB,
+			+ SNMP, Simple Network Management Protocol, Internet Standard protocol for collecting and organizing information about managed devices on IP networks
+		* OpenBMC, management controllers for servers, rack switches, and RAID appliances
+	- Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
+	- Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
+		* ILOM, Integrated Lights Out Manager, for managing and moitoring servers
+		* BMC, baseboard management controller for IPMI, intelligent platform management interface
+			+ Or, products from BMC Software.
+		* OCP (Open Compute)
+	- Test automation experience (Some exposure to CTest is desirable)
 + skill set:
 	- BLAH.
 + skill set:
