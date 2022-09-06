@@ -1,19 +1,10 @@
 
-
-+ Producing effective and interactive data visualizations (Tableau, Shiny, D3)
-+ Experience with Databricks or Spark, EMR
-+ Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
-+ Experience with Scala, Scalding, Luigi,Hive, machine learning pipelines and model training is a plus
-+ Automate DB (Oracle, Postgres, MongoDB, ...) configuration, deployment, backups, ...
-+ Experience with at least one of: Oracle, Postgres, MongoDB, Solr
-+ Chef/Puppet/Ansible/Terraform experience is nice to have
-+ Experience with full-text search engines (Solr, Elasticsearch).
 + Familiarity with Docker (and Kubernetes/Mesos Marathon)
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
 + workflow management tools like Airflow
-+ search backends like ElasticSearch
+
 + Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
 + VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)

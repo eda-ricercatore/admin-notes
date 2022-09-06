@@ -85,6 +85,28 @@ reactive programming = asynchronous dataflow programming
 + Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
 + You can Figma in your sleep.
 + skill set:
+	- We're Progress and we offer the best platform for building and deploying tomorrow's applications quickly and easily. We are bold, forward-thinking innovators who build things that work and care about our customers. We invent and reinvent every day, work together as one, value and respect each other, and cheer our wins. Join us as a UX Designer for our Product team in Bangalore , India (Remote is an option).
+	- As a UX Designer, you will push your creative, problem-solving, and people skills to the fullest. You will study end-users to understand their problems, generate breakthrough design concepts, and craft them into buildable solutions. You will also create interactive prototypes as needed to simulate the experience and validate your solutions with users. You will provide detailed interaction specifications and support developers to make sure your work is built to specification.
+	- Create interfaces for web applications and websites, define the user experience for all of Progress product line including Ecommerce
+	- Initiate, suggest, and spearhead major UI refactoring for a more intuitive user-experience
+	- Work closely with the product management, marketing, and engineering teams to lead the strategic vision ofProgress’ products and for direction and support.
+	- Brainstorm, research, wireframe, design and refine user experiences - all within specified product requirements and deadlines
+	- Act as the user advocate during the development process subjecting early-stage designs to usability testing or expert review, and offering implementation suggestions from a user-centered perspective
+	- Gather data from multiple user research inputs to create and prioritize usability initiatives for all products
+	- Identify opportunities for innovation based on research and competitive analysis
+	- Deliverables will include wireframes, workflow diagrams, interactive mock-ups, behavioral specifications, style guides, personas and prototypes
+	- 5+ years of user experience design experience for software, Web applications which leverage emergent technologies, consumer electronics and/or mobile devices
+	- Experience in working on Products focused towards developers managing infrastructure and applications on the cloud
+	- Bachelor’s or Master’s degree in design-related fields or substantial experience in design with a strong portfolio of recent UI & UX work
+	- Have a strong portfolio of modern, sophisticated interaction designs for web and mobile applications
+	- Strong design intuition, Persuasive design skills and a natural ability to empathize with different personas
+	- Have good conceptual and big-picture design skills including user experience architecture, information architecture
+	- Strong working knowledge of Photoshop, Illustrator, InDesign, Fireworks, Balsamic, Azure and associated design tools
+	- Experience with user interface design patterns, rapid prototyping skills, and standard UCD methodologies
+	- Good general understanding of HTML, CSS, JS concepts and development
+	- Strong written and verbal communication skills and ability to persuade others to the good ideas
+	- Understanding of common software project management and agile practices
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

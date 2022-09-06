@@ -94,6 +94,8 @@ Skills for EDA software development, and other high-end software development:
 + Build system experience, like:
 	- Maven (for JVM software, and other languages, such as C\# and Ruby)
 	- ***Bazel***
+		* For automating the building and testing of software.
+		* Derived from the Google internal tool, Blaze.
 	- Gradle (for JVM software, and C and C++)
 + project management tools:
 	- Working with Jira and Confluence a plus.
@@ -108,6 +110,7 @@ Skills for EDA software development, and other high-end software development:
 		* TeamCity
 		* GitHub Actions
 		* GitLab
+		* Circle CI
 + configuration management:
 	- software configuration management includes:
 		* revision/version control
@@ -132,9 +135,16 @@ Skills for EDA software development, and other high-end software development:
 	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.
 + Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
 + Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
-
-
-
++ experience with these software testing methodologies:
+	- unit tests
+	- integration tests
+	- regression tests
+	- smoke tests
+	- load tests
+	- chaos tests
++ Software libraries
+	- C++ libraries:
+		* http://doc.hc2.ch/c_cpp/en/cpp/links/libs.html
 
 
 
@@ -3466,11 +3476,28 @@ Skill sets for computer vision:
 	- Architect and train machine learning models for object detection and tracking
 	- Build testing environment to test the model and simulate edge-case performance scenarios
 	- Experience with at-least one of Tensorflow/Caffe/Theano/Torch
-
-
-
-
-
++ skill set:
+	- skills and knowledge of topics, such as:
+		* object recognition
+		* semantic segmentation
+		* human recognition
+		* SLAM, simultaneous localization and mapping.
+			+ 3-D SLAM, or localization
+		* 6-D object pose estimation algorithm
+			+ human pose estimation
+		* ray tracing
+		* physically-based rendering
+		* efficient 3-D map representation
+	- performance tuning for robots in real environments
+	- performance improvement of machine learning model using simulation
+	- robot system development, using ROS 1, ROS 2
+	- cloud-based distributed learning experience
+	- transfer learning from simulation to real machine
+	- accelerating algorithms with OpenCL and CUDA
+	- sensor simulation:
+		* camera
+		* LIDAR
+		* RBG-D sensors
 
 
 
@@ -4352,8 +4379,33 @@ Sets of skills for generic data science roles:
 	- Spark, TensorFlow, or Keras
 	- Cloud computing platforms and large web-scale distributed systems
 + Expertise in additional statistical methods (e.g., Bayesian approaches, dyadic analysis, causal inference approaches, factor analysis, SEM)
-
-
++ Experience with Databricks or Spark, EMR
+	- Databricks: data lakehouse architecture, cluster management for computer clusters (in the context of cluster computing), and associated machine learning technology
+	- Adobe Spark, or Spark: open-source unified analytics engine for large-scale data processing
+		* large-scale, multi-language engine extreme data engineering, data science, and machine learning on single-node machines or clusters
+		* for the following tasks:
+			+ machine learning
+			+ data science, or data analytics, at scale
+			+ batch/streaming data
+			+ SQL analytics
+		* for programming languages:
+			+ Python
+			+ SQL
+			+ Scala
+			+ Java
+			+ R
+	- Amazon Elastic MapReduce, Amazon EMR
+		* for applications in:
+			+ machine learning
+			+ extract, transform, load (ETL)
+			+ real-time streaming
+			+ genomics
+			+ clickstream analysis
+		* accessed using:
+			+ AWS Command Line Interface, AWS CLI
+			+ AWS Console
+		* Not EMR, electronic medical record = electronic health record
++ build multivariate simulation data pipelines on a cloud for integration tests
 
 
 
@@ -4430,7 +4482,24 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- PowerBI
 	- Qlik
 	- Google Charts
-	
++ Producing effective and interactive data visualizations (Tableau, Shiny, D3)
++ Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4612,7 +4681,6 @@ Skill sets for business analytics:
 
 
 
-
 ###	Data Science for Health Companies & Other Organizations
 
 
@@ -4629,6 +4697,22 @@ Skill sets for business analytics:
 	- Pig Latin Scripts and MapReduce jobs
 	- Hands-on experience in backend programming, particularly Java, and Node.js
 	- Analytical and problem-solving skills
++ skill set:
+	- knowledge of:
+		* clincial trials
+		* digital health tools
+		* employee's health management
+		* health care system in other countries
+	- management of health care real-world data, RWD
+	- experience in defining/creating requirement documents (e.g., PRD) of health care product/service, launch them, and improve in an agile way 
+
+
+
+
+
+
+
+
 
 
 
@@ -4711,6 +4795,53 @@ They support databases for:
 ####	Skill Sets for Data Engineering
 
 ***Skill sets for data engineering***:
++ Experience with Scala, Scalding, Luigi, Hive, machine learning pipelines and model training is a plus
+	- Luigi:
+		* [The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
+			+ "Luigi helps you to build modularizable, extensible, scalable and consistent UIs and Web Apps."
+			+ "Create a unified user experience around your complex functionality in a distributed development environment."
+			+ "Build administration and business User Interfaces using Luigi and discover its benefits."
+		* [***Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.***](https://github.com/spotify/luigi)
+			+ "Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more."
+			+ "The purpose of Luigi is to address all the plumbing typically associated with long-running batch processes. You want to chain many tasks, automate them, and failures will happen. These tasks can be anything, but are typically long running things like Hadoop jobs, dumping data to/from databases, running machine learning algorithms, or anything else."
+			+ "There are other software packages that focus on lower level aspects of data processing, like Hive, Pig, or Cascading. Luigi is not a framework to replace these. Instead it helps you stitch many tasks together, where each task can be a Hive query, a Hadoop job in Java, a Spark job in Scala or Python, a Python snippet, dumping a table from a database, or anything else. It's easy to build up long-running pipelines that comprise thousands of tasks and take days or weeks to complete. Luigi takes care of a lot of the workflow management so that you can focus on the tasks themselves and their dependencies."
+			+ "You can build pretty much any task you want, but Luigi also comes with a toolbox of several common task templates that you use. It includes support for running Python mapreduce jobs in Hadoop, as well as Hive, and Pig, jobs. It also comes with file system abstractions for HDFS, and local files that ensures all file system operations are atomic. This is important because it means your data pipeline will not crash in a state containing partial data."
+				- Hive:
+					* ["The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive."](https://hive.apache.org/)
+						+ "The Hive DDL operations are documented in Hive Data Definition Language."
+						+ "The Hive DML operations are documented in Hive Data Manipulation Language."
+						+ ["The Apache Hive™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage and queried using SQL syntax."](https://cwiki.apache.org/confluence/display/Hive//Home)
+							- "Tools to enable easy access to data via SQL, thus enabling data warehousing tasks such as extract/transform/load (ETL), reporting, and data analysis."
+							- "Hive is not designed for online transaction processing (OLTP) workloads. It is best used for traditional data warehousing tasks."
+							- "Hive is designed to maximize scalability (scale out with more machines added dynamically to the Hadoop cluster), performance, extensibility, fault-tolerance, and loose-coupling with its input formats."
+				- Pig:
+					* ["Apache Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. The salient property of Pig programs is that their structure is amenable to substantial parallelization, which in turns enables them to handle very large data sets."](https://pig.apache.org/)
+						+ At the present time, Pig's infrastructure layer consists of a compiler that produces sequences of Map-Reduce programs, for which large-scale parallel implementations already exist (e.g., the Hadoop subproject).
+						+ Pig's language layer currently consists of a textual language called Pig Latin, which has the following key properties:
+							- Ease of programming. It is trivial to achieve parallel execution of simple, "embarrassingly parallel" data analysis tasks. Complex tasks comprised of multiple interrelated data transformations are explicitly encoded as data flow sequences, making them easy to write, understand, and maintain.
+							- Optimization opportunities. The way in which tasks are encoded permits the system to optimize their execution automatically, allowing the user to focus on semantics rather than efficiency.
+							- Extensibility. Users can create their own functions to do special-purpose processing.
+				- ["The ***Cascading Ecosystem*** is a collection of applications, languages, and APIs for developing data-intensive applications."](https://www.cascading.org/)
+			+ ["Luigi is a Python (2.7, 3.6, 3.7 tested) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more."](https://luigi.readthedocs.io/en/stable/index.html)
+				- "The purpose of Luigi is to address all the plumbing typically associated with long-running batch processes. You want to chain many tasks, automate them, and failures will happen. These tasks can be anything, but are typically long running things like Hadoop jobs, dumping data to/from databases, running machine learning algorithms, or anything else."
+			+ From https://qconnewyork.com/ny2015/system/files/presentation-slides/MattWilliams%20-%20qcon2015%20-%20luigi.pdf:
+				- Python module to help build complex pipelines
+					* dependency resolution
+					* workflow management
+					* visualization
+					* hadoop support built in
+				- Doesn’t help you with the code, that’s what Scalding (scala), Pig, or anything else is good at.
+				- It helps you with the plumbing of connecting lots of tasks into complicated pipelines, especially if those tasks run on Hadoop.
+				- Luigi doesn’t replace Hadoop, Scalding, Pig, Hive, Redshift. It orchestrates them.
+				- Core beliefs of Luigi:
+					* Should remove all boilerplate code.
+					* Be as general as possible.
+					* Be easy to go from test to production code.
+	- Scalding:
+		* ["Scalding is a Scala library that makes it easy to specify Hadoop MapReduce jobs."](https://twitter.github.io/scalding/)
+			+ https://github.com/twitter/scalding
+			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
+			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
 + skill set:
 	- Investigate the feasibility of applying scientific principles and concepts to business problems.
 	- Understand the ***Goodreads/Amazon data structures (MySQL/Data Lake/Redshift)***.
@@ -5023,6 +5154,10 @@ They support databases for:
 + Expertise in SQL, programming (e.g. Python, Scala), ETL and data warehousing concepts at scale (TBs of data)
 + Expertise in broad technical skills spanning data access, data storage, data processing, and data visualization.  Skills include: SQL, logical / semantic data modeling, ETL and data warehousing concepts, programming languages (Python)
 + Build data tooling to enable data lake, data warehouse, and analytics workflows within the AWS cloud (S3, Redshift, DynamoDB, Spark, Kinesis, Kubernetes, etc.)
++ experience with API design
+	- REST
+	- OpenAPI Specifications
+	- GraphQL
 + skill set:
 	- BLAH.
 + skill set:
@@ -5199,48 +5334,6 @@ Skill sets for DataOps:
 
 
 
-###	Management of Information Systems, MIS
-
-
-####	Notes about MIS
-
-
-Goals of MIS:
-+ facilitate decision making
-+ coordination, control, analysis, and visualization of information in an organization
-
-
-Types of MIS include:
-+ decision support systems, DSSs
-+ executive information systems, EIS
-+ marketing information systems
-+ accounting information systems
-+ human resource information systems
-+ office automation systems, OAS
-+ school information management systems, SIMS
-+ enterprise resource planning, ERP
-+ local databases
-	- primal or base-level version of MIS
-
-
-
-
-Enterprise applications of MIS:
-+ customer relationship management, CRM
-+ DLP, data loss prevention software
-	- ILDP, information leak detection and prevention
-	- ILP, information leak prevention
-	- CMF, content monitoring and filtering
-	- IPC, information protection and control
-	- EPS, extrusion prevention system
-	- IPS, intrusion prevention system
-	- IDS, intrusion detection system
-		* NIDS, network intrusion detection system
-		* HIDS, host-based intrusion detection system
-+ enterprise resource planning, ERP
-	- or, enterprise systems
-+ knowledge management system, KMS
-+ supply chain management, SCM
 
 
 
@@ -5248,154 +5341,14 @@ Enterprise applications of MIS:
 
 
 
-####	Skill Sets for MIS
-
-
-Skill set for management of information systems, MIS:
-+ database systems+ :
-	- PostgreSQL database management system
-+ Interact with MySQL data stores and NSQ messaging queues.
-+ Senior Data Integration Solution Architect
-	- Join us as we pursue our disruptive new vision to make machine data accessible, usable, and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most importantly, to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
-	- As a Senior Solution Architect within the Enterprise Architecture group, you will play an important role in the success of our data integration strategy that directly impacts critical internal business processes that run our $3B+ and growing business. You will be responsible for defining the overall solution and technical architecture for our data integration platform that meets our vision for a Programmable Enterprise, while providing data integration solutions and expertise for a variety of complex internal business scenarios across the enterprise. You will need to apply your deep knowledge of ​data integration technologies, expertise with integration design patterns, and business application integration experience. To be successful you will have to balance priorities, collaborate with senior leaders, and present to executives while delivering within an agile delivery framework to meet key performance indicators.
-	- This position requires you to be a self-starter with the ability to take ownership, prioritize, and handle various tasks simultaneously while maintaining a positive demeanor. In addition, strong verbal communication and written documentation skills are a must for this role for promoting ideas throughout the business to both technical and non-technical audiences.
-	- Lead the overall technical strategy and solution design for a robust and scalable data integration and API platform
-	- Facilitate the evaluation and selection of integration tools and technologies to meet business needs and demands
-	- Define merger and acquisition data integration and migration strategies
-	- Perform proof-of-concepts (POC) to prove out solutions and establish a core codebase ready for implementation
-	- Deliver as-is and to-be application integration solution architecture for a variety of scenarios to meet business requirements and scale the company
-	- Document data flows in relevant segments and ratify data ownership and retention policy with appropriate partners
-	- Deliver high-quality deployment architecture diagrams that describe the solution and implementation
-	- Participate in organization-wide project planning activities with project and product managers to guide on integration implementation strategies and cross-team dependencies
-	- Partner closely with project managers, product managers, and engineering managers to define roadmaps and sprint planning objectives to meet solution designs
-	- Represent the IT organization as the expert for data integration and API reference architecture and ensure alignment across partners
-	- Collaborate with the broader architecture community, such as Architectural Review Board (ARB) and Enterprise Architects Council (EAC), to establish strategies and standard practices
-	- Create executive presentations and present simple solutions to sophisticated problems to diverse partners across the company
-	- 10+ years of demonstrable technical integration experience within IT application development environments
-	- 8+ years of solution and technical architecture experience within the middleware industry to meet strict security and compliance requirements
-	- Experience designing technical integration solutions for Salesforce, SAP S4/HANA, and Workday
-	- Deep experience with a variety of middleware and data integration technology solutions, such as TIBCO, Boomi, Jitterbit, Oracle SOA, IBM WebSphere, Informatica, and/or Matillion
-	- Familiarity with enterprise architecture frameworks such as Zachman and/or TOGAF
-	- Demonstrated knowledge of Service Oriented Architecture (SOA) concepts and practices
-	- Deep understanding of data integration and API concepts, patterns, and technologies
-	- Demonstrable experience working in an Agile software development environment
-	- Excellent both verbal and written communication skills to convey abstract and complex concepts
-	- Travel up to 25% between Splunk offices locations
-	- TOGAF 9 certification
-	- Experience crafting high availability, publish and subscribe systems
-	- Experience with AWS Application Integration and Compute products
-	- BA, BS, or MS in Computer Science/Information Systems/Business or equivalent experience required
-	- (Colorado only\*) Minimum base salary of $135,000.00. You may also be eligible for incentive pay + equity + benefits. \*Note: Disclosure per sb19-085 (8-5-201 et seq).
-+ Experience in operations or cloud service environments and related partner platforms
-	- EDR, endpoint detection and response, or endpoint threat detection and response
-	- XDR, extended detection and response
-		* NTA, network traffic analysis
-	- CSPM
-		* cloud security posture management
-	- SEIM
-		* security event and incident management
-			+ Or, SIEM, security incident and event management
-		* SEIM = security information management + security event management
-			+ SEIM = SIM + SEM
-		* log management
-		* MSS, managed security service
-		* MSSP, managed security service provider
-		* SECaaS, security as a service
-+ You have familiarity with any query language like SQL, SPL etc.
-+ Exposure to ***MariaDB*** or other RDMS
-+ Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
-+ Familiarity with GraphQL and Relay
-	- [***Relay***](https://relay.dev/)
-		* GraphQL client that scales with the database or data set.
-		* Includes *incremental compiler* that performs *automatic optimizations*.
-		* Supports data consistency.
-+ skill set:
-	- Experience building or maintaining databases (MySQL, Hive, etc.)
-	- Experience building or maintaining Big data & streaming systems (Hadoop, HDFS, Kafka, etc.)
-	- Cross-platform coding
-	- Large-scale, large-user base website development experience
-	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
-+ [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(search_engine))
-	- search engine for MySQL family of database management systems (DBMS).
-+ AWS DynamoD
-+ Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
-+ skill set:
-	- Experience managing enterprise monitoring solution; System Center Operations Manager (SCOM), Solarwinds, and/or CA UIM preferred
-	- Experience managing server automation tool and server patching tool; System Center Configuration Manager (SCCM) preferred
-	- Experience creating or modifying scripts or automation, such as Perl, PowerShell, Python, TCL/TK, Ruby or similar for cloud orchestration required
-+ skill set:
-	- PostgreSQL
-	- MongoDB
-	- Prometheus
-		* open-source monitoring system and time series database
-		* dimensional data model
-		* flexible query language
-		* efficient time series database
-		* modern alerting approach
-	- Kubernetes
-+ skill set:
-	- This person will assist in developing data migrations, writing SQL and reports and mentoring other engineers in optimizing and writing efficient queries.
-	- Develop and proactively review the monitoring of production PostgreSQL databases
-	- Participate in system capacity planning
-	- Participate in database design, data modeling and provide recommendations for improvement or optimizations
-	- Provide query / index optimizations
-	- Participate in an agile software development life cycle including providing testing guidelines for database related changes
-	- Provide SQL development support and query tuning
-	- Mentor other engineers in developing efficient SQL queries
-	- Follow the Quality Management System for developing and deploying software
-	- Write reports
-	- 3+ years experience managing a production RDBMS including experience with PostgreSQL
-	- Experience in SQL development and database design
-	- Expertise in SQL DML and DDL
-		* DML, Data Manipulation Language
-			+ SELECT
-			+ INSERT
-			+ UPDATE
-			+ DELETE
-			+ MERGE
-			+ CALL
-			+ EXPLAIN PLAN
-			+ LOCK TABLE
-		* DDL, Data Definition Language
-			+ CREATE
-			+ ALTER
-			+ DROP
-			+ TRUNCATE
-			+ COMMENT
-			+ RENAME
-		* DCL, Data Control Language
-			+ GRANT
-			+ REVOKE
-		* DQL, Data Query Language
-			+ SELECT
-		* TCL, Transaction Control Language
-			+ COMMIT
-			+ SAVEPOINT
-			+ ROLLBACK
-			+ SET TRANSACTION
-			+ SET CONSTRAINT
-		* Procedural language (for certain SQL databases).
-		* Debugging statements (for certain SQL databases).
-	- Have a solid understanding of query planning
-	- Understand PostgreSQL tuning and optimization parameters
-	- Excellent interpersonal and communication skills in both oral and written English
-	- Able to collaborate with cross functional team members
-	- Familiarity with PostgreSQL replication techniques, data warehouse design, and Amazon RDS support beneficial
-+ skill set:
-	- BLAH.
 
 
 
 
 
-###	Data Modeling
 
 
-Skill set for data modeling:
-+ skill set:
-	- Looker is seeking a Senior Software Engineer to join our Data Model team (database semantics, programming languages, and integrated development environment (IDE)). This team's core responsibilities include Looker's SQL normalization and code generation engine (the heart and lungs of our application), the LookML language itself, Looker's in-browser IDE for composing and versioning LookML, and the data pipeline within the Looker application.
-	- The ideal candidate will take an active role in contributing to our long-term technical roadmap and have a deep background in programming language fundamentals (e.g. compiler design) or databases (e.g. building SQL optimizers) or building IDEs, in addition to tried and true experience with software engineering best practices.
-+ 
+
 
 
 

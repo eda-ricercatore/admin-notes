@@ -1178,6 +1178,24 @@ reactive programming = asynchronous dataflow programming
 	- Large-scale, large-user base website development experience
 	- Data mining, machine learning, AI, statistics, information retrieval, linguistic analysis
 	- Strong mathematical background
++ tech stack:
+	- HTML
+	- XML
+	- SOAP
+	- Web API, REST
+	- gRPC
+	- Kafka
+	- MQTT
++ tech stack:
+	- Web API, REST
+	- Kafka
+	- MQTT
+	- AMQT
+	- RDBMS
+	- TCP/UDP
+	- RTP
+	- HTTP
+	- NoSQL
 + skill set:
 	- BLAH.
 + skill set:
@@ -1394,7 +1412,22 @@ reactive programming = asynchronous dataflow programming
 	- Experience with CDN technologies is a plus, but not required.
 	- Familiarity and ability to work with the backend technologies is a plus, but not required.
 + skill set:
-	- BLAH.
+	- In this role, you will actively participate in the front-end development of both existing and new websites that serve the needs of the company’s internal and external end-users. You will use your medium-specific expertise to turn design thinking into high-quality front-end code. By working directly with our visual and experience designers at every step of the process, you will ensure that the full richness of the user experience is taken into account in every design choice and every nuance of design intent is captured in the code.
+	- As a Front-End Developer, you will be expected to:
+	- Implement designs and style guides into functional user interfaces, ensuring high performance and compatibility across all major browsers and multiple screen-sizes
+	- Work with Developers, QA Engineers, UX Designers, and SEO Specialists
+	- Develop cross-browser, semantically correct and responsive front-end code (HTML/CSS/JS)
+	- Analyze various front-end issues, determine their root cause, and work on troubleshooting and possible fixes.
+	- A demonstrated record of experience in front-end development
+	- Advanced knowledge in HTML 5 (including semantics and accessibility)
+	- Advanced knowledge in CSS 3(with any preprocessor)
+	- Advanced knowledge in JavaScript (both native and jQuery/Other Framework)
+	- Experience with Adobe Photoshop / Adobe XD
+	- Exceptional ability to learn new skills
+	- Down-to-earth, creative, driven, and friendly personality.
+	- Good written English skills
+	- ***Experience with Node.js automation frameworks (Grunt/Gulp)***
+	- ***Experience with server technologies like .NET / Java / PHP/ Node.js***
 + skill set:
 	- BLAH.
 + skill set:

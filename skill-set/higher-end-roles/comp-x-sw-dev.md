@@ -84,6 +84,7 @@ This set of skill sets is for computational *X* software development roles, whic
 			+ transport modeling,r transportation o
 				- vehicle modeling
 			+ energy infrastructure, electrical power grids - including smart grids
+			+ building information modeling, BIM
 + computational mathematics
 	- computer algebra
 	- numerical computing
@@ -122,6 +123,17 @@ This set of skill sets is for computational *X* software development roles, whic
 + computational linguistics
 + computational humanities
 	- computational history
++ computational urban planning and architectural design
+	- multi-objective optimization
+		* generative design
+	- parametric design of buildings and other structures
+		* automatic shape generation algorithms
+			+ based on reasonable rules
+			+ using the tools:
+				- *Digital Twins*
+				- Revit-Dynamo
+				- Rhinoceros-Grasshopper
+	- quantification of evaluation indices for judging the merits of designs, produced from computational urban planning and architectural design
 + computational informatics
 + computational creativity, artificial creativity, mechanical creativity, creative computing, or creative computation
 	- computational musicology
@@ -414,6 +426,13 @@ Emerging technologies that would be interesting application domains of computati
 
 
 + [Numerical Library](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
+	- [Blaze C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
+		* https://github.com/parsa/blaze
+		* https://swmath.org/software/33224
+		* https://www.cct.lsu.edu/~pdiehl/teaching/2019/4977/lecture9.pdf
+		* https://www.cct.lsu.edu/~pdiehl/teaching/2019/4977/
+			+ "Math 4997-3 Parallel computational mathematics"
+		* https://isocpp.org/blog/2017/08/cppcon-2016-the-blaze-high-performance-math-library-klaus-iglberger
 + skill set:
 	- BLAH.
 + skill set:

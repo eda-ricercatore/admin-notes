@@ -42,6 +42,11 @@
 	- Able to deliver effective technical presentation to any audience expressing strong communication skills
 	- Problem solver and result oriented
 + Supports the full lifecycle of a capability from Early Adopter Programs (EAP) to General Availability (GA) and across a full range of commerce events including new sales, upgrades, renewals, downgrades, and cancellations with robust monitoring and instrumentation.
++ RFIs, RFPs, prototype development
+	* RFIs: request for information
+	* RFPs: request for proposals
+	* RFTs: request for tenders
+	* RFQs: request for quotations
 + skill set:
 	- BLAH.
 + skill set:

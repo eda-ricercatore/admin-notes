@@ -163,6 +163,18 @@ Skill sets for software development for product management:
 
 
 
+
++ Experience with full-text search engines (Solr, Elasticsearch).
+	- [Solr](https://solr.apache.org/)
+		* "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™."
+		* "Solr is highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more. Solr powers the search and navigation features of many of the world's largest internet sites."
+		* ["Solr (pronounced "solar") is an open-source enterprise-search platform, written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features[2] and rich document (e.g., Word, PDF) handling. Providing distributed search and index replication, Solr is designed for scalability and fault tolerance.[3] Solr is widely used for enterprise search and analytics use cases and has an active development community and regular releases."](https://en.wikipedia.org/wiki/Apache_Solr)
+		* [Solr Tutorials, for Apache Solr 9.0.](https://solr.apache.org/guide/solr/latest/getting-started/solr-tutorial.html)
+		* [Apache Solr Reference Guide](https://solr.apache.org/guide/)
+		* Apache Solr = Apache Searching On Lucene w/ Replication
+	- [Elasticsearch](https://www.elastic.co/)
+		* ["Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents."](https://en.wikipedia.org/wiki/Elasticsearch)
+		* ["Elasticsearch is a distributed search and analytics engine built on Apache Lucene. Since its release in 2010, Elasticsearch has quickly become the most popular search engine and is commonly used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases."](https://aws.amazon.com/opensearch-service/the-elk-stack/what-is-elasticsearch/)
 + skill set:
 	- JavaScript, NodeJS, Java, GraphQL, Ruby, Python, and whatever's needed
 	- AWS Serverless Cloud Architecture with IaC using Terraform

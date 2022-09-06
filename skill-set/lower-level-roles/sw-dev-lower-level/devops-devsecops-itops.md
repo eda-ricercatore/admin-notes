@@ -600,8 +600,62 @@ Skill set for DevOps:
 			+ Or, products from BMC Software.
 		* OCP (Open Compute)
 	- Test automation experience (Some exposure to CTest is desirable)
++ Chef/Puppet/Ansible/Terraform experience is nice to have
+	- [Chef](https://www.chef.io/)
+		* "Automation Software for Continuous Delivery of Secure Applications and Infrastructure"
+		* ["Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"](https://github.com/chef/chef)
+			+ "Chef Infra is a configuration management tool designed to bring automation to your entire infrastructure."
+	- [Puppet](https://puppet.com/)
+		* infrastructure automation
+		* "Puppet is redefining what’s possible for continuous operations. Easily automate your environment to deliver at cloud speed and cloud-scale with products that are responsive and predictive by design."
+		* ["Puppet is a software configuration management tool which includes its own declarative language to describe system configuration. It is a model-driven solution that requires limited programming knowledge to use."](https://en.wikipedia.org/wiki/Puppet_(software))
+		* ["Puppet, an automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification."](https://github.com/puppetlabs/puppet)
+	- [Ansible](https://www.ansible.com/)
+		* "Ansible Automation Platform has grown over the past years to provide powerful automation solutions that work for operators, administrators and IT decision makers across a variety of technology domains. It’s a leading enterprise automation solution from Red Hat®, a thriving open source community, and the de facto standard technology of IT automation."
+		* "The open source projects that power the Ansible Automation Platform are created with contributions from an active community and built for the people who use it every day. The Ansible product and supporting open source communities were made to help more people experience the power of automation so they could work better and faster together."
+		* ["Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems."](https://github.com/ansible/ansible)
+			+ "Ansible is a radically simple IT automation system. It handles configuration management, application deployment, cloud provisioning, ad-hoc task execution, network automation, and multi-node orchestration. Ansible makes complex changes like zero-downtime rolling updates with load balancers easy."
+			+ https://docs.ansible.com
+				- "An enterprise automation platform for the entire IT organization, no matter where you are in your automation journey"
+		* ["Red Hat® Ansible® Automation Platform is a foundation for building and operating automation across an organization. The platform includes all the tools needed to implement enterprise-wide automation."](https://www.redhat.com/en/technologies/management/ansible)
+			+ Ansible Automation Platform provides an enterprise framework for building and operating IT automation at scale, from hybrid cloud to the edge. Ansible Automation Platform enables users across an organization to create, share, and manage automation—from development and operations to security and network teams.
+			+ IT managers can provide guidelines on how automation is applied to individual teams, and automation creators can write tasks that use existing knowledge. Ansible Automation Platform provides a more secure and stable foundation for deploying end-to-end automation.
+		* ["Ansible is a suite of software tools that enables infrastructure as code. It is open-source and the suite includes software provisioning, configuration management, and application deployment functionality"](https://en.wikipedia.org/wiki/Ansible_(software))
+			+ [Windows Subsystem for Linux, WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+				- "Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10, Windows 11,[3] and Windows Server 2019."
+		* [Ansible](https://opensource.com/resources/what-ansible)
+			+ Ansible is a software tool that provides simple but powerful automation for cross-platform computer support. It is primarily intended for IT professionals, who use it for application deployment, updates on workstations and servers, cloud provisioning, configuration management, intra-service orchestration, and nearly anything a systems administrator does on a weekly or daily basis. Ansible doesn't depend on agent software and has no additional security infrastructure, so it's easy to deploy.
+			+ Because Ansible is all about automation, it requires instructions to accomplish each job. With everything written down in simple script form, it's easy to do version control. The practical result of this is a major contribution to the "infrastructure as code" movement in IT: the idea that the maintenance of server and client infrastructure can and should be treated the same as software development, with repositories of self-documenting, proven, and executable solutions capable of running an organization regardless of staff changes.
+			+ While Ansible may be at the forefront of automation, systems administration, and DevOps, it's also useful to everyday users. Ansible allows you to configure not just one computer, but potentially a whole network of computers at once, and using it requires no programming skills. Instructions written for Ansible are human-readable. Whether you're entirely new to computers or an expert, Ansible files are easy to understand.
+	- [Terraform](https://www.terraform.io/)
+		* "Automate Infrastructure on Any Cloud"
+		* "Deliver infrastructure as code"
+		* "Terraform codifies cloud APIs into declarative configuration files."
+		* [Terraform@Wikipedia](https://en.wikipedia.org/wiki/Terraform_(software))
+			+ "Terraform is an open-source, infrastructure as code, software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON."
+		* [Platforms to learn Terraform for](https://learn.hashicorp.com/terraform?track=gcp)
+			+ AWS
+			+ Microsoft Azure
+			+ Terraform Cloud
+			+ Docker
+			+ Google Cloud Platform
+			+ Oracle Cloud Infrastructure, OCI
+		* ["Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."](https://github.com/hashicorp/terraform)
+			+ "Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions."
+			+ Infrastructure as Code: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
+			+ "Execution Plans: Terraform has a 'planning' step where it generates an execution plan. The execution plan shows what Terraform will do when you call apply. This lets you avoid any surprises when Terraform manipulates infrastructure."
+			+ "Resource Graph: Terraform builds a graph of all your resources, and parallelizes the creation and modification of any non-dependent resources. Because of this, Terraform builds infrastructure as efficiently as possible, and operators get insight into dependencies in their infrastructure."
+			+ "Change Automation: Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what Terraform will change and in what order, avoiding many possible human errors."
+		* [Terraform documentation](https://terraform-docs.io/)
 + skill set:
-	- BLAH.
+	- improve deployment pipeline
+	- implement continuous integration (CI) pipeline
+	- architect public cloud enviroments for multiple engineering teams using infrastructure-as-code tools with industry best practices
+	- maintain and upgrade instructure with zero downtime
+	- performance tuning and optimization across the CI stack
+	- knowledge of microservice architecture pattern and cloud-native application
++ understanding of:
+	- containerization and container orchestration tools, such as K8s.
 + skill set:
 	- BLAH.
 + skill set:
@@ -739,6 +793,29 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- ***Kubernetes experience. Working in Kubernetes systems with experience in kubectl and docker containers.***
 	- Terraform experience. Any prior work with Terraform is a plus.
 	- ***Distributed programming. Experience in working on distributed systems like databases, distributed file systems, distributed concurrency control, consistency models, CAP theorem is an added plus.***
++ skill set:
+	- In our Core C/ Chef Product Group, we develop the world's best products for managing applications and infrastructure at scale, and we deploy them to solve real problems in all kinds of industries. We get to work with the latest in cloud and container technologies. We have the opportunity not just to follow but to shape best practices. Our platform is used to enable billions of people around the world to chat, fly, present, bank, game, shop, and learn. Chances are the applications and devices you use every day to have infrastructure built, deployed, secured, and run with our code.
+	- We are seeking a highly motivated, results-oriented individual with strong Site Reliability Engineering skills and experience in cloud technologies to join our platform engineering team. As a Site Reliability Engineer, you will play a lead role in designing, implementing, and supporting the platform for Chef Cloud services. You will also have a key influence on our future processes and platform design.
+	- Build, operate, and maintain a platform for Chef Cloud services. This will include technologies such as AWS services (ECS, EKS, S3, and more), Kubernetes, service mesh (Linkerd or Envoy), Postgres/RDS, Graph databases, API gateways, authentication services, 3rd party integrations, and more.
+	- Collaborate on achieving the best design/architecture for our systems and infrastructure.
+	- Collaborate with other Engineering teams to support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning, and launch reviews.
+	- Maintain services once they are live by measuring and monitoring availability, latency, and overall system health.
+	- Implement modern systems observability solutions including monitoring, alerting, metrics, logging, and APM & distributed tracing.
+	- Scale systems sustainably through automation and evolve systems by pushing for changes that improve reliability and velocity.
+	- Be on-call for services that the SRE team owns.
+	- Practice sustainable incident response and post-incident analysis by acting as an incident manager. You’ll follow our existing incident management process and recommend improvements to that process.
+	- Mentor the team.
+	- You have a Bachelor's degree in Computer Science or related field and 10+ years of relevant experience (or equivalent combination of education and experience).
+	- You have a solid understanding of and experience with configuration management and compliance automation.
+	- You have an expert-level understanding of and at least 2 years of working experience with containerization using Docker and Kubernetes in a production environment.
+	- You’re comfortable deploying and operating services using AWS technologies and have an expert understanding of the various offerings available.
+	- You’ve built and supported systems using cloud-native (CNCF) technologies at scale.
+	- Working knowledge on terraform or similar tools
+	- You are interested in designing, analyzing, and troubleshooting large-scale distributed systems.
+	- You understand what it means to operate infrastructure as code, and have experience developing services and automation to do so. Chef knowledge would be a plus
+	- You have a great ability to debug and optimize code and automate routine tasks to eliminate toil.
+	- You have a systematic problem-solving approach, coupled with strong communication skills and a sense of ownership, initiative, grit, and drive.
+	- You have designed and implemented applications and systems that scale, are resilient to failure, and are observable.
 + skill set:
 	- BLAH.
 + skill set:

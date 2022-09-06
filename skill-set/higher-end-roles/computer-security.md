@@ -127,8 +127,18 @@
 + Experience with SAML, OAuth
 	- SAML: Security Assertion Markup Language
 	- OAuth: Internet protocol for authorization.
++ understanding of security practices around:
+	- IAM
+	- key management
+	- data management
 + skill set:
-	- BLAH.
+	- physical security engineering:
+		* behavioral AI
+		* VMS
+		* privacy design
+		* ID
+		* access control
+		* PF structure 
 + skill set:
 	- BLAH.
 + skill set:

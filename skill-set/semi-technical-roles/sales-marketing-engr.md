@@ -50,6 +50,7 @@
 	- Excellent team skills.
 	- Winning attitude. Openness.
 	- Innovation is in our DNA – from technology to the way we do business.
++ Use tools like Chorus.ai, Outreach.io, SalesLoft, LinkedIn Sales Navigator to identify and qualify decision makers who can utilize Progress solutions
 + skill set:
 	- BLAH.
 + skill set:

@@ -3,6 +3,9 @@
 This set of skill sets is for software development roles in cloud computing.
 
 
+
+##	Notes on Cloud Computing
+
 Notes on cloud computing:
 + ***as a service***, ***aaS***, ***XaaS***, ***anything as a service***
 	- business model for ***something*** presented to internal or external customer ***as a service***
@@ -441,8 +444,19 @@ Notes on cloud computing:
 	- Owns the resource planning process to include maintaining resource management information and resource utilization modeling
 	- Generates, validates, distributes, archives and supports project management documentation and reporting collateral
 	- Monitors quality assurance of project implementation across a large portfolio of business and process improvement projects by establishing, monitoring and reporting on metrics to determine whether projects meet quality, cost and schedule targets
++ search backends like ElasticSearch
 + skill set:
-	- BLAH.
+	- design and build MDF/IDF infrastructure
+	- operational knowledge of DNS, DHCP, and IPAM management through Infoblox
+	- good understanding of infrastructure security, zero trust, SAML IdP
+	- experience of configuring OSPF, BGP routing protocols
+	- automation experience with:
+		* Ansible
+		* Terraform
++ cloud services:
+	- S3
+	- DynamoDB/RDS
+	- ElasticSearch
 + skill set:
 	- BLAH.
 + skill set:
