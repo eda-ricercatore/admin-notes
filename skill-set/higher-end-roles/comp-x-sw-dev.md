@@ -629,6 +629,25 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+##	Software Development for Simulations
+
+
++ simulation technologies and software packages:
+	- Bullet
+	- Drake
+	- Unity
+	- Blender
+	
+
+
+
+
+
+
+
+
+
+
 
 
 

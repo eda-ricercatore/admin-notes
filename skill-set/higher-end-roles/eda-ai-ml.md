@@ -5940,6 +5940,8 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 
 
++ Toyota Research Institute, TRI
+
 
 
 
