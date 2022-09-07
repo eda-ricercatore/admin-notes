@@ -1286,6 +1286,9 @@ Types of ITOA:
 
 
 
+###	 Notes about Artificial Intelligence for IT Operations, AIOps
+
+
 Artificial Intelligence for IT Operations (AIOps) is an industry category for machine learning analytics technology that enhances IT operations analytics.
 
 
@@ -1432,7 +1435,7 @@ Applications of AIOps:
 
 
 
-
+###	 Skill Sets for using Artificial Intelligence for IT Operations, AIOps
 
 
 
