@@ -2407,6 +2407,9 @@ Other EDA topics:
 
 ###	Hardware Security
 
+
+####	Notes about Hardware Security
+
 hardware security topics from Trust-Hub website Trust-Hub.org:
 + System-on-chip (SoC) Attacks and Security
 + Intellectual Property (IP) Trust and Assurance
@@ -2425,7 +2428,7 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 
 
 
-
+####	Skill Sets for Hardware Security
 
 
 
@@ -2438,6 +2441,49 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- Experience with device characterization or PUF techniques
 		* physical unclonable function
 	- Experience with ASIC analog and/or digital design
+
+
+
+
+
+
+
+
+
+
+
+####	Skill Sets for Cyber-Physical System Security
+
+
+
+Skill sets for cyber-physical system security, including robotics security and automotive security:
++ experience with automotive security:
+	- CAN
+	- OTA
+	- Autosar
+	- SILS/HILS
+		* SILS, software-in-the-loop simulation
+		* HILS, hardware-in-the-loop simulation, HWIL, HITL
+			+ for automotive anti-lock braking systems
+				- vehicle dynamics, such as suspension, wheeels, tires, roll, pitch, and yaw
+				- dynamics of brake systems's hydraulic components
+				- road characteristics
+			+ fixed-wing aircraft flight control systems
+				- fly-by-wire control systems
+		* EILS, emulation-in-the-loop simulation
+	- RTOS
+	- QNX
+	- AGL
++ programming language security, for RISC processes:
+	- function block diagram, FBD
+	- ladder diagram, LBD
+	- structured text, ST
+	- instruction list
+	- sequential function chart, SFC
+
+
+
+
 
 
 

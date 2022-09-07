@@ -1,24 +1,34 @@
 #	Skill Sets for Roles in Computer Security
 
 
-
-+ roles:
-	- cloud computing security
-	- risk assessment, analysis, and management
-	- security analysis
-	- governance, risk management, and compliance, GRC
-	- threat intelligence analysis
-	- application security
-	- security engineering
-	- security administration
-	- data management protection
-	- penetration testing
+This document does not include information on hardware security.
 
 
 
 
+##	Notes about Computer Security
 
-#	Junior Roles in Computer Security
+
+###	Roles in Computer Security
+
+
+Roles in computing security:
++ cloud computing security
++ risk assessment, analysis, and management
++ security analysis
++ governance, risk management, and compliance, GRC
++ threat intelligence analysis
++ application security
++ security engineering
++ security administration
++ data management protection
++ penetration testing
+
+
+
+
+
+##	Junior Roles in Computer Security
 
 
 
@@ -214,7 +224,7 @@
 
 
 
-#	Senior Roles in Computer Security
+##	Senior Roles in Computer Security
 
 
 
