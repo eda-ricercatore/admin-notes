@@ -150,15 +150,92 @@ Roles in computing security:
 		* access control
 		* PF structure 
 + skill set:
-	- BLAH.
+	- understanding of one at least {i.e., Microsoft SDL, OWASP, OpenSAMM, BSIMM} security develoment methodology.
+		* Microsoft SDL
+		* OWASP
+		* OpenSAMM
+		* BSIMM
+	- in-depth knowledge of:
+		* secure coding principles
+		* common application security vulnerabilities
+			+ OWASP Top 10 vulnerabilities
+			+ CWE 25 vulnerabilities
+		* well-versed in:
+			+ large-scale application design
+			+ application security testing
+			+ risk management
+			+ information security
+				- threat modeling
+				- secure code review
+				- security testing
+		* authentication protocols and frameworks:
+			+ OAuth
+			+ OpenID
+			+ SSO/SAML
+			+ AWS IAM
+		* managing application security testing tools
+			+ SAST
+			+ DAST
+			+ Open Source Vulberability Scanning
+		* security and privacy frameworks and regulations
+			+ SOC
+			+ PCI-DSS
+			+ ISO
+			+ GDPR
+			+ CCPA
+	- lead the design, engineering, deployment, and maintenance efforts of software for dynamic security testing
+		* Web application discovery and scanning
+		* binary fuzzers
+	- evaluate dynamic testing tools
+	- collaborate with other security and engineering teams to identify repetitive tasks that can be automated
+	- identify application security risks, define requirements, and then build and extend systems to help reduce and track these risks
+	- guide and mentor other engineers in proper engineering practices through code review and other practices
+	- be a role model for other engineering teams at the company in secure engineering practices
 + skill set:
-	- BLAH.
+	- use static security testing to identify emerging security threats in:
+		* production applications and services
+		* autonomous vehicles
+		* IoT devices
+	- work with internal platform teams to deploy safe and secure services through tooling and automation, allowing developers to innovate quickly without compromising security
+	- create or implement:
+		* Web application scanners
+		* scanners
+		* reusable security automation frameworks
+	- build strong partnerships with security and engineering teams, with a customer-focused mindset
+	- extended application security or red teaming experience with basic coding skills
 + skill set:
-	- BLAH.
+	- deep insight of common threat actor methodologies, OWASP Top10 vulnerabilities and MITRE ATT&CK
+	- experience in IT auditing and technical assessments of networks, operating systems, cloud environments
+	- experience configuring GRC tools
+	- build and implement NIST CSF/RMF
+	- experience with:
+		* vulnerability scan
+		* penetration test
+		* compliance automation
+	- proven record of meeting PIPL, such as the following:
+		* APPI
+		* CCPA
+		* GDPR security and privacy requirements
 + skill set:
-	- BLAH.
+	- experience with:
+		* information risk management
+		* IT audit
+		* security governance function
+		* regulatory compliance and information security management frameworks
+			+ ISO27001-2
+			+ NIST CSF
+			+ CMMC
+		* multiple risk assessment methods
+			+ threat modeling
+			+ compliance adherence assessments
 + skill set:
-	- BLAH.
+	- lead threat modeling towards components of:
+		* hardware abstraction layer
+		* service layer
+		* runtime environment and application layer
+		* identifying security issues, risks, and associated mitigations
+	- audit C++ code to identify and patch security vulnerabilities
+	
 + skill set:
 	- BLAH.
 + skill set:

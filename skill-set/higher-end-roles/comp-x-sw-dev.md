@@ -85,6 +85,18 @@ This set of skill sets is for computational *X* software development roles, whic
 				- vehicle modeling
 			+ energy infrastructure, electrical power grids - including smart grids
 			+ building information modeling, BIM
+			+ model-based design approach
+				- verification approaches
+					* X-in-the-loop simulation, X-in-loop simulation, XIL simulation, X-based testing
+					* model-in-the-loop simulation, model-in-loop simulation, MIL simulation, model-based testing
+					* software-in-the-loop simulation, software-in-loop simulation, SIL simulation
+						+ for control logic, controller, control plant, or controller subsystem
+						+ closed-loop simulation with simulated plant
+					* processor-in-the-loop simulation, processor-in-loop simulation, PIL simulation, PIL testing
+					* FPGA-in-the-loop simulation, FPGA-in-loop simulation, FIL simulation, FIL testing, FPGA-in-the-loop testing, FPGA-in-loop testing
+					* hardware-in-the-loop simulation, hardware-in-loop simulation, HIL simulation, HIL testing, hardware-in-the-loop testing, hardware-in-loop testing
+						+ hardware for HILS
+					* rapid control prototyping, RCP
 + computational mathematics
 	- computer algebra
 	- numerical computing

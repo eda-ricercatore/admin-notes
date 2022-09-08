@@ -225,6 +225,11 @@ Skill set for management of information systems, MIS:
 			+ DocuSign
 	- ITSM, IT service management
 + OpenID Connect, OIDC, OIDC authentication, OIDC identity providers, OAuth
++ experience with database analysis:
+	- AWS
+	- SQL
+	- Elastic Search
+	- Kibana
 + skill set:
 	- BLAH.
 + skill set:

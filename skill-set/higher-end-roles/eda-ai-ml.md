@@ -102,8 +102,8 @@ Skills for EDA software development, and other high-end software development:
 		* Jira, for issue tracking.
 		* Confluence, wiki-based collaboration platform
 + CI/CD with:
-	- Docker, software platform for container orchestration by exploiting OS-level virtualization
-	- Kubernetes, for container orchestration
+	- ***Docker***, software platform for container orchestration by exploiting OS-level virtualization
+	- ***Kubernetes***, for container orchestration
 	- AWS
 	- continuous integration (CI) systems, such as:
 		* Jenkins
@@ -111,6 +111,9 @@ Skills for EDA software development, and other high-end software development:
 		* GitHub Actions
 		* GitLab
 		* Circle CI
+	- ***CI/CD pipelines***
+	- microservice architecture
+	- infrastructure as code
 + configuration management:
 	- software configuration management includes:
 		* revision/version control
@@ -2453,6 +2456,12 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 
 
 ####	Skill Sets for Cyber-Physical System Security
+
+
+Cyber-physical system security includes:
++ automotive security
++ autonomous underwater glider, AUG
++ robotics security
 
 
 
