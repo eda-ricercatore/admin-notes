@@ -2527,12 +2527,50 @@ Skill sets for cyber-physical system security, including robotics security and a
 	- understanding of standards:
 		* ISO 21434
 		* ISO 26262
-
-
-
-
-
-
++ skill set:
+	- develop and review requirements, and strategy and road map, for:
+		* static security testing
+		* dynamic security testing
+	- drive investigations into security issues, identify opportunities for further automation to eliminate future issues
+	- knowledge of application security tools:
+		* SAST
+		* DAST
+		* SCA
+	- experience managing execution and high-quality product delivery
+	- ability to handle multiple competing priorities in a fast-paced environment
+	- excellent analytical and communication skills, as well as ability to take initiative and build productive relationships
+	- experience in the design and implementation of security solutions, systems, and mechanisms:
+		* data security
+		* application security
+		* cryptography
+		* systems security
+		* network security
+		* exploit development
++ skill set:
+	- participate in threat modeling and application security reviews
+	- audit embedded code to identify security vulnerabilities
+	- vehicle penetration testing experience
+	- knowledge or experience of advanced smart fuzzing strategies:
+		* mutational
+		* symbolic
+		* American Fuzzy Lop, AFL
+	- experience with QNX
+	- understanding of vehicle functional safety standards:
+		* ISO26262
++ skill set:
+	- security-critical code at scale
+	- security automation tools and processes
+	- information security:
+		* threat modeling
+		* secure code review
+		* security testing
+	- build and maintain security tooling and infrastructure
+	- lead the design and engineering of static analysis tooling
+		* SAST
+		* semantic code analysis
+		* vulnerability management
+	- foster a culture of automation, and build sustainable tooling systems
+	- identify application security risks, define requirements, and then build and extend systems to help reduce and track these risks
 
 
 
