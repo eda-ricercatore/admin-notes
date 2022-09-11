@@ -2489,8 +2489,44 @@ Skill sets for cyber-physical system security, including robotics security and a
 	- structured text, ST
 	- instruction list
 	- sequential function chart, SFC
-
-
++ skill set for vehicle security architect (middleware), or product security engineer:
+	- open software ecosystem
+	- collaborate with cross-functional partners
+	- lead and influence security architecture, risk analysis, vulnerability testing, and security reviews for vehicle products across Woven Planet cross-functional teams
+	- ensure security and privacy by design for embedded or middleware software products
+	- assist development teams in architecting and securing the software and hardware ecosystem
+	- evaluate the security of middleware, libraries, and protocols for embedded systems
+	- lead threat modeling towards components of the hardware abstraction layer, service layer, runtime environment and application layer
+		* identify security issues, risks, and associated mitigations
+	- audit C++ code to identify and patch security vulnerabilities
+	- provide designs to implement the architected solutions
+	- evaluate and recommend new and emerging security products and technologies
+	- 3 years of experience in software security as an architect, or a developer of security solutions
+	- knowledge and experience in the following domains:
+		* security engineering
+		* system and network security
+		* authentication and security protocols
+		* cryptography
+		* operating systems
+		* application security
+	- security expertise in at least one of the following:
+		* implementation of multilayered independent levels of security (MILS) architecture for high-assurance embedded systems
+		* operating system, ARM, and kernel security
+		* security of components of compile time and runtime environment (RTE)
+		* practical experience of development of libraries (C/C++) for software security
+	- knowledge of DevSecOps methodology and components of a secure SDLC
+	- experience with secure operating systems architecture, security design, and threat modeling
+	- experience with:
+		* development of:
+			+ software components for automotive systems or robots
+			+ hardware abstraction layer (HAL) components
+		* security of real-time operating system, RTOS
+		* in-depth knowledge of UNIX-like operating systems and their security components, preferable - used in automotive industry, such as automotive grade Linux
+		* vehicle software development
+		* kernel and hypervisor security
+	- understanding of standards:
+		* ISO 21434
+		* ISO 26262
 
 
 
