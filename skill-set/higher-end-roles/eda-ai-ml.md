@@ -105,12 +105,14 @@ Skills for EDA software development, and other high-end software development:
 	- ***Docker***, software platform for container orchestration by exploiting OS-level virtualization
 	- ***Kubernetes***, for container orchestration
 	- AWS
-	- continuous integration (CI) systems, such as:
+	- continuous integration (CI) systems, deployment tools/platforms, such as:
 		* Jenkins
 		* TeamCity
 		* GitHub Actions
 		* GitLab
 		* Circle CI
+		* Terraform
+		* Semaphore
 	- ***CI/CD pipelines***
 	- microservice architecture
 	- infrastructure as code
@@ -127,6 +129,10 @@ Skills for EDA software development, and other high-end software development:
 		* Puppet, for software configuration to specify system configuration
 		* Saltstack, for event-driven IT automation, remote task execution, and configuration management
 		* Nagios Core, or Nagios, for monitoring systems, networks, and infrastructure
++ tools for agile methods, such as XP and Scrum:
+	- Git
+	- JIRA
+	- Confluence
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.
@@ -3230,6 +3236,9 @@ Skill sets for application engineers of different EDA products:
 	- Demonstrated strong coding from previous work experience or publications. This means you're able to write a non-trivial program in Python, Java, or C++.
 	- Solid CS foundation (including but not limited to Operating Systems, Computer Networks, Database, etc.)
 + Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch.
++ experience creating machine learning products
+	- deploy model
+	- MLOps
 + skill set:
 	- BLAH.
 + skill set:

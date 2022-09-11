@@ -231,7 +231,9 @@ Skill set for management of information systems, MIS:
 	- Elastic Search
 	- Kibana
 + skill set:
-	- BLAH.
+	- PostgreSQL
+	- ElasticSearch
+	- MongoDB
 + skill set:
 	- BLAH.
 + skill set:

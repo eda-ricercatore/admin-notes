@@ -487,9 +487,17 @@ reactive programming = asynchronous dataflow programming
 	- OpenGL
 	- WebGL
 + skill set:
-	- BLAH.
+	- OpenGL
+	- Vulkan
+	- OptiX
 + skill set:
-	- BLAH.
+	- build commercial-grade embedded systems
+	- QNX and automotive grade Linux (AGL)
+	- MISRA C++
+	- AUTOSAR C++
+	- trusted platform module (TPM) technology
+	- standards for cybersecurity (ISO21434) and functional security (ISO26262)
++ SOTIF, safety of the intended functionality
 + skill set:
 	- BLAH.
 + skill set:
