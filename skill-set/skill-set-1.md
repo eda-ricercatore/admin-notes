@@ -114,6 +114,23 @@
 			+ Consequently, this meta framework allows people to ***"start other Mesos frameworks, such as Chronos and Storm,"*** which can be run with Mesos ***"to ensure that they survive machine failures"***.
 			+ **"It can launch anything that can be launched in a standard shell."**
 				- E.g., "you can ... start \[other\] Marathon instances via Marathon".
+		* "cluster manager that handles workloads in a distributed environment through dynamic resource sharing and isolation"
+		* "can deploy and manage applications in large-scale clustered environments"
+		* "Mesos brings together the existing resources of the machines/nodes in a cluster into a single pool from which a variety of workloads may utilize."
+		* Mesos is a data center kernel that is between the operating system and the software application layer.
+		* "Mesos isolates the processes running in" the following resources, so that they can be kept "from interfering with each other":
+			* a cluster
+			* memory
+			* CPU
+			* file system
+			* rack locality
+			* I/O
+		* can be used the following:
+			* Apache Spark
+			* Chronos
+			* Apache Aurora
+			* Mesosphere Marathon
+			* Apache Zookeeper
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
