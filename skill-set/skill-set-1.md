@@ -110,11 +110,13 @@
 			+ Web UI
 			+ true high availability
 			+ fault tolerance
+		* ***Marathon is a meta framework***
+			+ Consequently, this meta framework allows people to ***"start other Mesos frameworks, such as Chronos and Storm,"*** which can be run with Mesos ***"to ensure that they survive machine failures"***.
+			+ **"It can launch anything that can be launched in a standard shell."**
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
 + workflow management tools like Airflow
-
 + Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
 + VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
