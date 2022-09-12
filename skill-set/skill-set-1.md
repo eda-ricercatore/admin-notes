@@ -99,7 +99,17 @@
 								* View
 								* Controller
 		* Marathon provides a REST API for starting, stopping, and scaling applications.
-		* 
+		* speed of infrastructure provisioning can match the speed of application development, application containerization, and application release
+			+ enable the benefits of Docker to be realized in production
+			+ enable rapid application spin-up time of a Docker container or cluster of Docker services
+			+ makes it easier to Dockerize software applications, so that their compute, memory, and CPU resources in traditional hypervisor-centric model
+			+ enables management of data center as if it is a single pool of resources
+		* Apache Mesos is a distributed systems kernel, is designed natively for the cloud, and has built-in support for:
+			+ Docker containers
+			+ HTTP API
+			+ Web UI
+			+ true high availability
+			+ fault tolerance
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
