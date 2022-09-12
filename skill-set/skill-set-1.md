@@ -1,6 +1,7 @@
 
 + Familiarity with Docker (and Kubernetes/Mesos Marathon)
 	- Mesos Marathon:
+		* for operating system -level virtualization, via container orchestration
 		* Apache Mesos
 			+ abstracts the following from machines (physical or virtual):
 				- CPU
@@ -14,6 +15,7 @@
 					* Spark
 					* Kafka
 					* Elasticsearch
+			+ open-source project to manage computer clusters
 		* Marathon is an industry-proven Apache Mesos framework for container orchestration.
 		* Marathon is a production-grade container orchestration platform for Mesosphere's Datacenter Operating System (DC/OS) Apache Mesos.
 			+ runs on DC/OS
