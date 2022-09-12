@@ -113,6 +113,7 @@
 		* ***Marathon is a meta framework***
 			+ Consequently, this meta framework allows people to ***"start other Mesos frameworks, such as Chronos and Storm,"*** which can be run with Mesos ***"to ensure that they survive machine failures"***.
 			+ **"It can launch anything that can be launched in a standard shell."**
+				- E.g., "you can ... start \[other\] Marathon instances via Marathon".
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
