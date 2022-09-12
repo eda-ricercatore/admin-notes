@@ -1,9 +1,77 @@
 
 + Familiarity with Docker (and Kubernetes/Mesos Marathon)
 	- Mesos Marathon:
+		* Apache Mesos
+			+ abstracts the following from machines (physical or virtual):
+				- CPU
+				- memory
+				- storage
+				- other compute resources
+			+ enabling fault-tolerant and elastic distributed systems to easily be built and run effectively
+			+ distributed systems kernel
 		* Marathon is an industry-proven Apache Mesos framework for container orchestration.
 		* Marathon is a production-grade container orchestration platform for Mesosphere's Datacenter Operating System (DC/OS) Apache Mesos.
 			+ runs on DC/OS
+				- Distributed Cloud Operating System (DC/OS)
+					* open-source, distributed operating system based on Apache Mesos distributed systems kernel
+					* provides (or automates the following):
+						+ scheduling
+						+ resource allocation
+						+ service discovery
+						+ workload co-location
+						+ automatic recovery from failure
+						+ load balancing
+						+ software defined networking
+						+ unified APIs for metric and log collection
+						+ facilitates inter-process communication
+						+ install and manage distributed services
+					* manages multiple machines in the cloud or on-premises from a single interface
+						+ Web interface and CLI facilitates remote management and monitoring of the cluster and its services
+					* deploy containers, distributed services, and legacy applications into those machines
+					* provide networking, service discovery, and resource management to keep the services running and communicating with each other
+					* service catalog included
+						+ installing distributed data services, databases, CI/CD tools, and monitoring on DC/OS takes a few clicks or commands
+					* Mesos's 2-level scheduling increases resource utilization, and DC/OS lowers the barrier of entry to Mesos cluster administration
+					* containers and fast data
+						+ deploy and run stateful or stateless distributed workloads, including:
+							- Docker containers
+							- Big Data pipelines tools
+							- traditional apps
+					* containerized workloads
+						+ deploy jobs, services, and containerized apps, and let DC/OS handle the rest
+					* infrastructure portability
+						+ develop locally on DC/OS and deploy to production on DC/OS in the cloud or on-premises
+						+ support for multiple cloud providers prevents infrastructure lock-in
+					* includes 2 built-in task schedule:
+						+ Marathon
+						+ DC/OS Jobs (Metronome)
+					* includes 2 container runtimes:
+						+ Docker
+						+ Mesos
+					* Mesophere Distributed Cloud Operating System (DC/OS) is a platform for running distributed containerized software:
+						+ apps
+						+ jobs
+						+ services
+					* at the software layer, DC/OS provides packaged management and a package repository to install and maage several types of services, as:
+						+ packaged apps and services
+							- databases
+							- message queues
+							- stream processors
+							- artifact repositories
+							- monitoring solutions
+							- continuous integration tools
+							- source control management
+							- log aggegators
+						+ custom apps, services, and scheduled jobs
+					* at the platform layer, the categories of components (shared among master nodes, private agent nodes, and public agent nodes) are:
+						+ cluster management
+						+ container orchestration
+						+ container runtimes
+						+ logging and metrics
+						+ networking
+						+ package management
+						+ IAM and security
+						+ storage
 			+ virtual IP routing
 			+ authorization, for DC/OS enterprise edition only
 				- true multitenancy with each user or group having access to their own applications and groups
@@ -17,6 +85,7 @@
 					* full-stack framework
 					* Web-application framework that spans:
 						+ creating database-backed Web applications according to the Model-View-Controller (MVC) pattern
+							- Model-View-Controller (MVC) pattern is a software architectural pattern, a type of software design patterns.
 							- splits Web applications into 3 layers:
 								* Model
 								* View
