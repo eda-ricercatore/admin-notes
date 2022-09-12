@@ -1,5 +1,28 @@
 
 + Familiarity with Docker (and Kubernetes/Mesos Marathon)
+	- Mesos Marathon:
+		* Marathon is an industry-proven Apache Mesos framework for container orchestration.
+		* Marathon is a production-grade container orchestration platform for Mesosphere's Datacenter Operating System (DC/OS) Apache Mesos.
+			+ runs on DC/OS
+			+ virtual IP routing
+			+ authorization, for DC/OS enterprise edition only
+				- true multitenancy with each user or group having access to their own applications and groups
+			+ can be used to run other Mesos frameworks, such as:
+				- Chronos
+			+ run other application containers, based on Docker or Mesos:
+				- JBoss servers
+				- Jetty
+				- Sinatra
+				- Rails, or Ruby on Rails
+					* full-stack framework
+					* Web-application framework that spans:
+						+ creating database-backed Web applications according to the Model-View-Controller (MVC) pattern
+							- splits Web applications into 3 layers:
+								* Model
+								* View
+								* Controller
+		* Marathon provides a REST API for starting, stopping, and scaling applications.
+		* 
 + Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
 + Elasticsearch, Hadoop, Big Data experience is a plus
