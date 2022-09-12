@@ -9,6 +9,11 @@
 				- other compute resources
 			+ enabling fault-tolerant and elastic distributed systems to easily be built and run effectively
 			+ distributed systems kernel
+				- provides applications, such as:
+					* Hadoop
+					* Spark
+					* Kafka
+					* Elasticsearch
 		* Marathon is an industry-proven Apache Mesos framework for container orchestration.
 		* Marathon is a production-grade container orchestration platform for Mesosphere's Datacenter Operating System (DC/OS) Apache Mesos.
 			+ runs on DC/OS
@@ -72,6 +77,7 @@
 						+ package management
 						+ IAM and security
 						+ storage
+					* to use a service discovery mechanism (or service discovery behavior), do not put dots in your application names
 			+ virtual IP routing
 			+ authorization, for DC/OS enterprise edition only
 				- true multitenancy with each user or group having access to their own applications and groups
