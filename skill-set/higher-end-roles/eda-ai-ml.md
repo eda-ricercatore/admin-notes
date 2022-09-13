@@ -5296,6 +5296,31 @@ They support databases for:
 	- REST
 	- OpenAPI Specifications
 	- GraphQL
++ Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
++ ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
+	- Apache Spark:
+		* open-source unified analytics engine for large-scale data processing
+		* open-source unified engine for large-scale data analytics
+	- Apache Kafka:
+		* distributed event store and stream processing platform
+		* open-source distributed event streaming platform, for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications
+	- YARN, Apache Hadoop YARN:
+		* split up functionalities of resource management and job scheduling/monitoring into separate daemons, via global resource manager (RM) and per-application application master (AM)
+		* not yarn package manager
+	- Tachyon
+		* from Alluxio Inc., previously Tachyon Nexus
+			+ improve Apache Spark performance
+			+ reliable memory-centric distributed storage system
+			+ Alluxio: open-source virtual distributed file system, VDFS
+				- in the big data analytics stack, Alluxio is the data asbtraction layer in between the computation frameworks and (multiple) storage systems, which is accessible via a common interface
+				- APIs for:
+					* Hadoop HDFS
+					* Amazon S3
+					* FUSE
+			+ open-source, distributed, fault-tolerant, in-memory file system to enable data sharing across frameworks and perform operations at memory speed
+		* not open-source component library
+		* not the parallel/multiprocessor ray tracing software
+	- Mesos
 + skill set:
 	- BLAH.
 + skill set:

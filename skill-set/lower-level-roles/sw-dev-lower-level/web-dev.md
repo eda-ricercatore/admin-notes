@@ -1428,6 +1428,48 @@ reactive programming = asynchronous dataflow programming
 	- Good written English skills
 	- ***Experience with Node.js automation frameworks (Grunt/Gulp)***
 	- ***Experience with server technologies like .NET / Java / PHP/ Node.js***
++ Familiarity with Angular framework
+	- Angular framework:
+		* platform for building mobile and desktop Web applications
+		* TypeScript-based free and open-source Web application framework
+			+ rewrite of AngularJS
+			+ AngularJS is deprecated.
+			+ ***Web framework (WF)***, or ***Web application framework (WAF)***
+				- software framework that supports the development of Web applications, such as:
+					* Web services
+					* Web resources
+					* Web APIs
+				- software framework
+					* abstraction for software to provide generic functionality
+					* this generic functionality can be modified by additional user-written code to obtain application-specific software
+						+ provide standard way to build and deploy applications
+						+ universal, reusable software development (runtime system/environment) that provides certain functionalities as part of a larger software platform to facilitate the development of software applications, products, and solutions
+						+ support:
+							- programs
+							- compilers
+							- code libraries
+							- toolsets
+							- APIs
+					* distinguishing features that separate them from normal software libraries
+						+ inversion of control
+						+ default behavior
+						+ extensibility
+						+ non-modifiable frameoker code
+		* Web developer's platform, which allows to build applications and reuse code to build applications for any deploment target:
+			+ Web platform
+			+ mobile Web platform
+			+ native mobile platform
+			+ native desktop platform
+		* developer platform for building mobile and building Web applications, using TypeScript, JavaScript, and other programming languages
+		* TypeScript-based developer platform includes:
+			+ component-based framework for building scalable Web applications
+			+ collection of well-integrated libraries with features for:
+				- routing
+				- forms management
+				- client-server communication
+			+ suite of developer tools for developing, building, testing, and updating code
+		* for responsive UI design, use Angular Material and Angular Flex-Layout
+		* Angular support for client-server communication via HTTP client and REST API on the server side
 + skill set:
 	- BLAH.
 + skill set:

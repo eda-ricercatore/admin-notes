@@ -788,6 +788,7 @@ Skill set for DevOps:
 			* Apache Aurora
 			* Mesosphere Marathon
 			* Apache Zookeeper
++ VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 + skill set:
 	- BLAH.
 + skill set:

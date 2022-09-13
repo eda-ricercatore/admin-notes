@@ -1,17 +1,38 @@
 
-
-+ Familiarity with Angular framework
 + You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
-+ Elasticsearch, Hadoop, Big Data experience is a plus
+	- HashiCorp tools
+		* Terraform: open-source infrastructure as code software tool, for automating infrastructure as code
+			+ infrastructure as code: manage data centers via machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
+			+ infrastructure provisioning automation
+			+ automate infrastructure on any cloud
+		* Consul
+			+ automate service networking across clouds
+			+ automate networking for simple and secure app delivery across clouds
+			+ provides:
+				- service mesh
+				- DNS-based service discovery
+				- distributed KV storage, distributed key-value database, distributed key-value store
+				- RPC, remote procedure call
+				- event propagation
+		* Vault
+			+ manage secrets and protect sensitive data
+			+ create and secure access to tokens, passwords, certificates, and encryption keys
+			+ provides:
+				- secrets management
+				- identity-based access
+				- encrypting application data
+				- auditing of secrets for applications, systems, and users
+	- Chef
+	- Ansible
+	- Nginx
+	- continuous configuration automation, CCA
+		* methodology/process
 + workflow management tools like Airflow
-+ Spark and/or other big data architectures (Hadoop, MapReduce) in high-volume environments
-+ VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
 + We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
 + Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
 + Knowledge of OpenCL/SYCL languages
-+ ***Experience with large-scale, distributed data processing frameworks (e.g., Spark, Kafka, YARN, Tachyon, Mesos, etc.) is a plus***
 + Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
 + Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 + ***Open-source projects that demonstrate relevant skills  and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***

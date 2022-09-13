@@ -218,7 +218,7 @@ Skill sets for software development for product management:
 	- Zendesk, SaaS products for customer communications, such as customer support and sales
 	- Jira, for issue tracking
 	- Asana, Web and mobile work management platform to help teams organize, track, and manage their work
-
++ Elasticsearch, Hadoop, Big Data experience is a plus
 
 
 
