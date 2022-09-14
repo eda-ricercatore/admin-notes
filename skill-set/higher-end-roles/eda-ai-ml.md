@@ -133,6 +133,9 @@ Skills for EDA software development, and other high-end software development:
 	- Git
 	- JIRA
 	- Confluence
++ package managers:
+	- Mamba
+		* reimplementation of *conda* package manager in *C++*.
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.

@@ -457,6 +457,45 @@ Notes on cloud computing:
 	- S3
 	- DynamoDB/RDS
 	- ElasticSearch
++ You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
+	- HashiCorp tools
+		* Terraform: open-source infrastructure as code software tool, for automating infrastructure as code
+			+ infrastructure as code: manage data centers via machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
+			+ infrastructure provisioning automation
+			+ automate infrastructure on any cloud
+		* Consul
+			+ automate service networking across clouds
+			+ automate networking for simple and secure app delivery across clouds
+			+ provides:
+				- service mesh
+				- DNS-based service discovery
+				- distributed KV storage, distributed key-value database, distributed key-value store
+				- RPC, remote procedure call
+				- event propagation
+		* Vault
+			+ manage secrets and protect sensitive data
+			+ create and secure access to tokens, passwords, certificates, and encryption keys
+			+ provides:
+				- secrets management
+				- identity-based access
+				- encrypting application data
+				- auditing of secrets for applications, systems, and users
+	- Chef, rebranded as Progress Chef
+		* configuration management
+		* software suite, or software tool suite, for enabling infrastructure as code, IaC
+	- Ansible
+	- Nginx
+	- continuous configuration automation, CCA
+		* methodology/process for automating the deployment and configuration of settings and software for physical and virtual data center equipment
+		* tools include:
+			+ Ansible
+			+ CFEngine
+			+ Chef
+			+ Otter
+			+ Pulumi
+			+ Puppet
+			+ SaltStack
+			+ Terraform
 + skill set:
 	- BLAH.
 + skill set:

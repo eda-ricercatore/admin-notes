@@ -190,6 +190,201 @@ Programming languages, frameworks and tools:
 
 
 
+###	Skills Mentioned in the 2022 Kaggle Machine Learning and Data Science Survey
+
+
+Educational platforms for data science courses:
++ Coursera
++ cloud-certification programs, direct from:
+	- AWS
+	- Azure
+	- GCP
++ Udacity
++ university courses, resulting in a degree
++ Udemy
++ DataCamp
++ Kaggle Learn Courses
++ edX
++ LinkedIn Learning
++ Fast.ai
++ deeplearning.ai
++ FourthBrain
+
+
+
+Platforms and products for learning about data science:
++ Kaggle
+	- notebooks
+	- competition
++ online courses
+	- Coursera
+	- edX
++ social media platforms
+	- Reddit
+	- Twitter
++ video platforms
+	- YouTube
+	- Twitch
++ university courses
+
+
+
+
+Frequently used programming languages:
++ PHP
++ Bash
++ C
++ MATLAB
++ C++
++ Python
++ JavaScript
++ SQL
++ C\#
++ Go
++ R
++ Julia
++ Java
+
+
+
+
+Integrated development environments:
++ Notepad++
++ IntelliJ
++ JupyterLab
++ Vim, Emacs, or similar
++ Sublime Text
++ PyCharm
++ Visual Studio Charm, VSCode
++ MATLAB
++ Visual Studio
++ Spyder
++ Jupyter Notebook
++ RStudio/Posit
++ Xcode
+
+
+
+
+
+Hosted notebook products:
++ Databricks Collaborative Notebooks
++ Colab Notebooks
++ Google Cloud Vertex AI Workbench
++ Amazon Sagemaker Studio
++ Code Ocean
++ Noteable Notebooks
++ Hex Workspaces
++ Kaggle Notebooks
++ IBM Watson Studio
++ Gradient Notebooks
++ Amazon Sagemaker Studio Lab
++ Azure Notebooks
++ Amazon EMR Notebooks
++ Deepnote Notebooks
+
+
+
+
+
+
+Data visualization platforms
++ Plotly, or Plotly Express
++ Leaflet, or Folium
++ Shiny, from R platform
++ Altair, Altair-viz
++ Seaborn
++ D3.js, D3 js
++ Geoplotlib
++ Bokeh
++ Ggplot, ggplot2
++ Matplotlib
++ Pygal
++ Dy.graphs, Dygraphs, at dygraphs.com
++ Highcharter
+
+
+
+
+Machine learning frameworks:
++ Fast.ai
++ LightGBM
+	- gradient boosting framework for tree-based learning algorithms
++ Caret
+	- *R* package for *c*lassification *a*nd *re*gression *t*raining
++ Tidymodels
+	- meta-package for modeling and statistical analysis
+		* based on philosophy, grammar, data structure of ***tidyverse***
+		* ***tidyverse***: collection of *R* packages for data science
+	- for the *R* platform
++ PyTorch Lightning
+	- PyTorch research framework
++ JAX
++ PyTorch
++ Keras
++ Scikit-learn
++ Huggingface
++ CatBoost
++ Xgboost
++ TensorFlow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

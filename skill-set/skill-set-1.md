@@ -1,33 +1,6 @@
-
-+ You will work with technologies like: AWS, Docker (Mesos/Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...
-	- HashiCorp tools
-		* Terraform: open-source infrastructure as code software tool, for automating infrastructure as code
-			+ infrastructure as code: manage data centers via machine-readable definition files, rather than physical hardware configuration or interactive configuration tools
-			+ infrastructure provisioning automation
-			+ automate infrastructure on any cloud
-		* Consul
-			+ automate service networking across clouds
-			+ automate networking for simple and secure app delivery across clouds
-			+ provides:
-				- service mesh
-				- DNS-based service discovery
-				- distributed KV storage, distributed key-value database, distributed key-value store
-				- RPC, remote procedure call
-				- event propagation
-		* Vault
-			+ manage secrets and protect sensitive data
-			+ create and secure access to tokens, passwords, certificates, and encryption keys
-			+ provides:
-				- secrets management
-				- identity-based access
-				- encrypting application data
-				- auditing of secrets for applications, systems, and users
-	- Chef
-	- Ansible
-	- Nginx
-	- continuous configuration automation, CCA
-		* methodology/process
-+ workflow management tools like Airflow
++ ***workflow management tools***
+	- Airflow:
+		* 
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
 + We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
