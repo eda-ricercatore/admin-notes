@@ -3659,6 +3659,31 @@ Skill sets for computer vision:
 ###	Natural Language Processing, NLP
 
 
+####	Notes about Natural Language Processing, NLP
+
+
+
+Topics for natural language processing, NLP:
++ word embeddings/vectors:
+	- GLoVe
+	- fastText
+	- word2vec
++ contextualized embeddings
+	- ELMo
+	- CoVe
++ encoder-decoder models
+	- seq2seq
+	- vanilla transformers
++ tranformer language models
+	- GPT-3
+	- BERT
+	- XLnet
+
+
+
+
+
+
 
 Companies involved in natural language processing, NLP:
 + https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/
@@ -3668,7 +3693,7 @@ Companies involved in natural language processing, NLP:
 
 
 
-
+####	Skills for Natural Language Processing, NLP
 
 
 

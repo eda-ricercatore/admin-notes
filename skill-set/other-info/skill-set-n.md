@@ -318,57 +318,156 @@ Machine learning frameworks:
 		* ***tidyverse***: collection of *R* packages for data science
 	- for the *R* platform
 + PyTorch Lightning
-	- PyTorch research framework
-+ JAX
+	- ***PyTorch research framework***
+	- ***Research workflow or production pipeline*** that connects ecosystem tools using **reactive *Python***
+	- ***LightningFlow*** and ***LightningWork*** connect components across the ***machine learning (ML) lifecycle*** of ***model development***, ***data pipelines***, and other tasks.
++ JAX: Autograd and XLA
 + PyTorch
 + Keras
 + Scikit-learn
 + Huggingface
 + CatBoost
+	- gradient boosting framework
 + Xgboost
+	- distributed gradient boosting framework
+		* parallel tree boosting
+			+ GBDT
+			+ GBM
+		* runs on major distributed environment
+			+ Hadoop
+			+ SGE
+			+ MPI
+	- efficient, flexible, and portable
 + TensorFlow
 
 
 
 
 
+Machine learning algorithms:
++ convolutional neural networks
++ decision trees or random forests
++ linear regression, or logistic regression
++ gradient boosting machines
+	- xgboost
+	- lightgbm
++ dense neural networks
+	- MLPs
++ Bayesian approaches
++ evolutionary approaches
++ generative adversarial networks, GANs
++ recurrent neural networks
++ transformer networks
+	- BERT
+	- gpt-3
++ graph neural networks
++ autoencoder networks
+	- DAE
+	- VAE
 
 
 
 
 
 
+categories of computer vision methods:
++ image segmentation methods
+	- U-Net
+	- Mask R-CNN
++ image classification and other general purpose networks
+	- VGG
+	- Inception
+	- ResNet
+	- ResNeXt
+	- NASNet
+	- EfficientNet
++ generative networks
+	- GAN
+	- VAE
++ general purpose image/video tools
+	- PIL
+	- cv2
+	- skimage
++ object detection methods
+	- YOLOv6
+	- RetinaNet
++ vision transformer networks
+	- ViT
+	- DeiT
+	- BiT
+	- BEiT
+	- Swin
+
+
+
+
+
+Methods for natural language processing, NLP:
++ word embeddings/vectors:
+	- GLoVe
+	- fastText
+	- word2vec
++ contextualized embeddings
+	- ELMo
+	- CoVe
++ encoder-decoder models
+	- seq2seq
+	- vanilla transformers
++ tranformer language models
+	- GPT-3
+	- BERT
+	- XLnet
 
 
 
 
 
 
+Services that provide pre-trained model weights:
++ NVIDIA NGC models
++ Kaggle data sets
++ Timm, PyTorch image models
++ TensorFlow Hub
++ Huggingface Models
++ Jumpstart, Amazon SageMaker JumpStart
++ ONNX models
++ PyTorch Hub
++ storage services
+	- Google Drive
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Media sources that report on data science topics:
++ podcasts
+	- Chai Time Data Science
+	- O'Reilly Data Show
++ email newsletters
+	- Data Elixir
+	- O'Reilly Data & AI
++ Twitter
+	- data science influencers
++ course forums
+	- forums.fast.ai
+	- Coursera forums
++ blogs
+	- Towards Data Science
+	- Analytics Vidhya
++ journal publications
+	- peer-reviewed journals
+	- conference proceedings
++ Slack communities
+	- ods.ai
+	- kagglenoobs
++ Reddit
+	- r/machinelearning
++ Kaggle
+	- notebooks
+	- forums
++ YouTube 
+	- Kaggle YouTube
+	- Cloud AI Adventures
 
 
 
