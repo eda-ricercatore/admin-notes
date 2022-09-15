@@ -1,6 +1,43 @@
-+ ***workflow management tools***
++ ***workflow management tools***, or workflow management platforms, or workflow management systems, WfMS, WFMS
+	- infrastructure for the set-up, performance, and monitoring of defined sequences of tasks, arranged as workflow applications
+		* control automated workflows
+		* workflow applications
+			* software applications that automate process(es)
 	- Airflow:
-		* 
+		* open-source workflow management platform for data engineering platform
+		* platform to programmatically author, schedule, and monitor workflows.
+		* monitor, schedule, and manage workflows
+		* "designed under the principle of 'configuration as code'"
+			+ "configuration as code" workflow management platforms
+				- based on markup languages, such as XML
+		* Airflow pipelines enable dynamic pipeline generation
+			+ Write *Python* code to "\[instantiate\] pipelines dynamically"
+		* easily define custom operators and extend libraries to fit level of abstraction for chosen (computing) environment
+			+ has multiple plug-and-play operators to execute tasks on:
+				- Google Cloud Platform
+				- Amazon Web Services
+				- Microsoft Azure
+				- other 3rd-party services
+		* use create workflows, schedule tasks, and dynamically generate tasks based on standard *Python* features
+			+ date time formats
+			+ loops
+			+ ***deploy workflows using standard Python***
+			+ can define tasks and dependencies for Airflow to manage the scheduling and execution
+		* can be managed via Web-based application
+		* does not limit scope of pipelines
+			+ build ML models
+			+ transfer data
+			+ manage infrastructure
+		* workflow orchestration:
+			+ based on directed acyclic graph, DAGs
+				- based on defined schedule, such as hourly or daily
+				- based on external event triggers, such as files for Apache Hive (data warehouse project)
+		* Astro, astronomer.io
+			+ cloud-native data orchestration platform that allow developers to build, run, and observe data pipelines-as-code
+				- powered by Apache Airflow
+	- workflow management platforms that use DAG-based schedulers, and need (multiple) configuration files and file system trees (filesystem trees)
+		* Apache Oozie, server-based workflow scheduling system for managing Hadoop jobs
+		* Azkaban
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
 + We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
