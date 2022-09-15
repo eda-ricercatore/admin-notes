@@ -2,6 +2,208 @@
 
 
 
+
+
+
+
+###	Skills Mentioned in the 2022 Stack Overflow Developer Survey
+
+
+Programming languages of interests:
++ Elixir
+	- dynamic functional programming language
++ Solidity
+	- statically-typed, object-oriented programming language for implementing smart contracts
++ Crystal
+	- statically-typed, object-oriented programming language
+	- similar syntax to *Ruby*
+
+
+
+Other technologies of interest:
++ database environments
+	- [ ] Cassandra
+	- [ ] Cloud Firestone
+	- [ ] Couchbase
+	- [ ] CouchDB
+	- [ ] DynamoDB
+	- [ ] Elasticsearch
+	- [ ] Firebase, Firebase Realtime Database
+	- [ ] IBM DB2
+	- [ ] MariaDB
+	- [ ] Microsoft SQL Server
+	- [ ] MongoDB
+	- [ ] MySQL
+	- [ ] Neo4j
+	- [ ] Oracle database platform
+	- [ ] PostgreSQL
+	- [ ] Redis
+	- [ ] SQLite
++ cloud platforms
+	- [ ] AWS
+	- [ ] Colocation
+	- [ ] DigitalOcean
+	- [ ] Firebase
+	- [ ] Google Cloud
+	- [ ] Heroku
+	- [ ] IBM Cloud or Watson
+	- [ ] Linode
+	- [ ] Managed Hosting
+	- [ ] Microsoft Azure
+	- [ ] OpenStack
+	- [ ] Oracle Cloud Infrastructure
+	- [ ] OVH
+	- [ ] VMware
++ Web frameworks and technologies
+	- [ ] Angular
+	- [ ] Angular.js
+	- [ ] ASP.NET
+	- [ ] ASP.NET Core
+	- [ ] Blazor
+	- [ ] Deno
+	- [ ] Django
+	- [ ] Drupal
+	- [ ] Express
+	- [ ] FastAPI
+	- [ ] Fastify
+	- [ ] Flask
+	- [ ] Gatsby
+	- [ ] jQuery
+	- [ ] Laravel
+	- [ ] Next.js
+	- [ ] Node.js
+	- [ ] Nuxt.js
+	- [ ] Play Framework
+	- [ ] ***Phoenix***
+	- [ ] React.js
+	- [ ] Ruby on Rails
+	- [ ] Spring
+	- [ ] Svelte
+	- [ ] Symfony
+	- [ ] Vue.js
++ Other frameworks and libraries
+	- [ ] .NET
+	- [ ] .NET Core
+	- [ ] Ansible
+	- [ ] Apache Kafka
+	- [ ] Apache Spark
+	- [ ] Capacitor
+	- [ ] Chef
+	- [ ] Cordova
+	- [ ] Electron
+	- [ ] Flutter
+	- [ ] GTK
+	- [ ] Hadoop
+	- [ ] Hugging Face Transformers
+	- [ ] Ionic
+	- [ ] Keras
+	- [ ] Node.js
+	- [ ] NumPy
+	- [ ] Pandas
+	- [ ] Puppet
+	- [ ] PyTorch, Torch
+	- [ ] Qt
+	- [ ] React Native
+	- [ ] Scikit-learn
+	- [ ] Spring
+	- [ ] TensorFlow
+	- [ ] Terraform
+	- [ ] Tidyverse
+	- [ ] Torch/PyTorch
+	- [ ] Unity 3D
+	- [ ] Uno Platform
+	- [ ] Unreal Engine
+	- [ ] Xamarin
++ Other tools
+	- [ ] Ansible
+	- [ ] Chef
+	- [ ] Docker
+	- [ ] Flow
+	- [ ] Homebrew
+	- [ ] Kubernetes
+	- [ ] npm
+	- [ ] Pulumi
+	- [ ] Puppet
+	- [ ] Terraform
+	- [ ] Unity 3D
+	- [ ] Unreal Engine
+	- [ ] Yarn
++ IDEs
+	- [ ] Android Studio
+	- [ ] Atom
+	- [ ] CLion
+	- [ ] Eclipse
+	- [ ] Emacs
+	- [ ] GoLand
+	- [ ] IntelliJ
+	- [ ] IPython/Jupyter
+	- [ ] Nano
+	- [ ] Neovim
+	- [ ] NetBeans
+	- [ ] Notepad++
+	- [ ] PhpStorm
+	- [ ] PyCharm
+	- [ ] Qt Creator
+	- [ ] RAD Studio (Delphi, C++ Builder)
+	- [ ] Rider
+	- [ ] RStudio
+	- [ ] RubyMine
+	- [ ] Spyder
+	- [ ] Sublime Text
+	- [ ] TextMate
+	- [ ] Vim
+	- [ ] Visual Studio Code
+	- [ ] Visual Studio
+	- [ ] Webstorm
+	- [ ] Xcode
++ asynchronous tools
+	- [ ] Adobe Workfront
+	- [ ] Airtable
+	- [ ] Asana
+	- [ ] Cerri
+	- [ ] ClickUp
+	- [ ] Confluence
+	- [ ] DingTalk (Teambition)
+	- [ ] Jira Work Management
+	- [ ] Leankor
+	- [ ] Microsoft Lists
+	- [ ] Microsoft Planner
+	- [ ] monday.com
+	- [ ] Notion
+	- [ ] Planview Projectplace or Clarizen
+	- [ ] Smartsheet
+	- [ ] Stack Overflow for Teams
+	- [ ] Swit
+	- [ ] Trello
+	- [ ] Wimi
+	- [ ] Workzone
+	- [ ] Wrike
++ synchronous tools
+	- [ ] Cisco Webex Teams
+	- [ ] Coolfire Core
+	- [ ] Google Chat
+	- [ ] Mattermost
+	- [ ] Microsoft Teams
+	- [ ] RingCentral
+	- [ ] Rocketchat
+	- [ ] Slack
+	- [ ] Symphony
+	- [ ] Unify Circuit
+	- [ ] Wickr
+	- [ ] Wire
+	- [ ] Zoom
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Skills Mentioned in the 2020 Stack Overflow Developer Survey
 
 
@@ -472,6 +674,73 @@ Media sources that report on data science topics:
 
 
 
+
+
+
+
+
+
+###	Skills Mentioned in the Anaconda report, State of Data Science 2022: Paving the Way for Innovation
+
+
++ tools
+	- Alteryx
+	- AWS Sagemaker
+	- Anaconda
+	- Azure ML Studio
+	- Cloudera CDSW
+	- Comet
+	- Databricks
+	- Dataiku
+	- DataRobot
+	- Domino
+	- Explorium
+	- GitHub
+	- Google AI PLatform
+	- Google BigQuery
+	- Google Colab
+	- H20
+	- IBM Watson Studio
+	- JFrog Artifactory
+	- KNIME
+	- Looker
+	- MLFlow
+	- Nexus Sonotype
+	- PowerBI
+	- RStudio
+	- RapidMiner
+	- SAS
+	- Snowflake
+	- Stack Overflow
+	- Tableau
+	- Weights & Biases
++ issues to address:
+	- access to compute resources
+	- assess data sets for fairness and bias
+	- deploy models in production
+	- ethics in data science and machine learning
+	- evaluate data collection methods
+	- managing package dependencies and environments
+	- meeting IT and InfoSec standards
+	- model decay or data drift
+	- model deployment
+	- model outcomes must be applicable to all related groups and treatments in test sample
+		* no cherry picking data
+	- moving to the cloud
+	- perform series of controlled tests to assess model interpretability
+	- re-coding models from another language to Python/R
+	- re-coding models from Python/R to another language
+	- securing data connectivity
+	- securing network connectivity
+	- skill gap in my organization
+		* data engineering
+		* Docker
+		* Kubernetes
+	- standards for fairness and bias mitigation in data sets and models
+	- suite of statistical fairness tests
+	- use low-interpretability models in low-risk scenarios
+	- use statistical inferential tests to assess variable fidelity
+	- use measures and tools to ensure model explainability and interpretability
 
 
 
