@@ -741,7 +741,13 @@ Media sources that report on data science topics:
 	- use low-interpretability models in low-risk scenarios
 	- use statistical inferential tests to assess variable fidelity
 	- use measures and tools to ensure model explainability and interpretability
-
++ AutoML should:
+	- choose model types to solve specific problems
+	- enable non-experts to train machine learning models
+	- speed up ML pipeline by automating certain workflows
+		* data cleaning
+	- tune many hyperparameters
+	- tune model once performance (such as accuracy) starts to degrade
 
 
 
