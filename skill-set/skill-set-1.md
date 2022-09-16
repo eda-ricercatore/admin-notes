@@ -35,6 +35,10 @@
 		* Astro, astronomer.io
 			+ cloud-native data orchestration platform that allow developers to build, run, and observe data pipelines-as-code
 				- powered by Apache Airflow
+			+ SaaS tool and Kubernetes-deployable Airflow stack that assist with monitoring, alerting, DevOps, and cluster management
+		* ***Cloud Composer***
+			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
+			+ ***Managed Workflows*** from Amazon supports Apache Airflow
 	- workflow management platforms that use DAG-based schedulers, and need (multiple) configuration files and file system trees (filesystem trees)
 		* Apache Oozie, server-based workflow scheduling system for managing Hadoop jobs
 		* Azkaban
