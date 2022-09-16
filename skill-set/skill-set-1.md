@@ -5,11 +5,29 @@
 			* software applications that automate process(es)
 	- Airflow:
 		* open-source workflow management platform for data engineering platform
-		* platform to programmatically author, schedule, and monitor workflows.
+		* "platform ... to programmatically author, schedule, and monitor workflows"
 		* monitor, schedule, and manage workflows
 		* "designed under the principle of 'configuration as code'"
 			+ "configuration as code" workflow management platforms
 				- based on markup languages, such as XML
+		* principles of Airflow:
+			+ scalable
+				- Airflow is scalable, since it has a modular architecture and uses message queue to orchestrate an arbitrary number of tasks
+				- It can scale orchestration, scheduling, and management to infinity
+			+ dynamic
+			+ extensible
+				- define your own operators and extend libraries to fit the level of abstraction that suits my work/compute environment
+			+ elegant
+				- Airflow is lean and explicit.
+				- Supports parameterization, since it is based on the Jinja templating engine
+					* "fast, expressive, extensible templating engine"
+					* special placeholders in the template supports code in Python-like syntax
+					* template uses input data to generate the final document
+					* can generate data in the following text-based format:
+						+ HTML
+						+ XML
+						+ CSV
+						+ LaTeX
 		* Airflow pipelines enable dynamic pipeline generation
 			+ Write *Python* code to "\[instantiate\] pipelines dynamically"
 		* easily define custom operators and extend libraries to fit level of abstraction for chosen (computing) environment
@@ -39,6 +57,11 @@
 		* ***Cloud Composer***
 			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
 			+ ***Managed Workflows*** from Amazon supports Apache Airflow
+		* rich UI allows:
+			+ easier to visualize pipelines running in production
+			+ monitor progress
+			+ troubleshooting issues
+		+ ***"When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative."***
 	- workflow management platforms that use DAG-based schedulers, and need (multiple) configuration files and file system trees (filesystem trees)
 		* Apache Oozie, server-based workflow scheduling system for managing Hadoop jobs
 		* Azkaban
