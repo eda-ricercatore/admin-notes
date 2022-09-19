@@ -50,10 +50,15 @@
 			+ based on directed acyclic graph, DAGs
 				- based on defined schedule, such as hourly or daily
 				- based on external event triggers, such as files for Apache Hive (data warehouse project)
+		* "de facto standard for expressing data flows as code, with a robust and growing community of data engineers, data scientists, and data analysts around the world"
 		* Astro, astronomer.io
 			+ cloud-native data orchestration platform that allow developers to build, run, and observe data pipelines-as-code
 				- powered by Apache Airflow
 			+ SaaS tool and Kubernetes-deployable Airflow stack that assist with monitoring, alerting, DevOps, and cluster management
+			+ allows data scientists, data engineers, applied machine learning scientists, and machine learning engineers, focus on improving data pipeline (for data processing)
+			+ enable faster development of data pipelines with Astro tools, so that the data scientists can focus on their jobs
+			+ reliable and efficient production run-time environment optimized for the cloud increases data availability
+			+ real-time visibility and actionable insights across environments helps data scientists and others find meaning and insight in their data universe
 		* ***Cloud Composer***
 			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
 			+ ***Managed Workflows*** from Amazon supports Apache Airflow
