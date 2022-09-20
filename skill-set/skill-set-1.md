@@ -112,6 +112,10 @@
 				- the common control plane for data pipelines across clouds enables easy management
 				- self-managed and (self-)deployed in the cloud
 				- "launch, manage, and secure Airflow environments with an enterprise-ready software platform built for the most demanding settings"
+				- "reduce task latency with optimized configuration and auto-scaling"
+				- reduce infrastructure consumption for long-running tasks
+				- monitor infrastructure resources at the task-level
+					* identify bottlenecks before they become problems
 				- control plane, end-to-end visibility and control in Astro/Astronomer's cloud:
 					* manage environments
 					* deploy projects
@@ -127,7 +131,22 @@
 					* SaaS products
 					* data applications
 					* data science and machine learning tools
-			* OpenLineage:
+			+ integrated, managed platforms
+				- keep orchestration close to data with single-tenant data plane in a cloud service
+				- remove DevOps overhead with fully-managed solution
+				- spend less time on security hardening with accelerated vulnerability fixes
+				- authorize users with role-based access controls and single sign-on
+				- connect securely to secrets and data services in chosen/created network
+			+ productivity for data team
+				- spin up isolated environments quickly in push-button deployments
+				- develop locally and deploy seamlessly in CI/CD with AstroCLI
+				- build with Python and SWL -native pipeline building blocks
+			+ complete visibility into data universe
+				- visualize activity and dependencies across pipelines and environments
+				- collect lineage metadata automatically through integrated OpenLineage
+				- monitor data quality events
+				- explore lineage and history of datasets over time
+			+ OpenLineage:
 				- open framework for data lineage and observability
 				- resolve data outages faster
 					* identify root causes
@@ -169,7 +188,6 @@
 						+ plan changes with complete view of downstream jobs and datasets
 						+ assess the impact of downstream jobs and datasets across the entire data ecosystem
 						+ ensure that downstream jobs are executed with minimal risk
-			* reduce task
 		* ***Cloud Composer***
 			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
 			+ ***Managed Workflows*** from Amazon supports Apache Airflow
