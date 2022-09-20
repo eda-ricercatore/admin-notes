@@ -1,4 +1,4 @@
-+ ***workflow management tools***, or workflow management platforms, or workflow management systems, WfMS, WFMS
++ ***workflow management tools***, or workflow management platforms, or workflow management systems, or workflow management framework, WfMS, WFMS
 	- infrastructure for the set-up, performance, and monitoring of defined sequences of tasks, arranged as workflow applications
 		* control automated workflows
 		* workflow applications
@@ -50,7 +50,55 @@
 			+ based on directed acyclic graph, DAGs
 				- based on defined schedule, such as hourly or daily
 				- based on external event triggers, such as files for Apache Hive (data warehouse project)
+			+ general-purpose orchestration platform
 		* "de facto standard for expressing data flows as code, with a robust and growing community of data engineers, data scientists, and data analysts around the world"
+			+ open source standard for workflow orchestration
+				- open source workflow orchestrator, with entreprise-ready flexibility and reliability
+				- core principles
+					* flexible
+						+ fully programmatic workflow authoring to maintain full control of the logic in the data pipeline
+					* extensible
+						+ use/leverage robust ecosystem of open source integrations to connect natively 3rd-party datastores and API
+					* open source
+					* scalable
+						+ scale Airflow environment to infinity with modular and highly-available architecture across a variety of execution frameworks
+					* secure
+						+ integrate internal authentication systems and secrets managers for ***platform ops*** experience
+					* modular
+						+ enables plug-ins for internal logging and monitoring systems to monitor metrics of interests
+				- features
+					* highly available scheduler
+						+ fast performance, with near-zero task latency
+						+ can launch scheduler replicas to increase task throughput and ensure high-availability
+					* full REST API
+						+ has robust permissions framework to build programmatic services around Airflow environment
+					* deferrable operators
+						+ accommodate long-running tasks with deferrable operators and triggers that run tasks asynchronously, free up worker slots, and make efficient use of resources
+					* dynamics tasks
+						+ split up as many parallel tasks as needed at run-time in response to the outputs of upstream tasks
+						+ chain dynamic tasks together to simplify and accelerate ETL and ELT processing
+					* event-driven workflows
+						+ leverage dynamic tasks, sensors, and deferrable operators to create robust, event-driven workflows
+					* task flow API
+						+ pass information between tasks with clean, efficient code that is abstracted  from the task dependency layer
+						+ includes support for custom XCom backends
+					* task groups
+						+ replace SubDAGs with a new way to group tasks in Airflow UI
+						+ do not affect task execution behavior
+						+ do not limit parallelism
+					* simplified KubernetesExecutor
+						+ make the most of the `pod_override` parameter for easy 1:1 overrides and the new yaml `pod_template_file` that replaces configs set in `airflow.cfg`
+					* independent providers
+					* UI/UX improvements
+						+ enable us to visualize what is happening with DAGs and tasks, quickly pinpoint task failures, and determine root causes with Airflow's intuitive grid view
+				- applications:
+					* data integration, ETL/ELT
+					* data science and machine learning
+					* operational analytics, business intelligence
+					* workflow orchestration
+			+ programmatically author, schedule, and monitor data pipelines, using:
+				- Python
+				- SQL
 		* Astro, astronomer.io
 			+ cloud-native data orchestration platform that allow developers to build, run, and observe data pipelines-as-code
 				- powered by Apache Airflow
@@ -59,6 +107,69 @@
 			+ enable faster development of data pipelines with Astro tools, so that the data scientists can focus on their jobs
 			+ reliable and efficient production run-time environment optimized for the cloud increases data availability
 			+ real-time visibility and actionable insights across environments helps data scientists and others find meaning and insight in their data universe
+			+ fully managed and deployed in the cloud
+				- use single-tenant data plane in a cloud service, without need for DevOps
+				- the common control plane for data pipelines across clouds enables easy management
+				- self-managed and (self-)deployed in the cloud
+				- "launch, manage, and secure Airflow environments with an enterprise-ready software platform built for the most demanding settings"
+				- control plane, end-to-end visibility and control in Astro/Astronomer's cloud:
+					* manage environments
+					* deploy projects
+					* control users/access
+					* view metrics
+				- data plane, run Airflow in the cloud
+					* Astro cluster in a company
+					* Astro cluster in another company
+				- external data systems, with private and secure connectivity
+					* databases
+					* data lakes and data warehouses
+					* APIs
+					* SaaS products
+					* data applications
+					* data science and machine learning tools
+			* OpenLineage:
+				- open framework for data lineage and observability
+				- resolve data outages faster
+					* identify root causes
+					* determine impacts
+					* remediate issues that cause data downtime with less effort
+				- address cross-team dependencies
+					* explore and understand (complex) dependencies across pipelines, environments, and clouds
+				- visualize quality and performance over time
+					* pinpoint bad data and bottlenecks sooner
+					* remediate impacts throughout the data ecosystem
+				- make data pipelines observable by automatically collecting and correlating detailed information about their operation and the data movement within them
+				- allows teams to build observability into data ecosystems
+					* provides a lingua franca for observation
+				- monitor the creation, movement, and transformation of datasets
+					* used with integration of Apache Airflow, or other orchestration platforms
+				- manage distributed data environments
+				- fix operational issues
+				- enabling engineers to quickly find, fix, and prevent complex operational issues
+				- trace the end-to-end journey of each dataset
+				- consolidate quality metrics
+				- surface operational issues
+				- ensure availability and trustworthiness of business-critical data
+				- design principles:
+					* operational
+						+ up-to-date lineage graph that shows the data flow among various jobs, datasets, and systems
+						+ integrates directly with orchestration platforms and warehouses
+						+ observe data relationships as they are formed
+						+ help teams quickly determine the scope of emerging issues and respond with accuracy
+					* platform agnostic
+						+ collection of tools and platforms for data engineering
+						+ connects all the tools and platforms in the tool suite together
+					* extensible
+						+ open specification managed by an open commmunity
+						+ allows for independent creation of extensions
+				- use cases:
+					* data observability
+					* root cause analysis
+					* impact planning
+						+ plan changes with complete view of downstream jobs and datasets
+						+ assess the impact of downstream jobs and datasets across the entire data ecosystem
+						+ ensure that downstream jobs are executed with minimal risk
+			* reduce task
 		* ***Cloud Composer***
 			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
 			+ ***Managed Workflows*** from Amazon supports Apache Airflow
