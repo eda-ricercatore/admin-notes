@@ -3,7 +3,7 @@
 		* control automated workflows
 		* workflow applications
 			* software applications that automate process(es)
-	- Airflow:
+	- ***Airflow***:
 		* open-source workflow management platform for data engineering platform
 		* "platform ... to programmatically author, schedule, and monitor workflows"
 		* monitor, schedule, and manage workflows
@@ -99,7 +99,7 @@
 			+ programmatically author, schedule, and monitor data pipelines, using:
 				- Python
 				- SQL
-		* Astro, astronomer.io
+		* ***Astro, astronomer.io***
 			+ cloud-native data orchestration platform that allow developers to build, run, and observe data pipelines-as-code
 				- powered by Apache Airflow
 			+ SaaS tool and Kubernetes-deployable Airflow stack that assist with monitoring, alerting, DevOps, and cluster management
@@ -146,7 +146,7 @@
 				- collect lineage metadata automatically through integrated OpenLineage
 				- monitor data quality events
 				- explore lineage and history of datasets over time
-			+ OpenLineage:
+			+ ***OpenLineage***:
 				- open framework for data lineage and observability
 				- resolve data outages faster
 					* identify root causes
@@ -189,8 +189,52 @@
 						+ assess the impact of downstream jobs and datasets across the entire data ecosystem
 						+ ensure that downstream jobs are executed with minimal risk
 		* ***Cloud Composer***
+			+ managed Apache Airflow service to create, schedule, monitor, and manage workflows
 			+ managed version of Airflow that runs on Google Cloud Platform, and integrates well with other Google Cloud Platform services
-			+ ***Managed Workflows*** from Amazon supports Apache Airflow
+			+ fully managed workflow orchestration service
+				- fully orchestrate pipeline
+				- Cloud Composer pipelines are configured as directed acyclic graphs (DAGs) using Python, using the Apache Airflow platform
+				- one-click deployment yields instant access to a rich library of connectors and multiple graphical representations of workflow in action
+					* simplify troubleshooting
+				- automatic synchronization of DAG-represented Cloud Composer pipelines to ensure that jobs stay on schedule
+			+ create, schedule, monitor, and manage workflows that span across cloud service providers and on-premises data centers
+			+ author, schedule, and monitor pipelines that span across hybrid and multi-cloud environments
+			+ builds on the Apache Airflow project, and operates using the *Python* programming language
+				- open-source project basis give users freedom from lock-in and portability
+				- integration with broad number of platforms
+				- frees user(s) from lock-in
+					* or, freedom from lock-in
+			+ is easy to use
+			+ advantages:
+				- workflow automation frees up time requirement to provision resources
+				- integrates with other Google Cloud products
+					* end-to-end integration with Google Cloud products, such as:
+						+ BigQuery
+						+ Dataflow
+						+ Dataproc
+						+ Datastore
+						+ Cloud Storage
+						+ Pub/Sub
+						+ AI Platform
+				- supports hybrid and multi-cloud
+					* author, schedule, and monitor workflows through a single orchestration tool, which pipeline can be:
+						+ multiple cloud service providers
+						+ fully within Google Cloud
+						* on-premises data centers
+					* orchestrate workflows that cross between on-premises and the public cloud, or multi-cloud support 
+						* ease transition to the cloud or maintain a ***hybrid data environment***
+						* create workflows that connect data, processing, and services across clouds to give you a ***unified data environment***
+			+ automate infrastructure
+				- schedule automated backups of Compute Engine virtual machine (VM) instances
+			+ set up CI/CD pipeline for data-processing workflow, using managed products on Google Cloud
+				- CI/CD pipeline: continuous integration/continuous deployment pipeline
+				- ensure high quality, maintainability, and adaptability of the data processes and workflows
+				- version control of source code
+				- automatic building, testing, and deployment of apps
+				- environment isolation and separation from production
+				- replicable procedures for environment setup
+			+ private IP Cloud Composer environment
+		* ***Managed Workflows*** from Amazon supports Apache Airflow
 		* rich UI allows:
 			+ easier to visualize pipelines running in production
 			+ monitor progress
