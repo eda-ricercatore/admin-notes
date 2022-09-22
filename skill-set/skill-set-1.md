@@ -242,7 +242,24 @@
 		+ ***"When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative."***
 	- workflow management platforms that use DAG-based schedulers, and need (multiple) configuration files and file system trees (filesystem trees)
 		* Apache Oozie, server-based workflow scheduling system for managing Hadoop jobs
+			+ workflow scheduler for Hadoop
+			+ scalable, reliable, and extensible system
+			+ workflow engine
+			+ coordinator engine
 		* Azkaban
+			+ open-source workflow manager
+			+ batch workflow job scheduler, through job dependencies
+			+ has Web user interface to maintain and track workflows
+			+ project workspaces
+			+ workflow scheduling
+			+ modular and puginlable
+			+ authentication and authorization
+			+ tracking of user actions
+			+ SLA alerting and auto killing
+			+ retrying of failed jobs
+			+ distributed multiple executor
+			+ conditional workflow
+			+ data triggers
 + Virtual machines: Managed runtime systems (e.g., JVM, Dalvik VM, Android Runtime (ART), LLVM, .NET CLR, RPython, etc.)
 + We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
