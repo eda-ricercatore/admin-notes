@@ -219,7 +219,9 @@ Skill sets for software development for product management:
 	- Jira, for issue tracking
 	- Asana, Web and mobile work management platform to help teams organize, track, and manage their work
 + Elasticsearch, Hadoop, Big Data experience is a plus
-
++ message brokers
+	- RabbitMQ
+	- Kafka
 
 
 

@@ -131,8 +131,15 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 + in-chip monitoring, and in-chip monitoring IP, for advanced chip node designs
-+ skill set:
-	- BLAH.
++ skill set for signal/power integrity analysis:
+	- HyperLynx.
+	- SPICE
+	- ANSYS
+	- channel modeling
+	- PDN methodology development
+	- simultaneous switching analysis
+	- crosstalk reduction
+	- EMI reduction and shielding
 + skill set:
 	- BLAH.
 + skill set:

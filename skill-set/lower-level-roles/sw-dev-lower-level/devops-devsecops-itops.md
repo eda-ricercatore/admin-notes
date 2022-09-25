@@ -790,7 +790,22 @@ Skill set for DevOps:
 			* Apache Zookeeper
 + VM embeddings in other systems (e.g., DBMSs, Big Data frameworks, Microservices, etc.)
 + skill set:
-	- BLAH.
+	- interact with developers to understand their workflows and gather requirements
+	- design, create, and support CI pipelines for varied projects in a dynamic, fast-paced, and team-oriented environment
+	- move the current CI system into a containerized, flexible, and scalable system 
+	- keep up to date on the newest and bets practices in DevOps, and try them with the development team
+	- improve task efficiency and document CI approaches
+	- continuous build and delivery systems
+		* Jenkins
+		* Gitlab
+	- knowledge of:
+		* containers
+			+ Docker
+		* container orchestration system
+			+ ECS
+			+ Kubernetes
+			+ Docker Swarm/Data Center
+	- experience with ***Triplestores***
 + skill set:
 	- BLAH.
 + skill set:

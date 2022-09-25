@@ -3310,7 +3310,7 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
-
++ counter AI engineering
 + skill set:
 	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
 	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
@@ -3443,9 +3443,34 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 + skill set:
 	- Cortex is a team of software engineers and machine learning scientist to developing state-of-the-art machine learning capabilities to refine and transform our products.
 + skill set:
-	- BLAH.
+	- solid understanding and experience using fundamental data fusion and tracking techniques, such as:
+		* Kalman filtering
+		* batch processing
+		* multiple-hypothesis data association
+		* multiple dynamic models
+	- experience fusing across multiple real-world sources whose data may exhibit characterstics, such as:
+		* sub-dimensioned data
+		* time-late data
+		* biased data
+		* negative data
 + skill set:
-	- BLAH.
+	- scikit-learn
+	- TensorFlow
+	- PyTorch
+	- MXNet
+	- neural network architectures
+		* CNNs
+		* RNNs
+		* autoencoders
+		* generative models
+	- other machine learning frameworks
+	- experience deploying decision policy algorithms:
+		* MDPs
+		* RL algorithms
+		* tree search
+		* rules engines
+		* path planning
++ knowledge of state estimation and data fusion algorithms
 + skill set:
 	- BLAH.
 + skill set:
@@ -3680,6 +3705,9 @@ Topics for natural language processing, NLP:
 	- XLnet
 
 
+
+Libraries for natural language processing, NLP:
++ spaCy
 
 
 
@@ -4642,15 +4670,19 @@ Sets of skills for more senior data science roles, such as management of data sc
 ####	Data Visualization
 
 
-+ data visualization with:
++ data visualization with the following tools and/or libraries:
 	- Plotly
 	- Tableau
 	- PowerBI
 	- Qlik
 	- Google Charts
+	- d3.js
+	- plotly.js
+	- Angular.js
+	- PowerBI
 + Producing effective and interactive data visualizations (Tableau, Shiny, D3)
 + Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
-
++ illustrate visualization ideas using storyboards, process flows, wireframes, and prototypes
 
 
 
@@ -6345,6 +6377,19 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 
 
+
+
+
+#	Academic/University Research Labs
+
+
+##	U.S. Academic/University Research Labs
+
+
+
+
++ Johns Hopkins University
+	- Johns Hopkins University Applied Physics Laboratory, Johns Hopkins APL
 
 
 

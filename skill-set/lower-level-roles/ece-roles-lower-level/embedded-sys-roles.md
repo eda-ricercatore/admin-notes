@@ -16,6 +16,7 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Familiarity with containerization (e.g. Docker).
 	- Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
 	- Experience in creating complex, highly distributed real-time embedded systems.
++ hardware-in-the-loop testing, HWIL testing
 + skill set:
 	- BLAH.
 + skill set:

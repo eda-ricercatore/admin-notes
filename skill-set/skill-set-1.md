@@ -242,10 +242,45 @@
 		+ ***"When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative."***
 	- workflow management platforms that use DAG-based schedulers, and need (multiple) configuration files and file system trees (filesystem trees)
 		* Apache Oozie, server-based workflow scheduling system for managing Hadoop jobs
+			+ extensible, scalable, and reliable system to define, manage, schedule, and execute complex Hadoop workloads via Web services
+				- XML-based declarative framework to specify a job or complex workflow of dependent jobs
+				- workflow scheduling based on frequency and/or data availability
+				- monitoring capability, automatic retry, and failure handling of jobs
+				- extensible and pluggable architecture to allow arbitrary grid programming paradigms
+				- authentication, authorization, and capacity-aware load throttling to allow multi-tenant software as a service
 			+ workflow scheduler for Hadoop
+				- workflows are defined as a collection of control flow and action nodes in a directed acyclic graph (DAG)
+				- control flow nodes (define chronology):
+					* define the start and end of each workflow
+						+ start nodes
+						+ end nodes
+						+ failure nodes
+					* mechanism to control the workflow execution path
+						+ decision nodes
+						+ fork nodes
+						+ join nodes
+				- action nodes:
+					* mechanism by which a workflow triggers the execution of a computation/processing task
+					* support for:
+						+ Hadoop MapReduce
+						+ Hadoop distributed file system operations
+						+ Pig
+						+ SSH
+						+ email
 			+ scalable, reliable, and extensible system
 			+ workflow engine
 			+ coordinator engine
+			+ Oozie Workflow jobs are DAGs of actions
+			+ Oozie Coordinator jobs are recurrent Oozie Workflow jobs triggered by time/frequency and data availability
+				- Java map-reduce
+				- Streaming map-reduce
+				- Pig
+				- Hive
+				- Sqoop
+				- Distcp
+			+ Oozie Bundle packages multiple coordinator and workflow jobs and manage their lifecycle
+			+ run Oozie workflows at regular time intervals and in coordination with unpredictable levels of data availability or events
+				- create chain of data application pipeline
 		* Azkaban
 			+ open-source workflow manager
 			+ batch workflow job scheduler, through job dependencies
