@@ -702,9 +702,55 @@ Emerging technologies that would be interesting application domains of computati
 	- Experience with cloud computing environments (AWS/Azure/GCE).
 	- https://www.atomwise.com/jobs/senior-computational-chemist/
 + skill set:
-	- BLAH.
+	- large-scale compute platform
+	- quantum chemistry methods for drug-design
+	- experience with quantum chemistry software:
+		* Psi4
+		* Gaussian
+	- experience with small-molecule crystallography and formulation
+	- experience with:
+		* computational chemistry methods
+			+ development
+			+ implementation
+			+ validation
+			+ massively parallel relative binding free energy (RBFE) tools
+		* molecular modeling
+			+ predict crystal structures of drug molecules and accelerate drug development
+			+ molecular dynamics
+				- free energy calculations
+				- molecular dynamics simulation
+					* enhanced sampling molecular dynamics simulations
+		* cloud computing
+			+ cloud-based CADD, computer-aided drug design (CADD) pipeline
+		* statistical mechanics
+		* computational molecular design
+			+ scientific approach to deliver rapid, robust, and scalable software, toolkits, and technology and design services for the advancements of pharmaceuticals, biologics, agrochemicals, and flavors and fragrances
+		* cheminformatics
+		* cryoEM 3-D map reconstruction or protein structure refinement
+			+ cryoEM 3-D density map reconstruction and refinement, image process, ab initio all-atom model building
+			+ 3-D (protein) structure refinement
+			+ biomolecular simulation
+	- software tools
+		* conda
+		* pip
+		* git
+		* pandas
+		* flask
+		* AWS services
 + skill set:
-	- BLAH.
+	- make actionable decisions based on multiple levels of data
+	data visualizations of:
+		* 3-D protein structures
+		* molecular simulation data
+	- predict properties of small molecular drug candidates
+		* validate with measured data of these properties
+	- (bio)molecular modeling and simulation
+	- work under a development schedule, balancing features with delivery
+	- experience with:
+		* Qt
+		* PySide
+		* 3-D graphics
+		* event-driven programming
 + skill set:
 	- BLAH.
 + skill set:
