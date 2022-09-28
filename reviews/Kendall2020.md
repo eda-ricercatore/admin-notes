@@ -254,7 +254,7 @@ pp. 1-14 (official, from the paper version)
 		* (pp. 7, third paragraph that ends on the next page)
 	- Second paragraph.
 		* feminists of all identities have to address would-be allies in what they seek in inclusive and intersectional feminism
-		* allies, from people who are not cisgender women to White (American) women, have to learnto listen and respect people who we choose to help
+		* allies, from people who are not cisgender women to White (American) women, have to learn to listen and respect people who we choose to help
 		* more privileged feminist cannot embrace or propagate savior myths
 		* solidarity cannot include:
 			+ people who disagree with common goals
@@ -268,7 +268,11 @@ pp. 1-14 (official, from the paper version)
 					* effort
 					* willingness to accept that some places are not for you/me
 		* (pp. 8, second paragraph)
-
+	- Third paragraph.
+		* "\#solidarityisforwhitewomen" is a hashtag that addresses the need for inclusive and intersectional feminism:
+			+ "It is a rhetorical shorthand for the reality that:"
+				- 
+		* (pp. 8, third paragraph that ends on the next page)
 
 
 
