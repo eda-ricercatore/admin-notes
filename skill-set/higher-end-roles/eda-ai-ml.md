@@ -142,6 +142,9 @@ Skills for EDA software development, and other high-end software development:
 + Hibernate ORM is an object-relational mapping tool for the Java programming language
 	- object-relational mapping allows software developers to convert data between type systems using object-oriented programming languages, OOPL.
 + ***Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.***
+	- use "checkpoint"s to save temporary results of computing
+		* This allows results from computation performed thus far to be reused.
+		* If computation crashes and has to be restarted from the most recent or second last checkpoint, this checkpoint provides intermittent results that the software can use to resume computing.
 + skill set:
 	- Strive for high code standards (continuously improving testability and code quality).
 	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.

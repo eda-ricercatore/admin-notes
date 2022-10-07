@@ -105,6 +105,12 @@
 + skill set:
 	- Experience with asynchronous I/O and coroutines
 	- Experience with event driven service architecture
++ advanced level experience with key network-infrastructure technologies, design/implementation, protocols, standards, capacity planning, management, and best practices
+	- BCP
+	- DMVPN
+	- QoS
+	- enterprise switching
+	- data center switching
 + skill set:
 	- BLAH.
 + skill set:

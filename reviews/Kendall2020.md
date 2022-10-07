@@ -271,8 +271,108 @@ pp. 1-14 (official, from the paper version)
 	- Third paragraph.
 		* "\#solidarityisforwhitewomen" is a hashtag that addresses the need for inclusive and intersectional feminism:
 			+ "It is a rhetorical shorthand for the reality that:"
-				- 
+				- White (American) women can oppress women of color (in the U.S. and elsewhere)
+				- heterosexual women can oppress LGBTQIA+ women
+				- cisgender women can oppress transgender women
+			+ identities can intersect/overlap
+			+ the ways in which women can help or harm each other can also intersect
 		* (pp. 8, third paragraph that ends on the next page)
++ pp. 22
+	- First paragraph.
+		* failures to embrace inclusive feminism and intersectional feminism creates opportunities for more privileged women to denounce other women as not being "real" feminists:
+			+ driven by fetishization and appropriation of cultures and bodies of color
+			+ ***feminism that is not inclusive nor intersectional would not empower all women***
+			+ need to address:
+				- racism
+				- transphobia
+				- homophobia
+				- ableist
+				- classist norms
+		* none of us are perfect, and each person has flaws
+		* Nobody is unaffected/uninfluenced/immune by the socioeconomic/social ecosystem (/environment)
+		* We are part of the socioeconomic/social ecosystem or world (/society) that we are trying to make more feminist, and 
+		* (pp. 9, first paragraph)
+	- Second paragraph.
+		* we should not use ***liberation rhetoric*** to advance a group of women at the expense of other women
+			+ White privilege is gender neutral, and makes things easier for people with White privilege (including White-passing people to lighter-skinned people of color) in a racialized world
+		* the more oppressed women should not be expected to center activism for mostly/only the highly-privileged, cisgender, heterosexual, able-bodied White American women, and still be expected to serve them as effective slaves (slaves effectively) or indentured servants
+		* for less privileged women, we should not embrace the oppressors and discriminate against other oppressed people
+			+ From Pastor/Dr. Michael McBride's sermon on September 18, 2022, at The Way Christian Center in (West) Berkeley, California, U.S..
+		* (pp. 9, second paragraph)
+	- Third paragraph.
+		* ***Demands for solidarity (and sisterhood) should not be a one-way expectation.***
+			+ Such expectations are tone deaf.
+		* (pp. 10, first paragraph)
+	- Fourth paragraph that ends on the next page.
+		* We should not be expected, let alone forced, to prioritize the comfort of highly-privileged, cisgender, heterosexual, able-bodied White American women over the lives other women and those of their descendants
+			+ These other women are not the "supporting characters in feminism".
+			+ Equity among women would not necessarily "trickle down" from highly-privileged, cisgender, heterosexual, able-bodied White American women to other women
+			+ achieving equity between White American women and White American men does not mean that there would be equity between women of color and men of color
+		* (pp. 10, second paragraph)
++ pp. 23
+	- First paragraph.
+		* cultural norms of White feminism, or mainstream feminism, centers on the progress/advancement of more privileged women at the expense of communities of colors
+			+ feminism that values individualism and the success of a subset of individuals over the well-being of the community and the world is not inclusive feminism nor intersectional feminism
+			+ Consequently, women of color struggle to embrace White feminism, or mainstream feminism, as a model of feminism
+				- women of color don't want to have to choose between supporting their loved ones and allies in White feminism, or mainstream feminism
+					* sons
+					* brothers
+					* fathers
+					* husbands
+					* male friends
+				- these male loved ones and friends are not the enemy of women of color
+				- these male loved ones and friends also suffer from kyriarchy, and racialized patriarchy
+				- the people at and near the top of the hierarchy of kyriarchy, and racialized patriarchy, are not men of color
+				- men of color may be responsible for sexism, misogyny, and patriarchy, but they are less responsible for kyriarchy, and racialized patriarchy, than White (American) men
+				- men of color are allies/partners in anti-racism
+		* (pp. 10, third paragraph that ends on the next page)
+	- Second paragraph.
+		* men of color who recognize and suffer from racism can work to understand sexism, misogyny, and patriarchy impact girls and women
+			+ men of color can learn to be feminist, too, and work with feminists to pursue inclusive feminism and intersectional feminism
+		* "women in communities of color" have to balance the following:
+			+ fight external problematic voices
+			+ educate people inside our communities who are bad actors
+			+ ***feminism has to do likewise, so that it can be inclusive and intersectional***
+		* (pp. 11, first paragraph)
+	- Third paragraph.
+		* intersectional feminism needs to address identities of women that White feminism, or mainstream feminism, ignores, such as those of:
+			+ Black American women
+			+ Latinas, or Latinx women
+			+ Asian American women
+			+ Asian women
+			+ indigenous women
+			+ other women of color
+		* (pp. 11, second paragraph)
+	- Fourth paragraph that ends on the next page.
+		* Example of how the intersection of sexism and racism may affect women of color first, but eventually the unethical behavior by such perpetrators would affect other women, too, such as White (American) women
+		* (pp. 11, third paragraph that ends on the next page)
++ pp. 24
+	- First paragraph.
+		* Amother example in which perpetrators of unethical behavior at the intersection of sexism and racism may affect women of color first, but eventually engage in behavior that affect other women, including White (American) women.
+			+ This example is about ***Gamergate***.
+		* (pp. 12, first paragraph)
+	- Second paragraph that ends on the next page.
+		* Despite Donald J. Trump's sexist, racist, classist (as in classism), and anti-Muslim behavior and speech, and foolishness about education (from K-12 education to higher education), more than 50% of White American women supported him in his 2016 bid for the U.S. presidency.
+			+ White American women believed his argument that (undocumented) immigrants, people of color, and Muslims are responsible for the problems that the U.S. faces.
+			+ White American women believed his argument that he can make life easier for White Americans by making economic (and educational) competition easier for them.
+			+ Donald Trump's appeal to the fears and anxieties of White American women worked for his 2016 U.S. presidential campaign.
+		* (pp. 12, second paragraph that ends on the next page)
++ pp. 25
+	- First paragraph.
+		* The 2016 U.S. Presidential election indicated that White feminism, or mainstream feminism, has failed to prioritize inclusive feminism and intersectional feminism over the fears and anxieties of White American women.
+			+ Women of color, especially Black American women, were not surprised by the voting behavior of White American women in this 2016 U.S. Presidential election.
+			+ White American women used code words and dog whistle politics to mask their fears, anxieties, and racism and anti-Muslim bias/bigotry.
+				- They believed their adjacency to highly-privileged, cisgender, heterosexual, able-bodied White American men would benefit them in the resulting socioeconomic and political ecosystem that Donald J. Trump would be shaping. This zero-sum worldview ended up making things bad for everybody, including most White Americans.
+		* (pp. 13, first paragraph)
+	- Second paragraph.
+		* Gail Simone, the writer, is a good example of how to be an ally to women who are not highly-privileged, cisgender, heterosexual, able-bodied White American women.
+			+ She values inclusive feminism and intersectional feminism.
+		* (pp. 13, second paragraph that ends on the next page)
+	- Third paragraph that ends on the next page.
+		* More details about Gail Simone being a good ally.
+		* Solidarity can be described as: "Step up, reach back, and keep pushing forward."
+		* (pp. 14, first paragraph)
+
 
 
 
@@ -284,19 +384,67 @@ pp. 1-14 (official, from the paper version)
 
 
 pp. 15-30 (official, from the paper version)
-+ pp. ABC
-	- XYZ paragraph.
-
-
-
-
-
-
-
-
-
-
-
++ pp. 26
+	- Second paragraph that ends on the next page.
+		* The exposure of women from lower-income communities to gun violence makes gun violence a feminist issue for (the lives of) many women (now).
+		* The availability of access to guns (firearms, ranging from handguns to rifles and machine guns) increases the likelihood of domestic violence incidents that lead to deaths of women.
+			+ Handguns include:
+				- pistols
+				- revolvers
+			+ long guns include:
+				- muskets
+				- submachine guns
+				- rifles
+					* assault rifles
+					* carbines
+				- shotgun
+		* The impact of gun violence is not limited to men. It affects all of us.
+		* When White feminism, or mainstream feminism, fail to address how gun affects women from lower-income communities more than highly-privileged, cisgender, heterosexual, able-bodied White American women, it remains a failure at becoming inclusive feminism and intersectional feminism.
+			+ Consequently, their indifference leads to socioeconomic and political norms that ultimately affect them adversely, too.
+			+ E.g., gun violence has become a public health crisis.
+			+ highly-privileged, cisgender, heterosexual, able-bodied White American women have to learn to do the following:
+				- listen
+				- advocate
+				- provide resources
++ pp. 27
+	- First paragraph.
+		* When racist people pathologize gun violence as a problem belonging to lower-income communities of color, they fail to acknowledge how gun violence also affect all other communities, too.
+			+ It discounts the impact of systemic/structural inequity that lead to their challenging circumstances over decades/centuries.
+			+ It blames less privileged and marginalized people for circumstances that more privileged people pressured or forced them into.
+			+ It fails to address the intersection of systemic/structural racism (and institutional violence) and gun violence.
+			+ It fails to address the problems of gun violence, including mass shootings, in other communities and places.
++ pp. 28
+	- First paragraph.
+		* In lower-income communities, where systemic/structural inequity lead to failures in public policy and education (from K-12 education to higher education), people do not have access to skills, knowledge, professional help, and resources to help them (address and) resolve conflicts peacefully (or even engage in consensus decision making, consensus building), without resorting to violence.
+			+ Illegal manufacturing, distribution, and sales of guns contribute to gun violence, and are exacerbated by the illicit/recreational drug trade.
+			+ Gun violence in rural areas has increased.
+			+ Gun violence in urban areas has decreased.
+	- Second paragraph.
+		* De facto segregation, let alone de jure segregation, leads to isolation and disenfranchisement of certain racial/ethnic communities.
+			+ Disenfranchised communities and people end up growing distrust of law enforcement and public officials who may be mostly indifferent to violence against these marginalized communities/people, or even subject marginalized communities/people to violence.
+			+ That said, in rural areas of the U.S., there is a similar distrust of law enforcement and public officials, where prominent gun culture is the norm and hunting with guns is used to obtain food.
+			+ Consequently, in rural and urban areas, "gun culture often develops out of necessity."
+			+ In rural areas, smaller sized law enforcement staff contribute to the illusion that rural areas are safer than urban areas.
+				- This reflects the following macro-level societal biases:
+					* comparing communities with different sized populations, without accounting for crimes and other metrics per capita
+					* class-based bias
+					* race-based bias
+				- This does not address the fact that crime rates have been dropping in rural and urban areas in the U.s. for decades.
+				- In addition, media bias of crime coverage leads to more media coverage of crime in urban areas than rural areas.
+		* Third paragraph.
+			+ Racial bias of crime coverage impact our perspectives of communities that are more likely to have crimes.
+				- Crimes in "White flight suburbs and former sundown towns" are adequately reported, since the criminals are White Americans.
+				- When looking at crime coverage and crime statistics when race is not a statistically significant factor, class becomes the main bias that affect crime coverage (and policy admnistration).
+					* Socioeconomic status of people impact their ability to connect to authorities and other people in positions of power (such as property owners), and consequently impact their sense of safety.
+					* By comparing people of the same racial category, class differences center the systemic/structural oppression on the less well-off.
++ pp. 29
+	- First paragraph.
+		* There are people who excuse poor White Americans from creating (and sustaining) systemic/structural racism, even though these poor White Americans also benefit from systemic/structural racism against people of darker skin tones.
+			+ This does not address the important
+	- Second paragraph.
+		*
+	- Third paragraph that ends on the next page.
+		*
 
 
 
@@ -673,3 +821,18 @@ pp. 249-258 (official, from the paper version)
 
 
 
+
+
+
+
+
+
+
+
+
+#	common phrases
+
+inclusive feminism and intersectional feminism
+White feminism, or mainstream feminism, 
+kyriarchy
+highly-privileged, cisgender, heterosexual, able-bodied White American women
