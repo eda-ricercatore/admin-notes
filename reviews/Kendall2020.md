@@ -245,7 +245,7 @@ pp. 1-14 (official, from the paper version)
 				- for access to affordable, high-quality K-12 schools and colleges/universities
 				- for access to opportunities for personal and professional development, protection, advocacy, sponsorship
 			+ go beyond merely studying systemic/structural inequity to create and effectively implement policies to mitigate such inequity
-			+ stop weaponizing tone policing, moral suasion, and respectability politics to keep feminism from being inclusive and intersectional
+			+ ***stop weaponizing tone policing, moral suasion, and respectability politics to keep feminism from being inclusive and intersectional***
 				- respectability politics won't save women from sexism and misogyny, and women of color from racism by White (American) women
 			+ when White (American) women fail to address their harmful behavior (such as racism, anti-immigrant bias, and ableism), they make it hard for marginalized women to enthusiastically collaborate with highly-privileged, cisgender, heterosexual, able-bodied White American women
 				- "the enemy of my enemy is my friend" is not necessarily true
@@ -434,20 +434,129 @@ pp. 15-30 (official, from the paper version)
 		* Third paragraph.
 			+ Racial bias of crime coverage impact our perspectives of communities that are more likely to have crimes.
 				- Crimes in "White flight suburbs and former sundown towns" are adequately reported, since the criminals are White Americans.
-				- When looking at crime coverage and crime statistics when race is not a statistically significant factor, class becomes the main bias that affect crime coverage (and policy admnistration).
-					* Socioeconomic status of people impact their ability to connect to authorities and other people in positions of power (such as property owners), and consequently impact their sense of safety.
+				- When looking at crime coverage and crime statistics when race is not a statistically significant factor (i.e., "absence of racial diversity", in racially/ethnically homogeneous communities), class becomes the main bias that affect crime coverage (and policy admnistration).
+					* Socioeconomic status (e.g., this is influenced by economic class, racial/ethnic category, and gender) of people impact their ability to connect to authorities and other people in positions of power (such as property owners), and consequently impact their sense of safety.
 					* By comparing people of the same racial category, class differences center the systemic/structural oppression on the less well-off.
+					* Class discrimination among White Americans make "poor White \[Americans\] the target of oppressive structures".
 + pp. 29
 	- First paragraph.
 		* There are people who excuse poor White Americans from creating (and sustaining) systemic/structural racism, even though these poor White Americans also benefit from systemic/structural racism against people of darker skin tones.
-			+ This does not address the important
+			+ This does not address the important role that these poor White Americans play to sustain these oppressive structures, even if they regularly act (i.e., actions, behavior, and habits) against their self interests.
+			+ It also fails to address the unfair and unethical characterization of poor White Americans as "morally and socially inept", without using public policy and institutional policy to shape the worldviews, mindsets, and skills of these poor White Americans to empower them to recognize and mitigate systemic/structural racism and other systemic/structural inequity (such as systemic/structural sexism).
+			+ Elitism and classism -based internal oppression among White Americans leave these poor White Americans vulnerable to being brainwashed with racist propaganda that include the following.
+				- poorer White Americans need guns to protect themselves from people of color
+				- poorer White Americans need guns to protect themselves from criminals and during crimes (or criminal incidents)
+				- Racist propaganda about need for guns for protecting (poorer) White Americans leads to the following:
+					* This fosters a gun culture that resist better/further/more gun control/regulation.
+					* This promotes violence along with gun culture.
+					* This promotes gun culture and violence, even if (poorer) White Americans are getting killed by other White Americans via gun violence.
+					* Since U.S. history has been defined by (gun) violence, the response of law enforcement to increasing gun violence is the procurement and usage of more guns and more powerful guns to overpower/overwhelm/"outgun" the criminals.
+						+ \[In many police departments, this also results in more policing (i.e., more patrols, more racial profiling), which in turns increases distrust between members of communities of color and the police departments.\]
+						+ This leads to increasingly militarized police departments that have failed to adequately train police officers how to use these weapons safely, and "that escalation is never a solution".
+			+ If poor White Americans found solidarity with people of color living in the U.S., and women, they could effectively challenge these oppressive structures and made it hard for ultra-wealthy people/Americans to use divide & conquer strategies to keep these oppressed people under oppression.
 	- Second paragraph.
-		*
+		* The exposure of children, youth, and teenagers in the U.S. to gun culture and gun violence from crime, in homes, accidents, and suicide affects their ability to pursue an education that helps them grow personally, academically, and professionally.
+			+ They are more likely to die of gun violence than their peers outside the U.S..
+			+ Likewise for young adults in the U.S. and elsewhere.
+			+ The prescence of having a gun at home increases the likelihood of children in the home dying of gun violence -based domestic violence (or, gun-based domestic violence).
 	- Third paragraph that ends on the next page.
-		*
-
-
-
+		* Black American children, tweens, and teenagers are at a greater risk of being exposed to gun culture and gun violence, and being hurt and killed by gun violence.
+			+ They are more likely to be exposed to gun violence in the following places.
+				- at home
+				- in school
+				- in the neighborhood/community
+			+ Black American girls and young women are more likely to face the following "double problem" (analogous to "coupled problems" in multiphysics simulation/modeling).
+				- being at risk of exposure to gun violence, and 
+				- being ignored by mitigation effort to reduce the likelihood of exposure to gun violence
++ pp. 30
+	- First paragraph.
+		* White feminism, or mainstream feminism, cannot hypocritically support efforts to improve K-12 education of girls outside the U.S., while willfully ignoring the undereducated and uneducated girls in the U.S. due to the exposure and threat of gun violence.
+			+ Even if exposure to gun violence did not harm/hurt the girls and (young) women, it still affects them.
+			+ Exposure to gun violence causes people to be hypervigilant and anxious of being harmed by gun violence.
+			+ The resulting hypervigilance and anxiety can lead to PTSD, and normalize abnormal behavior that are formed from the resulting hypervigilance and anxiety.
+			+ While the resulting hypervigilance, anxiety, and PTSD from exposure to gun violence is not uncommon among people who face such exposure, it is still abnormal behavior.
+	- Second paragraph.
+		* Brief stories of exposure to gun violence.
+	- Third paragraph.
+		* Question that reminds me to analyze the gun violence problem from feminist perspectives.
+	- Fourth paragraph that ends on the next page.
+		* Gun violence mitigation programs tend to fail in placing adequate emphasis of gun violence on Black American girls and women, and girls and women of color, as specific people groups at risk, who are witnesses to gun violence, and are threatened by and encounter gun violence.
+			- Consequently, Black American girls and women face more gun violence than Black American boys and men.
++ pp. 31
+	- First paragraph.
+		* Romantic relationships can be abusive, even if there was no physical abuse or even signs of physical abuse.
+			+ \[There can be the following types of abuse, to exercise power and control, too\]:
+				- \[sexual\]
+				- \[verbal/emotional\]
+				- \[mental/psychological\]
+				- \[financial\]
+				- \[cultural/identity, from ethnic identity to LGBTQIA+ identity (being outed against one's consent) to faith to dietary custos f ethnic mculture or faith\]
+			+ Promising oneself that one would recognize signs of abuse in a romantic relationship and getting out of it may be difficult to follow through, especially when one is in love with the abuser.
+	- Second paragraph.
+		* Avoid making a habit of falling in love with people who are not nice to anyone, even yourself.
+	- Third paragraph that ends on the next page.
+		* Avoid potential romantic partners who are nice to you when it suits them.
+		* Avoid potential romantic partners who you feel obliged to be nice to in order to keep yourself safe.
+		* Don't become good at lying to yourself, in order to keep making foolish decisions for short-term "benefits" that would harm yourself.
++ pp. 32
+	- First paragraph.
+		* Author was fooling herself and others into marrying a just-divorced man.
+	- Second paragraph.
+		* Emotional abuse led to moments of physical intimidation.
+		* A military police officer tried to cover up her first husband's abuse.
+	- Third paragraph that ends on the next page.
+		* Mistakes not to make in a marriage or romantic relationship.
++ pp. 33
+	- First paragraph.
+		* Description of abusive marriage that comes to its end.
+	- Second paragraph.
+		* More description of abusive marriage that comes to its end.
+	- Third paragraph that ends on the next page.
+		* Challenging circumstances that keep women from leaving abusive romantic relationships and marriages.
+		* Abusive first ex-husband did not have a gun due to a state law in Illinois.
++ pp. 34
+	- First paragraph.
+		* Black American women face multiple risks of violence, such as:
+			+ intimate partner violence
+			+ police violence, including "collateral deaths in police misconduct"
+				- \#BlackLivesMatter, Black Lives Matter
+				- \#SayHerName
+				- Community norms, and lack of access to data for journalists, make news reporting about police violence centered on cisgender Black American men
+	- Second paragraph.
+		* More stories about police violence, and gun violence in communities
+	- Third paragraph that ends on the next page.
+		* Luck kept her alive during police encounters, and from fatal police violence.
+		* Risk of facing police violence keep many people of color from seeking help from the police when they need help.
++ pp. 35
+	- First paragraph.
+		* People who call the police on cliques/groups of Black Americans, or people of color, hanging out are usually not from the community, but gentrifiers with a lot more privilege.
+	- Second paragraph.
+		* Racist gentrifiers who call the police on Black Americans, or people of color, engaged in daily activities can cause these people to die.
+			+ However, supporters of White feminism, or mainstream feminism, are not challenging these racist gentrifiers on their racism/prejudice.
+	- Third paragraph that ends on the next page.
+		* In order to progress from White feminism, or mainstream feminism, to inclusive feminism and intersectional feminism, and smash the kyriarchy, we need learn and encourage the use of nonviolent means of conflict resolution and consensus building.
+			+ Note that the racist (and anti-immigrant) gentrifiers are not limited to: highly-privileged, cisgender, heterosexual, able-bodied White American women.
+			+ Racist and anti-immigrant gentrifiers can be of darker skin complexion, be immgrants themselves (or chldren and grandchildren of immigrants, such as Donald John Trump), and be from any ethnic culture or mix thereof.
+				- Compare the bias and prejudice of Africans in Africa (and elsewhere), and immigrants to the U.S. from Africa, against Black Americans who descended from slaves.
+					* This has been witnessed and explained by Malcolm X, El-Hajj Malik  El-Shabazz, in his books/speeches, and scholars and authors.
+					* A well-documented example.
+			+ We need to shape public policy and institutional policies to shift from gun culture and use of violence for conflict resolution towards nonviolent approaches.
+			+ We need to call out behavior, actions or inaction, speech or silence, and habits of racist and anti-immigrant gentrifiers, not limited to calling the police to disperse groups of Black Americans and people of color at a social gathering.
+			+ We need to improve our support for survivors of intimate partner violence, and educate others about healthy relationships.
+			+ We need to mitigate our bias to support (alleged) abusers just because of their ethnic makeup (or ethnicity), citizenship or immigration status, their career or job, their wealth or socioeconomic status (and community standing), by listening to the (potential/actual) survivors of abuse, validating their experiences, and advocating for them.
+			+ Recognize people's bias that systemic gun violence is mostly based in certain neighborhoods, and episodic elsewhere.
+			+ Multi-pronged, and multi-level approach (from individuals and families to communities and organizations to government agencies at local/regional/national/international levels), to address nonviolent conflict resolution is needed.
++ pp. 36
+	- First paragraph.
+		* Do not normalize bias, prejudice/hate, regardless of the targeted individual and people group.
+		* Note that bias can be amplified over time, and quickly lead to prejudice and hate that results in hate crimes as well as the creation and enforcement of discriminatory policies.
+		* Bias and prejudice lead many people to decribe perpetrators of mass shootings by White Americans as people who struggle with mental health, which is problematic for many nonviolent people who struggle with mental health, and perpetrators of color as those with terrible character.
+		* Social bubbles keep us from forming relationships that help us progress from White feminism, or mainstream feminism, to inclusive feminism and intersectional feminism, and smash the kyriarchy.
+		* Gun culture that tacitly or implicity encourages gun violence is a community health, and public health, issue. It is not just the explicit encouragement of gun violence that is problematic.
+	- Second paragraph.
+		* We need to do more than treat domestic violence and hate speech as red flags.
+		* We need a multi-pronged, and multi-level approach to mitigate community health problems of gun violence, domestic violence, mass shootings, and systemic/structural racism, as feminist issues for inclusive feminism and intersectional feminism.
+	
 
 
 
@@ -460,13 +569,94 @@ pp. 15-30 (official, from the paper version)
 
 
 pp. 31-46 (official, from the paper version)
-+ pp. ABC
-	- XYZ paragraph.
++ pp. 37
+	- First paragraph.
+		* Systemic/structural racism, and libertarian racism, has eroded support for public services, including public works (such as free education, public infrastructure, public banks, public hospitals, public spaces, and public K-12 and higher education).
+			+ This exacerbates income inequity, and wealth inequity, between cisgender men and cisgender women, and contributes to other forms of inequity, such as those regarding health, education, and the environment.
+	- Second paragraph that ends on the next page.
+		* Income inequity, and wealth inequity, can keep women from protecting themselves and their loved ones, especially when they fail to get access to public services that they deserve and have paid taxes for.
+			+ This makes it very challenging for single Moms.
+			+ Using any example, or a small set of examples, of successful single Moms (of color), and expecting all single Moms to do likewise is moral suasion and respectability politics weaponized to enforce or spread systemic/structural inequity/racism and institutional inequity/racism.
++ pp. 38
+	- First paragraph.
+		* Agencies for child protection services in the U.S. tend to struggle considerably from institutional racism, and contribute significantly to the break up of lower-income families of color.
+			+ These agencies tend not to address problems with higher-income families, and target lower-income families of color.
+			+ Societal pressure on women, including Moms, make it challenging for single Moms of color, who are the leaders of lower-income families of color, to get help and support.
+				- Consequently, they face mental health challenges in addressing expectations of Moms (or caretakers/carers of children, elderly people/parents/grandparents, disabled people, and people with chronic diseases) beyond providing basic needs for their children (or other dependents), such as:
+					* basic needs include providing food and shelter for the dependents
+					* Christmas tree, and Christmas decorations, for Christmas
+						+ or, similar decorations for other festivals
+				- when such single Moms of color, or caretakers/carers, have to rely on the following, they feel stressed and anxious for feeling that they are not doing enough for their children/dependents:
+					* food banks
+					* free of reduced lunches in U.S. K-12 schools (or equivalent)
+					* food stamps
+				- These Moms and/or caretakers/carers feel pressure when the societal pressure make them feel like the following:
+					* criminalized
+						+ Treat not-so-rich Moms and caretakers/carers as if they are criminals, by assuming that many/most criminals are from lower-income communities.
+					* foolish, since people are poor because they, or their caretakers/carers, probably made foolish choices that caused them to become poor
+						+ These not-so-rich Moms and caretakers/carers must have made these foolish choices on purpose, on their own free will, out of their own volition, intentionally, without being pressured or forced or misled to do so.
+					* These societal pressure get exacerbated when people from their communities explicitly tell them these.
+				- A lot these not-so-rich Moms and caretakers/carers do not have enough information about the choices and opportunities that they have.
+					* They also do not have enough opportunities to make other/alternate choices.
+					* Support for these not-so-rich Moms and caretakers/carers tend to be:
+						+ weak or insubstantial
+						+ nonexistent
+	- Second paragraph.
+		* These not-so-rich Moms and caretakers/carers may be living in food deserts, where they cannot access (highly) affordable fresh produce (farm-produced crops, including fruits, vegetables, and grains).
+			+ These food deserts are a result of systemic/structural inequity/racism.
+		* These not-so-rich Moms and caretakers/carers may be working long hours or multiple jobs that make it hard for them to prepare food for their children/dependents and clean up afterwards.
+		* These not-so-rich Moms and caretakers/carers may also have storage issues for these fresh produce.
+		* There could be a variety of conditions that influence how these not-so-rich Moms and caretakers/carers, which are not limited to the following:
+			+ lack of basic information about food nutrition
+			+ laziness
+			+ neglect
+			+ living in a community or place that is simultaneously a food desert and transit desert (or transportation desert)
+				- Reference: Wikipedia contributors, "Food desert," in Wikipedia, The Free Encyclopedia: Economic geography, Wikimedia Foundation, San Francisco, CA, October 11, 2022. Available online from Wikipedia, The Free Encyclopedia: Economic geography at: https://en.wikipedia.org/wiki/Food_desert; October 19, 2022 was the last accessed date. \[WikipediaContributors2022c\]
+				- ***libertarian racism ***makes these issues more difficult to discuss, including systemic/structural inequity/racism and institutional inequity/racism, since government agencies and nonprofit organizations (and non-governmental organizations, NGOs) can also create, implement, and enforce certain policies that lead to the creation of certain types of deserts (not landforms, or natural/anthropogenic land features):
+					* ***news deserts***, which make its difficult to journalists and media companies to report such systemic/structural inequity/racism and institutional inequity/racism that make it hard for people to learn the facts that lead them to their ignorance and decision making
+						+ The lack of support from government agencies, nonprofit organizations, and non-governmental organizations (NGOs) make it hard for people to access this information.
+					* ***banking deserts***, where residents of the area/community cannot access adequate banking services
+						+ This is not just confined/circumscribed to rural areas
+					* ***medical deserts***
+						+ places where people have inadequate access to health care (general access, or specific field such as dental services and pharmacies - including community/hospital/clinical pharmacies)
+						+ not confined/circumscribed to rural areas, and also exist in urban and suburban areas.
+					* ***book deserts***
+						+ Communities that have challenges accessing printed books and reading material with private (cars of individuals and families) or public transportation.
+					* ***underfunded K-12 public school systems***
+	- Third paragraph that ends on the next page.
+		* BLAH
+	- Fourth paragraph that ends on the next page.
+		* BLAH
+	- Fifth paragraph that ends on the next page.
+		* BLAH
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
++ pp. 3X
+	- First paragraph.
+		* BLAH
+	- Second paragraph.
+		* BLAH
+	- Third paragraph that ends on the next page.
+		* BLAH
+	- Fourth paragraph that ends on the next page.
+		* BLAH
+	- Fifth paragraph that ends on the next page.
+		* BLAH
 
 
 
@@ -832,7 +1022,24 @@ pp. 249-258 (official, from the paper version)
 
 #	common phrases
 
+
+
+lower-income families of color.
+higher-income families
+single Moms of color
+caretakers/carers of 
+children
+elderly people/parents/grandparents
+disabled people
+people with chronic diseases
+providing basic needs for their children (or other dependents)
+children/dependents
+
+
+
 inclusive feminism and intersectional feminism
 White feminism, or mainstream feminism, 
 kyriarchy
 highly-privileged, cisgender, heterosexual, able-bodied White American women
+
+
