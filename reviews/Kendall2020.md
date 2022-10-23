@@ -606,14 +606,14 @@ pp. 31-46 (official, from the paper version)
 			+ These food deserts are a result of systemic/structural inequity/racism.
 		* These not-so-rich Moms and caretakers/carers may be working long hours or multiple jobs that make it hard for them to prepare food for their children/dependents and clean up afterwards.
 		* These not-so-rich Moms and caretakers/carers may also have storage issues for these fresh produce.
-		* There could be a variety of conditions that influence how these not-so-rich Moms and caretakers/carers, which are not limited to the following:
+		* There could be a variety of conditions that influence how these not-so-rich Moms and caretakers/carers make decisions about what they eat, which are not limited to any (combination) of the following:
 			+ lack of basic information about food nutrition
 			+ laziness
 			+ neglect
 			+ living in a community or place that is simultaneously a food desert and transit desert (or transportation desert)
 				- Reference: Wikipedia contributors, "Food desert," in Wikipedia, The Free Encyclopedia: Economic geography, Wikimedia Foundation, San Francisco, CA, October 11, 2022. Available online from Wikipedia, The Free Encyclopedia: Economic geography at: https://en.wikipedia.org/wiki/Food_desert; October 19, 2022 was the last accessed date. \[WikipediaContributors2022c\]
-				- ***libertarian racism ***makes these issues more difficult to discuss, including systemic/structural inequity/racism and institutional inequity/racism, since government agencies and nonprofit organizations (and non-governmental organizations, NGOs) can also create, implement, and enforce certain policies that lead to the creation of certain types of deserts (not landforms, or natural/anthropogenic land features):
-					* ***news deserts***, which make its difficult to journalists and media companies to report such systemic/structural inequity/racism and institutional inequity/racism that make it hard for people to learn the facts that lead them to their ignorance and decision making
+				- ***libertarian racism*** makes these issues more difficult to discuss, including systemic/structural inequity/racism and institutional inequity/racism, since government agencies and nonprofit organizations (and non-governmental organizations, NGOs) can also create, implement, and enforce certain policies that lead to the creation of certain types of deserts (not landforms, or natural/anthropogenic land features):
+					* ***news deserts***, which make its difficult to journalists and media companies to report such systemic/structural inequity/racism and institutional inequity/racism that make it hard for people to learn the facts that lead them to their ignorance (about public policy, their rights, and ) and decision making.
 						+ The lack of support from government agencies, nonprofit organizations, and non-governmental organizations (NGOs) make it hard for people to access this information.
 					* ***banking deserts***, where residents of the area/community cannot access adequate banking services
 						+ This is not just confined/circumscribed to rural areas
@@ -624,11 +624,8 @@ pp. 31-46 (official, from the paper version)
 						+ Communities that have challenges accessing printed books and reading material with private (cars of individuals and families) or public transportation.
 					* ***underfunded K-12 public school systems***
 	- Third paragraph that ends on the next page.
-		* BLAH
-	- Fourth paragraph that ends on the next page.
-		* BLAH
-	- Fifth paragraph that ends on the next page.
-		* BLAH
+		* Regarding food deserts, food insecurity extends beyond "the ability to access food" due to "what food costs", as opposed to "what \[can people\] afford".
+
 
 
 
