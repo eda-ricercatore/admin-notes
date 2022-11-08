@@ -581,7 +581,24 @@ reactive programming = asynchronous dataflow programming
 	- An understanding of distributed and cloud computing, including. deployment related experience (ideally including Docker, AWS)
 	- Join a passionate team and work with the latest technologies (Hadoop, K8s/Kubernetes, Terraform, AWS, GCP to name a few)
 + skill set:
-	- BLAH.
+	- JavaScript
+	- Node.js
+	- SQL
+	- command-line Linux and shell scripting
+	- Git for version control
+	- practices:
+		* test-driven development
+		* continuous integration
+		* continuous delivery
+	- agile methodologies
+	- AWS
+		* S3
+		* EC2
+		* IAM
+	- PostgreSQL
+	- Java
+	- React
+	- TypeScript
 + skill set:
 	- BLAH.
 + skill set:
@@ -1471,7 +1488,20 @@ reactive programming = asynchronous dataflow programming
 		* for responsive UI design, use Angular Material and Angular Flex-Layout
 		* Angular support for client-server communication via HTTP client and REST API on the server side
 + skill set:
-	- BLAH.
+	- TypeScript
+	- React
+	- MobX (state management libraries)
+		* simple, scalable state management
+		* transparently applying functional reactive programming, TFRP
+	- CS fundamentals:
+		* concurrency
+		* multithreading
+		* data structures
+		* solution design
+		* architecture
+		* design patterns
+	- A/B testing
+	- ***experiment driven development***
 + skill set:
 	- BLAH.
 + skill set:

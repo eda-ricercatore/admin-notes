@@ -497,9 +497,16 @@ Notes on cloud computing:
 			+ SaltStack
 			+ Terraform
 + skill set:
-	- BLAH.
+	- infrastructure-as-code, in Terraform and AWS
+	- AWS CloudFormation, SAM, CDK
 + skill set:
-	- BLAH.
+	- AWS technologies
+		* S3
+		* EKS
+		* SageMaker
+	- monorepo environment
+		* Nix
+		* Bazel
 + skill set:
 	- BLAH.
 + skill set:

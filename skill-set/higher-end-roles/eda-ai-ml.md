@@ -148,6 +148,7 @@ Skills for EDA software development, and other high-end software development:
 + skill set:
 	- Strive for high code standards (continuously improving testability and code quality).
 	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.
+	- ***experiment driven development***
 + Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
 + Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
 + experience with these software testing methodologies:
@@ -3667,7 +3668,24 @@ Skill sets for computer vision:
 		* camera
 		* LIDAR
 		* RBG-D sensors
-
++ skill set:
+	- generative AI models
+	- image/layout generation space
+	- develop untried approaches
+	- analyze data sources
+	- generate, collect, and prepare data for commercial licensing in mind
+	- experiment with large-scale cloud infrastructure with high-end hardware
+	- set up data augmentation pipelines and perform hyperparameter searches to build production-ready AI solutions
+	- CNNs, transforms, diffusion models (stable diffusion)
+	- deep learning frameworks
+		* TensorFlow
+		* Keras
+		* Theano
+		* MXNet
+	- Python 3
+	- NumPy
+	- OpenCV
+	- Docker, Kubernetes
 
 
 
@@ -3794,6 +3812,7 @@ Skills for natural language processing, NLP:
 	- Published papers in top-tier NLP/ML conferences or journals
 	- Experience in Scholarly Document Processing (SDP) would be highly-valued
 	- Hands-on experience with AWS cloud infrastructure is a bonus.
++ linguistic quality assurance process, LQA process
 + skill set:
 	- BLAH.
 + skill set:
@@ -4015,7 +4034,27 @@ Need to address:
 	- Ability to work on research projects voluntarily and ambitiously
 	- Basic computer science knowledge and hardware skills
 + skill set:
-	- BLAH.
+	- distributed machine learning
+	- query assistance
+		* autocomplete, and popular and related searches
+	- user experience, with universal search systems and diversity-aware ranking
+	- indexing, visual content representation and content understanding
+	- retrieval, query understanding and language understanding
+	- ranking
+		* topical, contextual, personalized, and business objective feature modelling and ranking systems
+	- metrics and experimentation
+		* development of sensitive offline and online metrics, and more efficient and predictive experimentation systems
+	- information retrieval technologies
+		* OpenSearch
+		* ElasticSearch
+		* Solr
+		* Learning to Rank algorithms and toolkits
+		* build ML solutions that meet SLA guidelines, beyond ML model training
+	- skills in:
+		* Learning to Rank algorithms and toolkits
+		* machine learning
+		* information retrieval
+		* search-specific experimentation and metrics
 + skill set:
 	- BLAH.
 + skill set:
@@ -4789,7 +4828,18 @@ Skill sets for business analytics:
 		* accounting
 			+ financial operations
 			+ regulatory compliance
-
++ skill set:
+	- SQL
+	- Snowflake, Redshift, BigQuery
+	- marketing platforms:
+		* Facebook Ads
+		* Google Ads
+		* Appsflyer
+		* SA360
+		* CM360
+		* TikTok ads
+	- GeoXExperience
+	- Looker, Mode, Tableau
 
 
 

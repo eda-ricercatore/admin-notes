@@ -16,6 +16,9 @@ Page numbers are based on a copy of the book provided by a director, or an offic
 
 
 
+See the "References" section below for references that are used in this note/review.
+
+
 ##	BibTeX entry for \[Kendall2020\]
 
 This is the BibTeX entry for \[Kendall2020\].
@@ -602,7 +605,7 @@ pp. 31-46 (official, from the paper version)
 						+ weak or insubstantial
 						+ nonexistent
 	- Second paragraph.
-		* These not-so-rich Moms and caretakers/carers may be living in food deserts, where they cannot access (highly) affordable fresh produce (farm-produced crops, including fruits, vegetables, and grains).
+		* These not-so-rich Moms and caretakers/carers may be living in ***food deserts***, where they cannot access (highly) affordable fresh produce (farm-produced crops, including fruits, vegetables, and grains).
 			+ These food deserts are a result of systemic/structural inequity/racism.
 		* These not-so-rich Moms and caretakers/carers may be working long hours or multiple jobs that make it hard for them to prepare food for their children/dependents and clean up afterwards.
 		* These not-so-rich Moms and caretakers/carers may also have storage issues for these fresh produce.
@@ -610,7 +613,7 @@ pp. 31-46 (official, from the paper version)
 			+ lack of basic information about food nutrition
 			+ laziness
 			+ neglect
-			+ living in a community or place that is simultaneously a food desert and transit desert (or transportation desert)
+			+ living in a community or place that is simultaneously a food desert and ***transit desert*** (or ***transportation desert***)
 				- Reference: Wikipedia contributors, "Food desert," in Wikipedia, The Free Encyclopedia: Economic geography, Wikimedia Foundation, San Francisco, CA, October 11, 2022. Available online from Wikipedia, The Free Encyclopedia: Economic geography at: https://en.wikipedia.org/wiki/Food_desert; October 19, 2022 was the last accessed date. \[WikipediaContributors2022c\]
 				- ***libertarian racism*** makes these issues more difficult to discuss, including systemic/structural inequity/racism and institutional inequity/racism, since government agencies and nonprofit organizations (and non-governmental organizations, NGOs) can also create, implement, and enforce certain policies that lead to the creation of certain types of deserts (not landforms, or natural/anthropogenic land features):
 					* ***news deserts***, which make its difficult to journalists and media companies to report such systemic/structural inequity/racism and institutional inequity/racism that make it hard for people to learn the facts that lead them to their ignorance (about public policy, their rights, and ) and decision making.
@@ -623,8 +626,98 @@ pp. 31-46 (official, from the paper version)
 					* ***book deserts***
 						+ Communities that have challenges accessing printed books and reading material with private (cars of individuals and families) or public transportation.
 					* ***underfunded K-12 public school systems***
+					* ***maternity care deserts***
+						+ References:
+							- https://www.marchofdimes.org/research/maternity-care-deserts-report.aspx
+							- https://www.statnews.com/2022/10/11/maternity-care-deserts-on-the-rise-across-the-u-s-report-finds/
+							- https://www.npr.org/2022/10/12/1128335563/maternity-care-deserts-march-of-dimes-report
+							- https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/march-of-dimes-maternity-care-deserts-dashboard.html
+							- https://www.pbs.org/newshour/show/why-the-problem-of-maternity-care-deserts-is-getting-worse
+							- https://www.pbs.org/newshour/show/maternity-care-deserts-grow-across-the-us-as-obstetric-units-shut-down
+							- https://www.vox.com/policy-and-politics/2022/10/13/23400901/maternity-care-deserts-march-of-dimes-2022-report
 	- Third paragraph that ends on the next page.
 		* Regarding food deserts, food insecurity extends beyond "the ability to access food" due to "what food costs", as opposed to "what \[can people\] afford".
+			+ If people can access grocery stores in their neighborhood/community, but cannot afford food sold there, they still cannot access affordable nutritious food in these stores.
+			+ There are dual/twin problems of:
+				- hunger, inability to afford enough food to satisfy nutritional needs and hunger pangs
+				- nutritional needs, especially in food deserts, where people can access (highly) affordable food, but not food that adequate nutrients that they need
+			+ Hunger problems affect people of all age groups:
+				- food-insecure children
+				- food-insecure college students
+				- food-insecure elders
+			+ Most households that struggle with hunger are single-Mom households.
++ pp. 39
+	- First paragraph.
+		* Most of the poor people in the U.S. are:
+			+ women
+			+ children
+		* \[Liberatrian racism advocated by racist people in the U.S., not limited to White supremacists/nationalists, but also immigrants (of color), make it challenging for poorer people to get public services (including social services) that they have paid taxes for.\]
+			+ \[The zero-sum worldview(s) of these people, fed to them by rich White supremacists/nationalists, led them to believe that there is a correlation between poor values and poverty, and between poverty and certain communities (such as people of certain ethnic/racial groups).\]
+		* Examples of funding cuts by U.S. Federal and state governments for public services, including social services, especially those to support people struggling with unemployment and single-parent families.
+			+ Systemic/structural inequity and institutional inequity makes it even harder for part-time workers to seek unemployment insurance.
+			+ Charitable organizations have to step in to provide services that local, state, and national governments have failed to provide adquately and/or access to.
+	- Second paragraph.
+		* Explains the consequences and impact of homelessness on the poorer individuals and families, such as how they can descend into further poverty and associated problems, such as vicious cycles of incurring more and more debt.
+			+ Institutional inequity exacerbates this, such as prospective employers requiring job applicants to have a home address.
+			+ Inadequate services and support to mitigate the impact of inflation, particularly on rent and food, consequences of rent payment delinquency (such as records of eviction, or personal histories of eviction), and lack of support for child care and parental support (e.g., for maternal and paternal support).
+	- Third paragraph that ends on the next page.
+		* White feminism, or mainstream feminism, tend to ignore or delay addressing long/longer -term hunger and food insecurity, while preferring to address women's poverty (due to income inequity and wealth inequity).
++ pp. 40
+	- First paragraph.
+		* Explains the consequences and impact of hunger on individuals, families, and communities.
+			+ Prolonged hunger can lead to desperation that makes it challenging for people facing such hunger to be disciplined in making wiser decisions, avoid losing their composure.
+				- Driven by survival instincts, a subset of these people may even commit misdemeanors (minor wrongdoings) or crimes to obtain food or resources/money that can be used to obtain food.
+	- Second paragraph.
+		* Cases of fraud regarding usage of public/social services (especially public welfare cases) is less than 1% of all public welfare cases.
+			+ A small subset of people are pressured to sell food stamps, since the public welfare services do not cover food preparation items (e.g., working refrigerators, stoves, storage solutions, pots, and pans), basic household cleaning and hygiene products, let alone diapers and menstrual pads. Without these other basic necessities, they cannot store, prepare, and consume food that they purchase with the food stamps.
+	- Third paragraph that ends on the next page.
+		* Arguments about why poorer people who struggle with food insecurity, including hunger, are ignorant about food nutrition are made by people who are disingenuous and/or willful ignorance about systemic/structural inequity (such as ***food desert and transit/transportation desert***) that lead to food insecurity, including hunger.
+			+ This happens "around the world," "not just in \[the United States\]".
+			+ To address problems associated with food deserts, protesting against companies that sell food products and provide food services exacerbates the food insecurity and hunger that community members face. This is because if these companies that are providing access to low-nutrition food (or nutrition-lacking food) leave the community or go out of business, the protests end up causing people in the community to have greater food insecurity (unless better companies replaced them).
++ pp. 41
+	- First paragraph.
+		* White feminism, or mainstream feminism, superficially asserts that it is inclusive (and intersectional).
+			+ However, it tends to neglect women with less privilege.
+				- It does not advocate for poorer women.
+					* Poverty drives people, including women, to do things for money that they would not have done otherwise. They include:
+						+ sex work
+						+ drug trade
+			+ They need to stop using weaponizing tone policing, moral suasion, and respectability politics to oppress less privileged women, when they support systemic/structural inequity/oppression.
+				- By failing to show grace and compassion to those with difficult and challenging choices, we cannot compare them to those with the highly privileged.
+				- Poorer women/people have to struggle with the short-term painful impact of hunger as well as avoid horrific long-term and multi-generational challenges of food insecurity.
+				- Inclusive and intersectional feminism have to address solutions to help poorer women, and other people, mitigate systemic/structural inequity/oppression and address their (basic) needs.
+				- More privileged women need to do their part in shaping public policy and institutional policy to mitigate systemic/structural inequity/oppression and address the (basic) needs of poorer women, and other poorer people.
+					* The more power you have, the more you need to use that power to help others.
+	- Second paragraph that ends on the next page.
+		* For increasing race-based income inequity and wealth inequity, poorer women of color face more challenges to overcome challenges of food insecurity that can get progressively worse from hunger to increasingly worse malnutrition.
+			+ Without women with more socioeconomic power and privileged feminist allies advocating for them, and helping them to "shap[e] public policy and institutional policy to mitigate systemic/structural inequity/oppression and address the (basic) needs of poorer women, and other poorer people" (quoted from my notes for the previous paragraph)
+		* Refrain of "the more power you have, the more you need to use that power to help others" (quoted from my notes for the previous paragraph)
++ pp. 42
+	- First paragraph.
+		* Politicians and policymakers prefer to mitigate community health, and public health, problems such as obesity, rather than "mitigate systemic/structural inequity/oppression and address the (basic) needs of poorer women, and other poorer people" (quoted from my notes for the previous paragraph).
+			* Without addressing ***food desert and transit/transportation desert***, politicians and policymakers would help people in positions of socioeconomic and polical power to maintain or exacerbate systemic/structural inequity/oppression.
+			* In a food desert, it is cheaper for people to access soda (due to tax subsidies??? - ***CITE THIS!!!***) than products of water or fruit juice. Hence, to satisfy the immediate need of thirst, they would consume soda that would subsequently contribute to (more) health problems.
+	- Second paragraph.
+		* Advocates (politicians and policymakers) for taxes on soda to address problems associated with obesity fail to acknowledge publications that the amount of sugar consumed does not lead to specific health outcomes that this tax policy is designed to address.
+	- Third paragraph that ends on the next page.
+		* By weaponizing fatphobia and obesity as well as designing, advocating for, and implementing tax policy on soda, politicians and policymakers avoid discussions and challenges from community members to address ***food desert and transit/transportation desert***, environmental inequity, and other aspects of systemic/structural inequity/oppression, that harm their constituents.
+			+ By failing to provide green spaces and other outdoor spaces to allow people to exercise and breathe in clean air, constituents cannot do these to improve their overall health.
+			+ Likewise, constituents need to have access to:
+				- affordable fresh produce
+				- clean water
+				- access to health care
+				- culturally sensitive crime mitigation programs, to avoid racist policing
+			+ Mitigation programs, as part of public/social services, for at-risk youth to promote patterns of healthy behavior can include:
+				- midnight basketball
+				- after-school, weekend, and summer programs
+			+ Mitigation programs can provide food and nutrition classes.
+			+ As written in my notes for pp. 39, first paragraph, ***liberatrian racism*** keeps politicians and policymakers from funding these programs in the U.S. (and elsewhere - ***CITATION NEEDED***)
++ pp. 43
+	- First paragraph.
+		* As written in my notes for pp. 40, third paragraph, pp. 42, first to third paragraphs, the disingenuity leads politicians and policymakers to use taxes collected from the tax policy for soda to fund programs that address their interests, which do not include resolving problems associated with food insecurity such as ***food desert and transit/transportation desert***.
+		+ It highlights tax policy on soda as a regressive tax policy.
+	- Second paragraph that ends on the next page.
+		* BLAH
 
 
 
@@ -640,10 +733,7 @@ pp. 31-46 (official, from the paper version)
 
 
 
-
-
-
-+ pp. 3X
++ pp. 4X
 	- First paragraph.
 		* BLAH
 	- Second paragraph.
@@ -1014,12 +1104,46 @@ pp. 249-258 (official, from the paper version)
 
 
 
+#	References
+
+
+Heather McGhee's book, "The Sum of Us," explains systemic/structural and institutional inequity/racism in the U.S. that arise from having a zero-sum worldview based on racist ideas perpetrated and spread/disseminated by more privileged people, especially richer White American men (in terms of idea generation, and spread by others who they have an influence on).
+
+	@book{McGhee2021a,
+		Address = {New York, {NY}},
+		Author = {Heather {McGhee}},
+		Publisher = {One World},
+		Title = {The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together},
+		Year = {2021}}
+
+Isabel Wilkerson's book, "Caste," provides qualitative description of how many more privileged people in the U.S., and the rest of the world, struggle with shifting from a zero-sum worldview to a  worldview with win-win outcomes that was described in Heather McGhee's book, "The Sum of Us."
+
+	@book{Wilkerson2020,
+		Address = {New York, {NY}},
+		Author = {Isabel Wilkerson},
+		Publisher = {Random House},
+		Title = {Caste: The Origins of Our Discontents},
+		Year = {2020}}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 #	common phrases
 
 
+
+(quoted from my notes for the previous paragraph)
+written in my notes for pp. XYZ, ABC paragraph, BLAH
 
 lower-income families of color.
 higher-income families
@@ -1033,6 +1157,8 @@ providing basic needs for their children (or other dependents)
 children/dependents
 
 
+
+weaponizing tone policing, moral suasion, and respectability politics
 
 inclusive feminism and intersectional feminism
 White feminism, or mainstream feminism, 
