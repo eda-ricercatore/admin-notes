@@ -1503,7 +1503,114 @@ reactive programming = asynchronous dataflow programming
 	- A/B testing
 	- ***experiment driven development***
 + skill set:
-	- BLAH.
+	- build visual Web development platform to empower non-coers create incredible experiences for the Web
+	- Node.js
+		* open-source server environment
+		* back-end JavaScript runtime environment
+	- MongoDB, Mongo
+		* source-available cross-platform document-oriented NoSQL database
+	- AWS
+	- React
+		* free and open-source front-end JavaScript library for developing user interfaces
+		* supports JavaScript and TypeScript
+		* other JavaScript frameworks:
+			+ Angular
+				- *TypeScript*-based free and open-source Web application framework
+				- rewrite of AngularJS
+					* or, supersedes AngularJS.
+				- JavaScript MVW framework
+					* MVW framework = model-view-whatever computing paradigm, adopted by AngularJS framework
+				- based on:
+					* JavaScript
+					* TypeScript
+					* HTML
+			+ Vue.js, Vue
+				- open-source model-view-viewmodel (MVVM architectural pattern) front-end JavaScript framework for developing user interfaces, including GUI, and single-page applications (dynamic Web pages, client-side rather than server-side - client-side dynamic Web pages, with client-side scripting)
+					* based on markup languages and programming/scripting languages
+						+ user interface markup languages, UI markup languages
+						+ mathematical markup languages
+							- *LaTeX*
+							- *MathML*
+							- *OMDoc*, Open Mathematical Documents
+							- *MathML*, Mathematical Markup Language
+								* *XML*-based *MathML*
+							- *OpenMath*
+				- supports JavaScript and TypeScript
+				- progressive JavaScript framework
+				- approachable, performant, and versatile framework for building Web user interfaces
+			+ Wakanda
+				-JavaScript-based Web framework, for front-end Web development, that supports:
+					* JavaScript
+					* HTML
+					* CSS
+			+ Web frameworks, WF, and Web application frameworks, WAF, are software frameworks that support Web application development, for:
+				- Web services
+				- Web resources
+				- Web APIs
+	- Flux architecture
+		* application architecture for developing client-side Web applications
+	- CSS-in-JS
+		* styling technique for JavaScript to style components
+		* parse JavaScript, generate CSS, with JavaScript
+		* library implementations for:
+			+ Emotion
+			+ Styled Components
+			+ JSS (authoring tool for CSS), React-JSS (JSS integration with React)
+	- ES2015+
+		* modern, up-to-date version of JavaScript
+		* supersedes ECMAScript version 5, ES5
+		* ES in ES2015+ and ES6 stands for ECMAScript
+		* ECMAScript, ES:
+			+ JavaScript standard
+			+ ECMAScript Language Specification, for the ECMAScript Language, or ECMAScript
+	- Mocha
+		* feature-rich JavaScript test framework that runs on Node.js and in the browser, for asynchronous testing
+		* unit testing framework
+	- Cypress.io
+		* JavaScript end-to-end testing framework
+		* automated testing framework for front-end Web applications
+		* not Selenium based.
+		* for all front-end frameworks and Web pages
+	- Jest
+		* JavaScript testing framework
+		* universal testing framework, which can be adapted to any JavaScript library or framework
+		* built on top of the open-source *Jasmine* (unit) testing framework
+			+ *Jasmine* (unit) testing framework runs on JavaScript-enabled platform
+			+ based on unit testing frameworks, such as:
+				- ScrewUnit
+				- JSSpec
+				- JSpec
+				- RSpec
+	- Flow, from *getflow.com*
+		* flexible project and task management software
+			+ for project management and task management
+	- Flow
+		* for powerful, secure, and scalable Web3 applications
+		* fast, decentralized, and developer-friendly blockchain for games, apps, and digital assets
+			+ supports developer-friendly, ACID-compliant environment
+				- multi-role architecture, multi-node architecture
+					* validator roles
+						+ collection
+						+ consensus
+						+ execution
+						+ verification
+				- resource-oriented programming
+				- developer ergonomics
+					* upgradeable smart contracts
+					* built-in logging
+				- consumer onboarding
+	- lead, architect, and manage feature work for product engineering team enabling visually developed asynchronous workflows, using:
+		* JavaScript
+		* Node.js
+		* GraphQL
+		* React.js
+	- develop performant and accessible UI components using React to provide visual design experiences and create Web pages
+	- build an maintain unit tests and integration tests:
+		* Mocha
+		* Jest
+		* Cypress
+	- share best pratices and code design considerations
+	- develop scalable SaaS product/service
 + skill set:
 	- BLAH.
 + skill set:

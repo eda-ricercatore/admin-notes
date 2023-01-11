@@ -222,7 +222,14 @@ Skill sets for software development for product management:
 + message brokers
 	- RabbitMQ
 	- Kafka
-
-
++ Virtual machines: Managed runtime systems
+	- JVM
+	- Dalvik VM
+	- Android Runtime (ART)
+	- LLVM
+	- .NET CLR
+	- R
+	- Python
++ Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
 
 

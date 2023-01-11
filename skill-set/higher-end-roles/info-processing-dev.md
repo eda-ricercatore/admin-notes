@@ -481,6 +481,7 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
 + 3-D interactive tools and libraries:
 	- Unity
 	- Unreal
@@ -498,6 +499,7 @@ reactive programming = asynchronous dataflow programming
 	- trusted platform module (TPM) technology
 	- standards for cybersecurity (ISO21434) and functional security (ISO26262)
 + SOTIF, safety of the intended functionality
++ Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 + skill set:
 	- BLAH.
 + skill set:

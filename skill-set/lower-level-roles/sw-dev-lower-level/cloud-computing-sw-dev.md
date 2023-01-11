@@ -508,7 +508,11 @@ Notes on cloud computing:
 		* Nix
 		* Bazel
 + skill set:
-	- BLAH.
+	- designing cross-origin resource sharing (CORS) and cross-origin resource policy (CORP) models to securely embed dynamic content from SaaS on customer-controlled domains
+	- instrumenting and optimizing performance to improve:
+		* bundle sizes
+		* time to interactive, TTI
+		* time to first byte, TTFB
 + skill set:
 	- BLAH.
 + skill set:

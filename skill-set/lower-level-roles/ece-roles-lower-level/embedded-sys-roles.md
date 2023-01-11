@@ -119,7 +119,47 @@ Sets of skills for embedded software development roles:
 	- Qt (or PyQt)
 	- Microcontroller firmware
 + skill set:
-	- BLAH.
+	- develop power management solutions at rack-level for GPU servers
+		* develop software to manage power for (complete) AI data centers using GPU servers
+	- extend or modify Linux kernel and software for Linux user space
+	- develop software for scalable power management solution
+	- collect power metrics with very low latency from underlying devices
+	- developing interfaces for orchestrators to make decision on scheduling job on right infrastructure
+	- solve problems using data-driven design models, and data-driven design patterns
+	- achieve Unified Design Architecture across platforms varying in architecture and scale
+	- developing, reviewing, and unit testing code
+	- work with other teams to ensure developed code is in line with NVIDIA SDLC processes
+	- excellent grasp on data structures and algorithms
+	- knowledge of server hardware and its build blocks
+	- ability to read hardware schematics and code for accessing hardware
+	- familiarity with hardware protocols, or projects on microcontrollers interfacing with other devices with hardware protocols, such as:
+		* I2C
+		* SPI
+		* GPIOs
+	- excellent programming, scripting, and code reviewing skills with C or C++, ideally both for Linux user space programs and system programs (or Linux software applications and system software)
+	- excellent written and oral communication skills, good work ethics, high sense of teamwork, love to produce quality work and commitment to finish your tasks every single day.
+	- familiarity with:
+		* OpenAPI
+		* Apache Thrift
+		* Google ProtoBufs
+		* Apache Avro
+			+ remote procedure call and data serialization framework
+			+ data serialization system
+			+ serialization format for record data, and streaming data pipelines
+			+ enables:
+				- schema evolution
+				- (row-oriented) remote procedure call, RPC
+				- container file to store persistent data
+				- simple integration with dynamic languages
+					* code generation for dynamic languages:
+						+ is an optional optimization
+						+ not needed to:
+							- read or write data files
+							- use or implement RPC protocols
+					* code generation is strongly recommended for statically typed languages
+			+ provides experimental support for an alternative interface description language, IDL
+				- interface description languages, IDLs, are used in remote procedure call, RPC, software
+		* REST APIs
 + skill set:
 	- BLAH.
 + skill set:

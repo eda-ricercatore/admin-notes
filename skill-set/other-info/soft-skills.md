@@ -2,7 +2,13 @@
 
 
 Cool soft skills to acquire:
-+ ***data science***
++ mixed methods research
+	- ***data science***
+	- qualitative research
+	- survey tools, for data science and qualitative research
+		* Qualtrics
+		* Google forms
+		* RedCAP
 + ***metacognitive skills***
 	- ***computational thinking***
 	- ***engineering thinking***

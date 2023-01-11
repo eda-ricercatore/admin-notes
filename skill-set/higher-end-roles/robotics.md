@@ -179,6 +179,7 @@ Generic sets of skills in robotics:
 	- Previous experience with extrinsic calibration of at least two of the following sensors: RGB Camera, ToF Camera, Lidar, Odometry, IMU
 	- Understanding of standard camera calibration methods
 	- System level understanding of how calibration affects robot performance
++ We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + skill set:
 	- BLAH.
 + skill set:
@@ -337,8 +338,27 @@ Sets of skills for autonomous road vehicles:
 
 
 
+####	Car Companies
 
 
+Car companies that manufacture electric cars:
++ Tesla
++ Toyota
++ Stellantis
++ Volkswagen, VW
++ Ford
++ BMW
++ GM
++ Honda
++ Nissan
++ Kia
++ Hyundai
++ Subaru
+
+
+Other car companies:
++ Mercedes
++ Mazda
 
 
 

@@ -641,6 +641,48 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+##	Software Development for Computational Statistics
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Software Development for Simulations
 
 
@@ -649,7 +691,7 @@ Emerging technologies that would be interesting application domains of computati
 	- Drake
 	- Unity
 	- Blender
-	
+
 
 
 
@@ -775,6 +817,171 @@ Emerging technologies that would be interesting application domains of computati
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+###	Software Development for Molecular Modeling, Molecular Dynamics, & Molecular Simulation
+
+
+
+
++ OpenMM experience for molecular dynamics simulations
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Computational Engineering (not EDA)
+
+
+
+Skill set for software development for computational engineering (not EDA):
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+##	Software Development for Computational Fluid Dynamics
+
+
+
+Skill set for software development for computational fluid dynamics, CFD:
++ skill set:
+	- The Principal Fluidics Engineer will be responsible for driving the fluidic architecture including pumps, valves, manifolds, consumables/cartridges and chips etc. through the development process to take the Roboflow system to new heights. As part of the Fluidics team at ONI, this person will work closely with the engineering, chemistry, and biology teams to develop and deliver customer-centric fluidic products for our customers. Our microfluidics platform is universal and can support almost all applications, this role will be responsible for carrying on that spirit and create a great opportunity to be involved in the applications of single molecule microscopy. 
+	- Fluidics systems design, integration and development
+	- Lead consumable and manifold development projects
+	- Consumable/cartridge design and injection moulding 
+	- Manage technology transfer and manufacturing processes 
+	- Reliability and lifetime testing
+	- Liaising with external vendors
+	- PhD in engineering or sciences
+	- Excellent track record in product development and contributing to successful products on the market
+	- Demonstrated the expertise in automation, control systems, fluidic and pneumatic components and systems
+	- Strong foundation in physics, esp. hydrodynamics to understand micro- and macro-scale regime fluid flow
+	- Strong experience in design and manufacturing of consumables incl. cartridges (injection moulding, draft angles, piercing, foils, sealing etc.)
+	- Experience with finite-element analysis software for CFD simulation, e.g. COMSOL, Ansys CFD, etc.
+	- Modelling experience in: overall systems, instrument and consumable COGS, error budget
+	- 3D CAD experience
+	- Proficiency with electronics PCB design and microcontrollers programming
+	- Experience with fast prototyping techniques and statistical data analysis (JMP, R, Matlab)
+	- Track record of publications in high impact journals.	
+	- Programming experience in Python, C/C++
+	- Practical knowledge of biology with the ability and desire to work alongside life scientists
+	- Microfabrication techniques experience (photolithography, micromachining, bonding processes, etc.)
++ skill set:
+	- The Staff Fluidics Platform Engineer will be responsible for supporting the transition of the fluidic architecture including pumps, valves, manifolds etc. through the development process to take the Roboflow system to new heights. As part of the Fluidics team at ONI, this person will work closely with the engineering, chemistry, and biology teams to develop and deliver customer-centric fluidic products for our customers. Our microfluidics platform is universal and can support almost all applications, this role will be responsible for carrying on that spirit and create a great opportunity to be involved in the applications of single molecule microscopy. 
+	- Fluidics systems (incl. manifolds) design, integration and development
+	- Fluidics system modelling
+	- CFD simulations
+	- Reliability and lifetime testing
+	- PhD in engineering or sciences
+	- Excellent experience in the lab environment incl. reagent delivery and detection of biomolecules to produce scientific results
+	- Track record of contributing to development of successful products on the market
+	- Demonstrated the expertise in automation, control systems, fluidic and pneumatic components and systems
+	- Strong foundation in physics, esp. hydrodynamics to understand micro- and macro-scale regime fluid flow
+	- Experience with overall system modelling and finite-element analysis software for CFD simulation, e.g. COMSOL, Ansys CFD, etc.
+	- 3D CAD experience
+	- Proficiency with electronics PCB design and microcontrollers programming
+	- Experience with fast prototyping techniques and statistical data analysis (JMP, R, Matlab)
+	- Track record of publications in high impact journals.
+	- Capabilities for Success (nice to haves)
+	- Strong track record in product development
+	- Programming experience in Python, C/C++
+	- Practical knowledge of biology with the ability and desire to work alongside life scientists
+	- Microfabrication techniques experience (photolithography, micromachining, bonding processes, etc.)
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
 
 
 

@@ -161,10 +161,41 @@ Skills for EDA software development, and other high-end software development:
 + Software libraries
 	- C++ libraries:
 		* http://doc.hc2.ch/c_cpp/en/cpp/links/libs.html
-
-
-
-
++ parallel and distributed computing
+	- parallel computing
+		* parallel data structures
+		* parallel algorithms
+		* ***Knowledge of parallelism in shared (Intel TBB, OpenMP) and distributed (Intel MPI, Apache Spark, Dask) memory***
+		* Knowledge of parallelism in shared memory:
+			+ Intel TBB
+			+ OpenMP
+		* Knowledge of OpenCL/SYCL languages
+			+ OpenCL, Open Computing Language
+				- low-level API, and parallel computing/programming framework and run-time for heterogeneous platforms of:
+					* general-purpose processors
+					* graphics processors
+					* digital signal processors
+					* FPGAs
+					* domain-specific architectures, including hardware accelerators
+				- compile and execute kernel programs (kernels) in parallel in computer systems with heterogeneous system architecture (HSA)
+				- enables GPGPU computing
+				- speeds up numerical computing, and computation for applied machine learning and data science
+				- has two APIs, application programming interfaces:
+					* platform layer API
+					* runtime API
+			+ SYCL:
+				- higher-level programming model for improving programming productivity on hardware accelerators
+				- single-source embedded domain-specific language (eDSL) based on pure C++17
+				- royalty-free, cross-platform abstraction layer for developing software that are executed on heterogeneous platforms
+				- single-source C++ programming model for heterogeneous computing
+	- distributed computing
+		* distributed data structures
+		* distributed algorithms
+		* Knowledge of parallelism in distributed memory:
+			+ Intel MPI
+			+ Apache Spark
+			+ Dask
+	
 
 
 
@@ -3476,7 +3507,11 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 		* path planning
 + knowledge of state estimation and data fusion algorithms
 + skill set:
-	- BLAH.
+	- ***LightGBM***, light gradient-boosting machine
+	- ***compare bagging versus boosting***
+	- usage of ***KDD data set***
+	- ***MLP***
+	- ***stacking***
 + skill set:
 	- BLAH.
 + skill set:
@@ -3813,8 +3848,14 @@ Skills for natural language processing, NLP:
 	- Experience in Scholarly Document Processing (SDP) would be highly-valued
 	- Hands-on experience with AWS cloud infrastructure is a bonus.
 + linguistic quality assurance process, LQA process
-+ skill set:
-	- BLAH.
++ skill set for speech processing/recognition in NLP (natural language processing):
+	- ASR
+	- MT
+	- NLP
+	- NLU
+	- TTS
+	- DM
+	- ASP
 + skill set:
 	- BLAH.
 + skill set:
@@ -4642,7 +4683,25 @@ Sets of skills for generic data science roles:
 			+ AWS Console
 		* Not EMR, electronic medical record = electronic health record
 + build multivariate simulation data pipelines on a cloud for integration tests
-
++ skill set:
+	- experience with defining, implementing, and analyzing A/B and multivariate experiments
+	- capacity as data analysts to work with data engineers and data scientsts as appropriate to design, scope, and work through new projects
+	- statistical modeling and analysis in R and/or Python
+	- reporting and analysis using major Web analytics tools, such as:
+		* Google Analytics
+		* Adobe Analytics
+		* Parse.ly
+		* comScore
+		* SimilarWeb
+	- analyze data and build dashboards using business intelligence, BI, tools, such as:
+		* Data Studio
+		* Looker
+		* Tableau
+	- use SQL-based database applications for handling large data sets:
+		* Snowflake
+		* BigQuery
+		* Athena
+		* RedShift
 
 
 
@@ -5006,6 +5065,71 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
+
+
+###	Data Science for Computational Science and Computational Engineering (except EDA)
+
+
+
+
+Skill sets for data science roles in computational science (or scientific computing) and computational engineering (except EDA):
++ skill set:
+	- Imagine a super-resolution microscope so easy to use that anyone on earth can take high-resolution images of bacteria, proteins, cells, and even genes. Imagine the same microscope accelerating cancer research, pharmaceutical development, and virus identification by empowering scientists with real-time, nanoscale imagery of cells and proteins. We’re building this technology at ONI!
+	- Our aim is to make super-resolution imaging so easy and the insights so impactful that it becomes widely used by scientists and leads to radical discoveries and innovations. To achieve this goal, our platform will automate every stage of the workflow, integrating the Nanoimager, a microfluidics device (Roboflow) and an online analysis package (CODI) with next-gen super-resolution assays and application-specific microfluidic consumables. 
+	- We will soon be launching our first kit which is designed for extracellular vesicles. With one click, the kit captures, images and analyses these tiny particles allowing researchers to characterise their biomarkers for the first time. We are also developing a revolutionary new super-resolution technology called Every Molecule Counts (EMC) that will give our customers a new level of confidence about the biology underlying their images. EMC technology will be integrated into all of our future consumables.
+	- To drive all this innovation we have built a world-class R&D team with colleagues from disciplines including biology, computer science, mathematics and physics. A core principle behind our work is to be detailed in our thinking, but to make products that are simple and intuitive so they can be put in the hands of anyone irrespective of experience, background, or training. We are excited to welcome new team members who share these values and who are excited by our vision.
+	- Currently employing a diverse team of 120+ people, representing over 40 nationalities, ONI is in a period of rapid growth. We closed our $75m Series B round at the start of 2022, led by ARCH Ventures and Casdin Capital, putting our post money valuation at c. $225M, to drive the development of our next generation of products. What we have achieved so far is just the beginning and we are always looking for passionate people to join us on this journey.
+	- We are looking for a Senior Software Engineer who will support the team that develops and deploys leading edge data analysis tools and solutions to the users of our microscope. You will develop creative methods that can extract information from these results and use software engineering skills to consolidate these methods into usable tools. This role is a fantastic opportunity to work on ground breaking applications for super-resolution and single-molecule microscopy as well as to help shape this new diverse team.
+	- As an experienced member of the team, you will be at the heart of developing new tools and techniques for super-resolution data analysis. You will take a leading role working closely with Data Scientists, Software Engineers, Application Development Scientists, and Hardware R&D, to create a bridge between the back-end and the data science team, mentoring, coaching and empowering data scientists, and helping provide infrastructure and system support to help supercharge the work of the data science team, and increase the delivery of code into the cloud platform.
+	- Drive communications between data scientists and backend cloud developers to deliver fast and effective research tools
+	- Be confident in applying domain specific knowledge to the development of algorithms.
+	- Have a strong background in mathematics, probability, and statistics.
+	- Be able to work independently or as part of  a team. 
+	- Be comfortable with ambiguity and complexity, thrive in group discussions and be an able communicator with colleagues with diverse technical backgrounds.
+	- Have a passion for learning, working in a team, teaching others & making an impact on the world.
+	- Greater than 4 years experience as a software developer in a professional environment.
+	- Have an academic background (BSc, MSc, or PhD) in Computer Science, or STEM related fields. 
+	- Strong familiarity with the python ecosystem, and available tools, and best practices of python in the context of both Data Science and delivery of production code. 
+	- Strength in packaging using pypi, and optionally conda, or alternatives, including compiled C++ accelerated bindings (Pybind11) across platforms.
+	- Strength and familiarity using Cmake to build C++ projects across Linux and Windows platforms. 
+	- Strong understanding of C++ ecosystem, standards, and comfortability navigating and learning unknown code-bases. 
+	- Strength in maintenance and establishment of CI/CD workflows for python and C++, including integration testing and deployment, using common solutions such as Github Actions or CircleCI.
+	- Experience utilizing Docker to enhance development, testing, and deployment.
+	- Sound knowledge of basic mathematics and statistics concepts
+	- Confidence communicating between scientists and backend cloud developers
+	- GPU acceleration using CUDA.
+	- MLOps; with deployment and or training in cloud infrastructure, or deployment of C++ compiled models in real-time.
+	- Image processing experience. 
+	- Strength in development and implementation of computationally intensive numerical algorithms. 
+	- Experience with cloud and web-based solutions and toolings, including tools such as Django, Kubernetes, Celery, RabbitMQ, on platforms such as GCP, or AWS
++ skill set:
+	- ONI is looking for a highly motivated and creative scientist to join our Applications Development team as a Data Scientist. The Applications Development team invents new, cutting-edge molecular biology techniques based on single-molecule microscopy, and converts them into integrated bioware products that enable our users to access the full potential of super-resolution imaging. This work spans a diverse range of biological and technological fields, firmly founded in advanced fluorescence microscopy.
+	- The work of the Applications Development team demands creative, innovative ways to process and analyse imaging data of many formats - including localisation-based point clouds, single-particle tracking information, and pixel-based data. As the Data Scientist within the team, you will be responsible for identifying and developing the most effective and efficient ways to analyse data generated in the course of our developmental work. In the process you will bring new analysis tools into the company, and design bespoke tools that are unique to ONI. The insights that we need to extract from our data are highly dynamic and change according to the state of each project, and so this role is well-suited to a talented Data Scientist who likes solving problems creatively and rapidly. 
+	- This role is open to candidates able to work in our Oxford, UK office and will involve interaction with scientists at both of our research centres. You will work across several research projects involving multiple development teams, and fulfil a vital function within the company by pushing the boundaries of the insights we can derive from our imaging technology.
+	- Take a leading role in defining how data are analysed within Applications Development’s product- and technology-development process. This is through the development of new analytical methods to unlock previously unobtainable information within our data; advising on the most appropriate analytical approaches to take; and transferring the most cutting-edge analyses into the team
+	- Directly handle the processing of some data collected by the wider team as part of our ongoing developmental work
+	- Assist and support other members of the team in their data analysis 
+	- Bridge ONI’s Applications Development and Software teams to ensure that requirements and strategies are fully understood by scientists with diverse biology and computing backgrounds
+	- Contribute to ONI’s ongoing research projects as an integral and intellectually-invested team member
+	- Contribute positively to ONI’s mission beyond your immediate work - e.g. providing technical advice/support to the wider company, promoting an exciting work culture etc.
+	- Significant expertise in image analysis methods, particularly single-molecule methods
+	- Experience of data analysis using Python
+	- Understanding of super-resolution or single-particle imaging methods
+	- Some laboratory experience in cell biology, molecular biology, or biochemistry
+	- A passion and hunger for improvement, and inability to settle for average
+	- Ability to be motivated by the success of a team, and derive fulfilment from enabling others
+	- Strong cultural alignment to ONI and excellent people skills
+	- Excellent record-keeping and data-handling skills
+	- Ability to work to a high standard as part of a dynamic team
+	- Ability to think independently and take initiative
+	- Practical experience in sample preparation for fluorescence microscopy
+	- Domain knowledge in a specific area of biology or biochemistry; preferably immunology, extracellular vesicle biology, oncology, virology, neurology, developmental biology, genetics/epigenetics, or pathology
+	- Experience of other relevant data-handling resources; e.g. MatLab, R etc. 
+	- Obtained a higher qualification (BSc, MSc, PhD, or equivalent) in a relevant area of science
+	- Worked in an environment for with significant focus on imaging analysis methods (in either academia or industry)
+	- Solved challenging data science problems in creative and innovative ways
+	- Worked as part of a close team to deliver ambitious results together
+	- Contributed creatively and intellectually to the success of your projects
 
 
 

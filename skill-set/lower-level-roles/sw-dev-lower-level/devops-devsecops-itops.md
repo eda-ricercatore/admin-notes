@@ -965,7 +965,33 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- You have a systematic problem-solving approach, coupled with strong communication skills and a sense of ownership, initiative, grit, and drive.
 	- You have designed and implemented applications and systems that scale, are resilient to failure, and are observable.
 + skill set:
-	- BLAH.
+	- distributed systems for customer-facing environments
+	- navigate and scale multi-tier cloud environments on AWS and GCP
+	- container-centric architectures, using:
+		* Docker
+		* Kubernetes
+			+ EKS
+			+ GKE
+			+ AKS
+			+ OpenShift
+		* ECS
+		* Docker Swarm
+		* Mesos
+	- infrastructure-as-code tools:
+		* Terraform
+		* Ansible
+		* Puppet
+		* Chef
+	- full-stack Web development using:
+		* React
+		* Node
+		* MongoDB
+	- experience with OpenResty, Pulumi
+		* OpenResty: full-fledged Web platform based on nginx, which runs Lua scripts on LuaJIT engine
+		* Pulumi: universal infrastructure-as-code SDK, for:
+			* creating cloud infrastructure
+			* deploying cloud infrastructure
+			* managing cloud infrastructure
 + skill set:
 	- BLAH.
 + skill set:

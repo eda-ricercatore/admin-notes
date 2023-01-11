@@ -20,6 +20,8 @@ reactive programming = asynchronous dataflow programming
 		* music
 
 
+Types of interfaces:
++ RIA, rich-interface application
 
 
 

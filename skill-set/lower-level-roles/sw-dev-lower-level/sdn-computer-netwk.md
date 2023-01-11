@@ -112,9 +112,39 @@
 	- enterprise switching
 	- data center switching
 + skill set:
-	- BLAH.
+	- Ability to write idiomatic code in Rust.
+	- solid understanding of:
+		* distributed systems
+		* network protocols
+		* blockchain technology
+		* cybersecurity
+	- experience with substrate:
+		* IPFS
+		* UNIX CLI
++ be a Rustacean.
 + skill set:
-	- BLAH.
+	- Work with:
+		* NVLink
+		* NVSwitch
+		* InfiniBand
+	- strong understanding of:
+		* computer networking fundamentals
+		* high-performance networks, such as Ethernet/IB
+		* computer architecture
+		* operating systems
+		* kernel internals
+	- excellent C++ programming and debugging skills
+	- experience with:
+		* Linux/UNIX shell scripting
+		* Python scripting
+		* Perl scripting
+		* big complex system-level software build flow/maintenance/open-source project
+	- ability and flexibility to work and communicate effectively in a multi-national, multi-time-zone corporate environment
+	- experience with OS virtualization technologies:
+		* KVM
+		* QEMU
+		* Hyper-V
+	- passionate about low-level software
 + skill set:
 	- BLAH.
 + skill set:
