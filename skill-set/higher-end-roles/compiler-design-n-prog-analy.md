@@ -61,7 +61,16 @@ Skill set for compiler design:
 
 
 + skill set:
-	- BLAH.
+	- passion for developing and optimizing compilers for modern architectures
+	- experience in either or both of the following:
+		* LLVM architecture, polyhedral optimization, auto vectorization, back-end code generation
+		* deep learning compilers
+			+ TVM
+			+ XLA
+			+ Glow
+	- experience with neural network inference on dedicated SoC or GPU
+	- high-level C++ programming expertise
+	- excellent problem solving and debugging skills
 + skill set:
 	- BLAH.
 + skill set:

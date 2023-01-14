@@ -142,6 +142,12 @@ Sets of skills for embedded software development roles:
 		* OpenAPI
 		* Apache Thrift
 		* Google ProtoBufs
+		* REST APIs
+		* embedded software development and troubleshooting
+		* package managers, or package management systems, for Linux distributions, such as Debian:
+			+ rpm
+			+ apt
+		* dbus and systemd
 		* Apache Avro
 			+ remote procedure call and data serialization framework
 			+ data serialization system
@@ -159,7 +165,6 @@ Sets of skills for embedded software development roles:
 					* code generation is strongly recommended for statically typed languages
 			+ provides experimental support for an alternative interface description language, IDL
 				- interface description languages, IDLs, are used in remote procedure call, RPC, software
-		* REST APIs
 + skill set:
 	- BLAH.
 + skill set:

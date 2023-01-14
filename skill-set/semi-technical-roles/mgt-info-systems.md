@@ -229,7 +229,7 @@ Skill set for management of information systems, MIS:
 	- AWS
 	- SQL
 	- Elastic Search
-	- Kibana
+	- Kibana, a data visualization dashboard software
 + skill set:
 	- PostgreSQL
 	- ElasticSearch

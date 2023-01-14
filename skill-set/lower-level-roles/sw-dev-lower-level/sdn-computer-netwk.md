@@ -146,7 +146,15 @@
 		* Hyper-V
 	- passionate about low-level software
 + skill set:
-	- BLAH.
+	- networking technologies:
+		* RDMA
+		* congestion control
+		* network interface architectures
+		* computer network protocols
+		* network address translation mechanisms
+		* error handling
+		* variety of network topologies
+		* variety of network routing algorithms
 + skill set:
 	- BLAH.
 + skill set:

@@ -161,6 +161,29 @@ Skills for EDA software development, and other high-end software development:
 + Software libraries
 	- C++ libraries:
 		* http://doc.hc2.ch/c_cpp/en/cpp/links/libs.html
+	- Python libraries:
+		* NetworkX, for graph computing
+		* NumPy, for numerical linear algebra and tensor algebra
+		* SciPy
+			+ for scientific computing, or computational science, and computational engineering
+			+ for the following:
+				- optimization
+				- linear algebra
+				- integration
+				- ODE solvers
+				- interpolation
+				- FFT
+				- signal processing
+				- image processing
+		* mpmath, for arbitrary-precision floating-point arithmetic
+		* Biopython, for computational biology and bioinformatics
+	- for symbolic computing
+		* SageMath, computer algebra system, CAS
+			+ SageManifolds
+			+ has bindings for C++ and Python
+	- GNU Octave
+	- MATLAB, and Simulink
+	- FreeMat
 + parallel and distributed computing
 	- parallel computing
 		* parallel data structures
@@ -169,6 +192,8 @@ Skills for EDA software development, and other high-end software development:
 		* Knowledge of parallelism in shared memory:
 			+ Intel TBB
 			+ OpenMP
+			+ Dask, for Python
+			+ SCOOP, Scalable Concurrent Operations in Python, for Python
 		* Knowledge of OpenCL/SYCL languages
 			+ OpenCL, Open Computing Language
 				- low-level API, and parallel computing/programming framework and run-time for heterogeneous platforms of:
@@ -188,6 +213,9 @@ Skills for EDA software development, and other high-end software development:
 				- single-source embedded domain-specific language (eDSL) based on pure C++17
 				- royalty-free, cross-platform abstraction layer for developing software that are executed on heterogeneous platforms
 				- single-source C++ programming model for heterogeneous computing
+		* GPU programming using:
+			+ NVIDIA CUDA
+			+ OpenCL
 	- distributed computing
 		* distributed data structures
 		* distributed algorithms
@@ -195,7 +223,13 @@ Skills for EDA software development, and other high-end software development:
 			+ Intel MPI
 			+ Apache Spark
 			+ Dask
-	
++ workflow management:
+	- [Luigi](https://github.com/spotify/luigi), for workflow management and managing ML pipelines (machine learning pipelines)
+	- Apache Airflow
+	- Azkaban
+	- Oozie
+	- Jenkins
+	- Apache Flink
 
 
 
@@ -2893,15 +2927,161 @@ Skill sets for application engineers of different EDA products:
 
 + ML/AI compiler design
 	- Poplar framework for IPU architecture compiler.
-+ ML/AI compilers:
++ ML/AI compilers, or deep learning compilers:
 	- MLIR
 	- TVM
 	- Glow
+	- XLA
 + ML/AI frameworks
 	- JAX:
-		* JAX = Autograd + XLA
+		* JAX = Autograd + XLA (from TensorFlow)
+			+ Google JAX
 		* for high-performance machine learning research
 		* https://github.com/google/jax
+	- TensorFlow
+		* TensorFlow Lite, TFLite
+		* TFX, TensorFlow Extended
+		* TensorFlow Probability
+	- PyTorch
+	- scikit-learn
+		* mlpy
+		* SpaCy, for NLP
+		* Natural Language Tookit, NLTK, for NLP
+		* Orange
+		* PyTorch
+		* TensorFlow
+		* Infer.NET, for Bayesian inference in graphical models, for probabilistic programming
+		* scikit-multiflow, for multi-output/multi-label and stream data
+	- pandas, for data analysis
+	- [Lightning, or Lightning AI](https://lightning.ai)
+		* Or, PyTorch Lightning
+	- ML.NET
+	- PaddlePaddle
+	- Theano
+	- Flax, from Google Brain
+	- RLax, for reinforcement learning agents, by DeepMind
+	- Optax, for gradient processing and optimization, by DeepMind
+	- [Chainer](https://chainer.org)
+	- for gradient boosting:
+		* LightGBM
+		* XGBoost
+	- for Python software:
+		* PyMC
+			+ formerly PyMC3
+			+ for Bayesian statistical modeling and probabilistic machine learning
+				- Markov chain Monte Carlo
+				- variational fitting algorithms
+		* TomoPy, tomographic data processing and image reconstruction
+	- for C++ software:
+		* mlpack
+		* OpenNN
+	- for Java software:
+		* Massive Online Analysis, MOA
+			+ SAMOA, derivative of MOA
+	- Orange
+	- from sanctioned entities:
+		* CatBoost, for gradient boosting
++ data science frameworks, including libraries and tools for data visualization and information visualization:
+	- Madagascar
+	- Statsmodels, for statistical analysis
+	- Dataplot, for statistical analysis and data visualization
+	- Fityk, curve fitting and data analysis application
+		* fit analytical, bell-shaped functions to experimental data
+	- for Python software:
+		* matplotlib, for data visualization
+		* Bokeh, for data visualization
+		* Plotly, for data visualization
+		* wxPython, for data visualization
+		* PLplot, for data visualization
+		* Gnuplot-py, for data visualization
+		* Biggles, for data visualization
+		* Chaco, for data visualization
+		* MayaVi, for data visualization
+	- PSPP, open-source equivalent of IBM SPSS Statistics (or SPSS Statistics, or Statistical Package for the Social Sciences)
+	- for SQL, NoSQL, and NewSQL databases:
+		* Amazon DocumentDB
+		* Apache Cassandra
+		* Apache Hive
+		* IBM Db2
+		* MariaDB
+		* Microsoft Access
+		* Microsoft Azure SQL Database
+		* Microsoft SQL Server
+		* MongoDB
+		* MySQL
+		* Oracle Database
+		* PostgreSQL
+		* Snowflake
+		* SQLite
+		* Teradata Vantage
+		* important principles, and properties, to abide by when designing database systems or hardware accelerators for data management (and computation, such as in-memory computing):
+			+ ACID = atomicity, consistency, isolation, durability
+			+ CRUD = create, read, update, and delete
+				- basic operations of ***persistent storage***
+				- design for:
+					* predominantly "persistent data", infrequently accessed and not likely to be modified
+					* predominantly "dynamic data", or predominantly "transactional data", asynchronously/periodically update information as new data becomes available
+						+ new data can come at any time
+						+ transaction data, category of data describing information that refer to master data and/or reference data, such as dates, times, time zones, and currencies
+							- financial transactions
+							- work transactions
+							- logistics transactions
+							- Note: master data and reference data provide context for transaction data (or transactions)
+							- Note: reference data also provides information about classification and categorization
+					* static data, or unchanging data, which does not change
+					* unstructured data, or unstructured information
+						+ has no pre-defined data model
+						+ not organized in pre-defined manner
+						+ text heavy
+							- can include data about:
+								* dates
+								* numbers
+								* facts
+							- can result in irregularities and ambiguities when processed by structured databases
+						+ can be semi-structured, by containing data that has some structure associated with relational databases, RDBMS
+							- XML, extensible markup language
+							- JSON, JavaScript Object Notation
+								* supported by:
+									+ MongoDB
+									+ Couchbase, formerly Membase
+										- CouchDB???
+							- Object Exchange Model, OEM
+						+ can be highly structured, such that the structure is unanticipated and unannounced
+						+ periods of inactivity between data arrival can exist
+					* semi-structured database model
+						+ no separation between data and database schema
+					* relational database model, or relational model or RM
+					* network database model
+					* entity relational database models, entity-relationship models, ER models
+						+ enhanced entity relational database model, enhanced entity relationship model, EER model
+					* document database model
+					* entity-attribute-value database model, EAV
+						+ or, object-attribute-value data model
+						+ or, vertical database model
+						+ or, open schema
+					* star schema database model
+					* physical database model, physical data model, or physical database design
+						+ inverted index
+						+ flat file, for 2-D arrays of data
+							- for flat-file databases
+							- examples are:
+								* CSV, standard comma-separated-values
+								* TSV, standard tab-separated-values
+								* Awk, flat-file processor
+					* semantic database model
+					* named graph
+					* correlational database model
+					* dimensional database model
+					* non-relational database models:
+						+ graph database model
+						+ multivalue database model
+						+ multidimensional database model
+							- resource space database model
+						+ object database model
+						+ object-relational database model, ORD, for object-relational database management systems, ORDBMS
+					* slowly changing dimension, SCD
+			+ Armstrong's axioms, references to infer functional dependencies on a relational database
+			+ Codd's 12 rules, or Codd's twelve rules, for relational database management systems, RDBMS
 + ML/AI conferences
 	- AAAI, IJCAI, NeurIPS, ACL, SIGIR, WWW, RSS, NAACL, KDD, IROS, ICRA, ICML, ICCV, EMNLP, EC, CVPR, AAMAS, HCOMP, HRI, ICAPS, ICDM, ICLR, ICWSM, IUI, KR, SAT, WSDM, UAI, AISTATS, COLT, CORL, CP, CPAIOR, ECAI, OR ECML
 
@@ -3277,8 +3457,48 @@ Skill sets for application engineers of different EDA products:
 + experience creating machine learning products
 	- deploy model
 	- MLOps
-+ skill set:
-	- BLAH.
++ skill set for machine learning architect:
+	- optimize workflows and solve problems using a data-driven approach
+	- provide machine learning as a service (MLaaS) for users
+	- co-develop machine learning as a service (MLaaS) platform, with the following features:
+		* data ingestion
+		* data indexing
+		* data labeling
+		* visualization
+		* dashboards
+		* data viewers
+	- collaborate with team on production quality service development with:
+		* unit testing, integration testing for MLaaS
+		* CI/CD for MLaaS
+		* DevOps for MLaaS
+	- develop and maintain services with:
+		* high production quality standards
+		* components for feature data storage
+		* ML model training and inferencing
+		* ML model storage and management
+		* model evaluation metrics
+	- demonstrate experience in MLOps and deep learning related infrastructure
+	- solid foundation for machine learning, deep learning architecture and service development experience
+	- provide capacity to use and fine-tune latest state-of-the-art machine learning and deep learning models, depending on the use cases
+		* develop lifecycle management tool for these machine learning and deep learning models to be deployed as a service and made available for inferencing
+	- detailing processes and workflows
+	- Programming skills in:
+		* Java
+		* Python
+		* Web service development, using REST API
+			+ front-end Web development
+				- React
+				- Ember.js
+	- object-oriented design patterns
+	- ability to learn quickly and adapt to different platforms as per the need of the project
+	- crafted/developed production quality microservices
+	- knowledge of:
+		* Hadoop
+		* Hive
+		* Spark
+		* Kafka
+		* cloud/distributed infrastructure
+		* SQL and NoSQL data platforms
 + skill set:
 	- BLAH.
 + skill set:
@@ -3344,7 +3564,7 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
-
+Skill sets for applied machine learning, applied ML
 + counter AI engineering
 + skill set:
 	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
@@ -3513,7 +3733,10 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 	- ***MLP***
 	- ***stacking***
 + skill set:
-	- BLAH.
+	- deep learning frameworks:
+		* TensorFlow
+		* PyTorch
+		* PaddlePaddle
 + skill set:
 	- BLAH.
 + skill set:
@@ -3641,6 +3864,18 @@ Applications of machine learning -based computer vision:
 + tactile feedback
 + tracking surfaces or planes in 3-D coordinates
 	- enables augmented reality experiences
+
+
+
+
+Machine learning -based frameworks for computer vision:
++ HALO AI
+
+
+
+
+
+
 
 
 

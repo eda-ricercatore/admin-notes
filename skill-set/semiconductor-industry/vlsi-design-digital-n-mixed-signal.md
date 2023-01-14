@@ -40,6 +40,7 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- Strong communication skill and a team player
 	- Unquestionable ethics – treats people with respect; keeps commitments; inspires the trust of others; works with integrity
 	- Commitment to our core values of Leadership, Innovation, Communication, Persistence, Enthusiasm, and Respect
++ trace-driven development and execution-driven simulation model development
 + skill set:
 	- BLAH.
 + skill set:
