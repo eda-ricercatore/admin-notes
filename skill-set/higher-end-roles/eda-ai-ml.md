@@ -3019,17 +3019,27 @@ Skill sets for application engineers of different EDA products:
 			+ CRUD = create, read, update, and delete
 				- basic operations of ***persistent storage***
 				- design for:
-					* predominantly "persistent data", infrequently accessed and not likely to be modified
-					* predominantly "dynamic data", or predominantly "transactional data", asynchronously/periodically update information as new data becomes available
+					* ***predominantly "persistent data"***, infrequently accessed and not likely to be modified
+					* ***predominantly "dynamic data", or predominantly "transactional data"***, asynchronously/periodically update information as new data becomes available
 						+ new data can come at any time
-						+ transaction data, category of data describing information that refer to master data and/or reference data, such as dates, times, time zones, and currencies
+						+ ***transaction data***, category of data describing information that refer to ***master data*** and/or ***reference data***, such as dates, times, time zones, and currencies
 							- financial transactions
 							- work transactions
 							- logistics transactions
 							- Note: master data and reference data provide context for transaction data (or transactions)
-							- Note: reference data also provides information about classification and categorization
-					* static data, or unchanging data, which does not change
-					* unstructured data, or unstructured information
+							- Note: reference data also provides information/data for classification and categorization of other data, such as:
+								* units of measurement
+								* country codes
+								* corporate codes
+								* fixed conversion rates for mass/weight, temeperature, and length
+								* calendar structure and constraints
+					* ***streaming data, event stream processing, data stream processing, or distributed stream processing***, constant flow of information
+						+ encompasses:
+							- dataflow programming
+							- reactive programming
+							- distributed data programming
+					* ***static data, or unchanging data***, which does not change
+					* ***unstructured data, or unstructured information***
 						+ has no pre-defined data model
 						+ not organized in pre-defined manner
 						+ text heavy
@@ -3038,8 +3048,12 @@ Skill sets for application engineers of different EDA products:
 								* numbers
 								* facts
 							- can result in irregularities and ambiguities when processed by structured databases
-						+ can be semi-structured, by containing data that has some structure associated with relational databases, RDBMS
+						+ can be ***semi-structured data***, by containing data that has some structure associated with relational databases, RDBMS
 							- XML, extensible markup language
+								* XML databases
+									+ native XML databases
+								* XML-enabled databases
+								* data-centric XML databases
 							- JSON, JavaScript Object Notation
 								* supported by:
 									+ MongoDB
@@ -3048,7 +3062,7 @@ Skill sets for application engineers of different EDA products:
 							- Object Exchange Model, OEM
 						+ can be highly structured, such that the structure is unanticipated and unannounced
 						+ periods of inactivity between data arrival can exist
-					* semi-structured database model
+					* ***semi-structured database model***
 						+ no separation between data and database schema
 					* relational database model, or relational model or RM
 					* network database model
@@ -3059,27 +3073,41 @@ Skill sets for application engineers of different EDA products:
 						+ or, object-attribute-value data model
 						+ or, vertical database model
 						+ or, open schema
-					* star schema database model
 					* physical database model, physical data model, or physical database design
-						+ inverted index
+						+ inverted index, postings list, postings file, or inverted file
 						+ flat file, for 2-D arrays of data
 							- for flat-file databases
 							- examples are:
 								* CSV, standard comma-separated-values
 								* TSV, standard tab-separated-values
 								* Awk, flat-file processor
+					* hierarchical database model
+					* star schema database model
 					* semantic database model
 					* named graph
 					* correlational database model
 					* dimensional database model
+					* triplestore, or RDF store
+						+ semantic triples, RDF triples, or triples
+							- atomic data entities in resource description framework, RDF, data model
+						+ uses resource description framework, RDF
+						+ for storage and retrieval of triples, through semantic queries
 					* non-relational database models:
 						+ graph database model
-						+ multivalue database model
 						+ multidimensional database model
 							- resource space database model
+							- multivalue database model
+							- useful for:
+								* online analytical processing, OLAP, applications
+									+ multidimensional OLAP, MOLAP
+									+ relational OLAP
+									+ hybrid OLAP
 						+ object database model
 						+ object-relational database model, ORD, for object-relational database management systems, ORDBMS
-					* slowly changing dimension, SCD
+							- object-relational impedance mismatch, can occur when object-oriented software interact with RDBMS
+					* ***database security***
+					* ***database scalability***
+					* ***slowly changing dimension, SCD***
 			+ Armstrong's axioms, references to infer functional dependencies on a relational database
 			+ Codd's 12 rules, or Codd's twelve rules, for relational database management systems, RDBMS
 + ML/AI conferences
