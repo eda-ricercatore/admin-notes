@@ -3065,10 +3065,13 @@ Skill sets for application engineers of different EDA products:
 					* ***semi-structured database model***
 						+ no separation between data and database schema
 					* relational database model, or relational model or RM
+						+ relational databases, RDBMS
+							- row-oriented DBMS
+							- column-oriented DBMS, columnar DBMS
+								* store data tables based on columns rather than rows
 					* network database model
 					* entity relational database models, entity-relationship models, ER models
 						+ enhanced entity relational database model, enhanced entity relationship model, EER model
-					* document database model
 					* entity-attribute-value database model, EAV
 						+ or, object-attribute-value data model
 						+ or, vertical database model
@@ -3094,6 +3097,18 @@ Skill sets for application engineers of different EDA products:
 						+ for storage and retrieval of triples, through semantic queries
 					* non-relational database models:
 						+ graph database model
+							- ***graph database, GDB***
+								* graph database processing is different from graph computing
+									+ a separate component for graph databases is needed for graph computing to implement graph algorithms
+						+ ***key-value database, key-value store***
+							- associative array, map, symbol, dictionary
+							- hash table, dictionary
+						+ document database model
+							- ***document-oriented database, document store***
+								* based on semi-structured database model
+						+ ***wide-column store, extensible record store***
+							- name and format of columns can vary between rows within a table
+							- can be interpreted as a 2-D key-value database, key-value store
 						+ multidimensional database model
 							- resource space database model
 							- multivalue database model
