@@ -177,13 +177,18 @@ Skills for EDA software development, and other high-end software development:
 				- image processing
 		* mpmath, for arbitrary-precision floating-point arithmetic
 		* Biopython, for computational biology and bioinformatics
+		* CuPy, for GPU-accelerated parallel programming
+		* Distributed Evolutionary Algorithms in Python, DEAP, framework for evolutionary computing to enable rapid prototyping and experimentation to test ideas
 	- for symbolic computing
 		* SageMath, computer algebra system, CAS
 			+ SageManifolds
 			+ has bindings for C++ and Python
-	- GNU Octave
-	- MATLAB, and Simulink
-	- FreeMat
+	- numerical computing:
+		* GNU Octave
+		* MATLAB, and Simulink
+		* FreeMat
+		* Intel oneAPI Math Kernel Library, Intel oneMKL
+			+ formerly Intel Math Kernel Library, Intel MKL
 + parallel and distributed computing
 	- parallel computing
 		* parallel data structures
@@ -213,8 +218,9 @@ Skills for EDA software development, and other high-end software development:
 				- single-source embedded domain-specific language (eDSL) based on pure C++17
 				- royalty-free, cross-platform abstraction layer for developing software that are executed on heterogeneous platforms
 				- single-source C++ programming model for heterogeneous computing
-		* GPU programming using:
+		* GPU programming, GPGPU, using:
 			+ NVIDIA CUDA
+				- NVIDIA cuDNN
 			+ OpenCL
 	- distributed computing
 		* distributed data structures
@@ -224,14 +230,29 @@ Skills for EDA software development, and other high-end software development:
 			+ Apache Spark
 			+ Dask
 + workflow management:
-	- [Luigi](https://github.com/spotify/luigi), for workflow management and managing ML pipelines (machine learning pipelines)
-	- Apache Airflow
-	- Azkaban
-	- Oozie
-	- Jenkins
+	- goals/tasks:
+		* for data engineering pipelines
+	- use ***workflow management systems, WfMS, WFMS*** for specific applications, such as:
+		* data science
+		* machine learning
+		* Avoid the use of workflow management systems, WfMS, WFMS, for business process modeling and other activities not related to my projects.
+	- Adobe Workfront, with built-in workflow management systems, WfMS, WFMS
+	- ***Apache Airflow***
+		* Cloud Composer, for Google Cloud Platform, GCP
 	- Apache Flink
-
-
+	- Apache Taverna ???
+	- Azkaban
+	- Collective Knowledge, CK
+	- Cuneiform programming language
+		* based on Erlang, functional programming language
+	- Jenkins
+	- Jira, with built-in workflow management systems, WfMS, WFMS
+	- [***Luigi***](https://github.com/spotify/luigi), for workflow management and managing ML pipelines (machine learning pipelines)
+	- Oozie
+	- Salesforce.com Process Workflow
++ program analysis tools:
+	- PerfView
+		* CPU, memory, garbage collection
 
 
 
@@ -2933,17 +2954,29 @@ Skill sets for application engineers of different EDA products:
 	- Glow
 	- XLA
 + ML/AI frameworks
-	- JAX:
+	- ***JAX***:
 		* JAX = Autograd + XLA (from TensorFlow)
 			+ Google JAX
 		* for high-performance machine learning research
 		* https://github.com/google/jax
-	- TensorFlow
+	- ***TensorFlow***
 		* TensorFlow Lite, TFLite
 		* TFX, TensorFlow Extended
 		* TensorFlow Probability
-	- PyTorch
-	- scikit-learn
+		* ***Keras***
+	- ***PyTorch***
+		* based on ***Torch*** library
+		* PyTorch JIT
+		* includes:
+			+ Deep Speed
+				- deep learning optimization engine
+				- Zero Redundancy Optimizer, ZeRO, can optimize deep learning models with >1 trillion parameters
+			+ Caffe, Convolutional Architecture for Fast Feature Embedding, and Caffe2, which has been merged into PyTorch.
+			+ Torch, which is based on Lua
+	- Open Neural Network Exchange, ONNX
+		* open-source AI ecosystem
+		* Neural Network Exchange Format, NNEF
+	- ***scikit-learn***
 		* mlpy
 		* SpaCy, for NLP
 		* Natural Language Tookit, NLTK, for NLP
@@ -2952,16 +2985,26 @@ Skill sets for application engineers of different EDA products:
 		* TensorFlow
 		* Infer.NET, for Bayesian inference in graphical models, for probabilistic programming
 		* scikit-multiflow, for multi-output/multi-label and stream data
-	- pandas, for data analysis
-	- [Lightning, or Lightning AI](https://lightning.ai)
-		* Or, PyTorch Lightning
-	- ML.NET
+	- ***pandas***, for data analysis
+	- [***Lightning, or Lightning AI***](https://lightning.ai)
+		* Or, ***PyTorch Lightning***
+	- ***ML.NET***
+		* Microsoft Cognitive Toolkit, CNTK, The Microsoft Cognitive Toolkit (deprecated)
+	- ***Apache MXNet***, for deep learning
+	- ***OpenVINO toolkit***, Open Visual Interference and Neural Network Optimization
+		* includes:
+			+ nGraph
+	- ***BigDL***, distributed deep learning framework for Apche Spark
+	- Dlib
 	- PaddlePaddle
 	- Theano
+	- Apache SINGA
+	- Flux machine learning framework, Julia based
 	- Flax, from Google Brain
+	- PlaidML, portable tensor compiler
 	- RLax, for reinforcement learning agents, by DeepMind
 	- Optax, for gradient processing and optimization, by DeepMind
-	- [Chainer](https://chainer.org)
+	- [***Chainer***](https://chainer.org)
 	- for gradient boosting:
 		* LightGBM
 		* XGBoost
@@ -2978,9 +3021,42 @@ Skill sets for application engineers of different EDA products:
 	- for Java software:
 		* Massive Online Analysis, MOA
 			+ SAMOA, derivative of MOA
+		* Eclipse Deeplearning4j
+	- for distributed machine learning or deep learning:
+		* ***Horovod***, open-source software framework for distributed deep learning training
+			+ TensorFlow
+			+ Keras
+			+ PyTorch
+			+ Apache MXNet
+			+ managed by Linux Foundation AI, LF AI
 	- Orange
 	- from sanctioned entities:
 		* CatBoost, for gradient boosting
+	- ***for MLOps***:
+		* MLflow
+		* Kubeflow
+		* Seldon Core
+		* TFServing, TensorFlow Serving
+		* MLeap
+		* Airflow, but for generic pipelined workflow managemnt
+	- ***machine learning and data science pipeline management and version control***
+		* goals:
+			+ pipeline computation
+			+ track data
+			+ track machine learning models
+				- or track statistical models
+			+ track experiments
+			+ make machine learning models shareable
+			+ make experiments reproducible
+			+ track versions of the following:
+				- data
+				- machine learning models, or statistical models
+				- machine learning pipelines, or data science pipelines
+		* ***DVC, Data Version Control***
+		+ [***MLflow***, An open source platform for the machine learning lifecycle](https://mlflow.org/)
+		* Git LFS
+		* Dolt
+		* lakeFS
 + data science frameworks, including libraries and tools for data visualization and information visualization:
 	- Madagascar
 	- Statsmodels, for statistical analysis
@@ -2988,22 +3064,43 @@ Skill sets for application engineers of different EDA products:
 	- Fityk, curve fitting and data analysis application
 		* fit analytical, bell-shaped functions to experimental data
 	- for Python software:
-		* matplotlib, for data visualization
-		* Bokeh, for data visualization
-		* Plotly, for data visualization
-		* wxPython, for data visualization
-		* PLplot, for data visualization
+		* ***matplotlib***, for data visualization
+		* ***Bokeh***, for data visualization
+		* ***Plotly***, for data visualization
+		* ***wxPython***, for data visualization
+		* ***PLplot***, for data visualization
 		* Gnuplot-py, for data visualization
 		* Biggles, for data visualization
 		* Chaco, for data visualization
 		* MayaVi, for data visualization
+		* SQLAlchemy, open-source SQL toolkit and object-relational mapper, ORM
 	- PSPP, open-source equivalent of IBM SPSS Statistics (or SPSS Statistics, or Statistical Package for the Social Sciences)
+	- other data analytics tools:
+		* Baremetrics
+		* Chartmogul
+		* Google Analytics
+		* Google Data Studio
+		* Heap Analytics
+		* Looker
+		* Mode Analytics
+		* Periscope
+		* Tableau
+	- for Elasticsearch dashboards
+		* Kibana, for data visualization
+			+ substitute is: ***Opensearch Dashboards, for Opensearch***
 	- for SQL, NoSQL, and NewSQL databases:
 		* Amazon DocumentDB
 		* Apache Cassandra
 		* Apache Hive
 		* IBM Db2
+		* large-scale databases
+			+ THIN
 		* MariaDB
+		* massively parallel processing databases, MPP databases
+			+ BigQuery
+			+ Redshift
+			+ Snowflake
+			+ Vertica
 		* Microsoft Access
 		* Microsoft Azure SQL Database
 		* Microsoft SQL Server
@@ -3012,12 +3109,58 @@ Skill sets for application engineers of different EDA products:
 		* Oracle Database
 		* PostgreSQL
 		* Snowflake
+		* SQLAlchemy
+			+ open-source SQL toolkit and object-relational mapper, ORM
 		* SQLite
 		* Teradata Vantage
 		* important principles, and properties, to abide by when designing database systems or hardware accelerators for data management (and computation, such as in-memory computing):
-			+ ACID = atomicity, consistency, isolation, durability
-			+ CRUD = create, read, update, and delete
+			+ common parallel DBMS architectures
+				- shared memory architecture
+				- shared disk architecture
+				- shared nothing architecture
+			+ ***CAP theorem, or Brewer's theorem***, in system design and theoretical CS guarantees:
+				- consistency: every read receives the most recent write or an error
+					* different from consistency definition in ACID properties
+				- availability: each request receives a non-error response, without the guarantee that it contains the most recent write
+				- partition tolerance: system continues to operate despite an arbitrary number of messages being dropped or delayed by the network between nodes
+				- When a network partition failure occurs, it has to do one of the following:
+					* cancel the operation and decrease the availability but ensure consistency
+					* proceed with the operation and provide availability but risk inconsistency
+				- therefore, when a design choice for network partition is made, it has to choose between consistency and availability.
+			+ ***ACID = atomicity, consistency, isolation, durability***
+				- consistency/correctness: database transactions must change affected data only in allowable ways (as specified by rules):
+					* database constraints
+					* cascades
+					* triggers
+					* combination thereof
+					* subsequent starts of transactions will have to deal with the effects of past and current transactions
+					* database consistency are about transactions
+					* atomic consistency refers to the property of each request/response operation sequence
+				- isolation is the goal of concurrency control
+				- durability guarantees that committed transactions will be completed, even when there is system failure, such as power outage or crash
+					* record completed transactions or their effects in NVRAM (or non-volatile memory)
+			+ ***CRUD = create, read, update, and delete***
+				- essential operations of ***database engine***, or ***storage engine***
 				- basic operations of ***persistent storage***
+					* data definition, or definition for data organization
+						+ creation
+						+ modification
+						+ removal
+					* update (data)
+						+ insert data
+						+ modify data
+						+ delete data
+					* retrieval
+						+ access data in directly usable format
+						+ access data for further processing
+					* administration
+						- register users
+						- monitor users
+						- enforce data security
+						- monitoring performance
+						- maintain data integrity
+						- concurrency control
+						- recover information corrupted by events, such as unexpected system failure.
 				- design for:
 					* ***predominantly "persistent data"***, infrequently accessed and not likely to be modified
 					* ***predominantly "dynamic data", or predominantly "transactional data"***, asynchronously/periodically update information as new data becomes available
@@ -3062,14 +3205,117 @@ Skill sets for application engineers of different EDA products:
 							- Object Exchange Model, OEM
 						+ can be highly structured, such that the structure is unanticipated and unannounced
 						+ periods of inactivity between data arrival can exist
+						+ for unstructured data database
 					* ***semi-structured database model***
 						+ no separation between data and database schema
+					* types of database applications:
+						+ online transaction processing, OLTP
+							- facilitate and manage transaction-oriented applications
+							- goals:
+								* availability
+								* speed
+								* concurrency
+								* recoverability
+							- requirements:
+								* high throughput
+								* insert- or update- intensive database management
+						+ online analytical processing, OLAP
+							- multidimensional analysis, MDA
+								* MDA queries
+							- complex queries
+							- small volume
+							- for data analytics
+								* such as business intelligence or business analytics
+							- types:
+								* multidimensional OLAP, MOLAP
+								* relational OLAP, ROLAP
+								* hybrid OLAP, HOLAP
+						+ hybrid transactional/analytical processing, HTAP
+							- for "in business real time" decision making
+					* ***database administration tools***
+						+ to manage DBMS such as:
+							- MySQL
+							- PostgreSQL
+							- SQLite
 					* relational database model, or relational model or RM
-						+ relational databases, RDBMS
+						+ ***relational databases, relational database management systems, RDBMS, or RDB***
 							- row-oriented DBMS
 							- column-oriented DBMS, columnar DBMS
 								* store data tables based on columns rather than rows
-					* network database model
+					* SQL
+						+ applications of SQL:
+							- relational databases, relational database management systems, RDBMS, or RDB
+							- relational data stream management systems, RDSMS
+								* for stream processing
+						+ NewSQL
+							- extend relational databases, RDBMS, with scalability of NoSQL for online transaction processing, OLTP, while maintaining ACID guarantees of traditional RDBMS (or SQL databases)
+							- primarily uses SQL interface
+							- distributed computing uses a cluster of shared-nothing nodes, such that each node uses a subset of the data
+								* components include:
+									+ distributed concurrency control
+									+ flow control
+									+ distributed query processing
+							- uses optimized storage engines for SQL
+								* scale better than built-in engines
+							- transparent sharding
+								* split databases across multiple nodes using consensus algorithms:
+									+ Raft
+									+ Paxos
+					* NoSQL
+						+ non-SQL database, or non-relational database, or not only SQL database
+						+ database management systems, DBMS, for data storage and retrieval beyond tabular relations in relational databases, relational database management systems, RDBMS, or RDB
+						+ can support the following:
+							- ACID properties
+							- join operations
+						+ applications:
+							- Big Data applications
+							- real-time Web applications
+						+ see Wikipedia entry for NoSQL for comparing data models based on:
+							- performance
+							- scalability
+							- flexibility
+							- complexity
+							- functionality
+							- list of data models that are compared:
+								+ [x] key-value database, key-value store
+								+ [x] document-oriented database, document store
+								+ [x] graph database, GDB
+								+ relational database model, or relational model or RM
+									- [x] relational databases, relational database management systems, RDBMS, or RDB
+									- [x] column-oriented DBMS, columnar DBMS
+						+ examples:
+							- HBase
+							- Cassandra
+							- MongoDB
+							- DynamoDB
+					* ***multi-model database***
+						+ database management system, DBMS, that is designed to support multiple data models with an integrated back-end
+						+ other DBMSes are organized around a data model that determines how data is:
+							- organized
+							- stored
+							- manipulated
+						+ examples of supported data models:
+							- relational database model, or relational model or RM
+								* relational databases, relational database management systems, RDBMS, or RDB
+							- key-value database, key-value store
+							- graph database, GDB
+							- document-oriented database, document store
+						+ examples of multi-model databases/DBMS:
+							- PostgreSQL:
+								* [x] relational database model, or relational model or RM
+									+ relational databases, relational database management systems, RDBMS, or RDB
+								* [x] key-value database, key-value store
+								* [x] graph database, GDB
+								* [x] document-oriented database, document store
+									+ JSON
+									+ XML
+								* [x] object database model
+									+ object-relational database model, ORD, for object-relational database management systems, ORDBMS
+					* navigational databases
+						+ navigational databases use references from objects to find records or other objects
+						+ hierarchical database model
+						+ network database model
+						+ graph database, GDB
 					* entity relational database models, entity-relationship models, ER models
 						+ enhanced entity relational database model, enhanced entity relationship model, EER model
 					* entity-attribute-value database model, EAV
@@ -3084,7 +3330,6 @@ Skill sets for application engineers of different EDA products:
 								* CSV, standard comma-separated-values
 								* TSV, standard tab-separated-values
 								* Awk, flat-file processor
-					* hierarchical database model
 					* star schema database model
 					* semantic database model
 					* named graph
@@ -3095,6 +3340,13 @@ Skill sets for application engineers of different EDA products:
 							- atomic data entities in resource description framework, RDF, data model
 						+ uses resource description framework, RDF
 						+ for storage and retrieval of triples, through semantic queries
+					* uncertain databases
+						+ includes the following types of uncertain databases:
+							- probabilistic databases, probabilistic DBMS
+								* possible worlds have associated probabilities
+								* types of uncertainties:
+									+ tuple-level uncertainty
+									+ attribute-level uncertainty
 					* non-relational database models:
 						+ graph database model
 							- ***graph database, GDB***
@@ -3120,6 +3372,66 @@ Skill sets for application engineers of different EDA products:
 						+ object database model
 						+ object-relational database model, ORD, for object-relational database management systems, ORDBMS
 							- object-relational impedance mismatch, can occur when object-oriented software interact with RDBMS
+							- includes:
+								* terminology-oriented database, or terminology-oriented database management system, or terminology-oriented DBMS
+					* blockchain-based database
+						+ combines traditional database with distributed database
+						+ supported by multiple layers of blockchains
+						+ use features from SQL and NoSQL databases, with blockchain properties
+							- data integrity
+							- integrity assurance
+							- decentralized control
+							- Byzantine fault tolerance
+							- transaction traceability
+					* cloud database
+						+ database/DBMS that runs on cloud computing platform
+						+ deployment models
+							- virtual machine image
+								* run databases on the cloud independently, using virtual machine image
+							- database-as-a-service, DBaaS
+								* purchase/paid access to database service, maintained by cloud database providers
+						+ can support SQL and NoSQL databases
+						+ *join operations perform poorly*
+					* spatial database
+						+ usually implemented with relational databases, relational database management systems, RDBMS, or RDB
+						include spatial data that represent objects
+							- 3-D objects
+							- topological coverages
+							- linear networks
+							- triangulated irregular networks, TINs
+						+ includes:
+							- geographical database, geodatabase, or georeferenced spatial database
+								* "georeferenced" from georeferencing or georegistration
+								* applications of coverage data
+									+ geographical information systems, GIS
+									+ geospatial content and services
+									+ GIS data processing
+									+ data sharing
+								* types of data:
+									+ 1-D sensor time series
+									+ 2-D satellite images
+									+ 3-D x/y/t image time series or x/y/z geo tomograms
+									+ 4-D x/y/z/t climate and ocean data
+					* temporal database
+						+ store data about time instances
+							- valid time
+							- transaction time
+							- decision time
+					* real-time database
+						+ DBMS that uses real-time processing to handle workloads that can be constantly changing
+							- most of the data is not persistent data that is unaffected by time
+						+ applications
+							- accounting
+							- banking
+							- law
+							- medical records
+							- multimedia applications
+							- process control
+							- reservation systems
+							- scientific data analysis
+					* ***in-memory database, IMDB***, main memory database system, MMDB, memory resident database
+						+ Can support ACID properties: atomicity, consistency, isolation, durability
+						+ Can be implemented with NVRAM.
 					* ***database security***
 					* ***database scalability***
 					* ***slowly changing dimension, SCD***
@@ -3334,7 +3646,7 @@ Skill sets for application engineers of different EDA products:
 	- ***Published in top-tier conferences or journals (e.g., FAT\*, NIPS, AIES, ICML, ACL, EMNLP, CVPR, ICCV, SIGKDD, ICDM, ICLR, PAMI, JMLR, TACL, IJCV)***
 	- Open-source implementations of machine learning research projects.
 	- The ideal candidate will have a keen interest in producing new science to understand intelligence and technology and how to apply it safely and fairly in real-world settings.
-
++ ***Open-source projects that demonstrate relevant skills and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
 
 
 
@@ -3607,7 +3919,7 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 
 
-Skill sets for applied machine learning, applied ML
+Skill sets for generic applied machine learning, applied ML
 + counter AI engineering
 + skill set:
 	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
@@ -3780,6 +4092,31 @@ Skill sets for applied machine learning, applied ML
 		* TensorFlow
 		* PyTorch
 		* PaddlePaddle
++ Expert in prototyping traditional ML (GBMs, scikit, etc.) and AI frameworks (keras, tensorflow, mxnet, pytorch, etc.) for a variety of applications
++ ***Experience with one of the ML platforms: Python / scikit-learn, Spark, vowpal wabbit, etc***
++ skill set:
+	- 7+ years of industry/academic experience in Machine Learning or related field
+	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
+	- Previous experience building end to end scalable Machine Learning systems
+	- Software engineering skills. Knowledge of Python and C++ is a plus.
+	- Knowledge of existing open source frameworks such as scikit-learn, Torch, Caffe, or Theano is a plus
+	- BS, MS, or PhD in Computer Science, Engineering, Statistics or a related technical field
+	- Love of the Quora product
++ skill set:
+	- BS, MS or PhD in Computer Science, Machine Learning, NLP or a related technical field
+	- 5+ years of industry experience preferred
+	- Good mathematical understanding of popular NLP and Machine Learning algorithms
+	- Experience building production-ready NLP or information retrieval systems
+	- Hands-on experience with NLP tools, libraries and corpora (e.g. NLTK, Stanford CoreNLP, Wikipedia corpus, etc)
+	- Knowledge of Python or C++, or the ability to learn them quickly
+	- Love of the Quora product
++ ***Experience building shallow or deep learning models (GBDT, CNN, RNN, LSTM), toolkits e.g. OpenCV, Matlab, RStudio, Weka, MLLib and frameworks PyTorch, TensorFlow, CNTK***
++ ***Expertise in multivariate analysis, graphical models, Bayesian hierarchical modelling, Markov chain Monte Carlo (MCMC), mixture models, stochastic processes, generalized linear models (GLMs), dimensionality reduction (PCA/CCA/MDS/tSNE) and other machine learning techniques***
++ ***Familiar with one or more machine learning, statistical modeling tools such as R, Matlab, scikit learn and deep learning frameworks, such as tensorflow, keras, caffe, torch.***
++ Knowledge in machine learning framework - Tensorflow, Caffe, Torch or Theano
++ Spark, Kafka
+	- Spark, for large-scale data science and applied machine learning
+	- Kafka, distributed stream-processing platform
 + skill set:
 	- BLAH.
 + skill set:
@@ -4035,14 +4372,23 @@ Topics for natural language processing, NLP:
 	- vanilla transformers
 + tranformer language models
 	- GPT-3
+	- GPT-2
 	- BERT
 	- XLnet
++ named entity recognition
++ POS tagging
++ parsing
++ sentiment analysis
++ clustering
++ text prediction
+
+
 
 
 
 Libraries for natural language processing, NLP:
-+ spaCy
-
++ spaCy, text processing
++ Kaldi, speech recognition/processing and signal processing
 
 
 
@@ -4134,6 +4480,10 @@ Skills for natural language processing, NLP:
 	- TTS
 	- DM
 	- ASP
++ Speech (NLP: ASR, MT, NLP, NLU, TTS, DM, and ASP)
++ Experience with NLP libraries such as SpaCy, Stanford CoreNLP, OpenNLP, or NLTK
++ NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
++ Deep Learning applied to NLP, for example through distributed representations (e.g. Word2Vec, fastText, etc)
 + skill set:
 	- BLAH.
 + skill set:
@@ -4374,6 +4724,21 @@ Need to address:
 		* machine learning
 		* information retrieval
 		* search-specific experimentation and metrics
+- skills to develop:
+	- Deep understanding of at least one popular server side MVC Framework (e.g Django, Rails, AngularJS etc).
+	- Knowledge of backend storage systems like MySQL, HBase, Memcached, Redis, Kafka etc.
+	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
+	- Take end to end ownership of Machine Learning systems - from data pipelines and training, to realtime prediction engines.
+	- General understanding of Machine Learning at the level of a semester-long ML class (college or multiple MOOCs)
++ tech stack:
+	- Experience with NoSQL databases. MongoDB is a plus
+	- Experience with real-time and streaming data processing
+	- Experience with queuing platforms like Kafka
+	- Knowledge of BigQuery
+	- Familiarity with GCP/AWS cloud services
+	- Familiarity with TensorFlow
+	- Comfortable with CI/CD Pipelines
+	- Experience with Git version control
 + skill set:
 	- BLAH.
 + skill set:
@@ -4721,6 +5086,7 @@ Notes:
 
 
 Sets of skills for generic data science roles:
++ ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -4980,12 +5346,39 @@ Sets of skills for generic data science roles:
 		* BigQuery
 		* Athena
 		* RedShift
-
-
-
-
-
-
++ A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
++ skill set:
+	- B.S., M.S., or Ph.D. in a quantitative field
+	- 4+ years work experience in an analytical or quantitative role as a Data Scientist
+	- 2+ years experience working on product analytics in a two-sided marketplace
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora user with curiosity about the product
+	- Deep experience with MySQL, NoSQL data stores like HBase or similar
+	- Strong grasp of Configuration Management (Chef, Puppet, Ansible, Salt Stack)
++ Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
++ ***Experience with big data techniques (such as Hadoop, MapReduce, Hive, Pig, Spark)***
++ skill set for data science:
+	- ***Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), Spotfire, Tableau.***
+	- ***Experience with Spark (MapReduce, PIG, HIVE)***
+	- 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
+	- 5+ years of experience with R or Python and some knowledge of SQL and experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining tools. Experience with other software components for data preparation and integration e.g. Data Virtualization and Big Data tools such as Hadoop and Spark and/or further programming or scripting environments e.g. .Net, Java, IronPython, Javascript, C++ is a plus.
++ data science:
+	- Knowledge of ElasticSearch/Solr/Lucene is a big plus.
+	- Understanding in Java server platform and system tuning is a plus.
+	- Knowledge with vector space models, text classification and categorization.
+	- Implement high-quality code in an agile software development environment.
++ data science skill set:
+	- Implement scalable algorithms and services using technologies such as Scala, Akka, elasticsearch, Kafka, Cassandra and Hadoop technologies such as Hive, Spark or MapReduce
+	- Hands-on experience in analyzing large datasets (e.g. with SQL, Python, R, Hive, etc.)
+	- Some knowledge and experience in working with technologies such as Kafka, Cassandra, Elasticsearch, Akka, Kubernetes, etc.
+	- Experience in Scala or Java is a plus
+	- You are fluent in English; German skills are a plus
 
 
 
@@ -5062,7 +5455,7 @@ Sets of skills for more senior data science roles, such as management of data sc
 + Producing effective and interactive data visualizations (Tableau, Shiny, D3)
 + Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
 + illustrate visualization ideas using storyboards, process flows, wireframes, and prototypes
-
++ [Plus] Familiarity with interactive data visualization using tools like D3.js
 
 
 
@@ -5177,7 +5570,7 @@ Skill sets for business analytics:
 		* TikTok ads
 	- GeoXExperience
 	- Looker, Mode, Tableau
-
++ PowerBI, Tableau, Qlikview
 
 
 
@@ -5236,8 +5629,20 @@ Skill sets for business analytics:
 
 
 
+####	Data Science for Economics
 
 
+
++ skill set:
+	- B.S. or M.S. in Economics, Statistics, or a similar field and 1+ year work experience in data science or analytics, or Ph.D. in a quantitative social/behavioral science (e.g. Economics, Sociology, Psychology, Statistics, or a similar field)
+	- Coursework in experimental design, causal inference, and/or econometrics
+	- Experience running and analyzing behavioral experiments
+	- Statistical intuition and knowledge of various hypothesis testing and regression approaches, e.g. hierarchical modeling, difference-in-differences
+	- Familiarity with Python or similar scripting language
+	- Experience communicating technical statistical concepts clearly, for example, teaching or consulting
+	- Demonstrated ability working effectively with cross-functional teams
+	- Experience using git and pushing to a codebase
+	- Experience with software engineering projects or coursework
 
 
 
@@ -5836,6 +6241,16 @@ They support databases for:
 		* not open-source component library
 		* not the parallel/multiprocessor ray tracing software
 	- Mesos
++ Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
++ tech stack:
+	- Well-versed in one or more of the following languages and functional programming in general: Scala, Java, Python, JavaScript
+	- Expert in SQL and comfortable designing, writing and maintaining complex SQL based ETL.
+	- Experience with building large-scale batch and real-time data pipelines; ETL design, implementation, and maintenance.
+	- Experience with schema design and data modeling, and the analytical skills to QA data and identify gaps and inconsistencies.
++ Experience in working with large data sets and distributed computing tools (Hive, Redshift)
++ ***Programming skills sufficient to extract, transform, and clean large (multi-TB) data sets in a Unix/Linux environment.***
++ big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
++ Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
 + skill set:
 	- BLAH.
 + skill set:

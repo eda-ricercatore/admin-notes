@@ -108,6 +108,12 @@ Types of interfaces:
 	- Good general understanding of HTML, CSS, JS concepts and development
 	- Strong written and verbal communication skills and ability to persuade others to the good ideas
 	- Understanding of common software project management and agile practices
++ Experience with at least one prototyping tool (eg. Axure, Framer, Principle)
+	- prototyping tools for Web development:
+		* Axure RP Pro/Team
+		* Framer
+		* Principle
++ Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
 + skill set:
 	- BLAH.
 + skill set:

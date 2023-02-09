@@ -234,6 +234,10 @@ Skill set for management of information systems, MIS:
 	- PostgreSQL
 	- ElasticSearch
 	- MongoDB
++ SQL working experience (Redshift/PostgreSQL/MySQL)
++ Experience wrangling very large datasets by writing and maintaining data processing pipelines with Hadoop, Spark, BigQuery, Redshift, or similar
++ Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
++ all types of data stores - NoSQL, wide column, Graph, triplestores
 + skill set:
 	- BLAH.
 + skill set:

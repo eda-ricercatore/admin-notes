@@ -132,7 +132,10 @@
 		* GDPR
 		* HIPAA
 + Create product backlog/requirement documents (epics, stories, scope docs, etc) to guide engineering in developing the platform features, and work closely with the engineering and QA teams to execute the product feature per specification
-
++ tech stack:
+	- Excellent skills in creating high-fidelity prototypes using Invision, Principle, Code or similar
+	- Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
+	- Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
 
 
 

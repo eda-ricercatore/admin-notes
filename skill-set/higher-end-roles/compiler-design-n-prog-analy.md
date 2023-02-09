@@ -124,7 +124,8 @@ Skill set for compiler design:
 
 
 
-
++ Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
++ DBT experience, for dynamic binary translation in hardware emulators
 + skill set:
 	- BLAH.
 + skill set:

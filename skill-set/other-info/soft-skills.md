@@ -31,7 +31,9 @@ Cool soft skills to acquire:
 	- cross-cultural competence
 	- cultural intelligence, cultural quotient, or CQ
 	- cultural sensitivity, cross-cultural sensitivity, or cultural awareness
-
++ IT skills:
+	- office productivity tools:
+		* LibreOffice, Apache OpenOffice, and NeoOffice.
 
 
 

@@ -699,6 +699,12 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+###	Software Development for Modeling (only)
+
+
++ **Expertise and experience in Revit, Dynamo and/or other Revit scripting languages**... Strong background in computational design and design analysis... Fluency in a technical programming language (python, javascript, C#) is highly desired.
+	- Autodesk Revit, for building information modeling
+
 
 
 
@@ -903,7 +909,7 @@ Skill set for software development for computational engineering (not EDA):
 
 
 
-##	Software Development for Computational Fluid Dynamics
+###	Software Development for Computational Fluid Dynamics
 
 
 
@@ -951,6 +957,7 @@ Skill set for software development for computational fluid dynamics, CFD:
 	- Programming experience in Python, C/C++
 	- Practical knowledge of biology with the ability and desire to work alongside life scientists
 	- Microfabrication techniques experience (photolithography, micromachining, bonding processes, etc.)
++ Experience in CFD combustion or other reacting-flow simulations.
 + skill set:
 	- BLAH.
 + skill set:

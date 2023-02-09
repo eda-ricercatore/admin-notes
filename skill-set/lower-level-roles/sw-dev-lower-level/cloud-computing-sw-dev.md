@@ -202,6 +202,70 @@ Notes on cloud computing:
 
 
 
+
++ OpenStack:
+	- Dashboard (Horizon)
+	- Compute Service (Nova)
+	- Networking (Neutron)
+	- Object store (Swift)
+	- Identity service (Keystone)
+	- Metering & Data Collection Service (Ceilometer)
+	- Orchestration (Heat)
+	- Bare Metal Provisioning Service (Ironic)
+	- Container Orchestration Engine Provisioning (Magnum)
+	- Computable object storage (Storlets)
+	- Deploys OpenStack using OpenStack itself (Tripleo)
+	- Billing and chargebacks (Cloudkitty)
+	- Optimization Service (Watcher)
+	- Distributed SDN controller (Dragonflow)
+	- OpenStack Networking integration for containers (Kuryr)
+	- NFV Orchestration (Tacker)
+	- Networking Automation for Multi-Region Deployments (Tricircle)
+	- Command-line interface for all OpenStack services (Openstackclient)
+	- Instances High Availability Service (Masakari)
+	- Lightweight OCI containers (LOCI)
+	- EC2 API proxy (EC2API)
+	- Official Python SDK for OpenStack APIs (Openstacksdk)
+	- Block Storage (Cinder)
+	- Image service (Glance)
+	- Big Data Processing Framework Provisioning (Sahara)
+	- Application Catalog (Murano)
+	- Containers Service (Zun)
+	- Puppet modules to deploy OpenStack (Puppet-openstack)
+	- Clustering service (Senlin)
+	- Event, Metadata Indexing Service (Panko)
+	- Root Cause Analysis service (Vitrage)
+	- Load balancer (Octavia)
+	- Accelerators resource management (Cyborg)
+	- Deploys OpenStack in containers using Helm (Openstack-helm)
+	- OpenStack Storage integration for containers (Fuxi)
+	- Client library for interacting with OpenStack clouds (Shade)
+	- Database as a Service (Trove)
+	- Shared filesystems (Manila)
+	- DNS service (Designate)
+	- Key management (Barbican)
+	- Governance (Congress)
+	- Software Development Lifecycle Automation (Solum)
+	- Deploys OpenStack in containers using Ansible (Kolla-ansible)
+	- Monitoring (Monasca)
+	- Workflow service (Mistral)
+	- Functions Service (Qinling)
+	- RPM package specs to deploy OpenStack (RPM-packaging)
+	- Messaging Service (Zaqar)
+	- Ansible playbooks to deploy OpenStack (Openstack-ansible)
+	- Benchmark service (Rally)
+	- Application Data Protection as a Service (Karbor)
+	- Backup, Restore, and Disaster Recovery (Freezer)
+	- Packaging-rpm (Packaging-rpm)
+	- Indexing and Search (Searchlight)
+	- Deploys OpenStack in containers using Charms and Juju (Openstack-charms)
+	- Resource reservation service (Blazar)
+	- Alarming Service (Aodh)
+	- Ansible playbooks using ironic (Bifrost)
+	- Chef cookbooks to deploy OpenStack (Chef-openstack)
+	- EC2 API compatibility layer for OpenStack (Ec2-api)
+	- Python Software Development Kit (Python SDK)
+	- Ansible playbooks and roles for deployment (OpenStackAnsible)
 + view DevOps as ***configuration as code***:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + skill set:
@@ -513,6 +577,9 @@ Notes on cloud computing:
 		* bundle sizes
 		* time to interactive, TTI
 		* time to first byte, TTFB
++ Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
++ Expertise with AWS services such as EC2, IAM, S3, etc.
 + skill set:
 	- BLAH.
 + skill set:
@@ -622,6 +689,19 @@ Notes on cloud computing:
 	- Experience with stream processing platform, such as Flink, Spark or equivalent
 	- Experience with messaging system, such as Apache Pulsar, Kafka or equivalent
 	- Experience with leading or contributing to open source projects
++ Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
++ messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
+
+
+
+
+
+
+
+
+
+
+
 
 
 

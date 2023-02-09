@@ -109,6 +109,16 @@
 	- Experience with QA for high performance distributed systems
 	- Bachelor’s in computer science (or comparable industry experience)
 	- Minimum 5 years of software test automation experience
++ Functional test automation tool experience is preferred (ex. Junit, TestNG, Serenity, etc.)
++ Expert knowledge of debugging and crash dump analysis in Windbg
++ stress testing (locust.io)
++ distributed tracing (OpenTracing/Zipkin)
++ Load testing frameworks/tools like JMeter, Gatling, Locust
++ Java, Selenium, JUnit, Cucumber-JVM
++ API Testing experience
++ Python, Gherkin, Cucumber, Espresso, XUI Test
++ Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
++ Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
 + skill set:
 	- BLAH.
 + skill set:

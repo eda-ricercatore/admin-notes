@@ -806,6 +806,30 @@ Skill set for DevOps:
 			+ Kubernetes
 			+ Docker Swarm/Data Center
 	- experience with ***Triplestores***
++ Experience working with a CI system is preferred (ex. TeamCity, Concourse, Jenkins, etc.)
++ Prior experience with infrastructure automation frameworks (Ansible, Terraform, Chef or Puppet, etc.)
++ Virtualization and containerization (Xen, LXC, cgroups, Docker, Kubernetes)
++ Knowledge of source control tools (Git, CodeCommit, SVN, and TFS), build/release tools (Jenkins, CodeBuild, CodeDeploy, CodePipeline), and infrastructure as code tools (Terraform, CloudFormation)
++ Experience working with Atlassian products (JIRA, Confluence)
++ Docker orchestration systems and cluster managers (Kubernetes, Mesos/Marathon, ECS)
++ tech stack:
+	- Ability to configure and maintain webservers (e.g. apache & nginx), DNS servers, Firewalls, LDAP servers, Tomcat servers
+	- Ability to back up the Data infrastructure
+	- Ability to manage/configure  Git, Maven and Jenkins
+	- Managing QA/production release and deployment
+	- Ability to Install/Configure/Manage VM servers using OpenStack
+	- Ability to install configure or manage Monitoring servers using Opensource softwares
+	- Experience with Amazon Web Services:
+	- autoscaling, & use of Netflix Asgard
+	- ELB management,
+	- EBS storage management
+	- S3
+	- RDS
+	- Manage configuration using Puppet
+	- Familiar with Cloud Computing in genera
++ stream pipelines and all sorts of data stores (SQL, NoSQL, triplestores, wide column, graph)
++ infrastructure-as-code and automation tools (e.g. Terraform, Ansible/Chef, Cloud Formation)
++ big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
 + skill set:
 	- BLAH.
 + skill set:
@@ -1320,7 +1344,7 @@ KPIs for ITOps are based on:
 	- Knowledge of data center architecture: power, cooling, and networking.
 	- Significant experience working with data center hardware and writing software to make that easier, faster, and less manual effort
 	- Familiarity with best practices for hardware acceptance testing
-
++ Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
 
 
 

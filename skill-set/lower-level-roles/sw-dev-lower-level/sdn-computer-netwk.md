@@ -76,6 +76,24 @@
 	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
 	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
 + Experience working with distributed computing tools like Spark or Hadoop
++ designing high availability systems
++ Experience with distributed messages systems ( Apache Kafka)
++ tech stack:
+	- Expertise in Go preferred, but not required. If you're new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
+	- You've got experience writing, deploying and monitoring microservices.
+	- Working knowledge of SQL and relational databases(we use Postgres)
+	- You've used an RPC framework like gRPC or Thrift.
+		* remote procedure call, RPC
+	- You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
++ Celery, for distributed message passing via asynchronous task queue or job queue
+
+
+
+
+
+
+
+
 
 
 
@@ -155,6 +173,9 @@
 		* error handling
 		* variety of network topologies
 		* variety of network routing algorithms
++ Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
++ Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
++ Knowledge of routing protocols such as BGP and OSPF
 + skill set:
 	- BLAH.
 + skill set:

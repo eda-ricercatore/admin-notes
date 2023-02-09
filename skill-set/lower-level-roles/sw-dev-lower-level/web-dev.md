@@ -599,6 +599,48 @@ reactive programming = asynchronous dataflow programming
 	- Java
 	- React
 	- TypeScript
++ tech stack: Golang, AWS (DynamoDB, Lambda, EC2, Kinesis, SQS, S3), ReactJS, Snowflake, Terraform, Redis, SolrCloud, Kafka, Riak, Docker/Kubernetes, and Linux
+	- cloud computing: AWS, Snowflake (DBaaS)
+	- back-end: Golang (& front-end)
+	- front-end: ReactJS
+	- DevOps: Terraform, Docker/Kubernetes
+		* distributed event streaming platform: Kafka
+	- database management: Redis (in-memory database), Riak
+	- enterprise search engine/platform: Apache Solr
+		* search engine/platform: Apache Lucene
++ tech stack:
+	- PHP5, PHP7, HTML5, CSS3, JavaScript, Jquery, MySQL, NoSql
+	- Should have in depth understanding in LAMP stack
+	- Must have Good OOP (Object Oriented Programming) concepts
+	- Knowledge in MVC Framework e.g (Zend Framework, Laravel)
+	- Clear understanding of JSON, AJAX, XML, CURL, Web Service
+	- Knowledge of the Linux command line tools optional
+	- Good to have experience in Angular JS and Node JS, concept of UI/UX
+	- Experience in handling large database, including designing & advanced querying in MySql
+	- Good knowledge of version control tools like GIT, SVN
++ Versatile with languages and technologies. You pick the right technology for the job. You might have dabbled with iOS, Android, React Native or Flutter; you tinkered with TensorFlow, Caffe or Torch; you know when to use Mongo vs Redshift; and you have an opinion on web frameworks.
++ tech stack:
+	- Write complex data flows using SQL, frameworks (e.g., Scalding, Spark), and scripting languages (e.g., Python, R)
+	- Use data visualization tools (e.g., Tableau, Zeppelin) to share ongoing insights.
+	- Skilled with Figma (or Sketch) and prototyping tools such as Framer, Principle
+	- You have a deep and nuanced understanding of statistics, especially involving class imbalance problems.
+	- Scalding
+	- Full Stack Development
+	- Presto or Hive
+	- Spark
++ skill set:
+	- Deep knowledge of web technologies, e.g. HTML, CSS. Experience with LESS or SASS is a plus.
+	- Deep knowledge of JavaScript frameworks, e.g. jQuery. Experience with pure Javascript is a plus.
+	- Some knowledge of server-side languages and web frameworks. Experience with Python is a plus.
+	- Experience debugging across multiple browsers. Experience with UI testing tools like Selenium or phantomJS is a plus.
+	- Experience optimizing the speed and performance of websites.
+	- Experience maintaining large and growing code bases in a fast-moving environment.
+	- Interest in staying current with new and evolving web technologies.
++ Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
++ Tech stack is described as:
+	- Front-end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
+	- Middle-tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
+	- Back-end: SQL/No-SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc...
 + skill set:
 	- BLAH.
 + skill set:
@@ -663,7 +705,12 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
++ micro Web frameworks, or Web microframeworks:
+	- Flask
+	- Tornado
+	- Starlette
+	- FastAPI
++ Laravel, open-source PHP Web framework for back-end Web development
 + skill set:
 	- Working knowledge of relational databases and query authoring (SQL)
 	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
@@ -1213,6 +1260,27 @@ reactive programming = asynchronous dataflow programming
 	- RTP
 	- HTTP
 	- NoSQL
++ tech stack:
+	- Knowledge of dsx, IGC, and IA
+	- Web service development with NodeJS (Backend server Javascript), front-end Javascript and Flask (Open source python library)
+	- Both relational database and NoSQL database technologies
+	- The main responsibility will be to enable different personas like Data Scientist, Data Curator, and Data Engineer to collaborate with each other on their Data Journey and work with various products like dsx, IGC, IA, and DFD.
++ The successful candidate would be strong in SQL, AWS, Snowflake, Databricks, and Python.
++ Familiarity with Linux, Maven, Git/Stash, Jira, Bamboo/Jenkins
+	- Bamboo, for continuous integration
+	- Bitbucket Server, formerly Stash, a Git repository management service
++ tech stack
+	- Jira, Confluence, DevOps, Continuous Integration and Continuous Delivery, Microsoft Development Tools
+	- Git, MS Build, Team Foundation Server, Jenkins, Unit Testing, Powershell, Perl, C#, .NET, Visual Studio, Python
++ tech stack:
+	- ReactJS
+	- GraphQL
+	- Apollo Client & Server
+	- Some Redux
+	- Using ES6/7 features throughout the app so knowledge on those is a plus.
+	- We use Cypress for testing
+	- CircleCI for continuous integration.
+	- Functional programming principles in React with Recompose
 + skill set:
 	- BLAH.
 + skill set:
@@ -1611,6 +1679,7 @@ reactive programming = asynchronous dataflow programming
 		* Cypress
 	- share best pratices and code design considerations
 	- develop scalable SaaS product/service
++ Django, Ruby on Rails, Flask
 + skill set:
 	- BLAH.
 + skill set:

@@ -45,6 +45,8 @@ This set of skill sets is for non-common software development roles, which inclu
 	- Experience with enterprise software capacity planning a big plus
 	- Bachelor’s degree or higher in Computer Science, or equivalent
 	- Experience in SaaS and Cloud native is a big plus
++ collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
++ Experience with performance optimization of queries in Redshift & Postgres
 + skill set:
 	- BLAH.
 + skill set:
@@ -156,6 +158,72 @@ Skill sets for software development for product management:
 
 
 
+##	Software Development for Database Management Systems & Information Systems
+
+
+
+Skills related to software development for database management systems and information systems:
++ data interchange formats like JSON and XML
++ Analyze all aspects of the Snowflake Query Engine and drive initiatives to understand what bottlenecks may exist and to improve them.
++ Very well versed with ADT, ORU, ORM and document exchange messages specification
++ In-Memory caching technologies, such as memcached or Redis
++ Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
++ Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
+
+
+
+
+
+
+
+
+
+
+
+
+##	Software Development for Enterprise Search Engines
+
+
+
+Skills related to software development for enterprise search engines:
++ Experience implementing search solutions with technologies such as SOLR, Elasticsearch, Lucene is preferred.
++ Elasticsearch and ELK pipeline
++ Monitoring solutions experience (ELK, NewRelic)
+
+
+
+
+
+
+
+
+
+##	Software Development for API Development
+
+
++ Develop public APIs on APIGEE, for API management and predictive analytics software
+
+
+
+
+
+
+
+
+
+##	Software Development for Medical Software
+
+
++ Knowledge of data standards, file formats, and biomedical ontologies and vocabularies such as SNOMED-CT, UMLS, etc. DICOM
+
+
+
+
+
+
+
+
+
 
 
 
@@ -164,6 +232,7 @@ Skill sets for software development for product management:
 
 
 
++ ***data pipeline and workflow management tools: Azkaban, Luigi, Airflow***
 + Experience with full-text search engines (Solr, Elasticsearch).
 	- [Solr](https://solr.apache.org/)
 		* "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™."
@@ -231,5 +300,21 @@ Skill sets for software development for product management:
 	- R
 	- Python
 + Domain knowledge and project experience in below area will be a plus: x86 architecture; Linux kernel; Virtualization; Cloud SW stacks; Big data; Machine Learning, compiler and run time optimization, etc.
-
-
++ ***You know what the CAP theorem is and you feel confident that you can speak to what it does and does not cover in systems design.***
+	- CAP theorem, or Brewer's theorem, in system design and theoretical CS guarantees:
+		* consistency: every read receives the most recent write or an error
+			+ different from consistency definition in ACID properties
+		* availability: each request receives a non-error response, without the guarantee that it contains the most recent write
+		* partition tolerance: system continues to operate despite an arbitrary number of messages being dropped or delayed by the network between nodes
+		* When a network partition failure occurs, it has to do one of the following:
+			+ cancel the operation and decrease the availability but ensure consistency
+			+ proceed with the operation and provide availability but risk inconsistency
+		* therefore, when a design choice for network partition is made, it has to choose between consistency and availability.
++ Build integration code with many cutting-edge technologies and processes, including Python 3, Go, Presto, AWS, ML, NLP.
++ BDD (Cucumber, Gherkin)
+	- For behavior driven development
++ Object oriented programming experience (e.g. using Java, J2EE, EJB, .NET, WebSphere, etc.).
++ Must have experience with working on few technologies such as spring framework, SpringBoot, SpringMVC, JPA, MyBatis, Tomcat, Nginx
++ ***Cutting edge C++ knowledge (C++17, C++20)***
++ RxJava, Kotlin, Dagger
+	- Dagger, for CI/CD

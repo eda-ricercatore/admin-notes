@@ -235,7 +235,13 @@ Roles in computing security:
 		* runtime environment and application layer
 		* identifying security issues, risks, and associated mitigations
 	- audit C++ code to identify and patch security vulnerabilities
-	
++ application security hardening
++ Knowledge of authentication protocols such as basic and digest authentication, SAML, LDAP, and OAuth.
++ Configure and Monitor SIEMS and DLP systems
+	- SIEM, security and event management
+	- DLP, data loss prevention system
++ Experience with common security tools such as nmap, Burp Proxy, Brakeman, etc.
++ Experience with bug bounty programs and reporting issues to them (send examples, please!)
 + skill set:
 	- BLAH.
 + skill set:
