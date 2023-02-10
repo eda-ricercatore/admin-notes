@@ -41,7 +41,12 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- Unquestionable ethics – treats people with respect; keeps commitments; inspires the trust of others; works with integrity
 	- Commitment to our core values of Leadership, Innovation, Communication, Persistence, Enthusiasm, and Respect
 + trace-driven development and execution-driven simulation model development
-+ Massively parallel computing systems
++ massively parallel computing systems
++ performance simulation engineering, use of industry-standard benchmarks, such as:
+	- SPEC 2006
+	- SPEC 2017
+	- Coremark
+	- CoreMark-Pro
 + skill set:
 	- BLAH.
 + skill set:
@@ -142,6 +147,7 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- simultaneous switching analysis
 	- crosstalk reduction
 	- EMI reduction and shielding
++ knowledge of memory interfaces, such as DDR and LPDDR
 + skill set:
 	- BLAH.
 + skill set:

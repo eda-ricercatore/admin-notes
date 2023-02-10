@@ -3855,7 +3855,44 @@ Skill sets for application engineers of different EDA products:
 		* cloud/distributed infrastructure
 		* SQL and NoSQL data platforms
 + skill set:
-	- BLAH.
+	- deep knowledge of distributed training concepts and frameworks, such as Megatron and Deepspeed
+		* Megatron-Turing Natural Language Generation model, MT-NLG,
+	- design and develop analysis tools to drive efficient research, such as:
+		* deep cleaning
+		* analysis of training dynamics
+		* grdient quality
+	- design and develop software for scaling models and large-scale experimentation
+	- design and develop ML workflows and user interfaces for novel algorithms
+	- deep knowledge of machine learning framework, such as TensorFlow and PyTorch
++ skill set:
+	- wafer scale engine, WSE
+	- NLP models:
+		* BERT
+		* GPT
+	- computer vision models:
+		* ResNet
+		* Vision Transformer
+	- sparse and low-precision training algorithms for reduced training time and increased accuracy
+	- compute- and memory- efficient training techniques, such as reversibility and low-rank
+	- Scaling laws for increasing model size: accuracy/loss, architecture scaling, hyperparameter transfer 
+	- Optimizers, initializers, normalizers to improve distributed training on large scale clusters 
+	- Develop novel training algorithms and demonstrate on state-of-the-art large DNNs 
+	- Develop novel network architectures and layers such as normalization, activation functions, optimizers, and parameter layers 
+	- Design and run research experiments to prove novel algorithms are effective and robust 
+	- Analyze results to gain research insights, including training dynamics, gradient quality, and dataset cleaning techniques 
+	- Publish and present research at leading machine learning conferences 
+	- Collaborate with engineers in co-design of the product to bring the research to customers 
+	- Strong grasp of machine learning theory, fundamentals, linear algebra, and statistics 
+	- Experience with state-of-the-art DNNs models, such as BERT and GPT 
+	- Experience with machine learning frameworks, such as TensorFlow and PyTorch
+	- Experience with distributed training concepts and frameworks such as Megatron and Deepspeed 
+	- Fluency in a programming language, such as Python 
+	- Strong track record of relevant research success through relevant publications/patents at top conferences or journals (e.g. ICLR, ICML, NeurIPS)
++ experience with modern compiler frameworks:
+	- TVM
+	- LLVM
+	- MLIR
+	- GLOW
 + skill set:
 	- BLAH.
 + skill set:
