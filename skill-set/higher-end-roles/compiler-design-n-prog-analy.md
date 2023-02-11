@@ -72,9 +72,27 @@ Skill set for compiler design:
 	- high-level C++ programming expertise
 	- excellent problem solving and debugging skills
 + skill set:
-	- BLAH.
+	- LLVM/MLIR compiler, compiler frameworks, compiler architecture, compiler infrastructure
+	- ability to deliver production quality code in modern C++
+	- Torch-MLIR
+	- ONNX-MLIR
+	- Caffe
+	- TVM
+	- MLIR
+	- LLVM
+	- TVM
+	- Glow
++ experience with modern compiler frameworks:
+	- TVM
+	- LLVM
+	- MLIR
+	- GLOW
+	- XLA
++ compiler development experience for GPU compilers, dataflow computing compilers, and/or machine learning compilers
 + skill set:
-	- BLAH.
+	- compiler design for data parallel architectures
+	- compiler design for machine learning inference models
+	- Apache TVM hardware backend codebase and workflow for custom code generators, BYOC
 + skill set:
 	- BLAH.
 + skill set:

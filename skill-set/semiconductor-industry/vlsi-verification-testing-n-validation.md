@@ -58,7 +58,9 @@ Skill set for roles in VLSI testing:
 + Silicon bring-up
 + Silicon characterisation
 + skill set:
-	- BLAH.
+	- GDB
+	- JTAG
+	- OpenCD
 + skill set:
 	- BLAH.
 + skill set:

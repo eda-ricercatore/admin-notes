@@ -106,13 +106,15 @@ Skills for EDA software development, and other high-end software development:
 	- ***Kubernetes***, for container orchestration
 	- AWS
 	- continuous integration (CI) systems, deployment tools/platforms, such as:
-		* Jenkins
+		* ***Jenkins***
 		* TeamCity
 		* GitHub Actions
 		* GitLab
 		* Circle CI
 		* Terraform
+		* Saltstack/Ansible
 		* Semaphore
+		* Slurm
 	- ***CI/CD pipelines***
 	- microservice architecture
 	- infrastructure as code
@@ -481,6 +483,7 @@ Skill sets for STCO and DTCO:
 	- Experience on deep learning model development
 	- Experience of running deep learning models on edge devices or smartphones
 	- Development experience of multi-pass compilers
++ AI/ML for architectural exploration and bottleneck identification
 + BLAH.
 
 
@@ -1340,7 +1343,12 @@ Here are the sets of skills for physical design and physical synthesis.
 
 
 + skill set:
-	- BLAH.
+	- timing convergence issues associated with deep-submicron processes for high-performance design
+		* crosstalk delay
+		* noise
+		* glitch
+		* POCV
+		* IR-STA
 + skill set:
 	- BLAH.
 + skill set:
@@ -3893,8 +3901,23 @@ Skill sets for application engineers of different EDA products:
 	- LLVM
 	- MLIR
 	- GLOW
+	- XLA
 + skill set:
-	- BLAH.
+	- deep learning runtimes: ONNX Runtime, TensorRT
+	- inference server or model serving frameworks
+		* Triton
+		* TFServe
+		* KubeFlow
+	- distributed systems collective
+		* NCCL
+		* OpenMPI
+	- deploy ML workloads on distributed systems, in a multitenancy environments
+	- MLOps, from definition to deployment, including training, quantization, sparsity, model preprocessing, deployment
+	- training, tuning, and deploying ML models for:
+		* computer vision, such as ResNet
+		* natural language processing, such as BERT, GPT
+		* recommendation systems, DLRM
++ machine learning model compression techniques, such as quantization or pruning
 + skill set:
 	- BLAH.
 + skill set:

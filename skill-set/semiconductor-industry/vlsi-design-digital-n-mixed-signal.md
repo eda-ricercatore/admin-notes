@@ -48,7 +48,34 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- Coremark
 	- CoreMark-Pro
 + skill set:
-	- BLAH.
+	- Implementations of the RISC-V vector (RVV) extensions
+	- evaluate vector implementations:
+		* RISC-V RVV, compare with vector benchmarks
+		* SIMD
+		* ARM NEON
+		* PowerPC AltiVec
+		* MIPS MSA
+		* Intel MMX/SSE/AVX
+		* implement software on VLIW/SIMD architectures, such as DSP processors, GPUs, SIMD
+			+ SIMD instruction-level parallelism
+			+ VLIW instruction-level parallelism
+		* know about:
+			+ Dhrystone
+			+ CoreMark
+			+ SPEC
+				- SPECCPU2017
+				- SPECjbb2015
+			+ EEMBC
+			+ MLPerf
+			+ LMBench
+			+ STREAM
+			+ cloud workloads
+				- Memcached
+				- NGINX
+				- MySQL
+				- Redis
+				- Cassandra
+				- HBase
 + skill set:
 	- BLAH.
 + skill set:
