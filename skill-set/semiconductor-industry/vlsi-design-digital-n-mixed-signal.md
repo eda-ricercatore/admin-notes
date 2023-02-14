@@ -176,7 +176,8 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- EMI reduction and shielding
 + knowledge of memory interfaces, such as DDR and LPDDR
 + skill set:
-	- BLAH.
+	- Expertise in critical path modeling using different models (RC, C, Pi, ladder, distributive, etc.)
+	- Fundamental know-how of bit cell and its characteristics (SNM, WM, Cell current, Standby current, data retention, etc.)
 + skill set:
 	- BLAH.
 + skill set:

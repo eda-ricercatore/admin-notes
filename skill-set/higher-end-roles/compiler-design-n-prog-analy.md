@@ -93,6 +93,7 @@ Skill set for compiler design:
 	- compiler design for data parallel architectures
 	- compiler design for machine learning inference models
 	- Apache TVM hardware backend codebase and workflow for custom code generators, BYOC
++ Experience with the deep learning compiler space (ONNC, TVM, XLA, etc) is a huge plus
 + skill set:
 	- BLAH.
 + skill set:
