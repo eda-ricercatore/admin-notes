@@ -831,7 +831,15 @@ Skill set for DevOps:
 + infrastructure-as-code and automation tools (e.g. Terraform, Ansible/Chef, Cloud Formation)
 + big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
 + skill set:
-	- BLAH.
+	- big data pipeline systems (Elasticsearch, Spark, Kafka, NiFi)
+	- 2+ years of AWS experience across a range of services including EC2, Auto Scaling, Lambda, RDS
+	- DevOps and automation mindset
+	- Experience deploying and managing big data pipeline systems (Elasticsearch, Spark, Kafka, NiFi)
+	- Familiarity working with multiple programming languages and runtimes for application containerization and deployment (Java, Scala, NodeJS, Python)
+	- Experience administering CI/CD and build tools like CircleCI or AWS CodeBuild, as well as working with artifact storage platforms
+	- Experience with container orchestration platforms (Elastic Container Service, Kubernetes) is highly desirable
+	- Expertise in infrastructure capacity planning, AWS cost management using tools like Cloudhealth
+	- Familiarity with monitoring toolsets like DataDog or Dynatrace
 + skill set:
 	- BLAH.
 + skill set:

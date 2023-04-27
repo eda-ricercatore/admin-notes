@@ -318,3 +318,7 @@ Skills related to software development for enterprise search engines:
 + ***Cutting edge C++ knowledge (C++17, C++20)***
 + RxJava, Kotlin, Dagger
 	- Dagger, for CI/CD
++ requirements management tools
+	- DOORS
+	- JAMA
+	- Rhapsody

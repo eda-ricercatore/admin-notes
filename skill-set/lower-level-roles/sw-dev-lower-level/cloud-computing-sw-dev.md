@@ -580,6 +580,7 @@ Notes on cloud computing:
 + Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
 + AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 + Expertise with AWS services such as EC2, IAM, S3, etc.
++ AWS services: EC2, Auto Scaling, Lambda, RDS
 + skill set:
 	- BLAH.
 + skill set:

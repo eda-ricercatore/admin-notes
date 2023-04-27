@@ -92,11 +92,34 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 Skills for EDA software development, and other high-end software development:
 + Production quality coding standards and patterns.
 + Build system experience, like:
-	- Maven (for JVM software, and other languages, such as C\# and Ruby)
+	- Apache Buildr, historic open-source build system, Rake-based, gives the full power of scripting in Ruby with integral support for most abilities wanted in a build system
 	- ***Bazel***
 		* For automating the building and testing of software.
 		* Derived from the Google internal tool, Blaze.
-	- Gradle (for JVM software, and C and C++)
+		* for multiple programming languages
+		* Build systems most similar to Bazel are:
+			+ Pants
+			+ Buck
+			+ Please
+	- Blaze, predecessor to Bazel
+	- boost.build, for C++ projects, cross-platform, based on Perforce Jam
+	- Buildout, a Python-based build system for creating, assembling and deploying applications from multiple parts
+	- ***CMake***
+	- Gradle, for JVM software, and C and C++
+	- ***Jenkins***, an extensible continuous-integration engine, forked from Hudson
+	- language-specific build systems:
+		* Ant and Maven for Java
+			+ ***Apache Ant***, popular for Java platform development and uses an XML file format
+			+ ***Apache Maven***, a Java platform tool for dependency management and automated software build
+		* ***Leiningen*** for Clojure
+		* ***sbt*** for Scala
+	- ***Maven*** (for JVM software, and other languages, such as C\# and Ruby)
+	- ***Meson*** is a software tool for automating the building (compiling) of software. 
+	- ***SCons***, Python-based, with integrated functionality similar to autoconf/automake
+	- Stack, a tool to ***build Haskell projects***, manage their dependencies (compilers and libraries), and for testing and benchmarking
+	- tinyrick, a ***Rust build tool***
+	- ***Travis CI***, a hosted continuous-integration service
+	- ***Waf***, a Python-based tool for configuring, compiling and installing applications. It is a replacement for other tools such as Autotools, Scons, CMake or Ant
 + project management tools:
 	- Working with Jira and Confluence a plus.
 		* Jira, for issue tracking.
@@ -127,10 +150,18 @@ Skills for EDA software development, and other high-end software development:
 		* environment management
 		* defect tracking
 	- Experience with configuration management systems (Ansible and/or Puppet, Saltstack)
-		* Ansible, software tool suite to enable infrastructure as code
-		* Puppet, for software configuration to specify system configuration
-		* Saltstack, for event-driven IT automation, remote task execution, and configuration management
-		* Nagios Core, or Nagios, for monitoring systems, networks, and infrastructure
+		* ***Ansible***, software tool suite to enable infrastructure as code, Python-based
+		* CFEngine
+		* Chef, Ruby-based
+		* LCFG
+		* ***Nagios Core***, or ***Nagios***, for monitoring systems, networks, and infrastructure
+		* NixOS Declarative configuration model
+		* OpenMake Software Release Engineer
+		* Otter
+		* ***Puppet***, for software configuration to specify system configuration, Ruby-based
+		* Rex, Perl-based
+		* Salt, Python-based
+		* ***Saltstack***, for event-driven IT automation, remote task execution, and configuration management
 + tools for agile methods, such as XP and Scrum:
 	- Git
 	- JIRA
@@ -162,7 +193,9 @@ Skills for EDA software development, and other high-end software development:
 	- chaos tests
 + Software libraries
 	- C++ libraries:
+		* Boost C++
 		* http://doc.hc2.ch/c_cpp/en/cpp/links/libs.html
+		* Eigen, C++ library for numerical computing
 	- Python libraries:
 		* NetworkX, for graph computing
 		* NumPy, for numerical linear algebra and tensor algebra
@@ -191,6 +224,7 @@ Skills for EDA software development, and other high-end software development:
 		* FreeMat
 		* Intel oneAPI Math Kernel Library, Intel oneMKL
 			+ formerly Intel Math Kernel Library, Intel MKL
+		* Eigen, C++ library for numerical computing
 + parallel and distributed computing
 	- parallel computing
 		* parallel data structures
@@ -251,11 +285,13 @@ Skills for EDA software development, and other high-end software development:
 	- Jira, with built-in workflow management systems, WfMS, WFMS
 	- [***Luigi***](https://github.com/spotify/luigi), for workflow management and managing ML pipelines (machine learning pipelines)
 	- Oozie
+	- research workflow
+		* The Collective Knowledge (CK) project is an open-source framework and repository to enable collaborative, reproducible and sustainable research and development of complex computational systems. CK is a small, portable, customizable and decentralized infrastructure helping researchers and practitioners
 	- Salesforce.com Process Workflow
 + program analysis tools:
 	- PerfView
 		* CPU, memory, garbage collection
-
++ 
 
 
 
@@ -4178,9 +4214,30 @@ Skill sets for generic applied machine learning, applied ML
 	- Spark, for large-scale data science and applied machine learning
 	- Kafka, distributed stream-processing platform
 + skill set:
-	- BLAH.
+	- Apache Beam or Google Dataflow
+		* https://beam.apache.org/
+		* "Apache Beam is an open source unified programming model to define and execute data processing pipelines, including ETL, batch and stream (continuous) processing.[2] Beam Pipelines are defined using one of the provided SDKs and executed in one of the Beam’s supported runners (distributed processing back-ends) including Apache Flink, Apache Samza, Apache Spark, and Google Cloud Dataflow."
+			+ https://en.wikipedia.org/wiki/Apache_Beam
+	- MapReduce frameworks
+		* Hadoop
+		* Spark, Apache Spark
+			+ https://en.wikipedia.org/wiki/Apache_Spark
+			+ Spark MLlib, MLlib Machine Learning Library
+		* BigQuery, BigQuery SQL, Google BigQuery
+	- Bayesian methods, MCMC, Gibbs sampling
+	- significance testing
+	- active learning methods
+		* multiarm-bandit
+		* active Thompson sampling
+		* causal inference using instrumental variables and other forms of multi-factor attribution methods
+		* sequential testing methods
+		* PyMC3
+	- real-time metrics tracking systems
 + skill set:
-	- BLAH.
+	- NVIDIA TensorRT
+		* https://developer.nvidia.com/tensorrt
+			+ NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.
+		* https://github.com/NVIDIA/TensorRT
 + skill set:
 	- BLAH.
 + skill set:
@@ -4396,8 +4453,17 @@ Skill sets for computer vision:
 	- NumPy
 	- OpenCV
 	- Docker, Kubernetes
-
-
++ skill set:
+	- OpenCV
+	- Point Cloud Library, PCL
+		* open-source library of algorithms for point cloud processing tasks, 3D geometry processing, 3-D computer vision
+		* https://pointclouds.org
+	- TensorRT, MLIR, TVM, XLA
+	- C++1x
+	- ML SW stack, machine learning software stack, cuDNN, cuBLAS
+	- SIMD programming 
+		* avx2
+		* neon
 
 
 
@@ -6312,7 +6378,32 @@ They support databases for:
 + big data tools and stream-processing systems: Hadoop, Spark, Storm, Spark-Streaming
 + Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
 + skill set:
-	- BLAH.
+	- As the Principal Data Engineer on the Platform team at Zignal Labs, you will get to use your Scala and Java experience to build a best-in-class distributed data and analytics infrastructure by leveraging open source technologies such as Apache Spark, Apache Storm, and Elasticsearch.  We use social media, news, blogs and other media sources to empower our users with key insights based on real-time analysis.
+	- Solve complex real-time data collection & analysis problems with cutting edge technical solutions
+	- Iterate on our high performance and scalable platform for massive data collection, real-time analytics, NLP, machine learning, and backend data services
+	- Build high performance, scalable, real-time, server-side technologies
+	- Write scalable code with extensive test coverage, working in a professional software engineering environment with source control, dev/stage/production release cycles, continuous integration, and deployment
+	- Work closely with product management, design, quality assurance and operations teams to understand our customers’ needs and effectively translate them to technical specifications
+	- Lead projects from translating product requirements into architecture to production
+	- Tech Stack:
+		* Scala, Java, Python
+		* Apache Spark, Spark Streaming, Databricks/Delta Lake, Apache Storm, Elasticsearch, Apache Nifi
+		* Kafka, MongoDB, Redis
+		* AWS
+	- Bachelor's degree (or higher) in Computer Science, Engineering, or similar and/or relevant work experience
+	- Experience providing technical leadership at the enterprise level for the design of information technology systems
+	- Crafted and implemented operational data stores, as well as data lakes in production environments
+	- Ability to analyze, diagnose and resolve complex architectural problems using industry standard engineering principles
+	- Design and build data ingestion pipelines and ETL processing, including stream processing, while factoring in performance and cost
+	- Identify and solve issues concerning data management to improve data quality
+	- Clean, prepare and optimize data for ingestion and consumption
+	- Experience solving performance problems with Lucene based search solutions like Elasticsearch or Solr
+	- 9+ years experience in server-side/back-end full cycle product development in a production environment
+	- 4+ years developing with Apache Spark, including Structured Streaming.   Experience with Databricks is a big plus
+	- Knowledge of Scala or Java with exposure to or interest in Scala
+	- Leads and mentors other team members
+	- Provides partners with coaching and feedback in order to build effective teams
+	- Provides effective support to cross-functional teams
 + skill set:
 	- BLAH.
 + skill set:

@@ -181,7 +181,8 @@ Generic sets of skills in robotics:
 	- System level understanding of how calibration affects robot performance
 + We preferred students experienced in the use of ROS (Robot Operating System) and simulation engines such as Unity3D and Unreal Engine 4.
 + skill set:
-	- BLAH.
+	- ROS
+	- Gazebo, open-source 3-D robotics simulator
 + skill set:
 	- BLAH.
 + skill set:

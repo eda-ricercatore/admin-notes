@@ -286,7 +286,11 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
++ skill set:
+	- image sensor and video interfaces
+		* MIPI, for Mobile Industry Processor Interface from MIPI Alliance
+		* Camera Link, from Automated Imaging Association or AIA
+		* GigE, Gigabit Ethernet
 
 
 
