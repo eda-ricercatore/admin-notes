@@ -641,6 +641,7 @@ reactive programming = asynchronous dataflow programming
 	- Front-end: JavaScript (ES5/ES6), AJAX, jQuery, React/Angular/Vue, Bootstrap, templating, markdown/markup, built tools, task runners, PWAs, etc...
 	- Middle-tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
 	- Back-end: SQL/No-SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc...
++ Next.js, for full-stack Web development
 + skill set:
 	- BLAH.
 + skill set:
@@ -1680,6 +1681,37 @@ reactive programming = asynchronous dataflow programming
 	- share best pratices and code design considerations
 	- develop scalable SaaS product/service
 + Django, Ruby on Rails, Flask
++ skill set:
+	- React, for front-end Web development
+	- Svelte, for front-end Web development
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:

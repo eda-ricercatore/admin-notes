@@ -120,6 +120,7 @@ Skills for EDA software development, and other high-end software development:
 	- tinyrick, a ***Rust build tool***
 	- ***Travis CI***, a hosted continuous-integration service
 	- ***Waf***, a Python-based tool for configuring, compiling and installing applications. It is a replacement for other tools such as Autotools, Scons, CMake or Ant
+	- Turbo, or Turborepo, for building JavaScript or TypeScript Web applications
 + project management tools:
 	- Working with Jira and Confluence a plus.
 		* Jira, for issue tracking.
@@ -169,6 +170,12 @@ Skills for EDA software development, and other high-end software development:
 + package managers:
 	- Mamba
 		* reimplementation of *conda* package manager in *C++*.
++ documentation
+	- *LaTeX*
+	- Markdown
+		* MDX markup language, authorable format for writing JSX in Markdown documents
+			+ JSX, or JavaScript Extension, or JavaScript XML
+				- similar in appearance to HTML
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.
