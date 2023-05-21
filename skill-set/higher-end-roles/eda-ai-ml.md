@@ -4617,8 +4617,19 @@ Skills for natural language processing, NLP:
 + Experience with NLP libraries such as SpaCy, Stanford CoreNLP, OpenNLP, or NLTK
 + NLP library: spaCy, NLTK, GATE, CoreNLP, gensim
 + Deep Learning applied to NLP, for example through distributed representations (e.g. Word2Vec, fastText, etc)
-+ skill set:
-	- BLAH.
++ Publish papers in:
+	- ACL
+	- EMNLP
+	- SIGIR
+	- NeurIPS
+	- Interspeech
+	- ICASSP
+	- ICML
+	- WSDM
+	- WWW
+	- RecSys
+	- KDD
+	- AAAI
 + skill set:
 	- BLAH.
 + skill set:
@@ -5512,7 +5523,13 @@ Sets of skills for generic data science roles:
 	- Some knowledge and experience in working with technologies such as Kafka, Cassandra, Elasticsearch, Akka, Kubernetes, etc.
 	- Experience in Scala or Java is a plus
 	- You are fluent in English; German skills are a plus
-
++ skill set:
+	- Python
+	- R
+	- SQL
+	- Jupyter Notebooks
+	- Tableau
+	- Looker Studio
 
 
 
@@ -6412,7 +6429,15 @@ They support databases for:
 	- Provides partners with coaching and feedback in order to build effective teams
 	- Provides effective support to cross-functional teams
 + skill set:
-	- BLAH.
+	- OLAP datastores:
+		* Druid
+		* ClickHouse
+		* Scio
+		* Flink
+		* Spark
+		* BigQuery
+		* Parquet
+		* Databricks
 + skill set:
 	- BLAH.
 + skill set:
