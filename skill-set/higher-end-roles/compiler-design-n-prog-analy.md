@@ -21,7 +21,18 @@ Skill set for compiler design:
 	- Activities comprise participation in the development, maintenance, build, test, and release of compiler and run-time libraries for existing and forthcoming processor architectures, including competitive performance analysis, root cause analysis, and bug resolution
 	- 6+ years of experience with SQL databases (we use Postgres) and data manipulation
 + skill set:
-	- BLAH.
+	- Our LLVM-based, world-class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open-source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a solid experienced LLVM compiler team member with proven experience in compiler technology such as ***SSA-based global optimizations, auto-vectorization, ISA extensions***, and high-performance computing. The candidate should demonstrate a track record in cross-team collaboration and in delivering high-quality compiler products. 
+	- Work with SiFive’s LLVM compiler team in improving performance for the SiFive Intelligence processor family.
+	- Work with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Work with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- Degree in computer science or engineering.
+	- 3+ years of experience in compiler technology.
+	- Experience with open-source contributions. 
+	- Experience with ***hardware-specific optimizations such as SIMD or other specialized accelerators***.
+	- Have completed coursework, projects, internships, and/or research in data structures/algorithms and compilers.
+	- Strong C++ programming skills.
+	- If you want to do incredible work and be challenged by exciting, truly innovative projects that will test the boundaries of your skills and creativity, then SiFive is the place for you!  Be proud of your work.  Do things better.  Join SiFive.  
 + skill set:
 	- BLAH.
 + skill set:

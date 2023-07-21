@@ -165,12 +165,51 @@ Sets of skills for embedded software development roles:
 					* code generation is strongly recommended for statically typed languages
 			+ provides experimental support for an alternative interface description language, IDL
 				- interface description languages, IDLs, are used in remote procedure call, RPC, software
++ embedded operating systems
+	- FreeRTOS
+	- Zephyr
+	- VxWorks
 + skill set:
-	- BLAH.
+	- Senior System Software Engineer for Bare metal System Software Development
+	- As a Senior System Software Engineer, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks. You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing bare metal software and operating systems, such as Linux. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop and document embedded firmware (BootROM, Boot Loaders, Bare Metal software, firmware and drivers) that works across the whole SiFive product portfolio
+	- Develop production-quality software, including testing, documentation, static analysis, and CI/CD/CT
+	- Interacting with hardware, software and other teams to create market-leading product.
+	- 3-8 years of Experience with low-level embedded software development and associated tools like JTAG.
+	- Strong understanding of processor and SoC architecture, with desire and ability to learn more
+	- Excellent knowledge of C and proficient in Python
+	- Strong communication skills to exchange ideas and work as a team.
+	- Experience developing Boot ROMs, Boot Loaders (UBoot, LK, etc), firmware and integration of the same with the Linux software stack.
+	- Experience with RTOSes such as FreeRTOS or Zephyr
+	- Experience with C++.
 + skill set:
-	- BLAH.
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up!
+	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
+	- As a System Software Engineer, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks.  You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 7 years of experience developing architecture-level code or device drivers in C for multiprocessor, multithreaded open source kernels such as Linux or BSD, with upstream involvement
+	- Proven experience with upstream development on high-level operating systems such as Linux
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB, JTAG and OpenOCD
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Experience with device drivers, virtualization, IOMMUs, power management or SoC platform security
 + skill set:
-	- BLAH.
+	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
+	- As a System Software Engineer, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks.  You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 3 years of experience developing architecture-level code or device drivers in C for multiprocessor, multithreaded open source kernels such as Linux or BSD, with upstream involvement
+	- Proven experience with upstream development on high-level operating systems such as Linux
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB, JTAG and OpenOCD
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Experience with device drivers, virtualization, IOMMUs, PCIe, power management or SoC platform security
+	- Experience with Android bring up and development
 + skill set:
 	- BLAH.
 + skill set:

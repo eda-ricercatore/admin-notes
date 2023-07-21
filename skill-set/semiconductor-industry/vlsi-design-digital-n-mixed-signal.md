@@ -208,8 +208,6 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- BLAH.
 + skill set:
 	- BLAH.
-+ skill set:
-	- BLAH.
 
 
 
@@ -220,13 +218,27 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 
-##	Skills for VLSI Verification, VLSI validation, and VLSI testing
+##	Skills for Energy-Efficient VLSI Design
 
 
 
 
 + skill set:
-	- BLAH.
+	- Sifive is looking for Power Architects to propose innovations to improve performance, reduce power, and reduce cost of the next generation of IPs used across a wide array of industries and applications. Perform detailed analytical studies of power and performance tradeoffs. Define and Develop specifications for power management solutions for internal and external consumption. ***Drive functional implementation of Idle/Sleep Power states (C-States), Dynamic Power states (P-States) and reset and retention. Define Power Management debug strategies and test plan. Drive UPF coding and debug for all new power features.***
+	- Defining the power budget/spec for IPs, and coming up with new micro architecture initiatives, rolling up of the power numbers and maintaining the chip power dashboard for various applications.
+	- Use existing workflows to analyze Energy and make high ROI RTL modifications to improve Energy.
+	- Work with logic teams to determine the correct functionality or enhance functionality for power reduction.
+	- Select and run a wide variety of workloads for power analysis.
+	- Develop IP power model on new architecture design, providing power data for performance/power/area treads-offs.
+	- Work with multi-functional teams on improving power modeling.
+	- Bachelor or Master’s degree (or equivalent experience)
+	- 10+ years of experience with silicon power management architecture techniques.
+	- Requires broad understanding of multiple system areas and requires interfaces with Architecture, Design, and Pre - Silicon Validation teams for improving test content
+	- ***Functional knowledge of Idle/Sleep Power states (C-States), Dynamic Perf states (P-States) and reset and retention.***
+	- Knowledge of multi cluster architectures and power management.
+	- Proficient on running silicon content on pre-silicon platforms such as emulation or FPGA for power measurements and validation
+	- Deep understanding of power principles and tradeoffs.
+	- Strong interpersonal and teamwork skills.
 + skill set:
 	- BLAH.
 + skill set:

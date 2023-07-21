@@ -11,6 +11,8 @@
 
 
 
+
++ 5+ years of experience on Dev/Test tools such as Git, Jenkins, Jira, Robot Framework/pytest,  Zephyr Scale/qTest, Grafana etc.
 + skill set:
 	- Software Engineer in Test
 	- Splunk is looking for an enthusiastic and innovative test engineer to take an active role in crafting the quality of our web application, empowering our customers to quickly detect, troubleshoot and resolve their infrastructure and application issues.
