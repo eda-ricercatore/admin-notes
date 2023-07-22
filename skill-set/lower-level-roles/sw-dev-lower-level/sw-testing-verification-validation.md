@@ -121,6 +121,7 @@
 + Python, Gherkin, Cucumber, Espresso, XUI Test
 + Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
 + Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
++ Understanding of HPC Frameworks – e.g. BLAS, LAPACK
 + skill set:
 	- BLAH.
 + skill set:

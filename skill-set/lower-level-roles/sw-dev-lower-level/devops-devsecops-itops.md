@@ -841,7 +841,10 @@ Skill set for DevOps:
 	- Expertise in infrastructure capacity planning, AWS cost management using tools like Cloudhealth
 	- Familiarity with monitoring toolsets like DataDog or Dynatrace
 + skill set:
-	- BLAH.
+	- Workload managers: Slurm, LSF, Altair
+	- Web development: nginx, javascript, html, css
+	- Database: mysql, apache derby, ingress/egress
+	- Deep \*nix skills
 + skill set:
 	- BLAH.
 + skill set:

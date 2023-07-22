@@ -34,7 +34,14 @@ Skill set for compiler design:
 	- Strong C++ programming skills.
 	- If you want to do incredible work and be challenged by exciting, truly innovative projects that will test the boundaries of your skills and creativity, then SiFive is the place for you!  Be proud of your work.  Do things better.  Join SiFive.  
 + skill set:
-	- BLAH.
+	- The Esperanto LLVM compiler team is searching for software engineers to bring our AI platform out to the world.  You will participate in a focused effort to design, develop, and deliver ground-breaking solutions. You will work in a team that directly impacts our products and you will collaborate with other engineering teams in achieving this goal.
+	- Working with Esperanto's LLVM and GLOW compiler teams in improving performance for the Esperanto processor family.
+	- Working with benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- 3+ years of experience in compiler technology.
+	- Degree in computer science or engineering.
+	- Experience with open source contributions. 
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
+	- RISC-V experience a plus.
 + skill set:
 	- BLAH.
 + skill set:

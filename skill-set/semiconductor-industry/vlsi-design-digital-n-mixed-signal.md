@@ -128,7 +128,7 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 
-##	Integrated Device Manufacturers (IDMs)
+##	Integrated Device Manufacturers (IDMs) & Semiconductor IP Core Vendors
 
 
 
@@ -178,6 +178,50 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 + skill set:
 	- Expertise in critical path modeling using different models (RC, C, Pi, ladder, distributive, etc.)
 	- Fundamental know-how of bit cell and its characteristics (SNM, WM, Cell current, Standby current, data retention, etc.)
++ A solid comprehension of logic blocks common in CPU clusters such as prefetchers, DMA engines, caches, coherence protocols, NoCs, and/or bus interfaces.
++ skill set:
+	- Experience with PCIe Controller and PHY IPs
+	- Experience with AXI interface
+	- Knowledge of I/O protocols such as SMBus, PCI Express, UART
++ skill set:
+	- Experience in die to die communication, in high speed SERDES or similar
+	- Experience in industrial standard ASIC/SOC CAD tools for simulation, synthesis, debug, timing analysis and power estimation
+	- Experience in deadlock and livelock analysis
++ skill set:
+	- Own or assist in the development of key modules in uncore blocks like NoC, debug or D2D communications.
+	- Perform performance studies, including area and power estimation.
+	- Write microarchitecture specifications
+	- Work with design verification team to draft test plans, debug test failures and to ensure functional correctness
+	- Synthesize RTL to logic gates using standard CAD tools and build timing and area constraints
+	- Interact closely with physical design team to guarantee proper backend implementation
+	- Support Silicon bringup and diagnostics
+	- Support simulation and emulation infrastructure
+	- BS/MS in CS/EE or related technical field
+	- +5 years in ASIC/SOC design and Verilog RTL coding experience
+	- Completed ASIC/SOC design projects with successful tapeouts
+	- Knowledge of logic design principles along with timing and power implications
+	- Experience in die to die communication, in high speed SERDES or similar
+	- Experience in industrial standard ASIC/SOC CAD tools for simulation, synthesis, debug, timing analysis and power estimation
+	- Experience in deadlock and livelock analysis
+	- Excellent verbal and written communication skills
+	- Experience in Python and/or bash scripts
++ skill set:
+	- We are looking for an RTL designer to do high speed digital design for a RISC-V based processor. This is an opportunity to do world-class ASIC work on advanced process technologies.
+	- Designer will take blocks through the entire front end design process including:
+	- Creating specification based on architectural/system requirements
+	- Defining and documenting micro-architectural solution
+	- Implementing the RTL Verilog code
+	- Collaborating with verification to develop an appropriate testplan to verify the implementation, debug any issues, and ensure testing coverage is complete
+	- Collaborating with physical design to resolve timing, area, power, and routing issues in the implementation
+	- Supporting post-silicon bring up in resolving any issues that arise in the designer’s block
+	- Designer will participate in internal reviews to ensure adherence to the company’s design processes and guidelines and to improve those processes and guidelines
+	- In order to deliver top quality chips, we must work cross-functionally. The candidate will work closely with all parts of engineering: Architecture, Verification, Physical Design, Post-Silicon Bring Up, and Program Management
+	- We are a results-driven team. The candidate must accurately predict schedules and track their own progress and identify appropriate cross-functional requirements
+	- MS in Electrical Engineering or equivalent
+	- 2+ years ASIC design experience
+	- Experience with RISC-V based systems or similar.
+	- Strong knowledge of the main core processors sub-systems and concepts, pipelines, data and instruction caches, scoreboards, etc.
+	- Strong knowledge of ASIC and/or FPGA design methodology and should be well versed in Verilog, front-end design, simulation, synthesis, timing, power analysis and verification CAD tools
 + skill set:
 	- BLAH.
 + skill set:
@@ -208,6 +252,33 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -280,8 +351,44 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 
+##	Skills for VLSI CAD Engineers and VLSI/Hardware DevOps
 
 
++ Proficiency with EDA tools: FC, DC, ICC2, StarRC, Primetime, ICV, Redhawk, mPower, etc.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
