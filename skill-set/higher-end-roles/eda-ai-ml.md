@@ -3962,6 +3962,108 @@ Skill sets for application engineers of different EDA products:
 		* recommendation systems, DLRM
 + machine learning model compression techniques, such as quantization or pruning
 + skill set:
+	- Machine Learning Research Engineer, Generative AI
+	- Performant model code, high quality data, and robust evaluation methods form the foundation of an AI system. Scale’s leading end-to-end solutions for the ML lifecycle based on real-world data will continue to set the bar for the data-centric AI movement. Scale’s Generative AI team focuses on building models to accelerate AI adoption for some of the largest companies in the world. 
+	- Your focus will be on developing Models as a Service using a variety of Machine Learning techniques. You will be involved end-to-end from coordinating with operations to create high quality datasets to productionizing models for our customers. If you are excited about shaping the future of the data-centric AI movement, we would love to hear from you!
+	- Apply state of the art models, developed both internally and from the community, in production to solve problems for our customers and data labelers. 
+	- Work with product and research teams to identify opportunities for ongoing and upcoming services.
+	- Explore approaches that integrate human feedback and assisted evaluation into existing product lines. 
+	- Work closely with customers - some of the most sophisticated ML organizations in the world - to quickly prototype and build new deep learning models targeted at multi-modal content understanding problems.
+	- At least 3 to 5 years of model training, deployment and maintenance experience in a production environment.
+	- Strong skills in NLP, LLM and deep learning.
+	- Solid background in algorithms, data structures, and object-oriented programming.
+	- Experience working with cloud technology stack (eg. AWS or GCP) and developing machine learning models in a cloud environment.
+	- Experience in dealing with large scale AI problems, ideally in the generative-AI field. 
+	- Demonstrated expertise in large vision-language models for diverse real-world applications, e.g. classification, detection, question-answering, etc. 
+	- Published research in areas of machine learning at major conferences (NeurIPS, ICML, EMNLP, CVPR, etc.) and/or journals. 
+	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
+	- Strong written and verbal communication skills to operate in a cross functional team environment. 
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $240,960. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
++ skill set:
+	- Scale Spellbook is a developer platform for prompt engineering, evaluation, deployment, knowledge retrieval and more. We are looking for a strong product engineer to join our team and help us scale and grow our product. The ideal candidate will have a strong understanding of software engineering principles and practices, as well as experience with large-scale distributed systems. You will be responsible for owning large new areas within our product, working across backend, frontend, and interacting with LLMs and ML models. You will solve hard engineering problems in scalability and reliability.
+	- Own large new areas within our product
+	- Work across backend, frontend, and interacting with LLMs and ML models
+	- Deliver experiments at a high velocity and level of quality to engage our customers
+	- Work across the entire product lifecycle from conceptualization through production
+	- Be able, and willing, to multi-task and learn new technologies quickly
+	- 5+ years of full-time engineering experience, post-graduation
+	- Experience scaling products at hyper growth startups
+	- Experience tinkering with or productizing LLMs, CV, vector databases, and the other latest AI technologies
+	- Proficient in Python or Javascript/Typescript, and Sql database
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $212,800-$258,121.
++ skill set:
+	- Experience  in using the following systems in production: AWS, Typescript, Node, MongoDB, MLflow, Python (note that we are mostly language-agnostic and are open to using whatever is the best tech for the problem at hand)
+	- Experience working with Docker, Kubernetes, and Infrastructure as code (eg terraform); bonus points for running GPU/ML workloads
+	- Experience building systems that process large volumes of data.
+	- Experience with core AWS technologies such as VPC, EC2, ALB, ASG, Spot Instances
+	- Experience in operating or managing Infrastructure such as Spark, Presto, Hive
++ skill set:
+	- Staff Machine Learning Research Engineer, Generative AI
+	- Scale's Generative AI Data Engine powers the most advanced LLMs and generative models in the world through world-class RLHF/RLAIF, data generation, model evaluation, safety, and alignment.
+	- As the Lead of the Generative AI team, you will be responsible for managing and leading a group of talented researchers and engineers. Your primary focus will be to leverage your expertise in LLMs, generative models, and other foundational models to create and execute an AI roadmap which will help Scale accelerate our customers' Generative AI initiatives forward. This is an exciting opportunity to work on cutting-edge technologies and collaborate with industry-leading professionals.
+	- We are building a large hybrid human-machine system in service of ML pipelines for dozens of industry-leading customers. We currently complete millions of tasks a month and will grow to complete billions monthly.
+	- Led a team of highly effective researchers and engineers. Provide guidance, mentorship, and technical leadership to a team of researchers and engineers working on Generative AI projects. Develop and evaluate methods for integrating machine learning into human-in-the-loop labeling systems to ensure high-quality and throughput labels for our customers.
+	- Implement and improve on state-of-the-art models developed internally and from the community and put them into production to solve problems for our customers and taskers.
+	- Work with product and research teams to identify opportunities for improvement in our current product line and for enabling upcoming product lines.
+	- Work with massive datasets to develop both generic models as well as fine-tune models for specific products.
+	- Work with customers and 3rd party research groups to understand their goals and define how we can enable them.
+	- Build a scalable ML platform to automate our ML services, including automated model retraining and evaluation.
+	- Be able and willing to multi-task and learn new technologies quickly.
+	- Must be able to commute to the San Francisco Office 1-2x weekly. 
+	- 7+ years of full time work experience using LLM, deep learning, deep reinforcement learning, or natural language processing in a production environment. Especially training foundational AI models through pre-training, fine-tuning, and RLHF.
+	- A vision for where the field should go and what Scale should do to enable it.
+	- Strong programming skills in Python, experience in PyTorch or Tensorflow
+	- Experience with MLOps and the automation of model training & evaluation
+	- Experience working with cloud technology stack (eg. AWS or GCP) and developing machine learning models in a cloud environment
+	- Solid background in algorithms, data structures, and object-oriented programming
+	- Deep appreciation for building high-quality, robust, reusable machine-learning software
+	- Degree in computer science or related field
+	- Graduate degree in Computer Science, Machine Learning or Artificial Intelligence specialization
+	- Publication experience in the field or related topics.
+	- Experience with model optimization techniques for both training and inference
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $250,000.
++ Experience working fluently with standard orchestration & deployment technologies like Kubernetes, Temporal, Terraform, Docker, etc in multiple clouds
++ skill set:
+	- Senior Software Engineer, AV / CV
+	- At Scale AI, we are building tools to across the AI development lifecycle. Data is the new code, and Scale AI helps companies get the data they need, whether it’s for self-driving vehicles, artificial general intelligence, or robotics. The AV-CV Team (Autonomous Vehicles / Computer Vision) builds the infrastructure for labeling Lidar, Mapping, and Camera data. If seeing autonomous vehicles excited you, you’ll be seeing a lot of that on the AV-CV team. The team builds the tools for labeling Lidar pointclouds, annotating image and video feeds, and linking them together to build perception models.
+	- Own large new areas within our product
+	- Become an expert in working closely with customers across many CV industries
+	- Build technologies ranging from frontend and backend to automated ML systems
+	- Work deeply with sales and marketing to run demos and increase customer engagement
+	- Work across the entire product lifecycle from conceptualization through production
+	- Be able, and willing, to multi-task and learn new technologies quickly
+	- 5+ years of full-time engineering experience
+	- 2+ years working with TypeScript/JavaScript, HTML, CSS, and related web technologies (React, Next.js, Webpack)
+	- Experience working with distributed systems and cloud environments
+	- Experience working with a production database (Postgres, MongoDB, MySQL, MS SQL) and schema migrations
+	- Solid background in algorithms, data structures, and object-oriented programming.
+	- Excitement to work with AI technologies
+	- Strong written and verbal communication skills
+	- Strong problem-solving skills, and be able to work independently or as part of a team.
+	- The base salary range for this full-time position in our hub locations of San Francisco is $153,000 - $215,000.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -3987,6 +4089,33 @@ Skill sets for application engineers of different EDA products:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6439,7 +6568,17 @@ They support databases for:
 		* Parquet
 		* Databricks
 + skill set:
-	- BLAH.
+	- As Scale's Analytics Engineer, you will spearhead building Scale's analytical and business-intelligence infrastructure. Scale's customers process millions of tasks through our APIs, and we're looking for a talented Analytics Engineer to build scalable solutions to support this growth. You will have widespread purview, with responsibility for understanding, mining, aggregating, and exposing data across the entire business to support timely and efficient decision-making and data exploration. You will also implement Scale's data warehouse, data mart, and business intelligence reporting environments, and help users transition their workflows to these systems.
+	- Work with operations, finance, and engineering to drive the development of pipelines that provide single-source-of-truth foundational accuracy
+	- Continually improve ongoing data pipelines and simplify self-service support for business stakeholders
+	- Perform regular system audits, and create data quality tests to ensure complete and accurate reporting of data/metrics
+	- 3+ years of relevant work experience in a role requiring application of data modeling and analytic skills
+	- Ability to create extensible and scalable data schema and pipelines that lay the foundation for downstream analysis using SQL and Python
+	- Experience with ETL tools and building / maintaining a data warehouse and data pipelines using tools such as DBT
+	- Partner with operations and sales teams to automate manual workflows
+	- Experience in using highly scalable data engineering technologies such as DBT, Airflow 
+	- Experience in best practices in table partitioning/data sharding strategies and query optimization
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $148,800 – $178,560. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
 + skill set:
 	- BLAH.
 + skill set:

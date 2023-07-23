@@ -642,6 +642,7 @@ reactive programming = asynchronous dataflow programming
 	- Middle-tier: REST and RESTful interfaces, AJAX, RPC, WebSockets/Socket.io, Web Workers, Node.js/Express, etc…
 	- Back-end: SQL/No-SQL databases, Message Queue Systems, Big Data systems, Node.js, MongoDB, Redis, etc...
 + Next.js, for full-stack Web development
++ Proficiencies in one or more of Python, Node, React, Next.js and MongoDB
 + skill set:
 	- BLAH.
 + skill set:
