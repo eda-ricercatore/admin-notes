@@ -18,7 +18,8 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Experience in creating complex, highly distributed real-time embedded systems.
 + hardware-in-the-loop testing, HWIL testing
 + skill set:
-	- BLAH.
+	- Those with KVM/VFIO/QEMU/IOMMU related development experience are preferred;
+	- Experience in Linux PCIE driver development or relevant understanding of PCIE protocol is preferred;
 + skill set:
 	- BLAH.
 + skill set:

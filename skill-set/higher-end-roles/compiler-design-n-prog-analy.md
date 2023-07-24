@@ -113,6 +113,47 @@ Skill set for compiler design:
 	- Apache TVM hardware backend codebase and workflow for custom code generators, BYOC
 + Experience with the deep learning compiler space (ONNC, TVM, XLA, etc) is a huge plus
 + skill set:
+	- Support the use of deep learning compilers (graph compilation and operator compilation, etc.); improve the performance of deep learning network training and reasoning on self-developed chips;
+	- Lead the design and development of deep learning compiler architecture and algorithm;
+	- Participate in the implementation strategy analysis, performance evaluation, and compilation optimization strategy design of typical networks;
+	- Participate in future self-developed instruction set and micro-architecture design, and evolve compiler optimization capabilities to support new features.
+	- Master's degree or above in computer software, electronic engineering or related majors, and more than seven years of relevant work experience;
+	- Proficient in C/C++, familiar with LLVM, MLIR, TVM and other compiler frameworks and technologies;
+	- Familiar with typical deep learning frameworks and inference engines such as PyTorch, TensorFloyTensorRT, etc.; have experience in compiling and optimizing large-scale deep learning networks;
+	- Familiar with the architecture and compilation principles, and have rich experience in the implementation of compilation optimization;
+	- Familiar with heterogeneous programming systems, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.
++ skill set:
+	- AI compiler development engineer/architect
+	- Operator generation and optimization for hardware features;
+	- Graph compilation for machine learning.
+	- Master degree or above in computer software or related majors, proficient in C/C++ programming, familiar with machine learning framework;
+	- Have MLIR/TVM/XLA related compilation and optimization experience or strong learning ability;
+	- Have good communication skills and code habits; familiar with Linux development and debugging environment, git and other version control tools;
+	- Familiar with compilation principles and architecture, experience in compiler development and optimization debugging is preferred;
+	- Familiar with deep learning framework and network model.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -138,6 +179,77 @@ Skill set for compiler design:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Compiler Design for Heterogeneous Computing & Heterogeneous Computer Architecture
+
+
+
++ skill set:
+	- Heterogeneous Computing Compilation Optimization Architect
+	- Support compilation optimization and performance improvement of self-developed GPGPU applications;
+
+2. Lead the design and development of compiler optimization schemes and algorithms for self-developed GPGPU;
+
+3. Responsible for the formulation and implementation of the self-developed GPGPU computing core part benchmark performance and compilation optimization performance evaluation plan;
+
+4. Participate in the future self-developed GPGPU processor instruction set and micro-architecture design, and evolve compiler optimization capabilities to support new features.
+
+ 
+
+Talent portrait:
+
+1. Master's degree or above in computer software, electronic engineering or related majors, and more than five years of relevant work experience;
+
+2. Proficient in C/C++, familiar with OpenCL/CUDA/Vulcan and other APIs;
+
+3. Familiar with the architecture and compilation principles, have rich experience in the implementation of compilation optimization, including but not limited to loop optimization, vectorization, etc.;
+
+4. Familiar with LLVM, familiar with heterogeneous programming system, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
 
 
 

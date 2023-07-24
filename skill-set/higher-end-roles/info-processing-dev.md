@@ -437,9 +437,34 @@ reactive programming = asynchronous dataflow programming
 
 
 + skill set:
-	- BLAH.
+	- Design video encoding and decoding driver architecture, and provide support for application libraries;
+	- End-to-end intelligent video analysis software architecture design based on GStreamer, FFMPEG, OpenCV;
+	- Work with the hardware team to define the video codec IP architecture and integrated software and hardware solutions;
+	- Establish a driver development environment, including pre-silicon and post-silicon testing and debugging environments, and related driver testing tools.
+	- Proficient in C/C++ programming, with experience in Linux programming;
+	- Familiar with video and image coding and decoding standards, including H.264/MPEG-4 AVC, H.265/HEVC, JPEG, experience in chip video codec design is preferred;
+	- Knowledge of one or more video encoding and decoding APIs and experience in architecture design, such as VDPAU, VA-API, OpenMax, FFMPEG, GSTREAMER, etc.;
+	- Those with computer vision and IVA related knowledge and experience in architecture design are preferred, such as DeepStream, OpenCV, Visionworks, etc.;
+	- Strong ability to analyze and solve problems, including stress test stability issue, E2E performance optimization;
+	- Possess strong communication skills, independent working ability and team driving ability, and can coordinate all relevant teams to promote the completion of the plan;
+	- Bachelor degree or master degree, computer related major;
+	- At least 5 years of work experience.
 + skill set:
-	- BLAH.
+	- Video Codec Algorithm Engineer
+	- We are looking for a highly ambitious and enthusiastic individual, who is able to excel in a technically meaningful environment, to fill in the position of video codec algorithm engineer. In this role you will work as an individual contributor in a small and dynamic team, developing video compression and processing algorithms for current and future Apple products!
+	- Expert knowledge in video and image coding principles, algorithms, and techniques
+	- Expert knowledge and experience in video compression standards, such as H.264, HEVC, VVC, VP9, AV1
+	- Experienced in assessing visual quality using both objective metrics and subjective techniques
+	- Excellent software design and debugging skills and solid programming skills in C/C++
+	- Good written and oral communication skills
+	- Familiarity with video processing algorithms such as scaling, noise reduction, tone mapping, etc would be a plus
+	- Familiarity with the latest computer vision and deep learning technologies would be a plus
+	- This position requires a highly self-directed individual with strong creative and analytic skills and passion for video coding and processing technologies. Your responsibilities include, but not limited to:
+		* Invent and implement new video compression/processing algorithms that works well with existing hardware
+		* Spearhead R&D in upcoming new media compression technologies and standards
+		* Work with other hardware/software architects to define and implement media features and algorithms for future products
+	- MS/Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, or closely related fields
+	- The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
 	- BLAH.
 + skill set:

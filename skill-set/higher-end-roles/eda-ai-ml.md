@@ -4042,19 +4042,113 @@ Skill sets for application engineers of different EDA products:
 	- Strong problem-solving skills, and be able to work independently or as part of a team.
 	- The base salary range for this full-time position in our hub locations of San Francisco is $153,000 - $215,000.
 + skill set:
-	- BLAH.
+	- Familiar with CUDA ecology, experience in NCCL and RDMA development is preferred;
+	- Understand common large-scale distributed training optimization strategies, familiarity with fsdp/deepspeed/accelerate/galvatron is preferred.
 + skill set:
-	- BLAH.
+	- Familiarity with distributed training, NCCL communication library, etc. is preferred; familiarity with large model training frameworks such as DeepSpeed, Megatron, etc. is preferred;
+	- Proficiency in CUDA and other heterogeneous programming is preferred; familiarity with GPU/GPGPU architecture is preferred;
+	- Familiar with CNN, RNN, Transformer and other deep neural networks is preferred;
+	- Familiarity with AI compilation technologies such as TVM and MLIR is preferred.
 + skill set:
-	- BLAH.
+	- Proficient in Gtest or Pytest framework, and be familiar with Jenkins, K8s and Docker environment.
+	- Experience in PyTorch/TensorRT/Tensorflow programming is a big plus.
+	- Experience in KMD/UMD/Operator development is a big plus.
++ Familiar with and have used one or more mainstream deep learning frameworks (Tensorflow/PyTorch/PaddlePaddle/MindSpore, etc.);
 + skill set:
-	- BLAH.
+	- Research and analyze common algorithm models (CNN/RNN/Transformer, etc.) in scenarios such as computer vision, speech recognition, natural language processing, and advertisement recommendation, and analyze their implementation, performance, and accuracy on mature GPUs;
+	- Based on Biren's chip products (GPGPU), participate in the transplantation, acceleration, precision tuning of deep learning algorithm models on Biren GPU, and performance tuning of application pipelines;
+	- Closely track industry trends and technology trends, focusing on hot algorithms/models that will be applied in the industry.
+	- Master’s degree or above in EECS or related majors, with more than 5 years of relevant work experience;
+	- Proficiency in operating Linux system, proficiency in C/C++/Python/Shell, solid programming foundation and debugging experience;
+	- Familiar with and have used one or more mainstream deep learning frameworks (Tensorflow/PyTorch/PaddlePaddle/MindSpore, etc.);
+	- Familiar with the principles of deep learning algorithms, have experience in precision and performance tuning, and be familiar with the application of algorithms in business scenarios;
+	- Diligent in thinking, willing to solve problems, and have the spirit of cooperation.
+	- Have a developer's perspective understanding of one or more mainstream deep learning frameworks, and have certain insights and experience in framework design or tuning;
+	- Familiar with large-scale distributed training, understand the principle and implementation of large models such as GPT;
+	- Have experience in algorithm and engineering collaborative optimization, and be able to make a reasonable trade-off between accuracy and performance;
+	- Experience in GPGPU programming, experience in domestic GPGPU/AI chips;
+	- Have experience in AI compiler.
 + skill set:
-	- BLAH.
+	- System Architect - HW/SW Architecture - Apple Vision Pro
+	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- 6+ years of working experience
+	- Strong system / SoC architecture background with deep understanding of low power processing.
+	- Experience in development of SoC Power and Performance simulation models for use case level analysis and optimization.
+	- Strong coding skills in Python, C/C++, SystemC.
+	- You have background on NN algorithms and Neural HW architecture.
+	- You have background on HW acceleration for image / display / audio signal processing workloads.
+	- Ability to drive HW / SW partition and co-optimization in a data driven way.
+	- Strong verbal communication skills across organizations and at the executive level.
+	- Excellent written skills for clear reporting of data analysis and conclusions.
+	- We are seeking a highly motivated, system architect to define compute acceleration strategy into our products. You must have excellent understanding of computer architecture (CPU, GPU, Neural Processing), System / SoC level power architecture, emerging compute engines RISC-V, Low power neural processing architecture. You will be mapping system level use cases to the SoC and system and identify HW/SW partitioning opportunities. With this knowledge you are able to apply it to analyzing requirements tradeoffs impacting system performance and product experience. 
+	- The job will have a focus on use case level analysis and development of system level models for power, performance and latency to drive overall product architecture.
+	- This cross-functional role requires excellent interpersonal skills, working with camera module, architecture, system EE, and product development teams and communicating across teams and to leadership.
+	- MS/PhD in relevant field (EE, CS, Computer Eng)
+	- At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
++ ***Experience with metrics systems such as Grafana.***
 + skill set:
-	- BLAH.
+	- ML Systems & Performance Engineer - SPG
+	- The key to successful Machine Learning Teams is an efficient, robust, flexible and scalable architectural foundation. The Apple Special Projects Group on Autonomous Systems is looking for a talented, dedicated and result oriented software engineer to help build and improve our Machine Learning Systems. This fundamental and highly impactful work enables us to architect, train, evaluate and deploy state of the art machine learning models for Autonomous Systems.
+	- You will be part of a world class team with a highly diverse skillsets. From implementing CUDA kernels, optimizing cache coherency of complex algorithms, reducing memory footprints all the way to optimizing distributed training setups and implementing efficient large scale cloud compute schedules, ML Systems & Performance engineers are taking a holistic view at the whole stack to eliminate bottlenecks resulting in a lean and optimally efficient implementation.
+	- 3+ years of professional software development experience.
+	- Familiarity with modern Machine Learning frameworks like PyTorch.
+	- Familiarity with optimization techniques like Quantization, sparsity and/or pruning.
+	- Experience in architecting and implementing large-scale cloud pipelines., e.g using spark, kafka, kubeflow, postgres
+	- High proficiency in Python, C++ and/or CUDA.
+	- Passion for optimizations and efficient implementations.
+	- High software engineering standards: desire to write clean, well-tested and well-structured code.
+	- Track record of collaborations across teams, including requirement specifications and successful project delivery.
+	- Excellent communication and presentation skills.
+	- Curiosity to learn new things and push the boundary towards new approaches without fear of changing existing paradigms.
+	- Improve ML Training efficiency to models train faster by scaling out and scaling up.
+	- Develop strategies for training distributed models to accommodate model growth beyond state-of-the-art.
+	- Design and implement a highly scalable inference pipelines for large scale evaluation.
+	- Architect a data processing framework training data preparation and auto-labeling.
+	- Collaborate with ML engineers to remove bottlenecks and improve turn-around times.
+	- Build visualizations and dashboards to monitor cloud resource utilization.
+	- At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
++ ***Good experience with applying Big Data tools (MapReduce, Hadoop, Hive and/or Pig, Spark) to large quantities of textual data***
 + skill set:
-	- BLAH.
+	- AIML - Software Engineer, Machine Learning Platform & Technologies
+	- The Machine Learning Platform Team at Apple is looking for a Senior Engineer who has extensive experience in CI/CD, orchestration pipelines, build, release, and code management to manage critical parts of our development lifecycle. You will work with a dedicated team of engineers that will deliver the tooling and pipelines that enable consistent development of a high performance search stack, ensuring high quality delivery and enabling fast engineering turnaround.
+	- 5+ years of experience in developing developer tooling, pipelines, automations and API
+	- Thorough understanding of software development lifecycle, DevOps (build, continuous integration, deployment tools) and best practices.
+	- Strong programming skills in Go, Python, or other language
+	- Strong experience with Spinnaker and/or other delivery platforms
+	- Strong experience with workflow platforms (Argo, Jenkins, or other)
+	- Solid Kubernetes, AWS or other cloud experience
+	- Strong communications and collaboration skills required
+	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You’ll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
+	- Work in a team of engineers to deliver core tooling and pipelines for builds, validation, and deployment
+	- Build tooling and SCM integrations that ensures code consistency, test coverage, and reliability
+	- Develop pipelines for continuous, incremental delivery to preproduction environments
+	- Extend tooling that helps engineers test, maintain, and deploy solutions across multiple repos and languages
+	- Collaborate with DevOps and Release Engineering to enhance release speed and reliability
++ skill set:
+	- On the GPGPU-based heterogeneous system, research and implement distributed core modules such as tensorflow/pytorch/horovod for scenarios such as voice/image/NLP, and research multiple hybrid parallel strategies such as data parallelism/model parallelism/pipeline parallelism to improve the scalability of large-scale distributed training;
+	- On the heterogeneous system based on GPGPU, research large-scale sparse model training framework for scenarios such as search/advertising/recommendation, support TB-level models, and support multi-machine efficient expansion;
+	- Participate in MLPerf rankings to enhance the international influence of domestic GPU chips.
+	- Computer, electronics, mathematics and related majors, more than 2 years of relevant work experience;
+	- Proficiency in C++/Python programming;
+	- Experience in developing Tensorflow/pytorch/horovod and other domestic frameworks;
+	- Proficiency in NCCL, RDMA and other communication technologies is preferred;
+	- Familiar with data parallel/model parallel/pipeline parallel, familiar with Deep Speed, etc. is preferred;
+	- Familiar with CNN/ RNN such as Bert/GPT and other networks is preferred;
+	- Familiarity with advertising/recommendation scene algorithms such as Wide&Deep/DLRM/DeepFM/DIEN is preferred, and familiarity with large-scale sparse model training frameworks such as AIBox/HugeCTR/XDL is preferred.
++ skill set:
+	- Biren-based chip products (GPGPU), responsible for the implementation of customer applications, including the transplantation and acceleration of the customer's algorithm model on the Biren chip, as well as the performance tuning of the application pipeline;
+	- Have certain insights and experience in AI models (CNN/RNN/Transformer, etc.) and pipelines corresponding to scenarios such as computer vision, speech recognition, search advertisement recommendation, and natural language processing;
+	- Closely track industry trends and technology trends, and participate in the exploration of new technology solutions.
+	- Bachelor degree or above in EE, CS or related majors, more than 5 years of work experience;
+	- Proficiency in operating Linux system, proficiency in C/C++/Python/Shell, solid programming foundation and debugging experience;
+	- Familiar with and have used one or more mainstream deep learning frameworks (Tensorlow / PyTorch / MXNet, etc.);
+	- Familiar with heterogeneous computing systems, and have at least participated in the model transplantation and optimization of one or more AI chips;
+	- Diligent in thinking, willing to solve problems, and have the spirit of cooperation.
+	- Bonus points: 1. For one or more mainstream deep learning frameworks (Tensorflow/PyTorch/MXNet, etc.) have developers; understanding of perspective, certain insights and experience in framework design or tuning;
+	- Familiar with and like performance optimization, have certain development experience in CUDA/OpenCL/OpenMP, etc. or have certain insights and experience in performance distributed solutions such as MPI/CCL;
+	- Familiar with GPGPU/AI ASIC/CPU micro-architecture, have certain insights and experience in joint optimization of software and hardware;
+	- Experience in compiler, video codec, GPU virtualization, K8s cluster management and scheduling is preferred.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4113,9 +4207,77 @@ Skill sets for application engineers of different EDA products:
 
 
 
-
-
-
+Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
++ skill set:
+	- 5+ years of experience building production software systems within large engineering projects for consumer products on mobile SoCs, specially iOS devices
+	- Hands-on experience with at least one compiled language (C/C++/Objective-C, Swift, Go, Java, Rust, etc.), and multi-threaded applications
+	- Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
+		* https://en.wikipedia.org/wiki/List_of_build_automation_software
+		* https://en.wikipedia.org/wiki/Buck_(software)
+		* https://en.wikipedia.org/wiki/BitBake
+		* https://bit.dev/
+	- Experience with profiling and tracing tools
+	- Experience with Model Compression techniques (Quantization, Pruning, Distillation)
+	- Experience with PyTorch Mobile, Tensorflow Lite or other similar Edge Inference frameworks
+	- Experience with techniques to offload compute to GPU, DSP etc.
+	- Experience developing Machine Learning models, especially for resource constrained computing environments
++ skill set:
+	- Responsible for or assist in the definition of next-generation GPGPU chips and the planning of related software and hardware products. Collect key appeals through architecture research, market research, competitive product analysis, customer interviews, etc., plan chips and hardware products and be responsible for product competitiveness;
+	- Lead or participate in the definition of chip specifications, participate in the whole process management of chip architecture design, chip mass production, chip enablement and product optimization; and be responsible for defining various hardware products to meet customer scenario needs;
+	- Familiar with various GPGPU and AI chip architectures, and have a deep understanding of deep learning applications (such as CV/NLP/ASR/RecSys, etc.);
+	- Familiar with mainstream artificial intelligence frameworks in the industry, and understand the requirements for high-performance GPGPU deployment in data centers;
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -5358,7 +5520,8 @@ Notes:
 
 
 
-Sets of skills for generic data science roles:
+Sets of skills for generic data science roles, or data scientist positions:
++ ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
@@ -5735,7 +5898,8 @@ Sets of skills for more senior data science roles, such as management of data sc
 + Bonus points for experience building interactive data visualizations using libraries like D3, Highcharts, and Leaflet, and for experience working with big data systems like Hive, Hadoop, Scalding and Spark.
 + illustrate visualization ideas using storyboards, process flows, wireframes, and prototypes
 + [Plus] Familiarity with interactive data visualization using tools like D3.js
-
++ metrics systems:
+	- ***Grafana.***
 
 
 

@@ -20,7 +20,12 @@ Skill set for roles in VLSI verification:
 + Previous experience with HBM-DDR, AXI, Clock-Domain Crossing. Debug highly desired
 + Knowledge of memory coherence, DDR, AXI/ACE is required
 + skill set:
-	- BLAH.
+	- PCIE GEN3 or above IP project verification experience;
+	- CXL/CCIX project experience;
+	- Validation process/tool development;
+	- Driver or firmware development experience;
+	- Familiarity with UCIE/HBM/DDR protocols is preferred
+	- Experience in D2D/HBM/DDR projects is preferred
 + skill set:
 	- BLAH.
 + skill set:
@@ -109,7 +114,29 @@ Skill set for roles in VLSI testing:
 	- JTAG
 	- OpenCD
 + skill set:
-	- BLAH.
+	- DFT Testability Design Engineer
+	- Participate in the early planning of chip project DFT
+	- Cooperate with the front-end design team to formulate chip DFT implementation strategies
+	- DFT implementation, including jtag, scan, boundary scan, Mem BIST and logic BIST
+	- Develop high-coverage and low-cost test patterns (test patterns)
+	- Simulation verification and timing analysis of DFT logic and test vectors
+	- Participate in the implementation and simulation verification of DFT test logic such as high-speed interface and analog PHY
+	- Assist other teams to solve DFT related problems
+	- Microelectronics and related majors, more than 2 years of DFT work experience;
+	- Proficient in digital circuit design, the whole process of digital design, including simulation, verification, synthesis, timing analysis
+	- Proficiency in DFT methodology, including scan, BIST, JTAG, ATPG
+	- Familiar with Mentor/Synopsys DFT process tools
+	- Proficiency in scripting language, such as one or more of Shell/TCL/Perl, proficiency in C language
+	- Possess strong hands-on ability, independent learning and analysis and problem-solving ability, strong sense of responsibility and work initiative, excellent professionalism, teamwork and professionalism.
+	- Good command of English.
+	- Master the basic knowledge of DFT (JTAG/BSD/SCAN/MBIST/PHY test), covering at least 2~3 directions of knowledge accumulation and work experience in brackets
+	- Familiar with the chip design process, master the basic knowledge of digital logic design, including verilog, SV, etc.
+	- Experienced in simulation, able to use VCS, Verdi and other simulation debugging tools
+	- Have script development experience (TCL, Python, Perl, Makefile, etc.), master at least one script development language
+	- Tape-out experience of large-scale chips
+	- Deliver test vectors and provide debugging support
+	- DFT engineering experience of GPGPU, GPU, AI and other chips
+	- Experienced in DFT timing closure
 + skill set:
 	- BLAH.
 + skill set:

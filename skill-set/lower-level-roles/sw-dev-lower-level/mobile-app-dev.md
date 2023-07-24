@@ -43,6 +43,7 @@ reactive programming = asynchronous dataflow programming
 	- Extensive knowledge of Unix/Linux (Windows experience is a plus)
 	- BS CS or EE degree, or equivalent training or work experience
 	- 5+ years related experience (or Masters and 4+ years related experience, or Ph.D. without experience)
++ Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
 + skill set:
 	- BLAH.
 + skill set:

@@ -1686,7 +1686,29 @@ reactive programming = asynchronous dataflow programming
 	- React, for front-end Web development
 	- Svelte, for front-end Web development
 + skill set:
-	- BLAH.
+	- Proficient in at least one native or chromium development framework, such as QT Widgets, WPF, Electron, CEF, WebGL, etc.;
+	- Familiarity with front-end scripting languages such as js, jquery, typescript, vue.js is preferred;
++ skill set:
+	- Strong knowledge of JavaScript, Vue, React, AJAX, JQuery, JS MVC frameworks
+	- Experience with data-driven web development, including strong knowledge of HTML5, DHTML and CSS3, JSON/XML
+	- Experience with Typescript, CSS (Sass), build tools like web pack, test frameworks like Jest
+	- Experience designing and optimizing large scale modern web applications (i.e. state management, caching, performance optimizations, etc.)
+	- Experience in Cross-browser development and troubleshooting
+	- Familiar with tooling such as Webpack and NPM
+	- Extensive use of APIs and a strong understanding of HTTP(S) and REST architecture
+	- Knowledge of design patterns, enterprise architecture and software engineering principles
+	- Experience with data visualization technologies is a plus
+	- Experience with server side technologies like Node, Express is a plus
+	- Develop, test and maintain rich web experiences with UIs that address deep domains with high volumes of data.
+	- Building reusable components and front-end libraries for future use.
+	- Work with backend team to define and integrate APIs.
+	- Implement software designs using JavaScript and related technologies. Prepare and execute unit and integration tests.
+	- Envision the functional and non-functional requirements to build solutions from scratch. 
+	- To be able to define technologies, patterns and prototype solutions for new requirements to materialise it as a well functioning project. 
+	- Build the front-end of applications through appealing visual design. 
+	- Use test driven development to ensure responsiveness, consistency and efficiency and crafting maintainable testing infrastructure .
+	- Build features and applications with a mobile responsive design. 
+	- Learn and adapt new technologies to quickly develop required POCs and influence.
 + skill set:
 	- BLAH.
 + skill set:

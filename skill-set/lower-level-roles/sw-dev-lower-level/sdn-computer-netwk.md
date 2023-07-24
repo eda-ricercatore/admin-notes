@@ -86,6 +86,9 @@
 		* remote procedure call, RPC
 	- You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
 + Celery, for distributed message passing via asynchronous task queue or job queue
++ skill set:
+	- Understanding of high-level network protocols (HTTPS, protobuf, JSON)
+	- Understanding of distributed computing (load balancing, RPC, Map/Reduce, databases)
 
 
 
