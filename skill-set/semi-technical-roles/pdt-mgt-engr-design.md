@@ -48,7 +48,13 @@
 	* RFTs: request for tenders
 	* RFQs: request for quotations
 + skill set:
-	- BLAH.
+	- Shortcut
+	- Pendo
+	- Hotjar
+	- Amptitude
+	- Google's Suite of Tools (e.g., Analytics)
+	- Hubspot
+	- Zoom
 + skill set:
 	- BLAH.
 + skill set:

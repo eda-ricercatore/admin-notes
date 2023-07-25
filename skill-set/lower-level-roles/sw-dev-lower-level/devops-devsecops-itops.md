@@ -846,7 +846,37 @@ Skill set for DevOps:
 	- Database: mysql, apache derby, ingress/egress
 	- Deep \*nix skills
 + skill set:
-	- BLAH.
+	- Senior DevOps/SysOps Engineer
+	- Come and be a part of our close-knit distributed team, working remotely from different locations while enjoying a good cup of tea. We thrive on interesting technical challenges and building magical products that improve people’s lives. As our expert DevOps/Systems engineer,  you will be responsible for evolving our production and developer infrastructure, by maintaining and improving the backend infrastructure used by Sched.com.
+	- You will be making an immediate impact on transitioning Sched from a monolithic legacy architecture to a scalable application! You will be ensuring site reliability, monitoring and enhancing the observability of key systems, security, reliable deployment of services, disaster recovery planning, and CI. Additionally, you will bring valuable knowledge to work closely with the development team and help improve our processes and our PHP, Go and JS applications and services to best serve our customers!
+	- Your valuable contributions to uptime, stability, scalability, and reliability – are paramount to the success of Sched while opening the opportunity to learn and apply new technologies to scale and grow!
+Projects you will be expected to complete in your the first 6 months
+	– Automating CI and deployment of Golang daemons across multiple machines
+	– Planning out and executing a rolling upgrade of all systems to latest Ubuntu release
+	– Dockerization of major system components to allow easier management and updating
+	– Planning out cost-effective “on-demand” peak-traffic scaling
+	– Prioritize and resolve live issues 
+	– Manage, plan and execute system and software updates and upgrades when needed
+	– Manage application deployments in coordination with the development team
+	– Maintain and improve our monitoring systems to pre-empt issues that may affect our live environments
+	– Investigate and implement system improvements
+	– Maintain and improve system documentation and runbooks
+	– Maintain and improve disaster recovery and backup plans
+	– An expert in Linux system administration – covering security, maintenance, backups, disaster recovery, storage management, monitoring (Ubuntu)
+	– Comfortable with AWS infrastructure management
+	– Well-versed in command line / bash scripting
+	– Skillful in database administration (MySQL, Percona)
+	– Knowledgeable in infrastructure configuration management tools (Ansible)
+	– Capable of monitoring, logging, & observability tools (Sentry, Munin, Grafana)
+	– Experience in networking: DNS, SSL, SMTP, SSH, VPN
+	– Competent in HA and web tech: HAProxy, ProxySQL, Apache, PHP-fpm, Redis and Redis Sentinel, Percona Cluster, Corosync
+	– Skillful with Docker, containers, CI/CD, automation
+	– Proficient with PHP and Golang code
+	- Our tech stack:
+		* Apps: Javascript, PHP, Swift, Kotlin
+		* Backend: PHP, Golang, Percona Cluster, Redis, Memcache, HAproxy, ProxySQL, Apache
+		* Infrastructure: Docker, Ansible, Munin, Sentry, Corosync, DRBD, KVM
+
 + skill set:
 	- BLAH.
 + skill set:

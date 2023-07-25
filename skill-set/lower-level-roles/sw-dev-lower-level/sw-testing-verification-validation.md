@@ -122,6 +122,10 @@
 + Experience with testing technologies (JUnit, Espresso, Mockito, Robolectric)
 + Unit Testing Tools  –  Google Test or CPPUnit ; Code quality tools
 + Understanding of HPC Frameworks – e.g. BLAS, LAPACK
++ Experience in KMD/UMD programming is preferred.
+	- User Mode Driver, UMD, UMD stack, User Mode Driver stack
+	- Kernel Mode Driver, KMD, KMD stack, Kernel Mode Driver stack
+	- http://nvdla.org/sw/runtime_environment.html
 + skill set:
 	- BLAH.
 + skill set:

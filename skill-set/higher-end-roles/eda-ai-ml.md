@@ -4150,21 +4150,134 @@ Skill sets for application engineers of different EDA products:
 	- Familiar with GPGPU/AI ASIC/CPU micro-architecture, have certain insights and experience in joint optimization of software and hardware;
 	- Experience in compiler, video codec, GPU virtualization, K8s cluster management and scheduling is preferred.
 + skill set:
-	- BLAH.
+	- AI Software Library Senior Development Engineer (C++).
+	- Participate in the design, implementation, testing, performance optimization and problem fixing of deep learning acceleration library
+	- Participate in the design, implementation, testing, performance optimization and problem fixing of AI compilation module
+	- Participate in the design, development and continuous optimization of the basic framework for AI operator development
+	- Participate in the interface design of AI operator docking with the upper framework, and the design and development of debugging tools
+	- Proficient in C++11/14/17/20, proficient in STL
+	- Proficient in commonly used data structures and algorithms, it is best to have your own implementation
+	- Proficient in C++ multi-thread development under multi-platform, have a deep understanding of thread safety, anti-deadlock, thread-related design patterns and functional programming and the ability to get started immediately
+	- Proficient in Python
+	- Those who have studied the source code of the deep learning framework (Caffe/Tensorflow/PyTorch/MXNet) and have done relevant development are preferred
+	- Must have excellent programming style
+	- Familiar with deep learning framework (Caffe/Tensorflow/PyTorch/MXNet) or experience in using TensorRT is preferred
 + skill set:
-	- BLAH.
+	- Intelligent Platform Inference Engine R&D Engineer
+	- Responsible for the design and implementation of the programming model of the intelligent processor reasoning optimization engine;
+	- Responsible for the function realization and performance optimization of the intelligent processor reasoning optimization engine;
+	- Responsible for the implementation of the intelligent processor reasoning optimization engine, including function realization, performance optimization and problem repair;
+	- Participate in the design, development and continuous optimization of deep learning-related solutions;
+	- Continue to carry out intelligent processor compilation optimization and integration work.
+	- Bachelor degree or above, computer, mathematics, software engineering, automation, communication, microelectronics and other related majors, more than three years of relevant work experience;
+	- Familiar with object-oriented programming methods, familiar with C++ programming development, compilation and debugging process in Linux environment, familiar with python, have a solid programming foundation, good programming style and working habits;
+	- Familiar with deep learning algorithms, familiar with at least one deep learning programming framework (one of caffe/tensorflow/pytorch/mxnet), familiar with or have experience in using TensorRT is preferred;
+	- Have good learning and understanding ability, strong logical thinking;
+	- Possess a good teamwork spirit, strong sense of responsibility, do things practically and conscientiously, be able to actively complete relevant work, and have certain ability to resist pressure.
 + skill set:
-	- BLAH.
+	- Math Library Development Engineer
+	- Participate in the hardware implementation and performance optimization of common neural network models, such as ResNet, BERT, EfficientNet, DLRM, etc., and propose architecture and microarchitecture improvements based on various neural network model architectures;
+	- Participate in the development and performance optimization of AI operator libraries and other mathematical libraries;
+	- Participate in the function and performance verification of the chip, and propose architecture and micro-architecture changes according to the verification results;
+	- Participate in the development and improvement of various tools, which will be used to support the development and verification of AI operators and other mathematical libraries;
+	- Cooperate with the hardware design department to support hardware verification;
+	- Cooperate with the software department to support the development of AI framework/software/compiler.
+	- Master degree or above, major in computer science, applied mathematics, etc.;
+	- Proficient in using Python, familiar with algorithms and data structures;
+	- Understand computer architecture, familiar with CPU/GPU architecture is preferred;
+	- Understand the basic principles of neural networks, experience in the development and use of neural networks is preferred;
+	- Good communication skills and teamwork skills.
++ Experience in ***PyTorch/TensorRT/Tensorflow*** programming is a big plus.
++ Experience in ***CUDA/cuDNN*** programming is a big plus
 + skill set:
-	- BLAH.
+	- Inference Engine Architect
+	- On the heterogeneous system based on GPGPU, research and realize the reasoning engine for voice/image/NLP and other scenarios, and be responsible for related architecture design, performance optimization and business implementation;
+	- On the heterogeneous system based on GPGPU, research and realize the prediction engine for search/advertising/recommendation and other scenarios, and be responsible for related architecture design, performance optimization and business implementation;
+	- Responsible for the integration of Biren's self-developed reasoning/estimation engine and third-party frameworks such as TF or the reasoning/estimation engine of major Internet customers, to strengthen ecological construction and promote business implementation;
+	- Participate in MLPerf rankings to enhance the international influence of domestic GPU chips.
+	- Computer, electronics, mathematics and related majors, more than 5 years of relevant work experience;
+	- Proficiency in C++/Python programming;
+	- Experience in open source framework or engine architecture design such as Tensorflow/Pytorch/Paddle/TensorRT/TNN/MNN/OpenPPL/HugeCTR;
+	- Familiar with AI compilation technology such as TVM/MLIR/XLA is preferred;
+	- Familiar with CNN/ RNN and other network reasoning optimization / landing priority;
+	- Familiarity with Wide&Deep/DeepFM/DIN and other advertising recommendation scene models is preferred, and familiarity with sparse model estimation engine architecture design and implementation is preferred.
 + skill set:
-	- BLAH.
+	- Deep Learning Framework Engineer
+	- On the heterogeneous system based on GPGPU, research and implement the core module of the deep learning programming framework;
+	- Algorithm research and framework implementation of large-scale cluster distributed training.
+	- Computer, mathematics and related majors, more than 1 year of relevant work experience, doctor is preferred;
+	- Master at least one language (C++/Python);
+	- Mastering a mainstream deep learning framework (Tensorflow, PyTorch, MXNet, NNVM/TVM, etc.) is preferred;
+	- Familiar with CUDA, OpenCL, OpenMP and other heterogeneous programming is preferred;
+	- Familiarity with CNN, BERT, RNN and other networks is preferred; 6. Familiarity with compilation principles and LLVM is preferred.
 + skill set:
-	- BLAH.
+	- Deep Learning Framework Architect
+	- On the GPGPU-based heterogeneous system, research and implement the core module of tensorflow;
+	- According to the characteristics of the model and hardware, optimize the calculation graph, as well as optimize the memory and synchronization scheduling.
+	- Computer, mathematics and related majors, more than 5 years of relevant work experience, doctorate is preferred (more than 3 years);
+	- Familiar with C++/Python;
+	- More than 2 years of experience in the development of mainstream deep learning frameworks, including Tensorflow, PyTorch, Mindspore, PaddlePaddle, Oneflow, MegEngine, MXNet, NNVM/TVM, etc.;
+	- Proficiency in heterogeneous programming such as CUDA/OpenCL/Vulkan/OGL/DX Compute is preferred;
+	- Familiar with GPU/GPGPU architecture;
+	- Familiar with CNN, BERT, RNN and other networks is preferred;
+	- Familiar with compilation principles and LLVM is preferred.
 + skill set:
-	- BLAH.
+	- Deep Learning Framework Engineer
+	- Research and implement the core modules of the deep learning programming framework on the heterogeneous system based on GPGPU;
+	- Algorithm research and framework implementation of large-scale cluster distributed training.
+	- Computer, mathematics and related majors, with more than 1 year of relevant work experience, doctor is preferred;
+	- Master at least one language (C++/Python);
+	- Mastering a mainstream deep learning framework (Tensorflow, PyTorch, MXNet, NNVM/TVM, etc.) is preferred;
+	- Familiar with CUDA, OpenCL, OpenMP and other heterogeneous programming is preferred;
+	- Familiarity with CNN, BERT, RNN and other networks is preferred; 6. Familiarity with compilation principles and LLVM is preferred.
 + skill set:
-	- BLAH.
+	- Chip System Architecture Engineer
+	- Responsible for driving the architectural design of our general computing/AI processors based on the latest general computing and AI accelerator applications, providing new technologies for products in new markets and existing markets
+	- Participating in the development of modeling tools and infrastructure needed to facilitate exploratory design and performance studies;
+	- Promote the development of new GPGPU/AI technologies to improve the user experience of various products and applications.
+	- Bachelor degree or above in computer science/electronic engineering/applied mathematics, master/doctorate preferred;
+	- More than 7 years of experience in general computing/AI hardware architecture, microarchitecture and design;
+	- Have a deep understanding of modern general-purpose computing application programming interfaces, such as Cuda, OpenCL;
+	- Have a deep understanding of deep learning technology, with artificial neural network framework;
+	- Familiar with C/C++, Python, excellent software development skills;
+	- Excellent teamwork skills, self-motivation and focus on results.
++ skill set:
+	- Senior Software Library Engineer/Architect
+	- Design and develop general basic mathematics library;
+	- Discuss and implement possible optimization methods for specific hardware implementations;
+	- Coordinate with other software engineers to provide solutions to problems and performance tuning in various general purpose platforms.
+	- Master degree or above, more than 3 years of work experience;
+	- Proficient in C/C++ programming, experience in Python programming is preferred;
+	- Understand computer architecture;
+	- Understand compute shader programming;
+	- Experience in one or more common platforms or mathematical libraries is preferred: such as CuFFT, CuBlas, CuDNN, Tensorflow, TensorRT, etc.;
+	- Have a strong ability to analyze and solve problems;
+	- Possess strong communication skills, independent working ability and team driving ability, and can coordinate all relevant teams to promote the completion of the plan.
++ skill set:
+	- AI/GPU Heterogeneous Platform Software Development Engineer
+	- Parallel algorithm implementation and high-performance template library development in AI/GPU software framework;
+	- Analyze and research open source machine learning and deep learning training engines, optimize and improve the implementation of operators and models;
+	- Participate in the architecture design, key technology research and core code development of heterogeneous computing framework;
+	- Development of test cases in general computing and heterogeneous computing programming models.
+	- Computer, mathematics and related majors, master degree or above or more than 3 years of relevant work experience, doctor is preferred;
+	- Proficient in C/C++ and open source project development tools under Linux; familiar with heterogeneous programming models such as CUDA/HIP/cupy;
+	- Strong learning ability, familiar with compilation principles and architecture is preferred;
+	- Familiarity with deep learning frameworks, accelerator cards, and typical deep learning networks is preferred.
++ skill set:
+	- GPU application optimization engineer
+	- Biren-based chip products (GPGPU), responsible for the transplantation and acceleration of deep learning algorithm models on Biren GPU, and performance tuning of application pipelines;
+	- Have certain insights and experience in AI models (CNN/RNN/Transformer, etc.) corresponding to scenarios such as computer vision, speech recognition, search advertisement recommendation, and natural language processing;
+	- Closely track industry trends and technology trends, and participate in the exploration of new technology solutions.
+	- Master degree or above in EECS or related majors;
+	- Proficiency in operating Linux system, proficiency in C/C++/Python/Shell, solid programming foundation and debugging experience;
+	- Familiar with and have used one or more mainstream deep learning frameworks (Tensorlow / PyTorch / MXNet, etc.);
+	- Familiar with heterogeneous computing systems, experience in cuda or parallel computing is preferred;
+	- Diligent in thinking, willing to solve problems, and have the spirit of cooperation.
+	- Have a developer's understanding of one or more mainstream deep learning frameworks (Tensorlow / PyTorch / MXNet, etc.), and have certain insights and experience in framework design or tuning;
+	- Familiar with GPGPU/AI ASIC/CPU micro-architecture, have certain insights and experience in joint optimization of software and hardware;
+	- Experience in compiler, video codec, GPU virtualization, K8s cluster management and scheduling is preferred.
++ skill set:
+	- Machine Learning Engineer - SIML, ISE
 + skill set:
 	- BLAH.
 + skill set:

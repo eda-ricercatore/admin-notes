@@ -54,6 +54,17 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ##	Embedded Software Development Roles
 
 
@@ -212,6 +223,54 @@ Sets of skills for embedded software development roles:
 	- Experience with device drivers, virtualization, IOMMUs, PCIe, power management or SoC platform security
 	- Experience with Android bring up and development
 + skill set:
+	- Kernel driver development engineer kmd
+	- Define software, hardware and firmware interfaces, develop kernel drivers, and provide functions including memory management, task management, and hardware resource management;
+	- Establish a development environment for kernel drivers, including pre-silicon and post-silicon testing and debugging environments, and related kernel driver testing tools;
+	- Coordinate with hardware engineers, firmware engineers and software engineers to provide solutions to problems in the platform.
+	- Proficient in C/C++ programming, familiar with Linux kernel architecture/DRM framework;
+	- Familiar with computer architecture, at least one GPU architecture, ARM MALI, IMG PowerVR, AMD, NV, Intel;
+	- Knowledge and experience in kernel driver development, including pre-silicon and post-silicon development;
+	- Those who master Virtualization technology and have relevant development experience are preferred;
+	- Strong ability to analyze and solve problems;
+	- Possess strong communication skills, independent working ability and team driving ability, and can coordinate all relevant teams to promote the completion of the plan.
++ skill set:
+	- Distributed Storage System R&D Engineer
+	- Investigate and design the technology of AI chip directly accessing the storage system, and provide reference guidance for the storage design of the chip;
+	- Participate in the design and development of large-scale distributed storage systems in AI scenarios to ensure performance and scalability, and avoid storage becoming a bottleneck that restricts computing performance;
+	- Participate in storage docking under the machine learning platform, etc., to create product solutions integrating software and hardware;
+	- Investigate other storage systems in the industry, and work with storage partners to adapt their computing solutions.
+	- Bachelor degree or above, major in electronics/computer/communication;
+	- Familiar with Linux development environment, proficient in one or more programming languages of C++/Go/Java/Python;
+	- Solid data structure, algorithm and programming skills, good programming habits and style;
+	- Possess relevant research and development experience in distributed systems, and be familiar with related theories of distributed systems, such as paxos/raft, etc.;
+	- Have experience in the storage field, and be familiar with the development status and trends of storage software and hardware technologies.
+	- Experience in Linux kernel, file system, and IO tuning;
+	- Experience in the R&D and design of RDMA/DPDK/SPDK/GDS storage systems combining hardware and software;
+	- Experience in research and development of distributed file storage such as GlusterFS/Lustre/Ceph, and application experience in AI scenarios is better;
+	- Experience in big data storage system HDFS/Hbase;
+	- Experience in KV storage systems such as Memcache/Redis/Leveldb/Rocksdb;
+	- Experience in distributed block storage/cloud hard disk.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -235,5 +294,24 @@ Sets of skills for embedded software development roles:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
 
 

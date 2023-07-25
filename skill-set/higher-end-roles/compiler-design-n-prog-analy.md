@@ -199,26 +199,22 @@ Skill set for compiler design:
 + skill set:
 	- Heterogeneous Computing Compilation Optimization Architect
 	- Support compilation optimization and performance improvement of self-developed GPGPU applications;
+	- Lead the design and development of compiler optimization schemes and algorithms for self-developed GPGPU;
+	- Responsible for the formulation and implementation of the self-developed GPGPU computing core part benchmark performance and compilation optimization performance evaluation plan;
 
-2. Lead the design and development of compiler optimization schemes and algorithms for self-developed GPGPU;
-
-3. Responsible for the formulation and implementation of the self-developed GPGPU computing core part benchmark performance and compilation optimization performance evaluation plan;
-
-4. Participate in the future self-developed GPGPU processor instruction set and micro-architecture design, and evolve compiler optimization capabilities to support new features.
-
- 
-
-Talent portrait:
-
-1. Master's degree or above in computer software, electronic engineering or related majors, and more than five years of relevant work experience;
-
-2. Proficient in C/C++, familiar with OpenCL/CUDA/Vulcan and other APIs;
-
-3. Familiar with the architecture and compilation principles, have rich experience in the implementation of compilation optimization, including but not limited to loop optimization, vectorization, etc.;
-
-4. Familiar with LLVM, familiar with heterogeneous programming system, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.
+	- Participate in the future self-developed GPGPU processor instruction set and micro-architecture design, and evolve compiler optimization capabilities to support new features.
+	- Master's degree or above in computer software, electronic engineering or related majors, and more than five years of relevant work experience;
+	- Proficient in C/C++, familiar with OpenCL/CUDA/Vulcan and other APIs;
+	- Familiar with the architecture and compilation principles, have rich experience in the implementation of compilation optimization, including but not limited to loop optimization, vectorization, etc.;
+	- Familiar with LLVM, familiar with heterogeneous programming system, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.
 + skill set:
-	- BLAH.
+	- LLVM compiler development engineer/architect
+	- Compiler development and optimized implementation for new hardware and architecture
+	- Compiler implementation that supports general computing and heterogeneous programming models
+	- Master degree or above in computer software or related majors, proficient in C/C++ programming, familiar with architecture and compilation principles;
+	- Have good communication skills and code habits; familiar with Linux development and debugging environment, git and other version control tools;
+	- Familiar with compilation frameworks such as LLVM/GCC, and experience in compiler development and optimization debugging is preferred;
+	- Familiarity with heterogeneous programming languages such as CUDA/OpenCL/OpenGL is preferred.
 + skill set:
 	- BLAH.
 + skill set:

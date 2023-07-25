@@ -980,6 +980,141 @@ Skill set for software development for computational fluid dynamics, CFD:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Software Development Roles for Parallel and/or Distributed Programming
+
+
+
+Skill set for software development for parallel programming and/or distributed programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing):
++ skill set:
+	- Multi-GPU software development engineer
+	- Design, develop and debug multi-GPU drivers and software
+	- Work with other software engineers to design and develop drivers and support software, providing support for multiple GPUs (same node and multiple nodes across the network)
+	- Coordinate with other software and hardware engineers to provide solutions to problems arising in multi-GPU platforms. And optimize system performance tuning
+	- Assist the multi-GPU solution of the customer platform, and improve the end-to-end software solution of the overall platform according to the needs of users 
+	- Proficient in C/C++ programming, familiar with Linux programming
+	- Familiar with computer architecture, and have an overall understanding of distributed parallel computing and heterogeneous computing frameworks
+	- Knowledge of OpenMPI, OpenSHEM, MPICH, etc. and support libraries (NCCL, UCX, etc.) and experience are preferred
+	- Knowledge related to chip interconnection and network transmission programming, such as RDMA, PCIE Peer2Peer, GPU Direct, etc., and software development experience is preferred
+	- Familiar with Linux kernel, Linux file system, distributed file system is preferred
+	- Familiar with CUDA kernel programming is preferred
++ Familiarity with heterogeneous programming languages such as ***CUDA/OpenCL/OpenGL*** is preferred
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
 
 
 
