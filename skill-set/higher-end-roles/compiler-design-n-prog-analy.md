@@ -75,6 +75,23 @@ Skill set for compiler design:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Compiler Design for Domain-Specific Languages
 
 
@@ -132,7 +149,17 @@ Skill set for compiler design:
 	- Familiar with compilation principles and architecture, experience in compiler development and optimization debugging is preferred;
 	- Familiar with deep learning framework and network model.
 + skill set:
-	- BLAH.
+	- Computer Vision/Deep Learning Compiler Engineer
+	- We are working on developing a modern programming framework designed to facilitate the implementation of high-performance computer vision and machine learning algorithms on Apple hardware. We are looking for an extraordinary compiler engineer to join us on projects that will impact hundreds of millions of users.
+	- C++ development experience
+	- Writing high performance, memory efficient, and multi-threaded code
+	- Differentiable programming
+	- Familiarity with domain specific languages such as: Compilers, LLVM, Halide, TVM, Taichi
+	- Optimization algorithms
+	- Deep Learning applied to computer vision problems
+	- Familiarity or experience with Metal and python is a plus
+	- We create computer vision algorithms to deliver experiences that are impactful, significant, and influential. We work closely with Apple’s outstanding designers to ensure the products we ship are more than technical demos – they resonate with users at a personal level. In this role you will be working on a wide range of responsibilities: core technology algorithm development in support of future user experiences; communicating with and supporting external teams that use our algorithms; supporting low-level, cross-platform efforts; participating in code reviews; and being a constant advocate within the team for high quality results.
+	- PhD in computer vision, robotics or machine learning; alternatively a comparable industry career, with significant experience on delivering products using innovative computer vision, machine learning and robotics technologies
 + skill set:
 	- BLAH.
 + skill set:

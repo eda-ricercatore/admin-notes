@@ -390,11 +390,17 @@ Roles in computing security:
 	- Provides architectural oversight and direction for enterprise-wide security technology.
 	- Review existing architecture, identify design gaps, and recommends security enhancements.
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Senior Cryptography Engineer, Privacy Preserving Machine Learning - SIML
+	- The System Intelligent and Machine Learning Engineering group is looking for an exceptional cryptography engineer to help us build and deploy systems for privacy preserving machine learning building on strong cryptographic protocols.
+	- In this role, you’ll work at the forefront of cryptography and machine learning using techniques like homomorphic encryption, secure multi-party computation, federated learning, and differential privacy. You will be responsible for researching, designing, and prototyping provably-secure protocols to solve mission-critical problems. These solutions will be deployed to billion devices at scale.
+	- This position requires expertise in at least one of homomorphic encryption, secure multi-party computation, federated learning, or differential privacy. You should have experience designing efficient protocols and be able to reason about their security and their application and use in larger frameworks.
+	- 5+ years of expertise within Cryptography, Computer Science, Applied Mathematics, or similar
+	- Expertise in at least one: homomorphic encryption, secure multi-party computation, federated learning, or differential privacy
+	- Experience designing efficient secure protocols
+	- Ability to communicate complex ideas at a variety of abstractions
+	- The successful candidate will be researching, designing, and prototyping cryptographic protocols in security critical missions deployed to billion devices at scale. Prototyping high-quality code is a must. You will design cryptographic solutions, while ensuring feasibility and scalability. This will require making tradeoffs between memory, power, and latency. You will have significant experience in designing scalable cryptographic protocols for real-world problems, and also be responsible for proving security of the protocols.
+	- You will bring the needed depth not only at the design level, but also demonstrate a high level of understanding of the security guarantees of the underlying system in the context of the larger vision for Apple. You are able to make the right tradeoffs, and can clearly communicate these tradeoffs to our partners. You should be comfortable working with partner teams in a broadly collaborative and fast-paced environment.
+	- Masters or PhD in Computer Science, Cryptography, Applied Mathematics, or similar experience.
 + skill set:
 	- BLAH.
 + skill set:

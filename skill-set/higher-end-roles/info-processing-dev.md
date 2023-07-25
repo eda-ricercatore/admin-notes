@@ -530,7 +530,17 @@ reactive programming = asynchronous dataflow programming
 + SOTIF, safety of the intended functionality
 + Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 + skill set:
-	- BLAH.
+	- Senior 3D Pipeline Engineer - Simulation
+	- Apple’s Special Project Group is seeking a Senior 3D Pipeline Engineer to help advance innovative simulation for autonomous technologies. You will directly play a role developing and maintaining tooling for our 3D content creation pipeline core to our simulation efforts. Your work will advance our ability to develop, test, and verify mobile autonomous systems.
+	- Strong experience with C++ and Python, software fundamentals and experience debugging complex software
+	- 5+ years of experience working with 3D data in real time, animation, or visual effects film pipelines
+	- Bonus points for familiarity with computer graphics systems and game engines (e.g. Unreal, Unity, etc); 3D design tools (Blender, Maya)
+	- Proficient in software development practices including design, estimation, code reviews, and automated testing.
+	- Excellent multi-functional collaboration skills: demonstrated ability to work across an organization with algorithm designs, verification engineers, and other technical departments.
+	-  You’ll join a fantastic team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We hope you are passionate about the values that drive us:
+	- Passion for the mission: We’re here to make something phenomenal. We seek whatever work is right for the product and strive for the best possible results.
+	- Modesty: The right answer is more meaningful than being right. We search for solutions as a team and value clear-eyed feedback
+	- Lean habits: You can’t grow without limits. Time constraints and big goals inspire us to sharpen our focus and learn to make extraordinary decisions.
 + skill set:
 	- BLAH.
 + skill set:

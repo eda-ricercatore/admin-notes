@@ -4278,6 +4278,200 @@ Skill sets for application engineers of different EDA products:
 	- Experience in compiler, video codec, GPU virtualization, K8s cluster management and scheduling is preferred.
 + skill set:
 	- Machine Learning Engineer - SIML, ISE
+	- Would you like to help shape the next set of ML features of iPhone? Would you like to contribute to the field of generative AI? Want to contribute to transforming how people interact with AI technologies?
+	- The System Intelligence and Machine Learning team is in charge of creating datasets that power many of Apple’s intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As a data scientist on our team you will be in charge of selecting the right assets, removing harmful and toxic assets and extracting insights from the datasets, assessing & reducing harmful biases, and maximizing fairness and inclusion of various ML features.
+	- We are looking for an experienced Machine Learning Engineer who can help create and improve the datasets used in Generative AI through solid understanding and usage of ML and stats. You will be using Apple technologies to refine our datasets, remove toxicity and select the right images, videos or texts through active selection and model-in-the-loop methodologies. Focus areas range from text processing across many languages (toxic language detection and removal, identification of colloquial vs formal language) to image and video understanding, deduplication and processing.
+	- Familiarity with a broad range of Machine Learning techniques and relevant statistical packages to engineer Machine Learning solutions end-to-end.
+	- Experience in contributing to production code bases. Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production code.
+	- Proficient in state-of-the-art ML techniques particularly in the field of Generative AI and Large Language Models (Transformer architecture, CLIP and various visual and text embedding models, GPT and BERT style language models).
+	- Exceptional communication and presentation skills and the ability to explain difficult technical topics to everyone from data scientists to engineers to business partners.
+	- Strong proficiency with Python (Scikit learn, Jupyter), PyTorch, SQL-based languages. Working proficiency with Git.
+	- As a Machine Learning Engineer on the Data Team, you will be working to deepen our understanding of how various datasets can improve the quality of Apple’s ML models on a range of products. You will particularly help shape Apple’s Datasets that are used for generative AI by removing irrelevant or toxic assets, selecting the right assets by employing various asset selection algorithms, utilizing Apple proprietary ML models. For this, you will also use your stats and ML background to build models and algorithms that can select the right assets for ML experiences from a large pool of available assets. And you will work with our data engineers to put your models in data pipelines to run on large scale datasets.
+	- In our team, you are expected to collaborate with other AIML product stakeholders and partners to understand needs, design Machine Learning models that help us better understand our data and automatically pick the right assets for ML training. Our Data Scientists actively evaluate and present the progress of their work. Your creative problem solving skills will be used daily.
+	- Masters or Phd degree in Computer Science, Engineering; or equivalent practical experience. 
+	- Strong analytical product intuition: able to understand the user experience and use data to guide the development of products.
+	- 2+ years of experience in an Applied Scientist role, preferably in a technology company.
+	- Ability to understand a technically complex product, and work with engineering leads and data engineers.
+	- Proficiency in data science and analytics, including statistical data analysis and machine learning. Experience crafting, conducting, analyzing, and interpreting experiments and deep-dive investigations.
+	- Ability to build relationships across multiple functions and establish strong partnerships.
++ Proficiency ***in building end-to-end ML pipeline from data ingestion to feature engineering to model training to deploying and scaling the model in production***.
++ Experience ***in building end-to-end ML pipeline from data ingestion to feature engineering to model training to deploying and scaling the model in production***.
++ skill set:
+	- Bonus if you have prior data analysis experience (SQL, Python/Jupyter Notebooks, Tableau, Superset)
+	- Bonus if you have prior experience exploring data formats and tools for big data systems (e.g. Parquet, Avro, Protobuf).
+	- Bonus if you have prior experience working with data engineers (e.g. engineers who use tools such as ***Airflow, Luigi, Jenkins, MapReduce, Pig, Spark, Hadoop, Hive, HBase, Greenplum, Vertica***, etc.)
++ skill set:
+	- 2+ years of experience in developing end to end machine learning pipelines on distributed systems.
+	- You have experience in deploying machine learning solutions on marketplaces. Any previous experience in advertising technology in areas such as conversion modeling, automatic bidding, keyword/bid/budget recommendation, creative optimization, advertiser churn prediction, automatic targeting and auction design will be a plus.
+	- You can drive multi-functional collaboration with product, data engineering, experimentation and machine learning operations.
+	- You can actively participate in investigations into multiple streams of ads quality data, draw conclusions from data, and recommend actions.
+	- You are comfortable with alternative experiment designs such as budget splitting, switch backs, interleaving in addition to traditional a/b testing.
+	- You have extensive experience developing in Python.
+	- You are familiar with databases, SQL, and scripting languages.
+	- You have a practical understanding of some of the modern machine learning applications to rare events modeling, natural language processing, ranking, clustering and embedding generation.
+	- You enjoy working closely with operational teams on deployment, monitoring, and management concerns.
++ skill set:
+	- Senior Software Engineer, Autonomous Systems - SPG
+	- Apple SPG (Special Projects Group) is seeking an experienced software engineer to work on developing and implementing high-quality software for autonomous systems. Our organization is engaged in conducting world-changing research that requires the development of novel algorithms that need to run in real-time.
+	- Proficient in C++ and Python. Language-agile.
+	- Experience with building production code.
+	- Strong understanding of scientific and numerical programming in domains such as robotics, controls, computer graphics.
+	- Familiarity with code developer workflows and tooling.
+	- Strong interest in engineering problem solving.
+	- Help design and build production-grade software to solve historically difficult problems in the field of autonomous systems under strong engineering constraints
+	- To be experienced in designing and building production-grade software in C++
+	- Have deep understanding of patterns (and anti-patterns) of architecture
+	- Familiarity with scientific programming and numerical techniques
+	- A minimum of a BS in Computer Science or related fields.
+	- 10+ years of experience on working on production software in scientific and numerical domains.
++ skill set:
+	- Perception System Engineer - SPG
+	- As Perception System Engineer on a revolutionary Apple project, you will be working on an autonomous system built on state of the art sensing technologies and ground breaking machine learning algorithms. The Perception team provides sense capabilities such as detection, classification, tracking, and observed maps in complex environments using a range of sensing modalities. You will play a key role in measuring end-to-end system performance, identifying key issues and provide detailed feedback for performance improvement. You will engage cross functionally with a wider range of experts to build a robust and scalable triage and measurement system. You will use statistical modeling and develop expertise in Perception system performance trends, forecasting methodologies, and synthesize key findings for leadership reviews.
+	- 5+ years of experience in testing, QA or algorithm development for Autonomous Perception systems
+	- A deep understanding of perception functions its impact on motion planning
+	- Knowledge of machine learning models and deep learning fundamentals
+	- A background in statistical analysis, system-level triage of complex systems
+	- Proficient in data analysis, scripting and automation using python
+	- Familiarity with data products from optical sensors like lidar and camera is desired
+	- You will be developing and maintaining a Perception performance measurement pipeline that provides continuous feedback to developers for performance improvement and debugging. The work involves significant cross functional interaction with system test engineers, model, and tooling developers.
+	- Defining procedure and tooling requirements for a triage and test pipeline that identifies, classifies, and measures perception failure rates.
+	- Engaging with relevant partners to ensure timely implementation and delivery. 
+	- Synthesize failure rate data to derive meaningful trends and sensitivities, and track measured improvements and regressions over time. 
+	- Create and own dashboards for leadership reviews and develop expertise in observed system performance. 
+	- Root causing and failure analyses in partnership with deep learning model developers will be essential to be effective in this role. 
+	- You will also have opportunities to develop statistical models to forecast full system performance using developer metrics, critical scenario testing, and past performance.
+	- Masters degree in engineering, data science, statistics, or mathematics
+	- 5+ years of relevant Industry experience in robotics or autonomous systems
++ skill set:
+	- Computer Vision Architect
+	- Apple is looking for a computer vision architect with exceptional technical and communication skills to contribute on high-impact projects that will enable game-changing future Apple products. The role requires deep knowledge of image processing and ability to define, analyze and optimize the architecture of video pipelines. Successful candidate must possess good understanding of both hardware and software solutions used in battery operated devices, including tradeoffs in optimal performance vs. power consumption.
+	- Ability to evaluate existing and emerging imaging systems against use case requirements, including, understanding of hardware engines (CPU, GPU, Neural Network Accelerator, DSP, etc.) and how to choose the right one for a given application.
+	- Understanding of difference between classes of algorithms and how to optimize their efficiency on available hardware engines (Computer Vision vs DeepLearning) as well as resource sharing and arbitration.
+	- Understanding of the impact processing flow selection will have on overall system performance, power consumption and resource sharing by various algorithms.
+	- Deep knowledge of sensors and camera technologies, including, image acquisition (sensor+lensing+ISP), rolling vs global, color vs monochrome, rectilinear vs equidistant and their impacts on algorithms, color management, performance optimization in low light conditions, etc.
+	- Understanding of system resources supporting image collection and camera calibration in multi-camera systems and ability to define common system pre-processing blocks for camera streams.
+	- Demonstrated proficiency in system architecture and performance analysis, including, input interface definition/optimization of image streams serving multiple algorithms, estimation of system compute requirements based on required performance.
+	- Ability to define system-wide policies optimizing resources in multi-sensor streaming systems with memory constraints as well as estimation of system responsiveness based on latency analysis and system margins.
+	- Ability to translate product goals to feature level architectures and the ability to derive for each feature the end-to-end requirements (with rationale) and decompose them down to module/component specific requirements.
+	- Ability to work cross-functionally (Algorithms, Embedded, ML, Mechanical, Electrical, Optical, Human Factors, Vision science etc.) with stakeholders to define CV features, understand trades, sensitivities, risks and perform budgeting across full system.
+	- Ability to effectively communicate and align with peers while navigating complex trade-spaces and the ability to summarize learnings, take-aways and recommendations in a succinct way to executive leadership.
+	- Ideal candidate must have proven track record of having participated in the development of multiple consumer electronic products. Should have broad understanding of hardware and software technologies that are employed in low-power hand-held / wearable devices. Must be a self-starter who is highly-motivated and an organized thinker with excellent communication and presentation skills.
+	- BE + 15 yrs of relevant industry experience.
+	- Masters/PhD + 10yrs of relevant industry experience
++ skill set:
+	- Robotics Software Engineer, Autonomous Systems - SPG
+	- Apple SPG (Special Projects Group) is looking for talented robotics and software engineers to join our team to push the boundaries of autonomous planning algorithms (behavior, predictions, motion planning, and architecture).
+	- Background in any of the following areas: behavior planning/decision-making, predictions, machine learning, motion planning (sampling, search based planning, optimization), estimation, control, and/or high-performance real-time algorithms.
+	- Experience programming autonomous robots, modeling multi-agent systems, and developing algorithms for them.
+	- Strong C++ and/or Python development skills.
+	- Solid understanding of advanced algorithms and data structures.
+	- 2+ years of professional or equivalent experience.
+	- You must be hands-on, eager, curious and never satisfied with the status quo.
+	- You must love learning and being challenged.
+	- You will develop cutting edge robotics technology at the intersection of machine learning, AI, and classical robotics. This involves the design and implementation of algorithms that run on a robot in real-time in a safety critical application that involves autonomous interactions with the surrounding world in an uncontrolled environment. You will test and deploy your work in simulation and in the real world on state-of-the-art robotics hardware. You will contribute to the development of an ambitious and innovative projects as part of a dedicated team of world-class engineers.
+	- M.Sc., or Ph.D. in computer science, engineering, or equivalent professional experience.
+	- Designed one or more machine-learned approaches to solve a robotics problem.
+	- Experience with cloud-based tools to automate experiments and analysis at scale.
+	- Familiarity with real-time, multi-process, multi-threaded coding.
+	- Comfort using the command line in Linux.
+	- Experience with 3D geometric math.
+	- Comfortable with collaboration tools for programming
++ skill set:
+	- Data Collections Lead - SIML, ISE
+	- Would you like to help shape the next set of ML features of iPhone? Would you like to contribute to the field of generative AI? Want to contribute to transforming how people interact with AI technologies? 
+	- The System Intelligent and Machine Learning team is in charge of creating datasets that power many of Apple’s intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As part of the Data Collection team, you will be managing end-to-end data collection projects for a wide variety of features. Our data team is responsible for designing and building high quality datasets at scale. At the heart of machine learning, data defines how Apple features and products operate and what is the final user experience that will impact millions of our customers. This is an exciting time to join us: grow fast and have an impact on multiple key features on your first day at Apple!
+	- Excellent project management, communication, interpersonal, analytical, and organizational skills
+	- Passion for creating great products and understanding the challenges associated with building datasets for machine learning features; while addressing the challenges of inclusion, bias removal, and fairness.
+	- Ability to define/design/develop data collection efforts that focus on the end-to-end user experience, including anticipating potential failure modes, edge cases, and anomalies
+	- Capacity to multitask and manage several projects in parallel while meeting deadlines and providing access to clients and partners
+	- Problem solving & critical thinking capacities, with an eye for innovation and continuous optimization (improving the diversity and quality of assets, reducing time to delivery and cost)
+	- Ability to understand data needs and define concrete project deliverables
+	- Our SIML Data team focuses on data acquisition, data science, annotation, data QA and robustness analysis. We utilize generative AI tools to help generate and evaluate data. Each year, we power dozens of features and work closely with ML teams across the entire company. Apple's commitment to deliver incredible experiences to a global and diverse set of users with a full respect of their privacy leads our team to explore innovative data collection processes.
+	- In this position, you will be responsible for leading and managing data collection projects end-to-end and ensuring the quality of the data delivered to R&D. 
+	- Connect with R&D teams to understand expectations and define specs of data collection efforts, with a constant focus on fairness and on potential biases
+	- Co-define a data collection workflow with the partners, in accordance with Apple values
+	- Coordinate the efforts of internal teams (privacy, legal, procurement, security) and own the administrative setup
+	- Lead the data collection project, including working with internal and external teams
+	- Define and dynamically adapt the data collection methodology to foster efficient quality analysis and annotation
+	- Track quantities and quality delivered
+	- A strong understanding of applied machine learning concepts is desired
+	- Formal or informal experience working with generative AI tools (including personal projects) is desired
+	- Experience in data operations supporting R&D work related to generative AI is a strong plus
+	- Ability to maintain and develop relationships with multi-functional teams
++ skill set:
+	- Generative AI Applied Researcher - SIML, ISE
+	- Are you excited about Generative AI? We are looking for experts in this space to join our applied ML R&D team at Apple! You will be inventing and shipping the next generation of these core technologies with a focused team. Our purpose is to surprise and delight users and developers worldwide.
+	- The team comprises domain experts in Computer Vision & Natural Language Processing (NLP) who contribute to a variety of shipping workflows you may already regularly use, including: Photos Search, Curation, Memories, Intelligent Auto-crop, Visual Captioning for Accessibility, Federated Learning on visual content, Real-time Classification & Saliency in Camera, Semantic Segmentation in Camera, and several on- device feature extractors across the system. Further, several of our projects are surfaced to third party developers through Vision & CoreML. Shipping APIs include image tagging, image similarity, saliency estimation and prints for transfer learning. The team collaborates extensively with various teams across Apple in bringing experiences to life across our devices, services and 1st/3rd party APIs. 
+	- Selected references to our team’s work:
+	- https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon
+	- https://machinelearning.apple.com/research/on-device-scene-analysis
+	- https://machinelearning.apple.com/research/panoptic-segmentation
+	- 5+ years of industry experience with strong ML fundamentals
+	- Hands-on experience with building Deep Learning applications
+	- Proficiency in using ML toolkits, e.g., PyTorch
+	- Strong analytical and problem solving skills
+	- Strong programming skills in Python, C and C++
+	- You're aware of the challenges associated to the transition of a prototype into a final  product
+	- You're familiar with the challenges of developing algorithms that run efficiently on  resource constrained platforms
+	- You've demonstrated leadership in both applied research and development
+	- Excellent written and verbal communications skills, be comfortable presenting  research to large audiences, and have the ability to work hands-on in multi-functional teams
+	- We are looking for a candidate with a proven track record in applied ML research. Responsibilities in the role will include training large scale multimodal (vision-language) models on distributed backends, deployment of compact neural architectures such as transformers efficiently on device, and learning adaptive policies that can be personalized to the user in a privacy preserving manner. Ensuring quality in the field, with an emphasis on fairness and model robustness would constitute an important part of the role. You will be interacting very closely with a variety of ML researchers, software engineers, hardware & design teams cross functionally. The primary responsibilities associated with this position range from algorithm design and implementation, ability to integrate research into production frameworks, and collaborating closely with product teams before and after feature launch.
+	- M.S. or PhD in Electrical Engineering/Computer Science, or a related field (mathematics, physics or computer engineering), with a focus on computer vision and/or machine learning or comparable professional experience; or equivalent experience.
+	- Familiarity with Multi-modal ML, Graph ML and/or Reinforcement Learning (RL) in a distributed large-scale training environment is desirable.
+	- Experience in neural network deployment optimizations is desirable.
++ skill set:
+	- Software Engineer - Apple Vision Pro
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- Passionate about Spacial Computing
+	- Passionate about working with hardware architectures
+	- Great interest or background in Computer Vision and/or Machine Learning
+	- Solid fundamentals in Linear Algebra
+	- Strong proficiency in C/C++
+	- Performance and optimization oriented
+	- Self-motivated and great teammate
+	- VPG (Vision Product Group) is the group that is responsible for many of the key algorithms for Apple Vision Pro. We are looking for versatile engineers who are passionate about building products for millions of customers around the world. You’ll be working on cutting-edge technology and develop algorithms that enable a high-quality user experience across a range of tentpole use cases and applications. As a part of our team, you will closely collaborate with HW engineers (cameras, silicon, electrical engineering, product design) and other technology development software teams (computer graphics, video engineering, data generation/annotation, drivers/OS). You can make a difference by researching and prototyping novel deformable object tracking algorithms beyond the state of the art and/or by optimizing the performance of real-time algorithms running on Apple silicon.
+	- M.Sc. or B.Sc. degree in Computer Science or similar, alternatively a comparable industry career with a consistent track record of successful projects.
++ Familiarities with Knowledge Graph and Traversal Algorithms
++ skill set:
+	- Machine Learning Engineer — NLP
+	- Superior verbal and written communication and presentation skills, ability to convey rigorous mathematical concepts and considerations to non-experts
+	- Thorough understanding of common machine/deep learning algorithms and practical experience in one or more of the following areas: prompt-based learning, reinforcement learning, BERT, GPT, T5, transformers, conversational models, large-scale NLP model training and fine-tuning
+	- Working knowledge of distributed training and parallel computing on machine learning tools, such as AWS SageMaker
+	- Working knowledge of relational databases, including SQL, and large-scale distributed systems such as Hadoop and Spark
+	- Ability to implement data intensive pipelines and applications in a general programming language such as Python, Scala, Java or C++
+	- Ability to comprehend and debug complex systems integrations spanning toolchains and teams
+	- Ability to extract meaningful business insights from data and identify the stories behind the patterns
+	- Creativity to engineer novel features and signals, and to push beyond current tools and approaches
+	- Excellent verbal and written communication skills, in both Mandarin Chinese and English
+	- Engage with others to find opportunities, understand requirements, and translate those requirements into technical solutions 
+	- Design internal search and conversational system concerning business and sales topics
+	- Design machine learning approach, applying tried-and-true techniques or developing custom algorithms as needed by the business problem 
+	- Collaborate with data engineers and platform architects to implement robust production real-time and batch decisioning solutions 
+	- Ensure operational and business metric health by monitoring production decision points
+	- Investigate adversarial trends, identify behavior patterns, and respond with agile logic changes
+	- Communicate results of analyses to business partners and executives 
+	- Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team
+	- Ph.D. in Computer Science, Machine Learning, Statistics, Operations Research or related field; or 
+	- Ph.D. in Math, Engineering, Economics, or hard science with data science fellowship; or 
+	- M.S. in related field with 3+ years experience applying deep learning to real business problems
++ Deep technical knowledge in classic Computer Vision (pixel processing and geometry) or Machine Learning are a must. Bayesian filtering, Signal processing, Optics, Camera calibration and/or Mathematics expertise is desirable as well.
++ skill set:
+	- Algorithm & Performance Engineer - SPG
+	- The Apple Special Projects Group, working on autonomous systems, we are implementing highly complex algorithms. We are looking for a talented, dedicated and result oriented C++ Software Engineer to help improve, expand and further optimize our stack.
+	- You will be part of a world class team with a highly diverse skillsets. Implementing complex numerical algorithms in a well designed, testable manner is as much part of an Algorithm & Performance Engineer’s day-to-day as optimizing cache coherency of existing implementations, applying SIMD optimization or reducing memory footprint of modules. You will be addressing a vast variety of challenges from implementing GPU kernels over deploying and optimizing machine-learned models all the way to architecting, implementing and testing a complex software stack.
+	- 3+ years of professional software development experience.
+	- Expert knowledge in Modern C++.
+	- Experience in either ComputerVision, High Performance Computing or Numerical Algorithms.
+	- Familiarity with SIMD, concurrency and/or GPU kernels.
+	- Passion for optimizations and efficient implementations.
+	- High software engineering standards: desire to write clean, well-tested and well-structured code.
+	- Excellent communication and presentation skills.
+	- Track record of collaborating across teams, gathering requirements and delivering results.
+	- Efficient, correct, clean C++ implementation of complex numerical algorithms using efficient data structures.
+	- Low-level optimization, for example using SIMD, concurrency, cache optimizations, GPU kernels
+	- Design, implementation, testing and maintenance of a complex software stack.
+	- Implement visualization tooling to enable insights into complex algorithms.
+	- Collaborate with testing and verification teams to ensure correctness and reliability of our stack.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4312,6 +4506,71 @@ Skill sets for application engineers of different EDA products:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4340,7 +4599,23 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Familiar with various GPGPU and AI chip architectures, and have a deep understanding of deep learning applications (such as CV/NLP/ASR/RecSys, etc.);
 	- Familiar with mainstream artificial intelligence frameworks in the industry, and understand the requirements for high-performance GPGPU deployment in data centers;
 + skill set:
-	- BLAH.
+	- Perception System Engineer - SPG
+	- As Perception System Engineer on a revolutionary Apple project, you will be working on an autonomous system built on state of the art sensing technologies and ground breaking machine learning algorithms. The Perception team provides sense capabilities such as detection, classification, tracking, and observed maps in complex environments using a range of sensing modalities. You will play a key role in measuring end-to-end system performance, identifying key issues and provide detailed feedback for performance improvement. You will engage cross functionally with a wider range of experts to build a robust and scalable triage and measurement system. You will use statistical modeling and develop expertise in Perception system performance trends, forecasting methodologies, and synthesize key findings for leadership reviews.
+	- 5+ years of experience in testing, QA or algorithm development for Autonomous Perception systems
+	- A deep understanding of perception functions its impact on motion planning
+	- Knowledge of machine learning models and deep learning fundamentals
+	- A background in statistical analysis, system-level triage of complex systems
+	- Proficient in data analysis, scripting and automation using python
+	- Familiarity with data products from optical sensors like lidar and camera is desired
+	- You will be developing and maintaining a Perception performance measurement pipeline that provides continuous feedback to developers for performance improvement and debugging. The work involves significant cross functional interaction with system test engineers, model, and tooling developers.
+	- Defining procedure and tooling requirements for a triage and test pipeline that identifies, classifies, and measures perception failure rates.
+	- Engaging with relevant partners to ensure timely implementation and delivery. 
+	- Synthesize failure rate data to derive meaningful trends and sensitivities, and track measured improvements and regressions over time. 
+	- Create and own dashboards for leadership reviews and develop expertise in observed system performance. 
+	- Root causing and failure analyses in partnership with deep learning model developers will be essential to be effective in this role. 
+	- You will also have opportunities to develop statistical models to forecast full system performance using developer metrics, critical scenario testing, and past performance.
+	- Masters degree in engineering, data science, statistics, or mathematics
+	- 5+ years of relevant Industry experience in robotics or autonomous systems
 + skill set:
 	- BLAH.
 + skill set:
