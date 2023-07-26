@@ -581,6 +581,7 @@ Notes on cloud computing:
 + AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 + Expertise with AWS services such as EC2, IAM, S3, etc.
 + AWS services: EC2, Auto Scaling, Lambda, RDS
++ If you have a solid background in software engineering and are familiar with Cloud Services (e.g. AWS, Google Cloud, or others), Node.js, Terraform, or Kubernetes we would like to meet you.
 + skill set:
 	- BLAH.
 + skill set:

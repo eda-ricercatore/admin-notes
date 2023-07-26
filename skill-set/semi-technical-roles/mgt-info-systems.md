@@ -238,6 +238,50 @@ Skill set for management of information systems, MIS:
 + Experience wrangling very large datasets by writing and maintaining data processing pipelines with Hadoop, Spark, BigQuery, Redshift, or similar
 + Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
 + all types of data stores - NoSQL, wide column, Graph, triplestores
++ Hands-on experience with NoSql databases and Big Data processing system
++ Familiarity with a range of database solutions, e.g. Redis, NoSQL, PostgreSQL and general storage solutions like S3 and R2
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:

@@ -4473,9 +4473,39 @@ Skill sets for application engineers of different EDA products:
 	- Implement visualization tooling to enable insights into complex algorithms.
 	- Collaborate with testing and verification teams to ensure correctness and reliability of our stack.
 + skill set:
-	- BLAH.
+	- AIML - Engineering Manager, Machine Learning Data Platform
+	- The Machine Learning Data Platform group builds cloud-native systems that enable customers across all Apple to design, build and innovate with ML-driven product features rapidly and at scale. These systems provide cloud-native solutions for data exploration, data pre-processing, ETL, ML fine-tuning, and large-scale batch inference for ML models including LLMs. We are looking for an experienced leader who wants to bring their passion for infrastructure & distributed systems to build world-class data platforms/products at a very large scale across cloud environments.
+	- 5+ years of experience building, influencing, and growing successful infrastructure teams that consist of senior software engineers and first-line managers.
+	- Strong experience in strategizing, planning, and delivering very large-scale cloud-native distributed systems and data infrastructure.
+	- Experience managing expectations and relationships with multiple collaborators and project teams across various functional areas.
+	- Excellent communication and leadership skills. Ability to influence across the organization and customer leadership.
+	- Demonstrated ability to partner with recruiting to grow technical teams.
+	- Experience with building production Machine Learning inference pipelines is a plus.
+	- Experience building GPU cost/performance observability systems and optimizing them for cost and speed is a plus
+	- Our platform is built using a variety of systems and services, from bare metal to managed infrastructure services, and everything in between. We use existing and open-source systems when possible, but do not shy away from building new products ourselves. As the Engineering Leader, you will work closely with customers, and cross-functional teams and lead the planning, execution, and success of technical projects. You also take full ownership of the strategic direction of products and solutions and influence customers, executives, and tour teams. This role requires technical expertise, experience in driving strategy, influence across the leadership stack, growing and mentoring senior engineers and first-time managers, relationship management, and multi-functional coordination.
+	- Work closely with customers, cross-functional teams and lead the planning, execution, and success of technical projects. 
+	- Lead, mentor, and grow a team of senior software engineers and first-line managers
+	- Foster a healthy and collaborative culture as well as a high-output group 
+	- Strategize, plan, and execute technical and cross-functional projects and provide leadership in an innovative and fast-paced environment 
+	- Measure and improve the reliability and security of data infrastructure systems
 + skill set:
-	- BLAH.
+	- State Estimation Engineer — World Representation / Localization
+	- Apple is looking for passionate, talented, and results-oriented robotics / state-estimation engineers to join our team and work on exciting technologies for autonomous systems. In this position, you will have the opportunity to work with a cross-functional team on innovative hardware/software technologies, enabled by the systems you build.
+	- Joining our team, you will get to work with a fantastic group of talented and dedicated engineers and researchers. We hope you’re excited about the values that drive us: 
+		* Passion for the mission:  we’re here to make something great. We take on whatever work is right for the mission and strive for the best possible results. 
+		* Humility:  the right answer is more important than being right. We search for solutions as a team and value clear-eyed feedback. 
+		* Lean habits:  you can’t grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make great decisions.
+	- Experience developing and integrating state estimation algorithms for localization, calibration, mapping, or SLAM applications in robotic systems.
+	- Experience developing algorithms which fuse many sensor modalities is a plus.
+	- Very strong background in C++ development for Linux. Ability to understand and prototype in a python codebase is a plus.
+	- Excellent communication: strong interpersonal, verbal and written skills.
+	- Experience with machine learning and recent literature is a plus.
+	- Develop, deploy, and scale both online and offline state-estimation algorithms for real-world robotic systems.
+	- Build software, tools, and processes that accelerate your rate of experimentation, monitor performance, and inform what to try next.
+	- Work with large quantities of sensor data on challenging real-world problems.
+	- Collaborate with the team to deploy your work in a mission critical environment.
+	- Masters or PhD in Computer Science, Robotics, Machine Learning, Engineering or equivalent professional experience.
+	- The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
 	- BLAH.
 + skill set:
@@ -6210,14 +6240,54 @@ Sets of skills for generic data science roles, or data scientist positions:
 	- Jupyter Notebooks
 	- Tableau
 	- Looker Studio
-
-
-
-
-
-
-
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -6257,6 +6327,83 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- Relish delivering answers and metrics and seeing change affected by your work
 	- Can take high level directives and take them through from research project, proof of concept, to applied & implemented feature.
 	- Are constantly looking for problems that could be solved with liberal application of data
++ skill set:
+	- AIML - Head of Data Engineering, Data & Machine Learning Innovation
+	- Are you passionate about data, data quality, efficiency, and scale?  Would you like to play a critical part in accelerating data-informed product development to drive innovations and amazing user experiences?
+	- As the Head of Data Engineering, you and your team will be responsible for the crucial role of designing, operating, and supporting the increasingly complex environments that power modern data analytics and machine learning use cases for Apple products such as Siri, Dictation, Translations, Apple Search and others.
+	- You will partner closely with cross-functional teams and be responsible for the planning, execution, and success of technical projects as well as help drive scalable practices to accelerate the evolution of our products. You will lead existing data resources, build new datasets and data pipelines, and implement new technologies and tools to enable rigorous scalable science and analytics, and data-informed product development. Your team and vision will enable data to inform product engineering teams at scale, with the ultimate purpose of improving the product experience for Apple users across hardware, software, and services, while preserving Apple’s privacy values. You will drive a strong culture of data excellence!
+	- 10 years in a managerial role, growing and scaling organizations
+	- Experience in multiple large-scale data processing systems, data telemetry, data-driven performance and reliability improvement across platforms and products, the data foundation for advanced machine learning problems, and data/analytics.
+	- Demonstrated passion and leadership in data engineering, data-informed product development, building and shaping data culture
+	- Proven ability to proactively drive a data engineering agenda and prioritize work based on impact and strategic investment
+	- Experience with modern data engineering stack, processing technologies, data, and analytic pipelines, including batch (Spark, others), streaming systems (Flink, etc.), and scalable query engines (e.g. Trino, Druid, Pinot, etc.)
+	- Solid understanding of both relational and NoSQL database technologies and experience in engineering datasets and metrics out of massive and complex data
+	- Expertise in data engineering partnering with analytics and ML teams (comprised of data scientists and statisticians) to enable horizontal and vertical use cases
+	- Demonstrated ability to establish strong partnerships and drive processes across organizations, e.g. to manage the creation, processing, and use of instrumentation to enable using data impactfully in developing products
+	- Outstanding communication and presentation skills, written and verbal, to all levels of an organization
+	- Proactively drive the vision for Data Warehouse, Data Platform, Analytics, and ML analytics to accelerate the building and improvement of our products, and define and execute a plan to achieve that vision.
+	- Grow and scale a large, established data engineering team and build strong relationships with partner teams
+	- Drive the design, building, and launching of new data models and data pipelines in production
+	- Stay focused and prioritize a heavy workload while achieving exceptional quality and driving long-term vision
+	- Bachelors or Master in CS, Engineering, Math, Statistics, or a related field, or equivalent practical experience in engineering
++ skill set:
+	- AIML - Machine Learning Engineer - Machine Learning Platform Technology (MLPT)
+	- Want to build the training platform that engineers rely on to develop next-generation Apple products and services?  As a machine learning engineer on our team, you will create software systems and algorithms to enable performant, scalable training for Apple's AI-driven experiences.  Join our team of highly skilled, impact-focused engineers!  This role also includes opportunities to open source your work and publish at top ML conferences.
+	- Strong Python programming skills
+	- Understanding of data structures, software design principles, and algorithms
+	- Experience with deep learning frameworks, such as PyTorch, JAX, or TensorFlow
+	- Experience developing model parallel and data parallel training solutions and other training optimizations
+	- Experience building large-scale deep learning infrastructure or platforms for distributed model training
+	- Experience with parallel training libraries such as torch.distributed, DeepSpeed, etc.
+	- We're looking for strong machine learning engineers to help build next-generation tools for training deep learning models at scale. You'll be part of a small team of training technology experts, focusing on training speed and scalability. We're looking for candidates with polished coding skills as well as passion for machine learning and computational science. 
+	- Design and develop components for our centralized, scalable ML platform. Help push the limits of existing solutions for large-scale training. Develop novel techniques to circumvent the limitations of these solutions. Deploy your techniques on high-impact tasks from our partners across the company building new Apple products and services. 
+	- We encourage publishing novel work at top ML conferences such as MLSys or NeurIPS and releasing contributions as open source. 
+	- In exchange, we offer a respectful work environment, flexible responsibilities, and access to world-class experts and growth opportunities—all at one of the best companies in the world.
+	- PhD or Masters in the area of Computer Science or equivalent years of industry experience
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
