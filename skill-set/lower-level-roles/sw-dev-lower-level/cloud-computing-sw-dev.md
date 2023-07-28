@@ -941,7 +941,48 @@ Notes about Software as a Service, SaaS:
 	- Curious about learning technology and problem solving
 	- A 2+ years of SaaS implementation experience is strongly preferred
 + skill set:
-	- BLAH.
+	- Software Engineer - Cloud Computing Service
+	- QuEra Computing is seeking a methodical and creative Software Engineer to collaborate on the design, build, and evolution of the system that is central to realizing the first neutral-atom quantum computer to be accessible via the public cloud.
+	- QuEra Computing is a world-class team of physicists, engineers, and entrepreneurs focused on the challenges of developing, launching, operating and evolving a novel cloud-accessible  quantum computing service.
+	- We are committed to harnessing the unique programmability and scaling advantages of the neutral-atom platform to achieve useful quantum advantage across a range of disciplines, applications, and customers.
+	- To bring this new technology and programming model from the lab to the the world requires us to grow the depth and breadth of our collective skills and expertise.
+	- You are not satisfied with mediocre cookie-cutter approaches. You thrive when challenged to step outside the familiar in order to design solutions that are tailored to user needs.
+	- Your experience with event-based application models and event brokers affords you insight into how those models and technologies offer distinct architectural advantages, how they are best applied, and, just as important, when they are not good fits.
+	- You are eager to practice your passion for domain-driven design and BDD by collaborating on an interdisciplinary team as we iterate on the solutions to customer problems that will benefit from the advantages of the neutral-atom quantum computing platform.
+	- Your approach to writing code is informed by the DDD patterns that pertain to the relationships between bounded contexts as well as the insights you’ve gained in practicing design for testability.
+	- You demonstrate the ethos of continuous improvement in your eagerness to discuss and apply lessons learned from successes and failures, past and present.
+	- Design and Programming
+		* functional programming: first-class functions, immutability, algebraic data types
+		* TDD
+		* BDD
+		* DDD
+			+ Bounded Contexts with Intention-Revealing Interfaces
+			+ Shared Kernel, Partnership, Customer-Supplier, Anti-Corruption Layer, Separate Ways
+			+ Ubiquitous Language
+	- Application architecture
+		* event stream processing
+		* microservices
+		* cluster databases
+		* REST API
+		* significant use of >2 AWS services in cloud apps
+	- System architecture
+		* applications that span cloud and on-prem
+	- Security
+		* role-based access control
+		* encryption of data in flight and at rest
+	- Languages
+		* Kotlin or other language with strong functional constructs
+		* Java interop
+		* Julia
+		* Python
+	- Process
+		* low-ceremony agile
+		* CI
+		* high-cadence delivery
+	- For consideration, please submit your resume with a cover letter that highlights specific examples from your experience:
+		* How you apply DDD, BDD, and design for testability to collaborate with colleagues across diverse disciplines to design, implement, and evolve high-quality custom software that solves specific customer problems.
+		* Your use of event-brokers, which programming languages you used, and how that has informed your approach to design, modeling, and implementation of custom software systems.
+		* How you have taken on the challenges inherent in a commitment to continuous improvement.
 + skill set:
 	- BLAH.
 + skill set:

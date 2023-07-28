@@ -271,7 +271,7 @@ Skills for EDA software development, and other high-end software development:
 		* Knowledge of parallelism in distributed memory:
 			+ Intel MPI
 			+ Apache Spark
-			+ Dask
+			+ ***Dask***
 + workflow management:
 	- goals/tasks:
 		* for data engineering pipelines
@@ -3129,7 +3129,7 @@ Skill sets for application engineers of different EDA products:
 	- other data analytics tools:
 		* Baremetrics
 		* Chartmogul
-		* Dask
+		* ***Dask***
 			+ "flexible open-source Python library for parallel computing maintained by OSS contributors across dozens of companies"
 			+ Scale the Python tools you love
 			+ https://www.dask.org
@@ -3438,6 +3438,8 @@ Skill sets for application engineers of different EDA products:
 							- ***graph database, GDB***
 								* graph database processing is different from graph computing
 									+ a separate component for graph databases is needed for graph computing to implement graph algorithms
+								* examples:
+									+ GraphQL
 						+ ***key-value database, key-value store***
 							- associative array, map, symbol, dictionary
 							- hash table, dictionary
@@ -3460,6 +3462,7 @@ Skill sets for application engineers of different EDA products:
 							- object-relational impedance mismatch, can occur when object-oriented software interact with RDBMS
 							- includes:
 								* terminology-oriented database, or terminology-oriented database management system, or terminology-oriented DBMS
+							- or, Object Relational Mapping (ORM)
 					* blockchain-based database
 						+ combines traditional database with distributed database
 						+ supported by multiple layers of blockchains
@@ -4751,13 +4754,87 @@ Skill sets for application engineers of different EDA products:
 	- Familiarity with large-scale data processing and distributed systems.
 	- Microservice, Docker, Kubernetes, REST API, AWS
 + skill set:
-	- BLAH.
+	- Research Scientist / Research Engineer
+	- MosaicML is a deep learning startup with a mission to make ML training more efficient for everyone through fundamental innovations in algorithms, systems, and platforms. We believe that large scale training should be available beyond the well-resourced companies, and bridging the gap between research and industry is core to our success. Our products will enable our customers to train the best neural networks efficiently as possible within given time, cost, or other resource constraints – and to do so with a great user experience.
+	- Develop methods for efficient neural network training. You will survey ideas in the literature and develop ideas of your own to change the way neural networks are trained to improve efficiency. This involves exacting scientific inquiry, rigorous empirical analysis of large-scale experiments, and building high-quality research artifacts.
+	- Systematize knowledge and adjudicate scientific truth. At MosaicML, we are focused on transforming scientific knowledge into practical efficiency improvements. To do so, we navigate the messy machine learning literature, determine what holds up under scrutiny, and use that knowledge to build better models.
+	- Advance the frontier of deep learning. You will drive ambitious research projects that push the limits of existing technology and explore new approaches that go beyond the state of the art.
+	- Love our customers. Our goal is to make our customers successful when they train large deep learning models. We seek to encode our scientific expertise in our tools for the benefit of our customers. We love our customers, and we expect you to love them too!
+	- Experience training large models. We're looking to hire researcher scientists and research engineers who have experience training modern neural networks for computer vision, natural language processing, and multimodal settings. Ideally, you will have experience training at large scales (100M+ parameters, and ideally 1B+ parameters) and conducting multi-node training. 
+	- Extensive experience with NLP for deep learning. We are looking to hire research scientists who specialize in natural language processing.
+	- Experience with data preparation and data quality for deep learning. We are looking to hire research scientists who have experience cleaning and curating large-scale data corpora (1B-100B examples) and using those corpora for deep learning.
+	- Experience with deep generative model evaluation and improvement. We are looking to hire research scientists with experience evaluating generative models and using those insights to improve the models. 
+	- A PhD is NOT required for this role. We are open to hiring candidates with bachelor's and master's degrees and to new graduates. We are open to hiring candidates who are currently in "research engineer" roles at other companies.
+	- Keeping up to date with the research literature and thinking beyond the current state of the art.
+	- Developing and implementing methods that improve the efficiency and efficacy of deep learning.
+	- Rigorously evaluating these methods and communicating the results of your findings.
+	- Proficiency with the fundamentals of deep learning.
+	- Proficient software engineering skills and proficiency with PyTorch.
+	- Knowledge of the systems aspects of how neural networks train and the resources used in the process of doing so.
+	- Research experience in deep learning.
+	- US work authorization required
+	- Salary Range: $145K - $295K
+	- Also includes equity (stock options) and benefits
 + skill set:
-	- BLAH.
+	- Principal Software Engineer
+	- MosaicML is hiring a Principal Software Engineer to play a key role in building our product and in developing our team of software engineers.
+	- Serve as a technical lead, overseeing and supervising projects and engineers on the team.
+	- Play a leading hands-on role in the design and implementation of ML infrastructure and cloud platform software technologies
+	- Drive our technology vision and roadmap
+	- Establish software development best practices, and lead by example in applying them
+	- Develop our engineering organization and culture through hiring, mentoring, and feedback.
+	- ***8+ years of hands-on programming experience with at least one modern language such as Python, Go, or C++***
+	- 8+ years of experience contributing to the architecture and design of large scale distributed systems and/or ML systems and tools
+	- Strong sense of software design and usability of ML systems
+	- Experience applying software engineering methodologies and best practices including coding standards, code reviews, build processes, testing, and security.
+	- Prior experience in developing public cloud services or open source ML software is an advantage.
+	- We value candidates who are curious about all parts of the company's success and are willing to learn new skills and technologies along the way.
+	- Salary Range: $200K - $300K
 + skill set:
-	- BLAH.
+	- (Senior) Julia machine learning specialist
+	- You love applying mathematical models to real data? You are expert about how to automatically learn from data?
+	- What we offer
+		* you will be part of an inspiring team of Julia professionals
+		* every Friday is time for knowledge sharing, SDGs or generally trying out new product ideas
+		* an open, reflective, and caring environment where you can feel like among friends
+		* fair salary
+	- What you will do
+		* understand the kind of machine learning the customer needs
+		* communicate with the customer
+		* implement the models
+		* connect the machine learning part with given data sources and sinks
+		* build dashboard solutions
+		* present results to the customer
+		* give workshops and trainings about Julia, data science and machine learning
+		* use your Fridays to empower SDGs (Sustainable Development Goals) with Julia
+	- What you bring
+		* completed Bachelor or Master or PhD in data science, statistics, computer science, mathematics, physics or a comparable education
+		* programming experience in Julia
+		* knowledge about Databases and SQL
+		* expertise in two fields of machine learning
+		* generic strategies for problem solving
+		* good soft skills
+		* enthusiasm about Julia
 + skill set:
-	- BLAH.
+	- (Senior) Julia machine learning engineer
+	- You love to see machine learning models in production? You care more about the infrastructure than about the actual model itself?
+	- What you will do
+		* understand the production demands of the customer
+		* communicate with the customer
+		* setup appropriate architectures (e.g. for DevOps & MLOps)
+		* setup monitoring and alerting
+		* automatize training and evaluation of machine learning models
+		* present results to the customer
+		* give workshops and trainings about Julia and MLOps
+		* use your Fridays to empower SDGs (Sustainable Development Goals) with Julia
+	- What you bring
+		* completed Bachelor or Master or PhD in data science, statistics, computer science, mathematics, physics or a comparable education
+		* experience with DevOps & MLOps
+		* expertise with docker and kubernetes
+		* cloud knowledge, including infrastructure-as-code
+		* generic strategies for problem solving
+		* good soft skills
+		* enthusiasm about Julia
 + skill set:
 	- BLAH.
 + skill set:
@@ -7709,24 +7786,24 @@ Skill sets for DataOps:
 	- Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS.
 	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
 	- Contribute to nebari (https://nebari.dev), an open source Data Science platform built on JupyterHub, Dask, and other tools from the PyData ecosystem.
-Participate in upstream open source communities we rely on (such as JupyterHub, BinderHub, Dask, etc.) in partnership with the established leaders of those communities.
-Deploy and ensure the reliable operation of Quansight’s and clients’ infrastructure.
-Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team’s impact.
-Experience using some form of infrastructure-as-code tooling (i.e., Ansible, Salt, Puppet, Terraform, etc.)
-Experience with at least one major cloud platform (AWS, Azure, GCP)
-Experience developing tools in a general purpose programming language (eg. Python)..
-Experience with Continuous Integration and Continuous Delivery services (e.g., Circle CI, GitHub Actions)
-Familiarity with software engineering best practices – including unit tests, code review, version control, production monitoring, etc.
-Experience deploying and developing with Linux container-based technologies, such as Docker and Kubernetes.
-Comfortable working independently and reaching out for feedback and support as needed.
-Experience collaborating and coordinating work via online platforms, such as GitHub, GitLab, or BitBucket, and distributed revision control.
-Ability to provide and constructively receive feedback.
-While this is a remote position, we are looking for candidates with significant time overlap with US Central and Eastern time zones due to the location of many of our infrastructure team members and collaborators
-Experience working on geographically distributed open-source projects.
-Exposure to the Python Data Science stack - Pandas, Numpy, Dask, etc.
-Experience with the Jupyter ecosystem and other tools for interactive computing.
-Experience building and maintaining continuous deployment pipelines.
-Experience with common data science methods, platforms, workflows, and infrastructures; with data management systems, practices, and standards; and the capacity to gain familiarity with new related topics.
+	- Participate in upstream open source communities we rely on (such as JupyterHub, BinderHub, Dask, etc.) in partnership with the established leaders of those communities.
+	- Deploy and ensure the reliable operation of Quansight’s and clients’ infrastructure.
+	- Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team’s impact.
+	- ***Experience using some form of infrastructure-as-code tooling (i.e., Ansible, Salt, Puppet, Terraform, etc.)***
+	- Experience with at least one major cloud platform (AWS, Azure, GCP)
+	- Experience developing tools in a general purpose programming language (eg. Python)..
+	- ***Experience with Continuous Integration and Continuous Delivery services (e.g., Circle CI, GitHub Actions)***
+	- Familiarity with software engineering best practices – including unit tests, code review, version control, production monitoring, etc.
+	- ***Experience deploying and developing with Linux container-based technologies, such as Docker and Kubernetes.***
+	- Comfortable working independently and reaching out for feedback and support as needed.
+	- Experience collaborating and coordinating work via online platforms, such as GitHub, GitLab, or BitBucket, and distributed revision control.
+	- Ability to provide and constructively receive feedback.
+	- While this is a remote position, we are looking for candidates with significant time overlap with US Central and Eastern time zones due to the location of many of our infrastructure team members and collaborators
+	- Experience working on geographically distributed open-source projects.
+	- ***Exposure to the Python Data Science stack - Pandas, Numpy, Dask, etc.***
+	- Experience with the Jupyter ecosystem and other tools for interactive computing.
+	- Experience building and maintaining continuous deployment pipelines.
+	- ***Experience with common data science methods, platforms, workflows, and infrastructures; with data management systems, practices, and standards; and the capacity to gain familiarity with new related topics.***
 
 
 
