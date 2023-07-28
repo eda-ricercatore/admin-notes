@@ -3129,24 +3129,46 @@ Skill sets for application engineers of different EDA products:
 	- other data analytics tools:
 		* Baremetrics
 		* Chartmogul
+		* Dask
+			+ "flexible open-source Python library for parallel computing maintained by OSS contributors across dozens of companies"
+			+ Scale the Python tools you love
+			+ https://www.dask.org
+		* Databricks
+		* Gephi
+			+ for ***graph visualization***
 		* Google Analytics
 		* Google Data Studio
 		* Heap Analytics
 		* Looker
 		* Mode Analytics
+		* Noteable
 		* Periscope
 		* Tableau
 			+ alternatives include:
 				- Apache Superset
 				- Business Intelligence and Reporting Tools, BIRT
+				- Domo
+				- GoodData
 				- Grafana
 				- Knime Analytics Platform
+				- Looker
 				- Metabase
+				- Microsoft Power BI???
+				- Noteable
+				- Oracle Analytics Cloud
 				- Pentaho Community Edition
 				- Plotly-Dash
+				- Qlik Sense
+				- QlikView
 				- RAWGraphs
 				- Redash
+				- Retool
+				- Sisense
 				- SpagoBI
+				- Talend
+				- ThoughtSpot
+				- TIBCO Software
+				- Trevor.io
 	- for Elasticsearch dashboards
 		* Kibana, for data visualization
 			+ substitute is: ***Opensearch Dashboards, for Opensearch***
