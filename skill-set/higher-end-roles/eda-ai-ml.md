@@ -3136,6 +3136,17 @@ Skill sets for application engineers of different EDA products:
 		* Mode Analytics
 		* Periscope
 		* Tableau
+			+ alternatives include:
+				- Apache Superset
+				- Business Intelligence and Reporting Tools, BIRT
+				- Grafana
+				- Knime Analytics Platform
+				- Metabase
+				- Pentaho Community Edition
+				- Plotly-Dash
+				- RAWGraphs
+				- Redash
+				- SpagoBI
 	- for Elasticsearch dashboards
 		* Kibana, for data visualization
 			+ substitute is: ***Opensearch Dashboards, for Opensearch***
@@ -4693,9 +4704,28 @@ Skill sets for application engineers of different EDA products:
 	- Basic understanding of Mandarin
 + skill set:
 	- Video Processing Algorithm Engineer
-	- 
+	- Conduct research on image/video processing algorithms. Conduct performance evaluations on image/video processing algorithms. Leverage signal processing, machine learning and deep learning techniques to solve computer vision problems. Possess strong skills in the areas of development and real-time implementation of video processing system. Analyze factors that impact algorithm runtime on various platforms and come up with solutions for real-time implementation without sacrificing algorithm performance. Analyses at both algorithm level and coding level (x86/x64/Arm neon assembly optimization, data structure optimization, multiple thread, GPU acceleration, etc.) are conducted to achieve the goal. Develop and prototype innovative algorithms in Zoom’s video processing pipeline. Develop a deep understanding of Zoom’s video processing architecture and develop new features on top. Design new video features to tackle new and existing problems on Windows, macOS, IOS, Android and Linux systems. Perform feasibility analysis and validation, develop corresponding demos and cooperate with team members for feature deployment on various platforms. 
+	- Master’s degree in Electrical/Computer Engineering, Computer Science, a related field, or foreign equivalent and 1 year of post-baccalaureate experience in job offered or related. Applicants must have 1 year of experience with the following (1) C++/C and Python programming skills to develop computer vision/video processing features; (2) deep learning frameworks including TensorFlow, PyTorch, Keras, and Caffe; (3) video/image processing including semantic segmentation, object detection, object tracking, and image enhancement (traditional method or deep learning method); (4) Convolutional Neural Networks or (CNN) structure optimization and acceleration; and (5) project development skills including build and release, quality assessment, third party SDKs integration. Telecommuting Permitted.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer
+	- You will be part of a team whose focus is to solve cutting edge AI problems and deploying models that constantly advance the state-of-the-art. You will be working across various Natural Language Processing (NLP) areas like summarization, topic segmentation, language modeling, coreference resolution and other interesting challenges that are challenging at Zoom's scale.
+	- A person in this role is expected to able to carry out independent research without much supervision, collaborate with other researchers on larger scale projects, and provide directions to junior engineers on their research/engineering tasks.
+	- Build and scale Machine Learning (ML) services which enable Zoom’s products.
+	- Research, build and deploy state-of-the-art Machine Learning models for Natural Language.  
+	- Processing use cases – mostly in the conversational domain.
+	- Take ML models from research all the way to production.
+	- Integrate and support the ML services with product and operations teams.
+	- PhD degree in Computer Science, Machine Learning, or related degree, or Masters with 3+ years of relevant experience
+	- Strong expertise in NLP
+	- Experience with one or more of the following: text summarization, natural language understanding, natural language generation, conversational AI, and multimodal AI modeling
+	- Experience with deep learning modeling
+	- Experience in machine learning toolkits (TensorFlow, PyTorch, Scikit, etc.)
+	- Experience with large-scale data processing.
+	- Strong coding skills in Python
+	- Experience in distributed training and performance optimization on GPU’s
+	- Experience working on multi-modal ML
+	- Familiarity with large-scale data processing and distributed systems.
+	- Microservice, Docker, Kubernetes, REST API, AWS
 + skill set:
 	- BLAH.
 + skill set:
@@ -6523,7 +6553,19 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- Stay focused and prioritize a heavy workload while achieving exceptional quality and driving long-term vision
 	- Bachelors or Master in CS, Engineering, Math, Statistics, or a related field, or equivalent practical experience in engineering
 + skill set:
-	- BLAH.
+	- The FSQ BI app manager will lead a small team of Backend and Frontend engineers to build and develop the FSQ BI application. The candidate should have a relevant background in building analytic dashboard products, with an understanding of basic SQL, charts, and maps.
+	- Manage, lead, and coach a team of backend and frontend engineers to develop the FSQ business intelligence application
+	- Own the team's technical roadmap and direction, working closely with Product Management, Program Management, Client Success, Engineering, and stakeholders to achieve company goals
+	- Lead the development of a scalable and robust application stack for delivering business intelligence dashboards
+	- Contribute hands-on engineering solutions as needed
+	- Partner with engineering, product teams, and department stakeholders to drive forward broader engineering and company initiatives
+	- Recruit talent to grow the team in line with Foursquare company growth and priorities
+	- Proven experience with business intelligence application development, and building data analytic products
+	- In-depth knowledge of data analytic concepts, tools, and methodologies
+	- Hands-on experience with data analytics tools (e.g., Tableau, Power BI, SQL, Python, etc.)
+	- Familiarity with data modeling, ETL processes, and data warehousing techniques
+	- Knowledge of data visualization, charts, and maps
+	- Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and data warehouses (e.g., BigQuery, Snowflake)
 + skill set:
 	- BLAH.
 + skill set:
@@ -7441,9 +7483,52 @@ They support databases for:
 	- Experience in best practices in table partitioning/data sharding strategies and query optimization
 	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $148,800 – $178,560. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
 + skill set:
-	- BLAH.
+	- Foursquare’s flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK); data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Studio).
+	- Foursquare’s Marketers Engineering team writes and operates the software which produces core data sets for our Marketers suite of products. These petabyte-scale pipelines process geospatial data for the purposes of marketing use cases, such as ad targeting and attribution. It’s critical to this team’s success that we have rich data sets to build our applications on top of, and this data is kept fresh, easy to explore, and simple to make changes. The engineers on this team work closely with application engineers to prove out variant approaches and introduce new functionality.
+	- In the Data Software Engineer role, you will ship products with high visibility and strategic importance to Foursquare and contribute directly to the revenue. Our pipelines are written in a variety of programming languages and deployed to multiple orchestration platforms. The main technologies we work with are Spark, Amazon EMR, Ruby, Java, and Apache Airflow.
+	- Write and operate the data pipelines which produce Foursquare’s core data sets for our Marketers suite of products – Attribution and Targeting.
+	- Document the expected and actual behavior of these pipelines, along with expectations for inputs and outputs.
+	- Monitor data quality and freshness, with a focus on proactively evaluating the business impact of changes. Report regularly on the state of the data sets and the software which produces them.
+	- Maintain a prioritized list of data questions and bugs which require further investigation. Escalate as needed to call attention to problems with the input data.
+	- Evaluate new sources of data, and build new pipelines that combine our data in creative ways that drive customer value.
+	- Participate in on-call rotation duties to ensure that data is correct and produced on-time, and to restore service when the pipelines are experiencing an outage.
+	- 2-4 years of software development experience.
+	- Professional experience with at least one of Hadoop MapReduce and/or Spark data processing pipelines.
+	- Strong algorithms and data structures knowledge.
+	- Professional experience scripting with the Unix/Linux command line or Python.
+	- Experience with cloud computing service providers, such as AWS.
+	- Experience with ***containerization technologies, such as Docker, Mesos or Kubernetes***.
+	- Excellent written communication skills.
+	- ***Your own unique talents! If you don’t meet 100% of the qualifications outlined above, we encourage and welcome you to still apply!***
+	- Experience with CI/CD systems such as Jenkins, Travis, TeamCity, and CircleCI.
+	- Experience at marketing or ad-tech data companies: RTB / real-time bidding. DSP / demand-side platform.
+	- Experience with geospatial data processing.
 + skill set:
-	- BLAH.
+	- Foursquare’s flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK);  data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Unfolded Studio).
+	- Our Data Platform team provides the infrastructure, tools, libraries, and APIs that power our data processing infrastructure. The goal of the team is to make engineers at Foursquare more effective and happier by offloading common problems from the product and content experts, enabling them to apply their skills and knowledge to their specific domain, while the Data Platform team works on problems that affect the company as a whole.
+	- In this role, you will ship products with high visibility and strategic importance to Foursquare and contribute directly to revenue. Help us build and collaborate with Product, Engineering, and Data Science teams to create tools and processes to bring research and machine learning models to production.
+	- Build tools and APIs that would be used by other FSQ Engineers
+	- Build and maintain Foursquare's event streaming platform, Framework, and applications for data ingestion
+	- Build resilient services and tooling which drive all of our offline processing of petabytes of data
+	- Write test automation, conduct code reviews, and take end-to-end ownership of deployments to production
+	- Participate in on-call rotation duties
+	- What you’ll need: If you have more or less experience than listed, please apply anyways and we will see if another role aligns better with your experience.
+	- BS/BA in a technical field such as computer science or equivalent experience
+	- 3+ year of experience in software development working with production-level code
+	- Experience in one or more of the programming languages we use
+	- Excellent communication skills, including the ability to identify and communicate data-driven insights
+	- Experience with working in the cloud, preferably AWS
+	- Strong algorithms and data structures knowledge
+	- Comfort with Unix/Linux and the command line
+	- Experience with Hadoop, Kafka, MapReduce, and/or Spark
+	- Experience with AWS data processing services (EMR, Glue, Athena, …)
+	- Experience with relational or document-oriented database systems
+	- Prior software internship experience
+	- ***Languages: Java, Scala, Python, Clojure, Ruby***
+	- ***Tools for pipeline orchestration: Airflow, Luigi***
+	- ***Frameworks: Spark, MapReduce, Scalding, Spring Boot***
+	- ***Infrastructure: AWS, Hadoop, Kafka, Kubernetes, Docker***
+	- ***Other technologies: Postgres, Hive, HBase, MongoDB***
 + skill set:
 	- BLAH.
 + skill set:
