@@ -51,7 +51,39 @@ Environmental technology, envirotech, green technology, or greentech:
 	- BS CS or EE degree, or equivalent training or work experience
 	- 5+ years related experience (or Masters and 4+ years related experience, or Ph.D. without experience)
 + skill set:
-	- BLAH.
+	- Scientist - Climate Adaptation,Landscapes and Agricultural Water Mgmt
+	- The International Maize and Wheat Improvement Center, known by its Spanish acronym, CIMMYT®, is not-for-profit agricultural research for development organization with partners in over 100 countries.
+	- CIMMYT is looking for an outstanding, self-motivated, and result-oriented professional for the position of Scientist – Climate Adaptation, Landscapes, and Agricultural Water Management, to work in the Sustainable Agrifood Systems (SAS) program.
+	- Take a leading role in defining strategy, and needs and act on opportunities for fostering sustainable, environmentally sound, climate resilient, and profitable farm management practices, technologies, and policies with emphasis on climate adaptation and water management from the farm plot to landscape level in partnership with the public and private sector.
+	- Lead projects, project work packages, and program components regarding water and climate systems and other environmental issues of sustainable agri-food systems transitions
+	- Liaise with governmental partners and policymakers at high levels by providing independent, rigorous, and technically sound scientific advice, and capacity development support and by closely working on coaching national research partners to excel in the generation of high-quality, relevant, applied research on climate adaptation and agricultural water and landscape management.
+	- With an emphasis on water and climate systems, lead team members to ensure the fine-tuning of key new technologies, crop management practices, policies, and partnerships through adaptive research.
+	- With a focus on big data analytics, applied and integrated farm plot to landscape-level modeling, lead and support effective design and execution of data value chains and workflows to support the development of actionable insights to inform partners how to achieve sustainable agrifood systems more effectively.
+	- Take a leading role in engaging in resource mobilization and outreach activities to attract investments in climate, agricultural water management, and landscape management-related projects that support sustainable agrifood systems transitions.
+	- Lead technical backstopping efforts assisting public and private collaborators in developing efficient and dynamic research and development programs.
+	- Work closely with an interdisciplinary team of climatologists, social scientists, agronomists, data scientists, remote sensing specialists, and soil specialists to advance the CIMMYT mission and contribute towards successfully implementing projects and Initiatives.
+	- Provide intellectual leadership in designing and implementing capacity-building strategies with an emphasis on developing appropriate training content, and materials and developing decision support tools for different stakeholder groups.
+	- Participate in field visits from project, Initiative, and CIMMYT and collaborate with CGIAR center staff and national and international visitors from different institutions and countries.
+	- Summarize and communicate project activities to various audiences at the highest levels possible in academic and public, including to the donor community, while contributing to and/or leading relevant annual and semi-annual reports.
+	- Led teams to ensure the maintenance and archiving of agricultural and field data records and maintain data archiving and backup systems.
+	- Regularly publishing research results in high-profile peer-reviewed publications.
+	- Provide technical support for the work of the project’s monitoring and evaluation team.
+	- Any other activity as assigned by your supervisor.
+	- PhD in hydrology, landscape ecology or agronomy/agricultural water management with a strong demonstrated background in climate change adaptation.
+	- Demonstrated international research experience and experience in hydrological modeling, crop modeling, and simulation analysis. Experience with agent-based modeling is beneficial.
+	- Experience in the linkages between agricultural productivity, climate change adaptation, landscape ecology, and agricultural water management at the plot, farm, landscape, and regional level are advantageous.
+	- Demonstrated practical experience training/working with farmers and stakeholders on the principles of agricultural water management and natural resources monitoring and management.
+	- Experience with groundwater management, including efforts to digitally monitor and represent groundwater monitoring data, is beneficial.
+	- Strong track record of experience in implementing and managing farmer-participatory, community-based, and stakeholder-driven and responsive research processes.
+	- Prior experience collaborating with national research institutions, governments, and/or NGOs working in climate change adaptation, agricultural landscape management, and agricultural water management.
+	- Excellent communication skills for farmers, agricultural service providers, extension and outreach professionals, and private sector partners.
+	- Competence with common computer software packages for communications, data management, and statistical analysis, specifically, knowledge of R and potentially Python for data analysis would be an advantage.
+	- Strong technical and, ideally developer experience with integrated modeling tools, including but not limited to DSSAT / APSIM, and agent-based modeling tools.
+	- Working and demonstrating experience with spatial analytics and tools, including GIS and remote sensing techniques, is an advantage.
+	- Demonstrated experience leading research efforts merging crop modeling and gridded spatial modeling including linked land-use and hydrological modeling tools such as SWAT-MODFLOW
+	- A strong record of quality peer-reviewed publications generated with a network of collaborators in academia and national agricultural / natural resources management institutes.
+	- Demonstrated experience and track record of successful research fund raising and donor management.
+	- The selected candidate should exhibit the following competencies: Client Orientation, Negotiation and Conflict Resolution, Critical Thinking, Teamwork, and Communication.
 + skill set:
 	- BLAH.
 + skill set:

@@ -876,9 +876,16 @@ Projects you will be expected to complete in your the first 6 months
 		* Apps: Javascript, PHP, Swift, Kotlin
 		* Backend: PHP, Golang, Percona Cluster, Redis, Memcache, HAproxy, ProxySQL, Apache
 		* Infrastructure: Docker, Ansible, Munin, Sentry, Corosync, DRBD, KVM
-
 + skill set:
-	- BLAH.
+	- Python Developer Tools Engineer
+	- Python is a vital part of Jane Street’s research and trading work, acting as the go-to language for data analysis, visualization, and machine learning. Our Python developer tools team is responsible for the tools that support our work in Python, including:
+		* CI for running tests and static analysis
+		* Automation around the deployment of Python environments and applications
+		* Libraries for building hybrid Python/OCaml systems
+	- We’re looking for engineers with experience building Python tooling at large scale who want to leverage those skills in a new environment. 
+	- The job is wide-ranging, involving both technical and product design challenges — from finding ways to speed up our static analysis and test harnesses to working with users to understand their workflows and requirements and designing solutions that fit their needs. 
+	- We’re also looking for someone who can contribute to guiding our relatively young Python ecosystem, helping us form and communicate best practices, and make good choices about the tools and libraries we use.
+	- Lots of our automation and Python tooling is written in OCaml, but we’re happy to teach you that, and we don’t expect any previous experience with OCaml or any other functional programming language.
 + skill set:
 	- BLAH.
 + skill set:

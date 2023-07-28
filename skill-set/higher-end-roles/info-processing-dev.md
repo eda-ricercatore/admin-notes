@@ -466,9 +466,22 @@ reactive programming = asynchronous dataflow programming
 	- MS/Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, or closely related fields
 	- The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Video Codec Algorithm Engineer
+	- We are seeking a passionate Video Codec Algorithm Engineer to research and develop video compression algorithms/video encoder/decoder to improve real-time video quality and performance on Zoom video products.
+	- Research and evaluate algorithms currently used in related applications.
+	- Possess strong skills in the areas of development and real-time implementation of video encoder/decoder.
+	- Participate in research and developing new video codec standard
+	- Design and implement video compression algorithm to improve the quality
+	- Design new algorithms to tackle new and existing problems.
+	- Ph.D. or Master’s degree in Computer Science or Electrical Engineering or related field.
+	- Prior industry experience is preferred but not required.
+	- Proficient in C++ and C programming
+	- Prior experience of x86/64 or arm assembly coding.
+	- Solid research background in video codec.
+	- Experienced in video coding standards such as VVC, AV1, HEVC, H.264/AVC, SVC, VPx.
+	- Strong analytical and research skills.
+	- Excellent written and verbal communication skills. Strong team player.
+	- The candidate needs to be based in Singapore or willing to relocate to SIngapore.
 + skill set:
 	- BLAH.
 + skill set:

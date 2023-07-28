@@ -289,7 +289,7 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 
-##	Skills for Energy-Efficient VLSI Design
+###	Skills for Energy-Efficient VLSI Design
 
 
 
@@ -344,6 +344,154 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+###	Skills for FPGA-based Digital Circuit and System Design
+
+
+
+
++ skill set:
+	- FPGA Engineer
+	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
+	- We're big believers in the ability of tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we’re looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. ***We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.***
+	- In this role, you’ll work on the ground-up design and implementation of new FPGA applications, and help extend and refine the high-level synthesis and testing tools that we use internally. ***Your day-to-day work will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration, but you can also expect to work with some Verilog and C.*** While you don’t need to have worked with OCaml specifically, a good background in some typed functional language is a plus.
+	- We don’t expect you to have a background in OCaml, finance, or any other specific field—we’re looking for smart programmers who will approach hardware design with a software engineering mindset. We’re more interested in how you think and learn than what you currently know. You should be:
+	- A top-notch programmer with a love for technology
+	- Comfortable with a software programming language
+	- Intellectually curious, collaborative, and eager to learn
+	- Humble and unafraid to ask questions and admit mistakes
+	- ***Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs***
+	- Experienced working with FPGA vendor tools (Vivado or Quartus)
+	- Experienced with building a working FPGA project through an academic, professional, or personal project
+	- Interested in learning how to use FPGAs in the context of networking
+	- Fluency in English required
++ skill set:
+	- FPGA Engineer
+	- We are looking for an FPGA Engineer to help us design, test, and deploy advanced hardware accelerators. You will be part of the ultra-low latency team, but you’ll also have the chance to work with people in areas across the firm, including trading, networking, and research infrastructure.
+	- We are big believers in the ability of tools to improve the productivity, reliability, and day-to-day joy of hardware engineering. That’s why we created Hardcaml, a hardware development toolchain embedded in OCaml.
+	- While we don’t expect you to know OCaml (we can teach it to you), we are looking for hardware engineers who are excited about the advantages that better tools can bring and as a result are willing to try new things. We are also looking for a particular mix of skills and experience:
+	- Practical experience of RTL design and testing
+	- Experience with back-end tooling like Vivado and Quartus
+	- ***An interest in using software engineering techniques to improve the hardware design process and experience programming in a high-level language (e.g., Python, C++, Java, Haskell, etc.)***
+	- Experience with PCIe, SERDES integration, and high-performance Ethernet/InfiniBand are a plus
+	- Experience working on trading-related applications is a plus
+	- Fluency in English is required
++ skill set:
+	- FPGA Engineer
+	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
+	- We're big believers in the ability of tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we’re looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.
+	- In this role, you’ll work on the ground-up design and implementation of new FPGA applications, and help extend and refine the high-level synthesis and testing tools that we use internally. Your day-to-day work will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration, but you can also expect to work with some Verilog and C. While you don’t need to have worked with OCaml specifically, a good background in some typed functional language is a plus.
+	- We don’t expect you to have a background in OCaml, finance, or any other specific field—we’re looking for smart programmers who will approach hardware design with a software engineering mindset. We’re more interested in how you think and learn than what you currently know.
+	- A top-notch programmer with a love for technology
+	- Comfortable with a software programming language
+	- Intellectually curious, collaborative, and eager to learn
+	- Humble and unafraid to ask questions and admit mistakes
+	- Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs
+	- Experienced working with FPGA vendor tools (Vivado or Quartus)
+	- Experienced with building a working FPGA project through an academic, professional, or personal project
+	- Interested in learning how to use FPGAs in the context of networking
+	- Fluent in English
++ skill set:
+	- FPGA Engineer
+	- We are looking to hire an FPGA Engineer to help us design, test and deploy advanced hardware accelerators. You’ll be part of the ultra low latency team, but you’ll have the opportunity to collaborate with people in areas across the firm, including trading, networking, and research infrastructure.
+	- We’re big believers in the ability of tools to improve the productivity, reliability, and day to day joy of hardware engineering. That’s why we created Hardcaml, a hardware development toolchain embedded in OCaml. We don’t expect you to know OCaml (we’ll teach you here), but we are looking for hardware engineers who are excited about the advantages that better tools can bring, and as a result willing to try new things.
+	- In terms of qualifications, we’re looking for someone with:
+	- Practical experience of RTL design and testing
+	- Experience with backend tooling like Vivado and Quartus
+	- An interest in using software engineering techniques to improve the hardware design process, and experience programming in some high-level language (Python, C++, Java, Haskell, etc.)
+	- Fluency in English is required
+	- Beyond that, experience with PCIe, SERDES integration, and high performance ethernet/infiniband are all a plus, as is experience working on trading-related applications.
++ skill set:
+	- FPGA Engineer
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time. Over the course of your internship, you will explore ways to approach and solve exciting problems within your field of interest through fun and challenging classes, interactive sessions, and group discussions—and then you will have the chance to put those lessons to practical use.
+	- As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done. When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- In this internship, you’ll learn how we use tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we're looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.
+	- During the program, you’ll dive deep on one project, mentored closely by the full-time employees who helped design it. Some intern projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will help you gain a better understanding of the wide range of problems we solve every day.  We expect interns to build FPGA applications from concept to a working design; your projects will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration.
+	- If you’d like to learn more, you can read about our interview process, meet some of our newest hires, or check out our OCaml All The Way Down talk and Programmable Hardware podcast episode.
+	- We don’t expect you to have a background in finance, OCaml, functional programming, or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know.
+	- Intending to start full-time employment by Summer 2024
+	- Comfortable with a software programming language
+	- Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs
+	- Experienced working with FPGA vendor tools - Vivado or Quartus
+	- Experienced with building a working FPGA project through an academic, professional, or personal project
+	- Interested in learning how to use FPGAs in the context of networking
+	- Fluency in English required
+	- https://www.janestreet.com/tech-talks/ocaml-all-the-way-down/
+	- https://www.youtube.com/watch?v=X1cgRXhpQLY
+	- https://signalsandthreads.com/programmable-hardware/
+	- https://open.spotify.com/show/3ig6FgIbASpqJbc9chD2CI?si=P6f7wcvqRE6TINfAWN6XBw&nd=1
+	- https://blog.janestreet.com/applying-to-jane-street/
+	- https://www.janestreet.com/join-jane-street/get-to-know-us/
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

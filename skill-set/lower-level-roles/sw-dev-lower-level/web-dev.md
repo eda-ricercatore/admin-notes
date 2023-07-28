@@ -1284,7 +1284,27 @@ reactive programming = asynchronous dataflow programming
 	- CircleCI for continuous integration.
 	- Functional programming principles in React with Recompose
 + skill set:
-	- BLAH.
+	- Senior Java Backend Engineer
+	- The Zoom Whiteboard team is here to design and develop backend services and frontend applications for Whiteboard and future products. Our team is looking to bring on a senior software engineer who is passionate in developing scalable, reliable, and extensible backend services. In this role, you will utilize your knowledge of Java Web backend and database to extend the functionality in Whiteboard and build new products. 
+	- Write web back end service in Java for Zoom’s collaboration software that will perform at scale, be supportable, and be extensible
+	- Design and Develop APIS, database, and storage solution (e.g., object store) to build a content management system.
+	- Work with design and product partners to build core product features meeting security, privacy, and business requirements. 
+	- Work with operations teams to ensure your applications and services are highly available and reliable
+	- Minimum qualifications:
+		* 8 years of experience + a BS Degree in Computer Science or related field OR 6 years of experience + a MS Degree in Computer Science or related field.
+		* Proficiency utilizing Java 
+		* Experience with database technologies such as AWS S3, DynamoDB, or MongoDB
+		* Experience with frameworks such as Spring, Spring MVC, or Spring Boot
+		* Experience with database design & optimization with MySql
+	- Preferred qualifications:
+		* 6 years of experience + a MS Degree in Computer Science or related field. 
+		* Experience with concurrency, and design patterns
+		* Knowledge of JVM, memory management and optimization
+		* Knowledge of Spring cloud stacks such as Eureka, Ribbon, Feign, Hystrix, and Zuul
+		* Knowledge of Redis, RabbitMQ, and Kafka
+		* Excellent foundation in computer science, with competencies in data structures, algorithms and software design optimized for performance, and large scale
+		* Good communication skills
+	- In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
 + skill set:
 	- BLAH.
 + skill set:

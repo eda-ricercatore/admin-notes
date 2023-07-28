@@ -3698,7 +3698,80 @@ Skill sets for application engineers of different EDA products:
 	- Open-source implementations of machine learning research projects.
 	- The ideal candidate will have a keen interest in producing new science to understand intelligence and technology and how to apply it safely and fairly in real-world settings.
 + ***Open-source projects that demonstrate relevant skills and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
-
++ skill set:
+	- Machine Learning Researcher
+	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, rapid-feedback platform for ML experimentation. 
+	- Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software engineering roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
+	- We’re looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
+	- As an ML researcher, your expertise will also shape the firm's future ML developments including hiring new ML researchers, attending conferences, teaching techniques to teammates, and setting firmwide goals.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -4507,17 +4580,120 @@ Skill sets for application engineers of different EDA products:
 	- Masters or PhD in Computer Science, Robotics, Machine Learning, Engineering or equivalent professional experience.
 	- The base pay range for this role is between $138,900 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
-	- BLAH.
+	- AIML - Machine Learning Engineer - Machine Learning Platform Technology (MLPT)
+	- Want to build the training platform that engineers rely on to develop next-generation Apple products and services?  As a machine learning engineer on our team, you will create software systems and algorithms to enable performant, scalable training for Apple's AI-driven experiences.  Join our team of highly skilled, impact-focused engineers!  This role also includes opportunities to open source your work and publish at top ML conferences.
+	- Strong Python programming skills
+	- Understanding of data structures, software design principles, and algorithms
+	- Experience with deep learning frameworks, such as PyTorch, JAX, or TensorFlow
+	- Experience developing model parallel and data parallel training solutions and other training optimizations
+	- Experience building large-scale deep learning infrastructure or platforms for distributed model training
+	- Experience with parallel training libraries such as torch.distributed, DeepSpeed, etc.
+	- We're looking for strong machine learning engineers to help build next-generation tools for training deep learning models at scale. You'll be part of a small team of training technology experts, focusing on training speed and scalability. We're looking for candidates with polished coding skills as well as passion for machine learning and computational science. 
+	- Design and develop components for our centralized, scalable ML platform. Help push the limits of existing solutions for large-scale training. Develop novel techniques to circumvent the limitations of these solutions. Deploy your techniques on high-impact tasks from our partners across the company building new Apple products and services. 
+	- We encourage publishing novel work at top ML conferences such as MLSys or NeurIPS and releasing contributions as open source. 
+	- In exchange, we offer a respectful work environment, flexible responsibilities, and access to world-class experts and growth opportunities—all at one of the best companies in the world.
+	- PhD or Masters in the area of Computer Science or equivalent years of industry experience
 + skill set:
-	- BLAH.
+	- AIML - Machine Learning Engineer, Siri and Information Intelligence
+	- The Siri information intelligence team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of Siri Search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches, online learning to react quickly to change, natural language processing to understand queries, taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs.
+	- 5+ years of experience in machine learning, information retrieval, indexing and retrieval
+	- Mastery of two of following languages: Python, Go, Java, C++
+	- Excellent knowledge and good practical skills in major machine learning algorithms
+	- Excellent data analytical skills
+	- Experience with large scale search and machine learning systems is highly desired
+	- ***Experience with Hadoop, Hive, and/or Impala is a plus***
+		* https://en.wikipedia.org/wiki/Apache_Impala
+	- Good interpersonal skills
+	- Good team player
+	- Analyzing search suggestion ranking and relevance requirements, issues and opportunities
+	- Understanding product requirements, translate them into modeling tasks and engineering tasks
+	- Building machine learned models for search relevance, ranking and query understanding problems
+	- Integrating search functions into Apple products, such as Siri, Spotlight, Safari, Messages, Lookup, etc.
+	- Building end-to-end production system including query understanding, ranking and recommendation to power search
+	- Utilizing Spark, Hadoop MapReduce, Hive, Impala to perform distributed data processing
 + skill set:
-	- BLAH.
+	- AIML - Software Engineer, Machine Learning Platform & Technologies
+	- Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.
+	- The Machine Learning Platform Team at Apple is looking for a Senior Engineer who has extensive experience in CI/CD, orchestration pipelines, build, release, and code management to manage critical parts of our development lifecycle. You will work with a dedicated team of engineers that will deliver the tooling and pipelines that enable consistent development of a high performance search stack, ensuring high quality delivery and enabling fast engineering turnaround.
+	- 5+ years of experience in developing developer tooling, pipelines, automations and API
+	- Thorough understanding of software development lifecycle, DevOps (build, continuous integration, deployment tools) and best practices.
+	- Strong programming skills in Go, Python, or other language
+	- Strong experience with Spinnaker and/or other delivery platforms
+	- Strong experience with workflow platforms (Argo, Jenkins, or other)
+	- Solid Kubernetes, AWS or other cloud experience
+	- Strong communications and collaboration skills required
+	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You’ll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
+	- Work in a team of engineers to deliver core tooling and pipelines for builds, validation, and deployment
+	- Build tooling and SCM integrations that ensures code consistency, test coverage, and reliability
+	- Develop pipelines for continuous, incremental delivery to preproduction environments
+	- Extend tooling that helps engineers test, maintain, and deploy solutions across multiple repos and languages
+	- Collaborate with DevOps and Release Engineering to enhance release speed and reliability
 + skill set:
-	- BLAH.
+	- AIML - Senior Data Infrastructure Software Engineer, Machine Learning Platform and Technology
+	- The Data Infrastructure group within the AI/ML organization powers the analytics, experimentation and ML feature engineering that powers the Machine Learning technologies we all love in our Apple devices. Our mission is to provide cutting edge, reliable and easy to use infrastructure for ingesting, storing, processing and interacting with data while keeping Apple’s users’ data private and secure.
+	- Are you a passionate about building scalable, reliable, maintainable infrastructure and solving data problems at scale? Come join us and be part of the Data Infrastructure journey.
+	- 5 years of experience in software engineering with deep knowledge in computer science fundamentals.
+	- Strong in data structures and algorithms. Must write good quality code with test cases and review PR's in fast faced environment.
+	- Expert in one or more functional or object-oriented programming languages (Scala, Java)
+	- Fluent in at least one scripting or systems programming language (Python, Bash and Go etc.)
+	- ***Experience or knowledge in distributed data systems like Hadoop, Spark, Kafka or Flink.***
+	- Experience or knowledge in public cloud is a big plus, preferably AWS.
+	- Strong collaboration and communication (verbal and written) skills to work with diff
+	- The role involves managing petabytes of data for machine learning applications and designing and implementing new frameworks to build scalable and efficient data processing workflows and machine learning pipelines. The successful candidate will be responsible for ensuring complete data lineage and legal workflow integration while optimizing performance and scalability. You will also be responsible for monitoring the performance of the system, optimizing it for cost and efficiency, and solving any issues that arise. This is an exciting opportunity to work on cutting-edge technology and collaborate with cross-functional teams to deliver high-quality software solutions. The ideal candidate should have a strong background in software development, experience with public cloud platforms, and familiarity with distributed databases.
+	- ***Familiarity with distributed databases, such as DynamoDB, MongoDB, or Cassandra.***
+	- ***Experience with containerization and orchestration technologies, such as Docker and Kubernetes.***
 + skill set:
-	- BLAH.
+	- AIML - Sr Product Manager, Siri Knowledge
+	- Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Do you love taking on challenges that create a positive impact? Here, you could play a leading part in revolutionizing how people use their computers and mobile devices by empowering many ground-breaking intelligent experiences.
+	- The Siri team is crafting innovative technology for virtual assistants, knowledge graph, and algorithmic search using machine learning, natural language processing, and artificial intelligence. We’re looking for someone to lead product management efforts for Search and Knowledge in Siri, Spotlight, and Safari. You would work with top tier engineering and product teams to serve over 1 billion customers, crafting the type of magnificent user experiences that Apple customers expect and love. As a PM for Siri Knowledge and Search, you would drive search relevance, machine learning, and user experience improvement projects to build and improve end-to-end knowledge products on all major Apple platforms including iPhone, CarPlay, macOS, AppleTV and HomePod.
+	- 5+ years experience as a Product Manager, Software Engineer, Engineering Manager, or similar role leading cross-functional product or software engineering teams.
+	- 2+ years experience bringing a product from concept to completion, ideally related to joining together sophisticated backend and front-end systems with the user experience in mind
+	- Experience driving large cross-functional projects with multiple workstreams
+	- Self-motivated and proactive, with demonstrated creative and critical thinking capabilities
+	- Self-sufficient in analyzing and drawing conclusions about the quality and product opportunity from raw and refined product data
+	- Ability to, directly and indirectly, lead large teams for success
+	- Experience shipping machine-learned products
+	- Lead roadmap planning and detail execution of Siri Knowledge and Search in Siri, Spotlight, and Safari
+	- Lead cross-functional teams from the product ideation/creation to full-stack delivery to our customers
+	- Keep teams focused on the right priorities to meet aggressive deadlines; clearly communicate project progress to leads and executive team.
+	- Collaborate with engineering, product, and executive leadership to drive outstanding year over year product delivery across large product areas at Apple.
+	- Analyze product metrics to measure performance and plan the evolution of search and knowledge for immediate impact and longer-term (5+ years)
+	- Be the voice for our customers; do whatever it takes to deliver the highest quality experience to our customers
+	- Lead machine learning best practices in Siri team
+	- Collaborate with other Apple teams to promote cross-team technology sharing
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer
+	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, rapid-feedback platform for ML experimentation. 
+	- Our ML Engineers develop the infrastructure that makes all of that possible. The work is wide-ranging, including things like:
+		* Developing libraries for automating ML workflows and experiment evaluation, and helping us evaluate and onboard existing open-source tools
+		* Digging in to the internals of open-source ML tools to extend their capabilities and fix fundamental bugs
+		* Optimizing our systems to match the needs of our trading systems, whether that be for efficient training or low-latency inference
+		* Building tools to train and evaluate models in parallel over large datasets
+	- And much more besides. As an ML Engineer, you’ll help drive the direction of an ML platform that is used daily by traders and researchers across every corner of the firm.
+	- We’re looking for accomplished and disciplined software engineers with deep experience in machine learning techniques and the software systems that power them. A good candidate will be curious, with a wide-ranging understanding of the open-source ML ecosystem, and an interest in the latest advances in ML, in both academic and industrial contexts.
++ skill set:
+	- Senior Video Processing Algorithm Engineer
+	- As a Senior Video Processing Algorithm Engineer, you will explore opportunities to research and develop video process algorithms in order to both improve real-time video quality & performance, and add new features on Zoom video products. 
+	- Work across our stack, developing software ranging from Web Server to business application layer for our distributed, cloud-hosted backend. You will work alongside fellow experts in the field, you will deliver happiness to our users, and grow your knowledge base each and every day.  
+	- Conduct performance research evaluations on image/video processing algorithms 
+	- Perform feasibility analysis and validation, develop corresponding demos, and cooperate with team members for feature deployment on various platforms
+	- Develop and prototype innovative algorithms in Zoom’s video processing pipeline
+	- Design new video features to tackle new and existing problems on Windows, macOS, IOS, Android and Linux systems
+	- Collaborate with internal stakeholders across the business to drive the delivery of features, processes and happiness
+	- PhD degree or Master degree with 4 years of working experiences in Computer Science, Electrical Engineering, or a related STEM field
+	- Excellent C++/C and Python programming skills 
+	- Strong experiences with libraries for deep learning, such as TensorFlow, PyTorch, Keras, Caffe, etc.
+	- Solid knowledge of math, including linear algebra, numerical optimization, calculus, etc.
+	- Hands-on experiences with video processing techniques (traditional method and deep learning method), such as image/video synthesis and generation, image enhancement, etc.
+	- Hands-on experiences in ***deep learning (neural network, neural rendering, generative model, discriminative model, transfer learning, one-shot or few shot learning, Neural Architecture Search, etc.)***
+	- Experience on deep learning structure (Transformer, CNN, RNN, etc.) optimization and acceleration
+	- Ability to crystallize vague concepts into concise plans with clear documentation
+	- Detail oriented, organized, ethical, responsible, and self-motivated
+	- Strong communication skills and a desire to learn something new 
+	- Basic understanding of Mandarin
++ skill set:
+	- Video Processing Algorithm Engineer
+	- 
 + skill set:
 	- BLAH.
 + skill set:
@@ -6346,20 +6522,6 @@ Sets of skills for more senior data science roles, such as management of data sc
 	- Drive the design, building, and launching of new data models and data pipelines in production
 	- Stay focused and prioritize a heavy workload while achieving exceptional quality and driving long-term vision
 	- Bachelors or Master in CS, Engineering, Math, Statistics, or a related field, or equivalent practical experience in engineering
-+ skill set:
-	- AIML - Machine Learning Engineer - Machine Learning Platform Technology (MLPT)
-	- Want to build the training platform that engineers rely on to develop next-generation Apple products and services?  As a machine learning engineer on our team, you will create software systems and algorithms to enable performant, scalable training for Apple's AI-driven experiences.  Join our team of highly skilled, impact-focused engineers!  This role also includes opportunities to open source your work and publish at top ML conferences.
-	- Strong Python programming skills
-	- Understanding of data structures, software design principles, and algorithms
-	- Experience with deep learning frameworks, such as PyTorch, JAX, or TensorFlow
-	- Experience developing model parallel and data parallel training solutions and other training optimizations
-	- Experience building large-scale deep learning infrastructure or platforms for distributed model training
-	- Experience with parallel training libraries such as torch.distributed, DeepSpeed, etc.
-	- We're looking for strong machine learning engineers to help build next-generation tools for training deep learning models at scale. You'll be part of a small team of training technology experts, focusing on training speed and scalability. We're looking for candidates with polished coding skills as well as passion for machine learning and computational science. 
-	- Design and develop components for our centralized, scalable ML platform. Help push the limits of existing solutions for large-scale training. Develop novel techniques to circumvent the limitations of these solutions. Deploy your techniques on high-impact tasks from our partners across the company building new Apple products and services. 
-	- We encourage publishing novel work at top ML conferences such as MLSys or NeurIPS and releasing contributions as open source. 
-	- In exchange, we offer a respectful work environment, flexible responsibilities, and access to world-class experts and growth opportunities—all at one of the best companies in the world.
-	- PhD or Masters in the area of Computer Science or equivalent years of industry experience
 + skill set:
 	- BLAH.
 + skill set:
