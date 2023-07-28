@@ -3142,6 +3142,8 @@ Skill sets for application engineers of different EDA products:
 		* Looker
 		* Mode Analytics
 		* Noteable
+		* Numba: A High Performance Python Compiler
+			- https://numba.pydata.org/
 		* Periscope
 		* Tableau
 			+ alternatives include:
@@ -7703,6 +7705,29 @@ Skill sets for DataOps:
 	- Experience in AWS and other cloud providers when exploring different approaches to performance engineering
 	- Experience with distributed architectures
 	- Passionate about driving a performance engineering culture
++ skill set:
+	- Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS.
+	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
+	- Contribute to nebari (https://nebari.dev), an open source Data Science platform built on JupyterHub, Dask, and other tools from the PyData ecosystem.
+Participate in upstream open source communities we rely on (such as JupyterHub, BinderHub, Dask, etc.) in partnership with the established leaders of those communities.
+Deploy and ensure the reliable operation of Quansight’s and clients’ infrastructure.
+Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team’s impact.
+Experience using some form of infrastructure-as-code tooling (i.e., Ansible, Salt, Puppet, Terraform, etc.)
+Experience with at least one major cloud platform (AWS, Azure, GCP)
+Experience developing tools in a general purpose programming language (eg. Python)..
+Experience with Continuous Integration and Continuous Delivery services (e.g., Circle CI, GitHub Actions)
+Familiarity with software engineering best practices – including unit tests, code review, version control, production monitoring, etc.
+Experience deploying and developing with Linux container-based technologies, such as Docker and Kubernetes.
+Comfortable working independently and reaching out for feedback and support as needed.
+Experience collaborating and coordinating work via online platforms, such as GitHub, GitLab, or BitBucket, and distributed revision control.
+Ability to provide and constructively receive feedback.
+While this is a remote position, we are looking for candidates with significant time overlap with US Central and Eastern time zones due to the location of many of our infrastructure team members and collaborators
+Experience working on geographically distributed open-source projects.
+Exposure to the Python Data Science stack - Pandas, Numpy, Dask, etc.
+Experience with the Jupyter ecosystem and other tools for interactive computing.
+Experience building and maintaining continuous deployment pipelines.
+Experience with common data science methods, platforms, workflows, and infrastructures; with data management systems, practices, and standards; and the capacity to gain familiarity with new related topics.
+
 
 
 
