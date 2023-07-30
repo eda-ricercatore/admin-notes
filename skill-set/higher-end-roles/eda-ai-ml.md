@@ -3127,6 +3127,8 @@ Skill sets for application engineers of different EDA products:
 		* SQLAlchemy, open-source SQL toolkit and object-relational mapper, ORM
 	- PSPP, open-source equivalent of IBM SPSS Statistics (or SPSS Statistics, or Statistical Package for the Social Sciences)
 	- other data analytics tools:
+		* Apache Arrow
+		* Apache Spark, or Spark
 		* Baremetrics
 		* Chartmogul
 		* ***Dask***
@@ -3139,7 +3141,9 @@ Skill sets for application engineers of different EDA products:
 		* Google Analytics
 		* Google Data Studio
 		* Heap Analytics
+		* Jupyter
 		* Looker
+		* Mesos
 		* Mode Analytics
 		* Noteable
 		* Numba: A High Performance Python Compiler
