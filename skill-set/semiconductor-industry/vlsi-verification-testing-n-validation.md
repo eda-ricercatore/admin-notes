@@ -2,6 +2,31 @@
 
 
 
+
+##	VLSI Verification Tools and HVLs
+
+
+VLSI/IC simulation/verification tools
++ Siemens EDA Certus™ Silicon Debug
++ Siemens EDA Codelink®
++ Siemens EDA ModelSim®Siemens EDA Questa® CDCSiemens EDA Questa® Formal VerificationSiemens EDA Questa® inFactSiemens EDA Questa® Power Aware SimulatorSiemens EDA Questa® SimulatorSiemens EDA Veloce® EmulationSiemens EDA Verification IPSiemens EDA Visualizer™ Debug EnvironmentAldec Active-HDL™Aldec ALINT-PRO™Aldec HES-DVM™Aldec Riviera-PRO™Aldec Spec-TRACER™AmiqEDA® DVT DebuggerAmiqEDA® DVT EclipseAmiqEDA® VerissimoAnsys/Apache PowerArtist™Ansys® Medini AnalyzeASTC Vlab WorksBreker Trek™Blue Pearl HDL Creator™Cadence® Incisive Functional Safety SimulatorCadence® Incisive®Cadence® Incisive® Debug AnalyzerCadence® Indago®Cadence® Jasper® Formal appsCadence® Jasper® Property CheckingCadence® JasperGold® Formal VerificationCadence® JasperGold® SafetyCadence® NC-SimCadence® Palladium®Cadence® Pegasus Verification SystemCadence® Perspec™Cadence® Protium™Cadence® Safety PlannerCadence® Virtual System PlatformCadence® XceliumCadence® Xcelium™ SafetyCadence® vManager SafetyCadence®/Denali VIPImperas DEVImperas EPKsImperas Instruction Set SimulatorImperas M*SDKImperas QuantumLeapMetrics Cloud SimulatorOneSpin 360 DV - (Inspect/Verify/Certify)OneSpin 360 EC - (ASIC/FPGA/RTL)Real Intent Ascent™Real Intent Meridian™Sigasi® StudioSynopsys Certitude®Synopsys HAPS®Synopsys Platform Architect™Synopsys VCS®Synopsys Verdi® DebugSynopsys Verdi3™Synopsys Virtualizer™Synopsys Z01X™Synopsys Zebu® EmulationSynopsys® EchoSynopsys® MVSim/MVRCSynopsys® Spyglass® CDCSynopsys® Spyglass® LintSynopsys® VC FormalSynopsys® VIPWind River® Simics®Xilinx Vivado® SimulatorProprietary prototyping hardwareOther technologies and VIP
+
+
+
+
+podcast@dac.com
+
+
+
+
+
+##	Skill Sets for Roles in VLSI Verification
+
+
+
+
+
+
 Skill set for roles in VLSI verification:
 + initial sandbox verification
 + skill set:

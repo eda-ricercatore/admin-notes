@@ -251,7 +251,18 @@ Sets of skills for embedded software development roles:
 	- Experience in KV storage systems such as Memcache/Redis/Leveldb/Rocksdb;
 	- Experience in distributed block storage/cloud hard disk.
 + skill set:
-	- BLAH.
+	- C/C++ programming (mandatory requirement, primarily ‘C’)
+	- Cross-platform development on Windows and Linux hosts
+	- Embedded systems programming
+	- Embedded Linux or Real-Time Operating Systems (RTOSs)
+	- Python programming
+	- GNU GCC/LLVM toolchains
+	- Debugging tools and techniques
+	- RISC-V and Arm architectures (including On-chip debug and CoreSight)
+	- Eclipse and Visual Studio Code (including plug-in or extension development)
+	- Use of Git (GitLab/GitHub)
+	- Open source
+	- You will be working as a member of our Global Engineering team on the design of Embedded Development Tools such as IDEs, Compilers, Debuggers, Simulators, Real-time Trace and Software Quality Assurance tools.
 + skill set:
 	- BLAH.
 + skill set:

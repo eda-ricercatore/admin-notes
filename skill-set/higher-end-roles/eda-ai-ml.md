@@ -2727,6 +2727,61 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 
 
+##	Additional Information about EDA
+
++ [IP-XACT is an XML format that defines and describes individual, re-usable electronic circuit designs (individual pieces of intellectual property, or IPs) to facilitate their use in creating integrated circuits (i.e. microchips). IP-XACT was created by the SPIRIT Consortium as a standard to enable automated configuration and integration through tools.](https://en.wikipedia.org/wiki/IP-XACT)
++ [The SystemRDL language, supported by the SPIRIT Consortium, was specifically designed to describe and implement a wide variety of control status registers. Using SystemRDL, developers can automatically generate and synchronize register views for specification, hardware design, software development, verification, and documentation.](https://en.wikipedia.org/wiki/SystemRDL)
+	- [SystemRDL Compiler](https://github.com/SystemRDL/systemrdl-compilerSystemRDL Compiler)
+	- [open-register-design-tool, Ordt](https://github.com/Juniper/open-register-design-tool)
+	- https://www.eda.org/images/downloads/standards/systemrdl/SystemRDL_2.0_Jan2018.pdf
++ Automatic Register Verification (ARV)
++ synthesizable RTL, UVM, c-header, RALF eRM, SystemRDL, IP-XACT
++ UVM, Universal Verification Methodology, SystemVerilog based
++ VMM, Verification Methodology Manual
++ OVM, Open Verification Methodology
++ URM, Universal Reuse Methodology
++ eRM, e Reuse Methodology, e Verification Language
+
+
+
+
+
+
+
+
+
+
+
+##	Generic Skill Sets for Lower-Level EDA Software Development
+
+
+
+
++ skill set:
+	- Python Experts for Electronic Design Automation (EDA) tool development  
+	- EDA tool development for SoC design, integration & verification
+	- Model hardware design problems in software and provide automation
+	- Create UML models for design data and generate code from it
+	- Create data structure to hold design data, fill them with formalized data (e.g. XML, HDL-Models), and generate code out of it.
+	- Educational Qualification:  Bachelor's / Master Degree in  Electronics & Communication Engineering / VLSI 
+	- Experience: 1 - 4 years related experience.
+	- Strong Expertise in Python / C++ , Data structures, Algorithms, OOPS concepts
+	- Exposure to Artificial Intelligence / Machine Learning / Deep Learning concepts
+	- Experienced in designing/ coding in software/EDA tools and flows
+	- Exposure to Verilog / VHDL / System Verilog / SystemC
+	- Understanding of UML modelling language preferred
+	- Experienced in using test automation framework like pytest or Google Test.
+	- C++, SoC Design, FPGA
+	- Willing to dive into new things and pick them up fast
+	- Good analytical skills required to evaluate complex situations
+	- Focus on exchange of complex technical information
+	- Good reporting and presentation skills
+	- Good understanding of internal interfaces
+
+
+
+
+
 
 
 
@@ -2741,6 +2796,43 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 
 
+Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
++ skill set:
+	- 5+ years of experience building production software systems within large engineering projects for consumer products on mobile SoCs, specially iOS devices
+	- Hands-on experience with at least one compiled language (C/C++/Objective-C, Swift, Go, Java, Rust, etc.), and multi-threaded applications
+	- Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
+		* https://en.wikipedia.org/wiki/List_of_build_automation_software
+		* https://en.wikipedia.org/wiki/Buck_(software)
+		* https://en.wikipedia.org/wiki/BitBake
+		* https://bit.dev/
+	- Experience with profiling and tracing tools
+	- Experience with Model Compression techniques (Quantization, Pruning, Distillation)
+	- Experience with PyTorch Mobile, Tensorflow Lite or other similar Edge Inference frameworks
+	- Experience with techniques to offload compute to GPU, DSP etc.
+	- Experience developing Machine Learning models, especially for resource constrained computing environments
++ skill set:
+	- Responsible for or assist in the definition of next-generation GPGPU chips and the planning of related software and hardware products. Collect key appeals through architecture research, market research, competitive product analysis, customer interviews, etc., plan chips and hardware products and be responsible for product competitiveness;
+	- Lead or participate in the definition of chip specifications, participate in the whole process management of chip architecture design, chip mass production, chip enablement and product optimization; and be responsible for defining various hardware products to meet customer scenario needs;
+	- Familiar with various GPGPU and AI chip architectures, and have a deep understanding of deep learning applications (such as CV/NLP/ASR/RecSys, etc.);
+	- Familiar with mainstream artificial intelligence frameworks in the industry, and understand the requirements for high-performance GPGPU deployment in data centers;
++ skill set:
+	- Perception System Engineer - SPG
+	- As Perception System Engineer on a revolutionary Apple project, you will be working on an autonomous system built on state of the art sensing technologies and ground breaking machine learning algorithms. The Perception team provides sense capabilities such as detection, classification, tracking, and observed maps in complex environments using a range of sensing modalities. You will play a key role in measuring end-to-end system performance, identifying key issues and provide detailed feedback for performance improvement. You will engage cross functionally with a wider range of experts to build a robust and scalable triage and measurement system. You will use statistical modeling and develop expertise in Perception system performance trends, forecasting methodologies, and synthesize key findings for leadership reviews.
+	- 5+ years of experience in testing, QA or algorithm development for Autonomous Perception systems
+	- A deep understanding of perception functions its impact on motion planning
+	- Knowledge of machine learning models and deep learning fundamentals
+	- A background in statistical analysis, system-level triage of complex systems
+	- Proficient in data analysis, scripting and automation using python
+	- Familiarity with data products from optical sensors like lidar and camera is desired
+	- You will be developing and maintaining a Perception performance measurement pipeline that provides continuous feedback to developers for performance improvement and debugging. The work involves significant cross functional interaction with system test engineers, model, and tooling developers.
+	- Defining procedure and tooling requirements for a triage and test pipeline that identifies, classifies, and measures perception failure rates.
+	- Engaging with relevant partners to ensure timely implementation and delivery. 
+	- Synthesize failure rate data to derive meaningful trends and sensitivities, and track measured improvements and regressions over time. 
+	- Create and own dashboards for leadership reviews and develop expertise in observed system performance. 
+	- Root causing and failure analyses in partnership with deep learning model developers will be essential to be effective in this role. 
+	- You will also have opportunities to develop statistical models to forecast full system performance using developer metrics, critical scenario testing, and past performance.
+	- Masters degree in engineering, data science, statistics, or mathematics
+	- 5+ years of relevant Industry experience in robotics or autonomous systems
 + skill set:
 	- R&D Director - ML Systems
 	- We are a Cambridge-based startup developing a revolutionary B2B SaaS product for automated synthesis of ultra-efficient Intelligent Systems. Our product will empower Edge AI & Robotics companies to achieve supreme efficiency and flexibility, while slash the development time and costs tenfold.
@@ -2811,7 +2903,56 @@ Skill sets for cyber-physical system security, including robotics security and a
 	- BLAH.
 + skill set:
 	- BLAH.
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -2888,21 +3029,6 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 
 
-
-##	Additional Information about EDA
-
-+ [IP-XACT is an XML format that defines and describes individual, re-usable electronic circuit designs (individual pieces of intellectual property, or IPs) to facilitate their use in creating integrated circuits (i.e. microchips). IP-XACT was created by the SPIRIT Consortium as a standard to enable automated configuration and integration through tools.](https://en.wikipedia.org/wiki/IP-XACT)
-+ [The SystemRDL language, supported by the SPIRIT Consortium, was specifically designed to describe and implement a wide variety of control status registers. Using SystemRDL, developers can automatically generate and synchronize register views for specification, hardware design, software development, verification, and documentation.](https://en.wikipedia.org/wiki/SystemRDL)
-	- [SystemRDL Compiler](https://github.com/SystemRDL/systemrdl-compilerSystemRDL Compiler)
-	- [open-register-design-tool, Ordt](https://github.com/Juniper/open-register-design-tool)
-	- https://www.eda.org/images/downloads/standards/systemrdl/SystemRDL_2.0_Jan2018.pdf
-+ Automatic Register Verification (ARV)
-+ synthesizable RTL, UVM, c-header, RALF eRM, SystemRDL, IP-XACT
-+ UVM, Universal Verification Methodology, SystemVerilog based
-+ VMM, Verification Methodology Manual
-+ OVM, Open Verification Methodology
-+ URM, Universal Reuse Methodology
-+ eRM, e Reuse Methodology, e Verification Language
 
 
 
@@ -4900,113 +5026,6 @@ Skill sets for application engineers of different EDA products:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
-+ skill set:
-	- 5+ years of experience building production software systems within large engineering projects for consumer products on mobile SoCs, specially iOS devices
-	- Hands-on experience with at least one compiled language (C/C++/Objective-C, Swift, Go, Java, Rust, etc.), and multi-threaded applications
-	- Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
-		* https://en.wikipedia.org/wiki/List_of_build_automation_software
-		* https://en.wikipedia.org/wiki/Buck_(software)
-		* https://en.wikipedia.org/wiki/BitBake
-		* https://bit.dev/
-	- Experience with profiling and tracing tools
-	- Experience with Model Compression techniques (Quantization, Pruning, Distillation)
-	- Experience with PyTorch Mobile, Tensorflow Lite or other similar Edge Inference frameworks
-	- Experience with techniques to offload compute to GPU, DSP etc.
-	- Experience developing Machine Learning models, especially for resource constrained computing environments
-+ skill set:
-	- Responsible for or assist in the definition of next-generation GPGPU chips and the planning of related software and hardware products. Collect key appeals through architecture research, market research, competitive product analysis, customer interviews, etc., plan chips and hardware products and be responsible for product competitiveness;
-	- Lead or participate in the definition of chip specifications, participate in the whole process management of chip architecture design, chip mass production, chip enablement and product optimization; and be responsible for defining various hardware products to meet customer scenario needs;
-	- Familiar with various GPGPU and AI chip architectures, and have a deep understanding of deep learning applications (such as CV/NLP/ASR/RecSys, etc.);
-	- Familiar with mainstream artificial intelligence frameworks in the industry, and understand the requirements for high-performance GPGPU deployment in data centers;
-+ skill set:
-	- Perception System Engineer - SPG
-	- As Perception System Engineer on a revolutionary Apple project, you will be working on an autonomous system built on state of the art sensing technologies and ground breaking machine learning algorithms. The Perception team provides sense capabilities such as detection, classification, tracking, and observed maps in complex environments using a range of sensing modalities. You will play a key role in measuring end-to-end system performance, identifying key issues and provide detailed feedback for performance improvement. You will engage cross functionally with a wider range of experts to build a robust and scalable triage and measurement system. You will use statistical modeling and develop expertise in Perception system performance trends, forecasting methodologies, and synthesize key findings for leadership reviews.
-	- 5+ years of experience in testing, QA or algorithm development for Autonomous Perception systems
-	- A deep understanding of perception functions its impact on motion planning
-	- Knowledge of machine learning models and deep learning fundamentals
-	- A background in statistical analysis, system-level triage of complex systems
-	- Proficient in data analysis, scripting and automation using python
-	- Familiarity with data products from optical sensors like lidar and camera is desired
-	- You will be developing and maintaining a Perception performance measurement pipeline that provides continuous feedback to developers for performance improvement and debugging. The work involves significant cross functional interaction with system test engineers, model, and tooling developers.
-	- Defining procedure and tooling requirements for a triage and test pipeline that identifies, classifies, and measures perception failure rates.
-	- Engaging with relevant partners to ensure timely implementation and delivery. 
-	- Synthesize failure rate data to derive meaningful trends and sensitivities, and track measured improvements and regressions over time. 
-	- Create and own dashboards for leadership reviews and develop expertise in observed system performance. 
-	- Root causing and failure analyses in partnership with deep learning model developers will be essential to be effective in this role. 
-	- You will also have opportunities to develop statistical models to forecast full system performance using developer metrics, critical scenario testing, and past performance.
-	- Masters degree in engineering, data science, statistics, or mathematics
-	- 5+ years of relevant Industry experience in robotics or autonomous systems
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
 
 
 

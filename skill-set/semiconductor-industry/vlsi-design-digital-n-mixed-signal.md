@@ -282,6 +282,72 @@ Skill set for roles in computer architecture, from microarchitecture design (or,
 
 
 
+###	Skills for VLSI Architects
+
+
+Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping)
++ skill set:
+	- C++ Embedded / Semiconductor Experts For SoC Modeling - Virtual Prototyping (2 - 15 Years)
+	- Strong Expertise in C, C++, OOPS, Data Structures, Algorithms
+	- And industry experience in any of the following:
+		* Embedded Software, Device Drivers, Firmware, BSP
+		* Semiconductor SoC Design / Verification 
+	- These ESL Methodologies augments the traditional RTL-GDS System on Chip (SoC) Design Flow and enables advanced techniques: Pre-silicon firmware, Architecture Analysis - Power / Performance Optimization & HW-SW partitioning, Designing at an abstraction level above RTL, SoC / System Level Simulation. It enables innovative electronics products.
+	- Development of fast simulation models / virtual prototypes of SoC & electronics systems
+	- Developing SystemC/TLM2.0 based models of IP blocks, CPU, SoC, System
+	- Firmware bring-up on Virtual Prototype
+	- Verification of models at IP & SoC level
+	- Develop regress able self checking test suites using C/ARM assembly.
+	- Develop System Level Flows and Methodologies using virtual prototypes
+	- Support the firmware teams in effectively using the virtual prototypes 
+	- Strong Expertise in C++, Data structures, Algorithms, OOPs concepts
+	- Familiarity with the functional specification of SoC / Microcontrollers at the register level
+	- SoC architecture, Peripherals, Bus protocols, Interfaces
+	- Experience in either of the following:
+		* 1. Device drivers, Firmware, HAL, Embedded application development
+		* 2. SoC Verification - System Verilog, UVM
+	- Willing to learn SystemC based ESL methodologies
+	- Using simulators, Virtual Prototype for embedded software development
+	- Exposure to CPU architecture (ARM, RISC-V), Instruction Set Simulator (ISS)
+	- Familiarity with the functional specification of SoC / Microcontrollers at register level
+	- Understanding of: System on Chip (SoC) architecture, Semiconductor IP, bus protocols, chip interfaces, communication protocols, design and verification concepts 
+	- SystemC modeling
++ skill set:
+	- SystemC modeling experts for Virtual Prototype development, verification & deployment
+	- We are looking for professionals with 2 – 15 years experience in SoC Modeling Domain for various positions: Engineers, Sr. Engineers, Staff engineers, Architects
+	- Virtual Prototype development for SoC and Electronics Systems for the purpose of embedded software development
+	- Developing SystemC/TLM2.0 based models of IP blocks, CPU, SoC, System
+	- Defining transaction level models of non memory mapped interfaces (I2C, SPI, USB, CAN, Ethernet etc)
+	- Porting the embedded operating system (Linux, VXWorks, Android ) on the virtual prototype, developing the device drivers etc.
+	- Verification of models at IP & SoC level
+	- Develop regress able self checking test suites using C/ARM assembly.
+	- Develop System Level Flows and Methodologies using virtual prototypes
+	- Support the firmware teams in effectively using the virtual prototypes 
+	- Proficiency in C / C++ , Data structures, Algorithms, OOPS concepts
+	- Experience in developing SystemC, TLM based models for the virtual platform of a SoC
+	- Expertise in creating Virtual Prototype of SoC or electronics system 
+	- Experience in using Virtual Prototype tools (Synopsys Virtualizer, Windriver SIMICS etc..)
+	- Experience in using CPU Models: ARM Fast Models, Imperas CPU Models, RISC-V Open Source ISS, QEMU
+	- Validation of virtual prototypes, writing bare metal tests, Embedded tool chain, assembly language, debugging knowledge, embedded Linux 
+	- Software driven verification of SoC & Virtual Prototypes
+	- Knowledge of Microprocessor, Microcontrollers, SoC architecture, bus protocols etc.
+	- Knowledge of Computer and Processor Arch (including Caches, MMU, Pipeline)
+	- Should have exposure to quality processes for project execution, delivery, communication with client
+	- IP-XACT, SystemRDL, Python, UML
+	- Exposure to IoT, Automotive, Mobile or Networking domain 
+	- Experience in using Virtual Prototype tools (Synopsys Virtualizer, Windriver SIMICS etc..)
+	- Experience in using CPU Models: ARM Fast Models, Imperas CPU Models, RISC-V Open Source ISS
+
+
+
+
+
+
+
+
+
+
+
 
 
 
