@@ -520,7 +520,8 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 
 
 
-+ Fred Hutchinson Cancer Research Center
++ Fred Hutchinson Cancer Center
+	- Combines Fred Hutchinson Cancer Research Center with Seattle Cancer Care Alliance (SCCA).
 	- Seattle, WA.
 	- https://www.fredhutch.org/en/about/careers.html
 
