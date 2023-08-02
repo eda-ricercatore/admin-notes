@@ -891,7 +891,29 @@ Projects you will be expected to complete in your the first 6 months
 	- Leverage tools/languages such as Kubernetes, Terraform (IaC), Helm, Python, and others!
 	- Have production experience with IaC (Terraform, ARM, Bicep)
 + skill set:
-	- BLAH.
+	- Senior DevOps Engineering Consultant
+	- Searching for that company that will appreciate your coding skills, your character, and your input? If yes, you're more than welcome to join our ITL Connect network. Here, your capabilities will always be appreciated, your code will find its way into international projects, and you'll have the chance to rub shoulders and learn from some of the best pros in the industry.
+	- Develop and refine CI/CD tools that help engineering to release faster, with high confidence, and with the highest quality possible
+	- Improve workflow automation across the engineering
+	- Partner with the rest of the engineering with the shaping and engineering a high-performing secure payment platform, ensuring it is scalable, stable, and performant, as well as easy to use and maintain
+	- Providing metrics, documentation, and self-service infrastructure to help our users work at pace and get the most out of the platform
+	- Developing automation libraries and tooling
+	- Implement and maintain CI/CD pipelines
+	- Using advanced troubleshooting skills to diagnose and fix problems
+	- Experience in working with Linux and Windows operating systems
+	- Experience with cloud providers as AWS or Azure (Azure being the preferred one)
+	- Experience with monitoring tools such as Prometheus and Grafana or others
+	- Previous work experience with CI/CD which includes tools like SVN, GIT, Octopus Deploy and TeamCity
+	- Experience with tools like ELK Stack, Nginx, CloudFront, RabbitMQ, Ansible, Terraform, CloudFormation
+	- Experience with Agile/Scrum development methodologies
+	- Willingness to learn new tools, programming languages, technologies
+	- Excellent written and spoken English
+	- Well organized with excellent attention to detail.
+	- Team player and able to work with teams that are in multiple locations.
+	- Personal initiative and drive with the ability to work in a fast-paced work environment.
+	- Scripting with Python or Java programming language
+	- Certification in Azure or AWS
+	- Microservice Architecture knowledge
 + skill set:
 	- BLAH.
 + skill set:

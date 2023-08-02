@@ -6597,7 +6597,22 @@ Sets of skills for generic data science roles, or data scientist positions:
 	- Tableau
 	- Looker Studio
 + skill set:
-	- BLAH.
+	- Data Scientist
+	- Algorithmically agile including experience with a variety of classical and deep learning based machine learning capabilities. Should be familiar with packages like scikit-learn, keras, spacy, open cv, tensorflow, pytorch.
+	- Strong programming skills including at least 1 dynamic (preferably Python) and 1 compiled language (e.g. Java, Scala, C++).
+	- BS or advanced degree (MS or PhD preferred) in computer science, engineering, or related technical field.
+	- Great communication skills including the ability to communicate directly with customers communicating challenging machine learning concepts. Ability to create great data visualizations is necessary.
+	- Experience working in a distributed computing environment.
+	- Published academic work in core machine learning (ML) and/or open-source NLP software contributions.
+	- Experience developing, testing, and shipping production software.
+	- Knowledge of cloud services in AWS, for example EC2, S3, etc.
+	- Familiarity with distributed source control management system such as GIT.
+	- Experience accelerating startups and working on green space problems.
+	- Passionate about building innovative products that delight customers
+	- Excited to work on multiple ML problems in a variety of domains with different data types
+	- Fun to work with and thrilled to make an impact
+	- The type that doesn’t whine or complain, but rather tries and instigates change or disagrees and still commits
+	- Thrilled to work on a small team of full stack data scientists
 + skill set:
 	- BLAH.
 + skill set:
