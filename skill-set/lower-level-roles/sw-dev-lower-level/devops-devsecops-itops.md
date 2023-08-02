@@ -886,6 +886,60 @@ Projects you will be expected to complete in your the first 6 months
 	- The job is wide-ranging, involving both technical and product design challenges — from finding ways to speed up our static analysis and test harnesses to working with users to understand their workflows and requirements and designing solutions that fit their needs. 
 	- We’re also looking for someone who can contribute to guiding our relatively young Python ecosystem, helping us form and communicate best practices, and make good choices about the tools and libraries we use.
 	- Lots of our automation and Python tooling is written in OCaml, but we’re happy to teach you that, and we don’t expect any previous experience with OCaml or any other functional programming language.
++ Experience with Kubernetes, Terraform, Docker, Jenkins, Prometheus, Elasticsearch, MySQL, Postgresql, Mongodb, and Ansible.
++ skill set:
+	- Leverage tools/languages such as Kubernetes, Terraform (IaC), Helm, Python, and others!
+	- Have production experience with IaC (Terraform, ARM, Bicep)
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:

@@ -126,6 +126,121 @@
 
 
 
+
+
+
+
+
+
+###	Product Management for Machine Learning Products and Services
+
+
+
+
+
+Sets of skills for product management for machine learning products and services:
++ skill set:
+	- Product Manager, Cloud
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Modular is building a next-generation AI infrastructure platform that connects the many application frameworks and hardware backends, simplifying deployment for AI production teams and accelerating innovation for AI researchers and hardware developers. We are looking for someone to drive the development and success of Modular’s compute platform – defining and developing a cloud-based AI inference system that provides state-of-the-art performance, scalability, usability, and program portability to customers. In this role, you will work closely with our cloud development team and interface with the world’s leading AI companies. Join our world-leading product team and redefine how AI infrastructure is built and deployed.
+	- Define a cloud product strategy that aligns with Modular’s overall business goals and objectives.
+	- Work closely with Modular’s development team and world leading AI application developers to define, design, and develop a state-of-the-art cloud-based AI inference system.
+	- Create and maintain product roadmaps, feature prioritization, and release schedules.
+	- Collaborate with marketing, design, and other cross-functional teams to ensure the success of the cloud-based AI inference system.
+	- Conduct market research and gather customer feedback to identify new opportunities and drive innovation.
+	- Have a growth and leadership mindset, with an attitude that seeks to learn more from our customers, team, and the broader market.
+	- 7+ years product management, including significant time working on a technical product within Cloud, AI, or Data, or experience as a former software/AI developer.
+	- Knowledge of cloud technologies and architectures, and/or past experience working on AI infrastructure/cloud products and platforms like TensorFlow, PyTorch, TensorRT, CUDA, Triton Inference Server, VertexAI, Sagemaker.
+	- Experience driving product vision, go-to-market strategy, and design discussions.
+	- Experience creating strategic product roadmaps and working with cross-functional teams.
+	- Experience with market research and customer feedback to drive product innovation.
+	- Strong analytical and problem-solving skills.
+	- Master's degree or Ph.D. in Computer Science or related technical field.
+	- Experience developing, training, and/or deploying machine learning models into production environments.
+	- Knowledge of multiple functional areas (e.g., Product Management, Engineering, UX/UI, or Marketing).
+	- Ability to influence multiple stakeholders without direct authority.
+	- Have worked in or around startups before or have a strong understanding of the nature of fast-moving, highly dynamic teams.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $180,000.00 - $253,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
+	- For candidates who fall outside of the listed requirements, we nevertheless encourage you to apply as we may have openings that are lower/higher level than the ones advertised.
++ skill set:
+	- Product Marketing Manager
+	- Modular is building a next-generation AI infrastructure platform, including an engine that connects the many application frameworks and hardware backends, simplifying deployment for AI production teams. In this role, you are responsible for driving the messaging and positioning of Modular products across all communication mediums. You will work closely with product management and developer advocacy to understand user needs and create collateral that resonates with our enterprise customers and community. Join our world-leading team and redefine how AI infrastructure is built and deployed.
+	- Develop compelling product messaging across all of Modular’s external product surfaces (e.g., Modular.com) that clearly articulates the value of Modular products to our target customers and community.
+	- Partner with product management, engineering, and operations to develop industry leading product events, including inspiring executive keynotes and captivating product demonstrations
+	- Create or manage the development of marketing collateral across various content types (written, video, presentation, social media, etc)
+	- Conduct market research to better understand the needs of our customers and community, industry trends, and competitors.
+	- Monitor the performance (usage, feedback, etc.) of Modulars products in the marketplace to identify areas for improvement and areas of strength
+	- Collaborate with Modular product management and engineering teams to ensure cohesive, successful product positioning and messaging
+	- 7+ years in technical product marketing or similar role.
+	- Experience building marketing content and assets for developer communities
+	- Experience working with AI/ML infrastructure products such as TensorFlow, PyTorch, TensorRT, and CUDA, and knowledge of cloud technologies and platforms like AWS, GCP, Azure, Kubernetes, VertexAI, and Sagemaker.
+	- Experience leading cross-functional teams, working across multiple engineering, developer advocacy, and product teams, delivering complex technical projects on time.
+	- Excellent written and verbal communication skills, including the ability to present technical subject matter and material to stakeholders of various sizes and knowledge levels.
+	- A passion for staying up to date with industry trends and happenings.
+	- A growth and leadership mindset, with an attitude that seeks to learn more from our customers, team, and the broader market.
+	- Prior experience working in ML Engineering/Ops.
+	- Master's degree or Ph.D. in AI, Computer Science, or related technical field.
+	- Have worked in or around startups before or have a strong understanding of the nature of fast-moving, highly dynamic teams.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Product Engineering
 
 

@@ -162,6 +162,22 @@ Skill set for compiler design:
 	- Familiar with compilation principles and architecture, experience in compiler development and optimization debugging is preferred;
 	- Familiar with deep learning framework and network model.
 + skill set:
+	- Staff AI Graph Compiler Engineer
+	- Modular is looking for Staff AI Graph Compiler engineers to work on multi-framework, multi-hardware and user-extensible compiler infrastructure. We are looking for candidates with strong communication and teamwork skills who excel in collaborating across team boundaries. In this role you will own the design and implementation of compiler types, operations and passes related to machine learning models, and work across teams to integrate them with the rest of Modular’s product.
+	- Build an MLIR-based machine learning compiler with scalable and high quality infrastructure
+	- Implement generic and extensible optimizations, such as constant folding, operation fusion, model parallelization, and quantization.
+	- Analyze and improve performance across multiple different model architectures and ML frameworks.
+	- Work with other teams to provide a balanced stack that fully utilizes today’s complex server and mobile systems.
+	- Collaborate with machine learning researchers and engineers to guide compiler development for future ML trends.
+	- 8+ years of compiler engineering experience.
+	- Experience working with compilers for machine learning, such as XLA, Glow, TVM, nGraph, etc.
+	- Experience with ML graph optimizations, 8 bit and lower model quantization, parallel / distributed programming, and/or heterogeneous ML computation.
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
+	- Strong knowledge of core compiler algorithms and data structures.
+	- In-depth knowledge of C++, as well as, knowledge of basic GitHub workflows like pull requests.
+	- Strong knowledge of and experience working with MLIR and LLVM.
+	- Advanced degree in Computer Science or a related area
++ skill set:
 	- Computer Vision/Deep Learning Compiler Engineer
 	- We are working on developing a modern programming framework designed to facilitate the implementation of high-performance computer vision and machine learning algorithms on Apple hardware. We are looking for an extraordinary compiler engineer to join us on projects that will impact hundreds of millions of users.
 	- C++ development experience
@@ -255,6 +271,22 @@ Skill set for compiler design:
 	- Have good communication skills and code habits; familiar with Linux development and debugging environment, git and other version control tools;
 	- Familiar with compilation frameworks such as LLVM/GCC, and experience in compiler development and optimization debugging is preferred;
 	- Familiarity with heterogeneous programming languages such as CUDA/OpenCL/OpenGL is preferred.
++ skill set:
+	- Mojo Compiler Technical Lead Manager
+	- Modular is building the next-generation AI infrastructure platform that will radically improve the way developers build and deploy AI models. A key component in our technology stack is the Mojo programming language, which combines usability of Python with the performance of C++ and Rust, unlocking programmability of AI hardware. While Mojo is intentionally designed to look like Python and become a superset of Python over time, it also supports a rich set of system programming features, compile-time metaprogramming and autotuning. We are seeking an engineering leader with strong experience in programming system development to help us drive Mojo language design, implementation and developer tooling. This is a unique opportunity to lead development of a new programming language with a rapidly growing user base and a revolutionary impact on AI software.
+	- Drive development of Mojo language features, implementation and development tooling.
+	- Lead Mojo engineering team and provide technical guidance and mentoring to the team engineers.
+	- Engage with Mojo community and, in collaboration with product, drive adoption and evolution of Mojo.
+	- Ensure that the engineering team builds state-of-the-art technology and follows best practices in software development and project management.
+	- Provide technical leadership and career guidance to the team engineers helping them to realize their full potential and set and achieve career goals.
+	- Collaborate with engineering and cross-functional teams to build a balanced technology stack that fully utilizes today’s complex server and mobile systems.
+	- 5+ years experience in building programming systems, including 2+ years in a leadership role.
+	- Understanding of the internals of modern programming languages, such as Python, C++, Rust, Swift or Julia.
+	- Proven experience in managing and developing a high-performance engineering team.
+	- Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
+	- Creativity and passion for building high-quality user-facing products. 
+	- Experience working with the open source developer community is a strong plus.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
 + skill set:
 	- BLAH.
 + skill set:

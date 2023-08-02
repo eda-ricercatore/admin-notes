@@ -4965,14 +4965,39 @@ Skill sets for application engineers of different EDA products:
 		* generic strategies for problem solving
 		* good soft skills
 		* enthusiasm about Julia
++ We have built and contributed to foundational AI technologies like TensorFlow, PyTorch, TF Lite, XLA, TPUs, ONNXRuntime, Android, Apple Neural Engine, MLIR, LLVM, Clang, Swift and more. We are world-leading experts in compilers, runtimes, distributed computation, and hardware, and have deployed production workloads to billions of users and devices.
 + skill set:
-	- BLAH.
+	- Mojo Kernel Engineer
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- ML developers today face significant friction in taking trained models into deployment. They work in a highly fragmented space, with incomplete and patchwork solutions that require significant performance tuning and non-generalizable/ model-specific enhancements. At Modular, we are building the next generation AI platform that will radically improve the way developers build and deploy AI models.
+	- A core part of this offering is providing a platform that allows developers reuse deployment specific tuning and enhancements across model families and frameworks. As an AI Kernel Engineer you will own developing and tuning performance libraries for AI models. You will develop kernels and algorithms to increase performance of kernels, reduce the activation volumes, speedup data pre- and post-processing, and in general increase the end-to-end performance of the model.
+	- Design and optimize high-performance ML numeric and data manipulation kernels/operators.
+	- Utilize low-level C/C++/Assembly programming to achieve state of the art performance. Your work will also entail potentially introducing new novel compiler and tools support.
+	- Work with compiler, framework, runtime and performance teams to deliver end-to-end performance that fully utilizes today’s complex server and mobile systems.
+	- Collaborate with architects and hardware engineers to co-design future accelerators, including ISA for new hardware features and evolving ISA.
+	- Collaborate with machine learning researchers to guide system development for future ML trends.
+	- 6+ years of relevant work experience.
+	- In-depth knowledge of C++ and low-level (micro)architectural performance is required.
+	- 2+ years of experience working on complex code and systems.
+	- Experience with HPC programming and accelerator languages such as CUDA, OpenCL, SYCL, etc.
+	- Experience with performance modeling and performance data analysis.
+	- Understanding of Parallelization techniques for ML / HPC Acceleration.
+	- Deep interest in machine learning technologies and use cases.
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Machine Learning Engineer, Beijing, China
+	- Research and develop key technologies of AI compilers and automatic optimization tools
+	- Research and develop software and hardware co-design methods and related tools
+	- For the IPU chip architecture, develop new AI compilation optimization methods
+	- Participate in the work of the AI compiler open source community
+	- Strong background in computer architecture, in-depth understanding of at least one AI chip architecture
+	- Experience with assembly-level performance tuning on AI chips (including GPUs or other AI chips)
+	- Solid C++ system development ability
+	- Understand the basic principles of deep learning training/inference framework
+	- Experience with AI processor adapting mainstream deep learning framework is preferred
+	- Bachelor degree or above in computer, electronics, communication or mathematics
+	- Excellent teamwork ability, self-motivation and results-driven
 + skill set:
 	- BLAH.
 + skill set:
@@ -6271,6 +6296,7 @@ Notes:
 Sets of skills for generic data science roles, or data scientist positions:
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
++ Data engineering experience and data pipeline tooling (e.g. Airflow, DBT) experience is a plus
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
