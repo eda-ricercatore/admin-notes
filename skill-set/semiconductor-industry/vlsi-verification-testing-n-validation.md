@@ -9,12 +9,155 @@
 VLSI/IC simulation/verification tools
 + Siemens EDA Certus™ Silicon Debug
 + Siemens EDA Codelink®
-+ Siemens EDA ModelSim®Siemens EDA Questa® CDCSiemens EDA Questa® Formal VerificationSiemens EDA Questa® inFactSiemens EDA Questa® Power Aware SimulatorSiemens EDA Questa® SimulatorSiemens EDA Veloce® EmulationSiemens EDA Verification IPSiemens EDA Visualizer™ Debug EnvironmentAldec Active-HDL™Aldec ALINT-PRO™Aldec HES-DVM™Aldec Riviera-PRO™Aldec Spec-TRACER™AmiqEDA® DVT DebuggerAmiqEDA® DVT EclipseAmiqEDA® VerissimoAnsys/Apache PowerArtist™Ansys® Medini AnalyzeASTC Vlab WorksBreker Trek™Blue Pearl HDL Creator™Cadence® Incisive Functional Safety SimulatorCadence® Incisive®Cadence® Incisive® Debug AnalyzerCadence® Indago®Cadence® Jasper® Formal appsCadence® Jasper® Property CheckingCadence® JasperGold® Formal VerificationCadence® JasperGold® SafetyCadence® NC-SimCadence® Palladium®Cadence® Pegasus Verification SystemCadence® Perspec™Cadence® Protium™Cadence® Safety PlannerCadence® Virtual System PlatformCadence® XceliumCadence® Xcelium™ SafetyCadence® vManager SafetyCadence®/Denali VIPImperas DEVImperas EPKsImperas Instruction Set SimulatorImperas M*SDKImperas QuantumLeapMetrics Cloud SimulatorOneSpin 360 DV - (Inspect/Verify/Certify)OneSpin 360 EC - (ASIC/FPGA/RTL)Real Intent Ascent™Real Intent Meridian™Sigasi® StudioSynopsys Certitude®Synopsys HAPS®Synopsys Platform Architect™Synopsys VCS®Synopsys Verdi® DebugSynopsys Verdi3™Synopsys Virtualizer™Synopsys Z01X™Synopsys Zebu® EmulationSynopsys® EchoSynopsys® MVSim/MVRCSynopsys® Spyglass® CDCSynopsys® Spyglass® LintSynopsys® VC FormalSynopsys® VIPWind River® Simics®Xilinx Vivado® SimulatorProprietary prototyping hardwareOther technologies and VIP
++ Siemens EDA ModelSim®
++ Siemens EDA Questa® CDC
++ Siemens EDA Questa® Formal Verification
++ Siemens EDA Questa® inFact
++ Siemens EDA Questa® Power Aware Simulator
++ Siemens EDA Questa® Simulator
++ Siemens EDA Veloce® Emulation
++ Siemens EDA Verification IP
++ Siemens EDA Visualizer™ Debug Environment
++ Aldec Active-HDL™
++ Aldec ALINT-PRO™
++ Aldec HES-DVM™
++ Aldec Riviera-PRO™
++ Aldec Spec-TRACER™
++ AmiqEDA® DVT Debugger
++ AmiqEDA® DVT Eclipse
++ AmiqEDA® Verissimo
++ Ansys/Apache PowerArtist™
++ Ansys® Medini Analyze
++ ASTC Vlab Works
++ Breker Trek™
++ Blue Pearl HDL Creator™
++ Cadence® Incisive Functional Safety Simulator
++ Cadence® Incisive®
++ Cadence® Incisive® Debug Analyzer
++ Cadence® Indago®
++ Cadence® Jasper® Formal apps
++ Cadence® Jasper® Property Checking
++ Cadence® JasperGold® Formal Verification
++ Cadence® JasperGold® Safety
++ Cadence® NC-Sim
++ Cadence® Palladium®
++ Cadence® Pegasus Verification System
++ Cadence® Perspec™
++ Cadence® Protium™
++ Cadence® Safety Planner
++ Cadence® Virtual System Platform
++ Cadence® Xcelium
++ Cadence® Xcelium™ Safety
++ Cadence® vManager Safety
++ Cadence®/Denali VIP
++ Imperas DEV
++ Imperas EPKs
++ Imperas Instruction Set Simulator
++ Imperas M\*SDK
++ Imperas QuantumLeap
++ Metrics Cloud Simulator
++ OneSpin 360 DV - (Inspect/Verify/Certify)
++ OneSpin 360 EC - (ASIC/FPGA/RTL)
++ Real Intent Ascent™
++ Real Intent Meridian™
++ Sigasi® Studio
++ Synopsys Certitude®
++ Synopsys HAPS®
++ Synopsys Platform Architect™
++ Synopsys VCS®
++ Synopsys Verdi® Debug
++ Synopsys Verdi3™
++ Synopsys Virtualizer™
++ Synopsys Z01X™
++ Synopsys Zebu® Emulation
++ Synopsys® Echo
++ Synopsys® MVSim/MVRC
++ Synopsys® Spyglass® CDC
++ Synopsys® Spyglass® Lint
++ Synopsys® VC Formal
++ Synopsys® VIP
++ Wind River® Simics®
++ Xilinx Vivado® Simulator
++ Proprietary prototyping hardware
++ Other technologies and VIP
 
 
 
 
-podcast@dac.com
+Languages or libraries for describing assertions:
++ SVA
++ 0-In
++ PSL
++ OVL
++ QVL
++ Vera
++ e
+
+
+
+Techniques from VLSI verification methodologies:
++ Assertion Coverage
++ Assertion Based Verification
++ Clock Domain Crossing Verification
++ Code Coverage
++ Constrained Random Testing
++ Directed Testing
++ Formal Functional Verification / Formal Analysis
++ Functional Coverage
++ Hardware / Software Verification
++ Hardware Accelerated Verification
++ In-circuit Emulation
++ Intelligent Testbench Automation
++ Linting and Static Checkers
++ Mixed-signal Verification
++ Software Based Verification
++ Portable Stimulus
++ Transaction Level Verification
+
+
+
+
+Standard communication interface protocols:
++ 10 GB Ethernet
++ 10/100/1000 Ethernet
++ AMBA® AHB/APB On-Chip Bus
++ AMBA® AXI
++ AMBA® 4 ACE
++ AMBA® 5 CHI
++ FibreChannel
++ OCP On-Chip Bus
++ PCI-Express
++ SATA
++ USB
+
+
+
+
+
+Design languages for verification:
++ Verilog
++ VHDL
++ SystemVerilog
++ SystemC
++ PSL
++ C/C++
++ Vera
++ e
++ MATLAB
++ Portable Stimulus Standard
+
+
+
+
+
+VLSI verification methodologies:
++ Universal Verification Methodology (UVM)
++ Universal Reuse (URM)
++ e Reuse (eRM)
++ Open Source VHDL Verification Methodology (OSVVM)
++ Universal VHDL Verification Methodology (UVVM)
++ COCOTB (Coroutine Co-simulation Test Bench)
++ Home-grown
 
 
 
