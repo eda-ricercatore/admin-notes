@@ -114,6 +114,7 @@ Types of interfaces:
 		* Framer
 		* Principle
 + Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
++ Proficiency in UX design tools such as Sketch, Figma, and Adobe XD.
 + skill set:
 	- BLAH.
 + skill set:

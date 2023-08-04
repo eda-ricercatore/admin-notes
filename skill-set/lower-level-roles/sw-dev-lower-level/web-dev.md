@@ -644,7 +644,39 @@ reactive programming = asynchronous dataflow programming
 + Next.js, for full-stack Web development
 + Proficiencies in one or more of Python, Node, React, Next.js and MongoDB
 + skill set:
-	- BLAH.
+	- Software Engineer - Python
+	- Develop application code according to requirements and assigned tasks.
+	- Contribute to lifecycle Flow and value streams by following and prescribing methodologies and best practices.
+	- Solve the most difficult software development challenges.
+	- Maintain balance of business and technical acumen in decision making.
+	- Contribute to source-code management and work item tracking best practices.
+	- Contribute to the estimation process during planning exercises.
+	- Provide consultation to development management team.
+	-Must demonstrate good decision making and effective business acumen.
+	- Must be able to communicate in both written and verbal form.
+	- Must maintain the confidentiality of work-related information and materials.
+	- Must have a growth mindset and subscribe to a continuous learning philosophy.
+	- Demonstrate expertise and mastery in your area of technology and industry.
+	- Must establish and maintain effective working relationships.
+	- 3+ years of work experience as a Python Developer.
+	- Knowledge of Python web frameworks and event-driven programming.
+	- Good Knowledge of at least one popular Python framework (like Django, Flask, Pyramid or FastAPI).
+	- Basic knowledge of front-end technologies, such as HTML5, Type Script, and CSS3.
+	- Hands-on experience with SQL and good exposure to optimization techniques & addressing performance issues.
+	- Knowledge of PostgreSQL is an added advantage but experience with any relational DB would be fine.
+	- Experience with Object-Relational Mapping (ORM) (e.g., SQLAlchemy).
+	- Experience with Celery (Python distributed task queue)
+	- Experience with RESTful API and understanding of web security.
+	- Strong unit test and debugging skills.
+	- Proficient understanding of code versioning tools.
+	- Writing clean code and following good practices
+	- High attention to detail.
+	- Excellent communication and problem-solving skills.
+	- Ability to learn new languages and technologies.
+	- Security background or basic 101-type understanding.
+	- Familiarity with Docker.
+	- Experience in working with AWS.
+	- Experience in working in scrum teams.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1306,7 +1338,62 @@ reactive programming = asynchronous dataflow programming
 		* Good communication skills
 	- In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
 + skill set:
-	- BLAH.
+	- Sr. Software Engineer (C++)
+	- The Sr. Software Engineer position is responsible for writing application code to contribute to the full lifecycle of development from concept to post-production support and maintenance of server / OS / desktop / web applications and services. This position will develop application code, contribute to version-controlled source code repositories and will manage assigned tasks to create measurable value and deliver software to market using industry recognized agile methodologies and best practices. The Sr. Software Engineer will be responsible for coding according to prescribed standards and guidelines set forth by the architects and leadership teams and must demonstrate quality, brevity and timeliness in all deliverables.
+	- Develop application code according to requirements and assigned tasks
+	- Contribute to lifecycle Flow and value streams by following prescribed methodologies and best practices
+	- Mentor and coach junior development team members
+	- Maintain balance of business and technical acumen in decision making
+	- Follow source-code management and work item tracking best practices
+	- Contribute to the estimation process during planning exercises
+	- Provide consultation to development management team
+	- Must demonstrate good decision making and effective business acumen
+	- Must maintain confidentiality of work-related information and materials
+	- Must have a growth mindset and subscribe to a continuous learning philosophy
+	- Demonstrate expertise and mastery in your area of technology and industry
+	- Must establish and maintain effective working relationships
+	- 6+ years professional experience performing software development
+	- 1+ years professional experience performing quality analysis tightly coupled to the software development process
+	- Expert knowledge with respect to the following:
+		* Visual C++, C++11 (CLR)
+		* C#, .NET (Framework, Standard and Core 5+)
+		* SQL Server (Fluent with stored procedures, functions, indexes, views, profiler, tracing)
+		* Web Services (gRPC, REST)
+		* ASP.NET, ASP.NET Core and Web API
+		* Unit and integration tests (MSTest, xUnit, NUnit, mocking)
+	- Expert knowledge of toolsets such as:
+		* Azure Pipelines
+		* Git
+		* Azure DevOps
+	- Nice to have skills:
+		* Containers, Docker, Kubernetes
+		* PowerShell
+		* Application Telemetry
+		* NuGet
+		* Postman or similar
+		* Swagger, Open API
+	- SDLC Methodologies:
+		* Agile, Scaled Agile
+	- Non-functional Requirements:
+		* Scaling, performance
+	- Design
+		* Design patterns
+		* Architectural patterns, microservices
+		* Code quality, clean code
+	- Ability to collaborate, validate and assist prioritizing requirements for projects and request
+	- Ability to properly assess and articulate risk
+	- B.S. or higher in computer science/technology field preferred or equivalent industry experience
+	- Excellent customer-service orientation
+	- Effective delegation of tasks and follow-up
+	- Lead technology assessments and author recommendations
+	- Knowledgeable of system and software quality assurance best practices and methodologies
+	- Capable of meeting deadlines and focuses on results and value creation
+	- Capable of professionally resolving team issues/conflicts
+	- Works well with customers and vendors, knows when and how hard to push to maintain a stable and reliable environment
+	- Capable of leading research into application development issues to successful completion
+	- Self-motivated and directed
+	- Capable of prioritizing and execution of tasks in a high-pressure environment
+	- Knowledge of applicable data privacy practices and regulations preferred (PCI, PII, PHI, HIPAA, GDPR, ADA, etc.)
 + skill set:
 	- BLAH.
 + skill set:
