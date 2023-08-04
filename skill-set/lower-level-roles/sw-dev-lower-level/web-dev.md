@@ -1395,7 +1395,11 @@ reactive programming = asynchronous dataflow programming
 	- Capable of prioritizing and execution of tasks in a high-pressure environment
 	- Knowledge of applicable data privacy practices and regulations preferred (PCI, PII, PHI, HIPAA, GDPR, ADA, etc.)
 + skill set:
-	- BLAH.
+	- Core Java
+	- Database (MySQL)
+	- Spring Framework
+	- Spring Boot
+	- Hibernate/ORM
 + skill set:
 	- BLAH.
 + skill set:

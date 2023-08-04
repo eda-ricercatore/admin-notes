@@ -240,8 +240,7 @@ Skill set for management of information systems, MIS:
 + all types of data stores - NoSQL, wide column, Graph, triplestores
 + Hands-on experience with NoSql databases and Big Data processing system
 + Familiarity with a range of database solutions, e.g. Redis, NoSQL, PostgreSQL and general storage solutions like S3 and R2
-+ skill set:
-	- BLAH.
++ Strong programming capabilities in SQL and other DB technologies– Stored Procedures, Functions, Triggers, Views, Transactions, Data Flow, etc
 + skill set:
 	- BLAH.
 + skill set:
