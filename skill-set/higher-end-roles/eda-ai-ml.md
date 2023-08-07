@@ -4999,9 +4999,43 @@ Skill sets for application engineers of different EDA products:
 	- Bachelor degree or above in computer, electronics, communication or mathematics
 	- Excellent teamwork ability, self-motivation and results-driven
 + skill set:
-	- BLAH.
+	- Lead ML & AI Engineer
+	- Develop a Tech driven innovation strategy for TIL based on the principles of Design Thinking.
+	- Identify and Define relevant channels of engagement across HERE for TIL to expand the impact footprint of the business vertical
+	- Define IP monetization strategy that will enable HERE to earn revenue /enter new market
+	- Define startup/university engagement framework for successful collaboration with these bodies, in line with HERE’s business strategy.
+	- Identify the domains in technology where TIL and HERE should engage and defining a strategy for realization of same through development of disruptive prototypes in line with HERE business strategy
+	- Enabling invention of new frameworks /solutions in the domain of AIML, Blockchain, Location intelligence, distributed computing,quantum computing, tinyML, etc
+	- Improving the innovation index of HERE, by getting research papers published in NeurIPS, IEEE, and awarded recognition in international forums like CES, Stevie ,etc
+	- Enabling y-O-y increase in number of patents being filed by the team
+	- Work with the Manager to Identify and Define lead KPIs related to effective assessment of performance at individual level and impact assessment of innovation implementation at business unit level
+	- Support team to design experiments and stay up to date with industry inventions in AIML(esp Computer Vision), blockchain, quantum computing, Location Intelligence , distributed computing LiDAR and Drone processing, 3D modelling , AR/VR
+	- Identify relevant research papers in above mentioned tech domains and enable team to design solutions for the same
+	- MS/ MSc/ PhD in the field of Computer Science, Machine Learning, Mathematics, Location Intelligence , Signal Processing or related quantitative field
+	- Understanding of statistical analysis of data and mathematical modeling
+	- Knowledge of Clustering, Regression, Decision Trees, Forecasting, RandomForest, XGBoost, SVM, Deep Neural Networks (CNN, GRU, LSTM, Activation and Pooling layers), GAN, Encoders, Transformers, BERT, Graph Neural Network , diffusion models
+	- Experience in Object Detection, Localization, Segmentation using Computer Vision and Deep Learning
+	- Ability to handle large datasets and images of high resolution (4K) using Scala, Hadoop, Pyspark
+	- Candidates with MSc/MS in Mathematics/Computer Science, Machine learning and AI or related quantitative needs 10yrs of experience. Candidates with PhD in related fields may have 5 yrs of experience
+	- The candidate should possess a certified degree in the field of quantum physics and other related fields.
+	- Should have adequate knowledge about machine learning and artificial intelligence.
+	- Prior experience through internships and volunteering with professionals will also be needed to apply for the quantum engineer profile.
+	- Should possess in-depth knowledge about the emerging and simulating fields and approach challenges with unique perspectives.
+	- The candidates should also possess a basic knowledge of the different programming language
+	- 8 or more years of experience in research and/or corporates with multi tech domain exposure
+	- Demonstrated experience in setting up new business verticals and leading them to success
+	- Demonstrated experience in successful team and performance management
+	- Demonstrated experience in designing business strategy and successful execution of the same
+	- Have prior experience in designing innovation strategy with organization wide impact
+	- Have minimum 10 patents/ international publications in high impact factor journals like NeurIPS, IEEE, etc
+	- Shows a combined experience in both research and business field
+	- Startup experience is advantageous and highly desirable
 + skill set:
-	- BLAH.
+	- A data scientist experienced with using real-world data to analyze and develop algorithms that are incorporated into commercially profitable product lines. Someone who can leverage clustering algorithms to model non-Gaussian statistics;  who is able to study the physical characteristics of a problem and design mathematical models that solve problems from first principles;  has a desire to learn, develop, and keep up to pace with the state-of-the-art machine learning based algorithms; has the ability to be a subject matter expert on HERE’s technologies and product lines and leverage that knowledge to identify derivative algorithms to create new growth opportunities.
+	- Knowledge of data mining and analytic methods.
+	- Perform your day-to-day work by programming in Python and work with associated statistical and analytics packages in python.
+	- Leverage AWS technologies and use them to develop modelling pipelines.
+	- Proficiency with statistical analysis packages.
 + skill set:
 	- BLAH.
 + skill set:

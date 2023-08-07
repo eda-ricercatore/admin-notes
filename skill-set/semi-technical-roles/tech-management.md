@@ -43,9 +43,32 @@
 		* React or AngularJS
 		* Statistics and predictive modeling (using tools like pandas, scikit-learn, NumPy, SciPy, R, STATA)
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Foundation Engineering enables the creation of mapping products that are highly available, performant, and near real-time.  The Software Engineering Manager will cultivate a team to deliver digital maps to major automakers, for e.g. BMWs, VWs, Audi, Daimler.  You will work on a technology to collect and process road information from many sources, terabytes of data, including car sensors from millions of cars on the road. Our services convert this input into a digital map which is delivered back to the cars and used for navigation, driver assistance and even autonomous driving.  Lead and develop software engineers in building new services that will rapidly launch their differentiated prototypes leveraging templates that enforce security, availability, and efficiency best-practices with a minimal collection of service-specific libraries.
+	- You are a talented Engineering manager to work in the Foundation Engineering team. The team creates the most comprehensive map products in the market, intended to support a variety of business cases. You manage a team of 5-10 engineers.
+	- As a technical leader and an effective people manager you can hold your own in a technical discussion, be a subject matter expert, and have strategic influence.
+	- Collaboration with Internal and external customer and stakeholders for understanding the Business processes and solution implementations for the acceptance criteria.
+	- Perform Technical architectural design and review.
+	- You spend time and effort hiring top talent, coaching and developing people to bring out best.
+	- Follow a documented software development process and be accountable for conformance to software quality standards.
+	- Work collaboratively with other engineering teams to ensure cross-functional goals are met.
+	- Participating in architecture and design discussions and reviews.
+	- Participating in cross-team strategy discussions within the team
+	- Enable the team to execute high-velocity software development, support their needs and resolve possible conflicts
+	- Communicate with leadership regarding progress against plans, issues, and needs.
+	- Work with users and/or product owners to help define application specifications
+	- Lead the team to follow organizational standards engineering best practice
+	- Bachelor or master’s degree in Computer Science/Information Systems or equivalent with total of 10 to 18 years of experience
+	- 3+ years of technical leadership and people management experience
+	- Practical experience in hiring, mentoring, and developing engineers
+	- 10+ years backend application development experience – Java or functional programming language, preferably Scala.
+	- Cloud Experience (AWS/Azure/IBM/Oracle)
+	- Experience in development of Service oriented architecture, Spring framework and web services
+	- Experience in data structures and algorithms
+	- Infrastructure experience: Maven/SBT, GIT/GERRIT, Apache Spark, Amazon Web Services, Jenkins, Linux Environment
+	- Experience building REST web service clients and servers.
+	- Experience in large scale data processing leveraging frameworks like Hadoop, Map/Reduce etc.
+	- Experience of persistence with relational and NoSQL data stores.
+	- Excellent team player with the ability to work within a collaborative environment.
 + skill set:
 	- BLAH.
 + skill set:

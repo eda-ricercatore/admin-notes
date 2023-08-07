@@ -127,11 +127,45 @@
 	- Kernel Mode Driver, KMD, KMD stack, Kernel Mode Driver stack
 	- http://nvdla.org/sw/runtime_environment.html
 + skill set:
-	- BLAH.
+	- SENIOR Software Engineer (Automotive AQA) would be a part of Professional Services - Global Solution Engineering, you will be responsible to design, implement and document test automation suites for customer projects in various industries, including Automotive, Transports and Logistics.
+	- Design and develop automation scripts and streamline testing methodology with various test automation tools like JTF , Selenium, Cucumber , Appium , Pytest as needed.
+	- Should have extensive experience in using languages like Python , Java , Javascript , C++ etc for Automation.
+	- Should have experience with Android Automation.
+	- Map the requirements, understand user acceptance criteria, and convert user stories into tangible test cases.
+	- Automate different levels of testing (System, Integration, Regression, Acceptance, Performance) ; create and maintain test pipelines with tools like Jenkins / Gitlab
+	- Detect and track software defects and inconsistencies, track software test results in relevant tools/databases like JIRA / confluence ; provide timely feedbacks
+	- Maintain and improve automated test suites , Test plans , documentation to ensure quality of existing solutions and updates being applied to these solutions.
+	- Assist team in troubleshooting issues that may arise during testing phase and in production phase.
+	- Maintain and increase product code quality, while ensuring best engineering practices
+	- Top-tier software engineer with primary focus in Python, Java development and QA with proven proficiency in development for large integrated software solutions.
+	- 5+ Years of experience in various test automation frameworks like Selenium, Cucumber , Appium , Pytest etc. is required
+	- Strong knowledge of testing concepts including different staging environments with requirements traceability.
+	- Experience with automation on Android platform – (adb , logcat).
+	- Basic knowledge of DevOps and CI/CD methods , AWS / S3 (cloud).
+	- Knowledge of databases like SQL.
+	- Analytical approach and problem-solving skills.
+	- Excellent collaborative skills , spoken English and experience in multi cultural and multi-site working environment is a big plus
+	- Knowledge of location-based services such as mapping, navigation, GPS
+	- Desired testing certifications viz. ISTQB, CSTE, CP-BAT, CP-MAT, CP-SAT etc.
+	- Experience in working with embedded and/or automotive hardware test environments
+	- Testing of safety critical equipment’s
+	- Knowledge on location or automotive specific industry standards, e.g., Navigation Data Standard (NDS) etc.
 + skill set:
-	- BLAH.
+	- 5+ Years of experience with mapping technologies, GIS software and concepts
+	- 6+ Years of experience in test and defect management tools like JIRA, Bugzilla, Zypher etc.
+	- 6+ Years of experience in one or more test automation tools like Selenium, QTP, Cypress etc.
+	- Ability to solve complex test automation tasks beyond standard capabilities of test automation tools
+	- Experience with load and performance testing with tools like JMeter is an added advantage.
+	- Hands on experience with IDE’s like Eclipse, IntelliJ etc, and Maven is required
+	- Demonstrable experience in frameworks like TestNG, POM, Robot.
+	- Experience in API automation with Rest Assured, SOAP UI is an added advantage
+	- Experience with CI/CD tools like Jenkins or Gitlab is a huge plus.
+	- Mobile testing and automation experience is good to have.
+	- Proficient Knowledge of testing related metrics and standard practices
+	- Desired testing certifications viz. ISTQB, CSTE, CP-SAT, CP-MAT etc.
 + skill set:
-	- BLAH.
+	- Experience in working with testing tools like Lighthouse, Firebug, Firebug Lite, Chrome or Safari Web Inspectors, and IE Developer Toolbar
+	- Familiarity with any test frameworks such as Mocha, Chai, Jest, Jasmine, Karma, and Cypress.
 + skill set:
 	- BLAH.
 + skill set:

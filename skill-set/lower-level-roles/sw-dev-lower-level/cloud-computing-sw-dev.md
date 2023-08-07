@@ -583,7 +583,8 @@ Notes on cloud computing:
 + AWS services: EC2, Auto Scaling, Lambda, RDS
 + If you have a solid background in software engineering and are familiar with Cloud Services (e.g. AWS, Google Cloud, or others), Node.js, Terraform, or Kubernetes we would like to meet you.
 + skill set:
-	- BLAH.
+	- Solid experience in Scala/Java understanding of Microservices Architecture.
+	- Experience with Amazon Web Services, Spark, Splunk, Docker, Grafana, Prometheus, NGNIX.
 + skill set:
 	- BLAH.
 + skill set:

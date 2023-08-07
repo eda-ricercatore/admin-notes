@@ -322,3 +322,17 @@ Skills related to software development for enterprise search engines:
 	- DOORS
 	- JAMA
 	- Rhapsody
++ skill set:
+	- The HERE Routing Team is an advanced engineering team that delivers core routing functionality, constantly improving our routing algorithms and services. We care about the software design, elegant algorithms, performance, and scalability of our solutions. We use modern C++ 17 for our core algorithms, Rust to build our robust, scalable distributed REST services, Scala / Apache Spark for data processing pipelines, and Python-based frameworks for data-driven quality analysis and automated testing. We utilize a Kubernetes-based  . If you want to work in an engineering-focused technical environment solving real-world logistics and vehicle routing problems – apply!
+	- As part of the team, you will have the opportunity to work on one of the most versatile route calculation engines, capable of running on low-end devices and taking advantage of high-end cloud computing clusters. You will contribute to a wide range of features impacting routing graph preparation, core routing algorithms, maneuver/instruction generation, road traffic updates, Routing web service, and REST APIs. You will help us create a new generation of highly performant and customizable big-scale routing solutions.
+	- Bachelor's or Master’s in Computer Science, Software Engineering, or a similar technical degree
+	- Strong programming skills and solid software design principles in one of modern system programming languages (for example, C++11 or Rust)
+	- Knowledge about algorithms and data structures
+	- Passion for programming, strong focus on performance aspects, willingness to question existing architectures/infrastructure.
+	- Experience in the overall software engineering process, i.e., analysis, implementation, test, and deployment
+	- Experience working with continuous integration tools, i.e., Jenkins, Gitlab, etc.
+	- Very good in English communication skills, both written and spoken
+	- Knowledge of location-based services such as mapping, navigation, GPS
+	- Knowledge of computational geometry or graph/routing algorithms
+	- Experience deploying applications using Kubernetes.
+

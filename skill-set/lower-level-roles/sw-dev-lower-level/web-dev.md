@@ -1821,7 +1821,11 @@ reactive programming = asynchronous dataflow programming
 	- Build features and applications with a mobile responsive design. 
 	- Learn and adapt new technologies to quickly develop required POCs and influence.
 + skill set:
-	- BLAH.
+	- Experience in computer graphics (Three.js, WebGL)
+	- Experience in GIS-related problem solving
+	- Understanding of web application performance optimization
+	- Experience with common JavaScript Maps APIs
+	- Lead Software Engineer (Javascript / Typescript / GIS)
 + skill set:
 	- BLAH.
 + skill set:

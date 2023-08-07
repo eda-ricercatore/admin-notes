@@ -915,41 +915,185 @@ Projects you will be expected to complete in your the first 6 months
 	- Certification in Azure or AWS
 	- Microservice Architecture knowledge
 + skill set:
-	- BLAH.
+	- Infrastructure experience: Maven/SBT, GIT/GERRIT, Jenkins, CI/CD processes, Linux Environment
+	- Hand-on experience in REST, GIT
+	- Experience with Apache Kafka/Spark/Flink, Amazon Web Services and AWS EMR is considered a plus
+	- This position requires fluency in the latest Java capabilities and Spring frameworks.
+	- Experience working with continuous integration and deployment tools like GitLab, Docker, Kubernetes etc.
+	- Knowledge of AWS and similar cloud-based technologies
+	- Knowledge of location-based services such as mapping, navigation, GPS
+	- Knowledge of computational geometry or graph/routing algorithms
+	- Experience with Linux / WSL
 + skill set:
-	- BLAH.
+	- Apply and extended CI/CD tools and execute end-2-end ownership of your developed software stack, including DevOps and testing aspects
+	- We use modern concepts, implementing them in Java and Rust to build our robust, scalable distributed REST services. Our software stack also includes map data compilation and automated testing suites for quality assurance. We use latest CI/CD toolchains to build and deploy our services in a Kubernetes-based environment.
+	- Experience working with continuous integration and deployment tools like GitLab, Docker, Kubernetes etc.
+	- Knowledge of computational geometry or graph/routing algorithms
+	- Experience with Linux / WSL
+	- Maintain and enhance our map data compilation framework.
+	- Strong and applied experience in REST based web service technologies, JSON and XML, SOA and micro services architectures
+	- Strong and applied DBMS & SQL skills, with a strong preference on PostgreSQL / PostGIS
+	- Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
+	- Strong experience CI/CD tools, with a preference on Jenkins
+	- Good knowledge of using issue tracking tools (e.g., JIRA), code collaboration tools (e.g., Git/GitLab) and team collaboration tools (e.g., Confluence/Wiki).
 + skill set:
-	- BLAH.
+	- Excellent experience running production services on public cloud (AWS preferred)
+	- Experience on creating software architecture.
+	- Advanced experience in continuous integration & continuous delivery using GitLab (++)
+	- Hands-on Design patterns and SOA
+	- Experience on Performance optimization
+	- Experience of persistence with relational and NoSQL data stores
+	- Experience in large scale data processing
+	- Proven ability to work independently on milestone with limited supervision.
+	- Excellent team player with the ability to work within a collaborative environment
+	- Working with mapdata e.g. NDS, GIS, RDF, GDF is considered a plus
+	- Working with data transformation scripting / ETL is considered a plus 
 + skill set:
-	- BLAH.
+	- Everything from Network Design, Computer Virtualization, Operating Systems, Storage, Security, Computer Architecture, Product Architecture etc. are pulled together to develop low maintenance, 0-downtime solution architecture, covering operability, monitoring and management.
+	- Automate as much as possible to eliminate human errors.  Work closely with key stakeholders, including Product Development Teams, Network and Technology Strategy Architecture in ensuring the technologies adhere to 99.9% or higher uptime.
+	- Participate and drive technical deliverable with or without assistance from a designated Project Manager. Establish/reiterate the ways of working with larger teams/organization
+	- Performance, Monitoring and Availability: build and maintain a set of Performance benchmarks, and test each new deployments against these benchmarks. Develop and utilize performance and capacity management KPI's for proactive management of large distributed infrastructure environment.
+	- Work as part of a service specific engineering team to design, deploy and support operations
+	- Work as part of a virtual team of engineers responsible for defining and driving various improvement efforts for development workflows
+	- Consolidates system data to formulate reports for business managers
+	- Continue to build and maintain positive customer relationship with teams you support
+	- Present service/solution architecture to larger audience and provide service operations status to the stakeholder
+	- Bachelor's or Master's degree in Computer Science/Engineering, IT or equivalent
+	- 8 to 12  years in software development/testing/DevOps 
+	- 3+ years experiences in DevOps related topics
+	- Very good knowledge of tools for CI/CD (e.g. GitLab CI)
+	- Proven proficiency in scripting language like Python, Shell for automation purposes
+	- Knowledge on Infrastructure as Code (IaC) with proficiency in terraform, ansible, AWS CloudFormation
+	- Automation and management of Release and Delivery processes
+	- Experience in maintenance and support of production environments
+	- Experience with cloud technologies: AWS (EC2, VPC, EKS, RDS, S3)
 + skill set:
-	- BLAH.
+	- Proven expertise in Infrastructure as Code (IaC) &/or Software as a service (SaaS) combined with 5+ years proven proficiency in the scripting technologies Python (++), groovy(+);
+	- Container Orchestration: Kubernetes, Mesosphere, Docker Swarm
+	- Proven track record of having designed and deployed large scale & low latency cloud based systems
+	- Experience with Microservices Architecture
+	- Experience with Amazon Web Services, Spark, Splunk, Kubernetes, Docker, Helm, iPass, Grafana, Prometheus, NGNIX
+	- Proven expertise in GitLab advanced usage & administrative skills, Artifactory & maven
+	- Advanced experience in continuous integration & continuous delivery using GitLab (++)
+	- Experience in configuring and using Open-Source monitoring and trending systems: Prometheus, Grafana, Kibana, Nagios
+	- Experience as Oracle DBA/ SQL, PL/SQL, Oracle 11 – 19
+	- Experience in Spark, Hadoop & Scala
+	- Experience in key-value store
 + skill set:
-	- BLAH.
+	- Experience one or more of Presto, Apache Flink, Apache Spark and Apache Parquet for high volume data processing
+	- Experience with Identity and Access Management (IAM) concepts like OAuth, OpenID, OIDC, JWT
 + skill set:
-	- BLAH.
+	- Experience in Kubernetes and Docker technology
+	- Experience with cloud provider offerings, preferably AWS
 + skill set:
-	- BLAH.
+	- Expert in high throughput data processing in multitenant cloud systems using technologies like AWS ElastiCache, AWS S3, Splunk, AWS RDS
+	- Experience in Kubernetes and/or Docker technology, understanding of microservices architectural style
+	- Experience with Spark and/or Flink
 + skill set:
-	- BLAH.
+	- Experience with Containerization and Container Orchestration like Docker, Kubernetes, AWS Fargate.
+	- Experience with Messaging or Streaming Systems like Kafka, AWS Kinesis, AWS SQS, RabbitMQ, ActiveMQ is a plus
+	- Experience in using Big Data processing Frameworks like Spark, Flink, Presto is a plus.
++ Work with development teams to enable robust CI/CD pipelines and mentor team-mates on standard practices
 + skill set:
-	- BLAH.
+	- Good knowledge of multi-tiered application stacks (primarily Java based) with a mix of technologies; including Apache, Tomcat and JBoss
+	- Familiar with Eclipse, Maven, GIT and CI servers (e.g. Jenkins/Hudson, GO, Bamboo).
+	- Experience with relational databases.
+	- Working knowledge of RESTful APIs, XML, JSON, network programming and message exchange systems using tools like SoapUI, etc.
+	- Experience configuring and using monitoring tools for internal datacenter infrastructure, cloud infrastructure, & containers (Nagios, DataDog, & CloudWatch).
 + skill set:
-	- BLAH.
+	- Exposure with Amazon Web Services and associated technologies
+	- Experience with Kubernetes / EKS-based container orchestration is a strong plus.
+	- Worked with Gitlab Pipelines.
++ Experience with the following technologies is plus: GitLab, AWS, Docker, Artifactory, Jenkins, and Ansible.
 + skill set:
-	- BLAH.
+	- Familiarity with HTTP, the REST principles, and TCP/IP networking, good understanding of OAuth and other authentication and authorization standards
+	- Solid experience in Java, and understanding of Microservices Architecture.
+	- Experience with Amazon Web Services, Spark, Splunk, Kubernetes, Docker, Helm, iPass, Grafana, Prometheus, NGNIX, and Envoy.
+	- Experience in scripting languages Python, Bash, and Lua is a plus.
+	- Strong experience with Web Application Servers and Web Application Architecture, exposure to Amazon API Gateway, or similar products is a plus.
 + skill set:
-	- BLAH.
+	- Design, develop, test, deploy, and oncall support HERE API Gateway components.
+	- Evaluate and choose technologies suitable, and communicate effectively about decisions, direction, and progress, both inside and outside the team.
+	- Provide coaching and technical guidance for less experienced team members.
+	- Develop components and services using agile methods and tools
+	- Build and deploy microservices using Kubernetes, and Docker and understand deployment and monitoring tools like Helm, iPass, Grafana, Prometheus
+	- Must have a BS/MS Degree with 5+ years of experience.
+	- Excellent analytical skills, communication skills with good written and spoken English
+	- Knowledge of basic algorithms and data structures, In-depth experience with writing unit-, acceptance- and performance tests
+	- Familiarity with HTTP, the REST principles, and TCP/IP networking, good understanding of OAuth and other authentication and authorization standards
+	- Solid experience in Java, and understanding of Microservices Architecture.
+	- Experience with Amazon Web Services, Spark, Splunk, Kubernetes, Docker, Helm, iPass, Grafana, Prometheus, NGNIX, and Envoy.
+	- Experience in scripting languages Python, Bash, and Lua is a plus.
+	- Strong experience with Web Application Servers and Web Application Architecture, exposure to Amazon API Gateway, or similar products is a plus.
 + skill set:
-	- BLAH.
+	- As a Software Engineer, you'll have the opportunity to work on this amazing product. Within the cross-functional and self-organized team, you’ll have fun working on systems under huge load and storing a vast amount of data in the very heart of our platform - the Delivery Platform. These services are mission-critical and meet demanding compliance, security, performance, and uptime requirements. You will help run it on production with full control and responsibility. Your role encompasses defining and working on features and technical tasks in a self-directed fashion, supporting your colleagues with technical challenges, working with product management to analyse requirements, talking to stakeholders, designing, implementing, and documenting solutions as well as testing and reviewing your colleagues' work.
+	- architecture, design, develop, test the backend components
+	- evaluate and choose technologies suitable for work
+	- elaboration and refinement of user stories
+	- development infrastructure (build, testing, continuous integration, delivery)
+	- run, monitor, and support in production, ensure our customers receive world-class service by periodically participating in 24x7 on-call shifts
+	- team ceremonies (planning, demo, triage, retrospective)
+	- communicate effectively about decisions, direction, and progress, both inside and outside the team
+	- An ambitious team-player who has experience developing and deploying production-grade services. You have experience with the production software lifecycle, as well as deployment of software to production ready, stable environments. You have 8+ years of professional software development and deployment experience including knowledge of continuous integration, continuous delivery, and automated testing disciplines. You also have good interpersonal skills and feel comfortable coordinating across teams in multiple design centres. In addition you have:
+	- Bachelor/Masters in a technical degree like C.S. or technical management
+	- Strong programming skills with Python.
+	- Experience with cloud-based technologies (e.g. AWS, Azure, GCP, OCI)
+	- Experience with Kubernetes
+	- Experience with deployment automation systems (e.g. Jenkins, Gitlab, etc.)
+	- Interest in high throughput, low latency, highly reliable systems at scale
+	- Interest in DevOps methodologies to drive throughput and stability
+	- Strong analytical skills
 + skill set:
-	- BLAH.
+	- Experience with cloud-based technologies (e.g. AWS, Azure, GCP, OCI)
+	- Experience with Kubernetes
+	- Knowledge with distributed systems; Docker, Terraform, Puppet are desired
+	- Experience with deployment automation systems (e.g. Jenkins, Gitlab, etc.)
+	- Interest in high throughput, low latency, highly reliable systems at scale
+	- Interest in DevOps methodologies to drive throughput and stability
 + skill set:
-	- BLAH.
+	- Strong in Apache Kafka
+Strong in Microservices Architecture 
+Strong and applied DBMS & SQL skills, with a strong preference for PostgreSQL / PostGIS
+Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
+Strong experience with CI/CD tools, with a preference for Jenkins
 + skill set:
-	- BLAH.
+	- Experience working in an Agile team
+Strong level in algorithm engineering
+Mastery of all aspects of the C++03 programming language
+Solid knowledge of C++11/14/17/20 improvements
+Effective practice of the Standard Template Library
+Strong practice of object-oriented programming
+Comfort with threading and IPC
+Excellent collaborative and communication skills
+Comfortable with agile development methodologies like Scrum or Kanban
+Knowledge of iOS programming with Swift
+Knowledge of Android programming with Java or Kotlin
+Knowledge of Boost C++ libraries
+Knowledge of OpenGL
+Knowledge of location based services such as mapping, navigation, GPS
+Experience in using git as a version control system
 + skill set:
-	- BLAH.
+	- Apply and extended CI/CD tools and execute end-2-end ownership of your developed software stack, including DevOps and testing aspects
+
+· Work closely with other full stack and frontend engineers on the team to de/-refine APIs and system integrations
+
+· Work with other engineering teams and internal customers to identify new opportunities, address critical needs, and solve complex problems using your backend development expertise
+
+· Become an expert at leveraging internal platform resources and APIs
+
+· Drive initiatives that contribute in development of software that is efficient, re-usable and reliable (e.g. agile, coding, verification)
+
+· Be part of an agile team, share knowledge, carry out code reviews.
+
+
++ skill set:
+	- Strong in Data Structures & Algorithms
+Strong in Java 8 and above, Spring Boot
+Strong and applied experience in REST-based web service technologies, JSON and XML, SOA, and microservices architectures
+Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
+Able to translate business and architectural features into quality, consistent software design
+Solid knowledge of programming practices, strive to write great code that is reusable, flexible, and reliable.
+Strong quality mindset is considered a must: unit testing, performance testing, writing testable
 + skill set:
 	- BLAH.
 + skill set:

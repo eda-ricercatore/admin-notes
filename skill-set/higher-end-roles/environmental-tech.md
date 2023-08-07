@@ -129,3 +129,65 @@ Environmental technology, envirotech, green technology, or greentech:
 
 
 
+#	Geographic Information System (GIS)
+
+
+
+
++ skill set:
+	- Proficiency in GIS tools such as ESRI ArcPro or QGIS
++ skill set:
+	- Knowledge of programming languages such as SQL, Python and R is a plus
+	- Knowledge of dashboarding and visualization tools such as Tableau is a plus
+	- Sub-regional geographic knowledge/affinity/contextual understanding/cultural awareness
+	- Bachelor’s degree required. Degree in GIS/Geography, Science, Technology or related field preferred.
++ skill set:
+	- Experience in development of Service oriented architecture, Spring framework and web services 
+	- Experience in data structures and algorithms 
+	- AWS skills (EC2, S3, RDS, Lambda), as well as experience with virtualization tools such as Docker, Kubernetes 
+	- NoSQL data stores knowledge
+	- Working with mapdata e.g. NDS, GIS, RDF, GDF 
+	- Working with data transformation scripting / ETL 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+

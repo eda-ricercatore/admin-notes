@@ -243,7 +243,21 @@ Roles in computing security:
 + Experience with common security tools such as nmap, Burp Proxy, Brakeman, etc.
 + Experience with bug bounty programs and reporting issues to them (send examples, please!)
 + skill set:
-	- BLAH.
+	- Fluency in architectural areas of security, network, high-availability, reliability experience
+	- Experience with Identity and Access Management (IAM) concepts like OAuth, OpenID, OIDC, JWT
+	- Experience with Dropwizard metrics, Grafana and Prometheus
+	- Experience with security concepts (TLS, Signatures, Encryption)
+	- Understanding of general AuthN/AuthZ concepts as well as RBAC
+	- Deep understanding of IaaS cloud providers' offerings, preferably AWS
+	- Experience with Identity Management Systems
+	- Experience with highly-scalable and highly-available distributed cloud systems
+	- Experience with location services or geospatial data
+	- Experience with Spark, Flink, Kafka, Redis
+	- Experience with microservice and RESTful architectures
+	- Experience with the full lifecycle of a product
+	- Experience with cloud billing, metering and monitoring
+	- Experience with HTTP gateways for access control
+	- Experience with third party IDP integration
 + skill set:
 	- BLAH.
 + skill set:
