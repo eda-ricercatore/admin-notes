@@ -25,7 +25,7 @@ Generic sets of skills in photonics engineering:
 	- free-space design software, such as Zemax and Code-V
 	- design passive and active silicon photonics components, and use photonic/optoelectronic device simulation tools, from Lumerical, Photon Design, RSoft
 + skill set:
-	- BLAH.
+	- Python, FDTD simulation, optics/chip measurement, statistical modelling, design tools such as KLayout / GDSFactory / IPKISS / L-Edit / Lumerical / Meep / RSoft, integrated photonics design, photonic chip layout, cloud infrastructure/pipeline development, quantum photonics. 
 + skill set:
 	- BLAH.
 + skill set:

@@ -1052,48 +1052,41 @@ Projects you will be expected to complete in your the first 6 months
 	- Interest in DevOps methodologies to drive throughput and stability
 + skill set:
 	- Strong in Apache Kafka
-Strong in Microservices Architecture 
-Strong and applied DBMS & SQL skills, with a strong preference for PostgreSQL / PostGIS
-Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
-Strong experience with CI/CD tools, with a preference for Jenkins
+	- Strong in Microservices Architecture 
+	- Strong and applied DBMS & SQL skills, with a strong preference for PostgreSQL / PostGIS
+	- Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
+	- Strong experience with CI/CD tools, with a preference for Jenkins
 + skill set:
 	- Experience working in an Agile team
-Strong level in algorithm engineering
-Mastery of all aspects of the C++03 programming language
-Solid knowledge of C++11/14/17/20 improvements
-Effective practice of the Standard Template Library
-Strong practice of object-oriented programming
-Comfort with threading and IPC
-Excellent collaborative and communication skills
-Comfortable with agile development methodologies like Scrum or Kanban
-Knowledge of iOS programming with Swift
-Knowledge of Android programming with Java or Kotlin
-Knowledge of Boost C++ libraries
-Knowledge of OpenGL
-Knowledge of location based services such as mapping, navigation, GPS
-Experience in using git as a version control system
+	- Strong level in algorithm engineering
+	- Mastery of all aspects of the C++03 programming language
+	- Solid knowledge of C++11/14/17/20 improvements
+	- Effective practice of the Standard Template Library
+	- Strong practice of object-oriented programming
+	- Comfort with threading and IPC
+	- Excellent collaborative and communication skills
+	- Comfortable with agile development methodologies like Scrum or Kanban
+	- Knowledge of iOS programming with Swift
+	- Knowledge of Android programming with Java or Kotlin
+	- Knowledge of Boost C++ libraries
+	- Knowledge of OpenGL
+	- Knowledge of location based services such as mapping, navigation, GPS
+	- Experience in using git as a version control system
 + skill set:
 	- Apply and extended CI/CD tools and execute end-2-end ownership of your developed software stack, including DevOps and testing aspects
-
-· Work closely with other full stack and frontend engineers on the team to de/-refine APIs and system integrations
-
-· Work with other engineering teams and internal customers to identify new opportunities, address critical needs, and solve complex problems using your backend development expertise
-
-· Become an expert at leveraging internal platform resources and APIs
-
-· Drive initiatives that contribute in development of software that is efficient, re-usable and reliable (e.g. agile, coding, verification)
-
-· Be part of an agile team, share knowledge, carry out code reviews.
-
-
+	- Work closely with other full stack and frontend engineers on the team to de/-refine APIs and system integrations
+	- Work with other engineering teams and internal customers to identify new opportunities, address critical needs, and solve complex problems using your backend development expertise
+	- Become an expert at leveraging internal platform resources and APIs
+	- Drive initiatives that contribute in development of software that is efficient, re-usable and reliable (e.g. agile, coding, verification)
+	- Be part of an agile team, share knowledge, carry out code reviews.
 + skill set:
 	- Strong in Data Structures & Algorithms
-Strong in Java 8 and above, Spring Boot
-Strong and applied experience in REST-based web service technologies, JSON and XML, SOA, and microservices architectures
-Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
-Able to translate business and architectural features into quality, consistent software design
-Solid knowledge of programming practices, strive to write great code that is reusable, flexible, and reliable.
-Strong quality mindset is considered a must: unit testing, performance testing, writing testable
+	- Strong in Java 8 and above, Spring Boot
+	- Strong and applied experience in REST-based web service technologies, JSON and XML, SOA, and microservices architectures
+	- Strong and applied AWS skills (EC2, S3, RDS,), as well as experience with virtualization tools like Docker
+	- Able to translate business and architectural features into quality, consistent software design
+	- Solid knowledge of programming practices, strive to write great code that is reusable, flexible, and reliable.
+	- Strong quality mindset is considered a must: unit testing, performance testing, writing testable
 + skill set:
 	- BLAH.
 + skill set:

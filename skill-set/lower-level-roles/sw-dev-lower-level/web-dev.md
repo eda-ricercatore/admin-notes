@@ -677,10 +677,28 @@ reactive programming = asynchronous dataflow programming
 	- Familiarity with Docker.
 	- Experience in working with AWS.
 	- Experience in working in scrum teams.
++ Proficiencies in one or more of Python, Typescript, Node, React, Next.js and MongoDB or similar technologies
 + skill set:
-	- BLAH.
+	- Software Generalist
+	- As part of our Engineering team, you will help build the fundamental technologies that enable the Human Diagnosis Project.
+	- We're looking for software generalists who both love working on the nuanced UI details that lead to delight as well as diving into the hard technical challenges involved in building better systems of abstraction for scalability, testability, and modularity. This role requires good product intuition as well as deep engineering expertise.
+	- Conceptualizing and architecting effective, robust, and delightful interfaces that enable patients to get the best answers from doctors.
+	- Designing solutions using predictive systems to allow physicians to more effectively encode and structure their medical insight as they collaborate to help their patients.
+	- Architecting systems to enable real-time collective intelligence between physicians, keeping usability, performance, and security considerations top of mind.
+	- Contributing across the software stack (mobile, web, backend, and infrastructure) as well as all stages of the development process.
+	- Building technology that improves the world for current and future generations at the intersection of global health, medical knowledge, and open data.
+	- Understanding end-user needs and creating experiences that elevate their wellbeing.
+	- Rapidly iterating and working in a fast-paced, product-focused environment.
+	- Writing prescient, intuitive, and well-tested code to maximize scalability, efficiency, and reusability.
+	- 3+ years of software engineering experience at top startups or world-class institutions.
+	- Experience working and thriving in resource-constrained environments.
+	- Expertise with web & mobile development, particularly in Python (e.g., Django, PostgreSQL, Redis, Elasticsearch, Kafka, WebSockets, React, ReactNative, Redux).
+	- Familiarity with machine learning and data science tools (e.g., TensorFlow, PyTorch, scikit-learn, pandas, and/or NumPy).
+	- Exposure to cloud infrastructure (AWS, GCP) and containerization (Terraform, Kubernetes, Docker).
+	- High attention to detail, and have intuition and empathy toward the user experience.
 + skill set:
-	- BLAH.
+	- Full Stack Engineer
+	- 
 + skill set:
 	- BLAH.
 + skill set:
@@ -1826,6 +1844,8 @@ reactive programming = asynchronous dataflow programming
 	- Understanding of web application performance optimization
 	- Experience with common JavaScript Maps APIs
 	- Lead Software Engineer (Javascript / Typescript / GIS)
++ General hands-on experience with the foundational web technologies such  such as HTML5, CSS3, TailwindCSS, Responsive Design, HTML APIs, REST APIs
++ Ability to code in a front end JS framework (React, Vue, Svelte) a plus.
 + skill set:
 	- BLAH.
 + skill set:

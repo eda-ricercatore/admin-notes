@@ -365,8 +365,25 @@ Sets of skills for product management for machine learning products and services
 	- Passion for design, telling customer stories, and simplifying the complex.
 	- Knowledge of latest responsive design techniques.
 	- Experience working across interaction and user research.
-
-
++ skill set:
+	- Product Designer, Generative AI
+	- Scale AI is looking for an experienced and highly skilled Product Designer for the Generative AI team. As a designer on the team, you will be involved end-to-end from coordinating with operations to create high quality datasets to productionizing models for our customers. If you are excited about shaping the future of the data-centric AI movement, we would love to hear from you!
+	- Working collaboratively with cross-functional teams, you will lead the end-to-end design process from ideation to launch, ensuring that all designs meet the highest quality standards and are delivered on time. You will create user flows, wireframes, prototypes, and high-fidelity mockups that effectively communicate design concepts and solutions to stakeholders, while also conducting usability testing and iterating on designs based on user feedback and data-driven insights. This is an exciting opportunity to join a talented and passionate team, working on cutting-edge technology projects in the AI, machine learning, and language model space.
+	- Lead the end-to-end design process for multiple concurrent projects, from ideation to launch, ensuring all products meet the highest quality standards as the sole designer for this business unit.
+	- Create user flows, wireframes, prototypes, and high-fidelity mockups that effectively communicate design concepts and solutions to stakeholders.
+	- Partner with the department head to create a compelling product vision for the business unit and establish good design practices and relationships with stakeholders.
+	- Collaborate closely with cross-functional teams, including product management, engineering, and operations, to understand business and user needs and translate them into product designs.
+	- Conduct user research and usability testing to gather feedback and insights that inform design decisions and iterate on designs accordingly.
+	- Adapt and maintain a branch of our existing design system that can be applied across multiple Federal projects to ensure consistency and scalability.
+	- Exceptional interaction design, visual design, and product thinking skills with a strong portfolio showcasing enterprise-level web and mobile designs.
+	- High level of proficiency in Figma, including the ability to use design systems and autolayout to ensure consistency and scalability.
+	- Ability to make calculated trade-offs and execute designs quickly without compromising quality.
+	- Excellent communication and presentation skills, with the ability to articulate design decisions to influence stakeholders and work collaboratively with cross-functional teams, including Product Engineers, Software Engineers, and SMEs as the sole designer
+	- Extensive experience designing complex B2B web applications.
+	- Strong prototyping skills and experience conducting user research and usability testing to gather feedback and insights that inform design decisions.
+	- General problem solving and ability to work through ambiguous situations
+	- Basic understanding of machine learning, AI, and language models.
+	- At least 3 years of professional experience in product design or a related field (preferred but not required for candidates with strong portfolios).
 
 
 

@@ -190,7 +190,43 @@ Skill set for compiler design:
 	- We create computer vision algorithms to deliver experiences that are impactful, significant, and influential. We work closely with Apple’s outstanding designers to ensure the products we ship are more than technical demos – they resonate with users at a personal level. In this role you will be working on a wide range of responsibilities: core technology algorithm development in support of future user experiences; communicating with and supporting external teams that use our algorithms; supporting low-level, cross-platform efforts; participating in code reviews; and being a constant advocate within the team for high quality results.
 	- PhD in computer vision, robotics or machine learning; alternatively a comparable industry career, with significant experience on delivering products using innovative computer vision, machine learning and robotics technologies
 + skill set:
-	- BLAH.
+	- Mojo Compiler Technical Lead Manager
+	- Modular is building the next-generation AI infrastructure platform that will radically improve the way developers build and deploy AI models. A key component in our technology stack is the Mojo programming language, which combines usability of Python with the performance of C++ and Rust, unlocking programmability of AI hardware. While Mojo is intentionally designed to look like Python and become a superset of Python over time, it also supports a rich set of system programming features, compile-time metaprogramming and autotuning. We are seeking an engineering leader with strong experience in programming system development to help us drive Mojo language design, implementation and developer tooling. This is a unique opportunity to lead development of a new programming language with a rapidly growing user base and a revolutionary impact on AI software.
+	- Drive development of Mojo language features, implementation and development tooling.
+	- Lead Mojo engineering team and provide technical guidance and mentoring to the team engineers.
+	- Engage with Mojo community and, in collaboration with product, drive adoption and evolution of Mojo.
+	- Ensure that the engineering team builds state-of-the-art technology and follows best practices in software development and project management.
+	- Provide technical leadership and career guidance to the team engineers helping them to realize their full potential and set and achieve career goals.
+	- Collaborate with engineering and cross-functional teams to build a balanced technology stack that fully utilizes today’s complex server and mobile systems.
+	- 5+ years experience in building programming systems, including 2+ years in a leadership role.
+	- Understanding of the internals of modern programming languages, such as Python, C++, Rust, Swift or Julia.
+	- Proven experience in managing and developing a high-performance engineering team.
+	- Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
+	- Creativity and passion for building high-quality user-facing products. 
+	- Experience working with the open source developer community is a strong plus.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
++ skill set:
+	- Senior Machine Learning Compiler Engineer
+	- We live in a mobile and device driven world, where Deep Learning technology enables a new class of applications.
+	- Are you passionate about enabling unique user experience such as Face ID, Animoji, AR games? Imagine the countless possibilities powered by Artificial Intelligence.
+	- In the Video Engineering team, we are dedicated in providing hardware acceleration using the new proprietary Apple Neural Engine SOC to enable real time, low power and high performance execution of Deep Learning workloads.
+	- Our success is the result of very talented people working in an environment which cultivates creativity, partnership and cross functional collaboration.
+	- These elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives.
+	- Will you help us design the next generation of revolutionary Apple Products?
+	- Passion for developing and optimizing compilers for modern architectures
+	- Working knowledge of compiler architecture, front-end and middle-end optimizations, scheduling, register allocation, back-end code generation
+	- Experience with neural networks inference on dedicated SOC or GPU
+	- High level C++ programming expertise
+	- Excellent problem solving and debugging skills
+	- Proven track record of building high quality production software
+	- Excellent communication and collaboration skills
+	- We develop compiler technology to accelerate deep learning applications for Apple products. 
+	- Architect and develop the compiler for Apple proprietary Neural Engine Accelerator architecture, to enable inference of deep learning networks onto this architecture with an emphasis on performance and power.
+	- Bring up new hardware silicon and add support in the compiler for these hardware features.
+	- Work on bringing the compiler code to production quality and enable a wide range of applications of deep learning technology, for internal clients and 3rd party developers.
+	- Evaluate existing hardware blocks and work closely with the platform architecture team on the definition of new hardware features, and hardware specification review.
+	- Work with the micro-architecture design team,to understand the functional and performance goals of the design.
+	- Masters's degree or higher in Computer Science or equivalent field.
 + skill set:
 	- BLAH.
 + skill set:
@@ -256,13 +292,12 @@ Skill set for compiler design:
 	- Heterogeneous Computing Compilation Optimization Architect
 	- Support compilation optimization and performance improvement of self-developed GPGPU applications;
 	- Lead the design and development of compiler optimization schemes and algorithms for self-developed GPGPU;
-	- Responsible for the formulation and implementation of the self-developed GPGPU computing core part benchmark performance and compilation optimization performance evaluation plan;
-
+	- ***Responsible for the formulation and implementation of the self-developed GPGPU computing core part benchmark performance and compilation optimization performance evaluation plan;***
 	- Participate in the future self-developed GPGPU processor instruction set and micro-architecture design, and evolve compiler optimization capabilities to support new features.
 	- Master's degree or above in computer software, electronic engineering or related majors, and more than five years of relevant work experience;
 	- Proficient in C/C++, familiar with OpenCL/CUDA/Vulcan and other APIs;
 	- Familiar with the architecture and compilation principles, have rich experience in the implementation of compilation optimization, including but not limited to loop optimization, vectorization, etc.;
-	- Familiar with LLVM, familiar with heterogeneous programming system, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.
+	- ***Familiar with LLVM, familiar with heterogeneous programming system, experience in GPGPU/GPU/NPU heterogeneous compilation is preferred.***
 + skill set:
 	- LLVM compiler development engineer/architect
 	- Compiler development and optimized implementation for new hardware and architecture
@@ -270,25 +305,29 @@ Skill set for compiler design:
 	- Master degree or above in computer software or related majors, proficient in C/C++ programming, familiar with architecture and compilation principles;
 	- Have good communication skills and code habits; familiar with Linux development and debugging environment, git and other version control tools;
 	- Familiar with compilation frameworks such as LLVM/GCC, and experience in compiler development and optimization debugging is preferred;
-	- Familiarity with heterogeneous programming languages such as CUDA/OpenCL/OpenGL is preferred.
+	- ***Familiarity with heterogeneous programming languages such as CUDA/OpenCL/OpenGL is preferred.***
 + skill set:
-	- Mojo Compiler Technical Lead Manager
-	- Modular is building the next-generation AI infrastructure platform that will radically improve the way developers build and deploy AI models. A key component in our technology stack is the Mojo programming language, which combines usability of Python with the performance of C++ and Rust, unlocking programmability of AI hardware. While Mojo is intentionally designed to look like Python and become a superset of Python over time, it also supports a rich set of system programming features, compile-time metaprogramming and autotuning. We are seeking an engineering leader with strong experience in programming system development to help us drive Mojo language design, implementation and developer tooling. This is a unique opportunity to lead development of a new programming language with a rapidly growing user base and a revolutionary impact on AI software.
-	- Drive development of Mojo language features, implementation and development tooling.
-	- Lead Mojo engineering team and provide technical guidance and mentoring to the team engineers.
-	- Engage with Mojo community and, in collaboration with product, drive adoption and evolution of Mojo.
-	- Ensure that the engineering team builds state-of-the-art technology and follows best practices in software development and project management.
-	- Provide technical leadership and career guidance to the team engineers helping them to realize their full potential and set and achieve career goals.
-	- Collaborate with engineering and cross-functional teams to build a balanced technology stack that fully utilizes today’s complex server and mobile systems.
-	- 5+ years experience in building programming systems, including 2+ years in a leadership role.
-	- Understanding of the internals of modern programming languages, such as Python, C++, Rust, Swift or Julia.
-	- Proven experience in managing and developing a high-performance engineering team.
-	- Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
-	- Creativity and passion for building high-quality user-facing products. 
-	- Experience working with the open source developer community is a strong plus.
-	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
-+ skill set:
-	- BLAH.
+	- AI Compiler and Performance Engineer
+	- We are looking for Engineers and Researchers in the machine learning discipline who are passionate about generative models and creative applications of AI. In particular, we are looking for people who share our mission of open-source research; people who do not believe AI models should be controlled by a centralized gatekeeper behind a closed wall, but rather be truly open and in control by all. We want highly creative researchers who are motivated to push the boundaries of generative models research, not just in state-of-the-art performance, but in pushing the efficient frontier between performance and resource usage. You will have access to state-of-the-art high performance computing resources and you will be able to work alongside top researchers and engineers to truly make an impact in the fast growing world of generative AI.
+	- As an AI Compiler/Performance Engineer you will work on design and implementation of significant parts of the Stability.ai Compiler and Runtime targeting efficient training and deployment of our models. You will work on performance analysis and design/implementation of new optimizations passes and developing methods targeting new backend targets for custom devices. You will be on the forefront of moving Machine Learning Frameworks from hand written kernels to efficiently generated codegen kernels. You will be responsible for developing the research/engineering agenda, supervising its execution and guiding a group of engineers following it. You will work closely with the key stakeholders within Stability.ai as well as external entities (HW/SW providers) in order to steer the engineering efforts towards more efficient model execution.
+	- Analyze and design effective compiler optimizations
+	- Implement and/or enhance code generation targeting machine learning accelerators
+	- ***Develop hardware-aware optimization for emerging ML algorithms and across a spectrum of HW platforms (GPU, TPU, CPUs, custom ASICs, edge-devices)***
+	- Contribute to the development of machine-learning libraries, intermediate representations
+	- Employ scientific methods to evaluate performance and to debug, diagnose and drive resolution of cross-disciplinary system issues
+	- Work with algorithm research teams to map graphs to hardware implementations, model data-flows, create cost-benefit analysis and estimate cluster or silicon power and performance
+	- Work with research team to execute research agenda
+	- Work with open-source community on model release and tooling
+	- Work with engineering / business teams on model deployment and customized training
+	- Develop testing plans
+	- Analyze trade offs, risk mitigation strategies and communicate those to internal and external stakeholders
+	- Oversee a team of engineers, provide technical direction and engineering leadership
+	- 2+ years of experience with an MS or PhD (preferred) in Computer Science, Electrical Engineering or equivalent field
+	- Experience in deep learning algorithms, frameworks and their Intermediate Representations e.g: ***Pytorch/GLOW, Jax, Tensorflow XLA, LLVM/MLIR, Apache TVM***
+	- Good understanding of benchmarking/profiling, analyzing performance, building performance models for a given task/device
+	- Familiar with concepts such as roofline modeling, flop/memory utilization, power consumption, latency
+	- Good understanding of language design, compiler optimizers, backend code generators
+	- Ability to communicate research/engineering ideas effectively through writing and visualization
 + skill set:
 	- BLAH.
 + skill set:

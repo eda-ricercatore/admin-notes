@@ -340,6 +340,155 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Audio Processing
+
+
++ skill set:
+	- Software Engineer, Backend (Audio Team)
+	- We are looking for a backend engineer to be responsible for developing APIs, building application backends, and putting in place scalable backend infrastructure across our audio platform. You will be responsible for designing scalable server side applications and robust APIs to serve our audio ML models. The ideal candidate will have experience provisioning large compute clusters for machine learning workflows and will have a strong history of supporting teams to create best practices for reliability and scalability.
+	- Design, develop, and maintain internal & external APIs and micro services
+	- Build robust application backends to serve our audio products
+	- Define comprehensive API specifications and documentation
+	- Deliver customer-facing services, including account management, identity, single-sign-on, subscription billing, and self-service support tools, integrating with existing internal systems where necessary
+	- Collaborate with the frontend team and product managers to implement new features
+	- Lead system architecture design & decisions
+	- Manage large compute clusters for ML inference and development
+	- Deliver and manage our developer and researcher productivity tools, including CI/CD pipelines for deploying new machine learning models, orchestration, continuous/progressive deployments, test environments, feature flags, and GitHub
+	- Own the orchestration, deployments, request middleware and any other micro services that are required to meet the needs of our API customers
+	- 8+ years of experience in backend engineering
+	- Experience building ML infrastructure and working with large GPU clusters
+	- Distributed system architecture design knowledge or experience with high traffic, high concurrency system development
+	- Well-versed in data structures, data modeling, and database management systems as well as object and file storage systems
+	- Experience coding in Go and Python
+	- Evidence of interest in music / audio projects is valued
++ skill set:
+	- Full Stack Engineer
+	- Stability AI is a community and mission driven, open-source artificial intelligence company that cares deeply about real-world implications and applications. Our most considerable advances grow from our diversity in working across multiple teams and disciplines. We generate breakthrough ideas and convert them into tangible solutions. Our vibrant communities consist of experts, leaders and partners across the globe who are developing cutting-edge open AI models for Image, Language, Audio, Video, 3D and Biology.
+	- Clipdrop provides easy to use, AI based content generation and edition tools with an expertise on images. Those tools are available on the clipdrop.co & cleanup.pictures websites, the Clipdrop mobile apps and via external HTTP APIs.
+	- We are looking for a Full Stack Engineer to design and implement the architecture of our websites and accelerate the launches within our product suite. The ideal candidate will be working on the frontend and backend functionality of the website, APIs and ML Services. We’re looking for people with a passion for AI.
+	- Designing and implementing the server-side architecture of the websites and public APIs including data storage, and ML services to ensure that the website can handle large amounts of traffic and data.
+	- Developing the back-end functionality of the website using programming languages like Python (for ML services) and TypeScript (for APIs).
+	- Implementing security measures to protect user data and prevent unauthorized access or data breaches.
+	- Improve the HTML and CSS code for the website, using frameworks like TailwindCSS to ensure that it is responsive and mobile-friendly.
+	- Developing the front-end functionality of the website using Typescript and tools like React / NextJS to create interactive features.
+	- Work closely with product management, design, and engineering teams to deliver high-quality and user-friendly products
+	- Testing and debugging the website to ensure that it is free of errors and works as intended across multiple devices and browsers.
+	- Collaborate with cross-functional teams, including product managers and frontend engineers, to develop and implement new features
+	- 5+ years frontend and backend experience, working in a highly scalable environment with complex release workflows
+	- Experience with Python, TypeScript, HTML, CSS
+	- Ale to build comprehensive API specification and documentation 
+	- Understanding of working with broad engineering and product teams
+	- Experience working as a member of a small agile software development team (e.g. participating in planning sessions and interpreting user stories, doing code reviews, pair programming)
+	- Personal projects will be valued
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Speech Processing
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Stream Processing
 
 
@@ -555,7 +704,25 @@ reactive programming = asynchronous dataflow programming
 	- Modesty: The right answer is more meaningful than being right. We search for solutions as a team and value clear-eyed feedback
 	- Lean habits: You can’t grow without limits. Time constraints and big goals inspire us to sharpen our focus and learn to make extraordinary decisions.
 + skill set:
-	- BLAH.
+	- Graphics Rendering Software Engineer - Apple Vision Pro
+	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- We are looking for a driven and dedicated Graphics Rendering Software Engineer to join our fast-paced team. As a member of the Face and Body technologies team, you have the unique and rewarding opportunity to work on upcoming releases of Apple products that delight and inspire millions of people every day. We invite you to contribute to our current spatial computing software platform and craft the future of this technology.
+	- 2+ years of relevant industry experience with a track record of successful projects
+	- Excellent coding skills in C/C++
+	- Extensive experience with at least one of the current graphics APIs (Metal, Direct3D 12, Vulkan, etc.)
+	- Experience with Shader Languages (HLSL/GLSL, Metal shaders) and writing custom shaders
+	- Understanding of entire graphics pipeline, from CPU instructions to emitted photons
+	- Knowledge of modern renderers and rendering techniques
+	- 3D math skills (linear algebra)
+	- Excellent software prototyping, problem solving and debugging skills with performance-oriented mindset
+	- Basic knowledge and experience in 3D computer vision and image processing
+	- Excellent communication and teamwork skills
+	- Experience with AR/VR rendering technologies is a plus
+	- Creativity and curiosity for solving highly complex problems
+	- Apple's Vision Products Group (VPG) Face and Body technologies team is looking for a skilled Graphics Rendering Software Engineer to contribute to state-of-the-art real-time rendering techniques, in particular related to volumetric rendering.
+	- Our team delivers algorithms that power Apple Vision Pro's Eyesight, Persona and other visionOS technologies. In this position, you will have the opportunity to be part of our extraordinary team of Computer Vision and Deep Learning researchers and engineers to discover and build solutions to previously-unsolved challenges and push the state of the art in Computer Vision / Machine Learning, 3D Reconstruction and Neural Rendering algorithms that will change the way people experience the world!
+	- BS, MS or PhD in computer vision, machine learning, computer science, computer engineering or related fields
 + skill set:
 	- BLAH.
 + skill set:

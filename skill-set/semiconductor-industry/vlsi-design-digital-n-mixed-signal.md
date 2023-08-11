@@ -24,7 +24,7 @@ Measure performance in terms of:
 
 
 
-Skill set for roles in computer architecture, from microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
+Skill set for roles in computer architecture (i.e., computer architects or microarchitects), from microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
 + skill set:
 	- hyperscale cloud and edge computing
 + skill set:
@@ -410,6 +410,92 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+###	Skills for FPGA-based Digital Circuit and System Design
+
+
++ skill set:
+	- Associate Staff Engineer- Modem Design
+	- 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

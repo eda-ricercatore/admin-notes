@@ -89,6 +89,7 @@
 + skill set:
 	- Understanding of high-level network protocols (HTTPS, protobuf, JSON)
 	- Understanding of distributed computing (load balancing, RPC, Map/Reduce, databases)
++ Exposure to various high-performance networking technologies including MPI, NCCL, RDMA, Infiniband and RoCE
 
 
 
