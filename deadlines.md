@@ -703,11 +703,19 @@ Important information about time zones:
 
 List of conference "Call for Papers" deadlines:
 + [Takahiro Komamizu's Conference List](http://www.conferencelist.info/upcoming.html)
-+ [ML+CompBio Conference Deadlines](http://www.cs.cmu.edu/~blengeri/deadlines.html)
++ [ML+CompBio Conference Deadlines](https://web.mit.edu/~blengeri/www/deadlines.shtml)
 + [AI Conference Deadlines Tweet](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+	- [Broader list](https://deadlines.info/?sub=ML,CV,NLP,RO,SP,DM,APL,AD&ranking=As,A,B,C,NA)
 + [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics; Jackie Tseng, TCVIL Lab](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 + [Calendar of Computer Image Analysis, Computer Vision Conferences](http://conferences.visionbib.com/Iris-Conferences.html)
 + [Formal Methods and Software Technology](http://user.it.uu.se/~bengt/Info/conferences.shtml)
++ [Computer Architecture and Systems CS, from Chinese Computing Federation or CCF](https://cfp.atom.im/)
++ [Computer Architecture and Systems CS, from KAIST](https://casys-kaist.github.io/?sub=ARCH,SYS,OTHER,TBD)
++ [IEEE TCCA list](https://ieeetcca.org/page_calls_contributions/)
++ [Computer Architecture conferences, from TU/e](https://www.es.ele.tue.nl/~heco/lit/conf+journals.html)
++ [Machine learning conferences](https://research.com/conference-rankings/computer-science/machine-learning)
++ [Computer Architecture conferences](https://research.com/conference-rankings/computer-science/computer-hardware-and-architecture)
+
 
 
 **Operation Go-to-DATE in progress.**

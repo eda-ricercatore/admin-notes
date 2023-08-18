@@ -223,7 +223,15 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 	- Strong knowledge of the main core processors sub-systems and concepts, pipelines, data and instruction caches, scoreboards, etc.
 	- Strong knowledge of ASIC and/or FPGA design methodology and should be well versed in Verilog, front-end design, simulation, synthesis, timing, power analysis and verification CAD tools
 + skill set:
-	- BLAH.
+	- Sr. Staff SoC Front End Engineer (San Diego, CA) - Multiple positions
+	- Responsible for the integration and verification of complex SoC architectures for a broad range of applications. 
+	- Master’s or equivalent in Electrical Engineering or related & 7-10 yrs experience in job or in related jobs. Ph.D. is a plus.
+	- Strong background in logic design and verification with experience in synthesis, static timing analysis, and equivalence checking
+	- Solid fundamental knowledge of DFT and digital testing methods including scan compression, BIST, and JTAG
+	- Experience in SoC bus architectures, like AMBA (CHI, ACE, AXI),  CoreConnect, PSF, etc.
+	- Proficiency in developing RTL code in Verilog and/or System Verilog
+	- Network-on-Chip (NoC) is a plus.
+	- Innovative and willing to brake common BKMs methods and flows. 
 + skill set:
 	- BLAH.
 + skill set:
@@ -420,7 +428,7 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
-###	Skills for FPGA-based Digital Circuit and System Design
+###	Skills for VLSI Design for Communication ICs
 
 
 + skill set:
@@ -633,6 +641,30 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+###	Skills for IC Layout Designers
+
+
+
++ skill set:
+	- IC Cell Layout Designer (San Diego, CA) - Mid to senior level
+	- Responsible for supporting the development of high-performance custom digital standard-cells to be used in the deployment of Chronos proprietary technology. The engineers will be involved in design and verifications using latest advanced FinFET technology nodes. 
+	- Hands-on experience with FinFET CMOS technologies (≤ 10nm).
+	- Experience with the layout of high performance custom digital standard-cells.
+	- Experience with full library characterization and deployment.
+	- Experience with Cadence, Mentor and Synopsys suite of design tools (Virtuoso Schematic and Layout, Calibre, etc.).
+	- Good understanding of engineering principles, such as matching, shielding, high-speed layout techniques.
+	- Ability to work in close collaboration with the designers to achieve a fully optimized layout and with other layout engineers for seamless integration in a digital flow.
+	- Good knowledge of device reliability mechanisms, electromigration, latch-up, guard-rings, DNW, IO-Ring building, STI, ESD, parasitics optimization and advanced process effects such as LOD and LDE.
+	- Experience with scripting languages such as: skill, perl, python, etc.
+	- Self-motivated and creative candidate open to learn new skills and being able to work in a dynamic start-up environment.
+	- Number of years of experience: 5+
 
 
 

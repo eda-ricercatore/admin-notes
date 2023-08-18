@@ -875,6 +875,75 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+
+
+###	Skill Sets for Computational Biology
+
+
+
+
+Skill sets for computational biology:
++ skill set:
+	- Post-Doctoral Research Fellow, Computational Biology and Precision Oncology in Lung Cancer
+	- The laboratories of Dr. Gavin Ha and Dr. David MacPherson have a joint postdoctoral research position open in the Computational Biology Program of the Public Health Sciences and Human Biology Divisions. We are seeking a highly motivated individual who is interested in developing and implementing innovative computational and analytical approaches to study the genetics and epigenetics of lung cancer from tumor and liquid biopsies. Candidates who are excited about large/complex ‘omics’ data analysis of cancer genomes, computational methods development, and liquid biopsy research are encouraged to apply. Projects can be completely computational or could also involve wet-lab components, depending on the interests and experience of the applicant.  The position has a competitive salary and great benefits. 
+	- The successful candidate will have the opportunity to work on transformative and leading-edge research study in lung cancer research using circulating tumor DNA (ctDNA) from liquid biopsies. This project will involve analysis of ctDNA and methods development to exploit liquid biopsies for detecting and studying small cell lung cancer (SCLC) and non-small cell lung cancer (NSCLC), discovering new ctDNA biomarkers of treatment response, and to advance precision oncology. For examples of recent studies, see PMID:29109393, PMID: 36399432, PMID: 36463275.
+	- Dr. Ha’s laboratory develops computational approaches to study cancer genomes from tumors and liquid biopsies, such as circulating tumor DNA. He is a recipient of an NIH Director’s New Innovator Award, an NCI Transition Career Development Award, a Prostate Cancer Foundation Young Investigator Award, and a V Foundation Scholar Grant.
+	- The goals of this collaboration are to uncover mechanisms of treatment resistance, to identify blood-based genetic biomarkers, and to translate these findings to help improve clinical applications. We aim to develop novel liquid biopsy assays to apply to SCLC patients and allow us to identify biological correlates of treatment responses.  We work in an interdisciplinary team environment with many local and external experts. All of our projects involve partnering with investigators who have diverse expertise in molecular and experimental biology, cancer biology, and clinical research.
+	- Computational biology, bioinformatics, computer science, data science, statistics, computer/electrical engineering, physics, or other related fields.
+	- Machine learning and interpretable/explainable artificial intelligence (AI)
+	- Work well in team environments, have strong communication/organization skills and is detail-oriented
+	- Highly motivated individual who think independently but also enjoy working in a dynamic, collaborative, multidisciplinary team
+	- Strong programming experience (R, Python, Matlab, Java, C/C++, Perl or other languages for research)
+	- Experience with cancer data analysis is preferred
+	- A background in cancer biology is considered a strong asset
+	- For candidates interested in wet-lab work, experience in molecular biology is expected
+	- Experience with analyzing sequencing data is considered a strong asset
+	- Experience with high performance computing environments and cloud computing environments is a plus
+	- Applicants must have a demonstrated publication track record
+	- Candidates with strong interest and/or expertise in any of these research areas are highly encouraged to apply: 
+		* Cancer genomics and epigenetics, liquid biopsies, tumor evolution/heterogeneity
+		* Application of explainable AI, statistical modeling, algorithm design, machine learning to study cancer and genetics
+		* Analysis of large, complex genome, epigenome, and transcriptome data
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Software Development for Computational Engineering (not EDA)
 
 

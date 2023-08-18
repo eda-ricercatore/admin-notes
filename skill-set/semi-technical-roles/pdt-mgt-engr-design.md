@@ -384,7 +384,7 @@ Sets of skills for product management for machine learning products and services
 	- General problem solving and ability to work through ambiguous situations
 	- Basic understanding of machine learning, AI, and language models.
 	- At least 3 years of professional experience in product design or a related field (preferred but not required for candidates with strong portfolios).
-
++ Highly competent using Figma, Miro, Microsoft office software.
 
 
 

@@ -697,12 +697,95 @@ reactive programming = asynchronous dataflow programming
 	- Exposure to cloud infrastructure (AWS, GCP) and containerization (Terraform, Kubernetes, Docker).
 	- High attention to detail, and have intuition and empathy toward the user experience.
 + skill set:
-	- Full Stack Engineer
-	- 
+	- Software Engineer
+	- You have a life. We like that about you.
+	- At OCLC, we believe you'll do the best work of your life when you're living the best life possible.
+	- We work hard to build the technology that connects thousands of today's libraries. But we also work hard to make a job at OCLC a meaningful part of a balanced life- not a substitute for one.
+	- Technology with a Purpose. OCLC supports thousands of libraries in making information more accessible and more useful to people around the world.  OCLC provides shared technology services, original research and community programs that help libraries meet the ever-evolving needs of their users, institutions, and communities. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries.
+	- This position joins the OCLC Resource Sharing Platform team, which builds solutions across multiple product lines to support OCLC’s global network of 10,000 libraries. These libraries collaborate to share library materials, whether at the local group level, between library groups, or even internationally. The overall team consists of 25 developers, split into 5 workstream development teams based in Dublin, Ohio and Ottawa, Canada. The team is also supported by a dedicated group of Product Analysts, BSAs, and QA. The team has built a reputation for excellence through innovation within OCLC and is expanding to dominate in this highly technical and competitive space.
+	- Use industry standard programming techniques to translate requirements and designs into code.
+	- Ability to independently analyze, debug, and solve problems in a service-oriented environment, including production system issues.
+	- Perform high level analysis and design software for new and existing systems.
+	- Participate in unit, system & acceptance testing by designing tests, building test data, along with making recommendations/improvements/fixes to the tested system.
+	- Participate in developing techniques, practices and ideologies that foster innovation and result in re-usable, testable solutions.
+	- Execute with speed, agility & quality to provide solutions.
+	- Ability to work collaboratively in teams and develop meaningful relationships to achieve common goal.
+	- Bachelor's degree in a Computer Science related discipline.
+	- 3-4 years of software development experience.
+	- Strong oral, written and presentation skills.
+	- Creative and innovative thinker.
+	- Java
+	- ***Maven***
+	- Spring
+	- XML/JSON
+	- Source control
+	- Writing automated unit and integration tests
+	- React JavaScript
+	- Object Oriented design, including familiarity with OO design patterns
+	- SQL (including an understanding of database design principles)
+	- Servlets and servlet containers
+	- Spring MVC
+	- Hibernate
+	- JSP
+	- REST
+	- ***TestNG/JUnit***
+	- Code reviews
+	- Excellent communication skills
+	- SVN/Git
+	- SOA-based systems, including the writing of design documents detailing the interaction of multiple such systems
+	- Performance/stress testing
+	- Multi-threaded programming
+	- Unix/Linux (including basic command-line usage and shell scripting)
+	- ***Java 8 idioms (e.g. streams and lambdas)***
+	- PostgreSQL PL/pgSQL
+	- ***JMeter***
+	- Jira
+	- CSS
+	- ***AJAX***
+	- ***YUI***
++ Next.js, Material UI (MUI), CI/CD in GitLab, Relational Database Service Aurora, New Relic
 + skill set:
-	- BLAH.
+	- Coding skills in Java, Groovy, Gradle, Spring MVC, REST
+	- Java
+	- Maven
+	- Spring
+	- XML/JSON
+	- Source control
+	- Writing automated unit and integration tests
+	- React JavaScript
+	- Object Oriented design, including familiarity with OO design patterns
+	- SQL (including an understanding of database design principles)
+	- Servlets and servlet containers
+	- Spring MVC
+	- Hibernate
+	- JSP
+	- REST
+	- TestNG/JUnit
+	- Code reviews
+	- SVN/Git
+	- SOA-based systems, including the writing of design documents detailing the interaction of multiple such systems
+	- Performance/stress testing
+	- Multi-threaded programming
+	- Unix/Linux (including basic command-line usage and shell scripting)
+	- Java 8 idioms (e.g. streams and lambdas)
+	- PostgreSQL PL/pgSQL
+	- JMeter
+	- Jira
+	- CSS
+	- AJAX
+	- YUI
+		* https://en.wikipedia.org/wiki/YUI_Library
+		* Yahoo! User Interface Library (YUI)
+		* https://clarle.github.io/yui3/
 + skill set:
-	- BLAH.
+	- Experience with the following technologies is a must -- JAVA, Object Oriented Design (and UML notation and patterns), Servlets, Spring-loC, MVC (Spring), JavaScript, CSS, AJAX, FreeMarker (or JSP or similar), AspectJ, Maven, Gradle
+	- Experience in designing REST APIs, Familiarity with OpenAPI, API testing tools such as Postman.
+	- Experience with JPA (Hibernate, Oracle TopLink, etc.).
+	- Experience with Linux (or any UNIX for that matter) required
+	- Experience with MySQL, Postgre SQL is desired.
+	- Experience with Spring Boot, Spring Security OAuth 2, RestVue, Angular desired
+	- Familiarity with unit testing, integration testing and performance/stress testing
+	- Application observability with Micrometer, Prometheus, Graphana, etc. desired.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1460,7 +1543,8 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
++ Sass: Syntactically Awesome Style Sheets
+	- SCSS: Sassy Cascading Style Sheets
 + skill set:
 	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
 	- Production React experience

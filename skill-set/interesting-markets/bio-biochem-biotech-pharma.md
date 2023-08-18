@@ -19,9 +19,11 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 	- Molecular Operating Environment, MOE
 	- Schrodinger
 + write standard operating procedures (SOP) and high-quality electronic laboratory notebooks (ELN)
++ Manage a suite of instruments including transmission electron microscopes, focus ion beam scanning electron microscopes, cryo light microscopes, high pressure freezers, etc.
 + skill set:
 	- engineering lab-on-chips, LoCs
 	- engineering digital microfluidics, DMFs
++ Discrimination of commensals and pathogens by gut neuronal circuits.
 + skill set:
 	- BLAH.
 + skill set:
@@ -194,87 +196,156 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 
 
 
+Skills for R&D roles in bio manufacturing automation () cloud robot lab
++ skill set:
+	- 1 - 3 years of experience working in either a laboratory environment or regulated manufacturing industry (Pharmacuetical, Medical Device, Biotechnology, Automotive, etc.)
+	- Experience working in a Good Manufacturing Practices/Good Laboratory Practices (GMP/GLP) environment
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
+
+
+
+
+
+
+##	Skill Sets for Bioinformatics
+
+
+
+
+
+
+Skill sets for bioinformatics:
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- We have an opening for a bioinformatician in the Bedford lab at the Fred Hutch to work on genomic epidemiology and evolutionary analysis of pathogens such as SARS-CoV-2, seasonal influenza, and other emerging and endemic pathogens. This position will contribute to ongoing work for the Bedford lab and Nextstrain.
+	- Nextstrain is an award-winning project for tracking infectious disease epidemics developed in collaboration with the Neher lab at the University of Basel. Nextstrain won the Open Science Prize in Feb 2017 and has been instrumental in analysis of the SARS-CoV-2 pandemic, Ebola outbreaks, Zika spread in the Americas and is used by the World Health Organization to aid in the process of influenza vaccine strain selection. The software we write to power all parts of Nextstrain—bioinformatics, visualizations, analysis pipelines, data management, and more—is entirely open-source and available to the public. We work with public health entities and scientists across the world, both formally and informally, to expand pathogen surveillance capabilities and to improve the automation and robustness of these analyses. Our goal is to empower the wider genomic epidemiology and public health communities to tweak our analyses, create new ones, and communicate scientific insights using the same tools we do.
+	- An ideal candidate would be local to the Seattle area or willing to relocate, but remote work is also an option.
+	- This role advances the research aims of the Bedford lab and the Nextstrain team through a combination of independent work, collaboration with scientists and software developers in the group, and interactions with the wider public health and science communities.
+	- Develop and maintain analytic pipelines such as those that clean and ingest genome metadata, build phylogenetic trees, and run forecasting models for SARS-CoV-2 and other pathogens
+	- Improve the robustness, automation, and monitoring of our existing pathogen pipelines
+	- Develop reproducible pipelines to expand surveillance of endemic and emerging human pathogens, in collaboration with both internal and external groups
+	- Participate in community outreach through office hours, discussion forums, and mailing lists
+	- Write and maintain thorough documentation on software and pipelines
+	- Design software with a diverse range of collaborators and users in mind
+	- Contribute to the Nextstrain team's decision-making and planning processes
+	- Present at Bedford lab meetings
+	- Master’s degree in bioinformatics, computational biology, biology, or related field with at least three years’ direct experience in computational analysis of large sequence-based molecular data sets.
+	- Fluency in at least one high-level programming language, such as Python, R, Ruby, JavaScript, or Perl
+	- Familiarity with version control and other software development best practices
+	- Experience with workflow managers such as Snakemake, Nextflow, or WDL
+	- Knowledge of molecular biology
+	- Motivated to learn new skills and technologies and collaborate within an existing team’s practices
+	- Excellent written and verbal communication skills
+	- Expertise in genomics
+	- Knowledge of automated testing and workflows such as GitHub Actions
+	- Experience configuring and deploying analyses on a cloud infrastructure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -523,6 +594,9 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 + Fred Hutchinson Cancer Center
 	- Combines Fred Hutchinson Cancer Research Center with Seattle Cancer Care Alliance (SCCA).
 	- Seattle, WA.
+	- Also known as:
+		* Fred Hutch
+		* The Hutch
 	- https://www.fredhutch.org/en/about/careers.html
 
 
@@ -571,6 +645,7 @@ bio manufacturing automation:
 + BP
 + [De Novo DNA](http://www.denovodna.com/)
 + [DSM](https://www.dsm.com/corporate/home.html)
++ [Emerald Cloud Lab](https://www.emeraldcloudlab.com/careers/)
 + GE Healthcare
 + [genomatica](https://www.genomatica.com/careers/)
 + Genome Foundry
@@ -593,6 +668,11 @@ bio manufacturing automation:
 + Ozen
 +[Ranomics Incorporated](https://www.ranomics.com/careers)
 + [SGIDNA, a Synthetic Genomics, Inc. company](https://www.sgidna.com/careers/)
++ [Strateos, Inc](https://strateos.com/about/)
+	- Includes:
+		* Transcriptic
+		* 3Scan
+		* Transcriptic and 3Scan merged to form Strateos.
 + [Synbicite](http://www.synbicite.com/about-us/)
 + [Synbiobeta](https://synbiobeta.com/job-board/)
 + [Synlogic](https://www.synlogictx.com/our-people/join-us/)

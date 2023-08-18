@@ -203,7 +203,7 @@ Skills for EDA software development, and other high-end software development:
 		* Boost C++
 		* http://doc.hc2.ch/c_cpp/en/cpp/links/libs.html
 		* Eigen, C++ library for numerical computing
-	- Python libraries:
+	- ***Python libraries***:
 		* NetworkX, for graph computing
 		* NumPy, for numerical linear algebra and tensor algebra
 		* SciPy
@@ -221,6 +221,10 @@ Skills for EDA software development, and other high-end software development:
 		* Biopython, for computational biology and bioinformatics
 		* CuPy, for GPU-accelerated parallel programming
 		* Distributed Evolutionary Algorithms in Python, DEAP, framework for evolutionary computing to enable rapid prototyping and experimentation to test ideas
+		* MuJoCo
+			+ advanced simulator for multi-body dynamics with contact
+			+ https://mujoco.org/
+			+ https://github.com/deepmind/mujoco
 	- for symbolic computing
 		* SageMath, computer algebra system, CAS
 			+ SageManifolds
@@ -527,9 +531,23 @@ Skill sets for STCO and DTCO:
 	- Experience of running deep learning models on edge devices or smartphones
 	- Development experience of multi-pass compilers
 + AI/ML for architectural exploration and bottleneck identification
-+ BLAH.
-
-
++ AIML - Sr. Software Engineer, Large Language Models (MIND)
+	- The Machine Intelligence, Neural Design (MIND) team employs HW/SW co-design to achieve best-in-class performance and energy efficiency for numerous use cases that deploy neural networks. We seek a Sr. Software Engineer to help define and implement features that accelerate and compress large language models (LLMs) in our next-gen inference engine. Our team is comprised of Efficient ML experts with skillsets in HW, SW, and ML. Our charter is to push the frontiers of perf and power for DNNs with minimal memory footprint.
+	- As a SWE, you will be responsible for writing high-quality, well-tested code. Our ideal team member is courageous when it comes to trying new things, is adept at reasoning about systems performance, and is willing to iterate on ideas. We value team members with strong communication skills with experience working cross-functionally with HW, SW, and ML teams.
+	- Proficient in C++, working knowledge of Python
+	- Implement features that compress and accelerate LLMs in our on-device inference engine
+	- Convert models from a high-level framework to a target device for correctness and performance issues
+	- Write unit and system integration tests to ensure functional correctness and to reduce performance regressions
+	- Diagnose performance bottlenecks and minimize memory footprint of large language models
+	- Work with HW Arch teams to co-design solutions that further improve perf,  power, and memory footprint of neural workloads
+	- Work with a variety of partners from all parts of the stack — from Apps to Compilation, HW Arch, and Silicon Validation
+	- Strong communicator with ability to analyze complex and ambiguous problems
+	- Familiarity with ML model compression techniques (e.g., quantization, pruning/sparsity) and their mapping to a target backend
+	- Disciplined programming skillset with a strong attention to detail
+	- Experience with backend compilation, HW/SW co-design, and/or performance optimization
+	- The base pay range for this role is between $189,800 and $346,300, and your base pay will depend on your skills, qualifications, experience, and location.
+* Deep understanding of computer systems and the interactions between HW and SW
+* Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)
 
 
 
@@ -2807,7 +2825,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 		* https://bit.dev/
 	- Experience with profiling and tracing tools
 	- Experience with Model Compression techniques (Quantization, Pruning, Distillation)
-	- Experience with PyTorch Mobile, Tensorflow Lite or other similar Edge Inference frameworks
+	- Experience with ***PyTorch Mobile, Tensorflow Lite*** or other similar Edge Inference frameworks
 	- Experience with techniques to offload compute to GPU, DSP etc.
 	- Experience developing Machine Learning models, especially for resource constrained computing environments
 + skill set:
@@ -3192,7 +3210,9 @@ Skill sets for application engineers of different EDA products:
 		* ONNX Runtime
 		* OpenVINO
 		* ***NVIDIA TensorRT***, or ***TensorRT***
-		* TFLite
+		* edge inference frameworks:
+			+ ***PyTorch Mobile***
+			+ ***Tensorflow Lite, TFLite***
 		* inference server or model serving frameworks
 			+ Triton
 			+ TFServe
@@ -3225,9 +3245,30 @@ Skill sets for application engineers of different EDA products:
 	- Flux machine learning framework, Julia based
 	- Flax, from Google Brain
 	- PlaidML, portable tensor compiler
-	- RLax, for reinforcement learning agents, by DeepMind
 	- Optax, for gradient processing and optimization, by DeepMind
 	- [***Chainer***](https://chainer.org)
+	- Apple Core ML:
+		* https://pypi.org/project/coremltools/
+			+ pip install coremltools
+		* https://developer.apple.com/documentation/coreml
+		* https://coremltools.readme.io/docs
+			+ https://developer.apple.com/machine-learning/core-ml/
+		* https://developer.apple.com/machine-learning/create-ml/
+		* https://developer.apple.com/machine-learning/models/
+		* https://developer.apple.com/machine-learning/
+		* https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml
+	- reinforcement learning:
+		* RLax, for reinforcement learning agents, by DeepMind
+		* OpenAI Gym: https://github.com/openai/gym
+		* RLLib:
+			+ https://github.com/ray-project/ray/tree/master/rllib
+			+ https://github.com/ray-project/ray/
+			+ https://github.com/ray-project
+			+ https://docs.ray.io/en/latest/rllib/index.html
+		* Stable Baselines 3:
+			+ https://stable-baselines3.readthedocs.io/en/master/
+			+ https://github.com/DLR-RM/stable-baselines3
+			+ https://pypi.org/project/stable-baselines3/
 	- for gradient boosting:
 		* LightGBM
 		* XGBoost
@@ -3964,15 +4005,30 @@ Skill sets for application engineers of different EDA products:
 	- Creative, collaborative and project focused with an ability to work hands-on in multi-functional teams
 	- As an Applied Research Scientist on our team, you will design and implement ML algorithms that process data in different Apple products. You will train Generative AI models and agent behaviors using deep reinforcement learning to solve hard problems/tasks. Where necessary, you will also work on integrating ML/RL frameworks into our products to train large-scale agents and leverage cloud services to enable scalable and distributed training/simulation of agent behaviors. You will communicate advanced ideas to a focused team of researchers in the spirit of developing innovative tools and metrics that change the way we look at problems. You will work closely with other cross-functional teams to align messaging, contribute to roadmaps and contribute software back into different repos for proper integration with core systems. You will write clean, maintainable and production code with appropriate documentation and tests. You will contribute to architecture decisions, design reviews and peer code reviews.
 	- M.S. or PhD in Computer Science, or a related fields such as Electrical Engineering, Robotics, Statistics, Applied Mathematics or equivalent experience. A minimum of 5 years of experience in applied ML and/or product development.
-	- Publications in top-tier conferences in a plus e.g., NeurIPS, ICML, ICLR, ICRA etc.
+	- Publications in top-tier conferences in a plus e.g., ***NeurIPS, ICML, ICLR, ICRA*** etc.
 	- Hands-on development experience within OSS Libraries and RL environments such as OpenAI Gym, MuJoCo, RLLib, Stable Baselines 3, Apple Core ML etc.
 	- Experience in applying deep learning to robotics problems and predicting multimodal behaviors for agents via-techniques such as MDP, Monte-Carlo methods, TD learning, policy approximations etc.
 	- Experience with hardware specific optimization of ML models and deployment
 	- Experience developing software for mobile devices and heterogenous compute environments (eg. iOS, watchOS)
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Proactive Intelligence, Applied Research Scientist — Generative AI
+	- AI represents a huge opportunity to elevate Apple’s products and experiences for billions of people globally. We are looking for Applied Research Scientists with a background and interest in Generative AI. You will be leveraging state-of-the-art Generative models to ship extraordinary products, services, and customer experiences for the iPhone, Mac, Apple Watch, iPad and more. 
+	- The mission of Proactive Intelligence is to improve Apple platforms by better understanding, anticipating, and adapting to user behavior by using machine learning to build phenomenal features that are built right into Apple platforms. Our team provides an opportunity to be part of an incredible research and engineering organization within Apple. The ideal candidate for this role will have industry experience working on a range of modeling problems e.g., Conversational Agents, Sequential Decision Making, Reinforcement Learning, Autonomous Systems, Human Preference Learning and Large Language Models (LLMs). Working knowledge of large-scale data processing especially with structured data, probabilistic modeling and statistics will broaden your role and effectiveness in this position.
+	- Strong programming skills in Python and/or C++ with 5+ years of experience in using these languages for machine learning (ML) modeling and applied research
+	- Proficiency in using ML toolkits such as PyTorch, TensorFlow, SkLearn etc.
+	- Fundamental knowledge of ML concepts and hands-on experience in building deep-learning systems
+	- Strong software engineering skills to create scalable and robust infrastructure for deep learning data, modeling, and evaluation systems
+	- Proven ability to train and debug deep learning systems: defining metrics and datasets, performing error analysis and training models in a modern ML framework
+	- Familiarity with researching current ML literature and math including optimization methods and modeling techniques
+	- Passionate about building extraordinary autonomous systems with Generative AI
+	- Creative, collaborative and project focused with an ability to work hands-on in multi-functional teams
+	- As an Applied Research Scientist on our team, you will design and implement ML algorithms that process data in different Apple products. You will train Generative AI models and agent behaviors using deep reinforcement learning to solve hard problems/tasks. Where necessary, you will also work on integrating ML/RL frameworks into our products to train large-scale agents and leverage cloud services to enable scalable and distributed training/simulation of agent behaviors. You will communicate advanced ideas to a focused team of researchers in the spirit of developing innovative tools and metrics that change the way we look at problems. You will work closely with other cross-functional teams to align messaging, contribute to roadmaps and contribute software back into different repos for proper integration with core systems. You will write clean, maintainable and production code with appropriate documentation and tests. You will contribute to architecture decisions, design reviews and peer code reviews.
+	- M.S. or PhD in Computer Science, or a related fields such as Electrical Engineering, Robotics, Statistics, Applied Mathematics or equivalent experience. A minimum of 5 years of experience in applied ML and/or product development.
+	- Publications in top-tier conferences in a plus e.g., ***NeurIPS, ICML, ICLR, ICRA*** etc.
+	- Hands-on development experience within OSS Libraries and RL environments such as ***OpenAI Gym, MuJoCo, RLLib, Stable Baselines 3, Apple Core ML*** etc.
+	- Experience in applying deep learning to robotics problems and predicting multimodal behaviors for agents via-techniques such as MDP, Monte-Carlo methods, TD learning, policy approximations etc.
+	- Experience with hardware specific optimization of ML models and deployment
+	- Experience developing software for mobile devices and heterogenous compute environments (eg. iOS, watchOS)
 + skill set:
 	- BLAH.
 + skill set:
@@ -4272,7 +4328,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with machine learning frameworks, such as TensorFlow and PyTorch
 	- Experience with distributed training concepts and frameworks such as Megatron and Deepspeed 
 	- Fluency in a programming language, such as Python 
-	- Strong track record of relevant research success through relevant publications/patents at top conferences or journals (e.g. ICLR, ICML, NeurIPS)
+	- Strong track record of relevant research success through relevant publications/patents at top conferences or journals (e.g. ***ICLR, ICML, NeurIPS***)
 + experience with modern compiler frameworks:
 	- TVM
 	- LLVM
@@ -4309,7 +4365,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience working with cloud technology stack (eg. AWS or GCP) and developing machine learning models in a cloud environment.
 	- Experience in dealing with large scale AI problems, ideally in the generative-AI field. 
 	- Demonstrated expertise in large vision-language models for diverse real-world applications, e.g. classification, detection, question-answering, etc. 
-	- Published research in areas of machine learning at major conferences (NeurIPS, ICML, EMNLP, CVPR, etc.) and/or journals. 
+	- Published research in areas of machine learning at major conferences (***NeurIPS, ICML, EMNLP, CVPR***, etc.) and/or journals. 
 	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
 	- Strong written and verbal communication skills to operate in a cross functional team environment. 
 	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $240,960. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
@@ -4851,7 +4907,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with parallel training libraries such as torch.distributed, DeepSpeed, etc.
 	- We're looking for strong machine learning engineers to help build next-generation tools for training deep learning models at scale. You'll be part of a small team of training technology experts, focusing on training speed and scalability. We're looking for candidates with polished coding skills as well as passion for machine learning and computational science. 
 	- Design and develop components for our centralized, scalable ML platform. Help push the limits of existing solutions for large-scale training. Develop novel techniques to circumvent the limitations of these solutions. Deploy your techniques on high-impact tasks from our partners across the company building new Apple products and services. 
-	- We encourage publishing novel work at top ML conferences such as MLSys or NeurIPS and releasing contributions as open source. 
+	- We encourage publishing novel work at top ML conferences such as ***MLSys or NeurIPS*** and releasing contributions as open source. 
 	- In exchange, we offer a respectful work environment, flexible responsibilities, and access to world-class experts and growth opportunities—all at one of the best companies in the world.
 	- PhD or Masters in the area of Computer Science or equivalent years of industry experience
 + skill set:
@@ -5099,7 +5155,7 @@ Skill sets for application engineers of different EDA products:
 	- Define startup/university engagement framework for successful collaboration with these bodies, in line with HERE’s business strategy.
 	- Identify the domains in technology where TIL and HERE should engage and defining a strategy for realization of same through development of disruptive prototypes in line with HERE business strategy
 	- Enabling invention of new frameworks /solutions in the domain of AIML, Blockchain, Location intelligence, distributed computing,quantum computing, tinyML, etc
-	- Improving the innovation index of HERE, by getting research papers published in NeurIPS, IEEE, and awarded recognition in international forums like CES, Stevie ,etc
+	- Improving the innovation index of HERE, by getting research papers published in ***NeurIPS, IEEE***, and awarded recognition in international forums like CES, Stevie ,etc
 	- Enabling y-O-y increase in number of patents being filed by the team
 	- Work with the Manager to Identify and Define lead KPIs related to effective assessment of performance at individual level and impact assessment of innovation implementation at business unit level
 	- Support team to design experiments and stay up to date with industry inventions in AIML(esp Computer Vision), blockchain, quantum computing, Location Intelligence , distributed computing LiDAR and Drone processing, 3D modelling , AR/VR
@@ -5120,7 +5176,7 @@ Skill sets for application engineers of different EDA products:
 	- Demonstrated experience in successful team and performance management
 	- Demonstrated experience in designing business strategy and successful execution of the same
 	- Have prior experience in designing innovation strategy with organization wide impact
-	- Have minimum 10 patents/ international publications in high impact factor journals like NeurIPS, IEEE, etc
+	- Have minimum 10 patents/ international publications in high impact factor journals like ***NeurIPS, IEEE***, etc
 	- Shows a combined experience in both research and business field
 	- Startup experience is advantageous and highly desirable
 + skill set:
@@ -5202,7 +5258,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience working with cloud technology stack (eg. AWS or GCP) and developing machine learning models in a cloud environment
 	- Experience in dealing with large scale AI problems, ideally in the generative-AI field
 	- Demonstrated expertise in large vision-language models for diverse real-world applications, e.g. classification, detection, question-answering, etc. 
-	- Published research in areas of machine learning at major conferences (NeurIPS, ICML, EMNLP, CVPR, etc.) and/or journals
+	- Published research in areas of machine learning at major conferences (***NeurIPS, ICML, EMNLP, CVPR***, etc.) and/or journals
 	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
 	- Strong written and verbal communication skills to operate in a cross functional team environment
 + skill set:
@@ -5354,15 +5410,97 @@ Skill sets for application engineers of different EDA products:
 	- Our team builds the technology for search ranking that brings the “ideal” search results to the top. In pursuit of this, we are interested in ways to rank search results in a way that is sensitive to user-privacy, and in ways to evaluate the quality of answers that are being returned to user queries. This leads us to different adventures, ranging from building indexes for very fast retrieval and search, reimagining query processing using state-of-the-art text processing methods, statistical methods for result evaluation, and many more.
 	- BMS, Ph.D. in a related field , or equivalent experience
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer - Apple Vision Pro
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- Our team builds technology that defines industry standards, and we are seeking people who thrive to innovate and strive to build best-in-class high-impact products. We value passion for excellence and a deep commitment to excellence, and if you want to impact millions of customers by working on the most advanced technology solutions, we want to talk to you.
+	- Strong programming skills in Python and/or C++ with 5+ years of demonstrated ability in using these languages for machine learning (machine learning) modeling and applied research
+	- Hands-on experience with building deep learning applications
+	- Expertise in using machine learning toolkits such as PyTorch, TensorFlow, etc
+	- Experience developing and optimizing algorithms that run efficiently on resource constrained platforms
+	- Ability to drive early-stage research projects with risks and ambiguity
+	- Passionate about delivering high-quality products, seeking to solve everyday problems in innovative ways
+	- Excellent programming, problem solving and analytical skills
+	- Communication and collaboration skills in a multi-functional setting
+	- Ability to work hands-on with multi-functional teams
+	- Ability to work under tight schedules and deliver under pressure
+	- Ability to thrive in a collaborative environment and communicate clearly and confidently with partner teams
+	- The Vision Products Group at Apple is actively looking for a highly motivated Machine Learning Engineer to contribute to and build Apple’s future technologies in the spatial computing space. The successful candidate will demonstrate deep knowledge of, and hands-on experience, with designing, implementing, and optimizing machine learning algorithms to tackle ambitious problems. Candidate is expected to be proficient in machine learning and deep learning and be comfortable in applying their machine learning background and problem-solving skills to develop high-quality machine learning solutions that contribute to Apple's revolutionary roadmap.
+	- As an Machine Learning Engineer in the Vision Products Group at Apple, you will partner with the algorithm designers to collaboratively design machine learning based solutions to solve high-impact problems on Apple product(s).
+	- The primary responsibilities associated with this role, include algorithm design, implementation and optimization, integrating ground breaking research into production frameworks, and collaborating closely with product teams before and after feature launch.
+	- You will work multi-functionally with multiple teams at Apple, drive requirements and deliver the end solution
+	- You will help evaluate various candidate approaches for optimizing machine learning pipelines for training and inference - these could include (but are not limited to) algorithm tuning, hyper parameter tuning, hardware and software co-design.
+	- You will write clean, maintainable and production code with appropriate documentation and tests.
+	- You will debug quality related issues in machine learning pipelines.
+	- You will contribute to architecture decisions, design reviews and peer code reviews.
+	- You will be a force-multiplier, by enabling team-members to be more productive
+	- M.S or Ph.D. in deep learning/computer vision/natural language processing/machine learning/computer science with 5+ years of equivalent industry experience (or in exceptional cases, BS with proven track record of relevant industry experience).
+	- Bonus: Strong publication record at top conferences
+	- The base pay range for this role is between $170,700 and $300,200, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer (Dept: SII Info Intelligence US)
+	- Master’s degree or foreign equivalent in Computer Science, Statistics, Software Engineering, Biomedical Engineering or related field and 2 years of experience in the job offered or related occupation.
+	- 1 year of experience with each of the following skills is required:
+		* Machine Learning and generative models;
+		* Deep learning and language models;
+		* Natural language processing;
+		* Continuous integration;
+		* Python frameworks needed for applied ML research;
+		* Data-centric ML; and
+		* Information retrieval and knowledge graphs
+	- Multiple positions available in Cupertino, CA and various unanticipated locations throughout the USA. Developing and implementing production-ready algorithms and method. Co-developing machine learning solutions. Providing architectural guidance on transitioning prototypes to high-performance production models. Providing feedback on tools and new features needed back to platform teams.. Design, implement, and ship new machine learning algorithms and techniques and collaborate with production development team and engineers. Build the platform that enables teams across Apple to develop machine-learning solutions that power intelligent user experiences. Provide technical guidance to product teams on the choice of machine learning approaches appropriate for a task.
 + skill set:
-	- BLAH.
+	- ISE, SIML - Robustness Analysis & AI Safety ML Engineer
+	- Are you passionate about inclusion, fairness and safety in AI powered features that ship on 1.5B Apple products across the globe? Are you excited about Generative AI and motivated to build out robust and safety capabilities of generative models? 
+	- We are the Intelligence System Experience (ISE) team within Apple’s software organization. The team works at the intersection between multimodal machine learning and system experiences. System Experience (Springboard, Settings), Keyboards, Pencil & Paper, Shortcuts are some of the experiences that the team oversees. These experiences that our users enjoy are backed by production scale ML workflows. Visual Understanding of People, Text, Handwriting & Scenes, multilingual NLP for writing workflows & knowledge extraction, behavioral modeling for proactive suggestions, and privacy preserving learning are areas our multi disciplinary ML teams focus on.
+	- We have multiple ongoing efforts involving generative models, and we are looking for talented candidates to ensure that features built on top of such models are safe for deployment, and perform equally well for diverse customers within Apple's global user base.
+	- Good ML fundamentals
+	- Experience in training machine learning models (NLP or computer vision)
+	- Familiarity with challenges associated to building robust ML datasets and models: definition and coverage of target data distribution, potential biases, potential failure modes
+	- Demonstrated experience in accessing and addressing potential risks and ensuring the safety and fairness in generative models. Prior experience in LLM Safety is a big plus.
+	- Strong programming skills in Python to operate models and data at scale
+	- Familiarity with ML toolkits, e.g., PyTorch
+	- Excellent drive, problem solving skills and analytical approach
+	- Strong communication and collaboration skills in a cross-functional setting. Ability to work hands-on with multi-functional teams
+	- Apple’s commitment to deliver incredible experiences to a global and diverse set of users, in full respect of their privacy, has led to the development of a dedicated Robustness Analysis function. With the generative experience, creating a safe and robust platform is vital to our mission. Team’s responsibilities include monitoring ML model performance on relevant axes, and surfacing, measuring and mitigating ML failure modes, in order to improve overall user experience and reduce risks, with specific attention given to safety, inclusion and fairness.
+	- In this position, you will join a team of people passionate about leading RA operations for key future facing Apple features with focus on ensuring safety and robustness for generative models.
+	- research and develop approaches to mitigate harmful and risk behaviors in generative models 
+	- define product-centered axes of analysis relevant to target feature, in collaboration with model DRI and feature DRI
+		* Directly Responsible Individual (DRI)
+		* designated response individual, DRI
+	- develop processes (models, tools and data) to identify other potential biases or failure modes
+	- when applicable, benchmark model using targeted public datasets
+	- characterize potential biases in training set and model along chosen axes
+	- request data collection efforts and/or implement automated pipelines based on advanced ML technology and humans/models in the loop to create test sets covering the various axes of investigation
+	- report progress and issues found in technical and sponsor meetings
+	- suggest mitigation options (data and/or model) and lead mitigation experiments, when issues are found
++ Experience integrating LLMs or other generative models with data platforms a plus
 + skill set:
-	- BLAH.
+	- VIO/SLAM Algorithm Engineer
+	- The Video Computer Vision organization is working on exciting technologies for future Apple products. Our focus is on ML based solution around real time image and video. We have contributed to the FaceID and FaceKit project in the past and more recently the new LIDAR iPad sensor. We are looking for the right Engineer to help us take our efforts to the next level.
+	- In this role, you will work together with similar minds in a unique development team where your skills and expertise will be put into the Apple products. This role is highly multi-functional and you will work very closely with various highly skilled software development / ML teams developing groundbreaking algorithms.
+	- Multi-view geometry
+	- SLAM - Simultaneous Localization and Mapping experience
+	- Traditional ML or deep learning domain knowledge for the above areas is a plus
+	- Understanding of visual inertial sensor fusion / or general sensor fusion is a plus
+	- Solid programming skills with c/c++
+	- Passion on cutting edge computer vision/machine learning technologies and product delivery
+	- Ability to communicate the results of analyses in a clear and effective manner
+	- You will create 3D computer vision algorithms to deliver AR/VR experiences that are impactful, meaningful, and influential. We work closely with Apple’s best-in-class designers to ensure the products we ship are more than technical demos – they resonate with users at a personal level.
+	- In this role you will be working on a wide range of responsibilities: core technology algorithm development in support of future user experiences; communicating with and supporting external teams that use our algorithms; supporting low-level, cross-platform efforts; participating in code reviews; and being a constant advocate within the team for high quality results.
+	- PhD in computer vision, robotics or machine learning; alternatively a comparable industry career, with significant experience on delivering products using state-of-the-art computer vision, machine learning and robotics technologies
 + skill set:
-	- BLAH.
+	- AIML - Machine Learning Engineer, Operations Research
+	- Do you want to innovate on Operations Research and Machine Learning solutions to transform Apple product’s lifecycle to the next level? The Data and Machine Learning Innovation team is looking into innovative ways to forecast key business indicators and optimization throughout end-to-end product lifecycle. We are a R&D team with strong expertise in Machine Learning, Operations Research, and Data Engineering. The team works broadly with Finance, Sales, Operations and Marketing to advance capabilities in forecasting and supply chain optimization with innovative ML/OR techniques and applications.
+	- As part of our team, you will work together with domain experts in finance, econometrics and supply chain operations where your skills and expertise will impact decisions that optimizes Apple’s business. This role is highly multi-disciplinary and you will collaborate closely with top notch engineers to build end-to-end ML/OR applications.
+	- 2+ years experience of building Operations Research applications.
+	- Deep understanding of Linear Programming, Integer Programming, and Stochastic Optimization.
+	- Being proficient in solving LP/IP problems using Gurobi/CPLEX/OR-Tools.
+	- In-depth knowledge about machine learning and statistical algorithms, especially forecasting algorithms.
+	- Being self-driven, understanding the underlying logic of the business, adapting to rapid business changes
+	- Good communication skills and courage to change business.
+	- Intellectual curiosity, versatility and track record in the field of Operations Research and Machine Learning.
+	- Background in supply chain planning or optimization is a plus.
+	- You will have the unique opportunity to use innovative techniques from OR and ML to develop accurate forecasting models and supply chain optimization systems. Your work is particularly exciting as it will impact Apple business planning. Strong candidates operations research and machine learning skills are encouraged to apply.
 + skill set:
 	- BLAH.
 + skill set:
@@ -6030,8 +6168,148 @@ Skill sets for computer vision:
 	- We looking for a researcher / engineer who can develop reliable and scalable web services for ML developers: e.g., effective ML dev workflow, infrastructure to serve internal service using large models (e.g., LLM, vision model).
 	- We also encourage publishing novel research at top HCI / ML conferences.
 	- PhD in HCI, Machine Learning or M.S. with industry experience (3+ year of experience on developer tools or machine learning).
-
-
++ skill set:
+	- Senior Algorithm Evaluation Engineer
+	- The Video Computer Vision org is a centralized applied research and engineering organization responsible for developing real-time on-device Computer Vision and Machine Perception technologies across Apple products. We balance research and product to deliver state-of-the-art experiences, innovating through the full stack, and partnering with HW, SW and ML teams to bring our visions to life. Examples include FaceID, Animoji/Memoji, Scene Understanding, People Understanding and Positional Tracking (VIO/SLAM), and the Apple Vision Pro.
+	- 4+ years experience developing or evaluating computer vision or machine learning algorithms.
+	- Passion for quality, outstanding attention to detail.
+	- Strong knowledge of software development lifecycle, testing terminology and processes.
+	- Excellent written and verbal communication skills, able to describe and document complex topics clearly.
+	- Comfortable working with technical teams specialized in a variety of fields.
+	- Solid programming skills in Python, familiar with packages like Numpy, Scikit-learn, etc
+	- Familiarity with the challenges of working with large scale data sets.
+	- Experience using data visualization and presentation tools, such as Tableau.
+	- Project and small team leadership and organizational skills preferred.
+	- The Algorithm Analysis team is looking for a Senior Evaluation Engineer to enhance our data analysis capabilities for new and exciting technologies. As a member of our fast-paced group, you will have the unique and rewarding opportunity to work with world-class engineers to build detailed evaluations enabling deep understanding of algorithm performance and use case stability. Responsibilities include:
+	- Oversee requirements of software design, testing, release cycles, and related processes.
+	- Lead technical discussions, system architecture, and other coding requirements with multi-functional teams.
+	- Define roadmap, strategic priorities, and business requirements as related to larger organizational objectives, and work within the allocated time.
++ skill set:
+	- Computer Vision and Machine Learning Engineer - Apple Vision Pro
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- In this position, you will join a team of computer vision and machine learning researchers and engineers to discover and build solutions to previously-unsolved challenges and push the state of the art. We are looking for a driven and dedicated computer vision/machine learning engineer or researcher, optimally with experience in 3D computer vision algorithms, such as object detection, pose estimation, generative models, or tracking. As a member of a fast-paced team, you have the unique and rewarding opportunity to shape upcoming products that will delight and inspire millions of people every day.
+	- 2+ years of industry experience in CVML or similar fields
+	- Strong experience in 3D Computer Vision algorithms
+	- Experience in machine learning, preferably in 3D computer vision applications
+	- Solid foundation in 3D geometry and linear algebra
+	- Good experience in Python and science libraries like Numpy, Pandas, Matplotlib
+	- Solid in deep learning frameworks like PyTorch or TensorFlow
+	- Experience in C++ is a big bonus
+	- Experience in 3D graphics and rendering is a big plus
+	- Sensor fusion experience is a big bonus
+	- Excellent communication and collaboration skills
+	- Excellent problem solving and analytical thinking skills
+	- Track record of successfully building and shipping products or open source projects
+	- Creativity and curiosity for solving highly complex problems
+	- You’ll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.
+	- Inventing and implementing state of the art computer vision algorithms to solve cutting edge problems
+	- Designing such algorithms to work reliably and efficiently on mobile devices
+	- Collaborating with other teams in software and hardware to ensure the full pipeline runs efficiently and utilizes Apple hardware effectively
+	- Cooperating with your team members to prepare presentations, papers, and talks to explain your inventions
++ skill set:
+	- Algorithm Evaluation Engineer
+	- The Video Computer Vision org is a centralized applied research and engineering organization responsible for developing real-time on-device Computer Vision and Machine Perception technologies across Apple products. We balance research and product to deliver state-of-the-art experiences, innovating through the full stack, and partnering with HW, SW and ML teams to bring our visions to life. Examples include ***FaceID, Animoji/Memoji, Scene Understanding, People Understanding and Positional Tracking (VIO/SLAM), and the Apple Vision Pro***.
+	- 1+ years experience developing or evaluating computer vision or machine learning algorithms
+	- Passion for quality, outstanding attention to detail
+	- Strong knowledge of software development lifecycle, testing terminology and processes
+	- Excellent written and verbal communication skills, able to describe and document complex topics clearly
+	- Comfortable working with technical teams specialized in a variety of disciplines
+	- Strong programming skills in Python, familiar with packages like Numpy, Scikit-learn, etc
+	- Familiarity with the challenges of working with large scale data sets
+	- Experience using data visualization and presentation tools
+	- Strong leadership and organizational skills preferred
+	- The Algorithm Analysis team is looking for an Evaluation Engineer to enhance our data analysis capabilities for new and exciting technologies. As a member of our fast-paced group, you will have the unique and rewarding opportunity to work with world-class engineers to build detailed evaluations enabling deep understanding of algorithm performance and use case stability. Responsibilities include:
+	- Oversee requirements of software design, testing, release cycles, and related processes
+	- Partake in technical discussions, system architecture, and other coding requirements with multi-functional teams.
+	- Help define roadmap, strategic priorities, and business requirements as related to larger organizational objectives, and work within the allocated time
++ skill set:
+	- Senior Computer Vision and Machine Learning Engineer - Apple Vision Pro
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.  In this position, you will join a team of computer vision and machine learning researchers and engineers to discover and build solutions to previously-unsolved challenges and push the state of the art. We are looking for a driven and dedicated computer vision/machine learning engineer or researcher, optimally with experience in 3D computer vision algorithms, such as object detection, pose estimation, generative models, or tracking. As a member of a fast-paced team, you have the unique and rewarding opportunity to shape upcoming products that will delight and inspire millions of people every day.
+	- 4+ years of industry experience in CVML, or Ph.D./M.Sc. in similar field
+	- Strong experience in 3D Computer Vision algorithms
+	- Experience in machine learning, preferably in 3D computer vision applications
+	- Solid foundation in 3D geometry and linear algebra
+	- Good experience in Python and science libraries like Numpy, Pandas, Matplotlib
+	- Solid in deep learning frameworks like PyTorch or TensorFlow
+	- Experience in C++ is a big bonus
+	- Experience in 3D graphics and rendering is a big plus
+	- Sensor fusion experience is a big bonus
+	- Excellent communication and collaboration skills
+	- Excellent problem solving and analytical thinking skills
+	- Track record of successfully building and shipping products or open source projects
+	- Creativity and curiosity for solving highly complex problems
+	- You’ll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.   
+	- Inventing and implementing state of the art computer vision algorithms to solve cutting edge problems 
+	- Designing such algorithms to work reliably and efficiently on mobile devices 
+	- Collaborating with other teams in software and hardware to ensure the full pipeline runs efficiently and utilizes Apple hardware effectively 
+	- Cooperating with your team members to prepare presentations, papers, and talks to explain your inventions
++ skill set:
+	- Machine Learning Imaging Scientist
+	- Do you want to push the limits of the best mobile phone camera in the world? The Camera Algorithms R&D team delivers algorithms that drive some of the iPhone cameras ground-breaking features such as Night mode. In this position, you will have the opportunity to be part of an extraordinary team of image processing and computer vision experts to devise and build solutions to previously-unsolved problems in digital camera image processing and push the state of the art in camera algorithms that will change the way people capture images.
+	- We are looking for a driven and dedicated machine learning/computer vision scientist, optimally with experience in creating deep learning architectures for image processing. As a member of a fast-paced team, you will have the unique and rewarding opportunity to impact trillions of images and videos that are shot on the iPhone every year.
+	- Strong experience in deep learning architectures and frameworks such as PyTorch
+	- Experience in computer vision and image processing
+	- Solid foundation in mathematics and statistics
+	- Excellent problem solving and analytical thinking skills
+	- Excellent communication and collaboration skills
+	- Technical publication record in deep learning and/or computer vision is desirable
+	- Experience in neural network optimization is a plus
+	- Proficiency with C/C++ and Python
+	- You’ll be working in a team of image processing and computer vision experts to push the state of the art in camera algorithms.
+	- Inventing and implementing innovative machine learning and computer vision algorithms to solve cutting edge problems in image processing.
+	- Designing such algorithms to work reliably and efficiently on mobile devices.
+	- Collaborating with other teams in software, firmware, and hardware to ensure the highest possible image quality.
+	- Collaborating with your team members to prepare presentations, talks, and disclosures to explain your inventions.
+	- Industry experience of 5+ years in machine learning, image processing, computer vision, or Ph.D. in similar fields.
++ skill set:
+	- Computer Vision Researcher & Developer - Apple Vision Pro
+	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
+	- The Computer Vision Researcher responsibility is to develop innovative solutions for capturing and reconstructing of 3D and 4D representations of detailed and deforming surface geometry and materials. They will develop and deploy research prototypes into production. We value researchers who are self- motivated and enjoy a highly collaborative environment with minimal supervision. There is a substantial R+D component to our development and production. We want an Engineer that is excited about defining new workflows, clear-headed about risks inherent with invention, but passionate about pushing the designs to their maximum potential.
+	- Algorithm development in the areas reflectance capture, material estimation and photogrammetry
+	- Fluent in C/C++, Python (programming and debugging)
+	- Experience HLSL, GLSL, Metal
+	- Knowledge of parallel computing, CUDA, OpenCL, GPGPU
+	- Knowledge of software optimization and embedded programming
+	- 12+ years of related experience
+	- 3D and 4D geometry and reflectance reconstruction algorithms with optimization workflows
+	- Engineering capture systems for face, body, and hands
+	- Capturing and processing data from machine vision cameras and pipeline to production including color calibration, camera intrinsics
+	- Automation of capture and processing tasks
+	- Creating tools and workflow for integration into shader and rendering pipeline
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -6265,7 +6543,17 @@ Skills for natural language processing, NLP:
 	- You will be a technical leader to engineers in your team and across the organization. Communicating clearly and having the flexibility to learn new technologies, while continuously developing your skills will be key to your success. You should be comfortable both giving and receiving feedback.
 	- BS/MS in Computer Science or equivalent
 + skill set:
-	- BLAH.
+	- Software Development Engineer [Dept: ***Machine Translation***]
+	- Master’s degree or foreign equivalent in Information Technology, Computer Science, Computer Engineering or related field and 1 year of experience in the job offered or related occupation.
+	- Experience and/or education must include:
+		* Swift;
+		* Xcode Developer Tools;
+		* XCTests;
+		* Python;
+		* macOS or Unix administration and command line usage;
+		* HTTP protocol; and
+		* REST APIs
+	- Multiple positions available in Seattle, Washington. Triage software quality issues and user feedback for improvements. Build tooling for automated triaging. Write, debug, and maintain automation tools using tools such as Swift and Python. Program in Swift or Objective C. Write XCTest Unit Tests and XCText UI automation tests. Build command line tools using Python or Swift. Provide reports on statistics around radars. Coordinate internal processes around software triaging and reporting. 40 hours/week.
 + skill set:
 	- BLAH.
 + skill set:
@@ -7423,7 +7711,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Strong proficiency in python, experience in writing production-grade code
 	- Expertise in designing metrics and diagnosing data inconsistencies
 + skill set:
-	- BLAH.
+	- Experience working with non-Transact-SQL databases and SQL dialects, preferably Oracle PL/SQL or Cerner Command Language
+	- Experience with large-scale data analysis systems, such as Databricks, Hadoop, Pig, Scala, Spark or MPP databases
 + skill set:
 	- BLAH.
 + skill set:
@@ -8517,9 +8806,14 @@ They support databases for:
 	- ***Infrastructure: AWS, Hadoop, Kafka, Kubernetes, Docker***
 	- ***Other technologies: Postgres, Hive, HBase, MongoDB***
 + skill set:
-	- BLAH.
+	- Has advanced experience with data warehousing, data modeling, and data ETL
+	- Has hands-on familiarity with ***message queues (preferably Kafka) and one or more cloud provider (preferably AWS)***.
+	- Familiarity with ***Hadoop, MapReduce, and Snowflake analytics*** are a plus
 + skill set:
-	- BLAH.
+	- Experience building and maintaining development pipelines with ***Jenkins, XL Release, QuickBuild*** (or similar) required.
+	- Experience with web app internationalization and translation technologies like ***Smartling*** is strongly desired.
+	- Experience with ***MySQL and SOLR*** is strongly desired.
++ ***Snowflake, AWS, Java, Solr, PHP***
 + skill set:
 	- BLAH.
 + skill set:
@@ -8668,6 +8962,7 @@ Skill sets for DataOps:
 	- Experience in AWS and other cloud providers when exploring different approaches to performance engineering
 	- Experience with distributed architectures
 	- Passionate about driving a performance engineering culture
++ Expert knowledge working with Spark and other distributed data technologies (e.g. Hadoop, Presto, Flink, Druid) for building efficient & large scale data pipelines.
 + skill set:
 	- Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS.
 	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
@@ -8776,6 +9071,21 @@ Skill sets for DataOps:
 	- The role involves managing petabytes of data for machine learning applications and designing and implementing new frameworks to build scalable and efficient data processing workflows and machine learning pipelines. The successful candidate will be responsible for ensuring complete data lineage and legal workflow integration while optimizing performance and scalability. You will also be responsible for monitoring the performance of the system, optimizing it for cost and efficiency, and solving any issues that arise. This is an exciting opportunity to work on cutting-edge technology and collaborate with cross-functional teams to deliver high-quality software solutions. The ideal candidate should have a strong background in software development, experience with public cloud platforms, and familiarity with distributed databases.
 	- Familiarity with distributed databases, such as DynamoDB, MongoDB, or Cassandra.
 	- Experience with containerization and orchestration technologies, such as Docker and Kubernetes
++ Experience with AWS Services such as Amazon S3 EC2 EKS / Kubernetes
++ skill set:
+	- AIML - Machine Learning Data Infrastructure Engineer, Data & Machine Learning Innovation
+	- As part of Apple's AI and Machine Learning org, we encourage and create groundbreaking technology for large-scale ML systems, computer vision, natural language processing, and multi-modal understanding. The Data and Machine Learning Innovation (DMLI) team is looking for a passionate Machine Learning Engineer to explore new methods, challenge existing metrics or protocols, and develop new insightful practices that will change how we understand data and overcome real-world ML challenges. Are you excited to work on some of the most ambitious technical challenges in the field? Your role will involve collaborating closely with machine learning researchers, engineers, and data scientists. Together, we will spearhead groundbreaking research initiatives and develop transformative products designed to build a significant impact for billions of users worldwide.
+	- Demonstrated expertise in machine learning with a passion for data-centric machine learning.
+	- Experience with natural language processing (NLP), and large language models, such as BERT, GPT, or Transformers.
+	- Staying on top of emerging trends in LLMs.
+	- Strong programming skills and hands-on experience using the following languages or deep learning frameworks: Python, PyTorch, or Jax.
+	- Strong problem-solving and communication skills.
+	- 5+ years of experience with developing and evaluating ML applications, and demonstrated experience in understanding and improving data quality.
+	- Demonstrated publication record in relevant conferences (e.g. ***ACL, EMNLP, NeurIPS, ICML, ICLR***, etc) is a plus.
+	- As a Machine Learning (ML) Engineer, you will be entrusted with the critical role of innovating and applying innovative research in ML to tackle complex data problems. The solutions you develop will significantly impact future Apple products and the broader ML development ecosystem. You will work with a multidisciplinary team to actively participate in the data-model co-design and co-development practice. Your responsibilities will extend to the design and development of a comprehensive data curation framework. You will also build robust model evaluation pipelines, integral to the continuous improvement and assessment of ML models. Additionally, your role will entail an in-depth analysis of collected data to underscore its influence on model performance. Furthermore, you will have the opportunity to showcase your groundbreaking research work by publishing and presenting at premier academic venues. Your work may span a variety of topics, including but not limited to: Designing and implementing semi-supervised, self-supervised representation learning techniques for growing the power of both limited labeled data and large-scale unlabeled data. Developing evaluation protocols centered on the end-to-end user experience, with a focus on anticipating potential failure modes, edge cases, and anomalies. Employing data selection techniques such as novelty detection, active learning, and core-set selection for diverse data types like images, 3D models, natural language, and audio. Uncovering patterns in data, setting performance targets, and using modern statistical and ML-based methods to model data distributions. This will aid in reducing redundancy and addressing out-of-distribution samples.
+	- Ph.D/MS degree in Machine Learning, Natural Language Processing, Computer Vision, Data Science, Statistics or related areas.
+	- The base pay range for this role is between $170,700 and $300,200, and your base pay will depend on your skills, qualifications, experience, and location.
+
 
 
 

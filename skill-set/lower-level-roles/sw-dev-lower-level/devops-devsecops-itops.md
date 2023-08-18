@@ -66,6 +66,7 @@ DevOps is at the intersection of:
 
 
 Skill set for DevOps:
++ Experience working with tools like Jenkins, Bamboo, Ansible, SonarQube, Artifactory.
 + skill set:
 	- YAML, or JSON, for customizing configuration files.
 		* JSON files are valid YAML files.

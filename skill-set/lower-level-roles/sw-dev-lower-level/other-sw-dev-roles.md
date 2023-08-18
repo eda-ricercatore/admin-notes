@@ -335,4 +335,5 @@ Skills related to software development for enterprise search engines:
 	- Knowledge of location-based services such as mapping, navigation, GPS
 	- Knowledge of computational geometry or graph/routing algorithms
 	- Experience deploying applications using Kubernetes.
++ CloudFront, Heroku, Postgres, CircleCI, Terraform, Git, and MacBook Pro's to help us get product delivered to the public in a timely and efficient manner
 
