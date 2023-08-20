@@ -359,11 +359,53 @@ Skill set for compiler design:
 
 
 
+##	Compiler Design for Quantum Computing
 
 
-
-
-
+Skill sets involved with compiler design for quantum computing:
++ skill set:
+	- Software Development Manager - Compilation
+	- Xanadu is looking for an experienced Software Development Manager to lead the Quantum Compilation team. The team is developing JIT and AOT hybrid compilation pipelines for PennyLane, an open-source library for quantum machine learning, quantum computing, and quantum chemistry. Although quantum software development experience is not required for the role, a strong compilation background is strongly preferred.
+	- Manage a team of 7-10 developers to build new features and optimize the PennyLane compiler.
+Work with Product Managers to define direction and roadmap for the team.
+Participate in sprints with cross-functional teams, ensuring features are delivered efficiently and on time.
+Work closely with our community growth team to ensure good feedback loops between external stakeholders and internal teams, and to improve library adoption.
+Develop and improve processes to ensure developer efficiency and consistent product delivery.
+Perform team-building activities such as hiring, mentorship, career development and performance management.
+Advanced Degree in Computer Science, Physics, Math, Engineering, or a related field.
+7+ years of compiler development experience.
+2+ years of management experience.
+Understanding of advanced compiler optimization techniques.
+Experience with MLIR and LLVM core libraries.
+Experience with benchmarking and performance-oriented optimizations.
+Familiarity and experience with automatic differentiation methods and frameworks (e.g., Autograd, Torch, TensorFlow, JAX).
+Comfortable working in a fast-paced environment.
+Strong communication skills.
+Expertise in quantum computing, as demonstrated by in-field experience, extensive coursework, thesis, or peer-reviewed publications.
+Experience with numerical computation and high-performance computing using Python and/or C++.
+Experience developing open-source software.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

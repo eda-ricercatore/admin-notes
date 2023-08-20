@@ -167,7 +167,35 @@
 	- Experience in working with testing tools like Lighthouse, Firebug, Firebug Lite, Chrome or Safari Web Inspectors, and IE Developer Toolbar
 	- Familiarity with any test frameworks such as Mocha, Chai, Jest, Jasmine, Karma, and Cypress.
 + skill set:
-	- BLAH.
+	- Software Test and Automation Engineer to Staff Engineer
+	- We are looking for an experienced Staff Software Test and Automation Engineer within our Software Quality and Automation (SQA) Team. The candidate should demonstrate proven experience in Software Testing and Automation. You will work on testing and automating Linux/Android System Software, Bare Metal Software, Toolchain Software, Machine Learning Software, Performance Libraries and Debug Tools on QEMU/FPGA for various SiFive Hardware Products. You will work with Software and Hardware Development teams to come up with Functional/Feature/Integration/Performance/Regression test cases, automate and integrate them into CI/CD/CT Framework. You will also work with Program Management and Release Management teams to make sure the Software and Hardware products delivered meet the quality and release criteria. This position is for our Hsinchu, Taiwan location.
+	- Develop functional, feature, integration, performance and regression test cases, test plans and execute them
+	- Automate the developed test cases and integrate them into automation frameworks and CI/CD/CT frameworks
+	- Develop, enhance and maintain automation frameworks, CI/CD/CT frameworks, test management systems, test report dashboards, performance report dashboards and defect management dashboards
+	- Collaborate with geographically distributed Product, Development, Program Management and Release Management teams to produce Quality Software and Hardware products
+	- Help recruit, coach, mentor and lead test and automation engineers
+	- Contribute to Customer documentation such as README/RELEASE documentation and User Guides
+	- Take initiative, be proactive and assume full responsibilities of tasks and initiatives
+	- Contribute towards organizational goals and objectives
+	- Be available to work at an external partner or customer site if needed
+	- BS or MS degree in Computer Science, Computer Engineering, or related engineering degree
+	- 5+ years of experience in test and automation of software for embedded systems
+	- 5+ years of development and hands on experience on automation framework and CI/CD/CT framework
+	- Experience leading People/Projects
+	- Proficient in programming using Python and Bash; Programming knowledge in C, C++, Powershell, Tcl, or expect is a plus
+	- 5+ years of experience on Dev/Test tools such as Git, Jenkins, Jira, Robot Framework/pytest,  Zephyr Scale/qTest, Grafana etc.
+	- Experience with build tools such as Make, CMake and Yocto
+	- In depth knowledge working in Linux environments; Windows, MacOS or Android experience is a plus
+	- Expert in Object Oriented Analysis, Design and Programming
+	- Expert in Data Structures and Algorithms
+	- Excellent debugging and troubleshooting skills
+	- Expert in Software Development Life Cycle (SDLC)
+	- Must have effective interpersonal, and communication skills
+	- Demonstrates good analytical and problem-solving skills
+	- Has an inherent sense of urgency and accountability
+	- Must have the ability to multitask in a fast-paced environment
+	- Self-motivated and a team player
+	- If you want to do incredible work and be challenged by exciting, truly innovative projects that will test the boundaries of your skills and creativity, then SiFive is the place for you!  Be proud of your work.  Do things better.  Join SiFive.
 + skill set:
 	- BLAH.
 + skill set:

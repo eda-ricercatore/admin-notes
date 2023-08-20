@@ -27,7 +27,18 @@ Generic sets of skills in photonics engineering:
 + skill set:
 	- Python, FDTD simulation, optics/chip measurement, statistical modelling, design tools such as KLayout / GDSFactory / IPKISS / L-Edit / Lumerical / Meep / RSoft, integrated photonics design, photonic chip layout, cloud infrastructure/pipeline development, quantum photonics. 
 + skill set:
-	- BLAH.
+	- Photonics Design Engineer
+	- The successful candidate will work within the photonic integration team to develop cutting-edge active components, with an initial focus on high responsivity photodetectors, used throughout Xanadu's FTQC architecture. The candidate will take advantage of internally developed cloud simulation pipelines to effectively determine novel design strategies. Particular emphasis will be based on the execution of design of experiments (DOEs), while applying design for manufacturing (DFMs) concepts, exploring performance tradeoffs with Xanadu's 200mm and 300mm fabrication partners. The candidate will collaborate closely with hardware team members developing the scalable modules used in our quantum computers. 
+	- Msc or PhD in Engineering, Science, or related field, preferably with 2+ years experience in an industrial setting
+	- Expert-level knowledge and experience in designing active integrated optical components such as a) photodetector or photodiode, b) avalanche photodiodes, c) modulators, d) laser diodes, and e) phase shifters. The integrated optics platform could be silicon photonics or III-V photonics.
+	- Experience in developing components and performing tapeouts with photonic foundries.
+	- Understand and design around key sources of performance loss in active devices, specifically understanding the trade-off between numerous integration strategies, and optical and diode designs. Experience in correlating the wafer-scale non-uniformity with fabrication tolerances.
+	- Understanding of the tradeoff between different simulation approaches including sources of error and computational resource use.
+	- Additional preference: Experience in designing photodetectors or photodiodes for integrated optics/photonics.  These detectors can be with material platforms based on Group-IV Germanium (Ge), GermaniumTin (GeSn), Silicon (Si), and III-V materials such as InGaAs, InP, GaAs.
+	- Ideal preference: Experience in designing integrated Germanium (Ge) photodetectors or photodiodes or Ge avalanche photodetectors.
+	- Experience with receiver testing/experiments with system-level design constraints. Understand the system-level concepts and the role of these photodiode-based receivers. 
+	- A bonus (but not necessarily required): experience in design and configuring test/setups for component and receiver tests.
+	- A bonus (but not necessarily required): experience in developing components in an industrial environment, capable of debugging possible issues in device and module performance by simulations and testing, proposing the fixing solutions, write simulation and testing reports.
 + skill set:
 	- BLAH.
 + skill set:
@@ -120,6 +131,121 @@ Sets of skills in photonic IC design or optoelectronics:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Photonics Fabrication Process Engineering
+
+
+Sets of skills in photonic fabrication process engineering:
++ skill set:
+	- Photonics Fabrication Process Engineer
+	- As an industry leader in photonic quantum computing, Xanadu takes hardware very seriously! In this role, you will work within the Fabrication Process Engineering team to deliver Xanadu’s photonic quantum computing hardware. With your deep technical expertise and strong experience in photonics and/or semiconductor fabrication process development, you will be responsible for developing and optimizing patterning processes used to build critical components of Xanadu’s quantum computing hardware.
+	- Own the development and optimization of patterning process modules used to build state-of-the-art photonic quantum computing hardware
+	- Aggressively improve fabrication processes related to device patterning in order to deliver photonic quantum computing hardware that meets strict performance specifications
+	- Define and execute metrology and failure analysis plans to identify and mitigate failure modes and assess results of process optimization experiments
+	- Collaborate with internal and external photonics process engineers and integrators, including at Xanadu’s foundry partners
+	- Challenge the state-of-the-art in key performance metrics associated with integrated photonics fabrication
+	- Stay abreast of new developments in the field of photonics fabrication process development
+	- PhD in electrical engineering, physics, materials science or related field
+	- ≥ 3 years of experience with integrated photonics fabrication and fabrication process development, especially in the fields of etch and/or lithography
+	- Work experience at a major R&D center, national lab, or industrial setting, including experience with projects for both industry and fundamental research
+	- Experience with semiconductor and photonic patterning processes and related, including at least one of: dry etching, wet etching, ion beam etching, DUV lithography, EUV lithography, e-beam lithography, CMP
+	- Familiarity with standard semiconductor and photonics metrology and failure analysis techniques, including at least three of: SEM, TEM, AFM, ellipsometry, XRR/XRD, SIMS, Raman spectroscopy
+	- Experience with data analysis and related software, such as Python, JMP, MATLAB, etc.
+	- Familiarity with photonic components, such as waveguides, beamsplitters, resonators, MZIs, etc.
+	- Strong critical thinking skills
+	- Demonstrated ability to tackle challenging problems and develop innovative solutions
+	- Excellent communication skills and strong sense of teamwork
+	- Preferred Qualifications and Experience
+		* ≥ 5 years of experience with integrated photonics fabrication and fabrication process development, especially in the fields of etch and/or lithography
+		* Demonstrated track record of achieving low loss in integrated photonic components through fabrication process development
+		* Deep experience with at least two of the following: hard mask development for improving etch selectivity; patterning process development for line edge roughness and/or sidewall roughness reduction; etch process development utilizing non-standard chemistries and/or purely physical processes; process development for etching non-standard crystalline materials; OPC and other lithography enhancement and correction techniques
+		* Experience working in a production environment for semiconductor and/or integrated photonics products
+		* Experience with full product development cycle, from R&D through volume ramping
+		* Experience in photonic quantum computing hardware development
+		* Experience coordinating with and managing external partners, including major semiconductor and photonics foundries
+		* Experience working in fabless companies
++ skill set:
+	- Process Integration Engineer
+	- As an industry leader in photonic quantum computing, Xanadu takes hardware very seriously! In this role, you will work within the Fabrication Process Engineering team to deliver Xanadu’s photonic quantum computing hardware. With your deep technical expertise and strong experience in photonics fabrication process development and integration, you will be responsible for developing process integration schemes used to build critical components of Xanadu’s quantum computing hardware.
+	- Own the definition, development and implementation of process integration flows used to build photonic quantum computing hardware that meets strict performance specifications
+	- Collaborate with internal and external photonics process engineers to refine fabrication procedures for state-of-the-art photonic quantum computing hardware
+	- Work with Xanadu’s foundry partners to continuously improve integration schemes and balance competing fabrication requirements
+	- Define and execute metrology and failure analysis plans to identify and mitigate failure modes and assess results of process integration experiments
+	- Deliver integrated quantum photonics chips and circuits containing multiple active and passive components
+	- Coordinate between several internal component teams to ensure all hardware requirements are satisfied in delivered chips and circuits
+	- Innovate in the space of photonic process development and process integration
+	- Stay abreast of new developments in the fields of photonics fabrication process development and integration
+	- PhD in electrical engineering, physics, materials science or related field
+	- ≥ 4 years of experience in photonics chip fabrication
+	- Work experience at a major R&D center, national lab, or industrial setting, including experience with projects for both industry and fundamental research
+	- Demonstrated track record of defining, developing and implementing process integration schemes for photonic chips and circuits
+	- Experience with semiconductor and photonic fabrication processes, including some subset of: etch, lithography, deposition, CMP, annealing, wafer bonding
+	- Familiarity with standard semiconductor and photonics metrology and failure analysis techniques, including some subset of: SEM, TEM, AFM, ellipsometry, XRR/XRD, SIMS, Raman spectroscopy
+	- Familiarity with photonic components, such as waveguides, beamsplitters, resonators, MZIs, etc.
+	- Strong critical thinking skills
+	- Demonstrated ability to tackle challenging problems and develop innovative solutions
+	- Excellent communication skills and strong sense of teamwork
+	- Preferred Qualifications and Experience
+		* ≥ 8 years of experience in photonics chip fabrication
+		* ≥ 3 years of experience in photonics process integration
+		* Experience working in a production environment for semiconductor and/or integrated photonics products
+		* Experience with full product development cycle, from R&D through volume ramping
+		* Deep experience with at least two of the following: heterogeneous integration of III-V photodetectors and/or lasers with silicon photonics; integration of electro-optic crystalline films; process flows involving tools with mismatched wafer sizes; advanced packaging flows for reticle- and wafer-scale devices; co-integration of ultra-low loss passive photonics components and active elements
+		* Experience coordinating with and managing external partners, including major semiconductor and photonics foundries
+		* Experience in photonic quantum computing hardware development
+		* Experience with wafer-to-wafer, die-to-wafer, and/or other advanced bonding-based process integration schemes
+		* Experience with advanced patterning and/or etching processes
+		* Demonstrated track record of delivering finished integrated photonics products
+		* Experience working in fabless companies
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
 
 
 

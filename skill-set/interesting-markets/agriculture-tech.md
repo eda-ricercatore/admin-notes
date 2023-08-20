@@ -435,5 +435,5 @@ Sets of skills in agricultural robotics:
 + aWhere: https://www.awhere.com/careers/
 + Plantix, or PEAT GmbH: https://plantix.net/en/
 + Blue River Technology: http://careers.bluerivertechnology.com/
-
++ Agtonomy: https://www.agtonomy.com/
 

@@ -715,6 +715,9 @@ List of conference "Call for Papers" deadlines:
 + [Computer Architecture conferences, from TU/e](https://www.es.ele.tue.nl/~heco/lit/conf+journals.html)
 + [Machine learning conferences](https://research.com/conference-rankings/computer-science/machine-learning)
 + [Computer Architecture conferences](https://research.com/conference-rankings/computer-science/computer-hardware-and-architecture)
++ [Computer Networking conferences](http://nowlab.cse.ohio-state.edu/cfp/)
++ [SIGARCH-shared CFP deadlines](https://www.sigarch.org/call-contributions/)
++ [Compiler Design Conferences](https://www.sigplan.org/Conferences/)
 
 
 

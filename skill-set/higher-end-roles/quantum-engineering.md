@@ -94,7 +94,20 @@ Roles for physics and chemistry Ph.D.s in quantum computing:
 	- Excellent communication skills, including highest ability to explain physical reasoning, design decisions, and experimental results
 	- Familiarity with Python, Autodesk inventor, Zemax, COMSOL, and CNC machining
 + skill set:
-	- BLAH.
+	- Quantum Chemistry Researcher
+	- As a quantum algorithms researcher, you will be a part of Xanadu’s software and algorithms group, working in collaboration with our team of scientists and software developers. Your main role will include discovering new quantum algorithms, implementing new functionalities in Xanadu's software library PennyLane, inventing key intellectual property, and publishing scientific papers in prestigious journals. You will also work on problems of real-world impact in collaboration with our partners and customers.
+	- As an expert in theoretical quantum chemistry, you will work to support quantum computing experts in the development of quantum algorithms for simulating molecules and materials, bringing forward cutting-edge techniques from computational chemistry. This requires expertise in both quantum chemistry and quantum computing. You will also be required to identify and assess industrially-relevant simulation problems that are challenging for classical methods and suitable to quantum algorithms. 
+	- Throughout your work, you will showcase a commitment to excellence, an ability to thrive in a fast-paced environment, a forward-thinking mentality, and a collaborative work ethic. You will also demonstrate leadership, technical curiosity, and creativity.
+	- PhD in Chemistry or Physics,  or equivalent practical experience
+	- Strong track record of research accomplishments in theoretical chemistry and quantum computing, demonstrated by your peer-reviewed publications and presentations
+	- Deep understanding in both theory and practice of wavefunction-based methods such as configuration interaction, coupled cluster theory, and the density matrix renormalization group. Expertise in density functional theory is also desirable, but not necessary
+	- Very strong software development and scientific programming skills in Python, preferably with a proven track record of contributions to open-source scientific libraries
+	- Good grasp of basic concepts in quantum algorithms such as Hamiltonian simulation, fermionic-to-qubit mappings, qubitization, and quantum phase estimation
+	- Experience with open-source libraries such as PySCF and QuantumEspresso
+	- Experience with quantum software libraries, preferably PennyLane and OpenFermion
+	- Ability to conduct research in an interdisciplinary team environment, as well as independently when required
+	- Ability to communicate technical concepts clearly and effectively
+	- Ability to manage individual project priorities, deadlines, and deliverables while working in a fast-paced environment
 + skill set:
 	- BLAH.
 + skill set:
@@ -159,6 +172,72 @@ Sets of skills in quantum error detection and correction:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Quantum Error Detection and Correction
+
+
+
+Sets of skills in quantum processor simulator development:
++ skill set:
+	- Software Development Manager - Performance(HPC/GPU)
+	- Xanadu is looking for an experienced Software Development Manager to lead the Performance Quantum Software team. The team is developing several CPU and GPU-based PennyLane simulator backends to simulate Quantum Hardware. Although quantum software development experience is not required for the role, an advanced degree in physics is strongly preferred.
+	- Manage a team of 5-7 developers to build new features for the PennyLane simulators and generally improve the performance of the PennyLane library.
+	- Work with Product Managers to define direction and roadmap for the team.
+	- Participate in sprints with cross-functional teams, ensuring features are delivered efficiently and on time.
+	- Work closely with our community growth team to ensure good feedback loops between external stakeholders and internal teams and to improve library adoption.
+	- Develop and improve processes to ensure developer efficiency and consistent product delivery.
+	- Perform team-building activities such as hiring, mentorship, career development and performance management.
+	- Perform R&D to support new hardware platforms, programming paradigms, and software tooling to enable optimal performance for PennyLane workloads.
+	- Advanced degree in Physics or similar.
+	- 7+ years of software development experience.
+	- 2+ years of management experience.
+	- Strong programming experience in modern high-performance compiled languages and interpreted languages, including Python & modern C++ [11/14/17/20].
+	- Exposure/familiarity to machine learning/deep learning.
+	- Ability to understand and apply complex mathematical concepts.
+	- Experience building scalable & reproducible scientific work-loads.
+	- Strong communication skills.
+	- Preferred qualifications and experience
+		* Expertise in quantum computing, as demonstrated by in-field experience, extensive coursework, thesis, or peer-reviewed publications.
+		* Extensive experience with GPU programming through CUDA, HIP/ROCm, OpenCL, SYCL/oneAPI or compiler offload directives.
+		* Experience with scientific computing on Top500 supercomputing systems, or on commodity / cloud hardware (e.g., AWS, Azure, GCP).
+		* Experience working with cross-platform build-systems (e.g CMake on Windows, MacOS, Linux).
+		* Familiarity with multi-processing & distributed computation (e.g. MPI, SHMEM,Dask.Distributed, Ray).
+		* Experience with benchmarking and performance analysis of scientific workflows (e.g Intel Advisor/Vtune, perf, Arm Forge, Nvidia Nsight).
 + skill set:
 	- BLAH.
 + skill set:

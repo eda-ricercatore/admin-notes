@@ -608,7 +608,22 @@ Emerging technologies that would be interesting application domains of computati
 		* also has implementations of:
 			+ graph algorithms
 + skill set:
-	- BLAH.
+	- Sr. Scientist with Applied Math (Ph.D. Required)
+	- MemComputing Inc. is developing disruptive, next generation and unconventional computing platforms. We are looking for an exceptional and talented scientist with strong skills in applied math, physics, combinatorics, scientific programming, and high-performance computing. Join our team and help develop a software-based solution for our customers needing faster computation for their A.I., M.L., Operations Research, and Big Data Analytics problems. This Scientist role will participate in the architecture, design, development, test, and deployment of an advanced computational engine, as well as helping with professional services for high-profile customers. Successful candidates will find rewarding work in a diverse set of math, physics, and computer science specialties, including parallel and distributed computing (on GPU, FPGA, etc.), combinatorial optimization, numerical analysis, and simulation of differential equations. Applications include transportation & logistics, aerospace, satellites, robotics, autonomous vehicles, computational chemistry, and more. Excellent communication and collaborative skills, attention to detail, and strong technical and problem-solving skills are essential aspects of this role. All efforts will be performed in-house at our San Diego Headquarters.
+	- Ph.D. in physics, applied math, computer science, computer engineering, data science, electrical engineering, or similar disciplines
+	- High Performance Computing or scientific programming
+	- Familiarity with modern software development practices and tools.
+	- Experience with C++, CUDA, Python
+	- Experience in combinatorial optimization and numerical analysis.
+	- Demonstrated ability to develop and present ideas and results in oral and written form.
+	- Demonstrated ability to work effectively and collaboratively in a team environment.
+	- 3+ years of experience.
+	- MATLAB skills and experience
+	- Experience with FPGA implementation
+	- Experience with algorithms used for optimization, machine learning, and A.I.
+	- Experience with large, complex scientific and technical software systems.
+	- Knowledge of distributed machine learning and unsupervised deep learning/neural networks.
+	- Experience/education in a subset of the following: system engineering, distributed system design, numerical analysis, modeling and simulation, relational/object/geographic database technologies, user interfaces, scientific data visualization, web services technologies, and software development for multi-core/GPU/parallel computing.
 + skill set:
 	- BLAH.
 + skill set:

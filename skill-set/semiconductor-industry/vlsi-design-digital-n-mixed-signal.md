@@ -428,9 +428,11 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
-###	Skills for VLSI Design for Communication ICs
+###	Skills for VLSI Design for Wireless and Wired Communication ICs
 
 
+
++ Bus interface knowledge like AXI or PCIE
 + skill set:
 	- Associate Staff Engineer- Modem Design
 	- 
