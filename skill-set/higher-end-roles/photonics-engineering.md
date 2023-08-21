@@ -40,9 +40,58 @@ Generic sets of skills in photonics engineering:
 	- A bonus (but not necessarily required): experience in design and configuring test/setups for component and receiver tests.
 	- A bonus (but not necessarily required): experience in developing components in an industrial environment, capable of debugging possible issues in device and module performance by simulations and testing, proposing the fixing solutions, write simulation and testing reports.
 + skill set:
-	- BLAH.
+	- Senior Photonics Engineer
+	- BRIGHT Photonics is seeking a talented and motivated senior photonics engineer to work on our commercial and R&D projects in the application areas such as telecommunication, datacommunication, sensing, microwave photonics, and biophotonics. You will be designing a variety of photonic components and devices on different technology platforms, such as, Si, InP, SiN, PLC. You will have opportunities to characterize fabricated components and circuits. You will directly engage with customers on PIC design support, defining device specification, preparing concept studies. Part of the job will be related to improving design flow, participating in development of in-house design tools, and development of compact models. You will engage in projects definition and project management.
+	- Design of active and/or passive photonic components and devices.
+	- Design, simulation and layout work on photonic components and photonic integrated circuits
+	- Develop new design approaches, improve design flow and contribute to the development of in-house design tooling.
+	- Interact with technology providers and customers on device design.
+	- M.Sc. or Ph.D. degree in electrical engineering/ physics/ applied physics/ optics/ photonics/ or similar quantitative fields.
+	- Good understanding of general concepts in physics, especially in optics and electro-magnetism.
+	- Good understanding of concepts in fiber communication, fiber optics, and integrated photonics.
+	- Experience with designing, modeling, layout and characterizing photonic integrated circuits and opto-electronic devices, 	- such as lasers, photodetectors, modulators.
+	- Experience in using computational methods to design photonic components, (e.g. in EM simulations, BPM, FDTD).
+	- Excellent communication skills in English both oral and writing.
+	- Solid programming skills in Python or C/C++.
+	- Independent, strong initiative, self-motivated, accurate and precise working attitude, ability to work under pressure with defined deadlines.
+	- Experience with high-frequency design and modeling.
+	- Experience in working with industry.
+	- Experience with epitaxial growth and epi design.
+	- Experience with data analysis and data management.
+	- Solid computer skills using various operating systems.
+	- Work on state-of-the-art topics in photonics technology and photonic-based device development.
+	- Challenging problems requiring out-of-the box thinking.
+	- Work in an exciting, international environment.
+	- Work alongside other experienced photonic designers.
+	- Develop your own skills and contribute to company growth.
+	- A competitive salary and flexible working hours.
 + skill set:
-	- BLAH.
+	- Senior Photonics System & RF Engineer
+	- BRIGHT Photonics is seeking for a talented and motivated Photonics System & RF Engineer to work on our commercial and R&D projects in photonic integration technologies. You will be developing next generation R&D photonic integrated systems in a multi-disciplinary team. Your role will span from capturing requirements and specification, through design of photonic components, design of high-speed RF interfaces, development, verification and deployment. You will directly engage with our customers and suppliers, and engage in projects definition and project management. This position is for a senior level and independent professional with 4+ years of experience.
+	- Capture and refine specification of photonics systems and interact with technology providers and customers on device/system development.
+	- Design, simulate, model and solve high-tech system problems (i.e. photonics, optical, opto-mechanical, mechanical, electronical).
+	- Design, simulation and layout work on photonic components and photonic integrated circuits.
+	- Design RF interfaces, simulate and analyze signal integrity of high speed interconnects.
+	- Plan and perform tests at the system and sub-system level of opto-electronic devices.
+	- Contribute to the development of in-house design tool in the high-speed RF domain.
+	- M.Sc. or Ph.D. degree in electrical engineering/ applied physics/ opto-electronics or similar fields.
+	- Good understanding of general concept in physics, opto-electronics, mechanics, RF and microwave design.
+	- Knowledge about photonics and photonic integration technologies.
+	- Experience with designing, modeling, layout and characterizing photonic integrated circuits and/or other opto-electronic devices
+	- Experience with designing, modeling, layout of high-frequency RF substrates and RF interconnects; adequate experience with EDA tools and RF modeling tools.
+	- Excellent communication skills in English both oral and writing.
+	- Good programming skills in Python or C/C++.
+	- Independent, strong initiative, self-motivated, accurate and precise working attitude, ability to work under pressure with defined deadlines.
+	- Experience in working with industry in optical/electronic systems in the tele/datacom or aerospace industries.
+	- Experience with RF measurements (e.g. using VNA)
+	- Experience with data analysis and data management.
+	- Solid computer skills using various operating systems.
+	- Work on state-of-the-art topics in photonics technology and photonic-based device development.
+	- Challenging problems requiring out-of-the box thinking.
+	- Work in an exciting, international environment.
+	- Work alongside other experienced photonic designers.
+	- Develop your own skills and contribute to company growth.
+	- A competitive salary and flexible working hours.
 + skill set:
 	- BLAH.
 + skill set:

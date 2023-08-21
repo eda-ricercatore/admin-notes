@@ -329,6 +329,36 @@ Skill sets for bioinformatics:
 
 
 
+##	Skill Sets for Computational Pharmacology
+
+
+
+Skill sets for computational pharmacology:
++ skill set:
+	- Scientist - Modeling and Simulation
+	- The Scientist will report to the Senior Director and engage with clients on clinical pharmacology and pharmacometrics projects. The Scientist will assist in supporting drug development programs by applying clinical pharmacology and pharmacometric methodology from pre-clinical through late-stage development and regulatory filings.
+	- Part of the Clinical Pharmacology, Modeling and Simulation team
+	- Develop analysis plans, execute and communicate per standard operating practices of Pumas-AI.
+	- Work closely with clients' teams.
+	- Prepare reports, data and programs in a manner suitable for regulatory submissions.
+	- Create and manage datasets and tasks such as non-compartmental and compartmental PK/PD analysis.
+	- Collaborate with Pumas-AI pharmacometricians in the modeling of emerging PK and PK/PD data.
+	- Maintain knowledge of relevant scientific and regulatory practices and trends and ensure that clinical pharmacology aspects of development programs are contemporary.
+	- Scoping questions and developing modeling and simulation strategy for projects.
+	- Analysis and reporting of population pharmacokinetic/pharmacodynamic, exposure-response, and disease progression models to support dose selection, trial design, and Go/No-Go decisions.
+	- Participate in the preparation of reports/abstracts/manuscripts for publications and regulatory documents.
+	- Prepare formal presentations and written reports to Pumas-AI standards.
+	- Carry out functional responsibilities in accordance with applicable SOPs and Regulatory requirements
+	- A PhD or a relevant postdoctoral training in Pharmaceutical Sciences, Clinical Pharmacology, Biological Sciences, Bioengineering, Chemical Engineering, or Applied Mathematics.
+	- Master’s degree and 4 years of industry or relevant academic experience in applied statistics/mathematics, biostatistics, engineering, or pharmaceutical sciences.
+	- Bachelor’s degree and 6 years of industry or relevant academic experience in applied statistics/ mathematics, biostatistics, engineering, or pharmaceutical sciences.
+	- Demonstrated ability to use quantitative tools.
+	- Excellent communication skills and ability to work independently and as a team member.
+	- Hands-on experience in at least one of the modeling and simulation software.
+	- Ability to multi-task and prioritize assignments, establishing courses of action for self and others to ensure that work is completed efficiently in a timely manner.
+	- Must be self-motivated, well-organized, detail-oriented and have excellent written and verbal communication skills.
+	- Experience in establishing collaborative working relationships with internal and external stakeholders.
+	- Pumas-AI is a young company led by decades of experience in diverse areas of healthcare and mathematical modeling. With a focused goal on providing better solutions for patient care, be it via pharmaceutical drug development innovation or tools for point of care, Pumas-AI aims to bring value, innovation and efficiency to healthcare. We build technology that converts the power of science into real-world applications with unprecedented speed and accuracy. At the core of everything we do is our commitment to move science forward.
 
 
 

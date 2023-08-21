@@ -4030,9 +4030,50 @@ Skill sets for application engineers of different EDA products:
 	- Experience with hardware specific optimization of ML models and deployment
 	- Experience developing software for mobile devices and heterogenous compute environments (eg. iOS, watchOS)
 + skill set:
-	- BLAH.
+	- Scientist - Machine Learning
+	- The DeepPumas team works on augmenting traditional pharmacological modeling frameworks with seamlessly embedded machine learning algorithms. This enables structural enforcement of prior scientific knowledge through statistical and dynamical modeling while enabling data-driven augmentation. We work with neural networks, universal differential equations, symbolic identification, Bayesian/Convolutional/Graph neural networks and more, all of which are deeply embedded in statistical and dynamical models. Our work is groundbreaking and unprecedented, taking us across the horizontal of basic scientific research to applications in real-world healthcare issues. Throughout the process, we are engaging with and building credibility in the scientific community by publishing papers, presenting (and winning awards) at prestigious international conferences. Our goal is to democratize the resulting methodology through well-crafted software and learning material for widespread use.
+	- At DeepPumas, we are currently taking on few but scientifically challenging and long-running consulting projects. These are projects where apply the DeepPumas methodology of augmenting traditional knowledge-based phramacological modelling with data-driven AI. The projects typically involve solving problems that require refinement and further development of our methodology itself – including but not limited to the AI augmentation. As DeepPumas grows and we expand our ability to perform specific analyses quickly, this position might also evolve. Now, however, our projects are similar to post-docs, where we continually update collaborators on our progress but where the project is expected to take more than a year to complete. Every such project needs someone who can take ownership of it. Someone who will be the primary contact to our external partners; who gets to know the biology behind the problem; who charts the course, breaks down the problem into smaller tasks, takes on many of those tasks themselves but outsources the parts that require specific expertise beyond their own. So far, the work is typically done using AI-augmented nonlinear mixed effect models and will thus build on pharmacology, statistics, dynamics and ML.
+	- Solve real-world healthcare problems using advanced AI-augmented pharmacological modeling.
+	- Develop general theory and methodology needed for the current and future projects to achieve its goals.
+	- Establish excellent working relationships with our external partners.
+	- Responsibilities
+		* Project Owner
+			+ Take ownership over specific DeepPumas scientific projects and lead them to successful completion
+			+ Communicate internally and acquire the advice and the hands-on help that you need to successfully complete your projects.
+			+ Communicate and collaborate internally to successfully meet deliverables.
+			+ Interface with our external scientific partners and clients
+			+ Research, design, implement, and document methodology
+			+ Present your work at scientific conferences and write scientific papers
+			+ Mentor interns
+		* Company responsibilities
+			+ Develop and communicate appropriate project documentation, including project overview, scope, team structure, status reports, issues management reports, change control reports, meeting notes, etc. as required and in a timely manner.
+			+ Ensure adherence to company SOPs (Standard Operating Procedures), policies, and guidelines at the project level.
+			+ Participate in Pumas-AI's continuous process improvement initiatives by, amongst other activities, assuring that project quality metrics align with company, client, and clinical operations objectives.
+			+ Track identified project risks and issues and assist with following up with actions to ensure adherence to contractual agreement.
+	- PhD in related field or equivalent experience that satisfies the requirement and responsibilities stated.
+	- Effective communication skills.
+	- Experience with mathematical modelling.
+	- Proficiency in statistical reasoning and modelling
+	- Proficiency in dynamical modelling
+	- Proficiency with machine learning
+	- Proficiency of pharmacology
+	- Software development skills
+	- Proficiency with the Julia programming language
 + skill set:
-	- BLAH.
+	- AI RESEARCH SCIENTIST
+	- Two Sigma is a financial sciences company, combining data analysis, invention, and rigorous inquiry to help solve the toughest challenges in investment management, insurance technology, securities, private equity, and venture capital.
+	- We are looking for creative experts who are interested in applying general machine learning and specifically deep learning techniques to many types of problems, but particularly those with large amounts of noisy data.
+	- Develop effective techniques and infrastructure, from the initial idea to the running prototype and product
+	- Similar to a research environment, you will write code, use the latest machine learning tools, run experiments, and generally develop techniques and processes to improve our understanding of how financial data influences the world around us
+	- Partner with teams across Two Sigma to implement your ideas into their products
+	- Remain connected to the broader research community by partnering with internal and external collaborators and participate in relevant conferences
+	- Advanced degree in Computer Science, Engineering, or other STEM field
+	- Excellent programming skills in Python, C++, Tensorflow, PyTorch or similar languages
+	- Internships/work experience with machine learning, deep learning, reinforcement learning
+	- Background in machine learning techniques with large amounts of noisy data, curiosity in applying it to financial problems
+	- Relevant research experience (publications at NeurIPS, ICML, ICLR or similar are preferred)
+	- Experience with cloud environments and multi-machine setups
+	- Participation in open source community
 + skill set:
 	- BLAH.
 + skill set:
@@ -8838,7 +8879,9 @@ They support databases for:
 	- Experience building and maintaining continuous deployment pipelines.
 	- Experience with common data science methods, platforms, workflows, and infrastructures; with data management systems, practices, and standards; and the capacity to gain familiarity with new related topics.
 + skill set:
-	- BLAH.
+	- Experience in distributed data processing systems (Hive, Redshift, Presto, Snowflake, etc)
+	- Breadth of knowledge around statistical methods including A/B testing, causal inference, experimentation, cluster-randomized testing
+	- Familiarity with Snowflake, dbt, and ETL/reverse ETL tools.
 + skill set:
 	- BLAH.
 + skill set:

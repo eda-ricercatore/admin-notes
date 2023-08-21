@@ -152,11 +152,14 @@ Design languages for verification:
 
 VLSI verification methodologies:
 + Universal Verification Methodology (UVM)
-+ Universal Reuse (URM)
+	- Open Verification Methodology (OVM)
++ Universal Reuse Methodology (URM)
 + e Reuse (eRM)
 + Open Source VHDL Verification Methodology (OSVVM)
 + Universal VHDL Verification Methodology (UVVM)
 + COCOTB (Coroutine Co-simulation Test Bench)
++ Advanced Verification Methodology (AVM)
++ Verification Methodology Manual (VMM)
 + Home-grown
 
 

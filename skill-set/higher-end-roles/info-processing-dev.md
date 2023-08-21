@@ -724,6 +724,51 @@ reactive programming = asynchronous dataflow programming
 	- Our team delivers algorithms that power Apple Vision Pro's Eyesight, Persona and other visionOS technologies. In this position, you will have the opportunity to be part of our extraordinary team of Computer Vision and Deep Learning researchers and engineers to discover and build solutions to previously-unsolved challenges and push the state of the art in Computer Vision / Machine Learning, 3D Reconstruction and Neural Rendering algorithms that will change the way people experience the world!
 	- BS, MS or PhD in computer vision, machine learning, computer science, computer engineering or related fields
 + skill set:
+	- 8+ years of professional experience shipping software with a specialization on Rendering and Graphics (2D or 3D), ideally with experience in C++/WebAssembly.
+	- Experience working on game engines, client-side technologies and platforms, and rendering APIs like OpenGL, WebGL, WebGPU, Vulkan, Metal, or DirectX.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -749,6 +794,13 @@ reactive programming = asynchronous dataflow programming
 	- BLAH.
 
 
+
+
+
+
+
+
+	
 
 
 
