@@ -336,4 +336,23 @@ Skills related to software development for enterprise search engines:
 	- Knowledge of computational geometry or graph/routing algorithms
 	- Experience deploying applications using Kubernetes.
 + CloudFront, Heroku, Postgres, CircleCI, Terraform, Git, and MacBook Pro's to help us get product delivered to the public in a timely and efficient manner
++ Possibility of development in different JVM languages (Java, Scala, Xtend, Kotlin)
+	- Kotlin: cross-platform, statically typed, general-purpose high-level programming language with type inference.
+	- Xtend is a general-purpose high-level programming language for the Java Virtual Machine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1279,7 +1279,24 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 			* deploying cloud infrastructure
 			* managing cloud infrastructure
 + skill set:
-	- BLAH.
+	- RELIABILITY ENGINEER
+	- Our Global Reliability Engineering group consists of multiple teams of versatile full stack engineers who drive the expansion and maintenance of Two Sigma’s many and varied systems. The team exists in the space between traditional systems engineering and development, and seeks to merge the capabilities from both disciplines.
+	- Improving all aspects of software reliability, including better monitoring, alerting and documentation
+	- Facilitating the adoption of reliability engineering best practices by our software engineering partner teams
+	- Serving on a rotating business-hours on call rotation investigating and remediating alerts using service specific runbooks
+	- Recommending, developing, and automating production and research data pipelines using industry best practices
+	- Creating acceptance and quality criteria to guarantee the integrity of production and research data sets
+	- Automating validation processes for our data sets
+	- Collaborating with business partners, software engineers and quantitative modelers, to understand and improve business processes
+	- Dynamic resource management frameworks (ex: Kubernetes, Docker)
+	- Large-scale batch processing using public cloud technologies (AWS, GCP, or Azure)
+	- Building resilient data pipelines using open source technologies (ex. Airflow, Prefect)
+	- Observability in distributed systems (ex. Elasticsearch, Logstash, Kibana, Datadog, Prometheus, Grafana)
+	- BS/BA in computer science or another highly technical, scientific discipline
+	- Minimum 1 year of experience required; preferred 1-10 year(s) of experience with automating technical processes
+	- Experience with Bash, Python, or other similar languages
+	- Familiarity with the UNIX command line
+	- Prior experience in a similar Site Reliability Engineering (SRE), DevOps, distributed computing, systems engineering/administration, or related function.
 + skill set:
 	- BLAH.
 + skill set:

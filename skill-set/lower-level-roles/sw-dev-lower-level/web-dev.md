@@ -1930,6 +1930,7 @@ reactive programming = asynchronous dataflow programming
 	- Lead Software Engineer (Javascript / Typescript / GIS)
 + General hands-on experience with the foundational web technologies such  such as HTML5, CSS3, TailwindCSS, Responsive Design, HTML APIs, REST APIs
 + Ability to code in a front end JS framework (React, Vue, Svelte) a plus.
++ Java, Python, Angular.js, HTML5, and CSS3 is a plus
 + skill set:
 	- BLAH.
 + skill set:

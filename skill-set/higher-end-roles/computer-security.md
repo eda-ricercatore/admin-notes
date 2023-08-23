@@ -259,7 +259,19 @@ Roles in computing security:
 	- Experience with HTTP gateways for access control
 	- Experience with third party IDP integration
 + skill set:
-	- BLAH.
+	- SIEM stands for Security Information and Event Management
+	- Innovate in how they combine traditional SIEM tools (Splunk, Zeek, Kafka) with new Graphistry ecosystem technologies (Python, Jupyter, Streamlit, Graphistry, Nvidia RAPIDS, Nvidia Moprheus, Apache Arrow, graph neural networks, Kubernetes)
+	- Enjoy Python and PyData ecosystem: Linux/Docker, notebooks, dataframes
+	- Experience with GB/TB data volumes such as with tools like Splunk, Spark, SQL
+	- Experience with SIEM technologies, such as Splunk/ELK-based SIEMs, host/network data, and detection engineering
+	- Security investigation experience, especially using SIEM, UEBA, SOAR, and code
+	- Broader investigative experience such as sigint, osint, and fraud
+	- Built custom investigation platforms and content, including data engineering, detection as code, and dashboards
+	- Experience in on-premise, cloud, and Kubernetes environments
+	- Experience in both government and enterprise environments
+	- Developed or used traditional ML models and neural networks
+	- Used GPU computing, including in bigger-than-memory settings
+	- Used graph technologies like graph databases, graph analytics, graph visualization, and graph AI, and especially in at-scale detection and investigative scenarios
 + skill set:
 	- BLAH.
 + skill set:

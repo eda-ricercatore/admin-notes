@@ -538,14 +538,15 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 + skill set:
 	- FPGA Engineer
 	- We are looking for an FPGA Engineer to help us design, test, and deploy advanced hardware accelerators. You will be part of the ultra-low latency team, but you’ll also have the chance to work with people in areas across the firm, including trading, networking, and research infrastructure.
-	- We are big believers in the ability of tools to improve the productivity, reliability, and day-to-day joy of hardware engineering. That’s why we created Hardcaml, a hardware development toolchain embedded in OCaml.
-	- While we don’t expect you to know OCaml (we can teach it to you), we are looking for hardware engineers who are excited about the advantages that better tools can bring and as a result are willing to try new things. We are also looking for a particular mix of skills and experience:
+	- We are big believers in the ability of tools to improve the productivity, reliability, and day-to-day joy of hardware engineering. That’s why ***we created Hardcaml, a hardware development toolchain embedded in OCaml***.
+	- ***While we don’t expect you to know OCaml (we can teach it to you), we are looking for hardware engineers who are excited about the advantages that better tools can bring and as a result are willing to try new things. We are also looking for a particular mix of skills and experience***:
 	- Practical experience of RTL design and testing
 	- Experience with back-end tooling like Vivado and Quartus
 	- ***An interest in using software engineering techniques to improve the hardware design process and experience programming in a high-level language (e.g., Python, C++, Java, Haskell, etc.)***
 	- Experience with PCIe, SERDES integration, and high-performance Ethernet/InfiniBand are a plus
 	- Experience working on trading-related applications is a plus
 	- Fluency in English is required
+	- Base salary is $250,000 - $300,000.
 + skill set:
 	- FPGA Engineer
 	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
@@ -594,9 +595,55 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- https://blog.janestreet.com/applying-to-jane-street/
 	- https://www.janestreet.com/join-jane-street/get-to-know-us/
 + skill set:
-	- BLAH.
+	- FPGA Design Verification Staff Engineer
+	- As part of Accenture's Industry X, the Silicon Design group is a diverse team of world class silicon engineers. We have 100+ years of cumulative hands on experience in architecture, logic design, verification, physical design, emulation and firmware . We use the latest silicon technologies and processes to help our clients create well-designed solutions to highly complex challenges. We are designing and developing next-generation, high performance SoCs, supporting our clients in their drive to deliver their product vision to their users. We are involved in all aspects of chip design from definition and architecture through to verification and signoff. Accenture engineers are true "Silicon to SW" Partners, allowing a new breed of companies in the semiconductor ecosystem to innovate in an unparalleled time to market.
+	- Whether at our Silicon Design Center in Phoenix or at one of our other locations you will get to collaborate and innovate with the world's leading product development companies. In our dynamic fast-paced environment you will get to make the impossible possible.
+	- Accenture is invested in our team member's growth and provide many opportunities for training and skills expansion.
+	- Hands on experience to write synthesizable RTL for FPGA based systems
+	- Integrating first-party and third-party IPs into a larger system and maintaining it through fast transitions
+	- Build vendor-neutral FPGA/RTL designs intended to prototype ASIC implementations
+	- Familiarity with Xilinx, Altera FPGA's ( ( Vivado , Quartus, etc.)
+	- Perform FPGA design verification and validation using advanced RTL verification techniques
+	- Design FPGA's through the life cycle including: Architecture development, micro architecture, algorithm implementation, synthesizable Verilog code generation
+	- Perform FPGA Design Implementation: Constraint driven FPGA Synthesis, place and route, static timing analysis and optimize FPGAs for timing closure
+	- Collaborate in a team environment across multiple engineering disciplines and with researchers
+	- Generate design review and deliverable documentation including review packages, block diagrams, interface control documents, test procedures, requirements verification matrices, and test plans/procedures
+	- Proficient in control and use of a variety of test equipment including Oscilloscopes, Spectrum Analyzers, and Signal Generators
+	- Bachelor's Degree or equivalent (12 years) work experience (If an, Associate's Degree with 6 years of work experience)
+	- 3 years of experience with FPGA or RTL Design
+	- Proficient in Verilog coding for synthesis
+	- Demonstrated ability to analyze and debug FPGA firmware and related hardware issues
+	- Solid technical writing skills and ability to communicate complex technical concepts/solutions both inside and outside of the organization.
+	- In depth working knowledge and experience with vendor specific FPGA tools ( Vivado , Quartus, etc.)
+	- Circuit design experience in one or more of these areas: high speed differential circuits, microcontrollers, microprocessors, firmware, display engineering, digital signal processing, real-time image processing, camera modules, knowledge of CIS-2, MIPI C/D-PHY, I2C/I3C, and advanced interface standard
+	- Programming experience in C and/or C++
+	- Experience using industry standard FPGA tools to bring up initial system, integrate peripheral components, and test and debug design
+	- Programming experience in one or more scripting languages: Python, tcl , shell scripts, or equivalent EDA tool scripting languages
+	- Experience with agile RTL or HLS methodologies such as Vivado HLS, Catapult HLS, Chisel, PyMTL , Stratus HLS, or others
+	- Proven track record of successfully deploying FPGA solutions across production systems or research prototypes
+	- BOOT Linux OS on top of the platform (FPGA)
+	- For the state of Colorado only , the range of starting pay for this role is $72,400 - $134,999 and information on benefits offered is here.
 + skill set:
-	- BLAH.
+	- FPGA Engineer Internship, May-August
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time. Over the course of your internship, you will explore ways to approach and solve exciting problems within your field of interest through fun and challenging classes, interactive sessions, and group discussions—and then you will have the chance to put those lessons to practical use.
+	- As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done. When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- In this internship, you’ll learn how we use tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we're looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.
+	- During the program, you’ll dive deep on one project, mentored closely by the full-time employees who helped design it. Some intern projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will help you gain a better understanding of the wide range of problems we solve every day.  We expect interns to build FPGA applications from concept to a working design; your projects will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration.
+	- If you’d like to learn more, you can read about our interview process, meet some of our newest hires, or check out our OCaml All The Way Down talk and Programmable Hardware podcast episode.
+	- https://blog.janestreet.com/applying-to-jane-street/
+	- https://www.janestreet.com/join-jane-street/get-to-know-us/
+	- https://www.janestreet.com/tech-talks/ocaml-all-the-way-down/
+	- https://signalsandthreads.com/programmable-hardware/
+	- We don’t expect you to have a background in finance, OCaml, functional programming, or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. 
+	- Intending to start full-time employment by Summer 2025
+	- Comfortable with a software programming language
+	- Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs
+	- Experienced working with FPGA vendor tools - Vivado or Quartus
+	- Experienced with building a working FPGA project through an academic, professional, or personal project
+	- Interested in learning how to use FPGAs in the context of networking
+	- Fluency in English required
+	- Base salary is $250,000.
 + skill set:
 	- BLAH.
 + skill set:

@@ -546,8 +546,52 @@ Skill sets for STCO and DTCO:
 	- Disciplined programming skillset with a strong attention to detail
 	- Experience with backend compilation, HW/SW co-design, and/or performance optimization
 	- The base pay range for this role is between $189,800 and $346,300, and your base pay will depend on your skills, qualifications, experience, and location.
-* Deep understanding of computer systems and the interactions between HW and SW
-* Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)
++ Deep understanding of computer systems and the interactions between HW and SW
++ Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)
++ skill set:
+	- Post-Moore Microelectronics/VLSI Co-Design Postdoctoral Scholar
+	- Berkeley Lab’s Applied math and Computational Sciences Division has an opening for a Postdoctoral Scholar to evaluate and develop devices to hardware/circuit co-design flow for architectural specializations for high performance computing and edge computing applications.
+	- In the absence of Moore’s Law Scaling, the Department of Energy (DOE) must investigate alternative paths to continuing computing performance improvements for scientific applications through architectural specialization. The successful candidate will contribute to the development and evaluation of novel heterogeneous device-based circuit design for extreme heterogeneous SoC (System on Chip) designs, and evaluate their merit for emerging computational workloads for the purpose of maximizing performance and energy efficiency. This work will have a broad impact on high performance and other larger-scale computing for critical applications for society and science. 
+	- The successful applicant will need to have expertise with computer architecture and processor design and from the ground up, and have skills in Spice analog/digital circuit design, Verilog and use of CAD/EDA tools. It is desirable if the applicant has familiarity with higher-level hardware design languages such as CHISEL, PyMTL or other HDLs that target an FIRRTL intermediate representation. It is also beneficial if the candidate has experience with full tape-out experience of ASICs. Using those skills, the successful candidate will design post-Moore devices-based compute, memory, or data transfer blocks for key application kernels to demonstrate the merit of this approach. This position will also make key intellectual contributions and consequently publish papers to the emerging field of extreme heterogeneous computing and domain-specific specializations.
+	- Design circuits, hardware accelerators and processor architectures using post-Moore devices to accelerate key HPC applications and application kernels.
+	- Develop compact models and methodologies to use these circuits for performance and energy characterizations which can be used in architectural simulation framework for tightly integrating these accelerators into heterogeneous systems and SoCs that may contain multiple different kinds of accelerator devices.
+	- Identify opportunities and challenges for devices to architectural design space exploration for several post-Moore devices to address those bottlenecks and develop circuit design models to determine the performance potential for those solutions.
+	- Develop metrics and benchmark tests in order to compare conventional CMOS based processors/accelerators and enhanced post-Moore devices based computational accelerators for key HPC applications and algorithms. 
+	- PhD or equivalent in a Computing Science or Computer Engineering related scientific discipline.
+	- Past experience in either Machine learning accelerators or SRAM array design or basic blocks of processor at transistor level.
+	- Courses or experience in CAD for VLSI algorithms and C++ Programming.
+	- Proficient in Spice Circuit Simulations, Verilog and hardware design in CMOS, FeFET, NCFET etc.
+	- Familiarity with hardware EDA/CAD tools and evaluation/modeling tools in order to extend existing infrastructure to rapidly evaluate CMOS designs.
+	- Demonstrated creativity, initiative and ability to design, develop and implement complex solutions in consultation with designated technical expert(s) and/or supervisor.
+	- Experience and track-record writing technical papers and reports.
+	- Experience with the use of script languages and system utilities such as configure, Perl, UNIX shell scripts, and “make.”
+	- Proven record of working effectively in a team, seeing projects through to completion, meeting deadlines, interacting with users, and thorough documentation of contributions.
+	- Willingness to learn and develop skills in new topics.
+	- Previous experience and publications in Processing-In-Memory and Logic-in-Memory architectures is highly desirable.
+	- Experience with coding in C++/python for CAD tool development for ASIC design.
+	- Experience with higher-level hardware design languages (HDLs) such as CHISEL, PyMTL, or others.
+	- Experience with FPGA design flows would also be beneficial.
+	- Demonstrated ability to lead technical efforts with teams of people will also be beneficial.
+	- The monthly salary range for this position is $6431-$8642 and is expected to start at $7843 or above. 
+	- This is a full-time 3 year, postdoctoral appointment with the possibility of renewal based upon satisfactory job performance, continuing availability of funds and ongoing operational needs. You must have less than 2 years of paid postdoctoral experience. Salary for Postdoctoral positions depends on years of experience post-degree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -573,9 +617,44 @@ Notes about VLSI formal verification:
 
 The sets of skills for VLSI formal verification are:
 + skill set:
-	- BLAH.
+	- Principal Formal Verification Engineer
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
+	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
+	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
+	- Linux/Unix experience
+	- Verilog/VHDL design experience
+	- SV/UVM experience
+	- Open-source projects in design/verification
+	- RISC-V/Arm/x86/MIPS
+	- SVA/PSL/Theorem proving
+	- Tcl/Python/Bash
 + skill set:
-	- BLAH.
+	- Staff Formal Verification Engineer
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
+	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
+	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
+	- Experience in design verification using SVA 
+	- Evidence of sign-off capable work done previously
+	- Have a can-do attitude, can show self-learning attributes
+	- Individual contributor & excellent team player
+	- Strong reasoning skills
+	- Excellent attention to detail
+	- Excellent communication details in English
+	- Linux/Unix experience
+	- Verilog/VHDL design experience
+	- SV/UVM experience
+	- Open-source projects in design/verification
+	- RISC-V/Arm/x86/MIPS
+	- SVA/PSL/Theorem proving
+	- Tcl/Python/Bash
 + skill set:
 	- BLAH.
 + skill set:
@@ -3011,7 +3090,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 
 ###	Start-ups related to VLSI Deep Learning & Embedded Deep Learning
 
-+ 
++ Covariant: https://covariant.ai/careers/
 
 
 
@@ -4075,7 +4154,16 @@ Skill sets for application engineers of different EDA products:
 	- Experience with cloud environments and multi-machine setups
 	- Participation in open source community
 + skill set:
-	- BLAH.
+	- Machine Learning, AI Research Internship (FALL)
+	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer’s real-world operations requires new ideas, approaches and techniques.
+	- Success in the real world requires a team that represents that world: diversity of backgrounds, points of view, and experiences. Our common denominator: ambitious expectations, love of learning, empathy for those around us, and a team-first mindset.
+	- The Covariant Brain is a Universal AI Platform that powers all robotic applications at Covariant. The Brain is a collection of state-of-the-art models, algorithms, and APIs that enable all intelligent behavior of the robot, from perception to 3d object understanding, grasp sampling, motion planning, and control. 
+	- We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, robotics, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack.
+	- Strong knowledge and experience in any of the following areas: modern computer vision (including but not limited to depth estimation, segmentation, occupancy estimation, NERFs), large language models, motion planning, dynamics modeling, robotics simulation
+	- Knowledge and experience in training and analyzing ML models and robotics applications (in simulation, or in the real world)
+	- A solid mathematical and statistical foundation with an understanding of how to apply ML concepts (e.g. training, optimizers, regression, classification, etc.)
+	- Proficiency in Python and experience with tensor libraries (e.g. NumPy, PyTorch, TensorFlow)
+	- Clear communication, organization, and collaboration
 + skill set:
 	- BLAH.
 + skill set:
@@ -4163,6 +4251,7 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
++ Proficiency in programming languages such as Python, Java and C++, and experience with machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn)
 + You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
 + tech stack:
 	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
@@ -5543,7 +5632,30 @@ Skill sets for application engineers of different EDA products:
 	- Background in supply chain planning or optimization is a plus.
 	- You will have the unique opportunity to use innovative techniques from OR and ML to develop accurate forecasting models and supply chain optimization systems. Your work is particularly exciting as it will impact Apple business planning. Strong candidates operations research and machine learning skills are encouraged to apply.
 + skill set:
-	- BLAH.
+	- Machine Learning Performance Engineer
+	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer’s real-world operations requires new ideas, approaches and techniques.
+	- Success in the real world requires a team that represents that world: diversity of backgrounds, points of view, and experiences. Our common denominator: ambitious expectations, love of learning, empathy for those around us, and a team-first mindset.
+	- The Covariant Brain is a Universal AI Platform that powers all robotic applications at Covariant. The Brain is a collection of state-of-the-art models, algorithms, and APIs that enable all intelligent behavior of the robot, from perception to 3d object understanding, grasp sampling, ranking, motion planning, and control. Each ML Performance Engineer will be expected to own a product family and use their understanding of the Covariant Brain to make improvements toward making robots highly autonomous.
+	- Own all performance aspects of a robotic application 
+	- Understand and iterate on all aspects of the Brain (models, algorithms, tooling, etc.) to resolve production failures and deliver human-level autonomy
+	- Analyze robot performance for different errors, understand their root causes, and test/deploy improvements to production
+	- Build tools to analyze a highly complex system of robots, models, components, and sensors to understand errors and enable more people across the org to make improvements to the system
+	- Take real-world challenges and engineer ML & robotics solutions by training, testing, tuning, iterating, and deploying new and existing models to solve production problems
+	- Collaborate closely with research, SW, HW, and infrastructure teams to deliver highly reliable robotic applications
+	- Work closely with the HW team on the design of a robotic application including the gripper, vision suite, and station layout
+	- Identify throughput bottlenecks in the application and work with the SW team to pinpoint and resolve them
+	- Take experimental models from the research team, test them to validate improvement, and deploy them to solve application problems
+	- Travel to the customer site as needed to resolve issues with robots in production (not expected for more than once per quarter, if needed at all)
+	- Obsession with building products that deliver value to customers through solving hard ML and robotics challenges
+	- 3+ years of professional experience working with real-world software systems, AI products, or AI research
+	- Proficiency in Python and experience with tensor libraries (e.g. NumPy, PyTorch, TensorFlow)
+	- Working knowledge of Linux, SQL, and web (e.g. HTML, Javascript, etc.)
+	- A solid mathematical and statistical foundation with an understanding of how to apply ML concepts (e.g. training, evaluation, testing, fine-tuning, data sampling, etc.)
+	- Demonstrated strong problem-solving ability: analyzing real-world problems and formulating solutions, iterating and formulating, shipping, and making an impact on products for customers
+	- Clear communication and collaboration across teams: taking requests from customers, and PMs, and prioritizing work across SW and HW teams
+	- Trained, deployed, and analyzed ML models or robotics applications in production
+	- Strong understanding of the state of the art in Computer Vision and Robotics literature
+	- Experience working with complex data infra and highly concurrent SW systems
 + skill set:
 	- BLAH.
 + skill set:
@@ -7069,7 +7181,24 @@ Need to address:
 	- We work closely with teams across Apple worldwide and are looking for expert Applied ML Engineers to join our Agile development teams. You will have great technical skills, a drive for high quality software and the ability to innovate creative solutions. Communicating clearly and having the flexibility to learn new technologies, while continuously developing your skills will be key to your success. You will fit into our teams, be a fantastic collaborator, comfortable with giving and receiving feedback and able to thrive in a dynamic environment.
 	- MS, Ph.D. in a related field , or equivalent experience
 + skill set:
-	- BLAH.
+	- Develop, deploy, and refine solutions centered around infrastructure and how it hooks into generative AI platform and our GPU ETL/AI pipelines
+	- Spearhead data pipelines and solutions focusing on OSINT applications of our platform, incorporating diverse data sources such as using social media data, news media, government records, and enterprise data
+	- Act as a pivotal interface with enterprise, tech, and multinational government teams, aiding sales engineering efforts around onboarding and tuning rapidly evolving deployments
+	- Collaborate on special projects for premium customers
+	- Forge partnerships with senior staff from other technology providers to create innovative integrations around their traditional SIEM platforms  (Splunk, Zeek, Kafka), modern data stacks (BigQuery, Snowflake, Databricks), and new Graphistry ecosystem technologies (Python, Jupyter, Streamlit, Graphistry, Louie.AI, Nvidia RAPIDS, Nvidia Moprheus, Apache Arrow, graph neural networks, Kubernetes, generative AI)
+	- Contribute to shaping our engineering culture and approach to company building
+	- Ideally, share knowledge through avenues such as public speaking, private training sessions, customer demos, tutorials, and blog posts
+	- Enjoy Python and PyData ecosystem: Linux/Docker, notebooks, dataframes
+	- Experience with GB and ideally TB or even PB data volumes such as with tools like ELK/OS, Splunk, Spark, SQL
+	- Practice IaaS and reliable software engineering
+	- Security/fraud/etc investigation platform experience, especially using SIEM, UEBA, SOAR, and code
+	- Broader investigative experience such as sigint, osint, and fraud
+	- Built custom investigation platforms and content, including data engineering, detection as code, and dashboards
+	- Experience in on-premise, cloud, and Kubernetes environments
+	- Experience in both startup, government, and enterprise environments
+	- Developed or used traditional ML models and neural networks, and especially graph or NLP
+	- Used GPU computing, including in bigger-than-memory settings
+	- Used graph technologies like graph databases, graph analytics, graph visualization, and graph AI, and especially in at-scale detection and investigative scenarios
 + skill set:
 	- BLAH.
 + skill set:
@@ -7755,9 +7884,24 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Experience working with non-Transact-SQL databases and SQL dialects, preferably Oracle PL/SQL or Cerner Command Language
 	- Experience with large-scale data analysis systems, such as Databricks, Hadoop, Pig, Scala, Spark or MPP databases
 + skill set:
-	- BLAH.
+	- The role’s primary technologies include Graphistry, Cypher+SPARQL, Python, Jupyter, StreamLit, pandas / RAPIDS.ai, Docker, React, and Linux/AWS/Azure. Of additional interest are graph neural networks, huggingface, mlflow, networkx/graphx, Tableau/PowerBI, and SQL.
+	- Required: Comfortable with pydata - Python, Jupyter, pandas, viz, cloud (Linux/AWS/Azure)
+	- Ideal: Experience with graphs - databases (cypher/sparql), algorithms, visualizations, & neural networks; Dashboarding (StreamLit/Ploty/Tableau/PowerBI/...); GPU PyData (RAPIDS, Tensorflow, numba, ...)
+	- Required: Comfortable with coding (Python, minor HTML/JS/CSS)  and/or ML (hands-on or courses around linear algebra, statistics, classical ML, neural networks)
 + skill set:
-	- BLAH.
+	- You will collaborate with our users, technology partners, and Graphistry staff as part of a new locally-based team and growing community. Together, you will augment security data platforms with Graphistry’s graph AI and GPU visualization capabilities. Due to your privileged access, you will be a key innovator and implementer. The role provides significant room for growth, ownership, and startup experience. You will have day-to-day flexibility and competitive compensation.
+	- Develop, deploy, and iterate on visual and automated security AI solutions for detection, correlation, recommendation, prioritization, and investigation
+	- Learn, develop, integrate, and scale using graph neural networks, end-to-end GPU acceleration, vector search, UMAP, and other AI technologies in the Graphistry ecosystem, including Nvidia RAPIDS, Nvidia Morpheus, DGL, PyTorch, and PyGraphistry[AI]
+	- Share knowledge through public speaking opportunities, private trainings & presentations, customer demos, and tutorials & blog posts on topics such using the Graphistry ecosystem and workflows you build on top to tackle problems like cybersecurity investigations, anti-misinformation, and anti-fraud
+	- Enjoy Python and PyData ecosystem: Linux/Docker, notebooks, dataframes, visualization
+	- Experienced with neural networks, time series analysis, classical machine learning, underlying math, and computing over GB+ datasets
+	- Experienced with cybersecurity use cases, or equivalent digital forensic scenarios like fraud or sigint, such as for anomaly detection, entity fingerprinting, and analyzing machine logs from large systems
+	- Developed and deployed security AI models in operational settings
+	- Used GPU computing, including in bigger-than-memory settings
+	- Used graph technologies like graph databases, graph analytics, graph visualization, and graph AI, and especially in at-scale detection and investigative scenarios
+	- Strong communicator in-person, in writing, and in presentations
+	- History of project leadership & ownership from both a technical perspective and business
+	- Graphistry is a visual graph AI startup that spun out of UC Berkeley to accelerate investigation processes. It is a Gartner Cool Vendor and features the first GPU-accelerated visual graph analysis environment, low-code investigation automation, autoML for deploying graph AI, and integrates with popular data science & database technologies. Profitably growing 3X+ year-over-year, Graphistry is helping enterprise, tech, and public sector teams begin their modern graph journey, especially around digital crime and commercial analytics. It helped start the modern GPU dataframe compute movement (Apache Arrow, Nvidia RAPIDS) and is working to scale & democratize graph neural networks.
 + skill set:
 	- BLAH.
 + skill set:
@@ -8882,6 +9026,7 @@ They support databases for:
 	- Experience in distributed data processing systems (Hive, Redshift, Presto, Snowflake, etc)
 	- Breadth of knowledge around statistical methods including A/B testing, causal inference, experimentation, cluster-randomized testing
 	- Familiarity with Snowflake, dbt, and ETL/reverse ETL tools.
++ Build and maintain robust data pipelines that ingest over 30TB of data each day.
 + skill set:
 	- BLAH.
 + skill set:
