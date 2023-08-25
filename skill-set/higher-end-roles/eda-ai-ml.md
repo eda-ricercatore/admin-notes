@@ -3310,6 +3310,7 @@ Skill sets for application engineers of different EDA products:
 			+ XLA
 	- [***Lightning, or Lightning AI***](https://lightning.ai)
 		* Or, ***PyTorch Lightning***
+	- Chainer/ChainerMN
 	- ***ML.NET***
 		* Microsoft Cognitive Toolkit, CNTK, The Microsoft Cognitive Toolkit (deprecated)
 	- ***Apache MXNet***, for deep learning
@@ -3319,8 +3320,13 @@ Skill sets for application engineers of different EDA products:
 	- ***BigDL***, distributed deep learning framework for Apche Spark
 	- Dlib
 	- PaddlePaddle
+	- Caffe and Caffe2
 	- Theano
 	- Apache SINGA
+	- Horovod
+	- Deepspeed
+	- K-means
+	- Dask
 	- Flux machine learning framework, Julia based
 	- Flax, from Google Brain
 	- PlaidML, portable tensor compiler
@@ -3400,6 +3406,21 @@ Skill sets for application engineers of different EDA products:
 		* Git LFS
 		* Dolt
 		* lakeFS
+		* deep learning models:
+			+ ImageNet and VGG
+			+ GoogleNet
+			+ ResNet
+			+ NASNet
+			+ DeepSpeech
+			+ Large Language Models (LLMs)
+		* Data Parallel DNN Training
+			+ Basic Solutions for CPU- and GPU-based Training
+			+ NVIDIA NCCL, Baidu-allreduce, Facebook Gloo
+			+ Co-Designs
+			+ Deep Learning and Big Data
+		* Model Parallel DNN Training
+			+ Out-of-core DNNs
+		* Elastic Training
 + data science frameworks, including libraries and tools for data visualization and information visualization:
 	- Madagascar
 	- Statsmodels, for statistical analysis

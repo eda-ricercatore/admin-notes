@@ -1116,7 +1116,7 @@ Skill set for software development for computational fluid dynamics, CFD:
 
 
 
-Skill set for software development for parallel programming and/or distributed programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing):
+Skill set for software development for parallel programming and/or distributed programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
 + skill set:
 	- Multi-GPU software development engineer
 	- Design, develop and debug multi-GPU drivers and software
@@ -1131,7 +1131,10 @@ Skill set for software development for parallel programming and/or distributed p
 	- Familiar with CUDA kernel programming is preferred
 + Familiarity with heterogeneous programming languages such as ***CUDA/OpenCL/OpenGL*** is preferred
 + skill set:
-	- BLAH.
+	- GPUs, CPUs, and TPUs
+	- High-Performance Networking (InfiniBand, HSE and RoCE)
+	- MPI, CUDA-Aware MPI, NCCL
+	- DGX-1, DGX-2, IBM Power-AI
 + skill set:
 	- BLAH.
 + skill set:
