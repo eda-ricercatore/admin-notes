@@ -273,7 +273,8 @@ Roles in computing security:
 	- Used GPU computing, including in bigger-than-memory settings
 	- Used graph technologies like graph databases, graph analytics, graph visualization, and graph AI, and especially in at-scale detection and investigative scenarios
 + skill set:
-	- BLAH.
+	- Ghidra Software Reverse Engineering Framework
+	- Ghidra is a software reverse engineering (SRE) framework: https://github.com/NationalSecurityAgency/ghidra
 + skill set:
 	- BLAH.
 + skill set:
@@ -428,7 +429,25 @@ Roles in computing security:
 	- You will bring the needed depth not only at the design level, but also demonstrate a high level of understanding of the security guarantees of the underlying system in the context of the larger vision for Apple. You are able to make the right tradeoffs, and can clearly communicate these tradeoffs to our partners. You should be comfortable working with partner teams in a broadly collaborative and fast-paced environment.
 	- Masters or PhD in Computer Science, Cryptography, Applied Mathematics, or similar experience.
 + skill set:
-	- BLAH.
+	- Senior/Lead Blockchain Security Engineer
+	- NEW YORK, NY / SEATTLE, WA / SAN FRANCISCO BAY AREA, CA / REMOTE /SECURITY RESEARCH – SECURITY RESEARCH AND SKYFALL // REMOTE
+	- The primary responsibility of this role is for CertiK’s security-related services. Intersecting cybersecurity and blockchain, CertiK’s security offerings include security consulting, security reviews, security auditing of smart contracts and blockchains, verification of smart contracts, penetration testing, and more. We are looking to hire someone with a passion for Solidity, a deep understanding of the Ethereum Virtual Machine (EVM), distributed computing, and security.
+	- You should have an eye for detail and a passion for combining your skills with a flair for creativity and insight to hack smart contracts. This is a fun and challenging full-time position. You need to be able to put yourself in the mind’s eye of a project’s creator, and capable of putting yourself in the minds of various adversarial or free-riding actors.
+	- If you are excited about hacking, threat modeling, scanning, auditing, designing, and enhancing the security of smart contracts across the board then you will thrive in this role. While you work with clients, we will also provide you with plenty of opportunities to get involved with research and development efforts to help us raise the standards of blockchain security.
+	- Work directly with the external blockchain developers to audit their code and secure their products including smart contracts, protocols, and dapp.
+	- Contribute to our internal security tools and create new ones that help for improving the security services by following good engineering practices.
+	- Conduct security research and publish your findings in technical blog posts/conferences.
+	- Improve our processes and offering and strive for the satisfaction of our clients
+	- Strong background in Math is a plus.
+	- Being passionate about Cryptocurrency/DeFi/Blockchain is a plus.
+	- Minimum educational background: Bachelor’s degree or a Master's or Ph.D. in Computer Sciences or Security Information.
+	- Minimum of 8+ years of professional experience as a Software Engineer, or Security Engineer.
+	- Minimum of 2+ years of management or team lead experience. 
+	- Minimum of 2+ years of experience in Solidity, Ethereum Virtual Machine (EVM), and/or blockchain technology.
+	- Solid experience in threat analysis, advanced persistent threat (APT), or response.
+	- Experienced in threat and vulnerability management, penetration testing, and SecOps (intrusion detection, security logging, malware analysis, and forensics).Experience in programming languages such as Rust, Golang, and Solidity.
+	- You’re a self-starter. You believe in tackling the most important problems, even if they are the most difficult problems. You’re comfortable with the unknown and understand that startup life means that you’re going to be wearing multiple hats. And that’s what motivates you. You’re accountable and obsessed with improvement, both in yourself and in others. You’re up to the challenge of building a world-class company that aims to be the infrastructure for more secure software for all.
+	- The target annual salary for this role performed in the US for full-time employment is $140,000 - $190,000 and includes target bonus + target equity + benefits.
 + skill set:
 	- BLAH.
 + skill set:
@@ -495,10 +514,74 @@ Roles in computing security:
 
 
 
+##	Research Roles in Computer Security
 
 
 
-
++ skill set:
+	- Security Research Internship
+	- One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 3,200 Enterprise clients, secured over $310 billion worth of digital assets, and has detected over 60,000 vulnerabilities in blockchain code. Our clients include leading projects such as Aave, Polygon, Terra, Yearn, and Chiliz.
+	- Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. 
+	- We are seeking security research interns to join a top-notch security research team. We are working on a wide range of security research topics, including malware analysis, vulnerability detection, network anomaly detection, mobile app analysis, reverse engineering, and fraud detections. Multiple research tasks are ready to be explored.
+	- Develop analysis tools to facilitate security discovery and design mitigation techniques to deter security threats.
+	- Review system implementation of sandbox, VM, network modules, and critical distributed system.
+	- Perform vulnerability discovery and develop PoC exploits to large distributed system implementations.
+	- Publish research findings in related academic and industry venues.
+	- Pursuing Masters or PhD in Computer Science or Cybersecurity related field. 
+	- Experiences in vulnerability discovery and exploitation on web applications or system software.
+	- Experiences in WASM or Rust/Go development is a plus.
+	- CTF experiences are a plus as well.
+	- $3000 - $8000/month (Full Time). 
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

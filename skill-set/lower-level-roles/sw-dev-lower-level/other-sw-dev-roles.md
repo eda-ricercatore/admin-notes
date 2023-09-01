@@ -339,10 +339,34 @@ Skills related to software development for enterprise search engines:
 + Possibility of development in different JVM languages (Java, Scala, Xtend, Kotlin)
 	- Kotlin: cross-platform, statically typed, general-purpose high-level programming language with type inference.
 	- Xtend is a general-purpose high-level programming language for the Java Virtual Machine.
-
-
-
-
++ skill set:
+	- DEVELOPER C (F/M/X)
+	- You are in charge of development to meet the expectations expressed, within a planned timeframe, with a maximum level of quality.
+	- Functional analysis and application development
+	- Help in drafting functional specifications with equipment and/or production managers.
+	- Retro analysis of existing code to propose an implementation solution
+	- Workload assessment
+	- Integration of new programs/features under the supervision of the IT application expert
+	- Solution deployment
+	- User support during testing and integration phase
+	- Technical and functional documentation
+	- Production start-up according to ITIL concepts
+	- Level 2/3 support
+	- In support of operational teams, production incident analysis, root cause determination
+	- Proposal / Implementation of sustainable solutions.
+	- Profile:
+		* Holder of an engineering degree or equivalent, you will benefit from a first successful experience in a development team, ideally in an industrial environment, in particular with regard to:
+			+ analyzing existing code, synthesizing it and sending it back to the user
+			+ Development and maintenance of C code in Linux environments
+			+ Development and testing tools (gcc/gdb...)
+			+ Agile development methods
+			+ Problem analysis and implementation of appropriate corrective solutions
+			+ Knowledge of SQL and Python would be a plus.
+	- Methodical, rigorous, organized and assiduous
+	- Sense of commitment to customers (internal & external)
+	- Ability to work as part of a team, to analyze and synthesize information
+	- Good written & oral communication skills
+	- Fluent in French and English
 
 
 

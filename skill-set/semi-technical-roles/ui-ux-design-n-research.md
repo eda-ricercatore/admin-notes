@@ -28,6 +28,8 @@ Types of interfaces:
 ###	Skills for UI/UX Design
 
 
+
++ UX measurement/quality through analytics/Real-User Metrics (RUM)
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
 + skill set:

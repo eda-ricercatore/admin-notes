@@ -316,6 +316,61 @@ Skill sets for bioinformatics:
 	- Expertise in genomics
 	- Knowledge of automated testing and workflows such as GitHub Actions
 	- Experience configuring and deploying analyses on a cloud infrastructure
++ skill set:
+	- Senior Bioinformatics Engineer
+	- Support Ginkgo’s Biosecurity Teams with your technical expertise in bioinformatics
+	- Design, build, test, deploy, and maintain bioinformatics pipelines
+	- Interface with software engineers to create and implement NGS data analysis pipelines for production use
+	- Collaborate cross-functionally with wet and dry-lab operators on experimental design and analysis to optimize new analytic approaches using NGS technologies
+	- Effectively communicate scientific results to technical and non-technical audiences
+	- Assist with shaping Ginkgo and Concentric’s overall direction as a company and support its evolving needs, as necessary
+	- BS with 6+years OR MS with 4+ years OR PhD with 2+ year of experience
+	- 2 years of relevant industry experience is required
+	- Proficient in at least one software programming language (Python)
+	- Proficient in workflow management software (Nextflow, Docker)
+	- Proficient in pipeline development on AWS infrastructure
+	- Proficient in best practices for collaborative software development (GitHub, version control systems, CI/CD, test-driven development, and good documentation habits)
+	- First-hand technical experience in at least two of the following disciplines:  bioinformatics, computer science, mathematics, genome assembly & annotation, statistics, probabilistic modeling, machine learning, or quantitative modeling of biological systems
+	- Demonstrated ability to meet the demands of multiple concurrent projects, and work efficiently in a fast-paced, high-growth environment
+	- Ability to adapt to changing priorities and pivot as needed in a fast-paced environment
+	- Superb communication skills, with the ability to effectively convey project plans and complex technical details to a wide range of internal teams, executive leadership, and external customers
+	- Strong curiosity for, and comfort working in, areas of biology & biosecurity previously unknown to you (and, at times, unknown to your peers)
+	- Experience analyzing and benchmarking outputs from multiple sequencing technologies: Illumina, Oxford Nanopore, PacBio, Hi-C
+	- Direct sequencing and bioinformatics experience with varied pathogen types (e.g. viral, bacterial, fungal) or engineered organisms
+	- Experience with many or all of the following:  Python, bash/unix scripting, Snakemake, Nextflow, airflow, CWL, relational databases (SQL), GraphQL, distributed computing (AWS/Google Cloud), Docker, software version control (git)
+	- Data and Database Management: SQL, AWS, Snowflake
+	- Technical program management skill, SCRUM, and agile methodologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -663,6 +718,8 @@ bio manufacturing automation:
 + [Amyris](https://amyris.com/careers/)
 + [Analytikjena](https://www.analytik-jena.com/company/careers/)
 + [Asimov, Inc.](https://www.asimov.io/)
++ [Automata](https://automata.tech/)
+	- ***cloud-based robotic laboratory for life sciences, such as biology and biochemistry***
 + BioFab:
 	- http://www.uwbiofab.org/
 	- http://erc-assoc.org/achievements/biofab-world%E2%80%99s-first-biological-design-build-facility-synthetic-biology
@@ -676,6 +733,7 @@ bio manufacturing automation:
 + [De Novo DNA](http://www.denovodna.com/)
 + [DSM](https://www.dsm.com/corporate/home.html)
 + [Emerald Cloud Lab](https://www.emeraldcloudlab.com/careers/)
+	- ***cloud-based robotic laboratory for life sciences, such as biology and biochemistry***
 + GE Healthcare
 + [genomatica](https://www.genomatica.com/careers/)
 + Genome Foundry
@@ -694,6 +752,7 @@ bio manufacturing automation:
 + [New England BioLabs](https://www.neb.com/about-neb/careers)
 + [Novozymes](https://www.novozymes.com/en)
 + [opentrons](https://opentrons.com/jobs)
+	- Opentrons Labworks, Inc. 
 + [OriCiro Genomics Inc.](https://www.oriciro.com/)
 + Ozen
 +[Ranomics Incorporated](https://www.ranomics.com/careers)
@@ -703,6 +762,7 @@ bio manufacturing automation:
 		* Transcriptic
 		* 3Scan
 		* Transcriptic and 3Scan merged to form Strateos.
+	- ***cloud-based robotic laboratory for life sciences, such as biology and biochemistry***
 + [Synbicite](http://www.synbicite.com/about-us/)
 + [Synbiobeta](https://synbiobeta.com/job-board/)
 + [Synlogic](https://www.synlogictx.com/our-people/join-us/)

@@ -592,6 +592,57 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+##	Notes for Computational Optimization
+
+
++ https://en.wikipedia.org/wiki/Multi-objective_optimization
+	- Mathematical programming-based a posteriori methods, where an algorithm is repeated and each run of the algorithm produces one Pareto optimal solution;
+		* Well-known examples of mathematical programming-based a posteriori methods are the Normal Boundary Intersection (NBI),[43] Modified Normal Boundary Intersection (NBIm)[44] Normal Constraint (NC),[45][46] Successive Pareto Optimization (SPO),[47] and Directed Search Domain (DSD)[citation needed] methods, which solve the multi-objective optimization problem by constructing several scalarizations. The solution to each scalarization yields a Pareto optimal solution, whether locally or globally. The scalarizations of the NBI, NBIm, NC and DSD methods are constructed with the target of obtaining evenly distributed Pareto points that give a good evenly distributed approximation of the real set of Pareto points.
+	- Evolutionary algorithms where one run of the algorithm produces a set of Pareto optimal solutions.
+		* Evolutionary algorithms are popular approaches to generating Pareto optimal solutions to a multi-objective optimization problem. Currently, most evolutionary multi-objective optimization (EMO) algorithms apply Pareto-based ranking schemes. Evolutionary algorithms such as the Non-dominated Sorting Genetic Algorithm-II (NSGA-II)[48] or its extended version NSGA-III[49][50] and Strength Pareto Evolutionary Algorithm 2 (SPEA-2)[51] have become standard approaches, although some schemes based on particle swarm optimization and simulated annealing[52] are significant. The main advantage of evolutionary algorithms, when applied to solve multi-objective optimization problems, is the fact that they typically generate sets of solutions, allowing computation of an approximation of the entire Pareto front. The main disadvantage of evolutionary algorithms is their lower speed and the Pareto optimality of the solutions cannot be guaranteed. It is only known that none of the generated solutions is dominated by another.
+		* Another paradigm for multi-objective optimization based on novelty using evolutionary algorithms was recently improved upon.[53] This paradigm searches for novel solutions in objective space (i.e., novelty search[54] on objective space) in addition to the search for non-dominated solutions. Novelty search is like stepping stones guiding the search to previously unexplored places. It is especially useful in overcoming bias and plateaus as well as guiding the search in many-objective optimization problems.
+	- Deep learning methods, where a model is first trained on a subset of solutions, and then queried to provide other solutions on the Pareto front.
+		* Deep learning conditional methods are new approaches to generating several Pareto optimal solutions. The idea is to use the generalization capacity of deep neural networks to learn a model of the entire Pareto front, from a limited number of example trade-offs along that front, a task called Pareto Front Learning.[55] Several approaches address this setup, including using hypernetworks,[55] and using Stein variational gradient descent.[56]
+	- ε-constraints method[57][58]
+	- Pareto-Hypernetworks [55]
+	- Multiple-objective Branch-and-Bound[59][60][61]
+	- Normal Boundary Intersection (NBI)[43]
+	- Modified Normal Boundary Intersection (NBIm)[44] Normal Constraint (NC),[45][46]
+	- Successive Pareto Optimization (SPO)[47]
+	- Directed Search Domain (DSD)[citation needed]
+	- NSGA-II[48]
+	- PGEN (Pareto surface generation for convex multi-objective instances)[62]
+	- IOSO (Indirect Optimization on the basis of Self-Organization)
+	- SMS-EMOA (S-metric selection evolutionary multi-objective algorithm)[63]
+	- Approximation-Guided Evolution (first algorithm to directly implement and optimise the formal concept of approximation from theoretical computer science)[64]
+	- Reactive Search Optimization (using machine learning for adapting strategies and objectives),[65][66] implemented in LIONsolver
+	- Benson's algorithm for multiple objective linear programs and for multiple objective convex programs
+	- Multi-objective particle swarm optimization
+	- Subpopulation Algorithm based on Novelty
+	- Types of preference information
+		* There are different interactive methods involving different types of preference information. Three of those types can be identified based on
+			+ trade-off information,
+			+ reference points and
+			+ classification of objective functions.[67]
+		* On the other hand, a fourth type of generating a small sample of solutions is included:[68][69] An example of interactive method utilizing trade-off information is the Zionts-Wallenius method,[70] where the decision maker is shown several objective trade-offs at each iteration, and (s)he is expected to say whether (s)he likes, dislikes or is indifferent with respect to each trade-off. In reference point based methods (see e.g.[71][72]), the decision maker is expected at each iteration to specify a reference point consisting of desired values for each objective and a corresponding Pareto optimal solution(s) is then computed and shown to him/her for analysis. In classification based interactive methods, the decision maker is assumed to give preferences in the form of classifying objectives at the current Pareto optimal solution into different classes indicating how the values of the objectives should be changed to get a more preferred solution. Then, the classification information given is taken into account when new (more preferred) Pareto optimal solution(s) are computed. In the satisficing trade-off method (STOM)[73] three classes are used: objectives whose values 1) should be improved, 2) can be relaxed, and 3) are acceptable as such. In the NIMBUS method,[74][75] two additional classes are also used: objectives whose values 4) should be improved until a given bound and 5) can be relaxed until a given bound.
+	- Hybrid methods
+		* Different hybrid methods exist, but here we consider hybridizing MCDM (multi-criteria decision making) and EMO (evolutionary multi-objective optimization). A hybrid algorithm in the context of multi-objective optimization is a combination of algorithms/approaches from these two fields (see e.g.[67]). Hybrid algorithms of EMO and MCDM are mainly used to overcome shortcomings by utilizing strengths. Several types of hybrid algorithms have been proposed in the literature, e.g. incorporating MCDM approaches into EMO algorithms as a local search operator and to lead a DM to the most preferred solution(s) etc. A local search operator is mainly used to enhance the rate of convergence of EMO algorithms.
+		* The roots for hybrid multi-objective optimization can be traced to the first Dagstuhl seminar organized in November 2004 (see, here). Here some of the best minds[citation needed] in EMO (Professor Kalyanmoy Deb, Professor Jürgen Branke etc.) and MCDM (Professor Kaisa Miettinen, Professor Ralph E. Steuer etc.) realized the potential in combining ideas and approaches of MCDM and EMO fields to prepare hybrids of them. Subsequently many more Dagstuhl seminars have been arranged to foster collaboration. Recently, hybrid multi-objective optimization has become an important theme in several international conferences in the area of EMO and MCDM (see e.g.[76][77]).
+	- Visualization of the Pareto front
+	- https://en.wikipedia.org/wiki/Multidisciplinary_design_optimization
+		* multi-disciplinary design optimization (MDO)
+	- https://en.wikipedia.org/wiki/List_of_optimization_software
+		* https://en.wikipedia.org/wiki/Satisfiability_modulo_theories#SMT_solvers
+		* https://ascend4.org/Publications
+
+
+
+
+
+
+
+##	Skill Sets for Computational Optimization
+
 
 + advanced optimization algorithms:
 	- Evolutionary Algorithms

@@ -197,7 +197,24 @@
 	- Self-motivated and a team player
 	- If you want to do incredible work and be challenged by exciting, truly innovative projects that will test the boundaries of your skills and creativity, then SiFive is the place for you!  Be proud of your work.  Do things better.  Join SiFive.
 + skill set:
-	- BLAH.
+	- QA Automation and Test Engineer
+	- 1) Develop and write detailed, comprehensive, and well-structured high quality test plans and test cases execute them to validate requirements.
+	- 2) Write automation scripts, using open source testing frameworks such as pytest and GoogleTest, test design strategies.
+	- 3) Participate in reviews of requirements & specifications. Independently design, develop and optimize test strategies, test plans, test cases based on various parameters viz. features, change-list, design docs etc.
+	- 4) Collaborate with Application SA, Dev, other Quality Analyst and project management team members including software developers to understand the requirements, prepare test plan/ test cases/ test scripts, execute them and identify/report defects and aim for high quality solutions.
+	- 5) Work independently and/or with the Engineering team to create detailed, comprehensive, and well-structured test plans.
+	- 6) Execute manual and automated tests. Participate in debugging and troubleshooting and validate fixes.
+	- 7) Contribute in improving processes to enable QA to scale and improve quality.
+	- 1) Bachelors, or Masters in computer science/ EE/ECE or equivalent.
+	- 2) Solid understanding and hands on experience with C/C++
+	- 3) 0-3 years of professional experience in Quality Analyst testing for embedded devices/software.
+	- 4) Knowledge for automating tests in Python/Java with frameworks like JUnit/TestNG/Selenium is highly desirable*.
+	- 5) Skilled in python, java programming language, Strong knowledge of software QA methodologies, tools, and processes.
+	- 6) Experienced in developing test plans and implementing tests for Deep learning, embedded systems including system on chip (SoCs).
+	- 7) Good understanding of embedded / DSP/GPU environments.
+	- 8) Performed well in a very fast-paced and exciting environment to identify threats, defects, and weaknesses in complex systems, and to identify process improvement opportunities.
+	- 9) Strong written, verbal, and interpersonal communication skills, Be willing to help your teammates, share your knowledge with them, and learn from them. Works well as part of a team, Be open to receiving constructive feedback and turning it into process improvements.
+	- 10) Exposure to deep-learning machine technology is highly desirable*.
 + skill set:
 	- BLAH.
 + skill set:

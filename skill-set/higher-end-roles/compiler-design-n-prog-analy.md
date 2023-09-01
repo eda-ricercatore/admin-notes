@@ -2,6 +2,18 @@
 
 
 
+
+List of companies in compiler design:
++ AdaCore: https://www.adacore.com/company/careers
++ Kestrel Institute: https://www.kestrel.edu/research/
++ Supermicro: https://jobs.supermicro.com/
+
+
+
+
+
+
+
 ##	Skill Set for Compiler Design
 
 Notes:
@@ -71,6 +83,35 @@ Skill set for compiler design:
 	- During the internship, you will work in collaboration with your mentors on one project for about 10-12 weeks. You’ll learn how we use OCaml in our day-to-day work, and gain exposure to the libraries and tools that are foundational to our internal systems. You’ll gain a better understanding of the wide range of problems we solve every day. You’ll try out new ideas and apply state-of-the art research to a large actively-developed production codebase.
 	- You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
 	- We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas. We don’t expect you to have a background in finance, OCaml, or functional programming. Fluency in English required. Please include the list of your peer-reviewed publications in your resume.
++ skill set:
+	- GNU toolchain developer
+	- AdaCore is seeking a talented and highly motivated GNU toolchain developer. 
+	- Everything we do at AdaCore is centered around helping developers build safe, secure and reliable software. For over 20 years, we've worked with global leaders across avionics, aerospace and defense industries, building tools and providing services that ease the complex and difficult process of developing high-integrity software. As the need for truly secure and reliable applications expands into industries such as automotive, medical, energy, and IOT, we’re advancing our time-tested technologies to bring expertise and services to help a whole new generation of developers.
+	- Our 120 experts worldwide in the US (New York, Lexington), France (Paris, Toulouse, Grenoble and Vannes), the UK and Estonia all play a role in developing bleeding edge technologies to meet the highest grade of open-source software development.
+	- Joining AdaCore is about joining a culture of innovation, openness, collaboration and dependability, which defines how we work together, with our customers and partners.
+	- AdaCore maintains GNU GCC based Ada and C/C++ compilation tool suites for a wide range of customers and operational environments. We currently support native toolchains for x86/x86_64-Linux/Windows, cross ports to a variety of target architectures such as Leon, PowerPC, Arm or Aarch64, bare metal or on top of RTOSes such as VxWorks or LynxOS.
+	- Our toolchains are all based on a branched version of GCC/Binutils, which we evolve on a very regular basis to anticipate our customers needs for better performance, particular features or new architectures.
+	- To grow our compiler team, we are looking for a software engineer with experience in GCC middle-end/back-end development for a variety of purposes - maintenance, expert customer support, new ports, feature extensions, compiler performance improvements, optimization improvements, ...
+	- Familiarity with the contribution process to upstream GCC would be a significant plus, as well as experience in the Binutils domain or willingness to develop expertise on this front.
+	- This position is a great opportunity to get in touch with a large base of users developing industrial grade software, often safety critical, in very diverse areas. It also gets you to strengthen the GNU toolchains overall, providing solid grounds for numerous contributions upstream.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
@@ -238,15 +279,107 @@ Skill set for compiler design:
 	- Work with the micro-architecture design team,to understand the functional and performance goals of the design.
 	- Masters's degree or higher in Computer Science or equivalent field.
 + skill set:
-	- BLAH.
+	- AI Compiler Software Engineer (m/f/d)
+	- Axelera AI is a truly European deep-tech Start Up company which is developing a game-changing hardware and software platform for AI at the edge that will make the industry more integrated, efficient and accessible. Our mission is to spread artificial intelligence for a green, fair, trusted and safe world enabling new application of AI in diverse sectors like smart cities, retail and other markets. Our company is a spin-off from a multinational deep-tech group and is backed by a strong syndicate of institutional investors. We have an extraordinary and international team of top talented researchers and developers working in the headquarter in Eindhoven (NL) and in the branch offices in Leuven (BE), Zurich (CH) and Pisa (IT). 
+	- At Axelera AI we are building a novel software stack to unlock the power of industry-leading in-memory computing technology. Our software stack enables AI developers to transform their Machine Learning models into highly-optimized machine code for the Axelera hardware platform easily and efficiently and to run DL applications with high efficiency and performance. 
+	- We offer a flexible working arrangement, with the option to relocate near an Axelera AI office (currently in the Netherlands, in Belgium and in Switzerland) or work remotely from any European country. 
+	- You will be a primary technical contributor to the architecture, design and implementation of Axelera’s Neural Network compiler and SDK.Your tasks will mainly include the following:  
+	- Have a leading role in the development of the Axelera NN compiler, including hands-on code contributions in diverse software engineering environments 
+	- Work with data scientists and AI experts to develop algorithms for transforming and optimizing Neural Networks for In-Memory Computing 
+	- Develop hardware-aware optimizations for the Axelera software stack 
+	- Create tools for ensuring high quality in the software development process 
+	- Build prototypes to evaluate algorithms and techniques at an exploratory stage before they are implemented in the product 
+	- Master’s or PhD in Computer Science or a related technical field 
+	- 3-5 years of experience in a Software Engineering role, thereof ideally 2 years of experience with Deep Learning frameworks and AI systems 
+	- Background in systems programming, incl. compiler development 
+	- Experience with open source compiler frameworks like TVM/MLIR/Glow is a plus 
+	- Excellent verbal and communication skills 
+	- Proficiency in C++ & Python 
+	- You are self-reliant, independent with high sense of ownership of your work and value freedom with responsibility 
 + skill set:
-	- BLAH.
+	- Data Flow Compiler Engineer
+	- Tel Aviv-Yafo, IL
+	- Hailo is a leading start-up developing a first-in-class deep learning inference processor for smart devices in various industries. Hailo offers a breakthrough microprocessor uniquely designed to accelerate embedded AI applications on edge devices.  
+	- We combine a fundamental understanding of the way neural networks operate with our team’s expertise in SW and HW architecture, to develop a product that has the potential to be a landmark in computer technology. The company is built from a mixture of experts from various fields, coming from the elite units of the intelligence community and the leading tech companies in Israel, with a track record of executing complex projects from the ground up.  
+	- As a team member of the team, you will work on several challenging fronts, implementing different algorithms for resource allocation, mapping, HW-specific features, and optimizations in C++. Help build and develop Hailo's dataflow compiler, an innovative unique toolchain that takes real-world AI models and compiles them to Hailo's breakthrough processors.
+	- The role involves a deep understanding of Hailo's architecture and has an extensive direct impact on our products.
+	- Design and develop a multidisciplinary system for machine learning.
+	- Work in different SW environments: C++, Python, AI frameworks
+	- BSc in Computer Science or Electrical Engineering
+	- 3+ years of R&D experience in C/C++, Python
+	- Hard-working, committed, and self-reliant
+	- Great interpersonal skills and a team-player
+	- Fluent English
+	- Experience in Deep Learning and Deep Learning development frameworks
 + skill set:
-	- BLAH.
+	- Compiler Engineer
+	- At Groq, we radically simplify compute to accelerate workloads in artificial intelligence, machine learning, and high-performance computing.
+	- Why join Groq? You want to be a part of something groundbreaking, where every day you can see the impact of your work on Groq’s technology and customer solutions.  As a Groqstar, you will join a talent-rich group of problem solvers and doers; in a culture that focuses on team, growth, innovation, and creativity. Simply put, at Groq, we defy gravity. 
+	- We are changing as the world changes and have evolved into a Geo-agnostic company meaning you work where you are. Exceptional candidates will thrive in asynchronous partnerships and remote collaboration methods. Some roles may require being located near our primary sites, which will be indicated in the job description. We offer a competitive salary & benefits package, numerous quality-of-life perks such as a home office stipend, flexible learning allowance, optional professional coaching and a schedule of fun team activities. 
+	- Are you ready to join our crew and help us reimagine machine learning and AI at scale? 
+	- As compiler engineer, you will be responsible for developing compiler optimizations for our state-of-the-art spatial compiler - targeting Groq's revolutionary Tensor Streaming Processor.  You will own specific components and compiler passes within Groq's TSP compiler, and be in charge of designing new optimizations, developing innovative scheduling techniques, and developing new front-end language dialects to support the rapidly evolving ML space.  You will also be required to benchmark and monitor key performance metrics to ensure that your components and passes produce efficient mappings of neural network graphs to the Groq TSP.  Experience with LLVM and MLIR preferred, and knowledge with functional programming languages an asset. Also, knowledge with ML frameworks such as TensorFlow and PyTorch, and portable graph models such as ONNX desired.
+	- Design, develop, and maintain key components and passes within Groq's TSP compiler
+	- Propose and expand Groq IR dialect to reflect the ever changing landscape of ML constructs and models.
+	- Benchmark and analyze output produced by optimizing compiler, and quantify quality-of-results when measured on the Groq TSP hardware.
+	- Assist in the publication of novel compilation techniques to Groq's TSP at top-tier ML, Compiler, and Computer Architecture conferences.
+	- Strong initiative and self starter
+	- Keen attention to detail
+	- Strong written and oral communication; ability to write clear and concise technical documentation
+	- Team first attitude
+	- A degree in computer science, computer engineering, or related field
+	- 1+ year of experience with C/C++ or Python programming
+	- Knowledge of functional programming an asset
+	- Experience with distributed systems or spatial compute such as FPGAs
+	- Experience with ML frameworks such as TensorFlow or PyTorch desired
+	- Knowledge of ML IR representations such as ONNX and Deep Learning
+	- Humility - Egos are checked at the door
+	- Collaborative and Team Savvy - We make up the smartest person in the room together
+	- Growth and Giver Mindset - Learn it all versus know it all, we share knowledge generously
+	- Curious and Innovative - Take a creative approach to projects, problems, and design
+	- Passion, grit, and boldness - no limit thinking; fueling informed risk taking
 + skill set:
-	- BLAH.
+	- AI Compiler and Performance Engineer
+	- Stability AI is a community and mission driven, open-source artificial intelligence company that cares deeply about real-world implications and applications. Our most considerable advances grow from our diversity in working across multiple teams and disciplines. We are unafraid to go against established norms and explore creativity. We are motivated to generate breakthrough ideas and convert them into tangible solutions. Our vibrant communities consist of experts, leaders and partners across the globe who are developing cutting-edge open AI models for Image, Language, Audio, Video, 3D and Biology.
+	- We are looking for Engineers and Researchers in the machine learning discipline who are passionate about generative models and creative applications of AI. In particular, we are looking for people who share our mission of open-source research; people who do not believe AI models should be controlled by a centralized gatekeeper behind a closed wall, but rather be truly open and in control by all. We want highly creative researchers who are motivated to push the boundaries of generative models research, not just in state-of-the-art performance, but in pushing the efficient frontier between performance and resource usage. You will have access to state-of-the-art high performance computing resources and you will be able to work alongside top researchers and engineers to truly make an impact in the fast growing world of generative AI.
+	- As an AI Compiler/Performance Engineer you will work on design and implementation of significant parts of the Stability.ai Compiler and Runtime targeting efficient training and deployment of our models. You will work on performance analysis and design/implementation of new optimizations passes and developing methods targeting new backend targets for custom devices. You will be on the forefront of moving Machine Learning Frameworks from hand written kernels to efficiently generated codegen kernels. You will be responsible for developing the research/engineering agenda, supervising its execution and guiding a group of engineers following it. You will work closely with the key stakeholders within Stability.ai as well as external entities (HW/SW providers) in order to steer the engineering efforts towards more efficient model execution.
+	- Analyze and design effective compiler optimizations
+	- Implement and/or enhance code generation targeting machine learning accelerators
+	- Develop hardware-aware optimization for emerging ML algorithms and across a spectrum of HW platforms (GPU, TPU, CPUs, custom ASICs, edge-devices)
+	- Contribute to the development of machine-learning libraries, intermediate representations
+	- Employ scientific methods to evaluate performance and to debug, diagnose and drive resolution of cross-disciplinary system issues
+	- Work with algorithm research teams to map graphs to hardware implementations, model data-flows, create cost-benefit analysis and estimate cluster or silicon power and performance
+	- Work with research team to execute research agenda
+	- Work with open-source community on model release and tooling
+	- Work with engineering / business teams on model deployment and customized training
+	- Develop testing plans
+	- Analyze trade offs, risk mitigation strategies and communicate those to internal and external stakeholders
+	- Oversee a team of engineers, provide technical direction and engineering leadership
+	- 2+ years of experience with an MS or PhD (preferred) in Computer Science, Electrical Engineering or equivalent field
+	- ***Experience in deep learning algorithms, frameworks and their Intermediate Representations e.g: Pytorch/GLOW, Jax, Tensorflow XLA, LLVM/MLIR, Apache TVM***
+	- Good understanding of benchmarking/profiling, analyzing performance, building performance models for a given task/device
+	- Familiar with concepts such as roofline modeling, flop/memory utilization, power consumption, latency
+	- Good understanding of language design, compiler optimizers, backend code generators
+	- Ability to communicate research/engineering ideas effectively through writing and visualization
 + skill set:
-	- BLAH.
+	- Compiler Development Engineer
+	- We are building the world’s most advanced, AI edge inference and Learning engine. We have core processor technology that is modular, low power and high performance among peer companies. We are now scaling our engineering team to build products to address various markets’ needs (Automotive, IOT etc.) on AlphaICs home-grown AI Processor.
+	- AlphaICs is looking for an accomplished Compiler Engineer to design, implement and test new features for our compiler. In this role, closely with hardware designers and AI experts to identify and deploy support for key hardware capabilities.
+	- 1) Design, develop, enhance, optimize AlphaICs a deep learning compiler.
+	- 2) Integrate compiler, code generation tools, run time tools to the main SDK.
+	- 3) Define and develop compiler optimization for AlphaICs compiler.
+	- 4) Collaborate closely with teams developing other related components to ensure compatibility, robustness, and high-quality code generation.
+	- 5) Provide design documentation to software and platform teams.
+	- 6) Participate in design reviews for software systems.
+	- 1) BS, MS or Ph.D. in Computer Science, Computer Engineering, or related fields, or equivalent experience.
+	- 2) A minimum of 4+ years of experience in compiler back end/front end, programming language designs, Compilers/Linkers.
+	- 3) Hands-on experience in design and development of graph based compilers and experience in LLVM, MLIR, GLOW etc is a plus.
+	- 4) Knowledge of CPU/GPU pipeline structure & memory organization.
+	- 5) Experience in Deep Learning software stacks and architectures is a big plus.
+	- 6) Knowledge and experience in low level programming and CPU or GPU performance optimizations, including parallel/distributed algorithms/DSP is desirable.
+	- 7) Familiarity with hardware architectures beyond CPU and GPU (e.g., TPU, VPU, FPGA, etc.)
+	- 8) Excellent programming/debugging skills at the Assembly level.
+	- 9) Experience with the parallel programming domain OpenMP is a plus.
+	- 10) Experience in parallel computing domains like (multi-core, GPGPU, SIMD, MIMD etc) is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -430,8 +563,22 @@ Experience developing open-source software.
 
 
 
+##	Companies Involved with Program Analysis
 
 
+
++ Grammatech: https://www.grammatech.com/careers/
++ Perforce, acquired Rogue Wave Software: https://en.wikipedia.org/wiki/Rogue_Wave_Software
+
+
+
+
+
+
+##	Skill Sets for Program Analysis
+
+
+Skill sets for program analysis:
 + Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
 + DBT experience, for dynamic binary translation in hardware emulators
 + skill set:

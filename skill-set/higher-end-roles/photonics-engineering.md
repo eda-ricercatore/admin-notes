@@ -149,7 +149,37 @@ Sets of skills in photonic IC design or optoelectronics:
 	- Familiarity with packaging and design tradeoffs is a plus 
 	- Strong communication and collaboration skills to work in an interdisciplinary team. 
 + skill set:
-	- BLAH.
+	- Photonics Architect
+	- Lightmatter builds chips for artificial intelligence computing that leverages unique properties of light for efficient computing and communications. If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work...work like building the world's first optical computers, consider joining the team at Lightmatter!
+
+We are hiring a Photonics Architect. The selected candidate will partner with external facing teams at Lightmatter and the internal engineering team to deliver groundbreaking products to the market. As an architect, you will provide detailed technical documents that describe what needs to be built to the engineering team. This will require a solid understanding of process technology, state of the art in photonics design, and clear communication skills. You will represent the company externally at technical conferences as an example of our technical leadership.
+
+We are seeking a motivated and dedicated hands-on Photonics Architect to help develop chips for our next-generation communication architecture alongside a team of world-class scientists and engineers.
+
+In this role, you will be defining the (micro-)architecture for a ground-breaking photonic-based communication fabric. From component-level design to top-level layout, you will be part of a team that enables high-bandwidth low-latency photonic interconnect/switch fabric.
+
+You will report directly to the Chief Scientist, but you will also work closely with our photonic and analog teams to define and optimize the features needed to improve the power, performance, and area (PPA) of the next generation product.
+
+Join a tight-knit team where each individual’s contributions directly influence the success of the company and product. You'll have the opportunity to build a new kind of computer from the ground up and to solve groundbreaking challenges along the way. Work with people who love to build and who thrive in technically diverse environments where great ideas are prioritized.
+
+Along with the rest of the architecture team, propose innovative solutions within the photonic domain of the product.
+Work closely with the photonic engineering team to provide the performance, power, and area estimates of the photonic devices within Passage.
+Actively collaborate with the analog engineering team to provide a high-bandwidth, low-latency photonic interconnect solution.
+Author, review, and validate architectural specifications.
+Requirements
+minimum of 6 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience in electrical engineering, physics, applied physics, or a discipline related to photonics
+In-depth knowledge of photonic devices and semiconductor physics.
+Experience with taping out, testing, and characterization of photonic devices
+Excellent written and verbal communication skills
+Ability and desire to collaborate in cross-disciplinary team
+Demonstrated strong problem solving skills specifically pertaining to problems that do not have obvious solutions
+A culture champion for Lightmatter, aligns with the company’s light-hearted culture
+Willing and able to learn quickly. Self-starter with a “no task is too big or small” attitude
+Collaborates well with others regardless of discipline
+Innovative and flexible; realizes that a one-size-fits-all approach will not always solve the problem at hand
+Data-driven and analytical; translates numbers into actionable strategies
+Process-oriented and programmatic: builds structure through processes that can be relied upon across the organization
+
 + skill set:
 	- BLAH.
 + skill set:

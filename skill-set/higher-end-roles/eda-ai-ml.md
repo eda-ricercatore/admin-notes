@@ -320,6 +320,11 @@ Skills for EDA software development, and other high-end software development:
 ###	EDA: Electronic Design Automation Job Opportunities
 
 
+
+
+
+
+
 ####	Integrated Device Manufacturers (IDMs)
 
 
@@ -329,11 +334,91 @@ IDMs that may have their own EDA software develoment group:
 + [From Wikipedia, list of the top semiconductor companies in terms of the most revenue](https://en.wikipedia.org/wiki/Semiconductor_industry)
 
 
+
+
+
+
+
+
+
 ####	EDA Companies
 
 
 List(s) of EDA companies:
++ Electronic System Design Alliance (ESD Alliance) members: https://www.semi.org/en/communities/esda/membership-directory
+	- SEMI: http://www.semi.org/en/Membership/MemberDirectory
++ Silicon Integration Initiative, Inc.: https://si2.org/member-directory/
++ Accellera Systems Initiative: https://www.accellera.org/about/members
++ Global Semiconductor Alliance: https://www.gsaglobal.org/membership/
+	- Their membership directory cannot be accessed, unless you are an employee of their member companies.
+	- This is a list of fabless IC design companies.
++ Semiconductor Research Corporation: https://www.src.org/src/member/roster/
++ Semiconductor Industry Association: https://www.semiconductors.org/about/members/
++ MIPI Allliance: https://www.mipi.org/membership/all-member-directory
++ SNIA: https://www.snia.org/member_com/member_directory
++ TechJobsCafe: https://techjobscafe.com/employer_top.php
++ defunct resources:
+	- list from SEMATECH.
+
+
+
+
+Additional companies that hire EDA software developers:
++ [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
 + BLAH
+
+
+
+
+
+
+##	Companies in the Semiconductor Industry
+
+
+List of semiconductor companies:
++ [Global Semiconductor Alliance](https://www.gsaglobal.org/)
++ FPGA companies
+	- AMD/Xilinx
+	- Intel Altera
+	- [Lattice Semiconductor](https://www.latticesemi.com/)
+	- [QuickLogic Corporation](https://www.quicklogic.com/company/careers/)
+		* Not friendly to non- U.S. citizens.
+	- [Menta S.A.S, Sophia Antipolis](https://www.menta-efpga.com/careers)
+	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
+	- [Flex Logix Technologies, Inc.](https://flex-logix.com/)
+	- [Microchip Technology](https://www.microchip.com/)
++ machine learning hardware accelerators (including coarse-grained reconfigurable architctures, CGRA), machine learning acceleration via domain-specific computing, heterogeneous computing systems for machine learning, VLSI deep learning, and embedded deep learning
+	- [SimpleMachines, Inc.](https://www.simplemachines.ai/company)
+	- [Codeplay Software Ltd.](https://www.codeplay.com/company/careers/#career-list)
+	- [Thirdwayv](https://www.thirdwayv.com/careers/)
+	- [Lightmatter](https://lightmatter.co/people/join-us/)
+	- [Habana Labs](https://habana.ai/about-us/)
+	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
+	- [AlphaICs Corp](https://alphaics.ai/company/careers/)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [NAME](URL)
+	- [Qualcomm Technologies, Inc.](https://www.qualcomm.com/research/artificial-intelligence/ai-research): https://www.qualcomm.com/company/careers
+	- [Cornami, Inc.](https://cornami.com/)
++ companies selling RISC-V -based products
+	- [SiFive, Inc.](https://www.sifive.com/careers)
++ edge computing
+	- [EdgeImpulse Inc.](https://edgeimpulse.com/careers)
++ Open Compute Project (OCP): https://www.opencompute.org/membership/membership-directory
+
+
+
+
+
+
+
+
 
 
 
@@ -574,8 +659,68 @@ Skill sets for STCO and DTCO:
 	- Demonstrated ability to lead technical efforts with teams of people will also be beneficial.
 	- The monthly salary range for this position is $6431-$8642 and is expected to start at $7843 or above. 
 	- This is a full-time 3 year, postdoctoral appointment with the possibility of renewal based upon satisfactory job performance, continuing availability of funds and ongoing operational needs. You must have less than 2 years of paid postdoctoral experience. Salary for Postdoctoral positions depends on years of experience post-degree.
-
-
++ skill set:
+	- ML Hardware Accelerator Modeling (Boston or Bay Area)
+	- Lightmatter builds chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines. If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work like building the world's first optical computers, consider joining the team at Lightmatter!
+	- We are looking for talented software engineers to help us build the next generation of AI processors and systems. In this role, you will be responsible for developing tools that enable the design of high performance ML accelerators and an optimized software stack. You'll be working with multiple software teams, as well as digital, analog, and photonic designers, to ensure that both our software and hardware can achieve a generational leap in ML performance.
+	- Design, development, and maintenance of functional and performance models of upcoming hardware
+	- Participate in the co-design process by working closely with hardware teams to iterate on early performance models, adding fidelity as designs progress
+	- Collaborate with machine learning teams to construct and evaluate the performance of machine learning workloads
+	- Build cycle approximate performance and bit-accurate functional models that further the co-design process and allow the software teams to build and optimize our next generation software stack
+	- Collaborate with Design Verification teams to validate hardware against the simulators
+	- Contribute to a system-level simulator that integrates the accelerator simulator into a larger system simulator
+	- Support the development and optimization of our software stack by diagnosing and fixing issues across the simulator and software stack
+	- BS or higher in computer/software engineering, electrical engineering, or related field.
+	- 5+ years of industry experience in mapping algorithms to hardware accelerators, hardware modeling, computer architecture, or related fields
+	- Proficient with C++ and Python
+	- Strong understanding of computer architecture
+	- Familiarity with machine learning workloads
+	- Experience in mapping software algorithms to hardware accelerators
+	- Experience with modeling and analysis of machine learning accelerator architectures
+	- Proficient developing in a Linux-based environment
+	- Experience working with or modeling distributed hardware and workloads
++ skill set:
+	- Software Engineer – AI/Machine Learning software product development
+	- To further sustain and accelerate its growth, Cadence Belgium is looking for a Software Engineer – AI/Machine learning software product development to join the international team based in Brussels. 
+	- Cadence Belgium is part of Cadence, a pivotal leader in electronic design and computational expertise, using its Intelligent System Design strategy to turn design concepts into reality. Cadence customers are the world’s most creative and innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications. 
+	- Cadence Belgium develops simulation software for fluid flows, multiphysics and optimization, widely used by engineers and designers in a large range of fluid engineering applications, from aerospace, power generation and energy to race cars and ships. Cadence Belgium is extending its work force and is looking for qualified new colleagues. 
+	- By joining Cadence Belgium you will build the next generation AI/ML based software product and collaborate with experts in the world of simulation and Artificial Intelligence/Machine Learning. Our teams are fully committed to develop and implement creative solutions. We believe that quality, rigor, and innovation are key to success. With a team of highly skilled and motivated co-workers, we offer a stimulating, young and multicultural environment with career growth opportunities and internal mobility. 
+	- Join our technical team and contribute to the development of our CFD simulations. 
+	- As a Software Engineer AI/Machine learning software product development, your main responsibilities will be: 
+	- Building the next generation AI/ML software product 
+	- Contributing to front-end developments in C++, QML, and Python 
+	- Developing and maintaining the tool chain and Graphical User Interface of our novel Machine-Learning product 
+	- Working with the Machine-Learning core team to identify and translate their requests into state-of-the-art interactive software 
+	- Working with the Product Engineering teams identify and translate end user requirements into state-of-the-art interactive software 
+	- Understand and follow best software practices through design and code review, testing and validation. 
+	- Keeping abreast of the latest trends and technology in the field of human-computer interaction design pushing forward innovation and creativity in this domain 
+	- A bachelor’s or master’s degree in computer science, Mathematics, Physics or Engineering, with experience in the development of 3D visualization applications 
+	- In-depth knowledge of C++, Python and JavaScript (or QML) languages 
+	- Knowledge of Linux and Windows (basics) 
+	- Passionate about UI/UX development and keeping up to date with the latest trends 
+	- Write clean, structured, and maintainable code 
+	- Fluent English language is a prerequisite for the role. 
+	- Experience using the Qt framework is an asset
+	- A prior experience with development of GUI or tool chain for industrial CAE/CAD/CFD packages is an asset 
+	- French or Dutch language skill is a plus 
+	- You should be highly motivated and dynamic, have good communication and analytical skills, be a stress-resistant problem solver, be a team player able to meet the highest quality standards, and ideally have a passion for programming. 
++ skill set:
+	- Staff Machine Learning Engineer
+	- Synopsys Central Engineering (SCE) team is looking for Software Engineering Experts with an excellent focus on solving complex problems, and capable of leading & building an excellent team.
+	- As a part of the Synopsys SCE team, you will be working with a world-class team of software engineers and architects on the mission to build our state of art tools, and you would be expected to conceptualize and develop new tools & applications with cutting-edge technology. You will work together from requirement elicitation, design, implementation, and testing phases to production deployment in the cloud environment and on-prem.
+	- Leading and driving the team technically,
+	- To design and implement  AI/ML based solutions
+	- To incorporate AI/ML technology into existing tools
+	- To re-design and develop existing applications for key R&D productivity
+	- BSc / MSc in the domain of Computer/Electronics Engineering or Computer Science
+	- 7+ years of relevant industry experience in developing and productizing software solutions
+	- Exemplary leadership and team-working skills
+	- Solid background in Data Structures & Algorithms
+	- Knowledge of Machine Learning & Data Science
+	- Excellent programming skills, preferably in Python
+	- Knowledge of cloud technologies
+	- Exposure to distributed computing will be an added advantage
+	- Quick learning and adaption to new technologies
 
 
 
@@ -610,6 +755,18 @@ Notes about VLSI formal verification:
 + This includes:
 	- clock domain crossing (CDC) verification, or CDC check
 		* for functional static sign-off checks
+
+
+
+VLSI formal verification companies:
++ Axiomise: https://www.axiomise.com/careers/
+
+
+
+
+
+
+
 
 
 ####	Sets of Skills for about VLSI Formal Verification
@@ -656,7 +813,26 @@ The sets of skills for VLSI formal verification are:
 	- SVA/PSL/Theorem proving
 	- Tcl/Python/Bash
 + skill set:
-	- BLAH.
+	- Silicon Formal Verification Engineer
+	- The Silicon Design group is a diverse team of world class silicon design, verification and validation experts. We have 100+ years of cumulative hands-on experience in architecture, logic design, verification, physical design, emulation and firmware. We use the latest silicon technologies and processes to help our clients create well-designed solutions to highly complex challenges. We are designing and developing next-generation, high performance SoCs, supporting our clients in their drive to deliver their product vision to their users. We are involved in all aspects of chip design from definition and architecture through to verification and signoff. Accenture Consultants are true “Silicon to SW” Partners, allowing a new breed of companies in the semiconductor ecosystem to innovate in an unparalleled time to market.
+	- An experienced Formal Verification Engineer able to provide formal verification services for multiple blocks and IP’s.
+	- Developing formal verification test plan
+	- Drive automation of formal testbenches and ensure they are a part of regressions
+	- Develop assertions, cover properties and connectivity checks and debug any failures in RTL regressions
+	- Work with cross functional teams (DV/Arch/Design/FW)
+	- Engage with the team to drive continuous improvement to the verification environment to find more bugs and improve coverage
+	- Work as a team to grow together.
+	- Mentor and coach junior team members
+	- A minimum of three years of experience with Formal Verification
+	- Bachelor’s Degree or equivalent (12 years) work experience (If an, Associate Degree with 6 years of work experience).
+	- Experience working with one or more formal verification tools such as Jasper gold, VC-Formal, Incisive Formal Verifier (IFV), Questa Formal, etc.
+	- Experience in interpreting design specifications and using temporal logic assertion-based languages such as SVA
+	- Experience in formal property verification (FPV), Sequential Logic Equivalence Checking (SEC/SEQ/SLEC), and/or academic formal methods
+	- Experience with hardware description languages (SystemVerilog, Verilog, VHDL) and simulators (VCS, NC, Questa).
+	- Proficiency in programing/scripting languages
+	- In-depth knowledge of digital logic design, chip architecture and microarchitecture
+	- Problem solving and debug skills for complex logic and digital designs
+	- Team player with excellent communication skills and be able to work independently on the verification efforts for a block/area of the design
 + skill set:
 	- BLAH.
 + skill set:
@@ -705,6 +881,15 @@ The sets of skills for VLSI formal verification are:
 Focus on mostly model checking, and less on theorem proving (except in combination with decision procedures and automated reasoning, such as SAT/SMT solvers).
 
 Can include equivalence checking.
+
+
+List of formal verification companies for cyber-physical systems:
++ [Prover](https://www.prover.com/about-us/career/#available-positions)
++ [Galois](https://galois.com/careers/)
+
+
+
+
 
 
 The sets of skills are:
@@ -760,8 +945,20 @@ The sets of skills are:
 
 
 
+List of software formal verification companies:
++ CertiK: https://www.certik.com/company/careers
++ Elasticsearch B.V.: https://www.elastic.co/careers
++ Formal Vindication: https://formalv.com/
++ Trellix, which is part of Musarubra US LLC: https://careers.trellix.com/
+
+
+
+
+
 + skill set:
-	- BLAH.
+	- Tezos is a leading crypto-currency featuring the unique capability to evolve thanks to a voting system. In addition, formal verification is a strong community focus to make Tezos the safest platform, usable by individuals and large corporates.
+	- In this job, you will participate in the verification effort project of the crypto-currency Tezos. We publish all our results in open-source on https://nomadic-labs.gitlab.io/coq-tezos-of-ocaml/ Explore this website beforehand to have more details. We use the automated system coq-ofocaml to convert the OCaml code of Tezos to Coq. Your job will be to write and automate Coq proofs on various sub-systems of the blockchain.
+	- We are looking for profiles who are interested in functional programming and proof assistants. Prior knowledge of OCaml or Haskell is a plus. Prior knowledge of a proof assistant is mandatory. Prior knowledge of crypto-currencies is optional.
 + skill set:
 	- BLAH.
 + skill set:
@@ -838,11 +1035,90 @@ Skill sets for circuit simulation include those for:
 
 The sets of skills for circuit simulation are:
 + skill set:
-	- BLAH.
+	- Software Developer- Circuit Simulation- Remote · Siemens EDA · Remote Position
+	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
+	- Siemens EDA is part of Siemens Digital Industries Software, a Siemens Group company and world leader in the global digitalization of companies. Siemens EDA, a world leader of Electronic Design Automation (EDA), develops and markets software products and hardware solutions (emulators) covering the entire design & verification flow.
+	- Siemens EDA counts among its customers the majority of the world's Top 50 in the fields of Semiconductors, Computing, Consumer, Automotive, Telecommunications and the Defense and Space sector.
+	- Siemens EDA R&D teams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world’s fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
+	- This position will be part of the AFS R&D team, focused on circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry’s leading circuit simulator, using cutting edge software development techniques, you will be offered:
+		* Technical challenges to solve toughest nanometer scale circuit verification problems for the leading semiconductor companies in the world.
+		* A motivating, stimulating, and rewarding work environment
+		* Excellent training and growth opportunities throughout your career
+		* Attractive compensation and benefits
+		* A motivating, stimulating, and rewarding work environment
+		* Excellent training and growth opportunities throughout your career
+		* Attractive compensation and benefits
+	- As a member of AFS R&D team you will participate in the design and implementation of efficient algorithms using state of the art software engineering processes and development tools, with a strong emphasis on software quality; thus, adding to your industry level experience in solving tough computational complexity problems while participating in entire software development lifecycle. We are looking for a self-motivated and inspiring team player with outstanding problem-solving skills to maintain and grow the technical dominance of the AFS product.
+	- Develop new and compatibility features for the core circuit simulator.
+	- Participate in the specification, architecture, design, and development of features
+	- Enhance core circuit simulator, e.g., performance, accuracy, capacity, convergence.
+	- Maintain and enhance compatibility with other simulators.
+	- Profile and identify bottlenecks in performance of various analyses for very large circuits.
+	- Improve numerical algorithms used in the core engine.
+	- Debug difficult testcases with accuracy, performance, capacity, or functional issues.
+	- Extend and maintain the capabilities of the AFS circuit simulator.
+	- Be a force for improving development processes and product quality.
+	- Work effectively with globally distributed engineering teams and the Product Validation team
+	- Minimum 7 years of proven strong background in developing efficient, high-quality software for engineering applications using numerical methods and sparse matrix techniques
+	- Deep understanding of numerical methods and sparse matrix techniques
+	- Working knowledge of analog electrical circuit analysis
+	- Outstanding programming skills in C and C++, preferably on Linux platform
+	- Proficiency in memory optimization, high-performance data structures and algorithms
+	- Advanced multithreading programming experience.
+	- Understanding of advanced computer architectures
+	- Solid background in object-oriented design and software engineering processes.
+	- Self-motivated individual with excellent problem-solving skills.
+	- Strong interpersonal and excellent oral and written communication skills.
+	- Highly motivated to work in globally distributed engineering environment
+	- M.S or PhD in Computer Science, Electrical Engineering, Applied Mathematics, or relevant area
+	- Understanding of the internal workings of a circuit simulator
+	- Knowledge of Verilog-A and modeling in Verilog-A.
+	- Background in semiconductor devices and their modeling
+	- Python programming experience
+	- EDA industry level work experience
 + skill set:
-	- BLAH.
+	- Software Developer, RF Circuit Simulation-Remote · Siemens EDA · Remote Position
+	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
+	- Siemens EDA R&Dteams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world’s fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
+	- This position will be part of the AFS R&D team, focused on RF (Radio frequency) circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry’s leading circuit simulator, using cutting edge software development techniques, you will be offered:
+	- Technical challenges to solve toughest nanometer scale circuit verification problems for the leading semiconductor companies in the world.
+	- A motivating, stimulating, and rewarding work environment
+	- Excellent training and growth opportunities throughout your career
+	- Attractive compensation and benefits
+	- As a member of AFS R&D team you will participate in the design and implementation of efficient algorithms using state of the art software engineering processes and development tools, with a strong emphasis on software quality; thus, adding to your industry level experience in solving tough computational complexity problems while participating in entire software development lifecycle. We are looking for a self-motivated and inspiring team player with outstanding problem-solving skills to maintain and grow the technical dominance of the AFS product.
+	- Develop new and compatibility RF features for AFS circuit simulator
+	- Participate in the specification, architecture, design, and development of RF features
+	- Enhance performance, accuracy, capacity, and convergence for RF analyses
+	- Profile and identify bottlenecks in performance of RF analyses for very large circuits.
+	- Improve numerical algorithms used in the core RF engine.
+	- Debug difficult testcases with accuracy, performance, capacity, or functional issues.
+	- Extend and maintain the RF capabilities of the AFS circuit simulator.
+	- Work effectively with globally distributed engineering teams and the Product Validation team
+	- Experience in large-scale periodic and quasi-periodic solution of differential-algebraic circuit equations, including distributed elements
+	- expertise in large-scale sparse matrix, krylov, and eigen solvers
+	- expertise in high-performance multi-threaded numerical software development in C++
+	- Outstanding programming skills in C and C++, preferably on Linux platform
+	- Proficiency in memory optimization, high-performance data structures and algorithms
+	- Advanced multithreading programming experience.
+	- Solid background in object-oriented design and software engineering processes.
+	- Self-motivated individual with excellent problem-solving skills.
+	- Strong interpersonal and excellent oral and written communication skills.
+	- Highly motivated to work in globally distributed engineering environment
+	- M.S or PhD (preferred) in Computer Science, Electrical Engineering or Applied Mathematics
+	- 7+ years of relevant industry experience
+	- The salary range for this position is $141,100 to $225,800 and this role is eligible to earn incentive compensation.
++ Consider different quality attributes (FURPS) while validating the various products with special emphasis on Performance attributes.
 + skill set:
-	- BLAH.
+	- Software Engineer - Circuit Simulation (EMIR Analysis)
+	- Circuit simulation developer with an emphasis on EMIR analysis
+	- The Circuit Simulation Developer is responsible for designing, implementing and maintaining software designed to perform transistor-level VLSI circuit simulation, with an emphasis on EMIR analysis.  The ideal candidate would have expertise in device modeling and numerical techniques for VLSI circuit simulation. Understanding or experience of parasitic extraction is a strong plus.   Candidate should have an advanced degree in electrical engineering, computer science, applied mathematics, or similar.  Candidates with experience in related fields will be considered, particularly:  
+	- 1. Transistor-level SPICE analysis algorithms
+	- 2. Parasitic linear network reduction and analysis algorithms
+	- 3. Statistical analysis, EMIR analysis, electro-thermal analysis algorithms
+	- 4. Device physics, compact device modeling, behavioral modeling, macro modelling, statistical modeling, reliability modeling
+	- 5. Numerical analysis, especially numerical linear algebra, sparse matrix techniques, or numerical methods for solution of ordinary and partial differential equations
+	- 6. High performance computing / large scale scientific computing and deployment of parallel numerical algorithms
+	- Candidate should be proficient in C/C++ development.  Experience with scripting languages like Python and GUI frame works like QT is a plus. Knowledge or Demonstrated software engineering skills, with a good understanding of efficient implementation of high-performance numerical algorithms and associated data structure design, and experience  in relevant software frameworks is a plus. Exposure to high-performance numerical computing, CPU/GPU systems. The candidate should have ability to work with an engineering and cross-functional team to deliver innovative technologies in a production environment. 
 + skill set:
 	- BLAH.
 + skill set:
@@ -1125,7 +1401,34 @@ Energy harvesting, EH, power harvesting, energy scavenging, or ambient power:
 
 The sets of skills are:
 + skill set:
-	- BLAH.
+	- We are looking for a highly motivated, creative, and energetic Principal Software Engineer to work on a new award-winning product for three-dimensional Integrated Circuit power sign-off verification. In this role, you will report to the Senior Engineering Director of Software Development with the following objectives:
+	- Develop accurate and efficient models for IC behavior at advanced process technology nodes to analyze reliability, electrical, and thermal effects in digital and analog circuits.
+	- Design, implement, and enhance scalable software solutions for large linear systems modeling on-chip power grids and system-level power delivery networks.
+	- Effectively collaborate with the Product Engineering team in defining the product enhancement roadmap with solutions addressing customer requirements and ensuring competitive leadership of the product.
+	- Work on simulation/extraction / static-timing / thermal analysis code.
+	- Lead complex projects with minimal supervision and guide junior engineers.
+	- Research, propose, and prototype solutions for advanced 3D IC power analysis. Maintain technical expertise by following technical advances in industry and academia.
+	- Manage assigned projects, including defining scope, plans, schedules, and deliverables.
+	- BS Degree in Electrical Engineering, Physics, Mathematics, or Computer Science/Engineering from an accredited institution.
+	- Minimum 10+ years of experience in designing and developing EDA software products, preferably for ICdesign, analysis, and verification.
+	- Strong knowledge of data structures and algorithms , and their complexities.
+	- Strong C++ / STL programming skills, and good knowledge of OOD.
+	- Ability to understand and support complex software products.
+	- Experience in reliable planning and software effort estimation.
+	- Ability to provide comprehensive testing of the developed solutions.
+	- Experience with modern software development lifecycle flows and tools, including issue tracking, builds, and static and dynamic code analysis tools.
+	- Ability to design high-quality software with on-time delivery.
+	- Knowledge of Linux .
+	- Excellent communication skills: ability to effectively interact with cross-functional teams (R&D, QA, Product Engineering), ability to work in a team. Ability to communicate complex technical concepts clearly and effectively.
+	- MS or Ph.D. in Electrical Engineering, Physics, Mathematics, or Computer Science/Engineering from an accredited institution.
+	- Knowledge of TCL .
+	- Knowledge of AI/ML and their applications for IC verification.
+	- Familiarity with Computational Geometry , Graph Theory.
+	- Familiarity with HPC (high-performance computing).
+	- Strong mathematic knowledge, of matrix and numerical algorithms.
+	- Previous experience designing efficient algorithms and tools for IR/EM analysis, parasitic extraction, circuit simulation, or static timing analysis.
+	- Familiarity with design patterns and code refactoring.
+	- The salary range for this position is $136,700 to $246,100 and this role is eligible to earn incentive compensation.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1362,7 +1665,15 @@ Sets of skills for physical synthesis:
 
 Here are the sets of skills for physical design and physical synthesis.
 + skill set:
-	- BLAH.
+	- Senior Physical Design Engineer
+	- Candidate must have 7-10 years of experiences in place & route. Tasks including but not limited to the following:
+	- Develop the physical development flow
+	- Floor Plan, Power Plan, Place & Route, Clock Tree synthesis, timing/SI closure of blocks & full chip
+	- Padring, RDL development
+	- DRC/LVS
+	- IR/EM analys
+	- DFT knowledge is a plus
+	- Excellent communication with internal team and customers
 + skill set:
 	- BLAH.
 + skill set:
@@ -1804,7 +2115,24 @@ The sets of skills are:
 	- Proficient in Java, Maven, Python, Jenkins/Groovy, Vagrant/Docker
 	- Good knowledge in DFT: OCC insertion (for on-chip clock controllers), ATPG generation
 + skill set:
-	- BLAH.
+	- This role will support the Siemens EDA DFT products which will involve building relationships with our customers, helping them embrace and deploy the Tessent product lines. It is a frontend team which works on top of the analyzer and elaborator.
+	- We are not looking for hard workers, just super minds
+	- You’re a Graduate / Postgraduate (Bachelors/Masters) in EEE) / ECE/Computer Science (CS) from top reputed Engineering colleges with significant experience in software development.
+	- Working Experience should be 8 + Years of experience.
+	- Experience in EDA will be a phenomenal plus.
+	- Your sound understanding of C/C++ languages, design patterns along with data structure and algorithms will be key to development of software.
+	- Your understanding of HDL languages – Verilog/VHDL/System Verilog - low power aware synthesis and power formats - UPF/CPF – will supplemental.
+		* ***Si2 Common Power Format, or CPF***
+		* ***Unified Power Format, or UPF***
+	- Knowledge or experience on flex/bison will be advantage.
+	- Understanding of gate level digital logic design.
+	- Experience in Analyzer/Compiler development.
+	- Your good analytical, abstraction and communication skills will help in creating bigger and sustainable solutions for complex systems.
+	- Your ability to work with multi-functional teams will help in good crafting solutions that resolve actual customer issues.
++ Experience in usage of debugging targets JTAG, BDI
+	- ***Joint Test Action Group, JTAG***
+	- ***BDI (Background Debug Interface)***
+	- ***BDM (Background Debug Mode)***
 + skill set:
 	- BLAH.
 + skill set:
@@ -2070,9 +2398,23 @@ Notes about TCAD for process simulation:
 
 Sets of skills for process simulation TCAD are:
 + skill set:
-	- BLAH.
+	- Senior Software Engineer · ASML · United States
+	- ASML is an innovation leader in the semiconductor industry. We provide chipmakers with everything they need – hardware, software, and services – to mass-produce patterns on silicon through lithography. Our lithography machines are a hybrid of high-tech hardware and advanced software
+	- Senior Software Engineer at ASML play a critical role in owning and driving the technical details of the projects that would ultimately drive customer satisfaction. We are looking for an experienced engineer and technical leader with strong analytical, design and development skills, technical depth, curiosity, enthusiasm, integrity and being results oriented. You will be a key member of our highly integrated multi-disciplinary matrixed team of software, systems, applications and algorithm engineers. If you have a desire to work collaboratively while solving tough problems across real full software stacks including hardware, firmware, OS, desktop applications and web applications, we want to hear from you.
+	- Working at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.
+	- The California base annual salary/hourly range for this role is currently $154,125 - $256,875.
 + skill set:
-	- BLAH.
+	- computational lithography
+	- If you're a motivated individual with a strong understanding of software development, and you'd like to collaborate and continue learning with other engineers who are passionate about and experienced in developing our computational lithography models (optics, photoresist, etching, machine learning, etc.), come and join our computational lithography modeling team!
+	- To learn more about what we do: https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/computational-lithography/
+	- You bring your programming and scientific experience to learn how to model semiconductor manufacturing processes and implement these models in a computational framework with C++.
+	- You'll be responsible for developing new features, debugging and supporting existing models, and you'll be able to suggest and provide new directions for improving existing algorithms.
+	- We would love to hear from you if you have B.S. or M.S. in Computer Science, Electrical Engineering, Physics, Mathematics, or similar and you have a good Understanding of physics, mathematics, optimization, or engineering and Experience in C++ on UNIX and/or LINUX platforms.
+	- Your collaborative spirit is essential to develop critical components consistently and on time with other team members.
+	- You are curious and enjoy discovering new technologies.
+	- You have initial project experience as well as good analytical skills and an appetite for problem-solving.
+	- Ideally, you will have some initial experience with Python, MATLAB and Tcl/Tk, and some knowledge of semiconductor manufacturing and computational lithography is a plus.
+	- As you work in an international team, English (spoken and written) is a must to have
 + skill set:
 	- BLAH.
 + skill set:
@@ -2470,6 +2812,105 @@ The sets of skills are:
 
 
 
+
+###	Process Design Kit (PDK) Development
+
+
+
+The sets of skills for Process Design Kit (PDK) are:
++ skill set:
+	- Design Kit Development: Developing Siemens EDA Design Kits for worldwide foundries, including OpenAccess PDK, iPDK, and TDK development to keep competence and leading the innovation.
+	- Technical Contribution: Growing the development of design kits in Taiwan. Demonstrate the ability to drive and encourage a highly productive development team.
+	- Communication: Being passionate to communicate technical issues within the team and division efficiency and optimally. Demonstrating the ability to communicate within a globally distributed division.
+	- Technological Comprehension: Understanding the several methods used to develop Design Kits, identifying weaknesses and advantages of each. The candidate will chip in technical expertise to a team, develop the kits, the software, and the processes used to build each.
+	- The Design Kit Development Engineer will be part of a team of design kit developers responsible for the development, QA, and delivery of high quality Process Design Kits (PDK) to Siemens EDA foundry partners. The appropriate candidate will have experience in the development and QA of process design kits including Pcell, symbol, and device callbacks. We are looking for an engineer who can adapt to different methodologies used in the development, QA and use of Design Kits from different EDA companies and foundries.
+	- BS in CS/EE with 5+ years or MS with 3+ years of practicing in EDA/CAD engineering is needed.
+	- Showing strong programming skill in languages like Python, TCL, Perl, C or C+ - Deep understanding of scripting, CAD engineering and layout design methodologies.
+	- Proven experience in any of design kits development cycle, devices layout and physics is a must.
+	- Self motivated, quick learner and able to work independently in a large amount of automatically generated code.
+	- Ability to lead multi-functional projects, working closely with marketing and sales on the entire development process from requirements through end-customer delivery.
++ skill set:
+	- With Bachelor or Master’s degree in EE, CE, or CS with above 24-year validated experiences on large-scale enterprise software projects is extraordinary but not required. Although, of course, that if you know how to develop new algorithms, handle external tool integration and optimization in large-scale software projects, is much appreciated.
+	- You have a good understanding of topics around C/C++ software development and debugging techniques.
+	- Bachelor of Science or Master of Science. in Electrical Engineering, Computer Science, Computer Engineering with 24-year experiences in ASIC multiple die graphic presentation in OpenGL & design multiple die data.
+	- C/C++ proficiency
+	- Knowledge of algorithm development, graph theory and geometry manipulation and debugging skill
+	- Knowledge of Lex, Yacc, Qt / OpenGL, Linux, Shell script and Tcl language would be a plus
+	- Knowledge of multithreaded implementation and Linux/UNIX is a plus
+	- Prior experience with EDA design file formats is highly preferred
+	- Excellent English & Mandarine languages communication skill
++ skill set:
+	- Principal Software Engineer
+	- Cadence is seeking candidates to fill open positions in the EMX Product Engineering team as more customers utilize EMX’s world-class capabilities to design and develop their new products.
+	- Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.
+	- Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
+	- As an EDA Development Engineer for the EMX family of products, you will be responsible for capturing the requirements of, developing, testing and delivering software integrations between EMX / EMX Designer and other EDA tools within the Cadence EDA portfolio. You will work closely with other members of the EMX Product Engineering and R&D teams to respond to development and enhancement requests, focusing primarily upon the usability and user experience of EMX and EMX Designer and their interactions with other Cadence tools. Some travel may be required.
+	- Develop, enhance and maintain the integrations of the EMX product family and their interactions with the Cadence Virtuoso Studio and Virtuoso ADE product families.
+ 	- Work in cooperation with local/international Field Applications team members to capture feedback and usability improvement requests for the EMX family of products.
+ 	- Work in cooperation with the EMX Product Engineering and R&D teams to transform feedback and improvement requests into detailed requirement specifications.
+ 	- Translate the requirement specifications into working software implementations.
+ 	- Develop in SKILL / SKILL++ / Python / Perl / shell scripting.
+ 	- Perform detailed testing of the software implementations in preparation for release to customers.
+ 	- Author documentation and work with Technical Publications to ensure its inclusion into correct and easy to understand documents.
+ 	- Bachelor or master’s degree (or equivalent) in Computer Science/Engineering
+ 	- A programming background with at least 8 years of professional experience
+ 	- Experience writing clean, structured and maintainable code
+ 	- In-depth knowledge of SKILL, SKILL++, Python, Perl and shell scripting and their usage in EDA tool and flow development
+ 	- Prior development experience with integrations into Cadence EDA tools such as Cadence Virtuoso Studio and Virtuoso ADE product families
+ 	- Passionate about usability and delivery of right-the-first-time integrations
+ 	- Creativity and out-of-the-box thinking
+ 	- Capable of giving and accepting constructive feedback
+ 	- Collaboration and customer interaction skills
+ 	- Oral and written English proficiency
+ 	- Experience working in an agile and fast-paced product development environment
+ 	- Experience with GUI development is a plus
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
 ###	Physical Verification
 
 
@@ -2691,6 +3132,22 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- Experience with device characterization or PUF techniques
 		* physical unclonable function
 	- Experience with ASIC analog and/or digital design
++ skill set:
+	- Experience with RoT techniques including TPM
+	- Silicon Root of Trust (RoT)
+	- trusted platform module (TPM)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2999,13 +3456,105 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Develop and maintain architecture test cases and automated workflows to verify the correct functionality of the models
 	- BS with 3 years relevant industry experience. M.S. or Ph.D. preferred.
 + skill set:
-	- BLAH.
+	- Sr Staff Chip Engineer
+	- Lightmatter is a photonic computer company that is redefining what computers and human beings are capable of by building the engines that will drive discoveries and progress sustainably. With modern human progress relying heavily on computers, the world has hit a dead end with traditional transistors, and the prospect of constantly building data centers is an environmental nightmare. Lightmatter builds chips for artificial intelligence computing. Our architecture leverages the unique properties of light to enable a fast and efficient compute platform. We created a solution in photonic computing: using photons instead of electrons to take advantage of their higher bandwidth.
+	- If you have a passion for working cross-functionally, leading projects to success, and doing impactful work, like helping build the world's first optical computers, you should join the team at Lightmatter!
+	- We are hiring a Sr Staff Chip Engineer to join our Chip team to guide the next generations of Lightmatter's innovative AI/ML silicon designs. If you have high-performance and/or AI/ML accelerator chip design experience, this would be a great opportunity!
+	- In this job you will work in constant collaboration with hardware and software engineering teams across the company to create chips and systems that address a broad range of generative AI workloads. You'll be understanding the target workloads, managing technical risks, and innovating to solve problems these new applications face. You will work with company and engineering leadership to develop and manage the roadmap.
+	- Own the chip architecture and roadmap for the AI Inference product line.
+	- Work with hardware, software, program management and supply chain teams to define state-of-the-art silicon products.
+	- Understand AI/ML models for existing and upcoming applications in terms of hardware acceleration architecture. Specifically, translate AI model architecture trends to specific hardware architecture requirements.
+	- Develop and maintain competitive analysis of the AI/ML hardware landscape relative to Envise product line.
+	- Collaborate with silicon design, verification and implementation teams to build efficient and performant chips.
+	- Communicate the value proposition of Envise internally and externally.
+	- Collaborate with sales and field teams to drive customer engagements.
+	- 8 years and a Master’s degree; or a PhD with 5 years experience; or equivalent experience.
+	- At least 3+ years of previous experience in high-performance or AI/ML semiconductor chip architecture resulting in silicon products.
+	- Experience in Python, C++ or other performance simulation tools.
+	- Strong teamwork skills with the ability to collaborate with multiple functional teams across a variety of fields.
+	- Ability to react to change and thrive in a fast-paced (startup) environment.
+	- Attention to detail and strong ability to multitask.
+	- Experience influencing decisions and providing technical leadership in a matrix environment.
+	- Enthusiastic, responsive, and passionate about finding innovative solutions to challenges.
+	- Excellent communications and technical presentation skills
+	- Previous experience working on startups is a plus
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer - Generative AI and Deep Learning
+	- USA - California - Mountain View/Sunnyvale
+	- Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+	- As an ML Engineer in Gen-AI, you will innovate and translate cutting edge research into user experiences on questions like the following:
+	- How to prompt an LLM like Llama-2, GPT-4, etc. effectively?
+	- How to build a foundation model for a specific domain like EDA?
+	- How to blend prompt engineering, retrieval augmentation, and fine-tuning to customize models with the least human time and effort?
+	- Design and implement machine learning models and algorithms for Generative AI and Deep Learning applications.
+	- Conduct experiments to evaluate model performance, identify areas for improvement, and implement optimizations.
+	- Partner with cross-functional teams to design and develop scalable solutions that meet business goals.
+	- Stay up to date with the latest research and advancements in the field of Generative AI and Deep Learning and apply this knowledge to improve our models and algorithms.
+	- Communicate complex technical concepts and findings to both technical and non-technical stakeholders.
+	- Participate in code reviews, testing, and deployment of machine learning models and algorithms.
+	- BS with 5+ years’ experience or MS degree with 1+ years’ experience in computer science, Electrical Engineering, Mathematics, or related field.
+	- A Ph.D. in machine learning or a related area with good publication history would be a good fit for this position. We would also love to hear from people with similar skill sets acquired through other career paths.
+	- 2-5 years of experience in machine learning engineering, with a focus on AI/ML and Deep Learning.
+	- Proven familiarity with python, and excellent background in data structures and algorithms.
+	- Good expertise of Probability and Statistics concepts, including Probability, Conditional Probability, Bayes Theorem, Normal Distribution, and Central Limit Theorem.
+	- Sound knowledge of Linear Algebra and Calculus concepts
+	- Sound knowledge of deep learning architectures like Recurrent Neural Networks (RNNs), Long-Short-Term-Memory models (LSTMs), and Convolutional Neural Networks (CNNs).
+	- Experience with deep learning frameworks like Tensorflow or PyTorch.
+	- Experience with LLMs, Encoder-Decoder Models, and other Generative AI techniques.
+	- Experience with Natural Language Processing (NLP) and Text Generation using Deep Learning.
+	- Excellent problem-solving skills and ability to work autonomously as well as collaboratively in a team environment.
+	- Excellent communication and presentation skills, with the ability to communicate complex technical concepts to both technical and non-technical stakeholders.
+	- Good expertise with hands-on experience in data cleansing and modeling for deep learning models in at least one domain (language, image, graphs, etc.)
+	- Experience with cloud-based machine learning platforms such as AWS, GCP, or Azure
+	- Proven publication record in top-tier conferences and journals in the field of Machine Learning or NLP or Generative AI.
+	- Experience with standard machine learning frameworks and tools (Huggingface Transformers, NumPy, Scikit-learn, Pandas, PyTorch, TensorFlow, etc.) and machine learning cloud infrastructure and accelerators (AWS, Google Cloud, GPUs and TPUs).
+	- Familiarity with supervised and unsupervised learning algorithms like linear regression, logistic regression, random forests, and k-means.
+	- Prior exposure to AI/ML workflows and tools
+	- Knowledge and/or exposure to cloud computing technologies like containerization platforms (Docker, Kubernetes, microservices)
+	- Broad expertise and understanding of AI, NLP, LLM, and generative AI trends.
+	- Proficiency in advanced concepts and techniques like Proximal Policy Optimization (PPO) and RLHF for building generative models is a big plus
+	- Experience prototyping, experimenting, and testing with large datasets and training models.
+	- BS in EE or CS with 5+ years of relevant experience.
+	- MS in EE or CS with 1+ years of relevant experience.
+	- PhD in EE or CS with published academic papers and/or relevant experience.
+	- The base salary range across the U.S. for this role is between $106,000 to $185,000.
 + skill set:
-	- BLAH.
+	- Machine Learning Engr, II
+	- USA - California - Mountain View/Sunnyvale
+	- The Artificial Intelligence team designs and develops the next generation Machine Learning, Artificial Intelligence and Cloud architecture for Synopsys tools. We are looking for a ML engineer to work in areas such as microservices architecture, containers, distributed systems, webservers fine-tuning, and Application Program Interface design. The ML engineer will help develop and deploy robust software components that meet our high-quality requirements both on-prem and in public cloud.
+ 	- Designing, developing, troubleshooting, or debugging on-prem and cloud infrastructure for ML/ Artificial Intelligence based tools and applications.
+ 	- This role may span many tiers such as data management, backend services, visualization, presentation, and APIs for the infrastructure.
+ 	- The candidate will work with other members of the engineering team to design, code and deploy optimal solutions.
+ 	- Expected to exercise judgment in selecting methods and techniques to obtain solutions. Work on diverse problems where study of situations or data requires evaluation of various factors.
+ 	- Work with engineering project management system. Provides regular updates to manager/team on project status. Able to work autonomously and collaboratively. Exceptional communications and synergy skills are a must.
+ 	- BS/MS EE/CS/CE
+ 	- Expertise in one or more languages such as C/C++, Python, Java, JavaScript
+ 	- Requires a sound background in file systems, data structures, algorithms, performance, and scalability.
+ 	- Demonstrates good investigation and problem-solving skills.
+ 	- Knowledge of microservices-based software design and architecture
+ 	- Knowledge about containerization, distributed computing, fault tolerance, throughput and latency tuning.
+ 	- Knowlegde about CI/CD pipelines, ML model versioning and deployment.
+ 	- Knowledge of Data Engineering tools such as Kafka, Spark, Hive. Also HDFS, Airflow, NOSQL Databases, in-memory databases such as redis, ignite, and/or similar.
+ 	- Knowledge of designing / deploying micro services application on Kubernetes both on-prem and public clouds
+ 	- Knowledge about working with AWS, GCP, and/or Microsoft Azure. May include configuring, deploying, managing and monitoring.
+ 	- Certifications are a plus: AWS Solutions Architect, Cloud Security Certification, OpenStack Certification
 + skill set:
-	- BLAH.
+	- Senior RTL Design Engineer
+	- AlphaIC, based in the US and India, designs and manufactures AI/ ML Co-Processor targeted for vision inference applications. Gluon, AlphaIC’s first AI/ ML Co-Processor, has been successfully taped out and we are planning to develop a more advanced AI/ ML Co-Processor which can be used in Edge Inference as well as Edge Learning applications. We have applied for multiple patents among which quite a few are granted and will continue to apply more to enhance our IP portfolio. The engineering team is led by Industry experts from SoC Design, System Design and Edge AI/ ML Application Development areas. We have raised Series A funding and in the process of raising further funds from leading VC firms
+	- 1) Will work with system architects to understand the functional and performance requirements of a unit or feature.
+	- 2) Define micro-architecture and develop RTL for a module and feature.
+	- 3) Responsible for IP / sub-system level micro-architecture development and RTL coding.
+	- 4) Prepare block/sub-system level timing constraints.
+	- 5) Integrate IP/sub-system.
+	- 6) Work with verification and physical design team to ensure that the unit or feature is accurately verified and implemented.
+	- 7) Silicon bring-up in conjunction with post silicon validation and SW teams.
+	- 1) BS / MS in Electrical Engineering or Computer Science from a leading university.
+	- 2) Strong analytical and problem-solving skills.
+	- 3) 5+ years of minimum experience as RTL Design Engineer.
+	- 4) Expertise in using design and verification tools (Synthesis, lint, Xcelium or equivalent simulation tools, debug tools etc.)
+	- 5) Experience with high-speed interfaces such as LPDDR, AXI, PCIe, etc.
+	- 6) Experience with Memory sub-system, DDR interfacing.
+	- 7) Experience with Deep Learning and Deep Learning HW acceleration.
 + skill set:
 	- BLAH.
 + skill set:
@@ -3103,39 +3652,6 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 
 
 
-
-
-
-
-##	Companies in the Semiconductor Industry
-
-
-
-+ FPGA companies
-	- AMD/Xilinx
-	- Intel Altera
-	- [Lattice Semiconductor](https://www.latticesemi.com/)
-	- [QuickLogic Corporation](https://www.quicklogic.com/company/careers/)
-		* Not friendly to non- U.S. citizens.
-	- [Menta S.A.S, Sophia Antipolis](https://www.menta-efpga.com/careers)
-	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
-	- [Flex Logix Technologies, Inc.](https://flex-logix.com/)
-	- [Microchip Technology](https://www.microchip.com/)
-+ machine learning hardware accelerators (including coarse-grained reconfigurable architctures, CGRA), machine learning acceleration via domain-specific computing, heterogeneous computing systems for machine learning, VLSI deep learning, and embedded deep learning
-	- [SimpleMachines, Inc.](https://www.simplemachines.ai/company)
-	- [Codeplay Software Ltd.](https://www.codeplay.com/company/careers/#career-list)
-	- [Thirdwayv](https://www.thirdwayv.com/careers/)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [NAME](URL)
-	- [Qualcomm Technologies, Inc.](https://www.qualcomm.com/research/artificial-intelligence/ai-research): https://www.qualcomm.com/company/careers
-	- [Cornami, Inc.](https://cornami.com/)
-+ companies selling RISC-V -based products
-	- [SiFive, Inc.](https://www.sifive.com/careers)
-+ edge computing
-	- [EdgeImpulse Inc.](https://edgeimpulse.com/careers)
 
 
 
@@ -4186,9 +4702,31 @@ Skill sets for application engineers of different EDA products:
 	- Proficiency in Python and experience with tensor libraries (e.g. NumPy, PyTorch, TensorFlow)
 	- Clear communication, organization, and collaboration
 + skill set:
-	- BLAH.
+	- AI Software Engineer
+	- AlphaICs is looking for a world-class AI/Deep Learning Research Intern to research and develop neural network based learning algorithms. In this role, you will work with algorithm experts to come up with state of the art algorithms in the area of Artificial Intelligence, Computer Vision, natural language processing, including Object detection, and Image recognition. We are looking for candidates who can work with us for more than 3 months.
+	- If you are someone with a good understanding of deep learning, reinforcement learning, advanced mathematical concepts and good academic record, we will be happy to talk to you about the work we are doing.
+	- 1) Bachelor / Master degree in computer science or AI related field with excellent academic records (Students are also welcome to apply)
+	- 2) Strong mathematical foundation and applied research experience in machine learning and deep learning, reinforcement learning.
+	- 3) Experience working with deep learning frameworks (Tensorflow, Pytorch, etc.) and related tools in each special field. Solid understanding and hands on experience with C/C++/Python.
+	- 4) Publication record in top AI conferences (ACL, CVPR, NAACL, ICML etc) is a plus.
+	- 5) Experience with CUDA or GPU computation is a plus.
+	- 6) Excellent communication and documentation skills
+	- 7) Ability to learn quickly, starting with little information and becoming an expert in your domain.
+	- 8) Ability to communicate/collaborate with other researchers/engineers including our team members.
+	- 9) Solid Github/ Kaggle profile is a plus.
 + skill set:
-	- BLAH.
+	- Artificial Intelligence Intern
+	- AlphaICs is looking for a world-class AI/Deep Learning Research Intern to research and develop neural network based learning algorithms. In this role, you will work with algorithm experts to come up with state of the art algorithms in the area of Artificial Intelligence, Computer Vision, natural language processing, including Object detection, and Image recognition. We are looking for candidates who can work with us for more than 3 months.
+	- If you are someone with a good understanding of deep learning, reinforcement learning, advanced mathematical concepts and good academic record, we will be happy to talk to you about the work we are doing.
+	- 1) Bachelor / Master degree in computer science or AI related field with excellent academic records (Students are also welcome to apply)
+	- 2) Strong mathematical foundation and applied research experience in machine learning and deep learning, reinforcement learning.
+	- 3) Experience working with deep learning frameworks (Tensorflow, Pytorch, etc.) and related tools in each special field. Solid understanding and hands on experience with C/C++/Python.
+	- 4) Publication record in top AI conferences (ACL, CVPR, NAACL, ICML etc) is a plus.
+	- 5) Experience with CUDA or GPU computation is a plus.
+	- 6) Excellent communication and documentation skills.
+	- 7) Ability to learn quickly, starting with little information and becoming an expert in your domain.
+	- 8) Ability to communicate/collaborate with other researchers/engineers including our team members.
+	- 9) Solid Github/ Kaggle profile is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4272,6 +4810,7 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
++ Experience in Deep Learning and Deep Learning development frameworks
 + Proficiency in programming languages such as Python, Java and C++, and experience with machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn)
 + You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
 + tech stack:
@@ -5678,17 +6217,113 @@ Skill sets for application engineers of different EDA products:
 	- Strong understanding of the state of the art in Computer Vision and Robotics literature
 	- Experience working with complex data infra and highly concurrent SW systems
 + skill set:
-	- BLAH.
+	- ***Machine learning engineer role with an EDA company to build machine learning frameworks, and machine learning infrastructure (in the context of MLOps)***
+	- AI/ML Senior Engineer
+	- Lahore, Pakistan
+	- Siemens Digital Industry is an innovation leader in automation & digitization. We are part of Technology & Innovation department of Siemens Factory Automation, an international team of dedicated and passionate engineers working on the next generation of pre-products for Industry 4.0. We work on the complete business lifecycle from concept ideation to incubation. We are not tied to specific technology; we build our own technology. We have filed multiple patents for our innovations. Our current portfolio includes a fully managed multi-tier orchestrated industrial IoT Platform and a distributed machine learning flow manager, a no code solution for domain experts & low code solution for data scientists. We work in Machine Learning, Industrial devices and Industrial IoT on the entire stack ranging from Devices & connectivity to Platform services and UI. Our strategic search fields include Industrial grade AI, Industrial IoT & Edge Computing, IT/OT convergence & Digital Twin.
+	- Design & develop functionality for our new product using technologies like Generative AI & LLMs
+	- Research existing LLMs to find appropriate fit for the team’s need, fine-tuning or retraining existing LLMs available in the opensource
+	- Research different AI related topics which are in the interest of the team to create new product ideas and implement POCs and then translating them to complete product. These topics include Generative AI, Adoption of AI, AI Safety, Easy AI, etc.
+	- Construct jobs & scripts using industry standard toolsets to automate various data querying, loading, aggregating and reporting tasks
+	- Perform data analysis to identify new data sources and to optimize/identify features in existing data sources
+	- Develop and evaluate the performance of predictive statistical models and selecting features, building and optimizing classifiers using machine learning techniques.
+	- Design & development of enterprise scale Intelligent self-healing system including:
+	- Requirement Gathering
+	- Statistical Model Designing & Live deployment in production
+	- Application Design & Implementation
+	- Documentation
+	- We're looking for experienced data scientists/machine learning engineers with either a PhD degree in Computer Science or related field with minimum 3 years of industry experience, or an MS degree in Computer Science or related field with minimum of 8 years of industry experience working in the area of Machine Learning and Data Science techniques and understanding the parameters that affect their performance.
+	- 4+ years of experience with Python, C++, SQL, NoSQL
+	- Good understanding of Deep Learning concepts like Time Series Analysis, Root Cause Analysis, Neural Networks, Supervised Learning, Unsupervised Learning, Regression, Classification, Reinforcement Learning, Knowledge Graphs, Transformers, Generative AI, LLMs
+	- Hands-on experience with one or more of the following ML/DL frameworks: Tensorflow, Tensorflow Lite, Keras, MXNet, PyTorch, KNIME, Data Annotation Tools
+	- Experience with standard build and deployment tools such as Eclipse, Maven, Git/Stash, and Jira.
+	- This is what gives you an edge:
+		* Previous experience with LLMs, Generative AI for Images/Vide
+		* Previous experience in the field of Computer Vision
+		* Knowledge of big data technologies such as Apache Cassandra, Apache Spark and experience of building systems that utilize large data sets
+	- Passion to build industrial grade software systems using cutting edge AI
+	- Willingness to do hands-on development
+	- Strong problem-solving skills and ability to think outside the box for better solutions with an aptitude for research and innovation in AI/ML and their application
+	- Strong communication skills and comfortable working with geographically distributed teams
+	- Good self-management skills to efficiently work from home whenever required
+	- Willingness to take ownership of the assigned responsibilities and ability to work independently with minimal supervision
 + skill set:
-	- BLAH.
+	- ***Machine learning engineer role with an EDA company to build machine learning frameworks, and machine learning infrastructure (in the context of MLOps)***
+	- Technical Lead (ML)
+	- Sri Lanka
+	- Synopsys Central Engineering (SCE) team is looking for Software Engineering Experts with an excellent focus on solving complex problems, and capable of leading & building an excellent team.
+	- As a part of the Synopsys SCE team, you will be collaborating with a world-class team of software engineers and architects on the mission to build our state of art tools, and you would be expected to conceptualize and develop new tools & applications with cutting-edge technology. You will work together from requirement elicitation, design, implementation, and testing phases to production deployment in the cloud environment and on-prem.
+	- Leading and driving the team technically,
+		* To implement & productize AI/ML based solutions.
+		* To incorporate AI/ML technology into existing tools
+		* To re-design and develop existing applications for key R&D productivity
+		* BSc/MSc in the domain of Computer/Electronics Engineering or Computer Science
+		* 4+ years of relevant industry experience in developing and productizing software solutions
+		* Exemplary leadership and team-working skills
+		* Solid background in Data Structures & Algorithms
+		* Knowledge of Machine Learning & Data Science
+		* Excellent programming skills, preferably in Python
+ 	- Synopsys, Inc. is the Silicon to Software™ partner for innovative companies developing the electronic products and software applications we rely on every day. As the world’s 15th largest software company, Synopsys has a long history of being a global leader in electronic design automation (EDA)and semiconductor IP and is also growing its leadership in software quality and security solutions.
+	- At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
 + skill set:
-	- BLAH.
+	- ***Machine learning engineer role with an EDA company to build machine learning frameworks, and machine learning infrastructure (in the context of MLOps)***
+	- Sr. Technical Lead (ML)
+	- Sri Lanka
+	- Staff Machine Learning Engineer
+	- Synopsys Central Engineering (SCE) team is looking for Software Engineering Experts with an excellent focus on solving complex problems, and capable of leading & building an excellent team.
+	- As a part of the Synopsys SCE team, you will be working with a world-class team of software engineers and architects on the mission to build our state of art tools, and you would be expected to conceptualize and develop new tools & applications with cutting-edge technology. You will work together from requirement elicitation, design, implementation, and testing phases to production deployment in the cloud environment and on-prem.
+	- Leading and driving the team technically,
+		* To design and implement  AI/ML based solutions
+		* To incorporate AI/ML technology into existing tools
+		* To re-design and develop existing applications for key R&D productivity
+	- BSc / MSc in the domain of Computer/Electronics Engineering or Computer Science
+	- 7+ years of relevant industry experience in developing and productizing software solutions
+	- Exemplary leadership and team-working skills
+	- Solid background in Data Structures & Algorithms
+	- Knowledge of Machine Learning & Data Science
+	- Excellent programming skills, preferably in Python
+	- Knowledge of cloud technologies
+	- Exposure to distributed computing will be an added advantage
+	- Quick learning and adaption to new technologies
 + skill set:
-	- BLAH.
+	- Staff Machine Learning Engineer - Language Modeling (Remote)
+	- Our small Natural Language Processing team works on providing key NLP competence to improve Quora users’ experience. We build end-to-end industry-scale NLP systems for moderation (e.g. spam detection) and content-based recommendation (e.g. topic tagging and modeling content relevance). The team directly supports moderation and growth-related initiatives at Quora. As a remote-first company, our engineers have a high degree of flexibility and autonomy.
+	- We are looking for an experienced Staff Machine Learning Engineer to join our growing NLP engineering team. You will have a unique opportunity to have high impact by advancing our NLP systems, as well as uncovering new opportunities to apply large language models to the Quora product. You will also play a key role in developing tools and abstractions that our other developers would build on top of.
+	- Improve our existing machine learning systems using your core coding skills and ML knowledge
+	- Identify new opportunities to apply large language models to different parts of the Quora product
+	- Perform experiments and comparative analysis to evaluate the effectiveness of different model architectures and fine-tune hyperparameters for optimal performance
+	- Take end-to-end ownership of machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems
+	- Continuously research and stay up-to-date with the latest developments in NLP and large language models, utilizing innovative techniques and methodologies to enhance our models
+	- Collaborate with the manager to lead the effort to transform our NLP systems to a new era of large language models
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 6+ years of professional software development experience in machine learning, ideally in an NLP team and/or as tech lead
+	- BS, MS or PhD in Computer Science, Mathematics, or a related field with a focus on machine learning and NLP
+	- Previous experience building end-to-end machine learning systems
+	- Strong innovator who understands the nuances of large language models and hands-on experience working with large language models like GPT, LLAMA, BERT, or Transformer-based architectures
+	- Proficient knowledge of NLP techniques, including tokenization, language modeling, and embeddings
+	- Experience with distributed training and optimization techniques for large-scale machine learning models
+	- Excellent communication skills and the ability to collaborate effectively in a cross-functional team.
+	- 2+ years of experience writing Python or C++ code
+	- Experience with leading large-scale multi-engineer projects
+	- For Colorado based applicants, the minimum salary range is $174,400 - $216,000 USD + equity + benefits. For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $174,400 - $255,000 USD + equity + benefits.
+	- British Columbia candidates only: For British Columbia applicants, the minimum salary range is $173,800 - $252,000 CAD + equity + benefits.
 + skill set:
-	- BLAH.
+	- Deep Learning Engineer
+	- Deep Learning Engineer will develop AI applications on AlphaICs Gluon Inference Platform. We are looking to hire a trainee (6 months) or a full time engineer. 
+	- 1) Development experience in Deep learning application on embedded/AI boards. (Jetson/Movidius etc)
+	- 2) Experience in TensorFlow /pyTorch/Python C/C++ programming.
+	- 3) Experience in profiling/ benchmarking/ validating applications in embedded/DSP/ AI boards.
+	- 4) Experience working with camera interfaces Develop camera, 3D and other sensors.
 + skill set:
-	- BLAH.
+	- Deep Learning Software Library Development Engineer
+	- In this role, you will be responsible for developing highly optimized libraries for Deep Learning operators. This role is a very critical role in our AI Processor’s SDK development. It involves working on libraries, performance tuning and analysis, implementing new algorithms etc.
+	- 1) Bachelors, Masters or equivalent experience in Computer Science, Artificial Intelligence, Applied Math, EE or related fields.
+	- 2) Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+	- 3) Good working understanding of TensorFlow operators and maths behind it.
+	- 4) Strong in Linear Algebra.
+	- 5) Good knowledge of CPU (ARM, X-86 etc.) or GPU architecture.
+	- 6) Architecting or optimizing software libraries for one or more from the list: HPC, OpenCL, CUDNN, BLAS, Eigen, LAPACK, DSP Software Library.
+	- 7) Convolution Neural Networks.
 + skill set:
 	- BLAH.
 + skill set:
@@ -6451,7 +7086,16 @@ Skill sets for computer vision:
 	- Automation of capture and processing tasks
 	- Creating tools and workflow for integration into shader and rendering pipeline
 + skill set:
-	- BLAH.
+	- Computer Vision Engineer
+	- The candidate will be required to spend considerable hands-on time designing, coding, optimizing, debugging, and testing Computer Vision applications on AlphaICs’s AI Processor running Linux operating systems.
+	- 1) 2-3 years' experience with Programming Languages such as C/C++, Python and experience with hands-on coding to collaborate with HW designers to adopt the proposed.
+	- 2) Embedded system software development experience i.e device driver, BSP development.
+	- 3) Experience enabling vision algorithms on imaging and vision accelerators or GPUs.
+	- 4) Experience with OpenCV, OpenCL, OpenVX, TensorFlow, Caffe or equivalent computer vision library.
+	- 5) Experience programming for raspberry pi, NVIDIA Jetson, IMX8, Google Coral, or similar SOC's.
+	- 6) Experience in Design/building computer vision end to end solutions for edge devices.
+	- 7) Preferable working experience in Convolutional Neural Networks.
+	- 8) Experience in the Yocto build system, camera integration and V4l2 is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -8051,7 +8695,35 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- You will, in partnership with our product management colleagues, propose, design and analyze new features and algorithms to improve the performance of our auctions. You will work closely with operational teams on deployment, monitoring, management concerns. You will participate and lead Apple internal Data Science & Machine learning interest groups, meet ups, and conferences. You will join a team passionate about data privacy, fairness, and trust, with profound responsibility to ensure those things, while protecting the value our customers and developers count on from our advertising products for.
 	- PhD in a quantitative field (or BS/MS with equivalent work experience) with 5+ years experience in managing a data science team.
 + skill set:
-	- BLAH.
+	- Senior Data Scientist (Remote)
+	- Quora is a "remote-first" company. This position can be performed remotely from anywhere in North America. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.
+	- Quora’s mission is to grow and share the world’s knowledge. To do so, we have two knowledge sharing products:
+		* Quora: a global knowledge sharing platform with over 400M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.
+		* Poe: a platform that lets people ask questions, get instant answers, and have back-and-forth dialogue with various AI language models (bots). As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models.
+	- Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.
+	- The Data Team is highly empowered at Quora, helping navigate complexity and influencing product and company strategy directly. Quora's outsized commitment to data is visible in everything we do, from our rigor-driven experimentation processes to the backgrounds of our leaders. With this emphasis on data and empirics, we aim to balance rigor and pragmatism, searching for scrappy solutions in pursuit of our mission. In joining Quora's strong data team, you'll both benefit from and work to advance our culture of rational decision making.
+	- As a member of our team, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
+	- As a Senior Data Scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- Extract actionable insights from broad, open-ended questions
+	- Design and evaluate experiments to measure the impact of product changes
+	- Analyze data from across the product to uncover the root causes of metric movements
+	- Communicate results to cross-functional stakeholders to inform product decisions
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Improve the work of other data scientists through mentorship and by bringing industry best practices to the team
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 3+ years work experience in an analytical or quantitative role as a Data Scientist or similar title
+	- 2+ years experience working on product analytics
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora user with curiosity about the product
+	- At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.
+	- US candidates only: For Colorado based applicants, the minimum base salary range is $122,000 - $171,000 USD + equity + benefits. For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $122,000 - $201,000 USD + equity + benefits.
+	- British Columbia Candidates Only: For British Columbia based applicants, the minimum base salary range is $122,000 - $201,000 CAD + equity + benefits.
 + skill set:
 	- BLAH.
 + skill set:
@@ -8517,6 +9189,7 @@ They support databases for:
 ####	Skill Sets for Data Engineering
 
 ***Skill sets for data engineering***:
++ You've used several data storage technologies like Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra and have some idea how they work and why they work that way. 
 + Experience with Scala, Scalding, Luigi, Hive, machine learning pipelines and model training is a plus
 	- Luigi:
 		* [The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
@@ -9048,6 +9721,59 @@ They support databases for:
 	- Breadth of knowledge around statistical methods including A/B testing, causal inference, experimentation, cluster-randomized testing
 	- Familiarity with Snowflake, dbt, and ETL/reverse ETL tools.
 + Build and maintain robust data pipelines that ingest over 30TB of data each day.
++ skill set:
+	- Data Platform Engineer
+	- SHANGHAI /PLATFORM ENGINEERING – PLATFORM ENGINEERING // REMOTE
+	- CertiK is a pioneer in blockchain security, leveraging best-in-class AI technology to protect and monitor blockchain protocols and smart contracts. Founded in 2018 by professors from Yale University and Columbia University, CertiK’s mission is to secure the web3 world. CertiK applies cutting-edge innovations from academia to enterprise, enabling mission-critical applications to scale with safety and correctness.
+	- Manage critical data platform services for the data lifecycle, including ingestion, transformation, management, delivery, and analytics. 
+	- Build tools and libraries that ease new pipeline development and reduce delivery time.
+	- Work towards increasing the robustness and fault tolerance on the platform processing large amounts of data.
+	- Implement best practices and design patterns for different data solutions. 
+	- Define tools and techniques to improve overall data observability and discoverability.
+	- Troubleshoot and remediate issues with the data platform services and data pipelines.
+	- Collaborate on cross-team Data Platform initiatives. 
+	- Track and execute continuous improvements.
+	- Experience with blockchain technologies.
+	- Experience with data warehouse/data lake platforms such as Snowflake, Databricks, Redshift, or BigQuery.
+	- Experience with database technologies such as Redis, Kafka, MongoDB, PostgresSQL, and MySQL.
+	- Experience with data engineering tools such as airflow, dbt, etc. 
+	- Familiarity working with data observability and data governance. 
+	- Programming experience in Bash, Python, Golang, C++, or Java and in data query and manipulation with SQL. 
+	- Excellent written and verbal communication skills in ENGLISH and CHINESE.
+	- Experience with graph databases. 
+	- Experience with data science tools and platforms such as Jupiter notebooks, Databricks, SageMaker, and Tensorflow. 
+	- Understanding of Linux. 
+	- Familiarity working with open source software community. 
+	- Proclivity for automation and DevOps practices and tools such as Git and Terraform.
+	- Broad exposure to at least one cloud platform: AWS, Google, Azure.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
@@ -10064,7 +10790,7 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 ***Resources***:
 + [SAT Live!](https://www.satlive.org/)
-
++ [Formal Land (Arae SARL)](https://formal.land/)
 
 
 

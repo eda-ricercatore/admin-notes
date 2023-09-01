@@ -46,6 +46,47 @@ Enterprise applications of MIS:
 
 
 
+Technologies and skills for MIS:
++ ITIL, Information Technology Infrastructure Library
+	- Services: The principal concept of ITIL is that it implies that the customers will be provided with all the requisite levels of satisfaction and commitment without any loss or investment on the part of the customers.
+	- Service Assets: The assets literally mean the resources. The resources imply the infrastructure and the facilities the providers can provide to both the business and the customers.
+	- Service Management: Managing the service efficiently and delivering the most to the customers for the ultimate level of popularity is what service management implies in the concept of ITIL.
+	- Utility, Warranty, and Value: Now comes the crucial part. The value-based integrity, which governs the principal concept of ITIL, is the central tenet that will help you go for quality service and eliminate all the bugs and constraints affecting the service's whole utility to the customers. With the assurance of the quality facility, provisions must also be made about the warranty that will ensure the reliability and guarantee of the functioning.
+	- Processes: Coming to the next point, you need to see that every set of programs or entity requires efficient governing. These practical sets of rules are known as processes that are used to achieve a specific target or goal.  Processes can be used to deliver the desired outcome to both company stakeholders and clients. They can make a valid transition of the input to the targeted output. While achieving the target, you must always measure the process and see if it can be pulled out regardless of any particular events.
+	- Functions: Functions are usually the medium by which the group of employees and the high-end programs are used to follow up the processes that are used to make up the operations efficiently.
+	- Roles: The responsibilities that are entrusted to each set of entities are that specific people will play in the execution of the project.
+	- Capabilities: Lastly, the whole system jots down the specified abilities and the achievement that a set of entities can achieve so that the role and responsibilities can be efficiently distributed according to that.
+	- Service Strategy: The first and foremost step of the whole process of the ITIL framework is to chalk out a strategy. The development of the plan is the key to determining the functioning of the entire system, which includes all the facilities and provisions that the company can offer to the organization and client as a whole. It will also help you know about the errors and updates that need to be done to improve the function of the IT organization and go in an imperative manner.
+	- Service Design: The whole plan is to go for the service and design the latest version of the Information Technology service.  This implies the architecture of the program, which traces up the entire new Information Technology function and how you can incorporate the improvisation in the more original service.
+	- Service Transition: After planning and designing, you now need to finally configure, install, organize and install the Information Technology service that will ultimately help you to coordinate in an organized manner.
+	- Service Operation: Now comes the testing and functioning part. The services that were developed in the previous processes will help you to know about the working of the process, that in turn will help you to see if it is working or not. The process consists of granting the request of the users, servicing the errors, and then carrying out the task that was meant to be completed.
+	- CSI or Continual Service Improvement: Now, while the whole process is fully operational, you can find out the scope that you need to go for the continual improvement of the service that will do the service more and better. The stage aims to improve the service and deliver the performance with precision continuously. You need to go for continuous improvement by constant monitoring of the scenes mentioned above.
+	- Delivering maximum value to customers
+	- Optimizing resources and capabilities
+	- Offering services that are useful and reliable
+	- Planning processes with specific goals in mind
+	- Defining roles clearly for each task.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##	Skill Sets for MIS
 

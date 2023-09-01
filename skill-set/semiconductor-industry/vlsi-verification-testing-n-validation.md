@@ -236,34 +236,88 @@ Skill set for roles in VLSI verification:
 
 
 
+#	Mixed-Signal VLSI Verification
+
+Skill sets for mixed-signal VLSI verification:
++ skill set:
+	- Exposure to verification methodologies such as VMM/OVM/UVM/ is required.
+	- Knowledge of one or more of protocols: MIPI-I3C/UFS/Unipro, AMBA (AMBA2, AXI), Ethernet,  DDR, PCIe, USB, SD-MMC, USB.
+	- Experience with verification of  Scatter Gather DMA. Host controller interface is a significant plus.
++ skill set:
+	- Sr. Principal Design Engineer ( AMS Verification )
+	- Location: Bangalore
+	- Drives development of products and technologies and has material responsibility for the success of that product/technology.
+	- Architect, develop, champion, and implement metric-driven mixed-signal verification solutions, in the areas of:
+	- Digital/DMS/AMS testbench creation and generation
+	- Automatic Model generation and testing
+	- Cadence Design Systems AMS simulation flows
+	- Mixed-Signal Assertions and Checkers
+	- Behavioral Modeling and Model Validation Methodologies
+	- Mixed-Signal VIP integration and testing
+	- Mixed-Signal emulation flows and practices
+	- Power intent verification including Low power states, state retention and CPF/UPF integration
+	- Push technology for mixed-signal modeling, simulation and DV in order to improve mixed signal verification efficiency and accuracy.
+	- Ensure scalable mixed-signal DV solutions to cover the breadth of IPG offerings including SerDes, DDR, A2D converters and custom solutions
+	- Drive adoption of analog behavioral modeling methodologies for efficient mixed-signal verification
+	- Develop efficient debug solutions and techniques
+	- Develop efficient and accurate full stack mixed signal methodology for entire IP stack from controller to analog circuit.
+	- Mentor junior engineers Collaborate closely with
+	- Digital, Analog, Firmware and Test engineers  
+	- Internal methodology and tool development teams, such as, Virtuoso/ADE/Xcelium. PDK teams and 
+	- Customer management and engineering support teams
+	- 7-15+ Years’ experience in working with Digital and Analog mixed-signal environment and teams.
+	- Must have good written and verbal cross-functional communication skills.
+	- Creating Verification infrastructure (test-bench, environment, scripting)
+	- Scripting of verification flows, design automation
+	- Debugging verification testcases 
+	- Knowledge of existing and upcoming standards such as PCIE, USB, DDR4 etc.
+	- Must be comfortable interacting across the IPG development team including the ability to understand design constraints.
+	- Knowledge of Mixed-Signal Cadence tools and mixed signal methodology is a plus
+	- Knowledge of SystemVerilog and UVM Test environment and methods is a plus
+	- Working knowledge of revision control tools such as SOS, SVN is a plus
+		* Cliosoft SOS is a revision control tool, or version control tool, for IC designs.
+	- Education Level: Bachelor's Degree (MSEE Preferred)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	VLSI Power Verification
 
 + Power Verification Engineer
 	- We are looking for an experienced engineer to join a growing CPU/SoC verification team working on a new line of complex SoC devices for AI applications. You will join a team responsible for exhaustively verifying the architecture and microarchitecture of the CPU, as well as its integration into the larger SoC. We are looking for highly talented, passionate, and versatile engineers that can push hardware to highest performance and quality standards.
 	- Within this role, the candidate would work closely with Architecture and RTL teams to verify power intent. In addition, would work closely with the Physical Design team for obtaining inputs for Gate-Level simulations.
-
-
-Responsibilities
-
-Ownership of the Low Power Verification
-Ownership of the Gate-Level Simulations (Gatesim)
-Technical ownership of the validation of various functional blocks of the CPU and/or SoC
-Documenting testplans and driving reviews of the plans with the design team and architects
-Develop validation content like test benches, directed and constrained random assembly tests, and functional coverage
-Qualifications 
-
-BS in EE or related technical field
-5+ years of experience in CPU/SoC validation
-Experience with Low Power Verification and UPF is a plus 
-Experience with VCS-NP and VCLP is a plus
-Experience with Gate-Level simulations is a plus
-Knowledge of CPU and SoC architectures is a plus
-Knowledge of high-level verification flow methodology (testplan development, test generation and debug, coverage analysis and closure)
-Experience with SystemVerilog and UVM
-Experience with C/C++ and assembly
-Experience with Python or other scripting languages
-Ability to clearly communicate across teams with multidisciplinary backgrounds
-Business fluent English
+	- Ownership of the Low Power Verification
+	- Ownership of the Gate-Level Simulations (Gatesim)
+	- Technical ownership of the validation of various functional blocks of the CPU and/or SoC
+	- Documenting testplans and driving reviews of the plans with the design team and architects
+	- Develop validation content like test benches, directed and constrained random assembly tests, and functional coverage
+	- BS in EE or related technical field
+	- 5+ years of experience in CPU/SoC validation
+	- Experience with Low Power Verification and UPF is a plus 
+	- Experience with VCS-NP and VCLP is a plus
+	- Experience with Gate-Level simulations is a plus
+	- Knowledge of CPU and SoC architectures is a plus
+	- Knowledge of high-level verification flow methodology (testplan development, test generation and debug, coverage analysis and closure)
+	- Experience with SystemVerilog and UVM
+	- Experience with C/C++ and assembly
+	- Experience with Python or other scripting languages
+	- Ability to clearly communicate across teams with multidisciplinary backgrounds
+	- Business fluent English
 
 
 

@@ -194,6 +194,7 @@ Sets of skills for embedded software development roles:
 	- Experience developing Boot ROMs, Boot Loaders (UBoot, LK, etc), firmware and integration of the same with the Linux software stack.
 	- Experience with RTOSes such as FreeRTOS or Zephyr
 	- Experience with C++.
++ Knowledge of Yocto build system (or any other embedded build tool).
 + skill set:
 	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up!
 	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
@@ -264,7 +265,24 @@ Sets of skills for embedded software development roles:
 	- Open source
 	- You will be working as a member of our Global Engineering team on the design of Embedded Development Tools such as IDEs, Compilers, Debuggers, Simulators, Real-time Trace and Software Quality Assurance tools.
 + skill set:
-	- BLAH.
+	- Software Engineer - Realtime Application Developer · Keysight Technologies · United States
+	- We are looking for a Software Engineer to lead the development of a new distributed application for our Aerospace Defense & Government Solutions group. This will require the use of modern development platforms and technologies (100GbE+ networking, RDMA, gRPC, GPUs, etc) to meet the demanding performance requirements.
+	- At Keysight, we help companies address their toughest challenges with precision and confidence. We offer the best electronic measurement tools in the industry, with advanced software to match. We are a company with a storied history of pushing the high technology envelope and innovation for many decades, since our equipment needs to be more advanced than the latest technologies being developed for the automobile, industrial and aerospace industries.
+	- About Colorado Springs: Living in Colorado means summers of blue skies, green forests and red canyons for hiking, biking, camping or golf. Winter in Colorado means snow-capped mountains, arid plains, and frozen lakes for snowboarding, skiing, cycling or ice fishing. From the top of the Rockies to the canyons of the western slope, Colorado offers plenty of outdoor beauty to suit most any taste. It is within a short drive to Denver, with its additional cultural amenities including museums, music venues, and major league sports teams.
+	- Experience in working on high performance C#/C++ application software
+	- Experience with .NET 6 library for cross platform (Windows & Linux) applications
+	- Application deployment technologies for Linux targets
+	- Familiarity with 100GbE Ethernet and networking stacks
+	- MS in Computer Science ,Electrical Engineering, or related engineering discipline
+	- Demonstrated development experience with large enterprise applications
+	- Self-starter.
+	- Willing and able to quickly learn new applications and technologies.
+	- Ability to travel 15% of the time to customer sites
+	- - Experience with gRPC
+	- Familiarity with RDMA
+	- Familiarity with digital signal processing
+	- Experience with hardware accelerators (e.g. GPUs, SIMD optimization, FPGAs )
+	- Experience with GIT and JIRA based software development flows
 + skill set:
 	- BLAH.
 + skill set:

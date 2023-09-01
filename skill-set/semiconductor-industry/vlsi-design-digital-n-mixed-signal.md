@@ -134,6 +134,32 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 + [From Wikipedia, list of integrated device manufacturers (IDMs)](https://en.wikipedia.org/wiki/Integrated_device_manufacturer)
 + [From Wikipedia, list of semiconductor IP core vendors](https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors)
+	- analog-to-digital converters, ADCs
+	- broadband modem and error correction
+	- digital-to-analog converters, DACs
+	- Digital Signal Processors
+	- DRAM
+		* DRAM controllers
+		* DRAM PHYs
+		* High-Bandwidth Memory - HBM PHYs
+		* Hybrid Memory Cube - HMC Controllers
+		* ***physical interface (PHY)***
+	- Communication IP
+		* Network-on-Chip (NoC) / On-Chip Interconnect
+		* Bluetooth SW Stack, Link Layer and PHY
+		* Ethernet PHY
+	- General purpose microprocessors
+	- Graphic Processing Units (GPUs)
+	- FPGA
+	- HDMI
+	- ISP
+	- I/O pad libraries
+	- On-chip SRAMs
+	- Phase Locked Loops (PLLs)
+	- Power Management
+	- Serial ATA (SATA) controllers
+	- Standard cell libraries
+	- Video processors and computer graphics
 + [From Wikipedia, list of the top semiconductor companies in terms of the most revenue](https://en.wikipedia.org/wiki/Semiconductor_industry)
 + 
 + 
@@ -149,6 +175,22 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 
 
+
+List(s) of companies in the semiconductor industry:
++ Electronic System Design Alliance (ESD Alliance) members: https://www.semi.org/en/communities/esda/membership-directory
+	- SEMI: http://www.semi.org/en/Membership/MemberDirectory
++ Silicon Integration Initiative, Inc.: https://si2.org/member-directory/
++ Accellera Systems Initiative: https://www.accellera.org/about/members
++ Global Semiconductor Alliance: https://www.gsaglobal.org/membership/
+	- Their membership directory cannot be accessed, unless you are an employee of their member companies.
+	- This is a list of fabless IC design companies.
++ Semiconductor Research Corporation: https://www.src.org/src/member/roster/
++ Semiconductor Industry Association: https://www.semiconductors.org/about/members/
++ MIPI Allliance: https://www.mipi.org/membership/all-member-directory
++ SNIA: https://www.snia.org/member_com/member_directory
++ TechJobsCafe: https://techjobscafe.com/employer_top.php
++ defunct resources:
+	- list from SEMATECH.
 
 
 
@@ -233,7 +275,8 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 	- Network-on-Chip (NoC) is a plus.
 	- Innovative and willing to brake common BKMs methods and flows. 
 + skill set:
-	- BLAH.
+	- Experience in communication protocols (e.g. PCIe)
+	- Experience interfacing with memory systems (e.g. HBM/DDR5)
 + skill set:
 	- BLAH.
 + skill set:
@@ -345,8 +388,28 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Exposure to IoT, Automotive, Mobile or Networking domain 
 	- Experience in using Virtual Prototype tools (Synopsys Virtualizer, Windriver SIMICS etc..)
 	- Experience in using CPU Models: ARM Fast Models, Imperas CPU Models, RISC-V Open Source ISS
-
-
++ skill set:
+	- SoC Architect (Boston, Bay Area, Austin or Remote)
+	- At Lightmatter, we are building chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines. If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work...work like building the world's first optical computers, consider joining the team at Lightmatter!
+	- We are seeking a motivated and dedicated hands-on SoC Architect to help develop an ASIC for our next-generation artificial intelligence computing architecture alongside a team of world-class scientists and engineers.
+	- In this role, you will be defining the architecture components for a ground-breaking AI accelerator with emphasis on delivering a high performance while maintaining a low power consumption. You will be part of a team that integrates our high performance photonics compute core into a custom machine learning accelerator SoC. You will also work closely with our software and analog teams to define and optimize the features needed to accelerate the next generation of machine learning algorithms.
+	- Join a tight-knit team where each individual’s contributions directly influence the success of the company and product. You'll have the opportunity to build a new kind of computer from the ground up and to solve groundbreaking challenges along the way. Work with people who love to build and who thrive in technically diverse environments where great ideas are prioritized.
+	- Define the architecture for Lightmatter's products: Envise and Passage.
+	- Author, review, and validate architectural specifications.
+	- Actively collaborate with the hardware and software teams to perform trade-off analysis between power and performance for AI workloads on the proposed architecture.
+	- With other architects, engage in problem solving and contributing with novel architectural ideas.
+	- MS degree in Computer Science, Computer Engineering, or Electrical Engineering
+	- 8+ years of experience in ASIC architecture with emphasis on low-power design
+	- Ability to lead and collaborate in cross-disciplinary team
+	- Strong teamwork skills with the ability to collaborate with multiple functional teams across a variety of fields
+	- Ability to react to change and thrive in a fast-paced (startup) environment
+	- Experience influencing decisions in a matrix environment
+	- Meaningful deep knowledge of processor design, accelerators, networks, and/or memory hierarchies
+	- Demonstrate strong problem solving skills in problems that do not have obvious solutions
+	- PhD degree in Computer Science, Computer Engineering, or Electrical Engineering
+	- Experience in leading a low-power architecture project from start to commercial volume chip production in an advanced node
+	- Experience in post-silicon measurement with the goal of correlating with pre-silicon power forecast
+	- Demonstrated technical innovations with impact on AI or high-performance computing
 
 
 
@@ -433,6 +496,14 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 + Bus interface knowledge like AXI or PCIE
++ Knowledge of high-speed protocols such as PCI Express, CXL, DDR and HBM, Ethernet, USB, and MIPI
++ Possess a full understanding of PCIe or USB/DP design and design verification.
++ Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
++ skill set:
+	- Understand Standard Specifications/ the functional specifications/ feature enhancements for the product and create micro-architecture and detailed design for some of the components of the Test Environment for the DesignWare family of synthesizable cores in protocol areas such as Ethernet/DSC/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/DDR/PCIe/ USB/ MIPI
+	- Verification of IP Cores or SoC Designs for Set Top Boxes, Mobile handsets, Smart Devices, etc.
+	- Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
+	- Hands on experience with creating detailed design of components of Test Environment from Functional Specifications/ Test Environment Specifications. The TE must have used methodologies such as UVM, OVM
 + skill set:
 	- Associate Staff Engineer- Modem Design
 	- 
@@ -519,7 +590,7 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
-
++ Designs may include interface logic for control, high speed serial busses (PCIe, Aurora, Ethernet), power and control circuits.
 + skill set:
 	- FPGA Engineer
 	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
@@ -720,6 +791,90 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
+##	Skills Sets for Mixed-Signal IC Design
+
+
+Skill sets for mixed-signal IC design:
++ Digital/Mixed Signal HW Design Engineer · Keysight Technologies · United States
+	- As a Digital/Mixed Signal HW Design Engineer in product R&D, you will play a key role in defining and developing Signal Source products, and you will have the opportunity to directly contribute to the success of Keysight. You will work with engineers from diverse areas of expertise to create complete solutions for our customers. The product R&D team is made up of electrical, mechanical, FPGA, firmware, and software engineers, who all work together with our planning and marketing departments to transform designs into final products.
+	- In this position you will be designing, laying out, turning, testing, and troubleshooting hardware. You will work with simulation tools and design tools to implement your ideas, then test and troubleshoot the hardware using state of the art test and measurement equipment. As the leader in test and measurement, all our designs leverage cutting edge technology to make the best possible products for our customers.
+	- Develop, design, simulate, measure, and troubleshoot the boards and modules used to control and manage complex test and measurement systems.
+	- Accomplish design goals through simulation and testing.
+	- May include interface logic for control, high speed serial busses (PCIe, Aurora, Ethernet), power and control circuits.
+	- Specific focus on design and implementation of PXIe based ARB and Digitizer products.
+	- Schematic capture and coordination with board layout resources to produce operational modules.
+	- Assist in instrument architecture decisions with other engineers to select vendors and components and troubleshoot and fix problems.
+	- Collaboration with multi-discipline engineering team (HW, FW, ME, SW).
+	- Work with cross-functional teams to turn concepts into reality.
+	- Solve design problems found in prototypes, pilot units, and production units.
+	- Verification that final designs meet all environmental, regulatory and safety standards.
+	- Collaboration with other functional areas such as marketing and manufacturing.
+	- Document designs including the design goals, the core concepts of the design, the theory of operation, the details of the design, and troubleshooting techniques.
+	- Support the transition of the design to full production and delivery.
+	- BS, MS or PhD in Electrical Engineering or Computer Engineering
+	- Minimum of 3 years of experience of demonstrated experience designing, verifying, and debugging analog and digital circuits.
+	- Strong knowledge of digital hardware design, data conversion and digital signal processing.
+	- An understanding of Analog, RF/uW, and Mixed signal circuit design and power supply distribution concepts.
+	- Understanding of circuit theory, transmission line theory, and high-speed signal fundamentals.
+	- Circuit Design Simulation (LTSpice, Cadence, Hyperlynx, Spice, PSpice).
+	- Experience with CAD/CAE design tools and familiarity with schematic capture and PCB layout tools and techniques.
+	- Printed circuit board design experience including experience with high-speed signal integrity.
+	- Experience with designing for EMC and debugging related issues.
+	- Measurement experience in one or more of the following areas: signal analyzers, signal generators, I/Q modulation and demodulation, phase noise measurements, and vector network analysis.
+	- Background in hands-on debug and validation experience in a lab environment.
+	- Good analytical problem-solving skills.
+	- Ability to work independently and tackle challenging tasks.
+	- Ability to effectively communicate ideas and concepts, both written and verbally.
+	- Willingness to expand skill set.
+	- Able to work in a fast-paced environment with multiple and sometimes conflicting priorities.
+	- This position requires access to technology and/or technical data that is subject to U.S. export controls. You must be a U.S. citizen, lawful permanent resident of the U.S., protected individual under 8 U.S.C. 1324b(a)(3), or eligible to obtain required authorizations from the U.S. Government.
++ skill set:
+	- Sr. Mixed Signal Digital Design Engineer
+	- At Lightmatter, we are building chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines. If you're a collaborative engineer who has a passion for innovation, solving challenging technical problems and doing impactful work - work like building the world's first optical computers, consider joining the team at Lightmatter!
+	- We are seeking motivated Mixed Signal Hardware Design Engineer to help develop our Passage photonics interconnect products for our next-generation artificial intelligence computing architecture alongside a team of world-class scientists and engineers.
+	- In this role, you will be designing the digital components for ground-breaking AI accelerators and photonic interconnects with emphasis on delivering a high performance while maintaining a low power consumption. You will work closely with our photonics and analog teams to design and optimize the features needed to make photonic compute products a reality.
+	- Join a tight-knit team where each individual’s contributions directly influence the success of the company and product. You'll have the opportunity to build a new kind of computer from the ground up and to solve groundbreaking challenges along the way. Work with people who love to build and who thrive in technically diverse environments where great ideas are prioritized.
+	- Develop digital designs for advanced photonic interconnect and photonic compute products.
+	- Create micro-architecture and implement RTL for control of photonic communication and compute technologies within digital designs
+	- Work with analog and photonic architects to define functionality and write specifications
+	- Work with design verification and physical design teams to achieve functionally-correct, low power, performant designs.
+	- 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree in Electrical or Computer Engineering (or related fields)
+	- Experience in digital RTL design in a mixed signal environment
+	- Experience with complex state machines for mixed signal control logic.
+	- System level knowledge of ADCs, DACs or other analog components.
+	- MS degree in Electrical or Computer Engineering (or related fields)
+	- Experience with optical interconnect or compute designs
+	- Experience with SerDes interfaces for direct optical attach
++ skill set:
+	- Senior Analog/Mixed-Signal IC Design Engineer (Boston)
+	- Lightmatter builds chips for artificial intelligence computing. Our architecture leverages the unique properties of light to enable fast and efficient inference and training engines. If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems, and doing impactful work...work like building the world's first optical computers, consider joining the team at Lightmatter!
+	- In this role, you will be a key member of the analog team architecting the world's first photonic computers. This is fundamentally an interdisciplinary team, and outside-the-box thinking is the daily norm. You will need both deep expertise in mixed-signal and analog design and breadth across other engineering disciplines, such as photonics and digital electronics, semiconductor device physics, thermal/packaging, and machine learning. The successful candidate will demonstrate an eagerness to refresh and grow their competency in these areas.
+	- Support micro-architecture development with chip architects by conducting feasibility studies
+	- Collaborate with members of our design engineering teams (system, digital, analog, photonics) to define electrical requirements
+	- Design analog/mixed-signal circuits with a focus on noise such as amplifiers, power conditioning, data converters, bandgap, and more
+	- Document design simulations and verifications towards formal design reviews
+	- Drive block-level floorplan, mask design views, and their reviews
+	- Run post-layout and mixed-signal top-level simulations to validate integration
+	- Define production and bench-level test plans
+	- Validate performances of the circuits in the lab
+	- BS with 8+ years of experience, MS with 6+ years of relevant experience, OR Ph.D. with 3+ years of experience
+	- Semiconductor industry experience in Analog/Mixed-signal IC design
+	- Solid understanding of CMOS device characteristics, noise, mismatch, linearity, and design trade-offs
+	- Experience designing analog blocks such as comparator, op-amp, reference/bias generation, switched-cap
+	- Experience in advanced FinFET process nodes is a plus
+	- Experience with Cadence Design Environment
+	- Experience testing analog circuits in a lab environment
+	- Ability to work collaboratively with people across multiple functional areas
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -737,7 +892,7 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 + Proficiency with EDA tools: FC, DC, ICC2, StarRC, Primetime, ICV, Redhawk, mPower, etc.
 + skill set:
-	- BLAH.
+	- Familiar with scripting or programming (Python, Terraform, etc) with the ability to demonstrate a robust technical background.
 + skill set:
 	- BLAH.
 + skill set:

@@ -67,6 +67,15 @@ DevOps is at the intersection of:
 
 Skill set for DevOps:
 + Experience working with tools like Jenkins, Bamboo, Ansible, SonarQube, Artifactory.
++ Familiar with Docker, Conan, JFrog
++ Knowledge of cloud provider API (programming with AWS IAM, S3, CloudFormation, Lambda, EC2, CodeBuild or the equivalent from Azure, or Google Cloud Platforms)
++ Experience with Redis, Postgres, Elasticsearch
++ skill set:
+	- One or more of the following languages/technologies: Electron, React, three.js, react-three-fiber, Typescript, Javascript, C++ or C#
+	- The following languages/technologies: GraphQL, PostgreSQL, TypeORM, Apollo Server
+	- Modern Development Environment - React, React-three-fiber, Flux, Electron, ZeroMQ, Protobuf, Typescript, Javascript, C#, C++, VSCode, Github, NUnit
+	- Continuous Integration - TeamCity, Chef, Terraform, Kubernetes, Docker, Jenkins
+	- Scrum - JIRA, Google Docs, Metabase, integrated QA
 + skill set:
 	- YAML, or JSON, for customizing configuration files.
 		* JSON files are valid YAML files.
@@ -1089,11 +1098,81 @@ Projects you will be expected to complete in your the first 6 months
 	- Solid knowledge of programming practices, strive to write great code that is reusable, flexible, and reliable.
 	- Strong quality mindset is considered a must: unit testing, performance testing, writing testable
 + skill set:
-	- BLAH.
+	- Hands-on experience in Jenkins, Python, Shell scripts, JSON/XML/YAML, and such
+	- Experience with HCI, virtualization and/or containers. Experience in working (configuring, deploying, managing, and monitoring) with AWS, GCP, and/or Microsoft Azure
+	- Ability to use common DevOps practices and tools for agile development, with security in mind
+	- Experience with Go, Ansible, Terraform, Cloud Formation is a plus
+	- Certifications are a plus:  AWS Solutions Architect, Cloud Security Certification, OpenStack Certification
 + skill set:
-	- BLAH.
+	- Infrastructure Software Engineer
+	- We are changing as the world changes and have evolved into a Geo-agnostic company meaning you work where you are. Exceptional candidates will thrive in asynchronous partnerships and remote collaboration methods. Some roles may require being located near our primary sites, which will be indicated in the job description. We offer a competitive salary & benefits package, numerous quality-of-life perks such as a home office stipend, flexible learning allowance, optional professional coaching and a schedule of fun team activities. 
+	- Groq's Software Infrastructure team maintains a wide array of services and tools cutting across all of Groq Software Engineering (assembler, compiler, systems/runtime, user libraries, and machine learning applications).  Our goal is to accelerate teams with reliable software that is pleasant to use.  We use a myriad of tools and techniques, leaning towards functional programming (FP) languages and paradigms where appropriate.  Constraints and invariants are important tools for us.
+	- Maintain and improve Groq’s custom Nix-based build infrastructure
+	- Develop and maintain management systems for long-lived jobs
+	- Integrate various services, jobs, and builds with industry-standard tools as appropriate
+	- Detect and resolve problems proactively with dashboards, metrics, and alerts
+	- Improve CI and test infrastructure, from unit tests to hardware testing
+	- Maintain and improve the company's cloud infrastructure
+	- Improve developer experience with tools such as static analyzers, linters, documentation editing/generation tools
+	- Strong programming skills covering multiple languages and paradigms, from statically type-checked functional programming to dynamic imperative "scripting"
+	- Relevant experience supporting company infrastructure with quality software:
+		* Polyglot build systems (we use Nix heavily)
+		* Resource management
+		* Configuration management (cloud and collocated)
+		* Job control
+		* Version management
+		* Performance tuning
+		* Logs, analytics, and visualization
+	- Address infrastructure with correct, maintainable, and timely software
+	- Assess and manage risk when employing progressive approaches
+	- Have strong situational awareness of business needs
+	- Communicate effectively for both active collaboration and solo work
+	- Architect, plan, and document strategically to successfully drive longer-term initiatives
+	- Build up the expertise of your peers as you continue building your own
+	- Have empathy for everyone involved with your work, both internal and external to Groq
+	- Below are some of the open source tools we currently build solutions upon.  We’re open to adapt, and we don’t expect you to know everything we use.
+		* ***General purpose build systems: Nix, Make, CMake***
+		* ***Programming languages: Nix, HaskdsCloud services: Google Cloud Platform
+		* Container-based systems: Docker
+		* The national pay range for our technical roles are $100,000-$500,000.
 + skill set:
-	- BLAH.
+	- Infrastructure Software Engineer
+	- Why join Groq? You want to be a part of something groundbreaking, where every day you can see the impact of your work on Groq’s technology and customer solutions.  As a Groqstar, you will join a talent-rich group of problem solvers and doers; in a culture that focuses on team, growth, innovation, and creativity. Simply put, at Groq, we defy gravity. 
+	- We are changing as the world changes and have evolved into a Geo-agnostic company meaning you work where you are. Exceptional candidates will thrive in asynchronous partnerships and remote collaboration methods. Some roles may require being located near our primary sites, which will be indicated in the job description. We offer a competitive salary & benefits package, numerous quality-of-life perks such as a home office stipend, flexible learning allowance, optional professional coaching and a schedule of fun team activities. 
+	- Are you ready to join our crew and help us reimagine machine learning and AI at scale? 
+	- Groq's Software Infrastructure team maintains a wide array of services and tools cutting across all of Groq Software Engineering (assembler, compiler, systems/runtime, user libraries, and machine learning applications).  Our goal is to accelerate teams with reliable software that is pleasant to use.  We use a myriad of tools and techniques, leaning towards functional programming (FP) languages and paradigms where appropriate.  Constraints and invariants are important tools for us.
+	- Maintain and improve Groq’s custom Nix-based build infrastructure
+	- Develop and maintain management systems for long-lived jobs
+	- Integrate various services, jobs, and builds with industry-standard tools as appropriate
+	- Detect and resolve problems proactively with dashboards, metrics, and alerts
+	- Improve CI and test infrastructure, from unit tests to hardware testing
+	- Maintain and improve the company's cloud infrastructure
+	- Improve developer experience with tools such as static analyzers, linters, documentation editing/generation tools
+	- Strong programming skills covering multiple languages and paradigms, from statically type-checked functional programming to dynamic imperative "scripting"
+	- Relevant experience supporting company infrastructure with quality software:
+		* Polyglot build systems (we use Nix heavily)
+		* Resource management
+		* Configuration management (cloud and collocated)
+		* Version management
+		* Performance tuning
+		* Logs, analytics, and visualization
+	- Address infrastructure with correct, maintainable, and timely software
+	- Assess and manage risk when employing progressive approaches
+	- Have strong situational awareness of business needs
+	- Communicate effectively for both active collaboration and solo work
+	- Architect, plan, and document strategically to successfully drive longer-term initiatives
+	- Build up the expertise of your peers as you continue building your own
+	- Have empathy for everyone involved with your work, both internal and external to Groq
+	- Below are some of the open source tools we currently build solutions upon.  We’re open to adapt, and we don’t expect you to know everything we use.
+		* General purpose build systems: Nix, Make, CMake
+		* Programming languages: Nix, Haskell, Python, C/C++
+		* Software packaging and distribution: Deb, RPM, Docker
+		* Continuous integration: GitLab
+		* Metrics and visualization: Grafana
+		* Configuration management: Salt
+		* Cloud services: Google Cloud Platform
+		* Container-based systems: Docker
+	- The national pay range for our technical roles are $100,000-$500,000. The national pay range for our non-technical roles are $90,000-$470,000. Individual compensation will be commensurate with the candidate’s experience aligned with Groq’s internal leveling guidelines and benchmarks.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1166,6 +1245,25 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 
 
 
+
++ skill set:
+	- ArgoCD
+	- AlloyDB / PostgreSQL
+	- Github Actions
+	- Google Cloud Platform
+	- Fluentbit
+	- Kubernetes, Helm & Docker
+	- Meillisearch
+	- Node.js
+	- OpsGenie
+	- Playwright
+	- Redis
+	- Temporal
+	- Traefik
+	- Turbo repo
+	- TypeScript
+	- Vite
+	- Vitest
 + skill set:
 	- Experience monitoring cloud environments using tools like Splunk, VictorOps and Nagios
 	- Knowledge of best practices related to security, performance, and disaster recovery.
