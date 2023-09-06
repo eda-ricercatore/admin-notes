@@ -585,14 +585,43 @@ Notes on cloud computing:
 + skill set:
 	- Solid experience in Scala/Java understanding of Microservices Architecture.
 	- Experience with Amazon Web Services, Spark, Splunk, Docker, Grafana, Prometheus, NGNIX.
++ Cloud Native Computing Foundation, CNCF
+	- Open source contributions to CNCF projects
 + skill set:
-	- BLAH.
+	- Staff Software Engineer II
+	- Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favorite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organizations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can create a central nervous system to innovate and win in a digital-first world.
+	- We’re looking for self-motivated team members who crave a challenge and feel energized to roll up their sleeves and help realize Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+	- As Staff Engineer II of the new Compute Platform, you will be working closely with the team and other key stakeholders to design, architect and build out our secure, multi-tenant, polyglot, Cloud-native Compute substrate to enable new business opportunities across Confluent Cloud (including Connect, kSQLdb, Kafka and more) . As a senior technical leader, you think strategically and you help drive end-to-end technical delivery from customer experience to scaling internal operations. You are not confined to the status quo and you leverage your expertise in Cloud-native, large-scale distributed systems to help take our platform to the next level. You worry about key operational aspects (availability, reliability, performance, monitoring, emergency response, capacity planning, disaster recovery) of our new Compute Platform, and you make sure that we have a highly-available, resilient and secure offering that our largest customers can rely on. If you love the hum of big data systems, thinking about how to make them run as smoothly as possible, and want to have a big influence on the architecture plus operational design points of this new product, then you will fit right in.
+	- Be part of driving the overall technical charter for the new Compute Platform -- including, but not limited to cloud infrastructure, big data systems, and security
+	- Work closely with product management and engineering management to build and drive the overall roadmap for Confluent’s Compute Platform to enable new business opportunities
+	- Deliver high impact to the business by driving important technical initiatives in areas comprising (but not limited to) security, reliability, multi-tenancy, architectural direction, and major component refactor across organizational boundaries
+	- Be as a strong technical leader and representative for engineering across the Connect organization
+	- Lead the team and the product on aspects of product definition, architectural design, and delivery
+	- 10+ years of experience in delivering scalable software solutions
+	- Proven track record of leading the delivery of large-scale, highly available, low latency, high quality systems
+	- Deep hands-on technical expertise in large scale systems engineering or distributed systems
+	- Expertise in Container & Virtualization/Hypervisor technologies (firecracker/gVisor/ cloud-hypervisor/kata-containers, etc.)
+	- Expertise in Cloud Native technologies including networking & security
+	- Experience with Linux kernel technologies (kernel modules, cgroups/namespaces, eBPF, XDP, etc.) a plus
+	- Expertise in Language Runtimes / VMs (JVM/WASM, etc.) a big plus
+	- Experience in driving operational excellence for large, production services
+	- Track record of providing technical leadership and mentorship
+	- Track record of working collaboratively across teams and roles, including but not limited to product management, UX, and other engineering teams and leaders.
+	- A smart, humble, and empathetic attitude
+	- A strong sense of teamwork and are excited about team and company success
+	- Drive and excitement about challenges of a fast-paced, innovative software startup environment
 + skill set:
-	- BLAH.
+	- Experience with technologies like Spring Boot, GraphQL, RDF, Neptune, Kafka, Cassandra, CockroachDB, and Elasticsearch
+	- Experience building event/messaging systems using technologies like Kafka.
 + skill set:
-	- BLAH.
+	- Experience with Pub-Sub (Kafka), Stream Processing (Spark/Flink, etc.)
+	- Expertise in solving large data challenges.
+	- Experience with Cloud Computing platforms (AWS/Azure/GCP).
+	- Background in building financial or payment solutions. Experience in leveraging ML is a plus.
 + skill set:
-	- BLAH.
+	- You have used big data technologies (i.e. Spark/MapReduce/Hadoop, etc.) at one point in your career, and have built web-scale data pipelines.
+	- You have used SQL and reporting tools at one point in your career, and are analytically savvy.
+	- The overall market range for roles in this area of Netflix is typically $310,000 - $1,200,000.
 + skill set:
 	- BLAH.
 + skill set:

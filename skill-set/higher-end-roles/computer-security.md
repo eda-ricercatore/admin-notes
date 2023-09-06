@@ -276,11 +276,25 @@ Roles in computing security:
 	- Ghidra Software Reverse Engineering Framework
 	- Ghidra is a software reverse engineering (SRE) framework: https://github.com/NationalSecurityAgency/ghidra
 + skill set:
-	- BLAH.
+	- This is a hands-on position and provides an opportunity to apply your skills over a wide range of tech stacks, services, and disciplines. Your key partners in this mission will be the internal IT and Information Security teams as well as our CISO. They depend on your insight to ensure that sound security practices are woven into the fabric of the Open Systems landscape.
+	- Control and maintain our internal IT environment to ensure that security policy and best practices are followed
+	- Develop and disseminate security policies to internal stakeholders together with our Information Security teams
+	- Utilize and expand our SIEM / SOAR solutions, and coordinate with internal IT to see that incidents are quickly resolved
+	- Partner with internal team leads during project planning to provide a security assessment of all new infrastructure and service implementations
+	- Collaborate with our CISO and the compliance and legal teams to ensure that Open Systems maintains its target compliance and certification levels
+	- Completed a university or technical school education focusing on IT, security, or computer science (or comparable professional experience) 
+	- A minimum of 7 years' experience working in an IT security/systems/cloud engineer role
+	- Demonstrable experience with SIEM/SOAR platforms (e.g. MS Sentinel, Crowdstrike, Splunk, etc.)
+	- Familiarity with the Azure platform, security toolchain, and best practices
+	- Solid fundamental networking knowledge (full OSI stack)
+	- Familiarity with MDM platforms (e.g. MS InTune, Jamf, N-Able, etc.)
+	- Familiarity with EDR solutions (e.g. MS DFE, CrowdStrike Falcon, etc.)
 + skill set:
-	- BLAH.
+	- Knowledge of network protocols and technologies including TCP/IP, TLS, DNS, and HTTPS 
+	- Knowledge and experience with secure web gateways (e.g. TLS interception, ...) 
 + skill set:
-	- BLAH.
+	- Expertise with authentication protocols like OAuth2, SAML, OpenID, LDAP
+	- Expertise in Cisco AnyConnect / ASA products
 + skill set:
 	- BLAH.
 + skill set:

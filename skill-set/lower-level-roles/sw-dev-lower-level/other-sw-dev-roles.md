@@ -221,6 +221,41 @@ Skills related to software development for enterprise search engines:
 
 
 
+##	Software Development for IT Asset Management, Software Asset Management, and Hardware Asset Management
+
+
+
++ skill set:
+	- Leverage ITAM foundational tools (Flexera, ServiceNow, Zylo, discovery/inventory & endpoint security tools) to track and efficiently manage Nikes rapidly evolving IT environment
+	- Within the ITAM team we rely on a range of SAM (software asset management) and HAM (hardware asset management) tools.
+	- Data engineering experience including working with APIs to query and load data.
+	- Public cloud (AWS/Azure) and Linux administration experience.
+	- Data visualization skills, transforming data into practical insights.
+	- Familiarity with asset management tools like ServiceNow, Flexera, Zylo, CMDB technologies, and discovery tools like Tanium, Crowdstrike, Rapid7, Jamf, SCCM, SolarWinds, Wiz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -367,7 +402,80 @@ Skills related to software development for enterprise search engines:
 	- Ability to work as part of a team, to analyze and synthesize information
 	- Good written & oral communication skills
 	- Fluent in French and English
-
++ skill set:
+	- Highly experienced in building, deploying, testing and rollout packaged Planning solutions such as APO, o9, BlueYonder, etc.
+	- Passionate about coaching and mentoring software developers to deliver timely, high-quality software with a solid understanding of Scrum and Agile principles
+	- Experience working in AWS environment primarily EMR, S3, SNS, SQS, Kinesis, Lambda, ELB, Postgres and Dynamodb
+	- Exposure to GraphQL API implementations
+	- Experience working with NoSQL data stores like DynamoDB
+	- Experience working with relational data stores like MySQL and Oracle
+	- Experience with monitoring and tracing tools like Splunk, SignalFx, or New Relic
+	- Experience with continuous integration (CI), unit testing, static analysis, and automated integration tests (continuous delivery (CD) experience is preferred)
+	- Experience with WM add on solutions like LMS/TMS/Robotics/Slotting/WCS integration, etc. is a huge plus
++ skill set:
+	- hands-on AWS experience; as well as experience in database technology (e.g. Postgres, Redis) and data processing technology (e.g. EMR)
+	- You should also have a demonstrable history of team leadership, value delivery, and working in a product model using Scrum. If selected, you will be encouraged to own projects end-to-end; from conception to operationalization, demonstrating an understanding of the full software development lifecycle. As a result, you'll given the opportunity to provide technical vision and guidance to your teammates; therefore, strong communication skills are critical.
+	- In partnership with the Artificial Intelligence and Machine Learning (AI/ML) team at Nike (including teammates in Portland, Boston, China, and Poland), you’ll be joining a global organization working to tackle machine learning problems at scale. This includes crafting and implementing scalable applications that leverage prediction models and optimization programs to deliver data-driven decisions that result in immense business impact. You will thrive in a close-knit and academic environment where we develop and share new skills, mentor one another, and supply knowledge and software back to the analytics and engineering communities (both within Nike and at large.)
+	- You’ll work closely with the rest of our globally distributed team, along with Commercial and Consumer Analytics, Enterprise Architecture, and Solution Architecture. We value and fuel our strong culture by rewarding collaboration, intellectual curiosity, and creative solutions!
+	- Bachelor’s Degree in Information Technology, Computer Science, Engineering, or other related fields of study; or any combination of relevant equivalent experience, education, and training
+	- 3+ years of professional experience in software engineering, data engineering, machine learning, or related field
+	- Creative problem-solving skills with an analytical approach
+	- Ability to write robust, maintainable, and extendable code in Python
+	- Expertise with cloud architecture and technologies, in particular Amazon Web Services
+	- Expertise with technologies like Spark, Kubernetes, Docker, Jenkins, Hive, and Terraform is highly desirable
+	- Proven expertise with agile development and test driven development
+	- Understanding of data structures, data modeling, and software architecture
++ skill set:
+	- SOFTWARE ENGINEER II
+	- We at Enterprise Services Technology team aim to provide the best-in-class service management capabilities and platform to enable Nike employees and our partners to efficiently get their jobs done and effectively run their business operations.
+	- We’re looking for a Senior ServiceNow Engineer with expertise on the ServiceNow Enterprise Service Management platform.
+	- As a Senior ServiceNow Engineer, you will design, develop, and implement solutions. The candidate needs to have strong technical expertise on ServiceNow platform and possess excellent interpersonal skills to collaborate with lead engineer, technical product owners, business stakeholders and peer team members We look for candidates who are self-motivated, passionate about challenging status quo and demonstrate the drive to deliver value.
+	- If this is you, you’ll be working with Lead engineer, technical product owners, and stakeholders to deliver technical solutions via Agile methodology that solve problems while supporting the long-term health of the ServiceNow platform.
+	- Participating in Scrum cadences – Product backlog grooming, sprint planning, retrospectives, daily stand-ups
+	- As need be, will require working on L3 and deep level platform support related activities requiring troubleshooting and triaging issues and fix code where needed
+	- Developing and maintaining solutions using standard ServiceNow functionality, including but not limited to:
+		* Scripting : Business rules, Client scripts, Script includes
+		* UI policies, Data policies
+		* ACLs
+		* UI actions
+		* Data sources, Transform maps
+		* Flow Designer, Workflows
+		* Form and list configuration with multiple views
+		* Database views
+		* Scheduled jobs
+		* Notifications
+		* Configuring SLAs
+		* Configuring Workspaces
+		* Configuring ServiceNow Chat
+		* Creating Reports and Dashboards
+		* Creating Scripted REST APIs
+		* Activating and upgrading ServiceNow Plugins
+		* Instance Performance troubleshooting and benchmarking
+		* Version upgrades, system patches and cloning
+		* Automation of ServiceNow operations and admin activities
+		* Authoring and maintaining technical documentation
+	- This role will work closely with Lead Engineer to design and develop technical solutions via
+	- Agile methodology that solve problems while supporting the long-term health of the ServiceNow platform. You will be part of a Scrum team and collaborate with Lead Engineer, Scrum Master, Technical Product Owners, Engineers, Test Engineers, and business stakeholders.
+	- Bachelor's degree with 4+ years in an applications development and programming background.
+	- Minimum of 2 years of experience working in the ServiceNow platform, including implementation, administration, configuration, development and customization of core applications in an enterprise environment
+	- ServiceNow Administrator and Developer Certifications
+	- Strong technical and platform knowledge with hands-on experience in root cause analysis and troubleshooting application issues
+	- Strong communication, organization and problem-solving skills and the ability to work across organizational boundaries
+	- Well-versed with ServiceNow engineering best practices.
+	- Thorough understanding of security in the instance
+	- Knowledge of when to use client vs. server (or both) methods for optimizing user experience while still maintaining system performance and data integrity
+	- Knowledge of when it is appropriate to use an OOB plugin vs. custom development.
+	- Knowledgeable on common upgrade issues caused by custom development
+	- Analytical skills to investigate issues, find solutions to problems and improve processes
+	- Working in a team development environment wherein multiple developers utilize the same path-to-prod and release cadence.
+	- Usage of Agile/Scrum methodology to manage development work
+	- Having one or more of the following will be strongly preferred.
+		* Experience in HRSD Module
+		* Experience in CMDB
+		* Experience in Service Portals, Employee Center, Employee Center PRO
+		* Usage of ATF
+		* ServiceNow Certified Implementation Specialist, ServiceNow Application Developer
+		* ITIL certification
 
 
 

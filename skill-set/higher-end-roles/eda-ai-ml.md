@@ -4012,6 +4012,8 @@ Skill sets for application engineers of different EDA products:
 		* Apache Cassandra
 		* Apache Hive
 		* IBM Db2
+		* kSQLdb
+			+ database purpose-built to help developers create stream processing applications on top of Apache Kafka
 		* large-scale databases
 			+ THIN
 		* MariaDB
@@ -4032,6 +4034,8 @@ Skill sets for application engineers of different EDA products:
 			+ open-source SQL toolkit and object-relational mapper, ORM
 		* SQLite
 		* Teradata Vantage
+		* Database change management:
+			+ Debezium: https://debezium.io/
 		* important principles, and properties, to abide by when designing database systems or hardware accelerators for data management (and computation, such as in-memory computing):
 			+ common parallel DBMS architectures
 				- shared memory architecture
@@ -4100,6 +4104,9 @@ Skill sets for application engineers of different EDA products:
 							- dataflow programming
 							- reactive programming
 							- distributed data programming
+						+ solutions:
+							- Kafka: https://kafka.apache.org/
+							- Flink: https://flink.apache.org/
 					* ***static data, or unchanging data***, which does not change
 					* ***unstructured data, or unstructured information***
 						+ has no pre-defined data model
@@ -4728,7 +4735,21 @@ Skill sets for application engineers of different EDA products:
 	- 8) Ability to communicate/collaborate with other researchers/engineers including our team members.
 	- 9) Solid Github/ Kaggle profile is a plus.
 + skill set:
-	- BLAH.
+	- Machine Learning Intern, Research (Fall 2023/Winter 2024)
+	- Applied Machine Learning Research at Netflix improves various aspects of our business, including personalization algorithms, media and content understanding, search, systems optimization, content valuation, tooling for artists, and streaming video optimization. As such, our research spans many Machine Learning areas, including recommender systems, causal inference, reinforcement learning, computer vision, computer graphics, natural language processing, optimization, operations research and systems. Great applied research also requires great Machine Learning infrastructure,  another large area of emphasis at Netflix.
+	- In Fall 2023, Netflix will be hosting a small number of Machine Learning Research internships and Machine Learning Engineering & Infrastructure internships. Applicants are encouraged to express their interest in one or both types of internships.
+	- This internship can be remote. We are seeking individuals who are able to work full-time hours (40 hours a week) for 12 weeks between the fall of 2023 and spring of 2024.
+	- Currently enrolled PhD in the Machine Learning space, preferably specializing in Natural Language Processing. 
+	- Ideally some experience with (controllable) text generation, text generation at scale, or text generation evaluation.
+	- Experience programming in at least one programming language (e.g. Python, Scala, Java or C/C++).
+	- Curious, self-motivated, and excited about solving open-ended challenges at Netflix.
+	- Great communication skills, both oral and written. 
+	- Publications in relevant conferences or journals.
+	- Comfortable with software engineering best practices (e.g. version control, testing, code review, etc.).
+	- You will be sent an Airtable form shortly after you submit your application on our careers site; your application will not be considered complete until you fill out and submit this form.
+	- Include a Resume or CV with complete contact information (email, phone, mailing address) and a list of relevant coursework and publications (if applicable). 
+	- You will be asked to include a short (max one page) statement describing your research experiences and interests, and (optionally) their relevance to Netflix Research. For inspiration, have a look at the Netflix research site. In this statement, please include the approximate dates you might be able to work full-time hours (40 hours a week) for 12 weeks between the fall of 2023 and spring of 2024.
+	- The overall market range for Netflix Internships is typically $40/hour - $110/hour.
 + skill set:
 	- BLAH.
 + skill set:
@@ -6325,11 +6346,62 @@ Skill sets for application engineers of different EDA products:
 	- 6) Architecting or optimizing software libraries for one or more from the list: HPC, OpenCL, CUDNN, BLAS, Eigen, LAPACK, DSP Software Library.
 	- 7) Convolution Neural Networks.
 + skill set:
-	- BLAH.
+	- Machine learning background in Python; experience with PyTorch or TensorFlow and familiarity with combinatorial optimization, two- (or three-) sided marketplaces, or reinforcement learning.
+	- Experience shipping production ML models and designing sophisticated experimentation techniques.
 + skill set:
-	- BLAH.
+	- Software Engineer (L5) - Machine Learning for Studio Media Algorithms
+	- The Studio Media Algorithms team is at the forefront of innovation to enhance and support vision of creators of movies, TV shows and other multimedia work. This team's work is responsible for increasing member value, and driving efficiency of the content creation process, ultimately creating more joy for viewers all over the world. To learn more about the domain, here are some links related to what we do: Creating Media with Machine Learning and Computer Vision Research at Netflix.
+	- We are looking for a  software engineer with experience in the machine learning (ML), computer vision (CV), and/or graphics domain to design and develop scalable systems and infrastructure for that effort. These systems will be used by our researchers to develop CV, graphics, audio, and natural language processing (NLP) algorithms to analyze, create, and transform media assets. 
+	- Design and develop systems and reusable frameworks for the full cycle of machine learning in the multimedia domain, such as data processing, feature extraction, distributed model training with GPUs, and deploying the produced models into production.
+	- Collaborate cross-functionally with research scientists, product managers, as well as creative and business partners and stakeholders, to help define and prioritize system requirements.
+	- Work closely with ML researchers and Studio teams to productize Deep Learning models and efficiently run human-in-the-loop inference tasks.
+	- Participate in algorithm development and propose scalable designs.
+	- Promote and facilitate software engineering best practices in the team.
+	- Experience in software engineering experience in a production setting
+	- Passion for turning ideas into products and improving the user experience
+	- Skills in OO programming (Python, Java, or C++) 
+	- Familiarity with ML, CV, and/or graphics pipelines
+	- Excellent communication and people engagement skills
+	- Experience with large-scale distributed data processing systems and cloud infrastructure
+	- ***Building end-to-end multimedia systems and algorithms***
+	- ***Deep learning frameworks such as PyTorch and Tensorflow***
+	- ***The content creation domain, such as visual effects***
+	- ***Computer graphics and VFX tools and game engines such as Unreal Engine, Unity, Autodesk Maya, or Nuke***
 + skill set:
-	- BLAH.
+	- Staff Machine Learning Engineer (Tech Lead)
+	- As our Machine Learning Tech Lead, you will play a pivotal role in leading a group of talented researchers and engineers in the development of cutting-edge voice analysis models. As our ML expert, you will communicate directly with company leadership on recent findings, strategy, and operational requirements for the success of the ML team. You'll work closely with the software engineering and product teams to ensure the seamless integration of our ML models into production. In addition, you'll collaborate with our clinical team to design data collection strategies and expand our clinically validated datasets.
+	- Kintsugi offers a holistic total rewards package designed to support our employees in all aspects of their life inside and outside of work. The expected base salary for this position will range from $190,000 - $250,000 + Equity. Actual compensation may vary from posted base salary depending on your confirmed job-related skills and experience.
+	- Lead ML team in the technical aspects of core-product development including investigating, planning, executing, evaluating, and reporting on the entire MLOps pipeline from problem definition, data requirements, experimentation, productization, reporting, and monitoring
+	- Be self-directed to work independently in a multidisciplinary team environment
+	- Roll up your sleeves and work alongside team members on portions of projects to ensure the completion of high-priority tasks and critical non-project work
+	- Advise, direct, coach, inspire and review the work of early-career team members on complex projects
+	- Manage the workload, inter-team communication, conflict resolution, and career development of the ML staff
+	- Lead the planning, execution, and retros for the ML team sprints
+	- Build, maintain, and report on the technical roadmap and quarterly OKRs for ML workstreams, milestones, and deliverables in collaboration with the product and software engineering teams.
+	- Create and manage ML project plans, identifying critical paths and resource requirements, including budget allocation
+	- Conduct ongoing research on emerging voice analysis technologies and make recommendations on their applicability within our organization
+	- Stay current with industry advancements by attending seminars, reviewing technical literature, and establishing thought leadership in voice biomarkers
+	- M.S./Ph.D. in Computer Science or a related field with 5+ years of experience building production-grade machine learning models in industry settings
+	- 1+ years of experience leading R&D or ML projects
+	- Strong programming skills in Python with extensive experience with the scientific and deep-learning stack (numpy, pandas, numba, torch, tensorflow, jupyter)
+	- A proven track record of building end-to-end deep-learning models
+	- Experience with ML model efficiency optimization for production deployment
+	- Ambitious team player with strong communication skills (oral and written)
+	- Experience implementing and experimenting with cutting-edge ML techniques from the latest literature
+	- Experience with cloud services (GCP, AWS, Azure) for training, data processing and/or model deployment
+	- Possess excellent interpersonal skills, with the ability to communicate effectively, provide guidance, negotiate, and influence others as needed, while also building strong, productive working relationships in a variety of settings.
+	- Background in speech processing/recognition or audio classification
+	- Experience with experiment tracking and reproducibility tools (MLFlow, WandB, DataBricks, etc)
+	- Experience with sprint management and Agile methodologies
+	- Recent publication(s) in peer-reviewed AI journals
+	- Experience with FDA approvals for a software-as-a-medical device (SaMD)
+	- Empathetic leader and mentor that is driven by the success of their team
+	- Comprehensive multidisciplinary skills for everything from model training to code review to ML research to product documentation, with the ability to adapt to different challenges and collaborate effectively with cross-functional teams
+	- Strategic and agile planner with an eye for MVP
+	- Efficient communication skills with a reliable pattern of providing quick feedback and acknowledgments, along with the ability to complete larger projects within established timelines
+	- Kintsugi is on a mission to scale access to mental healthcare for all. We are developing novel voice biomarker software to detect signs of depression and anxiety from short clips of free form speech. Awarded multiple distinctions for AI technology and recently named one of Forbes’ Top 50 AI companies to watch in 2022 and Fierce 15 in 2023, Kintsugi helps to close mental health care gaps across risk-bearing health systems, ultimately saving time and lives.
+	- At Kintsugi, we believe that mental health is just as important as physical health. We exist to ensure that everyone who needs mental healthcare has access to the right care at the right time. 
+	- We're a female-founded organization, united and driven by our shared passion to revolutionize access to mental healthcare. Our mission is ambitious, and each member of our team wears multiple hats and plays a pivotal role. As an early-stage, Series A startup, we offer exciting growth opportunities and the chance to make a real impact. Join us to embark on a rewarding journey, learning and growing alongside our dedicated team of trailblazers.
 + skill set:
 	- BLAH.
 + skill set:
@@ -6408,11 +6480,67 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Publication experience in the field or related topics.
 	- Experience with model optimization techniques for both training and inference
 + skill set:
-	- BLAH.
+	- Engineering Manager, Data & Feature Infrastructure, Machine Learning Platform
+	- Machine Learning drives innovation across all product functions and decision-support needs. Building highly scalable and differentiated ML infrastructure is key to accelerating this innovation.
+	- We are looking for an experienced engineering leader to lead the Data & Feature Infrastructure team in the Machine Learning Platform org. The ML Platform org is chartered to maximize the business impact of all ML practice at Netflix and innovate on ML infrastructure to support key product functions like personalized recommendations, studio innovations, virtual productions, growth intelligence, and content demand modeling among others.
+	- The Data & Feature Infrastructure team is building a next-generation event-driven ML feature computation platform to significantly up-level productivity of ML practitioners.  This managed infrastructure solution enables ML practitioners to easily write and test feature definitions, while our Platform takes care of the computation, storage, and serving of feature values for both training and low-latency member-scale inference use cases. The team is also innovating on centralized feature/embedding stores to enable dataset sharing across various ML domains across Netflix.
+	- This team is responsible for high-profile projects with great visibility across senior engineering and data science leaders. We are looking for a leader who has ideally been an ML practitioner or led a team of ML practitioners, so they can empathize with the needs of the customer and be a strong advocate for ensuring our customers have a world-class user experience leveraging our ML Platform.
+	- Vision: Understanding the media business and how technology is changing the landscape will allow you to lead your team by providing inspiring context!
+	- Partnership & Culture: Establishing positive partnerships with both business and technical leaders across Netflix will be critical. We want you to regularly demonstrate the Netflix culture values like selflessness, curiosity, context over control, and freedom & responsibility in all your engagements with colleagues.
+	- Judgment: Netflix teams tend to be leaner compared to our peer companies, so you will rely on your judgment to prioritize projects, working closely with your partners - the personalization research leaders.
+	- Technical acumen: We expect leaders at Netflix to be well-versed in their technical domain and be a user of the products we are building, so they can provide guidance for the team when necessary. Proficiency in understanding the needs of research teams and how to bring efficient ML infrastructure to meet those needs will be crucial.
+	- Recruiting: Building and growing a team of outstanding engineers will be your primary responsibility. You will strive to make the team as excellent as it can be, hiring and retaining the best, and providing meaningful timely feedback to those who need it.
+	- Experience leading a team responsible for large-scale ML Infrastructure
+	- Outstanding people skills with high emotional intelligence
+	- Excellent at communicating context, giving and receiving feedback, fostering new ideas, and empowering others without micromanagement
+	- Willing to take action, without being stubborn - the ability to recognize your own mistakes
+	- Your team and partners see your humility all the time and diverse high-caliber talent wants to work with you
+	- ML practitioner leader or individual contributor experience owning end-to-end ML functions for a product domain
+	- Built offerings for ML Researchers, Engineers and/or Data Scientists 
+	- 10+ years of total experience including 3+ years of engineering management
+	- BS/MS in Computer Science, Applied Math, Engineering or a related field
+	- Exposure to modern experimentation and A/B Testing methodologies for consumer-facing applications
+	- Experience building high-scale services on a public cloud like AWS and exposure to Scala and Python
+	- Experience in Flink, Kafka and/or Spark computations
+	- To learn more about our ML Platform, you can take a look at the relevant talks/blog posts on the Netflix ML Platform Research website: https://research.netflix.com/research-area/machine-learning-platform
+	- Netflix is an equal-opportunity employer and strives to build diverse teams from all walks of life. We offer a unique culture of freedom and responsibility with a clear long-term view of our business. The overall market range for roles in this area of Netflix is typically $180,000 - $900,000. This market range is based on total compensation (vs. only base salary), which aligns with our compensation philosophy.
 + skill set:
-	- BLAH.
+	- Engineering Manager, Machine Learning, Member Satisfaction
+	- We are looking for an experienced engineering leader to lead our applied ML research on estimating long-term member satisfaction. As Netflix continues to grow, we are venturing into exciting new frontiers of personalization to help our members find the content they’ll most enjoy. To do this, we have to understand which titles, and what experiences in the product, produce the most joy for each member. 
+	- Your team will be at the forefront of research on causal inference, machine learning, reinforcement learning, and econometrics. You will lead a team of experts in these techniques to understand how members experience titles, and how that changes their long-term assessment of their satisfaction with the Netflix service. In this role you will be responsible for building and leading the team. Your team will be responsible for operating, as well as innovating on these algorithms. You will help select and guide projects from end-to-end: idea to production. You will partner with people from many disciplines, including behavioral scientists, machine learning researchers, and application engineers. 
+	- To be successful in this role, you need a strong machine learning, engineering, and econometrics background, to be data-driven, and have the proven ability to lead multi-disciplinary, cross-functional, teams. You also need to be great at giving and receiving feedback, championing new ideas, empowering others, and balancing the needs of both research and engineering.
+	- Experience building and leading a team of ML researchers and engineers
+	- A track record of leading applications of ML to solve real-world problems
+	- Broad knowledge of causal inference, econometrics, and machine learning
+	- Great interpersonal skills
+	- MS or PhD in Computer Science, Statistics, or a related field
+	- 10+ years of total experience including 5+ years of engineering management
+	- Experience working on high-scale consumer problems.
+	- The overall market range for roles in this area of Netflix is typically $449,000 - $842,000.
 + skill set:
-	- BLAH.
+	- DIRECTOR IN-SEASON AI/ML ENGINEERING (REMOTE ELIGIBLE)
+	- Nike is looking for an experienced Engineering leader who can lead and grow teams of machine learning engineers, data scientists, and software architects to deliver scalable machine learning and advanced analytics solutions to customers across our business. You will work on a variety of complex business problems specifically focused on inventory optimization, demand sensing and forecasting, pricing and markdown, replenishment optimization. You will lead teams testing new hypotheses, productionized and scale ML solutions in the cloud as APIs, stream processing, or extensive batch processing. You will use big data, parallel processing technologies, Artificial Intelligence, machine learning, and deep learning techniques to quantitatively plan product demand, allocate resources, and target the right customers with the best products. You will foster partnerships with best of breed open-source communities, commercial vendors, and universities. Above all, your work will accelerate Nike's core mission of serving Athletes*!
+	- Artificial Intelligence and Machine Learning (AI/ML) is one of the key groups within Enterprise Data and Analytics, and we have been chartered to help scale machine learning across Nike.
+	- One way we do this is by bringing cross-disciplinary teams of data scientists and engineers to areas of the business which are early in their AI journey. For areas of the business which are more mature and already have data science teams, we help scale machine learning by providing squads of engineers to enhance the velocity of those data science teams in delivering value to the business. Our teams work across time zones in the US West, US East, and Europe. Lastly, we work closely with our platform and architecture partners to develop capabilities which help machine learning scale easier at Nike (e.g. model management, A/B testing, feature stores).
+	- Build artificial intelligence and machine learning products that help Nike automatically move inventory throughout the supply chain to get the consumer the right product at the right time.
+	- Develop AI/ML products such as inventory optimization, demand sensing and forecasting, pricing and markdown, replenishment optimization. You will lead teams test new and interesting hypotheses, productionized and scale ML solutions in the cloud as APIs, stream processing, or extensive batch processing.
+	- Build and grow highly skilled, cross-functional engineering teams that deliver solutions unlocking machine learning for Nike. Lead the professional development and career plans for those on your teams, help us develop the technology leaders of tomorrow. Develops and leads team metrics.
+	- Leverage your prior experience, knowledge of industry trends, and personal creativity to develop new and innovative solutions which delight our customers. Given the rapid pace of change in technology and machine learning today, always be pushing the boundary of what’s possible and be on the offense always
+	- Role model clarity and accountability as a leader of Nike. Communicate effectively, build trust and strong relationships across the company, do the right thing
+	- Engage employees meaningfully, assist the teams by removing roadblocks, align efforts across Nike’s matrix to drive progress forward and always win as a team
+	- Partners with Architecture to ensure architectural consistency across solutions
+	- Stays current with industry trends and recommends relevant technologies & products in the areas of Artificial Intelligence & Machine Learning, and Data Science tools and other emerging technologies in the areas of Enterprise Data & AI.
+	- 8 years of experience in developing production grade code in software or data engineering, machine learning or a related field + experience working in an Analytics environment
+	- 3+ years in a management or a leadership role
+	- Must have knowledge and/or experience with technologies such as AWS Sagemaker, Scikit-learn, Dask, Tensorflow, Spark, or similar platforms.
+	- Should be able to communicate with customers each technology and the benefits/tradeoffs of each solution.
+	- Experience in open-source technologies and impact of make/buy decisions in the area of Data Science, AI, & ML.
+	- Experience with MLOps and the lifecycle of model development from notebooks into production.
+	- Experience with cloud deployments, focused on scale, performance and reliability. AWS experience preferred
+	- Strong skills in team leadership and building positive relationships across Product, Architecture, and Engineering, and ability to influence decisions and changes across loosely coupled teams.
+	- Excellent written and oral communication skills to both technical and non-technical audiences.
+	- Experience delivering software working with Agile frameworks, processes, and teams
+	- Bachelor’s Degree in computer science, software engineering, or related field
 + skill set:
 	- BLAH.
 + skill set:
@@ -7373,7 +7501,29 @@ Skills for natural language processing, NLP:
 		* REST APIs
 	- Multiple positions available in Seattle, Washington. Triage software quality issues and user feedback for improvements. Build tooling for automated triaging. Write, debug, and maintain automation tools using tools such as Swift and Python. Program in Swift or Objective C. Write XCTest Unit Tests and XCText UI automation tests. Build command line tools using Python or Swift. Provide reports on statistics around radars. Coordinate internal processes around software triaging and reporting. 40 hours/week.
 + skill set:
-	- BLAH.
+	- Data Scientist (80-100%)
+	- You are passionate about  data processing and NLP, you love working on cloud systems?
+	- Join our enthusiastic team and face the challenge to expand Open Systems unified data platform. As a Data Scientist with focus on Language Models (LM) and Natural Language Processing (NLP) you will be part of the core development team of Open Systems processing structured and unstructured data of more than 6000 devices deployed across the planet. Together with data engineers and product owners you will discuss, shape, specify and implement solutions that ease the operation of more than 6000 devices deployed around the world, and provide intelligent insights into security-relevant data and processes. You will play a pivotal role in developing cutting-edge AI-driven solutions, leveraging the power of language understanding and generation.
+	- You will join one of our small development teams that works with agile methods. The team will rely on you to focus on its goals and efforts as a team player while being able to work independently. At Open Systems we are passionate about what we do. We work in an environment in which innovative solutions, rapid development times, creativity and open communication are practiced and continuously fostered. The pursuit of technical advancement is at the center of our attention. You will be based at our office in Zurich (CH).
+	- Language Model Development: Research, design, and develop advanced language models, including transformer-based architectures like BERT, GPT, and XLNet.
+	- NLP Application: Apply NLP techniques to solve complex business problems, such as sentiment analysis, text classification, named entity recognition, and language translation.
+	- Text Data Preprocessing: Clean, preprocess, and transform unstructured text data into a suitable format for analysis, ensuring data quality and consistency.
+	- LM Fine-tuning: Fine-tune pre-trained language models for specific tasks and domains, optimizing model performance and accuracy.
+	- Data Analysis: Conduct exploratory data analysis (EDA) on text data to uncover patterns, insights, and trends. Collaborate with data engineers to acquire and prepare relevant data.
+	- Model Evaluation: Develop and implement evaluation metrics and techniques to assess the performance of language models and NLP applications.
+	- NLP Algorithms: Research and implement state-of-the-art NLP algorithms and techniques, staying up-to-date with the latest advancements in the field.
+	- Collaboration: Collaborate with cross-functional teams, including data engineers, software engineers, and business analysts, to integrate NLP solutions into our products and services.
+	- Documentation: Maintain comprehensive documentation of LM and NLP models, methodologies, and processes for knowledge sharing within the team.
+	- Proven experience as a Data Scientist with a focus on Language Models and NLP, including experience with transformer models.
+	- Strong programming skills in languages such as Python and familiarity with deep learning frameworks like TensorFlow or PyTorch.
+	- Proficiency in NLP libraries and tools (NLTK, spaCy, Hugging Face Transformers, etc.).
+	- Knowledge of data analysis and visualization tools.
+	- ETH, university or FH degree in Computer Science or equivalent
+	- Fluent in English, German is a plus.
+	- Knowledge of Linux operating systems
+	- Experience with managing Infrastructure as a Service resources of public cloud providers (Azure, AWS, GCP,...) with Terraform.
+	- You have a passion for sustainable software development and you gathered experiences in other technical positions already.
+	- In-depth knowledge and experience of at least one programming language: Python, Go, Scala, Java
 + skill set:
 	- BLAH.
 + skill set:
@@ -8725,7 +8875,19 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- US candidates only: For Colorado based applicants, the minimum base salary range is $122,000 - $171,000 USD + equity + benefits. For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $122,000 - $201,000 USD + equity + benefits.
 	- British Columbia Candidates Only: For British Columbia based applicants, the minimum base salary range is $122,000 - $201,000 CAD + equity + benefits.
 + skill set:
-	- BLAH.
+	- LEAD DATA SCIENTIST
+	- The annual base salary for this position ranges from $112,600.00 in our lowest geographic market to $251,800.00 in our highest geographic market. Actual salary will vary based on a candidate's location, qualifications, skills and experience.
+	- We need an experienced Data Scientist to join our Digital planning and analytics team. You are an extraordinary, driven teammate with a curiosity for all things data, and while you rely on data to prove your point, you love to think creatively to solve problems. You build novel models and algorithms to solve business problems, deliver insights, and drive recommendations. You thrive in an entrepreneurial environment, and you are excited by the challenge of building something from the ground up.  You ask questions, are continually learning as well as finding opportunities to share knowledge with others. You are a strong communicator who is endlessly curious, takes pride in hard work and is committed to rapidly advancing your knowledge and expertise.
+	- As a Data Scientist, you will work with the Digital Supply Chain team to ensure Nike delivers an elevated consumer experience, using data.  You will build demand forecasts for our regional distribution network to inform capacity planning, develop models that optimize inventory placement, simulate SKU velocities to plan new facilities against capacity and inventory constraints, and transform ad hoc analyses into scalable solutions and tools that can provide repeatable insights for the business.  You will share your results and recommendations with a broad and senior audience, inspiring change in the organization by making analytics part of day-to-day business strategy.  You’ll also track model accuracy, ensuring model relevance and reliability.
+	- As a member of Nike’s North America Digital Marketplace Operations team, you will work alongside experienced analytics and supply chain professionals passionate about driving operational efficiency and better serving athletes* digitally. You will be reporting into the North America Digital Marketplace Operations Analytics leader, liaising closely with business strategy, Marketplace Operations, and Logistics (DC & Transportation) teams as well as product squads consisting of senior data scientists and engineers.  You will collaborate with other data scientists across teams to problem solve and share best practices.
+	- 3+ years of relevant professional experience.
+	- Strong ability to solve complex analytical problems and take a new perspective on existing solutions.
+	- Strong understanding of common coding languages (Python, SQL, R) with demonstrated ability to learn new skills or apply skills in new environments.
+	- Strong quantitative and analytics background, with experience in statistical modeling, and visualization.  Exposure to or experience in data engineering preferred.
+	- Deep understanding of solution and technical design.
+	- Demonstrated ability to work well with internal and external customers.
+	- Strong collaboration skills with a demonstrated ability of working well within a team.
+	- Bachelor’s degree in Mathematics, Statistics, or quantitative field; or equivalent combination of education and experience.
 + skill set:
 	- BLAH.
 + skill set:
@@ -9747,9 +9909,64 @@ They support databases for:
 	- Proclivity for automation and DevOps practices and tools such as Git and Terraform.
 	- Broad exposure to at least one cloud platform: AWS, Google, Azure.
 + skill set:
-	- BLAH.
+	- Staff Software Engineer, Data Infrastructure
+	- Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on experienced engineers to help us further our 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.
+	- The Data Infrastructure team’s mission is to provide reliable and scalable data orchestration, ingestion, and processing infrastructure that enables data users at DoorDash to deliver high-quality, trustable, and compliant data. You will report directly into the Data Infrastructure Engineering Manager. You must be located in the Bay Area or Seattle for this hybrid role. 
+	- Build strong cross-functional partnerships across the core data platform, core infra, and core data engineering teams, and drive the roadmap for data orchestration, data ingestion, and egress at DoorDash. 
+	- Lead a team of engineers, guiding and co-pairing to build data platforms at scale. This role will also have access to several Senior Staff and Principal engineers across the Data Platform as they will be interacting with and building integrations for multiple services within the Data Platform org. 
+	- Help accelerate the adoption of the data lake by building near real-time data ingestion and egress framework, enabling self-serve ETL through full abstraction, and driving operational optimizations.
+	- B.S., M.S., or PhD. in Computer Science or equivalent
+	- 8+ years of experience with building data platforms at scale, specifically data orchestration and data ingestion platforms 
+	- Experience leading xfn collaboration with partner teams, working with high levels of ambiguity, identifying opportunities, influencing roadmaps, and executing joint goals
+		* ***xfn***: Cross-functional team
+	- Prior experience in building open-sourced base data platforms such as Airflow, Spark, Kafka, Flink, & Debezium
+		* Airflow
+		* Spark
+		* Kafka
+			+ https://kafka.apache.org/
+				- Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+			+ https://en.wikipedia.org/wiki/Apache_Kafka
+				- Apache Kafka is a distributed event store and stream-processing platform. It is an open-source system developed by the Apache Software Foundation written in Java and Scala. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect, and provides the Kafka Streams libraries for stream processing applications. 
+			+ https://www.confluent.io/what-is-apache-kafka/
+				- Apache Kafka is an open-source distributed streaming system used for stream processing, real-time data pipelines, and data integration at scale. Originally created to handle real-time data feeds at LinkedIn in 2011, Kafka quickly evolved from messaging queue to a full-fledged event streaming platform capable of handling over 1 million messages per second, or trillions of messages per day.
+		* Flink
+			+ https://en.wikipedia.org/wiki/Apache_Flink
+				- Apache Flink is an open-source, unified stream-processing and batch-processing framework developed by the Apache Software Foundation. The core of Apache Flink is a distributed streaming data-flow engine written in Java and Scala.[3][4] Flink executes arbitrary dataflow programs in a data-parallel and pipelined (hence task parallel) manner.[5] Flink's pipelined runtime system enables the execution of bulk/batch and stream processing programs.[6][7] Furthermore, Flink's runtime supports the execution of iterative algorithms natively.
+			+ https://flink.apache.org/
+				- Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+			+ https://docs.bentoml.org/en/latest/integrations/flink.html
+		* Debezium
+			+ https://debezium.io/
+				- Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
+			+ https://github.com/debezium/debezium
+				- Change data capture for a variety of databases.
+				- Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC). You setup and configure Debezium to monitor your databases, and then your applications consume events for each row-level change made to the database. Only committed changes are visible, so your application doesn't have to worry about transactions or changes that are rolled back. Debezium provides a single model of all change events, so your application does not have to worry about the intricacies of each kind of database management system. Additionally, since Debezium records the history of data changes in durable, replicated logs, your application can be stopped and restarted at any time, and it will be able to consume all of the events it missed while it was not running, ensuring that all events are processed correctly and completely.
+			+ https://hub.docker.com/r/debezium/connect
+	- In-depth understanding of Big Data space 
+	- Engage with or contribute to Big Data/ML-related open-source projects
+	- Expertise with an open table format such as delta lake
 + skill set:
-	- BLAH.
+	- Senior Data Engineer (80-100% Zurich Hybrid)
+	- You are passionate about  data architecture and integration, you love working on cloud systems? This job is for you:
+	- Join our enthusiastic team and face the challenge to expand Open Systems unified data platform. As a Senior Data Engineer you will be part of the core development team of Open Systems processing structured and unstructured data of more than 6000 devices deployed across the planet. Together with data scientists and product owners you will discuss, shape, specify and implement solutions that ease the operation of more than 6000 devices deployed around the world, and provide intelligent insights into security-relevant data and processes.
+	- You will join one of our small development teams that works with agile methods. The team will rely on you to focus on its goals and efforts as a team player while being able to work independently. At Open Systems we are passionate about what we do. We work in an environment in which innovative solutions, rapid development times, creativity and open communication are practiced and continuously fostered. The pursuit of technical advancement is at the center of our attention. You will be based at our office in Zurich (CH).
+	- Data Architecture: Lead the design and development of complex data architectures and solutions to meet the evolving needs of the organization.
+	- Data Integration: Lead efforts to integrate data from various sources, including APIs, databases, and external providers, into a unified and robust data ecosystem.
+	- Microservices and Kubernetes: Architect, implement, and manage microservices-based applications in Kubernetes, ensuring scalability, reliability, and high availability.
+	- Database Management: Take ownership of database management, including performance tuning, security, and scalability. Proficiency in both SQL and NoSQL databases is essential.
+	- Data Governance: Establish and enforce data governance practices, ensuring data security, privacy, and compliance with industry regulations.
+	- Monitoring and Optimization: Proactively monitor data pipelines and microservices, identify bottlenecks or issues, and implement optimizations for cost-efficiency and performance improvement.
+	- Mentorship: Provide guidance and mentorship to junior data engineers, sharing best practices and promoting professional growth within the team.
+	- You are experienced with Big Data topics, cloud infrastructure and distributed systems.
+	- Knowledge with some of the following technologies from a previous job: Kafka, ELK stack, RDBMS, NoSQL, DevOps practises or Kubernetes
+	- Experience with managing Infrastructure as a Service resources of public cloud providers (Azure, AWS, GCP,...) with Terraform.
+	- You have a passion for sustainable software development and you gathered experiences in other technical positions already.
+	- In-depth knowledge and experience of at least one programming language: Python, Go, Scala, Java
+	- ETH, university or FH degree in Computer Science or equivalent
+	- Fluent in English, German is a plus.
+	- Knowledge of Linux operating systems
+	- Understanding networking in general and the major internet protocols
+	- Knowledge of network security concepts and practices
 + skill set:
 	- BLAH.
 + skill set:
@@ -10662,7 +10879,31 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 
 
++ DoorDash Labs
++ Netflix Research
+	- https://research.netflix.com/
+	- Machine Learning
+		* As the world’s leading Internet television network with over 160 million members in over 190 countries, our members enjoy hundreds of millions of hours of content per day, including original series, documentaries and feature films. We invest heavily in machine learning to continually improve our member experience and optimize the Netflix service end-to-end. As researchers, we innovate using machine learning in many areas where we prototype, design, implement, evaluate, and productionize models and algorithms through both offline experiments and online A/B testing.
+		* Machine learning impacts many exciting areas throughout our company. Historically, personalization has been the most well-known area, where machine learning powers our recommendation algorithms. We’re also using machine learning to help shape our catalog of movies and TV shows by learning characteristics that make content successful. We use it to optimize the production of original movies and TV shows in Netflix’s rapidly growing studio. Machine learning also enables us to optimize video and audio encoding, adaptive bitrate selection, and our in-house Content Delivery Network that accounts for more than a third of North American internet traffic. It also powers our advertising spend, channel mix, and advertising creative so that we can find new members who will enjoy Netflix.
+		* Using machine learning pervasively across Netflix brings many new challenges where we need to push forward the state-of-the-art. This means coming up with new ideas and testing them out, be it new models and algorithms or improvements to existing ones, better metrics or evaluation methodologies, and addressing the challenges of scale. Our research spans many different algorithmic approaches including causal modeling, bandits, reinforcement learning, ensembles, neural networks, probabilistic graphical models, and matrix factorization.
+	- Machine Learning Platform: https://research.netflix.com/research-area/machine-learning-platform
+		* Accelerating and Democratizing Machine Learning Innovation
+		* In practice, large-scale applied Machine Learning (ML) requires substantial infrastructure and systems engineering investment. Although we’re most well-known for early work in personalized recommendations, the sophistication and breadth of ML algorithms and applications at Netflix have grown substantially over the last few years. Today our main challenge is to scale machine learning in heterogeneous language environments across several domains and at all stages of a project’s lifecycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment.
+		* We need to do this at the scale of hundreds of millions of global streaming members, whose viewing habits, preferences, and contexts change over time. Content, studio, and marketing applications, which are being reimagined with machine learning, bring their own unique platform requirements. To meet these business and research needs, we need to innovate on the platform infrastructure itself, such that we are able to carefully orchestrate a continuous cycle of learning, inference, and observation while also maintaining high system reliability. Our journey continues as we seek to find new ways to scale with our member base as well as the ever-growing need for ML at Netflix.
 + Toyota Research Institute, TRI
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

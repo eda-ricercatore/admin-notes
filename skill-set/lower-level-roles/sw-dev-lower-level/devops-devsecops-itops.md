@@ -1174,9 +1174,24 @@ Projects you will be expected to complete in your the first 6 months
 		* Container-based systems: Docker
 	- The national pay range for our technical roles are $100,000-$500,000. The national pay range for our non-technical roles are $90,000-$470,000. Individual compensation will be commensurate with the candidate’s experience aligned with Groq’s internal leveling guidelines and benchmarks.
 + skill set:
-	- BLAH.
+	- Hands-on experience with container orchestration and automation in cloud architectures (Kubernetes, Helm)
+	- Experience with modern observability principles, stacks and tools like Grafana, Prometheus, Thanos, Alertmanager
+	- Knowledge in GitOps principles and CI/CD tooling
+	- Experience with infrastructure-as-code tools such as Terraform
+	- Worked with at least one public cloud provider (Azure, GCP, AWS, ...) already
+	- Knowledge of Linux system administration, networking concepts and major Internet protocols (TCP/IP, IPsec, SSL, SSH, SMTP, HTTPS, DNS)
+	- Experience with services meshes (e.g. Istio)
+	- Knowledgeable in different database technologies (SQL, time series, NoSQL) 
+	- Practical knowledge of modern programming languages (Java, Golang)
+	- Scripting and automation skills using languages such as Python, Perl, Bash
 + skill set:
-	- BLAH.
+	- Practical experience with cloud and containerisation environments (Kubernetes, Helm, Argocd, Terraform)
+	- Knowledge of networking technologies and protocols (e.g. dynamic routing, firewalling, TCP/IP, ...)
+	- Experience with the Linux Netfilter framework
++ Familiarity with GitOps, Terraform, Kubernetes, Prometheus, as well as major clouds (Azure, AWS, GCP...)
++ skill set:
+	- Experience with orchestration and build systems, such as Kubernetes, OpenShift, or Bazel.
+	- Join a team of passionate developers working with modern web development technologies: Java, Spring, Typescript, React, Cypress, next.js, Kubernetes, Bazel.
 + skill set:
 	- BLAH.
 + skill set:

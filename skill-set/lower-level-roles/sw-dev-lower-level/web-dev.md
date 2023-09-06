@@ -787,7 +787,19 @@ reactive programming = asynchronous dataflow programming
 	- Familiarity with unit testing, integration testing and performance/stress testing
 	- Application observability with Micrometer, Prometheus, Graphana, etc. desired.
 + skill set:
-	- BLAH.
+	- Java;
+	- Node JS;
+	- JSP, Servlet, HTML;
+	- RESTful web service;
+	- JQuery;
+	- Tomcat;
+	- Springboot;
+	- New Relic;
+	- Git, ANT, MVN, Jenkins;
+	- Puppet;
+	- Docker;
+	- Amazon EC2; and
+	- Ruby on rails.
 + skill set:
 	- BLAH.
 + skill set:
