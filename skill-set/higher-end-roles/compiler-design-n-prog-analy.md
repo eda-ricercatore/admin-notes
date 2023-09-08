@@ -381,6 +381,30 @@ Skill set for compiler design:
 	- 9) Experience with the parallel programming domain OpenMP is a plus.
 	- 10) Experience in parallel computing domains like (multi-core, GPGPU, SIMD, MIMD etc) is a plus.
 + skill set:
+	- Flex-Logix Inference Software team is looking for Inference Software Compiler Engineers to be a part of its excellent team responsible for the Infer-X Model Compiler. The compiler generates Verilog Code for the Flex-Logix eFPGA platform which controls the nnMAX/TPU computation blocks and memory connections. This is an exceptional opportunity to develop the technology that breathes life into AI inferencing solutions targeting systems in medical, industrial, automotive and other Enterprise edge applications.
+	- In this role, you will be responsible for developing highly optimized libraries fundamental to the operation of the AI accelerator.  You'll be working with multiple software teams, deep learning scientists, and hardware designers, to implement the features needed to accelerate the next generation of machine learning algorithms.
+	- If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work you need to join the team at Flex Logix!
+	- Collaborate with the applications, softlogic, architecture, and compiler teams to determine low-latency, high-throughput schemes for executing neural networks on our ML accelerator.
+	- Understand low level operator/algorithm implementation and develop APIs to invoke individual operators at the graph level.
+	- Make minor modifications to operator/algorithm implementations.
+	- Devise unit tests for new deep learning models.
+	- Evaluate the performance of the neural network on silicon.
+	- Design and develop supporting libraries that run some neural network operators on CPUs.
+	- Diagnose and fix performance and integration issues across the software stack using simulators and hardware.
+	- BS or higher in computer/software engineering, electrical engineering, or related field.
+	- 2+ years commercial development or equivalent hands-on experience.
+	- Highly proficient in C/C++.
+	- Strong mastery of data structures and algorithms, especially graph data structures.
+	- Experience developing and/or analyzing algorithms.
+	- Experience with modern C++ (e.g. C++17). 
+	- Ability to prototype complex systems with scripting languages such as Python.
+	- An ability to learn rapidly in order to solve complex problems.
+	- Proficient at using objective oriented programming (OOP) design principles.
+	- Experience with design or verification of digital systems using verilog or RTL.
+	- Experience writing applications for SIMD processors or accelerators like GPUs or FPGAs.
+	- Strong understanding of computer architecture.
+	- Familiarity with analyzing machine learning networks using a Deep Learning framework (e.g. Pytorch, Tensorflow, etc.).
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

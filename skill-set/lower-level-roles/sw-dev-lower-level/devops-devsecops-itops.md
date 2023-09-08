@@ -1411,6 +1411,20 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Familiarity with the UNIX command line
 	- Prior experience in a similar Site Reliability Engineering (SRE), DevOps, distributed computing, systems engineering/administration, or related function.
 + skill set:
+	- Site Reliability Engineer
+	- Responsible for building, tuning and operating the entire infrastructure that powers Abacus.AI's multi-cloud SaaS products. We have a modern technology stack built on Kubernetes, Spark, TensorFlow, Python, Go, Mysql & Redis
+	- Requirements:
+		* BS or MS from a top notch CS programs
+		* 2+ years professional experience in hands-on engineering roles including operating production environments in public clouds: AWS, GCP, Azure
+		* Strong Linux/Unix systems fundamentals
+		* Python programming experience in production environments
+		* Experience with modern cloud environments: containerization, infrastructure-as-code, devops, CI/CD pipelines and automation
+	- Preferred:
+		* Operating Kubernetes clusters
+		* Experience with ML Ops: Spark, TensorFlow, GPUs
+		* Experience with Terraform
+		* Hands-on experience with network security, databases systems
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1465,7 +1479,30 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 
 
 
-
++ skill set:
+	- Dev Sec Ops Manager (IT)
+	- At Edge Impulse we are building the future of data-driven engineering.
+	- This is a unique opportunity to join us as we usher in the future of embedded machine learning by empowering developers to create and optimize solutions with real-world data. Our teams make the process of building, deploying, and scaling embedded ML applications easier and faster than ever, unlocking massive value across every industry, with millions of developers making billions of devices smarter.
+	- We are growing! This is an opportunity to lead and directly contribute to the development and evolution of IT and Security operations (a 1st-of-its-kind role at Edge Impulse).
+	- Provision and enable users with appropriate access and accelerate their timeline to full productivity with key IT and Security tools and processes
+	- Maintain company systems and tools estate
+	- Manage and maintain company compliance and security processes including SOC 2 Type I/II working proactively and closely with stakeholders across the company
+	- Be 1st point of contact for completing customer, partner and vendor security inquiries
+	- Proactively identify processes and/or tools that enhance user experience and productivity across the organization
+	- A minimum of three years of experience managing system uptime and performance in a cloud-native enterprise company (more experience preferred)
+	- Experience managing and working across the organization to maintain SOC 2 Type I/II compliance
+	- Demonstrated experience building and maintaining relationships with key stakeholders across an organization
+	- Scripting and system automation necessary - - some interest in SRE is a plus
+	- Experience implementing and/or maintaining OneTrust, Drata and/or Vanta a plus
+	- Deep experience with enterprise tools such as: 
+	- Mac laptop shop
+	- MDM solutions - e.g. Kandji, Jamf
+	- Anti-virus tooling - e.g. Cortex XDR, Carbon Black 
+	- Logging tools - e.g. Splunk, Datadog
+	- Google Workspace, Slack and other enterprise-wide systems
+	- SSO - e.g. OKTA, JumpCloud, OneLogin
+	- Engineering tools - eg. Github, AWS
+	- Bachelor degree in computer science, management information systems or a related field preferred
 + skill set:
 	- Senior Client Platform Engineer
 	- Ready to shake things up? Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and strive to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most significantly to each other’s success. We continue to be on a tear while enjoying incredible growth year over year.

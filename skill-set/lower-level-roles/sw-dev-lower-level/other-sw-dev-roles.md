@@ -476,8 +476,21 @@ Skills related to software development for enterprise search engines:
 		* Usage of ATF
 		* ServiceNow Certified Implementation Specialist, ServiceNow Application Developer
 		* ITIL certification
-
-
++ skill set:
+	- Make our flagship languages feature-complete (packager integration, debugger, LSP)
+	- Keep languages up-to-date
+	- Add new languages as soon as there is community interest
+	- Create templates for common needs
+	- Built or contributed to developer tools
+	- Self-directed and comfortable working autonomously
+	- Appreciation for simplicity and pragmatism
+	- Experience building Platform/Infrastructure/Runtime as a Service
+	- Experience with NixOS or the Nix ecosystem
+	- Managed a public-facing project
++ Experience with Jira, JSON, YAML and Confluence
+	- Jira (software), a bug-tracking, issue-tracking and project-management software application
+	- YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language (XML) but has a minimal syntax which intentionally differs from Standard Generalized Markup Language (SGML).
+	- Confluence is a web-based corporate wiki developed by Australian software company Atlassian.
 
 
 

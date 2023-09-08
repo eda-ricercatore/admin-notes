@@ -322,6 +322,16 @@ Sets of skills for autonomous road vehicles:
 	- Experience with sensors: cameras, lidars, ultrasonic, etc.
 	- Computer vision experience, image processing experience
 + skill set:
+	- As a core member of our engineering team, the State Estimation Engineer will derive and implement novel real-time pose estimation algorithms. You will need to drive R&D to then execute algorithms to solve large-scale mapping. You will closely collaborate with other engineers to develop algorithms for in-situ and in-factory multi-sensor calibration. Familiarity with multiple sensors such as GPS, IMU, camera, and wheel odometry needed. 
+	- MS or PhD in Robotics, Machine Learning, Computer Science, Electrical Engineering or a related field
+	- Intuitive understanding of classical ML, Linear Algebra, Stochastic Processes, Geometric Computer Vision and Optimization (Convex, Nonlinear)
+	- Deep experience in one or more areas: Kalman Filter and its variants, MAP, Sequential Monte Carlo (particle filter), Nonlinear Least squares, IRLS or MHT
+	- Strong C++ programming and software design skills
+	- Familiarity with multiple sensors such as GPS, IMU, camera, and wheel odometry
+	- Experience deploying an estimator for say SLAM/VIO in a real application
+	- Understanding of numerical stability, sensor modeling and system/noise identification
+	- Understanding of theoretical shortcomings in modern algorithms and how to overcome them
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

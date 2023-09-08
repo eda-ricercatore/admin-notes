@@ -6,6 +6,579 @@
 
 
 
+###	Skills From TensorFlow Survey
+
+
+
+Languages and frameworks:
++ Kotlin
+	- Google's preferred language for Android app development.
++ Java
++ C++/C
++ Ionic
+	- open source mobile UI toolkit
++ React Native
+	- React Native is an open-source UI software framework created by Meta Platforms, Inc. 
++ Go
++ Python
++ Flutter
+	- Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+	- Flutter is an open-source UI software development kit created by Google.
++ Unreal Engine
+	- real-time 3D creation tool
++ Compose
+	- Compose is a tool for defining and running multi-container Docker applications. 
++ Cordova
+	- Apache Cordova (formerly PhoneGap) is a mobile application development framework
+	- Mobile apps with HTML, CSS & JS
++ Xamarin
+	- open-source mobile app platform for .NET
++ Swift
+	- programming language for all Apple platforms
+
+
+
+
+
+
+
+
+
+
+Priorities for mobile-specific generative AI
++ user data privacy
++ safety and privacy
++ protection against model privacy
++ reduction of model binary size
++ model performance
++ hardware acceleration support
++ model output quality
+
+
+
+
+
+
+Types of models for deploying generative AI in mobile apps:
++ train and deploy own models
++ combination of own/custom models and foundation models
++ fine-tune foundation models
++ use pre-trained foundation models
+
+
+
+
+Machine learning frameworks:
++ GGML/LLaMA.app
++ CoreML
++ PyTorch / PyTorch Mobile
++ TensorFlow / TensorFlow Lite
+
+
+
+Edge computing and fog computing motivations:
++ personalization
++ access to on-device specific data
++ latency
++ privacy, data stays on device
++ offline availability
++ inference cost
+
+
+
+Sources for generative AI models, tools, and resources:
++ Microsoft Azure
++ Sensei ML from Adobe
++ Meta AI open source
++ Kaggle
++ AWS SageMaker
++ GitHub
++ Hugging Face
++ Vertex AI by Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Skills Mentioned in the 2023 Stack Overflow Developer Survey
+
+
+
+Programming, scripting, and markup languages:
++ JavaScript
++ HTML/CSS
++ Python
++ SQL
++ TypeScript
++ Bash/Shell (all shells)
++ Java
++ C\#
++ C++
++ C
++ PHP
++ PowerShell
++ Go
++ Rust
++ Kotlin
++ Ruby
++ Lua
++ Dart
++ Assembly
++ Swift
++ R
++ Visual Basic (.Net)
++ MATLAB
++ VBA
++ Groovy
++ Delphi
++ Scala
++ Perl
++ ***Elixir***
++ Objective-C
++ Haskell
++ GDScript
++ Lisp
++ Solidity
++ Clojure
++ Julia
++ Erlang
++ F#
++ Fortran
++ Prolog
++ ***Zig***
++ Ada
++ OCaml
++ Apex
++ Cobol
++ SAS
++ Crystal
++ Nim
++ APL
++ Flow
+	- compare with TypeScript, not the old programming language
++ Raku
++ ***Carbon***
+	- interoperable with C++
+
+
+
+
+
+
+
+Databases:
++ PostgreSQL
++ MySQL
++ SQLite
++ MongoDB
++ Microsoft SQL Server
++ Redis
++ MariaDB
++ Elasticsearch
++ Oracle
++ Dynamodb
++ Firebase Realtime Database
++ Cloud Firestone
++ BigQuery
++ Microsoft Access
++ H2
++ Cosmos DB
++ Supabase
++ InfluxDB
++ Cassandra
++ Snowflake
++ Neo4J
++ IBM DB2
++ Solr
++ Firebird
++ Couch DB
++ Clickhouse
++ Cockroachdb
++ Couchbase
++ DuckDB
++ Datomic
++ RavenDB
++ TiDB
++ Cassandra
+
+
+
+
+
+Cloud platforms:
++ Amazon Web Services, AWS
++ Microsoft Azure
++ Google Cloud
++ Firebase
++ Cloudflare
++ Digital Ocean
++ Heroku
++ Vercel
++ Netlify
++ VMware
++ Hetzner
++ Linode, now Akamai
++ Managed Hosting
++ OVH
++ Oracle Cloud Infrastructure, OCI
++ OpenShift
++ Flyo.io
++ Vultr
++ Render
++ OpenStack
++ IBM Cloud, or Watson
++ Scaleway
++ Colocation
+
+
+
+
+
+
+
+Web frameworks and technologies:
++ Node.js
++ React
++ jQuery
++ Express
++ Angular
++ Next.js
++ ASP.NET CORE
++ Vue.js
++ WordPress
++ ASP.NET
++ Flask
++ Spring Boot
++ Django
++ Laravel
++ FastAPI
++ AngularJS
++ Svelte
++ Ruby on Rails
++ NestJS
++ Blazor
++ Nuxt.js
++ Symfony
++ Deno
++ Gatsby
++ Fastify
++ Phoenix
++ Drupal
++ CodeIgniter
++ Solid.js
++ Remix
++ Elm
++ Play Framework
++ Lit
++ Qwik
+
+
+
+
+
+
+
+
+Other frameworks and libraries:
++ .NET (5+)
++ NumPy
++ Pandas
++ .NET Framework (1.0 - 4.8)
++ Spring Framework
++ RabbitMQ
++ TensorFlow
++ Scikit-Learn
++ Flutter
++ Apache Kafka
++ Torch/PyTorch
++ React Native
++ OpenCV
++ Electron
++ OpenGL
++ Qt
++ CUDA
++ Keras
++ Apache Spark
++ SwiftUI
++ Xamarin
++ Ionic
++ Hugging Face Transformers
++ GTK
++ Cordova
++ .NET MAUI
++ Hadoop
++ Tauri
++ Capacitor
++ Tidyverse
++ Quarkus
++ Ktor
++ MFC
++ ***JAX***
++ Micronaut
++ Uno Platform
+
+
+***Determine which of the above frameworks and libraries are related to machine learning and data science, and learn to use them all.***
+
+
+
+
+
+
+
+
+Other tools:
++ Docker
++ npm
++ Pip
++ Homebrew
++ Yarn
++ Webpack
++ Make
++ Kubernetes
++ NuGet
++ Maven (build tool)
++ Gradle
++ Vite
++ Visual Studio Solution
++ CMake
++ Cargo
++ GNU GCC
++ Terraform
++ MSBuild
++ Ansible
++ Chocolatey
++ Composer
++ LLVM's Clang
++ APT
++ Unity 3D
++ Pacman
++ pnpm
++ Podman
++ Ninja
++ Unreal Engine
++ Godot
++ Ant
++ ***Google Test***
++ Nix
++ Meson
++ QMake
++ Puppet
++ Dagger
++ Chef
++ Catch2
++ Pulumi
++ Bun
++ Wasmer
++ doctest
++ SCons
++ bandit
++ cppunit
++ Boost.Test
++ build2
++ tunit
++ lest
++ snitch
++ CUTE
++ ELFspy
++ liblittletest
+
+
+
+
+
+
+
+Integrated development environment:
++ Visual Studio Code
++ Visual Studio
++ IntelliJ IDEA
++ Notepad++
++ Vim
++ Android Studio
++ PyCharm
++ Jupyter Notebook/JupyterLab
++ Sublime Text
++ Neovim
++ Eclipse
++ Xcode
++ Nano
++ Webstorm
++ PhpStorm
++ Atom
++ Rider
++ DataGrip
++ CLion
++ Ipython
++ Emacs
++ VSCodium
++ Goland
++ Netbeans
++ RStudio
++ Code::Blocks
++ Qt Creator
++ Rad Studio (Delphi, C++ Builder)
++ Fleet
++ Helix
++ Kate
++ Spyder
++ RubyMine
++ Geany
++ BBEdit
++ TextMate
++ Micro
++ Nova
++ condo
+
+
+
+
+
+
+
+
+Asynchronous tools:
++ Jira
++ Confluence
++ Markdown File
++ Trello
++ Notion
++ GitHub Discussions
++ Azure Devops
++ Miro
++ Wikis
++ Asana
++ Clickup
++ Doxygen
++ Redmine
++ Monday.com
++ Stack Overflow for Teams
++ YouTrack
++ Microsoft Planner
++ Airtable
++ Linear
++ Basecamp
++ Microsoft Lists
++ Smartsheet
++ Shortcut
++ Wrike
++ Adobe Workfront
++ Redocly
++ Document360
++ Nuclino
++ Swit
++ Dingtalk (Teambition)
++ Tettra
++ Workzone
++ Planview Projectplace or Clarizen
++ Wimi
++ Cerri
++ Leankor
+
+
+
+
+
+
+
+
+
+
+Synchronous tools:
++ Microsoft Teams
++ Slack
++ Zoom
++ Discord
++ Google Meet
++ Whatsapp
++ Telegram
++ Skype
++ Signal
++ Google Chat
++ Cisco Webex Teams
++ Mattermost
++ Jitsi
++ Matrix
++ IRC
++ Rocketchat
++ Zulip
++ Ringcentral
++ Symphony
++ Wire
++ Wickr
++ Unify Circuit
++ Coolfire Core
+
+
+
+
+
+
+
+AI Search Tools:
++ ChatGPT
++ Bing AI
++ WolframAlpha
++ Google Bard AI
++ Phind
++ You.com
++ Perplexity AI
++ Quora Poe
++ Neeva AI
++ Andi
++ Metaphor
+
+
+
+
+
+AI Developer Tools:
++ GitHub Copilot
++ Tabnine
++ AWS CodeWhisperer
++ Synk Code
++ Codeium
++ Whispr AI
++ Replit Ghostwriter
++ Mintlify
++ Adrenaline
++ Rubber Duck.AI
+
+
+
+
+AI in the development workflow:
++ writing code
++ debugging and getting help
++ documenting code
++ learning about a codebase
++ testing code
++ project planning
++ committing and reviewing code
++ deployment and monitoring
++ collaborating with teammates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Skills Mentioned in the 2022 Stack Overflow Developer Survey
 
 
@@ -395,6 +968,15 @@ Programming languages, frameworks and tools:
 ###	Skills Mentioned in the 2022 Kaggle Machine Learning and Data Science Survey
 
 
++ https://www.kaggle.com/c/kaggle-survey-2022
++ https://www.kaggle.com/kaggle-survey-2022
++ https://www.kaggle.com/competitions/2023-kaggle-ai-report
+
+
+
+
+
+
 Educational platforms for data science courses:
 + Coursera
 + cloud-certification programs, direct from:
@@ -748,6 +1330,116 @@ Media sources that report on data science topics:
 		* data cleaning
 	- tune many hyperparameters
 	- tune model once performance (such as accuracy) starts to degrade
+
+
+
+
+
+
+
+
+
+###	Skill Sets for Roles Spanning EECS
+
+
+
++ skill set:
+	- databases:
+		* DynamoDB
+		* Elasticsearch
+		* Cassandra
+		* Redis
+		* IBM DB2
+		* Couchbase
+		* PostgreSQL
+		* Microsoft SQL Server
+		* SQLite
+		* Oracle
+		* MariaDB
+		* MongoDB
+		* MySQL
+		* Firebase
+	- platforms:
+		* AWS
+		* Microsoft Azure
+		* Google Cloud Platform
+		* IBM Cloud or Watson
+		* Oracle Cloud Infrastructure
+		* DigitalOcean
+		* Heroku
+	- Web frameworks:
+		* Ruby on Rails
+		* Svelte
+		* ASP.NET Core
+		* Gatsby
+		* React.js
+		* ASP.NET
+		* Flask
+		* FastAPI
+		* Spring
+		* Drupal
+		* Vue.js
+		* Angular.js
+		* Angular
+		* Express
+		* jQuery
+		* Symfony
+		* Django
+		* Laravel
+	- frameworks and libraries:
+		* Apache Spark
+		* .NET Core / .NET 5
+		* Hadoop
+		* .NET Framework
+		* NumPy
+		* Pandas
+		* Torch/PyTorch
+		* Qt
+		* TensorFlow
+		* Keras
+		* React Native
+		* Cordova
+		* Flutter
+	- tools:
+		* Pulumi
+		* Terraform
+		* Chef
+		* Puppet
+		* Kubernetes
+		* Ansible
+		* Deno
+		* Docker
+		* Yarn
+		* Git
+		* Flow
+		* Xamarin
+		* Unreal Engine
+		* Unity 3D
+	- Collaboration Tools:
+		* TextMate
+		* Emacs
+		* RubyMine
+		* Rider
+		* Vim
+		* Neovim
+		* IntelliJ
+		* Xcode
+		* Visual Studio
+		* RStudio
+		* Visual Studio Code
+		* IPython/Jupyter
+		* PyCharm
+		* Notepad++
+		* Webstorm
+		* Sublime Text
+		* Atom
+		* Eclipse
+		* PHPStorm
+		* Android Studio
+		* NetBeans
+
+
+
 
 
 

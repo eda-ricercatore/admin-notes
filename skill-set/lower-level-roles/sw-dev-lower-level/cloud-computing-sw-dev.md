@@ -622,6 +622,7 @@ Notes on cloud computing:
 	- You have used big data technologies (i.e. Spark/MapReduce/Hadoop, etc.) at one point in your career, and have built web-scale data pipelines.
 	- You have used SQL and reporting tools at one point in your career, and are analytically savvy.
 	- The overall market range for roles in this area of Netflix is typically $310,000 - $1,200,000.
++ Amazon WebServices (AWS) such as Athena, Glue, DynamoDB and S3, RDS.
 + skill set:
 	- BLAH.
 + skill set:

@@ -12,6 +12,36 @@
 
 
 
+
++ skill set:
+	- The Flex-Logix Inference Software team is growing. We are planning a significant growth in the team across our three sites. The Software Development Engineer in Test (SDET) team will grow accordingly. The company is seeking SDETS to automate and test our inferencing solution.
+	- This role spans both hardware test automation and simulation/synthesis test automation. You will be responsible for automating and testing our AI accelerator.  You'll be working with multiple software teams, deep learning scientists, and hardware designers:
+		* Develop new automation regression tests as needed
+		* Maintain existing automation test scripts, create new features as required 
+		* Develop test model on silicon
+		* Develop analysis, diagnostic and report tools
+		* Create automated tests to detect regression failures, triage and re-run with back-track 
+		* Operate tests and collect quality metrics to support release and debugging.
+		* Develop and maintain test automation for inference software products. 
+		* implement the features needed to accelerate the next generation of machine learning algorithms
+	- you'll design and develop the appropriate test tools and harnesses to rigorously test and report upon the quality of the InferX application and get it ready for release.
+	- You are the person who has always enjoyed developing tools and scripts to help automate anything which can be automated! A smooth-running end to end flow of software tools and executables is what makes your day.
+	- You are passionate about testing and test automation, and willing to go the extra mile to maintain the best quality possible of the end to end product
+	- Rolling up your sleeves and getting involved in the implementation when needed is in your DNA; you lead by example
+	- You are good at breaking-down a large problem into its constituent components; the flow from unit test through to end-to-end system verification is well understood by you
+	- You feel strongly about the term ‘design for testability’ and the use of modern modular SW design techniques
+	- You are experienced in the system verification, from top-level API to Verilog and have always prided yourself on keeping up with the latest trends in system testing and reporting
+	- You have worked as a SW test engineer and been a technical leader in this space for some time and are eager to be part of a challenging opportunity which will allow you to stretch yourself and grow with the company
+	- 10+ years of experience in software/system test and test automation.
+	- Highly proficient in Python, shell scripting, JSON, and Jenkins
+	- Highly skilled at system level debug in LINUX based systems.
+	- Extensive experience in develop automation test system and tools
+	- Experience with Verilog and RTL simulation
+	- Experience in writing C/C++ applications
+	- Working experience in LINUX, Windows environment, Gitlab, Jira, and modern test frameworks
+	- Understand how to build and manage automation frameworks for system testing.
+	- Very experienced in writing test plans, and design test suits for a new product.
+	- BS or higher in computer/software engineering, electrical engineering, or related field
 + 5+ years of experience on Dev/Test tools such as Git, Jenkins, Jira, Robot Framework/pytest,  Zephyr Scale/qTest, Grafana etc.
 + skill set:
 	- Software Engineer in Test

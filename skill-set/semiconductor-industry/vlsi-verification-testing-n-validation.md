@@ -166,15 +166,39 @@ VLSI verification methodologies:
 
 
 
-##	Skill Sets for Roles in VLSI Verification
+##	Skill Sets for Roles in Digital VLSI Verification
 
 
 
 
 
 
-Skill set for roles in VLSI verification:
+Skill set for roles in digital VLSI verification:
 + initial sandbox verification
++ skill set:
+	- Flex Logix is looking for Verification Engineers to join our growing team. You will be involved in functional verification and emulation of Inference SoC and EFLX (embedded FPGA) cores in different process nodes.
+	- Responsible for all aspects of verification and emulation.
+	- Integration of industry standard Verification IPs.
+	- Development and debug of UVM/SV testbenches for SoCs and TPU.
+	- Bring-up and integration verification of cores, NoC, LPDDR4X/5 memory, PCIe, USB, DFT subsystems.
+	- Development of verification testbench for silicon validation, post-silicon bring-up and checkout; Linux-based validation using C++/Python.
+	- Development of coverage plans and metrics, drive coverage activities and test writing.
+	- Gate-Level Simulation/UPF simulation and debug.
+	- Emulation of SoC and/or TPU using an industry standard emulation tool.
+	- Silicon On-tester pattern generation using standard IP functional features.
+	- BSEE/MSEE with at least 5 years of relevant industry experience. 
+	- Must be very smart and very motivated.
+	- Must have hands-on experience in VIP setup/integration of tools from Synopsys, Avery, SmartDV or similar.
+	- Must have hands-on experience with UVM/OVM.
+	- Must have hands-on experience in developing verification plans for SoC or ASIC architectures.
+	- Must have hands-on, test-writing experience with SIMD, RISCV or ARM ISA, AMBA, JTAG/DFT architectures.
+	- Must have hands-on functional coverage analysis and assertion implementation experience.
+	- Must have hands-on experience with standard functional simulators such as NCSIM or Questa.
+	- FPGA debug exposure.
+	- LPDDR4X/5, PCIe5/USB4 architecture.
+	- Emulation flow development in Mentor Graphics’ Veloce or equivalent emulation hardware.
+	- Exposure to Formal Verification techniques.
+	- Worked with and directed external contractors.
 + skill set:
 	- Hands on system Verilog/UVM development work for modern high performance CPU verification.
 	- Work will involve writing test cases, using test generators to generate targeted tests for RISCV CPU verification
@@ -198,6 +222,48 @@ Skill set for roles in VLSI verification:
 	- Familiarity with UCIE/HBM/DDR protocols is preferred
 	- Experience in D2D/HBM/DDR projects is preferred
 + skill set:
+	- As a design verification technical lead, you will be responsible for defining the comprehensive verification and validation plan covering block to fullchip and system level validation. You will also be responsible for carrying out design validation to ensure design full functionality from logic simulation, emulation prototyping to system level validation. In additional, you will be driving the verification methodology to improve the verification flow and reduce the verification time through automation.
+	- Location: Penang, Malaysia
+	- Create verification and validation plan based on IP/FPGA architecture specifications and carry out all the validation tasks. The plan should include functional, system level and fullchip verification and validation perspectives.
+	- Developing IP/subsystem/system level/fullchip testbench, create tests, and necessary coverage goals based on specification to verify the design.
+	- Lead the results review against the coverage goals. Track and improve the tests to ensure the desire coverage is met.
+	- Support cross-functional teams in IP functional validation tests for IP bring-up on actual FPGA.
+	- Standardizing verification and validation framework, drive system test design implementation and overall IP system validation on HW.
+	- Define and develop verification and validation tools and flows to reduce the verification time.
+	- Interfacing with 3rd party vendors for latest industry tool and methodology evaluation.
+	- Apply advanced techniques to achieve verification and validation with the highest quality, productivity, and time-to-market.
+	- Bachelor's degree in Electrical, Electronics or equivalent.
+	- Experience in IC design verification.
+	- Experienced using advanced verification methodologies such as UVM, OVM, VMM, System Verilog, constrained-random verification, assertion-based verification, and functional coverage techniques is a strong plus.
+	- Experienced creating and executing validation plans.
+	- Experience of leading a verification or validation team.
+	- Familiar in RTL design with Verilog and/or VHDL is a strong plus.
+	- Knowledge of memory interface protocol (DDR, HBM, etc) or high speed interfaces (PCIe, Ethernet, etc) is a strong plus.
+	- Familiar with Perl, TCL and shell scripts is a plus.
+	- Exceptional analytical, problem solving and communication skills. Able to work independently.
+	- Demonstrates fundamental values such as accountability, integrity and a winning mindset.
++ skill set:
+	- The ASIC Verification Engineer primary job function is Pre-Silicon Design Verification of Spiking Neural Network IP and SOC designs using industry standard verification methodologies.
+	- Pre-Silicon Design verification of next generation Spiking Neural Network IPs and SoCs, blocks and/or chip top-level.
+	- Collaborate with other team members to define a verification methodology and a test plan.
+	- Develop IP level verification environments including stimulus generators, monitors, scoreboards, and coverage collectors
+	- Build self-checking test benches for SoC blocks and chip top-level verification.
+	- Develop verification plan for IP and SOC features
+	- Generate directed and random test cases, write regression scripts, and report code and functional coverage.
+	- Do a first level debug for root cause classification (TB, HW, or SW issue), and work with design team to validate fixes or workarounds.
+	- Run Gate level simulations, and replicate Silicon/FPGA bugs in the test bench environment.
+	- Develop and grow verification infrastructure to improve verification productivity and regression management
+	- Contribute to identifying and adopting best engineering practices with cross-functional teams
+	- BS/MS in Electrical Engineering or related degree or certification required.
+	- 2+ years of experience in System Verilog or UVM/OVM based verification
+	- Good skills in verification methodology, test planning and test bench architecture
+	- Very good experience with System Verilog and advanced verification techniques: constrained random verification, code/functional/assertion coverage.
+	- Experience in integrating Verification IPs, and HW/SW Co-Simulation is a plus.
+	- Knowledge of ARM based SoC architecture and system busses (AHB, AXI, APB) is strongly desired.
+	- Knowledge of standard SoC interfaces (SPI, I2C, ect…) and high-speed IO protocols (PCIe, USB, DDR) is a plus.
+	- Programming skills in C++, Python, and shell scripting are strongly desired.
+	- Good debugging skills, and well experienced with VCS/Verdi or similar toolsets.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -236,7 +302,7 @@ Skill set for roles in VLSI verification:
 
 
 
-#	Mixed-Signal VLSI Verification
+##	Mixed-Signal VLSI Verification
 
 Skill sets for mixed-signal VLSI verification:
 + skill set:
@@ -296,7 +362,7 @@ Skill sets for mixed-signal VLSI verification:
 
 
 
-#	VLSI Power Verification
+##	VLSI Power Verification
 
 + Power Verification Engineer
 	- We are looking for an experienced engineer to join a growing CPU/SoC verification team working on a new line of complex SoC devices for AI applications. You will join a team responsible for exhaustively verifying the architecture and microarchitecture of the CPU, as well as its integration into the larger SoC. We are looking for highly talented, passionate, and versatile engineers that can push hardware to highest performance and quality standards.
@@ -332,12 +398,28 @@ Skill sets for mixed-signal VLSI verification:
 
 
 Skill set for roles in VLSI testing:
-+ Silicon bring-up
-+ Silicon characterisation
++ ***Waveform Generation Language (WGL)***: https://www.edn.com/understanding-wgl-scan-data-structures-and-some-common-issues/
+	- compare with IEEE STIL, VCD, and eVCD.
++ ***Silicon bring-up***
++ ***Silicon characterisation***
 + skill set:
 	- GDB
 	- JTAG
 	- OpenCD
++ skill set:
+	- Develop chip circuit test method and ATE test scheme with quality, cost, and schedule in mind
+	- Implement ATE test pattern according to test plans and verify correctness via RTL simulations
+	- Create loadboard and probe card schematics and work with vendor for timely board availability
+	- Bring up test programs on ATE and drive readiness from NPI to high volume manufacturing
+	- Actively improve test coverage and reduce test cost through innovations and new methodologies
+	- Support yield improvement initiatives, customer issue resolutions, and other tasks as assigned
+	- Bachelor’s Degree in Electrical/ Electronics/ Microelectronics Engineering
+	- Good understanding in IC development flow from design till wafer fabrication stage
+	- Familiar with Verilog as well as RTL/ Gate-Level simulations
+	- Skilled in programming languages such as C, Python, etc.
+	- Strong knowledge in digital electronics, circuit analysis, and high-speed signal integrity is a plus
+	- Exposure to IC Testing methodology through coursework or having passion in it is a strong plus
+	- Fresh graduates are welcomed to apply
 + skill set:
 	- DFT Testability Design Engineer
 	- Participate in the early planning of chip project DFT
@@ -362,6 +444,50 @@ Skill set for roles in VLSI testing:
 	- Deliver test vectors and provide debugging support
 	- DFT engineering experience of GPGPU, GPU, AI and other chips
 	- Experienced in DFT timing closure
++ skill set:
+	- This role spans both hardware test automation and simulation/synthesis test automation. You will be responsible for automating and testing our AI accelerator.  You'll be working with multiple software teams, deep learning scientists, and hardware designers
+		* Review and create test plans to have full test coverage of inferX Compiler.
+		* Develop new automated regressions test suits as needed
+		* Create simulation tests and generate golden inputs/outputs and collaterals
+		* Develop debug tools for automatically finding causes of test failures
+		* Create test tool to track and report regressions and failures, identify faulty check-in and notify owner automatically.
+		* Operate tests and collect quality metrics to support releases.
+		* Develop and maintain test automation for inference software products
+	- You'll implement the features needed to accelerate the next generation of machine learning algorithms, to design and develop the appropriate test tools and harnesses to rigorously test and report upon the quality of the InferX application and get it ready for release.
+	- You are the person who has always enjoyed developing tools and scripts to help automate anything which can be automated! A smooth-running end to end flow of software tools and executables is what makes your day.
+	- You are passionate about testing and test automation, and willing to go extra mile to keep the best quality of software product.
+	- Rolling up your sleeves and getting involved in the implementation when needed is in your DNA; you lead by example
+	- You are good at breaking-down a large problem into its constituent components; the flow from unit test through to end-to-end system verification is well understood by you
+	- You feel strongly about the term ‘design for testability’ and the use of modern modular SW design techniques
+	- You are experienced in the verification of embedded systems, from top-level API to Verilog and have always prided yourself on keeping up with the latest trends in system testing and reporting
+	- You have worked as a SW test engineer and been a technical leader in this space for some time and are eager to be part of a challenging opportunity which will allow you to stretch yourself and grow with the company
+	- 10+ years of experience in software/system test and test automation.
+	- Highly proficient in Python, shell scripting, JSON, and Jenkins
+	- Highly skilled at system level debug in Linux based systems.
+	- Extensive experience in development of automation test system and tools
+	- Experience in writing C/C++ applications
+	- Working experience with Linux, Windows and MacOS, and Gitlab, Jira, modern test frameworks
+	- Understand how to build and manage automation for system testing.
+	- Very experienced in writing test plans, and in the design of test suits for a new product.
+	- BS or higher in computer/software engineering, electrical engineering, or related field
++ skill set:
+	- Staff Senior DFT Engineer
+	- The employee will own test-ability of the core fabric of high-performance standalone and embedded FPGAs.
+	- Develop the test methodology of the FPGA core fabric; work actively with front-end and back-end designers to support DFT implementation
+	- Create and validate custom and ATPG test vectors for SAF/TF testing of the core fabric
+	- Work with external vendor on memory BIST architecture and implementation
+	- Work with test engineers to get patterns ready for the ATE; support the test program from wafer sort to final test
+	- Provide support to customers on the testability of Achronix eFPGA products
+	- Mentor junior engineers
+	- Experience with industry standard DFT flows (ATPG, BIST, etc.) and tools
+	- Experience with production test pattern generation, fault coverage and fault analysis
+	- Experience with digital VLSI design and verification
+	- Experience programming in a scripting language
+	- Familiarity with WGL and STIL formats for test vectors
+	- Familiarity with using and/or designing FPGAs is a plus
+	- Excellent problem solving and debugging skills
+	- Well organized and excellent communication skills
+	- BS/MS in Electrical Engineering or Computer Science + 4-10 years' experience
 + skill set:
 	- BLAH.
 + skill set:
@@ -412,6 +538,125 @@ Skill set for roles in VLSI testing:
 
 
 Skill set for roles in VLSI post-silicon validation:
++ skill set:
+	- Senior Post-Silicon Validation Engineer
+	- The successful candidate will join, as a key member, a team of post-silicon validation engineers that work towards the productization of high-performance FPGAs in 7nm and below.
+	- Work with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces such as GDDR6, HBM and DDR5
+	- Drive the bring-up, hardware validation and debug of new FPGA products
+	- Execute detailed test plans based on specifications, outlining validation experiments and procedures
+	- Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
+	- Analyze results and measurements, develop visualizations to assist in deeper understanding of data
+	- Collaborate with hardware and software teams to resolve hardware issues and optimize results
+	- Collaborate with the operations team to optimize parametric yield from high volume ATE tests
+	- MS in Electrical/Computer Engineering with 4+ Years of experience in digital design/verification and/or post-silicon validation
+	- Proficiency in scripting languages such as Python, Perl and TCL
+	- Proficiency in tools and methods for data collection and organization
+	- Familiarity with high-end serial protocols (e.g., PCIe Gen3/4/5 and 100/200/400Gbps Ethernet)
+	- Familiarity with high speed external memory interfaces (e.g., DDR4/5 memory protocols)
+	- Familiarity with PLLs and I/O standards
+	- Familiarity with test and measurement equipment:
+		* High-bandwidth Oscilloscopes
+		* BERTs
+		* Serial and memory protocol analyzers and exercisers
+	- Familiarity with signal and power integrity aspects of high speed interfaces, packages, and PCBs a plus
+	- Experience with FPGA design and implementation is desirable
+	- Excellent debugging skills
+	- Excellent verbal and written communication skills
++ skill set:
+	- Staff Post-Silicon Validation Engineer
+	- The successful candidate will lead a team of post-silicon validation engineers towards the productization of high-performance FPGAs in 7nm and below.
+	- Working with leading-edge protocols, including PCIe Gen5, 400Gbps Ethernet, die-to-die communications and high-speed external memory interfaces like GDDR6, HBM and DDR5
+	- Driving the bring-up, hardware validation and debug of new FPGA products; tracking the bringup and validation schedules through to completion
+	- Owning the generation and maintenance of detailed test plans based on specifications, outlining validation experiments and procedures
+	- Selection, acquisition and set-up of required test equipment and software, leveraging automation wherever possible
+	- Analyzing results and measurements, developing visualizations to assist in deeper understanding of data
+	- Collaborating with hardware and software teams to resolve hardware issues and optimize results
+	- Collaborating with the operations team to optimize parametric yield from high volume ATE tests
+	- Mentoring and guiding junior engineers
+	- MS in Electrical/Computer Engineering with 8+ Years of experience in post-silicon validation
+	- Proficiency in scripting languages such as Python, Perl and TCL
+	- Proficiency in tools and methods for data collection and organization
+	- Expertise in high-end serial protocols like PCIe Gen3/4/5 and 100/200/400Gbps Ethernet, high speed external memory interfaces, memory protocols like DDR4/5 and PLLs and IO standards
+	- Familiarity with test and measurement equipment – high-bandwidth Oscilloscopes, BERTs, serial and memory protocol analyzers and exercisers
+	- Familiarity with signal integrity and power integrity aspects of high speed interfaces, packages, PCBs and measurement equipment is a plus
+	- Experience with FPGA design and implementation is desirable
+	- Excellent debugging skills
+	- Excellent verbal and written communication skills
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#	VLSI Device, Circuit, and System Characterization
+
+
+
+Skill set for roles in VLSI device, circuit, and system characterization:
++ skill set:
+	- Staff/Senior Characterization Engineer
+	- Be part of a team that is changing the FPGA industry. We are looking for bold, collaborative, and innovative people to help us lead the industry transformation. As a characterization engineer, you will develop methodologies to validate and characterize our latest FPGA using various lab equipment. You have a proven capability in analysing data, solving complex problems, and drawing conclusions. You will also collaborate with internal teams at different geographical locations to deliver added values for both customers and company.
+	- Location: Penang, Malaysia
+	- Define detailed test plans for datasheet specifications and determine instrument resources required to perform each test.
+	- Design characterization boards and work with vendors on schematics/ layout review and sign-off.
+	- Develop appropriate and innovative bench validation solutions and complete tasks per schedule.
+	- Troubleshoot issues and work with design teams on root causing and fix proposal.
+	- Analyse statistical data and translate them into operational limits to guarantee device performance.
+	- Correlate bench results with design data from simulation and/ or production data from ATE.
+	- Support customer issue resolution which includes working with various teams to roll out timely and innovative solutions.
+	- Identify and implement continuous improvement initiatives for efficiency gain and quality improvement.
+	- Bachelor’s Degree in Engineering (Electrical/Electronic). Master’s Degree preferred
+	- Min 5 years of working experience in silicon characterization
+	- Good understanding of device technology, custom circuit and digital designs and electrical analysis
+	- Familiar with Verilog and proficient in at least 1 programming language
+	- Excellent analytical, troubleshooting, problem-solving, and communication skills
+	- Experience with FPGA design/ implementation tools is a plus
+	- Experience in validating FPGA blocks such as DSP, PLL, I/O, high-speed interfaces, etc. is a strong plus
 + skill set:
 	- BLAH.
 + skill set:

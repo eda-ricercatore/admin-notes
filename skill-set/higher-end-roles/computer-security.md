@@ -32,7 +32,56 @@ Roles in computing security:
 
 
 
-+ Ability to apply the MITRE ATT&CK and Killchain frameworks to security operations
++ Ability to apply the ***MITRE ATT&CK and Killchain frameworks*** to security operations
++ skill set:
+	- Familiarity with IPv4/IPv6 with standard OSI stack.
+	- Familiarity with security vulnerabilities, patching third party software.
+	- Familiarity with security compliance standards such as STIG, Common Criteria a plus.
++ skill set:
+	- Experience in multiple virtualization environments such as VMware, KVM, OpenStack, AWS, Azure, GCP, and OCI.
+	- Experience with Cassandra, MongoDB, Kafka, Elasticsearch, JavaScript, React, Node.js, AWS, Git, Linux and Python are all valuable pluses
+	- Understanding of, or background using, high-speed networking devices such as firewalls, intrusion detection systems, intrusion prevention systems, or deep packet inspection (DPI) systems
++ skill set:
+	- Position Summary: Work with security and DDoS experts on the ASERT team to explore and analyze a vast array of data to extract trends, apply machine learning, and create user-friendly visibility into the data set.
+	- Leverage data analysis and coding skills to extrapolate value from a data set that spans the globe and gives unique insight into adversary activity in the DDoS Threat Landscape.
+	- Use multiple query languages to explore large data sets
+	- Apply data science and machine learning to a decades worth of collection
+	- Pursue a deeper study and correlation of internet routing/topology.
+	- Synthesize the analysis into dashboards or some form of reporting mechanism.
++ skill set:
+	- Red Hat's Customer Identity and Access Management team is looking for a Software Engineer to join us. In this role, you will collaborate with a diverse and innovative team responsible for the key authentication, authorization, and user management service for Red Hat's open hybrid cloud platform and its surrounding integrations. You will work on the full-stack design, development, testing, and release of single sign-on (SSO) and related applications, with a focus on backend development. While we revamp this service for the next generation of Red Hat’s cloud offerings, you will closely collaborate with the Red Hat SSO team and contribute to the upstream Keycloak community. As a Software Engineer, you will contribute to the team's capabilities by demonstrating technical competence, exceptional communication skills, personal initiative, creativity, desire to learn, transparency, and ability to work as part of a team. Successful applicants must reside in a state where Red Hat is registered to do business.
+	- Collaborate with your peers, design, develop, test, maintain, and operate primarily Java applications across large, multi-region deployments
+	- Contribute to the development of core features of the Red Hat SSO offering or related to the various types of integrations with other Red Hat’s offerings and backend systems
+	- Build custom plugins for Red Hat SSO while working with that project's open source community to grow the platform for our customers
+	- Implement and support the deployment of identity and access management solutions that integrate with protocols like OIDC 2.0 and SAML 2.0
+	- Analyze and clarify business requirements
+	- Contribute to application release processes with Red Hat Ansible Automation 	- Platform, Puppet, and Red Hat OpenShift Container Platform
+	- Contribute to observability instrumentation and monitoring tools
+	- Participate in application support rotation
+	- 3+ years of professional experience in Java or other object-oriented language
+	- Experience implementing integration design patterns, especially in microservices or event-driven architecture
+	- Excellent communication skills and ability to work within a distributed team
+	- Good understanding of core concepts related to application security
+	- Ability to quickly learn new domains and technologies
+	- Familiarity with modern token-based application security standards like OAuth2 and OpenID Connect
+	- Experience using MySQL, PostgreSQL, or Mongo
+	- Experience working with distributed source control like Git, including branching and merging
+	- Good understanding of continuous integration (CI) and continuous delivery (CD) tools and processes
+	- Good understanding of DevOps principles and practices
+	- Bachelor’s or master’s degree in computer science, engineering, or other closely related field
+	- Familiarity and experience with Keycloak project or the Red Hat SSO offering and core features is a big plus
+	- Knowledge of Kubernetes or Linux Containers is a plus
++ skill set:
+	- Security Engineer
+	- Responsible for the overall information security posture and compliance program for the Abacus.AI SaaS platform and internal systems.
+	- Candidates will need to have a BS or MS from top notch program with industry experience. We are looking for security engineers who have experience with at least two of the following:
+		* 5+ years professional experience in hands-on technical roles with emphasis on security and operations
+		* Successfully implemented one of SOC2, ISO27001, HIPAA, GDPR, PCI, Fedramp compliance programs
+		* Implementing IDS/IPS, WAF, DAST, SAST systems
+		* Conducting vulnerability scanning and penetration testing
+		* Developing information security policies, guidelines and documentation
+		* Developing security awareness and training programs
+		* Hands-on experience with network security, firewalls, vpns
 + C++ Intern Software Engineer - vCenter Platform
 	- You will innovate on an enterprise-scale project, with huge impact on product security.
 	- You will familiarize yourself with diverse and relevant technologies like libFuzzer, protobuf, REST APIs.

@@ -1663,17 +1663,22 @@ Sets of skills for physical synthesis:
 
 
 
+
 Here are the sets of skills for physical design and physical synthesis.
 + skill set:
-	- Senior Physical Design Engineer
-	- Candidate must have 7-10 years of experiences in place & route. Tasks including but not limited to the following:
-	- Develop the physical development flow
-	- Floor Plan, Power Plan, Place & Route, Clock Tree synthesis, timing/SI closure of blocks & full chip
-	- Padring, RDL development
-	- DRC/LVS
-	- IR/EM analys
-	- DFT knowledge is a plus
-	- Excellent communication with internal team and customers
+	- We are looking for an experienced software engineer to work in the Efinity Place & Route team. Develop state-of-the-art techniques for placement, routing, and/or physical synthesis. Work on our software to utilize the full potential from our next generation Titanium FPGA family.
+	- Drive research and development of placement, routing, and/or physical synthesis.
+	- Improve run-time / memory consumption for future large FPGA devices.
+	- Develop custom solutions to support customer engagements
+	- B.Sc. + 10 years, M.Sc. + 8 years, PhD + 4 years in Computer Engineering / Computer Science
+		- For senior position.
+		- For mid-level position: B.Sc. + 6 years, M.Sc. + 4 years, PhD +0 years in Computer Engineering / Computer Science.
+		- For junior positions: B.Sc. + 6 years, M.Sc. + 4 years, PhD +0 years in Computer Engineering / Computer Science.
+	- Knowledge of FPGAs
+	- C++, Python
+	- Experience with EDA algorithms (Global/Detailed Placement, Routing, Physical Synthesis)
+	- Machine Learning experience is an asset
+	- Strong analytical/programming abilities.
 + skill set:
 	- BLAH.
 + skill set:
@@ -2244,6 +2249,97 @@ The sets of skills are:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Skill Sets for FPGA Design Automation, or FPGA CAD
+
+
+
+Skill sets for FPGA design automation, or FPGA CAD:
++ skill set:
+	- Senior Software Engineer
+	- The Senior Software Manager is a Key member of QuickLogic eFPGA Engineering team, reporting to the Director of Engineering, eFPGA. This is a key role at QuickLogic, with primary responsibility for leading the Software tools development for eFPGA products. The role holder is responsible for software roadmap creation, release planning, coordinate the execution of projects with the help of internal engineers/contract resources. This is a remote opportunity operating mostly in the Pacific time zone.
+	- This individual will collaborate with key stake holders, and handle projects of varying complexity, by providing appropriate direction, and strategy to reach long term goals. The individual needs to be a self-starter, with good planning and organization skills, as the role holder works closely in terms of coordination and functional integration with various groups located in multiple sites and geographies
+	- Well-developed, mature communication, influencing and self-management skills are required as the role holder would need to juggle multiple tasks and priorities. Key partners would include the eFPGA Silicon development team, External Contractors, Application Engineering team.
+	- BS/MS/PhD in CS/Computer Engineering with 12-15 years of experience in EDA related software development with minimum 3-5 years in leadership role.
+	- ***Must be a US Citizen***
+	- Prior experience in EDA software tools development, specifically in one or preferably more of the following areas:
+	- Routing and/or Placement
+	- FPGA architecture evaluation
+	- Software flows to simplify and automate the FPGA development
+	- Bit stream generation
+	- Good knowledge of FPGA hardware architecture and Digital logic design
+	- Strong C/C++ development experience
+	- Good experience of TCL/Python scripting languages
+	- Apply sound and diversified knowledge of principles, practices, and procedures of software architecture.
+	- Familiarity with VHDL and/or Verilog
+	- Exposure to Synthesis and Simulation tools
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3352,6 +3448,94 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
 + skill set:
+	- Implementation of Tenstorrent IP and SOC RTL logic in Verilog
+	- Architecture exploration and modeling
+	- ***Occasional verification of Tenstorrent's IP and SOC logic, using advanced verification methodologies –UVM, FPGA prototyping, and emulation***
+	- Performance and power verification and validation of Tenstorrent's IP and SOC
+	- Runtime firmware and low-level software implementation
+	- Benchmark and analyze performance optimizations for key machine learning algorithms across Tenstorrent hardware and software stack
+	- Development of frameworks for automating post-silicon verification, data analysis and debug
+	- Support board/system design and debug
+	- Knowledge of Hardware Description Languages (Verilog/VHDL)
+	- Interest and knowledge of processor/computer architecture
+	- Interest and knowledge of the full ASIC design flow, including design, verification, synthesis, P&R
+	- C/C++ as well as scripting languages (C, C++, Python, Perl, tcl)
+	- Experience with high frequency logic design, scalar and vector processor architecture, GPU architecture and programming models, digital signal processing hardware, SoC architecture, memory sub system architecture, real time hardware/firmware systems and PCB design is very beneficial
+	- Understanding of deep learning concepts and familiarity with popular machine learning frameworks and models
+	- Strong analytical and problem-solving skills
++ skill set:
+	- Flex Logix is seeking Inference SoC (System on Chip) and Logic Design Engineers to join our team developing the SoC RTL that controls our Inference SoCs and interfaces; and the “SoftLogic” RTL that controls the execution of the compute kernels of our neural network model operators.
+	- Be part of our exciting team developing responsible for designing the RTL that runs on eFPGA (embedded FPGA) and is used to control the execution of neural network layers (we call this SoftLogic).
+	- The candidate must be able to micro-architect and deliver eFPGA RTL for the Reconfigurable Tensor Processor to implement neural network operators.
+	- The candidate must provide technical leadership in solving new and challenging problems that require coordination with other hardware, software and system engineering teams.
+	- Preferred candidate would be able to work in every stage of silicon development: specification, coding, verification, place and route, timing closure and post-silicon validation for SoC to deliver micro-architecture and RTL for SoC and softlogic blocks.
+	- BS/MSEE/CE/CS with a minimum of 5 years of experience designing functional units or SOC RTL.
+	- Extensive experience coding Verilog or SystemVerilog RTL.
+	- Demonstrated experience with very high-speed, pipelined designs (>3 GHz).
+	- Proven track record on delivering micro-architecture and RTL code that works on Silicon and meets timing for high-speed designs.
+	- Experience fixing critical paths in the design using front-end RTL techniques for FPGA synthesis/place and route tool chain.
+	- Experience running Lint, CDC, and other static quality checks.
+	- Experience with starting designs from scratch.
+	- Experience interfacing with internal and 3rd party IP suppliers.
+	- Experience scripting in Python or Perl.
+	- Familiarity with C or C++ coding.
+	- Familiarity with memory architecture in SoCs.
+	- Familiarity with DDR and PCIe standards.
+	- Familiarity with NoC or AXI Crossbars.
+	- Knowledge of computer architecture, especially in systolic arrays.
+	- Experience with FPGA design and emulation.
+	- Experience with FPGA and ASIC EDA tools.
++ skill set:
+	- Flex Logix is seeking Inference SoC (System on Chip) and Logic Design Engineers to join our team. You would be developing the SoC RTL that controls our Inference SoCs and interfaces and the “Softlogic” RTL that controls the execution of the compute kernels of our neural network model operators. You'll be working with software engineers, marketing specialists, physical design engineers, verification engineers, & deep learning scientists, to implement the features needed to accelerate the next generation of machine learning algorithms.
+	- Develop chips that accelerate the execution of neural networks. 
+	- Own major portions of our chips; developing them from concept through execution and silicon brings up support. 
+	- Provide technical leadership in solving new and challenging problems that require coordination with other hardware, software and system engineering teams. 
+	- Work in every stage of silicon development: specification, coding, verification, timing closure and post-silicon validation for SoC to deliver microarchitecture and RTL for the full SoC.
+	- BS/MSEE/CE/CS with a minimum of 10 years of experience designing functional units or SOC RTL.
+	- Proven track record on delivering micro-architecture and RTL code that works on Silicon and meets timing for high-speed designs.
+	- Extensive experience coding Verilog or SystemVerilog RTL.
+	- Experience interfacing with internal and 3rd party IP suppliers.
+	- Experience scripting in Python or Perl.
+	- Experience running Lint, CDC, and other static quality checks.
+	- Experience with starting designs from scratch.
+	- Familiarity with memory architecture in SoCs.
+	- Familiarity with DDR and PCIe standards.
+	- Familiarity with NoC or AXI Crossbars.
+	- Experience with low power design techniques.
+	- Proven track record of first pass silicon success.
+	- Familiarity with C or C++ coding.
+	- Knowledge of computer architecture, especially in systolic arrays.
+	- Experience with FPGA design and emulation.
+	- Experience with FPGA and ASIC EDA tools.
++ skill set:
+	- Flex-Logix Inference Software team is looking for highly motivated, proactive and curious AI Inference Staff Software Engineer to be a part of its excellent team responsible for the development of the Infer-X Model Compiler. The compiler generates binaries for the Flex-Logix eFPGA platform which controls the nnMAX/TPU computation blocks and memory connections. The individual must be passionate about being part of an aggressive, venture-backed startup team that is revolutionizing the way chips are architected, designed and programmed. This is an exceptional opportunity to develop the technology that breathes life into AI inferencing solutions targeting systems in medical, industrial, automotive and other Enterprise edge applications.
+	- Architect, develop, and integrate new DNN Model descriptions to InferX Model Compiler.
+	- Design, develop, and maintain efficient, reusable, and reliable InferX Model Compiler software and documentation.
+	- Expand functionality of InferX Compiler components, written in modern C++.
+	- Bring-up and debug new/existing compiler components.
+	- Develop and maintain unit tests for new compiler components.
+	- Collaborate with other teams such as HW Design, Solutions Architects and Test/QA.
+	- Work closely with Field teams to support customer engagements.
+	- Perform defect tracking and peer code reviews.
+	- Bachelor’s or Masters in CS/EE with 10+ years of industry experience.
+	- Knowledgeable with C/C++ and Python.
+	- Knowledgeable in data structures, graphs and algorithms.
+	- Incorporate strong troubleshooting skills using software (automated tests), hardware (RTL simulations) and other resources (datasheets and design documents).
+	- Knowledgeable in Computer Architecture, Digital Logic SOC Design and FPGA Design.
+	- Familiarity with modern version control systems like GIT.
+	- Highly dynamic, results-oriented, and self-motivated personality able to work in a small team with minimal direction.
+	- Excellent written and verbal interpersonal skills.
+	- Ability to work across functional groups, sites and organizations.
+	- Experience with DNN/Convolution AI models for Computer Vision applications.
+	- Experience with frameworks such as TensorFlow Lite and PyTorch.
+	- Experience writing applications for SIMD processors or accelerators like GPUs.
+	- Experience with PC architectures and chipsets.
+	- Experience with Multicore Programming.
+	- Experience with FPGA Synthesis Tools such as Synopsys Synplify.
+	- SCM experience in a GitLab based workflow.
+	- Experience with Continuous Integration Systems (Jenkins, SonarQube) and static analysis tools.
+	- Test Driven Development experience.
++ skill set:
 	- 5+ years of experience building production software systems within large engineering projects for consumer products on mobile SoCs, specially iOS devices
 	- Hands-on experience with at least one compiled language (C/C++/Objective-C, Swift, Go, Java, Rust, etc.), and multi-threaded applications
 	- Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
@@ -3556,6 +3740,17 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- 6) Experience with Memory sub-system, DDR interfacing.
 	- 7) Experience with Deep Learning and Deep Learning HW acceleration.
 + skill set:
+	- AI Accelerator Engineer
+	- Design neural network accelerator for vision and audio application.
+	- Inference trained network on FPGA.
+	- Research on key algorithms of deep learning (including various network architectures and applications), and computer vision tasks (including classification, object detection, and semantic segmentation).
+	- Adapt key algorithms to real-world applications, such as Smart Sensing, Intelligent Surveillance, and ADAS.
+	- Understanding of ML/AI algorithms, neural network, software framework
+	- Experience in FPGAs & related tools flow
+	- Experience with framework like TensorFlow, Keras, Pytorch
+	- Experience in video streaming and/or image processing design will be added advantage
+	- Neural network inference experience with resource constrained devices like FPGA/microprocessors will be added advantage
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -3677,20 +3872,40 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 ##	Application engineers of different EDA products
 
 Skill sets for application engineers of different EDA products:
-+ Bus protocols such as AMBA-AXI, AHB, APB, I2C, SPI
-+ Expert in coding SV Testbench, drivers, monitors, scoreboards, checkers
-+ Experience in C/C++,Shell/Perl scripting.
-+ Understanding of AHB, AXI and other bus protocols and system architecture is a plus.
-+ Expert in System Verilog and OVM/UVM based verification.
-+ Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
-+ To help the team to verify the existing design (UFS/UniPro)
-+ Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
-+ Experience with verification methodology like OVM/VMM/UVM
-+ Experience in constrained-random verification is a strong plus
-
-
-
-
++ skill set:
+	- Bus protocols such as AMBA-AXI, AHB, APB, I2C, SPI
+	- Expert in coding SV Testbench, drivers, monitors, scoreboards, checkers
+	- Experience in C/C++,Shell/Perl scripting.
+	- Understanding of AHB, AXI and other bus protocols and system architecture is a plus.
+	- Expert in System Verilog and OVM/UVM based verification.
+	- Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
+	- To help the team to verify the existing design (UFS/UniPro)
+	- Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
+	- Experience with verification methodology like OVM/VMM/UVM
+	- Experience in constrained-random verification is a strong plus
++ skill set:
+	- Flex-Logix Inference Software team is looking for Applications engineer or Software engineer, ideally with an EDA background. You will serve as an internal application engineer between its Softlogic group (Verilog generation and optimization) and its EFLX compiler (primarily place-and-route technology).  The position will report to the Senior Director of FPGA Technology. The successful applicant will serve as a bridge between the two groups and as an ambassador for the backend technology (these groups) to the customer application engineering group.  As such, the position offers great upward growth potential, including direct paths into either software or hardware engineering, customer application engineering, or management.
+	- As senior EDA application engineer, you will be the bridge between the Verilog and Place and Route teams, and from those groups to the rest of Flex Logix.  You will work at the application level to understand the performance of Flex Logix’s backend solutions, provide ideas and suggestions to the backend team to improve performance, debug applications that are failing, and pinpoint areas of improvement for the backend team. In order to perform these responsibilities, you will need to develop a reasonably deep understanding of backend eFPGA implementation as well as a user level understanding of neural network applications.
+	* Collaborating with the applications, softlogic, architecture, and compiler teams to determine low-latency, high-throughput schemes for executing neural networks on our ML accelerator.
+	* Understanding low level operator/algorithm implementation and developing APIs to invoke individual operators at the graph level.
+	* Making minor modifications to operator/algorithm implementations.
+	* Devising unit tests for new deep learning models.
+	* Evaluating the performance of the neural network on silicon.
+	* Designing and developing supporting libraries that run some neural network operators on CPUs.
+	* Diagnosing and fixing performance and integration issues across the software stack using simulators and hardware.
+	* Reasonably proficient in Verilog and understanding general FPGA implementation.
+	* Excellent communication skills, and the ability to support internal and external customers of eFPGA backend technology.  
+	* BS/MSEE/CE/CS with a minimum of 2 years of experience in software support.
+	* Experience debugging Verilog or SystemVerilog RTL designs.
+	* Experience in debugging and maintaining SystemVerilog test-benches.
+	* Experience in debugging gate-level timing simulations.
+	* Experience in maintaining scripts and automation framework for test regressions.
+	* Knowledge of eFPGA architecture.
+	* Knowledge of Digital Designs.
+	* Knowledge of Software architecture and place and route algorithms.
+	* Familiarity with C/C++ coding.
+	* Familiarity with SystemVerilog RTL coding.
+	* Familiarity with scripting in Python or Perl.
 + skill set:
 	- BLAH.
 + skill set:
@@ -4384,6 +4599,18 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
++ platform-agnostic machine learning development
++ skill set:
+	- Research Scientist
+	- Responsible for coming up with new techniques in unsupervised learning, dataset augmentation and deep reinforcement learning that can be applied to automating various parts of the AI development workflow.
+	- Candidates will need to have a PhD preferably in Artificial Intelligence or Machine Learning. We are looking for people who have done research / published papers in one of the following areas:
+		* Unsupervised Learning
+		* ***Generative Modeling***
+		* Deep Neural Networks
+		* Deep Reinforcement Learning
+		* Generative Adversarial Networks
+		* ***Causal Reasoning***
+	- Ideal candidates would be able to rapidly iterate on new ideas with engineers, potentially publish at top conferences and be able to write code.
 + skill set:
 	- Principal Software Engineer - Applied Machine Learning
 	- As the Principal Software Engineer for our Machine Learning team you will be responsible for ensuring that the development of ML systems and services meets all technical and quality standards. You will work with Product Management and other technical teams within Splunk, incorporating new requirements and providing technical information related to this sophisticated ML Platform as needed.
@@ -4834,6 +5061,26 @@ Skill sets for application engineers of different EDA products:
 + Experience in Deep Learning and Deep Learning development frameworks
 + Proficiency in programming languages such as Python, Java and C++, and experience with machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn)
 + You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
++ skill set:
+	- Tenstorrent is looking for an experienced Machine Learning engineer to support our growing customer base as they build Deep Learning models on Tenstorrent hardware. If you're enthusiastic about Machine Learning, are a competent software engineer, and enjoy working with other people, this is your opportunity to be at the bleeding edge of AI processing. You'll get exposure to a broad array of problem types from different industries and be at the forefront of our customer engagements.
+	- Work with the customer-facing team to support clients with their ML models on Tenstorrent hardware
+	- Designing and developing demonstration machine learning and deep learning systems
+	- ***Model benchmarking***
+	- Running machine learning tests and experiments on behalf of customers
+	- Implementing appropriate ML algorithms
+	- Select appropriate datasets and data representation methods
+	- ***Run machine learning tests and experiments***
+	- ***Perform statistical analysis and fine-tuning using test results***
+	- ***Train and retrain systems when necessary***
+	- ***Extend existing ML libraries and frameworks***
+	- ***Develop novel ML models and primitives that take advantage of Tenstorrent’s breakthrough architecture to deliver orders of magnitude performance & efficiency improvements***
+	- Student in Electrical/Computer Engineering, Computer Science, Machine Intelligence, Engineering Science, or Math;
+	- 5 years of experience as a Machine Learning Engineer or similar role (a fleshed out GitHub repo a plus)
+	- Experience with algorithms, data structures, and software development in Python and C/C++.
+	- Deep knowledge of math, probability, statistics and algorithms
+	- Experience in solving business problems with Machine Learning models
+	- Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus
+	- Travel at 15% to 25% will be required.
 + tech stack:
 	- Experience with Deep Learning frameworks, e.g., PyTorch, DeepLearning4J, TensorFlow
 	- Experience in SPARK (using Python or Scala). Knowledge of AWS services will be appreciated.
@@ -4844,6 +5091,19 @@ Skill sets for application engineers of different EDA products:
 	- Experience working with at least 3 of the following popular machine learning frameworks/libraries: sklearn, tensorflow, pytorch, caffe, keras, theano, cntk, mxnet, spark mllib
 	- Experience developing and deploying deep learning NLP models is a plus
 	- Experience working with a knowledge graph is a plus
++ skill set:
+	- Senior Sotware Engineer - Machine Learning
+	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
+	- Candidates will need to have a BS in computer science from an accredited university OR have 5 years of professional work experience. In addition, we are looking for software engineers who have the following:
+	- 5 years of professional software engineering experience. Some experience with Python is required.
+	- Have at least 1 year of professional work experience in one of the following: data infrastructure, ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
++ skill set:
+	- Sotware Engineer 1 - Machine Learning
+	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
+	- Candidates will need to have a BS in computer science from an accredited university. In addition, we’re looking for engineers who have the following:
+	- Working knowledge of software engineering - through job experience or coursework. Experience with Python preferred
+	- Have at least 6 months of professional work experience in one of the following: ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
+	- Coursework or work experience with machine learning algorithms such as classifiers, anomaly detection, and clustering
 + skill set:
 	- 7+ years of industry/academic experience in Machine Learning or related field
 	- You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
@@ -7008,6 +7268,19 @@ Machine learning -based frameworks for computer vision:
 
 
 Skill sets for computer vision:
++ skill set:
+	- As the Geometric Computer Vision Engineer you will need to develop computer vision algorithms for object detection, tracking, and classifications that are robust to lighting and weather changes. This work requires that you collaborate with state estimation engineers and assist in developing powerful feature detectors/ descriptors and large-scale 3D maps. Furthermore, it is expected that you stay organized and communicative with others to ensure that goals and objectives are being met on time. To guarantee the consistency of projects, you will participate in end-to-end development and training in Cloud to optimize development on embedded platforms.
+	- 3-5+ years’ significant industry experience and/or publications at venues such as ICRA, RSS, IROS, or CVPR in one or more areas-
+		* Image Processing
+		* Geometric Computer Vision
+		* Deep Learning (ideally CNNs)
+		* Classical machine learning such as SVM, decision trees, boosting, graphical models, sequential prediction, or sampling methods
+	- Strong C++ programming and software design skills
+	- Familiarity with a deep learning framework such as PyTorch, TensorFlow, Caffe, or Theano
+	- BS, MS, or PhD in Robotics, Machine Learning, Computer Science, Electrical Engineering, a related field, or equivalent experience
+	- Experience deploying CV/ML in a robot or real-time application
+	- Understanding of optimization of DL models and deployment on embedded platforms such as the Nvidia Jetson
+	- Experience in designing large-scale machine learning pipelines
 + knowledge of CUDA / OpenCL / OpenCV
 + skill set:
 	- Design and implementation of state of the art monocular computer vision algorithms
@@ -7610,6 +7883,16 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 
 
 
+
+
+
+
+
+
+
+
+
+
 ###	Legal Informatics & Computational Law
 
 
@@ -7705,6 +7988,79 @@ Need to address:
 
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
++ skill set:
+	- Tenstorrent is seeking a High-Performance Computing (HPC) Systems Engineer to support Accelerated ML Storage platforms. You will focus on delivery of ML storage services with an emphasis of multi-tenant cloud storage requirements. Duties include administrating both high-speed and archiving cloud storage services. You will also be responsible for understanding workload bottlenecks and work with all necessary teams to drive resolution.
+	- Build and maintain high-performance storage environments designed for multi-tenant HPC cloud
+	- Work closely with other AI/ML Engineers and Data Engineering Subject Matter Experts
+	- Work with Central IT, Cybersecurity, and Engineering teams for both on-premises and cloud deployments
+	- Ensure user and technical issues are promptly prioritized and resolved
+	- Effectively communicating with cloud tenants as required
+	- Monitor resource usage and planning for increased capacity
+	- Additional responsibilities assigned from time to time
+	- Bachelor’s Degree in a related discipline or equivalent experience, with 3 years of professional experience
+	- Ceph Certified Specialist or equivalent experience
+	- Strong sense of urgency, client-oriented and ability to maintain positive partnerships
+	- ***Experience with Ceph, Swift, Luster, NFS, S3, and/or high-performance storage***
+	- Experience with performance measuring/modelling of high-performance storage
+	- ***Experience with OpenStack***
+	- ***Automation using tools such as Ansible, Puppet, BASH and Python Scripting***
+	- Willing to roll up your sleeves and help out with hardware and software issues
+	- ***Experience with Luster, Weka, Vast, and/or Spectrum Scale***
+	- ***Familiarity with Container Storage, including Container Storage Interfaces (CSI) and Persistent Volumes***
+	- ***Familiarity with Infrastructure Automation***
+	- ***Familiarity of Data Center design, including server hardware, rack diagrams, power, and cooling requirements***
+	- ***Knowledge of Monitoring and Performance, such as Prometheus, Grafana, Dynatrace, Sysdig***
++ skill set:
+	- Tenstorrent is seeking a High-Performance Computing (HPC) Systems Architect for OpenStack multi-tenant cloud deployments. You will have the chance to architect multiple clusters, ensure all data is managed and secure, and deploy and support changing requirements. The ideal candidate will be proficient in cluster administration, network administration, relevant virtualization, and relationship to storage. You will support an environment with guarantees of no data leakage, rapid recovery process from VM snapshots, and support substantial cluster service scale and growth.
+	- ***Architect and evolve our Tenstorrent OpenStack environment***
+	- Linux system configuration, and administration
+	- Understand cluster requirements with evolving customer needs. Design and implement solution meeting requirements
+	- Work across teams to provide feedback and guidance in the evolution of the platform support and maintenance practices
+	- Build process and procedures through comprehensive testing resulting in published documentation
+	- Define support team for all cloud tenants
+	- Effectively communicate with cloud tenants as required
+	- Additional responsibilities assigned from time to time
+	- Bachelor’s Degree in a related discipline or equivalent experience, with 6+ years of professional experience
+	- 4+ years of experience of architecture experience in an OpenStack environment
+	- 5+ years of experience with Linux configuration, and administration
+	- Strong client service orientation and ability to maintain positive partnerships
+	- Certified OpenStack Administrator or equivalent experience
+	- Detailed knowledge of one of the public clouds
+	- Experience with Containers
+	- ***Automation using tools such as Ansible, Puppet, BASH and Python Scripting***
+	- Provide product training through webinars and workshops
+	- Excellent planning and problem-solving skills
+	- Organized and track record of managing complex projects
+	- Ability to work with internal developers to collect feedback, prioritize tasks, and manage the engineering backlog
+	- Willing to roll up your sleeves and help out with hardware and software issues
+	- ***Experience with Ceph/Swift***
+	- ***Membership and extensive interaction with the OpenStack community and active participation in the core projects***
+	- ***Familiarity with Infrastructure Automation***
+	- ***Familiarity with Kubernetes***
+	- ***Familiarity of Data Center design, including server hardware, rack diagrams, power, and cooling requirements***
+	- ***Knowledge of Canonical’s OpenStack***
+	- ***Knowledge of Monitoring and Performance, such as Prometheus, Grafana***
+	- ***Knowledge of Container Security, such as Falco, Sysdig Secure, Aqua, or Anchore***
+	- ***Knowledge of Image Registries, such as Quay, Harbor, Docker Registry***
+	- ***Knowledge of ML/AI Orchestration, such as Kubeflow, OpenDataHub.io, or Domino***
++ skill set:
+	- Infrastructure Engineer
+	- At Edge Impulse we are building the future of data-driven engineering.
+	- This is a unique opportunity to join us as we usher in the future of embedded machine learning by empowering developers to create and optimize solutions with real-world data. Our teams make the process of building, deploying, and scaling embedded ML applications easier and faster than ever, unlocking massive value across every industry, with millions of developers making billions of devices smarter.
+	- Improving the scalability, performance and resilience of our infrastructure
+	- Improving the stability of our platform with observability, monitoring, alerts at the center of workflow
+	- Manage per-customer on-premise infrastructure for enterprise customers on multiple cloud providers (e.g. AWS & Azure)
+	- Ensure our cloud infrastructure meets security compliance standards (e.g. SOC2)
+	- Iterate quickly on experimental new features to solve real user problems, and enable other engineers in the team to do so too by offering high-quality CI & CD pipelines & integration tests
+	- Work alongside our ML and embedded teams to push the boundaries in embedded ML
+	- Technical curiosity and a willingness to help across the team and learn new skills
+	- Knowledge of cloud compute and storage, including public cloud vendors (AWS, GCP, or Azure)
+	- Experience using infrastructure provisioning tools such as Terraform, CloudFormation or Pulumi
+	- Experience with observability tools like AWS CloudWatch, Splunk or Grafana
+	- Experience with CI & CD solutions like Github, Gitlab or Jenkins
+	- Experience working in Linux environments
+	- Good understanding of software engineering principles and distributed systems constraints
+	- Ideally, experience with (a subset) of the following technologies & programming languages: Typescript, Node, Python, Tensorflow, Kubernetes and/or Docker
 + skill set:
 	- develop distributed traning infrastructure for faster training of ML models
 	- efficiently deploy ML models into production
@@ -8365,6 +8721,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Data engineering experience and data pipeline tooling (e.g. Airflow, DBT) experience is a plus
++ To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -8717,6 +9074,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Strong communicator in-person, in writing, and in presentations
 	- History of project leadership & ownership from both a technical perspective and business
 	- Graphistry is a visual graph AI startup that spun out of UC Berkeley to accelerate investigation processes. It is a Gartner Cool Vendor and features the first GPU-accelerated visual graph analysis environment, low-code investigation automation, autoML for deploying graph AI, and integrates with popular data science & database technologies. Profitably growing 3X+ year-over-year, Graphistry is helping enterprise, tech, and public sector teams begin their modern graph journey, especially around digital crime and commercial analytics. It helped start the modern GPU dataframe compute movement (Apache Arrow, Nvidia RAPIDS) and is working to scale & democratize graph neural networks.
++ Experience with Google Analytics, MixPanel, and content optimization tools
 + skill set:
 	- BLAH.
 + skill set:
@@ -9350,6 +9708,8 @@ They support databases for:
 
 ####	Skill Sets for Data Engineering
 
+
+
 ***Skill sets for data engineering***:
 + You've used several data storage technologies like Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra and have some idea how they work and why they work that way. 
 + Experience with Scala, Scalding, Luigi, Hive, machine learning pipelines and model training is a plus
@@ -9967,6 +10327,24 @@ They support databases for:
 	- Knowledge of Linux operating systems
 	- Understanding networking in general and the major internet protocols
 	- Knowledge of network security concepts and practices
++ skill set:
+	- As a Data Analytics Engineer, you will be responsible for designing, building, and maintaining our data analytics infrastructure. You will work with stakeholders throughout the firm to understand their data needs and requirements, and help them implement data-driven solutions to a wide variety of problems. This role is a great opportunity to work closely with the many teams throughout the company, including Product, Business, Finance, and Engineering.
+	- Develop, manage, and maintain our data analytics infrastructure
+	- Design and maintain ETL processes to ensure data quality and integrity
+	- Combine data across multiple disparate sources
+	- Build and maintain dashboards and reports to help stakeholders understand and utilize data
+	- Move us towards a robust data platform with self-service capabilities for the entire team
+	- A proven track record of developing and maintaining infrastructure for data analytics
+	- Extensive experience with SQL
+	- Appreciation for simplicity and pragmatism
+	- A “roll up your sleeves” mentality and comfort with ambiguity
+	- Passionate about making programming accessible to all
+	- Experience designing and maintaining data warehouses
+	- Experience with data orchestration tools (Airflow, Luigi, Dagster, etc.)
+	- Experience with ETL tools and version control (DBT, Fivetran, etc.)
+	- Experience working with consumer data at scale
+	- Experience building a developer tool (it can be personal dev)
+	- Proficiency in Python
 + skill set:
 	- BLAH.
 + skill set:

@@ -7,6 +7,10 @@
 
 
 
+
++ new product introduction, NPI
++ new technology introduction, NTI
+	- for semiconductor manufacturing
 + skill set:
 	- Director of Product Management, Security
 	- The Sr Director of Product Management is a unique opportunity to own the business and product outcomes for our Security Operations products, in a market space that is in a high growth phase. This candidate will be the owner of our Security Operations product portfolio (Splunk SOAR, Mission Control, and adjacent products). We’re looking for someone who can go wide in engaging multiple organizational levels with customers as well as Splunk internally, and simultaneously have a strong enough skill set to gain a deep understanding of the products they are managing. 

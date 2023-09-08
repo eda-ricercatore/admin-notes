@@ -801,6 +801,24 @@ reactive programming = asynchronous dataflow programming
 	- Amazon EC2; and
 	- Ruby on rails.
 + skill set:
+	- Fullstack engineer
+	- As a core member of our cloud team, you will be responsible for designing and implementing scalable, secure and high performance cloud-based web applications with both frontend and backend components, with an emphasis on backend. You will need to make critical architectural decisions with appropriate trade-offs and deliver the implementation with speed and quality. You will also design and develop highly secure REST APIs and take care of the integration with both internal or external applications or services.
+	- Expert knowledge of computer science, with strong competencies in data structures, algorithms and software design
+	- 8+ years software engineering roles with a track record of successful delivery of production quality web services at large scale
+	- Strong experience working with cloud services - AWS/Azure/GCP, through container solutions such as Dockers and Kubernetes 
+	- Strong experience with developing and integrating with highly secure REST APIs
+	- Experience working with all layers of typical monolithic architecture such as databases, memory caches, message queues etc. 
+	- Experience with using web application platforms such as Golang and React JS to build interactive single-page Web Applications
+	- Absolutely fanatical about performance, automation and instrumentation. Ability to decompose complex distributed systems and quickly pinpoint issues. Experience with TDD, devOPS, CI/CD etc.
+	- Strong team player with grit and integrity   
+	- Prior start-up experience
+	- Experience with using DeepLearning Frameworks such as PyTorch or TensorFlow to run large scale (batched) data processing pipelines in the cloud  
+	- Experience with CUDA or GPU architectures
+	- Experience with Geo-spatial databases such as PostgreSQL
+	- Experience architecting backend for (mobile) IoT devices
+	- Experience with developing and running microservices
+	- There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more)!
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1513,6 +1531,52 @@ reactive programming = asynchronous dataflow programming
 	- Spring Framework
 	- Spring Boot
 	- Hibernate/ORM
++ skill set:
+	- As a Technical Lead, you ill join our Nexus Settlement team in Oslo. We make use of Amazon WebServices (AWS) such as Athena, Glue, DynamoDB and S3, RDS. Our team uses Java including frameworks like Apache Spark for ETL running on Databricks, Spring Boot for the RESTful API (Docker) and React for GUI development. We always evaluate the latest technologies and we have the freedom to choose the right technology to solve the task.
+	- Experience building RESTful APIS using Spring Boot and Java
+	- Experience with big data platforms and building ETL pipelines with Spark
+	- Professional knowledge of SQL.
+	- Experience working with cross functional teams.
+	- Some experience with UI development with React
+	- An advantage if you also know Spark, Databricks, Spring boot, React or Angular
+	- Our stack currently includes AWS, Spring Boot, Spring Cloud, Postgres, Elastic search, DynamoDB, Kinesis, Lambda, and many other.
++ skill set:
+	- Software Engineer - Backend Systems
+	- Responsible for building out a cloud runtime for an AI engine that automates various aspects of an ML/AI system workflow including feature pipelines, model training and a real-time multi-tenant inference system.
+	- Candidates will need to have a BS or MS from top notch CS programs with over 4 years of industry experience. We are looking for excellent backend / systems software engineers who have experience building at least one of the following:
+		* Large scale backend systems used by consumer or high volume enterprise services
+		* Cloud data processing platforms in production
+		* Large scale machine learning pipeline infrastructure
+	- Experience building production applications which use ML/AI is a plus.
++ skill set:
+	- Backend engineer
+	- Oakland, CA
+	- Welcome to Hayden AI, where the future is ours to make.
+	- This is our mantra and the mark of our difference—and by no accident. It’s a decision: We choose, every day, to uphold our collective promise.
+	- Our six cultural values make it all possible. The qualities inherent to our identity, they guide everything we do as individuals and as a global team: what we say, how we behave and engage, the people we hire, even the innovations we pursue. They allow us to act as one across all levels, engagements, and borders, take our plans beyond the boardroom, and ultimately deliver exceptional work to our customers.
+	- Come join us, and help us build a vision-based data platform for smart enforcement and smart cities with our six core values in mind:
+		* Customer Focus
+		* Passion
+		* Collaboration
+		* Empowerment
+		* Transparency
+		* Integrity
+	- Architect, design and develop web applications used by employees and suppliers.
+	- Develop back end stack of web applications using AWS Appsync, AWS API Gateway, Lambda functions, DynamoDB, and Elastic search.
+	- Use AWS Amplify framework for designing, developing and deploying artifacts to various environments.
+	- Work with product manager and business folks to gather requirements and develop technical solutions.
+	- Produce bullet proof code that is fault tolerant, efficient and maintainable.
+	- Work in agile teams in a collaborative manner
+	- Collaborate and communicate with stakeholders.
+	- Develop, share and enhance best practices for the full software development life cycle including coding standards, code reviews, source control management, build processes, testing, and operations.
+	- 5+ years in a software developer position.
+	- Deep knowledge of Amazon’s AWS ecosystem.
+	- Strong knowledge of Python preferred, but JavaScript also accepted.
+	- Database experience, including knowledge of SQL and NoSQL models.
+	- Problem-solving skills, and ability to take ownership of issues.
+	- Knowledge of software development technologies, processes, and tools (i.e., Agile software development).
+	- Knowledge of web services / RESTful APIs.
+	- There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more)!
 + skill set:
 	- BLAH.
 + skill set:

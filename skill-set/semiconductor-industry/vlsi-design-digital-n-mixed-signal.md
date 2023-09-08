@@ -176,6 +176,15 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 
 
+
+
+
+
+
+
+
+
+
 List(s) of companies in the semiconductor industry:
 + Electronic System Design Alliance (ESD Alliance) members: https://www.semi.org/en/communities/esda/membership-directory
 	- SEMI: http://www.semi.org/en/Membership/MemberDirectory
@@ -201,11 +210,86 @@ List(s) of companies in the semiconductor industry:
 
 
 
+
+
+
+
+
+
+
+
 ##	Skills for VLSI Design
 
 
 
-
++ ***Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs***
++ Deep understanding of ***timing corners, operating modes, OCV, cross-talk, noise, signoff criteria***.
++ skill set:
+	- Flex Logix is seeking a EFLX RTL/Frontend Design Engineer to join our team. You will be responsible for developing/migrating the RTL of the eFPGA and the next-generation InferX solutions. 
+	- The candidate must be able to work in the architecture/frontend stage of silicon development: specification, coding, some verification, and some synthesis support for the
+		* Flex-Logix in-house interconnect switch/bitcell modeling. 
+		* eFPGA reconfigurable building block (RBB), block memory (BRAM), and IP netlist. 
+		* InferX reconfigurable tensor processor block. 
+		* InferX high-speed configurator. 
+		* MBIST/Repair RTL generation for memory IPs. 
+	- BS/MSEE/CE/CS with a minimum of 3 years of experience in RTL design or functional verification. 
+	- Experience with starting designs from scratch. 
+	- Extensive experience coding Verilog, running simulation, and debugging simulation failure. 
+	- Experience interfacing with internal and 3rd party IP suppliers. 
+	- Experience running Lint, CDC, and other static quality checks. 
+	- Working knowledge of System Verilog. 
+	- Experience scripting in Python or Perl. 
+	- Work effectively with the verification team to deliver a high-quality RTL which is easy to maintain, scalable, and with high-speed performance. 
+	- Must be passionate about doing this job: wanting to change the world and work hard doing it. 
+	- Knowledge of computer architecture, especially in systolic arrays. 
+	- Familiarity with memory architecture in SoCs - Experience with DDR and PCIe standards. 
+	- Experience with FPGA design and emulation. 
+	- Experience with FPGA and ASIC EDA tools. 
+	- Experience interfacing with back-end teams (silicon engineering). 
+	- Familiarity with C or C++ coding. 
+	- Experience with DMA, DDR controllers, NoC configuration, and other 3rd party IP. 
+	- Logic/physical synthesis of RTL.
++ skill set:
+	- The Design Engineer primary job function is to work with team members to design and develop the digital modules from the concept to tape out or release for FPGA.  This position will be part of our Hardware Development group. The Senior Digital Design Engineer needs to be able to start from the requirements, develop a feasible micro architecture, implement the function using RTL language, verify the functionality, and follow up until completion of the product.
+	- Understand the requirements, gather the relevant information, and develop a solution.
+	- Use RTL language to design the digital functional modules.
+	- Use simulation tools to check the functionalities of the designs in RTL and gate level.
+	- Collaborate with other team members to define a verification methodology and a test plan
+	- Write clear documentation of the designs.
+	- BS/MS in Electrical Engineering or related degree or certification required
+	- 5+ years of experience in digital logic design
+	- Fluent in Verilog and SystemVerilog
+	- Knowledge of CPU and SRAM based SoC components and system busses (AXI, AHB, APB) is strongly desired
+	- Knowledge of standard SoC interfaces (SPI, I2C, etc.…) and high-speed IO protocols (PCIe, USB, DDR) is a plus
+	- Good skills in Python and shell scripting are desired
+	- Good debugging skills, and well experienced with VCS/Verdi or similar toolsets
++ skill set:
+	- As an IC Design Engineer, you will work with the circuit design, software engineering, business development unit and potentially customer to define and design the Efinix’s IP and system to meet customers’ requirements. Also, you will be creating the IP and system documentations.
+	- Work on the definition, design, verification, and documentation for Efinix’s custom IP and custom system development.
+	- Work on multiple aspects of IC design such as schematic creation at transistor level, RTL development, logic verification, circuit spice simulation, synthesis, timing closure, and characterization.
+	- Work with top level design team and software engineering team to integrates the custom IP/design into the full chip netlist and the Efinix’s software.
+	- Work on the timing libraries, verification models, design models and the integration of these collaterals into the development kits.
+	- Work with architect and project manager team in understanding the IP requirements and generate the necessary specification and design.
+	- Support the Application team and potentially customer for any design related questions, debug and correction.
+	- Bachelor’s Degree in Engineering (Electronic/Computer Engineering) or equivalent
+	- Working experience in IC design and IP development using FPGA/ASIC design principle/techniques.
+	- RTL coding skills and languages including VHDL/Verilog
+	- Experience in IP integration in chip and/or subsystems
+	- Experience with FPGA design tools such as Xilinx Vivado or Altera Quartus
+	- Laboratory use of highspeed spectrum analyzer, logic analyzer and related tools will be a plus
+	- Excellent problem solving and analytical skills
+	- Excellent verbal and written communication skill in English
+	- Ability to work in a fast-paced global team environment
++ skill set:
+	- RISC-V SoC Design Engineer
+	- Involve definition, design, verification, and documentation for SoC (System on a Chip) development.
+	- Component- & system-level RTL design, and system-level integration.
+	- Develop and carry out firmware & hardware testing.
+	- Translate the system level requirements to FPGA system implementation
+	- Experience in FPGAs & related tools flow
+	- Experience in RTL & system-level verification, and FPGA hardware testing.
+	- Experience in system interconnect bus (e.g.: AXI, AHB, AVMM).
+	- Experience in embedded software development on BareMetal, RTOS or Linux or bootloaders will be added advantage.
 + in-chip monitoring, and in-chip monitoring IP, for advanced chip node designs
 + skill set for signal/power integrity analysis:
 	- HyperLynx.
@@ -768,6 +852,75 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
+
+
+
+
+
+
+###	Skills for IP-based Digital Circuit and System Design
+
+
+
+
++ skill set:
+	- As a Staff IP Design Engineer, you will work with the circuit design, software engineering, business development units, and potentially customers to define and design the Efinix’s IP and IP systems to meet customer’s requirements. Also, you will create the IP and IP system documentation.
+	- Location: Penang, Malaysia
+	- Work on the definition, design, verification, and documentation for Efinix’s IP and system development.
+	- Work on multiple aspects of IP design such as RTL development, verification, synthesis, timing closure, and characterization.
+	- Work with the software team on the timing libraries, verification models, design models, and the integration of these items into the development kits.
+	- Work with business development team to understand customers' IP requirements and generate the necessary specifications and design.
+	- Support the Applications team and potentially customers in integrating the IP into their system.
+	- Bachelor’s Degree in Engineering (Electronic/Computer Engineering) or equivalent.
+	- 5-8 years of working experience in IC design and IP development using FPGA/ASIC design principle/techniques.
+	- RTL coding skills and languages including VHDL/Verilog HDL.
+	- Experience in IP integration in chip and/or subsystems.
+	- Experience with FPGA design tools such as Xilinx Vivado or Altera Quartus is a plus.
+	- Excellent problem solving and analytical skills.
+	- Excellent verbal and written communications ability in English.
+	- Ability to work in a fast-paced global team environment.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Skills for IC Layout Designers
 
 
@@ -894,7 +1047,26 @@ Skill sets for mixed-signal IC design:
 + skill set:
 	- Familiar with scripting or programming (Python, Terraform, etc) with the ability to demonstrate a robust technical background.
 + skill set:
-	- BLAH.
+	- Hardware Automation Engineer
+	- The employee will own hardware design automation and flows for the core technology team at Achronix.
+	- Develop and maintain Python tools for hardware design automation and analysis
+	- Develop and support processes for bug tracking, continuous integration and hardware regression testing using a combination of internally-developed scripts and third-party tools
+	- Monitor regression environment for systematic issues and facilitate health checks (e.g., system/disk performance, rolling out script/tool/plugin updates)
+	- Identify infrastructure optimizations and validate them using data-driven processes
+	- Identify areas for improvement in the engineering process and design and develop scripts to implement these improvements
+	- Drive efforts to improve the visibility into the design process to catch errors earlier and implement automated error checking
+	- Collaborate with external teams to drive standardization of engineering processes and methodologies across organizations
+	- Excellent programming and debugging skills in Python
+	- Excellent Unix/Linux knowledge
+	- Able to build complex Python tools from scratch as needed
+	- Experience profiling and optimizing scripts, both for performance and portability
+	- Strong understanding of version control systems – e.g. perforce, git, mercurial
+	- Experience with CI/CD tools is a plus – e.g., Jenkins, TravisCI, Buildbot
+	- Familiarity with grid engine or job scheduler tools – e.g. SGE, LSF
+	- Familiarity with circuit/ASIC design process and FPGAs is a plus
+	- Familiarity with object-oriented programming concepts is a plus
+	- Well organized with excellent communication skills; ability to operate without direct supervision and collaborate efficiently with other team members
+	- BS/MS in Electrical Engineering or Computer Science + 2-6 years' experience
 + skill set:
 	- BLAH.
 + skill set:
@@ -925,6 +1097,90 @@ Skill sets for mixed-signal IC design:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skills for Physical Design Engineers
+
+
+
+Skills for Physical Design Engineers (in the context of VLSI CAD):
++ skill set:
+	- Flex Logix is looking for Physical Design Engineer-SOC engineers to join our growing team. 
+	- Generate block level static timing constraints. 
+	- Build IP floor-plan including pin placement, partitions and power grid. 
+	- Develop and validate high performance low power clock network guidelines. 
+	- Perform block level place and route and close the design to meet timing, area and power constraints. 
+	- Generate and Implement ECOs to fix timing, noise and EM IR violations. 
+	- Run Physical design verification flow at chip/block level and provide guidelines to fix LVS/DRC violations to other designers. 
+	- Participate in establishing CAD and physical design methodologies for correct construction designs.
+	- Bachelors or Master’s Degree in EE/CS required. 
+	- 5+ years of Physical Design experience on IP and/or SOC designs.
+	- Experience in developing and implementing Power-grid and Clock specifications.
+	- Deep knowledge about industry standards and practices in Physical Design, including Physically aware synthesis, Floor-planning, and Place & Route.
+	- Deep understanding of scripting languages such as Perl/Tcl, solid understanding of Extraction and STA methodology and tools. 
+	- Deep understanding of Physical Design Verification methodology to debug LVS/DRC issues at chip/block level.
+	- Strong understanding of all aspects of Physical construction, Integration and Physical Verification.
+	- Knowledge of Basic HDL languages like Verilog to be able to work with logic design teams for timing fixes.
+	- Familiar with power intent definition, implementation and verification flows.
+	- Familiar with power analysis and optimization methods.
+	- Power user of industry standard Physical Design & Synthesis tools.
++ skill set:
+	- Flex Logix is looking for nMAX Physical Design Lead Engineer to join our team.
+	- Generate block level static timing constraints. 
+	- Build IP floor-plan including pin placement, partitions and power grid. 
+	- Develop and validate high performance low power clock network guidelines. 
+	- Perform block level place and route and close the design to meet timing, area and power constraints. 
+	- Generate and Implement ECOs to fix timing, noise and EM IR violations. 
+	- Run Physical design verification flow at chip/block level and provide guidelines to fix LVS/DRC violations to other designers. 
+	- Participate in establishing CAD and physical design methodologies for correct construction designs.
+	- Bachelors or Master’s Degree in EE/CS required. 
+	- 5+ years of Physical Design experience on IP and/or SOC designs.
+	- Strong understanding of all aspects of Physical construction, Integration and Physical Verification.
+	- Knowledge of basic HDL languages like Verilog to be able to work with logic design teams for timing fixes.
+	- Deep understanding of scripting languages such as Perl/Tcl, solid understanding of Extraction and STA methodology and tools. 
+	- Deep understanding of Physical Design Verification methodology to debug LVS/DRC issues at chip/block level.
+	- Deep knowledge about industry standards and practices in physical design, including physically aware synthesis, floor-planning, and place & route.
+	- Experience in developing and implementing Power-grid and Clock specifications.
+	- Familiar with power intent definition, implementation and verification flows.
+	- Familiar with power analysis and optimization methods.
+	- Power user of industry standard Physical Design & Synthesis tools.
++ skill set:
+	- Senior Physical Design Engineer
+	- Candidate must have 7-10 years of experiences in place & route. Tasks including but not limited to the following:
+	- Develop the physical development flow
+	- Floor Plan, Power Plan, Place & Route, Clock Tree synthesis, timing/SI closure of blocks & full chip
+	- Padring, RDL development
+	- DRC/LVS
+	- IR/EM analys
+	- DFT knowledge is a plus
+	- Excellent communication with internal team and customers
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

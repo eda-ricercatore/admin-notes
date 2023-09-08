@@ -40,6 +40,23 @@
 	- Participate in code reviews, providing constructive feedback and ensuring code quality.
 	- Debug and resolve technical issues, identifying and implementing effective solutions.
 + skill set:
+	- Bachelor’s or Master’s degree in computer science or related engineering fields
+	- 8+ years of software development with C and C++ languages in a U-Boot/UEFI and Linux in an embedded or server environment
+	- Hands-on programming experience with the Linux kernel internals, device drivers for multi-core SoCs, Linux networking and PCIe sub-systems
+	- UEFI BIOS/EDK2.1 experience and low-level embedded firmware development experience
+	- Hands-on experience with the GNU/LLVM tool chain and debuggers like GDB
+	- Hands-on programming and debugging experience with board bring-up and BSP delivery
+	- Experience in performance optimization at the firmware, bios, kernel and application layers including hardware accelerators
+	- Ability to work independently and across geographies with hardware, SQA and product management teams
+	- Excellent problem-solving and debugging skills and good English communications skills, both verbal and writing
+	- Practical experence in two or more of the following: U-Boot, UEFI, Linux, Virtualization, Hypervisor, KVM, QEMU, Device Drivers, PCI-E, Ethernet, USB, DPDK, NFV, Network Programming
+	- Good understanding of CPU architecture, ARM or X86
+	- Knowledge of Linux power management, Linux Reliability-Availability-Serviceability (RAS) framework, DPDK, Control Plane, SMART NIC, Networking Fast Path and the Linux Storage stack will be an added plus
+	- Development experience with Virtualization and Hypervisors including KVM and QEMU
+	- Experience working in multi-core, multi-process/thread environment
+	- Knowledge of open source Linux, source code upstreaming, git repository maintenance and source code management and kernel.org flow understanding
+	- Understanding of AL/ML frameworks like TensorFlow will be an added plus
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

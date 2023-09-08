@@ -90,7 +90,8 @@
 	- Understanding of high-level network protocols (HTTPS, protobuf, JSON)
 	- Understanding of distributed computing (load balancing, RPC, Map/Reduce, databases)
 + Exposure to various high-performance networking technologies including MPI, NCCL, RDMA, Infiniband and RoCE
-
++ ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
+	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***
 
 
 
@@ -124,6 +125,13 @@
 
 
 + Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
++ skill set:
+	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
+	- Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
+	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
+	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
+	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
 + skill set:
 	- Experience with asynchronous I/O and coroutines
 	- Experience with event driven service architecture
