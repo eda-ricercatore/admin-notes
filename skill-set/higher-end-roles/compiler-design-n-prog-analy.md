@@ -29,6 +29,27 @@ Notes:
 
 Skill set for compiler design:
 + skill set:
+	- Target-independent optimization techniques
+	- Optimized code-generation for scalar and vector DSPs
+	- Definition and implementation of dedicated C/C++ language extensions
+	- Architecture definition and enhancements
+	- Benchmark and performance optimization
+	- B.Sc Computer science, or similar degree from a known University.
+	- Experience and knowledge of C/C++ – An advantage
+	- Team player with excellent communication skills.
+	- Experience in Python scripting – advantage
++ skill set:
+	- Target-independent optimization techniques
+	- Optimized code-generation for scalar and vector DSPs
+	- Definition and implementation of dedicated C/C++ language extensions
+	- Architecture definition and enhancements
+	- Benchmark and performance optimizations
+	- B.Sc Computer science, or similar degree that provides strong knowledge of computer science theory along with practical software devolvement skills
+	- 3+ years software development experience with excellent knowledge of C/C++.
+	- Team player with excellent communication skills.
+	- Experience with LLVM Compilers – advantage
+	- Experience in Python scripting – advantage
++ skill set:
 	- Retargeting of a C/C++ compiler towards specific microcontroller architectures
 	- Activities comprise participation in the development, maintenance, build, test, and release of compiler and run-time libraries for existing and forthcoming processor architectures, including competitive performance analysis, root cause analysis, and bug resolution
 	- 6+ years of experience with SQL databases (we use Postgres) and data manipulation
@@ -187,7 +208,47 @@ Skill set for compiler design:
 	- MLIR
 	- GLOW
 	- XLA
++ skill set for ***Machine Learning Compiler Research Intern***:
+	- NVIDIA is hiring software engineer interns for its GPU-accelerated Deep Learning team. Academic and commercial groups around the world are using GPUs to power a revolution in deep learning, enabling breakthroughs in problems from image classification to speech recognition to natural language processing and artificial intelligence. Join NVIDIA's team building software which will be used by the entire deep learning research community.
+	- In this role, you will be responsible for developing highly optimized solutions for deep learning algorithms. You’ll collaborate with members of the open source deep learning software engineering community to define and implement the features needed to accelerate the next generation of deep learning software frameworks. The scope of these efforts ranges from defining public APIs, performance tuning and analysis, crafting and implementing compiler and optimization techniques for neural networks, and other general software engineering work.
+	- Pursuing Master's (or equivalent experience) or PhD degree in CS or related field or equivalent.
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+	- Knowledge of CPU and/or GPU architecture. CUDA or OpenCL programming experience desired but not required.
+	- Experience with the following technologies: deep learning models and algorithms, deep learning framework design, high performance compiler design, or EDA synthesis and optimization algorithms.
+	- You have a history of mentoring others.
++ skill set:
+	- ***Develop machine learning graph compiler***
+	- Participate in the co-design of Tenstorrent's hardware and software stack
+	- ***Benchmark, analyze, and optimize performance of key machine learning applications across Tenstorrent's hardware and software stack***
+	- ***Develop performance analysis and estimation infrastructure that feeds into Tenstorrent compiler***
+	- ***Develop high-performance run-time engine***
+	- ***Integrate the Tenstorrent software into leading machine learning frameworks***
+	- Work closely with machine learning engineers to discover the hardware and software requirements of current and future machine learning applications
+	- BSc, MSc or PhD in Electrical/Computer Engineering or Computer Science;
+	- Experience with algorithms, data structures, and software development in C/C++. Python expertise is welcome as well
+	- ***Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus***
 + compiler development experience for GPU compilers, dataflow computing compilers, and/or machine learning compilers
++ skill set:
+	- Principal Engineer, Compilers
+	- In partnership with the leadership team, create and define the product roadmap and co-design of Tenstorrent's hardware and software stack
+	- ***Develop machine learning graph compiler***
+	- ***Be the subject matter expert across one or more areas: scheduling, parallelization, memory allocation, data flow optimizations, optimizing kernels***
+	- ***Define the benchmark, analyze, and optimize performance of key machine learning applications across Tenstorrent's hardware and software stack***
+	- ***Develop performance analysis and estimation infrastructure that feeds into Tenstorrent compiler***
+	- ***Integrate the Tenstorrent software into leading machine learning frameworks***
+	- Provide technical guidance and direction to junior staff member
+	- Work closely across teams to discover the hardware and software requirements of current and future machine learning applications
+	- ***Deep understanding of IR and machine level compiler optimization techniques.***
+	- ***Extensive working experience with one or more: scheduling, parallelization, memory allocation, data flow optimizations, optimizing kernels***
+	- 7+ years of experience working with algorithms, data structures, and software development
+	- C++, Python
+	- Bachelors in Computer Science or Electrical/Computer Engineering or Engineering Science
+	- Excellent verbal and written communication skills
+	- Ability to work across multiple teams
+	- 2+ years of experience as a technical lead, developing and mentoring a team
+	- Experience contributing to open-source projects, and demonstrated influence in the open community.
+	- Masters/PhD in Computer Science or Electrical/Computer Engineering or Engineering Science
+	- Software development in Python
 + skill set:
 	- compiler design for data parallel architectures
 	- compiler design for machine learning inference models
@@ -405,6 +466,21 @@ Skill set for compiler design:
 	- Strong understanding of computer architecture.
 	- Familiarity with analyzing machine learning networks using a Deep Learning framework (e.g. Pytorch, Tensorflow, etc.).
 + skill set:
+	- Data Processing Unit’s (DPU’s) are the new class of programmable processor’s igniting unprecedented innovation for modern data centers by offloading and accelerating networking, storage, compute and security services. As we work to advance and implement these technologies into our future offerings, our Compiler team is growing and seeking a top-tier Compiler Engineer Intern who wants an exciting and fun role as they help lead the charge to even greater accomplishments within a world-class organization. Come join us and to be part of the team in making a difference!
+	- We are hiring a Compiler Engineer Intern for a minimum 12-week, full-time (40 hours/week) internship for the Summer 2022 term!
+	- Design and implementation of significant parts of the compiler
+	- Work on performance analysis and design/implementation of new optimizations
+	- Partnering and collaborating with global compiler and network software teams to coordinate improvements and problem resolutions
+	- You are pursuing your BS/MS/PhD in Computer Science or Computer Engineering (MS/PhD strongly preferred) or equivalent
+	- Some work or research experience in performance analysis, compiler optimizations, code generation
+	- Knowledge of network programming, network protocols and layers
+	- Strong C/C++ and Python programming and software design skills, including debugging, performance analysis, and test design
+	- Solid interpersonal skills are required along with the ability to work in a dynamic product-oriented team
+	- Ability to collaborate well with others in an energizing environment
+	- Proven ability to design/architect compiler frameworks
+	- Experience with open source compilers and contributions to code base
+	- Background with data plane programming or Linux networking stack and hardware packet processing pipelines
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -605,6 +681,67 @@ Experience developing open-source software.
 Skill sets for program analysis:
 + Experience with profiling tools like PerfView (CPU, Memory, Garbage collection)
 + DBT experience, for dynamic binary translation in hardware emulators
++ skill set:
+	- Are you ready to be challenged, right from the interview process?  Are you looking to work with a highly intelligent but humble team? Do you want to work on cutting-edge cyber security problems and have the background to do it? Well then, this role may be for you.  
+	- GrammaTech is looking for a number of software engineers at varying levels of experience to perform advanced software development. Build new components and extend existing tooling to meet project needs. Implement both exploratory research prototypes and high-quality products. Possess significant experience contributing to large projects, developing software, with focus on C++ and Python.
+	- GrammaTech employees must be fully vaccinated against COVID-19.
+	- Location: Our R&D center is in Ithaca, NY, but we will consider remote employees with a strong match of skills and experience.
+	- Responsibilities of a research-oriented software engineer is expected to:
+		* Study and implement approaches drawn from academic literature or in-house design
+		* Evaluate the resulting prototype implementation to test its value in addressing the research goals
+		* Report results to the PI and respond by adapting the prototype to better address research goals
+		* Contribute to presentations and written reports to keep research sponsors up to date on project progress
+		* Prepare prototypes for demonstrations and evaluations by research sponsors
+		* Transition prototypes into deployable products
+	- Required Qualifications.
+		* BS in Computer Science or equivalent with a minimum of 3+ years demonstrated experience working in software development in C++ and Python. Knowledge of other languages is a plus.
+		* Experience in development activities on large code bases with software designed, built, and tested from scratch; familiarity with common software architectures and design patterns
+		* Experience with modern software -development life cycle practices including effectively using revision control systems (git), continuous integration and deployment (CI/CD), container and orchestration technology (docker, Kubernetes, etc.)
+		* Knowledge of fundamentals of software security and bug/vulnerability finding 
+	- Preferred Qualifications.
+		* MS or PhD in computer science or closely related field
+		* Knowledge of machine code, such as x86, ARM, or MIPS
+		* Background in static analysis for binaries and/or source code
+		* Experience with fuzzing or symbolic execution
+		* Experience with vulnerability research/demonstration or penetration testing (e.g., Metasploit)
+		* Compiler design, compiler front-end integration, C/C++ parsers
+		* Dynamic analysis, program instrumentation, and profiling
+		* System-administration experience, especially related to security
+		* Malware-analysis techniques
+		* Experience in using Machine Learning Frameworks like scikit-learn, TensorFlow, Keras, etc.
+	- Innovation is at the heart of GrammaTech. We are constantly pushing the boundaries of software research and development – from software assurance and software integrity to cyber-security threat mitigation and autonomic computing. 
+	- GrammaTech was founded over 30 years ago, with a firmly-grounded purpose to help organizations develop tomorrow’s software.  Given the ever-increasing dependence of software in today’s connected world, our staff is able to focus on the most challenging software issues through a constant stream of highly innovative research and commercial development programs – focused on the evolving cyber-security landscape, software hardening and intelligent systems.  Within these projects, GrammaTech employees have the opportunity to work with industry, academic, and government experts, significantly advancing their skills in engineering, research, marketing, or sales.
++ skill set:
+	- GrammaTech’s Common Lisp Software internship program offers students the opportunity to gain real experience in a friendly, open, and supportive environment. We choose projects based on real needs, and interns work closely with engineers to make sure that projects are completed successfully.  Current COMMON LISP IS REQURED FOR THIS ROLE.
+	- GrammaTech will conduct a series of programming tests and screening interviews in Common Lisp as part of our process. (Please do not apply if you do not have experience with Lisp, unfortunately, we cannot train for this role.)  
+	- GrammaTech employees must be fully vaccinated against COVID-19.
+	- Location:  Remote (must be in USA Only) with a possibility of being located in our Ithaca, NY office for the summer.  (COVID Restrictions will be considered as we get closer to the summer.)
+	- Responsibilities
+		* Research projects at GrammaTech can take on a wide variety of topics and challenges. Projects focus on software assurance, software protection, reverse engineering, and software transformation. We do both static and dynamic analysis on both source and object code, in order to tackle serious problems with practical solutions.
+		* Potential projects include:
+			+ Apply compiler optimizations to binaries. Develop some classic compiler optimizations on top of our Binary IR (https://grammatech.github.io/gtirb/)
+			+ Develop source-code program transformations for refactoring, optimization, and diversification on top of our Software Evolution Library (https://grammatech.github.io/sel)
+			+ Design and run large-scale experiments evaluating automated software modification and automated software engineering tools
+	- Required Qualifications
+		* Currently enrolled in a BS, MS, or PhD program
+		* Excellent programming skills with Common LISP (required)
+	- Preferred Qualifications
+		* Enrollment in a Computer Science PhD program
++ skill set:
+	- The primary responsibility is leading efforts to design and implement research prototypes, based on ideas drawn from academic literature and original research. Team size varies from project to project. On small projects, a scientist may implement a significant portion of the prototype, while on larger projects they will lead a team of engineers. Our scientists are expected to:
+		* Generate ideas for innovative solutions (original or drawn from the literature) that address needs identified by research sponsors
+		* Translate research ideas into working prototypes
+		* Manage researchers and engineers implementing research prototypes: identify risks, plan work, monitor progress, review designs and code used in prototypes, as well as adapt plans as we learn more about the sponsor’s needs and the benefits/deficiencies of the prototype
+		* Write proposals for research contracts
+		* Build and maintain relationships with research sponsors
+		* Document research results in written reports. Present results in-person at meetings with research sponsors
+		* Work with research sponsors to ensure success of any demonstrations or evaluations of the research prototype
+		* Promote research results in blogs, external presentations, and publications
+		* Collaborate with product and marketing teams to identify a strategy to turn the research prototype into a marketable product
+		* Ph.D. in Computer Science, Computer Engineering, or Software Engineering and a minimum of three years of industry or post-doctoral academic experience
+		* Experience leading research projects and managing/supervising a research team, as Principal Investigator (PI) or equivalent
+		* Research experience in compilers, static analysis, language-based security, or another field aligned with GrammaTech's research activities. Maybe your area of expertise is reverse engineering, or vulnerability detection, or code transformation. Expertise in machine learning or statistical techniques with applications to software development or security is highly relevant, as well. On the other hand, maybe you will be adding a new area of expertise to our team
+		* Lots of languages: C, C++, Java, machine code, etc. It's not just about our own code, it's about taking other people's software apart and showing them what makes it tick
 + skill set:
 	- BLAH.
 + skill set:

@@ -1192,6 +1192,9 @@ Projects you will be expected to complete in your the first 6 months
 + skill set:
 	- Experience with orchestration and build systems, such as Kubernetes, OpenShift, or Bazel.
 	- Join a team of passionate developers working with modern web development technologies: Java, Spring, Typescript, React, Cypress, next.js, Kubernetes, Bazel.
++ Experience with at least one of the job schedulers such as LSF, SLURM, Mesos/Marathon, Kubernetes, Docker Swarm
++ Experience with containers – Docker, Clear Containers, rkt
++ Some experience working with and implementing DevOps solutions including but not limited to Python, Ansible, Docker/Containers, Kubernetes and datacenter deployments
 + skill set:
 	- BLAH.
 + skill set:
@@ -1229,6 +1232,27 @@ Projects you will be expected to complete in your the first 6 months
 
 
 
+
+###	Skill Set for Compiler DevOps
+
+
+Skill set for Compiler DevOps:
++ skill set for Compiler DevOps, Software Intern:
+	- Do you want to help drive the progress of compiler development for cutting-edge technologies? Are you excited to learn new tools and develop infrastructure applications to assist developers? Are you passionate about improving software development workflows?
+	- We are building the next generation of compiler technologies to accelerate graphics, compute and deep learning applications. We are looking for an intern to work on infrastructure projects to accelerate compiler development & testing.
+	- In this role you will work closely with our build, release and productivity engineering teams to develop full-stack applications.
+	- Pursuing a BS in Computer Science, Computer/Electrical Engineering or related field.
+	- You are familiar with modern web UI frameworks such as React, Angular, or others.
+	- Experience with Docker containers, Jenkins, Artifactory and Kubernetes.
+	- You are skilled in wide variety of programming languages including Python and JavaScript.
+	- Background with MySQL or equivalent and exposure to NoSQL databases.
+	- Experience working across teams and converting designs to visual elements.
+	- Excellent communication, problem solving and analytical skills to decompose complex issues and present them clearly and simply.
+	- Background with agile software development methodology and practices.
+	- Experience designing and deploying large-scale and distributed system software in cloud environments.
+	- Experience with one or more version control systems, such as git or Perforce.
+	- Experience with Linux configuration and installation of apps. Networking is a plus.
+	- Interest in ground breaking technologies and the ability to take initiatives and drive them across multiple functional teams.
 
 
 

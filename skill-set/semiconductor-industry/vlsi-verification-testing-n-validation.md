@@ -176,6 +176,78 @@ VLSI verification methodologies:
 Skill set for roles in digital VLSI verification:
 + initial sandbox verification
 + skill set:
+	- Verification of Tenstorrent's digital IP and SOC logic, using advanced verification methodologies - UVM, FPGA prototyping, emulation
+	- Creation of test plans
+	- Writing testbenches, checkers and tests, models, assertions and irritators
+	- Creating functional coverage points
+	- Reviewing verification results and metrics and driving the verification convergence towards tape-out
+	- Performance and power verification and validation of Tenstorrent's IP and SOC
+	- Bachelor/Master in Electrical/Computer Engineering/Engineering Science
+	- Expert in hardware verification languages (SystemVerilog, SystemC)
+	- Experience with UVM and coverage driven constrained random verification
+	- Experience with Low power verification techniques
+	- Excellent programming skills. C/C++ as well as scripting languages (Perl, tcl)
+	- Deep interest in computer architecture, under-the-hood details of machine learning frameworks, GPU programming and methods for efficient parallelization of deep learning execution
++ skill set:
+	- Functional verification of high-performance CPUs going into industry leading AI/ML architecture. The person coming into this role will help define DV strategies and execute on them while working alongside with a group of highly experienced engineers across various domains of the AI chip.
+	- Define DV requirements for design changes resulting from rapidly evolving AI/ML models; work with engineers across domains to understand real world use cases
+	- Develop DV testplans for ISA and microarchitecture and execute on them
+	- Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers
+	- Build architectural tools for ISA level verification
+	- Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain
+	- Evaluate and integrate open-source toolchains into the DV flow
+	- Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of experience
+	- Experience with computer architecture/system components/network/fabric as a part of a CPU, ASIC or SOC design team
+	- Verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage, infrastructure, tools
+	- Experience with C++ / SV / UVM as well as scripting languages
+	- Experience with assembly level programming
+	- Experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)
+	- Strong problem solving and debug skills across various levels of design hierarchies
++ skill set:
+	- Develop DV testplans for ISA and microarchitecture and execute on them
+	- Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers and coverage models
+	- Build architectural tools for ISA level verification
+	- Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain
+	- Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon
+	- BS/MS/PhD in EE/ECE/CE/CS with a strong GPA
+	- Knowledge of computer architecture/system components/network/fabric, prior internship working in these domains preferred
+	- Strong academic skills or internship experience in verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage
+	- Academic projects in C++ / SV / UVM as well knowledge of scripting languages
+	- Understanding of assembly level programming
+	- Knowledge of hardware description languages (Verilog, VHDL)
+	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Understanding of deep learning concepts and familiarity with popular machine learning frameworks and models is a plus
++ skill set:
+	- In this role, you will learn Functional verification of high-performance CPUs going into industry leading AI/ML architecture. You will be mentored by and work alongside a group of highly experienced engineers across various domains of the AI chip.
+	- Develop and execute DV testplans for ISA and microarchitecture
+	- Understand and debug RTL code for the CPU and help make changes to the design
+	- Help with development of architectural tools for ISA level verification
+	- Write C/assembly based stimulus that scales from pre-silicon to emulation and post-silicon domain
+	- Help with infrastructure and tool development for RTL, Performance and DV environments
+	- Support development and integration of testbench components such as microarchitectural models, checkers and coverage
+	- Senior year BS/MS or PhD candidate in EE/ECE/CE/CS with a strong GPA
+	- Prior academic work in the field of computer architecture, internship experience preferred
+	- Academic projects in C++ / SV / UVM as well knowledge of scripting languages
+	- Understanding of assembly level programming
+	- Knowledge of hardware description languages (Verilog, VHDL)
+	- Strong academic skills or internship experience in verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage
+	- Strong problem solving and analytical skills
++ skill set:
+	- Design and development of scalable verification infrastructure for high performance CPUs going into industry leading AI/ML architecture. The person coming into this role will help define DV methodology and create tools and flows that will enable a multi-discipline and multi-site team to execute flawlessly. The person in this role will collaborate with a group of highly experienced engineers across various domains of the AI chip.
+	- Architecture and hands-on development of scalable solutions that are leveraged for DV testbenches, architectural tools, RTL development and performance modelling across CPU, compute engines and SOCs
+	- Development of automation systems for the entire design team
+	- Engage with leading industry vendors and 3rd party IP providers, drive integration of external tools and IPs in the design flow
+	- Experience with open-source tool-flows and deployment of applicable tools and infrastructure in the design flow; drive tool decisions for build vs leverage vs buy
+	- Own regular block/chip/emulation regressions
+	- Experience with development of DV tools and infrastructure and large-scale regression environments is required, extensive debug of automation workflows
+	- Knowledge of EDA tools, strong understanding of simulators. Hands-on experience working with emulation environment and tools is a plus
+	- Expertise developing tools for revision control, prior experience with git preferred
+	- Very strong programming skills in C/C++, scripting skills in Python, Tcl, Perl
+	- Knowledge of multiple testbench methodologies, proficiency in UVM is a plus
+	- Strong problem solving and debug skills across various levels of design hierarchies
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience
++ skill set:
 	- Flex Logix is looking for Verification Engineers to join our growing team. You will be involved in functional verification and emulation of Inference SoC and EFLX (embedded FPGA) cores in different process nodes.
 	- Responsible for all aspects of verification and emulation.
 	- Integration of industry standard Verification IPs.
@@ -407,6 +479,89 @@ Skill set for roles in VLSI testing:
 	- JTAG
 	- OpenCD
 + skill set:
+	- Position is Design for Test and Design for Debug (DFT/DFD or DFx) engineer for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all aspects of implementation and verification of advanced DFx techniques for various IPs. High level challenges include reducing test cost while attaining high coverage, and facilitating debug and yield learnings while minimizing design intrusions. The work is done alongside with a group of highly experienced engineers across various domains of the AI ASIC.
+	- ATPG and test coverage analysis using industry standard tools.
+	- ***JTAG, Scan Compression, and ASST implementation.***
+	- Gate level simulation using Synopsys VCS and Verdi.
+	- Support silicon bring-up and debug.
+	- MBIST planning, implementation, and verification.
+	- Support Test Engineering on planning, patterns, and debug.
+	- Develop efficient DFx flows and methodology compatible with front end and physical design flows.
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced DFx techniques.
+	- DFx experience implementing in finFET technologies.
+	- Experience with industry standard ATPG and DFx insertion CAD tools.
+	- Familiarity with System Verilog and UVM.
+	- ***Fluent in RTL coding for DFx logic including lock-up latches, clock gates, and scan anchors.***
+	- Understanding of low-power design flows such as power gating, multi-Vt and voltage scaling.
+	- Good understanding of high-performance, low-power design fundamentals.
+	- ***Knowledge of fault models including Stuck-at, Transition, Gate-Exhaustive, Path Delay, IDDQ, and Cell Aware.***
+	- Exposure to post-silicon testing and tester pattern debug are major assets.
+	- Experience with Fault Campaigns a plus.
+	- Strong problem solving and debug skills across various levels of design hierarchies.
++ skill set:
+	- Position is ASIC Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
+	- Track test execution to confirm all features are validated.
+	- Convert design specifications into characterization and test plans.
+	- Translate patterns and sequences into tester format to run on ATE and SLT.
+	- ***Help develop ATE load boards, SLT interface boards, and sockets.***
+	- Prepare for first silicon arrival with prioritized test plans that includes enablement of IP and critical features.
+	- Work with test systems, tools, and lab equipment to debug ASIC faults.
+	- Leverage lessons from current products to drive continuous improvements into future products.
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
+	- ***Experience with SLT, ATE, and new product introduction.***
+	- ***Proficiency with test equipment such as oscilloscopes, protocol/logic/network analyzers and signal generators.***
+	- Successful track record debugging SOC and board-level faults.
+	- ***Experience testing CPUs, high speed SERDES, PCIe, DDR, and PLLs is desirable.***
+	- ***Solid understanding of DFx features and standards including scan, ASST, MBIST, IEEE 1149.6, JTAG, and IJTAG, and fluency in RTL coding for DFx logic a plus.***
+	- Good understanding of PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools.
+	- Strong scripting skills in C/C++, Python, Perl, Java, Bugzilla, TCL, or Ruby.
++ skill set:
+	- Position is Hardware Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
+	- Work closely with the Design for Test and Design Verification teams on test vectors, coverage, and diagnostics.
+	- Track test execution to confirm all features are validated.
+	- Convert design specifications into characterization and test plans.
+	- Translate patterns and sequences into tester format to run on ATE and SLT.
+	- Help develop ATE load boards, SLT interface boards, and sockets.
+	- Prepare for first silicon arrival with prioritized test plans that includes enablement of IP and critical features.
+	- Work with test systems, tools, and lab equipment to analyze ASIC faults.
+	- Collect and analyze volume fault data for root cause identification.
+	- Debug issues found during bring-up, characterization, validation, and production.
+	- ***Generate voltage/frequency shmoos.***
+	- Leverage lessons from current products to drive continuous improvements into future products.
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
+	- Experience with SLT, ATE, new product introduction, and high-volume production enablement.
+	- Experience interfacing with OSATs and delivering converted ATE patterns for production runs.
+	- Proficiency with test equipment such as oscilloscopes, protocol/logic/network analyzers and signal generators.
+	- Expertise with processor characterization, speed path testing, frequency/power sort using ATE, and guard-banding for volume shipping.
+	- Successful track record debugging SOC and board-level faults.
+	- ***Experience testing CPUs, high speed SERDES, PCIe, DDR, and PLLs is desirable.***
+	- Good fundamentals in digital ASIC design, CMOS, and reliability.
+	- Strong scripting skills in C/C++, Python, Perl, Java, TCL, and/or Ruby.
+	- Experience with Bugzilla, LoadRunner, and Apache Maven.
+	- ***Solid understanding of DFx features and standards including scan, ASST, MBIST, IEEE 1149.6, IEEE 1687, and IEEE 1500.***
+	- Fluency in RTL coding for DFx logic is a plus.
+	- Basic understanding of DFT fault models.
+	- Good understanding of PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools.
++ skill set:
+	- Position is ASIC Production Test Engineer for industry leading AI/ML ASICs. The person coming into this role will enable and conduct high-volume production testing of ASICs in preparation for shipping. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
+	- Assist in initial silicon bring-up and debug, and provide feedback for changes needed for volume production.
+	- Assist in requirements and inputs for ATE load boards, SLT interface boards, and sockets.
+	- Collect and analyze volume fault data for root cause identification and yield improvement opportunities.
+	- Track and help improve production yield.
+	- Debug issues found during validation and production.
+	- Generate voltage/frequency shmoos.
+	- Determine characterization test needs and requirements for ASICs for volume production.
+	- Leverage lessons from current products to drive continuous improvements into future products.
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
+	- Experience with SLT, ATE, new product introduction, and high-volume production enablement.
+	- Experience interfacing with OSATs and delivering ATE patterns for production runs.
+	- Expertise with processor characterization, speed path testing, frequency/power sort using ATE, and guard-banding for volume shipping.
+	- Experience testing CPUs, high speed SERDES, PCIe, DDR, and PLLs is desirable.
+	- Basic understanding of DFT fault models.
+	- Good understanding of PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools.
+	- Good understanding of diagnostic and yield enhancement tools.
+	- Strong scripting skills in C/C++, Python, Perl, Java, Bugzilla, TCL, or Ruby.
++ skill set:
 	- Develop chip circuit test method and ATE test scheme with quality, cost, and schedule in mind
 	- Implement ATE test pattern according to test plans and verify correctness via RTL simulations
 	- Create loadboard and probe card schematics and work with vendor for timely board availability
@@ -538,6 +693,24 @@ Skill set for roles in VLSI testing:
 
 
 Skill set for roles in VLSI post-silicon validation:
++ skill set:
+	- As a ML processor bring-up and validation engineer in our System Engineering team, you will have a unique opportunity to work at the intersection of machine learning and systems engineering: performing combined tuning of model + system parameters, studying sparsity and data statistics vs. power/temperature; debugging performance and power bottlenecks for modern machine learning models. Additionally, the successful candidate will gain experience with state-of-the art ML processor architecture, embedded firmware development, FPGA and board design and debug.
+	- Development of post-silicon test and characterization/tuning plans
+	- ML processor bring-up and validation
+	- Firmware development in C++
+	- Architecture and development of frameworks for automating post-silicon verification, data analysis and debug
+	- RTL development for FPGAs
+	- Power/performance/speed characterization, data analysis and product definition
+	- Bachelor or Master’s in Electrical or Computer Engineering
+	- Superior analytical and problem-solving skills
+	- Excellent programming skills (C, C++, Python, Perl)
+	- Strong understanding of computer architecture and logic design
+	- Good understanding of circuit design, power regulation, high speed signal propagation
+	- Understanding of machine learning concepts and familiarity with popular machine learning frameworks and models
+	- Experience using lab equipment: high speed oscilloscopes, logic and protocol analyzers, spectrum analyzers, etc.
+	- Interest in and understanding of machine learning
+	- Superior verbal and written communication skills
+	- Ability to work cross functionally and drive issues to closure
 + skill set:
 	- Senior Post-Silicon Validation Engineer
 	- The successful candidate will join, as a key member, a team of post-silicon validation engineers that work towards the productization of high-performance FPGAs in 7nm and below.

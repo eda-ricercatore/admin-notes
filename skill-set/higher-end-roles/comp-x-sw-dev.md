@@ -446,6 +446,23 @@ Emerging technologies that would be interesting application domains of computati
 			+ "Math 4997-3 Parallel computational mathematics"
 		* https://isocpp.org/blog/2017/08/cppcon-2016-the-blaze-high-performance-math-library-klaus-iglberger
 + skill set:
+	- We are looking for software engineering interns for our cuSPARSE and cuSOLVER team which are a key part of high-performance computing and deep learning software stacks. The main purpose of these libraries is to provide the fastest computing primitives for sparse and dense linear algebra, like Cholesky decomposition and sparse matrix products among many others. We see strong interest in optimization of such key functionalities from various industrial and research organizations - from Gaming and Machine Learning to autonomous driving and chip modeling. Some of these kernels spend several milliseconds while others involve hundreds of GPUs and spend hours. All of them need to be optimized for current and future GPUs that involve mathematical changes of algorithms. Does the idea of being at the heart of these projects and apply your knowledge to develop and optimize algorithms which make an impact around world excite you? If yes, then come and join our team!
+	- During your internship, you will work with senior software engineers in the libraries team who will provide mentorship and guide you in developing highly optimized algorithms. Projects will involve implementing new numerical algorithms, defining APIs, analyzing performance, finding appropriate solutions for difficult numerical corner cases, and other general software engineering work.
+	- Prototype and develop numerical algorithms for high-performance math libraries in the areas of dense and sparse linear algebra for single node and multi GPU clusters
+	- Analyze the performance of GPU or CPU implementations and find opportunities for improvements.
+	- Collaborate with team members to understand software use cases and requirements
+	- Studying towards a degree in Computer Science, Applied Math, Engineering, or related field.
+	- Strong C++ programming, debugging, performance analysis, and test design skills.
+	- Strong algorithms and numerical methods fundamentals.
+	- Ability to work independently.
+	- Good teamwork, communication, and documentation habits.
+	- Parallel programming experience using multi-threading or MPI.
+	- GPU programming experience (CUDA or OpenCL).
+	- Experience developing and optimizing numerical software.
+	- Experience with sparse or dense algebra optimizations.
+	- Exposure to floating-point arithmetic and numerical error analysis.
+	- A scripting language, preferably Python.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -901,12 +918,32 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
-###	Software Development for Molecular Modeling, Molecular Dynamics, & Molecular Simulation
+###	Software Development for Molecular Modeling, Molecular Dynamics, Molecular Simulation, & Computational Chemistry
+
+
 
 
 
 
 + OpenMM experience for molecular dynamics simulations
++ skill set:
+	- We are now looking for Sr. Research Scientist, Computational Chemistry!
+	- NVIDIA is using the power of GPU computing and computational chemistry to accelerate digital biology. We are seeking hardworking individuals to help us realize our mission. As a Sr. Computational Chemistry Researcher, you will join a team passionate about research and development using molecular simulation and machine learning. Together, we will advance NVIDIA's capacity to build digital biology solutions.
+	- You’ll build large scale molecular dynamics simulations
+	- Collaborate with multiple AI research, high performance computing, and digital biology teams
+	- Drive the testing and maintenance of the algorithms and software modules
+	- Develop tools to assist data processing, data quality control, algorithm development, and algorithm testing
+	- 8+ years of relevant experience
+	- Advanced degree in a quantitative field such as Computational Chemistry, Computational Biophysics, Physics, Computer Science, Mathematics, or equivalent work experience
+	- Experience with molecular dynamics-based modeling, enhanced sampling or free-energy calculations, or statistical approaches for analyzing large datasets
+	- Background with C++ and/or python
+	- Recognized for technical leadership contributions, capable of self-direction, and ability to learn from and teach others
+	- You should display strong communication skills, be organized and self-motivated, and play well with others (be a phenomenal teammate)
+	- Ways To Stand Out From The Crowd
+		* Ability to use structural biology and experimental data to inform computational approaches
+		* Experience applying molecular dynamics or machine learning to drug discovery, biochemical and biophysical assay development, or target analysis and selection
+		* Background with CUDA programming
+		* Experience with deep learning
 + skill set:
 	- BLAH.
 + skill set:
@@ -971,7 +1008,13 @@ Skill sets for computational biology:
 		* Application of explainable AI, statistical modeling, algorithm design, machine learning to study cancer and genetics
 		* Analysis of large, complex genome, epigenome, and transcriptome data
 + skill set:
-	- BLAH.
+	- computational science, especially computational physics/chemistry/biology for statistical mechanics, biophysics, fluid mechanics, and molecular dynamics.
+	- statistical methodology, modeling, and inference
+	- numerical methods for solving PDEs, PDE solvers
+	- high-performance computing and software libraries
+	- signal and image processing for ***neurophysiology and structural biology***
+	- machine learning for scientific applications
+	- mathematics, algorithms, and optimization for deep neural networks
 + skill set:
 	- BLAH.
 + skill set:
@@ -992,6 +1035,8 @@ Skill sets for computational biology:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -1010,11 +1055,11 @@ Skill sets for computational biology:
 
 
 
-##	Software Development for Computational Engineering (not EDA)
+##	Software Development for Computational Engineering (except EDA)
 
 
 
-Skill set for software development for computational engineering (not EDA):
+Skill set for software development for computational engineering (except EDA):
 + skill set:
 	- BLAH.
 + skill set:
@@ -1186,6 +1231,31 @@ Skill set for software development for parallel programming and/or distributed p
 	- High-Performance Networking (InfiniBand, HSE and RoCE)
 	- MPI, CUDA-Aware MPI, NCCL
 	- DGX-1, DGX-2, IBM Power-AI
++ skill set:
+	- NVIDIA is seeking an outstanding researcher to join our programming systems research team. If you would like to help build the future of computing by equipping programmers with the tools they need to use parallel computing systems, this team will be a great fit for you! We seek to invent innovative parallel algorithm techniques, expressive parallel programming models/languages, powerful code analysis & generation tools, and scalable runtime environments that can help accelerate a broad range of real-world applications. After developing novel solutions and building prototype software that demonstrates their promise, you will work with product teams to help integrate your ideas into NVIDIA's accelerated computing platform.
+	- Develop innovative parallel computing technologies and craft these technologies into prototype implementations.
+	- Collaborate with other researchers and engineers at NVIDIA to deliver your innovations in high-quality software systems.
+	- Engage with the research community by publishing work that advances the state of the art.
+	- A Doctoral degree (Ph.D.) or equivalent experience in a computational subject area such as computer science, computer engineering, or scientific computing. 3+ years of relevant research experience.
+	- Expertise in parallel programming and algorithmic techniques.
+	- Creativity in developing innovative solutions to the problems faced by parallel programmers and the skill to implement them in software.
+	- Experience developing software in languages, such as C++ and Python, commonly used by the developer community.
+	- An existing track record of research excellence and publications that demonstrate your body of work.
+	- Expertise in applying programming system insights and techniques to problems in machine learning, data science, and/or distributed computing.
+	- Ability to implement ideas in the CUDA programming model
+	- Experience building software systems used by other developers to solve their own problems.
++ skill set:
+	- We're looking for outstanding interns to apply their parallel programming skills to accelerate NVIDIA's open source software suite for data science, RAPIDS. RAPIDS combines the performance of modern GPUs with the ease of use of Python and Scala APIs. It builds on a highly-optimized computational core, written in C++ and CUDA, that leverages the parallel nature of GPUs to accelerate fundamental data operations from load and parsing, to joins, aggregations, and more. Previous interns have made significant contributions to these core libraries, and we hope you’ll be the next major contributor!
+	- Developing novel, parallel algorithms to accelerate core problems in data processing
+	- Implementing solutions in C++ and CUDA
+	- Contributing to open source RAPIDS projects, such as cuDF
+	- Benchmarking, profiling, and optimizing code
+	- Working closely with mentors and some of the world’s top experts in GPU optimization
+	- Pursuing a PhD, MS, or BS in computer science, engineering, or a related field
+	- You have strong Modern C++ programming skills
+	- Familiar with at least one parallel programming framework, such as CUDA, OpenACC, OpenMP, etc.
+	- You care deeply about robust, readable, high-performance code
+	- Excited to learn, explore new problem areas, and apply your creativity to some of the most challenging and rewarding problems we have
 + skill set:
 	- BLAH.
 + skill set:

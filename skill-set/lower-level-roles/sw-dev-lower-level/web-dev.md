@@ -876,6 +876,10 @@ reactive programming = asynchronous dataflow programming
 	- Starlette
 	- FastAPI
 + Laravel, open-source PHP Web framework for back-end Web development
++ FastAPI and SQLAlchemy
+	- FastAPI is a modern web framework for building RESTful APIs in Python.
+	- SQLAlchemy is an open-source SQL toolkit and object-relational mapper (ORM) for the Python programming language 
++ Experience with MongoDB and/or ELK
 + skill set:
 	- Working knowledge of relational databases and query authoring (SQL)
 	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark

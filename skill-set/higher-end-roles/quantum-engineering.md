@@ -20,6 +20,31 @@
 
 
 Generic sets of skills in quantum computing:
++ skill set for Senior Research Scientist, Quantum Computing:
+	- NVIDIA Research is seeking leading researchers in the area of quantum computing. You should have a strong track record of research excellence, software systems building experience, and interest in advancing the state-of-the-art in applications of GPUs to the quantum computing ecosystem. Specific areas of research interest include but are not limited to quantum circuit simulation, tensor network methods, applications of machine learning to quantum circuit simulation, quantum algorithms and programming systems, and hybrid classical/quantum computations.
+	- Research and develop creative and innovative algorithms and software systems for the quantum computing ecosystem.
+	- Collaborate with research and product teams in the areas of machine learning, programming systems, and quantum computing.
+	- Publish and present your original research, speak at conferences and events.
+	- Collaborate with external quantum computing researchers.
+	- Run large-scale experiments on large clusters of GPUs to advance the state-of-the-art in quantum computing simulation.
+	- Ph.D. in Computer Science, Physics, Chemistry, Mathematics or related fields with a strong research record supported by well-referenced publications and / or patents. (or equivalent experience)
+	- 2 or more years of industrial research or postdoc research experience in quantum computing field
+	- Strong basis in linear algebra and expertise in math for quantum computing and tensor algebraic methods.
+	- Experience with C, C++, CUDA, and Python.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
+	- Strong communication and teamwork skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- NVIDIA Research is seeking leading researchers in the area of quantum computing. You should have a strong track record of research excellence, software systems building experience, and interest in advancing the state-of-the-art in applications of GPUs to the quantum computing ecosystem. Specific areas of research interest include but are not limited to quantum circuit simulation, tensor network methods, applications of machine learning to quantum circuit simulation, quantum algorithms and programming systems, and hybrid classical/quantum computations.
+	- Research and develop creative and innovative algorithms and software systems for the quantum computing ecosystem.
+	- Collaborate with research and product teams in the areas of machine learning, programming systems, and quantum computing.
+	- Publish and present your original research, speak at conferences and events.
+	- Collaborate with external quantum computing researchers.
+	- Run large-scale experiments on large clusters of GPUs to advance the state-of-the-art in quantum computing simulation.
+	- Ph.D. in Computer Science, Physics, Chemistry, Mathematics or related fields with a strong research record supported by well-referenced publications and / or patents. (or equivalent experience)
+	- Strong basis in linear algebra and expertise in math for quantum computing and tensor algebraic methods.
+	- Experience with C, C++, CUDA, and Python.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
+	- Strong communication and teamwork skills needed. Being a creative and dynamic presenter is a huge advantage.
 + skill set:
 	- BLAH.
 + skill set:

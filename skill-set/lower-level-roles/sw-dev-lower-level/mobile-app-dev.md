@@ -21,6 +21,14 @@ reactive programming = asynchronous dataflow programming
 
 ##	Skill Sets for Mobile App Development
 
+
+
+
++ skill set:
+	- Experience with Jamf Pro and Google MDM and software management tools.
+		* ***mobile device management (MDM)***
+	- Experience in designing/delivering modern workflow methodologies (DEP/VPP/ABM).
+	- Experience with implementing open-source tools into an MDM product: Munki, autopkg, and osquery.
 + skill set:
 	- Senior Mobile Engineer (iOS)
 	- We are looking for a Senior Python Developer who will help make it seamless for our customers to capture telemetry from their applications to be analyzed in Splunk Observability Cloud.

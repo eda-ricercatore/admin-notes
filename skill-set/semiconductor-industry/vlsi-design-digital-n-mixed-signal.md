@@ -24,7 +24,7 @@ Measure performance in terms of:
 
 
 
-Skill set for roles in computer architecture (i.e., computer architects or microarchitects), from microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
+Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
 + skill set:
 	- hyperscale cloud and edge computing
 + skill set:
@@ -113,6 +113,138 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill sets for computer architects in domain-specific processor architecture design, for domain-specific architecture or domain-specific accelerators:
++ skill set:
+	- NVIDIA is in search of Summer 2022 intern candidates with interests in computer architecture to join our memory system architecture team!  This team drives memory system architecture in products tailored to NVIDIA’s world changing SOCs for autonomous vehicles, mobile systems, server systems, deep-learning, and gaming.
+	- Developing architecture and micro-architecture to improve the state-of-the-art in memory system optimizing along the axes of performance, power efficiency, complexity, area, effort, and schedule.
+	- Performance modeling and simulation of features to improve memory system efficiency.
+	- Implementing and maintaining high-level functional and performance models.
+	- Analyzing benchmarks, application workloads, and performance simulation results to identify tradeoffs in areas of micro-architectural optimizations.
+	- Debugging performance and functional issues with high-level models, RTL simulation, and silicon.
+	- Enrollment in a BS, MS, or PhD program in CS/CE/EE or related field.
+	- Minimum GPA: 3.5
+	- You have an impeccable hardware engineering background with a concentration in VLSI and/or Computer Architecture.
+	- Exposure/coursework related to Digital systems and VLSI design, Computer Architecture, C/C++ programming languages.
+	- Deep understanding of memory subsystems – caches and coherence protocols, DDR and memory controller architecture, on-chip interconnects, address translation.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, product oriented, distributed team.
+	- Strengths in C++, Perl or Python. Verilog or SV/UVM are a big plus.
++ skill set for Research Scientist, Computer Architecture:
+	- NVIDIA is seeking extraordinary hardware and architecture researchers to contribute to the development of future high-performance and mobile computing systems. We are seeking candidates with a consistent track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in one or more of these areas of computer architecture: GPU architectures, multi-processor and memory system architectures microarchitecture/compilers, resilience and safety, architectures for security, and domain specific architectures such as machine learning. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high performance and mobile computing technology, with bold plans for future processors. This position offers the opportunity to have real impact in a fast paced, technology-focused company.
+	- Develop innovative computer architectures to address the emerging demands high performance and energy efficient computing systems.
+	- Understand and analyze the interplay between hardware, software, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. or equivalent experience in CE/CS/EE with a strong background in computer architecture, compilers, and/or high-performance computing with at least 2+ years of relevant research experience. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team having varied backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Background with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills along with dynamic presentation skills.
++ skill set for Research Scientist, Computer Architecture - New College Grad:
+	- NVIDIA is seeking extraordinary hardware and architecture researchers to contribute to the development of future high-performance and mobile computing systems. We are seeking candidates with a consistent track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in one or more of these areas of computer architecture: GPU architectures, multi-processor and memory system architectures microarchitecture/compilers, resilience and safety, architectures for security, and domain specific architectures such as machine learning. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high performance and mobile computing technology, with bold plans for future processors. This position offers the opportunity to have real impact in a fast paced, technology-focused company.
+	- Develop innovative computer architectures to address the emerging demands high performance and energy efficient computing systems.
+	- Understand and analyze the interplay between hardware, software, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. or equivalent experience in CE/CS/EE with a strong background in computer architecture, compilers, and/or high-performance computing. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team having varied backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Background with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills along with dynamic presentation skills.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill sets for computer architects working with multi-GPU platforms, multi-TPU platforms, and data center computing.
++ skill set:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture and virtualization or security of accelerators. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, and virtualized CPU and GPU architectures.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. in CE/CS/EE or equivalent experience with a strong background.
+	- 2+ years of work experience in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Background with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist - Platform Architecture and Runtime Systems:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture and Runtime System to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in data parallel architectures or operating and runtime systems. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, CPU and GPU architectures, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You have a Ph.D. in CE/CS/EE or equivalent experience with a strong background and work experience in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill sets for computer architects working with compiler designers, operating system researchers, and researchers in high-performance computing:
++ skill set for Research Scientist, SysArch and Software - New College Grad:
+	- We are now looking for a Research Scientist with a focus in Platform Architecture and Runtime System to contribute to the development of future scalable multi-GPU platforms. Scalable systems in a post-Moore world require co-optimization of architecture, runtime systems, operating systems, and compilers, to achieve high throughput while improving energy efficiency. We are seeking candidates with a proven track record of research excellence, systems-building experience, a broad perspective across the field of computer architecture, and depth in data parallel architectures or operating and runtime systems. NVIDIA has pioneered programmable GPUs and the CUDA language, and is a world leader in high-performance and mobile computing technology, with ambitious plans for future processors. This position offers you the opportunity to have a real impact in a multifacited, technology-focused company.
+	- Develop novel architectures and system software implementations to enable scalable multi-GPU platforms.
+	- Understand and analyze the interplay between operating systems, CPU and GPU architectures, and efficient algorithm designs.
+	- Collaborate with a diverse set of teams across the company, spanning software, research, hardware engineering, and product groups.
+	- Publish original research and speak at conferences and events.
+	- You are pursuing a Ph.D. in CE/CS/EE with a strong background in computer architecture, operating systems, compilers, and/or HPC. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Demonstrated expertise in one specific area with the ability to become the go-to resource within a team from differing backgrounds.
+	- Experience with experimental computer architecture development and evaluation.
+	- Experience with C, C++, Python, and scripting languages.
+	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
 
 
 
@@ -224,6 +356,49 @@ List(s) of companies in the semiconductor industry:
 
 + ***Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs***
 + Deep understanding of ***timing corners, operating modes, OCV, cross-talk, noise, signoff criteria***.
++ ***Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).***
++ skill set for Research Scientist, ASIC & VLSI - New College Grad:
+	- NVIDIA Research is seeking leading researchers in the areas of ASIC & VLSI design and verification to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence and systems-building experience. Ideal candidates will have a broad perspective across areas including RTL and logic design and verification, machine learning, processor micro-architecture, VLSI implementation, and Electronic Design Automation (EDA) algorithms. Specific areas of research interest include but are not limited to machine learning accelerators, high-productivity VLSI design and verification methodologies, hardware/software co-design, on-chip networks and interconnect, and applications of machine learning and GPU acceleration to EDA. Applicants with specific expertise and research interest in any of these areas will be considered.
+	- Research and develop creative and innovative EDA software and algorithms, ASIC and VLSI design techniques, machine learning accelerator approaches, and/or novel digital VLSI circuits.
+	- Contribute to novel research advancing the state-of-the-art in machine learning accelerator design.
+	- Collaborate on the development of research prototype testchips.
+	- Develop and apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Collaborate with circuits and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Ph.D. or equivalent experience in EE or related with a strong research record, well referenced publications and / or patents is required.
+	- Recent PhD graduates (Research Scientist) or candidates with more years of relevant work or research experience (Senior Research Scientists) will be considered for the open position.
+	- You should display a strong background in VLSI, circuits, IC design, computer micro-architecture fundamentals, machine learning, EDA algorithms and software development.
+	- Experience with C, C++, Python, and scripting languages required; experience with machine learning frameworks such as PyTorch or Tensorflow preferred.
+	- Strong interpersonal skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, ASIC & VLSI:
+	- NVIDIA Research is seeking leading researchers in the areas of ASIC & VLSI design and verification to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence and systems-building experience. Ideal candidates will have a broad perspective across areas including RTL and logic design and verification, machine learning, processor micro-architecture, VLSI implementation, and Electronic Design Automation (EDA) algorithms. Specific areas of research interest include but are not limited to machine learning accelerators, high-productivity VLSI design and verification methodologies, hardware/software co-design, on-chip networks and interconnect, and applications of machine learning and GPU acceleration to EDA. Applicants with specific expertise and research interest in any of these areas will be considered.
+	- Research and develop creative and innovative EDA software and algorithms, ASIC and VLSI design techniques, machine learning accelerator approaches, and/or novel digital VLSI circuits.
+	- Contribute to novel research advancing the state-of-the-art in machine learning accelerator design.
+	- Collaborate on the development of research prototype testchips.
+	- Develop and apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Collaborate with circuits and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Ph.D. or equivalent experienc in EE or related with a strong research record, well referenced publications and / or patents is required.
+	- Recent PhD graduates (Research Scientist) or candidates with more years of relevant work or research experience (Senior Research Scientists) will be considered for the open position.
+	- You should display a strong background in VLSI, circuits, IC design, computer micro-architecture fundamentals, machine learning, EDA algorithms and software development.
+	- Experience with C, C++, Python, and scripting languages required; experience with machine learning frameworks such as PyTorch or Tensorflow preferred.
+	- Strong interpersonal skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, Circuits - New College Grad:
+	- We are now looking for a Research Scientist for Circuits.
+	- Advanced circuit design is critically important in the post-Moore’s Law age. Without the ability to scale process to increase performance and reduce power, we must rely more and more on creative architectural and underlying circuit solutions to provide continuing advancement from generation to generation.
+	- NVIDIA Research is seeking world-class circuit researchers to contribute to the exploration of future high-performance, low-power circuit technologies and development of prototype circuits. If you have a strong circuits background, desire to collaborate with elite researchers on critical problems, and a vision about how to advance the state-of-the-art, the team will be a great fit for you. NVIDIA has an ambitious circuit research agenda that involves taking circuit technology to the next level. This position offers an opportunity to have a real impact in a fast-moving technology-focused company.
+	- Explore circuit approaches to optimizing processor computation and interconnect performance and power
+	- Design and implement circuit approaches in prototype systems
+	- Collaborate with external researchers and a diverse set of internal product teams across research and product roles
+	- Transfer technology to product groups
+	- Publish original research and speak at conferences and events
+	- Pursuing PhD or equivalent experience in Electrical Engineering, Computer Science/Engineering, or related field. A strong publication, patent, and research collaboration history is a huge advantage.
+	- Excellent knowledge and broad background of theory and practice of circuit design
+	- Depth in one or more areas of high-performance circuit design (PLLs and clocking, SerDes and high-speed signaling, photonics, SRAMs, power delivery/regulation, security circuits, and high-speed logic)
+	- Track record of research excellence or significant product development
+	- Excellent communication and collaboration skills
 + skill set:
 	- Flex Logix is seeking a EFLX RTL/Frontend Design Engineer to join our team. You will be responsible for developing/migrating the RTL of the eFPGA and the next-generation InferX solutions. 
 	- The candidate must be able to work in the architecture/frontend stage of silicon development: specification, coding, some verification, and some synthesis support for the
@@ -420,7 +595,23 @@ List(s) of companies in the semiconductor industry:
 ###	Skills for VLSI Architects
 
 
-Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping)
+Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping):
++ skill set:
+	- SOC Fabric Architect
+	- ***Software 2.0 is redefining the computing paradigm.*** The new paradigm computation demand is incommensurable with the existing software and hardware criteria. The solutions require unifying the innovations on the software programming model, compiler technology, heterogenous computation platform, networking technology, and semiconductor process and packaging technology. Do you want to join a dynamic team of hardware and software architects building the leading hardware platform for Machine Learning and Artificial Intelligence?
+	- ***Collaborate with the software team and platform architecture team to understand fabric bandwidth and latency requirements and real-time constraints for AI accelerator, CPU, security, and networking traffic. Devise QoS and ordering rules among the CPU, accelerator, and IO coherent/non-coherent traffics.***
+	- Identify representative traffic patterns for the software applications. Perform data-driven analysis to evaluate fabric topology, QoS, memory architecture, and u-architecture solutions to improve performance, power efficiency, or reduce hardware.
+	- Create directory-based cache coherency specification to satisfy performance requirements of coherent multiple-cluster CPU system and accelerator. Make tradeoff protocol complexity and performance requirements.
+	- Set SOC fabric architecture direction based on the data analysis and work with a cross-functional team to achieve the best hardware/software solutions to meet PPA goals.
+	- Develop an SoC cycle-accurate performance model that includes memory sub-systems, directory-based coherent cache controllers, fabric interconnects, and fabric switches that describe the microarchitecture and use it to evaluate new features.
+	- Collaborate with RTL and Physical design engineers to make power, performance, and area tradeoffs.
+	- Drive analysis and correlation of performance feature both pre and post-silicon.
+	- BS/MS/PhD in EE/ECE/CE/CS
+	- ***Strong grasp of NoC topologies, routing algorithms, and QoS***
+	- ***Expertise in cache coherency protocols (AMBA CHI/AXI protocol), DDR/LPDDR/GDDR memory technology, and IO technology (PCIe/CCIX/CXL).***
+	- Prior experience or a strong understanding of traffic patterns for ML/AI algorithms in a heterogeneous computation system is a plus.
+	- ***Prior experience on formal verification of cache coherency protocol is a plus.***
+	- Proficient in C/C++ programming. Experience in the development of highly efficient C/C++ CPU models.
 + skill set:
 	- C++ Embedded / Semiconductor Experts For SoC Modeling - Virtual Prototyping (2 - 15 Years)
 	- Strong Expertise in C, C++, OOPS, Data Structures, Algorithms
@@ -515,6 +706,27 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
+
+
+
++ skill set for Architecture Energy Modeling Intern:
+	- At NVIDIA, we pride ourselves in having energy efficient products. We believe that continuing to maintain our products' energy efficiency compared to competition is key to our continued success. Our team is responsible for researching, developing, and deploying methodologies to help NVIDIA's products become more energy efficient; and is responsible for building energy models that integrate into architectural simulators, RTL simulation, and emulation platforms.
+	- As a member of the Power Modeling, Methodology and Analysis Team, you will collaborate with Architects, Performance Engineers, Software Engineers, ASIC Design Engineers, and Physical Design teams to study and implement energy modeling techniques for NVIDIA's next generation GPUs and Tegra SOCs. Your contributions will help us gain early insight into energy consumption of graphics and artificial intelligence workloads, and will allow us to influence architectural, design, and power management improvements.
+	- Work with architects and performance architects to develop an energy-efficient GPU.
+	- Develop methodologies and work flows to select and run a wide variety of workloads to train models using ML and/or statistical techniques.
+	- Develop methodologies to improve the accuracy of energy models under various constraints, such as, process, timing, floorplan and layout.
+	- Correlate the predicted energy from models created at different stages of the design cycle, with the goal of bridging early estimates to silicon.
+	- Develop tools to debug energy inefficiencies observed in various workloads run on silicon, RTL and architectural simulators. Work with architects to fix the identified energy inefficiencies.
+	- Work with performance, verification and emulation methodology and infrastructure development teams to integrate energy models into their platforms.
+	- Prototype new architectural features, create an energy model, and analyze the system impact.
+	- You are pursuing a BS/MS/PhD in related fields.
+	- Strong coding skills, preferably in Python, C++.
+	- Background in machine learning, AI, and/or statistical modeling.
+	- Interest in computer architecture and energy efficient GPU designs.
+	- Familiarity with Verilog and ASIC design principles is a plus.
+	- Ability to formulate and analyze algorithms, and comment on their runtime and memory complexities.
+	- Desire to bring quantitative decision-making and analytics to improve the energy efficiency of our products.
+	- Good verbal/written English and interpersonal skills.
 + skill set:
 	- Sifive is looking for Power Architects to propose innovations to improve performance, reduce power, and reduce cost of the next generation of IPs used across a wide array of industries and applications. Perform detailed analytical studies of power and performance tradeoffs. Define and Develop specifications for power management solutions for internal and external consumption. ***Drive functional implementation of Idle/Sleep Power states (C-States), Dynamic Power states (P-States) and reset and retention. Define Power Management debug strategies and test plan. Drive UPF coding and debug for all new power features.***
 	- Defining the power budget/spec for IPs, and coming up with new micro architecture initiatives, rolling up of the power numbers and maintaining the chip power dashboard for various applications.
@@ -674,7 +886,57 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
+
+Skills for FPGA-based digital circuit and system design, or "FPGA design engineer":
++ Senior Hardware Design/FPGA Engineer (TS/SCI with CI Poly Clearance Required)
+	- Under guidance of a principle investigator (PI) and/or customer, this person will contribute to platform-level security research projects providing FPGA design, software development, and testing support. This person will need to be able to cross seamlessly between software and hardware tasks along with demonstrating knowledge of hypervisor and firmware-level software.
+	- Important: Candidates must have a polygraph clearance (CI poly or Full Scope Poly) and must be willing to work in Central Maryland (Ft. Meade or Annapolis) at least part time with potential part time, remote work available.
+	- Assists with designing new products and processes and improving and maintaining existing products
+	- Conducts design analysis on components and/or assemblies to assist in the development process by ensuring designs are cost efficient, manufacturable, and reliable
+	- Communicates with the other engineering personnel to coordinate the interrelated design and assure project completion
+	- Applies ASIC or FPGA place and route (P&R) tools with various libraries to create physical implementations of designs
+	- Develop and maintain documentation for the P&R design flows
+	- Designs new products and processes and improving and maintaining existing products
+	- Integrates new P&R tools, P&R tool updates, and ASIC or FPGA design libraries into Government’s computer aided design environment, documents the use of those tools and libraries, and assists other physical designers to successfully complete their specific P&R design tasks
+	- Work with tool and library vendors to develop solutions for designers’ P&R design challenges
+	- Performs the deprocessing of electronic components and retrieving stored firmware or software using approved reverse engineering procedures
+	- Leads the designs of new products and processes and improving and maintaining existing products
+	- Provides technical leadership to less experienced engineers
+	- Directs and checks the work of other hardware design engineers
+	- Acts as internal consultant providing technical guidance on most complex projects
+	- Develops novel procedures for reverse engineering of new component type 
+	- Twelve (12) years of experience in integrated circuit or microelectronic component design or reverse engineering of the same is required.
+	- Bachelor’s degree in Electrical Engineering or Computer Engineering from an accredited college or university is required.
+	- Five (5) years of additional hardware design engineering experience may be substituted for a bachelor’s degree.
+	- Significant experience developing in C/C++
+	- Python
+	- Assembly (Intel or other)
+	- Hardware Description Language experience (Verilog or VHDL)
+	- FPGA Design 
+	- Knowledge/experience with algorithms for digital EDA tool development.
+	- Experience with hypervisor / container development
+	- Experience with RoT techniques including TPM
+	- Experience with firmware-level code
+	- FPGA physical design
+	- Experience with device characterization or PUF techniques
+	- Experience with ASIC analog and/or digital design
 + Designs may include interface logic for control, high speed serial busses (PCIe, Aurora, Ethernet), power and control circuits.
++ skill set:
+	- As an FPGA design engineer in our System Engineering team, you will be focusing on architecture and design of interconnect solutions for multi-processor systems, as well as FPGA emulation of Tenstorrent’s AI processors.
+	- Participation in next generation deep learning system architecture – a “full stack” effort spanning software, processor and system architecture teams
+	- High speed digital design of new components targeting state of the art Xilinx and Intel FPGAs
+	- Conversion of ASIC designs to FPGA for emulation purposes
+	- Participation in PCB architecture and simulation
+	- Bring up, debug, validation
+	- Bachelor or Master’s in Electrical or Computer Engineering
+	- Expert knowledge of hardware description languages (Verilog/VHDL)
+	- Superior analytical and problem-solving skills
+	- Excellent understanding of computer architecture and logic design
+	- Strong understanding of high-speed serial interfaces
+	- Solid programming skills (C, C++, Python, Perl)
+	- Experience using lab equipment: high speed oscilloscopes, logic and protocol analyzers, spectrum analyzers, etc.
+	- Interest in and understanding of machine learning
+	- Superior verbal and written communication skills
 + skill set:
 	- FPGA Engineer
 	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
@@ -863,6 +1125,30 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
++ skill set:
+	- Architecture of Tenstorrent's IP blocks including aggressive optimization for performance, power as well as area
+	- Implementation of Tenstorrent IP and SOC RTL logic in Verilog
+	- Occasional verification of Tenstorrent's IP and SOC logic, using advanced verification methodologies - UVM, FPGA prototyping, and emulation
+	- Performance and power verification and validation of Tenstorrent's IP and SOC
+	- Bachelor/Master in Electrical/Computer Engineering/Engineering Science
+	- Expert knowledge of Hardware Description Languages (Verilog/VHDL)
+	- Deep and broad understanding of processor/computer architecture
+	- Knowledge and understanding of the full ASIC design flow, including synthesis, P&R
+	- Excellent programming skills. C/C++ as well as scripting languages (Perl, tcl)
+	- Experience with high frequency logic design, scalar and vector processor architecture, GPU architecture and programming models, digital signal processing hardware, SoC architecture, memory sub system architecture, real time hardware/firmware systems or deep learning is very beneficial
++ skill set:
+	- Architecture of Tenstorrent's IP blocks including aggressive optimization for performance, power, and area
+	- Implementation of Tenstorrent IP RTL logic in Verilog
+	- Contribution to verification of Tenstorrent's IP and SOC logic
+	- Performance and power verification and validation of Tenstorrent's IP and SOC
+	- Versatility, independent thinking, and general ability to get things done!
+	- 15+ years of experience working on high performance IP and ASIC designs
+	- Bachelor/Masters/PhD in Electrical/Computer Engineering/Engineering Science
+	- Expert knowledge of Hardware Description Languages (Verilog/VHDL)
+	- Comfortable with C++
+	- Deep and broad understanding of processor/computer architecture
+	- Knowledge and understanding of the full ASIC design flow
+	- ***Experience with any of high frequency logic design, scalar and vector processor architecture, GPU architecture and programming models, digital signal processing hardware, SoC architecture, memory sub system architecture, real time hardware/firmware systems or deep learning is very beneficial***
 + skill set:
 	- As a Staff IP Design Engineer, you will work with the circuit design, software engineering, business development units, and potentially customers to define and design the Efinix’s IP and IP systems to meet customer’s requirements. Also, you will create the IP and IP system documentation.
 	- Location: Penang, Malaysia
@@ -1118,6 +1404,41 @@ Skill sets for mixed-signal IC design:
 
 
 Skills for Physical Design Engineers (in the context of VLSI CAD):
++ skill set:
+	- Physical design for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all implementation aspects from synthesis to tapeout for various IPs on the chip. The work is done alongside with a group of highly experienced engineers across various domains of the AI chip.
+	- Define PD requirements by working closely with the front-end team, understand the chip architecture and drive physical aspects early in the design cycle
+	- Physical design tasks including such as synthesis, PnR, timing closure, area improvement, floorplanning, clocking, I/O planning and power optimization
+	- Discussions with 3rd party IP providers, foundry partners and design services
+	- End to end tasks from flow development to sign-off
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL, and evaluate synthesis, timing and power results
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience
+	- Hands-on experience with synthesis, block and chip level implementation with industry standard PnR flows and tools
+	- Strong experience in SOC/ASIC/GPU/CPU design flows on taped out designs, expertise in timing closure at block/chip levels and ECO flows
+	- Experience with back-end design tools such as Primetime, Innovus, RedHawk, etc.
+	- Knowledge of low-power design flows such as power gating, multi-Vt and voltage scaling
+	- Strong programming skills in Tcl/Perl/Shell/Python
+	- Excellent understanding of logic design fundamentals and gate/transistor level implementation
+	- Exposure to DFT is an asset
+	- Prior experience working on high performance technology nodes and understanding of deep sub-micron design problems/solutions
+	- Strong problem solving and debug skills across various levels of design hierarchies
++ skill set:
+	- Develop physical design flow for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all aspects of optimizing flows from synthesis to tape-out for various IPs on the chip. The work is done alongside a group of highly experienced engineers across various domains of the AI chip.
+	- Work closely with physical design team and tool vendors to define flow requirements
+	- Flow tasks may include enabling targets such as floor-planning, synthesis, PnR, timing and phyv closure
+	- Optimize and support PnR flow to ensure quality results on schedule
+	- Discussions with vendor tool providers, foundry partners and design services
+	- End to end tasks from flow development to sign-off
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with PD, and evaluate PnR, timing and power results
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience
+	- Hands-on experience with synthesis, block and chip level implementation with industry standard PnR flows and tools
+	- Strong experience in SOC/ASIC/GPU/CPU design flows on taped out designs, expertise in timing closure at block/chip levels and ECO flows
+	- Experience with back-end design tools such as Primetime, Innovus, RedHawk, etc.
+	- ***Knowledge of low-power design flows such as power gating, multi-Vt and voltage scaling***
+	- Strong programming skills in Tcl/Perl/Shell/Python
+	- Excellent understanding of logic design fundamentals and gate/transistor level implementation
+	- Exposure to DFT is an asset
+	- Prior experience working on high performance technology nodes and understanding of deep sub-micron design problems/solutions
+	- Strong problem solving and debug skills across various levels of design hierarchies
 + skill set:
 	- Flex Logix is looking for Physical Design Engineer-SOC engineers to join our growing team. 
 	- Generate block level static timing constraints. 

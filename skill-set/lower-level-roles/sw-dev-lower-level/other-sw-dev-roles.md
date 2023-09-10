@@ -268,6 +268,7 @@ Skills related to software development for enterprise search engines:
 
 
 + ***data pipeline and workflow management tools: Azkaban, Luigi, Airflow***
++ infrastructure reliability, corporate production systems, user-facing services, production serving or DevOps
 + Experience with full-text search engines (Solr, Elasticsearch).
 	- [Solr](https://solr.apache.org/)
 		* "Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™."
@@ -491,7 +492,7 @@ Skills related to software development for enterprise search engines:
 	- Jira (software), a bug-tracking, issue-tracking and project-management software application
 	- YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language (XML) but has a minimal syntax which intentionally differs from Standard Generalized Markup Language (SGML).
 	- Confluence is a web-based corporate wiki developed by Australian software company Atlassian.
-
++ Proficiency in C#.net or Python/Selenium for automation development.
 
 
 

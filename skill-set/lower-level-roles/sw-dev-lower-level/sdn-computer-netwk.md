@@ -125,6 +125,7 @@
 
 
 + Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
++ gRPC, open-source remote procedure call system
 + skill set:
 	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
 	- Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
@@ -188,6 +189,21 @@
 + Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
 + Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 + Knowledge of routing protocols such as BGP and OSPF
++ skill set:
+	- NVIDIA Research is seeking extraordinary networking innovators to join our NVResearch team. In this role, you will contribute to the development of future high-performance and embedded computing systems. You will need a great background of research excellence in building systems and a deep understanding and broad perspective across the fields of computer architecture and communication systems for distributed computation. NVIDIA has pioneered programmable GPUs and the CUDA language, and this visionary Research team will take those technologies to the next level with its creative ideas and new inventions. This position offers you the opportunity to have a real impact while working with some of the most creative and forward-thinking people in the world who are here at this dynamic, technology-focused company.
+	- This role requires the person to conduct creative and innovative research in networking and associated technologies. Positive impact to NVIDIA’s business is the key measure of success. This requires:
+	- Working with product teams and other financial sponsors to identify areas that could benefit from research
+	- Creating and inventing novel solutions to solve those problems
+	- Communicating those results internally through documentation and presentations
+	- Identifying patentable ideas and filing ISFs
+	- Publishing key research results to ensure NVIDIA maintains a right to use and contributes to the NVIDIA research brand.
+	- Much of NVIDIA’s networking research is funded by external sources (e.g. DOE, DoD). You are expected to work towards the contractual obligations, including the work areas, and assist in preparing deliverables such as reports and presentations.
+	- Ph.D. in CE/CS/EE plus publications history and excellent accomplishments in research or equivalent experience. 2+ years of relevant postgrad research work.
+	- Strong background in computer architecture, networking, VLSI, circuits, parallel processing, high-performance computing, and/or mobile computing
+	- Demonstrated ability to innovate and implement
+	- Experience with experimental computer architecture development and evaluation
+	- Experience with C, C++, and scripting languages
+	- Deep understanding of technology and passionate about what you do
 + skill set:
 	- BLAH.
 + skill set:

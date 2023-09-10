@@ -1192,6 +1192,18 @@ Includes the following:
 
 The sets of skills are:
 + skill set:
+	- Collaborate with the software team and platform architecture team to understand CPU hardware requirements for AI accelerator compiler, OS, video/image/voice processing, security, networking, and virtualization technology. Identify the application performance bottlenecks.
+	- Identify representative benchmarks for the software applications. Use the benchmarks and the performance model to perform data-driven analysis to evaluate software, architecture, and u-architecture solutions to improve performance, power efficiency, or reduce hardware.
+	- Set CPU architecture direction based on the data analysis and work with a cross-functional team to achieve the best hardware/software solutions to meet PPA goals.
+	- Develop a cycle-accurate CPU model that describes the microarchitecture, use it for evaluation of new features.
+	- Collaborate with RTL and Physical design engineers to make power, performance, and area trade-offs.
+	- Drive analysis and correlation of performance feature both pre and post-silicon.
+	- BS/MS/PhD in EE/ECE/CE/CS
+	- Strong background in CPU ISA's, u-architecture research, and performance benchmarks.
+	- Understanding SOC fabric, coherency protocols, memory technology, and accelerator technology is a plus.
+	- Prior experience or strong understanding of ML/AI algorithms, compiler, and OS kernel is a plus.
+	- Proficient in C/C++ programming. Experience in the development of highly efficient C/C++ CPU models.
++ skill set:
 	- Able to solve a wide-range of difficult problems in imaginative and creative ways, exercising judgment within broadly defined practices and policies.
 	- MSc in Computer Science, Applied Mathematics or related field with 3+ years of experience, or BSc with 5+ years of experience
 	- ***Proficiency in developing and maintaining modern C++ based applications in a Unix/Linux and Windows environment. Proficiency in Qt, Python, and Tcl a plus. Experience with OpenAccess also a plus.***
@@ -3232,7 +3244,19 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- Experience with RoT techniques including TPM
 	- Silicon Root of Trust (RoT)
 	- trusted platform module (TPM)
-
++ skill set for Sr. SW Engineer - HW Security Analysis:
+	- Reporting to the VP of Engineering, the Sr. SW Engineer – HW Security Analysis will be responsible for developing innovative solutions that shape the way the emerging process of HW security verification and analysis is performed.
+	- Bachelor’s degree in Computer Science/Engineering (MS or PhD preferred)
+	- Expert level engineer with a minimum of 10 years of proficiency in algorithms and data structures for digital logic in the domains of Simulation, Synthesis or Formal Verification or similar products
+	- Deep knowledge in design and architecture of efficient, scalable software systems and data structures to support compilation of billion gate designs
+	- Experience in multi-threading, multi-tasking and job distribution to support analysis and netlist transformations to minimize runtime and memory footprint
+	- Expert programming and debug skills in C/C++.
+	- Ability to operate in a small team and be an effective communicator.
+	- This position can be based anywhere in the continental USA. Some travel may be required with return to normal business from COVID.
+	- Preferred qualifications
+		* Experience in the development and support of commercial EDA software
+		* Experience in the implementation and verification of SoC designs
+		* A background in Computer Security or familiarity with Computer Security topics
 
 
 
@@ -3447,6 +3471,21 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 
 Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
++ skill set:
+	- AI Silicon Design – RTL/Architecture Engineer:
+	- RTL design and microarchitecture definition of high-performance microprocessors going into industry leading AI/ML architecture. The person coming into this role will define new features and code the RTL across multiple areas of our processor Core. The work is done alongside with a group of highly experienced engineers across various domains of the AI chip.
+	- ***Define architecture and logic design requirements by understanding rapidly evolving AI/ML models; work with engineers across domains to understand real world use cases***
+	- RTL coding in Verilog leveraging on both industry tools as well as open-source infrastructure
+	- Drive trade-offs for your logic by working closely with performance, DV and physical design engineers to craft optimal solutions that meet the design goals
+	- ***Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL and evaluate synthesis, timing and power results***
+	- ***Debug RTL/logic issues across various hierarchies (ex: core, chip) in both pre-silicon and post-silicon environment***
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of experience
+	- ***Experience with computer architecture/system components/network/fabrics as a part of a CPU, ASIC or SOC design team***
+	- Expertise in logic design and ability to evaluate functional, performance, timing and power for you design
+	- Strong experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)
+	- ***Expertise in microarchitecture definition and specification development***
+	- ***Prior experience in industry standard ISAs – ARM, RISC-V, X86 preferred***
+	- ***Strong problem solving and debug skills across various levels of design hierarchies***
 + skill set:
 	- Implementation of Tenstorrent IP and SOC RTL logic in Verilog
 	- Architecture exploration and modeling
@@ -4600,6 +4639,89 @@ Skill sets for application engineers of different EDA products:
 
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
 + platform-agnostic machine learning development
++ Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
++ skill set for Deep Learning Architect Intern:
+	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today’s hardware and software, this is the place to be.
+	- Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
+	- Guide development of future generations of deep learning processors and computing platforms.
+	- Develop detailed performance models and simulators for computing systems accelerating DL training.
+	- Collaborate across the company to guide the direction of machine learning at NVIDIA; spanning teams from hardware to software and research to production.
+	- Drive HW/SW co-design of NVIDIA’s full deep learning platform stack, from silicon to DL frameworks.
+	- You are pursuing a PhD or MS in CS, EE or CSEE.
+	- Strong background in computer architecture, preferably with focus on high-performance parallel processors.
+	- Background in machine learning and neural networks, in particular training.
+	- Experience analyzing and tuning application performance.
+	- Experience with processor and system-level performance modelling.
+	- Programming skills in C++ and Python.
+	- Familiarity with GPU computing (CUDA, OpenCL).
++ skill set:
+	- We are looking for an extraordinary Deep Learning Software Intern to develop NVIDIA's deep learning solutions in autonomous driving vehicles. As a member of our Solution Engineering-Automotive Machine Learning team, you will utilize ground breaking NVIDIA deep learning model training/inference software libraries for deployment on NVIDIA's hardware architecture. You will develop new deep learning architectures, deploy deep learning models in low precision, and compile and optimize DNN graphs. As a part of this role, you will be building a close technical relationship with our internal automotive/framework teams during product development and coordinate with the architecture and software teams to develop the best solution on our platforms.
+	- Train, fine-tune, optimize and customize perception DNNs in low precision (FP16/INT8)
+	- Apply low precision inference, quantization, and compression of DNNs
+	- Design and develop robust inferencing software that can be scaled to multiple platforms for functionality and performance
+	- Performance analysis, optimization and tuning
+	- You'll collaborate across the company to guide the direction of machine learning inferencing, working with software, research and product teams
+	- Pursuing MS or PhD degree from a leading University in a relevant field, e.g. engineering, computer science, or computer engineering or equivalent
+	- 2+ years of relevant software development experience
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design
+	- You should display a real passion for artificial intelligence and computer vision, and knowledge of the latest developments in DL and AI
+	- Experience working with deep learning frameworks like Caffe, TensorFlow and PyTorch
+	- Dedicated and able to work without supervision
+	- Experience with low precision inference, quantization, compression of DNNs
+	- Experience with NVIDIA software libraries such as CUDA and TensorRT
+	- Open source project ownership or contribution, healthy GitHub repositories, guiding and/or mentoring experience
++ skill set:
+	- NVIDIA is searching for world-class researchers in deep learning, focused on large-scale and high-precision medical imaging analysis, federated learning to join our applied research team. We believe that Deep Learning accelerated AI will completely reshape life sciences, medicine, and healthcare as an industry. To foster that transformation, NVIDIA is democratizing deep learning by providing an end-to-end AI computing platform crafted for the healthcare community.
+	- GPU-accelerated deep learning solutions can be used to craft more sophisticated neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making. Innovations in AI are advancing the future of precision medicine and population health management in spectacular ways. We are passionate about applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA’s hardware/software AI platform. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
+	- Craft DL approaches to solving medical imaging analysis, federated learning problems.
+	- Construct and curate large problem datasets.
+	- Design and implement medical imaging, computer vision, machine learning, federated learning techniques sought at solving specific problems.
+	- Keep up with the latest DL research and collaborate with diverse teams, including DL researchers, physicians, hardware architects, and software engineers, etc.
+	- Generate high-quality patents and top-tier technical or clinical publications, transfer technology into products.
+	- Pursuing a PhD in Electrical Engineering, Computer Science/Engineering, or related field.
+	- Relevant work experience in computer vision, medical imaging, deep learning, statistical learning, federated learning.
+	- You've produced a track record of research (publication) excellence and/or significant product development. IE 4+ pieces of tier-one publications with substantial deep learning for healthcare applications.
+	- Excellent rapid prototyping skills with medical applications using Python.
+	- Excellent knowledge and development experience of common deep learning frameworks and packages (Caffe, Tensorflow, PyTorch, etc.).
+	- Excellent communications skills.
+	- Prior experience working with physicians to identify (novel) important problems and assessing possible DL solutions is a plus.
++ skill set:
+	- Facebook is seeking a Research Scientist to join our AI Research Team, a research organization focused on making significant progress in AI. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, computational statistics, and applied mathematics, particularly including areas such as deep learning, graphical models, reinforcement learning, computer perception, natural language processing and data representation. The ideal candidate will have a keen interest in producing new science to understand intelligence and technology to make computers more intelligent. To learn more about our research, visit https://ai.facebook.com/.
+	- Lead research to advance the science and technology of intelligent machines
+	- Lead research that enables learning the semantics of data (images, video, text, audio, speech and other modalities)
+	- Devise better data-driven models of human behavior
+	- Work towards long-term ambitious research goals, while identifying intermediate milestones
+	- Influence progress of relevant research communities by producing publications
+	- Contribute research that can be applied to Facebook product development
+	- Lead and collaborate on research projects within a globally based team
+	- Experience holding a faculty, industry, or government researcher position
+	- Ph.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields
+	- Experience leading a team in solving modeling problems using AI/ML approaches
+	- Experience in theoretical and empirical research and for addressing research problems
+	- Experience communicating research for public audiences of peers
+	- Knowledge in a programming language
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+	- 1+ year(s) of work experience in a university, industry, or government lab(s), in a role with primary emphasis on AI research
+	- Experience driving original scholarship in collaboration with a team
+	- First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
+	- Experience in developing and debugging in C/C++, Python, or C#
++ skill set:
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- Contribute to the wider research community by publishing. 
+	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
+	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
+	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification. 
+	- Work closely with our team and internal partners to develop, refine, and launch processes that help ensure Spotify is a safe and positive experience. 
+	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
+	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
+	- ***You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.***
+	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- Knowledge or experience working in emerging markets is a plus.
+	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
+	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
 + skill set:
 	- Research Scientist
 	- Responsible for coming up with new techniques in unsupervised learning, dataset augmentation and deep reinforcement learning that can be applied to automating various parts of the AI development workflow.
@@ -5058,6 +5180,85 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
++ skill set:
+	- We are looking for a Machine Learning Engineer with expertise in NLP who can join our AI research and development efforts with a direct impact on our core platform. You will work with both engineering and business teams to best understand design requirements. Then, your role is to design and build practical high performance machine learning solutions.
+	- In this role, you will work on some of the latest cutting edge applications of machine learning applied to critical problems that affect businesses, governments and society. You will directly work with top management and key stakeholders to define solutions to critical problems that will have immediate impact and value at the platform and client levels. If you are passionate to work on massive, unstructured problems that can be solved using data, we are looking for you.
+	- Contribute to research and development focusing on the following areas: information extraction, multilingual NLP, automated summarization and graph network analysis.
+	- Manage the collection and annotation of large custom datasets for text classification, unsupervised pre-training, translation, tagging, and other related problems.
+	- Capable of understanding and implementing state-of-the-art methods based on research papers and/or open source libraries, and push beyond the state-of-the-art.
+	- Experience with implementing efficient and scalable software systems in Python.
+	- Ability to integrate implemented software components into a fully functional software pipeline, and provide verification and validation against requirements.
+	- Knowledge of machine learning evaluation techniques, failure modes, and limitations.
+	- Requirements
+		* Minimum 2 years of professional experience working in Natural Language Processing or closely related field, with demonstration of successful delivery of novel research and/or product offerings.
+		* Masters degree or PhD from an accredited college/university in Computer Science, Computational Linguistics, Statistics, Mathematics, Engineering, Bioinformatics, Physics, Operations Research, or related fields (strong mathematical/static background with ability to understand algorithms and methods from a mathematical and intuitive viewpoint). Some exceptions can be made depending on exceptional past accomplishments/references.
+		* Experience with command-line scripting, data structures and algorithms, and the ability to work in a Linux environment, processing large amounts of data in a cloud environment.
+		* Highly skilled in Python development, as well as: Tensorflow, Pytorch, Keras and Scikit-Learn.
+		* Able to communicate scientific concepts to both technical and non-technical audiences.
+	- Nice to Have:
+		* Working knowledge of AWS and other cloud services.
+		* Experience creating novel datasets for scientific analysis or benchmarking.
+		* Capability to contribute at the system architecture level to enhance scalability, testability, robustness.
+		* Experience with generative models of fake text or images.
+		* Experience and top performances in online competitions / hackathons, such as, kaggle.
+		* Published research in areas related to machine learning, NLP, or its applications.
+		* Record of contributions to open-source machine learning projects, or related endeavors.
+		* Experience writing detailed documentation of machine learning systems.
++ skill set:
+	- Anyscale is looking to hire strong individuals to develop open source machine learning libraries.
+	- The software industry largely operates on a messy zoo of specialized distributed systems such as Spark, Horovod, and TensorFlow Serving. These systems cannot easily be composed together and used as elements of a larger application. On the Machine Learning Ecosystem team at Anyscale, we are developing a rich ecosystem that will allow developers to import powerful distributed libraries and compose them together to build new applications.
+	- Part of this work will be open source as part of Ray, which is a distributed Python execution engine as well as an ecosystem of libraries for scalable machine learning.
+	- The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale. Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.
+	- Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
+	- Build elastic, scalable, fault-tolerant distributed machine learning libraries that power the next generation of machine learning platforms around the world
+	- Benchmark and improve performance and scalability of different machine learning libraries
+	- Work closely with other engineers developing Ray to build core abstractions and simplify machine learning services for open source users
+	- Work closely with the open source community (with ML researchers, ML engineers, data scientists) to scope and build new abstractions for scalable machine learning
+	- Solid background in algorithms, data structures, system design
+	- Experience with machine learning frameworks and libraries (PyTorch, Tensorflow)
+	- At least 1 year of relevant work experience (new grads should apply to a separate job posting)
+	- Experience working with a cloud technology stack (AWS, GCP, Kubernetes)
+	- Experience building machine learning training pipelines or inference services in a production setting
+	- Experience with big data tools (Spark, Flink, Hadoop)
+	- Experience in building scalable and fault-tolerant distributed systems
++ skill set:
+	- RLlib is an open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications. We're looking for software engineers with existing machine learning experience that are interested in continuing to improve RLlib.
+	- We are looking for senior hires as well as less experienced but motivated individuals.
+	- About the ML Ecosystem team:
+		* The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale.Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
+	- As part of this role, you will:
+		* Develop high quality open source software to simplify reinforcement learning (RLlib)
+		* Identify, implement, and evaluate promising new RL algorithms from the literature
+		* Improve the testing process for RLlib to make releases as smooth as possible
+		* Communicate your work to a broader audience through talks, tutorials, and blog posts
+	- We'd love to hear from you if you:
+		* Have relevant experience using RLlib or developing RL algorithms
+		* Have strong proficiency in Python and Tensorflow or Pytorch
+		* Are excited about working with customers who are applying RL to their own use cases
+		* Are excited about working on open source and broadcasting new features to the community
+	- About Anyscale:
+		* Anyscale provides an application development platform for developers to build distributed applications. We’re commercializing a popular open source project called Ray, which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.
+		* With Ray, we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.
++ skill set:
+	- Software Runtime Principal Engineer (CA, TX or ON)
+	- Provide technical guidance and direction to junior staff member
+	- Work closely across teams to discover the hardware and software requirements of current and future machine learning applications
+	- Develop performance analysis and debug tools
+	- Develop firmware for Tenstorrent hardware
+	- Develop highly optimized kernels in C++ and assembly to implement complex ML operations
+	- Analyze, optimize, and fine-tune performance of key machine learning applications on various configurations of Tenstorrent hardware
+	- Extensive working experience with one or more: firmware, low-level programming, optimizing kernels, hardware debug
+	- Close familiarity with computer architecture, comfortable working with hardware
+	- 7+ years of experience working with algorithms, data structures, and software development
+	- C/C++, Python
+	- Bachelors in Computer Science or Electrical/Computer Engineering or Engineering Science
+	- Excellent verbal and written communication skills
+	- Ability to work across multiple teams
+	- 2+ years of experience as a technical lead, developing and mentoring a team
+	- Masters/PhD in Computer Science or Electrical/Computer Engineering or Engineering Science
++ skill set:
+	- Hardware and system knowledge including bare metal compute, colocation centers, and cloud
+	- ML frameworks and workloads
 + Experience in Deep Learning and Deep Learning development frameworks
 + Proficiency in programming languages such as Python, Java and C++, and experience with machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn)
 + You will be expected to have a good understanding of a broad range of traditional supervised and unsupervised techniques (e.g. logistic regression, SVMs, GBDTs, Random Forests, k-means and other clustering techniques, matrix factorization, LDA . . .) as well as be up to date with latest ML advances (e.g. Deep Neural Networks, or non-parametric Bayesian methods).
@@ -7269,6 +7470,41 @@ Machine learning -based frameworks for computer vision:
 
 Skill sets for computer vision:
 + skill set:
+	- We are currently seeking a software engineer intern with strong Computer Vision, Graphics and Deep Learning fundamentals and solid implementation skills to contribute to the development of NVIDIA Maxine - a comprehensive suite of SDKs with state-of-the-art AI features for virtual collaboration and content creation.
+	- You will work alongside brilliant engineers on core technologies to solve challenging computer graphics, vision, and deep learning problems. You will work collaboratively with research and production teams on new groundbreaking approaches that transform the industry.
+	- Gain first-hand experience and grow your technical expertise in one or multiple areas of:
+		* 3D human face/body/gaze tracking
+		* Avatar 3D modeling and animation
+		* Hand pose prediction and recognition
+		* Video artifact removal, super resolution and style transfer
+		* 3D reconstruction and scene understanding
+	- Pursuing BS, MS, or PhD in Computer Science or related field
+	- Hands on experience with building, training and debugging neural networks
+	- Hands on expertise with one or more Deep Learning frameworks (Caffe, tensorflow, keras etc)
+	- Strong software engineering background, Proficiency in C++ programming or Python.
+	- Self-motivated, fast to act and eager to learn
+	- Experience of using deep learning in computer vision and graphics
+	- Background with CUDA programming, and a real passion for optimizing system performance.
+	- Background with SDK development
+	- Experience of building platforms to deploy computer vision and deep learning technologies.
++ skill set:
+	- NVIDIA is searching for a world-class Research Scientist to join our growing research team. The ideal candidate will be conducting cutting-edge research at the intersection of Machine Learning, Computer Vision and Computer Graphics, and working alongside top experts in these fields. With incredible resources in AI, graphics and robotics, you will be able to impact, contribute and advance these exciting domains. Topics include but are not limited to AI for simulation, 3D Deep Learning, DL for animation, content generation, transfer learning, domain adaptation, computer vision, and medical imaging. With its unique open culture, NVIDIA is one of the best industry labs to do AI research.
+	- Apply deep learning techniques to the simulation of complex physical phenomena such as fluid dynamics, fracture of materials, combustion, audio synthesis and propagation, and more.
+	- Work on improving realism and immersive qualities of VR environments and interactions, including intelligent characters, behavior of crowds and traffic, and human-machine interface problems.
+	- Participate in numerous projects to conduct Deep Learning research and publish papers to well known conferences (ex. ICCV)
+	- Product development for technology in Games, Virtual Reality, Education and other applications.
+	- Completion of a PhD or equivalent experience in Computer Science or a related field (or equivalent experience)
+	- Expertise in computer graphics, simulation or game development.
+	- 2+ years of experience with C++/C, CUDA, DX, or OpenGL.
+	- Dedication to producing high quality and creative results in a collaborative environment
+	- Excellent work ethic and problem-solving skills
+	- Strong publication record
+	- Ways to stand out from the crowd:
+	- A great communicator who is self-motivated towards the team goal
+	- Take pride in helping others and welcome mentoring others around you
+	- Sharp mathematics skills
+	- Image recognition and speech recognition — GPU deep learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human imagination, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidia’s GPU runs deep learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why Nvidia GPUs are used broadly for deep learning, and NVIDIA is increasingly known as “the AI computing company.”
++ skill set:
 	- As the Geometric Computer Vision Engineer you will need to develop computer vision algorithms for object detection, tracking, and classifications that are robust to lighting and weather changes. This work requires that you collaborate with state estimation engineers and assist in developing powerful feature detectors/ descriptors and large-scale 3D maps. Furthermore, it is expected that you stay organized and communicative with others to ensure that goals and objectives are being met on time. To guarantee the consistency of projects, you will participate in end-to-end development and training in Cloud to optimize development on embedded platforms.
 	- 3-5+ years’ significant industry experience and/or publications at venues such as ICRA, RSS, IROS, or CVPR in one or more areas-
 		* Image Processing
@@ -7797,6 +8033,22 @@ Skills for natural language processing, NLP:
 	- Experience with managing Infrastructure as a Service resources of public cloud providers (Azure, AWS, GCP,...) with Terraform.
 	- You have a passion for sustainable software development and you gathered experiences in other technical positions already.
 	- In-depth knowledge and experience of at least one programming language: Python, Go, Scala, Java
++ skill set:
+	- NVIDIA's technology is at the heart of AI revolution, touching people across the planet by powering everything from self-driving cars, robotics, and voice-powered intelligent assistants. We work on new models for speech recognition, speech synthesis, and natural language processing. Our team crafted Jasper, QuartzNet, Talknet and other state-of-the-art neural models for ASR and text-to-speech, and we've also developed new algorithms to accelerate training large models on our GPU cloud.
+	- Be a part of the team that's released new models as part of NeMo - open-source toolkit for Conversational AI and whose models are used by world class companies for applications such as customer service, smart voice assistants, etc. This exciting opportunity will have you collaborating with internal research and product teams, as well as researchers from top machine learning labs, and we are looking for someone who's curious, tenacious, and passionate to join our applied research team to influence and build the next generation of Conversational AI systems!
+	- Develop new deep learning models and training algorithms for speech recognition, speech synthesis, information retrieval, machine translation, etc.
+	- Transfer your technology to NVIDIA’s software product teams.
+	- Publish your research at conferences (NeurIPS, Interspeech, ICASSP).
+	- Partner with Deep Learning & AI researchers in leading universities and industrial research labs.
+	- Master’s degree (or equivalent experience) or PhD in Computer Science, Electrical Engineering, Artificial Intelligence, or Applied Math.
+	- 4+ years of practical experience.
+	- Advanced understanding of Deep Learning with applications in Speech Processing and NLP, and a record of publications or significant product contributions in these areas.
+	- Strong Python programming skills and experience with deep learning frameworks such as PyTorch or TensorFlow.
+	- Expert mathematical background, especially in optimization theory, stochastic algorithms, and/or numerical methods.
+	- Excellent communication and interpersonal skills are required along with the ability to work in a dynamic, product oriented and global team. Your history of mentoring other engineers and interns is a great bonus.
+	- Strong C++ programming skills.
+	- Systems software engineering knowledge and expertise in optimizing software for computational performance.
+	- Contribution to open source software projects.
 + skill set:
 	- BLAH.
 + skill set:
@@ -8722,6 +8974,20 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Data engineering experience and data pipeline tooling (e.g. Airflow, DBT) experience is a plus
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
++ skill set:
+	- We are looking for Data Scientist Interns to \#JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so that we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will affect the way the world experiences audio. 
+	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
+	- You are pursuing a Bachelor’s, Master’s degree, or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
+	- You have a graduation date of 2022 or 2023
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You harbor a passion for numbers and the use of data to make decisions
+	- You have the technical competence to perform more analytics in one or more of the following areas:
+		* Coding skills (such as Python, Java, or Scala)
+		* Analytics tools experience (such as Pandas, R, SPSS, SQL, or Tableau)
+		* Experience performing analysis with large datasets
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -11337,6 +11603,61 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 		* 3. Codesign AI accelerator (SW/HW) and application to maximize the performance of accelerator)
 + Accelerating Machine Learning Applications on Heterogeneous Computing Architectures
 	- This research aims to optimize ML applications on heterogeneous accelerators such as GPUs, FPGAs, and/or ASICs. S/he will conduct analysis and exploration on various performance bottlenecks in the full software/hardware stack, including ML algorithm improvement, model level transformation (e.g. compression, sparsity, data parallelization), and domain-specific architecture innovations, in order to dramatically boost the ML application's performance.
++ skill set for Senior Research Scientist, Design Automation:
+	- NVIDIA Research is seeking leading researchers in the areas of VLSI electronic design automation (EDA) to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence; systems-building experience; a broad perspective across areas including EDA algorithms and software, machine learning, and VLSI chip design methodology. Specific areas of research interest include but are not limited to applications of supervised learning, unsupervised learning, reinforcement learning and GPU acceleration to EDA algorithms.
+	- Apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Research and develop creative and innovative EDA software and algorithms.
+	- Collaborate with circuits, VLSI, and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- PhD or equivalent experience in Electrical Engineering, Computer Engineering or related field (or equivalent experience).
+	- 3+ years of relevant research experience with a strong research record, well-referenced publications and/or patents.
+	- You should display a strong background in EDA algorithms and software development, machine learning, along with knowledge of VLSI, circuits, IC design, and/or computer micro-architecture fundamentals.
+	- Experience with C, C++, Python, and scripting languages.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow).
+	- Experience with CUDA and GPU computing
+	- Strong communication skills needed. Being a creative and dynamic presenter is a huge advantage.
++ skill set for Research Scientist, Design Automation - New College Grad.
+	- We are now looking for a Research Scientist – Design Automation
+	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?
+	- NVIDIA Research is seeking leading researchers in the areas of VLSI electronic design automation (EDA) to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence; systems-building experience; a broad perspective across areas including EDA algorithms and software, machine learning, and VLSI chip design methodology. Specific areas of research interest include but are not limited to applications of supervised learning, unsupervised learning, reinforcement learning and GPU acceleration to EDA algorithms.
+	- Apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
+	- Research and develop creative and innovative EDA software and algorithms.
+	- Collaborate with circuits, VLSI, and architecture team members in research and product teams.
+	- Publish and present your original research, speak at conferences and events
+	- Collaborate with external researchers and a diverse set of internal product teams.
+	- Pursuing Ph.D in EE or related with a strong research record, well referenced publications and / or patents.
+	- You should display a strong background in EDA algorithms and software development, machine learning, along with knowledge of VLSI, circuits, IC design, and/or computer micro-architecture fundamentals.
+	- Experience with C, C++, Python, and scripting languages.
+	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow).
+	- Experience with CUDA and GPU computing
+	- Strong communication skills needed. Being a creative and dynamic presenter is a huge advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11448,6 +11769,35 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 
 ##	Computer Vision Research
+
+
+
+
++ skill set:
+	- NVIDIA is searching for outstanding applied research manager to spearhead our Computer Vision efforts. Computer Vision is a core component of NVIDIAs platforms from Drive AV to Isaac autonomous Robotics to Clara for Healthcare to Maxine streaming and broadcast and beyond. The ideal candidate is an established thought leader in academic or industry with deep experience in vision, human understanding, publishing and presenting at industry and academic conferences, and hands-on implementation. This role requires high-level knowledge of multiple areas within production workflow and tools, Deep Learning, network optimization, and vision systems. Come join a diverse applied research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Start an applied research team focused on Computer Vision specifically targeted on Video Understanding
+	- Recruit, build and lead a small applied research team with diverse skills across research, high performance computing, hardware acceleration, and system software
+	- Define and execute a multi-year applied research agenda
+	- Work with product groups to identify short and medium term technology gaps, transfer technology
+	- Identify and close gaps between research and product teams
+	- Prove out potential in existing research for use in product. Improve robustness and performance
+	- Implement experiments and research prototypes in C++, Python, CUDA, and other domain-appropriate tools
+	- Influence research initiatives across the company and in the field
+	- Protect strategic inventions with patents
+	- Publish and present findings in top-tier venues
+	- A Ph.D. or comparable research experience or equivalent experience in Computer Science/Engineering or a related field
+	- 10+ years of relevant work experience
+	- 3+ years of experience leading a team
+	- Excellent knowledge of theory and practice in computer graphics, cloud/distributed computing, ray tracing, and machine learning
+	- Expertise with programming systems such as C++, Python, CUDA, and deep learning frameworks such as TensorFlow and PyTorch
+	- Demonstrated team/management leadership in research, applied research, or product teams
+	- A track record of research excellence demonstrated in publications at leading conferences and journals and other research artifacts such as software projects
+	- Great presentation and interpersonal skills
+
+
+
+
+
 
 
 

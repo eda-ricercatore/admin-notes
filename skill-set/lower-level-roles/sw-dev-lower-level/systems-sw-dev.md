@@ -91,9 +91,87 @@
 
 
 
+###	Skill Sets for Device Driver Development
 
 
 
+
+
+
++ skill set:
+	- Development, testing, analysis, and documentation of Linux device drivers
+	- Development of new features and programs, as well as, enhancements, modifications, and corrections to existing software.
+	- Experience in Linux driver development (I2C/SPI/UAR/PCI/USB)
+	- Experience in software optimization code development within the Linux environment
+	- Strong C/C++ experience
+	- Knowledge of Git
++ Knowledge of OS/driver software stacks, e.g., Linux/QNX.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

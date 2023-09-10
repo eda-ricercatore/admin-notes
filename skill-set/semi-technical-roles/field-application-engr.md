@@ -42,6 +42,19 @@
 		* Understanding/Experience of Industrial Manufacturing Processes
 		* Ability to travel to Europe in short notice.
 		* Practical experience as Solutions Architect in the field of AI/ML/Industrial IoT/Cloud Technologies
++ skill set for Energy Solution Architect Intern:
+	- NVIDIA is building the world’s leading AI company and we need Solution Architects to help our customers adopt GPU Deep Learning, accelerated data analytics, and other AI and HPC technologies. As an intern you will team up with experienced solution architects as you work as part of an NVIDIA account team supporting customers building solutions with our latest technology.
+	- You will be supporting customers in their journey to optimize code for the GPU while working to complete a special project that will be agreed upon before you join. In the process you should become familiar with our Tesla data center products for AI and HPC including the DGX-1 deep learning supercomputer, our Quadro line of professional visualization solutions, and our Tegra embedded solutions for intelligent video analytics and IoT. At the end of your internship, after being exposed to a broad scope of our technologies, you will have insight into a role as a regular solution architect at NVIDIA.
+	- The ideal candidate will have a solid computer architecture and software foundation, with some GPU-based visual or compute experience, and will be comfortable working in a fast-paced environment with changing requirements. Excellent communication skills and ability to work both independently and with a team are essential. Experience with GPU deep learning and data sciences is desirable, as is the ability to quickly learn new technologies.
+	- Working at the convergence of HPC + AI developing domain specific Deep Learning, Machine Learning, and SimNet-based solutions
+	- Coordinate the setup of experiments, tests, equipment, and otherwise facilitate evaluations that help solve customer problems using GPU deep learning and other NVIDIA technologies
+	- Work closely with the NVIDIA Solution Architect and customer account team to secure design wins through customer proof-of-concept evaluations
+	- Facilitate rapid resolution of customer issues and promote the highest levels of customer satisfaction
+	- Work to complete a special project involving key NVIDIA technologies
+	- Pursuing MS or higher in EE, CS, Math, Physics or related technical field
+	- Data sciences coursework
+	- Programming skills in 1 or more high level languages (C, C++, Python, etc.)
+	- Linux command line and system administration skills are helpful
 + skill set:
 	- BLAH.
 + skill set:

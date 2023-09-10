@@ -283,6 +283,31 @@ Skill set for management of information systems, MIS:
 + Familiarity with a range of database solutions, e.g. Redis, NoSQL, PostgreSQL and general storage solutions like S3 and R2
 + Strong programming capabilities in SQL and other DB technologies– Stored Procedures, Functions, Triggers, Views, Transactions, Data Flow, etc
 + skill set:
+	- Tenstorrent is growing and we are looking for an IT Systems & Support Administrator for our Austin office. You will be our Austin IT Lead to support daily activities and work on cross site projects.
+	- Deployment, maintenance, support and monitoring of our infrastructure in the Austin office
+	- Be the onsite IT presence, therefore support and troubleshoot local technical issues from laptops to AV equipment, Administration of local and in part of entire network wide CentOS and Ubuntu Linux systems; systems security tasks including security scanning, patching and systems hardening
+	- Configure, add and maintain laptop, server, and network inventory
+	- Partnership across sites on various IT projects
+	- Other task and duties as determined from time to time
+	- This role will have a physical as well as remote administration and support aspect.
+	- Degree/diploma in Computer Science or demonstrated combination of education and experience
+	- 2 plus years of Systems Administration experience in a small to mid-size company using Linux (CentOS/Redhat) with a Linux+ certification
+	- 2 plus years of installation and maintenance of enterprise level hardware, small deployments count provided its standard equipment
+	- Network management, both physical infrastructure cabling and switches/firewall - 1 year experience is preferable
+	- Experience with Veeam Back-ups or similar tools, managing backup & restoration implementation and testing
+	- Proficient with SNMP/Nagios/Managed Engine based Monitoring, ElasticSearch, Jamf and Grafana
+	- Worked with firewalls (Fortinet) and Linux based firewall (IPTABLES/IPCHAINS)
+	- Strong documentation abilities necessary to ensure timely problem resolution
+	- Experience with container orchestration systems (such as Kubernetes, Docker, Amazon ECS, EKS, Rancher)
+	- Skilled at managing cloud-based environments in AWS and Azure
+	- Proven ability to work autonomously with limited direction and oversight
+	- Network Administration with CCNA certification
+	- Strong technical problem-solving skills and experience in IP networking and static routing FTP, SSH, SMTP, DNS, HTTP/S, DHCP
+	- Python and other scripting languages such as bash, Ruby etc (Nice to have)
+	- Intermediate knowledge of TCP/IP including the usage of stateful and stateless firewalls, access control lists, packet capture and logging, network design, Subnetting, IP routing, IPSEC virtual private networks, and intrusion detection and prevention
+	- Worked with automation/configuration management tools using Ansible, Chef or an equivalent an asset
+	- Mac support and experience with Jamf is preferable
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

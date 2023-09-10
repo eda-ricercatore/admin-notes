@@ -129,6 +129,21 @@ reactive programming = asynchronous dataflow programming
 
 Generic sets of skills in robotics:
 + skill set:
+	- We are looking for a Research Scientist, Robotics - New College Graduate:
+	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. With the GPU acting as the primary computing device, robots can now perceive and understand the world around them. Today, NVIDIA has transformed into “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world working on diverse aspects of AI. Join us at the frontier of technological advancement!
+	- Robotics is an increasingly exciting field, influenced heavily by recent advances in hardware acceleration through devices such as the modern GPU. These advances have enabled tremendous progress in several areas of robotics, including manipulation, visual recognition, real-time tracking, and learning-based control. Robots are getting increasingly proficient at building 3D maps of their environments, detecting and tracking objects and people as they move through the world, learning controllers from realistic simulation, and understanding commands provided via gestures and natural language.
+	- While our ultimate goal is to reach human-level dexterity, perception, and adaptability, we still have a long way to go. To enable the next generation of robots that can robustly operate in the physical world and interact with people in a natural way, progress is still needed in multiple domains: perception, planning, learning, and control. Moreover, even more importantly, the integration of these individual contributions into complete robot systems opens new challenges.
+	- Toward this goal, the NVIDIA Robotics Research Lab brings together a diverse, interdisciplinary research team working on core robotics topics ranging from control, perception, machine learning, common sense reasoning, task planning, human-robot collaboration, and critical related areas such as deep learning for computer vision, natural language processing and decision making.
+	- The lab focuses on fundamental research questions in robotics and lab members are encouraged to publish their research and open source their code. The lab hosts numerous internships every year to foster education and communication, and the team is encouraged to collaborate broadly with institutions outside of NVIDIA, both academic and industrial. NVIDIA is well known for its team culture, and lab researchers are able to closely interact with others within the company who are experts in broad subtopics such as computer vision, computer graphics, GPU computing, AI and Deep Learning, self-driving cars, and physics-based simulation.
+	- Robot manipulation, robot control, reinforcement learning, computer vision, human-robot interaction, deep learning, physics-based simulation, neuro symbolic reasoning, and natural language processing.
+	- Pursuing PhD in Robotics, Computer Science, Engineering or related field.
+	- 3+ years of relevant research or work experience
+	- Knowledge of theory and practice of robotics, or a related area with a strong interest in connecting your work to robotics scenarios.
+	- A track record of research excellence with your work published in top conferences and journals such as Robotics (RSS, ICRA, IROS, CoRL, T-RO, IJRR), Machine Learning (NeurIPS, ICML, ICLR, AAAI, JMLR), Computer Vision (CVPR, ICCV, ECCV, TPAMI) and Language (ACL, EMNLP, NAACL).
+	- Exceptional programming skills in Python, and deep learning frameworks such as Tensorflow and Pytorch. Fluency in C/C++; CUDA and robotics frameworks such as ROS is a plus.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research focused team. A demonstrated history of mentoring junior engineers and interns is a huge plus.
+	- Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you a researcher or an engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for NVIDIA!
++ skill set:
 	- Experience with Robotics perception
 	- At Starsky, the Perception team is responsible for processing sensor information and making it available to the other teams in a clean and consistent format. The models and algorithms developed aim to achieve robust real time detection and tracking of our truck and other objects in the local environment, including lane lines, vehicles, and pedestrians.
 	- As a Robotics Perception Engineer, you will be responsible for filtering, fusing and post-processing the outputs of different deep learning models and sensors. You will apply state of the art tracking and fusion algorithms which are robust to sensor noise and environmental variability. This requires working with teams across the driving stack to scope requirements and understand the strengths and limitations of different modules.
@@ -300,6 +315,27 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 Sets of skills for autonomous road vehicles:
 + skill set:
+	- NVIDIA is seeking deep learning research / engineering interns to join the AV perception research team. The team consists of a group of dynamic AI applied researchers and engineers and is committed to build industry-grade deep learning to take autonomous vehicle (AV) perception into production, we work on fundamental advances in scientific methods to enabling scaling-up the entire perception for the autonomous driving stack. We are looking for highly motivated individuals to work in the areas of deep learning, optimization and computer vision. Our interns have the unique opportunity to make algorithmic contributions to core products and apply their ideas at a very large scale. As an intern, you will conduct applied research related to one of the meaningful research topics mainly related to perception for autonomous driving. You may also have the opportunity to publish in premier conferences in the fields of Machine Learning and perception.
+	- In order to scale-up current AI-algorithms, we need to learn from datasets orders of magnitude larger than existing ones which is a very challenging task. Our team at NVIDIA is dedicated to developing new algorithms to explore the vast amount of collected data to improve AI-based applications such as AV.
+	- Efficient data selection to improve learning and scaling-up training sets including active learning and mining strategies.
+	- Network interpretability to predict network failures and to design novel algorithms to continuously learn from data and from failures.
+	- Efficient training and inference to minimize training time and enable inference in embedded platforms.
+	- Synthetic to real domain adaptation.
+	- To learn more about our high-level goals visit: https://atscaleconference.com/videos/scale-2018-keynote-inside-nvidias-ai-infrastructure-for-self-driving-cars/
+	- You will be responsible for conducting applied research to advance the performance of our codebase applied to perception for autonomous vehicles. Research is done in areas related to large scale learning including semi-supervised deep learning, active learning, deep network architecture search, parameter optimization and modeling, domain adaptation, or life-long learning. You may have opportunities to influence the progress of the field by producing publications.
+	- Contribute to integrating novel algorithms into core applications to enable a better generation of autonomous vehicles, coding in Tensorflow to facilitate the integration into our codebase.
+	- Collaborate and increase the performance of existing perception-based systems for AV.
+	- Pursuing BS, MS, or Ph.D. in Computer Science, with a focus in Deep Learning, Artificial Intelligence or related fields.
+	- Expertise in Computer Vision and Deep Learning.
+	- Strong mathematical background and ability to analyze results.
+	- Excellent Tensorflow and python programming skills to bring ideas into production systems.
+	- A dedication to bring your work to completion and see your work having a worldwide impact.
+	- A self-motivated and good teammate with good communication and social skills.
+	- Publication or experience in fields related to machine learning, analytics, large-scale systems, statistics, and mathematics.
+	- Currently enrolled in a Ph.D. program in CS or Math.
+	- First author publications in top-tier peer-reviewed conferences such as NeurIPS, ECCV, ICML, CVPR, ICCV.
+	- Research or software engineering experience confirmed via internships, relevant work experience or code competitions.
++ skill set:
 	- Knowledge of robotics concepts and tools (ROS)
 	- Understanding of and ability to implement machine learning methods, particularly for applications in autonomous vehicle decision making and prediction
 	- Experience in production C++ development
@@ -331,6 +367,52 @@ Sets of skills for autonomous road vehicles:
 	- Experience deploying an estimator for say SLAM/VIO in a real application
 	- Understanding of numerical stability, sensor modeling and system/noise identification
 	- Understanding of theoretical shortcomings in modern algorithms and how to overcome them
++ skill set for Senior Research Scientist, Autonomous Vehicle Research:
+	- We are now recruiting top Research Scientists in Autonomous Vehicle Research.
+	- AI-powered autonomous vehicles that can learn, reason, and interact with people are no longer science fiction. Self-driving cars, autonomous delivery vehicles, and autonomous construction vehicles, among others, are getting increasingly close to widespread deployment. However, fundamental research questions still need to be addressed in order to achieve full vehicle autonomy. For instance, how can we: Remove the traditional barriers among perception, prediction, and planning in order to improve overall system performance? Equip autonomous vehicles with online and offline assurances that meet the standards for safety-critical systems? Ensure that autonomous vehicles work seamlessly in new places?
+	- These are some of the exciting questions that the newly-established NVIDIA Autonomous Vehicle Research Lab will be tackling. The lab will bring together a diverse, interdisciplinary research team working on core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as critical related areas such as decision making under uncertainty, deep learning, reinforcement learning, and the verification and validation of safety-critical AI systems. The lab will focus on basic research; lab members will be encouraged to publish their work and open-source code. NVIDIA is well known for its team culture, and lab researchers will be able to closely interact with others within the company who are experts in perception systems, machine learning, and robotics. There is an opportunity to make a strong impact on products, while having the freedom and bandwidth to conduct ground-breaking publishable research.
+	- Designing and implementing cutting-edge techniques in the field of vehicle autonomy, having an opportunity to define your own research.
+	- Publishing your original research and speaking at conferences and events.
+	- Collaborating with other research team members, a diverse set of internal product teams, and external researchers.
+	- Transferring technology you've developed to relevant product groups.
+	- PhD or equivalent experience in Robotics, Computer Science, Computer Engineering or related field.
+	- 4+ years of relevant research experience in the field of vehicle / robot autonomy.
+	- Strong knowledge of theory and practice of vehicle / robot autonomy, or a related area with a strong interest in connecting your work to autonomous vehicles.
+	- A track record of research excellence with your work published in top conferences and journals such as RSS, ICRA, IJRR, NeurIPS, ICML, CVPR, TAC, etc., and other research artifacts such as software projects.
+	- Exceptional programming skills in Python; C++ and parallel programming (e.g., CUDA) are a plus.
+	- Knowledge of common machine learning frameworks such as PyTorch and Tensorflow.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research-focused team. Experience with mentoring junior engineers and interns is a huge plus.
++ skill set:
+	- We are now recruiting top Research Scientists in Autonomous Vehicle Research.
+	- AI-powered autonomous vehicles that can learn, reason, and interact with people are no longer science fiction. Self-driving cars, autonomous delivery vehicles, and autonomous construction vehicles, among others, are getting increasingly close to widespread deployment. However, fundamental research questions still need to be addressed in order to achieve full vehicle autonomy. For instance, how can we: Remove the traditional barriers among perception, prediction, and planning in order to improve overall system performance? Equip autonomous vehicles with online and offline assurances that meet the standards for safety-critical systems? Ensure that autonomous vehicles work seamlessly in new places?
+	- These are some of the exciting questions that the newly-established NVIDIA Autonomous Vehicle Research Lab will be tackling. The lab will bring together a diverse, interdisciplinary research team working on core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as critical related areas such as decision making under uncertainty, deep learning, reinforcement learning, and the verification and validation of safety-critical AI systems. The lab will focus on basic research; lab members will be encouraged to publish their work and open-source code. NVIDIA is well known for its team culture, and lab researchers will be able to closely interact with others within the company who are experts in perception systems, machine learning, and robotics. There is an opportunity to make a strong impact on products, while having the freedom and bandwidth to conduct ground-breaking publishable research.
+	- Designing and implementing cutting-edge techniques in the field of vehicle autonomy, having an opportunity to define your own research.
+	- Publishing your original research and speaking at conferences and events.
+	- Collaborating with other research team members, a diverse set of internal product teams, and external researchers.
+	- Transferring technology you've developed to relevant product groups.
+	- Pursuing PhD or equivalent experience in Robotics, Computer Science, Computer Engineering or related field.
+	- 4+ years of relevant research experience in the field of vehicle / robot autonomy.
+	- Strong knowledge of theory and practice of vehicle / robot autonomy, or a related area with a strong interest in connecting your work to autonomous vehicles.
+	- A track record of research excellence with your work published in top conferences and journals such as ***RSS, ICRA, IJRR, NeurIPS, ICML, CVPR, TAC***, etc., and other research artifacts such as software projects.
+	- Exceptional programming skills in Python; C++ and parallel programming (e.g., CUDA) are a plus.
+	- Knowledge of common machine learning frameworks such as PyTorch and Tensorflow.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research-focused team. Experience with mentoring junior engineers and interns is a huge plus.
++ skill set:
+	- We are now hiring interns for our DriveIX team, with a preferred start in August or September. Join our DriveIX team and help build the real-time, cost-effective computing platform driving our success in this exciting and quickly growing field. Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. This is truly an extraordinary time. The era of AI has begun.
+	- As a Software Intern on our Copilot team, you will be working on research, design and implementation of software features in the DriveIX and intelligent assistant. You will use machine learning, deep learning and computer vision techniques combined with rules-based domain specification to provide monitoring, communication/interaction and external perception capabilities using multiple different type of sensors and inputs on embedded platforms.
+	- Pursuing BS/MS degree in Computer Science/EE or related
+	- You have strong fundamentals in embedded systems, programming and SW design
+	- Strong knowledge of ML/DL techniques, algorithms and tools with exposure to memory networks, CNN, RNN and LSTM and/or Computer Vision
+	- Have shown ability to harness existing data, acquiring and labeling of new data and managing related work flows.
+	- Excellent fluency with C/C++ and Python
+	- You strongly believe that prototyping is the right way to prove the idea
+	- Image, sentiment and object classification experience is highly desired
+	- Experience with one of the following: dialog systems and conversational platforms, computer vision, signal processing
+	- A familiarity with GPU computing (CUDA, OpenCL, OpenACC)
+	- Background with Dockers and Kubernetes
+	- Familiarity with TensorRT
+	- Worked with variety of vision, depth and audio sensors
+	- Worked on programming automotive CAN bus
 + skill set:
 	- BLAH.
 + skill set:

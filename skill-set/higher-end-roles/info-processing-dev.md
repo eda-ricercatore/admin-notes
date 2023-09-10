@@ -773,6 +773,38 @@ reactive programming = asynchronous dataflow programming
 + skill set:
 	- 8+ years of professional experience shipping software with a specialization on Rendering and Graphics (2D or 3D), ideally with experience in C++/WebAssembly.
 	- Experience working on game engines, client-side technologies and platforms, and rendering APIs like OpenGL, WebGL, WebGPU, Vulkan, Metal, or DirectX.
++ skill set for Senior Research Scientist, Hyperscale Graphics Systems:
+	- NVIDIA is searching for outstanding senior researchers for the reinvention of interactive 3D systems for games, virtual film production, and beyond, using new ideas in cloud/distributed computing, ray tracing, and machine learning. The ideal candidate is an established thought leader in academic or industry with deep experience creating technology for 3D environments, publishing and presenting at industry and academic conferences, and hands-on implementation. This role requires high-level knowledge of multiple areas within production workflow and tools, physical simulation, networking, rendering, and character animation and AI. Datacenter experience with liveops, multiuser environments, and user created content is highly valued. Come join a diverse research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Work independently on research projects and lead small teams as a principal investigator
+	- Select and solve complex problems in a multi-year research agenda
+	- Mentor graduate interns
+	- Implement experiments and research prototypes in C++, Python, CUDA, and other domain-appropriate tools
+	- Influence research initiatives across the company and in the field
+	- Protect strategic inventions with patents
+	- Publish and present findings in top-tier venues
+	- Collaborate with leading experts outside of the company
+	- Work with product groups to identify future research needs and transfer technology
+	- Participate in top-tier conference and journals as reviewer, session chair, program committee member, or editor/chairperson 
+	- A Ph.D. or comparable research experience or equivalent experience in Computer Science/Engineering or a related field.
+	- 5+ years of relevant work experience.
+	- Excellent knowledge of theory and practice in computer graphics, cloud/distributed computing, ray tracing, and machine learning
+	- Expertise with programming systems such as C++, Python, CUDA, and deep learning frameworks such as TensorFlow and PyTorch. Very strong programming skills.
+	- A track record of research excellence demonstrated in publications at leading conferences and journals and other research artifacts such as software projects
+	- Great presentation and interpersonal skills.
++ skill set:
+	- NVIDIA Research’s "Hyperscale Graphics Systems" research team is looking for a graphics software engineer. Our team's mission is to reinvent interactive 3D systems for a world where the graphics system is not one GPU, but the entire data center. We aim to reimagine metaverse simulations, virtual film production, game engines, and beyond using new ideas in cloud/distributed computing, ray tracing, and artificial intelligence. That innovation happens on top of rendering algorithms and software, AI frameworks, cloud and web development stacks, and NVIDIA's Omniverse platform. We need a skilled, creative, and self-starting graphics software engineer to help us build that future. Come join a diverse research group that works on hard and meaningful problems; that consistently publishes at top venues in graphics, computer vision, and artificial intelligence; and that values real impact on NVIDIA products and the industry at large.
+	- Build research infrastructure on top of open-source rendering frameworks such as NVIDIA's Falcor, a physically-based rendering system and collection of software modules designed to maximize graphics R&D productivity
+	- Help integrate research infrastructure, such as Falcor and hyperscale research systems, into NVIDIA Omniverse
+	- Collaborate with researchers, product engineers, and architects across the company working on aspects of hyperscale graphics
+	- Help implement and maintain modern full-stack cloud systems, working with technologies from GPU containerization to WebRTC
+	- Participate in tech transfer with engineers around NVIDIA as ideas "graduate" from research to product
+	- Extend and maintain continuous integration, nightly testing, and other professional software development systems to ensure robust and dependable infrastructure
+	- B.S., M.S. or Ph.D. in computer science or equivalent experience
+	- Strong programming skills in C++, Python, and HLSL/GLSL
+	- 3+ years of experience with 3D graphics development
+	- Experience with parallel programming on both CPUs and GPUs
+	- Understanding of and experience with modern graphics APIs: Direct3D, Vulkan, and/or OptiX
+	- A demonstrated passion for participating in collaborative interdisciplinary research teams.
 + skill set:
 	- BLAH.
 + skill set:
