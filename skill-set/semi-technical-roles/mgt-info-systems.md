@@ -308,7 +308,17 @@ Skill set for management of information systems, MIS:
 	- Worked with automation/configuration management tools using Ansible, Chef or an equivalent an asset
 	- Mac support and experience with Jamf is preferable
 + skill set:
-	- BLAH.
+	- We are looking for a Data Analyst Intern to \#JoinTheBand and support our Tech Learning team. As a part of our Collaborative Learning Product Area, The Tech Learning team creates peer-to-peer learning experiences that upskill and reskill Spotify employees in technical domains. We are looking for a Data Analyst Intern to consume, understand, and interpret data across our programs and create tools to better understand topics like customer demand and customer learner journeys.
+	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with the Tech Learning team, Data Scientists, and other key stakeholders across disciplines
+	- You are pursuing a Bachelor’s, Master’s degree, or bootcamp certification in Data Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
+	- You have a graduation date of 2023 or later
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You harbor a passion for numbers and the use of data to make decisions
+	- You have the technical competence to perform more analytics in one or more of the following areas:Coding skills (such as Python, Java, or Scala)Analytics tools experience (such as Bigquery, SQL, or Tableau)
+	- Experience and passion for performing analysis with large datasets
 + skill set:
 	- BLAH.
 + skill set:
@@ -361,6 +371,87 @@ Skill set for management of information systems, MIS:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for GIS-Based Software Applications, Computer Systems, and Cyber-Physical Systems
+
+
+Skill set for GIS-based software applications, computer systems, and cyber-physical systems:
++ skill set:
+	- experience with multi-imaging modalities
+		* RGBN
+		* multi-/hyper- spectral
+		* thermal
+		* LiDAR
+		* radar
+	- experience delveoping algorithms and methods for object detection, classification, and characterization
+	- compiled production-class OO or FP programming language
+		* Java
+		* Scala
+		* C++
+		* C#
+		* Haskell
+		* ML
+		* Erlang
+		* Clojure
+		* Rust
+	- geospatial/GIS tools:
+		* ArcGIS/QGIS
+		* ENVI
+		* ERDAS Imagine
+	- ability to think broadly and creatively about real-world problems, and technical and scientific solutions that produce value for customers
+	- experience with deep learning or machine learning methodologies
+	- cloud-based implementation of software via:
+		* AWS
+		* Azure
+		* GCP
+	- Bayesian image analysis, Bayesian statistics, optimization methods
+	- sensor and image fusion, multi-scale and multi-temporal data processing, video processing, 3-D scene reconstruction methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

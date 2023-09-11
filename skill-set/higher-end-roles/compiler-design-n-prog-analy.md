@@ -208,6 +208,47 @@ Skill set for compiler design:
 	- MLIR
 	- GLOW
 	- XLA
++ skill set:
+	- As a member of our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute. 
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed. The Cerebras compiler efficiently maps this computation onto hundreds of thousands of compute nodes, leveraging novel hardware architecture features to maximize performance while maintaining correctness. LLVM is a critical component in the compilation process, not only performing low-level optimization and efficient mapping to hardware instructions, but also ensuring effective use of novel hardware features. 
+	- Work with hardware architects to ensure future hardware designs maximize the performance accessible via automatic compilation while minimizing compiler complexity
+	- Develop effective representations of Cerebras’ novel architectural features in LLVM IR
+	- Extend the LLVM backend to target new hardware architectures, designing and implementing performant and correct mappings from LLVM IR to Cerebras’ novel hardware
+	- Design and implement LLVM IR and backend optimizations, maximizing performance on deep learning and HPC workloads
+	- Mentor junior engineers on development best practices and LLVM internals
+	- Collaborate closely with teams developing related software components to ensure compatibility, robustness, quality, and performance
+	- Contribute to the design of higher-level intermediate representations and domain specific languages and their mapping to LLVM IR
+	- Maintain our production compiler in use by customers in both the ML and HPC domains
+	- Bachelor’s or foreign equivalents in computer science, engineering, or related field 
+	- 5+ years of experience developing optimizing compilers using the LLVM tool chain 
+	- Strong C++ development skills
+	- Excellent verbal and written communication skills
+	- Able to collaborate effectively in a distributed team 
+	- Master’s, PhD, or foreign equivalents in computer science, engineering, or related field 
+	- Production compiler development experience, particularly developing LLVM target backends
+	- Experience in the design and implementation of DSLs
+	- Familiarity with machine learning frameworks and intermediate representations 
+	- Experience with parallel programming techniques and optimizations
++ skill set:
+	- As a member of our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute. 
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed. Compilers are needed to optimize the mappings of computation graphs to compute nodes. In this position, you will build the tools that generate distributed memory code from evolving intermediate representations. 
+	- Design and devise graph semantics, intermediate representations, and abstraction layers between high-level definitions (like TensorFlow and Pytorch) and low-level distributed code 
+	- Use state-of-the-art parallelization and partitioning techniques to automate generation, exploiting hand-written distributed kernels
+	- Identify and implement novel program analysis and optimization techniques for compilers targeting linear algebra applications on distributed memory architectures 
+	- Leverage open-source tools and compiler toolchains such as ***ISL, MLIR and LLVM*** to build domain specific language and compiler for programming Cerebras Wafer Scale Engine
+	- Develop and optimize the LLVM backend target for various generations of Cerebras architecture
+	- Bachelor’s, Master’s, PhD, or foreign equivalents in computer science, engineering, or related field 
+	- Familiarity with high-level parallel program analysis and optimization 
+	- Compiler experience; experience in code generation and optimization for distributed systems
+	- Strong proficiency in C/C++ or other language for designing large, performant systems
+	- Familiarity with Python or other scripting language. 
+	- Familiarity with multi-thread and multi-process programming models
+	- ***MLIR & LLVM compiler toolchain internals***
+	- ***Polyhedral models, Integer Set Library (ISL)***
+	- Familiarity with HPC kernels and their optimization 
+	- IEEE floating point representations 
+	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
+	- Knowledge of ML application areas and state-of-the-art networks in various application areas
 + skill set for ***Machine Learning Compiler Research Intern***:
 	- NVIDIA is hiring software engineer interns for its GPU-accelerated Deep Learning team. Academic and commercial groups around the world are using GPUs to power a revolution in deep learning, enabling breakthroughs in problems from image classification to speech recognition to natural language processing and artificial intelligence. Join NVIDIA's team building software which will be used by the entire deep learning research community.
 	- In this role, you will be responsible for developing highly optimized solutions for deep learning algorithms. You’ll collaborate with members of the open source deep learning software engineering community to define and implement the features needed to accelerate the next generation of deep learning software frameworks. The scope of these efforts ranges from defining public APIs, performance tuning and analysis, crafting and implementing compiler and optimization techniques for neural networks, and other general software engineering work.

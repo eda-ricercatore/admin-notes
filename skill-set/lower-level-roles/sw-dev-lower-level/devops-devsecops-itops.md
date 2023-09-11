@@ -77,6 +77,66 @@ Skill set for DevOps:
 	- Continuous Integration - TeamCity, Chef, Terraform, Kubernetes, Docker, Jenkins
 	- Scrum - JIRA, Google Docs, Metabase, integrated QA
 + skill set:
+	- Our core cultural values are manifested in our practices and processes every day. We highly value transparency and fairness in everything we do. We look for people who like to move quickly, are ambitious yet humble and have a great sense of humour. If you have a mischievous spark of fun, that’s even better.
+	- What you will be doing
+		* We’re looking for an experienced DevOps Engineer to join a team of talented engineers to develop high quality products which are scalable, testable, extensible, and provide high value to our customers.
+		* As a key member of the server and infrastructure team, you will work closely with the various development teams to provide operational support. This support will help them gain insight into their systems, improve reliability, and increase developer productivity.
+		* This is an individual contributor role where you will be reporting to a Team Lead. This role can be based in Vancouver or Toronto, with benefits from a flexible hybrid work model of remote + in office collaboration.
+	- Responsibilities
+		* The ultimate tasks for a DevOps Engineer can vary from company to company, but the base responsibilities are usually similar. Monitoring and improving infrastructure and processes will be part of the job at Later just as it would be anywhere else. That being said, there are some things that we are particularly keen on at Later.
+		* Ability to work with different engineering teams, back end, web front end, and mobile teams.
+		* Bringing your wealth of knowledge and experiences (good and bad) to Later and improving our processes and technology.
+		* Educating product and stakeholders on the trade-offs of different paths to a given milestone to enable them to make educated decisions for our roadmap.
+		* Writing documentation by hand or via automation.
+		* Holding other developers, in particular other Senior Developers, to high coding standards through PR reviews.
+		* Constantly learning and staying up-to-date through use of dedicated unstructured dev time for you to: making open-source contributions, writing technical blog articles, creating internal tools for non-feature work, as well as self-education on relevant topics.
+		* Knowing when good is good enough.
+		* Knowing when good just isn’t going to cut it.
+		* Joining the on call rotation.
+		* Writing documentation, did we mention that?
+		* Taking ownership of pieces of code, infrastructure, and processes and then caring enough to improve them.
+		* Knowing how to scale workloads while managing the various resources used by them.
+		* Owning and improving deployment processes for the different apps and services
+		* Supporting CI/CD pipelines for the various development teams
+		* Maintaining documentation and runbooks for the services and infrastructure
+		* Owning and scheduling maintenance for dependencies, i.e., databases and cache stores
+		* Owning and improving infrastructure monitoring and alarming
+		* Improving and optimizing the use of our AWS infrastructure
+		* Automation of common task that allow you to be removed from the process
+	- Supported Tech... in our tech stack:
+		* A moderately sized Ruby on Rails monolith
+		* Dockerized services written Node, Ruby, and Elixir
+		* Node/Express/Typescript API
+		* Postgres, Redis, and DynamoDB datastores
+		* Deployments in Heroku and AWS (ECS, EKS, and Lambda)
+		* CircleCI based CI pipeline
+	- What we are looking for
+		* 3+ years of experience working on a team and shipping code and services in production environments
+		* Minimum 2+ years devops experience
+		* Strong experience managing AWS based deployments, K8s preferred
+		* Experience working with Dockerized services (micro or other)
+		* Experience with infrastructure-as-code
+		* Experience CI/CD pipelines across multiple domains
+		* Familiarity with Postgres (or other relational DBs)
+		* Familiarity with cloud based security best practices
+		* Familiarity with Agile process
+		* We believe that good DevOps people have the ability to pick up new processes and technologies quickly, but some of the following will help you hit the ground running in one area or another.
+		* Experience working on Ruby on Rails applications
+		* Experience working with Typescript/Express applications
+		* Experience with AWS based DevSecOps
+		* Experience with processing images at scale
+	- Culture/Benefits
+		* We are passionate about learning and development, providing opportunities through lunch and learns, training and workshops. We also provide each employee with a $3000 per year Education & Conference budget.
+		* We provide our employees with a monthly Wellness Spending Account, to help cover costs related to fitness equipment, personal training, gym memberships or health and wellness practitioners.
+		* We provide our team with a generous technology bonus and provide the tools you need to succeed in your role.
+		* We offer a comprehensive benefits package including health, dental, vision, and an Employee and Family Assistance Program to support the wellbeing of you and your family.
+		* We offer flexible working hours & schedules so you can work around school and home commitments.
+		* We offer parental leave top-ups, family forming support and a life-transitions program to ensure you and your family are well supported when returning to work
+		* We provide a variety of workshops, meditation and yoga at our monthly Wellness Wednesday events to help our team perform at their best.
+		* All departments have quarterly department team building activities
+		* We fly all employees in or out to join us at our fun filled annual company retreat.
+		* Later values diversity of thought; we are committed to creating a diverse environment and are proud to be an equal opportunity employer. All applications will receive consideration for employment without regard to race, colour, religion, gender, gender identity or expression, national origin, disability, or age.
++ skill set:
 	- YAML, or JSON, for customizing configuration files.
 		* JSON files are valid YAML files.
 			+ JSON is a subset of YAML.

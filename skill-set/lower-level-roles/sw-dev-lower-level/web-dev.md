@@ -881,6 +881,49 @@ reactive programming = asynchronous dataflow programming
 	- SQLAlchemy is an open-source SQL toolkit and object-relational mapper (ORM) for the Python programming language 
 + Experience with MongoDB and/or ELK
 + skill set:
+	- We’re looking for an experienced Senior Software Developer (back end) to join a team of talented engineers to develop high quality products which are scalable, testable, extensible, and provide high value to our customers.
+	- As a key member of the development team, you will work closely with designers, product managers, and other key stakeholders to define and execute on both our short term critical missions and long term vision.
+	- This is an individual contributor role where you will be reporting to a Team Lead. This role can be based in Vancouver or Toronto, with benefits from a flexible hybrid work model of remote + in office collaboration.
+	- The base responsibilities for a Senior Developer are the same across most companies. Critical thinking, designing and implementing well structured and robust solutions, writing tests, mentoring junior developers will be part of the job at Later just as it would be anywhere else. That being said, there are some things that we are particularly keen on at Later.
+	- Bringing your wealth of knowledge and experiences (good and bad) to Later and improving our processes and technology.
+	- Educating product and stakeholders on the trade-offs of different paths to a given milestone to enable them to make educated decisions for our roadmap.
+	- Writing documentation by hand or via automation.
+	- Holding other developers, in particular other Senior Developers, to high coding standards through PR reviews.
+	- Constantly learning and staying up-to-date through use of dedicated unstructured dev time for you to: making open-source contributions, writing technical blog articles, planning developer events, preparing conference talks, creating internal tools for non-feature work, as well as self-education on relevant topics.
+	- Knowing when good is good enough.
+	- Knowing when good just isn’t going to cut it.
+	- Joining the on call rotation.
+	- Writing documentation, did we mention that?
+	- Taking ownership of pieces of code, infrastructure, and processes and then caring enough to improve them.
+	- Knowing how to scale workloads while managing the various resources used by them.
+	- Here is an abridged list of of things you can find in our tech stack:
+		* A moderately sized Ruby on Rails monolith
+		* Dockerized Node services deployed to AWS ECS
+		* Node/Express/Typescript API
+		* A pure Ruby analytics collector application
+		* Postgres, Redis, and DynamoDB datastores
+		* Microservices written in Elixir
+	- What we are looking for
+		* 5+ years of experience working on a team and shipping code in production environments
+		* Minimum 5+ years software development experience
+		* Minimum 2+ years solid web app development experience
+		* Experience providing technical leadership and guidance
+		* Experience architecting and implementing complex services from design to deployment and through maintenance
+		* Ability to mentor junior developers
+		* Experience writing test suites and CI/CD pipelines
+		* Proficiency in Postgres (or other relational DBs)
+		* Familiarity with OWASP best practices
+		* Familiarity with Agile process
+		* Experience working on Ruby on Rails applications
+		* Experience working with Typescript/Express applications
+		* Experience working with Dockerized services (micro or other)
+		* Experience with AWS based DevSecOps
+		* Experience with processing images at scale
+	- Multiple company-wide Hackweeks each year
+	- PTO awarded for being part of the on call rotation
+	- Regular Unstructured Development Time to investigate new technologies that would benefit you and your team
+	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
++ skill set:
 	- Working knowledge of relational databases and query authoring (SQL)
 	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
 	- Experience running A/B tests to optimize the growth loop of a product
@@ -1623,6 +1666,15 @@ reactive programming = asynchronous dataflow programming
 
 
 
++ skill set:
+	- JavaScript/TypeScript
+	- React.js/Next.js
+	- HTML
+	- CSS + some CSS Framework (Chakra UI, Tailwind, Bootstrap)
+	- Module bundlers, e.g. Webpack
+	- Visualization libraries, e.g. D3.js
+	- React testing libraries, e.g. Jest
+	- Desktop app frameworks, e.g. Electron
 + Sass: Syntactically Awesome Style Sheets
 	- SCSS: Sassy Cascading Style Sheets
 + skill set:

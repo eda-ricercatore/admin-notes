@@ -59,6 +59,14 @@
 	- Google's Suite of Tools (e.g., Analytics)
 	- Hubspot
 	- Zoom
++ ***Knowledge of industry standards, e.g. ETSI, ASTM, NEBS, IEC, UL, CSA, ISTA, etc.***
+	- ETSI, European Telecommunications Standards Institute
+	- ASTM, ASTM International
+	- NEBS, Network Equipment-Building System (no current standard organization, initially from Bell Labs)
+	- IEC, International Electrotechnical Commission
+	- CSA, Connectivity Standards Alliance (formerly the Zigbee Alliance) or Cloud Security Alliance
+	- ISTA, International Safe Transit Association
+		* about package testing or packaging testing
 + skill set:
 	- BLAH.
 + skill set:

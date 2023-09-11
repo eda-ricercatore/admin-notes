@@ -9,7 +9,14 @@
 	- RFI: Request for information.
 	- RFP: Request for proposals.
 	- RFQ: Request for quotes.
-
++ ***Knowledge of industry standards, e.g. ETSI, ASTM, NEBS, IEC, UL, CSA, ISTA, etc.***
+	- ETSI, European Telecommunications Standards Institute
+	- ASTM, ASTM International
+	- NEBS, Network Equipment-Building System (no current standard organization, initially from Bell Labs)
+	- IEC, International Electrotechnical Commission
+	- CSA, Connectivity Standards Alliance (formerly the Zigbee Alliance) or Cloud Security Alliance
+	- ISTA, International Safe Transit Association
+		* about package testing or packaging testing
 
 
 

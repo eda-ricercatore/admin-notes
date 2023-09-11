@@ -3470,7 +3470,35 @@ Skill sets for cyber-physical system security, including robotics security and a
 
 
 
-Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers:
+Sets of skills for embedded machine learning engineers, VLSI machine learning engineers, embedded deep learning engineers, and VLSI deep learning engineers as well as related roles like embedded computer vision engineers:
++ workflow for embedded computer vision product development:
+	- dataset sourcing
+	- dataset curation
+	- dataset annotation
+	- algorithm design
+	- algorithm implementation and optimization
+	- identifying the right hardware platform for the embedded computer vision system
+	- hardware design
+	- software integration
+	- product testing and validation
++ skill set:
+	- GrAI Matter Labs is looking for a talented Senior AI Processor Architect to help us shape the next generation of our GrAI Core Architecture and its pre- and post-processing peripherals (such as image processing, FFT, IFFT...). As a Senior Core Architect you will own the specifications of one or more components of our core architecture. You will analyse the performance of our processors for selected applications, and propose, quantify and specify architectural features and optimisations to improve the performance, cost and power consumption of our next generation GrAI Core.
+	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company’s architecture, as well as adapting such concepts to work in production-grade systems.
+	- Our ideal architect is creative, curious, knowledgeable, and not afraid to get their hands dirty by helping the hardware and tools teams with implementation tasks when necessary. The right candidate knows how to find solutions that are both theoretically sound and provide the best cost-performance trade-offs, while also considering all the practical constraints created by the development process.
+	- As part of the architecture team your main responsibilities are:
+		* to carry out analysis of the performance and cost of the existing core architecture;
+		* to propose and evaluate new architectural features in collaboration with the other members of the architecture team;
+		* to draft and own specifications of features in the next generations of the GrAI Core;
+		* to provide guidance and assistance to hardware and tools engineers;
+		* to contribute to the long-term technological direction of the company.
+		* You will be working on exciting and emerging topics, finding new techniques and silicon technologies to exploit sparsity and event-driven processing of neural networks to enable new applications on the Edge.
+	- Master or PhD in Electrical engineering, Computer Engineering or Computer Science;
+	- 5+ years of experience in designing chips and hardware;
+	- Excellent theoretical knowledge and practical experience in computer architecture and hardware design, including network-on-chip, datapath, memory hierarchy;
+	- Excellent skills and experience as a hardware designer;
+	- Knowledge of VLSI process technology and backend is a big plus;
+	- Knowledge of compilers, simulators and other software development tools is a plus.
+	- Knowledge of machine learning, deep learning and AI applications is a plus.
 + skill set:
 	- AI Silicon Design – RTL/Architecture Engineer:
 	- RTL design and microarchitecture definition of high-performance microprocessors going into industry leading AI/ML architecture. The person coming into this role will define new features and code the RTL across multiple areas of our processor Core. The work is done alongside with a group of highly experienced engineers across various domains of the AI chip.
@@ -4640,6 +4668,34 @@ Skill sets for application engineers of different EDA products:
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
 + platform-agnostic machine learning development
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
++ skill set for Research Scientist:
+	- Responsibilities:
+		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
+		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
+		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
+		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
+	- Essential:
+		* MSc or PhD in Machine Learning, Computer Science, Electrical Engineering, Physics, Mathematics or a related field.
+		* In-depth understanding of modern machine learning algorithms, deep learning architectures and probability theory.
+		* Experience using modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX).
+		* Proficiency in Python and/or C++.
+		* Strong communication skills and willingness to work in a collaborative environment.
+	- Desirable:
+		* Publications at top conference venues (e.g., NeurIPS, ICLR, ICML).
+		* Contributions to open-source software projects in the area of machine intelligence.
+		* Experience in using or designing low-precision numerical formats.
+		* Kaggle competitions or other evidence of practical expertise.
++ skill set:
+	- The machine learning research scientist’s primary role is to work with other R&D team members to imagine, define, and develop BrainChip’s spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- Ph.D. in computer science (or equivalent) or MS in computer science with +5 years of machine learning experience
+	- 3+ years of machine learning experience using Python
+	- Experience with supervised, unsupervised, and reinforcement learning
+	- Experience in popular Deep Learning/Machine Learning frameworks (Keras, Tensorflow, PyTorch, Scikit-learn, etc.)
+	- Experience in one or more of the following application fields: Image Processing/Computer Vision, ADAS, Anomaly Detection, Audio/Speech Processing, or Sensor Fusion.
+	- Experience in Neuromorphic Engineering and/or Spiking Neural Networks
+	- Experience with event-based algorithms
+	- Experience with Git version control system
 + skill set for Deep Learning Architect Intern:
 	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today’s hardware and software, this is the place to be.
 	- Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
@@ -5180,6 +5236,255 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
++ Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems
++ skill set for Research Engineer
+	- Responsibilities:
+		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
+		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
+		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
+		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
+	- Essential:
+		* MSc or PhD in Machine Learning, Computer Science, Electrical Engineering, Physics, Mathematics or a related field.
+		* In-depth understanding of modern machine learning algorithms, deep learning architectures and probability theory.
+		* Experience using modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX).
+		* Proficiency in Python and/or C++.
+		* Strong communication skills and willingness to work in a collaborative environment.
+	- Desirable:
+		* Publications at top conference venues (e.g., NeurIPS, ICLR, ICML).
+		* Contributions to open-source software projects in the area of machine intelligence.
+		* Experience in using or designing low-precision numerical formats.
+		* Kaggle competitions or other evidence of practical expertise.
++ skill set:
+	- Contribute to open-source with guidance from MIT PhDs who are prominent in ML research.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Get paid a Silicon Valley engineer salary but have the ability to work remotely with flexible hours.
+	- Work on interesting challenges (massive datasets, scaling systems, security/privacy, novel interfaces for data editing, etc.) using modern tech stack at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
+	- As a Cleanlab software engineer, you will be responsible for building Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll work on scalable backend code for data ingestion, model training, and data analysis, and you’ll help design beautiful and easy-to-use interfaces for data visualization, interpretation, and correction.
+	- We encourage applications from full-stack software engineers who have some familiarity with machine learning and are interested in furthering their skills in building MLOps applications. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
+	- Developing a SaaS data and machine learning pipeline.
+	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
+	- Write server and client-side code for web applications, optimizing for speed, scale, and ease-of-use.
+	- Collaborate with other engineers to build large-scale systems and help establish a strong engineering culture across the company.
+	- We select candidates based on strengths, not based on weaknesses. Candidates should have at leat 3+ years experience developing web apps using a modern tech stack and shipping code to production.
+	- Experience with the following is recommended (but not necessarily required):
+		* Python, Flask
+		* Relational databases (e.g. PostgreSQL)
+		* JavaScript + React, HTML, CSS (and SCSS)
+		* AWS (or other similar cloud tools like Azure, GCP)
+	- Bonus points if you have experience with some of the following:
+		* Docker, Kubernetes, sklearn, pandas
+		* Distributed computing (Ray, Spark, etc.)
+		* Model serving, deployment, sharing (Sagemaker, Triton, gradio, etc.)
++ skill set:
+	- At Cleanlab you’ll get to
+		* Spend 100% of your time writing open-source ML, with guidance from MIT PhDs who are prominent in ML research. Get paid a Silicon Valley engineer salary but have the ability to work remotely from wherever you want. And the cherry on top? You get to work with a modern tech stack (the latest tooling and ML models) at a dynamic startup to pioneer the rapidly growing field of data-centric AI.
+	- What we’re looking for
+		* First and foremost, strong software engineering skills and experience productionizing your code. You should be comfortable with large software systems and love building applications.
+		* Contributed to the open-source community for more than 4 years, either via your own open-source package or via substantial contributions to existing open-source repositories, written blog posts, and tutorials.
+		* Experience working in ML: processing data, deploying models, etc. We do not require deep theoretical ML expertise, but practical experience in ML projects is desired.
+	- Responsibilities
+		* Develop and contribute novel data-centric AI algorithms to Cleanlab’s open-source projects, via high quality implementations and maintaining the highest coding standards.
+		* Be a good member of the open-source community (address Github issues and queries, review PRs, write crisp documentation/tutorials, help integrate with other packages).
+		* Work on applied ML projects with Cleanlab enterprise customers.
+		* Collaborate with other engineers to build large-scale systems and help establish a strong engineering culture across the company.
+	- Qualifications
+		* We select candidates based on strengths, not on weaknesses. Experience with the following is highly recommended, but not required:
+			+ Python, NumPy
+			+ pandas, scikit-learn
+			+ ***PyTorch/PyTorch Lightning or TensorFlow + Keras***
+		* Bonus:
+			+ ***MLOps Experience with model deployment and monitoring (MLflow, Sagemaker, etc.)***
+			+ Databases and ETL (Postgres, etc.)
+			+ Cleanlab or other data-centric AI tools
+			+ ***AutoGluon, H2O, or other AutoML tools***
+			+ ***Tableau, DataBricks, Alteryx, Trifacta***
+			+ ***Hugging Face, Snorkel, Weights and Biases, Gradio, Streamlit***
+	- Working at Cleanlab is awesome! Beyond the opportunity to work at a well-funded (backed by Bain Capital Ventures) early stage AI tech company with an incredible, friendly founding team of MIT, Stanford, and Harvard graduates, all full-time employees receive the following:
+		* $9,000 per year travel benefit
+		* Travel enhances our empathy with different cultures and enables us to work together more effectively. It’s how we grow and learn: traveling is an essential part of what makes us human. At Cleanlab, every two months you will receive a $1500 reimbursable travel benefit (resets on Jan 1, March 1, May 1, July 1, Sep 1, Nov 1). This is a unique benefit that lets you work from Paris for a week in February, then take a backpacking trip in the Andes for a weekend in March. Cleanlab will cover the flight for your partner or friend, too, as long as you attend and its within the $1500 / two-month period. For remote employees, you can use this benefit to come work with us in Boston/SF from time to time (encouraged, but not required).
+		* Premium health insurance
+			+ We provide a fantastic $4 (we cover the rest) health insurance option. We also provide a $0 deductible 100% coverage premium health care option for those who prefer the best health insurance.
+		* Stipend for attending conferences to keep up with the latest innovations in ML and software.
+		* Competitive salary (+ equity offering for certain roles), with regular opportunities for a raise if things are going well.
+	- Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. We develop next-generation DCAI algorithms that are publicly contributed via open-source (github.com/cleanlab), as well as SaaS enterprise products with interfaces for data scientists/engineers to effectively improve their data quality and produce more reliable ML models.
+	- Founded by 3 ML PhDs from MIT and engineers/scientists from Stanford & Harvard, Cleanlab is a well-funded early-stage startup that is rapidly growing to transform the future of DCAI. Some of Cleanlab’s early work (while the company was still in stealth-mode) has been featured in various media such as: Wired, MIT Technology Review, and VentureBeat.
+	- While many companies can help store/manage data or develop ML models, there exist few solutions today to improve the quality of existing data, which is the core asset of the modern enterprise. This is where you come in. At Cleanlab, you’ll be able to take ownership of critical projects that pioneer the future of data-centric AI.
+	- We are a remote-first company, with roughly half of our team located near Boston, MA (EST time) and the other half located near San Francisco, CA (PST time).
++ skill set:
+	- As an ML Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software to develop state-of-the-art solutions for emerging problems in AI compute.
+	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, and JAX. Our ML software engineers are responsible for integrating these frameworks to work with our own highly optimized software stack. Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.  
+	- In this role, you will create tools and design workflows that enable the development, training, and deployment of machine learning models on our new hardware system. The workflow covers from a small to an extremely large models with trillion of parameters. Furthermore, you will be lowering abstract computations expressed via third-party ML frameworks into representations that can be compiled into highly optimized executables that target the Cerebras system, and help us design a general backend that can accommodate most advance deep learning models. You will also have the opportunity to participate and contribute to open-source projects that we depend on. 
+	- Work on the end-to-end training, eval, and inference workflow with customer-facing API
+	- Distributed training both via data and model parallelism
+	- Scale and optimize the data pipeline
+	- Lower Deep Learning framework graph presentation into our internal IR and add any missing OPs
+	- Compiler optimization such as graph rewrite, constant folding, common expression elimination, and canonization
+	- Lower high-level OPs to low-level OPs such as affine dialect
+	- Handle both static and dynamic computational graph
+	- Bachelor’s, Master’s, or foreign equivalent in Computer Science, Engineering, or related
+	- 5+ years software development experience
+	- Understanding of state-of-the-art deep learning model architectures and training protocols
+	- Strong Python and C++ development skills
+	- Direct experience with at least one Deep Learning framework internals is strongly preferred
+	- Contributed to a deep learning framework
+	- Experience with distributed training algorithm
+	- Familiar with deep learning model architecture
+	- Experience with MLIR, LLVM, or TVM
++ skill set:
+	- The junior machine learning engineer’s primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- B.S. in Computer Science or equivalent
+	- Course work in machine learning and computer vision
+	- Strong programming skills in Python
+	- 1 year experience developing ML applications in either TensorFlow/Keras and/or PyTorch
+	- Excellent communication skills
+	- The ability to read, understand, and implement algorithms from technical ML journals
+	- 2+ years experience developing ML applications in TensorFlow/Keras and PyTorch
+	- Multi-project experience in object classification, object detection, face recognition, and/or keyword spotting
+	- Knowledge of deep learning quantization techniques
+	- Experience with Docker and Git
+	- Experience with Scrum/Agile software development (e.g. Jira)
++ skill set:
+	- The machine learning engineer's primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- B.S. in Computer Science or equivalent
+	- Course work in machine learning and computer vision
+	- Strong programming skills in Python
+	- 3 years’ experience developing ML applications in either TensorFlow/Keras and/or PyTorch
+	- Excellent communication skills
+	- The ability to read, understand, and implement algorithms from technical ML journals
+	- Master’s in computer science of equivalent
+	- 4+ years experience developing ML applications in TensorFlow/Keras and PyTorch
+	- Multi-project experience in object classification, object detection, face recognition, and/or keyword spotting
+	- Knowledge of deep learning quantization techniques
+	- Experience with Docker and Git
+	- Experience with Scrum/Agile software development (e.g. Jira)
++ skill set:
+	- Work on exciting Proof of Concept projects with using GrAI VIP
+	- Train Deep Learning models that work on Real-World Scenarios.
+	- Develop and optimize AI training pipelines.
+	- Use different sensors to acquire data.
+	- Create applications using AI and robotics.
+	- You will work closely with the Customer’s Solutions Architect Team to deliver contents that drive results.
+	- You are in your last year of your engineering School.
+	- Pursuing a master's degree program in Computer Science, or related technical field.
+	- Programming experience in Python. Experience in C/C++ is a plus.
+	- Good Understanding of Deep Learning fundamentals.
+	- Experience using one or more of the Machine Learning Libraries (TensorFlow, Keras, PyTorch).
+	- Experience working in Linux environments.
+	- Team Player.
+	- Problem-solver keen to find innovative solutions in any situation.
+	- Super enthusiastic, and you like to be challenged!
+	- Fluent in English and willingness to work in an international context.
++ skill set:
+	- GrAI Matter Labs is a young and vibrant high-tech company, which aims to revolutionize artificial intelligence for everyone. Our unique machine learning technology will drive the next generation of computer chips to power many future products. This way, we contribute to making robots, cameras, and transportation smart, safe, and power-efficient. GML is an international company, with highly motivated teams in offices in France (Paris), Netherlands (Eindhoven), and USA (San Jose).
+	- At GML, we develop new technologies for efficient low-latency and low-power processing of neural networks, for training neural networks, and for neuromorphic computing. And we are looking for talented MSc candidates to help us in this research.
+	- If you are an MSc candidate with a background in electrical engineering, computer science, or computer architecture, and you are looking for a cutting-edge environment to perform your MSc thesis project, then you should certainly consider applying at GML!
+	- You will be embedded in a team of highly trained and highly motivated architects, scientists, and engineers. In your assignment, you will work with experts in the fields of processor architecture, computer architecture, compiler construction, neural network and neuromorphic processing. These are some of the topics we are currently working on:
+		* Retraining neural networks for imposed temporal sparsity;
+		* Improving input signal sparsity;
+		* Mixed-precision training;
+		* LIDAR-based neural network applications;
+		* Bayesian machine learning on neuromorphic architectures;
+		* Neural-networks mapper algorithms for massive-multicore Systems;
+		* Auto-tuners for efficient neural-network mapping for massive multicore systems;
+		* NoC architectures for neuromorphic massive multicore systems;
+		* Low-power techniques for neuromorphic massive multicore systems.
+		* AI solutions for [ANDANTE project](https://www.andante-ai.eu/) use cases, together with partners such as ST Microelectronics, Philips, Boeing, Thales, Valeo, CEA, and Fraunhofer.
+		* AI solutions for medical sensor systems in the [pAvIs project](https://penta-eureka.eu/project-overview/penta-call-5/pavis/), together with partners such as Philips, Cochlear, and InBrain.
+	- Responsibilities:
+		* Determining the scientific contributions of your project, and advancing the state-of-the-art in neural network processing;
+		* Providing GML with new technologies for neural network processing and neuromorphic design;
+		* Defining your project goals, deliverables, and plans, to fit the timeframe of your assignment;
+		* Running and managing your project, together with your GML advisors, university supervisors, colleagues, and co-students;
+		* Delivering a final report for your MSc graduation.
+	- Requirements:
+		* Master student with a background in Electrical of
+		* Strong mathematics, computer science, and/or computer architecture background
+		* Strong machine-learning background, and hands-on experience with neural network frameworks, such as Tensorflow
+		* Strong programming skills (e.g. Python, C, C++)
+		* "Can-do" mentality, excellent problem-solving skills
+	- GrAI Matter Labs is a dynamic organization which employs some of the brightest minds in the industry and is known for the great care we take with clients and employees alike. We believe we will win as a close-knit team that converts a strong vision into products that solve use cases which our customers truly value. We also hold to the highest standards of inclusion, team spirit, and cooperation. This position is based at GrAI Matter Labs offices at the High Tech Campus in Eindhoven, The Netherlands. The High Tech Campus houses 160 companies, employing a total of 11,000 entrepreneurs and R&D employees. To our interns, we offer a nice compensation, in line with what is customary around the Eindhoven area.
++ skill set:
+	- Master’s degree in software development, computer science, algorithm design, artificial intelligence, or machine learning or equivalent experience
+	- 5 years of experience as a machine learning engineer and using libraries, such as Scikit-learn, TensorFlow, Caffe, Keras, etc.
+	- Experience with Microsoft Azure platform – Azure ML Services, Databricks, AKS, etc.
+	- Experience with the Hadoop ecosystem (e.g., Apache Hive, Pig, HBase and Kafka)
+	- Experience with distributed computing platforms, such as Spark, and user interface frameworks, such as Angular or React
+	- Ph.D. in software development, computer science, algorithm design, artificial intelligence, or machine learning or equivalent experience
+	- Strong object-oriented programming skills, including proficiency in Java, Scala, C/C++ or Python
+	- Strong SQL skills
+	- Proficiency in the Microsoft Office suite
+	- The Machine Learning Engineer designs and develops the platform and frameworks that facilitate automated data-driven decision-making, gathers data, and determines statistical algorithms and models that a system can use to learn from experience, predict outcomes and make decisions.
+	- Collaborate with data scientists to develop algorithms and tools for training and running simulations
+	- Build services to interact with machine learning models through simulations
+	- Participate in code reviews to ensure code quality and share best practices
+	- Develop services that host the trained models and work with other application teams to integrate them into business processes
+	- Gather and analyze large datasets and develop data model pipelines
+	- Develop algorithms that drive automated data-driven decision-making
+	- Build the tools for monitoring the performance of machine learning applications
++ skill set:
+	- We are looking for Machine Learning Engineering Interns to help drive a data-led culture across Spotify. You will apply machine learning methods to extensive data sets to extend improve Spotify’s means of understanding and engaging users across various contexts and modalities. You will build upon Spotify’s deep understanding of our content, users, and artists to develop rich analytics, engagement, and business applications. Above all, your work will impact the way the world experiences audio.
+	- Contribute to designing, building, evaluating, shipping, and refining Spotify’s product by hands-on ML development
+	- Collaborate with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission to connect artists and fans in personalized and relevant ways
+	- Assist in prototyping new approaches and product-ionize solutions at scale for our hundreds of millions of active users
+	- Help drive optimization, testing, and tooling to improve quality
+	- Be part of an active group of machine learning practitioners across Spotify) collaborating with one another
+	- You are pursuing a Bachelor’s or Master’s degree in Machine Learning, Computer Science, Computer Engineering or a related field of study
+	- You have dabbled in ML engineering practices via prior internships, coursework, and/or projects
+	- You have experience in working with Scala and/or PythonYou have an understanding of system design, data structures, and algorithms
+	- You care about quality and you know what it means to ship high-quality code
+	- You are currently in your final or penultimate year of your studies
++ skill set:
+	- We are looking for Machine Learning Interns to \#JoinTheBand and help drive a data-first culture across Spotify.  You will work on a variety of problems such as content recommendation, personalization, optimization, user intelligence, and content classification. You will work with a team to come up with new and interesting hypotheses, test them, and scale them up to huge data sets with hundreds of billions of data points. Above all, your work will impact the way the world experiences music.
+	- Apply machine learning, collaborative filtering, NLP, and deep learning methods to massive data sets
+	- Prototype new algorithms, evaluate with small scale experiments, and later productionize solutions at scale to our 140 million active users
+	- Collaborate with a cross functional agile team of software engineers, data engineers, ML experts, and others to build new product features
+	- Help drive optimization, testing and tooling to improve data quality
+	- Iterate on recommendation quality through continuous A/B testing
+	- You are pursuing a Ph.D. or Master's degree in Machine Learning, Statistics or related field preferred
+	- You have a graduation date of 2022 or 2023
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You have experience implementing machine learning systems at scale in Java, Scala, Python or similar (not just R or Matlab)
+	- You have a strong mathematical background in statistics and machine learning
+	- You care about agile software processes, data-driven development, reliability, and responsible experimentation
+	- You preferably have experience with data processing and storage frameworks like Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
+	- You preferably have machine learning publications or work on open source to share with us
+	- We are a distributed workforce enabling our band members to find a work mode that is best for them!
+	- Where in the world? For this role, it can be within the Americas region in which we have a work location.
+	- Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+	- Working hours? We operate within the Eastern Standard time zone for collaboration.
++ skill set:
+	- Kiwibot is looking for a Senior Machine Learning Engineer role and it could be a great opportunity to join us. You should have the right technical knowledge and understanding of common and novel computer vision, and machine learning techniques to support and develop new algorithms, and create solutions. You should also have proven experience designing, developing and deploying machine learning solutions on real world applications.
+	- As a Machine Learning Engineer : You will report directly to our Head of AI & Robotics.
+	- Implement, train and iterate vision based deep learning models.
+	- Train models on Cloud on single and multiple GPUs. 
+	- Design and implement data pipelines for storing and processing thousands of images and videos.
+	- Design and integrate with third party labeling company API for upload and ingestion of data and labels. 
+	- Design and implementation of data harvesting from current fleet operations. 
+	- Create data visualization tools for data analysis and debugging. 
+	- Evaluate the quality of labeling of data.
+	- Design and iterate labeling instructions that produce high quality labels.
+	- Implement, design and manage databases of images, videos and metadata associated with them.
+	- Optimize models for performance on constrained environments.
+	- Deploy trained models on-premise integrated with the rest of the robot’s software stack.
+	- Report of training procedures, error analysis, data review.
+	- Offline database analysis for getting insights, generating labels automatically, doing anonymization, etc. 
+	- You have knowledge of Python and scripting (advanced) 
+	- Git (intermediate/advanced) 
+	- Docker, docker-compose (advanced) 
+	- Scrum and agile methodologies 
+	- Vast experience with deep learning frameworks like pytorch/tensorflow 
+	- Experience with one or more cloud providers (advanced), GCP is a plus 
+	- Deep understanding of DL techniques like CNN, LSTM, RNN, Transformers
+	- Hands on with semantic segmentation algorithms, object detection or depth estimation.
+	- Experience using and implementing RESTFULs services 
+	- Terraform/pulumi knowledge for deploying solutions 
+	- Experience with some MLOps, MLFlow is a plus 
+	- SQL and no SQL databases (advanced). BigQuery is a plus 
+	- ROS or ROS2 (basic) is a plus 
+	- C++ (intermediate) is a plus 
+	- Experience with sensor technologies is a plus (Lidars 2D, 3D, Stereo Cameras, Cameras, IMU, GPS) 
+	- Strong English level, both written and spoken.
 + skill set:
 	- We are looking for a Machine Learning Engineer with expertise in NLP who can join our AI research and development efforts with a direct impact on our core platform. You will work with both engineering and business teams to best understand design requirements. Then, your role is to design and build practical high performance machine learning solutions.
 	- In this role, you will work on some of the latest cutting edge applications of machine learning applied to critical problems that affect businesses, governments and society. You will directly work with top management and key stakeholders to define solutions to critical problems that will have immediate impact and value at the platform and client levels. If you are passionate to work on massive, unstructured problems that can be solved using data, we are looking for you.
@@ -7074,6 +7379,132 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 
 
 
+##	Machine Learning for Fairness, Accountability, Transparency, & Bias Mitigation
+
+
+
+
+Skill sets for machine learning for fairness, accountability, transparency, and bias mitigation:
++ skill set:
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- Contribute to the wider research community by publishing. 
+	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
+	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
+	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification. 
+	- Work closely with our team and internal partners to develop, refine, and launch processes that help ensure Spotify is a safe and positive experience. 
+	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
+	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
+	- You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.
+	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- Knowledge or experience working in emerging markets is a plus.
+	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
+	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7105,6 +7536,45 @@ For applications of machine learning, or ML, in finance, see the *Markdown* docu
 
 Skill sets for generic applied machine learning, applied ML
 + counter AI engineering
++ skill set:
+	- Cerebras' fully-integrated system is built from the ground up with a singular focus on AI. To explore new techniques and algorithms at the frontier of machine learning uniquely enabled by our revolutionary technology, our experienced team of Machine Learning engineers and researchers work in collaboration with other experts in the company, giving insight and access to every level of our system stack.   
+	- This is an applied research position with a focus on working with state-of-the-art research and developing novel models and algorithms on top of our core technology. We are interested in a wide range of machine learning algorithms and application domains with a focus on exploring new ideas that hold the potential to substantially reduce computational constraints limiting today's machine learning research.
+	- Develop algorithms for training and inference in sparse neural networks
+	- Develop novel optimizers and learning algorithms such as local learning rules and layer-parallel training
+	- Develop novel network architectures and layers such as, normalization, activation functions, and parameter layers
+	- Publish and present research at leading machine learning conferences
+	- Experience with machine learning frameworks, such as TensorFlow, Caffe/2, and PyTorch.
+	- Fluency in a programming language, such as Python and C
+	- Strong grasp of linear algebra and statistics
+	- Strong track record of relevant research success in roles at the level of doctoral, postdoctoral in academia or in industrial R&D
+	- Strong track record of relevant publications/patents
+	- Familiarity with HPC kernels and their optimization 
+	- IEEE floating point representations 
+	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
+	- Knowledge of ML application areas and state-of-the-art networks in various application areas
++ skill set:
+	- Cerebras’ Wafer Scale Engine (WSE) was designed to provide significant reduction of training times for deep neural networks. Our goal is to provide customers with the computational power needed to iterate faster so that they can develop the most accurate models possible. 
+	- As an applied machine learning engineer, you will work on adapting state of the art deep learning (DL) models to run on our wafer scale system. This includes both functional validation and performance tuning of a variety of core models for applications like Natural Language Processing (NLP), Computer Vision (CV), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), and Recommendation models. 
+	- As a member of the Cerebras engineering team you will be implementing models in popular DL frameworks like TensorFlow and PyTorch and using insights into our hardware architecture to unlock to full potential of our chip.  You will work on all aspects of the DL model pipeline including: 
+		* Dataloader implementation and performance optimization 
+		* Reference model implementation and functional validation 
+		* Model convergence tuning 
+		* Model performance optimization 
+		* Model customization to meet customer needs 
+	- This role will allow you to work closely with partner companies at the forefront of their fields across many industries. You will get to see how deep learning is being applied to some of the world’s most difficult problems today and help ML researchers in these fields to innovate more rapidly and in ways that are not currently possible on other hardware systems. 
+	- Analyze, implement, and optimize DL models for the WSE 
+	- Functional and convergence of models on the WSE 
+	- Work with engineering teams to optimize models for the Cerebras stack 
+	- Support engineering teams in functional and performance scoping new models and layers 
+	- Work with customers to optimize their models for the Cerebras stack 
+	- Bachelor's degree in engineering, science, or related field 
+	- Experience programming in modern language like Python or C++ 
+	- In-depth understanding of DL learning methods and model architectures 
+	- Experience with DL frameworks like PyTorch and TensorFlow 
+	- A deep passion for cutting edge artificial intelligence techniques 
+	- Master's or PhD in engineering, science or related field 
+	- Understanding of hardware architecture 
+	- Experience programming accelerators like GPUs and FPGAs
 + skill set:
 	- Minimum 2+ years of expertise in designing, implementing large scale data pipelines for data curation and analysis, operating in production environments, using Spark, pySpark, SparkSQL, with  Java, Scala or Python on premise or on Cloud (AWS, Google or Azure)
 	- Minimum 1 year of designing and building performant data models at scale for using Hadoop, NoSQL, Graph or Cloud native data stores and services.
@@ -7848,11 +8318,25 @@ Companies involved in natural language processing, NLP:
 
 
 Skills for natural language processing, NLP:
++ ***TensorRT, Deepstream Projects in video, speech, or NLP***
 + Experience with Natural Language Processing topics, such as:
 	- Topic Modeling
 	- Document Classification
 	- Document Summarization
 	- Sentiment Analysis
++ skill set:
+	- TensorFlow, SpaCy, Scikit-Learn
+	- cloud-based AI/ML services
+		* Microsoft Azure Cognitive Services
+		* Google Cloud
+		* IBM Watson
+	- Python, Django, and/or Flask
+	- Linux
++ skill set:
+	- SpaCy, NLTK, and comparable libraries
+	- Python, Django, and/or Flask
+	- Linux and/or working with cloud services with AWS, Azure, etc..
+	- GitHub and Docker
 + skill set:
 	- experience with ML deployment frameworks
 	- work with highly imbalanced data sets to improve detection performance of our existing NLP models and algorithms
@@ -8241,6 +8725,30 @@ Need to address:
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
 + skill set:
+	- Work on cutting-edge MLOps with guidance from MIT PhDs who are prominent in ML research.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Work on interesting challenges (model deployment/monitoring, managing massive datasets, rapidly scaling cloud deployments, etc.) at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
+	- As a Cleanlab software engineer, you will be responsible for Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll orchestrate cloud infrastructure for data ingestion, model training, and data analysis, and you’ll optimize the reliability of our web app, model deployments, and data management systems.
+	- We encourage applications from software engineers with DevOps/backend/cloud experience who have some familiarity with machine learning and are interested in furthering their MLOps skills. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
+	- Orchestrate cloud infrastructure to reliably support a SaaS data and machine learning pipeline.
+	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
+	- Contribute cloud/container integrations and other deployment/monitoring solutions to Cleanlab’s open-source library.
+	- Collaborate with other engineers to build and maintain large-scale systems and establish a strong engineering culture across the company.
+	- We select candidates based on strengths, not based on weaknesses. Candidates should have at leat 3+ years experience developing web apps using a modern tech stack and shipping code to production.
+		* Linux
+		* Python
+		* Shell
+		* Java/C++
+		* AWS
+		* Docker + Kubernetes
+		* Git
+		* CI/Testing, e.g. Jenkins
+		* Bonus:
+			+ AWS DevOps Stack (https://aws.amazon.com/devops/)
+			+ AWS Sagemaker
+			+ MLSys/MLOps experience
+			+ IaC, e.g. Ansible, Terraform
++ skill set:
 	- Tenstorrent is seeking a High-Performance Computing (HPC) Systems Engineer to support Accelerated ML Storage platforms. You will focus on delivery of ML storage services with an emphasis of multi-tenant cloud storage requirements. Duties include administrating both high-speed and archiving cloud storage services. You will also be responsible for understanding workload bottlenecks and work with all necessary teams to drive resolution.
 	- Build and maintain high-performance storage environments designed for multi-tenant HPC cloud
 	- Work closely with other AI/ML Engineers and Data Engineering Subject Matter Experts
@@ -8623,6 +9131,30 @@ Need to address:
 	- Used GPU computing, including in bigger-than-memory settings
 	- Used graph technologies like graph databases, graph analytics, graph visualization, and graph AI, and especially in at-scale detection and investigative scenarios
 + skill set:
+	- develop edge AI tooling ecosystem
+	- design deep learning-capable data processing devices
+	- experience working with the following:
+		* open-source machine learning framework TensorFlow
+		* Caffe
+		* neural network architectures
+		* CUDA
+		* OpenCL
+		* OpenCV
+	- design AI system architectures:
+		* deep neural networks
+		* machine learning algorithms
+		* computer vision
+			+ video processing
+			+ object detection
+			+ object tracking
+		* speech recognition
+		* text analysis
+	- tasks include:
+		* implementing, training, and testing AI algorithms with 3-D game engines, and optimizing them for given hardware
+		* develop and improve a range of AI-oriented tools and frameworks
+		* work with Linux and other open-source operating systems
+		* automate workflow for validation vi auatomted testing/verification and continuous integration (CI) scripts
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -8972,8 +9504,128 @@ Notes:
 Sets of skills for generic data science roles, or data scientist positions (i.e., junior to mid-level data scientists):
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
-+ Data engineering experience and data pipeline tooling (e.g. Airflow, DBT) experience is a plus
++ Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
++ skill set:
+	- data pipeline and workflow management teams:
+		* Airflow
+		* Luigi
+	- Big Data tools:
+		* Hadoop
+		* Hive
+		* Spark
+	- AWS Cloud services:
+		* EC2
+		* EMR
+		* RDS
+		* Redshift
+		* S3
+	- languages:
+		* Python
+		* Java
+		* Scala
+	- Linux
+	- expanding and optimizing data pipeline architecture, data flow and collection for cross-functional teams
+		* ETL
+		* re-designing infrastructure to improve scalability, reliability, and accuracy 
+	- ensure optimal delivery architecture by supporting software engineering initiatives
+	- use appropriate tools to analyze data pipeline, and provide actionable insights into operational efficiency, data accuracy, and other KPIs
+	- experience with:
+		* relational databases
+		* data warehoouses
+		* big data platforms
+	- perform root cause analysis on external and internal data and processes to answer specific business questions and identify opportunities for improvement
+	- improve processes to support data transformation, data structures, metadata, dependency, and workload management
+	- working knowledge of:
+		*  message queueing
+		* stream processing
+		* highly scalable big data stores
++ skill set:
+	- Agile workflow practices and familiarity with Atlassian tools
+		* Jira
+		* Confluence
+	- statistical methods
+		* exploratory data analysis
+		* hypothesis testing
+		* regression techniques
+	- techniques and best practices for data visualization
+		* visualization libraries:
+			+ Altair
+			+ seaborn
+			+ matplotlib
+			+ Tableau
+			+ ggplot2/shiny
+		* storytelling with data, to support data-driven decisions using compelling visualizations
+	- analytical toolkit
+		* Python
+		* pandas
+		* R
+	- SQL, JSON, and unstructured data
+	- Amazon Web Services ecosystem
++ skill set:
+	- project management skills to:
+		* manage complexity
+		* make informed trade-offs to quickly escape rabbit holes and make on-time deliveries
+	- Agile workflow practices and familiarity with Atlassian tools
+		* Jira
+		* Confluence
+	- statistical methods
+		* exploratory data analysis
+		* hypothesis testing
+		* regression techniques
+		* power analysis
+		* generalized linear models
+		* time series
+		* survival analysis
+	- machine learning techniques
+		* supervised learning
+		* unsupervised learning
+		* general machine learning workflow
+		* linear regression
+		* logistic regression
+		* decision trees
+		* neural networks
+		* clustering
+	- techniques and best practices for data visualization
+		* visualization libraries:
+			+ Altair
+			+ seaborn
+			+ matplotlib
+			+ Tableau
+			+ ggplot2/shiny
+		* storytelling with data, to support data-driven decisions using compelling visualizations
+	- analytical toolkit
+		* Python
+		* pandas
+		* scikit-learn
+		* R
+	- database management:
+		* SQL
+		* JSON
+		* unstructured data
+		* NoSQL data environments and tools:
+			+ Hadoop
+			+ Spark
+			+ DynamoDB
+	- Amazon Web Services ecosystem
+	- software development practices:
+		* story estimation
+		* test-driven development
+		* code review
+		* version control with Git
++ skill set:
+	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences audio. 
+	- Perform analyses on large sets of data to extract concrete insights that will help drive decisions across the business
+	- Build dashboards and recurring reporting results, empowering creative growth and business decisions.
+	- Communicate data-driven insights and recommendations to key collaborators
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
+	- You are pursuing a Bachelor’s, Master’s degree or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or similar quantitative field
+	- You are a sophomore, junior or senior in undergrad or a first or final year in a Master's program
+	- You have harbor a passion for numbers and the use of data to make decisions
+	- You have have technical competence to perform more analytics in one or more of the following areas:
+	- Coding skills (such as Python, Java, or Scala)
+	- Analytics tools experience (such as Pandas, R, SPSS, SQL or Tableau)
+	- Experience performing analysis with large datasets
 + skill set:
 	- We are looking for Data Scientist Interns to \#JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so that we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will affect the way the world experiences audio. 
 	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
@@ -9977,8 +10629,8 @@ They support databases for:
 
 
 ***Skill sets for data engineering***:
-+ You've used several data storage technologies like Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra and have some idea how they work and why they work that way. 
-+ Experience with Scala, Scalding, Luigi, Hive, machine learning pipelines and model training is a plus
++ You've used several data storage technologies like ***Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra*** and have some idea how they work and why they work that way.
++ Experience with ***Scala, Scalding, Luigi, Hive, machine learning pipelines and model training*** is a plus
 	- Luigi:
 		* [The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
 			+ "Luigi helps you to build modularizable, extensible, scalable and consistent UIs and Web Apps."
@@ -10025,6 +10677,42 @@ They support databases for:
 			+ https://github.com/twitter/scalding
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
++ ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
++ skill set for data engineering:
+	- work with Scala-based core science and data platform
+	- consumer-facing product layer in java and React
+	- AWS-deployed software, using CI/CD with Kubernetes.
+	- build, optimize, test, and improve REST and gRPC services
+	- weight technical trade-offs and collaborate with coworkers to reach consensus about balancing practical necessities and ideological concerns
+	- functional programming languages:
+		* Scala
+		* Haskell
+		* Erlang
+	- cloud computing tools
+		* AWS
+		* Docker
+		* Kubernetes
+		* Terraform
+	- database systems:
+		* schema design
+		* query optimization
+		* database tuning
+		* migration tools
++ skill set:
+	- Spotify is looking for Data Engineering Interns to join us this Summer. You will build data driven solutions to bring audio and digital media experiences to our millions of active users and artists either by working directly on product features, publishing and insight tools for artists, or by improving the quality of our data tools and large scale data infrastructure. You will take on complex data-related problems using some of the most diverse datasets available — user behaviors, acoustical analysis, revenue streams, cultural and contextual data, and other signals across our broad range of mobile and connected platforms. Above all, your work will impact the way the world experiences audio.
+	- Build large-scale batch and real-time data pipelines with data processing frameworks like Scalding, Scio, Storm, Spark and the Google Cloud Platform.
+	- Use best practices in continuous integration and delivery.
+	- Help drive optimization, testing and tooling to improve data quality.
+	- Collaborate with other engineers, ML experts and collaborators, taking learning opportunities that will arise every single day.
+	- Work in multi-functional agile teams to continuously experiment, iterate and deliver on new product objectives.
+	- You are pursuing a Bachelor's or Master's degree or a bootcamp certification in Computer Science or Computer Engineering or a related field of study.
+	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
+	- You are a current sophomore, junior or senior in undergrad or a first or final year Master's student
+	- You've dabbled in high volume data, preferably with distributed systems such as Hadoop, BigTable, and Cassandra.
+	- You know how to write distributed, high-volume services in Java, Scala and Python.
+	- You've had exposure to data modeling, data access, and data storage techniques.
+	- You have an interest in agile software processes, data-driven development, reliability, and responsible experimentation.
+	- You understand the value of collaboration within teams.
 + skill set:
 	- Investigate the feasibility of applying scientific principles and concepts to business problems.
 	- Understand the ***Goodreads/Amazon data structures (MySQL/Data Lake/Redshift)***.

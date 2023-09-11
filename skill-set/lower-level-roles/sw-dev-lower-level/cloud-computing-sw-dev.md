@@ -269,6 +269,22 @@ Notes on cloud computing:
 + view DevOps as ***configuration as code***:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + skill set:
+	- continuous integration/delivery (CI/CD) methodologies and practices
+	- develop open-source, scalable simulation and virtualization environments
+	- contribute to open-source frameworks
+	- design cloud infrastructure
+	- distributed CI/CD constructions
+	- cloud engineering:
+		* virtualization
+		* scalability
+		* load balancing
+		* failovers
+		* distributed computing power
+		* cloud deployments
+		* monitoring
+		* log processing
+	- orchestration tools
++ skill set:
 	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
 	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
 	- Revolutionizing how data pipelines are built through Kafka Connect
@@ -791,6 +807,10 @@ IaaS:
 
 
 
++ ***Infrastructure as Code (IaC)***:
+	- ***Ansible***
+	- ***Terraform***
+	- https://en.wikipedia.org/wiki/Infrastructure_as_code
 + skill set:
 	- 10+ Years of professional software engineering experience in building large-scale distributed systems
 	- Strong hands-on experience in developing applications in one or more language stacks: Java, Python, Go

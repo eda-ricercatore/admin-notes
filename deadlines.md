@@ -35,15 +35,15 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- ~~New York, NY.~~
 	- Submission deadline: **September 1 and September 9, 2019**.
 + AAMAS, International Conference on Autonomous Agents and Multiagent Systems
-	- https://aamas2021.soton.ac.uk/
+	- Or, International Conference on Autonomous Agents and Multi-Agent Systems.
+	- https://www.aamas2024-conference.auckland.ac.nz/calls/call-for-papers/
 	- "IFAAMAS sponsors the annual International Conference on Autonomous Agents and Multiagent Systems (AAMAS)."
 		* International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS).
 	- "The AAMAS conference series was initiated in 2002 as a merger of three highly respected individual conferences: AGENTS (International Conference on Autonomous Agents), ICMAS (International Conference on Multi-Agent Systems), and ATAL (International Workshop on Agent Theories, Architectures, and Languages). The aim of the joint conference is to provide a single, high-profile, internationally renowned forum for research in the theory and practice of autonomous agents and multiagent systems."
 	- "International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)"
-	- May 3-7, 2021
-	- Virtual conference
-	- ~~London, U.K.~~
-	- Submission deadline: October 2-9, 2020.
+	- May 6-10, 2024
+	- Auckland, New Zealand.
+	- Submission deadline: ***October 2 and October 9, 2020 (AoE)***.
 + ACL, Annual Meeting of the Association for Computational Linguistics
 	- Annual Meeting of the Association for Computational Linguistics
 	- The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)
@@ -67,6 +67,12 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Virtual conference.
 	- ~~Honolulu, Hawaii, USA~~
 	- Submission deadline: ~~Nov 4 Anywhere on Earth (full paper), 2019.~~ January 31, 2021.
++ AISTATS, International Conference on Artificial Intelligence and Statistics
+	- https://aistats.org/aistats2024/call-for-papers.html
+	- May 2-4, 2024.
+	- Valencia, Spain
+	- Abstract deadline: ***October 6, 2023 (AoE)***
+	- Paper deadline: ***October 13, 2023 (AoE)***
 + CIBCB 2021, IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
 	- https://cibcb2020.uai.cl/#callforpapers
 	- ~~October 27-29, 2020~~
@@ -219,11 +225,10 @@ Transparency**
 		- ICDM 2020 contest deadline for final submission: ~~***July 31, 2020***~~, 23:59 hrs, U.S. PDT.
 + **ICLR, International Conference on Learning Representations**
 	- https://iclr.cc
-	- https://iclr.cc/Conferences/2021/CallForPapers
-	- May 4-8, 2021.
-	- Virtual conference.
-	- ~~New Orleans, NA.~~
-	- Submission deadline: ~~September 25, 2019~~ **September 28 and October 2, 2020**.
+	- https://iclr.cc/Conferences/2024/CallForPapers
+	- May 7-11, 2024.
+	- Vienna, Austria
+	- Submission deadline: ***September 21 and September 28, 2020 (AoE)***.
 + **ICML, International Conference on Machine Learning**
 	- https://icml.cc/Conferences/2021/CallForPapers
 	- Virtual conference.
@@ -335,15 +340,15 @@ Transparency**
 	- Virtual conference.
 	- January 12-13, 2021.
 	- Submission deadline: February 18-22, 2020.
-+ MLSys, the Conference on Machine Learning and Systems
-	- https://mlsys.org/Conferences/2021
-	- https://www.amazon.science/conferences-and-events/mlsys-2021
-	- April 4-9, 2021.
-	- ~~April 4-7, 2021~~.
-	- Virtual conference.
-	- ~~San Jose, CA~~.
-	- Submission deadline: October 10, 2020, 17:00 U.S. PDT.
-	- ***Formerly known as SysML Conference***.
++ MLSys, Conference on Machine Learning and Systems
+	- https://mlsys.org/
+	- https://mlsys.org/Conferences/2024/CallForPapers
+	- May 13-16, 2024.
+	- Santa Clara, CA.
+	- Submission deadline: October 27, 2024, 16:00 U.S. EDT.
+	- ***Formerly known as SysML Conference, Systems and Machine Learning Conference***.
+		* https://systemsandml.org/
+		* https://www.sysml.cc/
 + MVA2021, 17th International Conference on Machine Vision Applications
 	- http://www.mva-org.jp/mva2021/.
 	- July 25-27, 2021.
@@ -439,14 +444,6 @@ Transparency**
 	- March 28 - April 1, 2020
 	- Santa Fe, New Mexico
 	- ***Submission deadline: December 1, 2019.***
-+ SysML Conference, Systems and Machine Learning Conference
-	- https://systemsandml.org/
-	- https://www.sysml.cc/
-	- https://systemsandml.org/Conferences/2020/CallForPapers
-	- March 2-4, 2020.
-	- Austin, TX.
-	- Submission deadline: September 9, 2019.
-	- ***Renamed as MLSys, the Conference on Machine Learning and Systems.***
 + TACL, Transactions of the Association for Computational Linguistics
 	- https://www.transacl.org/ojs/index.php/tacl
 + TPAMI, IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -673,6 +670,8 @@ Important information about time zones:
 
 
 
+***For 2023, daylight savings in the U.S. ends on November 5, 2023 at 2:00 a.m..***
+
 
 
 
@@ -896,6 +895,25 @@ List of conference "Call for Papers" deadlines:
 	- Xi'an, China.
 	- ~~Submission deadline: May 19, 2019~~
 	- Submission deadline: July 26, 2020.
+
+
+
+
+
+
++ EuroSys, European Conference on Computer Systems
+	- https://2024.eurosys.org/cfp.html
+	- https://www.eurosys.org/news/eurosys-2024
+	- April 22-25, 2024
+	- Athens, Greece
+	- ***Spring Paper Submission Deadline: May 24, 2023***
+	- Fall Paper Submission Deadline: October 24, 2023
+
+
+
+
+
+
 
 
 
@@ -1491,6 +1509,26 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+	- https://www.asplos-conference.org/asplos2024/cfp/
+	- https://www.asplos-conference.org/asplos2024/
+	- https://asplos-conference.org
+	- https://asplos-conference.org/calls/
+	- San Diego, CA.
+	- April 27 - May 1, 2024.
+	- Spring Abstract Submission deadline: April 13, 2023.
+	- Spring Paper Submission deadline: April 20, 2023.
+	- ***Summer Abstract Submission deadline: August 3, 2023.***
+	- Summer Paper Submission deadline: August 10, 2023.
+	- Fall Abstract Submission deadline: November 23, 2023.
+	- Fall Paper Submission deadline: November 30, 2023.
+	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
+
+
+
+
+
 
 
 + FPT, International Conference on Field-Programmable Technology
@@ -1615,15 +1653,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ ASPLOS, International Conference on Architectural Support for Programming Languages and Operating Systems
-	- https://asplos-conference.org
-	- https://asplos-conference.org/calls/
-	- Virtual conference.
-	- ~~Lausanne, Switzerland~~.
-	- April 19-23, 2021.
-	- ~~March 16-20, 2020~~.
-	- Submission deadline: August 14 and 21, 2020.
-	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
 
 
 
@@ -1930,12 +1960,6 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ DATE 2019, Design, Automation & Test in Europe Conference & Exhibition
-	- https://www.date-conference.com/call-for-papers
-	- Florence, Italy
-	- Submission deadline: Sep 8, 2019.
-
-
 
 
 
@@ -1952,15 +1976,7 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SysML Conference, Systems and Machine Learning Conference
-	- Also known as: MLSys, Conference on Machine Learning and Systems
-	- https://systemsandml.org/
-	- https://www.sysml.cc/
-	- https://systemsandml.org/Conferences/2020/CallForPapers
-	- https://mlsys.org/Conferences/2020/CallForPapers
-	- March 2-4, 2020.
-	- Austin, TX.
-	- Submission deadline: September 9, 2019.
+
 
 
 
@@ -1986,6 +2002,31 @@ List of conference "Call for Papers" deadlines:
 	- February 23-25, 2020
 	- Seaside, California.
 	- Submission deadline: September 9, 2019.
+
+
+
+
+
+
+
++ DATE, Design, Automation and Test in Europe Conference
+	- Design, Automation & Test in Europe Conference & Exhibition
+	- https://www.date-conference.com/call-for-papers
+	- https://www.date-conference.com/call-for-papers#Submission-Instructions
+	- Valencia, Spain
+	- March 25-27, 2024.
+	- Abstract Submission deadline: September 10, 2023.
+	- Paper Submission deadline: September 17, 2023.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2120,6 +2161,37 @@ List of conference "Call for Papers" deadlines:
 	- Brno, Czech Republic.
 	- March 30 - April 3, 2020.
 	- Submission deadline: September 29, 2019.
+
+
+
+
+
+
+Workshop on ML for Systems at NeurIPS 2023
+	- Machine Learning for Systems workshop
+	- http://mlforsystems.org/call_for_papers.html
+	- http://mlforsystems.org/
+	- New Orleans, LA.
+	- December 15-16, 2023.
+	- Paper submission deadline: ***September 29, 2023 (AoE)***
+		* https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2334,6 +2406,32 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+
+
++ EuroSys, European Conference on Computer Systems
+	- https://2024.eurosys.org/cfp.html
+	- https://www.eurosys.org/news/eurosys-2024
+	- April 22-25, 2024
+	- Athens, Greece
+	- Spring Paper Submission Deadline: May 24, 2023
+	- ***Fall Paper Submission Deadline: October 24, 2023***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + ISCAS, International Symposium on Circuits and Systems
 	- https://iscas2020.org/
 	- Seville, Spain.
@@ -2436,6 +2534,24 @@ List of conference "Call for Papers" deadlines:
 		* SIGMETRICS 2019: International Conference on Measurement and Modeling of Computer Systems
 		* SPAA 2019: ACM Symposium on Parallelism in Algorithms and Architectures
 		* STOC 2019: 51st ACM Symposium on Theory of Computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2688,6 +2804,39 @@ List of conference "Call for Papers" deadlines:
 	- June 20-25, 2021.
 	- Virtual conference.
 	- Submission deadline: November 20, 2020.
+
+
+
+
+
+
+
++ IEEE AICAS, IEEE International Conference on Artificial Intelligence Circuits and Systems
+	- https://aicas2024.org/
+	- Abu Dhabi, UAE
+	- April 22-25, 2024
+	- Paper Submission Deadline: November 23, 2023.
+
+
+
+
+
++ ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+	- https://www.asplos-conference.org/asplos2024/cfp/
+	- https://www.asplos-conference.org/asplos2024/
+	- https://asplos-conference.org
+	- https://asplos-conference.org/calls/
+	- San Diego, CA.
+	- April 27 - May 1, 2024.
+	- Spring Abstract Submission deadline: April 13, 2023.
+	- Spring Paper Submission deadline: April 20, 2023.
+	- Summer Abstract Submission deadline: August 3, 2023.
+	- Summer Paper Submission deadline: August 10, 2023.
+	- ***Fall Abstract Submission deadline: November 23, 2023.***
+	- Fall Paper Submission deadline: November 30, 2023.
+	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
+
 
 
 
@@ -4508,6 +4657,32 @@ List of conference "Call for Papers" deadlines:
 	- San Carlos, Costa Rica
 	- September 23-26, 2019
 	- Submission deadline: April 12, 2019
+
+
+
+
+
++ ASPLOS, ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+	- https://www.asplos-conference.org/asplos2024/cfp/
+	- https://www.asplos-conference.org/asplos2024/
+	- https://asplos-conference.org
+	- https://asplos-conference.org/calls/
+	- San Diego, CA.
+	- April 27 - May 1, 2024.
+	- Spring Abstract Submission deadline: April 13, 2023.
+	- Spring Paper Submission deadline: April 20, 2023.
+	- Summer Abstract Submission deadline: August 3, 2023.
+	- Summer Paper Submission deadline: August 10, 2023.
+	- Fall Abstract Submission deadline: November 23, 2023.
+	- Fall Paper Submission deadline: November 30, 2023.
+	- ASPLOS is co-sponsored by SIGPLAN, SIGARCH, and SIGOPS
+
+
+
+
+
+
+
 
 
 + FCT, 22nd International Symposium on Fundamentals of Computation Theory

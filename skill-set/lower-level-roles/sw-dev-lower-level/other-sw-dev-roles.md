@@ -493,7 +493,8 @@ Skills related to software development for enterprise search engines:
 	- YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language (XML) but has a minimal syntax which intentionally differs from Standard Generalized Markup Language (SGML).
 	- Confluence is a web-based corporate wiki developed by Australian software company Atlassian.
 + Proficiency in C#.net or Python/Selenium for automation development.
-
++ Experience with RxJS or other event-based/observer framework
+	- RxJS is a library for composing asynchronous and event-based programs by using observable sequences
 
 
 

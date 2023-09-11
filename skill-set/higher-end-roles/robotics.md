@@ -128,6 +128,20 @@ reactive programming = asynchronous dataflow programming
 
 
 Generic sets of skills in robotics:
++ ***OpenCV Ceres, ROS, PyTorch***
++ skill set:
+	- Android
+	- Zephyr
+	- Linux
+	- Renode
+	- RISC-V
+	- TensorFlow
+	- Caffe
+	- OpenCV
+	- Singularity
+	- KiCad
+	- Docker
+	- ROS
 + skill set:
 	- We are looking for a Research Scientist, Robotics - New College Graduate:
 	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. With the GPU acting as the primary computing device, robots can now perceive and understand the world around them. Today, NVIDIA has transformed into “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world working on diverse aspects of AI. Join us at the frontier of technological advancement!

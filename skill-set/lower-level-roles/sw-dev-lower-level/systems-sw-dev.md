@@ -56,6 +56,29 @@
 	- Experience working in multi-core, multi-process/thread environment
 	- Knowledge of open source Linux, source code upstreaming, git repository maintenance and source code management and kernel.org flow understanding
 	- Understanding of AL/ML frameworks like TensorFlow will be an added plus
++ skill set for Platform Software Engineer (BMC):
+	- At Graphcore, we're optimistic for a future where people live healthier, more informed, more creative lives. Our team is at the forefront of the artificial intelligence revolution, enabling innovators from all industries and sectors to expand human potential with technology. We believe our IPU technology will become the worldwide standard for artificial intelligence, transforming whole industries and sectors whether you are a medical researcher, roboticist or building autonomous cars.
+	- As a Platform Software Engineer, you will be working in the engineering team in Oslo developing the Graphcore M2000 platform with scale out technology for our Intelligence Processing Unit (IPU). You will work closely with our hardware and software engineering teams to develop the platform software that our other engineering teams depends on for the final product definition.
+	- Your responsibilities:
+		* Define and develop our generic platform applications
+		* Configure operating system kernels and set up full distribution images
+		* Bring up new systems in the lab together with the FPGA and Hardware teams
+		* Board environmental monitoring, cooling/power regulation and fault handling  
+	- What you will bring:
+		* Proven experience in embedded Linux
+		* Experience with yocto based projects, bitbake, systemd, OpenBMC
+		* Experience with shell scripting, Python, C and understanding of C++
+		* Experience in Linux kernel and system configuration, package management
+		* Knowledge of low level peripheral interconnects, such as I2C, UART, SPI, PWM
+		* Knowledge of Ethernet and IP networking standards
+		* Demonstrable knowledge of computer security and authentication schemes
+	- Good to have:
+		* Knowledge of high availability (HA) systems, management
+		* Familiarity of ILOM, BMC, IPMI, Redfish and OCP (Open Compute)
+		* Familiarity with DMTF standards, Redfish and Server products
+		* Experience in working with open source projects.
+		* Experience in hands-on lab and bring-up activities, as well as knowledge of design for product and manufacturing
+		* You like to work in a fast-paced environment using agile methods
 + skill set:
 	- BLAH.
 + skill set:

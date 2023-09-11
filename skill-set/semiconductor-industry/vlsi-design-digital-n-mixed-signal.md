@@ -357,6 +357,17 @@ List(s) of companies in the semiconductor industry:
 + ***Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs***
 + Deep understanding of ***timing corners, operating modes, OCV, cross-talk, noise, signoff criteria***.
 + ***Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).***
++ skill set:
+	- At Brainchip, we are revolutionizing Artificial Intelligence at the edge with our AkidaTM Hardware and Software products. Akida™ hardware and software products are the result of over a decade of fundamental R&D by BrainChip engineers and data scientists. Akida AI IP, AI SoC, and development environment help customers create ultra-low-power solutions with the ability to incrementally learn on-chip without the need to retrain in the cloud.
+	- We are looking for a HW Design Engineering Summer Intern (May-August 2022) with a strong background in Digital Design and excellent Verilog/System Verilog coding and scripting skills.
+	- As a HW Design Engineering Intern, you will work on our latest AI Chip and/or IP design. You will work closely with the HW Engineering team using Industry standard tools and flows for RTL design, verification, automation and debug. The position requires willingness and ability to learn quickly and excellent communication skills.
+	- GPA 3.0 and above
+	- Currently enrolled in a Bachelors/Masters program in Electrical Engineering and/or Computer Science with a graduation date of Dec 2022 or later.
+	- Candidate should be local to Southern California since this position does not provide relocation assistance.
+	- Currently pursuing a Bachelors or Masters in Electrical Engineering and/or Computer Architecture with emphasis on Digital Design, Verification or Computer Architecture
+	- Familiarity with Digital design using Verilog/System Verilog
+	- Proficient in scripting languages like Python, PERL, or Shell scripting
+	- Strong analytical and problem-solving skills
 + skill set for Research Scientist, ASIC & VLSI - New College Grad:
 	- NVIDIA Research is seeking leading researchers in the areas of ASIC & VLSI design and verification to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence and systems-building experience. Ideal candidates will have a broad perspective across areas including RTL and logic design and verification, machine learning, processor micro-architecture, VLSI implementation, and Electronic Design Automation (EDA) algorithms. Specific areas of research interest include but are not limited to machine learning accelerators, high-productivity VLSI design and verification methodologies, hardware/software co-design, on-chip networks and interconnect, and applications of machine learning and GPU acceleration to EDA. Applicants with specific expertise and research interest in any of these areas will be considered.
 	- Research and develop creative and innovative EDA software and algorithms, ASIC and VLSI design techniques, machine learning accelerator approaches, and/or novel digital VLSI circuits.
@@ -800,6 +811,27 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Verification of IP Cores or SoC Designs for Set Top Boxes, Mobile handsets, Smart Devices, etc.
 	- Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
 	- Hands on experience with creating detailed design of components of Test Environment from Functional Specifications/ Test Environment Specifications. The TE must have used methodologies such as UVM, OVM
++ skill set:
+	- knowledge of:
+		* AXI
+		* AHB
+		* APB
+		* Wishbone
+	- knowledge of comunication interfaces:
+		* UART
+		* I2C
+		* SPI
+		* TileLink
+	- knowledge of fast comunication interfaces:
+		* PCI
+		* PCIe / PCI Expresss
+		* USB
+		* ChipLink
+	- SoC FPGA:
+		* Xilinx Zynq
+		* Xilinx UltraScale+ MPSoC
+		* Intel SoC FPGA
+		* Microsemi SmartFusion
 + skill set:
 	- Associate Staff Engineer- Modem Design
 	- 
