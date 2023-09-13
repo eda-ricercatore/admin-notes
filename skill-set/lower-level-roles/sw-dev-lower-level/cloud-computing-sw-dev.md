@@ -268,6 +268,11 @@ Notes on cloud computing:
 	- Ansible playbooks and roles for deployment (OpenStackAnsible)
 + view DevOps as ***configuration as code***:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
++ ***network operations center, NOC.***
+	- A network operations center (NOC, pronounced like the word knock), also known as a "network management center", is one or more locations from which network monitoring and control, or network management, is exercised over a computer, telecommunication or satellite network.
++ Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
++ Experience developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault
++ knowledge of various issues in the field of cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)
 + skill set:
 	- continuous integration/delivery (CI/CD) methodologies and practices
 	- develop open-source, scalable simulation and virtualization environments
@@ -289,6 +294,10 @@ Notes on cloud computing:
 	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
 	- Revolutionizing how data pipelines are built through Kafka Connect
 	- Running all of the above in our very own elastic, scalable cloud offering
++ ZABBIX, Python, API, Ansible, Terraform, and AWS cloud.
+	- Zabbix is an open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services.
+	- Ansible is a suite of software tools that enables infrastructure as code.
+	- Terraform is an infrastructure-as-code software tool created by HashiCorp.
 + skill set:
 	- Sr Principle Software Engineer - Cloud Platform
 	- Splunk is on a journey to be a SAAS data analytics platform. We have built platform 1.0 hosting Splunk developed application verticals like security, observability, IT Ops and others. It’s still early days, plenty of technology to be created and new challenges emerge every week. A person in this role can help us find directional alignment, influence simplicity of designs and create iterative value without getting bogged down by “everything else” that needs to get done. You know how to prioritize ruthlessly under internal/external pressures while keeping an eye on the prize. We can find domain experts comfortable in their prior experience to apply on the job, we can also get generalist not afraid to tinker with anyones closely held beliefs but what we really want is someone who uses the right tools for the right occasion. We value technology leaders who elevate the whole ecosystem around them (people, process and product) while building cool technology needed for the day. You are completely at ease with deeply understanding and driving business requirements, at times generating them as needed. You can influence from early engineers to senior VP’s from product and engineering. You are equally comfortable hands on and know when to go deep to advance a project and when to delegate and let the team take over. If you thrive in managed chaos and like to bring order, you will find yourself right at home. Some specific areas we are building in the platform:
@@ -740,6 +749,42 @@ Notes on cloud computing:
 	- Experience with leading or contributing to open source projects
 + Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
 + messaging systems, such as AWS SQS, AWS Kinesis, Kafka, or RabbitMQ, ZeroMQ
++ skill set:
+	- Software Engineer, Messaging Platforms
+	- The Messaging Platform group is at the heart of messaging at The New York Times. Our mission is to create and maintain multiple messaging platforms and capabilities that deliver the right message at the right time to foster deep connections with people trying to understand the world. This work is key to driving customer acquisition, engagement, and reader loyalty.
+	- We do this by providing data-driven insights, user-friendly tooling, and cutting-edge technology that empowers our editorial and business teams to send highly personalized communications at the speed of breaking news.
+	- We are looking for a software engineer to join our messaging optimization team. This team is focused on building resilient, scalable back-end systems with client-agnostic APIs for our in-house messaging platform as well as managing our 3rd party messaging platform, Responsys.
+	- Contribute to the full development lifecycle of our products, performing activities related to design, development, testing, deployment, monitoring, and on-going support of our systems and capabilities.
+	- Work with product & stakeholders to identify requirements and platform needs.
+	- Design, implement, and document REST APIs inside a Go codebase.
+	- Design and build integrations between internal data pipelines  and our 3rd party marketing platform, Responsys.
+	- Automate workflows related to managing and updating data within the marketing platform.
+	- Collaborate proactively and effectively within a distributed team.
+	- Prioritize growth and development by learning the tools, resources, and processes that are used by the team; take ownership of personal improvement by regularly soliciting and incorporating feedback from others.
+	- You will report to the Engineering Manager of the Messaging Optimization team.
+	- 3+ years in building large scale software applications.
+	- Experience with relational and/or NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB).
+	- Knowledgeable about cloud-based infrastructure and technologies (e.g., AWS, Azure, Google Cloud Platform).
+	- Extensive experience with building backend systems, including REST APIs.
+	- Unit/Integration testing experience.
+	- Strong problem-solving skills, excellent communication and collaboration.
+	- Experience integrating with martech tools & systems.
+	- Experience with Go.
+	- Experience with data engineering and data pipeline development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

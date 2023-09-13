@@ -29,6 +29,20 @@ Notes:
 
 Skill set for compiler design:
 + skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up!
+	- Our LLVM-based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions. SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a new college graduate to join our LLVM compiler team, and to learn techniques for tuning and optimizing the RISC-V LLVM compiler for the SiFive Intelligence processor family.
+	- Working with SiFive’s LLVM compiler team on improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- A degree in Computer Science or equivalent technical field of study.
+	- Have completed coursework, projects, internships, and/or research in data structures/algorithms and compilers.
+	- Have completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience in compilers.
+	- Strong C++ programming skills.
++ skill set:
+	- 5+ years of experience in SSA-based optimizations for high performance architectures.
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
 	- Target-independent optimization techniques
 	- Optimized code-generation for scalar and vector DSPs
 	- Definition and implementation of dedicated C/C++ language extensions
@@ -53,6 +67,12 @@ Skill set for compiler design:
 	- Retargeting of a C/C++ compiler towards specific microcontroller architectures
 	- Activities comprise participation in the development, maintenance, build, test, and release of compiler and run-time libraries for existing and forthcoming processor architectures, including competitive performance analysis, root cause analysis, and bug resolution
 	- 6+ years of experience with SQL databases (we use Postgres) and data manipulation
++ skill set:
+	- Interest/experience in compilers, parsers, LLDB
+		* LLDB is the default debugger in Xcode on macOS and supports debugging C, Objective-C and C++ on the desktop and iOS devices and simulator.
+		* The LLDB Debugger (LLDB) is the debugger component of the LLVM project. It is built as a set of reusable components which extensively use existing libraries from LLVM, such as the Clang expression parser and LLVM disassembler.
+	- compiler of our proprietary CodAL language to IR XML
+	- LLDB-based software debugger and profiler
 + skill set:
 	- Our LLVM-based, world-class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open-source projects, and our mission is to work with and drive the RSIC-V ecosystem.
 	- We are looking for a solid experienced LLVM compiler team member with proven experience in compiler technology such as ***SSA-based global optimizations, auto-vectorization, ISA extensions***, and high-performance computing. The candidate should demonstrate a track record in cross-team collaboration and in delivering high-quality compiler products. 
@@ -180,6 +200,8 @@ Skill set for compiler design:
 ##	Compiler Design for Domain-Specific Languages
 
 
+
++ ***Experienced with Glow/TVM/NVM/TensorRT/Tensorflow compiler portion is plus***
 + skill set:
 	- passion for developing and optimizing compilers for modern architectures
 	- experience in either or both of the following:
@@ -208,6 +230,41 @@ Skill set for compiler design:
 	- MLIR
 	- GLOW
 	- XLA
++ skill set:
+	- Experience in MLIR or similar multi-level optimizing compilers.
+	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- Familiarity with object oriented and functional programming languages. Experience in ***Scala*** and/or ***Swift*** highly desirable.
+	- Collaborating with colleagues to integrate with ***MLIR Compiler*** stack written in ***C++***.
+	- Participating in open source communities such as ***Chisel*** and ***LLVM CIRCT***.
+	- Developing and enhancing embedded Domain Specific Languages (DSLs) in ***Scala*** and/or ***Swift***, along with associated build tooling, for use by hardware industry professionals.
++ skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieves cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop a revolutionary software from the ground up.
+	- We are looking for an experienced AI/ML compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM, TVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Develope MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Develope large-scale production software with testing and continuous integration in mind.
+	- Closely collaborate with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborate with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 3+ years of experience in compiler technology.
+	- 3+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 3+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
++ skill set for Frameworks Integration Engineer:
+	- Build and maintain SiFive Software CI/CD/CT flow pipelines using build and release orchestration tools (Jenkins, Travis CI, etc.)
+	- Conduct SiFive Parallel Compute Frameworks testing and integration for product quality qualification and assurance
+	- Build the required automation tools on the basis of past experience in scripting (BASH, Perl, Powershell, Python)
+	- Closely collaborate with geographically distributed software and engineering teams.
+	- 3+ year experience on large scale software integration
+	- 1+ year experience on CI/CD/CT flow development
+	- 3+ years Software design and programming experience in C/C++/Python for testing, debugging and problem solving
+	- Experience with building tool/system like Make, CMake, Yocto, and Bazel
+	- Familiar with gtest, python unittest or other testing frameworks.
+	- Familiarity with version control tool with GIT and GitHub
+	- Familiarity with software release management tools is plus
+	- Strong system administration (Linux/Unix or Windows) at the command-line level is a plus
+	- Good understanding of Deep learning, Computer Vision, NLP is plus
+	- Familiarity with ML framework (Tensorflow/Tensorflow-Lite/Pytorch) is plus
 + skill set:
 	- As a member of our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute. 
 	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed. The Cerebras compiler efficiently maps this computation onto hundreds of thousands of compute nodes, leveraging novel hardware architecture features to maximize performance while maintaining correctness. LLVM is a critical component in the compilation process, not only performing low-level optimization and efficient mapping to hardware instructions, but also ensuring effective use of novel hardware features. 
@@ -268,6 +325,9 @@ Skill set for compiler design:
 	- BSc, MSc or PhD in Electrical/Computer Engineering or Computer Science;
 	- Experience with algorithms, data structures, and software development in C/C++. Python expertise is welcome as well
 	- ***Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus***
++ Familiarity with ***Graph Compilers***
++ Translation of network models in different ML frameworks to MLIR based graphs
++ Experience in or knowledge of MLIR flow, and in any MLIR optimizations.
 + compiler development experience for GPU compilers, dataflow computing compilers, and/or machine learning compilers
 + skill set:
 	- Principal Engineer, Compilers
@@ -294,6 +354,10 @@ Skill set for compiler design:
 	- compiler design for data parallel architectures
 	- compiler design for machine learning inference models
 	- Apache TVM hardware backend codebase and workflow for custom code generators, BYOC
++ skill set:
+	- Develop our MLIR compiler flow by writing unit tests or developing optimization passes
+	- Find interesting new machine learning workloads and get them running in Centaur’s accelerator flow
+	- Contribute to our libraries to produce high-performance assembly for new ML kernels
 + Experience with the deep learning compiler space (ONNC, TVM, XLA, etc) is a huge plus
 + skill set:
 	- Support the use of deep learning compilers (graph compilation and operator compilation, etc.); improve the performance of deep learning network training and reasoning on self-developed chips;
@@ -521,6 +585,7 @@ Skill set for compiler design:
 	- Proven ability to design/architect compiler frameworks
 	- Experience with open source compilers and contributions to code base
 	- Background with data plane programming or Linux networking stack and hardware packet processing pipelines
++ Hands-on experience design and development of graph-based compilers and experience in LLVM, MLIR, GLOW, etc. is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -783,6 +848,15 @@ Skill sets for program analysis:
 		* Experience leading research projects and managing/supervising a research team, as Principal Investigator (PI) or equivalent
 		* Research experience in compilers, static analysis, language-based security, or another field aligned with GrammaTech's research activities. Maybe your area of expertise is reverse engineering, or vulnerability detection, or code transformation. Expertise in machine learning or statistical techniques with applications to software development or security is highly relevant, as well. On the other hand, maybe you will be adding a new area of expertise to our team
 		* Lots of languages: C, C++, Java, machine code, etc. It's not just about our own code, it's about taking other people's software apart and showing them what makes it tick
++ skill set:
+	- end-to-end workload analysis from low-level assembly instruction code to high-level distributed algorithms
+	- experience with performance analysis on:
+		* CPUs
+		* GPUs
+		* TPU
+		* parallel architectures or distributed systems
+		* dataflow or spatial architctures
+		* many-core multi-thread environments.
 + skill set:
 	- BLAH.
 + skill set:

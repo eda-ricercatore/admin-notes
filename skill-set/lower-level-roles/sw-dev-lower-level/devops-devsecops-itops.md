@@ -77,6 +77,136 @@ Skill set for DevOps:
 	- Continuous Integration - TeamCity, Chef, Terraform, Kubernetes, Docker, Jenkins
 	- Scrum - JIRA, Google Docs, Metabase, integrated QA
 + skill set:
+	- What You’ll Do:
+		* Be a key member of the Anaconda Enterprise team
+		* Attend daily SCRUM meetings, sprint demos, etc.
+		* Work with other teams to coordinate joint deliverables 
+		* Work with QA team to ensure highest level of product quality
+		* Create and maintain software documentation
+	- What You Need:
+		* 5 years minimum in a System Engineering or Backend Engineering role
+		* Deep Linux system administrator knowledge
+		* Deep understanding of core AWS services (IAM, EC2, VPC, EKS)
+			+ Experience with IaC tools (Terraform, Ansible, Packer)
+		* GitOps mindset with a desire to automate everything
+		* Experience with IaC tools (Terraform, Ansible)
+			+ Experience with IaC tools (Terraform, Ansible, Packer)
+		* Experience with Kubernetes templating (Helm, Kustomize)
+			+ Kubernetes experience (EKS preferred)
+			+ Familiarity with CNCF ecosystem and its projects
+		* Production Kubernetes experience (GKE, EKS, OpenShift)
+		* Experience building and managing CI/CD pipelines (Jenkins, GitHub Actions)
+		* Production experience with Envoy and Kubernetes service meshes (Istio)
+	- What Will Make You Stand Out:
+		* Relevant programming experience with Python or Go
+		* Experience working in a fast-paced startup environment
+		* Experience running Hashicorp Vault in production
+		* Experience with GitOps tools like ArgoCD
+		* Experience working in a open source or data science-oriented company
++ skill set:
+	- Develop production-quality software, including testing, documentation, static analysis, and CI/CD/CT.
+	- Experience with RTOSes such as FreeRTOS.
++ skill set:
+	- Systems Engineer / DevOps
+	- Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
+	- DevOps and Systems Team
+		* Our unique machine learning needs led us to open our own data centers, with an emphasis on GPU resources. Even with these data centers, we maintain a hybrid infrastructure into AWS to power some parts of our consumer apps. As we continue to commercialize our machine learning models, we also need to grow our DevOps and Systems team to maintain the reliability of a SaaS offering for our customers. Our ideal candidate is someone who is able to thrive in an unstructured environment and takes automation seriously. You believe there is no task that can’t be automated and no server scale too large. You take pride in ensuring developers can deploy their servers without worrying about downtime.
+	- Automate manual operational processes
+	- Improve workflows of developer, data, and machine learning teams
+	- Manage integration and deployment tooling
+	- Create, maintain, monitor, secure and audit infrastructure
+	- Manage a diverse array of technology platforms, following best practices and procedures
+	- Participate in on-call rotation and root cause analysis
+	- Utilize OWASP top 10 techniques to secure code from vulnerabilities
+	- Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+	- Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+	- Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+	- Minimum 1 - 2 years of previous experience in development, operations, IT, or a related field
+	- Comfortable working on Linux infrastructures (Debian) via the CLIAble to learn quickly in a fast-paced environment
+	- Able to multitask, prioritize, and manage time efficiently independently
+	- Able to physically lift equipment at least 30 pounds
+	- Can communicate effectively across teams and management levels
+	- Degree in computer science, or similar, is an added plus!
+	- Technology Stack
+		* Operating Systems - Linux/Debian Family/Ubuntu
+		* Configuration Management - Chef/Ansible/Puppet/Salt
+		* Containerization - Docker
+		* Container Orchestrators - Mesosphere/Kubernetes
+		* Scripting Languages - Python/Ruby/Node/Bash
+		* CI/CD Tools - Jenkins
+		* Network hardware - Arista/Cisco/Fortinet
+		* Hardware - HP/SuperMicro
+		* Storage - Ceph, S3
+		* Database - Scylla, Postgres, Pivotal GreenPlum
+		* Message Brokers: RabbitMQ
+		* Logging/Search - ELK Stack
+		* AWS: VPC/EC2/IAM/S3
+		* Networking: TCP / IP, ICMP, SSH, DNS, HTTP, SSL / TLS, Storage systems, RAID, distributed file systems, NFS / iSCSI / CIFS
++ skill set:
+	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for the deep learning workload.
+	- You will develop and maintain the automation infrastructure for functional and performance test of Cerebras product. As an Automation Framework Developer, you will be responsible for designing and developing scalable automation framework to run in cloud and in our datacenter. You will work closely with the development and QA teams to support various test flows and to improve engineering productivity for software that runs on the Wafer Scale Engine (WSE), the world’s largest and fastest AI computer.
+	- Minimum 10+ years of experience in software development environments
+	- Experience building tools, libraries and automation framework for internal customers
+	- Proficient in Python and shell scripting
+	- Proficient developing fixtures, hooks and plugins in pytest framework
+	- Experience running jobs on server clusters and workload managers like SLURM
+	- Strong end-to-end triage, debug, and troubleshooting skills in CI/CD and regressions
+	- Experience with setting up Jenkins and writing Jenkins pipelines
+	- Expertise with GitHub Actions and GitHub webhooks
+	- Linux system administration experience desirable
+	- Familiarity with Docker, Kubernetes and container technology
+	- Knowledge of building services on top of AWS or other cloud platforms at scale a plus
++ skil set:
+	- Familiarity with Go, Kubernetes, Docker, React, AWS/GCP
+	- Experience with containers and resource managers (e.g., Kubernetes, Mesos, YARN, Linux package managers)
++ skill set:
+	- hands-on experience in configuring, maintaining, and building upon deployments of industry-standard tools (e.g., Jenkins, Docker, CMake, GitLab, Jira, etc.)
+	- experience in software shipping cycles (dev, deploy/CD, release, CI,) and open-source software development.
++ CI/CD flows:
+	- Bitbucket pipelines
+	- CircleCI
+	- Azure DevOps
+	- Bitrise
+	- Jenkins
+	- Travis CI
+	- GitLabs
+	- Bamboo
+	- AWS CodeBuild
+	- Vercel
++ skill set:
+	- You will define and own the future of developer experience at Ashby. You’ll spend most of your time making our engineering team more productive. You should have a strong desire to identify pain points in our current engineering workflows (e.g. CI takes a long time to run due to a very large test suite) and drastically improve them.
+	- You’ll also be responsible for helping our team build reliable & scalable products. We invest heavily in observability and streamlined operations of our products and you will be the point person leading these efforts.
+	- Our technology stack is: TypeScript (frontend & backend), Node.js, React, Apollo GraphQL, Postgres, Redis.
+	- One formality, we require at least 1.5 years of experience as a full-time software engineer for this role.
+	- You Could Be a Great Fit If
+		* You love diving deep into complex technical issues and finding elegant solutions
+		* Terms like runloop latency and predicate pushdown get you excited
+		* You are persistent in pursuing optimal solutions, even if they are challenging
+		* Big bonus if you have contributed to open source projects and/or have written or spoken about relevant tooling issues in the past
+		* Beyond the above, we believe that this series of tweets is a great summary of what makes an amazing software engineer. We know this kind of talent is rare and we're excited to pay top of market to have you join us!
+	- Examples of Things You’ll Work On
+		* Design and implement a generalized worker infrastructure and API so developers can easily run and monitor async tasks immediately, at a later time, or on a schedule.
+		* Work with the business and the engineering team to define SLOs, and work on implementing the corresponding SLIs.
+		* Build a CLI tool that runs our development environment and allows engineers to register required or optional services without modifying the CLI source code.
+		* Reduce our CI build time by parallelizing tests and other processes using services like GitHub Actions.
++ skill set:
+	- We are seeking an experienced and highly motivated DevOps Engineer who will play a key role in the setup, support, and maintenance of the deployment strategies for our services. In this role, you will be responsible for delivery by optimizing practices, improving communications and collaborations, and creating automation.
+	- responsibilities:
+		* Own the stability and automation of our deployment.
+		* Setup, support, and maintain cloud infrastructure
+		* Setup, support and maintain code management and CI/CD pipelines
+		* Implement monitoring and security best practices.
+		* Own the stability and automation of our deployment.
+		* Guide and potentially assist API and ML engineers developing in Go and Python.
+	- experience and qualifications
+		* 3+ years of DevOps experience, preferably in a lead role
+		* Experience with Go (Strongly Preferred), or JVM languages like Java or Scala, or C/C++
+		* Proficient with HashiCorp Terraform, Vault, and Nomad
+		* Advanced ability to craft clear and concise documentation
+		* Understanding of deployment orchestration using Kubernetes.
+		* Ability to design and manage CI / CD pipelines
++ skill set:
 	- Our core cultural values are manifested in our practices and processes every day. We highly value transparency and fairness in everything we do. We look for people who like to move quickly, are ambitious yet humble and have a great sense of humour. If you have a mischievous spark of fun, that’s even better.
 	- What you will be doing
 		* We’re looking for an experienced DevOps Engineer to join a team of talented engineers to develop high quality products which are scalable, testable, extensible, and provide high value to our customers.

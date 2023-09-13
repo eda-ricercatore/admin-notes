@@ -45,6 +45,7 @@
 	- load pull techniques
 	- tune, match, and circuit optimization
 	- optimization of circuit linearity for ***DPD***
++ Responsible for Lead layout design and manage delivery of high frequency mixed signal blocks/IPs : DLL, PLL, HBMIO, Clktree, VCDL and DCC
 + skill set:
 	- As a part of the IP department, design next-generation analog, mixed-signal high-speed modules, PLL and other circuits. Experience in Serdes, GDDR, PLL, ADC/DAC and other module design is preferred. Those who have actual design experience in one or more of the following Serdes circuits are preferred: Driver; Receiver; Serializer; Deserializer; Phase Interpolator; Low jitter PLL; CDR, High Speed Clock Distribution; Bias and Bandgap; and Voltage Regulators;
 	- Practical design experience in classic analog and mixed signal circuits, such as ADC, DAC, IO, LDO, Bias, OP, etc.;

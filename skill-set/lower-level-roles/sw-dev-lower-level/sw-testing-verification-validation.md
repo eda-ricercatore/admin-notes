@@ -14,6 +14,30 @@
 
 
 + skill set:
+	- Senior Software Engineer, Identity
+	- The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for. 
+	- The Identity team builds and maintains a world-class authentication platform that enables the creation and continued access of millions of user accounts, as securely as possible. Becoming a registered user is a very important first step of our customer journey, we support our subscription business model by providing the platforms necessary for all product teams to maintain a unique user experience for our readers. We always aim to be the experts in Customer Identity and Access Management (CIAM) technologies, so that we can engineer pragmatic solutions designed to keep our user login and registration experience as smooth, reliable, and secure as possible.
+	- We are looking for a creative and experienced developer with a penchant for test automation to contribute to the development of our next-generation identity platforms used by hundreds of millions of New York Times readers on a daily basis. You will analyze the range of user flows to provide coverage and tooling that increase the confidence and speed of deployments. You will build systems that serve as a foundation for test suites and tools wherever auth flows are used. You think intently about how to empower developers to build higher quality software. Your efforts will have an impact on our bottom line while strengthening the trust between the Times and our readers. You will report to Sr Engineering Manager of Identity, Core Platforms.
+	- Design and implement automated test scripts and test automation frameworks
+	- Collaborate with teammates and cross-mission teams to refine requirements and translate them into testing plans
+	- Develop end-to-end visual testing coverage of auth-related user flows
+	- Maintain documentation for testing tools
+	- Design automation testing tools that support a range of capabilities, from pipeline execution to CLI-based on-demand test scenarios 
+	- Perform regression, integration, system, and user acceptance testing
+	- Improve and uphold our code quality through test automation, code reviews, and other best practices
+	- Mentor engineers to level up the group's testing capabilities
+	- Influence organizational-wide testing practices
+	- Develop and maintain test automation frameworks for systems running in a cloud-based distributed systems (AWS/GCP)
+	- Experience of testing frameworks such as Jest, Cypress, Percy, SauceLabs (Playwright), and Applitools
+	- Development experience of 3+ years with a modern programming language such as JavaScript, TypeScript, Go, or Java
+	- Experienced designing and deploying testing automation pipelines
+	- Experience of different testing methodologies and best practices such as contract, end-to-end, and regression
+	- Exposure to or general understanding of GraphQL APIs, resolvers, and schemas in a federated architecture (such as Apollo Federation)
+	- Troubleshoot complex systems using tools such as DataDog and SumoLogic
+	- Understanding of modern DevOps practices and Infrastructure-as-code
+	- Familiarity with authentication / authorization protocols and frameworks such as OAuth, OIDC, SSO, JWT, and SAML
+	- Knowledge of SQL and relational databases such as Oracle, MySQL or Postgres, AWS RDS or Aurora
++ skill set:
 	- The Flex-Logix Inference Software team is growing. We are planning a significant growth in the team across our three sites. The Software Development Engineer in Test (SDET) team will grow accordingly. The company is seeking SDETS to automate and test our inferencing solution.
 	- This role spans both hardware test automation and simulation/synthesis test automation. You will be responsible for automating and testing our AI accelerator.  You'll be working with multiple software teams, deep learning scientists, and hardware designers:
 		* Develop new automation regression tests as needed

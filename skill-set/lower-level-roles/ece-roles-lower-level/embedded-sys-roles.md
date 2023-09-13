@@ -68,6 +68,8 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 ##	Embedded Software Development Roles
 
 
+
+
 Sets of skills for embedded software development roles:
 + skill set:
 	- You will help to ensure great quality of Tesla's Autopilot software for current and next generation vehicle programs and working towards Tesla's vision of fully autonomous vehicles. You will be contributing to the implementation of the software system that processes inputs from a variety of vehicle sensors, evaluates possible vehicle strategies/trajectories, and automate safe control of the vehicle.
@@ -283,6 +285,14 @@ Sets of skills for embedded software development roles:
 	- Familiarity with digital signal processing
 	- Experience with hardware accelerators (e.g. GPUs, SIMD optimization, FPGAs )
 	- Experience with GIT and JIRA based software development flows
++ Integrate, design, develop, upstream and release system software: Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
++ skill set:
+	- You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded.
+	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
+	- Experience with virtualization, IOMMUs, power management, SoC platform security or device drivers
+	- Experience debugging with GDB, JTAG and OpenOCD
+	- Experience with the following: RTOSes such as FreeRTOS; C++ and Python; virtualization, IOMMUs, and SoC platform security; debugging complex multicore systems; debugging with JTAG and OpenOCD.
+	- Experience with building tool/system including Make, CMake, Yocto, and Bazel
 + skill set:
 	- BLAH.
 + skill set:
@@ -335,6 +345,27 @@ Sets of skills for embedded software development roles:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+##	Automotive Software Development Roles
+
+
+Sets of skills for embedded software development roles, in the automotive industry, or for automotive software:
++ Automotive Software Performance Improvement and Capability dEtermination (ASPICE)
+
+
+
+
+
+
+
+
+
 
 
 

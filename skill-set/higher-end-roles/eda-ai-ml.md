@@ -176,6 +176,7 @@ Skills for EDA software development, and other high-end software development:
 		* MDX markup language, authorable format for writing JSX in Markdown documents
 			+ JSX, or JavaScript Extension, or JavaScript XML
 				- similar in appearance to HTML
++ Experience with unit testing, and performance benchmarking and tuning.
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- Production quality coding standards and patterns.
@@ -292,6 +293,7 @@ Skills for EDA software development, and other high-end software development:
 	- Collective Knowledge, CK
 	- Cuneiform programming language
 		* based on Erlang, functional programming language
+	- Intake: https://intake.readthedocs.io
 	- Jenkins
 	- Jira, with built-in workflow management systems, WfMS, WFMS
 	- [***Luigi***](https://github.com/spotify/luigi), for workflow management and managing ML pipelines (machine learning pipelines)
@@ -721,7 +723,19 @@ Skill sets for STCO and DTCO:
 	- Knowledge of cloud technologies
 	- Exposure to distributed computing will be an added advantage
 	- Quick learning and adaption to new technologies
-
++ skill set:
+	- Research Engineer / Senior Research Engineer (Advanced packaging design flow, PDK and DTCO)
+	- Develop Process Design Kit for IME’s advanced packaging line with state-of-the-art Interposer, high density fanout , chip on wafer technologies 
+	- Develop parameterised cells, surrogate models, statistical models for various building block cells within PDK.
+	- Develop essential scripts, automation, parsers needed for realising CAD flows with commercial EDA tools.
+	- Develop QA strategies with defining test structures, CD, Design-of-Experiments to generate essential measurement data for PDK recalibration. 
+	- Realise hybrid CAD flows using multi physics EDA tools and data exchange. 
+	- Sole owner of advanced package PDK baseline and its derivatives. 
+	- Support SiP design and technology co-optimization flow with nessasary automation and modelling
+	- Bachelor or Master’s Degree in Electronics / Computer Engineering or applied computer engineering streams
+	- Min 2 years of Experience in development, deployment of CMOS based PDK, with various front, back end EDA tools and design flows.
+	- Experience in developing machine learning/AI algorithms for clustering, regression, timeseries, multi modal data, optimization is a plus.
+	- Able to work both independently and as a team when required
 
 
 
@@ -3232,6 +3246,9 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 
 
 + skill set:
+	- Broad understanding to computer security and crypto algorithms like AES/SHA/RSA/ECC
+	- Familiar with Tilelink/AMBA/AXI bus protocol
++ skill set:
 	- Experience with hypervisor / container development
 		* Especially, Xen or OpenXT
 	- Experience with Trusted Platform Module (TPM)
@@ -4069,6 +4086,7 @@ Skill sets for application engineers of different EDA products:
 				- Zero Redundancy Optimizer, ZeRO, can optimize deep learning models with >1 trillion parameters
 			+ Caffe, Convolutional Architecture for Fast Feature Embedding, and Caffe2, which has been merged into PyTorch.
 			+ Torch, which is based on Lua
+			+ Lightning/Fast.ai
 	- Open Neural Network Exchange, ONNX
 		* open-source AI ecosystem
 		* Neural Network Exchange Format, NNEF
@@ -4081,6 +4099,9 @@ Skill sets for application engineers of different EDA products:
 		* TensorFlow
 		* Infer.NET, for Bayesian inference in graphical models, for probabilistic programming
 		* scikit-multiflow, for multi-output/multi-label and stream data
+		* RAPIDS:
+			+ https://rapids.ai/about.html
+			+ RAPIDS is basically a tool for running Pandas, Scikit-Learn, and NetworkX (graph analytics library) on GPUs. It also integrates with some deep learning libraries
 	- ***pandas***, for data analysis
 	- high-performance inference frameworks, or inference engines:
 		* ArmNN
@@ -4152,9 +4173,15 @@ Skill sets for application engineers of different EDA products:
 			+ https://stable-baselines3.readthedocs.io/en/master/
 			+ https://github.com/DLR-RM/stable-baselines3
 			+ https://pypi.org/project/stable-baselines3/
+	- for fairness, bias detection and mitigation, and explainability in machine learning:
+		* FairLearn: https://github.com/fairlearn/fairlearn/blob/master/README.md
+		* AI Fairness 360 (AIF360): https://aif360.mybluemix.net/
+		* InterpretML: https://github.com/interpretml/interpret
+		* LIME: https://github.com/marcotcr/lime
 	- for gradient boosting:
 		* LightGBM
 		* XGBoost
+		* CatBoost (from sanctioned entities)
 	- for Python software:
 		* PyMC
 			+ formerly PyMC3
@@ -4176,6 +4203,10 @@ Skill sets for application engineers of different EDA products:
 			+ PyTorch
 			+ Apache MXNet
 			+ managed by Linux Foundation AI, LF AI
+		* Dask: https://stories.dask.org/
+		* Apache Spark: https://spark.apache.org/
+	- higher-performance compilation:
+		* Numba: from sanctioned entities
 	- Orange
 	- from sanctioned entities:
 		* CatBoost, for gradient boosting
@@ -4231,6 +4262,15 @@ Skill sets for application engineers of different EDA products:
 		* ***Plotly***, for data visualization
 		* ***wxPython***, for data visualization
 		* ***PLplot***, for data visualization
+		* Panel
+			+ panel.holoviz.org
+		* Voila
+			+ voila.readthedocs.io
+		* Streamlit
+			+ www.streamlit.io
+		* Dash
+			+ plot.ly/dash
+		* HoloViz
 		* Gnuplot-py, for data visualization
 		* Biggles, for data visualization
 		* Chaco, for data visualization
@@ -4668,6 +4708,60 @@ Skill sets for application engineers of different EDA products:
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
 + platform-agnostic machine learning development
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
++ skill set for DEEP LEARNING ALGORITHM INTERN
+	- Development the deep machine learning models covers computer vision and NLP applications
+	- Software performance bottleneck analysis in CNN/RNN/LSTM architectures and design
+	- Development of AI profiling tools for neural processor engines to optimize the entire deep neural network architectures
+	- Robust learning through minimal data, unsupervised learning, and on-device learning
+	- Basic knowledge of leading edge neural network models from TensorFlow/Tlite, Keras, Caffe/Caffe2
+	- Bachelor’s degree/Master’s degree. in Computer Science, Machine Learning, Mathematics, robotics, or similar field (Master’s degree is preferred)
+	- 1+ years of industry/academia experience with deep learning algorithm development and optimization.
+	- Experience in deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL)
+	- Experience with classification and regression algorithms (e.g. SVM, MLP)
+	- 2-3 years of software engineering experience in an academic or industrial setting.
+	- Excellent Python, C++, and object-oriented programming skills demonstrated through relevant industry experience
+	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV,Tensorflow,Keras,Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Location: San Diego, CA.
++ skill set for SOFTWARE ENGINEER (INTERN)—DEEP LEARNING/MACHINE LEARNING /COMPUTER VISION
+	- Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.
+	- Development of AI profiling tools for neural processor engines to optimize the deep neural network architectures
+	- Bachelor's /Master’s degree. in Computer Science, Machine Learning, or similar field (Master’s degree is preferred)
+	- Basic knowledge on object-oriented software design skills
+	- Software engineering experience in an academic or industrial setting.
+	- Experience with Python, C++/C, and object-oriented programming skills demonstrated through relevant industry experience.
+	- Hands-on experience running machine learning toolkits such Caffe/Caffe2, PyTorch, and TensorFlow 
+	- Basic knowledge of machine learning concepts, algorithms and architectures, including CNNs, LSTM-RNNs, etc
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Location: San Diego, CA.
++ skill set:
+	- At Toyota Research Institute (TRI), we’re building a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring advanced mobility technology to market faster.
+		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies.
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals.
+	- TRI's Planning and Control team is building the decision-making, planning, and execution technology required to develop the uncrashable Toyota. We are doing cutting edge research in the decision systems required for L5 autonomous cars in addition to the exploration of highly dynamic control regimes and blended driver-machine control techniques to build the ultimate, fun, uncrashable car of the future. We are leveraging advances in AI, Planning, and Control Theory to realize a scalable, verifiable system to solve the L5 driving problem in the long term, while making a difference in society in the short term through our Guardian and Chauffeur systems.
+	- Responsibilities:
+		* Develop, deploy and evaluate state of the art algorithms in agent behavior prediction.
+		* Closely work together with perception and motion planning engineers and research scientists to understand needs and develop integrated solutions.
+		* Maintain and improve the interplay between perception, prediction, and planning to achieve robust and human-like AV behavior.
+		* Build software tools to accelerate prediction and planning development.
+		* Design reusable software components as part of an integrated system.
+		* Understand and fulfill the software practices that produce maintainable code, including automated testing, continuous integration, and code review.
+	- Qualifications:
+		* Master's degree or greater in Robotics, Computer Science or equivalent and 3+ years of industry experience, or B.S. and 5+ years of industry experience.
+		* Strong systems-level thinking and approach to problem solving.
+		* Solid C++ software development skills.
+		* Strong understanding of common software performance issues and trade-offs.
+		* Lifelong learner, interested in tackling new challenges daily.
+		* Familiarity with modern machine learning concepts.
+		* Familiarity with computational geometry and dynamics.
+		* Good communication and collaboration skills.
+		* Experience deploying machine learning models on real-world applications is a plus
+		* Experience fielding real-world robotic systems is a plus.
 + skill set for Research Scientist:
 	- Responsibilities:
 		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
@@ -4686,6 +4780,63 @@ Skill sets for application engineers of different EDA products:
 		* Contributions to open-source software projects in the area of machine intelligence.
 		* Experience in using or designing low-precision numerical formats.
 		* Kaggle competitions or other evidence of practical expertise.
++ skill set:
+	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring advanced mobility technology to market faster.
+		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
+	- Responsibilities:
+		* Research, design, and develop new deep learning algorithms
+		* Be a leader in high level algorithm decisions to ensure fast and accurate development cycles.
+		* Implement and maintain cutting edge deep learning algorithms in object classification, object detection, video understanding, labeling, clustering, segmentation, data association, tracking and prediction
+		* Build robust, reliable systems to handle common and long tail problems
+		* Embrace self-supervised learning strategies to overcome ever so growing data needs.
+		* As an applied researcher your goal should be to deploy your work onto our test vehicles.
+		* Develop systems that can run in tightly controlled real-time loops.
+		* Collaborate with other perception engineers and scientists to develop perception algorithms, systems, and tools for autonomous driving systems.
+		* Support the development of large data sets and data pipelines for system training and evaluation.
+		* Stay up to date on the state-of-the-art in deep learning ideas and algorithms.
+	- Qualifications:
+		* PhD or MS in CS/CE/EE, or equivalent experience
+		* 3+ years of professional experience in related position
+		* Extensive experience with ML frameworks such as PyTorch
+		* Experience with machine learning and classification, tracking or prediction
+		* Experience in robotics, AI, tracking, prediction or computer vision applied to autonomous driving.
+		* Proficiency in linear algebra, probability, statistics, and differential equations
+		* Strong grasp of current ML techniques, especially deep learning for perception, tracking or prediction algorithms.
+		* Strong communication skills. Team player.
+		* Strong C++ software development skills.
+		* Proficient in Python and Unix is a minimum. Additional knowledge of C++ / CUDA is a plus
++ skill set:
+	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we:
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring sophisticated mobility technology to market faster.
+		* Discover new materials that will make drive batteries and hydrogen fuel cells smaller, lighter, less expensive, and more powerful.
+	- Our work is guided by a dedication to safety – in how we research, develop, and validate the performance of technology to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries Ph.D. degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun start-up environment with forward-thinking people who enjoy solving global problems and the financial backing to successfully achieve our goals. If you’re passionate about working with smart people to make cars safer, enable the elderly to age in place, or design alternative fuel sources, TRI is the place for you. ‒ Start your impossible with us.
+	- Our Machine Learning (ML) team is looking for Research Scientists in a variety of areas including Self-Supervised Learning, Reinforcement Learning (especially Model-based and Offline), Vision-as-Inverse-Graphics (including Differentiable Rendering), and ML Safety (including ML theory, AI ethics, causality). We are aiming to make progress on some of the hardest scientific challenges around the safe and effective usage of large robotic fleets, simulation, and prior knowledge (geometry, physics, proven experience, behavioral science), not only for automation but also for human augmentation.
+	- As a Research Scientist, you will work with a multidisciplinary team proposing, conducting, and transferring cutting-edge research in Machine Learning. You will use large amounts of sensory data and simulation to solve open problems, publish at top academic venues, and test your ideas in the real world (including our robots (https://www.tri.global/news/virtual-robotics-event/) and test vehicles (https://www.youtube.com/watch?v=0OLcLZwsgzY) of course!). You will also work closely with other teams at TRI to transfer and ship our most successful algorithms and models towards world-scale long-term autonomy and advanced assistance systems. Responsibilities and required qualifications are as follows:
+	- Responsibilities:
+		* Conduct ambitious research in Machine Learning that solves open problems of high practical value and validate it in real-world benchmarks and systems.
+		* Push the boundaries of knowledge and the state of the art in ML areas including simulation, perception, prediction, and planning for autonomous driving and robotics.
+		* Partner with a multidisciplinary team including other research scientists and engineers across the ML team, TRI, Toyota, and our university partners.
+		* Stay up to date on the state-of-the-art in Machine Learning ideas and software.
+		* Present results in verbal and written communications, internally, at top international venues, and via open-source contributions to the community.
+		* Lead collaborations with our external research partners (e.g., Stanford, Berkeley, MIT) and mentor research interns.
+	- Qualifications:
+		* Bachelor’s or Master’s degree in a quantitative field (e.g. Computer Science, Mathematics, Physics, Engineering, Chemistry). Ph.D. in Machine Learning, Robotics, Computer Vision, or related fields preferred.
+		* Deep expertise in at least one key ML area among Computer Vision, RL, ML theory, AI ethics.
+		* Consistent track record of publishing at high-impact conferences/journals (CVPR, ICLR, NeurIPS, RSS, ICRA, ICCV, ECCV, PAMI, IJCV, etc.) on the aforementioned topics.
+		* Proficient at scientific python, Unix, and a common DL framework (preferably PyTorch). Experience with distributed learning (especially on AWS) is a plus.
+		* You can identify, propose, and lead new research projects, working in collaboration with other researchers and engineers to complete it from initial idea to working solution.
+		* You are passionate about large-scale challenges in ML, especially in the space of Automated Driving and Robotics and for societal good in general.
+		* You are a reliable team-player. You like to think big and go deeper. You care about openness and delivering with integrity.
+	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
 + skill set:
 	- The machine learning research scientist’s primary role is to work with other R&D team members to imagine, define, and develop BrainChip’s spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team’s algorithm development for the next version of the Akida NSoC.
 	- Ph.D. in computer science (or equivalent) or MS in computer science with +5 years of machine learning experience
@@ -5236,7 +5387,206 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
-+ Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems
++ ***Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems***
++ Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
++ Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
++ skill set:
+	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
+	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
+	- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM.
+	- Compilers such as TVM, Glow, Halide, CLANG, LLVM, and GCC.
++ Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
++ skill set:
+	- Senior Deep Learning Software Engineer, Algorithmic Model Optimization
+	- Join our team of algorithmic model optimization experts and take part in unlocking the biggest potential for AI with generative models such as large language models (LLM) and diffusion models. As a Senior Deep Learning Software Engineer, you will be at the forefront of pushing the boundaries of these models and enabling their deployment at a larger scale with unmatched efficiency. We are developing an innovative software platform that will not only be utilized internally but also have a significant impact externally by enabling the creation of groundbreaking AI products. This is an exceptional opportunity for passionate software engineers like you, who have a strong background in Deep Learning, to join us in solving the most significant challenges in the field.
+	- Your role will be pivotal in our mission to maximize the potential of our rapidly expanding data center deployments. Additionally, you will play a crucial part in adopting a data-driven approach to hardware design and system software development. Collaboration is at the heart of what we do, and you will have the chance to work closely with a diverse range of teams at NVIDIA, including the Applied Deep Learning Research teams, CUDA Kernel and DL Framework development teams, and the Silicon Architecture Team. In this position, you will actively engage with internal stakeholders, users, and members of the open-source community. Your input will be vital in defining and implementing cutting-edge model optimization algorithms. The scope of your work will encompass researching and developing highly efficient search algorithms, defining public APIs, implementation, and various other software engineering tasks. We are seeking individuals who are as enthusiastic as we are about pushing the boundaries of AI and contributing to groundbreaking advancements in the field. If you are passionate about innovation, tackling complex DL problems, and working in a collaborative environment, this is the perfect opportunity for you. Join us, and together, we will shape the future of AI model optimization and its impact on the world.
+	- Prototype and develop model optimization methods, and build a most impactful model optimization platform
+	- Collaborate with internal and external partners to accelerate the adoption of deep learning model optimization
+	- Stay up to date with the latest research and innovations in generative AI and model optimization techniques
+	- Analyze and optimize the theoretical and practical performance of DL models generated
+	- Publish findings in top AI conferences, and create Intellectual Property
+	- Masters, PhD, or equivalent experience in Computer Science, AI, Applied Math, or related field.
+	- 6+ years of relevant work or research experience in Deep Learning.
+	- Excellent software design skills, including debugging, performance analysis, and test design
+	- Strong algorithms and programming fundamentals
+	- Ability to work independently, define project goals and scope, and run your own development effort
+	- Good communication, documentation habits, and interpersonal skills
+	- Experience with one or more: Python, C++, performance tuning
+	- Contributions to PyTorch, JAX, or other Machine Learning Frameworks
+	- Knowledge of GPU architecture and compilation stack, and capability of understanding and debugging end-to-end performance
+	- Familiarity with Nvidia’s deep learning SDK such as TensorRT
+	- Strong understanding of deep learning algorithms and solutions
+	- Strong understanding of ML model optimization techniques such as quantization, pruning, distillation.
+	- Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly growing field.
+	- The base salary range is $176,000 - $333,500.
++ skill set:
+	- You will be working on cutting edge problems in Deep Learning for Deeplite optimization software stack.
+	- Work on architecture-specific neural network optimization algorithms for high performance computing.
+	- Design and develop a lightweight and high-performance inference engine for CPUs and microcontrollers.
+	- In this role you will have opportunity to develop an inference engine running on many devices.
+	- Bachelors, Masters or Ph.D. or equivalent in Computer Science, Computer Engineering, or related field.
+	- 4+ years of relevant work or research experience in high performance computing and compiler optimizations.
+	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+	- Excellent Python skills, and a dedication to writing clean, understandable, testable code with an eye towards maintainability.
+	- Experience with optimizing compiler, programming low-level hardware and microcontrollers.
+	- Development or research experience in a production compiler (preferably LLVM or [TVM/Apache TVM](https://tvm.apache.org/))
+	- Familiarity with ARM, RISC-V and/or x86 architectures is highly preferred
+	- Experience with deep learning runtime frameworks such as ARM-NN, CMSIS-NN, TensorRT, XLA, ONNX Runtime, OpenCL, MLIR is a huge plus
++ Knowledge of machine learning frameworks such as scikit-learn, SparkML, or Tensorflow.
++ skill set:
+	- Deeplite’s revolutionary platform “Neutrino” is being used and/or evaluated by many customers, including top consumer and automotive OEMs, semiconductor companies and computer vision pioneers, globally. As a member of the customer success team, you will be the bridge between our product team and our customers to enable them to optimize and run their Artificial Intelligence (AI) solutions on eco-friendly, small footprint devices for everyday use. 
+	- In this role, you will act as an external champion of our platform and work closely with our customers to solve issues and/or educate them to speed up their projects. You will also get an opportunity to work on development of faster & smaller models for small footprint devices.
+	- Undergraduate in Computer Science or related field (master's degree is a plus). 
+	- More than 2 years' experience with the following skills 
+	- Hands on experience with Deep Learning frameworks like PyTorch, TensorFlow.
+	- Proficiency in programming languages like Python and C/C++
+	- Fundamentals of deep learning (CNN)
+	- Experience with runtime environments (OpenVINO, ONNX runtime, TVM etc.) would be a huge plus.  
+	- Experience with deep learning model compression, speedup related project is a huge plus 
+	- Experience building systems based on machine learning and/or deep learning (Experience with embedded boards is a plus) 
+	- Customer facing skills. 
+	- 2 years of industry experience working with clients for technical collaboration.
+	- Willingness to work on multiple projects concurrently.
+	- Opportunity to advance state-of-the-art software in the fields of DNN model compression, AutoML, Neural Architecture Search (NAS) and more!
++ skill set:
+	- Our platform is in the development phase, and we’re implementing academic works and our patent portfolio into our technology. In this role, you will be immersed in core concepts of deep neural networks and their low-level implementations, closely follow academic works in the field of deep learning and collaborate and increase productivity on existing research projects.
+	- Post-secondary education in a related field.
+	- Strong working knowledge of deep learning, and experience utilizing theoretical and empirical research to solve real-world problems.
+	- Must have at least 1 year of experience with Deep Learning frameworks like PyTorch or TensorFlow.
+	- Must have at least 3 years of industry experience with C/C++, Python coding or other high-level languages.
+	- Experience building systems based on machine learning and/or deep learning.
+	- An understanding of low-level implementation of neural networks.
++ skill set:
+	- Post-secondary education in a related field.
+	- Must have at least 1 year of experience with Deep Learning frameworks like PyTorch or TensorFlow.
+	- Must have at least 1-3 years of experience with C/C++, Python coding or other high-level languages.
+	- A strong publication record or alternative relevant innovation experience.
+	- As an intern, you will be tasked to advance the science and technology of Deeplite's engine. You'll interact with both leading academics and industry to create new advancements in the field of deep learning alongside top academic partners, and you'll have the opportunity to define and lead research directions and contribute to the AI research community by publishing papers, securing patents, collaborating with leading academic institutions, and speak and participate at international conferences.
++ skill set:
+	- Machine Learning Engineer
+	- In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.
+	- Everything involved in applying a ML model to a production use case, including, designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+	- Interface closely with the Backend and DevOps teams as well as with our internal data labeling services
+	- Utilize OWASP top 10 techniques to secure code from vulnerabilities
+	- Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+	- Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+	- Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+	- You have an undergraduate or graduate degree in computer science or similar technical field, with significant coursework in mathematics or statistics
+	- You have 1-2 years industry machine learning experience
+	- You have successfully trained and deployed a deep learning machine model (image, NLP, video, or audio) into production, with measurably improved performance over baseline, either in industry or as a personal project
+	- You have strong experience with a high-level machine learning frameworks such as ***Tensorflow, Caffe, or Torch***, and familiarity with the others
+	- You know the ins and outs of Python, especially as it applies to the above ML frameworks
+	- You are capable of quickly coding and prototyping data pipelines involving any combination of Python, Node, bash, and linux command-line tools, especially when applied to large datasets consisting of millions of files
+	- You have a working knowledge of the following technologies, or are not afraid of picking it up on the fly: ***C++, Scala/Spark, SQL, Cassandra, Docker***
+	- You are up-to-date on the latest deep neural net research and architectures, both in understanding the theory and motivations behind the techniques, as well as how to implement them in the ML framework of your choice
+	- You have great communication skills and ability to work with others
+	- You are a strong team player, with a do-whatever-it-takes attitude
+	- The current expected base salary for this position ranges from $120,000 - $180,000.
++ skill set for SOFTWARE ENGINEER
+	- A Software Engineer is sought by a company providing custom Deep Learning software for image and video analytics in San Diego, CA to perform the following duties:·
+	- Design neural network structures optimized for mobile and edge hardware.·
+	- Develop and Design Face Recognition Platform including model training for face detection, alignment, and feature extraction.·
+	- Implement novel deep neural network architectures and learning techniques to solve a variety of computer vision tasks and push the State of Art in performance.·
+	- Build and maintain the infrastructure for training and deploying models, including massive data pipelines, experiment management platform, and visualization tools, etc.·
+	- Integrate model components with the product stack.·
+	- Research and develop State of Art model compression techniques including model distillation, pruning, quantization, model binarization, and others for CNN, RNN, and LSTM models.·
+	- Implement novel deep neural network architectures and develop advanced training algorithms to support model structure training, auto applications, and others.·
+	- Research and optimize model compression techniques for CNN accelerator and jointly optimize hardware architecture for compressed models.·
+	- Develop a deep learning compiler stack that interfaces frameworks such as TensorFlow, CAFFE2, and KERAS, etc.· Convert neural nets (CNN/RNN) into internal representations suitable for optimization.
+	- Must have a Master’s Degree in Computer or Computational Science.·
+	- Proficient in C, C++/STL, PYTHON, MATLAB, JAVA Programming.·
+	- Knowledge in compute algorithms and data structure.·
+	- Familiar with software development process.
+	- Note: This is a full-time position.
+	- Location: San Diego, CA.
++ skill set for SOFTWARE RESEARCH ENGINEER (SAN DIEGO, CA)
+	- A Software Research Engineer is sought by a company providing custom Deep Learning software for image and video analytics in San Diego, CA to perform the following duties:· 
+	- Design software architecture to improve software data training and machine learning framework;· 
+	- Examine current state-of-the-art AI systems and investigate new approaches and methods to increase the speed of software solutions;· 
+	- Investigate the quality of database elements/data editing and research new validation methods and procedures;· 
+	- Investigate systems and software issues affecting company’s research efforts and investigate possible solutions;· 
+	- Examine current research database and explore new ways to modify, test, verify, and analyze category and pre-processing of image data labeling;· 
+	- Prepare research manuscripts and presentations based on the company’s research discoveries;· 
+	- Examine current performance measures and investigate new, more effective methods to evaluate energy efficiency, and time and space complexity of algorithms;· 
+	- Design and conduct tests to troubleshoot and validate software for performance, reliability, and robustness; and· 
+	- Design key performance testing models and procedures to measure the efficiency and accuracy of new and existing software.
+	- Must have a master’s degree in computer engineering.
+	- Location: San Diego, CA.
++ skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION
+	- Research and develop state of art model compression techniques including model distillation, pruning, quantization, model binarization, and others for CNN, RNN, LSTM models.
+	- Implementing novel deep neural network architectures and develop advanced training algorithm to support model structure training, auto pruning and low-bit quantization.
+	- Apply and optimize model compression technique to variety of models in computer vision applications, audio applications, and others.
+	- Research and optimize model compression technique for Kneron CNN accelerator and jointly optimize hardware architecture for compressed model.  
+	- M.S./PhD in Computer Science, Machine Learning, Mathematics or similar field (Ph.D. is preferred)
+	- 3+ years of industry/academia experience with deep learning algorithm development and optimization.
+	- 3-5 years of software engineering experience in an academic or industrial setting.
+	- Holistic understanding of deep learning concepts, state of the art in model compression research and the mathematics of machine learning.  
+	- Solid understanding of CNN, RNN, LSTM, variety of training method, learning rate choice, hyper-parameter tuning.
+	- Research experience on any model compression technique including model distillation, pruning, quantization, model binarization.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Experience on hardware architecture design is a plus.  
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus.
+	- Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, is a strong plus.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set:
+	- Research and develop algorithms /system for given problem independently
+	- Provides solutions to a diverse range of moderately complex problems
+	- Development of medium sized product features
+	- Create rapid prototyping, generating quality wireframes and mockups – a portfolio of recent or salient work is required
+	- Works independently and uses judgment within defined policies and practices to influence others in technical directions.
+	- Expected to interface with colleagues outside of engineering and may mentor less experienced engineers (NCGs).
+	- Sets task level goals and may set project level schedules.
+	- Extensive expertise in a any/all below technical domain
+		* CV,ML,DL (Un/semi/supervised /reinforcement)
+		* Research/Develop CV/ML/DL algorithms using historical (training) data
+		* Expertise in rapid DL/ML/CV/RL/NLP POC development using python, Tensorflow, Pytorch,Keras,Matlab,TensorRT,ONNX etc·
+		* Expert knowledge of research methodologies in ML/DL domain·
+		* Model compression
+		* Model Pruning, sparsity , Model Decomposition , Mixed precision ,Qunatization ,sensitivity analysis , Tuning
+		* Transfer learning
+	- User experience background is a plus·
+	- Experience with usability and evaluation is a plus·
+	- Experience working within Agile framework is a plus.
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance, and tone for multiple customers·
+	- Analytical skills, conceptualize ideas, POC, understand and implement literature 
+	- Implement given task in C++, MATLAB, Python and design/code DL model using TensorFlow
+	- Strong experience in CV, ML, DNN, RNN, RL, Linear Algebra & AI
+	- Strong experience in C++, MATALB, Python, TensorFlow, PyTorch,Keras,ONNX,Pytorch
+	- Hands on Experience in rapid DL/ML/CV/RL/NLP POC development
+	- Very good Knowledge on Model optimization, Pruning ,Tuning ,ONNX, Distiller , Quantization
+	- Very good Knowledge on Object-Oriented Design & System Integration
+	- Very good knowledge on Code Optimization, Implement & Adapt Complex Algorithms (E.g. from literature, from other teams, etc.)
+	- Work Independently without supervision
+	- Work under aggressive schedules towards world-class solutions
+	- Ability to deliver exceptional results in challenging tasks
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
+	- Ability to consolidate, distill, and incorporate diverse ideas quickly
+	- Experience with usability and evaluation is a plus
+	- Experience working within Agile framework is a plus
+	- CV, ML, CNN, DNN, RNN, Linear Algebra, Pattern Recognition, DSA, OOPS,Model compression
+	- C++, MATALB, Python, TensorFlow Pytorch ,Cuda basic, ONNX,Keras
+	- Hands-on experience on NLP - NLTK,Padna ,spacy
+	- Hands-on experience of AWS (Amazon Web Services) & IoT (Internet of Things).
+	- Hands-on experience with Databases.
+	- Unity ,C#
++ skill set:
+	- Do you want to be in the forefront of Deep Learning innovation? Training extremely large models at a fraction of time compared to other solutions? Helping companies and labs around the world solving a real impactful problem? Working with the latest Deep Learning Architecture (i.e. Transformer, GNN...etc)? If so, then we need you!!!
+	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
+	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for deep learning workloads.
+	- Cerebras is building a team of exceptional people to work together on big problems. They aren’t afraid of taking risk and thinking outside of the box to solve fun and challenging problems.
+	- As an ML Software Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software, to develop state-of-the-art solutions for emerging problems in AI compute.
+	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, JAX, and MXNet.  Our ML software engineers are responsible for the backend of these frameworks and the integration with our own highly optimized software stack.
+	- Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.
+	- This role includes our ML framework backend and frontend stack, you will be involved in the frontend workflow for development, training and inference on our new hardware system. And the backend runtime that map the abstract computation expressed via third-party ML frameworks computation graph into our own representations that can then be compiled into highly optimized executables that target Cerebras’s system.
+	- The role includes cross team collaboration with the applied science and ML application team in one hand, and the compiler and hardware team on the other hand.
+	- Understanding of state-of-the-art deep learning model architectures and training protocols.
+	- Strong Python and C++ development skills.
+	- Experience with at least one deep learning framework internals (i.e. TensorFlow, PyTorch, JAX, Caffe 2, MXNet, PaddlePaddle, CNTK, Caffe, Theano, Chainer...etc) is strongly preferred.
+	- Experience with GPU programing such as CUDA, shading language...etc.
+	- Experience with deep learning distributed training.
+	- Familiar with compiler IR stack such as LLVM and MLIR.
 + skill set for Research Engineer
 	- Responsibilities:
 		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
@@ -7221,6 +7571,86 @@ Skill sets for application engineers of different EDA products:
 
 
 Skill sets for managing machine learning engineers, or machine learning engineering managers or machine learning managers:
++ Experience with Hive, R, and Python preferred
+	- Hive: productivity platform for fast-moving teams
+	- The ***Apache Hive™*** is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale and facilitates reading, writing, and managing petabytes of data residing in distributed storage using SQL.
++ skill set:
+	- Staff Machine Learning Engineer
+	- In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.
+	- Everything involved in applying a ML model to a production use case, including designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+	- Write and maintain scalable, performant code that can be shared across platforms
+	- Contribute meaningfully to the product and core backend systems by suggesting and executing improvements
+	- Improve engineering standards, tooling, and processes
+	- Develop novel, accurate, and performant ML algorithms for use at scale
+	- Conduct metric-driven research experiments to improve model performance
+	- Provide mentorship to and help onboard ML engineers
+	- Lead cross-functional collaboration with other teams
+	- Contribute to defining strategic direction, planning the roadmap
+	- Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+	- Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+	- Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+	- You have a Bachelor's Degree in computer science or a related field
+	- You have 8+ years of experience building web applications
+	- You have successfully implemented highly-available distributed systems/microservices
+	- You have delivered scalable backend APIs
+	- You have strong interpersonal and communication skills with a bias towards action
+	- You have experience writing code and training across distributed systems
+	- You have the ability to understand and make well-reasoned tradeoffs in designing features
+	- You are an expert in machine learning frameworks, such as PyTorch or Tensorflow
+	- You are an expert in scripting languages such as Python and/or shell scripts, particularly for data analysis
+	- You are a subject matter expert in at least one focus area of machine learning, such as computer vision or natural language processing
+	- You can lead end to end development of new products
+	- The current expected base salary for this position ranges from $200,000 - $300,000.
++ skill set:
+	- Senior Machine Learning Engineer
+	- In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.
+	- Everything involved in applying a ML model to a production use case, including, designing and coding up the neural network, gathering and refining data, training and tuning the model, deploying it at scale with high throughput and uptime, and analyzing the results in the wild in order to continuously update and improve accuracy and speed
+	- Write and maintain scalable, performant and secure code that can be shared across platforms
+	- Meaningfully contribute to the product and core backend systems by suggesting and executing improvements
+	- Improve engineering standards, tooling, processes and security
+	- Develop novel, accurate, and performant ML algorithms for use at scale
+	- Conduct metric-driven research experiments to improve model performance
+	- Provide mentorship to and help onboard junior ML engineers
+	- Collaborate cross-functionally with other teams
+	- Utilize OWASP top 10 techniques to secure code from vulnerabilities
+	- Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+	- Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+	- Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+	- You have a Bachelor's Degree in computer science or a related field
+	- You have a minimum of 5 years of building production scale ML models
+	- You know the ins and outs modern machine learning frameworks, such as PyTorch or Tensorflow
+	- You are an expert in scripting languages such as Python and/or shell scripts, particularly for data analysis
+	- You have experience writing code and training across distributed systems
+	- You have an ability to understand and make well-reasoned tradeoffs in designing features
+	- You can lead end to end development of new products
+	- You are very knowledgeable in at least one focus area of machine learning, such as computer vision or NLP
+	- You strongly believe in high code quality, automated testing, and other engineering best practices
+	- You have attention to detail and a passion for correctness
+	- You are comfortable with ambiguity and scoping solutions with your teammates
+	- You have strong interpersonal and communication skills with a bias towards action
+	- The current expected base salary for this position ranges from $160,000 - $250,000.
++ skill set:
+	- Machine Learning Manager
+	- In order to execute our vision, we're constantly growing our machine learning team.  We are looking for an exceptional leader to help us with that growth, making sure that each engineer reaches their full potential.  We value hard workers who have no qualms working with terabyte-scale datasets. We’re interested in experimenting with new models, new ideas, and training on novel datasets. Our ideal candidate has experience managing a team of machine learning engineers working on ML projects of a massive scale, contributes innovative ideas and ingenious modeling improvement strategies to the team, and is capable of mentoring junior engineers through their journey to become better.
+	- Interface closely with product management, engineering, devops, labeling, and sales teams to build roadmap in supporting the long term vision of the team
+	- Lead a team of highly capable and passionate machine learning engineers, helping them achieve their goals through mentorship
+	- Participate in products technical design and architecture
+	- Participate in the full development cycle: data collection, labeling, model development, experimentation, training, testing, and deployment in production
+	- Drive delivery for our product milestones, continually releasing model with new well tested features and ensuring quality metrics are achieved
+	- Implement and manage security protocols such as training, code review, and best practices
+	- Own and manage the risk and security of your business function in coordination with the Security Team
+	- Maintain awareness of industry best practices for data maintenance handling as it relates to your role
+	- Adhere to policies, guidelines and procedures pertaining to the protection of information assets
+	- Report actual or suspected security and/or policy violations/breaches to an appropriate authority
+	- Undergraduate or graduate degree in computer science or similar technical field
+	- 4+ years experience as a machine learning engineer, with experience in training large deep learning models and working with real world data
+	- Knowledgeable in at least one focus area of machine learning, such as computer vision, audio, or NLP
+	- 2+ years experience managing machine learning teams
+	- You have an ability to understand and make well-reasoned tradeoffs in designing features
+	- Management skills: ability to set roadmap and goals for a team and its individual members, delegate, mentor, and deliver results
+	- Have a desire to interview engineers, collaborate with a recruiting team, and smoothly onboarding new team members
+	- Have experience collaborating with product managers and labeling team in delivering model improvements
+	- The current expected base salary for this position ranges from $180,000 - $250,000.
 + skill set:
 	- Manager, Machine Learning Research Engineer, Generative AI
 	- Scale's Generative AI Data Engine powers the most advanced LLMs and generative models in the world through world-class RLHF/RLAIF, data generation, model evaluation, safety, and alignment.
@@ -7940,6 +8370,34 @@ Machine learning -based frameworks for computer vision:
 
 Skill sets for computer vision:
 + skill set:
+	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize’s proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
+		* Portable, Power-efficient Vision Processing. OpenVX™ is an open, royalty-free standard for cross platform acceleration of computer vision applications.
+		* OpenVX is an open, royalty-free standard for cross-platform acceleration of computer vision applications. It is designed by the Khronos Group to facilitate portable, optimized and power-efficient processing of methods for vision algorithms. This is aimed for embedded and real-time programs within computer vision and related scenarios. It uses a connected graph representation of operations.
+	- OpenVX Built-in kernel Development: The driver team also implements kernels using OpenCL C++ and Assembly language. This involves understanding/tweaking image-processing/CV/CNN algorithms for implementation most suited to our h/w architecture.
+	- OpenVX Application Development: The driver team also designs and writes a lot of sample applications for unit testing as well as POC of the features implemented, bugs fixed and performance improved.
+	- Tool Development: The driver team also writes tools relevant to its development and testing. The tools are developed using scripting languages etc. python, ruby or other prototyping languages.
+	- Proficiency in C/C++, OOPS, STL, Data Structures & Algorithms, Background in Graphics/Computer-Vision/Image-processing, OpenGL/OpenCL/OpenCV/CUDA, Device Driver Architecture, GPU Architecture, OpenCL C++ programming, Assembly programming.Key Skills/Abilities:C/C++ (Must): Required for design, implementation, unit testing, debugging of the driver and application code. Candidates should be well-versed in OOPS, polymorphism, STL, templates, design patterns, memory management etc.
+	- Having worked in embedded software development would be beneficial.Graphics, OpenGL, OpenCL, CV, CUDA, OpenCL C++, Assembly (highly sought after): Required for understanding h/w architecture, s/w design and architecture; Also required for writing the OpenVX built-in kernels, coming up with kernel algorithms, optimizations for driver implementation etc.
+	- Python/Shell/Ruby scripting: Required for writing scripts for automating application/test generation and execution. Also useful for automating other operations like code analysis, golden output generation etc.OpenGL, OpenCL, OpenCV, Graphics, Assembly - Any experience is welcome.
+	- C, C++, Data Structures, Algorithms & Graphic Libraries
++ skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data through our unique visual database, ApertureDB. We are an angel and NSF grant backed, fast growing startup looking for a Computer Vision Systems Engineer because dealing with images and videos is challenging, particularly at scale. If you can easily tackle the likes of OpenCV and ffmpeg, dealing with large object caching excites you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* We are focused on making access to visual data simple and fast. That requires absorbing the comlexity of these data types within ApertureDB, therefore requiring certain qualifications
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand different image and video formats and encodings
+		* Experience working with OpenCV and FFMPEG libraries
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Data structure optimization techniques
+		* Valid work status in the US
+	- Additional qualifications
+		* It would be great if you already came to us with a few more tricks up your sleeve.
+		* Be comfortable with JSON, Python, Git, and Linux
+		* Other visual processing libraries
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Efficient algorithms for visual transformations
++ skill set:
 	- We are currently seeking a software engineer intern with strong Computer Vision, Graphics and Deep Learning fundamentals and solid implementation skills to contribute to the development of NVIDIA Maxine - a comprehensive suite of SDKs with state-of-the-art AI features for virtual collaboration and content creation.
 	- You will work alongside brilliant engineers on core technologies to solve challenging computer graphics, vision, and deep learning problems. You will work collaboratively with research and production teams on new groundbreaking approaches that transform the industry.
 	- Gain first-hand experience and grow your technical expertise in one or multiple areas of:
@@ -8299,8 +8757,12 @@ Topics for natural language processing, NLP:
 
 
 Libraries for natural language processing, NLP:
-+ spaCy, text processing
-+ Kaldi, speech recognition/processing and signal processing
++ Gensim, https://pypi.org/project/gensim/
++ ***Kaldi***, speech recognition/processing and signal processing
++ ***NLTK***, https://www.nltk.org/
++ ***spaCy***, text processing
+
+
 
 
 
@@ -8318,6 +8780,8 @@ Companies involved in natural language processing, NLP:
 
 
 Skills for natural language processing, NLP:
++ Publications in NeurIPS, ICASSP, INTERSPEECH, TASLP.
++ Publication record in top AI conferences (ACL, CVPR, NAACL, ICML, etc.) is a plus.
 + ***TensorRT, Deepstream Projects in video, speech, or NLP***
 + Experience with Natural Language Processing topics, such as:
 	- Topic Modeling
@@ -8337,6 +8801,15 @@ Skills for natural language processing, NLP:
 	- Python, Django, and/or Flask
 	- Linux and/or working with cloud services with AWS, Azure, etc..
 	- GitHub and Docker
++ Publications for NLP at:
+	- WWW
+	- RecSys
+	- SIGIR
+	- ICML
+	- AAAI
+	- ACL
+	- EMNLP
+	- CHI
 + skill set:
 	- experience with ML deployment frameworks
 	- work with highly imbalanced data sets to improve detection performance of our existing NLP models and algorithms
@@ -8345,6 +8818,53 @@ Skills for natural language processing, NLP:
 	- take full ownership of ML models, including:
 		* collecting training data
 		* evaluating and deploying models to production with ongoing quality monitoring
++ skill set:
+	- noise suppression, voice activity detection, and speacker recognition
+	- deep learning model optimization, such as quantization, neural architecture search, pruning
++ skill set:
+	- noise suppression, voice activity detection, and speacker recognition
+	- audio processing algorithms:
+		* acoustic noise cancellation
+		* noise suppression
+		* gain control
+		* de-reverberation
+		* microphone array processing
+	- linear adaptive filtering
+	- linear systems
+	- audio data analysis
++ skill set:
+	- This is an opportunity to join the innovation division of EON, a leader in the healthcare patient management space, and expand our Computational Linguistics and Machine Learning capabilities. You will work with our Data Science, Engineering and Product teams to develop product features based on Computational Linguistics and Machine Learning technologies, ensuring that these new features address customer needs.
+	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people’s lives.
+	- In this role, you will apply Computational Linguistics and Machine Learning to create systems that innovate healthcare products at scale. In addition to a world-class data set, you’ll also have access to domain experts for annotations to help drive investigation and learning.
+	- Proficiency in Python and SQL
+	- Experience in one or more of the following languages: C++, Java, C#
+	- Working knowledge of Unix commands and good security practices
+	- Experience using Machine Learning frameworks such as TensorFlow, Keras, PyTorch, scikit-learn
+	- Experience in developing and validating Computational Linguistics models
+	- Experience with spaCy is a huge plus
+	- Experience in constructing and executing queries to extract data for exploratory data analysis and model development
+	- Experience performing training/testing/validation dataset construction
+	- Experience with supervised and unsupervised Machine Learning techniques and methods
+	- Deep understanding of CL fundamental concepts and models, such as language modeling, word embeddings, topic modeling, text categorisation, information extraction, natural language understanding, transfer learning
+	- Familiarity with knowledge representation, automated knowledge acquisition, and reasoning
+	- Deep understanding and experience in applying ML algorithms, such as Logistic Regression, Decision Trees, SVM, Naive Bayes, kNN, Random Forests, Dimensionality Reduction Algorithms, K-means clustering, etc.
+	- Understanding and experience with Deep Learning algorithms
+	- Experience with AWS
+	- Experience with Elasticsearch
+	- Experience with graph databases, ideally Neo4j
+	- Solid knowledge of Data Structures and Algorithms, including algorithm complexity
+	- Experience with visualisation libraries such as Matplotlib, ggplot, etc.
+	- Problem-solving, debugging, troubleshooting, designing, and implementing solutions to complex technical issues
+	- Knowledge of advanced software engineering practices including Agile techniques
+	- Proven record of writing robust, clean, and understandable code
+	- Ability to take ownership of a task and ensure its successful completion
+	- Graduate degree (or equivalent experience) in Computer Science, Machine Learning or other quantitative fields
+	- 7+ years of experience in developing and implementation of quantitative models
+	- 3+ years of experience in managing people and projects
+	- Working experience in a healthcare environment, with a healthcare software vendor, or in a public health setting
+	- Expertise in Natural Language Processing (NLP) in the clinical or biomedical domain
+	- Experience in developing CL models using spaCy
+	- Experience in training custom spaCy models is a huge plus
 + skill set:
 	- build and operate high volume distributed systems
 	- design and build systems in a microservice-based architecture
@@ -8595,6 +9115,44 @@ Skills for natural language processing, NLP:
 
 
 
++ skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – AUDIO APPLICATION AND NLP
+	- Implementing novel deep neural network architectures and learning techniques to solve a variety of audio related tasks and push the state of the art in performance.
+	- Research and develop advanced audio applications including speech recognition, voice recognition, voice wakeup using state of art deep learning algorithms.
+	- Research and develop advanced audio signal processing algorithms including noise cancellation, localization, acoustic detection, acoustic fingerprinting.
+	- Analyze and optimize audio signal processing and deep learning algorithms on mobile/embedded devices, e.g., using hardware acceleration such as GPU/DSP.
+	- M.S. in Computer Science, Machine Learning, Electrical Engineering, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on audio signal processing.  
+	- Solid understanding and experience of applying deep learning to real problems in the fields of voice recognition, speech recognition, and other audio related applications.
+	- Holistic understanding of deep learning concepts, state of the art in audio processing research and the mathematics of machine learning. Familiar with CNN, RNN, LSTM.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with deep learning algorithm development and optimization.
+	- Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus.
+	- Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, is a strong plus.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###	Recommender Systems
 
@@ -8724,6 +9282,46 @@ Need to address:
 
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
++ skill set:
+	- MLOps, ML Flow
+	- protocol design using protobuf + grpc
++ skill set:
+	- buildout of serverless AI platform, using a combination of Python and AWS technologies, such as:
+		* Lambda
+		* Kinesis
+		* S3
+		* EC2
+		* Glue
+		* Batch
+		* EMR
+		* CloudFormation
++ skill set:
+	- AI/ML Application Framework Engineer
+	- Bringing up AI/ML model including ***model deployment*** and ***accuracy verification/tuning***.
+	- AI/ML model end to end performance analysis and tuning.
+	- Quantized ML model development and retraining.
+	- Deep learning application and flow implementation and integration.
+	- Working closely with Software and Hardware team members for performance exploring and tuning.
+	- 3+ years experience working in AI/ML model deployment, verification, tuning and quantization.
+	- 3+ proven years of experience in developing high quality production software in C/C++/Python.
+	- Experience in AI frameworks: ***Tensorflow/Tensorflow-Lite/Pytorch/Tensor-RT/CUDA***, etc.
++ skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data. We are an angel and NSF grant backed, fast growing startup looking for a Sr. Software Engineer with experience building large scale infrastructure and developing low level systems software. If you enjoy the idiosyncrasies of C++, big data systems excite you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* ***While you get the freedom to define direction and build castles on-ground for now, it comes with some requirements so we can build fast and stay focused.***
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand concurrency well
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Be comfortable with Linux, C++, and Python
+		* Valid work status in the US
+	- Additional qualifications
+		* Good tools make engineering more fun and the more you know about scaling, the faster you can help us scale our product
+		* Productivity, development, testing, and cluster management tools/frameworks/languages such as Gtest, git, Jupyter, shell scripting, OpenCV (to know how to handle some computer vision tasks), Kafka, Spark, Tensorflow/PyTorch/Caffe2, Docker, Kubernetes, Zookeeper, and just in general keep up with new technology to know when we should pay attention to something
+		* Practical implementation knowledge of CAP theorem, distributed systems programming
+		* Experience architecting a system to run as a service independent of the cloud vendor
+		* Knowledge of how to interact with distributed file systems
 + skill set:
 	- Work on cutting-edge MLOps with guidance from MIT PhDs who are prominent in ML research.
 	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
@@ -9562,6 +10160,86 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		* R
 	- SQL, JSON, and unstructured data
 	- Amazon Web Services ecosystem
++ You have familiarity with any query language like SQL, SPL etc.
++ Bonus: experience with Kubernetes, Terraform, AWS, Puppet.
++ Familiarity with Python, React, GraphQL, and MySQL or similar relational databases
++ Familiarity with Python, React, GraphQL and online storage systems such as MySQL or MyRocks
++ skill set:
+	- As a data scientist at Quora, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
+	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- Extract actionable insights from broad, open-ended questions
+	- Create, design, and evaluate experiments to measure the impact of product changes
+	- Analyze data from across the product to uncover the root causes of metric movements
+	- Communicate data-driven results to cross-functional stakeholders to inform product decisions
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Improve the work of other data scientists through mentorship and by bringing industry best practices to the team
+	- Ability to be available for meetings and impromptu communication during Quora's "coordination hours" (Mon-Fri: 9am-3pm Pacific Time).  Learn why here
+	- 5+ years work experience in an analytical or quantitative role as a Data Scientist or similar title
+	- 3+ years experience working on product analytics
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora user with curiosity about the product
++ skill set:
+	- Because Quora is such a data-driven company, our data scientists play a central role in the product development process by uncovering key insights from our data. As a data scientist, you'll work closely with engineers, product designers, and product managers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems. You'll also develop tools and infrastructure to scale and automate the analyses that enable rapid product iteration. Quora has a wide range of rich data, giving you ample room for exploration and creativity. We use a variety of tools -- primarily Python and SQL — to analyze data and communicate results with the rest of the company.
+	- While Quora's data scientists come from a variety of backgrounds, including statistics, computer science, economics, physics, mathematics, sociology, chemical engineering, and so on, we all share a love for data and continuous learning. Especially in your first role post-graduation, we realize that mentorship is important for professional growth and development. Every data scientist has a mentor and weekly 1:1s with their managers to get feedback and support for your career growth.
+	- To give you a taste of what data scientists at Quora do, here are some example projects:
+		* Analyze traffic patterns to similar questions and understand the metric implications of duplicate questions
+		* Forecast growth trajectory of Quora in different languages and identify growth bottlenecks and drivers
+		* Evaluate long term effects of a ranking algorithm change beyond short term metric gains as shown in experiments
+		* Devise metrics and build dashboards to measure the success of a new product feature or initiative
+		* Explain suspicious metric spikes as measured by dashboards and A/B tests
+		* Make trade-off and recommend product decisions when a key metric improves but another one drops in an A/B test
+	- Responsibilities:
+		* Extract actionable insights from broad, open-ended questions to influence product strategy and drive roadmap decisions
+		* Analyze data to understand the root causes of metric movements and uncover growth opportunities
+		* Design and evaluate A/B tests to make informed recommendations on product changes
+		* Develop metrics and create dashboards to orient the direction of product development and track the success of the product
+	- Minimum Qualifications:
+		* B.S., M.S., or Ph.D. in a scientific or quantitative field
+		* Proficiency in using SQL and procedural programming languages (e.g. Python, R) to manipulate and analyze data
+		* Rigorous coursework in statistical techniques (e.g. hypothesis testing, regression)
+		* Relevant past internship or research experience working with large data sets and experiments
+		* Demonstrated ability to exercise judgment and combine quantitative skills with product judgment to translate numbers into insights
+		* Demonstrated ability to clearly explain data results to cross-functional teams
+	- Preferred Qualifications:
+		* Experience in working with large data sets and distributed computing tools (Hive, Redshift)
+		* Experience pushing code and navigating a complex codebase
+		* Active Quora user with curiosity about the product
++ skill set:
+	- Because Quora is such a data-driven company, our data scientists play a central role in the product development process by uncovering key insights from our data. As a data scientist, you'll work closely with engineers, product designers, and product managers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems. You'll also develop tools and infrastructure to scale and automate the analyses that enable rapid product iteration. Quora has a wide range of rich data, giving you ample room for exploration and creativity. We use a variety of tools -- primarily Python and SQL--to analyze data and communicate results with the rest of the company.
+	- A Quora internship is not an ordinary internship. There is no busy work. Every project that our interns work on is important to the company and its goals. As a team, we are dedicated to holding high standards, developing a strong and passionate culture, and emphasizing impact. Interns play an important role in this, as they work alongside full-time employees as equals, working on the same projects that help drive the company and product forward. We expect interns to become valuable contributors to the team, as they work hand-in-hand with people ranging from engineering to design to business development.
+	- We also realize that mentorship is important to allow interns to grow and develop skills in areas which they're looking to improve. Every intern will have a full-time data scientist as a mentor and weekly 1:1s with their managers to get feedback and ensure things are going well.
+	- To give you a taste of what interns can do at Quora, here are some projects that data science interns have worked on in the past:
+		* Analyze external traffic patterns over time to better understand how changes in outside products cause increases or decreases in visits to Quora
+		* Study the usage differences between the English and Spanish Quora products to understand how various mechanics of Quora translate across different languages
+		* Develop methodology and prototype features in our internal experimentation platform to identify and capture novelty effects in experiments
+		* Investigate the effect of how “satisfying” a question page is on user engagement and clickthrough patterns through the rest of the product
+		* Understand effects of positional bias on home feed ranking to identify opportunities to improve ranking and feed engagement
+		* Improve the accuracy of a user engagement prediction model and understand what factors are important in determining new users' long term usage.
+		* Build a recommender system to suggest Quora topics to a user based on provided interests
+		* Evaluate statistical properties of various methods used to determine significance in ratio metrics, considering coverage, power, and feasibility
+		* Create dashboards and perform ad-hoc analyses to monitor and understand important product metrics
+	- Responsibilities:
+		* Extract actionable insights from broad, open-ended questions to influence product strategy and drive roadmap decisions
+		* Analyze data to understand the root causes of metric movements and uncover growth opportunities
+		* Design and evaluate A/B tests to make informed recommendations on product changes
+		* Develop metrics and create dashboards to orient the direction of product development and track the success of the product
+	- Minimum Qualifications:
+		* Third year undergraduate student or final year master or Ph.D. in a scientific or quantitative field
+		* Proficiency in using SQL and procedural programming languages (e.g. Python, R) to manipulate and analyze data
+		* Rigorous coursework in statistical techniques (e.g. hypothesis testing, regression)
+		* Demonstrated ability to exercise judgment and combine quantitative skills with product judgment to translate numbers into insights
+		* Demonstrated ability to clearly explain data results to cross-functional teams
+	- Preferred Qualifications:
+		* Relevant past internship or research experience working with large data sets and experiments
+		* Experience in working with large data sets and distributed computing tools (Hive, Redshift)
+		* Experience pushing code and navigating a complex codebase
+		* Active Quora user with curiosity about the product
 + skill set:
 	- project management skills to:
 		* manage complexity
@@ -10523,6 +11201,51 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
++ skill set:
+	- Our vision is to transform how the world uses information to enrich life. Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+	- As a Data Science Engineer at Micron, you will employ techniques and theories drawn from areas of mathematics, statistics, semiconductor physics, materials science, and information technology to uncover patterns in data from which predictive models, actionable insights, and solutions can be developed.
+	- You will interact with experienced Data Scientists, Data Engineers, Business Areas Engineers, and UX teams to identify questions and issues for data analysis projects and improvement of existing tools. In this position, you will help develop software programs, algorithms and/or automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources. There will be significant opportunities to perform exploratory and new solution development activities.
+	- Strong desire to grow a career as a Data Scientist in highly automated industrial manufacturing doing analysis and machine learning on terabytes and petabytes of diverse datasets.
+	- Experience in the areas: statistical modeling, feature extraction and analysis, supervised/unsupervised/semi-supervised learning. Exposure to the semiconductor industry is a plus but not a requirement.
+	- Ability to extract data from different databases via SQL and other query languages and applying data cleansing, outlier identification, and missing data techniques.
+	- Strong software development skills.
+	- Strong verbal and written communication skills.
+	- Experience with or desire to learn:
+		* Machine learning and other advanced analytical methods
+		* Fluency in Python and/or R
+		* pySpark and/or SparkR and/or SparklyR
+		* Hadoop (Hive, Spark, HBase)
+		* Teradata and/or another SQL databases
+		* Tensorflow, and/or other statistical software including scripting capability for automating analyses
+		* SSIS, ETL
+		* Javascript, AngularJS 2.0, Tableau
+		* Experience working with time-series data, images, semi-supervised learning, and data with frequently changing distributions is a plus
+		* Experience working with Manufacturing Execution Systems (MES) is a plus
+		* Existing papers from CVPR, NIPS, ICML, KDD, and other key conferences are plus, but this is not a research position
+		* Masters or PhD and several years of industry experience majoring in Engineering, Mathematics, Computer Science, Data Science, Physics, or equivalent
+		* Semiconductor industry experience and/or knowledge preferred
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###	Data Science for Computational Science and Computational Engineering (except EDA)
 
@@ -10678,6 +11401,45 @@ They support databases for:
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
 + ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
++ Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
++ Have a thirst for technical challenges with big data and distributed systems, including HBase, Kafka, Elasticsearch and Dropwizard
++ Kylin, Elastic Search, Druid
+	- Kylin
+		* Apache Kylin is an open source distributed analytics engine designed to provide a SQL interface and multi-dimensional analysis on Hadoop and Alluxio supporting extremely large datasets.
+		* Apache Kylin™ is an open source, distributed Analytical Data Warehouse for Big Data; it was designed to provide OLAP (Online Analytical Processing) capability in the big data era. By renovating the multi-dimensional cube and precalculation technology on Hadoop and Spark, Kylin is able to achieve near constant query speed regardless of the ever-growing data volume. Reducing query latency from minutes to sub-second, Kylin brings online analytics back to big data.
+		* Apache Kylin is a distributed open source online analytics processing (OLAP) engine for interactive analytics Big Data. Apache Kylin has been designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark.
+	- Elastic Search
+		* Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.
+		* Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
+		* Elasticsearch is a distributed search and analytics engine built on Apache Lucene.
+	- Druid
+		* Apache Druid
+		* Druid is a column-oriented, open-source, distributed data store written in Java. Druid is designed to quickly ingest massive quantities of event data, and provide low-latency queries on top of the data. The name Druid comes from the shapeshifting Druid class in many role-playing games, to reflect that the architecture of the system can shift to solve different types of data problems.
++ Splunk is looking for a Software Engineer to join the Data Federation engineering team and have a large impact on a team responsible for building ***Federated Search*** capabilities
++ skill set:
+	- managed, maintained, and monitored systems, using:
+		* Amazon Web Services
+		* Datadog
+		* Postgres
+		* Redis
+		* Memcached
+		* Elasticsearch
++ skill set:
+	- Joining us as a Data Engineer, you'll play a key role in one of the aspects of developing software/tech for best in class road features, navigation, and high definition maps. You'll bring your experience and skills to our exciting project within a competent, cross-functional, passionate and self-organized team.
+	- Take ownership, improve, scale and iterate on existing data processing pipelines
+	- Design and implement new data processing pipelines;
+	- Collect and monitor performance metrics;
+	- Play a central role in discussing and implementing security best practices.
+	- Good knowledge of at least one programming language (Python, Scala, Java);
+	- Comfortable with SQL, good understanding of SQL engine basics;
+	- Proficient understanding of distributed computing principles;
+	- Hands-on experience with Spark / PySpark;
+	- Experience with Hadoop (or similar) Ecosystem;
+	- Experience with workflow management tools (Airflow, Oozie, Luigi);
+	- Experience with AWS services, in particular S3, EC2, IAM, EMR, Glue, Athena, Kinesis;
+	- Creative, resourceful and innovative problem solver;
+	- Excellent team player with the ability to work within a collaborative environment;
+	- Good communication skills in English, both written and spoken.
 + skill set for data engineering:
 	- work with Scala-based core science and data platform
 	- consumer-facing product layer in java and React
@@ -11428,8 +12190,17 @@ DataOps leadership principles:
 
 ####	Skill Sets about DataOps
 
+
+
 Skill sets for DataOps:
 + Demonstrated track record working with data warehouse concepts.
++ skill set:
+	- Familiarity in data storage (e.g. MySQL, MyRocks, HBase, Memcached, Redis, etc), traffic handling (e.g. DNS, CDN, load balancing, etc) or infrastructure orchestration (Ansible, terraform, docker, Kubernetes, etc)
+	- Familiarity with AWS services (e.g. EC2, S3) or other public cloud services.
+	- Operational experience in database systems e.g. MySQL, Memcache, Redis and NoSQL systems
+	- Operational experience with Linux operating system internals, filesystems, disk/storage technologies and networking
+	- Experience with scripting languages (e.g. shell script)
+	- Experience with capacity planning for web scale systems
 + skill set:
 	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
 	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage

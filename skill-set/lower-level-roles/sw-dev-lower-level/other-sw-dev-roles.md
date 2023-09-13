@@ -495,8 +495,22 @@ Skills related to software development for enterprise search engines:
 + Proficiency in C#.net or Python/Selenium for automation development.
 + Experience with RxJS or other event-based/observer framework
 	- RxJS is a library for composing asynchronous and event-based programs by using observable sequences
-
-
++ skill set:
+	- developing internal tooling and systems that help daily work of our Dev teams, on top of Cloud services, Kubernetes, Terraform
+	- Experience with CI frameworks such as Github Actions
+	- Working experience with production-ready Kubernetes cluster administration
+	- Working experience with AWS (EC2, RDS, S3, Networking)
+	- Experience with Arduino or other microcontrollers
+	- Experience with additional AWS services like: Kinesis, DynamoDB, EKS, Lambda
+	- Experience with Google Cloud Platform
+	- Expertise with the Go (Golang) or Python programming language
+	- Experience managing High Availability clusters
+	- Working knowledge of Auth0, Cloudflare
+	- Knowledge of TCP/IP networking, and network services such as DNS, SMTP, etc.
+	- Previous experience in remote teams
++ skill set:
+	- 5+ years of experience in developing production software.
+	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
 
 
 

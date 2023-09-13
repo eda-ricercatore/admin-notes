@@ -548,6 +548,39 @@ List(s) of companies in the semiconductor industry:
 	- Experience in communication protocols (e.g. PCIe)
 	- Experience interfacing with memory systems (e.g. HBM/DDR5)
 + skill set:
+	- Blaize leads new-generation computing unleashing the potential of AI to enable leaps in the value technology delivers to improve the way we all work and live. Blaize offers transformative edge computing solutions for AI data collection and processing at the edge of network, with a focus on smart vision applications including automobility, retail, security, industrial, and metro. Blaize is funded by strategic and venture investors DENSO, Daimler, SPARX Group, Magna, Samsung Catalyst Fund, Temasek, GGV Capital, Wavemaker, and SGInnovate. With headquarters in El Dorado Hills (CA), Blaize has teams in Campbell (CA), Cary (NC), and subsidiaries in Hyderabad (India), Manila (Philippines), and Leeds and Kings Langley (UK), with 300+ employees worldwide. www.blaize.com
+	- BE/BTech/ME/MTech in Computer Science or Electronics or Electrical 
+	- 5+ years of experience
+	- Experience of multi-million gate ASIC design and verification methodologies
+	- Knowledge of Computer architecture
+	- Knowledge of digital design methodologies and tool flow
+	- Excellent logic design, debugging and problem-solving skills
+	- Experience in logic design with Verilog and/or System Verilog and validation/verification
+	- Experience in synthesis and timing analysis
+	- Experience in Multi-clock domain, Interconnects, Algorithm to Architecture
+	- Experience working on Low power design.
+	- Knowledge on Memory subsystem
+	- Experience with DSP, Datapath design and floating-point math a plus
+	- Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
++ skill set:
+	- Capability to understand a given block specification and come up with Micro Architecture
+	- Capability to derive an architecture and micro architecture based on a given algorithm
+	- Knowledge in digital logic for HW safety/protection – ECC, Parity, WDT etc.
+	- Experience of multi-million gate ASIC design and verification methodologies
+	- Knowledge of Computer architecture
+	- Experience in AMBA AXI, AHB, and APB protocols
+	- Expertise in System on Chips.
+	- Knowledge of digital design methodologies and tool flow
+	- Excellent logic design, debugging and problem-solving skills.
+	- Experience in logic design with Verilog and/or System Verilog and validation/verification
+	- Experience in lint checks, area optimization, power optimization, GLS, synthesis and timing analysis
+	- Experience in Multi-clock domain, Interconnects
+	- Knowledge on Memory subsystem
+	- Knowledge in Automotive ISO 26262 Functional Safety Standard is a plus.
+	- Experience with DSP, Datapath design and floating-point math a plus
+	- Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
+	- Understanding of GPU/AI/ML Processor architecture
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -798,40 +831,12 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
-###	Skills for VLSI Design for Wireless and Wired Communication ICs
+###	Skills for VLSI Design for Wireless Communication ICs
 
 
 
-+ Bus interface knowledge like AXI or PCIE
-+ Knowledge of high-speed protocols such as PCI Express, CXL, DDR and HBM, Ethernet, USB, and MIPI
-+ Possess a full understanding of PCIe or USB/DP design and design verification.
-+ Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
-+ skill set:
-	- Understand Standard Specifications/ the functional specifications/ feature enhancements for the product and create micro-architecture and detailed design for some of the components of the Test Environment for the DesignWare family of synthesizable cores in protocol areas such as Ethernet/DSC/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/DDR/PCIe/ USB/ MIPI
-	- Verification of IP Cores or SoC Designs for Set Top Boxes, Mobile handsets, Smart Devices, etc.
-	- Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
-	- Hands on experience with creating detailed design of components of Test Environment from Functional Specifications/ Test Environment Specifications. The TE must have used methodologies such as UVM, OVM
-+ skill set:
-	- knowledge of:
-		* AXI
-		* AHB
-		* APB
-		* Wishbone
-	- knowledge of comunication interfaces:
-		* UART
-		* I2C
-		* SPI
-		* TileLink
-	- knowledge of fast comunication interfaces:
-		* PCI
-		* PCIe / PCI Expresss
-		* USB
-		* ChipLink
-	- SoC FPGA:
-		* Xilinx Zynq
-		* Xilinx UltraScale+ MPSoC
-		* Intel SoC FPGA
-		* Microsemi SmartFusion
+
+
 + skill set:
 	- Associate Staff Engineer- Modem Design
 	- 
@@ -893,6 +898,91 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+###	Skills for VLSI Design for Wired Communication ICs
+
+
+
+
++ Bus interface knowledge like AXI or PCIE
++ Familiar with AMBA/AXI bus protocol
++ Knowledge of high-speed protocols such as PCI Express, CXL, DDR and HBM, Ethernet, USB, and MIPI
++ Possess a full understanding of PCIe or USB/DP design and design verification.
++ Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
++ skill set:
+	- knowledge of AXI, AHB, APB, Wishbone is recommended
+	- knowledge of communication interfaces such as UART, I2C, SPI, TileLink etc.
+	- knowledge of fast communication interfaces such as PCI, PCIE, USB, ChipLink, etc.
+	- understanding of SoC FPGA (eg. Xilinx Zynq, Xilinx UltraScale+ MPSoC, Intel SoC FPGA , Microsemi SmartFusion)
++ skill set:
+	- Understand Standard Specifications/ the functional specifications/ feature enhancements for the product and create micro-architecture and detailed design for some of the components of the Test Environment for the DesignWare family of synthesizable cores in protocol areas such as Ethernet/DSC/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/DDR/PCIe/ USB/ MIPI
+	- Verification of IP Cores or SoC Designs for Set Top Boxes, Mobile handsets, Smart Devices, etc.
+	- Knowledge of one or more of protocols: Ethernet/AMBA (AMBA2, AXI, CHI)/ SD/eMMC/USB/ DDR/PCIe MIPI/DSC. Knowledge of Ethernet protocol will be plus.
+	- Hands on experience with creating detailed design of components of Test Environment from Functional Specifications/ Test Environment Specifications. The TE must have used methodologies such as UVM, OVM
++ skill set:
+	- knowledge of:
+		* AXI
+		* AHB
+		* APB
+		* Wishbone
+	- knowledge of comunication interfaces:
+		* UART
+		* I2C
+		* SPI
+		* TileLink
+	- knowledge of fast comunication interfaces:
+		* PCI
+		* PCIe / PCI Expresss
+		* USB
+		* ChipLink
+	- SoC FPGA:
+		* Xilinx Zynq
+		* Xilinx UltraScale+ MPSoC
+		* Intel SoC FPGA
+		* Microsemi SmartFusion
++ Working knowledge of AXI, AHB, PCIe, CXL, Ethernet, DDR, or HBM
+	- CXL: Compute Express Link is an open standard for high-speed, high capacity central processing unit-to-device and CPU-to-memory connections, designed for high performance data center computers.
+	- The Advanced eXtensible Interface (AXI) is an on-chip communication bus protocol and is part of the Advanced Microcontroller Bus Architecture specification (AMBA).
+	- AHB: Advanced High-performance Bus
+	- The Arm Advanced Microcontroller Bus Architecture (AMBA) is an open-standard, on-chip interconnect specification for the connection and management of functional blocks in system-on-a-chip (SoC) designs.
++ skill set:
+	- Experience with modelling languages such as GEM5 and/or high level synthesis tools such as Synopsys ASIP designer or Mentor Catapult would be a positive addition
+		***This is a poor description of desired skills. Red Flag, or at least a Yellow Flag***
+	- Experience of low power embedded CPU pipeline development; experience of AHB and  AXI interconnects
++ skill set:
+	- Create RTL prototypes of the processor units in Codasip Studio (memory, cache, TCM, OCD, trace, etc.)
+	- Work with AMBA buses (AHB, AXI, ACE)
+	- Participate in the development of our commercial processor cores
+	- Revise internal processors´ prototypes in the CodAL language
+	- Extend on-chip debugger according to RISC-V Debug/Nexus /JTAG specification
+	- Synthesize RTL code, analyze results, optimize 
+	- Work with tools for RTL code verification
+	- Optimize and reduce energy consumption (low power)
+	- 2 years of experience (university internship in IT/electro fields could be a good background as well)
+	- Advanced knowledge of at least one HDL language (VHDL/Verilog/SystemVerilog)
+	- Active usage of HW synthesis tools for ASIC/FPGA (e.g.Xilinx ISE, Xilinx Vivado, Synopsys DC, Cadence RC/Genus)
+	- Experience in HW design debugging (using a logic analyzer, ChipScope, JTAG, etc.)
+	- Analytical thinking, self-sufficiency, and openness to team collaboration
+	- At least passive knowledge of English
+	- Familiarity with the area of computer systems and architectures
+	- Knowledge of versioning tools (Git, SVN)
+	- Experience with microcontroller programming (e.g. AVR/PIC/ARM/..., JTAG, OpenOCD)
+	- Knowledge of C++
+	- Experience with HW verification
+	- Knowledge of scripting languages (Python, Tcl)
+
+
+
 
 
 
@@ -1093,6 +1183,24 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 	- Interested in learning how to use FPGAs in the context of networking
 	- Fluency in English required
 	- Base salary is $250,000.
++ skill set for SENIOR LEVEL FPGA/DSP DEVELOPER
+	- Develop FPGA implementation of Neural-network Processing Unit (NPU) for functional demonstration, digital front-end design verification and debugging purposes
+	- Develop testbench for FPGA NPU hardware, DSP hardware, compiler, and firmware interfaces
+	- Design, implement, test, integrate heterogeneous computing sub-subsystems with co-existence environment of NPU accelerator and Digital-Signal-Processor(DSP)
+	- Test and verify multiple input data path on FPGA/DSP platform, including video stream input from cameras, and audio stream input from microphones
+	- Perform multiple application-level neural-network models on FPGA/DSP platform, such as face detection/recognition, gesture detection/recognition, voice recognition, human body/position detection. demonstration etc.
+	- Co-work with firmware, compiler, and model training team to optimize NPU/DSP hardware performance
+	- Experience of FPGA and Verilog development
+	- Experience of Software and driver development on SoC FPGA environment
+	- RTL block-level and system-level debugging experience
+	- Minimum 3 years industry experience with Master’s Degree in Electrical/Computer Engineering field
+	- Ability to work independently with little or no supervision under tight schedules;
+	- Ability to quickly learn new technologies
+	- Strong communication skills, including verbal, presentation, and documentation
+	- Knowledge of ARM architecture and firmware programming
+	- Experience of Xilinx Zynq platform;
+	- Experience of computer vision and audio signal processing 
+	- Location: San Diego, CA.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1139,6 +1247,29 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1157,6 +1288,8 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 
 
 
+
++ Constraint creation/development for IP (Processor, SPI, USB, I2C, I2S, Ethernet, DDR, Asynchronous Interface) and SoC (Clock Definition and Properties, Clock and Data Path Exceptions)
 + skill set:
 	- Architecture of Tenstorrent's IP blocks including aggressive optimization for performance, power as well as area
 	- Implementation of Tenstorrent IP and SOC RTL logic in Verilog
@@ -1222,6 +1355,81 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 
 
 
+###	Sets of Skills in VLSI System Design for Quantum Computing
+
+
+
++ skill set:
+	- Develop Verilog RTL code based on design specification
+	- Write test-bench for RTL verification in Verilog and System Verilog
+	- Design validation in FPGA and Silicon
+	- Develop compact, low-power digital blocks for (1) Quantum Control ASIC (2) high-speed memory controller for arbitrary waveform generator and (3) Quantum Error Correction accelerator using Surface Code.
+	- Perform logic synthesis, research power and performance trade-offs, and perform digital design back-end floor planning, clock-tree synthesis, timing closure and post-layout simulation of various digital and mixed-signal blocks/systems.
+	- Work with a cross-functional engineering team to perform algorithm/firmware/hardware co-design & co-optimization to achieve trade-offs among performance, cost and power.
+	- Perform hands-on innovative measurements of electrical components, hardware, and cryogenic systems
+	- Manage project documentation, test-board designs and laboratory testing
+	- Publish in top-tier conferences and journals in the area of Solid-state circuits, circuits and systems and quantum engineering.
+	- PhD in Electrical Engineering, Computer Engineering, or related field
+	- Minimum 2-4 years of experience
+	- Strong background and experience in digital back-end flow.
+	- Good experience in algorithm-circuit co-optimization
+	- Strong expertise in low power MCU and digital circuit design.
+	- Knowledge of readout integrated circuits for radiation sensors, including signal processing, signal filtering, signal conversion, data transmission, high speed electronics
+	- Strong team work ethic and good interpersonal skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Sets of Skills in VLSI System Design for Digital Signal Processing, Image Processing, Computer Graphics, and/or Video Processing
+
+
+
+
++ skill set:
+	- Work as system level architect for software architecture and software design.
+	- Collaborate with SoC design team, IP providers, and 3rd party software partners to define software requirements, architectures, and interfaces.
+	- Provide insightful recommendations for the directions and roadmaps of technologies & software products.
+	- MS degree or PhD in CS, EE, or other related engineering majors with 10+ years of experience.
+	- Semi-conductor industry background with in-depth knowledge of ARM architecture, heterogeneous CPU, and multi-core communications.
+	- Experience leading team developing large-scale SDK or application software for complex SoC.
+	- Expertise in video, audio, DSP, firmware, and embedded system.
+	- Experience in V4L2, ALSA, OpenMax, G-Streamer, or FFMPEG, etc.
+	- Knowledge of deep learning framework such as Tensorflow, Caffe, etc.
+	- knowledge of object detection systems (YOLO) and object recognitions (FaceNet).
+	- Strong experience in software architecture, design, and design methodology such as UML.
+	- Strong expertise in embedded Linux, device drivers, C programming.
+	- Fluent in English is a-must (reading, writing, AND speaking). 
+	- Background in video codec (H.264/H.265), audio codec and speech DSP processing
+	- Knowledge of Open CV, or embedded computer vison (OpenVX), and ISP, etc.
++ skill set:
+	- Solid Exeprience in image processing pipeline algorithm for video and still camera applications, including Bad Pixel Correction, Demosaicing, Denoise, Edge Enhancement etc.
+	- Knowledge and experience in ISP new features, including HDR, RGBW/RGBIR, or related
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1262,10 +1470,21 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 
 
 
+
+
+
+
+
+
+
+
+
 ##	Skills Sets for Mixed-Signal IC Design
 
 
+
 Skill sets for mixed-signal IC design:
++ Developing, implementing and delivering digital and mixed signal IP and test chips across a broad range of process nodes from low geometry FinFET to more specialist processes.
 + Digital/Mixed Signal HW Design Engineer · Keysight Technologies · United States
 	- As a Digital/Mixed Signal HW Design Engineer in product R&D, you will play a key role in defining and developing Signal Source products, and you will have the opportunity to directly contribute to the success of Keysight. You will work with engineers from diverse areas of expertise to create complete solutions for our customers. The product R&D team is made up of electrical, mechanical, FPGA, firmware, and software engineers, who all work together with our planning and marketing departments to transform designs into final products.
 	- In this position you will be designing, laying out, turning, testing, and troubleshooting hardware. You will work with simulation tools and design tools to implement your ideas, then test and troubleshoot the hardware using state of the art test and measurement equipment. As the leader in test and measurement, all our designs leverage cutting edge technology to make the best possible products for our customers.
@@ -1385,6 +1604,20 @@ Skill sets for mixed-signal IC design:
 	- Familiarity with object-oriented programming concepts is a plus
 	- Well organized with excellent communication skills; ability to operate without direct supervision and collaborate efficiently with other team members
 	- BS/MS in Electrical Engineering or Computer Science + 2-6 years' experience
++ skill set:
+	- Interface between semiconductor foundries and internal design team.
+	- PDKs installation, libraries setup and IP control.
+	- Provide day to day tools troubleshooting and technical support to IC design and Tapeout activities.
+	- Bachelor / Master Degree in E.E. Engineering, Microelectronics, Computer or equivalent.
+	- Candidate should have basic IC design knowledge
+	- Familiarity with PDK component including TECHLIB/DRC/LVS/PEX/Device Library is an added value.
+	- Conversant in several of the following areas:
+	- EDA tools (Cadence, Mentors etc.) such as design simulation, physical design and verification.
+	- Scripting knowledge in SHELL, PERL, TCL, SKILL, Python would be an advantage.
+	- Linux/Unix environment.
+	- Exposure to various semiconductor process technologies
+	- Good interpersonal skill, tactful, resourceful, possess initiative.
+	- Strong written and oral communications.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1521,7 +1754,16 @@ Skills for Physical Design Engineers (in the context of VLSI CAD):
 	- IR/EM analys
 	- DFT knowledge is a plus
 	- Excellent communication with internal team and customers
-
++ skill set:
+	- Develop compact, low-power digital blocks such as Memory, Router, Controller, Scheduler, PE, AES, FFT, etc which are frequency used in various complex computing architecture such as In-memory computing, Deep Learning Hardware and Neuromorphic computing
+	- Responsible for back-end floor planning, clock-tree synthesis, timing closure and post-layout simulation of various digital and mixed-signal blocks/systems.
+	- Work with a cross-functional engineering team to perform algorithm/firmware/hardware co-design & co-optimization to achieve trade-offs among performance, cost and power, for various Artificial Intelligence (AI) related platform development, especially analog computing.
+	- Perform simulation and verification of the corresponding circuit/blocks.
+	- PhD in Electrical Engineering, Computer Engineering, or related field
+	- Strong expertise in low power digital circuit design.
+	- Strong background and experience in digital back-end flow.
+	- Solid background in memory design, memory layout and memory testing
+	- Strong team work ethic and good interpersonal skills
 
 
 

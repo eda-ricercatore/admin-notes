@@ -512,6 +512,21 @@ Emerging technologies that would be interesting application domains of computati
 	- Experience in implementing direct and iterative solvers for the solution of large sparse linear systems
 	- Experience with CUDA or OpenACC
 + skill set:
+	- Katana Graph is an enterprise graph computing system and storage engine. Our technology is the world’s fastest graph processing engine, providing compelling scalability and programmability advantages... Building on decades of experience in developing state-of-the-art distributed systems, Katana Graph is bringing together experts in hardware acceleration, cloud computing, storage systems, and high-performance computing to help create the platform of the future for data processing and analysis in this new world of specialized hardware and revitalized algorithms... Katana Graph recently completed a $28.5 million Series A financing round led by Intel Capital with participation from existing and new investors including WRVI Capital, Nepenthe Capital, Dell Technologies Capital, and Redline Capital.
+	- Are you a talented software engineer that is interested in developing solutions for difficult problems? Do you love to code and be actively engaged in the work you do?
+	- Roles:
+		* Graph Engine GPU - Software Engineer
+		* Graph Query Engine - Software Engineer
+		* Graph Transaction Engine - Software Engineer
+		* Evolving Graph Engine - Software Engineer
+		* Graph Storage Engine - Software Engineer
+	- Successful engineers at Katana Graph are familiar with GRAPH ALGORITHMS, comfortable working in C/C++, and are proficient PARALLEL PROGRAMMERS, in addition to experience in one of the following areas::
+		* Compiler, runtime or query engine development
+		* Relational and/or graph databases
+		* Distributed systems and/or high-performance computing
+		* CUDA or OpenCL
+		* Python
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -609,7 +624,7 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
-##	Notes for Computational Optimization
+###	Notes for Computational Optimization
 
 
 + https://en.wikipedia.org/wiki/Multi-objective_optimization
@@ -658,7 +673,7 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
-##	Skill Sets for Computational Optimization
+###	Skill Sets for Computational Optimization
 
 
 + advanced optimization algorithms:
@@ -787,6 +802,95 @@ Emerging technologies that would be interesting application domains of computati
 
 + **Expertise and experience in Revit, Dynamo and/or other Revit scripting languages**... Strong background in computational design and design analysis... Fluency in a technical programming language (python, javascript, C#) is highly desired.
 	- Autodesk Revit, for building information modeling
++ skill set:
+	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring advanced mobility technology to market faster.
+		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
+	- TRI’s Machine Assisted Cognition (MAC) team is developing AI systems to augment (not replace) human decision making. In particular, MAC is advancing the intersection between behavioral science, machine learning, human-computer interaction, and causal inference to enhance human decision making. MAC will achieve this through simultaneously:
+		* 1) Conducting experiments on the mechanisms underlying decision making to build predictive models of human behavior, and
+		* 2) Conducting research on understanding those decisions, including new ways to engage and interact with those models, and investigating the nature of understanding information uncovered in our models.
+	- Responsibilities:
+		* Collaborate cross-functionally with specialists in multiple fields, as well as university partners to research and develop novel ways to demonstrate AI to augment human decision making. Some potential research and development areas may include:
+		* Increasing quality of predictions, judgments, and decisions by creating new behavioral insights and computational models
+		* Speeding up predictions, judgments, and decisions
+		* Scaling up to more complex cognitive tasks and larger groups while countering the tendency of groups to be risk-averse.
+		* Insights or tooling into how people can better understand human decision making (driven by models) and explainable AI (XAI)
+		* Applying machine learning or reinforcement learning to model human behavioral data in ways consistent with human cognition
+		* Conduct groundbreaking research at the intersection of behavioral science, AI, HCI as it relates to decision making resulting in peer-reviewed publications and/or patents
+		* Co-define research projects and inform the strategy behind the research agenda of the Machine Assisted Cognition team
+	- Qualifications:
+		* Degree in Psychology, Behavioral Economics, Computer Science, Engineering, Information Sciences, or equivalent. Ph.D. preferred.
+		* Experience in interdisciplinary research in these areas
+		* Strong research background, including top-tier peer-reviewed publications.
+		* Experience in use-inspired basic research and/or applying academic research in an industry setting
+		* Strong interpersonal skills. Great teammate.
+		* Appetite to learn across functions.
+		* Ability to lead cross-functional projects.
+	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
++ skill set:
+	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring advanced mobility technology to market faster.
+		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
+	- TRI’s Machine Assisted Cognition team is developing AI systems to augment (not replace) human decision making. In particular, we are interested in advancing the intersection between behavioral science, machine learning and causal inference to increase the quality of human decisions (e.g. mitigate cognitive biases) and / or to facilitate faster innovation cycles. We are looking for a Staff Behavioral Scientist to join this exciting new endeavor to collaborate cross-functionally with software engineers, machine learning and causal inference experts, designers and user researchers. 
+	- Responsibilities:
+		* Collaborate cross-functionally with software engineers, machine learning and causal inference experts, designers, user researchers and university partners to develop and build novel AIs to augment human decision making. Some potential research and development areas may include:
+		* Increasing quality of predictions, judgments, and decisions by (a) reducing/neutralizing cognitive biases, (b) ensuring fitness, (c) ensuring ethics
+		* Speeding up predictions, judgments, and decisions
+		* Scaling up to more complex cognitive tasks and larger groups while countering the tendency of groups to be risk-averse.
+		* Co-define the vision and strategy of the branch of the behavioral science of the machine-assisted cognition team with the organization's Sr. Director. 
+	- Qualifications:
+		* Degree in Psychology, Behavioral Economics or equivalent. PhD preferred.
+		* Experience applying behavioral science principles in an industry setting.
+		* Advanced knowledge of statistics, preferably passionate about causality.
+		* Strong interpersonal skills. Great teammate.
+		* Appetite to learn across functions.
+		* Production-level coding and machine learning capabilities is a plus.
+		* Ability to lead cross-functional projects
+	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
++ skill set:
+	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
+		* Bring advanced mobility technology to market faster.
+		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
+	- TRI’s Machine Assisted Cognition team is developing AI systems to augment (not replace) human decision making. In particular, we are interested in advancing the intersection between machine learning, causal inference, and behavioral science to increase the quality of human decisions and / or to facilitate faster innovation cycles. We are looking for a Senior or Staff Machine Learning Engineer / Data Scientist to join this exciting new endeavor to collaborate cross-functionally with machine learning and causal inference experts, behavioral scientists, designers, and user researchers. 
+	- Responsibilities:
+		* Collaborate cross-functionally with machine learning and causal inference experts, designers, behavioral scientists, user researchers, and university partners to design and build novel AIs to augment human decision making. Some potential research and development areas may include:
+		* Pushing the boundaries of AIs that can reason (causally informed AI)
+		* Increasing quality of predictions, judgments, and decisions by (a) reducing/neutralizing cognitive biases, (b) ensuring fitness, (c) ensuring ethics
+		* Scaling up to more complex cognitive tasks and larger groups while countering the tendency of groups to be risk-averse.
+		* Mentor and advise others. 
+	- Qualifications:
+		* Bachelor’s or Master’s degree in a quantitative field (e.g. Computer Science, Mathematics, Physics, Engineering, Chemistry). Ph.D. preferred.
+		* Deep expertise in machine learning and deep learning.
+		* Proficiency in causal inference and advanced statistics.
+		* Experience architecting and deploying machine learning systems in an industry setting.
+		* Experience in providing technical leadership and mentorship.
+		* Strong track record of driving and executing complex, open-ended, cross-functional projects.
+		* Strong interpersonal skills. Great teammate.
+		* Appetite to learn across functions.
+	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
+
+
+
+
+
+
+
+
 
 
 
@@ -1208,11 +1312,11 @@ Skill set for software development for computational fluid dynamics, CFD:
 
 
 
-###	Software Development Roles for Parallel and/or Distributed Programming
+###	Software Development Roles for Parallel Programming
 
 
 
-Skill set for software development for parallel programming and/or distributed programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
+Skill set for software development for parallel programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
 + skill set:
 	- Multi-GPU software development engineer
 	- Design, develop and debug multi-GPU drivers and software
@@ -1335,4 +1439,54 @@ Skill set for software development for parallel programming and/or distributed p
 
 
 
+###	Software Development Roles for Distributed Programming
 
+
+
+Skill set for software development for distributed programming (or distributed computing), especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
++ Publications for NLP at:
+	- WWW
+	- RecSys
+	- SIGIR
+	- ICML
+	- AAAI
+	- ACL
+	- EMNLP
+	- CHI
++ skill set:
+	- Experience in building and owning critical user-facing API systems, and solving scaling, latency, and performance problems in high-volume low-latency distributed systems
+	- 8+ years of industry experience with distributed systems, transactional data stores, and systems programming
++ Experience with MapReduce/Hadoop and/or distributed systems.
++ skill set:
+	- Proficient programmer that can code efficient algorithms (like map-reduce, preferably in Java) that traverse data partitioned in a distributed architecture
+	- Design, build, and deploy distributed querying strategy to achieve highly scalable and resilient transactional processing and reporting for different size and shape workloads
+	- Perform analysis on data access patterns to uncover opportunities to improve query throughput and drive decision making on new architectures. Recommend best practices.
+	- Design efficiently distributed query service for low latency access and traversal for transactional and reporting use cases
+	- Influence and collaborate cross functional teams in coming together towards a common, data architecture
+	- Learn and fundamentally understand the Workday technology stack including a home-grown meta-data driven application development environment
+	- Be responsible for system stability by proactively identifying and diagnosing issues and rapidly deploying code to address production issues
+	- Strong coding experience in any language
+	- Good working experience of distributed systems gossip protocols and consensus algorithms
+	- Experience implementing distributed computing frameworks and architectures
+	- Good knowledge of network protocols, routing and handshaking
+	- Good experience performance tuning/ garbage collection / JVM internals
+	- Proficient knowledge of maintaining and debugging live, business critical software systems
+	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
+	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
++ Experience working with distributed computing tools like Spark or Hadoop
++ designing high availability systems
++ Experience with distributed messages systems ( Apache Kafka)
++ tech stack:
+	- Expertise in Go preferred, but not required. If you're new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
+	- You've got experience writing, deploying and monitoring microservices.
+	- Working knowledge of SQL and relational databases(we use Postgres)
+	- You've used an RPC framework like gRPC or Thrift.
+		* remote procedure call, RPC
+	- You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
++ Celery, for distributed message passing via asynchronous task queue or job queue
++ skill set:
+	- Understanding of high-level network protocols (HTTPS, protobuf, JSON)
+	- Understanding of distributed computing (load balancing, RPC, Map/Reduce, databases)
++ Exposure to various high-performance networking technologies including MPI, NCCL, RDMA, Infiniband and RoCE
++ ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
+	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***

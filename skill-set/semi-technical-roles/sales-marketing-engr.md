@@ -1,6 +1,15 @@
 #	Sales & Marketing Engineering
 
 
+Skill sets for both sales engineering and marketing engineering:
++ Direct experience with building PQLs, online conversion, and/or freemium business models
+	- Product Qualified Leads (PQL)
+		* Product-Led Sales (PLS)
+		* Product-Led Growth
+	- Marketing Qualified Leads (MQL)
+	- Sales qualified leads (SQLs)
+
+
 
 ##	Sales Engineering
 

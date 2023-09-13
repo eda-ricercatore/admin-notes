@@ -2156,11 +2156,13 @@ List of conference "Call for Papers" deadlines:
 
 
 
-+ SAC2019, ACM/SIGAPP Symposium On Applied Computing
-	- https://www.sigapp.org/sac/sac2020/
-	- Brno, Czech Republic.
-	- March 30 - April 3, 2020.
-	- Submission deadline: September 29, 2019.
++ SAC, ACM/SIGAPP Symposium On Applied Computing
+	- https://www.sigapp.org/sac/sac2024/
+	- Avila, Spain
+	- April 8-12, 2024
+	- Submission deadline: ~~September 29, 2019.~~ ***September 29, 2019.***
+	- https://conference.cs.cityu.edu.hk/saccps/
+		* Cyber-Physical Systems Track
 
 
 

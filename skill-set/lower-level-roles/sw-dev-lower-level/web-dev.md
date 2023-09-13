@@ -293,6 +293,25 @@ reactive programming = asynchronous dataflow programming
 	- BS EE or CS degree, or equivalent training or work experience
 	- 8+ years related experience (or Masters and 6 + years related experience or PhD and 3+ years experience)
 + skill set:
+	- Staff Engineer, Web Platforms
+	- We are looking for a staff level engineer with deep experience in the web ecosystem. You’ll contribute to a vital team in an organization that values empathy, collaboration, transparency, diversity, and learning. You will report to Soraya Dib and work cross-functionally with engineers, designers, and product managers.
+	- Our internal platform also includes a core monorepo, common components and libraries, observability & performance tooling, CI/CD, test automation framework, infrastructure, and security.
+	- Partner with other lead engineers to shape our ongoing web product strategy, architecture, and engineering culture.
+	- Provide technical leadership for high scale, high visibility projects within the team and across teams. 
+	- Champion and coach industry best practices for engineering excellence, effectiveness, and efficiency.
+	- Partner with cross-functional leads to inform prioritization and long-term roadmap.
+	- Provide technical mentorship and peer support to other engineers. 
+	- 2+ years of tech lead experience.
+	- 8+ years of full stack web development. 
+	- Experience building, operating, and monitoring complex, performance-critical web systems at scale in GCP and/or AWS. We support 60+ internal users and serve 45M+ pageviews/day.
+	- Strong experience with the JS/TS ecosystem, including:
+		* one or more Node.js frameworks (we use Express).
+		* one or more frontend JavaScript frameworks/libraries (we use React SSR). 
+		* JS build tooling such as yarn, pnpm, turborepo, lerna, nx, webpack, and/or babel.
+	- Experience implementing CI/CD using industry standards (we use Argo, Github Actions, and Drone).
+	- Lean, DevSecOps, GitOps, etc. 
+	- Kanban or other agile methodologies.
++ skill set:
 	- Software Engineer - Fullstack
 	- Splunk is looking for highly motivated talent to build innovative full stack solutions that solve real world problems and empower our customers to quickly detect and resolve their infrastructure and application issues.
 	- You will work within a multi-functional team of designers, product managers, and quality engineers in a fast-paced startup environment. Our engineering teams are small and highly impactful. You will learn from the best while honing the skills which separate our development teams from others. You will receive mentorship, and gain insight into our values-driven process. Our goal is both to support your growth and development while empowering you to be successful in your career.
@@ -818,6 +837,7 @@ reactive programming = asynchronous dataflow programming
 	- Experience architecting backend for (mobile) IoT devices
 	- Experience with developing and running microservices
 	- There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more)!
++ Develop full-stack web applications with Python, TypeScript, React, GraphQL, etc.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1625,6 +1645,59 @@ reactive programming = asynchronous dataflow programming
 	- Knowledge of web services / RESTful APIs.
 	- There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more)!
 + skill set:
+	- Hadoop ecosystem
+		* Hive
+		* Pig
+		* Presto
+		* Spark
+		* SQOOP
+	- Columnstore DBs
+		* Redshift
+		* Vertica
+	- Python
+	- Scala
+	- MS SQL server
+	- Tableau
+	- Amazon solutions
++ skill set:
+	- SQL/NoSQL databases
+		* MySQL
+		* HBase
+		* Redis
+		* Presto/Trino
+	- Kafka
+	- Kubernetes
+	- Zookeeper
+	- Spark
+	- Consul
+	- Chef
+	- Terraform
+	- Rust
+	- Java
+	- Scala
+	- monitoring tools
+		* Prometheus
+		* Grafana
+	- building/retrofitting effective instrumentation or existing applications
+	- Terraform, or CloudFormation
+	- Orchestration
+		* Kubernetes
+		* Mesos
+		* Swarm
++ skill set:
+	- Windbg, LLDB, GDB debugging experience
+	- SQLite, SQLCipher
+	- PKI/CA certification
+		* PKI: public key infrastructure
+		* CA: certification authority
+	- OpenSSL
+	- gloox, libevent, curl
+		* gloox: Jabber/XMPP client
+			+ Jabber/XMPP: Extensible Messaging and Presence Protocol is an open communication protocol designed for instant messaging, presence information, and contact list maintenance.
+		* libevent: software library that provides asynchronous event notification
+		* cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols.
+			+ Client for URL
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1666,6 +1739,36 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
++ skill set:
+	- JavaScript technologies
+		* React
+		* Angular
+		* Vue
+		* high-quality, functional JavaScript
+	- tools
+		* Babel
+		* Webpack/Rollup/Parcel
+	- languages
+		* Typescript
+		* ES6+
+	- Git
+	- Node.js
+	- Redux
+		* Redux is an open-source JavaScript library for managing and centralizing application state.
+	- MobX
+		* MobX is unopinionated and allows you to manage your application state outside of any UI framework.
++ skill set:
+	- Java/Scala
+	- front-end Web development framework
+		* React
+		* Vue.js
+		* Angular
+		* Ember
+	- leading end-to-end tech design and architecture activity
+	- test driven development
+	- GraphQL
+	- gRPC
 + skill set:
 	- JavaScript/TypeScript
 	- React.js/Next.js
@@ -2063,8 +2166,6 @@ reactive programming = asynchronous dataflow programming
 + General hands-on experience with the foundational web technologies such  such as HTML5, CSS3, TailwindCSS, Responsive Design, HTML APIs, REST APIs
 + Ability to code in a front end JS framework (React, Vue, Svelte) a plus.
 + Java, Python, Angular.js, HTML5, and CSS3 is a plus
-+ skill set:
-	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:

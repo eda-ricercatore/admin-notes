@@ -174,7 +174,9 @@ VLSI verification methodologies:
 
 
 Skill set for roles in digital VLSI verification:
-+ initial sandbox verification
++ ***initial sandbox verification***
++ Experience in verification/validation using emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM.
++ Familiar with the principle of debugger, such as: ***OpenOCD***.
 + skill set:
 	- Verification of Tenstorrent's digital IP and SOC logic, using advanced verification methodologies - UVM, FPGA prototyping, emulation
 	- Creation of test plans
@@ -472,6 +474,10 @@ Skill sets for mixed-signal VLSI verification:
 Skill set for roles in VLSI testing:
 + ***Waveform Generation Language (WGL)***: https://www.edn.com/understanding-wgl-scan-data-structures-and-some-common-issues/
 	- compare with IEEE STIL, VCD, and eVCD.
++ familiarity with WGL and STIl formats for test vectors
+	- Waveform Generation Language Files (WGL) ...
+	- A WGL file uses an ASCII representation of the digital waveform data, so can be edited using any text editor.
+	- P1450.1 IEEE Standard Test Interface Language (STIL)
 + ***Silicon bring-up***
 + ***Silicon characterisation***
 + skill set:

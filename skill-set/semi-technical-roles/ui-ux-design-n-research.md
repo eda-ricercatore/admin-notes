@@ -32,6 +32,7 @@ Types of interfaces:
 + UX measurement/quality through analytics/Real-User Metrics (RUM)
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
++ Highly skilled in using design tools such as Adobe Creative Suite, Figma, Sketch and/or Invision
 + skill set:
 	- Senior Software Engineer - UI (Remote)
 	- We are seeking a Senior Software Engineer to help design, develop and deliver our Security Intelligence solution. The service collects security threats at scale from external sources. It detects unknown threats by running innovative stream processing and machine learning algorithms in near real-time, on vast amounts of internally collected data and signals.
@@ -118,6 +119,71 @@ Types of interfaces:
 + Proficiency in developing pixel perfect mockups using Sketch and/or Adobe Design tools.
 + Proficiency in UX design tools such as Sketch, Figma, and Adobe XD.
 + Experience with Figma, Sketch or similar design tools.
++ skill set:
+	- At Ashby, we’re on a mission to help professionals excel at their jobs with software. We believe current software is barely scratching the surface and the most promising productivity improvements haven’t materialized yet.
+	- We’re starting with a suite of products that help talent leaders, recruiters, and managers excel at hiring. Prior to starting Ashby, our Co-Founder and CEO, Benji, experienced the limitations of current products first hand. This experience has created a relentless focus to solve recruiting’s toughest problems with powerful and delightful software.
+	- We’ve not launched publicly yet, but we already have amazing (paying) customers, such as Opendoor, Plaid, Figma, Airtable, Snyk, and Benchling and we’re backed by great investors, including YCombinator, Elad Gil, and Lachy Groom. We’ll share more once we meet.
+	- We've only scratched the surface of how Ashby can help our customers, it's the perfect time to join.
+	- Here are a few key points that should give you an idea of what it is like to work with us:
+		* We invest a lot in common building blocks that allow us to build powerful and customizable products fast. At the core of Ashby is an in-house design system and a set of common components (analytics modelling and query language, policy engine, workflow engine) which we are constantly improving.
+		* Customers use Ashby every day, so we put a lot of effort into designing products that are approachable to beginners but mastered & extended by power users. In many ways, spreadsheets set the bar here.
+		* We strongly believe that small teams with very talented people (and the right work environment) deliver much better performance than teams with large headcount. We hire and compensate accordingly.
+		* Our users’ pain is our pain. Engineers conduct user interviews, slack with our customers, and work closely with them to define, design, and implement solutions.
+		* We rigorously protect the team’s time so we can maximize our impact. We invest a lot in asynchronous communication, automation, and research. 
+	- We value a strong sense of ownership, principled thinking over experience, and thoughtful communication (we put a lot of effort into using the right communication channels) - we’ll get into these and other values during the hiring process.
+	- We believe the best designs come from engineers with an eye for visual design; we don’t have designers who can’t code at Ashby. In particular, we love people who have a deep understanding of CSS and experience building reusable and extensible components.
+	- As a design engineer, you will lead the visual and experience design of our design system, its translation to React components, and consult or lead design for new features. We love to work with engineers who are product and design-minded.
+	- Our technology stack is: SCSS (with CSS modules) or Stitches, TypeScript (frontend & backend), Node.js, React, Apollo GraphQL, Postgres, Redis. You’ll be our resident expert on frontend technology and best practices like React, CSS, semantic HTML, and accessibility.
+	- One formality, we require at least 1.5 years of experience as a full-time software engineer or designer for this role.
+	- You Could Be a Great Fit If
+		* Empowering other engineers to build well-designed features through a design system excites you.
+		* You believe great visual design balances usability and beauty; you’ll, for example, pick a less appealing interface that packs more information on screen over one that doesn’t.
+		* You lean heavily on design patterns and systems but know when a feature needs bespoke work.
+		* You believe great design comes through iteration, collaboration, and responding to customer feedback.
+		* Every time you see a great design or interaction on the web, your first reaction is to open the developer console.
+	- We know this kind of talent is rare and we're excited to pay top of market to have you join us!
+	- Here are examples of things you’ll work on:
+		* Build a set of flexible, composable components in our design system that allow other engineers to build custom autocompletes that can contain filters, options to create new records, etc.
+		* Redesign our mobile web app by talking with customers who use it often, wireframing new flows, implementing its design system, and using it to make the wireframes a reality.
+		* Consult with other engineers to improve the UX and visual design of projects they’ve worked on.
+	- Your First Two Months at Ashby
+		* By the end of your second month, you’ll deliver at least one large, impactful feature from research to specification to delivery. We’ll help get you there by pairing you with another engineer to onboard you and introduce you to how Ashby delivers impactful changes to customers. On your first day, they’ll help you run a script to get your dev environment setup (it’s that easy!) and commit your first change to production. In your first two weeks, the team will introduce you to our customers, our product, and key architecture through training sessions. You’ll also fix bugs and add small features to Ashby to get familiar with our code base. From there, you’ll take on projects of increasing scope (with guidance from your onboarding engineer) until you’re ready to take on your large, impactful feature.
+	- Benefits
+		* You’ll get the time to do things the right way; we put a lot of emphasis on high quality work and avoid quick hacks as much as possible
+		* You get to use your own product (we use Ashby for our own hiring!)
+		* Top-of-market compensation including equity. We know this kind of talent is rare!
+		* 10 year exercise window for stock options
+		* Top notch health insurance for you and your dependents with all premiums covered by us (U.S.)
+		* 401(k) matching (U.S.)
++ skll set for UI engineer:
+	- What You’ll Do:
+		* Be a key member of the Anaconda Nucleus team that helps drive clarity and alignment across the team
+		* You take ownership of team process inefficiencies, implement cross team efforts in ensuring things are running smoothly
+		* You create and implement new processes that add to the team and/or department’s success
+		* You design solutions for large sized complex problems in such a way that is simple and easy to understand by others inside and outside the department
+		* Attend daily SCRUM meetings, sprint demos, etc.
+		* Work with other teams to coordinate joint deliverables
+		* Work with QA team to ensure highest level of product quality
+		* Create and maintain software documentation
+		* Review PRs, contribute in engineering discussions, and 
+		* Mentors other developers on best practices
+	- What You Need:
+		* Typically 10+ years of enterprise software application development experience
+		* A solid understanding of how web applications work including REST APIs and best development practices
+		* Hands on experience working on software that is in production 
+		* Hands on experience using  ES6 and typescript  (Angular 2+ and/ or React)
+		* Hands-on experience with CSS using SASS/SCSS (preferably within Bootstrap)
+		* Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+		* BS in computer science or relevant experience
+	- What Will Make You Stand Out:
+		* Hands on experience working on a SaaS, e-commerce application
+		* Startup Experience
+		* Hands-on experience with Bootstrap (preferred)
+		* UI/UX design experience
+		* Experience with state management” such as NgRX and Redux
+		* Hands-on experience with web visualization frameworks such as D3
+		* Hands-on experience with Python (or other full-stack experience)
+		* Experience mentoring others
 + skill set:
 	- BLAH.
 + skill set:

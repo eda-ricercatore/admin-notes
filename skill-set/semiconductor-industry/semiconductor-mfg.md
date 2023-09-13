@@ -1,4 +1,4 @@
-#	Semiconductor Manufacturing & Semiconductor Manufacturing Equipment Semiconductor Manufacturers
+#	Semiconductor Manufacturing & Semiconductor Manufacturing Equipment Semiconductor Manufacturers, & Semiconductor Packaging and Assembly
 
 
 
@@ -904,6 +904,105 @@ Skill sets to work for semiconductor manufacturing equipment manufacturers
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for Semiconductor Packaging
+
+
+
+
+
++ Packaging knowledge (CSP, BGA, etc.)
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for Semiconductor Assembly, or Combined Semiconductor Packaging and Assembly
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
 
 
 

@@ -320,6 +320,49 @@ Skill set for management of information systems, MIS:
 	- You have the technical competence to perform more analytics in one or more of the following areas:Coding skills (such as Python, Java, or Scala)Analytics tools experience (such as Bigquery, SQL, or Tableau)
 	- Experience and passion for performing analysis with large datasets
 + skill set:
+	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data through our unique visual database, ApertureDB. We are an angel and NSF grant backed, fast growing startup looking for a Database Architect with experience designing and building database internals. If you think locking and logging have a lot more to them than MVCC or redo, connected graph-like queries excite you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
+	- Minimum qualifications
+		* Databases serve a vital purpose particularly as we get to define them for unstructured data. That requires a certain set of skills to even start off.
+		* 5+ years of experience in Computer Science, or a related technical field
+		* 2+ years of experience in C++
+		* Understand concurrency and ACID implementations well
+		* Systems level data structure and algorithm effects (kernel and driver level included)
+		* Data structure and query optimization techniques
+		* Different consistency models
+		* Valid work status in the US
+	- Additional qualifications
+		* It would be great if you already came to us with a few more tricks up your sleeve.
+		* Be comfortable with JSON, Python, Git, and Linux
+		* Object mapper interfaces
+		* Indexing vector data types
+		* Understand the effects of cache/memory/disk as they interplay with each other and processing
+		* Experience architecting a system to run as a service independent of the cloud vendor
++ skill set:
+	- The Eon Data Analyst is responsible for the planning, execution and closure of all assigned deliverables. The Data Analyst will work to accomplish both software implementation as well as support efforts. The Data Analyst will be responsible for a wide range of both technical and customer facing tasks, however the end state of every transaction should be overall customer satisfaction.
+	- Primary Responsibilities:
+		* Manage all assigned tasks to ensure on time delivery and complete execution.
+		* Foster quality relationships with customer contacts (end user, technical, support etc) as well as internal resources to ensure efficient and complete delivery of assigned tasks.
+		* Must adopt a customer centric approach to all assigned tasks, ensuring the end state of every effort is a satisfied customer.
+		* Participate in and contribute to all necessary implementation, support, process improvement and team meetings to ensure every opportunity for coordination is leveraged and all necessary communication is made.
+		* Ensure all customer sourced issues are routed via the proper process in a timely manner with complete information ensuring a positive outcome for the customer.
+		* Ensure all assigned implementation tasks are executed completely within the assigned time frame.
+		* Own all HL7 data mapping efforts and processes ensuring that all implementations are delivered on time.
+		* Own coordination and communication with customer resources in regard to all implementation deliverables as well as customer sourced issues.
+		* Ensure responsive communications via any necessary means ie Intercom, JIRA and email.
+		* Responsible for advocating for the customer in the overall implementation and issue resolution processes.
+		* Develop and monitor/control a detailed plan for assigned efforts ensuring a critical path to delivery whenever possible.
+		* Report and escalate to management as needed.
+		* Perform all other duties as assigned.
+	- Qualifications and Experience
+		* Bachelor’s Degree Required
+		* Healthcare experience preferred
+		* 1 year of experience working in data mapping preferred
+		* Outstanding interpersonal skills are preferred
+	- Primary Performance Measurables
+		* Customer satisfaction scores averaging above 90%
+		* Issue resolution averaging less than 5 days
+		* Time to value of all implementation is averaging 70 days or less
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -426,7 +469,7 @@ Skill set for GIS-based software applications, computer systems, and cyber-physi
 		* GCP
 	- Bayesian image analysis, Bayesian statistics, optimization methods
 	- sensor and image fusion, multi-scale and multi-temporal data processing, video processing, 3-D scene reconstruction methods
-
++ Location technologies (maps, GIS).
 
 
 

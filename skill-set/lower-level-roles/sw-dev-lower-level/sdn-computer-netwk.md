@@ -48,50 +48,12 @@
 
 
 
-##	Distributed Computing
 
 
 
 
 
 
-+ skill set:
-	- Experience in building and owning critical user-facing API systems, and solving scaling, latency, and performance problems in high-volume low-latency distributed systems
-	- 8+ years of industry experience with distributed systems, transactional data stores, and systems programming
-+ Experience with MapReduce/Hadoop and/or distributed systems.
-+ skill set:
-	- Proficient programmer that can code efficient algorithms (like map-reduce, preferably in Java) that traverse data partitioned in a distributed architecture
-	- Design, build, and deploy distributed querying strategy to achieve highly scalable and resilient transactional processing and reporting for different size and shape workloads
-	- Perform analysis on data access patterns to uncover opportunities to improve query throughput and drive decision making on new architectures. Recommend best practices.
-	- Design efficiently distributed query service for low latency access and traversal for transactional and reporting use cases
-	- Influence and collaborate cross functional teams in coming together towards a common, data architecture
-	- Learn and fundamentally understand the Workday technology stack including a home-grown meta-data driven application development environment
-	- Be responsible for system stability by proactively identifying and diagnosing issues and rapidly deploying code to address production issues
-	- Strong coding experience in any language
-	- Good working experience of distributed systems gossip protocols and consensus algorithms
-	- Experience implementing distributed computing frameworks and architectures
-	- Good knowledge of network protocols, routing and handshaking
-	- Good experience performance tuning/ garbage collection / JVM internals
-	- Proficient knowledge of maintaining and debugging live, business critical software systems
-	- Good understanding and hands on experience with SQL, especially in the area of data aggregation and query performance tuning
-	- Communicates clearly to engineering peers including ability to identify and communicate data-driven insights
-+ Experience working with distributed computing tools like Spark or Hadoop
-+ designing high availability systems
-+ Experience with distributed messages systems ( Apache Kafka)
-+ tech stack:
-	- Expertise in Go preferred, but not required. If you're new to Go, then proficiency in a mainstream language such as Java, Python, C++, Scala, etc.., and a willingness to learn Go required.
-	- You've got experience writing, deploying and monitoring microservices.
-	- Working knowledge of SQL and relational databases(we use Postgres)
-	- You've used an RPC framework like gRPC or Thrift.
-		* remote procedure call, RPC
-	- You have high level experience working in a containerized infrastructure deployed in the cloud(AWS, GCP, Azure)
-+ Celery, for distributed message passing via asynchronous task queue or job queue
-+ skill set:
-	- Understanding of high-level network protocols (HTTPS, protobuf, JSON)
-	- Understanding of distributed computing (load balancing, RPC, Map/Reduce, databases)
-+ Exposure to various high-performance networking technologies including MPI, NCCL, RDMA, Infiniband and RoCE
-+ ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
-	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***
 
 
 
@@ -204,6 +166,26 @@
 	- Experience with experimental computer architecture development and evaluation
 	- Experience with C, C++, and scripting languages
 	- Deep understanding of technology and passionate about what you do
++ skill set:
+	- develop software with good code quality
+	- development experience with high performance, high stability, and high availability real-time server development
+	- multithreading programming
+	- STL4
+	- TCP/IP, LAN, WAN, and P2P experience
+	- unit testing and test framework like Gtest
++ Experience with related tools such as LSF/Slurm, high-performance storage arrays, ansible and VMware.
+	- LSF/Slurm: LSF/Slurm
+		* The IBM Spectrum LSF ("LSF", short for load sharing facility) software is industry-leading enterprise-class software. LSF distributes work across existing heterogeneous IT resources to create a shared, scalable, and fault-tolerant infrastructure, that delivers faster, more reliable workload performance and reduces cost. LSF balances load and allocates resources, and provides access to those resources.
+		* The Slurm Workload Manager, formerly known as Simple Linux Utility for Resource Management (SLURM), or simply Slurm, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
+		* Slurm: A Highly Scalable Workload Manager
++ skill set:
+	- Working on a team designing, deploying and supporting mission-critical infrastructure including: Continuous integration framework, Automated test-regression sub-systems, Grid compute system, Cloud compute environment.
+	- 5+ years of relevant and recent experience with a strong understanding of concepts such as Continuous Integration, filesystems, data-mining, optimization, webhooks.
+	- Fluency in languages such as Groovy, Python, Bash.
+	- Expertise in the following tools: Jenkins, Git/Github, Slurm, Saltstack/Ansible.
+		* The ***Slurm Workload Manager***, formerly known as ***Simple Linux Utility for Resource Management***, or simply ***Slurm***, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
+		* ***SaltStack*** is a highly extensible platform, allowing for the creation of modules that enable new execution models, states, etc. ***Ansible Python API*** can extend Ansible with plugins and modules to control certain aspects of the system (e.g., node management).
+	- Interest in building modular, scalable and resilient flows and tools.
 + skill set:
 	- BLAH.
 + skill set:

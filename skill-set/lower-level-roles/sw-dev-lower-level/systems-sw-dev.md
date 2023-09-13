@@ -130,6 +130,9 @@
 	- Knowledge of Git
 + Knowledge of OS/driver software stacks, e.g., Linux/QNX.
 + skill set:
+	- Experience in ISP driver, or V4L2 is strongly desired
+	- Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, etc.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

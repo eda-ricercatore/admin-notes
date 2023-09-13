@@ -34,6 +34,27 @@ Roles in computing security:
 
 + Ability to apply the ***MITRE ATT&CK and Killchain frameworks*** to security operations
 + skill set:
+	- Experience Administering Okta
+		* identity and access management 
+	- Seasoned Experience with Systems Management Tools such as (meraki systems manager, jamf, kandji, etc.)
+		* Meraki Systems Manager provides cloud-based over-the-air centralized management, diagnostics, monitoring, and security of the mobile devices managed by your organization.
+		* mobile device management system
+		* kandji:
+			+ Apple Device Management and Security Platform
++ skill set:
+	- The HubSpot Infrastructure Security team is responsible for security, privacy, and compliance for HubSpot’s Cloud-based Infrastructure. Broadly, our mission is to provide world-class infrastructure as a service that empowers the product team to build, operate, and scale HubSpot’s products in a secure way. We solve technical and security challenges in a way that keeps HubSpot fast and lean, making the best and easiest solution also the most secure one. 
+	- We’re looking for software engineers who are excited by the challenges that come from working at scale and are passionate about improving the reliability and uptime of the product they own. We favor forward-thinking engineers who can identify and remediate problems before they happen, and understand how to build platforms that support security and privacy for our customers and are intuitive to use, highly performant, and extremely reliable. 
+	- Experience working with at least one programming language (Java, C#, Python etc)
+	- Knowledge of public cloud infrastructure (AWS, GCP, Azure)
+	- Basic understanding of secure development practices, public cloud, network, or host security
+	- Familiarity with common attack vectors
+	- Fascinated by the complex issues that arise as a result of operating large-scale systems
+	- Far happier writing software to automate solutions to problems instead of manually pushing buttons
++ Knowledge and/or experience with Splunk products, AWS, Docker, K8, Ansible, CI/CD.
+	- Splunk products:
+		* enterprise resilience
+		* software for searching, monitoring, and analyzing machine-generated data via a web-style interface
++ skill set:
 	- Familiarity with IPv4/IPv6 with standard OSI stack.
 	- Familiarity with security vulnerabilities, patching third party software.
 	- Familiarity with security compliance standards such as STIG, Common Criteria a plus.

@@ -306,6 +306,31 @@ reactive programming = asynchronous dataflow programming
 
 
 
++ skill set for SENIOR SYSTEM/DSP ALGORITHM ARCHITECT
+	- We are looking for experienced system architect who can design algorithms for the whole system and product, optimize algorithm and system design with realist constraints, define system specification for Hardware and ASIC, define fixed point specification for algorithm and hardware.
+	- Investigate AI and deep learning algorithms and extract the computation and logic operations for hardware implementation.
+	- Define fixed point specification for hardware implementation while balancing the hardware cost and algorithm performance.
+	- Work together with hardware team and software team to define the hardware architecture for the chip and for the accelerator core.
+	- Work together with hardware team and algorithm team to define the system specification for the accelerator core including fixed point specifications.  
+	- Improve AI and deep learning algorithms considering fixed point process and hardware implementation.
+	- Develop a C/C++ based system simulator to model the behavior of the accelerator core. The system simulator and the hardware implementation should achieve bit true match.
+	- Drive the system level bit true match for hardware verification and provide test vectors.
+	- Drive system level chip debug and isolate the bug location.
+	- Drive technical debug and resolution of issues encountered at the complete system level. Propose creative workarounds and implement solutions to complex problems.
+	- Effectively present technical information to teams of engineers. Educate Field Application Engineers (FAEs) on new product features and operation
+	- Work with the Technical Publications group on engineering notes, data sheets, and architectural manuals
+	- Minimum 5 years industry experience with master’s degree in Electrical/Computer Engineering field or minimum 7 years industry experience with Bachelor’s Degree in Electrical Engineering/Computer Engineering
+	- Industry experience on fixed point algorithm design and system specification design such as digital communication systems are desired.
+	- Strong math skills and problem solving skills.
+	- Industry experience on SoC level system specification design such as software/hardware partition is preferred.
+	- Experience developing/debugging C/C++ based code is a must.
+	- Practical experience in system level debug
+	- Excellent problem solving skills
+	- Ability to work independently with little or no supervision under tight schedules
+	- Ability to quickly learn new technologies
+	- Strong communication skills, including verbal, presentation, and documentation
+	- Excellent teamwork skills
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
 + skill set:
 	- Staff LiDAR Signal Processing Software Engineer at AEye, Inc
 	- AEye creates high-performance, adaptive, AI-driven LiDAR systems for vehicle autonomy, advanced driver-assistance, and robotic vision applications. AEye’s software-driven system leverages deterministic AI to capture more intelligent information with less data, enabling faster, more accurate, and more reliable perception for everything that moves. The company is based in the San Francisco Bay Area, and backed by world-renowned investors including Kleiner Perkins, Taiwania Capital, GM Ventures, Intel Capital, Continental AG, Hella Ventures, LG Electronics, Aisin, Airbus Ventures, SK Hynix, Subaru-SBI, and Tyche Partners.
@@ -440,6 +465,20 @@ reactive programming = asynchronous dataflow programming
 	- Understanding of working with broad engineering and product teams
 	- Experience working as a member of a small agile software development team (e.g. participating in planning sessions and interpreting user stories, doing code reviews, pair programming)
 	- Personal projects will be valued
++ skill set for SENIOR AUDIO SIGNAL PROCESSING ENGINEER
+	- Develop advanced audio signal processing algorithm for real product.
+	- Develop audio signal processing pipeline from microphone digital row data to optimized audio signal including but not limited to noise reduction, beamforming, direction of arrival detection.
+	- Develop fixed point image processing algorithm for hardware implementation. Able to implement audio signal pipeline in embedded system.
+	- Apply deep learning technology to improve audio signal processing algorithm such as noise reduction.
+	- Resolve real product problems in variety of environments.
+	- M.S. in Electrical Engineering, Computer Science, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on audio signal processing, signal processing.
+	- Solid understanding on fixed point algorithm design.
+	- Real product experience on audio signal processing algorithm development.
+	- Strong experience in C/C++ programming.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with audio signal processing algorithm development and optimization.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
 + skill set:
 	- BLAH.
 + skill set:
@@ -582,7 +621,64 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
+
+
+
+
+
+
+
+
 ##	Visual Computing
+
+
+
+
+
++ technologies from The Khronos Group Inc.:
+	- [ ] 3DCommerce
+		* 3D Commerce, universal guidelines, standards and certifications for 3D content creation and distribution in e-commerce
+	- [x] ANARI
+		* ANARI, Analytic Rendering Interface for Data Visualization
+	- [x] Kamaros - Embedded Camera API
+		* Camera, working on interoperable camera API standards for embedded systems, a cooperation with the European Machine Vision Association (EMVA)
+	- [x] glTF & KTX
+		* glTF, a file format specification for 3D scenes and models
+		* KTX, a container file format for storing GPU-ready texture data
+	- [x] OpenCL
+		* OpenCL, a cross-platform computation API
+	- [x] OpenGL & OpenGL ES
+		* OpenGL, a cross-platform computer graphics API
+		* OpenGL ES, a derivative of OpenGL for use on mobile and embedded systems, such as cell phones, portable gaming devices, and more
+	- [x] OpenVG
+		* OpenVG, an API for accelerating processing of 2D vector graphics
+	- [x] OpenVX & NNEF
+		* OpenVX, Hardware acceleration API for Computer Vision applications and libraries
+		* NNEF reduces machine learning deployment fragmentation by enabling a rich mix of neural network training tools and inference engines to be used by applications across a diverse range of devices and platforms
+	- [x] OpenXR
+		* OpenXR, an open and royalty-free standard for virtual reality and augmented reality applications and devices
+	- [x] Safety Critical (OpenGL & Vulkan)
+		* OpenGL SC, a safety critical profile of OpenGL ES designed to meet the needs of the safety-critical market
+		* Vulkan SC, based on the existing Vulkan API specification to enable safety critical industries
+	- [x] SPIR
+		* SPIR, an intermediate compiler target for OpenCL and Vulkan
+	- [x] SYCL
+		* SYCL, a single-source C++ DSEL for heterogeneous computing
+	- [x] Vulkan
+		* Vulkan, a low-overhead computer graphics API
+	- [ ] WebGL
+		* WebGL, a JavaScript binding to OpenGL ES within a browser on any platform supporting the OpenGL or OpenGL ES graphics standards
+
+
+
+
+
+
+
+
+
 
 
 
@@ -592,6 +688,14 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
+
++ skill set:
+	- PIL/Pillow: https://pillow.readthedocs.io/
+	- Scikit-Image: https://scikit-image.org
+	- OpenCV
++ Strong knowledge of image theory, design experience of algorithm modules such as super_resoulution/HDR/noise_reduction/frame_compression/ISP is preferred.
 + skill set:
 	- BLAH.
 + skill set:
@@ -622,8 +726,19 @@ reactive programming = asynchronous dataflow programming
 	- BLAH.
 + skill set:
 	- BLAH.
-+ skill set:
-	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -632,6 +747,24 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
+
++ Experience in V4L2, ALSA, OpenMax, G-Streamer, or FFMPEG, etc.
+	- "Video4Linux (V4L) is a collection of device drivers and an API for supporting realtime video capture on Linux systems"
+	- ALSA:
+		* Advanced Linux Sound Architecture, a Linux kernel component
+		* Advanced Linux Sound Architecture (ALSA) is a software framework and part of the Linux kernel that provides an application programming interface (API) for sound card device drivers.
+	- OpenMAX (Open Media Acceleration), often shortened as "OMX", is a non-proprietary and royalty-free cross-platform set of C-language programming interfaces.
+		* OpenMAX provides three layers of interfaces: application layer (AL), integration layer (IL) and development layer (DL). OpenMAX is managed by the non-profit technology consortium Khronos Group.
+		* OpenMAX AL is the interface between multimedia applications, such as a media player, and the platform media framework. It allows companies that develop applications to easily migrate their applications to different platforms (customers) that support the OpenMAX AL application programming interface (API).
+		* OpenMAX IL is the interface between media framework, (such as StageFright or MediaCodec API on Android, DirectShow on Windows, FFmpeg or GStreamer on Linux), and a set of multimedia components (such as an audio or video codecs). It allows companies that build platforms (e.g. allowing an implementation of an MP3 player) to easily change components like MP3 decoders and Equalizer effects and buy components for their platform from different vendors.
+		* OpenMAX DL is the interface between physical hardware, such as digital signal processor (DSP) chips, CPUs, GPUs, and software, like video codecs and 3D engines. It allows companies to easily integrate new hardware that supports OpenMAX DL without reoptimizing their low level software.
+		* OpenMAX™ is a royalty-free, cross-platform API that provides comprehensive streaming media codec and application portability by enabling accelerated multimedia components to be developed, integrated and programmed across multiple operating systems and silicon platforms. The OpenMAX API will be shipped with processors to enable library and codec implementers to rapidly and effectively make use of the full acceleration potential of new silicon - regardless of the underlying hardware architecture.
+	- GStreamer is a pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
+	- FFmpeg: A complete, cross-platform solution to record, convert and stream audio and video.
+	- FFmpeg is a free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams.
++ Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, framebuffer，etc.
 + skill set:
 	- Design video encoding and decoding driver architecture, and provide support for application libraries;
 	- End-to-end intelligent video analysis software architecture design based on GStreamer, FFMPEG, OpenCV;
@@ -678,6 +811,37 @@ reactive programming = asynchronous dataflow programming
 	- Strong analytical and research skills.
 	- Excellent written and verbal communication skills. Strong team player.
 	- The candidate needs to be based in Singapore or willing to relocate to SIngapore.
++ system hardware tools:
+	- MFT
+		* Managed file transfer (MFT) is a technology platform that allows organizations to reliably exchange electronic data between systems and people in a secure way to meet compliance needs.
+		* Or, Master File Table (Microsoft NTFS).
+			+ New Technology File System (NTFS)
+	- Video Toolbox
+	- MediaCodec
+		* access low-level media codecs, i.e. encoder/decoder components
+	- VA-API
+		* Video Acceleration API (VA-API) is an open source application programming interface that allows applications such as VLC media player or GStreamer to use hardware video acceleration capabilities, usually provided by the graphics processing unit (GPU).
+		* The main motivation for VA-API (Video Acceleration API) is to enable hardware accelerated video decode and encode at various entry-points (VLD, IDCT, Motion Compensation etc.) for the prevailing coding standards today (MPEG-2, MPEG-4 ASP/H.263, MPEG-4 AVC/H.264, VC-1/VMW3, and JPEG, HEVC/H265, VP8, VP9) and video pre/post processing
+			+ https://intel.github.io/libva/
++ experience working with OpenCV and FFMPEG libraries
+	- FFmpeg is a free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams
++ skill set for SENIOR IMAGE AND VIDEO SIGNAL PROCESSING ENGINEER
+	- Develop advanced image processing and video processing algorithm for real product.
+	- Develop camera image processing pipeline from camera row data to optimized RGB including but not limited to noise reduction, interpolation, 3A, gamma correction.
+	- Develop fixed point image processing algorithm for hardware implementation.
+	- Research and develop advanced image processing algorithm such as noise cancellation, motion detection, edge detection.
+	- Research and develop advanced computer vision algorithm such as real-time robotic SLAM (Simultaneous Localization and Mapping) solutions including 3D sensing, position tracking, 3D mapping / reconstruction, and sensor fusion.
+	- Research and develop practical solutions for 3D scene understanding (e.g., object detection) using state-of-the-art deep learning (DL) and machine learning (ML) methods.
+	- M.S. in Electrical Engineering, Computer Science, Robotics or similar field (Ph.D. is preferred).
+	- Solid understanding on image processing, signal processing, camera pipeline.
+	- Solid understanding on fixed point algorithm design.
+	- Understanding on 3D geometry such as SLAM, SfM, and 3D reconstruction is a big plus.
+	- Understanding and experience of applying deep learning to real problems in the fields of computer vision and robotics is a big plus.
+	- Strong experience in C/C++ programing.
+	- Hands-on experience in computer vision and deep learning frameworks is a big plus, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe.
+	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
+	- 3+ years of industry experience with image processing and camera pipeline algorithm development and optimization.
+	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
 + skill set:
 	- BLAH.
 + skill set:
@@ -750,6 +914,14 @@ reactive programming = asynchronous dataflow programming
 	- Passion for the mission: We’re here to make something phenomenal. We seek whatever work is right for the product and strive for the best possible results.
 	- Modesty: The right answer is more meaningful than being right. We search for solutions as a team and value clear-eyed feedback
 	- Lean habits: You can’t grow without limits. Time constraints and big goals inspire us to sharpen our focus and learn to make extraordinary decisions.
++ Familiar with Android SurfaceFlinger or Linux Weston/Wayland is preferred
+	* SurfaceFlinger can accept buffers in two ways: through BufferQueue and SurfaceControl, or through ASurfaceControl.
+	* Wayland is a communication protocol that specifies the communication between a display server and its clients, as well as a C library implementation of that protocol.
+	* Wayland is the language (protocol) that applications can use to talk to a display server in order to make themselves visible and get input from the user (a person). A Wayland server is called a "compositor". Applications are Wayland clients.
+	* Wayland is a protocol for communication between a display server and its clients. A Wayland server uses the Wayland protocol to communicate with a GUI program, which is a Wayland client. A Wayland server is also called a Wayland compositor, as it also acts as a compositing window manager.
+	* The Weston server, usually just called Weston, is the reference implementation of a Wayland compositor. It manages the displays, including composition of their contents, support for their input device events (touch screen, mouse, keyboard, etc.), and their settings (wallpapers, resolution, multi-monitor display, etc.).
+	* Weston is lightweight compared to X11, and is fast as a compositor. It is suitable for many embedded and mobile use cases.
+	* A Wayland server and a set of Weston libraries are collectively known as Weston/Wayland. This diagram describes the Weston/Wayland architecture.
 + skill set:
 	- Graphics Rendering Software Engineer - Apple Vision Pro
 	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
@@ -805,6 +977,13 @@ reactive programming = asynchronous dataflow programming
 	- Experience with parallel programming on both CPUs and GPUs
 	- Understanding of and experience with modern graphics APIs: Direct3D, Vulkan, and/or OptiX
 	- A demonstrated passion for participating in collaborative interdisciplinary research teams.
++ Graphics programming (OpenGL, Metal, Vulkan, WebGL, WebGPU).
+	- https://developer.apple.com/metal/
+		* Metal powers hardware-accelerated graphics on Apple platforms by providing a low-overhead API, rich shading language, tight integration between graphics and compute, and an unparalleled suite of GPU profiling and debugging tools.
+	- Vulkan is a low-overhead, cross-platform API, open standard for 3D graphics and computing.
+	- WebGL is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. WebGL is fully integrated with other web standards, allowing GPU-accelerated usage of physics, image processing, and effects in the HTML canvas.
+	- WebGPU is the working name for a potential web standard and JavaScript API for accelerated graphics and compute, aiming to provide "modern 3D graphics and computation capabilities". 
+	- WebGPU is the successor to WebGL bringing the advancements of this new class of modern APIs to the Web. WebGPU unlocks a lot of new GPU programming possibilities in the browser. It better reflects how modern GPU hardware works, while also laying a foundation for more advanced GPU capabilities in the future.
 + skill set:
 	- BLAH.
 + skill set:
