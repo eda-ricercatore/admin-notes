@@ -304,6 +304,7 @@ Notes on cloud computing:
 	- Unified metering and billing services for the platform as we shift towards consumption based pricing for our product portfolio
 	- Platform infrastructure to create finer granularity for cost of services across the platform for static and dynamic resource consumption
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
++ Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
 + skill set:
 	- Senior Software Engineer - Backend (Remote)
 	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.

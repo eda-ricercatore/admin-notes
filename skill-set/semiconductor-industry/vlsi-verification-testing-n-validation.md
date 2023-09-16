@@ -191,6 +191,46 @@ Skill set for roles in digital VLSI verification:
 	- Excellent programming skills. C/C++ as well as scripting languages (Perl, tcl)
 	- Deep interest in computer architecture, under-the-hood details of machine learning frameworks, GPU programming and methods for efficient parallelization of deep learning execution
 + skill set:
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU power management who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Architect test methodologies applicable to a wide range of CPU designs for CPU Power Management.
+	- Understand CPU multi-core power management from an architectural level and create effective verification strategies for these designs.
+	- Build test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Develop tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Development and use of full IP and unit level test benches that use constrained random stimulus
+	- Use of assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test power management.
+	- Provide technical leadership for verification engineers and coordinate technical teams to execute our verification strategies to meet program goals.
+	- Collaborate closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU power management and how that impacts both the RTL and verification environment.
+	- Experience with industry standard system bus protocols (e.g. AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
++ skill set:
+	- System-level verification to SiFive virtualization technologies, hypervisor, secure boot cryptography, and more on FPGA.
+	- Collaborate with cross-functional teams to ensure our core quality and confirm the core is well verified and delivered on time.
+	- Collaborate with cross-functional teams on developing and implementing emulation strategy based on product goals.
+	- A minimum of 5 years of direct system-level debug experience especially on Linux system, including system testing and debug using FPGAs and emulators
+	- Hypervisor knowledge/ background, SoC bring up, validation and debugging experiences are required
+	- Strong and wide knowledge on Linux system software and kernel, processor, memory, bus protocol, and SoC architecture, or a strong desire and ability to learn the same.
+	- A conscientious and thorough approach to Design Verification.
+	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
++ skill set:
+	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
+	- Review and influence product definition and specifications from a verification perspective and collaborate closely with the design team on feature specifications, test plans, and failure analysis.
+	- Develop tools, test benches, and test suites (UVM, C++/C, or otherwise as needed) to execute test plans.
+	- Write functional coverage, analyze both code and functional coverage, and close coverage holes.
+	- A minimum of 5 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
+	- Familiarity with and/or ability to learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.).
+	- A conscientious and thorough approach to Design Verification.
+	- Solid understanding of processor and SoC architecture, or a strong desire and ability to learn the same.
+	- A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
+	- Experience with prototyping and debugging systems on Field Programmable Gate Array (FPGA) platforms will be a plus.
+	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
+	- An unwavering dedication to product quality.
++ skill set:
 	- Functional verification of high-performance CPUs going into industry leading AI/ML architecture. The person coming into this role will help define DV strategies and execute on them while working alongside with a group of highly experienced engineers across various domains of the AI chip.
 	- Define DV requirements for design changes resulting from rapidly evolving AI/ML models; work with engineers across domains to understand real world use cases
 	- Develop DV testplans for ISA and microarchitecture and execute on them
@@ -338,7 +378,23 @@ Skill set for roles in digital VLSI verification:
 	- Programming skills in C++, Python, and shell scripting are strongly desired.
 	- Good debugging skills, and well experienced with VCS/Verdi or similar toolsets.
 + skill set:
-	- BLAH.
+	- Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).
+	- Creating effective verification strategies for CPU memory system caches.
+	- Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Developing and using unit level test benches that use constrained random stimulus.
+	- Using assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test CPU functions.
+	- Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.
+	- Collaborating closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers.
+	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)
+	- Understanding of CPU memory systems caches from an architectural level.
 + skill set:
 	- BLAH.
 + skill set:
@@ -367,6 +423,50 @@ Skill set for roles in digital VLSI verification:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Formal VLSI Verification
+
+
+Skill sets for formal VLSI verification:
++ skill set:
+	- We at SiFive are looking for a Formal Verification Engineer to join our growing team working on implementing a novel application of formal verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in formal verification who will build a formal environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Leading the application of formal methodologies to parameterizable high-performance RISC-V CPU IP generators.
+	- Creating a reusable formal verification methodology library to be used in SiFive’s novel hardware design flow.
+	- Building a compiler-based hardware design suite that would automatically generate the appropriate test bench when given a parameterized instance of a chip design.
+	- Establishing through formal mathematical modeling or proofs the fidelity of given CPU IP blocks.
+	- Ensuring that CPU designs will meet given targets for power, performance, and area, by applying formal methods.
+	- Mentoring junior members of the team in the use of formal verification methodologies and tools.
+	- 7+ years of recent experience in formal verification and related tools (model checking, property verification, JasperGold, Hector DPV, and others) and methodologies.
+	- Knowledge of CPU or GPU architectures (floating point, load-store, branch prediction, out-of-order execution) and cache coherence protocols.
+	- Experience in functional verification, such as constrained random verification, test bench generation, etc.
+	- Fluency in hardware description languages such as Verilog, VHDL, or SystemVerilog.
+	- Knowledge of Register-Transfer Level circuitry (registers, combinatorial function blocks (e.g. adders and multiplexers), finite state machines.
+	- Knowledge of Traditional test bench environments - UVM, Verdi/DVE.
+	- Functional programming languages, such as Scala, Chisel, Haskell, etc.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -693,6 +793,45 @@ Skill set for roles in VLSI testing:
 
 
 
+#	Memory VLSI Verification & Testing
+
+
+
+Skill set for roles in VLSI post-silicon validation:
++ skill set:
+	- Architect and implement MBIST solutions across our portfolio of RISC-V CPU’s
+	- Evaluate and implement solutions to enable high scan test coverage for our RISC-V CPU’s
+	- Support customers in all aspects of DFT: MBIST, scan and boundary scan insertion, scan compression, ATPG, and JTAG.
+	- 5+ years of DFT experience including architecture specification, implementation, test pattern development and verification;
+	- Experience with MBIST insertion, simulation, and verification on RTL and Gate Level Netlist;
+	- Experience with Scan insertion, Scan compression, Stuck-At, At-Speed test and coverage analysis;
+	- Scan ATPG pattern generation, simulation and debug on RTL and Gate Level Netlist;
+	- Hands on knowledge in state-of-the-art EDA tools for DFT, design and verification (Mentor, Cadence, Synopsys);
+	- STA DFT Test mode timing constraint development and analysis;
+	- In-depth knowledge of Verilog HDL and experience with simulators and waveform debugging tools;
+	- TCL scripting; Python scripting is a plus;
+	- Attention to detail and a focus on high-quality design;
+	- Ability to work well with others and a belief that engineering is a team sport;
+	- Bachelor’s degree in Electrical Engineering or Computer Engineering, Master’s preferred.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #	VLSI Post-Silicon Validation
 
@@ -836,6 +975,26 @@ Skill set for roles in VLSI device, circuit, and system characterization:
 	- Excellent analytical, troubleshooting, problem-solving, and communication skills
 	- Experience with FPGA design/ implementation tools is a plus
 	- Experience in validating FPGA blocks such as DSP, PLL, I/O, high-speed interfaces, etc. is a strong plus
+
++ skill set:
+	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
+	- A minimum of 3 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
++ skill set:
+	- We at SiFive are now looking for a Core Architect to join our growing team! You will be vital to SiFive’s efforts to create silicon at the speed of software. You would be involved with the design and definition of various aspects of SiFive’s RISC-V ISA, high-performance core pipelines, including but not limited to, branch predictors, dispatch logic, reorder buffer, load-store queues, and prefetchers. You are tasked with creating the basic collateral and specifications that can be reused across SiFive’s RISC-V and SoC design ecosystem.
+	- Creating the design and specification of various aspects of high-performance core architecture. Such design must comprehend PPA (performance, power, and area) impact.
+	- Developing the upcoming RISC-V platforms, which will connect numerous cores together on a chip, support large bandwidth, as well as new applications and workloads
+	- Working on the design and specifications of various aspects of the RISC-V Instruction Set Architecture.
+	- Researching and analyzing emerging needs for new core architecture.
+	- If interested, the Core Architect will have a chance to analyze market verticals and design architectures specifically tailored for upcoming use cases.
+	- Working with customers to tailor cores to their needs.
+	- Opportunity to work directly with customers (which include Fortune 500 companies as well as prominent, innovative startups) to brainstorm and troubleshoot core pipeline designs.
+	- 8+ years of experience in core architecture development and chip architecture definition.
+	- Familiarity with advanced CPU architectures and pipelines.
+	- Experience in core design flow, including spec definition, Architecture design, and performance modeling.
+	- Familiarity with instruction set architecture, advanced and high-performance pipeline design concepts, such as picker logic, out-of-order scheduling, advanced branch predictors, and prefetchers.
+	- You should be familiar with memory coherence, consistency, and ordering.
+	- Basic understanding of RTL design & SoC tool flows.
+	- Basic understanding of foundry lib, IP, and process technology limitation
 + skill set:
 	- BLAH.
 + skill set:

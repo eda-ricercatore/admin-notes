@@ -720,6 +720,26 @@ List of conference "Call for Papers" deadlines:
 
 
 
+
+
+[ACM Student Research Competition, ACM SRC](https://src.acm.org/submissions)
++ Selected major ACM conferences, or co-sponsored conferences (e.g., run by ACM and IEEE), have ACM Student Research Competitions associated with them.
++ Winners of each ACM SRC would compete in the final round.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Operation Go-to-DATE in progress.**
 + https://www.baylor.edu/lib/librarystaff/index.php?id=62713
 	- genn./gennaio
@@ -1573,6 +1593,23 @@ List of conference "Call for Papers" deadlines:
 
 
 
++ NoCArc, International Workshop on Network on Chip Architectures
+	- https://www.nocarc.org/
+	- https://drive.google.com/file/d/17O9XaapnJ9HmvIzDE0VTArFhhwasJunW/view?pli=1
+	- October 28, 2023.
+	- Toronto, Canada.
+	- Submission deadline: July 31, 2023.
+
+
+
+
+
+
+
+
+
+
+
 
 
 + PEMWN, IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks
@@ -1837,10 +1874,13 @@ List of conference "Call for Papers" deadlines:
 
 
 + CGO, International Symposium on Code Generation and Optimization
-	- https://cgo-conference.github.io/cgo2020/
-	- San Diego, CA.
-	- Feb 22-26, 2020.
-	- Submission deadline: August 30 and September 6, 2019.
+	- https://conf.researchr.org/track/cgo-2024/cgo-2024-main-conference
+	- https://conf.researchr.org/home/cgo-2024
+	- https://conf.researchr.org/dates/cgo-2024
+	- Edinburgh, United Kingdom.
+	- March 2-6, 2024.
+	- Round \#1 Submission deadline: May 19, 2023.
+	- Round \#2 Submission deadline: September 1, 2023.
 
 
 
@@ -2611,6 +2651,31 @@ Workshop on ML for Systems at NeurIPS 2023
 	- Submission deadlines:
 		* Abstract (Paper/Poster): October 25, 2019.
 		* Late paper submission: January 24, 2010.
+
+
+
+
+
+
++ ICPE, ACM/SPEC International Conference on Performance Engineering
+	- https://icpe.spec.org/
+	- https://icpe2024.spec.org/
+	- https://icpe2024.spec.org/call-for-contributions/
+	- https://icpe2024.spec.org/important-dates/
+	- South Kensington, London, U.K..
+	- May 7-11, 2024.
+	- Abstract submission: Oct 27, 2023 (AoE)
+	- Paper submission: Nov 03, 2023 (AoE)
+
+
+
+
+
+
+
+
+
+
 
 
 

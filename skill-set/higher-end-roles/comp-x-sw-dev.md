@@ -1361,6 +1361,15 @@ Skill set for software development for parallel programming, especially on heter
 	- You care deeply about robust, readable, high-performance code
 	- Excited to learn, explore new problem areas, and apply your creativity to some of the most challenging and rewarding problems we have
 + skill set:
+	- Developing high quality, scalable and innovative heterogeneous parallel computing runtime.
+	- Developing software that meets certain quality and real time requirements for applications in multiple domains such as Machine Learning and AI.
+	- Designing scalable and maintainable solutions from the ground up.
+	- 3+ proven years of experience in developing high quality production software.
+	- Experience in developing runtimes for parallel systems or accelerators.
++ skill set:
+	- 3+ years of experience in algorithm optimization to target parallel hardware such as GPUs, SIMD, or similar.
+	- Proven experience working close to and understanding the hardware, and optimizing algorithms for specific hardware implementations.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

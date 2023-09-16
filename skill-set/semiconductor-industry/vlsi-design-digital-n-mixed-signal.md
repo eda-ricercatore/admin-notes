@@ -26,6 +26,18 @@ Measure performance in terms of:
 
 Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
 + skill set:
+	- Analyze the vector microarchitecture performance
+	- Analyze and improve the performance of vector kernel
+	- Correlate the vector performance of the model and RTL
+	- Design vector microbenchmarks
+	- Root cause the performance difference caused by either SW and/or HW
+	- Competitor micro-architecture analysis
+	- Experienced with processor micro-architecture
+	- Experienced with RISC-V V-extension
+	- Experienced with micro-architecture performance analysis
+	- Experienced with microbenchmark design
+	- Good presentation skills
++ skill set:
 	- hyperscale cloud and edge computing
 + skill set:
 	- Be part of a team that owns equipment performance necessary to meet current and future manufacturing requirements.
@@ -76,6 +88,38 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 				- Redis
 				- Cassandra
 				- HBase
++ skill set:
+	- Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborate with performance modelling team for performance exploration and optimization to meet performance goals.
+	- 8+ yrs of recent industry experience in high-performance, energy-efficient CPU designs.
+	- Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
+	- Knowledge of RISC-V architecture is a plus.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- MS/ PhD degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill design:
+	- Architecting, designing and implementing new features, performance improvements, and ISA extensions in RISC-V CPU cores and TileLink interconnect, protocol bridges, and other infrastructure/uncore logic.
+	- Microarchitecture development and specification. Ensuring that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Performing initial sandbox verification, and working with the design verification team to create and execute thorough verification test plans.
+	- Working with the physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborating with the performance modelling team for performance exploration and optimization to meet performance goals.
+	- 8+ yrs of recent industry experience in high-performance, energy-efficient CPU/SoC designs.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Knowledge of RISC-V architecture is a plus.
+	- Experience with NoC or other interconnect fabrics.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- MS/ PhD degree in EE, CE, CS or a related technical discipline, or equivalent experience.
 + skill set:
 	- BLAH.
 + skill set:
@@ -213,7 +257,19 @@ Skill sets for computer architects working with multi-GPU platforms, multi-TPU p
 	- Experience with experimental computer architecture development and evaluation.
 	- Experience with C, C++, Python, and scripting languages.
 	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
-
++ skill set:
+	- As a QEMU Engineer in the System Software Team, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks. You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for QEMU to model IP and instruction set. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop and upstream QEMU and other simulation solutions  (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 3 years’ experience developing QEMU for both instruction set and peripheral IP modeling, with upstream involvement
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Deep understanding of computer architecture at the CPU and system levels
+	- Understanding of VLSI design concepts and how they impact hardware and software architecture
+	- Ability to read HDLs such as Verilog/Chisel
 
 
 
@@ -245,6 +301,38 @@ Skill sets for computer architects working with compiler designers, operating sy
 	- Experience with experimental computer architecture development and evaluation.
 	- Experience with C, C++, Python, and scripting languages.
 	- Strong interpersonal skills are needed and being a creative and dynamic presenter is a huge advantage.
++ skill set:
+	- Familiar with baremetal/system software programming and Experience with creating direct test cases or porting microbenchmarks to measure system power or performance for design verification.
+	- Familiar with CPU micro-architecture, memory sub-system and system software ( such as exception/interrupt handling, memory paging system.)
+	- Experience with software project architecture/design and python/C++11 above programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill sets for performance engineering, such as workload analysis, in computer architecture:
++ skill set:
+	- Performance Architecture Engineer - Workloads Infrastructure
+	- We at SiFive are looking for a Performance Architecture Engineer - Workloads Infrastructure to join our growing team working on developing and improving methods for gathering and processing performance analysis data from various simulation platforms. SiFive is looking for someone with outstanding knowledge and skills in workloads, databases, emulation/FPGA platforms, and workflow automation who will build an environment to be used specifically with SiFive’s device simulation, emulation, and silicon environments used for generating performance data.
+	- Develop and improve methods for gathering, post-processing, storing, retrieving, and presenting performance data generated via performance analysis and regression runs from various simulation platforms.
+	- Develop new database solutions and schemas to handle an expanding array of workloads and data artifacts used for workload performance analysis.
+	- Develop and improve components and workflows for device simulation, emulation, and silicon environments used for generating performance data.
+	- 5+ years of relevant industry experience.
+	- Experience with databases, and methods for data storing, retrieving, and presenting.
+	- Experience with emulation platforms, including building and deploying FPGA images
+	- Experience with Linux, virtual machines, and AWS.
+	- Experience with workflow automation.
+
+
 
 
 
@@ -980,7 +1068,10 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Knowledge of C++
 	- Experience with HW verification
 	- Knowledge of scripting languages (Python, Tcl)
-
++ Familiar with BFM of common communication, storage and bus protocols, such as PCIe/DDR/AMBA
+	- BFM:
+		* common communication
+		* bus functional model (BFM)
 
 
 

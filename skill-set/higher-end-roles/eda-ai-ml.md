@@ -192,6 +192,7 @@ Skills for EDA software development, and other high-end software development:
 	- ***experiment driven development***
 + Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
 + Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
++ ship high quality software at scale
 + experience with these software testing methodologies:
 	- unit tests
 	- integration tests
@@ -397,7 +398,7 @@ List of semiconductor companies:
 	- [Habana Labs](https://habana.ai/about-us/)
 	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
 	- [AlphaICs Corp](https://alphaics.ai/company/careers/)
-	- [NAME](URL)
+	- [Panmnesia](https://panmnesia.com/)
 	- [NAME](URL)
 	- [NAME](URL)
 	- [NAME](URL)
@@ -736,6 +737,150 @@ Skill sets for STCO and DTCO:
 	- Min 2 years of Experience in development, deployment of CMOS based PDK, with various front, back end EDA tools and design flows.
 	- Experience in developing machine learning/AI algorithms for clustering, regression, timeseries, multi modal data, optimization is a plus.
 	- Able to work both independently and as a team when required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Mixed-Signal/RF Multi-Processor System-on-Chip Generators, Mixed-Signal/RF MPSoC Generators, or Mixed-Signal/RF MPSoC Synthesis
+
+
+
+
+Sets of skills for mixed-signal/RF multi-processor system-on-chip generators, mixed-signal/RF MPSoC generators, or mixed-signal/RF MPSoC synthesis:
++ skill set:
+	- Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborate with performance modelling team for performance exploration and optimization to meet performance goals.
+	- 5+ yrs of recent industry experience in high-performance, energy-efficient CPU designs.
+	- Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; integer; floating-point, and vector units; load-store unit; cache and memory subsystems.
+	- Knowledge of RISC-V architecture is a plus.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Scala and/or Chisel is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- Background of successful CPU development from architecture through tapeout.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- SiFive is looking for hardware engineers who are passionate about designing industry-leading CPU and interconnect IP to help drive the tidal wave of adoption of RISC-V as the architecture of choice for SoC designs across a broad variety of vertical applications. We build and maintain multiple CPU family lines, TileLink interconnects and other uncore/infrastructure IP, and are seeking motivated individuals to improve/evolve our existing IP, as well as develop new IP. Join us and surf the RISC-V wave with SiFive!
+	- Architect, design and implement an enhanced TileLink interconnect, protocol bridges, and other infrastructure/uncore logic as RTL generators, including both open-source and proprietary designs.
+	- Improve current designs and work on future designs to provide higher performance, more efficient multi-core and multi-cluster system coherence.
+	- Integrate new design content into SiFive’s Chisel/FIRRTL framework and contribute to improvements to that framework to enable automatic configuration/generation of design collateral.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- 5+ yrs of recent industry experience with coherent fabric, protocols for scalable multi-core and multi-cluster SoC designs.
+	- Experience with NoC or other interconnect fabrics.
+	- Experience with industry standard bus protocols (e.g. AMBA). Knowledge of TileLink is a plus.
+	- Knowledge of cache coherence protocols, architectures and concepts.
+	- Ability to architect solutions to connect bus fabrics of disparate protocols.
+	- Strong software engineering skills/background, including:
+		* object-oriented, aspect-oriented, and particularly functional programming;
+		* compiler infrastructures and data modeling for intermediate representations, particularly for domain-specific languages.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Chisel, Bluespec, or other HDL for expressing configurable hardware via software is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
+	- Create more efficient shared arithmetic units; combining capabilities for single/double/half-precision floating point, integer, and/or fixed-point operations
+	- Design in extensive configurability as a first-class consideration, including reuse of ALU designs for vector and scalar operations
+	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans
+	- Ensure that knowledge is shared via great documentation and a participation in a culture of collaborative design
+	- 4+ years of recent industry experience in CPU design
+	- Knowledge of vector architecture and concepts.
+	- Prior experience designing high-performance vector and/or SIMD processors/units.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
 
 
 
@@ -3835,6 +3980,11 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Experience in video streaming and/or image processing design will be added advantage
 	- Neural network inference experience with resource constrained devices like FPGA/microprocessors will be added advantage
 + skill set:
+	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- Performing initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Knowledge of vector architecture and concepts.
+	- Prior experience designing high-performance vector and/or SIMD processors/units.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -4723,6 +4873,28 @@ Skill sets for application engineers of different EDA products:
 	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV,Tensorflow,Keras,Pytorch, and Caffe.
 	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
 	- Location: San Diego, CA.
++ skill set:
+	- Descript is offering research internships to PhD and motivated masters students working in machine learning, human computer interaction, natural language processing, computer vision or computer audition. At Descript, we make technology that is transformative for content creation and media editing. Join us and help a passionate cross-disciplinary team of researchers, engineers, and designers build the next generation of media creation tools.
+	- As a research intern, you will collaborate with our research and/or engineering teams to develop exciting and novel technology, as well as work closely with researchers who regularly publish in top-tier journals and conferences. We are also interested in fostering ongoing collaborations, and are open to longer term projects that may become part of your PhD thesis, while also having meaningful impact for Descript users. Descript is the perfect vehicle for deploying cutting edge research to real users.
+	- Our research team is located primarily in Montreal, with some researchers working from France, as well as the Bay Area. Due to the COVID-19 pandemic, the location of the internship will be flexible, if not remote. You will be paired with a full-time researcher on a project tailored towards your skillset and interests.  The expected duration of the internship is anywhere between 3-6 months, and start dates are flexible.
+	- Pursuing a PhD or Master’s degree with a focus on one or more of the following research areas: computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision.
+	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
+	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
++ skill set:
+	- Descript is powered by state-of-the-art Deep Learning technology, lowering the barrier to entry for content creation. Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit and mix spoken audio and video comes with a series of unique challenges and requires solving hard and complex problems. This team has pioneered text-based media editing through tools like Overdub and Studio Sound. 
+	- Own the ML infrastructure and production pipelines to bring the magic of AI to the end users
+	- Collaborate with the engineering team to bring  AI services to life
+	- Provide guidance on the performance trade-offs of Deep Learning models in production to the rest of the organization
+	- Ability to write flawless, readable and maintainable code in Python. Experience with Go is a plus.
+	- Familiarity with gRPC and Deep Learning model deployments
+	- Experience in design, development and maintenance of tools for ML data and modeling pipelines, including big data processing, model training and evaluation, continuous integration and development, model quality monitoring and analytics
+	- Previous experience with developing machine learning infrastructure or experience in using GPUs
+	- Strong analytical skills and a real passion for efficiency of the data and modeling process
+	- Familiarity with deep learning frameworks (e.g. Tensorflow, PyTorch)
+	- Preferred: Experience with on-device deployment of the deep learning models
+	- Preferred: Ability to deal well with ambiguous problems, and proceed with good judgement
+	- Preferred: Knowledge and experience with Google Cloud Platform and Kubernetes
++ Familiar with a certain deep learning framework, such as TensorFlow, MXNet, Caffe, Torch, etc., and have a deep understanding of deep learning
 + skill set for SOFTWARE ENGINEER (INTERN)—DEEP LEARNING/MACHINE LEARNING /COMPUTER VISION
 	- Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.
 	- Development of AI profiling tools for neural processor engines to optimize the deep neural network architectures
@@ -8833,6 +9005,42 @@ Skills for natural language processing, NLP:
 	- linear systems
 	- audio data analysis
 + skill set:
+	- Oversee research process implementation, from problem definition all the way to concrete research experiments.
+	- Collaborate and communicate clearly and efficiently with the rest of the team about the status, results, and challenges of your current tasks.
+	- Contribute to designing the research roadmap of the company.
+	- Train and mentor other members of the team.
+	- Own the research function of specific product features.
+	- As a core member of our research team, you'll play an integral role in challenges such as:
+	- Creating realistic voice doubles using only a few minutes of audio.
+	- Designing and developing new algorithms for media synthesis, anomaly detection, speech recognition, speech enhancement, filler word detection, etc
+	- Devising and implementing fast and robust algorithms for spectrogram inversion.
+	- Creating tools to synthesize photo-realistic videos that match our Overdub (personalized speech synthesis) feature.
+	- Developing algorithms for detecting synthesized media.
+	- Coming up with new research directions to improve our product.
+	- Proven experience in designing and implementing deep learning algorithms. 
+	- PhD or Master’s degree specialized in Deep Learning or equivalent experience. 
+	- Track record of developing new ideas in machine learning, as demonstrated by one or more first author publications or projects. 
+	- Good programming skills and experience with deep learning frameworks.
+	- Publications at top ML/Speech conferences is a big plus: NIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set:
+	- Provide software design and programming expertise to support research projects. You will work closely with Applied Research Scientists to solve exciting research problems. You will own software development and iteration throughout the research cycle.
+	- Read, understand, and replicate recent AI research papers.
+	- Communicate clearly and efficiently with the rest of the team about the status, and results of your current tasks.
+	- Architect and implement software libraries to allow our research to improve and scale.
+	- Code data pipelines required to train deep learning models.
+	- Write and maintain good quality code.
+	- Work with our engineering team to deploy and maintain research models in production.
+	- Creating realistic voice doubles using only a few minutes of audio.
+	- Designing and developing new algorithms for media synthesis, anomaly detection, speech recognition, speech enhancement, video generation, filler word detection, and more.
+	- Devising and implementing fast and robust algorithms for spectrogram inversion.
+	- Creating tools to synthesize photo-realistic videos that match our Overdub (personalized speech synthesis) feature.
+	- Developing algorithms for detecting synthesized media.
+	- Proven experience in implementing and iterating on deep learning algorithms. 
+	- BSc/BEng degree in computer science, mathematics, physics, electrical engineering, machine learning or equivalent (MSc or PhD preferable).
+	- Good programming skills and experience with deep learning frameworks (preferably Pytorch).
+	- Strong knowledge and experience of Python.
+	- Publications at top ML/Speech conferences is a big plus: NeurIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set:
 	- This is an opportunity to join the innovation division of EON, a leader in the healthcare patient management space, and expand our Computational Linguistics and Machine Learning capabilities. You will work with our Data Science, Engineering and Product teams to develop product features based on Computational Linguistics and Machine Learning technologies, ensuring that these new features address customer needs.
 	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people’s lives.
 	- In this role, you will apply Computational Linguistics and Machine Learning to create systems that innovate healthcare products at scale. In addition to a world-class data set, you’ll also have access to domain experts for annotations to help drive investigation and learning.
@@ -10104,6 +10312,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
++ Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, 
+database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
 + skill set:
 	- data pipeline and workflow management teams:
 		* Airflow
@@ -10164,6 +10374,26 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Bonus: experience with Kubernetes, Terraform, AWS, Puppet.
 + Familiarity with Python, React, GraphQL, and MySQL or similar relational databases
 + Familiarity with Python, React, GraphQL and online storage systems such as MySQL or MyRocks
++ skill set:
+	- Curious mindset : Solve ambiguous business problems using in-depth analysis to discover and size opportunities for growth levers.
+	- Empower stakeholders: Be a strategic partner to product and engineering and drive data informed decisions
+	- Build for future: Build and improve on the availability, integrity, accuracy, and reliability of data logging and data pipelines to democratize data and insights for extensive future scaling.
+	- Communication: Define how success is measured and own the creation of metrics to track product / launch performance. Build self serve dashboards reports for tracking these metrics
+	- Experiment: Design and measure experiments  using statistical and econometric models to draw detailed and impactful conclusions
+	- Build the foundation: Establish and detail foundational work and frameworks, and establish data science processes
+	- Strong storytelling: distill interesting and hard-to-find insights into a compelling, concise data story
+	- Burning desire to inspire change through data and are enthusiastic about innovating in a fast-paced data science team
+	- Comfortable with ambiguity and able to thrive with minimal oversight and process
+	- Curious and bring genuine excitement to learn new subject areas and are comfortable to be scrappy as and when needed
+	- Effective communicator and pay attention to the finer details
+	- Empathize with customers and stakeholder and build meaningful relationships
+	- Self-aware of strengths and seeking to constantly learn and improve
+	- You don’t allow perfect to become the enemy of the good
+	- 5+ years of professional experience doing quantitative analysis (or 2+ if PhD in a quantitative field)  
+	- MS or higher in a quantitative field (e.g., Math, Economics, Statistics, Sciences, Engineering, CS, OR, ML or other quantitative fields)
+	- Advanced experience with experimental design and statistical methods such as causal Inference
+	- Expert knowledge of a scientific computing language (such as R or Python), SQL, visualization, data modeling, ETL, and the data warehousing concepts
+	- 2+ years within SaaS industry-ideally at an prosumer SaaS platform
 + skill set:
 	- As a data scientist at Quora, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
 	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
@@ -10977,6 +11207,7 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 Skill sets for business analytics:
++ Form and validate data-driven hypotheses for accelerating customer retention and revenue, working closely with engineering, design, marketing, and analytics
 + skill set:
 	- Minimum of 3 years' delivery experience in advanced modeling environment: strong understanding of statistical concepts and predictive modeling. (e.g., AI neural networks, multi-scalar dimensional models, logistic regression techniques, machine-based learning, big data platforms, SQL, etc.).
 	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.

@@ -16,6 +16,9 @@ List of companies in compiler design:
 
 ##	Skill Set for Compiler Design
 
+
+
+
 Notes:
 + Compiler design involves code optimization (with the intermediate representation, and during code generation - such as instruction scheduling and register allocation), rather than merely than implementing interpreters that translate source code to binaries/executables.
 	- Other steps in code generation do not need optimization, such as debug data generation.
@@ -136,6 +139,17 @@ Skill set for compiler design:
 	- Familiarity with the contribution process to upstream GCC would be a significant plus, as well as experience in the Binutils domain or willingness to develop expertise on this front.
 	- This position is a great opportunity to get in touch with a large base of users developing industrial grade software, often safety critical, in very diverse areas. It also gets you to strengthen the GNU toolchains overall, providing solid grounds for numerous contributions upstream.
 + skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up.
+	- Our LLVM based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a solid senior LLVM compiler team member with proven experience in compiler technology such as SSA-based global optimizations, auto-vectorization, ISA extensions, and high-performance computing. The candidate should demonstrate a track record in cross-team collaboration and in delivering high quality compiler products. 
+	- Working with SiFive’s LLVM compiler team in improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- 3+ years of experience in compiler technology.
+	- Degree in computer science or engineering.
+	- Experience with open source contributions. 
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -233,6 +247,17 @@ Skill set for compiler design:
 + skill set:
 	- Experience in MLIR or similar multi-level optimizing compilers.
 	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- We are looking for an experienced MLIR compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Developing MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Developing large-scale production software with testing and continuous integration in mind.
+	- Closely collaborating with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborating with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 5+ years of experience in compiler technology.
+	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 5+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
 + skill set:
 	- Familiarity with object oriented and functional programming languages. Experience in ***Scala*** and/or ***Swift*** highly desirable.
 	- Collaborating with colleagues to integrate with ***MLIR Compiler*** stack written in ***C++***.

@@ -12,6 +12,47 @@
 
 Skill sets for generic statisticians:
 + skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for Biostatisticians
+
+
+
+Skill sets for biostatisticians:
++ skill set:
 	- The Statistical Center for HIV/AIDS Research and Prevention (SCHARP) at Fred Hutch is a full service statistical and data management center focused on HIV prevention research. SCHARP has an annual budget of over $40 million, more than 180 employees and is currently managing over 40 active phase I – III clinical trials in over 150 clinical sites around the world. SCHARP is seeking a Biostatistician II or III.
 	- The Biostatistician provides low-intermediate-level (II) or high intermediate-level (III) statistical support in the planning, operations, monitoring, analytic, and exploratory stages of clinical trials and research.
 	- SCHARP is seeking a Biostatistician II/III to support the work of our partner, the Vaccine & Immunology Statistical Center (VISC) at Fred Hutch. Since 2005, VISC has partnered with world-class research programs and laboratories to tackle global public health initiatives in HIV, TB, Malaria, and other infectious diseases. VISC is supported by grants from the Bill & Melinda Gates Foundation. VISC works with high-dimensional, next generation sequencing, and multiplex immunological assay data, with the aim of improving our understanding of the immune system and its potential in fighting infectious diseases. VISC's focus encompasses a wide methodological spectrum, ranging from traditional biostatistics to cutting-edge techniques in machine learning and dynamic modeling.
@@ -123,47 +164,6 @@ Skill sets for generic statisticians:
 			+ 2+ years of experience in statistical project management.
 			+ Functional understanding of network needs and objectives.
 			+ Able to lead network-specific statistical tasks with minimal supervision.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
-##	Skill Sets for Biostatisticians
-
-
-
-Skill sets for biostatisticians:
 + skill set:
 	- The XPRIZE will launch a $101M Healthspan XPRIZE to incentivize teams worldwide to advance therapeutics to clinical trials that can improve health and function in older adults. The prize is anticipated to build one of the world’s leading clinical trials networks for aging and geroscience intervention studies and biomarker consortium. These early-stage trials (e.g. phase I and proof-of-concept) to enhanced phase II trials will range in scale from dozens to hundreds of human subjects research trials that will be conducted both within the US and by international teams. Key investigational agents include pharmacologic (new or repurposed), stem cell, medical device, lifestyle, health behavior, and personalized medicine approaches either alone or in combination. Teams will test the ability of their investigational agent or therapeutic approach to improve function and health across multiple physiologic systems in older adults. Trials are anticipated to use traditional double-blind placebo controlled trials or cross-over design trials, or may use innovative designs, such as adaptive design, n-of-1 and aggregate n-of-1 trials, etc. We will engage in a federated trials network, such that competing teams will be responsible for their own regulatory compliance, data and safety monitoring, and power and sample size justifications. However, we will engage or develop a XPRIZE Healthspan data management system to track team engagement, recruitment, basic monitoring, endpoint data for adjudication, and medical and safety event tracking as needed.
 	- The Biostatistician or Data Scientist will play a lead role in the XPRIZE Healthspan prize team in the design and analysis of clinical trials, working in close collaboration with Health Domain leaders, Prize Operations and IT, as well as competing teams and analysts. The Biostatistician will join an exceptional team at XPRIZE, with latitude to conduct methodologic research in clinical trial design and analysis topics, drawing on common data from upcoming trials. The position is ideally suited for people with MS-level training or higher in biostatistics or statistics, but we will consider exceptional candidates with a combination of a bachelor’s degree and relevant experience working on clinical trials, clinical research, biomarker development and validation, or machine learning.

@@ -838,6 +838,14 @@ reactive programming = asynchronous dataflow programming
 	- Experience with developing and running microservices
 	- There are endless learning and development opportunities from a highly diverse and talented peer group, including experts in a wide range of fields (AI, Computer Vision, Government Contracting, Systems & Device Engineering, Operations, Communications, and more)!
 + Develop full-stack web applications with Python, TypeScript, React, GraphQL, etc.
++ technology stack:
+	- React
+	- TypeScript
+	- Node.js
+	- Memcached
+	- Postgres
+	- Docker
+	- Elasticsearch
 + skill set:
 	- BLAH.
 + skill set:
@@ -899,6 +907,11 @@ reactive programming = asynchronous dataflow programming
 + FastAPI and SQLAlchemy
 	- FastAPI is a modern web framework for building RESTful APIs in Python.
 	- SQLAlchemy is an open-source SQL toolkit and object-relational mapper (ORM) for the Python programming language 
++ skill set:
+	- Familiar with common Internet infrastructure, such as hdfs, mysql, etc.
+		* Hierarchical Data Format (HDF).
+	- Experience with databases, such as MySQL, Postgres and InfluxDB.
+	- Experience with CI/CD framework, such as Jenkins.
 + Experience with MongoDB and/or ELK
 + skill set:
 	- We’re looking for an experienced Senior Software Developer (back end) to join a team of talented engineers to develop high quality products which are scalable, testable, extensible, and provide high value to our customers.
@@ -1810,6 +1823,7 @@ reactive programming = asynchronous dataflow programming
 	- Kafka
 	- Envoy
 	- Storybook
++ modern front-end web technology stack (such as React + Redux + ES6 / TypeScript)
 + skill set:
 	- Good understanding of front-end technologies such as HTML5, Angular, JavaScript
 	- Experience in designing user interfaces for web

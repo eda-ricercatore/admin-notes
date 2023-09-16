@@ -34,6 +34,22 @@ Cool soft skills to acquire:
 + IT skills:
 	- office productivity tools:
 		* LibreOffice, Apache OpenOffice, and NeoOffice.
++ ***It is okay to be opinionated, but not ideological such that I cannot or don't want to learn new technologies as I go.***
+	- understand the trade-offs between choices of technologies and programming languages
++ use empathetic communication in technical discussions, such as during disagreements, to thoughtfully engage other perspectives and compromise when needed.
+	- communicate nuanced ideas clearly
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

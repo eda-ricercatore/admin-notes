@@ -354,6 +354,7 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 Sets of skills for autonomous road vehicles:
++ Familiarity with modern planning approaches including randomized search methods and trajectory optimization
 + skill set:
 	- NVIDIA is seeking deep learning research / engineering interns to join the AV perception research team. The team consists of a group of dynamic AI applied researchers and engineers and is committed to build industry-grade deep learning to take autonomous vehicle (AV) perception into production, we work on fundamental advances in scientific methods to enabling scaling-up the entire perception for the autonomous driving stack. We are looking for highly motivated individuals to work in the areas of deep learning, optimization and computer vision. Our interns have the unique opportunity to make algorithmic contributions to core products and apply their ideas at a very large scale. As an intern, you will conduct applied research related to one of the meaningful research topics mainly related to perception for autonomous driving. You may also have the opportunity to publish in premier conferences in the fields of Machine Learning and perception.
 	- In order to scale-up current AI-algorithms, we need to learn from datasets orders of magnitude larger than existing ones which is a very challenging task. Our team at NVIDIA is dedicated to developing new algorithms to explore the vast amount of collected data to improve AI-based applications such as AV.

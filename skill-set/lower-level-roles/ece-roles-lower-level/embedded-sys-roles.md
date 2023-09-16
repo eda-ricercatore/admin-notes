@@ -21,6 +21,20 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Those with KVM/VFIO/QEMU/IOMMU related development experience are preferred;
 	- Experience in Linux PCIE driver development or relevant understanding of PCIE protocol is preferred;
 + skill set:
+	- System Performance Analysis Engineer
+	- System-level performance model development
+	- System performance analysis
+	- Competitor board enabling and benchmarking
+	- Competitor microarchitecture analysis
+	- Root cause the the performance difference caused by either SW and/or HW
+	- SiFive board benchmarking
+	- Experienced with system performance analysis
+	- Experienced with hypervisor
+	- Experienced with system model development
+	- Experienced with board enabling and benchmarking
+	- Experienced with micro-architecture performance analysis
+	- Experienced with microbenchmark design
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -293,6 +307,26 @@ Sets of skills for embedded software development roles:
 	- Experience debugging with GDB, JTAG and OpenOCD
 	- Experience with the following: RTOSes such as FreeRTOS; C++ and Python; virtualization, IOMMUs, and SoC platform security; debugging complex multicore systems; debugging with JTAG and OpenOCD.
 	- Experience with building tool/system including Make, CMake, Yocto, and Bazel
++ skill set:
+	- Experience with software validation for one of software (compiler, BSP/Linux kernel, and  AI/ML framework)
+		* In embedded systems, a board support package (BSP) is the layer of software containing hardware-specific boot firmware and device drivers and other routines that allow a given embedded operating system, for example a real-time operating system (RTOS), to function in a given hardware environment (a motherboard), integrated with the embedded operating system.
+	- Rich Experience with building tool/system like Make, CMake, Yocto, and Bazel
+	- Familiar with gtest, python unittest or other testing frameworks.
+	- Familiarity with software release management tools
++ skill set:
+	- Responsible for the functional design, development, verification and integration of the embedded system of the unmanned vehicle
+	- Responsible for the development of driver programs, test tools and calibration tools, performance tuning, diagnosis and other functions of the unmanned vehicle system;
+	- More than 3 years of embedded development experience, bachelor degree or above;
+	- Familiar with C/C++, familiar with at least one scripting language (python/shell), have good development habits, document specifications and coding habits;
+	- Have experience in Linux application or device driver development or RTOS driver or application development experience;
+	- Familiar with the working principles and communication protocols of common buses such as SPI, I2C, UART, CAN, and Ethernet;
+	- Understand the working principle of lidar, millimeter wave radar, camera, IMU, GNSS or other sensors;
+	- Good English reading skills, good listening and speaking skills;
+	- Self-driven, willing to delve into technical problems and find the most reasonable solution;
+	- Proficient in ARM, DSP or other CPUs
+	- Experience in Nvidia AGX Xavier platform development is preferred
+	- Experience in Jenkin CI, software integration and test development is preferred.
+	- Experience in robot control software development, sensor system development experience or ROS experience is preferred
 + skill set:
 	- BLAH.
 + skill set:
