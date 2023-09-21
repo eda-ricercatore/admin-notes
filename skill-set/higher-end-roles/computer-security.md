@@ -487,6 +487,43 @@ Roles in computing security:
 
 
 
+
+
++ skill set:
+	- The applied crypto team of Trustworthy Technology and Engineering Lab in Huawei Munich Research Center is developing applied crypto technologies, which is designed for supporting privacy and data protection. To support our research activities, we are looking for enthusiastic and highly motivated PhD student in applied crypto technologies. The PhD student will contribute to the research and development of applied crypto technologies for future data security and secure AI system. The candidate has the opportunity to work on real world problems and improve data security of Huawei future’s products and services.
+	- Assess data security risks of target application scenarios
+	- Research on innovative algorithms in the field of applied crypto technologies
+	- Implement the proof of concept of innovative algorithms
+	- Publish research papers and technical reports at high ranked scientific conferences
+	- Improve data security engineering process as well as data security by design concept
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, privacy, crypto，electrical engineering, or mathematics;
+	- You have research experience in data science, machine learning and/or artificial intelligence;
+	- You have demonstrated affinity with algorithm development;
+	- You have a passion for finding solutions for complex technological issues;
+	- You have excellent collaboration and communication skills;
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
+	- You have good programming skill in Java, C，C++，R, Python
++ skill set:
+	- We are currently looking for a Senior Specialist - Security Standards Organisation to join our Industry standardization Department in Lausanne. Our Industry Standardization department is responsible for the quality and timeliness of the corporate industry standardization strategies and implementation tactics. Another key mission is to help business departments coordinate and align their industry standardization strategies and implementation tactics with corporate strategy. It also ensures effective execution of industry standardization strategies and decisions to realize quality and efficient work.
+	- Maintain effective operations of account departments and working groups for industry standards organizations, and enhance the capabilities of Huawei team in standardization activities. Participate in regulation making and operations of standards organizations, Ensure that the standards team effectively execute industry standardization strategies and tactics
+	- Gain insights into industry standards organizations in real time to identify changes in standardization. Respond to crises and effectively control risks. Facilitate the development of corporate industry development strategies and help enhance Huawei product competitiveness
+	- Promote connections and coordination between industry standards organizations and OpenSource communities, as well as industry alliances. Achieve industry development strategy goals through multi-methods
+	- Continue to enhance our strengths in essential patents, and promote connections and coordination among research, standardization, and patents to ensure the development of Huawei products and Markets
+	- Build and improve capabilities contributing to industry standardization, as well as attract high-level standardization experts to ensure we have industry- leading standardization capabilities
+	- Leading Huawei’s international standards efforts in various security areas, representing Huawei to dialogue with senior security managers and experts from customers and industrial partners around the world, privilege of attending high-level security-related strategies meetings in Huawei.
+	- Creating personal brand in the industry base on abundant resources available from the corporation, increasing popularity and gain more respect to realize the evolvement of personal career.
+	- In charge of the overall and domain-specific security-related standards strategy development, procedure optimization; summarize method and experience through project and planning
+	- Shaping security standards strategies that will drive Huawei to accomplish its objectives of becoming one of leading players in security –related technical areas and safeguard Huawei’s business interests without being hampered for security reasons.
+	- Build brand and connection in industry, represent Huawei to high-level industry summits, conferences, present Huawei’s opinion and get positive influence in various security areas.
+	- Gain insights into the technology development direction of security standards organizations.
+	- In charge of the overall and domain-specific security-related standards strategy development, procedure optimization; summarize method and experience through project and planning.
+	- Leading Huawei’s international standards efforts in various security areas, representing Huawei to dialogue with senior security managers and experts from customers and industrial partners around the world
+	- Output an insight report on security standards organizations.
+	- Build influence and guide the company's technical investment.
+	- Leading position in the industry in security-related standards area.
+	- Have a thorough and deep understanding of security standards and the industry.
+	- Be able to have a keen insight into the development trend of security technologies.
+	- Have at least eight years of working experience in the security standards field.
 + skill set:
 	- Lead service security planning and architecture design, including but not limited to attack defense, overload control, content compliance, and authentication system design. Improve product security capabilities.
 	- Participate in end-to-end delivery of security service features, covering phases including requirement analysis, module design, development, and rollout.

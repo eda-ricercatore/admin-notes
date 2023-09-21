@@ -138,6 +138,57 @@ Skill set for DevOps:
 	- Familiarity with ML framework (Tensorflow/Tensorflow-Lite/Pytorch) is plus
 	- In addition to the above, if you have rich experience in software automation and testing, and good system debugging and integration capability in large scale software systems, you are the professional we are looking for!
 + skill set:
+	- configuration management and orchestration tools:
+		* Ansible
+		* Chef
+		* Docker
+		* Terraform
+	- using a Linux-based software development environment, and implementing DevOps best practices:
+		* Airflow
+		* Ansible
+		* Docker
+		* Kubernetes
+		* Terraform
+	- areas:
+		* machine learning
+		* natural language processing
+		* machine vision
+		* recommendation systems
+		* data pipeline architecture
+	- building tools for application performance, continuous integration, continuous deployment, or developer environments
+	- Experience with:
+		* Docker
+		* Jenkins
+		* Kubernetes
+		* Terraform
+		* Travis CI
+		* other infrastructure/CI tools
++ skill set:
+	- production level Kubernetes, Helm, and Terraform experience
+		* Helm
+			+ package manager for the Kubernetes platform, or "software built for Kubernetes"
+			+ "Helm is a package manager that helps developers "easily manage and deploy applications onto the Kubernetes cluster." 
+		* Terraform
+	- experience with GitOps workflows for changes to environments
+		* GitOps workflows
+			+ "GitOps is not a single product, plugin, or platform"
+			+ GitOps components include:
+				- infrastructure as code, IaC
+				- merge requests (MRs), and pull requests (PRs)
+				- CI/CD, continuous integration and continuous delivery
+	- experience with observability tools such as Prometheus, Grafana, ELK, Tracing, etc.
+		* Prometheus
+			+ Prometheus (software), a monitoring system with a time series database
+			+ Prometheus is a free software application used for event monitoring and alerting. It records metrics in a time series database (allowing for high dimensionality) built using an HTTP pull model, with flexible queries and real-time alerting.
+		* Grafana
+			+ Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
+		* ELK
+			+ ELK stack, a technology stack composed of Elasticsearch, Logstash, and Kibana, now called Elastic Stack (probably this technology)
+			+ Extension Language Kit, an implementation of the Scheme programming language
+		* Tracing
+			+ https://en.wikipedia.org/wiki/Tracing_(software)
++ Automate continuous delivery pipelines for fast and reliable updates
++ skill set:
 	- Systems Engineer / DevOps
 	- Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
 	- DevOps and Systems Team

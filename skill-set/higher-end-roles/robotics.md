@@ -719,6 +719,17 @@ Sets of skills for autonomous road vehicles:
 	- You are fluent in English (written and spoken)
 	- Excellent software skills
 + skill set:
+	- Huawei Consumer Cloud Services is committed to providing users with a range of secure, rich, and high-quality services through device-cloud collaboration and by adopting a distinct Internet-based approach. We provide leading cloud services.
+	- We are currently looking for a Deep Learning Research Scientist ( Maps Search/Routing/Traffic/ETA/Datamining) for Huawei Map to join Huawei Mobile Services based in our Research Center in Zurich.
+	- Responsible for pre-research and breakthrough of map core algorithms, and archive more than 30% better performance over current industry best practices
+	- Research directions can be selected: road conditions, ETA, route planning, map search
+	- Master's degree or PhD in Computer Science, Mathematics, or a related technical field of study.
+	- Strong ability of commonly used machine learning algorithms, including Learning To Rank, Deep Learning;
+	- Familiar with Linux platform, proficient in C / C ++ programming, Python, Shell or other scripting languages;
+	- Can combine AI technology with the needs of the map field;
+	- Solid experience in road conditions, ETA and navigation
+	- Publication(s) in top-tier academic conferences or journals in related fields
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

@@ -269,6 +269,17 @@
 	- 8) Performed well in a very fast-paced and exciting environment to identify threats, defects, and weaknesses in complex systems, and to identify process improvement opportunities.
 	- 9) Strong written, verbal, and interpersonal communication skills, Be willing to help your teammates, share your knowledge with them, and learn from them. Works well as part of a team, Be open to receiving constructive feedback and turning it into process improvements.
 	- 10) Exposure to deep-learning machine technology is highly desirable*.
++ skill set for Open Source (OS) Test Architect:
+	- Build end to end test framework and test standards for long-term Android, Linux, IOS and other operating systems optimization;
+	- Review/refine existing QA processes and tools and assist in establishing new standards and processes based on industry trends and best practices;
+	- Undertake design of corresponding test frameworks and test suites for open source community; design the corresponding test certification frameworks and test suites for developers & ODM vendors, etc.
+	- Lead the verification and evaluation of key technologies in the OS field (kernel scheduling, file system, memory management, database, CPU / GPU scheduling, etc.) and support the key competitiveness of product operating systems;
+	- 10+ years experience in large-scale operating system testing, quality control and development. Experts who have worked in operating system-related companies are preferred;
+	- 2+ years of leadership experience, project planning and task decomposition skills;
+	- Familiar with OS architecture (Linux, Android, IOS, Windows, etc.) and proficient in OS key module development or testing (memory management, file system, performance tuning, etc.);
+	- Familiar with the construction of open source community, testing and quality control systems and related certification testing and admission testing related work;
+	- Education: Master's degree or higher;
+	- English: Upper-intermediate or higher.
 + skill set:
 	- BLAH.
 + skill set:

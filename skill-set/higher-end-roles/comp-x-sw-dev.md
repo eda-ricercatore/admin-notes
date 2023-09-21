@@ -1243,6 +1243,18 @@ Skill set for software development for computational fluid dynamics, CFD:
 	- Microfabrication techniques experience (photolithography, micromachining, bonding processes, etc.)
 + Experience in CFD combustion or other reacting-flow simulations.
 + skill set:
+	- Reservoir Labs is seeking talented engineering, computer science, and mathematics interns to join our team. We are working on some of the most interesting and challenging problems related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics.
+	- As a member of our team, you will participate directly in our research, learn new skills at the cutting edge of computer science, and gain visibility with our customers. You will work with engineers across diverse areas and will be mentored by a Ph.D. researcher. You will have the opportunity to share your fresh perspective and make strong contributions to our research and engineering team.
+	- The concrete research and deep systems experience that you will gain working on projects at Reservoir will be especially beneficial to your application to graduate schools or search of full-time industry jobs.
+	- Some examples of recent intern projects include developing parallel hypergraph analytic visualization for cybersecurity, developing parallel SAT solvers, developing advanced systems software testing infrastructure, developing advanced optimizations for LQCD physics computations.
+		* LQCD physics computations
+		* Lattice QCD, lattice quantum chromodynamics
+			+ Monte-Carlo simulations
+			+ fermions on the lattice
+	- An ideal candidate will have exceptional intellectual ability, motivation, and a strong history of achievement. Solid foundation in computer science and/or software engineering and strong math background (Linear Algebra, Algorithms, Numerical Analysis) are desired. Serious consideration will be given to candidates with strong programming skills (C, C++, and Java) and knowledge of computer systems and architectures. LLVM or other compiler development experience would be particularly valuable. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
+	- Currently Reservoir Labs is operating remotely. Should on-site work resume by Summer 2022, this role will be based in Reservoir Labs' New York City offices.
+	- Candidates seeking work in Reservoir's offices in Portland, OR or Denver, CO may be considered as well on a case-by-case basis.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

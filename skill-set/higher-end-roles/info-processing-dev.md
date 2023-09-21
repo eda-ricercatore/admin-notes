@@ -428,6 +428,26 @@ reactive programming = asynchronous dataflow programming
 ###	Audio Processing
 
 
+
+
++ skill set for research in Binaural 3D audio:
+	- advanced technical research, architecture evolution design and strategic technical planning
+	- Audiovisual Technology Lab in Huawei Munich Research Center is developing innovative technologies on spatial audio processing and rendering. You will contribute to these activities being inserted into an international and experienced team of researchers.
+	- To support our research activities, we are looking for enthusiastic and highly motivated PhD candidate (m/f/d) who will contribute to the research and development of binaural 3D audio technologies.
+	- There are still many problems to be solved to provide great 3D audio experience with headphone. Individual measured HRTF filters could be used for accurate audio rendering, but this is not practical and time consuming. Moreover, a mismatching of virtual sound objects to real-world room acoustics might destroy the plausible impression of externalization and distance/depth perception. The rendering system should provide good spatial effect but also preserve timbral quality. This is still a very challenge task.
+	- Research on innovative algorithms in the field of binaural 3D audio technologies;
+	- Research on innovative algorithms in the field of HRTF customization;
+	- Research on innovative algorithms in the field of virtual acoustic environment;
+	- Implement the innovative algorithms on a reference software;
+	- Generate papers and technical reports if possible;
+	- To commit adequate time and effort to the project;
+	- To display initiative in identifying and resolving problems relating to the research;
+	- To manage their work efficiently so as not to place unreasonable demands on supervisors.
+	- Topic of interest include (but are not limited to): Binaural 3D audio
+	- You have recently completed or will soon complete your master studies in electronic and electrical engineering, information technology, computer science, mathematics or physics
+	- You enjoy working in a team and you like to collaborate with researchers to develop creative solutions
+	- You are fluent in English (written and spoken)
+	- Excellent software skills
 + skill set:
 	- Software Engineer, Backend (Audio Team)
 	- We are looking for a backend engineer to be responsible for developing APIs, building application backends, and putting in place scalable backend infrastructure across our audio platform. You will be responsible for designing scalable server side applications and robust APIs to serve our audio ML models. The ideal candidate will have experience provisioning large compute clusters for machine learning workflows and will have a strong history of supporting teams to create best practices for reliability and scalability.

@@ -3468,7 +3468,22 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 		* Experience in the development and support of commercial EDA software
 		* Experience in the implementation and verification of SoC designs
 		* A background in Computer Security or familiarity with Computer Security topics
-
++ skill set:
+	- The PhD candidate will contribute to the research, development, publication and product adoption of system security technologies for future computing architectures targeting AI and compute, working on real world problems for a wide range of Huawei products and services to preserve and prove their trustworthiness through technology, from a unique research position connecting Academia and Industry.
+	- Assess system security and platform resilience risks of application scenarios such as AI and compute
+	- Research on innovative concepts and architectures in the field of Trustworthy Computing
+	- Implement proof of concepts and support technology adoption in products
+	- Publish research papers and technical reports at top security conferences and collaborate with academic partners
+	- Improve, by design, the end to end system security capabilities of future Huawei products
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, electrical engineering, or mathematics
+	- You have research experience in system security, applied cryptography, computer architectures, OS design
+	- Experience with enclave engines, TEEs, secure processing architectures and accelerator designs is a plus
+		* TEEs, trusted execution environment
+	- You have good programming skills in C, Rust, C++, Python, Go and in system programming
+	- You have demonstrated affinity for concept design and hands-on validation
+	- You have a passion for finding solutions for complex technology issues
+	- You have excellent collaboration and communication skills
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project
 
 
 
@@ -4309,7 +4324,8 @@ Skill sets for application engineers of different EDA products:
 		* for high-performance machine learning research
 		* https://github.com/google/jax
 	- ***TensorFlow***
-		* TensorFlow Lite, TFLite
+		* ***TensorFlow Lite, TFLite***
+			+ ***TensorFlow Lite Micro***
 		* TFX, TensorFlow Extended
 		* TensorFlow Probability
 		* ***Keras***
@@ -4317,6 +4333,7 @@ Skill sets for application engineers of different EDA products:
 		* based on ***Torch*** library
 		* PyTorch JIT
 		* includes:
+			+ ***PyTorch Mobile***
 			+ Deep Speed
 				- deep learning optimization engine
 				- Zero Redundancy Optimizer, ZeRO, can optimize deep learning models with >1 trillion parameters
@@ -4347,6 +4364,7 @@ Skill sets for application engineers of different EDA products:
 		* edge inference frameworks:
 			+ ***PyTorch Mobile***
 			+ ***Tensorflow Lite, TFLite***
+				- ***TensorFlow Lite Micro***
 			+ benchmark for embededded-ai deep learning inference engines:
 				- NCNN
 				- TNN
@@ -5887,6 +5905,27 @@ Skill sets for application engineers of different EDA products:
 	- Familiar with software development process.
 	- Note: This is a full-time position.
 	- Location: San Diego, CA.
++ skill set for AI Algorithm Expert/Data Scientist:
+	- Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning
+	- Huawei’s German Research Center in Nuremberg (Nuremberg Research Center) is responsible for Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning.
+	- Responsible for exploring and breeding of the AI/Big Data algorithms and their application in on-board energy, data center energy, telecom energy and PV energy field, etc.
+	- Responsible for technology insight and planning, algorithm research and design, technology development and architecture maintaining of AI technology in energy field.
+	- Supervising a team of AI engineers to solve complex industrial and technical problems using advanced mathematical modeling and optimization technique, including but not limited to, big data pre-processing, problem formulation, feature engineering, algorithm selection, hyper parameters tuning and deployment. You will not only supervise the team but should also be able to code and deploy on your own
+	- Analyzing the latest development of industry and academia on industrial AI/Big Data field, participate in open communities and further organizations in industrial AI/Big Data, promote industrial AI/Big Data ecosystem construction and external cooperation, and increase the overall influence of Huawei energy.
+	- Lead the design and subsequent verification and validation of AI/Big Data algorithm concepts in the R&D laboratories.
+	- Essential:
+		* You hold an Master Degree in AI, software development, applied mathematics, statistics, control science or any related field
+		* You provide more than 10 years of experience in AI algorithm, research design ant it's application. In addition you have experience in Data Mining in an energy related industry
+		* You hold successful AI and Big Data related project experience in an energy related industry
+		* In-depth knowledge of AI/Big Data, Digital Twin and Operational Optimization algorithm, etc.
+		* Good grasp of at least one or more of the following languages such as Python, Matlab, R, C/C++, Java
+		* In-depth knowledge in at least one or more mainstream algorithm development frameworks such as TensorFlow, Caffe, MXNet, Scikit-Learn.
+		* You have initial experience in leading a development team and have certain encoding capability.
+		* Very good English skills in written and spoken (working language)
+		* Strong learning ability, passion for technology, good communication and coordination skills.
+	- Preferred:
+		* Doctor degree in AI, software development, applied mathematics or any related field with 5 years of experience in AI algorithm and Data Mining in an energy related industry
+		* Further language skills are an plus
 + skill set for SOFTWARE RESEARCH ENGINEER (SAN DIEGO, CA)
 	- A Software Research Engineer is sought by a company providing custom Deep Learning software for image and video analytics in San Diego, CA to perform the following duties:· 
 	- Design software architecture to improve software data training and machine learning framework;· 
@@ -9216,6 +9255,14 @@ Skills for natural language processing, NLP:
 	- EMNLP
 	- CHI
 + skill set:
+	- big data processing frameworks:
+		* Apache Spark
+	- machine learning and test mining (NLP) libraries and packages:
+		* scikit-learn
+		* Pandas
+		* NLTK
+		* Stanford CoreNLP
++ skill set:
 	- experience with ML deployment frameworks
 	- work with highly imbalanced data sets to improve detection performance of our existing NLP models and algorithms
 	- work closely with product and platform teams, participate in design reviews, and demo your work
@@ -11964,6 +12011,12 @@ They support databases for:
 	- styled-components
 	- RxJS
 	- cutting-edge libraries
++ data warehouses:
+	- Snowflake
+	- BigQuery
+	- RedShift
+	- Spark
+	- Presto
 + ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
 + MongoDB, Redis, Memcached, experience crafting NoSQL data models.
 + data engineering tooling: Airflow and Databricks

@@ -92,7 +92,8 @@ Technologies and skills for MIS:
 
 
 Skill set for management of information systems, MIS:
-+ database systems+ :
++ ***Refactor SQL code based on our best-in-class, in-house style guide.***
++ database systems:
 	- PostgreSQL database management system
 + Interact with MySQL data stores and NSQ messaging queues.
 + Senior Data Integration Solution Architect

@@ -46,6 +46,12 @@ Generic sets of skills in quantum computing:
 	- Background with commonly used machine learning frameworks (PyTorch, Tensorflow, JAX).
 	- Strong communication and teamwork skills needed. Being a creative and dynamic presenter is a huge advantage.
 + skill set:
+	- At Oxford Quantum Circuits (OQC) we are building quantum computers to enable life-changing discoveries : from new drug modelisation to longer-lasting battery technology and portfolio optimisation. We are developing a cloud based quantum computer service – Quantum Computing as a Service (QCaaS) – to help our customers improve their operations and trailblaze new commercial and scientific approaches.
+	- The FPGA plays an integral role in the control of our quantum computer. It is both the source and destination of the microwave pulses used to control and readout our qubits, and acts as both a pulse sequencer and a waveform digitizer. At OQC we are looking to develop our in-house solution further to increase our capabilities. As an FPGA engineer you will work within a team of highly qualified engineers on the design and implementation of our digital signal chain in which the pulses are generated, modified and captured.
+	- FPGA IP Design using VHDL or Verilog Verification and hardware testing Ensuring designs meet requirements (timing, utilisation, power) Python driver and test-case development Documenting design ideas, specifications and test results Managing tasks through to completion
+	- Bachelor’s degree (or higher) in engineering or similar 3+ years of commercial FPGA design and development experience Proven track record of IP design and verification using HDLs, preferably Verilog Proficiency with Vivado (scripting flow, defining constraints, build analysis) Experience in the design and implementation of DSP for FPGA Strong design, debug, and troubleshooting skills with solid hands-on experience using chipscope, oscilloscopes, spectrum analyzers and other test equipment Creative mindset for developing solutions to unique and challenging problems Technically versatile and able to learn new skills that you can apply across multiple types of work A willingness to take on other roles and responsibilities for the greater good of the team
+	- Appreciation and understanding of RF engineering Experience in PCB design, debug and bring-up Prior experience working in a start-up or small team environment
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

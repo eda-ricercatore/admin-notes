@@ -237,7 +237,7 @@
 	- Knowledge across multiple flavours of Unix O/S (CentOS 6/7/8, RHEL, Oracle Linux) with experience of permission management, system administration and other O/S features.
 	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
 		* Columnar Database, such as:
-			+ Vertica
+			+ Vertica: columnar data storage platform
 	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
 	- Excellent communications skills both written and verbal are required in this role. The ability to present complex ideas in a convincing and understandable manner is a key requirement.
 	- Aptitude for learning and demonstrated ability to master new technologies and concepts quickly.
@@ -247,17 +247,22 @@
 	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
 		* Network Elements
 			+ xNodeB
+				- E-UTRAN Node B, also known as Evolved Node B (abbreviated as eNodeB or eNB)
 			+ MME
+				- Multimedia Extensions, an extension to Windows 3.0 to support multimedia
+				- MME: mobility management utility
 			+ SGW
-			+ AMF
-			+ SMF
+				- Serving Gateway
+				- PGW: PDN Gateway
+			+ AMF: Access and Mobility Management Function
+			+ SMF: Session Management Function
 		* Interfaces
 			+ N1
 			+ S1-MME
 			+ S5/S8
 		* Protocols
-			+ GTP
-			+ SIP
+			+ GTP, GPRS Tunneling Protocol
+			+ SIP, Session Initiation Protocol.
 			+ Diameter
 	- Experience with one or more cloud platforms (AWS/Azure/GCP)
 	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
@@ -312,6 +317,24 @@
 	- Passion for shaping top quality consumer centric products.
 	- Extensive experience designing and implementing large-scale distributed systems, and experience in building large and medium-sized mobile platforms or one of millions of mobile internet services is preferred.
 	- Familiar with the online storage services or structured asset storage services, and experience in 10 million of mobiles services is preferred.
++ skill set for Network Engineer/Network Researcher:
+	- Our team’s mission is to develop new intelligent tools aimed at SRE and cloud maintenance operators to enable them to quickly detect anomalies thanks to the use of artificial intelligence when cloud services are slow or unresponsive. We analyze observability data from Huawei Cloud to detect glitches which impact customers, identify their root cause within seconds, and automatically fix problems, when possible.
+	- To drive automation and reliability, we are seeking a Network Engineer/Network Researcher to join the Ultra-scale AIOps Lab and the Computing and Network Innovation Lab which is distributed across Munich, Dublin, and Shenzhen Research Centers. This team is entrusted with developing key new innovative solutions for Huawei Cloud. You will take systematic approaches to solve operation problems, dissect how large-scale, complicated systems work, and feel a great satisfaction from making continuous improvements.
+	- Contribute with systems to the future generation of AIOps for networks and Intent-Based Networks.
+	- Propose new ideas and concepts to support self-driving networks.
+	- Work with AI/ML engineers to develop new tools for network performance analysis, anomaly detection, root cause analysis and network verification.
+	- Develop new tools using cutting edge technology focusing on efficiency and automation.
+	- Collaborate with colleagues from science, engineering, and business backgrounds
+	- Several years of professional experience working in large scale networking environments.
+	- Deep understanding of network management and operation.
+	- Experience with a global service provider or hyper-scale network in engineering or design roles.
+	- Knowledge of network analysis fundamentals and robust troubleshooting skills.
+	- Familiar with the overall architecture of public cloud networks.
+	- Experience with applying AI algorithms and knowledge in formal verification is a plus.
+	- Experience with automation via bash/shell scripting and Perl/Python/Java programming.
+	- Experience working within a Linux environment.
+	- Sense of ownership and drive.
+	- Demonstrated ability to solve challenging engineering problems.
 + skill set:
 	- BLAH.
 + skill set:

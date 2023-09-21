@@ -24,7 +24,7 @@ Measure performance in terms of:
 
 
 
-Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
+Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), and hardware/software co-design of computer systems:
 + Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
 + Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
 + skill set:
@@ -168,6 +168,26 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 	- Knowledge of at least one object-oriented and/or functional programming language.
 	- Background of successful CPU development from architecture through tapeout.
 	- MS/ PhD degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set for post-doc position on innovative solutions for High Performance CPU accelerators:
+	- We are looking for a candidate to a post-doc position at the Department of Information Engineering and Mathematical Sciences (DIISM) at the University of Siena (Italy). The candidate will address a comprehensive study of CPU parallel accelerators, focusing on their ISA support and their performance and programmability features.
+	- The candidate will be employed on the R&D project “Programmability and parallel execution of CPU accelerators and corresponding ISA support” funded by Huawei Technologies Research & Development (UK) Limited.
+	- The project requires the analysis of applications from different domains, in tight collaboration with Huawei, in order to identify a set of representative reference benchmarks in the CPU accelerator domain. Then, the modelling of ad-hoc and general-purpose accelerators with convenient HW and ISA characteristics (e.g., RISC-V), studying the impact of each choice with performance indexes that will be identified during the study. These accelerators will be integrated in processor simulators like gem5 and investigated though the selected benchmarks, which will be ported of the PHAST programmability framework. In this way, the relationship between acceleration opportunities, accelerators features and their programmability will be conveniently studied as to pursue an effective decoupling between accelerator-set availability and code structure, while pursuing high efficiency.
+		* https://www.hipeac.net/jobs/11635/post-doc-position-on-innovative-solutions-for-high-performance-cpu-accelerators/www-phast-library.com
+		* https://www.hipeac.net/jobs/11635/www-phast-library.com
+	- The candidate will cooperate with the research group at DIISM under the guidance of Prof. Sandro Bartolini, in coordinated fashion with the Huawei research group. The candidate will work in a highly collaborative and stimulating environment, to ensure that the project deliverables are successfully met. The DIISM research group interests include computer architecture, parallel and heterogeneous programming models, high-performance computing, programmer’s productivity and abstraction models, integrated photonics for CMPs, virtual reality and 3D simulation. Huawei Technologies Research & Development (UK) Limited works on a number of strategic technologies and, specifically, the group involved in this project focuses on computer architecture, general-purpose processors, accelerators, parallel systems, GPUs and their orchestrated usage in an heterogeneous system.
+	- Programmability and parallel execution of CPU accelerators and corresponding ISA support
+	- Identification of a set of reference benchmarks in the CPU accelerator domain;
+	- Modelling and evaluation of ad-hoc and general purpose CPU accelerators;
+	- Simulation and evaluation of the identified accelerators through simulator platforms like gem5;
+	- Porting of the identified benchmarks on the PHAST framework, extended to be included in the simulation environment.
+	- Very good knowledge of computer architecture
+	- Very good programming skills in C/C++
+	- Intermediate knowledge of general/special purpose accelerators and their programming models
+	- Intermediate experience with HW simulation and simulators
+	- [Optional] experience with the RISC-V ISA
+	- Fluency in English, spoken and written, and very good communication skills
+	- Ability to work both in an amazing and enthusiastic team, and autonomously, taking the initiative towards project objectives
+	- Ability to work under the pressure of deadlines. In some short periods there might be deadlines.
 + skill set:
 	- BLAH.
 + skill set:
@@ -299,7 +319,7 @@ Skill sets for computer architects in memory subsystems:
 
 
 
-Skill sets for computer architects in domain-specific processor architecture design, for domain-specific architecture or domain-specific accelerators:
+Skill sets for computer architects in domain-specific processor architecture design, for domain-specific architecture or domain-specific accelerators, and hardware/software co-design of domain-specific computer systems:
 + skill set:
 	- NVIDIA is in search of Summer 2022 intern candidates with interests in computer architecture to join our memory system architecture team!  This team drives memory system architecture in products tailored to NVIDIA’s world changing SOCs for autonomous vehicles, mobile systems, server systems, deep-learning, and gaming.
 	- Developing architecture and micro-architecture to improve the state-of-the-art in memory system optimizing along the axes of performance, power efficiency, complexity, area, effort, and schedule.
@@ -503,7 +523,7 @@ Skill sets for computer architects working with compiler designers, operating sy
 
 
 
-Skill sets for performance engineering, such as workload analysis, in computer architecture:
+Skill sets for performance engineering, such as workload analysis, in computer architecture; or performance analysis and workload characterizations of microarchitecture designs in the context of design space exploration and benchmarking:
 + skill set:
 	- Performance Architecture Engineer - Workloads Infrastructure
 	- We at SiFive are looking for a Performance Architecture Engineer - Workloads Infrastructure to join our growing team working on developing and improving methods for gathering and processing performance analysis data from various simulation platforms. SiFive is looking for someone with outstanding knowledge and skills in workloads, databases, emulation/FPGA platforms, and workflow automation who will build an environment to be used specifically with SiFive’s device simulation, emulation, and silicon environments used for generating performance data.
@@ -1413,6 +1433,12 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 Skills for FPGA-based digital circuit and system design, or "FPGA design engineer":
++ skill set:
+	- At Oxford Quantum Circuits (OQC) we are building quantum computers to enable life-changing discoveries : from new drug modelisation to longer-lasting battery technology and portfolio optimisation. We are developing a cloud based quantum computer service – Quantum Computing as a Service (QCaaS) – to help our customers improve their operations and trailblaze new commercial and scientific approaches.
+	- The FPGA plays an integral role in the control of our quantum computer. It is both the source and destination of the microwave pulses used to control and readout our qubits, and acts as both a pulse sequencer and a waveform digitizer. At OQC we are looking to develop our in-house solution further to increase our capabilities. As an FPGA engineer you will work within a team of highly qualified engineers on the design and implementation of our digital signal chain in which the pulses are generated, modified and captured.
+	- FPGA IP Design using VHDL or Verilog Verification and hardware testing Ensuring designs meet requirements (timing, utilisation, power) Python driver and test-case development Documenting design ideas, specifications and test results Managing tasks through to completion
+	- Bachelor’s degree (or higher) in engineering or similar 3+ years of commercial FPGA design and development experience Proven track record of IP design and verification using HDLs, preferably Verilog Proficiency with Vivado (scripting flow, defining constraints, build analysis) Experience in the design and implementation of DSP for FPGA Strong design, debug, and troubleshooting skills with solid hands-on experience using chipscope, oscilloscopes, spectrum analyzers and other test equipment Creative mindset for developing solutions to unique and challenging problems Technically versatile and able to learn new skills that you can apply across multiple types of work A willingness to take on other roles and responsibilities for the greater good of the team
+	- Appreciation and understanding of RF engineering Experience in PCB design, debug and bring-up Prior experience working in a start-up or small team environment
 + Senior Hardware Design/FPGA Engineer (TS/SCI with CI Poly Clearance Required)
 	- Under guidance of a principle investigator (PI) and/or customer, this person will contribute to platform-level security research projects providing FPGA design, software development, and testing support. This person will need to be able to cross seamlessly between software and hardware tasks along with demonstrating knowledge of hypervisor and firmware-level software.
 	- Important: Candidates must have a polygraph clearance (CI poly or Full Scope Poly) and must be willing to work in Central Maryland (Ft. Meade or Annapolis) at least part time with potential part time, remote work available.
