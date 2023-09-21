@@ -737,6 +737,82 @@ Skill sets for STCO and DTCO:
 	- Min 2 years of Experience in development, deployment of CMOS based PDK, with various front, back end EDA tools and design flows.
 	- Experience in developing machine learning/AI algorithms for clustering, regression, timeseries, multi modal data, optimization is a plus.
 	- Able to work both independently and as a team when required
++ skill set:
+	- Conduct fundamental research on new directions in computing systems
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems architecture, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems architecture
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+	- Design Space Exploration (DSE) Frameworks, Hierarchical DSE, Microarchitecture DSE, Architectural Models, Templates and Generators, Generator Methodology, Design Space Sampling, Constraint-Based DSE, Reusable Designs, System-Technology Exploration, Hardware-Software Co-Design and Co-Optimization
+	- Strong interpersonal skills and ability to work productively in a research environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -811,6 +887,32 @@ Sets of skills for mixed-signal/RF multi-processor system-on-chip generators, mi
 	- Ability to work well with others and a belief that engineering is a team sport.
 	- Knowledge of at least one object-oriented and/or functional programming language.
 	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- The SiFive Platform Engineering team is building an ambitious new infrastructure to support accelerated ASIC and FPGA design flows, IP delivery and SoC development - driving the next generation of SiFive's "Silicon at the speed of Software" mission. This infrastructure leverages state of the art compiler algorithms (built on open source MLIR and LLVM technologies), novel build system integration, and new Verilog RTL generation techniques.
+	- Our team combines many different perspectives and experiences, and we love working with people who combine a passion for learning and growth with product focus, practical experience, and a desire to build world-changing technologies.
+	- We encourage applicants from traditionally underrepresented groups in computer science to apply! 
+	- Evolve, design and build new compiler intermediate representations for hardware design and tool flows.
+	- Implement specific compiler optimization and lowering algorithms for chip design flows.
+	- Implement state of the art mechanisms for hierarchical caching that crosscut compiler and build systems.
+	- Participate in design discussions, planning, code review, documentation, open source processes, and other standard software practices.
+	- Collaborate with hardware architects to develop the approach and design flows.
+	- Manage your individual project priorities, deadlines and deliverables.
+	- We are hiring for several positions with different levels of seniority, but require a minimum of 2 years of compiler engineering experience.
+	- Strong oral and written communication skills, excellent team collaboration.
+	- Experience with C++ programming and git-based development workflows.
+	- Experience with Verilog and other chip design technologies is NOT required.
++ skill set:
+	- As a Software Engineer in the Platform Engineering Technologies team, you will be responsible for building and maintaining cutting-edge tools for System-on-Chip (SoC) design. You will apply your programming language expertise to architect domain-specific languages for hardware design. You will participate in the open source Chisel and CIRCT communities while ensuring that SiFive engineers have the best tools to build and verify advanced RISC-V CPUs, IPs, and SoCs. You will be part of a tight-knit, supportive, challenge-loving team who likes to learn and apply new technologies to change the paradigm of designing custom silicon.
+	- Developing and enhancing embedded Domain Specific Languages (DSLs) in Scala and/or Swift, along with associated build tooling, for use by hardware industry professionals.
+	- Soliciting and responding to user requests and feedback to continuously improve the tooling.
+	- Writing excellent documentation, tutorials and help train experienced hardware designers and verification engineers in new techniques.
+	- Collaborating with colleagues to integrate with MLIR Compiler stack written in C++.
+	- Participating in open source communities such as Chisel and LLVM CIRCT.
+	- 3+ years of relevant industry experience or a PhD with relevant academic experience.
+	- Familiarity with object oriented and functional programming languages. Experience in Scala and/or Swift highly desirable.
+	- Ability to communicate and teach others both inside and outside the company.
+	- Exposure to hardware design and verification techniques is a plus but not required.
++ We at SiFive are proud to take a "software first" approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is co-designed with the hardware, developed with scalability and quality in mind, and driven by well known leaders in the compiler, ML and system infrastructure space. Join us to develop a revolutionary software from the ground up.
 + skill set:
 	- BLAH.
 + skill set:
@@ -931,67 +1033,7 @@ VLSI formal verification companies:
 ####	Sets of Skills for about VLSI Formal Verification
 
 
-The sets of skills for VLSI formal verification are:
-+ skill set:
-	- Principal Formal Verification Engineer
-	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
-	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
-	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
-	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
-	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
-	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
-	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
-	- Linux/Unix experience
-	- Verilog/VHDL design experience
-	- SV/UVM experience
-	- Open-source projects in design/verification
-	- RISC-V/Arm/x86/MIPS
-	- SVA/PSL/Theorem proving
-	- Tcl/Python/Bash
-+ skill set:
-	- Staff Formal Verification Engineer
-	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
-	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
-	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
-	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
-	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
-	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
-	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
-	- Experience in design verification using SVA 
-	- Evidence of sign-off capable work done previously
-	- Have a can-do attitude, can show self-learning attributes
-	- Individual contributor & excellent team player
-	- Strong reasoning skills
-	- Excellent attention to detail
-	- Excellent communication details in English
-	- Linux/Unix experience
-	- Verilog/VHDL design experience
-	- SV/UVM experience
-	- Open-source projects in design/verification
-	- RISC-V/Arm/x86/MIPS
-	- SVA/PSL/Theorem proving
-	- Tcl/Python/Bash
-+ skill set:
-	- Silicon Formal Verification Engineer
-	- The Silicon Design group is a diverse team of world class silicon design, verification and validation experts. We have 100+ years of cumulative hands-on experience in architecture, logic design, verification, physical design, emulation and firmware. We use the latest silicon technologies and processes to help our clients create well-designed solutions to highly complex challenges. We are designing and developing next-generation, high performance SoCs, supporting our clients in their drive to deliver their product vision to their users. We are involved in all aspects of chip design from definition and architecture through to verification and signoff. Accenture Consultants are true “Silicon to SW” Partners, allowing a new breed of companies in the semiconductor ecosystem to innovate in an unparalleled time to market.
-	- An experienced Formal Verification Engineer able to provide formal verification services for multiple blocks and IP’s.
-	- Developing formal verification test plan
-	- Drive automation of formal testbenches and ensure they are a part of regressions
-	- Develop assertions, cover properties and connectivity checks and debug any failures in RTL regressions
-	- Work with cross functional teams (DV/Arch/Design/FW)
-	- Engage with the team to drive continuous improvement to the verification environment to find more bugs and improve coverage
-	- Work as a team to grow together.
-	- Mentor and coach junior team members
-	- A minimum of three years of experience with Formal Verification
-	- Bachelor’s Degree or equivalent (12 years) work experience (If an, Associate Degree with 6 years of work experience).
-	- Experience working with one or more formal verification tools such as Jasper gold, VC-Formal, Incisive Formal Verifier (IFV), Questa Formal, etc.
-	- Experience in interpreting design specifications and using temporal logic assertion-based languages such as SVA
-	- Experience in formal property verification (FPV), Sequential Logic Equivalence Checking (SEC/SEQ/SLEC), and/or academic formal methods
-	- Experience with hardware description languages (SystemVerilog, Verilog, VHDL) and simulators (VCS, NC, Questa).
-	- Proficiency in programing/scripting languages
-	- In-depth knowledge of digital logic design, chip architecture and microarchitecture
-	- Problem solving and debug skills for complex logic and digital designs
-	- Team player with excellent communication skills and be able to work independently on the verification efforts for a block/area of the design
+Sets of skills for VLSI formal verification, in terms of developing VLSI formal verification tools:
 + skill set:
 	- BLAH.
 + skill set:
@@ -1389,6 +1431,13 @@ The sets of skills are:
 	- ***Ability to multi-task and handle matters with little supervision and with excellent follow up.***
 	- ***A strong entrepreneurial and can-do mindset, undaunted by shifting priorities, uncertainty, and a “figuring it out as we go” environment.***
 	- ***Enough courage to say “I don't know”.***
++ skill set:
+	- You integrate the award-winning SLX technology with commercially available high-level synthesis compilers
+	- You adapt the SLX FPGA design space exploration algorithms to the specific characteristics of the HLS compiler
+	- You test and verify that a good quality of results is achieved after the integration process
+	- You ideally have experience with file interchange libraries and formats (boost serialization, XML serialization schemas)
+	- You have excellent C/C++ and python programming skills
+	- You are familiar with version control systems (git), and with build systems (cmake, ninja, GNU make)
 + skill set:
 	- BLAH.
 + skill set:
@@ -3643,6 +3692,43 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- hardware design
 	- software integration
 	- product testing and validation
++ Strong knowledge of SOC SW development, such as Nvidia Tegra, T.I. TDA series, Qualcomm Snapdragon.
++ skill set:
+	- As a Software Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
+	- Strong programming skills in C/C++ or Python
+	- Strong mathematics and analytical skills
+	- Work experience in deep learning platforms such as Caffe or Tensorflow
+	- Minimum of a Masters Degree in Computer Science or equivalent with 3+ years experiences of deep/machine learning or computer vision
+	- Work experience with LIDAR data is preferred
++ skill set:
+	- Knowledge in digital logic for HW safety/protection – ECC, Parity, WDT etc.
+	- Experience in AMBA AXI, AHB, and APB protocols
+	- Experience in lint checks, synthesis, and timing analysis
+	- Knowledge in Automotive ISO 26262 Functional Safety Standard is a plus.
+	- Experience with DSP, Datapath design and floating-point math a plus
+	- Understanding of GPU/AI/ML Processor architecture
++ skill set:
+	- Feature engineering infrastructure
+		* Feature engineering infra
+	- Develop and maintain a set of frameworks, APIs and tools on top of Tensorflow that enable a fast research to production lifecycle
+	- Provide tooling to help ML practitioners evaluate, debug, and improve ML algorithms, data and hyperparameters
+	- Web app for managing data lineage, experiment / metadata / artifacts, visualizing metrics (P/R, custom metrics etc.) and data distribution
+	- Collaborate with other Bets to productionize ML research (e.g. PBT, AutoML, Model/Data understanding, compression)
+	- Apply software engineering rigor on ML (CI/CD, automation etc.)
+	- Optimize everything around the nets (pruning, quantization etc.) and robotics system performance analysis / optimization through hardware/software co-play
+	- BS, MS or PhD in Computer Science, similar technical field of study, or equivalent practical experience
+	- Passion in making things run fast
+	- Experience programming in Python or C++.
+	- Elementary Tensorflow and Machine Learning knowledge
+	- Experience building and architecting large-scale, production quality backend systems, especially in applied machine learning or data pipeline
+	- Familiar with TensorFlow
+	- Familiar with parallel / distributed systems
+	- Experience with modern web stack /data visualization techniques (e.g. Angular, JavaScript/TypeScript).
+	- Experience with embedded / real time / robotics systems, and performance optimizations
+	- Experience with machine learning compiler / runtime or GPU/AI accelerator
+	- Experience/interest with ML acceleration ( compression, quantization, pruning etc.)
+	- Experience with metrics and evaluation for large systems
+	- SRE/Devops and passionate about applying software engineering best practices to ML
 + skill set:
 	- GrAI Matter Labs is looking for a talented Senior AI Processor Architect to help us shape the next generation of our GrAI Core Architecture and its pre- and post-processing peripherals (such as image processing, FFT, IFFT...). As a Senior Core Architect you will own the specifications of one or more components of our core architecture. You will analyse the performance of our processors for selected applications, and propose, quantify and specify architectural features and optimisations to improve the performance, cost and power consumption of our next generation GrAI Core.
 	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company’s architecture, as well as adapting such concepts to work in production-grade systems.
@@ -4261,6 +4347,12 @@ Skill sets for application engineers of different EDA products:
 		* edge inference frameworks:
 			+ ***PyTorch Mobile***
 			+ ***Tensorflow Lite, TFLite***
+			+ benchmark for embededded-ai deep learning inference engines:
+				- NCNN
+				- TNN
+				- MNN
+				- TensorFlow Lite
+				- www.ai-performance.com
 		* inference server or model serving frameworks
 			+ Triton
 			+ TFServe
@@ -4494,6 +4586,7 @@ Skill sets for application engineers of different EDA products:
 			+ Redshift
 			+ Snowflake
 			+ Vertica
+		* Memcached
 		* Microsoft Access
 		* Microsoft Azure SQL Database
 		* Microsoft SQL Server
@@ -4501,6 +4594,7 @@ Skill sets for application engineers of different EDA products:
 		* MySQL
 		* Oracle Database
 		* PostgreSQL
+		* Redis
 		* Snowflake
 		* SQLAlchemy
 			+ open-source SQL toolkit and object-relational mapper, ORM
@@ -5562,12 +5656,134 @@ Skill sets for application engineers of different EDA products:
 + ***Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems***
 + Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
 + Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
++ Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
 + skill set:
 	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
 	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
 	- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM.
 	- Compilers such as TVM, Glow, Halide, CLANG, LLVM, and GCC.
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
++ Experience in GPU/CUDA/TensorRT
++ Familiarity with neural network framework such as TensorFlow, PyTorch, Caffe, Theano
++ Develop runtime API for custom NN accelerator hardware in C/C++ environment
++ skill set for Machine Learning/Deep Learning Algorithm Engineer:
+	- Conduct research and development on machine learning, deep learning, and reinforcement learning models, including but not limited to basic algorithms and models, such as CNN, RNN, DNN, and DQN.
+	- Provide basic algorithms or operator optimization such as model compression and convolution acceleration for the above models and support performance improvement.
+	- Conduct research on algorithms for convex optimization and non-convex-optimization and high performance telecom technologies to make full use of software and hardware and build leading AI frameworks and platforms in the industry.
+	- Develop one-stop end-to-end AI platforms including intelligent labeling, feature engineering, model development, automated learning, training, and reasoning.
+	- Proficiency in one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Knowledge of common machine learning algorithms, including cluster, decision tree, regression, and recommendation
+	- Proficiency in the establishment and training of common deep learning networks such as CNN, RNN, and GAN
+	- Experience in machine learning/AI engineering and at least one of the mainstream machine learning platforms, including PyTorch and TensorFlow
+	- Experience in open source AI platforms including TensorFlow, MXNet, PyTorch, and Caffe (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
++ skill set for EI Algorithm Expert (for Enterprise Intelligence):
+	- Ensure the application of algorithms for one of the following industry solutions: intelligent transportation, smart medical, smart finance, Internet, and IoT.
+	- Drive the evolution of system architecture and iterated product development and resolve engineering and optimization issues during algorithm application.
+	- Consider the positioning, development strategies, and business models of AI solutions and formulate long-term development plans.
+	- Bachelor's degree or higher (PhD preferred); proficient in Java, C, or C++; in-depth knowledge of algorithms and data structures
+	- Understanding of at least one of the mainstream deep learning tools, including Caffe, TensorFlow, Keras, MXNet, and so on  
+	- Proficiency in deep learning technologies, especially in research on applications of the computer vision technology, including model acceleration, model encryption, and model quantification
+	- Distributed system architecture design abilities; knowledge of mainstream technologies including fault tolerance, distributed cache, and high concurrency solutions; experience in multi-threaded and high performance system design and in coding and performance tuning
+	- Good communication and coordination skills and dedication to work
++ skill set for AI/ML Application Framework Engineer:
+	- SiFive is proud to take a software-first approach to develop tools and frameworks that achieve cutting-edge performance without compromising quality. SiFive's Intelligence processors leverage and extend RISC-V Vectors to accelerate AI applications for the edge and beyond. Our Core IPs navigate tradeoffs between performance, power, and area, but do not sacrifice flexibility or programmability. Our software stack is co-designed with the hardware and developed with scalability and quality in mind. Join us to create revolutionary software from the ground up.
+	- We are looking for an experienced AI/ML application frameworks engineer passionate about deploying AI inference and end to end enablement, AI framework integration, model accuracy, and performance analysis and tuning. You might be an ideal candidate if you are seeking to develop high quality, innovative, and scalable software that enables state of the art AI inference models to run efficiently and accurately on the SiFive Intelligence processors.
+	- Bringing up AI/ML model including model deployment and accuracy verification/tuning.
+	- AI/ML model end to end performance analysis and tuning.
+	- Quantized ML model development and retraining.
+	- Deep learning application and flow implementation and integration.
+	- Working closely with Software and Hardware team members for performance exploring and tuning.
+	- 3+ years experience working in AI/ML model deployment, verification, tuning and quantization.
+	- 3+ proven years of experience in developing high quality production software in C/C++/Python.
+	- Experience in AI frameworks: Tensorflow/Tensorflow-Lite/Pytorch/Tensor-RT/CUDA, etc.
++ skill set:
+	- Research and develop algorithms /system for given problem independently
+	- Provides solutions to a diverse range of moderately complex problems
+	- Development of medium sized product features
+	- Create rapid prototyping, generating quality wireframes and mockups – a portfolio of recent or salient work is required
+	- Works independently and uses judgment within defined policies and practices to influence others in technical directions.
+	- Expected to interface with colleagues outside of engineering and may mentor less experienced engineers (NCGs).
+	- Sets task level goals and may set project level schedules.
+	- Extensive expertise in a any/all below technical domain
+		* CV,ML,DL (Un/semi/supervised /reinforcement)
+		* Research/Develop CV/ML/DL algorithms using historical (training) data
+		* Expertise in rapid DL/ML/CV/RL/NLP POC development using python, Tensorflow, Pytorch,Keras,Matlab,TensorRT,ONNX etc·
+		* Expert knowledge of research methodologies in ML/DL domain·
+		* Model compression
+		* Model Pruning, sparsity, Model Decomposition, Mixed precision, Quantization, sensitivity analysis, Tuning
+		* Transfer learning
+	- User experience background is a plus·
+	- Experience with usability and evaluation is a plus·
+	- Experience working within Agile framework is a plus.
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance, and tone for multiple customers·
+	- Analytical skills, conceptualize ideas, POC, understand and implement literature 
+	- Implement given task in C++, MATLAB, Python and design/code DL model using TensorFlow
+	- Strong experience in CV, ML, DNN, RNN, RL, Linear Algebra & AI
+	- Strong experience in C++, MATALB, Python, TensorFlow, PyTorch,Keras,ONNX,Pytorch
+	- Hands on Experience in rapid DL/ML/CV/RL/NLP POC development
+	- Very good Knowledge on Model optimization, Pruning, Tuning, ONNX, Distiller, Quantization
+	- Very good Knowledge on Object-Oriented Design & System Integration
+	- Very good knowledge on Code Optimization, Implement & Adapt Complex Algorithms (E.g. from literature, from other teams, etc.)
+	- Work Independently without supervision
+	- Work under aggressive schedules towards world-class solutions
+	- Ability to deliver exceptional results in challenging tasks
+	- Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
+	- Ability to consolidate, distill, and incorporate diverse ideas quickly
+	- Experience with usability and evaluation is a plus
+	- Experience working within Agile framework is a plus
+	- CV, ML, CNN, DNN, RNN, Linear Algebra, Pattern Recognition, DSA, OOPS,Model compression
+	- C++, MATALB, Python, TensorFlow Pytorch ,Cuda basic, ONNX,Keras
+	- Hands-on experience on NLP - NLTK,Padna ,spacy
+	- Hands-on experience of AWS (Amazon Web Services) & IoT (Internet of Things).
+	- Hands-on experience with Databases.
+	- Unity, C#
++ skill set for Machine Learning and Deep Learning Algorithm Engineer
+	- Lead R&D for models such as machine learning, deep learning, and reinforcement learning, including CNN, RNN, DNN, and DQN.
+		* DQN
+	- Optimize basic algorithms or operators of the preceding models, such as model compression and convolution algorithm acceleration, to achieve ultimate performance.
+	- PhD in computer science, electrical engineering, or related field
+	- Extensive knowledge of deep learning and classical machine learning. Field application experience, such as computer vision, NLP, or intelligent control. Practical experience preferred
+	- Proficient in a least one mainstream deep learning tool such as Caffe, TensorFlow, Keras, or MXNet
+	- At least one paper published in a top-level conference in a related field preferred
+	- Excellent learning ability, communication skills, strong sense of responsibility, and good teamwork. Ability to continually learn and embrace change
++ skill set for Data Mining and Machine Learning Algorithm Engineer:
+	- Use data mining and machine learning to study and analyze HUAWEI CLOUD products in the aspect of data monitoring.
+	- Use machine learning frameworks to process massive amounts of monitoring data, develop intelligent resource monitoring services, use machine learning algorithms to provide intelligent recommendation for customers, and optimize customers' cloud resource monitoring.
+	- Expertise in common data mining technologies and machine learning algorithms, and related practical experience
+	- Continuous study of the latest research directions and achievements in machine learning, and exploration of big data applications in cloud monitoring
+	- Sensitive to data, strong analysis capability, and creative thinking
+	- Solid knowledge of open source components related to data mining and machine learning, such as TensorFlow, Caffe, Spark, and Flink
+		* Flink
+		* Spark
++ skill set:
+	- AI Data Algorithm Engineer
+	- Research cutting-edge AI data reduction technologies, including data reduction, deduplication, serialized data compression, video compression, and model compression.
+	- Use AI algorithms to analyze problems and model them, design algorithms, and develop and verify prototypes.
+	- Lead research of AI technology innovation applications, innovative exploration, and high-value patent incubation, to cement HUAWEI CLOUD's innovation lead.
+	- Proven research background and experience in machine learning, deep learning, reinforcement learning, and theoretical information technology preferred. At least one paper published in a top-level AI conference such as ICML, IJCAI, ICLR, AAAI, or KDD preferred
+	- Expertise with data storage, data arrangement, data coding, and data reduction preferred
+	- Skilled at using machine learning, deep learning, or reinforcement learning frameworks and platforms or tools, such as TensorFlow, Keras, and Caffe
++ skill set:
+	- We are looking for a highly motivated ML Frameworks engineer to develop deep learning network models and applications in tensorFlow and pyTorch, that would run on Blaize’s massively parallel graph streaming processors. The role provides an opportunity to work on cutting edge technologies in AI and to closely collaborate with the rest of the software stack at Blaize to achieve peak performance on Blaize’s graph streaming processors
+	- Design and develop state-of-the art machine learning models in Image Classification, Object Detection, NLP, autonomous driving etc
+	- Translation of network models in different ML frameworks to MLIR based graphs
+	- Closely collaborate with MLIR graph compiler and the rest of the software stack to run the application end-to-end.
+	- Enable inference and network training on Blaize’s processors with close collaboration with other teams
+	- Analyze/Profile various ML workloads and report performance improvement opportunities
+	- Develop end to end demo applications to show-case Blaize’s capabilities
+	- Follow agile software development methodology, unit testing and continuous integration
+	- Quantising the ML models for the edge to improve performance with minimal loss of accuracy
+	- B.Tech/M.Tech ECE or CS
+	- 2 to 12 years of relevant experience working with various ML frameworks.
+	- Strong programming skills in python
+	- Strong hands-on knowledge of tensorFlow and pyTorch
+	- Knowledge of network training and distributed algorithms
+	- Familiarity with compute kernels for various network layers is a plus but not mandatory
+	- Experience of developing end-to-end applications using camera and display is a plus
+	- Good knowledge of various quantisation techniques. Prior work with tensorFlow to tensorFlow-lite conversion is a plus
+	- Familiarity with ONNX is good to have
+	- Familiarity with Graph Compilers is an added advantage but not mandatory
 + skill set:
 	- Senior Deep Learning Software Engineer, Algorithmic Model Optimization
 	- Join our team of algorithmic model optimization experts and take part in unlocking the biggest potential for AI with generative models such as large language models (LLM) and diffusion models. As a Senior Deep Learning Software Engineer, you will be at the forefront of pushing the boundaries of these models and enabling their deployment at a larger scale with unmatched efficiency. We are developing an innovative software platform that will not only be utilized internally but also have a significant impact externally by enabling the creation of groundbreaking AI products. This is an exceptional opportunity for passionate software engineers like you, who have a strong background in Deep Learning, to join us in solving the most significant challenges in the field.
@@ -8541,6 +8757,7 @@ Machine learning -based frameworks for computer vision:
 
 
 Skill sets for computer vision:
++ Experience in vision frameworks like OpenCV, gstreamer, OpenCL etc.
 + skill set:
 	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize’s proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
 		* Portable, Power-efficient Vision Processing. OpenVX™ is an open, royalty-free standard for cross platform acceleration of computer vision applications.
@@ -8569,6 +8786,14 @@ Skill sets for computer vision:
 		* Other visual processing libraries
 		* Understand the effects of cache/memory/disk as they interplay with each other and processing
 		* Efficient algorithms for visual transformations
++ skill set for Computer Vision Algorithm Engineer:
+	- Lead R&D of computer vision algorithms, including applying visual technologies to faces, images, videos, and text. This R&D applies to campus, shopping mall, transportation, logistics, medical imaging, content moderation, and other scenarios.
+	- Research and develop deep learning algorithms, especially for computer vision, ***model acceleration, model encryption, and model quantization***.
+	- Rich research and practical experience with video image processing and analysis, machine learning, and deep learning, and strong hands-on skills. Ability to use one of the following deep learning tools to solve problems: Caffe, PyTorch, MXNet, and TensorFlow
+	- At least one paper published in a top-level conference or periodical (including ***CVPR, ICCV, ECCV, NIPS, ICML, KDD, PAMI, IJCV***, etc.) in the field preferred
+	- Logical analysis skills to develop abstract mathematical models of real problems, then solve them
+	- Experience with computer vision projects, including transportation, medical care, campus, OCR, images, and videos preferred
+	- Good professional quality and conduct, excellent teamwork, and rigorous working style
 + skill set:
 	- We are currently seeking a software engineer intern with strong Computer Vision, Graphics and Deep Learning fundamentals and solid implementation skills to contribute to the development of NVIDIA Maxine - a comprehensive suite of SDKs with state-of-the-art AI features for virtual collaboration and content creation.
 	- You will work alongside brilliant engineers on core technologies to solve challenging computer graphics, vision, and deep learning problems. You will work collaboratively with research and production teams on new groundbreaking approaches that transform the industry.
@@ -8833,6 +9058,14 @@ Skill sets for computer vision:
 	- 6) Experience in Design/building computer vision end to end solutions for edge devices.
 	- 7) Preferable working experience in Convolutional Neural Networks.
 	- 8) Experience in the Yocto build system, camera integration and V4l2 is a plus.
++ skill set for Computer Vision Algorithm Engineer:
+	- Conduct research on computer vision algorithms and develop related products, including but not limited to facial recognition, facial attribute recognition, target detection, target classification, target attribute recognition, graph segmentation, image captioning, object tracking, video segmentation, video captioning, text detection, person re-identification, image generation, and image audit.
+	- Conduct research on deep learning algorithms, especially on applications of computer vision technology, including model acceleration, model encryption, and model quantification.
+	- Proficiency in at least one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Solid mathematical background and proficient in geometry, statistics, and machine learning, and understanding the applications of these in image recognition
+	- Knowledge of at least one of the mainstream deep learning tools, including Caffe, TensorFlow, Keras, and MXNet
+	- Understanding of computer architecture and ability to optimize and customize algorithm libraries via algorithms and machine code instructions (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
 + skill set:
 	- BLAH.
 + skill set:
@@ -9022,6 +9255,14 @@ Skills for natural language processing, NLP:
 	- Track record of developing new ideas in machine learning, as demonstrated by one or more first author publications or projects. 
 	- Good programming skills and experience with deep learning frameworks.
 	- Publications at top ML/Speech conferences is a big plus: NIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set for Natural Language Processing Algorithm Engineer:
+	- Carry out research on natural language processing algorithms, including but not limited to semantic analysis, intent recognition, man-machine dialogue, machine translation, knowledge graph, and named entity recognition.
+	- Conduct research on cutting-edge natural language processing technologies, and provide technical solutions for the Enterprise Intelligence (EI) domain based on actual application scenarios.
+	- Proficiency in one of the following programming languages: C, C++, and Python; ability to implement self-designed algorithms
+	- Solid knowledge of algorithms, deep understanding of algorithm rationale and basic machine learning theories, and proficient in mathematics or statistics
+	- Natural language processing knowledge and skills and deep understanding of computational semantics and text generation
+	- Knowledge of common machine learning algorithms; experience in the application of deep learning, transfer learning, and reinforcement learning technologies or publication of high quality thesis papers (preferred)
+	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
 + skill set:
 	- Provide software design and programming expertise to support research projects. You will work closely with Applied Research Scientists to solve exciting research problems. You will own software development and iteration throughout the research cycle.
 	- Read, understand, and replicate recent AI research papers.
@@ -9040,6 +9281,13 @@ Skills for natural language processing, NLP:
 	- Good programming skills and experience with deep learning frameworks (preferably Pytorch).
 	- Strong knowledge and experience of Python.
 	- Publications at top ML/Speech conferences is a big plus: NeurIPS, ICML, ICLR, Interspeech, ICASSP.
++ skill set for Speech Recognition Algorithm Engineer:
+	- Lead technology exploration and innovative research in speech recognition, propose innovative ideas and algorithms, and participate in key prototype and system design and implementation.
+	- Research and implement key technologies and core algorithms such as speech recognition, voiceprint recognition, speech synthesis, and wakeup. This includes acoustic model and language model optimization as well as decoder performance improvement.
+	- Explore customer requirements and make breakthroughs in key technologies to continuously improve competitiveness of HUAWEI CLOUD speech recognition technologies and solutions.
+	- Ability to independently study speech recognition algorithms and develop a speech recognition engine
+	- Proven research background in signal processing, acoustic modeling, language modeling, and deep learning
+	- At least one paper published in ***Interspeech, ICASSP***, or related conference preferred
 + skill set:
 	- This is an opportunity to join the innovation division of EON, a leader in the healthcare patient management space, and expand our Computational Linguistics and Machine Learning capabilities. You will work with our Data Science, Engineering and Product teams to develop product features based on Computational Linguistics and Machine Learning technologies, ensuring that these new features address customer needs.
 	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people’s lives.
@@ -9378,7 +9626,15 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 	- Strong software development experience
 	- Successful track record of delivering results in complex cross-functional projects
 	- Strong mathematical skills with knowledge of statistical methods
-
++ skill set:
+	- Responsible for content recommendation, text mining, user model construction, etc.;
+	- Optimize search recommendation system algorithm;
+	- Research on algorithms for knowledge extraction, mining, fusion and visualization based on big data;
+	- Algorithm and functional module code development, back-end algorithm API development, testing, technical documentation writing.
+	- Bachelor degree or above, major in computer, communication and other related fields;
+	- Have more than 3 years of work experience;
+	- Have a solid programming ability and master at least one back-end programming language (Python/Go/Java, etc.);
+	- Have a deep understanding of operating systems, data structures and algorithms
 
 
 
@@ -9504,6 +9760,11 @@ Need to address:
 		* EMR
 		* CloudFormation
 + skill set:
+	- Develop software tools for data preprocessing (e.g. sanitization and annotation) and support our algorithm development team to employ the tool chain on our datasets with data quality analysis;
+	- Develop algorithms for privacy-enhancing technologies;
+	- Develop algorithms for privacy-preserving machine learning;
+	- Work and present the results in the form of documentation.
++ skill set:
 	- AI/ML Application Framework Engineer
 	- Bringing up AI/ML model including ***model deployment*** and ***accuracy verification/tuning***.
 	- AI/ML model end to end performance analysis and tuning.
@@ -9609,6 +9870,19 @@ Need to address:
 	- ***Knowledge of Container Security, such as Falco, Sysdig Secure, Aqua, or Anchore***
 	- ***Knowledge of Image Registries, such as Quay, Harbor, Docker Registry***
 	- ***Knowledge of ML/AI Orchestration, such as Kubeflow, OpenDataHub.io, or Domino***
++ skill set in Cloud AI / Machine Learning:
+	- Participate in our cloud AI projects, design the architecture of source code libraries/packages to support the development of various AI applications on cloud services.
+	- The role requires hands-on development, problem-solving skills, and knowledge of various horizontal and vertical packages - spanning across various layers in the technical stack.
+	- Creating architectural documents and community-facing tutorials. Working with potential partners in the academic/community to define specifications for open-source projects.
+	- 8+ years of experience, especially on turning ML technologies into practical, and state-of-the-art systems.
+	- Proficiency in Python, and the common tools and frameworks, with practical experience.
+	- Knowledge of common machine learning frameworks such as Tensorflow, PyTorch and Caffee.
+	- Excellent experiences in writing concise, clear, and detailed documentation for the libraries/package.
+	- A portfolio or GitHub repository of applications or code snippets are welcomed.
+	- Great attention to detail.
+	- Preferred working experience on Data Science/Machine Learning/Deep Learning/Computer Vision-related projects
+	- Basic knowledge about supervised and/or unsupervised machine learning models.
+	- Experience with container orchestration/infrastructure as code, e.g. Kubernetes.
 + skill set:
 	- Infrastructure Engineer
 	- At Edge Impulse we are building the future of data-driven engineering.
@@ -10147,6 +10421,40 @@ Skill set for AIOps:
 	- Recommendation Systems, Personalization, Search, or Computational Advertising
 	- Deep Learning or Causal Inference
 	- Cloud computing platforms and large web-scale distributed systems
++ skill set for Intelligent O&M Research Engineer:
+	- Use big data analysis and machine learning algorithms to mine data value from massive amounts of machine data (indicators, logs, call chains, and events), and build HUAWEI CLOUD AIOps intelligent O&M competitiveness.
+	- Design, verify, and develop core algorithms, and resolve specific problems of intelligent O&M, such as anomaly detection, pattern recognition, forecasting, intelligent association, and log understanding.
+	- Investigate customer pain points, fully understand customer requirements, track new technologies in the AIOps field, identify key technical difficulties, and provide solutions and engineering implementation.
+	- Network exception detection
+	- System log analysis
+	- Capacity/Traffic forecasting
+	- Causal inference based on big data
+	- Distributed machine learning
++ skill set for Intelligent Computing Development Engineer:
+	- Plan and optimize the overall intelligent computing architecture. Based on the in-depth convergence and optimization of AI and big data and the optimization of computing resource scheduling, continuously improve the competitiveness of intelligent computing in business scenarios and develop industry best practices.
+	- Lead topic research on intelligent computing products and how HUAWEI CLOUD can use them.
+	- Participate in end-to-end delivery of intelligent computing service features, covering phases such as requirement analysis, module design, development, and rollout. Communicate with customers about HUAWEI CLOUD intelligent computing solutions.
+	- AI and big data research background, and related project experience preferred
+	- Expertise with Linux. Proficient in C++, Java, Python, or Golang. Excellent ability to implement algorithms
+	- Strong motivation to learn new technologies, excellent communication skills, and good team spirit
++ skill set for Big Data & AI Cloud Architect:
+	- Responsible for the system design, coding, testing, and maintenance of the features of HUAWEI CLOUD AI services.
+	- Responsible for the delivery of AI service features, system design documentation, and interfaces, and contribute to writing core code.
+	- Ensure the quality of AI service architecture and support resolution of issues found during AI service development.
+	- Proficiency in at least of the following programming languages: C, C++, Java, and Python
+	- Experience in end-to-end development and maintenance of core system modules
+	- Experience in open source AI platforms including TensorFlow, MXNet, and GraphLab (preferred)
+		* GraphLab
+	- Experience in graph computing, distributed graph computing, or deep neural networks, including DNN, CNN, and RNN. (preferred)
++ skill set for AI4System Algorithm Engineer:
+	- Conduct research, problem modeling, mathematical modeling, algorithm design, and basic prototype development to solve system-related complex problems.
+	- Using AI, optimize the algorithms of the database kernel optimizer and the configuration tuning parameters.
+	- Predict and optimize network performance using AI algorithms and conduct correlation analysis of network events.
+	- Use AI to optimize underlying storage data structures and algorithms, such as indexing, compression, hot and cold data identification, and cache prefetch.
+	- Expertise in underlying principles of machine learning, deep learning, and reinforcement learning algorithms, and extensive experience with mathematical analysis. Skilled at using basic machine learning, deep learning, or reinforcement learning frameworks. Computer science, mathematics, or related major preferred
+	- Familiar with the principles and parameter tuning of internal database optimizers preferred
+	- Solid knowledge of computer networking and systems preferred
+	- Broad knowledge of underlying storage technologies and principles preferred
 
 
 
@@ -10312,8 +10620,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
-+ Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, 
-database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
++ Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
 + skill set:
 	- data pipeline and workflow management teams:
 		* Airflow
@@ -10370,10 +10677,15 @@ database management (SQL), Python, Tableau visualisation or other data analysis 
 		* R
 	- SQL, JSON, and unstructured data
 	- Amazon Web Services ecosystem
++ used mixed methods to inform/drive product prioritization, via quantitative data (e.g., metrics and data analytics) and qualitative data (e.g., user feedback)
 + You have familiarity with any query language like SQL, SPL etc.
 + Bonus: experience with Kubernetes, Terraform, AWS, Puppet.
 + Familiarity with Python, React, GraphQL, and MySQL or similar relational databases
 + Familiarity with Python, React, GraphQL and online storage systems such as MySQL or MyRocks
++ Data visualization with ggplot and matplotlib.
++ skill set:
+	- solid-hands-on skills in sourcing, cleaning, manipulating, analyzing, visualizing, and modeling real data.
+	- Break down complex problems into manageable steps that have an immediate impact on critical, real-world projects, without losing sight of long-terms roadmaps.
 + skill set:
 	- Curious mindset : Solve ambiguous business problems using in-depth analysis to discover and size opportunities for growth levers.
 	- Empower stakeholders: Be a strategic partner to product and engineering and drive data informed decisions
@@ -10548,6 +10860,19 @@ database management (SQL), Python, Tableau visualisation or other data analysis 
 		* Coding skills (such as Python, Java, or Scala)
 		* Analytics tools experience (such as Pandas, R, SPSS, SQL, or Tableau)
 		* Experience performing analysis with large datasets
++ skill set:
+	- Participate in our cloud AI projects, design the architecture of source code libraries/packages to support the development of various AI applications on cloud services.
+	- The role requires hands-on development, problem-solving skills, and knowledge of various horizontal and vertical packages - spanning across various layers in the technical stack.
+	- Creating architectural documents and community-facing tutorials. Working with potential partners in the academic/community to define specifications for open-source projects.
+	- 3+ years of experience, especially on turning ML technologies into practical, and state-of-the-art systems.
+	- Proficiency in Python, and the common tools and frameworks with practical experiences.
+	- Knowledge of common machine learning frameworks such as Tensorflow, PyTorch and Caffee.
+	- Excellent experiences in writing concise, clear, and detailed documentation for the libraries/package.
+	- A portfolio or GitHub repository of applications or code snippets are welcomed.
+	- Great attention to detail.
+	- Preferred working experience on Data Science/Machine Learning/Deep Learning/Computer Vision-related projects
+	- Basic knowledge about supervised and/or unsupervised machine learning models.
+	- Experience with container orchestration/infrastructure as code, e.g. Kubernetes.
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -11631,9 +11956,33 @@ They support databases for:
 			+ https://github.com/twitter/scalding
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
++ modern tech stack:
+	- React
+	- Redux
+	- Jest
+	- React Testing Library
+	- styled-components
+	- RxJS
+	- cutting-edge libraries
 + ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
++ MongoDB, Redis, Memcached, experience crafting NoSQL data models.
++ data engineering tooling: Airflow and Databricks
 + Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
 + Have a thirst for technical challenges with big data and distributed systems, including HBase, Kafka, Elasticsearch and Dropwizard
++ data plane development kit, DPDK, from the Linux Foundation for computer networking and interactions with the Linux operating system kernel
++ Build data pipelines with tools like Apache Beam/Spark, Scio, Storm, ML tools such as Kubeflow, and cloud computing platforms such as Google Cloud Platform and AWS (Amazon Web Services). And, Google BigQuery, DBT.
+	- DBT
+	- Scio
+	- Storm
++ skill set:
+	- high-volume heterogeneous data with distributed systems, such as:
+		* Hadoop
+		* BigTable
+		* Cassandra
+	- distributed, high-volume services in Java, Python, or Scala
+	- knowledgeable about data modeling, data access, and data storage techniques
++ JVM-based data processing frameworks, such as Beam, Spark, and Flink.
++ XGBoost, TensorFlow, PyTorch
 + Kylin, Elastic Search, Druid
 	- Kylin
 		* Apache Kylin is an open source distributed analytics engine designed to provide a SQL interface and multi-dimensional analysis on Hadoop and Alluxio supporting extremely large datasets.
@@ -11647,6 +11996,11 @@ They support databases for:
 		* Apache Druid
 		* Druid is a column-oriented, open-source, distributed data store written in Java. Druid is designed to quickly ingest massive quantities of event data, and provide low-latency queries on top of the data. The name Druid comes from the shapeshifting Druid class in many role-playing games, to reflect that the architecture of the system can shift to solve different types of data problems.
 + Splunk is looking for a Software Engineer to join the Data Federation engineering team and have a large impact on a team responsible for building ***Federated Search*** capabilities
++ skill set:
+	- act as a domain leader in roadmapping prioritization, planning, and stakeholder management for the Fab and Design domains
+	- design and build interactive tools, dashboards and interfaces to enable turnkey analysis by teams across the company
+	- experience in modern data pipeline technologies built with DBT, Stitch, Fivetran, or other modern ETL (Extract, Transform, Load) tools.
+	- understanding of low-level protocols for communicating with metrology tools
 + skill set:
 	- managed, maintained, and monitored systems, using:
 		* Amazon Web Services
@@ -12432,6 +12786,45 @@ Skill sets for DataOps:
 	- Operational experience with Linux operating system internals, filesystems, disk/storage technologies and networking
 	- Experience with scripting languages (e.g. shell script)
 	- Experience with capacity planning for web scale systems
++ skill set:
+	- data expertise:
+		* manage data pipelines
+			+ Spark
+			+ Flink
+		* data lakes and data warehouses
+			+ Snowflake
+			+ Hive
+		* authored queries
+			+ SQL
+		* used workflow management
+			+ Airflow
+			+ Luigi
+		* maintain data infrastructure to support these
++ skill set:
+	- On the Blaize AI Studio Team, we don't just model data, we build and help assemble custom datasets, manage production edge and cloud deployments, and identify production issues. We are looking for someone to help us continue our evolution and who can work with small amounts of imperfect data and generate reliable results. 
+ 	- Our Deep Learning Research Engineer will be working both independently and with a wide range of people at Blaize. We are looking for a set of skills including strong AI/ML experience with practical and use-able software engineering practices and languages (git, docker, Java and/or C++, Python).  You should have been involved in at least 1 or more projects reaching production state.
+ 	- Co-Ownership of an entire Deep Learning (DL) project(s).
+ 	- Working with Executive and Product leadership to evolve and define roadmap.
+ 	- Identifying what kind of data and how much data to generate to get desired results.
+ 	- Adding to Blaize AI Studio's state-of-the-art (SOTA) toolbox.
+ 	- Using small datasets to generate impressive results.
+ 	- Relentlessly staying on top of the state of the art in computer vision and related areas.
+ 	- Bachlor’s degree in Applied Science/Mathematics or Engineering
+ 	- 4 years of relevant experience or an equivalent combination of experience and education.
+ 	- Leadership positions external from AI/ML.
+ 	- Awareness of software engineering best practices with hands-on experience (Java, C++, Python).
+ 	- Cloud (Azure, H2O, AWS, etc) production model management experience.
+ 	- Experience with data preparation or end-to-end AI-based application building.
+ 	- Experience publishing patents or peer-reviewed papers.
+ 	- Taken an existing model and increased performance through a variety of methods such as:
+		* pruning
+		* quantization
+		* finetuning
+		* retraining
+		* runtime environments
+	- Worked with PyTorch and/or Tensorflow for development, ONNX or C++ for deployment
+	- Implemented state of the art papers.
+	- Deployed a model with aggressive inference speed requirements.
 + skill set:
 	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
 	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
@@ -13369,7 +13762,28 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 
 
 
-
++ skill set for Computer Architecture, Design Space Exploration:
+	- Conduct fundamental research on new directions in computing systems
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems architecture, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems architecture
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+		* Design Space Exploration (DSE) Frameworks
+		* Hierarchical DSE
+		* Microarchitecture DSE
+		* Architectural Models, Templates and Generators
+		* Generator Methodology
+		* Design Space Sampling
+		* Constraint-Based DSE
+		* Reusable Designs
+		* System-Technology Exploration
+		* Hardware-Software Co-Design and Co-Optimization
+	- Strong interpersonal skills and ability to work productively in a research environment
 
 
 

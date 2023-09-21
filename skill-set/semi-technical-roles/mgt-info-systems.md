@@ -363,6 +363,24 @@ Skill set for management of information systems, MIS:
 		* Issue resolution averaging less than 5 days
 		* Time to value of all implementation is averaging 70 days or less
 + skill set:
+	- In this data explosion age, massive scale transaction processing, analysis, and management of data are the core activities of almost all businesses. Envisioning the importance of Database as a Service (DaaS) in cloud, the Seattle database team is rapidly expanding, and now inviting talented candidates to join the team to re-innovate, re-shape and re-define the best Database for the future.
+	- Our ideal Senior Staff Database engineer will participate in next generation database plan development, aiming to secure database technologies in the leadership position. We are luckily in the eve of new era of databases: you will identify core and important features for future database and realize them with state-of-art technologies and contribute to the long-term engineering teams’ growth. You are the idea booster and code keeper: you can demonstrate your finest ideas with POC code, or you develop solid code for new features in production quality. With Futurewei’s full stack research capacity, there is no limit of your innovation: you can work on any components.
+	- We have opening in three major database components:
+		* Query Optimizer: framework, inline/un-inline CTEs, extend relational algebra, ML based CE/costing, etc.
+		* Query Executor: codeGen/vectorization, approximation, provenance, HW-acceleration, etc.
+		* Storage Engine: scalable ACID, online DDL, schema relaxation, storage organization, etc.
+	- You are highly interested in hands on experience of database engines, distributed systems
+	- Good at the following languages: C/C++/C#
+	- Solid knowledge in Database system, including OS, storage and network
+	- Experience in online product or service development.
+	- Experience in relational databases engines, NoSQL datastores
+	- Experience in core database components, including optimizer, executor or storage engine
++ skill set for Database Kernel Technology Researcher:
+	- Research optimization technologies, new algorithms, and new hardware of database kernels, and apply them to the design and delivery of cloud databases to lead the industry.
+	- Computer science or related major. Proficient in C/C++ programming on Linux. Profound theoretical understanding of databases and good knowledge of the latest database architecture and research
+	- Proven research background in database kernel architecture and algorithms, and related experience
+	- Proficient in kernel code implementation of one of an open-source database, such as MySQL, PostgreSQL, or NoSQL.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

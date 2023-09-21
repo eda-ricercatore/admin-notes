@@ -1370,6 +1370,17 @@ Skill set for software development for parallel programming, especially on heter
 	- 3+ years of experience in algorithm optimization to target parallel hardware such as GPUs, SIMD, or similar.
 	- Proven experience working close to and understanding the hardware, and optimizing algorithms for specific hardware implementations.
 + skill set:
+	- Non-blocking Operations in GraphBLAS
+	- In our Computing Systems Lab, we shape the next generations of computing systems from programming models to parallel computing, computer architectures of CPUs and specialized hardware accelerators, and engineering productivity tools to handle the every growing complexity of these systems.
+	- We are currently looking for an outstanding intern who will work on GraphBLAS that defines standard building blocks for the expression of graph algorithms in the language of linear algebra. The goal of this project is to provide a GraphBLAS implementation that supports non-blocking operations by exploiting dynamic parallelism and lazy evaluation. The API of GraphBLAS will remain the same, and the non-blocking implementation will be achieved in the library level, i.e., without compiler support.
+	- Investigate parallelization opportunities in the GraphBLAS library
+	- Provide a non-blocking implementation of GraphBLAS
+	- Evaluate the performance of the parallel implementation for a set of different benchmarks
+	- Strong mathematical/algorithmic problem-solving and software development skills in C/C++
+	- Experience in parallel programming
+	- Experience in parallel programming models (e.g. OpenMP) is a plus
+	- Excellent communication and writing skills in English
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1499,3 +1510,24 @@ Skill set for software development for distributed programming (or distributed c
 + Exposure to various high-performance networking technologies including MPI, NCCL, RDMA, Infiniband and RoCE
 + ***If composable abstractions, distributed systems, security, reliability, containers, microVMs, filesystems, networking, Go, or Rust fascinate you, we want to hear from you!***
 	- ***To achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this product. We encourage people from all kinds of backgrounds to apply, including and especially candidates from underrepresented and non-traditional backgrounds.***
++ skill set:
+	- We are looking for enthusiastic software engineers that can make a significant contribution to the development of next generation Load Balancers with high availability and scalable distribution of traffic. The software you write will drive and enable functionality on thousands of load balancers deployed by our customers.  Reporting to the Engineering Manager, the Software Engineer will participate in the design, development and deployment of new services and products.
+	- Use technologies and tools such as: Go, SQL, Consul, Kafka, Chef, Git, Jira, Prometheus, Lightstep, Docker, Kubernetes and what not?
+	- Participate in design, implementation, tests and optimization of new services that run at scale and solve challenging distributed coordination problems.
+	- Work with other teams within the vertical and across the company to build the next generation of products and services for our developers community.
+	- Support existing products and contribute creative solutions to the pain points.
+	- Help improve our toolings and process to ship robust and mission-critical parts of the ecosystem.
+	- Experience as a software engineer, developer, or programmer in building software used by external users
+	- Experience with a typed or OOP language (like C, C++, Java, Go) and unit tests
+	- Experience developing full-stack applications with databases and API
+	- Understanding of large scale distributed systems programming
+	- Understanding of Continuous Integration and Delivery (CI/CD)
+	- Knowledge of application networking fundamentals
+	- You understand and seek to automate the steps necessary to deliver high-quality, well-tested, and production-ready software from initial development to ongoing, scalable, production operation.
+	- Bonus: Exposure to containerization and virtualization
+	- Bonus: You have used gRPC to build robust distributed and high-demand systems
++ skill set for Blockchain Research Engineer:
+	- Lead key blockchain technology innovation, system design and development, and key application model and algorithm development of HUAWEI CLOUD Blockchain Service. Build a blockchain system featuring high fault tolerance and performance.
+	- Continuously gain insights into the industry's cutting-edge technical issues and develop products based on customer requirements to improve service competitiveness.
+	- Information security, computer science, data communications, or related major. Solid security expertise and project research experience. Ability to independently engage in research
+	- Extensive technical knowledge of distributed system architectures and the SOA architecture. Deep understanding of cloud computing technologies, such as Kubernetes and Docker. Experience with related product security development preferred

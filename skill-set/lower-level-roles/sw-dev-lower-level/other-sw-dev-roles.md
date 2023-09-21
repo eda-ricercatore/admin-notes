@@ -6,6 +6,15 @@ This set of skill sets is for non-common software development roles, which inclu
 
 ##	Software Development for Performance Engineering
 
+
+
++ skill set for ***ninja-class ML/SW/HW performance engineer***:
+	- We (dv/dt) work with leading companies all around the world developing advanced computer systems for AI/ML workloads. Broadly speaking, they aim to hit efficiencies of 10+ TOPS/W through techniques like in-memory computing, reconfigurable computing, mixed digital-analog computing, parallelizing, tiling, prefetching, pipelining... you name it. Having designed highly efficient hardware, they are naturally keen to match it with highly efficient software!
+	- This is where you would come in, moving stealthily under the cover of night... OK, scrap that. By ninja-class we mean you are a versatile, adaptive, 10x kind of guy or gal, who loves learning and strives on challenges. Indeed, our tasks range from traditional benchmarking and optimization all the way to helping define the architecture through compiler feedback and performance modelling. In other words, you would have practically limitless opportunities to learn about the emerging hardware, software and workloads!
++ skill set for Performance Optimization Engineer:
+	- Optimize vertical software and hardware integration (such as the database and FPGA hardware acceleration or ARM acceleration) in the underlying operating system on which the database depends. Collaborate with the database kernel to optimize the Huawei-developed database engine and configurations of other database engines.
+	- Proficient in implementing storage, virtualization, and OSs. Experience with system design and development
+	- Theoretical research or project development experience with database transactions, cache management, and data acceleration algorithms.
 + skill set:
 	- Principal Performance Engineer
 	- Are you passionate about learning new technologies and understanding how they work? Are you interested in an opportunity to work with an upbeat team to help drive its products to a new level? We are looking for a seasoned, creative Performance Engineer to help us focus on the scalability and performance of our products and build meaningful benchmarks that address customer experience.
@@ -47,6 +56,29 @@ This set of skill sets is for non-common software development roles, which inclu
 	- Experience in SaaS and Cloud native is a big plus
 + collecting and analyzing performance metrics (InfluxDB, Prometheus, statsd, Grafana)
 + Experience with performance optimization of queries in Redshift & Postgres
++ skill set:
+	- At DO, we believe in: Creating simple, yet powerful, foundations (with 💕) from which our community can build. The Performance Engineering team delivers on this mission by ensuring DigitalOcean’s operating system and virtualization stack is a performant foundation for product offerings.
+	- Our Stack: Python, C, Chef, Go, libvirt, Linux, KVM, OVS, QEMU
+	- Our Tools: docker, k8s, Prometheus, Concourse, Elasticsearch, GSuite, Jira, Slack
+	- Our Team: Performance Engineering is part of the Systems Engineering group.  The Systems Engineering  group is currently made up of about thirty, mostly senior, engineers located across the US, Canada, and Germany with two engineers in the NY office and is supported by a Senior Engineering Manager. The Performance Engineering sub-team is part of the Systems Tooling and Automation team supported by an Engineering Manager.
+	- While work will vary based on quarterly priorities and initiatives, some examples include:
+		* Development of performance regression analysis testing automation
+		* Developing and maintaining realistic benchmark applications that emulate our customers
+		* Development of telemetry for fleet performance analysis
+		* Triaging and fixing operating system issues impacting the performance of product offerings
+		* Performance analysis of OS stack and fleet hardware updates
+		* Consultation for product performance regressions and new product performance acceptance criteria
+		* Visualizing and presenting performance data to be leveraged for technology and business decisions
+		* 5-20% of your time is spent on innovation, education, and/or open source
+	- Professional experience in performance engineering
+	- Technical leadership experience (preferably in the Linux/Open Source space)
+	- Experience as a developer / engineer in a large scale, distributed environment
+	- Experience writing secure, testable and robust code
+	- Deep understanding of Linux and OS internals
+	- Experience proactively diagnosing performance issues across all layers of the stack
+	- Excellent written and verbal communication skills
+	- Familiarity with data analytics
+	- Machine learning experience is a huge plus
 + skill set:
 	- BLAH.
 + skill set:
@@ -511,7 +543,7 @@ Skills related to software development for enterprise search engines:
 + skill set:
 	- 5+ years of experience in developing production software.
 	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
-
++ production engineer, in software development
 
 
 

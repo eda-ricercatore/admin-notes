@@ -107,6 +107,37 @@ Skill set for DevOps:
 	- Develop production-quality software, including testing, documentation, static analysis, and CI/CD/CT.
 	- Experience with RTOSes such as FreeRTOS.
 + skill set:
+	- Manage Kubernetes clusters across internal and cloud (AWS, Alicloud, etc.) environments.
+	- Build and improve internal developer tools and drive the best practice of Kubernetes to increase productivity across the engineering organization.
+	- Automate the Kubernetes deployment and maintain a consistent process across cloud and on-premise environments.
+	- Performance tune, load test, and optimize scalability and availability of Kubernetes clusters.
+	- Conduct capacity planning and resource optimization to support fast-growing data processing and machine learning requirements.
+	- Bachelor of Science in Computer Science or equivalent.
+	- 3+ years of hands-on technology experience in large enterprise environments.
+	- Deep knowledge of containerization and Kubernetes.
+	- Strong programming skills in python, java, or C++.
+	- Familiarity with open-source configuration, orchestration, and CI/CD tools.
+	- Excellent communications skills, capable of working with cross-functional technical and business teams and varying levels of management, in a professional manner
+	- Strong TCP/IP networking knowledge
+	- Experience operating and developing infrastructure and services in public cloud environments (AWS, GCP, or Azure)
+	- Experience working in a 24/7 production engineering organization
++ skill set for Frameworks Integration Engineer:
+	- Build and maintain SiFive Software CI/CD/CT flow pipelines using build and release orchestration tools (Jenkins, Travis CI, etc.)
+	- Conduct SiFive Parallel Compute Frameworks testing and integration for product quality qualification and assurance
+	- Build the required automation tools on the basis of past experience in scripting (BASH, Perl, Powershell, Python)
+	- Closely collaborate with geographically distributed software and engineering teams.
+	- 3+ year experience on large scale software integration
+	- 1+ year experience on CI/CD/CT flow development
+	- 3+ years Software design and programming experience in C/C++/Python for testing, debugging and problem solving
+	- Experience with building tool/system like Make, CMake, Yocto, and Bazel
+	- Familiar with gtest, python unittest or other testing frameworks.
+	- Familiarity with version control tool with GIT and GitHub
+	- Familiarity with software release management tools is plus
+	- Strong system administration (Linux/Unix or Windows) at the command-line level is a plus
+	- Good understanding of Deep learning, Computer Vision, NLP is plus
+	- Familiarity with ML framework (Tensorflow/Tensorflow-Lite/Pytorch) is plus
+	- In addition to the above, if you have rich experience in software automation and testing, and good system debugging and integration capability in large scale software systems, you are the professional we are looking for!
++ skill set:
 	- Systems Engineer / DevOps
 	- Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
 	- DevOps and Systems Team

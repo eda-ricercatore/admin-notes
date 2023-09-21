@@ -902,6 +902,8 @@ reactive programming = asynchronous dataflow programming
 	- standards for cybersecurity (ISO21434) and functional security (ISO26262)
 + SOTIF, safety of the intended functionality
 + Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
++ Experience with low-level Graphics APIs (D3D12/Vulkan)
++ Familiarity with one or more of the following software: Unreal Engine, Unity, Maya, Houdini
 + skill set:
 	- Senior 3D Pipeline Engineer - Simulation
 	- Apple’s Special Project Group is seeking a Senior 3D Pipeline Engineer to help advance innovative simulation for autonomous technologies. You will directly play a role developing and maintaining tooling for our 3D content creation pipeline core to our simulation efforts. Your work will advance our ability to develop, test, and verify mobile autonomous systems.
@@ -984,6 +986,20 @@ reactive programming = asynchronous dataflow programming
 	- WebGL is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. WebGL is fully integrated with other web standards, allowing GPU-accelerated usage of physics, image processing, and effects in the HTML canvas.
 	- WebGPU is the working name for a potential web standard and JavaScript API for accelerated graphics and compute, aiming to provide "modern 3D graphics and computation capabilities". 
 	- WebGPU is the successor to WebGL bringing the advancements of this new class of modern APIs to the Web. WebGPU unlocks a lot of new GPU programming possibilities in the browser. It better reflects how modern GPU hardware works, while also laying a foundation for more advanced GPU capabilities in the future.
++ skill set:
+	- Futurewei focuses research on advanced information and communications technology (ICT) domains that will benefit an intelligent and digital society. By focusing on open innovation, we aim to advance these technologies into real world solutions through standardization, open source collaboration and partnering with industrial ecosystems. Over the next 5 to 10 years, these new technologies can truly digitize our traditional industries and rapidly advance us towards the future.
+	- The candidate will join the Graphics team to explore and define the next-generation 2D/3D graphics framework for future OS and application development platforms. The work may also include collaboration with the open source community on architecture and implementation.
+	- The candidate will help improve, design and implement the architecture of a modern graphics framework, touch the full graphic stack from UI to driver, and tackle challenging open problems in the computer graphics domain.
+	- Master/Ph.D. on Computer Graphics/Computer Vision/Image Processing/Computational Photography
+	- Experiences in GPU/GPGPU programming, proficient in at least one of the major GPU APIs (Vulkan, DirectX 11-12, Metal, OpenGL)
+	- Experiences in C/C++ programing language
+	- Good communications skills and a team player
+	- Strong programming skills, and strong problem-solving skills.
+	- Experiences in GPU driver programming
+	- Publications in top graphics/vision conferences and journals
+	- Knowledge on rendering engine architectures
+	- Experiences in application frameworks on different OS (Windows, Mac, iOS, Android)
+	- Strong mathematical background
 + skill set:
 	- BLAH.
 + skill set:

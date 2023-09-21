@@ -30,7 +30,47 @@ Notes:
 
 
 
+
+
+
+
+
+
+
+
 Skill set for compiler design:
++ skill set:
+	- Research in Compilers and Architecture
+	- Conduct fundamental research on new directions in compilers and architecture
+	- Develop academic research partnerships and cooperation with leading universities and professors in the area
+	- Work with internal research colleagues and academic research partners to achieve new breakthroughs in research and innovation
+	- Produce and present research papers at internationally leading conferences and events
+	- Produce white papers on current developments and future directions in computing systems
+	- Where appropriate, contribute insight and research expertise to committees and other organizations that are looking to establish new industry standards and platforms
+	- Contribute to the research and academic community through service such as conference program committee membership, membership of journal editorial boards etc.
+	- PhD in an area related to computing systems, or equivalent research experience in industry
+	- Record of publishing research papers in the area of computing systems
+	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
+		* CPU Compilers
+		* Just-In-Time Compilation
+		* Compilers and Microarchitecture
+		* ***Compiler/Architecture Co-Design***
+		* ***Hardware/Software Co-Optimization***
+		* Static/Dynamic Analysis
+		* Static/Dynamic Compiler and Runtime Systems
+		* ***Static/Dynamic and Machine Learning-Based Optimization***
+		* Compile-time and Runtime Analysis
+		* Code Generation and Optimization
+		* ***Software Profiling for Hardware Optimization***
+	- Strong interpersonal skills and ability to work productively in a research environment
++ skill set:
+	- If you're interested in really neat computer architectures and the compiler challenges associated with them, then you really want to be talking to us! We work at the cutting edge of compilers and computer architecture. These are real machines and they are doing important work.
+	- Reservoir Labs is looking for a Compiler Developer to join our growing business. We are tackling some of the most interesting and challenging problems in high performance computing, including designing compilers for high performance embedded computing systems, compiler algorithms for machine learning, and simulators and software for advanced supercomputers. This is a great opportunity for a rewarding career in applied computer science research.
+	- Work on a wide range of projects within small teams of engineers
+	- Frequently interact with clients and effectively identify and meet client needs
+	- Represent the company in conferences and industry forums
+	- Opportunity to lead and manage projects
+	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong software engineering and development skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with knowledge of and previous experience in compilers. Experience with LLVM is a plus. Interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
 + skill set:
 	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up!
 	- Our LLVM-based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions. SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
@@ -42,6 +82,23 @@ Skill set for compiler design:
 	- Have completed coursework, projects, internships, and/or research in data structures/algorithms and compilers.
 	- Have completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience in compilers.
 	- Strong C++ programming skills.
++ skill set:
+	- If you’re interested in advancing and applying mathematics to program optimization for cutting-edge computer architectures, then you really want to be talking to us! We work on developing new and innovative compilers that break the mold of current computing.
+	- Reservoir Labs is looking for Automatic Parallelization and Compiler Engineers and Researchers to join our growing business. We are tackling some of the most interesting and challenging problems in high performance computing, including designing compilers for high performance embedded computing systems, for machine learning, and for advanced supercomputers.
+	- We have a great platform, R-Stream, for applying and advancing the polyhedral model of optimization for these challenges. This is an opportunity for a rewarding career in applied computer science research.
+	- Job Responsibilities
+		* Develop and apply polyhedral optimization for new architecture and applications
+		* Work on a wide range of projects within small teams of engineers
+		* Frequently interact with clients and effectively identify and meet client needs
+		* Represent the company in conferences and industry forums
+		* Opportunity to lead and manage projects
+	- Desired Skills
+		* An advanced degree in the field of computer science or applied mathematics
+		* Experience with compiler development, the polyhedral model, and computer architecture
+		* Experience with software engineering
+		* Solid intellectual ability, motivation, and a strong history of achievement
+		* Excellent oral and written communication skills
+	- We are particularly interested in candidates with knowledge of the polyhedral model. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
 + skill set:
 	- 5+ years of experience in SSA-based optimizations for high performance architectures.
 	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
@@ -150,6 +207,63 @@ Skill set for compiler design:
 	- Experience with open source contributions. 
 	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
 + skill set:
+	- As a Software Engineer in the Platform Engineering team, you will architect and implement features and compiler internals for the language that drives our sandboxing, verification and delivery workflows. You will use your understanding of functional programming to architect and maintain the systems that allow SiFive to design and deliver our primary product to our customers.
+	- Architecting and implementing language features and compiler internals that drive a functional language to enable development and delivery of SiFive’s RISC-V core IP products.
+	- Developing tools required by a language ecosystem such as a language server protocol for interacting with IDEs.
+	- Owning architecture and code quality to facilitate meeting expanding requirements for business processes, efficiency and usability.
+	- Collaborating with design, verification and other teams within SiFive to define the next generation of flow automation.
+	- Proficiency in C++11.
+	- Previous experience in compiler development.
+	- Familiarity with functional programming languages such as ML, Scala, Haskell, Lisp, or F#.
+	- Experience with Linux operating systems.
+	- Experience defining build rules in a build system.
+	- Ability to work and learn independently.
++ skill set:
+	- Our LLVM-based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions. SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a new college graduate to join our LLVM compiler team, and to learn techniques for tuning and optimizing the RISC-V LLVM compiler for the SiFive Intelligence processor family.
+	- Working with SiFive’s LLVM compiler team on improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- A degree in Computer Science or equivalent technical field of study.
+	- Have completed coursework, projects, internships, and/or research in data structures/algorithms and compilers.
+	- Have completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience in compilers.
+	- Strong C++ programming skills.
++ skill set:
+	- We are looking for a solid LLVM compiler team leader with proven experience in compiler technology such as SSA-based global optimizations, auto-vectorization, ISA extensions, and high-performance computing. The candidate should demonstrate a track record in leadership, cross-team collaboration, planning, and delivering high quality compiler products.
+	- Leading a geographically distributed LLVM-based compiler team in developing a LLVM based compiler for SiFive processors..
+	- Closely collaborating with SiFive’s Algorithms, Frameworks and Hardware teams in implementing optimized vertical solutions for AI and other domains.
+	- Planning the development alongside hardware, software, and product organizations to deliver a combined hardware and software quality products.
+	- Collaborating with RISC-V open source projects, upstreaming changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- Building, leading, inspiring and growing the software organization alongside other software leaders.
+	- 3+ years of experience in technical leadership of a compiler team.
+	- 5+ years of experience in compiler technology.
+	- 5+ years of experience in SSA-based optimizations for high performance architectures.
+	- Experience with open source contributions.
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
+	- We at SiFive are proud to take a software first approach to develop tools and frameworks that achieve cutting edge performance without compromising quality for the SiFive Intelligence processor family. The SiFive Intelligence processors deliver AI acceleration for the edge and beyond. SiFive intelligence builds on RISC-V Vectors (RVV) allowing SiFive to design Core IPs that deliver performance, are optimized for power and area, but do not sacrifice flexibility or programmability. Our software stack is codesigned with the hardware and developed with scalability and quality in mind. Join us to develop revolutionary software from the ground up.
+	- Our LLVM based, world class compiler technology is the backbone of the SiFive software stack that enables SiFive high-performance Linux-capable cores and SiFive Intelligence processors. The compiler team's mission is to deliver cutting-edge performance in SiFive products while working with the community to advance RISC-V architecture and ISA extensions.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RSIC-V ecosystem.
+	- We are looking for a solid senior LLVM compiler team member with proven experience in compiler technology such as SSA-based global optimizations, auto-vectorization, ISA extensions, and high-performance computing. The candidate should demonstrate a track record in cross-team collaboration and in delivering high quality compiler products. 
+	- Working with SiFive’s LLVM compiler team in improving performance for the SiFive Intelligence processor family.
+	- Working with SiFive’s benchmarking teams in analyzing performance results and suggesting new compiler optimizations.
+	- Working with SiFive’s compiler and release teams in releasing timely compiler toolchains for use by SiFive software and hardware teams.
+	- 3+ years of experience in compiler technology.
+	- Degree in computer science or engineering.
+	- Experience with open source contributions. 
+	- Experience with hardware specific optimizations such as SIMD or other specialized accelerators.
++ skill set:
+	- Reservoir Labs is a private technology research and development company headquartered in New York City. Our mission is to make the world safer, cleaner, more secure, and more efficient through the application of radical high-performance computing technologies. Our engineers and computer scientists work on projects related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics. Reservoir has a proven track record of delivering cutting-edge solutions to both government and commercial clients.
+	- Reservoir Labs is seeking talented entry level Research Engineers to join our team. We are working on some of the most interesting and challenging problems related to high-performance computing and compilers, cybersecurity, advanced algorithms, and high-performance data analytics.
+	- As a Research Engineer, you will work on a range of projects within small technical teams. You will be closely guided and mentored by one of our experienced researchers, providing you with an unparalleled learning experience. You will have the opportunity to publish your own research papers, attend client meetings and academic conferences.
+	- Some examples of projects our Research Engineers have contributed to include:
+		* Cybersecurity behavioral analytics using hypergraph decomposition
+		* Advanced radar tracker algorithms for ballistic missile defense
+		* Parallelizing compilers for next generation processors (exascale, low power, accelerators)
+		* Software verification systems for software radios
+		* Parallel SAT solvers and their application
+		* Parallel hypergraph decomposition for analysis of intelligence data
+	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong math, programming and engineering skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with a firm math background, knowledge of network security, and/or knowledge of compilers. Passion for Computer Science research and application is a huge plus. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -245,8 +359,61 @@ Skill set for compiler design:
 	- GLOW
 	- XLA
 + skill set:
+	- The SiFive MLIR team's mission is to create a compiler technology that achieves cutting-edge performance without sacrificing quality and scalability.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RISC-V ecosystem.
+	- We are hiring a Director for our MLIR compiler activities, a person with proven experience in compiler technology targeting end-to-end application optimizations in domains such as Machine Learning and AI. The candidate should demonstrate a track record in leadership, cross-team collaboration, planning, and delivering high-quality compiler products. 
+	- Grow and Lead a geographically distributed MLIR compiler team from the ground up  
+	- Closely collaborate with SiFive’s Algorithms, Frameworks and hardware teams in implementing optimized vertical solutions for AI and other domains.
+	- Plan the development alongside hardware, software, and product organizations to deliver a combined hardware and software quality products. 
+	- Collaborate with the MLIR community, upstream changes and coordinate internally and externally with cross geographical and distributed ecosystems. 
+	- Build, lead, inspire and grow the software organization alongside other software leaders. 
+	- 5+ years of experience in technical leadership of a compiler team.
+	- 5+ years of experience in compiler technology.
+	- Experience in MLIR or similar multi-level optimizing compilers.
+	- Experience with open source contributions. 
+	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- We are looking for an experienced MLIR compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Developing MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Developing large-scale production software with testing and continuous integration in mind.
+	- Closely collaborating with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborating with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 5+ years of experience in compiler technology.
+	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 5+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
++ skill set:
 	- Experience in MLIR or similar multi-level optimizing compilers.
 	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- We are looking for an experienced AI/ML compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM, TVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
+	- Develop MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
+	- Develope large-scale production software with testing and continuous integration in mind.
+	- Closely collaborate with Algorithm, Frameworks and hardware teams to codesign an end to end optimized vertical solutions for AI and other domains.
+	- Collaborate with open source projects, upstream changes and coordinating internally and externally with cross geographical and distributed ecosystems.
+	- 3+ years of experience in compiler technology.
+	- 3+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
+	- 3+ years of experience in developing production software.
+	- Experience with open source contribution.
+	- Experience with hardware specific optimizations such as SIMD and special accelerators.
++ We are looking for a highly motivated compiler engineer to design and develop efficient code-generation and optimization techniques using LLVM infrastructure for the Blaize’s Graph Streaming Processors (Data Flow Processor) and Picasso SDK majorly towards the Machine Learning, Natural Language Processing and Artificial Intelligence workloads. The position offers visibility ranging from the top level AI/ML applications down to its implementation in the SIMD hardware.
++ skill set:
+	- We are looking for a highly motivated compiler engineer to design and develop MLIR based graph compiler to achieve peak performance on Blaize’s massively parallel graph streaming processors. The role provides an opportunity to work on cutting edge technologies in AI and to improve performance across Blaize’s software stack with a specific focus on MLIR and LLVM based compilers.
+	- Design and develop efficient code-generation and optimization techniques for Blaize’s graph streaming processors using MLIR/LLVM
+	- Analyze/Profile various ML workloads and identify/implement optimization techniques for compilers
+	- Identify and fix system-level performance bottlenecks
+	- Closely work with hardware teams to understand the low-level details and improve the performance of the generated code
+	- Follow agile software development methodology, unit testing and continuous integration
+	- B.Tech/M.Tech ECE or CS
+	- 3 to 12 years of relevant experience in compilers/GPGPU compute
+	- Strong programming skills in C/C++
+	- Strong knowledge of LLVM infrastructure
+	- Prior experience MLIR / Graph Compiler / Optimizations is a plus
+	- Knowledge of multi-threaded and distributed programming is a plus
+	- Knowledge of ML frameworks like Tensor-Flow and pyTorch for training and inference of network models is a plus
+	- Knowledge of low-level hardware architecture of any CPU/GPU is a plus
+	- Knowledge of memory and cache hierarchies is a plus
+	- Familiarity with GPU device drivers and linux kernel internals is an added advantage but not a requirement.
 + skill set:
 	- We are looking for an experienced MLIR compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
 	- Developing MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
@@ -612,7 +779,18 @@ Skill set for compiler design:
 	- Background with data plane programming or Linux networking stack and hardware packet processing pipelines
 + Hands-on experience design and development of graph-based compilers and experience in LLVM, MLIR, GLOW, etc. is a plus.
 + skill set:
-	- BLAH.
+	- Domain specific languages (DSLs) offer great potential in achieving both productivity and performance when implementing tensor based computations that appear in a variety of AI and HPC workloads. However, extending a DSL with new functionalities and porting it to new hardware remain challenging tasks, in part also due to the lack of an accepted standard interface for tensor operations.
+	- As a key member of our team, you will support our research focus in this area. In this internship you will:
+		* Review current DSL and implementation techniques for high performance matrix and tensor computations.
+		* Contribute to the design of a novel mathematical DSL and compiler infrastructure addressing major expressiveness, performance, and portability issues of current solutions.
+		* Identify a comprehensive set of AI/HPC benchmarks for validating the effectiveness of your solution.
+	- You are currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.).
+	- Solid compiler design background with LLVM experience (knowledge of MLIR is a plus).
+	- Solid knowledge of matrix algebra.
+	- Understanding of fundamental concepts for high-performance software development, including instruction set architectures, memory hierarchy and locality, and instruction-level parallelism.
+	- Proactive in learning and exploring new ideas.
+	- Excellent communication and writing skills in English.
 + skill set:
 	- BLAH.
 + skill set:
@@ -645,6 +823,48 @@ Skill set for compiler design:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Compiler Design for Dynamic Just-In-Time Compilers, JITs
+
+
+
++ skill set:
+	- The research work of the lab will be carried out not only by Huawei’s internal research staff but also by our academic research partners in universities across Europe. The lab will provide an “open research environment” where academics will be encouraged to visit and work on fundamental long-term research alongside Huawei staff in an environment that, like the best universities and research institutes, is open and conducive to such scientific work.
+	- For this new ZRC Laboratory, we are currently looking for an outstanding Research Intern. As a key member in our motivated and multicultural team, you will support to define novel hardware/software interfaces for language runtime systems and dynamic just-in-time compilers (JITs). Just-in time compilers have become very popular due to the wide spread of high-level languages. What make JITs particularly interesting is that they have runtime information about the program execution. Unfortunately, the JITs have no possibility to communicate this information to hardware beyond machine instruction. In this line of research studies additional interfaces besides traditional ISA line to facilitate the communication dynamic program information from the JIT to the hardware.
+	- Design hardware/software interface.
+	- Prototype in existing JITs (e.g., V8, SpiderMonkey, or JavaScriptCore).
+		* V8
+		* SpiderMonkey
+		* JavaScriptCore
+	- Implement hardware interface in architectural simulator (e.g., gem5).
+	- Evaluate implementation on standard benchmarks.
+	- You are currently enrolled in a Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months
+	- Strong algorithmic problem-solving and software development skills (in C++)
+	- Understanding of compilers and language times
+	- Ideally, experience with architectural simulators (e.g., gem5)
+	- Excellent communication and writing skills in English
+
+
+
+
 
 
 
@@ -662,6 +882,9 @@ Skill set for compiler design:
 
 
 
++ skill set:
+	- As a part of this team you shall be building the “Blaize C/C++ heterogeneous compiler” which involves a lot of control-and-data-flow analysis, parallelism extraction and instruction vectorization, generic optimizations, backend optimizations and mapping, exposure to SIMD architecture and low-level memory management, insights into debugger; and insights into work-load analysis for performance benchmarking.
+	- Compiler basics, Auto-vectorizing techniques and algorithms(LLVM preferable)
 + skill set:
 	- Heterogeneous Computing Compilation Optimization Architect
 	- Support compilation optimization and performance improvement of self-developed GPGPU applications;
@@ -741,23 +964,37 @@ Skill sets involved with compiler design for quantum computing:
 	- Software Development Manager - Compilation
 	- Xanadu is looking for an experienced Software Development Manager to lead the Quantum Compilation team. The team is developing JIT and AOT hybrid compilation pipelines for PennyLane, an open-source library for quantum machine learning, quantum computing, and quantum chemistry. Although quantum software development experience is not required for the role, a strong compilation background is strongly preferred.
 	- Manage a team of 7-10 developers to build new features and optimize the PennyLane compiler.
-Work with Product Managers to define direction and roadmap for the team.
-Participate in sprints with cross-functional teams, ensuring features are delivered efficiently and on time.
-Work closely with our community growth team to ensure good feedback loops between external stakeholders and internal teams, and to improve library adoption.
-Develop and improve processes to ensure developer efficiency and consistent product delivery.
-Perform team-building activities such as hiring, mentorship, career development and performance management.
-Advanced Degree in Computer Science, Physics, Math, Engineering, or a related field.
-7+ years of compiler development experience.
-2+ years of management experience.
-Understanding of advanced compiler optimization techniques.
-Experience with MLIR and LLVM core libraries.
-Experience with benchmarking and performance-oriented optimizations.
-Familiarity and experience with automatic differentiation methods and frameworks (e.g., Autograd, Torch, TensorFlow, JAX).
-Comfortable working in a fast-paced environment.
-Strong communication skills.
-Expertise in quantum computing, as demonstrated by in-field experience, extensive coursework, thesis, or peer-reviewed publications.
-Experience with numerical computation and high-performance computing using Python and/or C++.
-Experience developing open-source software.
+	- Work with Product Managers to define direction and roadmap for the team.
+	- Participate in sprints with cross-functional teams, ensuring features are delivered efficiently and on time.
+	- Work closely with our community growth team to ensure good feedback loops between external stakeholders and internal teams, and to improve library adoption.
+	- Develop and improve processes to ensure developer efficiency and consistent product delivery.
+	- Perform team-building activities such as hiring, mentorship, career development and performance management.
+	- Advanced Degree in Computer Science, Physics, Math, Engineering, or a related field.
+	- 7+ years of compiler development experience.
+	- 2+ years of management experience.
+	- Understanding of advanced compiler optimization techniques.
+	- Experience with MLIR and LLVM core libraries.
+	- Experience with benchmarking and performance-oriented optimizations.
+	- Familiarity and experience with automatic differentiation methods and frameworks (e.g., Autograd, Torch, TensorFlow, JAX).
+	- Comfortable working in a fast-paced environment.
+	- Strong communication skills.
+	- Expertise in quantum computing, as demonstrated by in-field experience, extensive coursework, thesis, or peer-reviewed publications.
+	- Experience with numerical computation and high-performance computing using Python and/or C++.
+	- Experience developing open-source software.
++ skill set:
+	- New Compiler front-end for a Quantum Computing Software Framework
+	- The research work of the lab will be carried out not only by Huawei’s internal research staff but also by our academic research partners in universities across Europe. The lab will provide an “open research environment” where academics will be encouraged to visit and work on fundamental long-term research alongside Huawei staff in an environment that, like the best universities and research institutes, is open and conducive to such scientific work.
+	- As we slowly transition our quantum computing software framework to C++ for increased performance and efficiency, we are looking to completely replace the Python front-end by something written in C++.
+	- In order to make sure that current code remains compatible with old versions of our quantum computing software framework, we are looking into implementing a new front-end using the libraries from the LLVM project.
+	- The objective of this internship is to implement a new compiler front-end in C++ using the LLVM project (or similar). This entails:
+		* Research what libraries/project currently exist to achieve this goal
+		* Propose, test and implement a prototype in C++ that works on a reduced subset of the quantum computing language
+		* Exchanging with other Huawei colleagues in the quantum computing group
+		* Finalize the implementation based on those exchanges, write corresponding code tests and code documentation
+	- You are currently enrolled in a Master‘s degree or PhD in computer science, software engineering, robotics or any related fields at a reputable university, or graduated within the last six months
+	- You are an experienced programmer in C++ (knowledge of latest C++ standard is a plus) and are familiar with Python
+	- You have basic knowledge of quantum physics or quantum computing
+	- Experience working with LLVM project or similar
 + skill set:
 	- BLAH.
 + skill set:
@@ -882,6 +1119,20 @@ Skill sets for program analysis:
 		* parallel architectures or distributed systems
 		* dataflow or spatial architctures
 		* many-core multi-thread environments.
++ skill set:
+	- You will develop new features or extend existing features related to code analysis and transformation in research or commercialized projects
+	- You will work in Clang and LLVM versions tailored for our use as well as in Silexica’s compiler infrastructure.
+	- You will analyze the effect of your code on the performance and resource usage of your target, which will mostly be FPGAs.
+	- You will be responsible for continuous development, debugging and testing of the code you produce
+	- Our mission is to provide software development tools reducing time-to-market of innovative software IP and intelligent products. Enabled by deep software analysis, heterogeneous hardware awareness and quick design space exploration, the SLX programming tools significantly accelerate the journey from software to application-specific hardware systems, empowering our customers to win markets.
+	- You have excellent C++ programming skills
+	- You have solid scripting skills on Windows and Linux (e.g. Python, Bash)
+	- You have knowledge of computer architecture
+	- You have knowledge about compiler construction and possess knowledge about the LLVM compiler infrastructure
+	- Ideally, you have some experience with HLS and/or hardware design.
+	- You are fluent in English
+	- You have excellent problem-solving capabilities and good communication skills
+	- You are a team player, who has a hands-on mentality and a desire to learn
 + skill set:
 	- BLAH.
 + skill set:

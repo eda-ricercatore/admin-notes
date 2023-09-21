@@ -184,6 +184,8 @@ Types of interfaces:
 		* Hands-on experience with web visualization frameworks such as D3
 		* Hands-on experience with Python (or other full-stack experience)
 		* Experience mentoring others
++ Research UX and stay up to date on UI/UX methodologies.
++ You are experienced with InVision Studio, Sketch, Adobe XD or Figma
 + skill set:
 	- BLAH.
 + skill set:

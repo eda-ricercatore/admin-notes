@@ -199,6 +199,14 @@ Bachelor's degree in Electrical Engineering, Computer Engineering, or similar te
 
 
 
+
++ Knowledge of RF, DCR, OFDM, MIMO and transmit beamforming is a big plus.
++ skill set:
+	- experience with superconducting qubits
+	- experience with cryo-RF systems including RF and DC signal manipulation (attenuation, amplification, diplexing, etc.) and delivery
+	- experience with dilution refrigerators
+	- experience with RF measurement techniques
+	- experience in RF/microwave PCB design and layout
 + skill set:
 	- BLAH.
 + skill set:

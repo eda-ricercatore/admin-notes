@@ -192,6 +192,15 @@ Sets of skills in quantum error detection and correction:
 	- Experience estimating and optimizing resource costs for quantum computing, in either the NISQ or fault-tolerant regime
 	- Experience with software development and parallel programming
 + skill set:
+	- quantum error mitigation techniques, benchmarking tools
+	- quantum circuit design
+	- full-stack quantum computing systems
+	- Python numeric toolkits:
+		* numpy
+		* scipy
+		* pandas
+		* scikit-learn
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -233,7 +242,7 @@ Sets of skills in quantum error detection and correction:
 
 
 
-##	Sets of Skills in Quantum Error Detection and Correction
+##	Sets of Skills in Quantum Processor Simulator Development
 
 
 

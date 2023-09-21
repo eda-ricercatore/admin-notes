@@ -80,6 +80,31 @@
 		* Experience in hands-on lab and bring-up activities, as well as knowledge of design for product and manufacturing
 		* You like to work in a fast-paced environment using agile methods
 + skill set:
+	- We want people who are passionate about designing and operating secure systems at scale.
+	- We are looking for someone who is familiar with our stack, understands our tools, is comfortable working remote, enjoys working in open source, and is excited about our mission.
+	- At DO, we believe in: Creating simple, yet powerful, foundations (with 💕) from which our community can build
+	- The Systems Virtualization team delivers on this mission by ensuring our fleet of hypervisors are performant, reliable, and secure.
+	- Our Stack: C, Chef, Go, libvirt, Linux (Ubuntu), KVM, OVS, QEMU
+		* libvirt
+		* KVM
+		* OVS
+		* QEMU
+	- Our Tools: Concourse, Elasticsearch, GSuite, Jira, Prometheus, Slack
+	- Our Team: The Systems team is currently made up of about two dozen, mostly senior, engineers located across the US, Canada, and Germany with one engineer in the NY office and is supported by a Senior Engineering Manager. The Virtualization sub-team, supported by an Engineering Manager, accounts for approximately one-third of the Systems team.
+	- While work will vary based on quarterly priorities and initiatives, some examples include:
+		* Triaging and fixing systems and virtualization issues impacting the performance, reliability, and/or security of our hypervisors and their guests
+		* Improvements to our debian packaging and software delivery processes
+		* Improvements to our monitoring, alerting, and tooling
+		* Upstream contributions (i.e. libvirt, Linux kernel, QEMU)
+		* Contributions to our intra-hypervisor placement service (in Go)
+		* 5-20% of your time is spent on innovation, education, and/or open source
+	- Experience as a developer / engineer in a large scale, distributed environment
+	- Experience writing secure, testable and robust code
+	- Deep understanding of Linux and virtualization
+	- Experience proactively addressing reliability issues across all layers of the stack
+	- Excellent written and verbal communication skills
+	- Upstream QEMU contributions are a huge plus
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

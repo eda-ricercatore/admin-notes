@@ -25,6 +25,54 @@ Measure performance in terms of:
 
 
 Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), performance analysis and workload characterizations of microarchitecture designs - in the context of design space exploration and benchmarking, and hardware/software co-design of (domain-specific) computer systems:
++ Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
++ Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
++ skill set:
+	- As a key member in our motivated and multicultural team, you will support our research on improving future microarchitectures. In particular, you will focus on methodologies to improve performance analysis.
+	- Study and comparison of existing performance analysis methodologies
+	- Propose a well suited methodology for our research
+	- Develop a performance analysis infrastructure based on this methodology
+	- Study of an existing microarchitectural feature with the developed framework
+	- Propose future directions and improvements
+	- You are currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.)
+	- Understanding of the fundamentals of general purpose CPU micro-architecture, such as pipelining, out-of-order execution, and caches.
+	- Understanding of CPU instruction set architecture and assembly language.
+	- Exposure to performance simulators (e.g. gem5) and benchmark/workload analysis and characterization
+	- Proactivity and willingness to learn and explore new ideas.
+	- Excellent communication and writing skills in English
+	- If you are interested in gaining practical experience while working with the newest technologies and create solutions which enrich people’s life, we are the right company for you. You will be part of a multicultural team and rapidly growing environment - write the future together with us!
++ skill set:
+	- As a CPU Microarchitect/RTL design engineer at SiFive, you will be part of a team of engineers who are passionate about designing industry-leading CPU cores, based on the revolutionary open-source RISC-V architecture. We are looking for people who are as excited as we are about working in a fast-paced dynamic environment to bring new hardware IP to market quickly, with high quality and exceptional performance.
+	- Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- Collaborate with performance modelling team for performance exploration and optimization to meet performance goals.
+	- 4+ yrs of recent industry experience in CPU design.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Knowledge of RISC-V architecture is a plus.
+	- Experience with Scala and/or Chisel is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- We at SiFive are now looking for a Core Architect to join our growing team! You will be vital to SiFive’s efforts to create silicon at the speed of software. You would be involved with the design and definition of various aspects of SiFive’s RISC-V ISA, high-performance core pipelines, including but not limited to, branch predictors, dispatch logic, reorder buffer, load-store queues, and prefetchers. You are tasked with creating the basic collateral and specifications that can be reused across SiFive’s RISC-V and SoC design ecosystem.
+	- Creating the design and specification of various aspects of high-performance core architecture. Such design must comprehend PPA (performance, power, and area) impact.
+	- Developing the upcoming RISC-V platforms, which will connect numerous cores together on a chip, support large bandwidth, as well as new applications and workloads
+	- Working on the design and specifications of various aspects of the RISC-V Instruction Set Architecture.
+	- Researching and analyzing emerging needs for new core architecture.
+	- If interested, the Core Architect will have a chance to analyze market verticals and design architectures specifically tailored for upcoming use cases.
+	- Working with customers to tailor cores to their needs.
+	- Opportunity to work directly with customers (which include Fortune 500 companies as well as prominent, innovative startups) to brainstorm and troubleshoot core pipeline designs.
+	- 8+ years of experience in core architecture development and chip architecture definition.
+	- Familiarity with advanced CPU architectures and pipelines.
+	- Experience in core design flow, including spec definition, Architecture design, and performance modeling.
+	- Familiarity with instruction set architecture, advanced and high-performance pipeline design concepts, such as picker logic, out-of-order scheduling, advanced branch predictors, and prefetchers.
+	- You should be familiar with memory coherence, consistency, and ordering.
+	- Basic understanding of RTL design & SoC tool flows.
+	- Basic understanding of foundry lib, IP, and process technology limitation
 + skill set:
 	- Analyze the vector microarchitecture performance
 	- Analyze and improve the performance of vector kernel
@@ -165,6 +213,85 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 
 
+Skill sets for computer architects in memory subsystems:
++ skill set:
+	- Analysis of the state-of-the-art methods for memory virtualization and cache access to improve performance and power consumption.
+	- Identifying the performance bottlenecks of existing methods and proposing improvements or new methodologies.
+	- Developing high-level simulations of novel micro-architectural virtual memory schemes for further performance improvement.
+	- Running simulation-based experiments to examine and evaluate new ideas.
+	- Gathering, analysing and presenting experimental results.
+	- You are currently enrolled in a Master‘s degree or PhD in computer science, software engineering, robotics or any related fields at a reputable university.
+	- Strong mathematical/algorithmic problem-solving and software development skills (C/C++, Python, etc.).
+	- Understanding of the fundamentals of general purpose CPU micro-architecture, such as pipelining, out-of-order execution, and caches.
+	- Understanding of CPU instruction set architecture and assembly language.
+	- Understanding of the fundamentals of general purpose Memory Subsystem and Operating System for Virtual Memory Systems
+	- Exposure to performance simulators (e.g. gem5) and benchmark/workload analysis and characterization
+	- Proactivity and willingness to learn and explore new ideas.
++ skill set:
+	- For this new ZRC Laboratory, we are currently looking for an outstanding intern to Explore Novel Memory Hierarchies. As a key member in our motivated and multicultural team, you will support to explore the memory hierarchy in future processors. The topic of this internship will span across the whole memory subsystem, from the caches to the main memory and the non-volatile storage. Modern workloads manifest different characteristics and have various requirements in processing and memory power. You will identify the memory bottlenecks that future computing systems will face at each level of the memory hierarchy. Using architectural simulators, e.g. Gem5, you will explore if already proposed memory hierarchies can mitigate the memory wall and propose novel designs that can further improve the performance of the memory, in terms of bandwidth and latency. You will investigate the feasibility, area overhead and power savings of such approaches via experimenting with design tools and circuit simulators.
+	- Identify memory bottlenecks of real-world applications
+	- Explore and propose novel designs of memory hierarchies
+	- Implement and evaluate architectural optimizations in the memory subsystem
+	- Currently enrolled in a Bachelor, Master’s degree or PhD in computer science, computer architecture, software engineering or any related fields at a reputable university; or you graduated within the last six months
+	- Strong problem-solving and software development skills (C/C++, Python, etc.)
+	- Previous experience (or attended academic courses) in architectural simulation and memory subsystems
+	- Preferably familiar with circuit design or/and simulation
+	- Excellent communication and writing skills in English
++ skill set for Memory Compression/Encryption/Overcommitment Engineers:
+	- Optimize system memory algorithms and explore memory usage maximization algorithms.
+	- Resolve Linux kernel problems of servers and provide kernel support and technical suggestions for developers.
+	- Lead R&D of new Linux kernel technologies, analyze system performance, and optimize the architecture, especially by optimizing the new hardware platform and new technologies.
+	- Expertise in memory overcommitment technologies and their working principles, including memory ballooning, memory sharing, memory swapping, transparent page sharing, and memory compression
+	- Good knowledge of the Linux OS and experience with memory optimization
+	- Proficient in Java, C, C++, or Python
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -209,7 +336,15 @@ Skill sets for computer architects in domain-specific processor architecture des
 	- Experience with experimental computer architecture development and evaluation.
 	- Background with C, C++, Python, and scripting languages.
 	- Strong interpersonal skills along with dynamic presentation skills.
-
++ skill set:
+	- Contribute to ICE´s R&D projects in the areas of processor architectures, multicore HW/SW design tools, virtual prototyping, neuromorphic computing, and HW security
+	-  Interact with our European and worldwide academic and industry partners
+	- Participate in project management and event organization
+	- Assist in teaching, e.g. lecture exercises, labs, and seminars
+	- Sound knowledge in Linux based C/C++ software development
+	- Skills in the areas of processor/multicore architectures, electronic design automation, cyber-security, compiler construction, and/or HW architecture simulation are beneficial.
+	- Excellent communication skills, must be a team player
+	- High proficiency in oral and written English. German is beneficial.
 
 
 
@@ -305,6 +440,55 @@ Skill sets for computer architects working with compiler designers, operating sy
 	- Familiar with baremetal/system software programming and Experience with creating direct test cases or porting microbenchmarks to measure system power or performance for design verification.
 	- Familiar with CPU micro-architecture, memory sub-system and system software ( such as exception/interrupt handling, memory paging system.)
 	- Experience with software project architecture/design and python/C++11 above programming.
++ skill set:
+	- We are looking for an experienced parallel computing/algorithm engineer passionate about using hardware and software innovation to optimize algorithms in AI and other domains. The candidate must demonstrate strong knowledge of hardware architecture and algorithm optimization. In addition, the candidate must show a track record of developing optimized production software and debugging and tuning algorithms for performance.
+	- Developing highly tuned algorithms for RISC-V Vectors and SiFive AI Intelligence extensions.
+	- Working with the hardware and architecture teams in the early stages of product development to navigate tradeoffs in the architecture, microarchitecture, and algorithm implementations.
+	- Closely collaborating with the Frameworks and Compilers teams to develop a programmable, flexible and scalable software and tools to enable the SiFive Intelligence platform.
+	- Masters or Ph.D. in computer science or a related field.
+	- Strong in algorithms, parallel computing, and linear algebra.
+	- 3+ years of experience in algorithm optimization to target parallel hardware such as GPUs, SIMD, or similar.
+	- Proven experience working close to and understanding the hardware, and optimizing algorithms for specific hardware implementations.
++ skill set:
+	- We are looking for an experienced parallel computing runtime engineer passionate about heterogeneous parallel computing, developing high quality, innovative, and scalable software that enables efficient execution of parallel multi-threaded applications to run efficiently on the SiFive Intelligence processors.
+	- Developing high quality, scalable and innovative heterogeneous parallel computing runtime.
+	- Collaborating with the MLIR, LLVM, Frameworks, algorithms and hardware teams.
+	- Developing software that meets certain quality and real time requirements for applications in multiple domains such as Machine Learning and AI.
+	- Designing scalable and maintainable solutions from the ground up.
+	- 3+ proven years of experience in developing high quality production software.
+	- A degree in computer science or a related field.
+	- Experience in developing runtimes for parallel systems or accelerators.
+	- Experience in system software understanding and debugging.
++ skill set:
+	- If you're interested in really neat computer architectures and the compiler challenges associated with them, then you really want to be talking to us! We work at the cutting edge of compilers and computer architecture. These are real machines and they are doing important work.
+	- Reservoir Labs is looking for a Compiler Developer to join our growing business. We are tackling some of the most interesting and challenging problems in high performance computing, including designing compilers for high performance embedded computing systems, compiler algorithms for machine learning, and simulators and software for advanced supercomputers. This is a great opportunity for a rewarding career in applied computer science research.
+	- Work on a wide range of projects within small teams of engineers
+	- Frequently interact with clients and effectively identify and meet client needs
+	- Represent the company in conferences and industry forums
+	- Opportunity to lead and manage projects
+	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong software engineering and development skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with knowledge of and previous experience in compilers. Experience with LLVM is a plus. Interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -331,6 +515,89 @@ Skill sets for performance engineering, such as workload analysis, in computer a
 	- Experience with emulation platforms, including building and deploying FPGA images
 	- Experience with Linux, virtual machines, and AWS.
 	- Experience with workflow automation.
++ skill set for Competitor Analysis and Infrastructure Engineer:
+	- Competitor board enabling and benchmarking
+	- Competitor microarchitecture analysis
+	- Root cause the performance difference caused by either SW and/or HW
+	- SiFive board benchmarking
+	- Performance infrastructure building
+	- Regression system development and maintenance for performance monitoring of RTL and models of all cores
+	- Workflow development
+	- Experienced with board enabling and benchmarking
+	- Experienced with system performance analysis
+	- Experienced with workflow automation
+	- Experienced with server management
+	- Good interpersonal skills to listen to diverse points of view and influence people from different fields
++ skill set:
+	- We at SiFive are looking for a Performance Architecture Engineer - Workloads Infrastructure to join our growing team working on developing and improving methods for gathering and processing performance analysis data from various simulation platforms. SiFive is looking for someone with outstanding knowledge and skills in workloads, databases, emulation/FPGA platforms, and workflow automation who will build an environment to be used specifically with SiFive’s device simulation, emulation, and silicon environments used for generating performance data.
+	- Develop and improve methods for gathering, post-processing, storing, retrieving, and presenting performance data generated via performance analysis and regression runs from various simulation platforms.
+	- Develop new database solutions and schemas to handle an expanding array of workloads and data artifacts used for workload performance analysis.
+	- Develop and improve components and workflows for device simulation, emulation, and silicon environments used for generating performance data.
+	- 5+ years of relevant industry experience.
+	- Experience with databases, and methods for data storing, retrieving, and presenting.
+	- Experience with emulation platforms, including building and deploying FPGA images
+	- Experience with Linux, virtual machines, and AWS.
+	- Experience with workflow automation.
++ Familiar with baremetal/system software programming and Experience with creating direct test cases or porting microbenchmarks to measure system power or performance for design verification.
++ skill set:
+	- Experienced with hypervisor
+	- Experienced with microbenchmark design
++ skill set for Vector Architecture Performance Analysis Engineer:
+	- Analyze the vector microarchitecture performance
+	- Analyze and improve the performance of vector kernel
+	- Correlate the vector performance of the model and RTL
+	- Design vector microbenchmarks
+	- Root cause the performance difference caused by either SW and/or HW
+	- Competitor micro-architecture analysis
+	- Experienced with processor micro-architecture
+	- Experienced with RISC-V V-extension
+	- Experienced with micro-architecture performance analysis
+	- Experienced with microbenchmark design
+	- Good presentation skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skill sets for processor architecture modeling in processor emulators:
++ skill set for Qemu System Modeling Engineer:
+	- As a QEMU Engineer in the System Software Team, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks. You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for QEMU to model IP and instruction set. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop and upstream QEMU and other simulation solutions  (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 3 years’ experience developing QEMU for both instruction set and peripheral IP modeling, with upstream involvement
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Deep understanding of computer architecture at the CPU and system levels
+	- Understanding of VLSI design concepts and how they impact hardware and software architecture
+	- Ability to read HDLs such as Verilog/Chisel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -445,6 +712,44 @@ List(s) of companies in the semiconductor industry:
 + ***Noise, crosstalk, POCV, AOCV, MMMC, and other timing checks applied for deep submicron IC designs***
 + Deep understanding of ***timing corners, operating modes, OCV, cross-talk, noise, signoff criteria***.
 + ***Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).***
++ Implement design by performing synthesis, timing closure, lint, CDC, UPF
++ skill set:
+	- As an ALU Design Engineer at SiFive, you will be part of a global team designing the best CPU cores in the world, based on the revolutionary open RISC-V architecture. You will master the art of designing hardware as configurable generators in a hardware-enhanced software language. You will be working in a fast-paced dynamic environment to bring new hardware IP to market quickly, with high quality and exceptional performance.
+	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
+	- Create more efficient shared arithmetic units; combining capabilities for single/double/half-precision floating point, integer, and/or fixed-point operations
+	- Design in extensive configurability as a first-class consideration, including reuse of ALU designs for vector and scalar operations
+	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans
+	- Ensure that knowledge is shared via great documentation and a participation in a culture of collaborative design
+	- 4+ years of recent industry experience in CPU design
+	- Knowledge of vector architecture and concepts.
+	- Prior experience designing high-performance vector and/or SIMD processors/units.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- Knowledge of at least one object-oriented and/or functional programming language.
+	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- SiFive is looking for hardware engineers who are passionate about designing industry-leading CPU and interconnect IP to help drive the tidal wave of adoption of RISC-V as the architecture of choice for SoC designs across a broad variety of vertical applications. We build and maintain multiple CPU family lines, TileLink interconnects and other uncore/infrastructure IP, and are seeking motivated individuals to improve/evolve our existing IP, as well as develop new IP. Join us and surf the RISC-V wave with SiFive!
+	- Architect, design and implement an enhanced TileLink interconnect, protocol bridges, and other infrastructure/uncore logic as RTL generators, including both open-source and proprietary designs.
+	- Improve current designs and work on future designs to provide higher performance, more efficient multi-core and multi-cluster system coherence.
+	- Integrate new design content into SiFive’s Chisel/FIRRTL framework and contribute to improvements to that framework to enable automatic configuration/generation of design collateral.
+	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
+	- Perform initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
+	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
+	- 5+ yrs of recent industry experience with coherent fabric, protocols for scalable multi-core and multi-cluster SoC designs.
+	- Experience with NoC or other interconnect fabrics.
+	- Experience with industry standard bus protocols (e.g. AMBA). Knowledge of TileLink is a plus.
+	- Knowledge of cache coherence protocols, architectures and concepts.
+	- Ability to architect solutions to connect bus fabrics of disparate protocols.
+	- Strong software engineering skills/background, including:
+		* object-oriented, aspect-oriented, and particularly functional programming;
+		* compiler infrastructures and data modeling for intermediate representations, particularly for domain-specific languages.
+	- Proficiency with hardware (RTL) design in Verilog, System Verilog, or VHDL.
+	- Experience with Chisel, Bluespec, or other HDL for expressing configurable hardware via software is a plus.
+	- Attention to detail and a focus on high-quality design.
+	- Ability to work well with others and a belief that engineering is a team sport.
+	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
 + skill set:
 	- At Brainchip, we are revolutionizing Artificial Intelligence at the edge with our AkidaTM Hardware and Software products. Akida™ hardware and software products are the result of over a decade of fundamental R&D by BrainChip engineers and data scientists. Akida AI IP, AI SoC, and development environment help customers create ultra-low-power solutions with the ability to incrementally learn on-chip without the need to retrain in the cloud.
 	- We are looking for a HW Design Engineering Summer Intern (May-August 2022) with a strong background in Digital Design and excellent Verilog/System Verilog coding and scripting skills.
@@ -727,7 +1032,14 @@ List(s) of companies in the semiconductor industry:
 ###	Skills for VLSI Architects
 
 
+
+
 Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping):
++ skill set:
+	- Perform safety analysis by doing the FMEDA on targeted RTL
+	- Create safety work products - Safety Plan, safety manual, Dependent Failure analysis, Requirement Tracing, Confirmation Measures
+	- Knowledge of Massively parallel processor architecture
+	- Knowledge of error detection and correction mechanisms used in digital design
 + skill set:
 	- SOC Fabric Architect
 	- ***Software 2.0 is redefining the computing paradigm.*** The new paradigm computation demand is incommensurable with the existing software and hardware criteria. The solutions require unifying the innovations on the software programming model, compiler technology, heterogenous computation platform, networking technology, and semiconductor process and packaging technology. Do you want to join a dynamic team of hardware and software architects building the leading hardware platform for Machine Learning and Artificial Intelligence?
@@ -1671,6 +1983,17 @@ Skill sets for mixed-signal IC design:
 ##	Skills for VLSI CAD Engineers and VLSI/Hardware DevOps
 
 
+
++ skill set:
+	- As a Continuous Integration System Engineer, you will be joining a small team to architect, build and maintain continuous integration systems that allow verification of SiFive’s generated RTL code and software across multiple targets including RTL models, physical design flows, performance models and FPGAs, both in our datacenter and on the cloud. You will work closely with multiple groups within the company to ensure that their continuous integration needs are met on an infrastructure and flow level. This is the perfect opportunity for a tool-focused DevOps or software engineer looking to expand their horizons and become more directly involved in developing innovative products in silicon.
+	- Developing modular, reusable and scalable flows with a high level of automation to support design and verification of SiFive’s RISC-V Core IP product.
+	- Creating, deploying, supporting, and maintaining frameworks for automating generation of CPU core performance data and other collateral.
+	- Working on a team designing, deploying and supporting mission-critical infrastructure including: Continuous integration framework, Automated test-regression sub-systems, Grid compute system, Cloud compute environment.
+	- 5+ years of relevant and recent experience with a strong understanding of concepts such as Continuous Integration, filesystems, data-mining, optimization, webhooks.
+	- Fluency in languages such as Groovy, Python, Bash.
+	- Expertise in the following tools: Jenkins, Git/Github, Slurm, Saltstack/Ansible.
+	- Interest in building modular, scalable and resilient flows and tools.
+	- BS or higher in Computer Engineering, Computer Science, or Electrical Engineering.
 + Proficiency with EDA tools: FC, DC, ICC2, StarRC, Primetime, ICV, Redhawk, mPower, etc.
 + skill set:
 	- Familiar with scripting or programming (Python, Terraform, etc) with the ability to demonstrate a robust technical background.
@@ -1760,6 +2083,7 @@ Skill sets for mixed-signal IC design:
 
 
 Skills for Physical Design Engineers (in the context of VLSI CAD):
++ Experience with physical signoff (DRC/ANT/LVS/DFM, etc.) and engineering change orders (ECO's).
 + skill set:
 	- Physical design for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all implementation aspects from synthesis to tapeout for various IPs on the chip. The work is done alongside with a group of highly experienced engineers across various domains of the AI chip.
 	- Define PD requirements by working closely with the front-end team, understand the chip architecture and drive physical aspects early in the design cycle

@@ -55,6 +55,37 @@ Roles in computing security:
 		* enterprise resilience
 		* software for searching, monitoring, and analyzing machine-generated data via a web-style interface
 + skill set:
+	- document security operations, including:
+		* runbooks
+		* process workflow
+		* program capabilities
+	- provide guidance on zero-day vulnerabilities and emerging threats
+	- improve tool and process enhancements via partnerships with security service providers, so that security posture can be improved
+	- establish meaningful and actionable security metrics and reporting
+	- finding known and unknown threats and understanding new adversary TTPs (tactics, techniques, and procedures)
+	- inspire and promote creativity and innovation while manageing missteps and mistakes as opportunities to learn and grow
+	- information security operations
+		* SIEM
+		* intrusion detection/prevention systems
+		* vulnerability assessment
+		* encrcyption
+		* identity and access control systems
+		* anti-malware
+		* security event testing
+	- security operations for cloud platforms
++ skill set:
+	- lead and execute all required audits and security practices:
+		* SOC2
+		* secret rotation
+		* engineering access rotation
+	- experience with security and compliance software:
+		* OPA
+		* Falco
+		* OSSEC/Wazuh
+	- experience with implementing AWS security best practices:
+		* IAM
+		* Security Groups
++ skill set:
 	- Familiarity with IPv4/IPv6 with standard OSI stack.
 	- Familiarity with security vulnerabilities, patching third party software.
 	- Familiarity with security compliance standards such as STIG, Common Criteria a plus.
@@ -69,6 +100,23 @@ Roles in computing security:
 	- Apply data science and machine learning to a decades worth of collection
 	- Pursue a deeper study and correlation of internet routing/topology.
 	- Synthesize the analysis into dashboards or some form of reporting mechanism.
++ skill set:
+	- security O&M, security Operation & Maintenance, Operation & Maintenance security, O&M security
++ skill set:
+	- Research and design data security and privacy protection technologies in the cloud computing environment, including cloud data security storage, recovery and audit, cloud data processing and access control, cloud data deduplication and deletion, security data services related to cloud computing and big data, and junk information identification and filtering of big data.
+	- Lead compliance management of cloud data security and privacy protection. Identify data security and privacy protection risks, design a cloud data security governance framework, provide feasible security solutions, track identified risks, and perform post-event evaluation.
+	- Implement cutting-edge data protection and privacy protection technologies in business scenarios.
+	- Strong interest in cloud computing data security and privacy protection, and desire to face and resolve challenging data privacy issues
+	- Familiar with data security management and technical solutions, including cutting-edge cryptography technologies (for example, secure multi-party computation) or privacy protection technologies (for example, differential privacy)
+	- Good knowledge of compliance requirements such as China's cybersecurity law and the EU's GDRP
+	- Profound understanding of data security risks, and technical and statistical background preferred
++ skill set:
+	- Plan and optimize overall product security architecture. Lead architecture analysis, module design, and feature design of Identity and Access Management (IAM) on HUAWEI CLOUD.
+	- Support end-to-end delivery of IAM service features and compile core code, covering phases including requirement analysis, module design, development, and rollout.
+	- Gain insight into the cutting-edge technical issues of identity authentication security, and transform cutting-edge technologies into feasible IAM features.
+	- Computer science, software engineering, information security, cryptography, or related major
+	- Proficient in Java, Python, or C/C++ programming. Solid knowledge of data structures and algorithms as well as software engineering and agile development models. Skilled at using various design modes
+	- Expertise in key management systems, common web security attacks, and vulnerability scanning technologies. Those have participated in large-scale public and private cloud security assessment and security hardening projects preferred
 + skill set:
 	- Red Hat's Customer Identity and Access Management team is looking for a Software Engineer to join us. In this role, you will collaborate with a diverse and innovative team responsible for the key authentication, authorization, and user management service for Red Hat's open hybrid cloud platform and its surrounding integrations. You will work on the full-stack design, development, testing, and release of single sign-on (SSO) and related applications, with a focus on backend development. While we revamp this service for the next generation of Red Hat’s cloud offerings, you will closely collaborate with the Red Hat SSO team and contribute to the upstream Keycloak community. As a Software Engineer, you will contribute to the team's capabilities by demonstrating technical competence, exceptional communication skills, personal initiative, creativity, desire to learn, transparency, and ability to work as part of a team. Successful applicants must reside in a state where Red Hat is registered to do business.
 	- Collaborate with your peers, design, develop, test, maintain, and operate primarily Java applications across large, multi-region deployments
@@ -418,11 +466,35 @@ Roles in computing security:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Senior Roles in Computer Security
 
 
 
 
++ skill set:
+	- Lead service security planning and architecture design, including but not limited to attack defense, overload control, content compliance, and authentication system design. Improve product security capabilities.
+	- Participate in end-to-end delivery of security service features, covering phases including requirement analysis, module design, development, and rollout.
+	- Broad knowledge of mainstream encryption and authentication algorithms
+	- Familiar with system, application, and network attack modes and protection architectures
+	- Solid knowledge of mainstream security certification standards
+	- Proficient in C, C++, or Java. Experience with system architecture design preferred
+	- Experience with public cloud or Internet development and design preferred
 + skill set:
 	- Solid foundation in computer science, with strong competencies in algorithms, data structures, software design, web security, and building large, distributed systems
 	- Excel at planning, working multi-functionally, leading execution across teams to meet commitments and deliver with predictability
@@ -533,6 +605,25 @@ Roles in computing security:
 	- You’re a self-starter. You believe in tackling the most important problems, even if they are the most difficult problems. You’re comfortable with the unknown and understand that startup life means that you’re going to be wearing multiple hats. And that’s what motivates you. You’re accountable and obsessed with improvement, both in yourself and in others. You’re up to the challenge of building a world-class company that aims to be the infrastructure for more secure software for all.
 	- The target annual salary for this role performed in the US for full-time employment is $140,000 - $190,000 and includes target bonus + target equity + benefits.
 + skill set:
+	- Use AI to build security models and perform security O&M.
+	- Use machine learning and deep learning to analyze massive amounts of data, establish a User and Entity Behavior Analytics (UEBA) baseline, and identify network attack, host attacks, and application-layer attacks.
+		* User and Entity Behavior Analytics (UEBA) baseline
+	- PhD in computer science or related major; theoretical background in data mining, machine learning, and deep learning; and related research or work experience
+	- Proficient in common machine learning algorithms. Experience developing deep learning models, such as CNN, RNN, and LSTM
+	- Broad knowledge of big data open source technologies, such as Hadoop, HDFS, HBase, Spark, and Hive. Proficient in at least one query language, such as SQL, HQL, Splunk, and ELK
+		* Hadoop
+		* HDFS
+		* HBase
+		* Spark
+		* Hive
+		* HQL
+		* Splunk
+		* ELK
+	- Good knowledge of common network attack surveillance and data analysis methods, or strong interest in network security surveillance and desire for a career in that field
+	- Excellent programming skills in at least one language, such as Python, Java, Scala, C/C++, or Perl
+	- Excellent learning ability and hands-on skills, agile thinking, hard working, good teamwork, and willingness to solve challenging problems
+	- Those who have published papers in international professional journals, participated in international standards meetings or academic conferences, or published related patents are preferred
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -615,7 +706,43 @@ Roles in computing security:
 	- Experiences in vulnerability discovery and exploitation on web applications or system software.
 	- Experiences in WASM or Rust/Go development is a plus.
 	- CTF experiences are a plus as well.
-	- $3000 - $8000/month (Full Time). 
+	- $3000 - $8000/month (Full Time).
++ skill set for Automated Malware Analysis:
+	- Huawei’s Munich Research Center is responsible for advanced technical research, architecture evolution design and strategic technical planning. As a member of the Big Data Threat Analysis Team, your task will be to research and develop novel methods for automated malware analysis. Ranging from malware detection and family classification to attribution and long-term trend analysis, the tasks are very challenging and at the same time highly impactful, as the fight against malware serves to protect the wider society from crime. In collaboration with team members, other Huawei experts and external scientists, you will employ and advance state-of-the-art machine learning algorithms on large data sets to produce state-of-the-art results for both academic publication and industrial application.
+	- Research related academic work and understand open problems and scientific trends
+	- Investigate and prototype new techniques for automated malware analysis
+	- Publish your findings in the most impactful academic outlets
+	- Interact with data scientists and security experts to advance the state of the art in the field
+	- Deep interest for the topic and genuine motivation to fight against malware
+	- Experience in static and dynamic malware analysis
+	- Experience in machine learning
++ skill set:
+	- Applied Network Technology Laboratory
+	- As a member of the Big Data Threat Analysis Team, your task will be to research and develop novel automated methods to analyze diverse sources of Cyber Threat Intelligence (e.g., security blogs, reports, news sites, tweets, forums, Darknet, paste sites, etc.) and understand their content (e.g., text, tables, images, videos, etc.) to extract relevant and complete knowledge which can be readily used to defend computer networks. In collaboration with team members, other Huawei experts and external scientists, you will employ and advance machine learning algorithms on large data sets to produce state-of-the-art results for both academic publication and industrial application.
+	- Research related academic work and understand open problems and scientific trends
+	- Investigate and prototype new techniques for extraction of Cyber Threat Intelligence knowledge from unstructured data
+	- Publish your findings in the most impactful academic outlets
+	- Interact with data scientists and security experts to advance the state of the art in the field
+	- Solid experience in machine learning and knowledge extraction
+	- Deep interest for the topic and genuine motivation to make machines which help us understand
+	- Initial experience and curiosity for the field of security and Cyber Threat Intelligence
+	- Solid programming skills
+	- Fluency in English (written and spoken)
+	- Excellent intercultural communication and coordination skills
++ skill set:
+	- The PhD candidate will contribute to the research and development of privacy enhancing technologies for future data analytics and artificial intelligence systems. The candidate has the opportunity to work on real world problems and improve privacy protection of Huawei future’s products and services.
+	- Assess privacy risks of target application scenarios
+	- Research on innovative algorithms in the field of Privacy Enhancing Technologies
+	- Implement the proof of concept of innovative algorithms
+	- Publish research papers and technical reports at high ranked scientific conferences
+	- Improve privacy engineering process as well as privacy by design concept
+	- You have recently completed or will soon complete your master studies in computer science, information technology, cybersecurity, privacy, electrical engineering, or mathematics;
+	- You have research experience in data science, machine learning and/or artificial intelligence;
+	- You have demonstrated affinity with algorithm development;
+	- You have a passion for finding solutions for complex technological issues;
+	- You have excellent collaboration and communication skills;
+	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
+	- You have good programming skill in Java, R, Python
 + skill set:
 	- BLAH.
 + skill set:

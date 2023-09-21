@@ -177,6 +177,7 @@ Skill set for roles in digital VLSI verification:
 + ***initial sandbox verification***
 + Experience in verification/validation using emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM.
 + Familiar with the principle of debugger, such as: ***OpenOCD***.
++ A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
 + skill set:
 	- Verification of Tenstorrent's digital IP and SOC logic, using advanced verification methodologies - UVM, FPGA prototyping, emulation
 	- Creation of test plans
@@ -208,6 +209,68 @@ Skill set for roles in digital VLSI verification:
 	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
 	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
 	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
++ skill set:
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU memory systems who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Location: The ideal candidate for this position can work out of one of our US offices or remotely from home, collaborating with the HQ in San Mateo, CA. However, all positions are currently remote until further notice.
+	- Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).
+	- Creating effective verification strategies for CPU memory system caches.
+	- Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Developing and using unit level test benches that use constrained random stimulus.
+	- Using assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test CPU functions.
+	- Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.
+	- Collaborating closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers.
+	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)
+	- Understanding of CPU memory systems caches from an architectural level.
++ skill set:
+	- A minimum of 3 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
+	- Familiarity with and/or ability to learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.).
+	- A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
++ skill set:
+	- As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to generate the test cases automatically to fit those teams verification requirements in different perspectives. Your responsibilities will target establishing a random instruction test generator that produces self-checking direct test cases.
+	- Design, develop, documentation and deploy random instruction generator and support multiple projects.
+	- Support execution of the generator and flows in the RTL design process.
+	- Integrate and ramp up on an existing instruction level verification flows.
+	- Bachelor's, or Master's in Computer Science, Electrical Engineering, or a similar discipline.
+	- Familiarity or academic experience with hardware design and verification.
+	- Experience with basic CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools.
+	- Experience with software project architecture/design and python/C++11 above programming.
+	- Basic understanding of Verilog, System-Verilog RTL, UVM and constrain random verification.
++ skill set:
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU power management who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Architect test methodologies applicable to a wide range of CPU designs for CPU Power Management.
+	- Understand CPU multi-core power management from an architectural level and create effective verification strategies for these designs.
+	- Build test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
+	- Develop tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
+	- Development and use of full IP and unit level test benches that use constrained random stimulus
+	- Use of assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
+	- Writing directed assembly tests as appropriate to test power management.
+	- Provide technical leadership for verification engineers and coordinate technical teams to execute our verification strategies to meet program goals.
+	- Collaborate closely with the design team on feature specifications, test plans and failure analysis.
+	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
+	- Solid understanding of CPU power management and how that impacts both the RTL and verification environment.
+	- Experience with industry standard system bus protocols (e.g. AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
+	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
+	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
+	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
+	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
++ skill set:
+	- As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to generate the test cases automatically to fit those teams verification requirements in different perspectives. Your responsibilities will target establishing a random instruction test generator that produces self-checking direct test cases.
+	- Design, develop, documentation and deploy random instruction generator and support multiple projects.
+	- Support execution of the generator and flows in the RTL design process.
+	- Integrate and ramp up on an existing instruction level verification flows.
+	- Bachelor's, or Master's in Computer Science, Electrical Engineering, or a similar discipline.
+	- Familiarity or academic experience with hardware design and verification.
+	- Experience with basic CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools.
+	- Experience with software project architecture/design and python/C++11 above programming.
+	- Basic understanding of Verilog, System-Verilog RTL, UVM and constrain random verification.
 + skill set:
 	- System-level verification to SiFive virtualization technologies, hypervisor, secure boot cryptography, and more on FPGA.
 	- Collaborate with cross-functional teams to ensure our core quality and confirm the core is well verified and delivered on time.
@@ -438,10 +501,70 @@ Skill set for roles in digital VLSI verification:
 
 
 
-##	Formal VLSI Verification
+##	VLSI Formal Verification
 
 
-Skill sets for formal VLSI verification:
+Skill sets for VLSI formal verification, in terms of using VLSI formal verification tools:
++ skill set:
+	- Principal Formal Verification Engineer
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
+	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
+	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
+	- Linux/Unix experience
+	- Verilog/VHDL design experience
+	- SV/UVM experience
+	- Open-source projects in design/verification
+	- RISC-V/Arm/x86/MIPS
+	- SVA/PSL/Theorem proving
+	- Tcl/Python/Bash
++ skill set:
+	- Staff Formal Verification Engineer
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
+	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
+	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
+	- Experience in design verification using SVA 
+	- Evidence of sign-off capable work done previously
+	- Have a can-do attitude, can show self-learning attributes
+	- Individual contributor & excellent team player
+	- Strong reasoning skills
+	- Excellent attention to detail
+	- Excellent communication details in English
+	- Linux/Unix experience
+	- Verilog/VHDL design experience
+	- SV/UVM experience
+	- Open-source projects in design/verification
+	- RISC-V/Arm/x86/MIPS
+	- SVA/PSL/Theorem proving
+	- Tcl/Python/Bash
++ skill set:
+	- Silicon Formal Verification Engineer
+	- The Silicon Design group is a diverse team of world class silicon design, verification and validation experts. We have 100+ years of cumulative hands-on experience in architecture, logic design, verification, physical design, emulation and firmware. We use the latest silicon technologies and processes to help our clients create well-designed solutions to highly complex challenges. We are designing and developing next-generation, high performance SoCs, supporting our clients in their drive to deliver their product vision to their users. We are involved in all aspects of chip design from definition and architecture through to verification and signoff. Accenture Consultants are true “Silicon to SW” Partners, allowing a new breed of companies in the semiconductor ecosystem to innovate in an unparalleled time to market.
+	- An experienced Formal Verification Engineer able to provide formal verification services for multiple blocks and IP’s.
+	- Developing formal verification test plan
+	- Drive automation of formal testbenches and ensure they are a part of regressions
+	- Develop assertions, cover properties and connectivity checks and debug any failures in RTL regressions
+	- Work with cross functional teams (DV/Arch/Design/FW)
+	- Engage with the team to drive continuous improvement to the verification environment to find more bugs and improve coverage
+	- Work as a team to grow together.
+	- Mentor and coach junior team members
+	- A minimum of three years of experience with Formal Verification
+	- Bachelor’s Degree or equivalent (12 years) work experience (If an, Associate Degree with 6 years of work experience).
+	- Experience working with one or more formal verification tools such as Jasper gold, VC-Formal, Incisive Formal Verifier (IFV), Questa Formal, etc.
+	- Experience in interpreting design specifications and using temporal logic assertion-based languages such as SVA
+	- Experience in formal property verification (FPV), Sequential Logic Equivalence Checking (SEC/SEQ/SLEC), and/or academic formal methods
+	- Experience with hardware description languages (SystemVerilog, Verilog, VHDL) and simulators (VCS, NC, Questa).
+	- Proficiency in programing/scripting languages
+	- In-depth knowledge of digital logic design, chip architecture and microarchitecture
+	- Problem solving and debug skills for complex logic and digital designs
+	- Team player with excellent communication skills and be able to work independently on the verification efforts for a block/area of the design
 + skill set:
 	- We at SiFive are looking for a Formal Verification Engineer to join our growing team working on implementing a novel application of formal verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in formal verification who will build a formal environment to be used specifically with SiFive’s functional programming-based hardware design suite.
 	- Leading the application of formal methodologies to parameterizable high-performance RISC-V CPU IP generators.
@@ -457,7 +580,22 @@ Skill sets for formal VLSI verification:
 	- Knowledge of Register-Transfer Level circuitry (registers, combinatorial function blocks (e.g. adders and multiplexers), finite state machines.
 	- Knowledge of Traditional test bench environments - UVM, Verdi/DVE.
 	- Functional programming languages, such as Scala, Chisel, Haskell, etc.
-
++ skill set:
+	- We at SiFive are looking for a Formal Verification Engineer to join our growing team working on implementing a novel application of formal verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in formal verification who will build a formal environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- Location: The ideal candidate for this position can work out of one of our US offices or remotely from home, collaborating with the HQ in San Mateo, CA. However, all positions are currently remote until further notice.
+	- Leading the application of formal methodologies to parameterizable high-performance RISC-V CPU IP generators.
+	- Creating a reusable formal verification methodology library to be used in SiFive’s novel hardware design flow.
+	- Building a compiler-based hardware design suite that would automatically generate the appropriate test bench when given a parameterized instance of a chip design.
+	- Establishing through formal mathematical modeling or proofs the fidelity of given CPU IP blocks.
+	- Ensuring that CPU designs will meet given targets for power, performance, and area, by applying formal methods.
+	- Mentoring junior members of the team in the use of formal verification methodologies and tools.
+	- 7+ years of recent experience in formal verification and related tools (model checking, property verification, JasperGold, Hector DPV, and others) and methodologies.
+	- Knowledge of CPU or GPU architectures (floating point, load-store, branch prediction, out-of-order execution) and cache coherence protocols.
+	- Experience in functional verification, such as constrained random verification, test bench generation, etc.
+	- Fluency in hardware description languages such as Verilog, VHDL, or SystemVerilog.
+	- Knowledge of Register-Transfer Level circuitry (registers, combinatorial function blocks (e.g. adders and multiplexers), finite state machines.
+	- Knowledge of Traditional test bench environments - UVM, Verdi/DVE.
+	- Functional programming languages, such as Scala, Chisel, Haskell, etc.
 
 
 
@@ -580,10 +718,12 @@ Skill set for roles in VLSI testing:
 	- P1450.1 IEEE Standard Test Interface Language (STIL)
 + ***Silicon bring-up***
 + ***Silicon characterisation***
++ MBIST, scan and boundary scan insertion, scan compression, ATPG, and JTAG.
 + skill set:
 	- GDB
 	- JTAG
 	- OpenCD
++ Architecting test methodologies applicable to a wide range of processor and SoC designs including memory virtualization (Paging and Hypervisors), various levels of caches and industry standard bus protocols (e.g., AMBA, TileLink, PCIe).
 + skill set:
 	- Position is Design for Test and Design for Debug (DFT/DFD or DFx) engineer for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all aspects of implementation and verification of advanced DFx techniques for various IPs. High level challenges include reducing test cost while attaining high coverage, and facilitating debug and yield learnings while minimizing design intrusions. The work is done alongside with a group of highly experienced engineers across various domains of the AI ASIC.
 	- ATPG and test coverage analysis using industry standard tools.

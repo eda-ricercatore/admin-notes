@@ -143,6 +143,12 @@ Generic sets of skills in robotics:
 	- Docker
 	- ROS
 + skill set:
+	- Technical capability to create robust and well-tested C++ software
+	- Familiarity with modern model predictive control and other advanced control techniques
+	- Experience with adaptive control, system identification, and machine learning methods
+	- Minimum of a Masters Degree in Robotics, Computer Science, Mathematics, Physics or equivalent with 3+ years experience
+	- Knowledge of robotics systems (ROS, PCL) is preferred
++ skill set:
 	- We are looking for a Research Scientist, Robotics - New College Graduate:
 	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. With the GPU acting as the primary computing device, robots can now perceive and understand the world around them. Today, NVIDIA has transformed into “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world working on diverse aspects of AI. Join us at the frontier of technological advancement!
 	- Robotics is an increasingly exciting field, influenced heavily by recent advances in hardware acceleration through devices such as the modern GPU. These advances have enabled tremendous progress in several areas of robotics, including manipulation, visual recognition, real-time tracking, and learning-based control. Robots are getting increasingly proficient at building 3D maps of their environments, detecting and tracking objects and people as they move through the world, learning controllers from realistic simulation, and understanding commands provided via gestures and natural language.
@@ -355,6 +361,80 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 Sets of skills for autonomous road vehicles:
 + Familiarity with modern planning approaches including randomized search methods and trajectory optimization
++ skill set:
+	- As a Research Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
+	- Ph.D in Computer Science or a related field
+	- Strong programming skills in C/C++
+	- Strong mathematics and analytical skills
+	- Work experience in deep learning platforms such as Caffe or Tensorflow
+	- Domain knowledge and implementation experience with Lidar/Visual SLAM/Odometry.
++ skill set:
+	- Extensive knowledge in Communication Protocols (USB, CAT5/6, CAN, UART, I2C, SPI)
+	- Minimum 2 years of experience with python, C++, able to debug various applications, e.g: proprietary software and third-party software
+	- Enrolled in EPN program (if not enrolled must be willing to enroll)
+		* The Employer Pull Notice (EPN) program enables commercial and government organizations to monitor the driving records of employees who drive for them.
+		* The Employer Pull Notice (EPN) program enables commercial and government organizations to monitor the driving records of employees who drive for them. By monitoring their employees' driving records, organizations can: Ensure that each driver has a valid driver's license. Recognize problem drivers or driving behavior.
+	- Minimum 2 years of experience working with one or more of the following sensors: cameras, radars, lidars, IMU/GNSS
++ skill set:
+	- Work with experts in the field of self driving vehicles on software architecture and design, system and module design, evaluation metrics, specification and implementation of test and regression frameworks.
+	- Work with experts in machine learning to design and implement the state of the art deep learning and machine learning algorithms to solve open questions such as behavior prediction, decision making, and computer vision with real road test data.
+	- Optimize software to run robustly under tight run-time constraints.
+	- Implement user friendly tools to mine useful data from road test logs, evaluate performance, and solve real road test issues.
+	- Master in Computer Science, or at least 2 years of equivalent industry experience in similar technical fields.
+	- Solid understanding of data structures, algorithms, parallel computing, code optimization and large scale data processing.
+	- Experience in applied machine learning including data collection and analysis, evaluation and feature engineering.
+	- Expertise in C++/Python.
+	- PhD in Deep Learning, Machine Learning, Robotics, Natural Language Processing, or similar technical field of study.
+	- ***Experience in applying ML/DL for behavior prediction, imitation learning, motion planning.***
+	- Experience in deploying deep learning algorithms for real time applications, with limited computing resources.
+	- Experience in convex optimization, computational geometry or linear algebra.
+	- Experience in GPU/CUDA/TensorRT
+	- Experience with TensorFlow
++ Domain knowledge in LiDAR/visual SLAM/odometry
++ skill set:
+	- As a Senior Software Engineer in Compute Performance, you will be developing technologies to accelerate leading applications in autonomous driving fields within computer vision, ML/DL, mapping and localization, planning and prediction.
+		* Identifying key applications for current and future autonomous driving problems and performing in-depth analysis and optimization to ensure the best possible performance on current and next-generation compute architectures.
+		* Collaborating closely with diverse groups in Pony.ai including both hardware and software to optimize and craft core parallel algorithms as well as to influence the next-generation compute platform architecture design and software infrastructure.
+	- BS/MS or Ph.D in computer science, electrical engineering or a related discipline.
+	- Strong programming skills in C/C++.
+	- Good knowledge of the fundamentals of computer architecture, including data caching, memory system, SIMD instruction sets, and compiler code generation.
+	- Good understanding of hardware performance, regarding CPU or GPU execution model, threads, registers, cache, cost/performance trade-off, etc.
+	- Experience with profiling, benchmarking and validating performance for complex computing architectures.
+	- Experience in optimizing the utilization of compute resources, identifying and resolving compute and data flow bottlenecks.
+	- Strong communication skills and ability to work cross-functionally between software and hardware teams
+	- Experience with parallel programming, ideally CUDA, OpenCL or OpenACC.
+	- Experience in computer vision, machine learning and deep learning.
+	- Strong knowledge of software design, programming techniques and algorithms.
+	- Strong mathematical fundamentals, including linear algebra and numerical methods.
+	- Good knowledge of common deep learning frameworks and libraries.
++ skill set:
+	- Knowledge of robotics system (ROS, PCL) is preferred
+	- Familiar with a certain deep learning framework, such as TensorFlow, MXNet, Caffe, Torch, etc., and have a deep understanding of deep learning.
+	- Experience in algorithm development of autonomous driving systems, such as lane line recognition, obstacle recognition and tracking, etc.;
+	- Familiar with computer vision related algorithms such as image segmentation, target detection and tracking;
+	- Experience in large data set processing and familiarity with real time systems
++ skill set:
+	- Responsible for research on perception algorithms of autonomous driving systems, including but not limited to: image target detection and segmentation, recognition, and tracking algorithm development; visual positioning, pose estimation, depth estimation, and 3D reconstruction algorithm research and development;
+	-  Familiar with commonly used computer vision and machine learning algorithms, with excellent mathematical ability; master the basic algorithms of image processing, familiar with camera models, multi-view geometry, optimization and other theories
+	- Have experience in the development of autonomous driving systems, including but not limited to lane line recognition/obstacle recognition and tracking/multi-view stereo/visual positioning/three-dimensional reconstruction, etc.;
++ skill set:
+	- Develop automotive standard software for vehicle-level autonomous controls.
+	- Improve and deliver reliable software through requirements generation, continuous integration, automated testing, issue tracking, and code reviews
+	- Develop and test communication interfaces to vehicle systems, sensors, and other hardware components.
+	- Design fail-operational strategies and architecture for redundant systems.
+	- Develop fault diagnostics and prognosis for safety critical hardware components.
+	- Work with component suppliers to calibrate and test sensors and actuators.
+	- Support simulation, bench and in-vehicle testing
+	- Support technical discussion with OEM and component suppliers and partners.
+	- Advanced Degree in Computer Science, Electrical Engineering, Mechanical Engineering, Mechatronics, or related disciplines.
+	- Experience with automotive standard (e.g. AUTOSAR, MISRA) software C/C++ development in the Linux environment.
+	- Experience with automotive control system development, instrumentation, and calibration tools.
+	- Understanding of the design and application of vehicle systems (e.g. steering, braking, and powertrain)
+	- Knowledge of system identification, dynamics, and controls
+	- Experience with automotive embedded and real-time control systems including OS and architecture
+	- Experience with automotive communication protocols (CAN, CAN FD, and Automotive Ethernet) and electrical architectures.
+	- Knowledge of autonomous driving software stack or advanced driver assistance features
+	- Experience with systems engineering processes and formal requirements management systems.
 + skill set:
 	- NVIDIA is seeking deep learning research / engineering interns to join the AV perception research team. The team consists of a group of dynamic AI applied researchers and engineers and is committed to build industry-grade deep learning to take autonomous vehicle (AV) perception into production, we work on fundamental advances in scientific methods to enabling scaling-up the entire perception for the autonomous driving stack. We are looking for highly motivated individuals to work in the areas of deep learning, optimization and computer vision. Our interns have the unique opportunity to make algorithmic contributions to core products and apply their ideas at a very large scale. As an intern, you will conduct applied research related to one of the meaningful research topics mainly related to perception for autonomous driving. You may also have the opportunity to publish in premier conferences in the fields of Machine Learning and perception.
 	- In order to scale-up current AI-algorithms, we need to learn from datasets orders of magnitude larger than existing ones which is a very challenging task. Our team at NVIDIA is dedicated to developing new algorithms to explore the vast amount of collected data to improve AI-based applications such as AV.
@@ -610,6 +690,34 @@ Sets of skills for autonomous road vehicles:
 		* Experience with ML data annotation pipeline, RESTful APIs, Apache Spark.
 		* Exposure to perception, prediction, and/or planning stacks for robotics/AVs.
 		* Experience in AV or Automotive industry
++ skill set:
+	- Lead a team to research future trends of technologies, generate corporate level Autonomous System Safety Assurance Technology Strategy and Roadmap. Identify and formulate real-world safety problems provided by domain experts as machine learning problems, and clarify requirements.
+	- Analyze the real site data and design/implement novel machine learning algorithms for auto healing network and automotive solution.
+	- Organize cutting-edge AI Safety related technology research, such as SOTIF, Safety and Security combined engineering. Develop well defined AI safety methodologies and best practices.
+	- Work closely with a group of domain experts and researchers from different Huawei product lines to integrate as well as fine-tune algorithms into complex system platforms. Identify, initiate, manage and direct collaborations with research institutions such as universities and other partners.
+	- Shape the safety assurance approach for Huawei to address the functional decomposition of Autonomous Driving (AD), ADAS solutions and smart manufacturing.Foster a forward-looking safety culture focused on proactive engagement and issue prevention.
+	- Ph.D degree in mathematics, computer science or related areas, have several articles published in the AI top conference or journal. Preferably with a proven background in AI system modeling or formal verification work background is a plus.
+	- Capability to problem formalizations (problem framing) which model the real-world problem into abstract mathematically precise problem model. Demonstrated ability to achieve goals in an innovative and fast-paced environment.
+	- 3+ years of relevant experience in the architecture definition, verification, analysis, design and certification of safety elements and systems for Autonomous Driving platforms and ADAS is preferred.
+	- Deep understandings on details of various supervised/unsupervised learning algorithms and have in-depth understanding of deep neural networks including CNN, RNN, LSTM, GRU etc.
+	- Expertise on modern systems engineering, hardware/software architectures requirements management practices and associated process management, Demonstrate deep familiarity with MBSE and Experience with Modeling language is preferred.
+	- Familiar w/ Functional Safety standard ISO 26262 and/or IEC 61508 is a plus, documented by a relevant certification authority is a plus.,Good understanding and hands-on experience of related best-known design methods and standards in the industry, such as AUTOSAR, SOTIF, IEC 61508, automotive SPICE.
+	- Fluent in English or know Chinese is a plus.
++ skill set:
+	- Deep learning and SLAM, 3D Vision and/or 3D sensing
+	- Audiovisual Technology Lab in Huawei Munich Research Center is developing innovative technologies on media sensing, processing and coding, and computer graphics.
+	- Deep learning has brought great progress in visual perception. Real-time visual sensing, localization and mapping algorithms are the basis for spatially intelligent systems such as augmented reality or autonomous robotics. This position is targeting at the intersection between visual localization, mapping and deep learning.
+	- The research objective is to propose and study breakthrough solutions combing deep learning and SLAM which enable applications such as real-time robot navigation or augmented reality. There will be opportunities to publish your research into relevant international conferences. The PhD candidate has the possibility to attend the international conference and present the developed technologies to the international community.
+	- Develop advanced solutions for visual-inertial localization, SLAM etc. by fusing visual and inertial information from multiple cameras, IMUs, and other sensors
+	- Develop advanced solutions for computer vision problems
+	- Apply optimization and deep learning to SLAM, computer vision problems
+	- Develop the prototypes and implement the innovative solution on a reference software
+	- Generate papers and technical reports if possible.
+	- You have recently completed or will soon complete your master studies in electrical engineering, information technology, computer science, mathematics or physics
+	- You have a deep interest in the topics related to deep learning, or computer vision, SLAM or 3D sensing
+	- You enjoy working in a team and you like to collaborate with researchers to develop creative solutions
+	- You are fluent in English (written and spoken)
+	- Excellent software skills
 + skill set:
 	- BLAH.
 + skill set:

@@ -11,6 +11,9 @@
 + new product introduction, NPI
 + new technology introduction, NTI
 	- for semiconductor manufacturing
++ Owning and leading MRD/MRS (market research development/strategy???), GTM strategy, marketing campaigns and enable sales to get Design Wins with your product portfolio. Title commensurate with experience.
+	- market requirements document (MRD), https://en.wikipedia.org/wiki/Market_requirements_document
+	- go-to-market (GTM) strategy
 + skill set:
 	- Director of Product Management, Security
 	- The Sr Director of Product Management is a unique opportunity to own the business and product outcomes for our Security Operations products, in a market space that is in a high growth phase. This candidate will be the owner of our Security Operations product portfolio (Splunk SOAR, Mission Control, and adjacent products). We’re looking for someone who can go wide in engaging multiple organizational levels with customers as well as Splunk internally, and simultaneously have a strong enough skill set to gain a deep understanding of the products they are managing. 

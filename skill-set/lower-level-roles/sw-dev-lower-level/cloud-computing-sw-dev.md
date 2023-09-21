@@ -198,6 +198,20 @@ Notes on cloud computing:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##	Generic Skill Sets for Cloud Computing -based Software Development
 
 
@@ -380,6 +394,20 @@ Notes on cloud computing:
 	- A stable, collaborative, and supportive work environment. We work in an open environment, work together to get things done, and adapt to the changing needs for the team. We keep it real by being open and honest. We are a collaborative team that understands the value in open communication—it's how we interact with our customers.
 	- Balance. We don't expect people to work 12 hour days. We want you to be successful outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment, and believe that balance helps cultivate a positive environment.
 	- Fun. We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.
++ skill set for RoCE Network Technology Engineer
+	- Research and construct the RoCE network in the cloud computing system.
+		* RoCE
+	- Study the ecosystem and application models of the RoCE network.
+	- Research algorithms for congestion control and delay reduction in the large-scale RoCE network.
+	- Implement the RoCE network in the storage network, big data and AI platforms, and tenant VMs.
+	- Deploy the RoCE network on a large scale.
+	- General knowledge of the system and architecture of the InfiniBand network protocol stack
+		* InfiniBand network protocol stack
+	- Broad knowledge of application scenarios of the RDMA system, such as HPC, big data and AI, storage, and SAP, as well as RoCE deployment and isolation solutions in virtualization scenarios
+		* RDMA system
+	- Understanding of RDMA programming frameworks and ecosystems, such as IB-verbs and Libfabric
+		* IB-verbs
+		* Libfabric
 + skill set:
 	- Software Engineer - Cloud
 	- As a Software Engineer, you'll be part of Splunk’s core cloud platform and responsible for designing and developing Kubernetes operators that manage our Streaming, Messaging, Searching, Indexing workloads. Be part of a small closely-knit team in the Bay Area and have a large impact in crafting the team, technology, and a culture of excellence. You will be immersed in both microservices and core platforms as well as have exposure to the full portfolio of technology areas.
@@ -398,6 +426,24 @@ Notes on cloud computing:
 	- Knowledge of networking protocol stacks (TCP/IP, HTTPx, DNS).
 	- Familiarity with Kubernetes, Docker, and AWS/GCP.
 + You have knowledge and experience with AWS services, like EC2, S3, etc.
++ skill set for Cloud File System Development Engineer:
+	- Lead technical planning in the cloud file system domain, optimize the overall filesystem architecture, and improve the cloud file system competitiveness.
+	- Improve file system competitive advantages, design and develop key features such as cross-AZ, active-active, and cross-region file system synchronization.
+	- Participate in end-to-end delivery of cloud file services, covering phases such as requirement analysis, module design, development, and rollout. Communicate with the customer CTO about HUAWEI CLOUD file system solutions.
+	- PhD in storage, and research background in file systems
+	- Practical experience and extensive knowledge of mainstream distributed file system architectures
++ skill set for Cloud Computing Engineer:
+	- Design and develop the PaaS platform system architecture of cloud computing, including containers, microservices, function computing, and middleware. Ensure efficient and secure running of the PaaS cloud platform, and strive to improve code quality, service performance, and user experience.
+	- Participate in open-source projects in the PaaS domain, such as Kubernetes, Docker, Istio, and ServiceComb, and track new technologies and implementation of cloud computing PaaS.
+		* Kubernetes
+		* Docker
+		* Istio
+		* ServiceComb
+	- Fully understand customer requirements and provide technical solutions to resolve problems.
+	- Computer science or related major. Proficient in at least one programming language. Expertise in Go, Python, and Shell preferred
+	- Expertise in cloud computing technologies such as Kubernetes, OpenStack, and Docker. Use or development experience preferred
+	- Solid knowledge of distributed systems, cluster management, and SOA architecture technologies, as well as web frameworks and technologies. Experience with large-scale cluster O&M or distributed system software development preferred
+	- Strong interest in technologies. Understanding of the architectures and technologies of mainstream commercial cloud service platforms at home and abroad. Successful experience completing cloud computing projects preferred
 + skill set:
 	- Distinguished Engineer (Architect) Experiences Platform
 	- You will play a critical role in being our innovative and passionate area lead architect that oversees the main front-end platform that powers splunk core platform.  You will help forge technical, design, product, and architecture direction for our hybrid strategy that stratifies cloud technologies with desktop web, native mobile, and future form factors that will connect the dots for success with our customers today.  You work across teams and organizations to ensure that the architecture and design are of high quality, stable, scalable and reliable. You will establish the technical architectural standards and drive the overall technical design and best engineering practices through design reviews, architecture reviews, hackathon activities, customer visits and engagement with Ecosystem Partners.
@@ -1226,6 +1272,38 @@ Notes on serverless computing or Function-as-a-Service, FaaS:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for Database as a Service (DaaS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

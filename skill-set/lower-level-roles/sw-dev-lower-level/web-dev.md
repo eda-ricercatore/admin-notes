@@ -251,6 +251,7 @@ reactive programming = asynchronous dataflow programming
 	- Experience with Docker, Kubernetes, GIT, and Splunk.
 	- Understanding of machine and application logs.
 	- Having done past work with Learning Management Systems, SCORM, XAPI, WebRTC, and Video Streaming technologies considered a bonus.
++ Experience on full stack framework development like any of Multimedia frameworks, GStreamer, OpenVx, OpenMax, OpenGL, OpenGL-ES, Vulkun, Mesa, etc. is a plus.
 + skill set:
 	- Ruby Developer
 	- A Developer must have experience in analyzing customer needs and developing overall concept and design objectives. The developer must be able to create software in a variety of programming and for a variety of IT software applications. You’ll analyze the needs and the environment to make sure the solution you’re developing considers the current architecture and operating environment, as well as future functionality and enhancements. You’ll need to be able to work both independently and as part of a larger team.
@@ -847,6 +848,16 @@ reactive programming = asynchronous dataflow programming
 	- Docker
 	- Elasticsearch
 + skill set:
+	- B.S./B.A. degree in Computer Science or related field; or equivalent work experience
+	- Computer Science fundamentals in systems design, data structures, algorithm design and problem solving
+	- Experience with, or a strong understanding of, agile software development principles
+	- Professional level proficiency with one or modern programming languages: Java, JavaScript, or C++ preferred
+	- Experience with Cassandra, MongoDB, Kafka, Elasticsearch, JavaScript, React, Node.js, AWS, Git, Linux and Python are all valuable pluses
+	- Knowledge and interest in computer networking and application monitoring concepts
+	- Knowledge and interest in professional software development/engineering practices and system design best practices
+	- Clear communicating with business stakeholders, users and other technical teams to envision and deliver innovative solutions
+	- A track record of personally delivering working software
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -956,6 +967,35 @@ reactive programming = asynchronous dataflow programming
 	- PTO awarded for being part of the on call rotation
 	- Regular Unstructured Development Time to investigate new technologies that would benefit you and your team
 	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
++ skill set:
+	- We are actively looking for an experienced Platform Software Engineer and Java, C++, Python software engineers to join our team on a Machine Learning developer tools software project. This role requires experience identifying and/or developing and integrating technology components for local/cloud Machine Learning development tools platform that includes rich visual development ML-based intelligent agents. Must be able to work with Agile product delivery team. Effective communicator who can collaborate with architects, Front End developers, and User Experience designers to produce necessary documentation based on the code created.
+	- Analyze, design, and develop the platform components.
+	- Develop and maintain automated integration tests.
+	- Provide recommendations for continuous improvement of the software and SDLC tools. 
+	- Pull best development practices to the project.
+	- Provide ongoing maintenance, support, and enhancements in existing systems and platforms.
+	- Collaborate with data scientists, project managers, QA engineers, and other software engineers to achieve elegant solutions.
+	- Lead selection of frameworks whether to use third-party components while also showing how to tie the components together to build a platform. 
+	- Bachelor's Degree in Computer Science or equivalent degree or experience required.
+	- 5 years development experience in Java technology stack.
+	- Experience in container technologies and Kubernetes.
+	- Optionally, experience in Python and Machine Learning, Front-end technologies, or C++ and embedded software programming.
+	- Must have Java technology stack, microservices, and MongoDB database experience.
+	- Experience with container technologies and solutions utilizing Docker and Kubernetes.
+	- Experience with public clouds (Azure, AWS, etc.) is a plus.
+	- Python, C++, JavaScript, or GoLang is a plus.
+	- Machine Learning experience is a significant plus.
+	- Mathematical or Data Science background is a plus.
+	- Understands object-oriented and architectural design patterns and programming by contract.
+	- Strong analytical and problem-solving skills and thorough knowledge of software design principles.
+	- Experience in performance tuning and memory analysis.
+	- A good habit to use unit tests, automated integration tests, and code reviews.
+	- Must understand and accept agile development practices – Daily-standup, sprint, retrospectives.
+	- Good communication skills.
+	- Able to work with co-located and distributed teams; experience working in a start-up environment is a plus.
+	- Able to handle multiple projects with various priorities and deadlines.
+	- Able to work both independently and in a collaborative environment.
+	- Self-motivated and driven.
 + skill set:
 	- Working knowledge of relational databases and query authoring (SQL)
 	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark
@@ -1256,7 +1296,7 @@ reactive programming = asynchronous dataflow programming
 		* Adobe Experience Manager, for the versions CQ and CRX
 			+ ["Get personalized, content-led experiences into market faster with Adobe Experience Manager, which combines digital asset management with the power of a content management system.", July 13, 2022](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
 + skill set:
-	- front-ened skills:
+	- front-end skills:
 		* Experience with ***Gulp (or, gulp, or gulp.js)***
 			+ open-source JavaScript toolkit that is a streaming build system
 			+ automate and enhance workflow
@@ -1711,6 +1751,50 @@ reactive programming = asynchronous dataflow programming
 		* cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols.
 			+ Client for URL
 + skill set:
+	- experience with configuration automation:
+		* Chef
+		* Ansible
+		* Puppet
+		* Salt
+	- experience working with public/hybrid Cloud platforms
+	- experience with containerization frameworks
+	- tech stack:
+		* Python
+		* Flask
+		* Ascynio, or asyncio — Asynchronous I/O (or, AsyncIO)
+		* Go
+		* PostgreSQL
+		* AWS
+		* Kubernetes
++ skill set:
+	- deep experience building and maintaining schema-driven, widely accessible Web APIs:
+		* OpenAI
+		* GraphQL
+		* gRPC/Protobuf
+	- experience architecting, building, and deploying microservice architectures
+	- deploying Kubernetes and/or service mesh architectures
+	- streaming systems
+		* Kafka
+		* Kinesis
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1732,7 +1816,10 @@ reactive programming = asynchronous dataflow programming
 	- BLAH.
 + skill set:
 	- BLAH.
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -1793,6 +1880,9 @@ reactive programming = asynchronous dataflow programming
 	- Desktop app frameworks, e.g. Electron
 + Sass: Syntactically Awesome Style Sheets
 	- SCSS: Sassy Cascading Style Sheets
++ skill set:
+	- JavaScript, HTML5, CSS, React, Redux, writing tests (with Jest/Cypress, etc.), implementing designs (with Invision, etc.), npm, node.js, and git.
+	- Participate in collaborative UI/UX development. Collaborate with UX and back end teams. Research with end users. Create prototypes and implement quality wireframes and production-ready code – a portfolio of recent or salient work is required. Design interactive learning contextual user interfaces. Research and stay up to date on UI/UX methodologies
 + skill set:
 	- Experience with Amazon Web Services (i.e. EC2, S3, RDS, CloudFront, CloudWatch, Lambda, CloudFormation, etc.)
 	- Production React experience
@@ -2180,6 +2270,39 @@ reactive programming = asynchronous dataflow programming
 + General hands-on experience with the foundational web technologies such  such as HTML5, CSS3, TailwindCSS, Responsive Design, HTML APIs, REST APIs
 + Ability to code in a front end JS framework (React, Vue, Svelte) a plus.
 + Java, Python, Angular.js, HTML5, and CSS3 is a plus
++ skill set:
+	- Minimum Qualifications
+		* Deep experience with JavaScript, AWS, Git, npm and *nix
+		* Understanding of relational and non-relational databases and their patterns
+		* Prioritization of performant, reusable, scalable, high-quality code
+		* Fundamental appreciation for unit, behavioral and automated testing
+		* Exceptional written and verbal communication skills for all audiences
+		* Experience working as a part of an Agile team where velocity matters
+		* Experience as a measured, supportive, committed code reviewer
+		* Experience with continuous integration workflows
+	- Preferred Qualifications
+		* Experience with Docker, Fastly VCLs, GitLab and GCP
+		* Experience with MySQL/Aurora, MongoDB and GraphQL (Cypher)
+		* Experience with NodeJS, Express, Fastify, React, Redux and Selenium/WebdriverIO
+		* Experience with programmatic header bidding (Pubmatic, DFP/GAM, A9)
+			+ ***programmatic header bidding***
+				- Pubmatic
+				- DFP/GAM
+				- A9
+		* Experience with large-scale, highly available digital products
+		* Passion for self-education and a love of learning words
+	- In our office, we promote:
+		* Autonomy to innovate, identify new opportunities and take on responsibilities
+		* Diversity of experience, background, interest and talent at every position
+		* Development through mentorship and a specialized education allowance
+		* Ownership of products, processes and the methods of production
+		* Truth through honesty, transparency and accountability
+	- Responsibilities:
+		* Implement platform technology, APIs, automation tooling and modern ad tech
+		* Collaborate cross-functionally with Product, Analytics, Ad Yield and Data Science
+		* Come up with ways we can improve site reliability, RPS, monitoring and alerting
+		* Have a seat at the table in critical decisions about software direction
+		* Deliver quality products every week, every sprint, every quarter
 + skill set:
 	- BLAH.
 + skill set:

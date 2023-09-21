@@ -34,6 +34,14 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Experienced with board enabling and benchmarking
 	- Experienced with micro-architecture performance analysis
 	- Experienced with microbenchmark design
++ skill set for Edge Computing Research Engineer:
+	- Design and develop edge computing platform architecture for applications including edge application development, IoT, and edge AI. Innovate edge computing technical solutions to pursue service experience with high reliability, security, and performance.
+	- Participate in open source edge computing projects of the Linux Foundation and track the latest technologies and their implementation in the industry.
+	- Fully understand customer requirements and provide technical solutions to resolve problems.
+	- Computer science or related major. Proficient in at least one programming language. Expertise with Go/Python/Shell preferred
+	- Solid knowledge of edge computing, MEC, and IoT and their key application scenarios, such as interactive live broadcast, real-time audio and video, network video surveillance, and AI. Insights into the latest industry technologies. Practical project development experience preferred
+		* MEC
+	- Strong interest in technologies and excellent logical thinking. Expertise in CDN, OpenStack, and Kubernetes and good understanding of popular edge computing products preferred
 + skill set:
 	- BLAH.
 + skill set:
@@ -85,6 +93,90 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 
 
 Sets of skills for embedded software development roles:
++ Integrate, design, develop, upstream and release system software: Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
++ Knowledge of tools like Linux perf, vTune, ARM StreamLine, Trace Compass, etc.
+	- Linux perf: performance analyzing tool
+	- vTune: VTune Profiler is a performance analysis tool for x86 based machines running Linux or Microsoft Windows operating systems. Many features work on both Intel and AMD hardware, but advanced hardware-based sampling requires an Intel-manufactured CPU.
+	- ARM StreamLine
+		* use Streamline to capture, analyze, and display performance measurements from your device
+		* performance analysis and system visualizer tool for ARM based hardware and software
+		* Streamline Performance Analyzer
+		* Streamline is an application profiler that can capture data from multiple sources, including:
+			+ Software program counter samples from running application threads.
+			+ Hardware performance counter samples from the Arm CPU and Mali™ GPUs.
+			+ Scheduling information from the Linux kernel, and Mali drivers.
+			+ Software-generated annotations and counters from the application being profiled.
+		* The Arm Mobile Studio family of performance analysis tools help you evaluate performance on non-rooted Android devices at varying levels of detail throughout your game development workflow:
+			+ Streamline for deep-dive performance profiling
+				- Streamline captures performance data from an Android device as your game runs.
+			+ Performance Advisor for quick analytics
+			+ Graphics Analyzer to debug graphics API calls
+			+ Mali Offline Compiler to analyze shader programs
+	- Trace Compass
+		* Eclipse Trace Compass is an open source application to solve performance and reliability issues by reading and analyzing traces and logs of a system.
++ Experience with building tool/system including Make, CMake, Yocto, and Bazel
+	- The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture.
+	- The Yocto Project is a Linux Foundation collaborative open source project whose goal is to produce tools and processes that enable the creation of Linux distributions for embedded and IoT software that are independent of the underlying architecture of the embedded hardware.
+	- Bazel is a free and open-source software tool used for the automation of building and testing software.
+		* Build and test using Java, C++, Go, Android, iOS and many other languages and platforms.
+		* https://bazel.build/start
+		* https://bazel.build/about/intro
+			+ Bazel is an open-source build and test tool similar to Make, Maven, and Gradle. It uses a human-readable, high-level build language. Bazel supports projects in multiple languages and builds outputs for multiple platforms. Bazel supports large codebases across multiple repositories, and large numbers of users.
+		* https://bazel.build/docs
+		* https://bazel.build/
+			+ From startup to enterprise, choose the Bazel open source project to build and test your multi-language, multi-platform projects.
++ skill set:
+	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
+	- As a System Software Engineer, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks.  You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
+	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
+	- Engage with architecture, hardware engineering, and other software engineering teams to review, and refine features
+	- At least 3 years of experience developing architecture-level code or device drivers in C for multiprocessor, multithreaded open source kernels such as Linux or BSD, with upstream involvement
+	- Proven experience with upstream development on high-level operating systems such as Linux
+	- Strong communication, co-working, and listening skills
+	- Experience working with hardware architecture and engineering teams
+	- Experience debugging complex multicore systems
+	- Experience debugging with GDB, JTAG and OpenOCD
+	- Experience with git, Makefile, GNU toolchain and shell scripting
+	- Experience with virtualization, IOMMUs, power management, SoC platform security or device drivers
+	- Experience with bootloaders such as u-boot
+	- Experience working with global distributed teams
++ skill set:
+	- As a Senior Embedded Software Engineer in the Bare Metal software team, you will participate in the development of SiFive’s bare metal embedded firmware, software stacks and associated Software Development Kits (SDK).
+	- This position is a highly visible role since the developed code targets sensitive functions found in SiFive’s RISC-V products. By its design philosophy, RISC-V is highly configurable, and we have several different configurations in our design pipeline, with various combinations of supported instruction sets and with various peripherals and bus interconnect architectures. Developing high quality and robust firmware that can accommodate such variation is a challenging task, to be addressed in this role.
+	- Developing and documenting embedded firmware (bare-metal code, drivers, stacks) that works across the whole SiFive products portfolio.
+	- Developing and helping set the direction for SiFive’s bare metal SDK, Freedom E SDK.
+	- Porting and enhancing real-time operating systems on 32- and 64-bit RISC-V platforms.
+	- Developing production-quality software, including testing, documentation, static analysis, and CI/CD/CT.
+	- Interacting with hardware and other software teams to create market-leading products.
+	- 5+ years of recent experience with embedded firmware development.
+	- Experience with RTOSes such as FreeRTOS.
+	- Solid understanding of processor and SoC architecture, or a strong desire and ability to learn same.
+	- Proficiency in C, Python, Linux, and knowledge on how to use embedded development tools such as JTAG and associated debug tools.
+	- Experience with distributed revision control systems such as git.
+	- Experience with C++.
++ skill set:
+	- As a Senior Embedded Software Engineer in the Bare Metal software team, you will participate in the development of SiFive’s bare metal embedded firmware, software stacks and associated Software Development Kits (SDK).
+	- This position is a highly visible role since the developed code targets sensitive functions found in SiFive’s RISC-V products. By its design philosophy, RISC-V is highly configurable, and we have several different configurations in our design pipeline, with various combinations of supported instruction sets and with various peripherals and bus interconnect architectures. Developing high quality and robust firmware that can accommodate such variation is a challenging task, to be addressed in this role.
+	- Develop and document embedded firmware (bare-metal code, drivers, stacks) that works across the whole SiFive products portfolio.
+	- Develop and help set the direction for SiFive’s bare metal SDK, Freedom E SDK.
+	- Port and enhance real-time operating systems on 32- and 64-bit RISC-V platforms.
+	- Develop production-quality software, including testing, documentation, static analysis, and CI/CD/CT.
+	- Interact with hardware and other software teams to create market-leading products.
+	- 5+ years of recent experience with embedded firmware development.
+	- Experience with RTOSes such as FreeRTOS.
+	- Solid understanding of processor and SoC architecture, or a strong desire and ability to learn same.
+	- Proficiency in C, Python, Linux, and knowledge on how to use embedded development tools such as JTAG and associated debug tools.
+	- Experience with distributed revision control systems such as git.
+	- Experience with C++.
++ skill set:
+	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize’s proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
+	- OpenVX Built-in kernel Development: The driver team also implements kernels using OpenCL C++ and Assembly language. This involves understanding/tweaking image-processing/CV/CNN algorithms for implementation most suited to our h/w architecture.
+	- OpenVX Application Development: The driver team also designs and writes a lot of sample applications for unit testing as well as POC of the features implemented, bugs fixed and performance improved.
+	- Tool Development: The driver team also writes tools relevant to its development and testing. The tools are developed using scripting languages etc. python, ruby or other prototyping languages.
+	- Proficiency in C/C++, OOPS, STL, Data Structures & Algorithms, Background in Graphics/Computer-Vision/Image-processing, OpenGL/OpenCL/OpenCV/CUDA, Device Driver Architecture, GPU Architecture, OpenCL C++ programming, Assembly programming.Key Skills/Abilities:C/C++ (Must): Required for design, implementation, unit testing, debugging of the driver and application code. Candidates should be well-versed in OOPS, polymorphism, STL, templates, design patterns, memory management etc.
+	- Having worked in embedded software development would be beneficial.Graphics, OpenGL, OpenCL, CV, CUDA, OpenCL C++, Assembly (highly sought after): Required for understanding h/w architecture, s/w design and architecture; Also required for writing the OpenVX built-in kernels, coming up with kernel algorithms, optimizations for driver implementation etc.
+	- Python/Shell/Ruby scripting: Required for writing scripts for automating application/test generation and execution. Also useful for automating other operations like code analysis, golden output generation etc.OpenGL, OpenCL, OpenCV, Graphics, Assembly - Any experience is welcome.
+	- C, C++, Data Structures, Algorithms & Graphic Libraries
 + skill set:
 	- You will help to ensure great quality of Tesla's Autopilot software for current and next generation vehicle programs and working towards Tesla's vision of fully autonomous vehicles. You will be contributing to the implementation of the software system that processes inputs from a variety of vehicle sensors, evaluates possible vehicle strategies/trajectories, and automate safe control of the vehicle.
 	- Demonstrate good understanding of software fundamentals including software design, algorithm development, data structures, code modularity, and maintainability.
@@ -327,6 +419,73 @@ Sets of skills for embedded software development roles:
 	- Experience in Nvidia AGX Xavier platform development is preferred
 	- Experience in Jenkin CI, software integration and test development is preferred.
 	- Experience in robot control software development, sensor system development experience or ROS experience is preferred
++ skill set for OS Kernel Engineer:
+	- Lead next-generation OS development. Lead and make breakthroughs in technology research, architecture design, and application scenarios of next-generation OS kernels.
+	- Mine key OS technologies, build system prototypes, and promote implementation of key technologies.
+	- Develop OS features and subsystems and perform overall performance commissioning and optimization.
+	- Solid system knowledge and mastery of key OS modules, including memory management, scheduling, file system, driver, security, and performance optimization
+	- Proficient in Linux kernel programming, virtualization, and real-time knowledge
+	- Demonstrated skill in using common Linux kernel optimization tools and ability to optimize kernel performance according to system architecture
+	- Expertise in implementing and developing OS drivers
++ skill set for Large-scale Scheduling Development Engineer:
+	- Design the architecture of large-scale distributed resource scheduling algorithms on HUAWEI CLOUD. Think innovatively about technologies and services. Participate in critical decision-making related to system scheduling, and promote decision implementation.
+	- Develop and optimize the core algorithms of the large-scale distributed scheduling system and related systems. Improve system scheduling performance, and participate in end-to-end design, development, and rollout of new features.
+	- Solid theoretical foundation and rich practical experience in portfolio optimization, data mining & analysis, and statistics. Proficient in large-scale distributed machine learning, as well as data preprocessing, training, tuning, and prediction.
+	- Proficient in Linux and its shell scripting, DevOps, O&M tool chain, and O&M ecosystem. Familiar with popular public cloud and container technologies and platforms. Extensive experience with R&D of cluster resource scheduling systems such as Yarn, Kubernetes, and Mesos
+	- Deep understanding of virtualization, container technologies, and Linux CGroup and namespace mechanisms. Rich design and development experience with resource scheduling
+		* ***Linux CGroup***
+	- Strong motivation to learn new technologies, excellent communication skills, and good team spirit
++ skill set:
+	- Huawei’s Open Source Technology Center in Europe is looking for a Principal Solution Architect to join us. In this role you will be the mind behind the architecture of our IoT device end-to-end software stack, from the edge operating system to the cloud backend interface, as well as being the architect behind the development, testing and release infrastructure. You will be a key influencer and go-to technical expert for our internal team and a become key mantainer in the open source projects we will contribute to. You will report to the Director of the Open Source Technology Center in Europe who has general management reposibility. When you will be in the room, business and technical requirments will find their place on a whiteboard. You will try it out, prototype and turn your vision into project plans. You will supervise the end result, provide expertise and coaching and be the first customer of your own products.
+	- If you are an expert open source software architect with experience in embedded devices operating systems, if you have a track records of open source contributions, if you have been in key open source projects mantainer roles, if you see the world as source code and think your days in sprints and jenkins tasks, we’d like to meet you!
+	- Be the architect behind Huawei’s Open Source Technology Centers IoT software stack
+	- Design architecture documents and translate business requirements and customer requirements into themes, features, that the development team can execute upon
+	- Be the role model and the key influencer who drives the open source mentality in the team
+	- Be a key maintainer in Huawei’s open source projects
+	- Participate at open source gatherings and deliver keynotes / technical talks
+	- Scout for new open source technologies and initiatives and be an innovation engine
+	- Meet with key partners and customers in order to achieve an understanding of their requirements and help build the solution to their problems
+	- Advanced computer science or engineering degree with specialties in embedded / IoT devices and extensive engagement in open source communities and industry forums, such as Linaro, Openembedded, Yocto Project, ...
+	- Extensive understanding of embedded operating system and cross-build platforms, open source, and related customer issues including Linux kernel overall architecture, GNU and CLANG compilers, operating system optimization for performance and size.
+	- Knowledge of open source projects governance such as technical advocacy teams, steering advisory boards
+	- Proficiency with CI/CD open source frameworks and tools, as well as automated testing for embedded / IoT devices the like of LAVA and Jenkins.
+	- End-to-end IoT devices software stack, from edge device to cloud backend, from device management to cybersecurity (CVEs handling, CVSS scoring, ...), from containers and orchestrators to cloud native.
+		* CVEs handling
+		* CVSS scoring
+	- Ability to partner with senior technical leaders and architects, establish influence and drive consensus
+	- Natural technical leader and influencer
+	- Excellent verbal, written and presentation skills
+	- Ability to handle ambiguity and operate autonomously
++ skill set for Identity and Access Management, IAM:
+	- Play a leading role to the development of Data Protection Architectures, Data Security, Accountability and Privacy technologies and innovative Product Features for the Cloud, Big Data, IoT and/or mobile platforms.
+	- Applied research and advanced technology development in one or more of the following topics:
+		* Dynamic authorization including extensions of Attribute-Based-Access-Control (ABAC) for IoT, mobile devices and Cloud platforms.
+		* Fusion of Bayesian Networks / Deep Learning / biometric fusion and ABAC
+		* Steganography and Steganalysis including watermarking and data tracing technology for video, image and AI models,
+	- Lead the implementation of proof of concept prototype of technology innovation
+		* Strong experience with collaborative development
+		* Strong experience with C/C++ on IoT or small devices
+		* Experience with operating systems such as Android and (embedded) Linux.
+	- Improve security engineering process as well as security by design concept
+	- Improve and apply best practices on Cloud Security Architectures from NIST, ENISA and FIDO/W3C guidance
+	- Identify innovation opportunities, elicit requirements and contribute to feature/product development roadmaps
+	- Work together with the R&D of Product teams in order to impart innovation into new products
+	- Lead or contribute to collaborative research and innovation activities with partners Huawei’s innovation ecosystem that includes R&D of top European companies and Universities.
+	- Expertise in at least one of the following technology areas
+		* Dynamic authorization including extensions of Attribute-Based-Access-Control (ABAC) for IoT, mobile devices and Cloud platforms.
+		* Fusion of Bayesian Networks / Deep Learning / biometric fusion and ABAC
+		* Steganography and Steganalysis including watermarking and data tracing technology for video, image and AI models and understanding of the impact of information hiding and steganography to AI and Machine Learning
+	- Strong development expertise in C/C++ and (ideally) Rust programming languages.
+	- Understanding of mobile and embedded device operating systems (e.g. Android and embedded Linux)
+	- Ability to combine high level architecture perspective with deep and detailed technical design/prototype work
+	- Proven successful track record of architecting, designing and implementing new data protection technology in Mobile, IoT and Public Cloud platforms in commercial R&D and/or in products, solutions, corporate standards
+	- Strong Systems and Software Design skills for example with UML/FMC is necessary
+	- Capable to analyze complex software architectures and prioritize development tasks to maximize efficiency.
+	- Able to independently design, build, and maintain efficient, reusable and secure code, and to analyze existing designs and code and identify improvements.
+	- Degree in Computer Science / Networks (ideally PhD and/or 3+ years research or advanced development)
+	- Excellent communication skills, team-work, self-motivation, self-organization and independent working.
+	- Fluent written and spoken English.
+	- Ability/interest for international travel.
 + skill set:
 	- BLAH.
 + skill set:
@@ -379,6 +538,19 @@ Sets of skills for embedded software development roles:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -391,13 +563,126 @@ Sets of skills for embedded software development roles:
 
 Sets of skills for embedded software development roles, in the automotive industry, or for automotive software:
 + Automotive Software Performance Improvement and Capability dEtermination (ASPICE)
-
-
-
-
-
-
-
++ skill set about Automotive OS & Middleware Technologies:
+	- Automotive Infrastructure software for high-assisted and autonomous driving.
+	- Automotive system software, e.g. operating systems, microkernels, RTOS, computing abstractions for *PU, for heterogeneous SoC.
+	- Automotive middleware such as AUTOSAR, DDS.
+		* DDS
+	- Model-based systems engineering.
+	- Safety and high-assurance for networked mixed critical systems.
+	- Fail-operation designs and safe integration of AI based functions.
+	- Software-Hardware co-design for automotive systems.
+	- You have a completed Master degree (or equivalent) from a top university in Computer Science.
+	- Knowledge in one or more of the following areas:
+		* Operating System, e.g. Micro-kernel, Linux, Hypervisor.
+		* Automotive middleware, e.g. ROS, Autosar Adaptive/Classic, DDS, SOME/IP.
+			+ ROS
+			+ Autosar Adaptive/Classic
+			+ DDS
+			+ SOME/IP
+		* Determinism, hard and soft real-time, worse case execution time, mixed-criticality.
+		* Functional safety, assurance cases, STPA, FMEA, FTA, software engineering principles.
+			+ STPA
+			+ FMEA
+			+ FTA
+		* Good understanding of computer architecture.
+		* Basic understanding of ISO26262, SOTIF
+			+ ISO26262
+			+ SOTIF
+	- Very good programming skills: C/C++, scripting languages.
+	- Interest in solving challenging scientific problems.
+	- Motivation for independent and goal-oriented research.
+	- Published papers or awards at programming/math competitions (e.g. ICPC, IMO, IMC) is a plus.
+	- Open to working in diverse multi-cultural team distributed all over the globe.
+	- Fluent written and spoken English.
++ skill set:
+	- Huawei’s European RAMS Lab is a corporate competence center responsible for researching high reliability and high safety architecture and technologies for complex system; To provide self-healing solution and automotive safety solution, including Mission-Critical/Safety-Critical/Carrier-Grade of ICT/IoT/Automotvie/Cloud application, with best performance and user experience. (RAS: Reliability, Availability, Safety)
+	- Work closely with a group of domain experts and researchers from different Huawei product lines to integrate as well as fine-tune algorithms into complex system platforms.
+	- Identify, initiate, manage and direct collaborations with research institutions such as universities and other partners
+	- Solid background in mathematics, esp. in linear algebra, statistics/probability, and possess in-depth knowledge on the theoretical foundations on which machine learning is based;
+	- Solid experience in designing, applying and optimizing machine learning algorithms to tackle real world problems for industrial projects;
+	- Deep understandings on details of various supervised/unsupervised learning algorithms and have in-depth understanding of deep neural networks including CNN, RNN, LSTM, GRU etc.;
+	- Hands-on experience with frameworks such as Tensorflow, PyTorch, WEKA/MOA, scikit-learn, Mahout, etc;
+		* WEKA/MOA
+		* Mahout
+	- Strong programming skill in at least one of the following programming languages: Python, Java, C/C++, Matlab;
+	- Knowledge about safety design or implementation would be a plus.
++ skill set in Automotive Security Research:
+	- Research on important security technologies for automotive, in areas of access control, software over the air update, autonomous driving and etc.
+	- Analysis on Adaptive Autosar specifications.
+	- Deliver technical reports on state of art, industry best practices, methodologies and etc.
+	- Software design and simple PoC to demonstrate the capabilities of prototypes.
+	- With 5+ year experience of security research; deep understanding of at least one security areas like access control, crypto, OS security and etc.
+	- Good knowledge on SELinux.
+	- Experience in Automotive industry (especially in Adaptive Autosar)
+	- Experience and knowledge of Sandbox is a plus.
+	- Experience on C++.
+	- Excellent communication skills, team-work spirit and independent working capabilities are required.
+	- Fluent written and spoken English is required.
++ skill set in Automotive Security:
+	- Survey and research on important security technologies for automotive, in areas of access control, software over the air update, autonomous driving and etc.
+	- Work on technical reports and Proof of Concepts.
+	- Support development of security modules.
+	- Master candidate in computer science, cyber security or related areas
+	- Good knowledge in one cyber security areas (e.g. identity & access management, crypto, SELinux…)
+	- Knowledge about Linux or Android operation system
+	- Knowledge about automotive software like Autosar is a plus.
+	- Knowledge in autonomous driving, AI algorithm is a plus.
+	- Development experience in C++ or C.
+	- Comfortable communicating in English.
+	- Team-work spirit and independent working capability.
+	- Hands-on and can-do attitude, quick learn capability.
++ skill set for Adaptive AUTOSAR Architect & Engineering:
+	- Huawei’s Munich Research Centre is responsible for advanced technical research, architecture evolution design and strategic technical planning in embedded system (wireless, edge computing, automotive domain, etc.).
+	- Take the lead in the architecture, design, development of Adaptive AUTOSAR system/sub-system, support Huawei Intelligent Automotive Solution.
+	- Being active in the standard, attend the AUTOSAR consortium conference. Work in related WGs and contribute Huawei concept to the consortium/standard.
+	- Plan the software technology and IP and collaboration strategy, lead the selection and adoption and participation of relevant industry standards and formulate a technology roadmap that builds the basis for a highly-competitive portfolio of products.
+	- Clarification of software requirements with customer, supplier, partner and other relevant inter-departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Masters with 8+ years’ experience, PhD with 5+ years’ experience in automotive software.
+	- Deep understanding and working experience in Adaptive AUTOSAR including tools and methodologies.
+	- Working experience in AUTOSAR WG for more than 1 year.
+	- Expertise in safe and/or secure usage of C++/C in Embedded Systems.
+	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
+	- The willingness and ability to travel are required.
+	- Basic understanding of ISO26262 is a plus.
+	- Fluent in English, German and Chinese is a plus.
++ skill set for Software Functional Safety Architect:
+	- Drive the design and development of functional safety requirements in OS and Middleware (e.g. Adaptive AUTOSAR) and functional decomposition for (a) specific functional domain(s).
+	- Responsible for functional safety requirement analysis, design. Define the functional safety concept or requirements for the relevant system, OS and middleware level software according to ISO26262.
+	- Work with cross-functional teams to manage hazard analysis, safety concepts, and DFMEA for the relevant system/domain. Take ownership of these work products including their approvals.
+	- Support software component functional safety certification.
+	- Clarification of software requirements with customer, supplier, partner and other relevant inter-departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Masters with 8+ years’ experience, PhD with 5+ years’ experience in automotive software.
+	- Deep knowledge of Functional Safety standards, such as ISO 26262 and/or IEC 61508. And related technique, such as STPA/STAMP, SOTIF.
+	- Background with SEooC and ASIL D certificated knowledge.
+	- Familiar with automotive or equivalent software development process and the V-Model system development, verification and validation framework. Experience with functional safety tools.
+	- A collaborative approach to working closely with development teams.
+	- Understanding of the product safety responsibility share between supplier and OEM.
+	- The willingness and ability to travel are required.
+	- Having Professional or Expert level certification from TUV is a plus.
+	- Fluent in English, German and Chinese is a plus.
++ skill set for Embedded OS Architect & Expert for Automotive:
+	- Define the overall embedded OS and middleware (e.g. Adaptive AUTOSAR) software stack architecture for Huawei automotive product and its components and draft the architecture design specifications.
+	- Build the real time, high performance, security, safety certified competitive technologies in OS for Huawei Next Generation Intelligent Automotive solution.
+	- Plan the software technology and IP and collaboration strategy, lead the selection and adoption and participation of relevant industry standards and formulate a technology roadmap that builds the basis for a highly-competitive portfolio of products.
+	- Clarification of software requirements with customer and other relevant departments. Guide the entire prototyping and agile software life-cycle. Make decisions about the realization of the designed key technical solutions, participate in team-work and provide guidance for the team to make the solutions a reality.
+	- Protect intellectual property and disseminate innovative research results in the community.
+	- Bachelors and Masters with 10+ years’ experience, PhD with 6+ years’ experience in embedded software.
+	- Deep technological understanding of automotive software and key technologies. Have genuine ideas for the development of new technologies and be willing to transform these ideas into reality.
+	- Experience background with embedded OS (e.g. OSEK OS, Micro-kernel, Linux, RTOS) and infrastructure software, include but not limited (It could be all or part of them),
+		* Operating System, e.g. Micro-kernel, Linux, Hypervisor.
+		* HW&SW Co-design, Real time scheduling, heterogeneous scheduling technologies.
+		* Deterministic scheduling, execution, latency technologies.
+		* Safety and security critical system technologies, e.g. Functional Safety, Cyber Security, v-model development technologies.
+		* Embedded middleware adaptive runtime framework (e.g. Adaptive AUTOSAR, DDS).
+		* Mixed critical system technologies.
+		* OPC UA standard in Industry 4.0/IIOT.
+		* Basic understanding of ISO26262 or IEC61508.
+	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
+	- The willingness and ability to travel are required.
+	- Fluent in English, German and Chinese is a plus.
 
 
 

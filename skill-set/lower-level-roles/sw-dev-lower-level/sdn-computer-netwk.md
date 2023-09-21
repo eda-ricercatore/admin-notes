@@ -187,6 +187,132 @@
 		* ***SaltStack*** is a highly extensible platform, allowing for the creation of modules that enable new execution models, states, etc. ***Ansible Python API*** can extend Ansible with plugins and modules to control certain aspects of the system (e.g., node management).
 	- Interest in building modular, scalable and resilient flows and tools.
 + skill set:
+	- Reservoir Labs, a high performance computing R&D firm with an award winning Cybersecurity team, is seeking a High Performance Network Research Engineer to join our growing business. We were named as one of the top 500 fastest and most innovative Cybersecurity companies in the nation by Cybersecurity Ventures. You will help innovate and lead advanced research and development projects within Reservoir's security product team.
+	- Job Responsibilities
+		* Contribute to research of future architectures and development of network processing and analysis products
+		* Program and utilize advanced packet processing and data analytics hardware (physical / on-premise virtual / cloud)
+		* Develop and implement new algorithms and systems for distributed high-throughput network processing
+		* Develop systems of devices, integrating with other parts of the cybersecurity and networking infrastructure
+	- Desired Skills & Experience
+		* BS, MS, or Ph.D. in Computer Science with strength and experience in networking, algorithms, and computer systems
+		* Skilled in systems programming tools (C, C++, Python, Bash, Angular, , and/or kernels)
+		* Strong software engineering skills and experience with software engineering tools (e.g., Atlassian/Jira, Mercurial, GIT)
+	- Plus Knowledge
+		* Zeek (Bro), Suricata, ElasticSearch, Kibana, Elk, Splunk
+		* Experience with advanced networking products, protocols, hardware and tools (e.g., SDN, OpenFlow, NetFlow, sFlow, Mininet)
+		* Cybersecurity and network security
+		* Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+		* Prior work with a variety of computer architectures
++ skill set:
+	- Experience in Linux programming in the C language with emphasis on knowledge of system calls, threading, and interaction with device drivers.
+	- Knowledge of L2/L3 networking for network design, troubleshooting and programming.
+	- Experience in multiple virtualization environments such as VMware, KVM, OpenStack, AWS, Azure, GCP, and OCI.
+	- Experience with containers and Kubernetes.
+	- Hands-on knowledge and interest in network design/creation for container and VM environments.
+	- Familiarity with the Linux systems and system administration.
+	- Familiarity with git helpful.
++ skill set:
+	- Ability to specify, design, codify and communicate the technical design of the solution to key stakeholders. This includes creating high-level design artefacts, and the documentation required in order to describe the functional capability of features to stakeholders.
+	- Perform independent technical and functional analysis for multiple projects supporting several initiatives. This includes the design, implementation and integration of the various components of solution including automated testing and verification.
+	- Work with different stakeholders including customers/end users, product management, software architects and software developers to design implement world-class software solutions for Tier 1 Mobile Telecom Operators who operate the largest networks on the planet.
+	- Responsible for coming up with practical and innovative solutions to complex real world technical problems and also being able to communicate solution to internal stakeholders.
+	- Accurately planning, scheduling and executing own work with the ability to cope with changing requirements including multiple assignments. This includes the ability to estimate software development tasks accurately and when necessary to do work breakdown for other engineers.
+	- Object Oriented Design and Object Oriented Programming knowledge and experience
+	- Java programming skills, includes design, coding, testing, debugging and code optimisation.
+	- Knowledge across multiple flavours of Unix O/S (CentOS 6/7/8, RHEL, Oracle Linux) with experience of permission management, system administration and other O/S features.
+	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
+	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
+	- Excellent communications skills both written and verbal are required in this role. The ability to present complex ideas in a convincing and understandable manner is a key requirement.
+	- Aptitude for learning and demonstrated ability to master new technologies and concepts quickly.
+	- Experience in Scala and/or Python programming languages
+	- Experience of Spark and/or Kafka for stream processing
+	- Experience of using containers to package and deploy software in Docker or Kubernetes environments
+	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+	- Experience with one or more cloud platforms (AWS/Azure/GCP)
+	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
+	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
++ skill set:
+	- Object Oriented Design and Object Oriented Programming knowledge and experience
+	- Java programming skills, includes design, coding, testing, debugging and code optimisation.
+	- Knowledge across multiple flavours of Unix O/S (CentOS 6/7/8, RHEL, Oracle Linux) with experience of permission management, system administration and other O/S features.
+	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
+		* Columnar Database, such as:
+			+ Vertica
+	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
+	- Excellent communications skills both written and verbal are required in this role. The ability to present complex ideas in a convincing and understandable manner is a key requirement.
+	- Aptitude for learning and demonstrated ability to master new technologies and concepts quickly.
+	- Experience in Scala and/or Python programming languages
+	- Experience of Spark and/or Kafka for stream processing
+	- Experience of using containers to package and deploy software in Docker or Kubernetes environments
+	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+		* Network Elements
+			+ xNodeB
+			+ MME
+			+ SGW
+			+ AMF
+			+ SMF
+		* Interfaces
+			+ N1
+			+ S1-MME
+			+ S5/S8
+		* Protocols
+			+ GTP
+			+ SIP
+			+ Diameter
+	- Experience with one or more cloud platforms (AWS/Azure/GCP)
+	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
+	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
+		* MicroStrategy
++ skill set regarding Wireless Standards, 3GPP RAN1:
+	- This position is responsible for conducting research on PHY technologies for 5G and beyond standards, as well as, attending the corresponding standards meetings.
+	- The successful candidate will conduct research on wireless physical layer technologies for the standards, including theoretical analysis, innovative technical solution design and simulation.
+	- The successful candidate will attend the corresponding standard meetings such as 3GPP RAN1 and RAN4 meetings, drive the research results to improve the standards, guide or suggest for products development and marketing decision to ensure the product solution is in alignment with standards.
+	- Self-motivated and able to work independently, as well as in a team. The candidate will work closely with the R&D teams in Futurewei.
+	- The candidate will have an active role in advanced research projects with external partners.
+	- PhD in EE, with 5+ (or 10+ for senior position) years of wireless standards experience or wireless physical layer algorithm research & system level/link level simulation experience in the wireless telecommunications industry or academia.
+	- Strong technical expertise and experience in wireless physical layer protocol design, simulation and optimization for standards; strong technical expertise in wireless 5G technologies, including OFDM/OFDMA, MIMO, interference control, signal and channel design, Multi-BS MIMO and advanced algorithm design and implementation.
+	- Hand-on experience with one or more wireless communication systems, GSM, UMTS, LTE, LTE-A, NR, WiFi; experience with IMT-Advanced/2020 FDD or TDD systems is preferable.
+	- Good understanding of higher layers (such as lower MAC layer) and experience in jointly designing physical layer and MAC layer.
+	- Good knowledge of the state-of-the-art technologies for wireless systems in industry and academia.
+	- Experience in product realization design or receiver algorithm design is preferable.
+	- Good teamwork spirit and adaptability.
+	- Should thrive in a dynamic, innovative and research-oriented environment.
+	- Travel to US other sites and all over the world for the standard meeting is required.
++ skill set in Wireless Standards, 3GPP RAN2, RAN3, and SA2:
+	- This position is responsible for conducting research on Layer 2/3 technologies (including MAC, RLC, PDCP, etc) and network architecture for 5G and beyond standards and attending the corresponding standards meetings.
+	- The successful candidate will conduct research on wireless Layer 2/3 and network architecture technologies for the standards, including theoretical analysis, innovative technical solution design and simulation.
+	- The successful candidate will attend the corresponding standards meeting such as 3GPP RAN2/RAN3 and SA standards meetings, drive the research results to improve the standards, guide or suggest for products development and marketing decision to ensure the product solution in alignment of standards.
+	- Self-motivated and able to work independently, as well as work in a team. The candidate will work closely with the R&D teams in Futurewei.
+	- The candidate will have an active role in advanced research projects with external partners.
+	- PhD in EE or CS, with 5+ (or 10+ for senior position) years of wireless standards experience or wireless MAC, higher layer algorithm research, network architecture & system simulation experience in the wireless telecommunications industry.
+	- Strong technical expertise and experience in wireless Layer 2/3 protocol design, simulation and optimization for standards; strong technical expertise in wireless 5G technologies, including 5G Architecture, Relay, SON, Mobility, Mobile Edge Computing, etc.
+	- Strong experience with one or more wireless communication systems, GSM, UMTS, LTE, NR, WIFI; experience with IMT-Advanced/2020 FDD or TDD systems is preferable.
+	- Deep understanding of higher layer protocols, such as MAC, RLC, PDCP, S1/X2 Interfaces, core network architecture, and so on.
+	- Good knowledge of the state-of-the-art technologies for wireless systems in industry and academia.
+	- Experience in product realization design is preferable.
+	- Good teamwork spirit and adaptability.
+	- Should thrive in a dynamic, innovative and research-oriented environment.
+	- Travel to US other sites and all over the world for the standard meeting is required
++ skill set:
+	- Research the technical trends and cutting-edge technologies related to online storage service and structured asset storage services, identify and verify key technologies and potential business opportunities, plan the product technology roadmap and implementation strategy.
+	- Manage and develop proof-of-concept work, and promote the implementation of prototype projects.
+	- Research, conceive and develop innovative and complex software applications to extend and improve the Huawei Drive experience.
+	- Take charge of the architecture design, solution design, and openness design of the front-end and back-end service modules of Huawei Drive services and products.
+	- Analyze and research key technologies related to cloud services, optimize system performance, capacity, and bandwidth, and improve user experience.
+	- Deeply understand the business requirements of Huawei Drive, align with the best in the industry, and continuously track and implement the competitiveness of products.
+	- Master's degree or PhD in Computer Science, Mathematics, or a related technical field of study.
+	- 8+ years of experience in mobile platforms, internet development projects, and participation in at least three medium-sized projects (with more than eight team members)
+	- Have a good command of mobile application development technologies and have participated in the solution design, deployment, and O&M management of large-scale systems.
+	- Good interpersonal communication, cooperation, learning, and service awareness. Ability to collaborate across region, team boundaries, build relationships and import and ideas.
+	- Have a deep understanding of industry-leading technologies and engine kernels for large-scales distribute storage system, with project development experience preferred.
+	- Familiarity with micro-service system construction, experience in constructing distributed and highly concurrent systems, or experience in processing data of large-scale users is preferred.
+	- Experience in managing medium-sized projects (with more than eight team members).
+	- Solid experience with data structures, algorithms and software design.
+	- Ability to lead a team of software engineers, empower them and guide them to deliver high quality solutions.
+	- Passion for shaping top quality consumer centric products.
+	- Extensive experience designing and implementing large-scale distributed systems, and experience in building large and medium-sized mobile platforms or one of millions of mobile internet services is preferred.
+	- Familiar with the online storage services or structured asset storage services, and experience in 10 million of mobiles services is preferred.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
