@@ -91,7 +91,7 @@ Technologies and skills for MIS:
 ##	Skill Sets for MIS
 
 
-Skill set for management of information systems, MIS:
+Skill set for management of information systems, MIS, including data analyst roles:
 + ***Refactor SQL code based on our best-in-class, in-house style guide.***
 + database systems:
 	- PostgreSQL database management system
@@ -381,6 +381,59 @@ Skill set for management of information systems, MIS:
 	- Computer science or related major. Proficient in C/C++ programming on Linux. Profound theoretical understanding of databases and good knowledge of the latest database architecture and research
 	- Proven research background in database kernel architecture and algorithms, and related experience
 	- Proficient in kernel code implementation of one of an open-source database, such as MySQL, PostgreSQL, or NoSQL.
++ skill set:
+	- The Center for Policing Equity (CPE) is looking for a skilled Data Analyst for our Compstat for Justice Program (C4J) with an unwavering passion for social justice issues. C4J is a new initiative aimed at providing recommendations and strategic services to law enforcement agencies (LEAs) in support of their efforts to reduce racial disparities in policing outcomes within the communities they serve.
+	- The Data Analyst will be an integral part of CPE's C4J service delivery model. They will analyze data collected from partner law enforcement agencies (LEAs) to conduct analyses to identify department needs and perform ongoing analyses to aid the department in implementing recommendations. Additionally, the Data Analyst will be responsible for continuously iterating on the 'Needs Assessment' and C4J Implementation frameworks based on data and insights gathered from each C4J development site. This position will report to the Senior Director of C4J.
+	- Key Responsibilities
+		* Perform data pre-processing/wrangling tasks to prepare the data for analysis
+		* Use quantitative and qualitative data to answer C4J research questions
+		* Execute on the data analyses required for the Needs Assessment phase of C4J
+		* Documenting all code developed to conduct the analyses
+		* Produce compelling data visualizations
+		* Design and run regression models and provide interpretation of the results
+		* Conduct quality assurance checks to ensure there are no errors in the analyses or the interpretation of the output
+		* Conduct meticulous quality control and record-keeping procedures to ensure the highest levels of data integrity
+		* Translate findings into recommendations, strategy, and change management practices for partner agencies to employ
+		* Conduct project post-mortem and lead continual process improvement for data analysis following each C4J implementation
+	- Qualifications
+		* Bachelor's degree required; specialization in Mathematics, Statistics, Physics, Computer Science, Economics, Finance, or other quantitative fields is preferred
+		* 5+ years of experience working in a Data Analyst, Business Analyst or similar role with a focus on performing advanced regression techniques, to include multivariate regression, multilevel (hierarchical) modeling, and Bayesian inference
+		* Possess end-to-end data expertise including data sourcing, merging, cleaning, restructuring/wrangling, and visualization
+		* Highly proficient in using R and/or Python for statistical programming
+		* Ability to produce markdown notebooks with Jupyter and/or RMD/Knitr
+		* Expertise in interpreting syntax across statistical software platforms (including, but not limited to, R, Python, SAS, Stata, and/or SPSS)
+		* Ability to explain analysis findings in clear terms that can be understood by non-technical audiences
+		* Experience producing interactive data visualizations to communicate findings (i.e. Tableau, R Shiny, Qlikview, D3.js, etc)
+		* Comfort with collaboration across a geographically distributed team
+		* Experience working with clients and managing internal and external relationships
+		* Experience working with geographic data (GIS shapefiles; desired, but not required)
+		* Familiarity with constructing SQL queries is a plus
++ skill set:
+	- GitHub helps companies, organizations, and groups of individuals succeed by allowing them to build better software, together. The engineering organization is looking for a Product Data Analyst who will report into our Data Science group and closely partner with the Product organization to provide best in class analysis and insight generation to help our product managers make better decisions, faster. You’ll also interface with our Analytics Engineering team to put your findings “into production” to ensure that our customers receive ongoing benefits from your work at scale.
+	- GitHub is an exciting place to work joining a tight-knit environment of technical and business-minded individuals. This role is an individual contributor role with significant growth potential.
+	- Responsibilities
+		* Work with Product owners to assess metric needs and turn them into relevant, synthesized consumable outputs
+		* Embed in and build business understanding across product domains leading to effective cross collaborative partnership
+		* Partner with our Analytics engineering team to develop solutions for ongoing product performance reporting that scale and reduce effort to outcomes
+		* Develop and automate reports and iteratively build dashboards to provide insights at scale, solving for on-going analytical needs
+		* Leverage relevant product data to track and inform objectives and goals with product partners
+	- Minimum Qualifications
+		* A Bachelor’s Degree in statistics, math, engineering, computer science, economics, business, or a related technical field.
+		* 2+ years prior relevant experience in an Analytics role covering product or engineering
+		* Strong intellectual curiosity and desire to understand different parts of GitHub’s product
+		* Experience translating requirements into analysis questions that can be directly actioned
+		* Expertise in writing SQL queries and working with multiple data sets to develop analytical solutions for defined business problems
+		* Experience with engineering practices around analytical rigor and the ability to make reproducible your analyses
+		* Demonstrated ability to synthesize and communicate analysis into insights that inform business decision making
+		* Demonstrated willingness to both teach others and learn new analytical problem solving techniques
+		* Demonstrated effective written and verbal communication skills
+		* Ability to lead without authority and a strong sense of responsibility
+	- Preferred Qualifications
+		* Experience conducting statistical analysis using Python / R (or equivalent)
+		* Experience developing and maintaining ETLs (Airflow experience is a big plus)
++ skill set:
+	- ClickHouse columnar databases
+	- Spring Boot
 + skill set:
 	- BLAH.
 + skill set:

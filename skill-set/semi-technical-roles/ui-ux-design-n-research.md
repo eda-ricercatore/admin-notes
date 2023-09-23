@@ -56,6 +56,18 @@ Types of interfaces:
 	- Ability to prioritize and complete multiple tasks with minimal direction, a sense of intellectual curiosity, humility, accountability, and positivity.
 	- ***High Level understanding of some of our backend technologies: GraphQL, stream processing, data analytics.***
 + skill set:
+	- You are in the process of receiving a Bachelor’s or Master’s degree in Human Computer Interaction, Interaction Design, Cognitive Psychology, Digital Media Design, and/or related fields
+	- You are interested in prototyping, designing, testing, implementing, and evaluating user experiences for web based applications
+	- You are familiar with usability heuristics and best practices in UX design
+	- You have strong prototyping skills and are able to create wireframes and process flow diagrams
+	- You are able to plan and administer usability tests
+	- You have a portfolio of work or projects that includes case studies of design that highlight your process and your role on the project
+	- Experience designing on multiple platforms (iOS, Android, Mobile web, Desktop, etc) is a bonus!
+	- Excellent oral and written communication skills
+	- Some experience with design tools (Figma, Sketch, Photoshop, Illustrator, etc.)
+	- Some experience with interactive prototyping tools (Framer, Principle, Origami, Invision Studio, etc.)
+	- Excellence in design craft
++ skill set:
 	- Distinguished Engineer-  Cloud Architect (Remote)
 	- Be part of our journey as we transform our security product offerings to be Cloud Native Solutions. This includes every product with our product portfolio; SEIM, UBA and SOAR.  All these offerings are tied together with our reinvented security operations product, Splunk® Mission Control  This enables enterprises to say goodbye to “swivel chair security. Mission Control is a unified cloud-based platform that brings together security data, analytics and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain and remediate threats — all from one place — resulting in faster, more efficient and more effective security operations.
 	- We are looking for creative problem solvers with a passion for scalable cloud-native distributed systems. As a member of the Security engineering leadership team you will be responsible for helping the various product teams with their journey to the Cloud.

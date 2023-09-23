@@ -62,7 +62,19 @@ DevOps is at the intersection of:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ###	Skill Set for DevOps
+
 
 
 Skill set for DevOps:
@@ -163,6 +175,72 @@ Skill set for DevOps:
 		* Terraform
 		* Travis CI
 		* other infrastructure/CI tools
++ Expertise with several continuous integration technologies (Jenkins, Ansible, CloudFormation, Terraform, etc.)
++ Demonstrated proficiency with Docker and container orchestration technologies (Kubernetes, ECS, etc.)
++ skill set:
+	- As a Software Engineer on the CI/CD team, you will own the build/release pipeline operation of our production, staging and development systems. You will own and develop our CI/CD tooling and infrastructure, including high-compliance services on AWS/Azure, and help us roll out new services using Kubernetes on AWS/Azure or on-premise. You will lead the way in building tooling and automation to close the feedback gaps in the CI/CD pipeline, develop new integrations with third-party services and monitor the health of our build/deploy infrastructure. You will be responsible for the performance of our test suite and will be instrumental in creating a comfortable development environment for a growing team of software engineers. You will work in close cooperation with the Cloud team to achieve these goals. You will also get the opportunity to learn the fundamentals of distributed computing. You will get to work with infrastructure that handles massive amount of scale running tens of millions of tests per day across thousands of machines.
+	- Requirements:
+		* Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+		* Software Engineer passionate about infrastructure and scale.
+		* 3+ years of experience in a DevOps/SRE/Build-Release role, preferably using Kubernetes and Jenkins.
+		* Experience with CI/CD principles, architecture and operations.
+		* Experience setting up and working with Jenkins in a containerized environment.
+		* Experience with Docker and container orchestration tools like Kubernetes, AWS ECS/EKS and (Azure) AKS.
+		* Proficiency with a scripting language to develop integrations (Python, Javascript, Groovy).
+		* Rigor in high code quality, automated testing, and other engineering best practices.
+		* Thrive in a fast-paced, dynamic environment and value end-to-end ownership of projects.
+		* Intellectually curious and open to challenges.
+	- Preferred
+		* Advanced degree in engineering, sciences or related field.
+		* 2+ years of experience working with distributed systems.
+		* 2+ years of experience with using and developing technologies like Cassandra, PostgreSQL, RedShift, DynamoDb, Elastic Beanstalk, Docker, and Amazon EMR.
+		* Strong experience with Python, Bash, Jscript and automation tools such as Chef, Puppet, Ansible, etc.
+		* Strong experience with container orchestration technologies such as Kubernetes, Docker Swarm, Mesos.
+		* Proficiency in Linux administration, configuration, and automation tools.
+		* Working knowledge of public Cloud platforms (AWS, Azure, Google Cloud Platform).
+		* Knowledge of performance benchmarking and diagnostic tools.
+		* Solid understanding and usage of observability solutions such as cAdvisor, Prometheus, Dynatrace, Splunk etc.
+		* Experience with Java, Scala.
++ skill set:
+	- worked within standard GitOps workflow
+		* branch and merge
+		* pull requests or PRs
+		* CI/CD systems
+	- DevOps via CI/CD and Docker+K8S
+	- scalable data pipelines
+	- infrastructure configuration
+		* IaC, such as Terraform
+		* cluster parameter tuning
+		* service parameter tuning
+	- data discovery tooling
+		* Amundsen
+		* Atlas
+	- determine optimal caching strategies and eviction policies
+	- approximation algorithms for high-use statistics of interest, such as approximate nearest neighbor
+	- determine approximate relaxations to deterministic compute where appropriate and leverage probabilistics data structures, such as bloom filters and count min sketch
++ skill set:
+	- Your Responsibilities:
+		* Design and develop the core authentication and authorization system components of the C3 AI Suite
+		* Research and apply identity and certificate management solutions to secure a distributed system deployed on Kubernetes (K8s)
+		* Ensure that our core foundational system components including distributed stream processing engine, distributed queuing, distributed batch processing and cluster management are secure
+		* Enable customers, partners and system integrators to securely integrate our platform into their infrastructure
+		* Shrink the overall attack surface and keep it minimal throughout continuous integration and delivery
+		* Work closely with our information security and operations teams to investigate and mitigate threats
+	- Requirements:
+		* Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+		* 2+ years of relevant experience
+		* Strong communication and interpersonal skills
+		* Systematic problem-solving approach coupled with a strong sense of ownership and independence
+		* Strong understanding of Computer Science fundamentals
+		* Experience with security in Kubernetes (K8s) and the concept of a service mesh (Istio)
+		* Proficiency with Java Cryptography infrastructure
+		* Expert knowledge of SAML and OAuth authentication / authorization protocols
+		* Proficiency in networking protocols, naming services and network trust
+		* Demonstrated understanding of TLS certificate management
+		* Demonstrated understanding of http protocol security (CORS, XSRF, etc.)
+	- Preferred:
+		* Master’s degree in Computer Science, Electrical Engineering, or related field.
+		* Proficient in Python and JavaScript
 + skill set:
 	- production level Kubernetes, Helm, and Terraform experience
 		* Helm
@@ -188,6 +266,12 @@ Skill set for DevOps:
 		* Tracing
 			+ https://en.wikipedia.org/wiki/Tracing_(software)
 + Automate continuous delivery pipelines for fast and reliable updates
++ skill set:
+	- Implementing infrastructure automation, metric collection, and impactful reporting to make data driven decisions.
+	- Modern monitoring, metrics, and alerting using open source tools.
+	- Improving and developing processes and best practices, maintaining documentation of the development environments.
++ Maintaining awareness of internal GitHub initiatives, the direction of the Source Control Management (SCM) industry, and trends in global developer collaboration tools and techniques.
++ Knowledge of Source Control Management (SCM) tools and workflows
 + skill set:
 	- Systems Engineer / DevOps
 	- Hive is the leading provider of cloud-based AI solutions for content understanding, trusted by the world’s largest, fastest growing, and most innovative organizations. The company empowers developers with a portfolio of best-in-class, pre-trained AI models, serving billions of customer API requests every month. Hive also offers turnkey software applications powered by proprietary AI models and datasets, enabling breakthrough use cases across industries. Together, Hive’s solutions are transforming content moderation, brand protection, sponsorship measurement, context-based ad targeting, and more.
@@ -224,6 +308,31 @@ Skill set for DevOps:
 		* Logging/Search - ELK Stack
 		* AWS: VPC/EC2/IAM/S3
 		* Networking: TCP / IP, ICMP, SSH, DNS, HTTP, SSL / TLS, Storage systems, RAID, distributed file systems, NFS / iSCSI / CIFS
++ skill set:
+	- Monitor stack health for issues with reliability, performance, durability, and security, maintaining our zero-downtime standard
+	- Implement tooling across our AWS infrastructure and services to identify and remove bottlenecks
+	- Develop our infrastructure-as-code initiative to ensure all environmental changes are tested, audited, and reproducible across environments and stacksImplement
+	- Docker containers and container management to support out-of-the-box deployment of applications across environments
+	- Manage CI and CD tools in coordination with the software engineers
+	- Research and promote new DevOps tools to simplify processes and identify opportunities for improving existing processes or implementing new process automation
+	- Handle production and non-production support issues as they arise
+	- Participate in a 24/7 on-call rotation
+	- Maintain and test Disaster Recovery procedures
+	- Manage penetration testing, vulnerability testing, and web application scanning
+	- Represent DevOps during design and development of software or extensive revisions to existing applications
+	- Support the sales team in completion of security & architecture questionnaires
+	- Organize, conduct and own follow-up action items for Root Cause Analysis meetings
+	- Deep knowledge of AWS services, including ALB, CloudFormation, CodeBuild, CodePipeline, ECS, IAM, Lambda, RDS, Route53, S3, and SSM
+	- Expertise with an automation framework such as CloudFormation, Ansible, Chef, Salt, or Puppet
+	- Strong background in administering Linux, including Apache/Nginx web services
+	- Strong scripting skills (Bash, Python) with the ability to develop ad hoc tools
+	- Knowledge of networking concepts (Firewalls, Network ACLs, HTTP, DNS)
+	- Experience with Infrastructure
+	- Monitoring using tools such as Datadog, NewRelic, etc
+	- Experience working with AWS CodeBuild, CodePipeline, Jenkins, Concourse or other build automation tools
+	- 5+ years of relevant experience
+	- Experience with Git and GitHub for version control
+	- Strong interest in higher education, startups, and/or SaaS technology
 + skill set:
 	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
 	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for the deep learning workload.
@@ -1619,6 +1728,32 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
 	- 12+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
 	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
++ skill set:
+	- GitHub is seeking software engineering professionals to join its new SRE team. As a valued member of our close-knit team, you will bring your passion for building fault tolerant systems and reliable software to help us steward reliability as a feature throughout the organization. Your work will help us scale the world's largest code hosting platform.
+	- Our charter is broad but our focus is to improve the availability, resilience, and sustainability of GitHub's products. We do this through architecture, technology, process, and partnerships with product teams.
+	- Our SRE team is highly distributed; our work environment is one of remote work, asynchronous communication, trust, and respect. Through your strong written communication and software skills, you will develop meaningful working relationships with coworkers from around the globe.
+	- The SRE role at GitHub is an opportunity to blend your system design, empathy, and software engineering skills on an ever-changing set of novel reliability challenges. Join us on this journey and have a meaningful impact on how the world builds software.
+	- Responsibilities:
+		* Exert technical influence to improve the reliability of our products and systems
+		* Develop and maintain infrastructure products and software automation
+		* Integrate with third-party solutions where it makes the most sense.
+		* Work closely with our observability and chaos engineering teams.
+		* Cultivate GitHub's open source projects and build things you are proud to share.
+		* Steward reliability as a feature across the organization through concepts such as SLOs and service maturity.
+	- Minimum Qualifications:
+		* Comfort with the GNU/Linux operating system.
+		* Experience with distributed systems with high availability requirements.
+		* Exposure to system-level languages such as Go or C/C++.
+		* Familiarity with configuration management software such as Puppet, Ansible, or Salt.
+		* Familiarity with infrastructure services and sidecar patterns.
+		* Experience balancing the service reliability, sustainability, and technical debt for services running at scale.
+	- Preferred Qualifications:
+		* Experience with highly available systems at scale.
+		* Experience building infrastructure and automation.
+		* Experience negotiating SLIs, SLOs, and SLAs with product owners.
+		* Success in a remote work environment.
+		* Incident response and/or incident management experience.
+		* Exposure to CNCF projects such as Kubernetes or Prometheus.
 + skill set:
 	- Site Reliability Engineer (Stack Automation Service Team)
 	- Splunk's Cloud group is looking for an experienced Site Reliability Engineer to join a team that is responsible for Cloud’s operational infrastructure and delivery. As a member of the Stack Automation Service team, you will be responsible for maintaining and troubleshooting Splunk's SaaS system, monitoring system stability and performance, troubleshooting complex problems, performing Amazon instance maintenance and system upgrades, and managing Amazon server/storage deployments, all while collaborating with various other Splunk Cloud teams. This is a fantastic opportunity to work with an exceptional team, grow your cloud experience, and help drive the growth of Splunk Cloud.

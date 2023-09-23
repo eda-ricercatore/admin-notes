@@ -512,6 +512,12 @@ Sets of skills for autonomous road vehicles:
 	- Knowledge of robotics concepts and tools (ROS)
 	- Understanding of and ability to implement machine learning methods, particularly for applications in autonomous vehicle decision making and prediction
 	- Experience in production C++ development
++ skill set:
+	- Familiarity with at least one of the following areas:
+		* Deep learning for computer vision
+		* Camera tracking (SLAM, VIO) and self-localization
+		* Object detection and model-based tracking
+		* 3D reconstruction and semantic scene understanding
 + tech stack:
 	-  Solid knowledge in control theory, especially model predictive control
 	- Experience in one or more of the following areas:

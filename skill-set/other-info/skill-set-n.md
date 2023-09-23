@@ -775,6 +775,145 @@ Other technologies of interest:
 
 
 
+###	Skills Mentioned in the 2021 Stack Overflow Developer Survey
+
+
+
++ skill set:
+	- From https://meta.stackoverflow.com/questions/407253/review-our-languages-and-platforms-for-dev-survey-2021
+	- Reference:
+		* Stephanie, Ivar, Julien, bad_coder, Yatin Aditya Tekumalla, "Review our languages and platforms for Dev Survey 2021," Stack Exchange Inc., New York, NY, May 1, 2021. Available online from Stack Exchange Inc.: Stack Overflow: Questions at: https://meta.stackoverflow.com/q/407253/1531728 and https://meta.stackoverflow.com/questions/407253/review-our-languages-and-platforms-for-dev-survey-2021; May 4, 2021 was the last accessed date.
+	- Programming, scripting, and markup language:
+		* Assembly
+		* Bash/Shell/PowerShell
+		* C
+		* C#
+		* C++
+		* Dart
+		* Go
+		* Haskell
+		* HTML/CSS
+		* Java
+		* JavaScript
+		* Julia
+		* Kotlin
+		* Objective-C
+		* Perl
+		* PHP
+		* Python
+		* R
+		* Ruby
+		* Rust
+		* Scala
+		* SQL
+		* Swift
+		* TypeScript
+		* VBA
+	- Database environments:
+		* Cassandra
+		* Couchbase
+		* DynamoDB
+		* Elasticsearch
+		* Firebase
+		* IBM DB2
+		* MariaDB
+		* Microsoft SQL Server
+		* MongoDB
+		* MySQL
+		* Oracle
+		* PostgreSQL
+		* Redis
+		* SQLite
+	- Cloud Platforms:
+		* AWS
+		* DigitalOcean
+		* Google Cloud Platform
+		* Heroku
+		* IBM Cloud or Watson
+		* Microsoft Azure
+		* Oracle Cloud Infrastructure
+	- Web framework/libraries:
+		* Angular
+		* Angular.js
+		* ASP.NET
+		* ASP.NET Core
+		* Django
+		* Drupal
+		* Express
+		* Flask
+		* Gatsby
+		* jQuery
+		* Laravel
+		* React.js
+		* Ruby on Rails
+		* Spring
+		* Symfony
+		* Vue.js
+	- Other frameworks, libraries:
+		* .NET
+		* .NET Core
+		* Apache Spark
+		* Cordova
+		* Flutter
+		* Hadoop
+		* Keras
+		* Pandas
+		* React Native
+		* TensorFlow
+		* Torch/PyTorch
+	- Tools:
+		* Ansible
+		* Chef
+		* Puppet
+		* Node.js
+		* Terraform
+		* Kubernetes
+		* Docker
+		* Unity 3D
+		* Unity Engine
+		* Xamarin
+	- Development environments:
+		* Visual Studio Code
+		* Visual Studio
+		* Notepad++
+		* IntelliJ
+		* Vim
+		* Sublime Text
+		* Android Studio
+		* Eclipse
+		* PyCharm
+		* Atom
+		* IPython/Jupyter
+		* Xcode
+		* PHPStorm
+		* NetBeans
+		* Emacs
+		* RStudio
+		* RubyMine
+		* TextMate
+	- Primary operating systems:
+		* Linux-based
+		* Windows
+		* MacOS
+		* BSD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###	Skills Mentioned in the 2020 Stack Overflow Developer Survey

@@ -869,7 +869,44 @@ reactive programming = asynchronous dataflow programming
 	- Experience in communicating with business stakeholders, users and other technical teams to envision and deliver innovative solutions
 	- A track record of personally delivering working software
 + skill set:
-	- BLAH.
+	- You Are a Great Fit If:
+		* You have experience building mission-critical, reliable, and performant systems.
+		* You enjoy leading a high-level architecture discussion one moment, and then translating that discussion into reliable production code the next.
+		* You prize the quality of the software that you write. You rigorously test and document software intended for production use, follow common language conventions and well-known patterns, and rely heavily on automation for testing and deployment.
+		* You know how to design an API to avoid breaking changes, and how to migrate clients when it can’t be avoided.
+		* You are knowledgeable about non-trivial parts of service design, such as distributed authorization, error handling, pagination, and versioning.
+		* You are versed in best practices for tracing, monitoring, and logging for distributed services.
+		* You work independently and are comfortable leading the design and implementation of a software package or service from high-level requirements.
+	- Key Qualifications:
+		* Fluency in all or most of Golang, Python, React, and SQL
+		* Deep experience building and maintaining schema-driven, widely accessible web APIs (OpenAPI, GraphQL, gRPC/Protobuf)
+		* Experience building and maintaining client-side SDKs and/or web frontend applications
+		* Experience architecting, building, and deploying microservice architectures
+	- Bonus Points If You Have:
+		* Experience with deploying in Kubernetes and/or service mesh architectures
+		* Experience with streaming systems (e.g. Kafka, Kinesis)
+		* Experience in programming language and/or compiler development
+		* Academic background in Computer Science, Electrical Engineering, or Physics
+		* Knowledge of quantum computing and applications
++ we currently use Python, OCaml, Javascript (client and server side), Erlang/elixir, Kotlin, and a bit of C++, and we’re open to using new languages and/or technologies
++ experience with Protobuf, Docker, Python, Mysql, and Rabbitmq is a plus
++ the ability to architect and build complex single page applications with Typescript and React/Redux
++ skill set:
+	- understanding of database systems (postgres, Cassandra, CockroachDB)
+	- understanding of AWS (S3, SQS, etc), terraform + Kubernetes
+	- Golang a must, C++ and Python a nice-to-have
+	- CI/CD (Jenkins, docker/containers), GitHub, unix command line tools
+	- What you’ll do:
+		* add new features to existing services.
+		* design and build new services that add customer value
+		* improve stability and monitoring of existing workflows
+		* work with services running in concert at large scale (tens of billions of documents, trillions of keys, millions of submissions daily, etc)
+	- What we are looking for:
+		* desire to solve complicated problems in elegant/graceful ways
+		* strong work ethic, “self-starter”, endless improvement, never give up
+		* easy to work with, good communicator, doesn’t take himself/herself too seriously, able to take feedback.
+		* willing to jump into things are figure it out along the way
+		* straight up, no-nonsense, no-politics
 + skill set:
 	- BLAH.
 + skill set:
@@ -898,6 +935,8 @@ reactive programming = asynchronous dataflow programming
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -916,7 +955,7 @@ reactive programming = asynchronous dataflow programming
 
 
 
-##	Back-end Web Development, or Server-side Scripting
+##	Back-end Web Development, Server-side Scripting, or Microservices
 
 
 
@@ -978,6 +1017,25 @@ reactive programming = asynchronous dataflow programming
 	- PTO awarded for being part of the on call rotation
 	- Regular Unstructured Development Time to investigate new technologies that would benefit you and your team
 	- Working with the latest versions of Ruby and Rails. No legacy Ruby 2.3 or Rails 4.2 apps here.
++ skill set:
+	- You will play a meaningful role in one of our agile teams - designing, building, deploying and maintaining the team's deliverables with respect to the full lifecycle of our new data analytics offerings. You will work closely in with other teams in their related journeys.
+	- As an experienced engineer you will help to drive continuous improvement in practices and improve the team’s ability to take on bigger challenges.
+	- You will gain exposure to a wide range of our software modules and the technologies backing them, e.g. cloud, microservices, database, data lakes, cloud warehouses, pipelines. Key technologies we currently use include: AWS, Kubernetes, Kafka, Snowflake, Java, Terraform, React, MongoDB, Oracle
+	- What we’re looking for in you
+		* Passion for writing and maintaining high-quality software
+		* An understanding of how to build and support large scale distributed systems and handle issues that arise
+		* Strong skills in data acquisition, pipeline and data storage/lake technologies
+		* Cloud experience (we use AWS and Kubernetes)
+		* Experience with at least two programming languages, e.g. Python, Scala, Java
+	- The following would be beneficial:
+		* Experience with DevOps and Infrastructure as code (e.g. Terraform)
+		* Experience using lean and agile practices in a regulated environment
+		* Experience with Tableau or similar BI tools such as PowerBI
+		* Experience with Spark, Airflow or similar
+	- What you’ll get in return
+		* Working in a multi-functional, team-based environment, our culture is enabling and engaging
+		* You’ll be exposed to a range of technologies with the opportunity to expand your experience and expertise
+		* IDBS has the camaraderie of a small company, but the security of a global employer, we offer flexible career paths, exciting work, and the opportunity to both learn from others and share your experiences.
 + skill set:
 	- We are actively looking for an experienced Platform Software Engineer and Java, C++, Python software engineers to join our team on a Machine Learning developer tools software project. This role requires experience identifying and/or developing and integrating technology components for local/cloud Machine Learning development tools platform that includes rich visual development ML-based intelligent agents. Must be able to work with Agile product delivery team. Effective communicator who can collaborate with architects, Front End developers, and User Experience designers to produce necessary documentation based on the code created.
 	- Analyze, design, and develop the platform components.
@@ -1232,6 +1290,45 @@ reactive programming = asynchronous dataflow programming
 	- AWS, GCP, Azure, Kubernetes
 	- Solid understanding of Splunk products
 	- 10+ years of experience with a BS EE or CS degree, or equivalent training or work experience
++ skill set:
+	- In this role you will not only be a technical leader paving the pathway to success for GitHub's customers, but also the catalyst of positive transformation, applying GitHub's world class approaches founded on our Values. Furthermore, you will collaborate with internal teams at GitHub and help deliver world-class solutions to customers by bridging the gap between GitHub's customers and GitHub's engineering teams. You will understand GitHub customer goals and will work with your teams and customers to create tailored scalable solutions.
+	- The team manager will apply Management Fundamentals to help the team learn and grow in their career, be a pillar of technical fortitude, and to provide our customers with amazing experiences.
+	- Expectations
+		* As a primary component of this role you will need to maintain an advanced expertise in git
+		* It is a core expectation that you are comfortable in the topics and details of Pro Git
+		* You will need to reach and maintain expert level knowledge of the GitHub API, knowing how to leverage the product to effectively address customer challenges and find solutions
+		* While software development is not a core attribute of the role, the development of scripts, CI/CD pipelines, and GitHub Apps is a large component of the work
+		* Knowledge of the Rest API is necessary for creating solutions
+		* Knowledge of the GraphQL (v4) API is necessary for creating solutions
+		* You will need to have the ability to troubleshoot virtual machines in various cloud environments
+		* GitHub Enterprise Server is a core product that many of our customers use. You will need to learn and maintain expertise in the architecture and maintenance of the GitHub appliance to assist with troubleshooting
+		* You will work with various architectures for the GitHub appliance, including clustering, and high availability
+		* You will be a thought leader and operate with a proactive mindset to help deliver solutions beyond customer expectations
+		* You will help customers understand and plan adoption of new GitHub Product features and updates, such as GitHub Enterprise Server major/minor releases, either through discussion or demonstration
+		* You will learn new ***GitHub Product features***, such as ***Actions, Pull Panda, Semmle***
+		* You will work very collaboratively with Solution Architects, Implementation Engineers, and internal product teams, as well as our customers to understand the customer needs and to deliver tailored solutions for customers
+		* You will need the ability to weigh the tradeoffs of technology choices, and provide detailed actionable plans
+		* You are expected to be an expert in the area of software delivery through modern practices
+		* Your communications to our customers will be delivered in the context of a GitHub expert, with little to no ambiguity in solutioning and/or prescription, is in a tone that uses the GitHub Voice and Tone, and is technically consistent as if it were answered by any GitHub internal team (such as Sales, Support, Engineering, Product, etc)
+		* You will collaborate with GitHub internal teams if you are unable or unsure of a proper answer that is either out of your technical expertise or in the scope of another team
+		* You will work with the Engagement Manager on the how of the delivery, especially with more complex solutions and projects
+		* You will work with the Engagement Manager to have detailed follow up describing what was accomplished
+		* You may visit customers onsite per Statement of Work criteria during various stages of the customer lifecycle
+	- Expectations for GitHub
+		* You will understand and apply GitHub's Values and the guidelines in our Handbook
+		* You will complete and provide a monthly engagement report in collaboration with the Solution Architect team manager for consumption by both our internal GitHub teams and by our customers
+		* You will use our internal channels to continuously keep your customer's Sales and Solution Engineer team members up-to-date on status of the engagement
+		* You will participate in conversations with the Professional Services team to progress technical and other learning knowledge in our team channels
+		* You will be conscious of open sourcing and teaching about solutions delivered to your customers that can be adapted for other Professional Services provider engagements
+		* You will actively participate in Professional Services team discussions and attend team meetings, reasonably considering your time zone, current travel, and OOO activities
+		* You listen for opportunities to improve team operations, either technical or process oriented, and contribute where possible to iterate on these improvements
+	- How Success Is Measured
+		* It is important to note this also should include your own personal goals, career aspirations, and a focus on your health and sustainability. Always know you can reach out to your manager or another Hubber if you need help with achieving or aligning. We want you to feel supported, be happy and have a healthy/sustainable experience. We are excited to have you as part of the team, and want you to feel the same way.
+		* Weekly 1:1s are held and used to chat about anything, and optionally everything! Notes are posted in the private repositories. We can also use the cadence to re-visit measurement of success. A great way to accomplish this can be asynchronously in 1:1 issue comments.
+		* Success from the customer perspective: You accurately know and can articulate the pulse of the customer, and they have a satisfactory/exceptional view of their Services engagement
+		* Success from GitHub's perspective: Our Sales team can quickly understand the status of the engagement(s) you are leading. Data exists or can be provided when a GitHub stakeholder would like a deeper understanding of the engagement
+		* Success from the team manager's perspective: You are meeting or exceeding the expectations defined in this document and reach out for help when needed
+			+ The team manager should provide a Product Owner perspective on team objectives, strategy, and provide resources and guidance on completing OKRs.
 + skill set:
 	- Experience with the Hashicorp stack, specifically Vault (cross-platform password manager and authentication tool).
 	- Experience with infrastructure services such as LDAP, SSH, VPN, HTTP proxies, etc.
@@ -1799,6 +1896,7 @@ reactive programming = asynchronous dataflow programming
 				- AWS CodePipeline
 				- https://aws.amazon.com/codepipeline/
 				- https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html
+					* "AWS CodePipeline is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software. You can quickly model and configure the different stages of a software release process. CodePipeline automates the steps required to release your software changes continuously."
 				- https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome-what-can-I-do.html
 				- https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome-introducing.html
 				- Automate continuous delivery pipelines for fast and reliable updates
@@ -1831,6 +1929,88 @@ reactive programming = asynchronous dataflow programming
 		* You are supportive and encouraging by nature, strive to be the best version of yourself and lift those around you up.
 		* Working in a team comes natural to you, you are easy to work with and value others' input.
 		* You are ambitious and want to make a difference where you work. You are eager to contribute to a positive and productive work environment.
++ skill set:
+	- GitHub is seeking a Solution Architect for our Professional Services Delivery team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Solution Architect you will impact the lives of developers by working with some of the largest companies in the world by crafting many aspects of software delivery. You will help our customers plan, prioritize, launch, and accelerate their initiatives in building on GitHub. This role will be based in the Central US region.
+	- You will succeed in this role if you are a highly technical individual who feels as comfortable working with tech leaders to map out software delivery initiative roadmaps as you do writing code. You will work with customers from the planning phase through maintaining the system. You will be their primary technical contact at GitHub and establish relationships with admins and their tech leaders. This can be a remote position.
+	- The Solution Architect will be responsible for the following:
+		* Serve as the primary owner of customer deliverables over long-term engagements
+		* Provide technical contribution and facilitate development with the broader Services Delivery team
+		* Participation in customer pre- and post-sales scoping calls, and ongoing, recurring collaboration with customers
+		* Frequent calibration of customer success criteria and providing proactive, creative attention on their priorities
+	- Responsibilities:
+		* Be the primary point of contact and trusted advisor in a technical capacity for customers
+		* Help transform software delivery at some of the largest organizations through hands-on assistance
+		* Demonstrate leadership in owning the development and delivery of adaptive solutions
+		* Proactively seek out new GitHub enhancements and provide demonstrations/adaptive tooling
+		* Managing customer success criteria, understand the pulse of the customer, and providing an exceptional experience with GitHub
+		* Build customer business artifacts, such as company-specific roll-out plans and timelines
+		* Work closely with the Engagement Manager to field customer questions and requests for services
+		* Study reference customer cases for concepts to apply for specific customer scenarios
+		* Track and share progress with GitHub and our customer to ensure expectations are clear and progress is being made
+		* Discover issues that arise and create plans to solve their problems
+		* Be on constant watch for process improvements
+		* Seek out automation opportunities for repetitive tasks
+	- Qualifications:
+		* Deep experience with GitHub to deliver software
+		* A strong understanding of IT infrastructure, governance, compliance and business process management
+		* Interest in working creatively with customers to understand technical and business requirements
+		* A demonstrable comfort in both facilitating and developing solutions
+		* Aptitude to proactively engage customers with aspirational and recommended technical deliverables in a self-driven manner
+		* Implement and test solutions based on requirements and customer feedback
+		* An understanding of several of these methodologies and tools:Software development methods such as Agile, Scrum, Lean, Waterfall
+			+Software project tools like JIRA, Pivotal Tracker, Trello, Asana, and MS Project
+			+ Continuous integration and build automation with Jenkins, TeamCity, TFS, TravisCI, CircleCI
+		* Experience configuring the following technologies:
+			+ LDAP, ActiveDirectory, and other SAML/Single-Sign-on services
+			+ VMware vSphere, ESXi, AWS, Azure, GCP, and other virtual infrastructure tools
+		* Demonstrated ability to connect with people, lead client projects, and help clients solve problems with GitHub
+		* Strong ability to cheerfully handle client expectations and project scope during all stages of a client engagement
+		* Superb written and verbal communication skills
+		* Self-motivation, energy, and enthusiasm
+	- A more human note about this role:
+		* This role is critical for our customers and GitHub. We would love your help to continue to assist customers in accomplishing their goals and making a positive impact in their company. We have seen how impactful a Solution Architect can be at GitHub. We hope you will join our team as we work with our customers to achieve their vision with the GitHub platform.
++ skill set:
+	- The Internet Archive is a non-profit with a huge mission: "Universal Access to All Knowledge". Based in San Francisco, CA, with satellites around the world, Internet Archive staffers are building the digital library of the future - a place where anyone can go to learn and explore our shared human experience from books, web pages, audio, television and software. Forever.
+	- The Internet Archive is seeking a Senior Software Engineer for its Archive-It Group. The Archive-It team is responsible for maintaining a web application which automates high quality captures of content from the web. An ideal candidate demonstrates independence and initiative, is a problem solver, works well autonomously, has deep experience on the Unix/Linux command line and broad experience in systems architecture. Additionally, the ideal candidate is open to helping advance the state of preserving web-published content, working on the platform which drives a large portion of global web capture.
+	- The successful candidate will work in the Archive-It Group in support of building and maintaining high quality software for the collection, preservation, and accessibility of web content. The role will help design and implement the future of a toolset and APIs which automate web capture using open source technologies and platforms. An ideal candidate is interested in developing harvest techniques and tools to enable archival capture and re-rendering of rich media, streaming content, social media, as well as traditional web page content. This role contributes to defining deployment  architectures and workflows, managing data at scale, and monitoring production systems.
+	- Essential Job Functions:
+		* Contending with the complexity of a suite of tools that capture web content accurately at the micro and global scale with equal accuracy
+		* Configuration, maintenance and improvement of web crawling tools
+		* Contribute to the development of a distributed python-based database used for crawl material deduplication, analysis and reporting.
+		* Demonstrated experience of delivering on commitments with deadlines and project time lines and working in a collaborative team of engineers and project/product managers.
+	- Minimum Qualifications:
+		* Strong experience in Unix shell scripting and Python coding required
+		* Strong experience with python, bash, java, and C-based debugging tools strongly preferred
+		* Solid experience in Internet protocols (HTTP is must.) Strong knowledge of HTML, JavaScript and Web technologies in general
+		* Knowledge of building and deploying web applications, databases, web-host services, and Linux system administration
+		* Ability to work in, and enjoy, a loosely structured work environment
+	- Preferred Qualifications:
+		* Cluster computing experience is preferred, especially familiarity with Hadoop and related technologies and tools
+		* Experience working with Javascript and HTML in a large-scale application preferred
+		* Experience or familiarity with Java preferred
+		* Experience with applications designed to display archived web content
+		* Experience with development environments and system monitoring/administration tools
+		* Experience with open source practices, version control, and code review
+		* Experience with Atlassian tool sets
+		* Flexibility and a sense of humor are a plus
+		* Bachelor's Degree in Computer Science or a related field, five years of progressively responsible experience in software development.
+	- Reporting Structure: The Senior Software Engineer reports to the Engineering Manager for Archive-It and works closely with other departments. The position works alongside other web archiving engineers as well as program staff in Web Archiving & Data Services Group and with the broader Internet Archive infrastructure and engineering teams.
++ skill set:
+	- As a Senior Backend Web Engineer working on the Monetization team, you will be responsible for all things virtual economy at Roblox, from purchasing and selling virtual items to the real time bidding of advertising slots. The Monetization team maintains a virtual marketplace that handles over 4 million transactions a day. The team provides the infrastructure and statistics to empower developers to monetize their games, with our top developers earning millions of dollars each year.
+	- Experienced with a Bachelor’s degree (or equivalent professional experience) in Computer Science or related engineering field with at least 5 years of hands-on experience.
+	- A Solid programmer with demonstrable skills with compiled languages such as C#, Java, C++, or others.
+	- Proven at scale: you’ve designed and implemented large-scale distributed microservices architectures and have experience with Memcached, Redis, or other caching technologies.
+	- Proficient with Microsoft SQL Server, MySQL, PostgreSQL or other database technology at scale.
+	- ***Practiced with noSQL technologies such as DynamoDB, MongoDB or others.***
+	- ***Knowledgeable about search technologies such as Elasticsearch or Solr.***
+	- ***Focused on writing clear, readable, testable, and monitored code.***
+	- Have a direct impact on the future direction of the largest social platform for play, delivering groundbreaking solutions that will enable our development teams to localize Roblox for a global community of over 60 million monthly active players.
+	- Develop services by which our community of creators on the platform can internationalize their games, whether manually, crowdsourced, or automatically via machine translation.
+	- Build core internationalization and localization tools and infrastructure, which will be used by all engineering teams within Roblox.
+	- Design and build backend services to handle real-time machine translation of user communication.
+	- Serve as a tech lead for the team and mentor junior engineers.
+	- Play an active role in recruiting future talent for the team.
++ GraphQL, Docker, Hashistack, Traefik, HUbot, InfluxDB
 + skill set:
 	- BLAH.
 + skill set:

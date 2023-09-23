@@ -151,6 +151,53 @@
 + Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
 + Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 + Knowledge of routing protocols such as BGP and OSPF
++ Experience with network technologies like DNS, AWS security groups, VPCs, etc.
+	- VPC: virtual private cloud
++ Experience with load balancing technologies such as ELB, NGINX, etc.
++ skill set:
+	- As a Network Engineer you will be responsible for the design, implementation, and support for the network within the OVHcloud environment.  You will be required to understand application and hardware points of failure, performance characteristics and have the ability to identify actionable items to maintain an acceptable service level for all associated environments and applications.  You will be required to participate in an on-call rotation and serve as top-level support for network related issues. 
+	- Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.
+	- Execute or implement simple, automated and scripted changes or infrastructure requests.
+	- Troubleshoot and provide customer support for technology and infrastructure issues.
+	- Document and update incident technical details into ServiceNow/Jira ticketing system.
+	- Escalate issues to Tier III support if unable to resolve through initial triage and troubleshooting.
+	- Execution of standard operational processes which involve technology and client interfaces.
+	- 1-2 years of hands on enterprise network operations support experience
+	- CCNA certification required
+	- Intermediate understanding of OSI model and troubleshooting of technology related issues
+	- Intermediate understanding of network protocols (to include but not limited to): OSPF EIGRP BGP MPLS RSTP STP HSRP VRRP VRF VTP DHCP DNS CDP LLDP ARP FTP TFTP
+	- CCNA level knowledge and experience (at least 1yr)
+	- Able to work well in a fast-paced environment and be comfortable in stressful situations
+	- Can effectively communicate with both management as well as non-technical personnel on any technology issue to ensure they understand the nature of the issue and current statue easily understood on any outage conference calls
+	- Detail oriented self-motivated goal driven
+	- Intermediate familiarity with Cisco IOS, Nexus NX-OS and IOS-XR
+	- Knowledge of the following is preferred:
+		* Network product: Arista
+		* Virtualization network knowledge: VxLan
+		* Scripting: Python, Perl
+		* Devops: Linux, Github, bastion
+		* Security knowledge: firewall, VPN
+		* Load balancer
++ skill set:
+	- GitHub is looking for engineers to join the Traffic Engineering team within our larger Data Center Engineering organization. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our edge and internal traffic and service load balancers, design and implement DDoS mitigation systems, and help improve end user performance through expanding our global network.
+	- The Data Center Engineering team is highly distributed and you will thrive in an environment of remote work and asynchronous communication. You're expected to have strong written communication skills and be able to develop working relationships with coworkers in locations around the globe.
+	- As an engineer at GitHub you'll always be challenged to solve interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Design and implement global traffic management and DDoS mitigation systems with stringent availability requirements.
+		* Build and maintain critical network systems spanning thousands of nodes across multiple regions to support GitHub’s global infrastructure.
+		* Cultivate open source projects developed by GitHub and build things you are proud to share.
+		* Work closely with networking and facilities teams to design and support our global data center presence.
+	- Minimum Qualifications:
+		* Experience building and managing large clusters of Linux servers with configuration management and infrastructure as code, such as Puppet, Chef, Ansible, or Salt and Terraform.
+		* Standard web protocols and systems should be second nature to you, such as TCP, HTTP, TLS, DNS, CDNs, load balancers.
+		* Proficiency in high-level languages such as Ruby, Python and Bash.
+		* Experience diagnosing and resolving performance problems at the intersection of software and hardware.
+		* You take a pragmatic approach to decision making and design choices.
+	- Bonus Qualifications:
+		* Familiarity with systems languages such as C/C++ or Go.
+		* Experience with network technologies such as BGP, or work with network configuration on Arista EOS and/or Juniper Junos.
+		* Experience operating services in physical data centers and the public cloud, or multiple public clouds.
+		* Experience at a large content provider or content delivery network.
 + skill set:
 	- NVIDIA Research is seeking extraordinary networking innovators to join our NVResearch team. In this role, you will contribute to the development of future high-performance and embedded computing systems. You will need a great background of research excellence in building systems and a deep understanding and broad perspective across the fields of computer architecture and communication systems for distributed computation. NVIDIA has pioneered programmable GPUs and the CUDA language, and this visionary Research team will take those technologies to the next level with its creative ideas and new inventions. This position offers you the opportunity to have a real impact while working with some of the most creative and forward-thinking people in the world who are here at this dynamic, technology-focused company.
 	- This role requires the person to conduct creative and innovative research in networking and associated technologies. Positive impact to NVIDIA’s business is the key measure of success. This requires:
@@ -166,6 +213,50 @@
 	- Experience with experimental computer architecture development and evaluation
 	- Experience with C, C++, and scripting languages
 	- Deep understanding of technology and passionate about what you do
++ skill set:
+	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO). OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on exploring synthesis of code from documentation.
+	- Here is some more detail on that initial project - it is just an example of more such projects in future. Recent advances in machine learning models for source code indicate that it is possible to synthesize code just from the signature and docstring of a function. Often better synthesis results are possible by also specifying an example to test synthesized candidates. We’d like to explore how to integrate this functionality into CodeSpaces, so that users can browse alternative solutions synthesized by the model. We’d also like to consider other user experiences for the same functionality, for example in an automated assistant for novice developers.
+	- Responsibilities:
+		* Design and build user interfaces as outlined above, and experiment with new ideas to embody the new code synthesis technology.
+		* Collaborate with early adopters and machine learning experts on improving both the underlying technology and the way users interact with the synthesizer.
+		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
+	- Minimum Qualifications:
+		* Ability to quickly create innovative user interfaces and new user experiences.
+		* 5+ years experience in creating frontends in production
+		* Inclination to prototype quickly and make fast decisions on experiment failure.
+		* A creative mindset and good practical skills are more important than formal experience.
+	- Preferred Qualifications:
+		* Experience with user interface design, especially for developer tools.
+		* Proven track record of working with early adopters to refine initial designs.
+		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
+		* Interest in modern AI technologies and their use in developer tools.
++ skill set:
+	- GitHub has changed the way software is built. While GitHub-the-product must deliver immediate value to software engineers, we also have a unique opportunity to look farther ahead and identify how to make software development faster, safer, easier, and more accessible.
+	- This is the mission of GitHub’s Office of the CTO. We research the current state of software engineering to understand what can be improved, and illustrate the future through working prototypes. We’re looking for talented polymaths to join us!
+	- You’ll work with a small team of researchers to explore the future of software development in order to guide GitHub’s product and engineering decision-making. Your north star is ensuring that GitHub remains at the heart of software development. Your secondary goal is to project GitHub’s technical prowess — our published work should be inspirational, insightful, and informative to developers everywhere.
+	- Responsibilities:
+		* Research Engineers conduct investigations and build prototypes. With few constraints on our solution space, our hardest task is scoping our research so that we are able to produce impactful results. We will have an order of magnitude more ideas than we are able to pursue; choosing wisely is part of the job.
+		* The domains of exploration are varied and will require an ability to understand, investigate, and implement prototypes across a wide range of technologies.
+		* We do not work with production GitHub systems; our focus is on innovation and velocity. If we do our jobs well, we provide a map of the territory that de-risks engineering projects. From time to time, we may be called upon to investigate specific, high-priority topics.
+	- Minimum Qualifications:
+		* These are the general qualities that candidates must possess in order to succeed in this role.
+			+ Comfortable identifying and justifying research goals in situations of ambiguity, and executing towards those goals without explicit direction.
+			+ Finds ways to build prototypes that clearly articulate a thesis to others. Able to prototype quickly and evaluate ideas strategically.
+			+ Is an effective and inclusive communicator, comfortable with remote communication practices. OCTO’s currency is ideas; the health of our team, our execution, and our results rests on our ability to communicate well.
+			+ Able to collaborate with members of OCTO and the broader GitHub Engineering community to identify fruitful areas of investigation, inform OCTO’s point of view on issues/opportunities, and define projects to enhance our understanding of these topics.
+			+ Comfortable managing interactions with stakeholders around timelines and milestones. Proactive, consistent communications are key to our working relationships, and a good guardrail against rabbitholes.
+			+ 5+ years of experience writing and shipping software. This is a senior engineering role! That said, we are not primarily looking for raw coding ability. Experience is about more than your ability to write code and debate the finer points of $LANGUAGE_FEATURE.
+			+ Are a generalist with some areas of deeper knowledge. We will also consider candidates who have specialized in a relevant field.
+	- Preferred Qualifications:
+		* These are more specific abilities we’re looking for, but it is the rare human who possesses them all. Think of this as a descriptive sketch, not a checklist of requirements. Be comfortable applying even if you don’t have all of them.
+			+ A deep understanding of GitHub’s industry and business context, and the ability to be articulate about topics related to our product and audience.
+			+ Has held roles that deal with topics at the boundary of human knowledge regarding software development and developers.
+			+ A demonstrated ability to ship software using a variety of technology stacks. You are not afraid to read source code. You are comfortable picking up new technology stacks in the normal course of work.
+			+ Have significant experience with one or more frontend technologies. We currently default to Typescript and React for the web, but “whatever helps us ship” is the top concern.
+			+ Have significant experience with one or more backend technologies: server-side environments, compute, datastores, networking, infrastructure, devops, security.
+			+ Have significant experience with open-source software, communities, and the systems that these communities use to self-organize and ship software for others to use.
+			+ Have significant experience operating production systems at a nontrivial scale, and are familiar with the common patterns and pitfalls of that work.
+			+ Have significant experience in another area of computing that is relevant to our mission. Human-computer interaction, distributed systems, $YOURTHING.
 + skill set:
 	- develop software with good code quality
 	- development experience with high performance, high stability, and high availability real-time server development
@@ -335,6 +426,9 @@
 	- Experience working within a Linux environment.
 	- Sense of ownership and drive.
 	- Demonstrated ability to solve challenging engineering problems.
++ skill set:
+	- high-level programming languages, such as: Lisp (or Common Lisp), Go (or Golang), Erlang, Scala, or Clojure.
+	- Experience in RPC API design and construction.
 + skill set:
 	- BLAH.
 + skill set:

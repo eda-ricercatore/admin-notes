@@ -359,6 +359,21 @@ Skill set for compiler design:
 	- GLOW
 	- XLA
 + skill set:
+	- We’re looking for an experienced Compiler Architect to help drive compiler improvements and hardware requirements.  
+	- Analyze deep learning networks and develop compiler optimization algorithms for our hardware 
+	- Performance tuning and analysis on different levels of the compiler  
+	- Architect and implement compiler and optimization techniques for various neural networks  
+	- Work closely with chip design team on hardware architecture 
+	- Develop and maintain compiler tool chains 
+	- Bachelors, Masters or Ph.D. or equivalent in Computer Science, Computer Engineering  
+	- 3 to 5 years of relevant work in performance analysis and compiler optimization  
+	- Experience with modern ML compiler technologies: ***MLIR, LLVM,  XLA, TVM, TensorRT***
+	- Experience with graph algorithms, combinatorial optimization techniques, quantization of Deep Learning models, compilation for multi-core architectures (GPU, FPGA, or systolic arrays)  
+	- Excellent C/C++ programming and Python software design skills  
+	- Knowledge of deep learning frameworks (***TensorFlow, PyTorch***)  
+	- Experience with developing and analyzing neural network models 
+	- Experience with ***CUDA, cuDNN***
++ skill set:
 	- The SiFive MLIR team's mission is to create a compiler technology that achieves cutting-edge performance without sacrificing quality and scalability.  SiFive is an active participant in the RISC-V ecosystem that opens a vast opportunity to develop the next generation of computer architecture and compiler technology. SiFive engineers are active members and maintainers in many open source projects, and our mission is to work with and drive the RISC-V ecosystem.
 	- We are hiring a Director for our MLIR compiler activities, a person with proven experience in compiler technology targeting end-to-end application optimizations in domains such as Machine Learning and AI. The candidate should demonstrate a track record in leadership, cross-team collaboration, planning, and delivering high-quality compiler products. 
 	- Grow and Lead a geographically distributed MLIR compiler team from the ground up  
@@ -1133,6 +1148,23 @@ Skill sets for program analysis:
 	- You are fluent in English
 	- You have excellent problem-solving capabilities and good communication skills
 	- You are a team player, who has a hands-on mentality and a desire to learn
++ skill set:
+	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO), specifically for the experimentation with new and interesting user experiences. OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on user interfaces for code synthesis.
+	- Here is some more detail on that initial project - it’s just an example of similar projects in future. To train machine learning models for program synthesis, we can use existing code bases and their unit tests: find a function that has good test coverage and documentation, mask out the body, synthesize an alternative implementation, and test it. Applied to all Python and JavaScript code on GitHub, this would be a huge training set. Full unit tests can however be slow to execute, and for effectively training machine learning models we need the tests to be as fast as possible. One way might be to distill the unit tests into ‘micro tests’ by recording just enough state and I/O behavior so we can replay previous behaviors.
+	- Responsibilities:
+		* Design and build a framework for creating fast functional correctness tests of Python and JavaScript code.
+		* Collaborate with machine learning experts on applying this framework for reinforcement learning on program synthesis tasks.
+		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
+	- Minimum Qualifications:
+		* Ability to do innovative research on one of the following topics: dynamic analysis, instrumentation, or runtime verification.
+		* 5+ years experience building developer tools in production
+		* Inclination to prototype quickly and make fast decisions on experiment failure.
+		* A creative mindset and good practical skills are more important than formal experience.
+	- Preferred Qualifications:
+		* PhD in computer science or related field, or other evidence of the ability to do independent research.
+		* Knowledge of Python or JavaScript and its ecosystem, or the ability to acquire such knowledge quickly.
+		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
+		* Interest in modern AI technologies and program synthesis in particular.
 + skill set:
 	- BLAH.
 + skill set:

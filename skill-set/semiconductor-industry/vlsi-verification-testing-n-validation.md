@@ -175,6 +175,7 @@ VLSI verification methodologies:
 
 Skill set for roles in digital VLSI verification:
 + ***initial sandbox verification***
++ ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
 + Experience in verification/validation using emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM.
 + Familiar with the principle of debugger, such as: ***OpenOCD***.
 + A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
@@ -724,6 +725,7 @@ Skill set for roles in VLSI testing:
 	- JTAG
 	- OpenCD
 + Architecting test methodologies applicable to a wide range of processor and SoC designs including memory virtualization (Paging and Hypervisors), various levels of caches and industry standard bus protocols (e.g., AMBA, TileLink, PCIe).
++ Architect test methodologies applicable to a wide range of CPU and SoC designs for CPU memory sub-systems including Load-Store unit, various levels of caches, memory virtualization and industry standard bus protocols (e.g. AMBA and TileLink).
 + skill set:
 	- Position is Design for Test and Design for Debug (DFT/DFD or DFx) engineer for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all aspects of implementation and verification of advanced DFx techniques for various IPs. High level challenges include reducing test cost while attaining high coverage, and facilitating debug and yield learnings while minimizing design intrusions. The work is done alongside with a group of highly experienced engineers across various domains of the AI ASIC.
 	- ATPG and test coverage analysis using industry standard tools.
@@ -1040,6 +1042,20 @@ Skill set for roles in VLSI post-silicon validation:
 	- Experience with FPGA design and implementation is desirable
 	- Excellent debugging skills
 	- Excellent verbal and written communication skills
++ skill set:
+	- We’re looking for a System Validation Engineer who can create tools and methodologies to aid in providing feedback to analog, photonics and digital design teams. 
+	- Developing tools to perform lab measurements with Python and C++ 
+	- Evaluating new silicon and analyzing performance of photonics processors 
+	- Characterization of analog, digital and photonics test circuits 
+	- Preparing products to enter manufacturing and customer deployment 
+	- Prototyping, building and reworking systems 
+	- Degree in engineering-related field 
+	- 5+ years working as an engineer in a hands-on role 
+	- Programming experience with Python and object-oriented environments 
+	- Familiarity with instruments such as high-speed oscilloscopes, signal generators, network analyzers, optical sources, etc. 
+	- Experience with high-speed digital interfaces such as PCIe 3.0, DDR4, or JESD204B is a plus 
+	- Experience with photonics is a plus 
+	- Aptitude for problem solving and opportunity exploration 
 + skill set:
 	- BLAH.
 + skill set:

@@ -320,6 +320,33 @@ Notes on cloud computing:
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
 + Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
 + skill set:
+	- C3.ai, Inc. (NYSE:AI) is a leading provider of Enterprise AI software for accelerating digital transformation. C3 AI delivers a family of fully integrated products: C3 AI® Suite, an end-to-end platform for developing, deploying, and operating large-scale AI applications; C3 AI Applications, a portfolio of industry-specific SaaS AI applications; C3 AI CRM, a suite of industry-specific CRM applications designed for AI and machine learning; and C3 AI Ex Machina, a no-code AI solution to apply data science to everyday business problems. The core of the C3 AI offering is an open, model-driven AI architecture that dramatically simplifies data science and application development. Learn more at: www.c3.ai
+	- We are looking for a seasoned and motivated Software Engineers to build the next generation AI platform scaling to several petabyte level data volumes.
+	- As a member of C3 AI's growing platform team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have a passion for finding elegant solutions to complex problems.
+	- Role Responsibilities:
+		* Design and develop various features in the next generation C3 AI PaaS AI suite
+		* Design and develop data pipelines that can handle petabyte level data scale and more
+		* Develop core fundamental distibuted system components like distributed stream processing engine, distributed queueing, distributed batch processing, cluster management, etc.
+		* Design and develop abstraction over existing datastores & cloud infrastructure in an innovative way E.g. Key value stores like cassandra / hbase, sql stores like postgres / mysql, file systems like s3 / azure blob store / hdfs, cloud infrastructure like AWS / Azure / GCP
+		* Handle large data infrastructure platform and driving stability through automated monitoring, alerting, and actions.
+		* Work closely with software engineering & product management teams to gather requirements and deliver a top quality product following the agile software development methodology
+	- Minimum Qualifications
+		* BS in Computer Science or related technical field, or equivalent industry experience
+		* 2+ years of relevant experience 
+		* Strong communication and interpersonal skills
+		* Systematic problem-solving approach coupled with a strong sense of ownership and independence
+		* Strong understanding of Computer Science fundamentals ( Algorithms, Data Structures)
+		* Must be proficient in expert level programing in Java or Javascript or Python.
+		* Experience with Aws / Azure / GCP Cloud Platform
+		* Skilled in robust, highly available large-scale, distributed SaaS systems.
+		* Familiarity with Big Data systems like Apache Spark / Hadoop / Distributed Systems
+		* Experience with security technologies (SSO, SAML, Okta etc).
+		* Proactive work ethic - self starter
+	- Preferred Qualifications
+		* Experience with modern container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm
+		* Experience with building scalable and reliable data pipelines
+		* Experience with integration of data from multiple data sources
++ skill set:
 	- Senior Software Engineer - Backend (Remote)
 	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
 	- We need strong engineers to address the next set of data challenges that include real-time streaming data processing, cloud migrations, and integration of disparate and distributed data sources. That's where you come in!
@@ -351,6 +378,12 @@ Notes on cloud computing:
 	- Familiar with backend application development frameworks such as Django or CherryPy.
 	- Familiarity with orchestration and cloud stack and technologies like K8s, Kinesis, Kafka.
 	- Demonstrated ability to learn new technologies quickly.
++ experience working with common cloud technologies, such as:
+	- Hashistack (Nomda, Terraform, Vault, etc)
+	- Kubernetes
+	- Docker
+	- AWS
+	- Azure
 + skill set:
 	- Senior Software Engineer, Observability Metrics & Analytics (Remote)
 	- Join us in developing a distributed, realtime, multi-tenant streaming analytics platform that allows customers and developers to analyze massive amounts of data from a multitude of devices, operating systems, logs, metrics, traces and more in a scalable and reliable way.
@@ -483,6 +516,10 @@ Notes on cloud computing:
 	- Expertise in cloud computing technologies such as Kubernetes, OpenStack, and Docker. Use or development experience preferred
 	- Solid knowledge of distributed systems, cluster management, and SOA architecture technologies, as well as web frameworks and technologies. Experience with large-scale cluster O&M or distributed system software development preferred
 	- Strong interest in technologies. Understanding of the architectures and technologies of mainstream commercial cloud service platforms at home and abroad. Successful experience completing cloud computing projects preferred
++ experienced with Memcached and Redis
++ domain-driven design, and service-oriented architecture
++ App Engine cloud computing platform
++ apply diverse tools and technologies to solve existing problems, such as: C\#, Go, Rust, Docker, Hashistack's Consul, Vault, and Nomad.
 + skill set:
 	- Distinguished Engineer (Architect) Experiences Platform
 	- You will play a critical role in being our innovative and passionate area lead architect that oversees the main front-end platform that powers splunk core platform.  You will help forge technical, design, product, and architecture direction for our hybrid strategy that stratifies cloud technologies with desktop web, native mobile, and future form factors that will connect the dots for success with our customers today.  You work across teams and organizations to ensure that the architecture and design are of high quality, stable, scalable and reliable. You will establish the technical architectural standards and drive the overall technical design and best engineering practices through design reviews, architecture reviews, hackathon activities, customer visits and engagement with Ecosystem Partners.
@@ -689,6 +726,9 @@ Notes on cloud computing:
 		* time to interactive, TTI
 		* time to first byte, TTFB
 + Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
++ skill set:
+	- architect systems that deliver low latency experience in a high latency environment
+	- develop long-lasting external API contracts with little obsoletion/obsolescence or sunsetting.
 + AWS cloud services: EC2, EMR, RDS, Lambda, Redshift
 + Expertise with AWS services such as EC2, IAM, S3, etc.
 + AWS services: EC2, Auto Scaling, Lambda, RDS
@@ -696,6 +736,7 @@ Notes on cloud computing:
 + skill set:
 	- Solid experience in Scala/Java understanding of Microservices Architecture.
 	- Experience with Amazon Web Services, Spark, Splunk, Docker, Grafana, Prometheus, NGNIX.
++ architect highly scalable microservices
 + Cloud Native Computing Foundation, CNCF
 	- Open source contributions to CNCF projects
 + skill set:

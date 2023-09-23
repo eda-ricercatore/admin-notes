@@ -126,6 +126,24 @@ Sets of skills for embedded software development roles:
 		* https://bazel.build/
 			+ From startup to enterprise, choose the Bazel open source project to build and test your multi-language, multi-platform projects.
 + skill set:
+	- Design and develop DDR FW for 64-bit ARMv8 SoC processors
+	- Work with HW design teams and bring up Pre-Silicon software support on HW models
+	- Post-silicon bring up of DDR
+	- Directly interact and address customer’s issue
+	- Minimum of 12 years of experience with software development with C/C++ languages
+	- Minimum of 2 years of customer interaction
+	- Experience with 32-bit/64-bit ARMv8 processors is a plus
+	- Experience with Firmware/BIOS/Linux software development
+	- Experience with DDR FW
+	- Familiarity with JEDEC specs
+	- Experience with NVDIMM or persistent memory a plus
+	- Experience with ACPI specifications
+	- Experience with Non-uniform Memory Access (NUMA) with heterogenous memory configurations a plus
+	- Strong ability to troubleshoot and perform root cause analysis. Proven ability to own problems to get them resolved.
+	- Experience with customer interaction and issue diagnostic
+	- Self-managed individual with excellent problem-solving skills
+	- Good English communications skills, both verbal and writing
++ skill set:
 	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
 	- As a System Software Engineer, you will work with system architecture and hardware engineering teams to help design and evaluate systems, including CPUs, interconnects, firewalls, and related IP blocks.  You’ll work with our software group to design software implementations that take advantage of hardware features and integrate cleanly with existing operating systems, such as Linux. You’ll write software for Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded. You’ll be a part of creating something big, all based around the RISC-V instruction set architecture.
 	- Design, develop, upstream and release system software: Linux kernel, device drivers, OpenSBI, u-boot, Yocto/OpenEmbedded (both SiFive-proprietary and public open source)

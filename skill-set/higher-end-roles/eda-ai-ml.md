@@ -3484,7 +3484,46 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- You have a passion for finding solutions for complex technology issues
 	- You have excellent collaboration and communication skills
 	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project
-
++ skill set:
+	- We are looking for a senior SoC engineer who can leverage their understanding of system-level security goals to disseminate security requirements into the definition and development of ISA, platform, and firmware security capabilities for Ampere products spanning processors cores, IP, SoC, and platforms, while keeping up to date with the latest security threats and standards.
+	- The Hardware Security Architect candidate will join a small but growing CPU architecture team, advancing the art of high performance SoC development targeted for data center customers. Ideal candidates will channel their passion for secure products to contribute in cross-spectrum flow and methodology, working closely with processor and SoC architects and software architects to enhance Ampere’s security solution end-to-end. They will have high levels of flexibility to craft productivity flows to make highly visible contributions.
+	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere’s cloud customers.
+	- You will be the technical leader, at the heart of the solutions teams working closely with hardware SoC and IP development teams. Your role will be to understand security solutions at the system level and then provide expert input to product teams to help them understand and correctly implement their parts of the overall solution. This may include:
+		* Collaborate across the company to guide the direction of platform security and develop a long-term security roadmap for our products, working with hardware, software, and field support teams.
+		* Work with customers and partners to identify and address security issues and threats.
+		* Own product-level security requirements and work with the solution teams and IP product teams to ensure product implementation.
+		* Contribute to product design reviews via threat modeling. You will identify security needs, provide optimal design mitigations, and contribute to the security verification plans.
+		* Engage with our ARM partners and be the expert in new security architecture features and provide guidance for integration into future Ampere products.
+		* Deliver product-level proposals for how the security objectives will be implemented and provide guidance on appropriate design mitigations.
+		* Analyze requirements, as well as software and integration approaches to identify vulnerabilities and solution architecture, design, and implementation flaws.
+		* Provide security guidance and assistance throughout the development lifecycle ensuring Ampere solutions and IP products are specified, designed, developed, implemented, integrated, and tested to meet the requirements for product level security.
+		* Stay up to date with the latest security threats, have a good understanding of the state of the art techniques spanning software and hardware developed to address those threats, and ensure the security objectives that are fed into product teams adequately reflect the needs of the product to mitigate relevant threats and continue to contribute to the external security community.
+		* Assist in responding to high-priority issues or customer questions where your expertise can help.
+	- What You'll Bring
+		* Great communication skills, comfortable with reaching out and asking questions. This is the most important qualification!
+		* Technical curiosity, and ability to learn and grow. Nobody around you will have all the answers!
+	- Education
+		* MSEE/MSCS with 8+ years of experience, or
+		* PhD in EE/CE/CS with 5+ years of experience, concentrating in cybersecurity
+	- Preferred Qualifications
+		* Knowledge of Secure Development Lifecycles (SDLs), ideally as applied to semiconductor hardware
+		* Extensive understanding of industry standard encryption, security protocols, and current ISA, SoC and System Software/FW mechanisms for mitigating typical security attacks for data center and computing platforms
+		* Experience designing & testing SoC hardware and low-level software security
+		* Knowledge of system security processes and standards and how these standards are incorporated into solution definition, design, development, and validation/verification activities
+		* An understanding of how hardware and software security interact and influence one another
+		* A natural inclination to persuade (not push) when introducing new concepts and processes
+		* You have directly worked on several of the following:
+		* System architecture for server platforms
+		* SoC security architecture and security fundamentals including secure boot
+		* Modern server manageability protocols
+		* ARMv8 architectures and related security functionality
+		* Cryptography algorithms and standards, including implementations and application
+		* Security mitigations against physical attacks including fault injection and side channel attacks
+		* Remote attestation mechanisms based on TPM or other solutions
+		* Digital Rights Management (DRM) standards
+		* Security threat modelling and penetration testing
+		* Certification standards and compliance testing
+		* Security testing on covert red team campaigns, or similar offensive security experience
 
 
 
@@ -4085,6 +4124,9 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Performing initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
 	- Knowledge of vector architecture and concepts.
 	- Prior experience designing high-performance vector and/or SIMD processors/units.
++ skill set:
+	- strong programming skills in C++ with experience in developing latency-critical software
+	- demonstrated ability to take neural network models from concept to production with in-depth knowledge in deep learning frameworks, such as TensorFlow
 + skill set:
 	- BLAH.
 + skill set:
@@ -4968,6 +5010,7 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
++ ***Publication in top-tier conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, STOC, IEEE TPAMI, IEEE TNNLS, IEEE TSP, IEEE TIP, Information Fusion, JAIR, IJRR, IJCV, and JMLR.***
 + platform-agnostic machine learning development
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
 + skill set for DEEP LEARNING ALGORITHM INTERN
@@ -5676,6 +5719,11 @@ Skill sets for application engineers of different EDA products:
 + Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
 + Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
 + skill set:
+	- extensive experience in deep learning, classifiers, clustering algorithms, and anomaly detection
+	- highly scalable security tools for exploit and bot detection
+	- ML security projects
+	- large-scale ML systems
++ skill set:
 	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
 	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
 	- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM.
@@ -5684,6 +5732,68 @@ Skill sets for application engineers of different EDA products:
 + Experience in GPU/CUDA/TensorRT
 + Familiarity with neural network framework such as TensorFlow, PyTorch, Caffe, Theano
 + Develop runtime API for custom NN accelerator hardware in C/C++ environment
++ Help developers, marketers, and product managers understand how to access, implement, and rigorously evaluate and optimise ML-based interventions.
++ (applied) machine learning and data science skill set:
+	- Google Cloud ML Engine
+	- spaCy / Prodigy
+	- scikit-learn
+	- H2O
+	- Amazon SageMaker
+	- Azure ML Studio
+	- RISELab Ray
+	- OpenAI Gym
+	- PyTorch
+	- Spark NLP
+	- BigDL and Analytics Zoo
+	- TensorFlow
+	- Keras
+	- AllenNLP
+	- Other cloud-based services
+	- Other open source tools
+	- AutoML tools/technologies:
+		* Google Cloud AutoML
+		* Azure AutoML
+		* Amazon SageMaker
+		* IBM Watson AutoAI
+		* DataRobot
+		* H2O
+	- data versioning:
+		* Weights & Biases
+		* Pachyderm
+		* DVC
+		* Homegrown
+	- model and experiment tracking:
+		* Neptune
+		* MLflow
+		* Polyaxon
+		* Replicate
+		* Weights & Biases
+		* Kubeflow
+		* Comet
+		* Homegrown
+	- categories of ML tools to incorporate into ML workflows:
+		* Automated model search and hyperparameter tuning
+		* Model monitoring
+		* Support for notebooks
+		* Support for IDEs
+		* Model visualization
+		* Feature store
+		* Data lineage or data catalog
+	-  bottlenecks holding back further AI adoption:
+		* Lack of data or data quality issues
+		* Company culture doesn’t yet recognize the needs for AI
+		* Lack of skilled people or difficulty hiring the required roles
+		* Efficient tuning of hyperparameters
+		* Difficulties in identifying appropriate business use cases
+		* Legal concerns, risks, or compliance issues
+		* Technical infrastructure challenges
+		* Workflow reproducibility
+	- skills gaps related to machine learning and AI adoption within your organization
+		* Understanding and maintaining a set of business use cases
+		* Data engineering
+		* Compute infrastructure
+		* ML modelers and data scientists
++ Strong understanding of machine learning algorithms & principles (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning), and their application
 + skill set for Machine Learning/Deep Learning Algorithm Engineer:
 	- Conduct research and development on machine learning, deep learning, and reinforcement learning models, including but not limited to basic algorithms and models, such as CNN, RNN, DNN, and DQN.
 	- Provide basic algorithms or operator optimization such as model compression and convolution acceleration for the above models and support performance improvement.
@@ -5704,6 +5814,73 @@ Skill sets for application engineers of different EDA products:
 	- Proficiency in deep learning technologies, especially in research on applications of the computer vision technology, including model acceleration, model encryption, and model quantification
 	- Distributed system architecture design abilities; knowledge of mainstream technologies including fault tolerance, distributed cache, and high concurrency solutions; experience in multi-threaded and high performance system design and in coding and performance tuning
 	- Good communication and coordination skills and dedication to work
++ skill set:
+	- Help the current effort of the AI research community, and contribute to cutting edge research in machine intelligence, starting from areas including Deep Learning, Generative Models, Reinforcement Learning, Evolutionary Computing, Sequence Modelling, Large-Scale Distributed Optimization and Low-Precision Numerical Formats.
+	- Prototype efficient implementations for training of novel deep learning optimization algorithms and model architectures of increasing complexities.
+	- Contribute to the design of efficient software implementation of the experimental setup required to evaluate novel machine learning algorithms and models at scale.
+	- Participate to work to identify new directions of AI research, with the aim of contributing to new groundbreaking approaches to computational intelligence. The position will involve the possibility of attending the main research conferences in the field of machine intelligence.
+	- Contribute to investigations in specific areas of fundamental and applied research, aiming at publishing the work for discussion within the wider AI research community.
+	- Take responsibility for the software implementation of experimental setup critical for investigation of new research directions.
+	- Collaborate with the rest of the team and with other groups within the company, to develop new ideas and identify research opportunities.
+	- Interact and work with external institutions and research labs. 
+	- MSc or PhD in Computer Science, Machine Learning, Mathematics, Physics, Electrical Engineering or related fields, with a strong basis in numerical methods and probability theory.
+	- In-depth understanding of modern machine learning algorithms and deep learning architectures.
+	- Strong software engineering and coding skills (Python, C/C++) and experience of algorithm implementation in modern machine learning frameworks (TensorFlow, PyTorch). 
+	- Strong communication skills, and willingness to work in a collaborative environment.
+	- Publications and/or open-source implementations in the area of machine intelligence will be a plus.
++ skill set:
+	- If you would like to build computational machines that are solving problems in ways that have never been done, we are looking for software engineers with strong problem-solving skills to help us build an SDK for our optical hardware accelerators. 
+	- This SDK converts a trained neural network into a binary we can run on our custom hardware. The SDK imports neural networks from popular frameworks (e.g., TensorFlow, PyTorch) and runs a series of transformations on those neural networks. These transformations include things like quantizing certain parts of the graph and partitioning subgraphs that can run on our device. The SDK also includes a compiler and runtime library to run the transformed neural network on both a simulator and our actual hardware. 
+	- Create a customer portal to help keep track of bugs in the SDK 
+	- Write documentation and literature for customers to learn how to use the SDK 
+	- Debug and refactor parts of the SDK based on customer feedback  
+	- Work with electrical engineers to update compiler and runtime libraries
+	- Create profiling and debugging tools for both internal and customer use 
+	- Bachelor’s degree in computer science or related fields 
+	- 2+ years of experience writing industry standard code 
+	- Proficient in at least one object-oriented programming language (i.e., Python, Java, C++) 
+	- Familiarity with Python and C++ 
+	- Experience with software testing and building robust software systems 
+	- Strong debugging and problem-solving skills  
+	- Experience with different build tools (e.g., CMake, Bazel)  
+	- Familiarity with Protocol Buffers  
+	- Highly proficient in deep learning frameworks (e.g., TensorFlow, PyTorch) 
+	- Understanding of machine learning concepts like quantization, pruning, sparsity, etc. 
+	- Strong skills with graph algorithms  
+	- Experience with Jira, Azure Boards, and Sphinx 
+	- Substantial experience with Python and C++ 
+	- Proficient with Linux, Bash, and Git  
+	- Experience publishing and maintaining open-source packages
++ skill set:
+	- The use of machine learning to reimagine software applications and service development is exploding.  Companies from every corner of the industry -- the biggest cloud service providers to corporate industrials to financial services to healthcare to retailers -- are exploring new ways of building products and services using data-centric learning models in place of traditional explicit programming.  The drive to deliver more timely and more accurate results is compelling an ever greater need for specialized computing power. GPUs have been hailed as the solution to those computing needs but the industry is actively searching for a better, more efficient solution.  Graphcore has that solution. 
+	- Graphcore’s Intelligence Processing Units, or IPUs, are specifically designed for artificial intelligence and compute-dense graph applications.  These are not GPUs, Graphics Processing Units, but rather graph processors especially adept at the kinds of computations used in understanding relationships within a sea of data.  Architecturally, IPUs looking nothing like GPUs.  They offer performance, latency, and power efficiency advantages a GPU will be unable to match.  Graphcore offers support for popular industry ML frameworks and a full tool suite for developers to innovate both within and outside those frameworks. 
+	- As a Machine Learning Engineer, you will work to port and optimize machine learning and artificial intelligence applications using Graphcore’s Poplar™ software and IPU processors, enabling breakthroughs in this rapidly moving field.
+	- You will work on AI and ML applications, create application notes and blog content, and work closely with Graphcore’s field teams, customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. Having access to world leading compute resources, you will develop applications that push the boundaries of what is possible with machine learning today. You will also act as a senior technical figure within our product support organization, debugging customer issues and providing concise summaries and recommended fixes to our core engineering teams.
+	- In your work you will support some of the world’s top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world’s largest cloud and internet companies. You will need to develop a deep understanding of the IPU architecture and the associated Poplar™ tools and become familiar with leading machine learning frameworks. 
+	- You will need to develop a deep understanding of the state-of-the-art in artificial intelligence & machine learning domains and work with our customers to develop new techniques which exploit the unique features of our IPU architecture.  We want you to become an industry thought leader on Graphcore technology and machine learning applications in the cloud, in automotive and in embedded applications. You should be interested and keen to present at industry conferences and will be able to back this up with written blogs and compelling content.
+	- Responsibilities
+		* Develop strong technical relationships with researchers and engineers at our customers and partners and help them to develop new algorithms and achieve breakthroughs in artificial intelligence
+		* Become a recognized expert on Graphcore’s IPU technology and Poplar™ tools and deliver compelling training to our customers and partners
+		* Field & resolve challenging/complex customer support issues
+		* Shepherd critical customer issues and provide timely advance warning of critical issues that need attention
+		* Become a thought leader on machine learning and advocate for Graphcore’s IPU technology
+		* Work with the Product Management and Engineering to ensure a good flow of customer feedback that can be incorporated into future products
+	- Requirements
+		* Demonstrable machine learning development experience or related experience writing and optimizing applications in HPC, scientific libraries, compilers, digital signal processors or GPUs.
+		* Deep experience with C++ and in-depth knowledge of computer architectures, high performance programming and parallel programming
+		* Ability to multitask effectively in a fast-paced environment
+		* Action-oriented with strong analytical and problem-solving skills
+		* Keen interest to learn about the exciting new field of AI
+		* Comfortable in a customer-facing environment
+		* Strong written and oral communications skills with the ability to effectively interface with management and engineering
+		* Strong team-working and excellent interpersonal skills
+	- Differentiators
+		* Masters or PhD in related computationally intensive science or engineering field
+		* Experience with C/C++, parallel programming and knowledge of computer architectures
+		* Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe and/or PyTorch
+		* Excellent communication & presentations skills and comfortable in a customer-facing environment
+		* Experience working with accelerators such as GPUs, DSPs or FPGAs
+		* Experience in the AI/machine learning, cloud or automotive space
 + skill set for AI/ML Application Framework Engineer:
 	- SiFive is proud to take a software-first approach to develop tools and frameworks that achieve cutting-edge performance without compromising quality. SiFive's Intelligence processors leverage and extend RISC-V Vectors to accelerate AI applications for the edge and beyond. Our Core IPs navigate tradeoffs between performance, power, and area, but do not sacrifice flexibility or programmability. Our software stack is co-designed with the hardware and developed with scalability and quality in mind. Join us to create revolutionary software from the ground up.
 	- We are looking for an experienced AI/ML application frameworks engineer passionate about deploying AI inference and end to end enablement, AI framework integration, model accuracy, and performance analysis and tuning. You might be an ideal candidate if you are seeking to develop high quality, innovative, and scalable software that enables state of the art AI inference models to run efficiently and accurately on the SiFive Intelligence processors.
@@ -9226,6 +9403,15 @@ Companies involved in natural language processing, NLP:
 Skills for natural language processing, NLP:
 + Publications in NeurIPS, ICASSP, INTERSPEECH, TASLP.
 + Publication record in top AI conferences (ACL, CVPR, NAACL, ICML, etc.) is a plus.
++ Publications for NLP at:
+	- WWW
+	- RecSys
+	- SIGIR
+	- ICML
+	- AAAI
+	- ACL
+	- EMNLP
+	- CHI
 + ***TensorRT, Deepstream Projects in video, speech, or NLP***
 + Experience with Natural Language Processing topics, such as:
 	- Topic Modeling
@@ -9806,6 +9992,97 @@ Need to address:
 		* Batch
 		* EMR
 		* CloudFormation
++ skill set for MLOps with Kubeflow:
+	- Use Kubeflow (KF) as a coherent platform with end-to-end workflows across all KF services.
+		* Kubeflow services:
+			+ Notebooks
+			+ Pipelines, Kubeflow Pipelines
+			+ KFServing
+	- Kubeflow components:
+		* AutoML (Katib)
+		* distributed training
+		* HyperParameter Tuning (Katib)
+		* Fairing
+		* Feast
+		* Kale
+		* KFServing
+		* Notebooks
+		* MLMD
+		* Seldon
+		* TFServing
+		* Visualization (Tensorboard)
+	- deploy machine learning models into production that would deliver business value
+	- steps in data science or applied machine learning workflows:
+		* converting tuned models to model serving
+		* connecting data pipelines to ML pipelines
+		* data preprocessing and transformation
+		* distributed training
+		* feature engineering
+		* hyperparameter tuning
+		* notebook experimentation
+		* manually building ML pipelines
+		* model building
+		* model serving
+		* monitoring models
+		* pipeline building
+		* training models
+	- checklist for MLOps, and data science or applied machine learning workflows:
+		* automation
+		* documentation
+		* installation
+		* portability
+		* reproducibility
+		* security
+		* support
+		* tutorials
+	- storage classes
+		* AWS EBS
+		* AWS EFS
+		* GCP Persistent Disk
+		* Azure Disk
+		* IBM
+		* Arrikto Rok
+		* Gluster
+		* EMC
+		* NetApp
+		* Pure
+		* Portworx
+		* Rock (Ceph)
+	- use Kubeflow tutorials from:
+		* AgileStacks
+		* AWS
+		* Azure
+		* Canonical
+		* Cisco
+		* GCP/Google
+		* IBM
+		* MiniKF/Arrikto
+		* Patterson Consulting
+	-IDEs:
+		* OptionJupyterLab
+		* PyCharm
+		* RStudio
+		* Virtual Studio Code, VSCode
+	- ML frameworks & tools
+		* Airflow
+		* Caffe
+		* Chainer
+		* Keras
+		* MLflow
+		* MPI
+		* MXNet
+		* PyTorch
+		* Tensorflow
+		* Scikit-Learn
+		* Spark
+		* Theano
+		* XGBoost
+	- Progression of Kubeflow usage:
+		* Have Kubeflow working in the lab
+		* Have Kubeflow working in production
+		* Use a Kubeflow cluster
+		* Contributing to Kubeflow
+		* Have Kubeflow
 + skill set:
 	- Develop software tools for data preprocessing (e.g. sanitization and annotation) and support our algorithm development team to employ the tool chain on our datasets with data quality analysis;
 	- Develop algorithms for privacy-enhancing technologies;
@@ -9821,6 +10098,29 @@ Need to address:
 	- 3+ years experience working in AI/ML model deployment, verification, tuning and quantization.
 	- 3+ proven years of experience in developing high quality production software in C/C++/Python.
 	- Experience in AI frameworks: ***Tensorflow/Tensorflow-Lite/Pytorch/Tensor-RT/CUDA***, etc.
++ skill set:
+	- management of E2E (enterprise-to-enterprise) ML pipeline development and automation, to enable developers and creators alike to have the ability to go from an ML idea to production in weeks of less
+	- ML ecosystem tooling
+	- As a Machine Learning Platform Engineer you will build the next generation of ML Ecosystem Tooling. You will have a direct impact to the state of the Roblox platform, and the industry, to the next level of managed E2E ML Pipeline Development and Automation—providing our developers and creators alike the ability to go from an ML idea to production in weeks or less. We are looking for talented ML and Systems Engineers to help build the next generation of ML Ecosystem Tooling. 
+	- Passionate about pushing the technological envelope and venturing into the unknown.
+	- Possessing a toolchest of system design experience upon which to draw to build scalable, reliable platforms for all of Roblox.
+	- 3+ years of professional experience working with scalable, distributed systems.
+	- Well versed with the Model Development Lifecycle from initial ad hoc analysis in notebooks to monitored services in production and back again.
+	- Proficient with DevOps tooling such as Docker, K8S, CI/CD systems.
+	- Strong understanding of best practices in developing Platform / Infrastructure APIs.
+	- Someone who has built a model in a modern ML framework such as Tensoflow, PyTorch, ML Lib, etc.
+	- Experienced with developing data pipelines in a common framework such as Beam / Spark / AirFlow / etc.
+	- Understand best practices around Data and Model management
+	- Have deployed and maintained an ML model in production
+	- Understand the use cases for various data processing and storage technologies
+	- Bachelor's degree in Computer Science, Computer Engineering, Data Science or a similar technical field.
+	- Design and Implement the Developer and Creator facing API for declaring E2E ML Pipelines and Model Experimentation.
+	- Develop the service APIs for various ML Infrastructure components--Serving Layer, Metadata Store, Model Registry, Feature Store, and Pipeline Orchestrator.
+	- Work directly with the ML Infrastructure team to identify and leverage opportunities for further automation and optimization.
+	- Partner across organizations to build tooling, interfaces, and visualizations that make the ML@Roblox a delight to use.
+	- Have a direct impact to the state of the Roblox platform, and the industry, to the next level of managed E2E ML Pipeline Development and Automation
+	- Provide our developers and creators alike the ability to go from an ML idea to production in weeks or less. 
+	- Have a direct impact as a part of the team that is building a platform to handle the thousands of model experiments per day needed to support everything from ranking and recommendations, through content moderation and fraud prevention, to studio creative tooling.
 + skill set:
 	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data. We are an angel and NSF grant backed, fast growing startup looking for a Sr. Software Engineer with experience building large scale infrastructure and developing low level systems software. If you enjoy the idiosyncrasies of C++, big data systems excite you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
 	- Minimum qualifications
@@ -10477,6 +10777,25 @@ Skill set for AIOps:
 	- Capacity/Traffic forecasting
 	- Causal inference based on big data
 	- Distributed machine learning
++ skill set:
+	- We are looking for a seasoned software engineer to build the next generation AI platform scaling to petabyte level data volumes.
+	- As a member of C3.AI's platform engineering team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have in-depth experience with Data Science workflows and built scalable machine learning systems.
+		* Build systems and tools that enable data scientists to create machine learning applications using the C3 AI Platform.
+		* Enable scalable, end-to-end machine learning pipelines in a distributed system.
+		* Work with other platform engineering teams to enable streaming, batch, or ad-hoc data analysis.
+		* Collaborate with and support data scientists to understand the utility of the C3.ai Platform and define new requirements.
+		* Define and lead the development of longer-term C3 AI Platform capabilities.
+		* Mentor junior members of the team.
+	- Requirements:
+		* Advanced degree in computer science, math, or similar field.
+		* Excellent programming and algorithmic skills and a taste for DRY code.
+		* In-depth understanding of supervised and unsupervised machine learning algorithms.
+		* Proven track record of applying learning algorithms in a production system.
+		* Strong programming skills in Java, Python and JavaScript.
+		* Demonstrated end-to-end ownership of projects.
+		* Stellar listening and explanation skills.
+		* Thorough knowledge of data structures, algorithms, profiling/optimization, and Object-Oriented and Functional Programming.
+		* A minimum of 3 years of work experience in a fast-paced software company.
 + skill set for Intelligent Computing Development Engineer:
 	- Plan and optimize the overall intelligent computing architecture. Based on the in-depth convergence and optimization of AI and big data and the optimization of computing resource scheduling, continuously improve the competitiveness of intelligent computing in business scenarios and develop industry best practices.
 	- Lead topic research on intelligent computing products and how HUAWEI CLOUD can use them.
@@ -10577,10 +10896,14 @@ Skill set for AIOps:
 
 
 
-
+Sets of skills for ***information retrieval***, including search engine development:
 + Experience with search and information retrieval systems, either custom or commercial (Elasticsearch, Solr).
 + You have used GraphQL in production environments
-
++ Familiarity with search domain (Information retrieval, NLP, Solr/ Lucene or related tech)
+	- information retrieval
+	- Solr/Lucene
+		* Apache Solr: open-source enterprise search platform.
+		* Apache Lucene: open-source search engine software library
 
 
 
@@ -10666,8 +10989,24 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
++ You have data analytics skills with Hive, Scalding, or Spark.
++ Python libraries:
+	- dask
+	- pandas
+	- scikit-learn
++ Experience with product/web analytics tools (Pendo, Heap, Hotjar, Google Analytics).
++ Experience in using relational databases like MySQL, Redshift, ***Graph DB***.
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
 + Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
++ personalized data pipelines/models using tools like:
+	- Hive
+	- Airflow
+	- Kafka
+	- Spark
++ data science modeling frameworks
+	- statsmodels
+	- scikit-learn
+	- XGBoost
 + skill set:
 	- data pipeline and workflow management teams:
 		* Airflow
@@ -10702,6 +11041,25 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		*  message queueing
 		* stream processing
 		* highly scalable big data stores
++ skill set:
+	- As a Data Scientist, you will participate in the definition of new analytics capabilities able to provide our customers with the information they need to make proper decisions to support our customers in operating the internet of things (IoT). In addition, you will help find the appropriate machine learning / data mining algorithms to answer these questions. Finally, you will be responsible for implementing this into the product and making it available to our customers.
+		* Qualified candidates will have an in-depth knowledge of most common machine learning techniques and their application. You will also understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.
+	- Your Responsibilities:
+		* Driving adoption of Deep Learning systems into next-generation of C3 AI products.
+		* Designing and deploying Machine Learning algorithms for industrial applications such as fraud detection and predictive maintenance.
+		* Collaborating with data and subject matter experts from C3 AI and its customer teams to seek, understand, validate, interpret, and correctly use new data elements.
+	- Requirements:
+		* MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields.
+		* Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning). 
+		* Strong mathematical background (linear algebra, calculus, probability and statistics).
+		* Experience with scalable ML (MapReduce, streaming).
+		* Ability to drive a project and work both independently and in a team.
+		* Smart, motivated, can do attitude, and seeks to make a difference.
+		* Excellent verbal and written communication.
+	- Preferred
+		* Experience with JavaScript and prototyping languages such as Python and R. Experience with Java and Scala is a plus.
+		* Knowledge in electrical engineering and cyber-physical systems is a plus.
+		* A portfolio of projects (GitHub, papers, etc.) is a plus.
 + skill set:
 	- Agile workflow practices and familiarity with Atlassian tools
 		* Jira
@@ -10753,6 +11111,22 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Advanced experience with experimental design and statistical methods such as causal Inference
 	- Expert knowledge of a scientific computing language (such as R or Python), SQL, visualization, data modeling, ETL, and the data warehousing concepts
 	- 2+ years within SaaS industry-ideally at an prosumer SaaS platform
++ Knowledge of predictive analytics/statistical and mathematical modeling/data mining algorithms;
++ skill set:
+	- experience using Web services, such as:
+		* WCF, Windows Communication Foundation
+		* Spark
+		* Rest
+	- experience using a statistical process control system, such as Camline SPACE.
+	- experience in Hadoop, Spark, and Impala for large-scale data manipulations.
+		* Apache Impala
+			+ modern SQL query engine for Apache Hadoop
+			+ open-source massively parallel processing (MPP) SQL query engine for data stored in a computer cluster that runs Apache Hadoop.
+	- software source code repository tools:
+		* Git
+		* Subversion
+		* ***Azure DevOps Server***, formerly known as ***MS TFS or Microsoft Team Foundation Server***
+	- VoC, voice of customer software tools
 + skill set:
 	- As a data scientist at Quora, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
 	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
@@ -10830,6 +11204,19 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		* Experience pushing code and navigating a complex codebase
 		* Active Quora user with curiosity about the product
 + skill set:
+	- 3+ years of data scientist experience with proven industry experience in a large scale environment (PBs scale & globally distributed teams).
+	- 2+ years experience with a fast-growing SaaS business based company is preferred.
+	- Strong experience in scientific computing using Python, R, or Scala.
+	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ skill set:
+	- Strong experience in scientific computing using Python, R, or Scala
+	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- Experience working with and processing structured, unstructured, and semi-structured data
+	- Experience building data systems at scale
+	- 5+ years of engineering experience with proven industry experience in big data engineering
+	- 2+ years experience with a fast-growing SaaS business based company is preferred
+	- Experience building big data systems required, experience building Machine Learning pipelines is a strong plus
++ skill set:
 	- project management skills to:
 		* manage complexity
 		* make informed trade-offs to quickly escape rabbit holes and make on-time deliveries
@@ -10880,6 +11267,34 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		* test-driven development
 		* code review
 		* version control with Git
++ skill set:
+	- Zoomies help the world connect — and deliver happiness while doing it. We set out to build the best video conferencing product for the enterprise, and today help people communicate better with products like Zoom Phone, Zoom Rooms, Zoom Video Webinars, Zoom Apps, and OnZoom.
+	- Our Data Science teams lie at the foundation of Zoom’s success. As a Data Science, Intern on the Customer Success team, you will play an important role in driving the growth of Zoom by surfacing, analyzing, and reporting on data that drives mission-critical business decisions. 
+	- This paid internship is for a duration of approximately 10 - 12 weeks during the spring of 2021. The program offers cutting edge projects, as well as a mix of additional types of learning in areas of leadership and business acumen-- and is packed full of fun!
+	- Responsibilities:
+		* Assist with building and maintaining Zoom product features and services. 
+		* Build, deploy and upgrade our real time compute infrastructure.
+		* Design and implement features to improve our systems. 
+		* Connect with customers to understand their goals and needs and translate those into solutions our team can deliver.
+		* Configure tooling for systems scalability, ensure we have capacity for future growth.
+		* Ensure our systems are continuously monitored and running efficiently with a consistent, unified experience across products, platforms, and devices.
+		* Test current algorithms and write testing documents.
+		* Collaborate with internal stakeholders across the business to drive the delivery of features, processes and happiness.
+	- Requirements:
+		* At least 18 years old, currently enrolled in a four year academic institution completing an undergrad, grad, or PhD degree in Business/Economics, Human-Computer Interaction, Computer Science or a related STEM field.
+		* Legally authorized to work in the United States. Due to the limited duration of this program, sponsorship for employment visa status is not available for this position.
+		* Availability to complete the full 10-12-week internship program during Spring 2021, with a time commitment of approximately 30-40 hours per week.
+		* Must be highly proficient in SQL and Microsoft Excel
+		* Minimum 4+ years of experience using data to facilitate decisions  
+		* Strong understanding of growth principles, product development, and product go to market processes 
+		* Self-starter, ability to envision solutions and take initiative to see the solution to the end despite challenges. 
+		* Ability to crystallize vague concepts into concise plans with clear documentation and data driven decision making .
+		* Detail oriented, organized, ethical, responsible, and self-motivated.
+		* Team player, ability to work effectively in a matrix organization.
+		* Consumer facing experience
+		* Strong communication and problem solving skills and a desire to learn something new.
+		* A passion for creating products that resonate emotionally with people.
+		* A passion for Zoom’s mission, vision, values, and culture.
 + skill set:
 	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences audio. 
 	- Perform analyses on large sets of data to extract concrete insights that will help drive decisions across the business
@@ -11626,7 +12041,12 @@ Skill sets for business analytics:
 	- GeoXExperience
 	- Looker, Mode, Tableau
 + PowerBI, Tableau, Qlikview
-
++ implementing BI solutions in a heavily regulated environment e.g. PII, GDPR, HIPPA & SOX
+	- PII, personal identifiable information
+	- GDPR, general data protection regulation
+	- HIPPA, Health Insurance Portability and Accountability Act
+	- SOX
+		* Sarbanes-Oxley Act
 
 
 
@@ -11955,6 +12375,7 @@ They support databases for:
 
 
 ***Skill sets for data engineering***:
++ ***process structured and unstructured data***
 + You've used several data storage technologies like ***Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra*** and have some idea how they work and why they work that way.
 + Experience with ***Scala, Scalding, Luigi, Hive, machine learning pipelines and model training*** is a plus
 	- Luigi:
@@ -12048,6 +12469,91 @@ They support databases for:
 	- Druid
 		* Apache Druid
 		* Druid is a column-oriented, open-source, distributed data store written in Java. Druid is designed to quickly ingest massive quantities of event data, and provide low-latency queries on top of the data. The name Druid comes from the shapeshifting Druid class in many role-playing games, to reflect that the architecture of the system can shift to solve different types of data problems.
++ skill set:
+	- RDS Postgres, Snowflake, Airflow, AWS DMS, Spark on EMR, Python
+	- data pipeline and workflow management tools:
+		* Airflow
+		* Luigi
+	- Big Data tools:
+		* Haddop
+		* Hive
+		* Spark
+	- AWS cloud services:
+		* EC2
+		* EMR
+		* RDS
+		* Redshift
+		* S3
+	- Programming languages:
+		* Python
+		* Java
+		* Scala
+	- Linux
+	- working knowledge of message queueing, stream processing, and highky-scalable Big Data stores.
+	- expand and optimize data pipline architecture, and data flow and collection for cross functional teams
+		* automating manual processes
+		* ETL
+		* re-designing infrastructure for greater scalability
+		* improving relaiability & accuracy
+	- support software initiatives tpo ensure optimal delivery architecture is consistent throughout ongoing projects
+	- using appropriate tools to analyze the data pipeline and provide actional insights into operational efficiency, data accuracy, and other KPIs.
+	- working knowledge of:
+		* workload management
+		* message queueing
+		* stream processing
+		* highly scalable big data stores
++ skill set:
+	- support existing scientific workflows
+	- set the vision for future data generation and collection efforts
+		* Or, set data engineering vision
+	- design, build, and maintain databases and data warehouses that underpin our scientific endeavors and accelerate the company's ability to ask new, sophisticated questions spanning multiple organisms, data modalities, and timescales.
+	- understand common uses cases and data access needs
+	- design strategies for data storage and integration across different data sources for multiple use cases
+	- implement, document, and maintain processing pipelines, databases, and data warehouse and data lake infrastructure
+	- build out core infrastructure, tooling, and software development processes
+	- ETL tools and frameworks
+		* Airflow
+		* Luigi
+	- Python data ecosystem
+		* NumPy
+		* pandas
+		* Jupyter
+	- SQL and relational database systems, such as:
+		* PostgreSQL
+		* MySQL
+		* RESTFUL APIs
+	- experience implementing RESTful APIs, GraphQL, and other programmatic interfaces to complex multi-dimensional data
+		* GraphQL - query RESTful APIs
+	- experience deploying flexible and high-performance data backends and interfaces in the cloud with Google Cloud Platform, Amazon Web Services, or similar platforms
+	- built backends for high-dimensional graph or network data
+	- designed or worked with auditable data systems suitable for regulatory review
+	- experience working with diverse and cutting-edge datasets:
+		* RNASeq
+		* metabolomics
+		* high-content imaging
+	- experience with on-prem high-performance computing clusters, such as SLURM
+		* SLURM, SLURM workload manager, Simple Linux Utility for Resource Management, free and open-sop
++ skill set:
+	- We are looking for an experienced Data Engineer who thinks in clever ways to solve data problems of scale and load with elegant solutions. Our Data Engineering team supports several clusters of PostgreSQL databases of up to 2+TB each with hundreds of millions of rows, as well as many on prem and cloud data storage systems, such as Aurora, Redis, Redshift, CockroachDB, and Cassandra. As a senior member of this team, you will work closely with our DevOps, QA, Engineering, Business Unit and Project Management Teams to help us bring automation and stability to this architecture.
+	- Our team is currently working remotely until our Oakland, CA office re-opens.
+	- Key Responsibilities: 
+		* Protect, tune, migrate, and administer On-premises and Cloud Datastores
+		* Participate in a 24x7 on-call rotations
+		* Always perform in a manner that guarantees the Protection, Availability, and Performance of our Global Datastores.
+		* Be opinionated enough to speak up when you think we could be doing something better than we're doing it now - and tactful and empathetic enough to communicate this in a way that brings people along instead of distancing them.
+	- Qualifications
+		* Passion for datastores and a high sense of ownership while performing critical duties based on senior-level experience in Security, Disaster Recovery, and High Availability.
+		* Ability to have a strong work ethic in a fast-paced environment with multiple priorities that may occasionally change.
+		* Ability to work independently and perform under pressure.
+		* Good interpersonal skills, friendly, and approachable.
+		* Deep Linux experience.
+		* Strong SQL skills.
+		* Expert in PostgreSQL tuning and best practices.
+		* AWS experience, including Terraform.
+		* Bachelor's degree in Computer Science or equivalent experience.
+		* Automated monitoring and alerting of On-premises and Cloud data technologies, such as Aurora, Redshift, Redis, CockroachDB, and Cassandra.
+		* Kubernetes experience.
+		* Working experience with configuration management tools, preferably Puppet and Terraform.
 + Splunk is looking for a Software Engineer to join the Data Federation engineering team and have a large impact on a team responsible for building ***Federated Search*** capabilities
 + skill set:
 	- act as a domain leader in roadmapping prioritization, planning, and stakeholder management for the Fab and Design domains
@@ -12062,6 +12568,41 @@ They support databases for:
 		* Redis
 		* Memcached
 		* Elasticsearch
++ skill set:
+	- We are looking for a Senior Software Engineer to join our Data Science team and help further develop Deezer’s data-driven mindset.
+	- We are part of the BI and Data Analytics team, whose mission is to find the correct levers within the product to further drive Deezer’s growth. Through our analysis and predictions tools, we ensure Deezer is fitting our users’ needs.
+	- As a Senior Software Engineer in the Data Science team, you will be responsible for the engineering and implementation of scalable technical solutions around data science production. This solution will have significant impact to Deezer’s results in areas of fraud detection, churn, inactivty & conversion.
+	- What you will do:
+		* Develop a deep understanding of the business & product and their requirements to develop solutions to insure the fully adoption of our prediction modelling (visualisation, alerting, API).
+		* Design, build, and maintain data pipelines between our Data science team & product, CRM and other relevant systems.
+		* Help our Data Scientists implement and maintain those ML pipelines & data architecture related, supervise the GCP migration and deployment of real time modelling.
+		* Improve and build solutions to address architectural gaps or technical debt.
+		* Propose best technologies for ***data processing and data framework***, test regularly new technologies that may ease team work (***Skein, Meta Flow***).
+		* Mentor Data Scientists on their Engineering skills ; Drive enforcement of standards, tools and methodologies ; Ensure that the pipeline is fully tested.
+		* Participate in story planning, standups and retrospectives.
+		* Produce documentation and tutorials that enable other teams to use easily our pipeline.
+		* Pro-active communication to users and management on issues.
+	- What we are looking for:
+		* At least 5 years of experience of software engineering/data engineering, with a degree in computer science.
+		* Experience in micro services architecture
+		* Experience with Docker, Kubernetes, REST API.
+		* Fluent in at least one language in Python, Scala Java;
+		* Experience of functional code.
+		* Experience in designing, building and launching efficient & reliable data pipelines is preferred.
+		* Experience with Hadoop/Hive, Spark, Cassandra and data warehouse technologies is preferred.
+		* Passion for technology, industry research and enjoys solving business problems.
+		* Experience in Agile Processes, Test Driven Development and Framework design.
+		* Excellent verbal, written, communication, interpersonal and presentation skills - ability to clearly communicate data analyses results to end users.
+	- Bonus Points.
+		* Building and launching new data models that provide intuitive analytics for the analysts and customers.
+		* Mathematical/machine learning background with the ability to understand & implement distributed algorithms.
++ skill set:
+	- As part of this initiative, we are looking for a Data Engineer and help us build a scalable petabyte scale data lake and Enterprise Data Warehouse (EDW) using modern tech stack from the ground up using open source technologies. Success in this role comes from marrying a strong data engineering background with product and business acumen to deliver scalable data pipelines and analytics solutions that can enable advanced analytics via a self-service user interface.
+	- Experience building and supporting modern data lake and EDW technologies (Hadoop, Spark, Cloud, NoSQL etc.) and workflow technologies (eg. Airflow)
+	- Solid understanding of Google Cloud Platform, Python, Hive, and Kafka
+	- Experience with Tableau, Google Analytics and BigQuery (or any other Big data/Cloud equivalent) etc.
+	- Experience working with and processing structured, unstructured, and semi-structured data
+	- Experience building data systems at scale
 + skill set:
 	- Joining us as a Data Engineer, you'll play a key role in one of the aspects of developing software/tech for best in class road features, navigation, and high definition maps. You'll bring your experience and skills to our exciting project within a competent, cross-functional, passionate and self-organized team.
 	- Take ownership, improve, scale and iterate on existing data processing pipelines
@@ -12882,6 +13423,15 @@ Skill sets for DataOps:
 	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
 	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
 + skill set:
+	- design and implement efficient ranking algorithm at high throughput and scalable search engine
+	- analyze search and document data using SQL and Hive on Spark, S3, and ElasticSearch
+	- understanding and experience for query expansion and rewrite techniques such as synonyms, auto complete, speel correction, query optimization, and query-to-query similarity
+	- understanding of search ranking quality evaluation and experience with metric-driven search ranking tuning techniques
+	- understanding of knowledge graphs for document understanding and ranking
+		* experience with graph DB, such as Neo4j, ArangoDB, OrientDB
+	- experienced working in a fast-paced environment in an agile/scrum environment with focus on robust design, architecture, TDD, rapid experimentation, A/B testing, and metrics
+	- big data frameworks, such as map-reduce, Spark, Pig, Hive
++ skill set:
 	- Big Data platforms e.g. Cloudera, Hortonworks MapR
 	- Big Data Analytic frameworks and query tools such as: HDINsight, Spark, Storm, Hive, Impala
 	- IoT protocols, gateways, queues, messaging hubs such as IoT Hub, MQTT, XMPP, CoAP, etc.
@@ -12916,6 +13466,22 @@ Skill sets for DataOps:
 	- Experience with distributed architectures
 	- Passionate about driving a performance engineering culture
 + Expert knowledge working with Spark and other distributed data technologies (e.g. Hadoop, Presto, Flink, Druid) for building efficient & large scale data pipelines.
++ data management tools in on a big data plate form such as Atlas, Ranger, Knox
+	- Atlas
+		* scalable and extensible set of core foundational governance services
+		* provides support for enterprise data ecosystem
+		* open metadata management and governance capabilities for organizations, build catalog of data assets, classify and govern assets, collaboration capabilities
+	- Ranger
+		* framework to enable, monitor, and manage comprehensive data security across the Hadoop platform
+	- Knox
+		* Samsung Knox: enterprise mobile security platform
+		* for mobile device management, MDM
++ Tools: Slurm, Docker, Grafana.
+	- Slurm: resource management and job scheduler, for distributed computing
+	- Grafana
+		* open-source analytics and monitoring solutiojn for each database
+		* interactive data visualization platform
+		* often compared with Splunk
 + skill set:
 	- Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS.
 	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
@@ -13038,9 +13604,42 @@ Skill sets for DataOps:
 	- As a Machine Learning (ML) Engineer, you will be entrusted with the critical role of innovating and applying innovative research in ML to tackle complex data problems. The solutions you develop will significantly impact future Apple products and the broader ML development ecosystem. You will work with a multidisciplinary team to actively participate in the data-model co-design and co-development practice. Your responsibilities will extend to the design and development of a comprehensive data curation framework. You will also build robust model evaluation pipelines, integral to the continuous improvement and assessment of ML models. Additionally, your role will entail an in-depth analysis of collected data to underscore its influence on model performance. Furthermore, you will have the opportunity to showcase your groundbreaking research work by publishing and presenting at premier academic venues. Your work may span a variety of topics, including but not limited to: Designing and implementing semi-supervised, self-supervised representation learning techniques for growing the power of both limited labeled data and large-scale unlabeled data. Developing evaluation protocols centered on the end-to-end user experience, with a focus on anticipating potential failure modes, edge cases, and anomalies. Employing data selection techniques such as novelty detection, active learning, and core-set selection for diverse data types like images, 3D models, natural language, and audio. Uncovering patterns in data, setting performance targets, and using modern statistical and ML-based methods to model data distributions. This will aid in reducing redundancy and addressing out-of-distribution samples.
 	- Ph.D/MS degree in Machine Learning, Natural Language Processing, Computer Vision, Data Science, Statistics or related areas.
 	- The base pay range for this role is between $170,700 and $300,200, and your base pay will depend on your skills, qualifications, experience, and location.
-
-
-
++ skill set:
+	- GitHub is looking for engineers to join our Data Infrastructure team. You'll be part of a team building and deploying large scale data and object storage for the world's largest code hosting platform
+	- The Data Infrastructure team is highly distributed and we thrive in an environment of remote work and asynchronous communication. As a member of our team, you'll always be challenged by interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Build services and systems that empathetically and pragmatically meet real operability needs of GitHub developers
+		* Use data to understand the availability, reliability, and sustainability of our infrastructure
+		* You will respond to the needs of users and of other developers at GitHub.
+		* Work closely with other teams from across the organization
+	- Minimum Qualifications:
+		* Experience building and deploying large, complex distributed systems with an eye toward reliability.
+		* Proficiency in Golang, Python, and/or Ruby.
+		* You take a pragmatic approach to decision making and design choices.
+	- Preferred Qualifications:
+		* Experience building highly available services at scale.
+		* You have developed and scaled services in Go.
+		* Experience diagnosing and resolving complex multi-system performance problems.
+		* Experience with Docker and container orchestration systems.
++ skill set:
+	- GitHub is looking for engineers to join the Compute Foundation team within our Data Center Engineering organization. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our Kubernetes clusters and automation framework, optimize operating systems for use in our environment, and deploy systems at large scale around the world.
+	- The Data Center Engineering team is highly distributed and you will thrive in an environment of remote work and asynchronous communication. You're expected to have strong written communication skills and be able to develop working relationships with coworkers in locations around the globe.
+	- As an engineer at GitHub you'll always be challenged to solve interesting and novel problems that have real impact on how the world builds software.
+	- Responsibilities:
+		* Design and implement automation systems requirements.
+		* Build performant and efficient packet processing systems for Internet and service traffic.
+		* Cultivate open source projects developed by GitHub and build things you are proud to share.
+		* Work closely with networking and facilities teams to design and support our global data center presence.
+	- Minimum Qualifications:
+		* Experience automating large, complex distributed systems with an eye toward reliability.
+		* Proficiency in Golang, Python, and/or Ruby.
+		* Experience diagnosing and resolving complex multi-system performance problems.
+		* You take a pragmatic approach to decision making and design choices.
+	- Preferred Qualifications:
+		* Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt.
+		* Upstream contributions to relevant open source projects (i.e. Kubernetes, Nomad, Linux kernel).
+		* Experience with virtualization, bare metal deployment, or network engineering.
++ big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
 
 
 

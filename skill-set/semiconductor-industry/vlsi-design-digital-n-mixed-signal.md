@@ -24,7 +24,17 @@ Measure performance in terms of:
 
 
 
+
+
+
+
+
+
+
+
 Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), and hardware/software co-design of computer systems:
++ ***Experience with designing an out-of-order system ( high-performance DDR controller or caches controllers on a hetro/homo-geneous multi core system is a plus.***
++ ***Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.***
 + Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
 + Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
 + skill set:
@@ -189,6 +199,38 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 	- Ability to work both in an amazing and enthusiastic team, and autonomously, taking the initiative towards project objectives
 	- Ability to work under the pressure of deadlines. In some short periods there might be deadlines.
 + skill set:
+	- We are looking for a CPU Architect to join a small but growing CPU group, advancing the art of high performance circuit design.  Ideal candidates will channel their creativity to contribute in cross-spectrum flow and methodology, working closely with circuit design architects. They will have high levels of flexibility to craft productivity improvement flows to make highly visible contributions.
+	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere’s cloud customers.
+	- What You Will Do:
+		* Define the design of a server-class microprocessor core
+		* Define the design of a server-class SoC including mesh interconnect, PCIe subsystem, or memory subsystem
+		* Craft workflows to understand pre-silicon behaviors of a SoC with hundreds of cores.
+		* Understand the pipeline of ideas from research to workloads to ISA to microarchitecture to physical technology
+		* Create and maintain technical documents including architecture specifications, implementation guides, and user guides
+		* Collaborate with the team from product roadmap to design implementation
+		* Balance features, performance and costs to create a solution with high value and optimal use of development and physical resources
+		* Facilitate design development efforts, performance estimation, and performance analysis through methodology and hands-on contributions
+		* Learn the CPU performance model from senior team members and helping to develop, deploy, and run microarchitecture studies for future products.
+		* Work with microarchitecture designers in performing studies on current and future generation of CPUs.
+		* Drive performance correlation of models using post-silicon measurement data or pre-silicon simulation results.
+		* Collect silicon performance measurements and understanding how to vet data and filter anomalous results.
+		* Run and report out on experiments characterizing performance of existing silicon, both pre-production and shipping silicon
+		* Develop automated performance testing and data post-processing.
+		* Develop visualization tools to assist in performance analysis.
+		* Run micro-benchmarks and creating supporting models/relationships using the collected data
+		* Develop spreadsheet macros to further prepare/present performance data in appropriate formats.
+		* Investigate performance anomalies with help from senior performance architects.
+		* Develop functional/performance model of the hardware in C++ or System C.
+		* Fit curves and run trendline analysis using R.
+	- What You’ll Bring:
+		* Great communication skills, comfortable with reaching out and asking questions. This is the most important qualification!
+		* Ability to learn and grow. Nobody around you will have the answers!
+		* Knowledge of memory consistency models and coherency protocols
+		* Firmware, hypervisor, and operating system design
+		* Virtualization, dynamic power management
+		* Utilization of semi-custom and custom logic design for high speed and low power
+		* Application of machine learning techniques
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -320,6 +362,18 @@ Skill sets for computer architects in memory subsystems:
 
 
 Skill sets for computer architects in domain-specific processor architecture design, for domain-specific architecture or domain-specific accelerators, and hardware/software co-design of domain-specific computer systems:
++ skill set:
+	- AI/ML or Heterogeneous computing infrastructure development
+	- Parallel programming & optimization
+	- Deep learning application/middleware integration
+	- Open-source software development/ integration
+	- Co-work with SW & HW members for performance exploring and tuning
+	- 5+ years of experience on RTOS, Linux kernel development, especially on OS scheduler
+	- 3+ years of experience with complex system performance tuning and debugging
+	- Good understanding of both CPU and System Architecture
+	- Basic understanding of Deep learning, MLIR, CUDA
+	- Familiarity with TFRT/IREE/ONNX-runtime is plus
+	- Open source upstreaming experience is plus
 + skill set:
 	- NVIDIA is in search of Summer 2022 intern candidates with interests in computer architecture to join our memory system architecture team!  This team drives memory system architecture in products tailored to NVIDIA’s world changing SOCs for autonomous vehicles, mobile systems, server systems, deep-learning, and gaming.
 	- Developing architecture and micro-architecture to improve the state-of-the-art in memory system optimizing along the axes of performance, power efficiency, complexity, area, effort, and schedule.
@@ -613,8 +667,16 @@ Skill sets for processor architecture modeling in processor emulators:
 
 
 
-
-
+Skill sets for computer/processor architecture of non-von Neumann computer systems:
++ skill set:
+	- We’re looking for an experienced computer architect.
+	- Develop performance modeling of a hybrid digital, analog, and optical computing system
+	- Optimize system performance and drive system architectural design for executing machine learning workloads
+	- Codesign digital microarchitecture and perform model validation
+	- A BS in Computer Science, Software Engineering, Electrical Engineering or Computer Engineering
+	- Programming languages: C++, Python
+	- Familiarity with common machine learning workloads in image recognition, object detection, language processing, or recommendation
+	- Techniques for accelerating inference a plus: quantization, graph fusion, compression
 
 
 
@@ -750,6 +812,17 @@ List(s) of companies in the semiconductor industry:
 	- Knowledge of at least one object-oriented and/or functional programming language.
 	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
 + skill set:
+	- We’re looking for an experienced RTL designer to help develop novel AI hardware.   
+	- What you’ll do at Lightelligence:  
+	- Collaborate with RTL, DV, PD, and system engineers to define and implement  DFT functions (scan/ATPG, MBIST, LBIST and more) and methodology  
+	- Work across domains to develop a manufacturing test strategy for a heterogeneous high-speed electro-optical design
+	- MS or PhD in a relevant discipline such as Computer Science, Electrical Engineering, or Computer Engineering with at least 10 years of relevant work or research experience
+	- Proficiency in industry-standard DFT EDA tools to enable scan, ATPG, and related technologies 
+	- Proficiency in SystemVerilog  
+	- Strong scripting skills (Python, tcl, shell)  
+	- Synthesis, STA, CDC, or P&R experience a plus 
+	- Experience bringing-up silicon in wafer and packaged environments 
++ skill set:
 	- SiFive is looking for hardware engineers who are passionate about designing industry-leading CPU and interconnect IP to help drive the tidal wave of adoption of RISC-V as the architecture of choice for SoC designs across a broad variety of vertical applications. We build and maintain multiple CPU family lines, TileLink interconnects and other uncore/infrastructure IP, and are seeking motivated individuals to improve/evolve our existing IP, as well as develop new IP. Join us and surf the RISC-V wave with SiFive!
 	- Architect, design and implement an enhanced TileLink interconnect, protocol bridges, and other infrastructure/uncore logic as RTL generators, including both open-source and proprietary designs.
 	- Improve current designs and work on future designs to provide higher performance, more efficient multi-core and multi-cluster system coherence.
@@ -770,6 +843,26 @@ List(s) of companies in the semiconductor industry:
 	- Attention to detail and a focus on high-quality design.
 	- Ability to work well with others and a belief that engineering is a team sport.
 	- BS/MS degree in EE, CE, CS or a related technical discipline, or equivalent experience.
++ skill set:
+	- SiFive is an idea-to-silicon company founded by the inventors of RISC-V to simplify the design and production of custom SoCs.
+	- ***As the leading commercial provider of RISC-V processor IP, SiFive is on a mission to help engineers design custom chips for domain-specific solutions for many markets, including 5G, edge AI, enterprise networking, storage, and consumer devices.***
+	- Industry-leading innovators, including six of the top ten semiconductor companies, are working with SiFive thanks to our proven success, deep expertise, and rich partner ecosystem. With SiFive’s rich IP ecosystem and accessible design platform, every market has access to the development of workload-focused hardware needed to design next-generation products.
+	- As a SoC Architect at SiFive, you will be vital to SiFive's efforts to create silicon at the speed of software. You will create the basic collateral and specifications that can be reused across the SoC design ecosystem. In developing this collateral, you have the opportunity to innovate the use of a novel set of electronic design automation (EDA) tools, which will draw on modern compiling technology and other innovations to build SiFive’s SoC and core libraries.
+	- The new SoC Architect will create and build new, highly configurable SoC designs, based on the open-specification RISC-V ISA for SiFive’s clients, who are taking on exciting state-of-the-art use cases such as autonomous driving, 5G, networking, wearables, or IoT. You will have a chance to define and design chips more quickly and for more devices than would be technologically possible at any other company.
+	- We are reducing the time needed for chip design and verification with novel tools and methodologies, and we are looking for an architect who is as excited as we are about bringing new SoC designs to the market!
+	- LOCATION: The ideal candidate for this position can work out of any of the SiFive worldwide offices in the US, France, India, or Taiwan.
+	- Design multi-layered SoC architecture and responsible for integrating all of the components in a given customizable chip.
+	- Develop the upcoming advanced platforms, which will connect multiple cores together on a chip, support large bandwidth, as well as new applications and workloads.
+	- Design the IP blocks to be integrated into new SoCs (e.g. receivers, accelerators, transmitters, memory cache, I/O devices, power management, and IP subsystems).
+	- Research and analyze emerging needs for new SoC architecture.
+	- Collaborate with customers, including Fortune 500 companies and prominent start-ups, to tailor SoCs to their needs.
+	- 8+ years’ experience in ASIC/SoC development and chip architecture definition.
+	- MS or PhD in Computer Architecture or in a related field.
+	- Familiarity with SoC components, such as UART, DDR, PCI Express, etc.
+	- Basic knowledge of RTL design & SoC tool flows.
+	- Basic understanding of foundry lib, IP, and process technology limitation.
+	- Familiar with advanced CPU architectures and pipelines
+	- Experience in SoC design flow, including spec definition, microarchitecture design, and performance modeling.
 + skill set:
 	- At Brainchip, we are revolutionizing Artificial Intelligence at the edge with our AkidaTM Hardware and Software products. Akida™ hardware and software products are the result of over a decade of fundamental R&D by BrainChip engineers and data scientists. Akida AI IP, AI SoC, and development environment help customers create ultra-low-power solutions with the ability to incrementally learn on-chip without the need to retrain in the cloud.
 	- We are looking for a HW Design Engineering Summer Intern (May-August 2022) with a strong background in Digital Design and excellent Verilog/System Verilog coding and scripting skills.
@@ -1404,6 +1497,41 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- BFM:
 		* common communication
 		* bus functional model (BFM)
++ skill set:
+	- We are looking for Software Engineer to help us grow our team. You will a part of a software engineering team who gets to design, develop robust and innovative Ampere’s Baseboard Management Controller (BMC) firmware/software stack for our customer reference designs. You will have an opportunity to work collaboratively with and learn from industry veteran designers and architects, firmware developers, vendors, quality assurance team, and open source community to create a breakthrough design for cloud computing manageability. Our engineers are excited about technology and innovation and channel that energy to deliver world-class products.
+	- Develop Baseboard Management Controller (BMC) software and firmware for managing our ARM64 server reference designs
+	- Participate in cross-functional project teams encompassing different technical disciplines including System Architects, SoC Firmware developers, Hardware designers, and Quality Assurance
+	- Design and develop Bootloaders (U-boot, UEFI), Linux device drivers and kernel services to support various peripheral drivers such as USB, I2C, SPI, Ethernet, etc.
+	- Implement manageability framework and protocols defined by standard bodies
+	- Work with world-wide opensource communities for code review, bug fixes, and upstreaming work to the Linux and OpenBMC communities. Participate in ecosystem and developer programs for our platforms
+	- Support Field Applications Engineers to drive Ampere Computing’s customers to production
+	- Min 2-8 years of software development experience
+	- Excellent C/C++ programming, Python and problem-solving skills. Intimate knowledge of software development process methodology
+	- Background in embedded ARM bootloader programming, Linux kernel programming, kernel services and device driver development, Linux gcc and debug tools
+	- Knowledge of low-level protocols including I2C, I3C, JTAG, SPI, eSPI, UART, PCIe
+	- Experienced with board bring-up and device driver debugging. Capable of reading and understanding hardware digital schematics.
+	- Proficient with source version control systems like Git, Review tools like Gerrit.
+	- Good Vietnamese and English communications skills, both verbal and writing
+	- Independent worker with excellent teamwork, decision making and growth mindset
+	- Experience with Open Source Baseboard Management Controller (BMC) Software Stack (OpenBMC)
+	- Experience in server manageability architecture, knowledge of industry standard initiatives such as Redfish and manageability protocols such as IPMI desirable
+	- Experienced with Continuous Integration and Test Automation framework
+	- Experienced with embedded Linux system development frameworks like Yocto, Buildroot, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1984,7 +2112,16 @@ Skill sets for mixed-signal IC design:
 	- Experience with Cadence Design Environment
 	- Experience testing analog circuits in a lab environment
 	- Ability to work collaboratively with people across multiple functional areas
-
++ skill set:
+	- We’re looking for an entry-level analog/mixed-signal engineer for support of custom analog/mixed-signal ASIC design. 
+	- Analog/Mixed-Signal design support including, simulation, schematic capture, layout, silicon and/or discrete component evaluation/characterization 
+	- Laboratory team support interfacing with standard test equipment, custom hardware, and software development to meet test requirements    
+	- Team oriented with a desire for “hands-on” experience 
+	- BS or MS in a relevant discipline such as Electrical Engineering with 1-2 years of relevant work or research experience  
+	- Experience with analog circuit design including operational amplifiers, ADC and DAC circuits, regulators, and references 
+	- Experience with FPGA and DSP design and implementation is a plus  
+	- Experience with various EDA/Computing languages and tools, i.e. Spice, SystemVerilog, Verilog-AMS, Matlab, Python, C++, etc. 
+	- Willingness to learn new skills and do the work necessary to succeed 
 
 
 

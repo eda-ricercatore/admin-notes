@@ -551,6 +551,11 @@ reactive programming = asynchronous dataflow programming
 ###	Speech Processing
 
 
+
++ skill set:
+	- You have a deep knowledge of ASR (Automatic Speech Recognition) technologies such as acoustic modeling, language modeling, neural networks, HMM, WFST, and feature extraction
+	- You possess hands-on experience in ASR tool kits such as Sphinx, Kaldi, HTK, and Julius
+	- You have experience with deep learning frameworks such as Caffe, TensorFlow, Torch, PyTorch, and MxNet
 + skill set:
 	- BLAH.
 + skill set:
@@ -690,7 +695,18 @@ reactive programming = asynchronous dataflow programming
 		* Vulkan, a low-overhead computer graphics API
 	- [ ] WebGL
 		* WebGL, a JavaScript binding to OpenGL ES within a browser on any platform supporting the OpenGL or OpenGL ES graphics standards
-
++ file formats, libraries, and frameworks:
+	- NetCDF 3\*
+	- NetCDF 4\*
+	- Zarr\*
+	- GRIB\*
+	- GeoTIFF\*
+	- PythonPickle\*
+	- HDF 4/5\*
+	- Other image format: PNG, JPG, TIFF, etc.
+	- video: MP4
+	- database: MongoDB
+	- Tensors: PyTorch, TensorFlow, NumPy
 
 
 
@@ -1020,6 +1036,7 @@ reactive programming = asynchronous dataflow programming
 	- Knowledge on rendering engine architectures
 	- Experiences in application frameworks on different OS (Windows, Mac, iOS, Android)
 	- Strong mathematical background
++ GPU APIs: OpenGL, DirectX, ...
 + skill set:
 	- BLAH.
 + skill set:

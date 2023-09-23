@@ -56,6 +56,27 @@
 	- Programming skills in 1 or more high level languages (C, C++, Python, etc.)
 	- Linux command line and system administration skills are helpful
 + skill set:
+	- Our team is at the forefront of the artificial intelligence revolution, enabling innovators from all industries and sectors to expand human potential with technology. What we do, really makes a difference.
+	- As a Field AI Engineer, you will be working closely with Graphcore’s customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. In your work you will support some of the world’s top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world’s largest cloud and internet companies.
+	- You will need to develop a deep understanding of the state-of-the-art in artificial intelligence & machine learning domains and work with our customers to develop new techniques which exploit the unique features of our IPU architecture.  We want you to become an industry thought leader on Graphcore technology and machine learning applications in the cloud, in automotive and in embedded applications. You should be interested and keen to present at industry conferences and will be able to back this up with written blogs and compelling content.
+	- Develop strong technical relationships with researchers and engineers at our customers and partners and help them to develop new algorithms using Graphcore’s IPU technology and achieve breakthroughs in artificial intelligence
+	- Support Sales teams as they engage new customers, understanding their AI challenges and describing how Graphcore’s technology can help
+	- Become a thought leader on machine learning and advocate for Graphcore’s IPU technology
+	- Work with the Product Management and Engineering to ensure a good flow of customer and market feedback that can be incorporated into future products
+	- 4+ years of related experience ideally in Machine Learning, HPC or a math’s intensive engineering field
+	- Bachelor’s in Engineering, Computer Science, Mathematics, Physics or similar field
+	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, MxNet, Caffe, Caffe2, Torch, and/or PyTorch, or a strong mathematics background and a keen interest to learn about these exciting new techniques
+	- Comfortable in a customer-facing environment and experience working with developers or researchers
+	- Ability to multitask effectively in a fast-paced environment
+	- Action-oriented with strong analytical and problem-solving skills
+	- Strong time-management and organization skills for coordinating and prioritizing multiple projects and initiatives
+	- Strong written and oral communications skills with the ability to effectively interface with management and engineering
+	- Strong team-working and excellent interpersonal skills
+	- Masters or PhD in related computationally intensive science or engineering field
+	- Experience with C/C++, parallel programming and knowledge of computer architectures
+	- Experience working with PCIe form-factor accelerators such as GPUs, DSPs or FPGAs
+	- Experience in the cloud or automotive space
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

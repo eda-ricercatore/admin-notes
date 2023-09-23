@@ -1476,15 +1476,36 @@ Skill set for software development for parallel programming, especially on heter
 
 
 Skill set for software development for distributed programming (or distributed computing), especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
-+ Publications for NLP at:
-	- WWW
-	- RecSys
-	- SIGIR
-	- ICML
-	- AAAI
-	- ACL
-	- EMNLP
-	- CHI
++ Experience working with either a Map Reduce or a MPP system on any size/scale
++ skill set:
+	- a Master’s degree in CS or equivalent,
+	- experience with Functional Programming (e.g. OCaml, Erlang),
+	- has worked on 2+ large scale commercial projects taken from inception to production,
+	- experience with dynamically typed systems (e.g. Javascript, Erlang; Python is a must),
+	- experience with C/C++ or other low-level languages with manual memory management,
+	- experience with scalable microservice architecture,
+	- the ability to work on any system, from code running in the browser to big data analytics dealing with terabytes of data,
+	- excellent communications skills in English,
+	- the opportunity to obtain a valid EU work permit.
+	- Other things you should know are
+		* we're currently working on Issuu’s Story Cloud both on web and mobile apps, machine learning for better understanding of our content, internal analytics and our famous reading experience to mention a few examples,
+		* we currently use Python, OCaml, Javascript, Erlang and a bit of C++, and we’re extremely open to using new languages and/or technologies,
+		* our architecture is microservice-oriented using AMQP,
+		* we deploy multiple times a day on AWS and use Docker Swarm, MySQL, Redis, Node, etc.,
+		* we strive to be agile (who doesn’t?), but we're not religious about Scrum, Kanban or any other methodology.
+	- We believe you can help us succeed by
+		* delivering results that create value for the end users, while we ensure a high-performance,  high-availability, robust product that scale with our traffic (10.000++ requests/second) and data-heavy platforms (100++ terabytes),
+		* working across disciplines, and take a holistic, end-2-end approach to software development,
+		* being at the forefront of development practices, Agile, Continuous Delivery, Software as Service, Cloud-based, Docker, React,
+		* working equally well creating back-end and front-end solutions that can run in production at the scale of our traffic,
+		* solving problems from just about every area of computer science, including search, information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, big data and so on.
+	- We are the right company for you, if you
+		* want to work on a product that matters to a lot of people – We receive hundreds of visits per second and host over 50M+ documents,
+		* consider yourself one of the best at what you do and you're looking for equally talented colleagues,
+		* are self-driven and would never just want to take the next ticket,
+		* are curious and never stopped learning and exploring new languages, technologies and solutions,
+		* seek a culture where all voices matter when it comes to shaping the future of the product,
+		* want to work with colleagues who have ‘here to help’ attitude, and absolutely want to help you succeed.
 + skill set:
 	- Experience in building and owning critical user-facing API systems, and solving scaling, latency, and performance problems in high-volume low-latency distributed systems
 	- 8+ years of industry experience with distributed systems, transactional data stores, and systems programming

@@ -209,6 +209,47 @@ Roles in computing security:
 		* Low-level programming at the kernel, hypervisor, firmware, or BIOS level
 		* Penetration testing
 + skill set:
+	- GitHub is seeking a highly experienced and detailed-oriented individual contributor with a technical bent to help maintain and expand GitHub’s Risk Management function.  GitHub is committed to doing right by our customers and developing a highly effective control environment where risk is managed in a meaningful and sensible way that aligns with our business.
+		* Are you a fearless, autonomous yet social go-getter, prone to fits of root cause analysis, followed on by enthusiastic information sharing?
+		* Do you like to test theories, and exult, rather than deflate, when the results return gaps or deficiencies because it means you have an opportunity to make something better?
+		* Do you want to see The Big Picture, and find ways to collect and organize data to tell the story? Maybe have a strong forest-from-trees project management perspective?
+		* Do you agree that the organic power of mutually respectful discourse and collaboration is what makes the world go round?
+		* And last, but most certainly not least, have you already answered the question "Why are we here?" with the GRC Truth, "Because Customers”?
+	- If so, you might be the person we are looking for!
+	- As part of the Security-GRC team reporting to the Security-GRC Risk Manager, you will work closely with multiple groups including software engineering, infrastructure, product, security operations, application security, legal, privacy, finance, HR, sales, and audit to develop and execute sound risk management processes and technical controls to meet customer needs, satisfy external audit requirements, and address internal business objectives.
+	- This is an excellent opportunity for a strong Individual Contributor to have a hand in elevating risk management and security as a business and sales enabler, and to integrate a deep understanding of product and business into the technical risk space. This is a team effort, so bringing your team members, leadership, and customers along for the ride is integral to your success. Central to the team's culture is that of inclusion, transparency, and teamwork - we lift each other up to be successful!
+	- A large focus of this position will be:
+		* Execution and management of the Risk Assessment lifecycle for GitHub products and operating environments, including reporting on, planning and tracking remediation/mitigation plans.
+		* Engage with GitHub team members and GitHub and Azure Compliance partners in detailed research and analysis of technical and process centric requirements in support of new initiatives, continuous improvement, and remediation efforts.
+		* Contribute to the development of controls and continuous testing, design remediation and risk mitigation solutions, and collaborate cross functionally to establishing high levels of automated testing and evidence collection.
+		* Act as lead for your function area in development and tracking of risks and remediation project plans; assist in tracking successful completion of work, ensuring alignment with product roadmap.
+		* Provide feedback to business stakeholders on regulatory/industry better practices with regard to establishment and operation of internal controls.
+		* Represent GitHub’s culture, tone and spirit of partnership with our coworkers, technology partners, Microsoft peers.
+		* Contribute to the development of tools, automation, and practices to better support ongoing Security-GRC services.
+		* Above all, you'll be getting your hands deep into the work and identifying new ways to solve problems and provide services inside our company.
+	- Our ideal candidate takes an extremely pragmatic approach to Risk Management, functions as part of a growing team, and is able to balance the needs of a very dynamic engineering culture with that of protecting the company and customer data.
+	- This job is U.S. based and open nationwide, however, semi-frequent travel (<10%) to our San Francisco, CA headquarters, Portland, OR, or Seattle, WA, will be necessary for a remote worker. (NOTE: Due to current COVID-19 restrictions on travel, non-essential travel for GitHub employees has been suspended indefinitely)
+	- Required experience:
+		* 5+ years prior work experience in technical risk management, information security, audit and/or compliance efforts, with a focus in a technical capacity at a large SaaS provider.
+		* 4+ years experience performing technology risk management lifecycle program work, including assessment, reporting and remediation planning and tracking activities.
+		* 4+ years experience building complex project plans and tracking completion, negotiating commitments and escalating on blocking issues constructively.
+		* Experience standing up and administering applications and tooling with a growth mindset for learning scripting and automating processes.
+		* Proven success in developing and using metrics/KPIs to assess, report on and improve program performance.
+		* Practical experience with NIST, AICPA TSP/SOC, PCI, FISMA/FedRAMP, COBIT, ISO, or other industry and regulatory frameworks.
+		* CISA, CISSP, CRISC, CIA or other relevant independent certification, or equivalent education.
+		* Proven communication skills and ability to understand the value and drivers behind adjusting style and tone for a given audience, including technical and non-technical peers across the company.
+		* Strong independent motivation, high comfort level with asynchronous work environments, written communication, use of chat tools.
+		* Must be legally authorized to work in the United States.
+	- Preferred Attitude:
+		* Lead From Any Chair - You model influence without control, bringing your team members, leadership, and customers along for the ride is integral to your success.
+		* Loves the opportunity to Fix It, Build It, Understand It.
+		* Confidence in ability to learn new things - has the ability to state: "I don't know, but I will find out and circle back!”
+		* Very high comfort level working under ambiguous situations, with natural drive to bring clarity.
+		* Compulsive about getting it down on "paper".
+		* Creative mindset; a willingness to try a new approach, and challenge assumptions.
+		* Highly team oriented personality.
+		* An open, learning mindset.
++ skill set:
 	- 3+ years experience designing and implementing cross component or platform wide features
 	- Working knowledge of TLS
 	- Familiar with concepts of big data- Hadoop, Spark, Kafka, NoSql
@@ -414,6 +455,28 @@ Roles in computing security:
 	- Expertise with authentication protocols like OAuth2, SAML, OpenID, LDAP
 	- Expertise in Cisco AnyConnect / ASA products
 + skill set:
+	- Experience with MDM solutions like Jamf, Intune, etc.
+	- Experience with SAML based single sign-on solutions and SaaS tools such as Slack and Google Workspace (formerly GSuite/G Suite)
++ skill set:
+	- GitHub Security Telemetry is seeking a highly talented and motivated security engineer to drive security initiatives that affect the security of millions of developers around the world. The role involves designing, building, and supporting the security telemetry services and tools that allow GitHub to deliver the best developer experience to its internal employees and the rest of the world. The ideal candidate will share a passion for engineering solutions to complex security problems.
+	- Development and implement appropriate and effective telemetry solutions to help mitigate threats and risks
+	- Endpoint vulnerability management
+	- Provide subject matter expertise on telemetry solutions
+	- Provide technical leadership while working across the company on critical security initiatives
+	- You have knowledge of telemetry systems/tools, like ELK, Splunk, Azure Data Explorer, and TICK stacks
+	- You have operational experience with Nessus, Qualys or similar scanning tools
+	- Familiarity with configuration management software such as Puppet, Chef, Ansible, or Salt
+	- Experience using Linux day-to-day in a production environment
+	- Working knowledge of security telemetry best practices and threat landscape
+	- Experience working in a decentralized and geographically distributed environment
+	- Experience working in or partnering with a threat detection or incident response teams
+	- Excellent written and verbal communication skills
+	- A proven track record of taking technical requirements, developing proof of concepts, and developing mature systems.
+	- A passion and proven ability to drive security that is frictionless, collaborative and effective
+	- Experience using software version control systems/Git and GitHub
+	- Ability to engineer solutions using Python, Ruby or Go
++ Experience with security technologies (SSO, SAML, Okta etc).
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -490,6 +553,30 @@ Roles in computing security:
 
 
 + skill set:
+	- GitHub is seeking a Security Solutions Architect for our Professional Services team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Security Solutions Architect you will have a direct impact on the security of some of the world’s largest code bases and the most commonly used applications. You will be a trusted consultant to the world's leading companies to assist them in transforming how they approach security in their software delivery life cycle. You will shape how they integrate security throughout their software delivery lifecycle. You will create a vision for these customers on how they can improve, and work closely with their stakeholders and teams to implement these changes.
+	- For this role, you can expect to spend about 60% of your time with customers on high-level details and driving Advanced Security adoption. The rest of the time is likely split between CodeQL and Advanced Security deployment.
+	- Responsibilities
+		* Be a trusted advisor for our customers on all aspects of GitHub Advanced Security
+		* Share expertise on CodeQL, both from a language and deployment perspective
+		* Serve as the primary owner of customer deliverables over long-term engagements
+		* Provide technical contribution and facilitate development with the broader Services Advanced Security team
+		* Participation in customer scoping calls throught the customer's journey, with ongoing, recurring collaboration with customers
+		* Frequent calibration of customer success criteria and providing proactive, creative attention on their priorities
+		* Help customers understand and quantify value from Advanced Security
+		* Collaborate with team members across GitHub, providing valuable insights from the field on how we can improve our products
+	- Qualifications
+		* Demonstrated ability to connect with people, lead client projects, and help clients solve problems with GitHub
+		* Strong ability to collaboratively and optimistically handle client expectations and project scope during all stages of a client engagement
+		* Strong knowledge of secure coding practices and common types of vulnerability
+		* Experience with common DevOps tools, CI/CD, builds, etc.
+		* Experience of code analysis (static/dynamic), dependency scanning, or other security automation in a DevOps environment
+		* Experience in mentoring other engineers and disseminating complex technical ideas and processes
+		* Strong written and verbal communication skills
+		* An ability to persuade customers to make hard, but worthwhile decisions
+		* An ability to see the tradeoffs of technical solutions and make recommendations to customers
+		* A desire to help others, and to collaborate with both customers and GitHub team members
+		* A growth mentality, and a passion for discovering new technologies
++ skill set:
 	- The applied crypto team of Trustworthy Technology and Engineering Lab in Huawei Munich Research Center is developing applied crypto technologies, which is designed for supporting privacy and data protection. To support our research activities, we are looking for enthusiastic and highly motivated PhD student in applied crypto technologies. The PhD student will contribute to the research and development of applied crypto technologies for future data security and secure AI system. The candidate has the opportunity to work on real world problems and improve data security of Huawei future’s products and services.
 	- Assess data security risks of target application scenarios
 	- Research on innovative algorithms in the field of applied crypto technologies
@@ -503,6 +590,93 @@ Roles in computing security:
 	- You have excellent collaboration and communication skills;
 	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
 	- You have good programming skill in Java, C，C++，R, Python
++ skill set:
+	- We are looking for an experienced product security engineer to join our team that can help us to strategically push forward the state of product security throughout GitHub. The product security team is dedicated to identifying the most important application and product security risks and use our passion for building things to mitigate or eliminate those risks. To get specific, here are some things our team works on:
+		* Account security - We work to ensure only legitimate users can access their accounts. Examples include:
+			+ Two-factor authentication (2FA) and WebAuthn
+			+ Verified device protection for non-2FA users
+			+ Protecting accounts reusing passwords leaked in other services
+		* Application security paved paths - We are passionate about projects where we can add defense in depth or secure by default security patterns. Examples include:
+			+ Continually looking for modern web security standards we can leverage such as content security policy, samesite cookies, etc.
+			+ Built/operate an internal cryptographic service used by other engineers and services throughout GitHub.
+		* Application security architecture - We collaborate with engineers throughout GitHub to develop solutions to security obstacles that strike the best balance between security, usability, and convenience.
+	- Responsibilities:
+		* Identify the most important strategic product security focus areas for the team and GitHub itself
+		* Help lead security architecture discussions with other engineering teams throughout GitHub
+		* Stay current with emerging security standards and help to identify when and where they should be adopted at GitHub
+		* Help lead the team’s technical/architectural decision making
+		* Write robust, maintainable backend code
+		* Review code and lead group discussions about the projects we’re working on
+		* Develop systematic solutions to problems instead of focusing on one-off fixes
+		* Mentor other engineers
+	- Minimum Qualifications:
+		* A passion for application security related problems
+		* 8+ years building software applications at scale
+		* 5+ years designing/architecting secure systems at scale
+		* Working knowledge of web application vulnerabilities and mitigations
+		* Known for being a great communicator and collaborator
+		* Excellent written and verbal communication skills
+	- Preferred Qualifications:
+		* Practical software development skills with Ruby on Rails or Go
+		* Working knowledge of applied cryptography
+		* Working knowledge of modern web security standards
+		* Experience mitigating account security risks
+		* Experience using Git and GitHub
++ skill set:
+	- GitHub is changing the way the world builds secure software and we want you to help change the way we secure GitHub. We're looking for an experienced security engineer to drive the development of GitHub’s red team operations. GitHub’s Application Security team (AppSec) has historically been focused on collaborating with and supporting engineering teams during the software development lifecycle. We are looking for a fresh perspective to drive the identification and mitigation of security risks from an attacker’s point of view.
+	- In this role you will define and implement how GitHub provides our engineers and security teams with broadly scoped and in depth security assessment of our services and infrastructure. You’ll have the freedom to define these engagements to best test the defensive security practices at GitHub. In this position, you will work closely with the AppSec team to leverage the team’s knowledge, skillset, and ongoing collaboration with engineers.
+	- Communication and empathy is key in this role, and your collaboration with engineers is just as important as the vulnerabilities and security risks you identify. In this role you’ll not only need to be creative and thorough in the attacks you perform, but also in helping drive the remediation strategies with teams across the company.
+	- Your responsibilities will include:
+		* Defining processes and initiatives to perform attacks against GitHub’s services and infrastructure, while taking care to minimize impact to systems and data
+		* Digesting complex application and service architectures to identify potential threats and avenues for exploitation
+		* Engaging internal engineering and security teams to work with during red team operations
+		* Collaborating with engineering teams and leadership to communicate identified risks and expectations for remediation
+		* Developing a plan to scale the red team, its service offerings, and tooling
+		* Mentoring other team members
+	- The minimum qualifications are:
+		* A passion for identifying and exploiting security vulnerabilities
+		* 8+ years of experience performing penetration tests, security code reviews, and red team operations
+		* Experience in security architecture review and threat modeling of complex systems
+		* Experience developing security testing tooling and exploits
+		* Experience with identifying and exploiting the unique security risks of cloud computing platforms including Azure and AWS
+		* Excellent written and verbal communication skills targeting a broad range of audiences from engineers to leadership
+		* Ability to empathize with a diverse range of engineers
+	- Bonus points if you have:
+		* Hands-on management experience in a personnel or team lead capacity
+		* Experience with exploiting virtualization techniologies and container orchestration systems such as Kubernetes and Nomad
+		* Practical software development skills with Ruby on Rails or Go
+		* Experience using Git and GitHub
++ skill set:
+	- GitHub is changing the way the world builds software, and we want you to help change the way we secure GitHub. We are looking for an experienced Threat Detection Manager to lead our remotely distributed detection engineering team focused on identifying and responding to security threats against GitHub and Azure DevOps(ADO).
+	- Interested in leading efforts related to building and tuning scalable detection and enrichment systems, threat hunting, MITRE ATT&CK, or response automation?
+	- As our Threat Detection Manager, you will work alongside other members of the GitHub Security and Engineering organizations to lead an awesome team of threat detection professionals. You will develop and mature a comprehensive threat detection program, plan new detection work according to company growth and threat intelligence trends, and foster effective, sustainable process development. A successful applicant will have a desire to lead and develop a healthy and inclusive team responsible for detecting and hunting a variety of adversaries in diverse environments at scale.
+	- Threat Detection Manager Responsibilities
+		* Lead and develop a dedicated team of threat detection professionals
+		* Maintain a healthy team culture based in excellence and empathy
+		* Plan, balance, and prioritize team activity in response to company growth and changing threat landscapes
+		* Coordinate measurable threat detection and hunting activity across a complex technical environment at scale
+		* Develop and mature threat detection process and integration with threat intelligence resources
+		* Closely partner with dedicated corporate security and incident response resources to identify, investigate, and mitigate threats
+		* Participate in an on-call rotation
+	- Minimum Qualifications
+		* Significant experience with the entire threat detection lifecycle and collaborating with incident response, corporate security, security engineering, and threat intelligence resources
+		* Several years experience effectively managing and working with distributed and remote security teams
+		* The ability to take a pragmatic, risk-based approach to decision making while applying practical security principles and practices
+		* Exceptional written and verbal communication skills with a strong sense of empathy
+		* Proven experience guiding risk-based strategic and tactical technical decision making and execution
+		* Experience operating a threat detection program mapped to the MITRE ATT&CK framework
+		* Experience supporting governance and compliance requirements
+	- Preferred Qualifications
+		* 5+ years or demonstrable proficiency in threat detection
+		* General experience in the following disciplines with deep experience in one or more:
+			+ Log analysis: Large scale analysis of standard and custom log types using client and server side log analysis tools such as Splunk, ELK, Kusto, and Sentinel
+			+ Familiarity with file system, memory, or live response on MacOS, Linux, and Windows
+			+ Network traffic analysis: Analyze network telemetry from intrusion detection systems and flow monitoring systems
+			+ Detection development: Host and network level detection with tools such as osquery, yara, auditd, etc
+			+ Threat intelligence: Collection, analysis, production, or consumption of threat data and finished intelligence
+		* Experience using or securing Linux day-to-day in a production environment
+		* Development experience with Python, Ruby, Bash, or Powershell
+		* Experience working with git, GitHub, and Microsoft Azure
 + skill set:
 	- We are currently looking for a Senior Specialist - Security Standards Organisation to join our Industry standardization Department in Lausanne. Our Industry Standardization department is responsible for the quality and timeliness of the corporate industry standardization strategies and implementation tactics. Another key mission is to help business departments coordinate and align their industry standardization strategies and implementation tactics with corporate strategy. It also ensures effective execution of industry standardization strategies and decisions to realize quality and efficient work.
 	- Maintain effective operations of account departments and working groups for industry standards organizations, and enhance the capabilities of Huawei team in standardization activities. Participate in regulation making and operations of standards organizations, Ensure that the standards team effectively execute industry standardization strategies and tactics

@@ -104,6 +104,21 @@
 	- Experience proactively addressing reliability issues across all layers of the stack
 	- Excellent written and verbal communication skills
 	- Upstream QEMU contributions are a huge plus
+ + skill set:
+	- In this position, you will join a great team in Ampere Shanghai and work with top talents in the industry, make direct contribution to the popular open source communities like Linux kernel, QEMU, DPDK, OVS, FD.io, to measure, characterize and optimize network software infrastructures to lead network transformation in SDN/NFV, Cloud native, 5G, etc. to Ampere processors. You will have the opportunity to work on world leading technologies such as Arm CPU micro-architecture, Virtualization, Ethernet, Security & Crypto, etc.
+		* FD.io for secure computer networking
+	- Your daily work includes but not limited to system integrations, performance measurements and characterizations, software optimization and development and upstream into open source projects especially network software stacks that are important to cloud service providers for example DPDK, OVS, cloud native networking, etc. to enable the best performance on Ampere CPU chips.
+	- Solid C programming skills and familiar with GNU Toolchain (GCC/MAKE/GDB)
+	- Understanding of Linux/FreeBSD like system and Internals
+	- Understanding of Arm Architecture, or other processor architectures
+	- Strong desire to learn and strong problem solving skills
+	- Great performance characterization and optimization skills
+	- Great in spoken and written Chinese/English
+	- Good knowledge of Virtualization and Container technologies
+	- Solid knowledge on TCP/IP and Linux networking internals
+	- Experience with open source development
+	- Knowledge of Git or similar
+	- Good understanding on SDN/NFV, Virtual Switching, cloud native
 + skill set:
 	- BLAH.
 + skill set:
