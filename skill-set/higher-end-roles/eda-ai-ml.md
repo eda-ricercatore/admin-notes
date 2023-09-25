@@ -122,6 +122,7 @@ Skills for EDA software development, and other high-end software development:
 	- ***Waf***, a Python-based tool for configuring, compiling and installing applications. It is a replacement for other tools such as Autotools, Scons, CMake or Ant
 	- Turbo, or Turborepo, for building JavaScript or TypeScript Web applications
 + project management tools:
+	- Trello
 	- Working with Jira and Confluence a plus.
 		* Jira, for issue tracking.
 		* Confluence, wiki-based collaboration platform
@@ -290,7 +291,7 @@ Skills for EDA software development, and other high-end software development:
 		* Cloud Composer, for Google Cloud Platform, GCP
 	- Apache Flink
 	- Apache Taverna ???
-	- Azkaban
+	- ***Azkaban***
 	- Collective Knowledge, CK
 	- Cuneiform programming language
 		* based on Erlang, functional programming language
@@ -4836,9 +4837,9 @@ Skill sets for application engineers of different EDA products:
 									- [x] relational databases, relational database management systems, RDBMS, or RDB
 									- [x] column-oriented DBMS, columnar DBMS
 						+ examples:
-							- HBase
-							- Cassandra
-							- MongoDB
+							- ***HBase***
+							- ***Cassandra***
+							- ***MongoDB***
 							- DynamoDB
 					* ***multi-model database***
 						+ database management system, DBMS, that is designed to support multiple data models with an integrated back-end
@@ -5013,6 +5014,23 @@ Skill sets for application engineers of different EDA products:
 + ***Publication in top-tier conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, STOC, IEEE TPAMI, IEEE TNNLS, IEEE TSP, IEEE TIP, Information Fusion, JAIR, IJRR, IJCV, and JMLR.***
 + platform-agnostic machine learning development
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
++ tech stack:
+	- Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
+	- Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
++ tech stack:
+	- Publication record in top conferences (***ICML, ICLR, NIPS, KDD, IJCAI, AAAI*** etc )
+	- Good knowledge and handson experience in distributed technologies such as ***Hadoop, Hive, Spark*** Experience in Scala programming language.
+	- Publications in relevant top venues (e.g., ***KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL*** etc.)
+	- You have publications in communities such as ***WWW, SIGIR, FAT\*, NeurIPS, WSDM, SIGDIAL, RecSys, CHI, KDD, AAAI, ACL, ICML***, or related.
+	- You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with ***XGBoost, TensorFlow*** is also a plus.
+	- You preferably have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio and cloud platforms like GCP or AWS.
+	- Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+	- Familiarity with marketing tracking platforms (e.g. ***DoubleClick, Google Tag Manager, Google Analytics***) preferred
+	- Become an expert on leveraging existing state-of-the-art tooling into the Spotify eco-system (***TensorFlow, TFX, Kubeflow Pipelines, Cloud Bigtable***)
+	- Contribute to new and existing Spotify open source machine learning and data processing products (scio, zoltar)
+	- You preferably have experience with data processing and storage frameworks like ***Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka***, etc.
+	- Extensive publication record at peer-reviewed ML conferences (e.g. ***NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI***, etc) as well conferences with applied ML (e.g. ***KDD, WSDM, WWW, CIKM, RecSys***, etc).
++ ***"Knowledge of Bayesian Global Optimization tools and technique"***
 + skill set for DEEP LEARNING ALGORITHM INTERN
 	- Development the deep machine learning models covers computer vision and NLP applications
 	- Software performance bottleneck analysis in CNN/RNN/LSTM architectures and design
@@ -5718,6 +5736,7 @@ Skill sets for application engineers of different EDA products:
 + Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
 + Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
 + Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
++ Lifelong-DNNTM (L-DNN) technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
 + skill set:
 	- extensive experience in deep learning, classifiers, clustering algorithms, and anomaly detection
 	- highly scalable security tools for exploit and bot detection
@@ -5733,6 +5752,8 @@ Skill sets for application engineers of different EDA products:
 + Familiarity with neural network framework such as TensorFlow, PyTorch, Caffe, Theano
 + Develop runtime API for custom NN accelerator hardware in C/C++ environment
 + Help developers, marketers, and product managers understand how to access, implement, and rigorously evaluate and optimise ML-based interventions.
++ Working with Big Data, ML, AI. Keras, TensorFlow, Python, Redshift, S3, Spark, Random Forests and Vowpal Wabbit
++ Experience implementing ***production-ready machine learning solutions*** is a plus
 + (applied) machine learning and data science skill set:
 	- Google Cloud ML Engine
 	- spaCy / Prodigy
@@ -10904,8 +10925,12 @@ Sets of skills for ***information retrieval***, including search engine developm
 	- Solr/Lucene
 		* Apache Solr: open-source enterprise search platform.
 		* Apache Lucene: open-source search engine software library
-
-
++ Elasticsearch / Kibana: You can readily access information & love metrics
+	- Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. 
+	- Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
+	- Kibana provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.
+	- Kibana is a source-available data visualization dashboard software for Elasticsearch.
++ Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based data stores and libraries (Lucene, Solr, etc.)
 
 
 
@@ -10988,8 +11013,12 @@ Notes:
 Sets of skills for generic data science roles, or data scientist positions (i.e., junior to mid-level data scientists):
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
++ Experience with open source platforms like Hadoop, Spark, ***Hive, Pig***; and/or ***ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow***; and/or assistants like Alexa, a plus.
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
++ NoSQL databases, such as MongoDB, Cassandra, HBase
++ RStudio packages: The tidyverse, R Markdown, and Shiny
 + You have data analytics skills with Hive, Scalding, or Spark.
++ Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 + Python libraries:
 	- dask
 	- pandas
@@ -10998,6 +11027,9 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Experience in using relational databases like MySQL, Redshift, ***Graph DB***.
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
 + Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
++ Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
+	- ORMs: Object Relational Mapping (ORM)
+		* Object–relational mapping (ORM, O/RM, and O/R mapping tool)
 + personalized data pipelines/models using tools like:
 	- Hive
 	- Airflow
@@ -11147,6 +11179,14 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
 	- Experience pushing code and navigating a complex codebase
 	- Active Quora user with curiosity about the product
++ skill set:
+	- Bachelor's degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+	- Previous experience in data science or quantitative analytics role, preferably in a high-growth company
+	- Comprehensive understanding of statistical modeling, machine learning and data mining concepts, and experience applying these methods within a business environment
+	- Strong knowledge of Python. Familiarity with at least one statistical modeling / machine learning tool such as R or Matlab is a plus, as well as experience with languages such as Scala or Go
+	- Expert knowledge of, and hands-on experience with, SQL
+	- Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+	- Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable data-driven analysis and implementing science-driven data products
 + skill set:
 	- Because Quora is such a data-driven company, our data scientists play a central role in the product development process by uncovering key insights from our data. As a data scientist, you'll work closely with engineers, product designers, and product managers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems. You'll also develop tools and infrastructure to scale and automate the analyses that enable rapid product iteration. Quora has a wide range of rich data, giving you ample room for exploration and creativity. We use a variety of tools -- primarily Python and SQL — to analyze data and communicate results with the rest of the company.
 	- While Quora's data scientists come from a variety of backgrounds, including statistics, computer science, economics, physics, mathematics, sociology, chemical engineering, and so on, we all share a love for data and continuous learning. Especially in your first role post-graduation, we realize that mentorship is important for professional growth and development. Every data scientist has a mentor and weekly 1:1s with their managers to get feedback and support for your career growth.
@@ -12047,6 +12087,37 @@ Skill sets for business analytics:
 	- HIPPA, Health Insurance Portability and Accountability Act
 	- SOX
 		* Sarbanes-Oxley Act
++ skill set:
+	- Business Intelligence Developer
+	- Unity (NYSE: U) is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the world’s most powerful digital content is created. Specifically, Unity’s platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+	- We are seeking a BI Developer who combines an intense curiosity about data with a strong dedication to practical problem solving for business collaborators. This role will require proficiency in a sophisticated and evolving data model unique in the industry not only for its scale but also in the magnitude of business processes involved. Our team works in close alignment with all business units to understand and conduct research on the analytical requirements of our data projects. Most importantly, we are looking for a keen analytical problem solver who enjoys working with and using data to find exciting insights!
+	- As a BI Developer you will make individual contributions, in the form of report and dashboard building, code and pipeline maintenance, testing and documentation, supporting many of our projects in cross-departmental teams including Sales and Developer Relations, Marketing, Finance, Product and Engineering, Data Science, Customer Support and Operations.
+	- Design, deployment, and maintenance of BI and data systems:
+	- Build supporting pipelines, data models and reports which deliver analytics to a broad audience
+	- Translate business requirements into data architecture choices and automate ad hoc processes into robust, performant, highly available, business user-friendly reports
+	- Stand up and maintain production quality databases and ETLs with a practical eye towards the end users
+	- Provide analysis (in the form of custom queries, reports and dashboards) for partners and internal collaborators under high time pressure when priority demands
+	- Experience and competence with a modern data tech stack: SQL (ETL/Database Administrator experience a plus), Python, Github, Apache Airflow, BigQuery, GCS and AWS
+	- Experience with Excel/Google Sheets, Tableau and Looker for reports and data visualization
+	- Comfortable thinking about data and systems, specifically ad tech data streams
+	- Outstanding attention to detail; willingness to understand data at a very deep level
+	- Mentorship and presenting technical information
+	- The ability to communicate with both technical and non-technical audiences
++ skill set:
+	- Senior Data Scientist, Ads Fraud Protection
+	- At Unity, our Trust & Safety team plays a crucial role in fostering developer confidence in Unity's Network. We prioritize providing safe access to supply and demand along with insights and controls in a privacy-focused world.
+	- As our new Senior Data Scientist in our Ads Fraud Protection team, you will be partnering closely with the Trust & Safety department, which focuses on safeguarding our advertisers from invalid activities and ensuring the integrity of the supply. You will collaborate with our engineering and product teams to analyze data and build reliable, accurate, and scalable Machine Learning models that detect fraudulent traffic among games and developers. With an emerging set of products, evolving problems, and an enthusiastic team committed to growth, you will have the opportunity to drive positive change at various levels within the organization and influence the technical direction and team culture.
+	- Design, implement, and deploy scalable machine ML models using TensorFlow and Sklearn.
+	- Validate, monitor, and evaluate the performance of ML models, making necessary adjustments and optimizing continuously.
+	- Use your expertise in Cloud technologies to deploy and manage machine learning applications, leveraging Kubernetes for container orchestration and workload management.
+	- Collaborate closely with BIs, BizOps, and other teams to identify new fraud threats and respond to or mitigate current fraud threats.
+	- Produce well-written documentation, including modelling details, design options, and findings resolutions, to communicate complex concepts and analysis results to other stakeholders.
+	- Hands-on experience in Machine Learning (deep learning), system design, software development, graph, and/or anomaly detection.
+	- Strong programming skills in Python, SQL, and a deep understanding of data structures and algorithms.
+	- Familiar with GCP (an experience with other Cloud platforms is valuable), Kubernetes, Tensorflow, Sklearn, and Kubeflow.
+	- Good interpersonal and teamwork skills, passionate about learning new techniques and taking on challenging problems
+	- Prior experience working on Graph Neural Networks (GNNs), graph databases, federated learning, and TF-secure.
+
 
 
 
@@ -12424,6 +12495,7 @@ They support databases for:
 			+ https://github.com/twitter/scalding
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
++ Should have experience in dealing with XML and JSON data formats.
 + modern tech stack:
 	- React
 	- Redux
@@ -12439,9 +12511,13 @@ They support databases for:
 	- Spark
 	- Presto
 + ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
++ Experience writing production datasets in SQL/Hive OR building internal/production data tools for ETL, experimentation, or exploration in a scripting language (Python, R, etc.)
 + MongoDB, Redis, Memcached, experience crafting NoSQL data models.
 + data engineering tooling: Airflow and Databricks
 + Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
++ Very strong experience in scaling and optimizing schemas, performance tuning SQL and ETL pipelines in the OLTP, OLAP and Data Warehouse environments
++ Passionate about various technologies including but not limited to SQL/No SQL/MPP databases etc.
++ Hands-on experience with Big Data technologies (e.g Hadoop, Hive, Spark)
 + Have a thirst for technical challenges with big data and distributed systems, including HBase, Kafka, Elasticsearch and Dropwizard
 + data plane development kit, DPDK, from the Linux Foundation for computer networking and interactions with the Linux operating system kernel
 + Build data pipelines with tools like Apache Beam/Spark, Scio, Storm, ML tools such as Kubeflow, and cloud computing platforms such as Google Cloud Platform and AWS (Amazon Web Services). And, Google BigQuery, DBT.
@@ -12469,6 +12545,24 @@ They support databases for:
 	- Druid
 		* Apache Druid
 		* Druid is a column-oriented, open-source, distributed data store written in Java. Druid is designed to quickly ingest massive quantities of event data, and provide low-latency queries on top of the data. The name Druid comes from the shapeshifting Druid class in many role-playing games, to reflect that the architecture of the system can shift to solve different types of data problems.
++ skill set:
+	- Bachelor's degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
+	- Significant experience in custom ETL design, implementation and maintenance, including serving machine learning models in production for multiple high-growth companies, preferably those with technical products
+	- Track record of developing and evolving complex data environments and intelligence platforms for business users
+	- Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
+	- History of proactively identifying forward-looking data engineering strategies, utilizing cutting-edge technologies, and implementing at scale
+	- Hands-on experience with schema design and dimensional data modeling
+	- Understanding of statistical modeling, machine learning and data mining concepts
+	- Demonstrable critical thinking and analytical skills, including the ability and confidence to make conclusions and recommendations from data
+	- Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
+	- ***Experience with Big Data/distributed frameworks such as Spark, Kubernetes, Hadoop, Hive, Presto,***
+	- ***Experience with job schedulers; Airflow, Luigi, Azkaban, etc.***
+	- Experience with continuous integration and automation tools and processes
+	- Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
+	- Scripting in Python required, experience with Scala/Go a plus
+	- Programming against APIs required
+	- Experience with Snowflake and/or Looker a plus
+	- Effective communication and interpersonal skills
 + skill set:
 	- RDS Postgres, Snowflake, Airflow, AWS DMS, Spark on EMR, Python
 	- data pipeline and workflow management tools:
@@ -13373,6 +13467,26 @@ DataOps leadership principles:
 
 Skill sets for DataOps:
 + Demonstrated track record working with data warehouse concepts.
++ Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
++ web analytics platforms such as Google Analytics, Appsflyer or Mixpanel
++ big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
+	- Hadoop
+	- Hive
+		* productivity platform
+		* Apache Hive is a distributed, fault-tolerant data warehouse system that enables analytics at scale
+			+ distributed storage based on SQL
+	- Druid
+		* Apache Druid is a high performance, real-time analytics database
+		* Apache Druid is an open-source data store.
+		* Apache Druid is a column-oriented, open-source, distributed data store.
+	- Kafka
+		* Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+		- Apache Kafka is a distributed event store and stream-processing platform. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+			* It is an open-source system developed by the Apache Software Foundation written in Java and Scala.
+	- Ambari
+		* The Apache Ambari project intends to simplify the management of Apache Hadoop clusters using a web UI. It also integrates with other existing applications using Ambari REST APIs.
+		* The Apache Ambari project is aimed at making Hadoop management simpler by developing software for provisioning, managing, and monitoring Apache Hadoop clusters. Ambari provides an intuitive, easy-to-use Hadoop management web UI backed by its RESTful APIs.
+	- Spark
 + skill set:
 	- Familiarity in data storage (e.g. MySQL, MyRocks, HBase, Memcached, Redis, etc), traffic handling (e.g. DNS, CDN, load balancing, etc) or infrastructure orchestration (Ansible, terraform, docker, Kubernetes, etc)
 	- Familiarity with AWS services (e.g. EC2, S3) or other public cloud services.
@@ -13380,6 +13494,12 @@ Skill sets for DataOps:
 	- Operational experience with Linux operating system internals, filesystems, disk/storage technologies and networking
 	- Experience with scripting languages (e.g. shell script)
 	- Experience with capacity planning for web scale systems
++ Ansible: it's not that bad, and helps us move quickly, but any configuration management tool is applicable.
+	- Ansible is a suite of software tools that enables infrastructure as code. It is open-source and the suite includes software provisioning, configuration management, and application deployment functionality.
+	- Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+	- No matter your role, or what your automation goals are, Ansible can help you demonstrate value, connect teams, and deliver efficiencies for your organization. Built on open source, Red Hat® Ansible® Automation Platform is a hardened, tested subscription product that offers full life cycle support for organizations. Explore how Ansible can help you automate today—and scale for the future.
+	- Ansible® is an open source, command-line IT automation software application written in Python. It can configure systems, deploy software, and orchestrate advanced workflows to support application deployment, system updates, and more.
+	- Ansible’s main strengths are simplicity and ease of use. It also has a strong focus on security and reliability, featuring minimal moving parts. It uses OpenSSH for transport (with other transports and pull modes as alternatives), and uses a human-readable language that is designed for getting started quickly without a lot of training.
 + skill set:
 	- data expertise:
 		* manage data pipelines
@@ -13394,6 +13514,10 @@ Skill sets for DataOps:
 			+ Airflow
 			+ Luigi
 		* maintain data infrastructure to support these
++ Set of skills:
+	- Experience with modern programming languages (Java, Scala, Go, TypeScript)
+	- Database / Data Storage experience (SQL / MySQL, MongoDB, DynamoDB)
+	- Interest in Infrastructure Tooling (Docker, Nomad, Consul, Vault, Prometheus)
 + skill set:
 	- On the Blaize AI Studio Team, we don't just model data, we build and help assemble custom datasets, manage production edge and cloud deployments, and identify production issues. We are looking for someone to help us continue our evolution and who can work with small amounts of imperfect data and generate reliable results. 
  	- Our Deep Learning Research Engineer will be working both independently and with a wide range of people at Blaize. We are looking for a set of skills including strong AI/ML experience with practical and use-able software engineering practices and languages (git, docker, Java and/or C++, Python).  You should have been involved in at least 1 or more projects reaching production state.

@@ -1476,6 +1476,9 @@ Skill set for software development for parallel programming, especially on heter
 
 
 Skill set for software development for distributed programming (or distributed computing), especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
++ Knowledge in Hadoop (HDFS, YARN), its programming models (MapReduce, Spark), and its services such as Hive, HBase etc.
++ Hadoop data platform is capable of supporting a growing list of downstream platforms like Tableau, Zeppelin etc.
++ Experience working with distributed systems and streaming / queuing platforms (e.g. Kafka, Celery)
 + Experience working with either a Map Reduce or a MPP system on any size/scale
 + skill set:
 	- a Master’s degree in CS or equivalent,

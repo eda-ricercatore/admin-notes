@@ -11,6 +11,7 @@
 
 
 Skill sets for generic statisticians:
++ Completed graduate-level coursework in survey statistics—bonus points if you've completed coursework in adjacent fields/methods (e.g., econometrics, NLP, experimental design, political science, or quantitative social psychology)
 + skill set:
 	- BLAH.
 + skill set:

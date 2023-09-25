@@ -940,6 +940,9 @@ reactive programming = asynchronous dataflow programming
 + Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 + Experience with low-level Graphics APIs (D3D12/Vulkan)
 + Familiarity with one or more of the following software: Unreal Engine, Unity, Maya, Houdini
++ Experience of Unity, C# and 3D application development.
+	- Unity
+		* Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
 + skill set:
 	- Senior 3D Pipeline Engineer - Simulation
 	- Apple’s Special Project Group is seeking a Senior 3D Pipeline Engineer to help advance innovative simulation for autonomous technologies. You will directly play a role developing and maintaining tooling for our 3D content creation pipeline core to our simulation efforts. Your work will advance our ability to develop, test, and verify mobile autonomous systems.
@@ -1128,6 +1131,9 @@ These skill sets for extended reality, includes skill sets for the following:
 + ***virtual reality***
 
 
++ Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
+	- head-mounted display
++ Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
 + skill set:
 	- BLAH.
 + skill set:

@@ -293,6 +293,8 @@ reactive programming = asynchronous dataflow programming
 	- Knowledge of NoSQL or document-oriented databases is a plus
 	- BS EE or CS degree, or equivalent training or work experience
 	- 8+ years related experience (or Masters and 6 + years related experience or PhD and 3+ years experience)
++ Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
++ Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
 + skill set:
 	- Staff Engineer, Web Platforms
 	- We are looking for a staff level engineer with deep experience in the web ecosystem. You’ll contribute to a vital team in an organization that values empathy, collaboration, transparency, diversity, and learning. You will report to Soraya Dib and work cross-functionally with engineers, designers, and product managers.
@@ -908,6 +910,57 @@ reactive programming = asynchronous dataflow programming
 		* willing to jump into things are figure it out along the way
 		* straight up, no-nonsense, no-politics
 + skill set:
+	- Agile development approaches
+		* Lean-startup and design-thinking inspired methods incorporating short product development, business-hypothesis-driven experimentation, iterative product releases, and validated learning
+	- Programming languages and operating systems
+		* Python
+		* Javascript
+		* Unix/Linux/MacOSX
+		* RDF, JSON-LD, SPARQL
+	- Tools
+		* Git
+		* Slack
+		* JIRA
+	- Web app development
+		* Django
+		* Django REST Framework (for API development)
+		* Node
+	- Backend
+		* SOLR/Lucene or ElasticSearch
+		* Amazon Web Services (AWS) or other cloud service providers
+		* “Serverless” computing (e.g., AWS Lambda)
+		* Application containerization (such as Docker or Kubernetes)
+	- Javascript frameworks
+		* Vue and/or Nuxt
+		* Webpack
+	- Mobile development
+		* Using responsive design and development techniques, possibly including the use of Progressive Web Application (PWA) techniques and technologies
+	- Other
+		* Topic modeling (ideally using Mallet)
+		* Video formats and metadata (for both archiving and streaming)
+		* RDF, JSON-LD, Sparql and GraphQL for knowledge graph development and use
+		* Content markup including:  HTML, XML, ePUB, PDF
+		* Named Entity Recognition (NER)
+		* Experience applying statistics, modeling, and machine learning
++ skill set:
+	- SQL, javascript, and google appscript
+	- Familiarity with HR systems and tools (e.g. Workday, Reflektive, Zugata, Culture Amp)
+	- You are a skilled engineer. You've got a strong background working in our stack (Python, Django or React, ES6 or Node.js, etc.) -- even if you aren't a daily coder, you regularly exercise your coding muscles and try to be an asset on any technical context your team may need.
+	- Help the team build tools for partners and developers that come to our platform to create Apps that live on Zapier. Imagine Postman meets OpenAPI on steroids.
+		* Zapier
+			+ Zapier is a product that allows end users to integrate the web applications they use and automate workflows.
+			+ Workflow automation for everyone.
+		* Postman
+			+ Postman is an API platform for developers.
+			+ Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+		* OpenAPI
+			+ The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others.
+			+ The OpenAPI Specification, previously known as the Swagger Specification, is a specification for a machine-readable interface definition language for describing, producing, consuming and visualizing web services.
++ A sample of the technologies you'll be exposed to: Python, Javascript/Angular, Impala (Big data data database), AWS, Docker, Kubernetes, Git.
++ Technical Skills needed: vSphere, vSAN, NSX, vROps, Storage, Database, Middleware, and Scripting
++ You highly experienced with JavaScript/Node.js, SQL/NoSQL databases
++ Proficiency in React, TypeScript, GraphQL, Python, and Django (or a similar stack)
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -965,6 +1018,7 @@ reactive programming = asynchronous dataflow programming
 	- Starlette
 	- FastAPI
 + Laravel, open-source PHP Web framework for back-end Web development
++ Technical Fluency.  Languages and tools such as Python/Java/Scala, AWS (S3/EMR/Athena/Glue) and SQL. Experience with big data processing tools including Spark, Hadoop, Hive, Yarn, and Airflow. Experience working with either a MapReduce system of any size/scale.
 + FastAPI and SQLAlchemy
 	- FastAPI is a modern web framework for building RESTful APIs in Python.
 	- SQLAlchemy is an open-source SQL toolkit and object-relational mapper (ORM) for the Python programming language 
@@ -2577,6 +2631,15 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
+
+##	Search Engine Optimization
+
+
+
+
++ You're familiar with all aspects of SEO: on-page, external, and technical, and you have used tools such as ahrefs, DeepCrawl, Screaming Frog, SEMRush, and Google Search Console to optimize for search.
 
 
 

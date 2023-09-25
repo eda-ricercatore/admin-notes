@@ -159,6 +159,20 @@ Skill sets for software development for project management:
 	- Demonstrated ability to communicate complex ideas clearly and concisely as well as proven ability to effectively interface and influence at all levels of an organization
 	- Moderate proficiency with MS Project as well as MS Visio, Excel and PowerPoint
 	- Minimum of 2 years of experience with transactional-based continuous improvement projects
++ We are fans of the Lean Startup methodology, we love Trello, Jira, Slack
+	- Trello
+		* web-based, kanban-style, list-making application
+		* teamwork project management tool
+	- Jira
+		* Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
+	- Slack
++ Experience utilising Portfolio & Project Management (PPM) tools such as CA PPM (Clarity), ServiceNow, JIRA, Microsoft Project Server, etc.
+	- Clarity PPM | Project and Portfolio Management Software
+		* collaborative work management (CWM) features
+		* "Speed up your digital transformation with Clarity, the leading investment planning solution for the enterprise. Instead of traditional project management, we help you transition to digital product management, where you manage value streams to counter market disruptions, maximize enterprise resources and pivot with fluctuating customer demands."
+	- ServiceNow digital workflows let employees work the way they want to, not how software dictates they have to.
+		* "cloud computing platform to help companies manage digital workflows for enterprise operations"
++ project management tools (JIRA, Confluence)
 + skill set:
 	- BLAH.
 
@@ -190,6 +204,16 @@ Skill sets for software development for product management:
 
 
 
+
+
+
+
+
+
+
+
+
+
 ##	Software Development for Database Management Systems & Information Systems
 
 
@@ -201,6 +225,42 @@ Skills related to software development for database management systems and infor
 + In-Memory caching technologies, such as memcached or Redis
 + Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
 + Experience with stream pipelines and data store technologies (nosql, wide column and graph). We are Currently using Cassandra, Kafka, Amazon dynamoDB, Redis, Neo4j and Mysql.
++ Design data migrations for product features that have scaled beyond the abilities of PostgreSQL, helping teams move their data to ClickHouse
+	- ClickHouse
++ skill set:
+	- Senior Software Engineer, Storage
+	- Bad software is everywhere, and we’re tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+	- With more than $217 million in funding and 85,000 organizations that believe we’re on to something, we're building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.
+	- The Search and Storage team is responsible for the infrastructure that powers all of Sentry's time-series data and searching capabilities across billions of events with sub-second latency. We started this initiative by building Snuba, the primary storage and query service for Sentry's event data powered by ClickHouse, and we're now looking to provide even more visibility and reporting on the terabytes of data that our users send us. The storage sub-team is specifically concerned with ingesting and storing the input data (thousands of events per second) that come from our customers into ClickHouse.
+	- As a Senior Software Engineer in the Storage team, you will build, maintain, and operate data storage systems that power the core of Sentry’s business.
+	- Build new database storage features, increase query and insert scalability, and implement fixes in Snuba, our open-source database service built on top of ClickHouse
+	- Guide product engineering teams as they work to design ClickHouse and other database schemas for new features
+	- Shape the technical direction of our internal data aggregation and metrics platform, including building out new features and improvements
+	- Lead discussions about scaling technologies for time-series data storage, for our team and outside the infrastructure organization.
+	- Design data migrations for product features that have scaled beyond the abilities of PostgreSQL, helping teams move their data to ClickHouse
+	- Help our SRE team manage clusters of sharded, replicated distributed databases
+	- Work with high-scale Kafka consumption pipelines that ingest thousands of input events per second
+	- Think in terms of failure modes, and enjoy coming up with creative solutions to work around them. We are a core data storage service for Sentry and data loss is unacceptable!
+	- Have experience with distributed systems, but are looking for exposure to higher scale. We process tens of thousands of events/second — scaling on the storage team isn’t just “put a cache in front of it”
+	- Have a vigilant eye for the mixing of infrastructure and business logic concerns. We try to push business logic out of our team’s code and into the product
+	- Want opportunities to improve process. This team grew organically out of an operational need for higher-scale data storage, and we’re working incrementally to give product teams more autonomy to build products without involving us as much as today
+	- 6+ years relevant software engineering experience
+	- Excellent written and oral communication skills and ability to articulate technical concepts clearly and succinctly
+	- Strong knowledge of replicated and/or distributed data storage systems
+	- You have experience with some or all of the following systems we leverage:
+		* Disk-driven Storage Systems: PostgreSQL, ClickHouse
+			+ ClickHouse: Fast Open-Source OLAP DBMS
+				- ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries.
+		* Memory-driven Storage Systems: Memcached, Redis
+		* Streaming Platforms: Kafka, RabbitMQ
+	- Experience with Python or a similar dynamic programming language
+	- ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time.
+
+
+
+
+
+
 
 
 
@@ -544,8 +604,36 @@ Skills related to software development for enterprise search engines:
 	- 5+ years of experience in developing production software.
 	- 5+ years of experience in optimization for parallel algorithms and certain vertical domains such as AI or similar.
 + production engineer, in software development
-
-
++ Experience with Java, Boost, QML, Jira, JavaScript, React, or DDP
+	- Boost
+		* Boost C++ Libraries???
+		* boosting in machine learning???
+			+ ensemble meta-algorithm for reducing bias and variance in surpervised machine learning
+				+ ensemble machine learning, part of ensemble methods (for statistics and machine learning)
+	- QML
+		* Qt QML
+			+ "The Qt QML module provides a framework for developing applications and libraries with the QML language. It defines and implements the language and engine infrastructure, and provides an API to enable application developers to extend the QML language with custom types and integrate QML code with JavaScript and C++. The Qt QML module provides both a QML API and a C++ API.
+			+ https://doc.qt.io/qt-6/qtqml-index.html
+			+ "QML is a declarative language that allows user interfaces to be described in terms of their visual components and how they interact and relate with one another. It is a highly readable language that was designed to enable components to be interconnected in a dynamic manner, and it allows components to be easily reused and customized within a user interface. Using the QtQuick module, designers and developers can easily build fluid animated user interfaces in QML, and have the option of connecting these user interfaces to any back-end C++ libraries.""
+			+ https://doc.qt.io/qt-6/qmlapplications.html
+			+ "QML is a multi-paradigm language for creating highly dynamic applications. With QML, application building blocks such as UI components are declared and various properties set to define the application behavior. Application behavior can be further scripted through JavaScript, which is a subset of the language. In addition, QML heavily uses Qt, which allows types and other Qt features to be accessible directly from QML applications."
+			+ https://doc.qt.io/qt-6/qmlreference.html
+			+ "QML (Qt Modeling Language[4]) is a user interface markup language. It is a declarative language (similar to CSS and JSON) for designing user interface–centric applications. Inline JavaScript code handles imperative aspects. It is associated with Qt Quick, the UI creation kit originally developed by Nokia within the Qt framework. Qt Quick is used for mobile applications where touch input, fluid animations and user experience are crucial. QML is also used with Qt3D[5] to describe a 3D scene and a "frame graph" rendering methodology. A QML document describes a hierarchical object tree. QML modules[6] shipped with Qt include primitive graphical building blocks (e.g., Rectangle, Image), modeling components (e.g., FolderListModel, XmlListModel), behavioral components (e.g., TapHandler, DragHandler, State, Transition, Animation), and more complex controls (e.g., Button, Slider, Drawer, Menu). These elements can be combined to build components ranging in complexity from simple buttons and sliders, to complete internet-enabled programs.""
+			+ https://en.wikipedia.org/wiki/QML
+	- Jira
+		* Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
+		* Jira Software is the #1 agile project management tool used by teams to plan, track, release, and support great software with confidence. 
+	- React
+		* React is a free and open-source front-end JavaScript library for building user interfaces based on components.
+	- DDP: Delivered Duty Paid
+		* Delivered duty paid (DDP) is a delivery agreement whereby the seller assumes all of the responsibility, risk, and costs associated with transporting goods until the buyer receives or transfers them at the destination port.
+		* Datagram Delivery Protocol, a networking protocol in the AppleTalk suite
+		* Differential dynamic programming, a second-order algorithm for trajectory optimization
+			+ Differential dynamic programming (DDP) is an optimal control algorithm of the trajectory optimization class. 
+			+ Interior Point Differential dynamic programming (IPDDP) is an interior-point method generalization of DDP that can address the optimal control problem with nonlinear state and input constraints.
+		* Distributed Data Protocol, a client-server protocol for querying and updating a database
+		* Datagram Delivery Protocol (DDP) is a member of the AppleTalk networking protocol suite. Its main responsibility is for socket-to-socket delivery of datagrams over an AppleTalk network.
++ API development
 
 
 

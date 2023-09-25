@@ -217,6 +217,7 @@ Notes on cloud computing:
 
 
 
++ We are ***cloud agnostic*** and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
 + OpenStack:
 	- Dashboard (Horizon)
 	- Compute Service (Nova)
@@ -286,6 +287,7 @@ Notes on cloud computing:
 	- A network operations center (NOC, pronounced like the word knock), also known as a "network management center", is one or more locations from which network monitoring and control, or network management, is exercised over a computer, telecommunication or satellite network.
 + Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
 + Experience developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault
++ Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
 + knowledge of various issues in the field of cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)
 + skill set:
 	- continuous integration/delivery (CI/CD) methodologies and practices
@@ -346,6 +348,14 @@ Notes on cloud computing:
 		* Experience with modern container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm
 		* Experience with building scalable and reliable data pipelines
 		* Experience with integration of data from multiple data sources
++ tech stack:
+	- Security and privacy
+	- Virtualization and container technologies (e.g., Xen and Docker)
+	- Cloud services (e.g., AWS and Azure)
+	- Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
+	- In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
+	- Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
+	- Storage systems
 + skill set:
 	- Senior Software Engineer - Backend (Remote)
 	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
@@ -538,6 +548,7 @@ Notes on cloud computing:
 	- Experience working on open-source projects
 	- Requires a minimum of 15 years of related experience with a technical bachelor’s degree; or 12 years and a technical Master’s degree; or a PhD with 8 years’ experience; or equivalent experience.
 + Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
++ Production experience with AWS tools including at least some of the following: EC2, S3, Kinesis, CloudFormation, Redshift
 + skill set:
 	- Familiarity with configuration management, particularly using Ansible + Napalm.
 	- Comfortable working with Arista EOS and Juniper JunOS.

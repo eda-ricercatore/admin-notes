@@ -39,6 +39,7 @@ Notes:
 
 
 Skill set for compiler design:
++ Because compilers, interpreters, JIT, pre-processors, grammars, register allocation, term rewriting, LLVM and more are what brought us to computer science in the first place, Raincode Labs forms the largest independent compilation technology company in the world.
 + skill set:
 	- Research in Compilers and Architecture
 	- Conduct fundamental research on new directions in compilers and architecture

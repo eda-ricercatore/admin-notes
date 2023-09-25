@@ -80,6 +80,7 @@ DevOps is at the intersection of:
 Skill set for DevOps:
 + Experience working with tools like Jenkins, Bamboo, Ansible, SonarQube, Artifactory.
 + Familiar with Docker, Conan, JFrog
++ Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
 + Knowledge of cloud provider API (programming with AWS IAM, S3, CloudFormation, Lambda, EC2, CodeBuild or the equivalent from Azure, or Google Cloud Platforms)
 + Experience with Redis, Postgres, Elasticsearch
 + skill set:
