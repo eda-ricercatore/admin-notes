@@ -83,12 +83,72 @@ Skill set for DevOps:
 + Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
 + Knowledge of cloud provider API (programming with AWS IAM, S3, CloudFormation, Lambda, EC2, CodeBuild or the equivalent from Azure, or Google Cloud Platforms)
 + Experience with Redis, Postgres, Elasticsearch
++ Automate and integrate security into CI/CD pipelines, such as static code analysis and dynamic code analysis.
++ Docker, Heroku, Kubernetes
+	- Heroku is a cloud platform as a service supporting several programming languages.
++ Working knowledge of industry leading configuration management tools and methods (Salt, Ansible, Chef, Puppet, etc)
++ skill set:
+	- Knowledge or hands-on experience in Container technologies such as Docker is a plus.
+	- Knowledge of Virtual machines, Hypervisors is a plus
++ skill set:
+	- Passion for process automation
+	- Build system experience like Maven, Bazel, or Gradle
+	- Continuous integration and testing experience like Jenkins
+	- [Preferred] Kubernetes and Docker
+	- [Preferred] Experience on working with services provided by AWS, Azure, or GCP
++ skill set:
+	- Experience with large scale messaging systems like Kafka or RabbitMQ or commercial systems.
+	- Experience with working with and operating workflow or orchestration frameworks, including open source tools like Airflow and Luigi or commercial enterprise tools.
+	- Experience with pipelines that are used by many downstream teams, including non-engineering functions.
+	- Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
+	- Experience working with Apache Spark and data warehousing products.
+	- Direct experience with a log collection and aggregation system at scale.
+	- Demonstrated execution at a growth stage technology company.
 + skill set:
 	- One or more of the following languages/technologies: Electron, React, three.js, react-three-fiber, Typescript, Javascript, C++ or C#
 	- The following languages/technologies: GraphQL, PostgreSQL, TypeORM, Apollo Server
 	- Modern Development Environment - React, React-three-fiber, Flux, Electron, ZeroMQ, Protobuf, Typescript, Javascript, C#, C++, VSCode, Github, NUnit
 	- Continuous Integration - TeamCity, Chef, Terraform, Kubernetes, Docker, Jenkins
 	- Scrum - JIRA, Google Docs, Metabase, integrated QA
++ tech stack:
+	- Docker (Kubernetes)
+	- Spark (on Hadoop)
+	- Kafka
+	- Cassandra (or other NoSQL DBs)
+	- AWS and some of its services
+	- Azure and some of its services
++ Knowledge of container (docker or others) and orchestration (K8S or others) technology is a plus
++ Familiarity with automated build systems such as Jenkins or buildbot.
++ skill set:
+	- Proxmox, KVM virtualization, LXC and Docker containers
+	- large scale object storage (Ceph, cloud-based object storages)
+	- Puppet
+		* Puppet is a software configuration management tool which includes its own declarative language to describe system configuration.
+	- PostgreSQL
+	- Distributed architecture (RabbitMQ, Kafka)
+	- Icinga/Prometheus/ELK monitoring
+		* Icinga
+			+ Icinga is an open-source computer system and network monitoring application.
+				- Fork of Nagios
+					* Nagios Core /ˈnɑːɡiːoʊs/, formerly known as Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services. It alerts users when things go wrong and alerts them a second time when the problem has been resolved.
+				- Monitor Your Entire Infrastructure
+				- The Icinga stack spans six core strengths that cover all aspects of monitoring. Level up with valuable insights and on-time notifications, eye-opening visuals and analytics. Icinga easily integrates within your systems, and gives you the power to automate your tasks. Get going and stay in form!
+		* Prometheus
+			+ Prometheus (software), a monitoring system with a time series database
+			+ Prometheus is a free software application used for event monitoring and alerting. It records metrics in a time series database (allowing for high dimensionality) built using an HTTP pull model, with flexible queries and real-time alerting.
+			+ Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. 
+			+ Prometheus collects and stores its metrics as time series data, i.e. metrics information is stored with the timestamp at which it was recorded, alongside optional key-value pairs called labels.
+			+ The Prometheus monitoring system and time series database.
+			+ Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed.
++ skill set:
+	- Familiarity with containerization technologies (docker, lxc, rkt, etc.).
+	- Familiarity with container orchestration technologies (Kubernetes, Marathon, etc.).
+	- Experience working with cloud computing services providers (AWS, Google cloud platform, Azure, etc.).
+	- Experience with Elasticsearch /Apache Solr and Logstash
+	- Experience working with Real-time messaging and NoSQL infrastructures: Redis, RabbitMQ, Celery, Kafka, etc.
+	- Scalable data processing techniques: Kafka, Spark, ElasticSearch, Celery
+	- Real-time messaging and NoSQL infrastructures: Redis, RabbitMQ
+	- Have proven experience with ORMs (e.g. Django) and RDBMS (e.g. MySQL) including development of complex SQL queries.
 + skill set:
 	- What You’ll Do:
 		* Be a key member of the Anaconda Enterprise team

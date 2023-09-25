@@ -576,7 +576,7 @@ Sets of skills for embedded software development roles:
 
 
 
-##	Automotive Software Development Roles
+###	Automotive Software Development Roles
 
 
 Sets of skills for embedded software development roles, in the automotive industry, or for automotive software:
@@ -701,6 +701,95 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
 	- The willingness and ability to travel are required.
 	- Fluent in English, German and Chinese is a plus.
+
+
+
+
+
+###	Skill Sets for Device Driver Development
+
+
+
+
+
+
++ skill set:
+	- Development, testing, analysis, and documentation of Linux device drivers
+	- Development of new features and programs, as well as, enhancements, modifications, and corrections to existing software.
+	- Experience in Linux driver development (I2C/SPI/UAR/PCI/USB)
+	- Experience in software optimization code development within the Linux environment
+	- Strong C/C++ experience
+	- Knowledge of Git
++ Knowledge of OS/driver software stacks, e.g., Linux/QNX.
++ skill set:
+	- Experience in ISP driver, or V4L2 is strongly desired
+	- Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, etc.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

@@ -542,7 +542,10 @@ Skill set for GIS-based software applications, computer systems, and cyber-physi
 	- Bayesian image analysis, Bayesian statistics, optimization methods
 	- sensor and image fusion, multi-scale and multi-temporal data processing, video processing, 3-D scene reconstruction methods
 + Location technologies (maps, GIS).
-
+* OpenLayers
+	* OpenLayers is a free, open source JavaScript library that lets you display dynamic maps from any source. 
+	* OpenLayers is an open-source JavaScript library for displaying map data in web browsers as slippy maps. It provides an API for building rich web-based geographic applications similar to Google Maps and Bing Maps.
+	* OpenLayers makes it easy to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source. OpenLayers has been developed to further the use of geographic information of all kinds.
 
 
 

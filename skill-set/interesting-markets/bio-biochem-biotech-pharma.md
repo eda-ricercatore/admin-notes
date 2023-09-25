@@ -24,6 +24,8 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 	- engineering lab-on-chips, LoCs
 	- engineering digital microfluidics, DMFs
 + Discrimination of commensals and pathogens by gut neuronal circuits.
++ Good understanding of high-throughput single cell assays such as single cell transcriptomics, single-cell epigenomics, FACS, and CyTOF.
++ Experience with RNA-seq, ATAC-seq and/or ChIP-seq experiments and data at the single cell level.
 + skill set:
 	- BLAH.
 + skill set:
@@ -80,6 +82,17 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 
 ## R&D roles in Bio Design Automation, BDA
 
+
++ skill set:
+	- Design and architect the backend for our computer aided genetic circuit pipeline, including the genetic compiler and simulation engine
+		* This is ***bio design automation***, BDA.
+	- Develop our cloud infrastructure, data warehouse, build and deploy system, and machine learning platform. You will drive discussion and decisions on microservices vs monoliths, managed services vs deployed, etc.
+	- Work on tooling to help improve the efficiencies of our synthetic biologists including data analysis platforms and robotic automation
+	- solid at communicating architectures internally through clear design documents
+	- embracing ambiguity and driving for impact
+	- excited to partner closely with and learn from our synthetic biology team
+	- interested in helping define the company product, direction and culture
+	- You are a highly skilled technical lead in software engineer with years of experience in industry. You are passionate about joining an early stage startup where autonomy, passion to learn and excitement to engineer biology take precedence over process and ego. If you have a background in genetics or cellular biology, great! If not, you have strong experience with ETL systems, data storage and access, cloud infrastructures, build and deploy systems with a passion to learn the science.
 + skill set:
 	- You will lead key customer software efforts starting from requirements gathering and architecture formulation through development, testing, and deployment cycles. You will build technically and aesthetically crisp software in a primarily reactive web programming environment. The stack will vary based on customer specifications, so flexibility is preferred to strict adherence to one specific stack, but ReactJS + GraphQL + NoSQL + Typescript is our most utilized set of technologies. Coding quality and robust functionality is most important, regardless of language.
 	- You will work with a team of experts in algorithms, software design, synthetic biology, and interface design. Your role will include the translation of algorithms and application requirements into feasible architectures, and ultimately, into code that is performant, readable, and flexible. As a leading member of the software team you will also engage in project management activities including but not limited to customer engagement, project task management, scheduling, and recruitment of new programming talent.
@@ -198,6 +211,35 @@ Skill set for graduates from (advanced) degree programs in biology, biochemistry
 
 Skills for R&D roles in bio manufacturing automation () cloud robot lab
 + skill set:
+	- Architect the overall automation software, hardware, wetware ecosystem including hardware configurations, experimental protocols, and software control and scheduling systems.
+	- Mentor other automation engineers.
+	- Design, create, and deploy software to schedule, control, and manage the automation system.
+	- Design, configure, and assemble a state-of-the-art automation system for biological engineering.
+	- Work with synthetic biologists to translate manual protocols into automated processes and validate them at high throughput.
+	- Work with hardware engineers to develop custom automation hardware to physically perform synthetic biology's experimental procedures.
+	- Work with software engineers to develop custom software tools to schedule, control, and manage the automation system.
+	- Develop metrics to measure and track the success of the automation platform.
+	- Partner with automation vendors to vet software platforms and work to integrate them into our larger pipeline though the development of new APIs and methods.
+	- Partner with automation vendors to obtain new hardware, develop new prototype hardware elements, build interfaces, and integrate hardware into the automation platform.
+	- Embrace ambiguity and drive for impact.
+	- Contribute to the company's product, direction, and culture.
+	- B.S. or higher degree in Bioengineering, Computer Science or a related field. PhD preferred.
+	- 5+ years direct experience in biotechnology industry. 2+ years directly with automation.
+	- Strong coding skills in modern software development environments. GitHub (or similar) portfolio of work ideal.
+	- Publication or patent record related to biotechnology.
+	- Strong written and oral communication skills.
+	- Ability to physically relocate to Cambridge, Massachusetts.
+	- You are a highly skilled programmer with years of experience in industry or research. You want to work on software development projects with strong algorithmic and research foundations. You are highly skilled technical lead in laboratory automation with years of experience in industry or research. You are passionate about joining an early stage startup where autonomy, passion to learn, and excitement to engineer biology take precedence over process and ego. You ideally have some laboratory automation and biology wetlab experience. You are interested in learning more about how to integrate hardware, software, and wetware.
++ skill set:
+	- Design, configure, and assemble a state-of-the-art automation system for biological engineering.
+	- Work with synthetic biologists to translate manual protocols into automated processes and validate them at high throughput.
+	- Work with software engineers to develop custom software tools to schedule, control, and manage the automation system.
+	- Develop metrics to measure and track the success of the automation platform.
+	- Partner with automation vendors to obtain new hardware, develop new prototype hardware elements, build interfaces, and integrate hardware into the automation platform.
+	- Embrace ambiguity and drive for impact.
+	- Contribute to the company's product, direction, and culture.
+	- You are a highly skilled technical lead in laboratory automation with years of experience in industry or research. You are passionate about joining an early stage startup where autonomy, passion to learn, and excitement to engineer biology take precedence over process and ego. You ideally have some software programming and biology wetlab experience. You are interested in learning more about how to integrate hardware, software, and wetware.
++ skill set:
 	- 1 - 3 years of experience working in either a laboratory environment or regulated manufacturing industry (Pharmacuetical, Medical Device, Biotechnology, Automotive, etc.)
 	- Experience working in a Good Manufacturing Practices/Good Laboratory Practices (GMP/GLP) environment
 + skill set:
@@ -293,6 +335,23 @@ Skills for R&D roles in bio manufacturing automation () cloud robot lab
 
 
 Skill sets for bioinformatics:
++ skill set:
+	- Developing scalable bioinformatics algorithms, pipelines and tools to solve complex, distributed computing challenges
+	- Providing statistics, scientific computing and data analysis support to research, product development and manufacturing operations
+	- BS in bioinformatics or related field with 6-8 years industry experience or MS/PhD in bioinformatics or related field with 4-6 years industry experience
+	- Advanced proficiency in Python, R or Rust in a Linux environment
+	- Broad experience with NGS data analysis, manipulation and presentation (in Python or R)
+	- Excellent data analysis and visualization skills (in Python, R and using tools like Tableau)
+	- Excellent understanding of molecular biology, with an emphasis on DNA chemistry preferred
+	- Proven ability to synthesize and present conclusions from complex analyses in a clear and visually compelling way
+	- Familiarity with common tools and file formats for genome-scale interval data manipulation and analysis (e.g. bedtools, bedops, etc.)
+	- Formal software development experience, the software development lifecycle, unit and functional testing (via py.test) and version control via Git
+	- Familiarity with database (PostgreSQL, NoSQL and Redshift) design, implementation and efficient query construction
+	- Experience building and using Docker containers
+	- Familiarity with cloud-based computing environments, especially Amazon Web Services
+	- Experience using workflow management tools (e.g. Airflow, Galaxy, Luigi)
+	- Familiarity with web application development including building REST-ful interfaces
+	- Familiarity with DNA analysis software (MacVector, VectorNTI, SnapGene)
 + skill set:
 	- We have an opening for a bioinformatician in the Bedford lab at the Fred Hutch to work on genomic epidemiology and evolutionary analysis of pathogens such as SARS-CoV-2, seasonal influenza, and other emerging and endemic pathogens. This position will contribute to ongoing work for the Bedford lab and Nextstrain.
 	- Nextstrain is an award-winning project for tracking infectious disease epidemics developed in collaboration with the Neher lab at the University of Basel. Nextstrain won the Open Science Prize in Feb 2017 and has been instrumental in analysis of the SARS-CoV-2 pandemic, Ebola outbreaks, Zika spread in the Americas and is used by the World Health Organization to aid in the process of influenza vaccine strain selection. The software we write to power all parts of Nextstrain—bioinformatics, visualizations, analysis pipelines, data management, and more—is entirely open-source and available to the public. We work with public health entities and scientists across the world, both formally and informally, to expand pathogen surveillance capabilities and to improve the automation and robustness of these analyses. Our goal is to empower the wider genomic epidemiology and public health communities to tweak our analyses, create new ones, and communicate scientific insights using the same tools we do.
@@ -557,8 +616,42 @@ Skill sets for computational pharmacology:
 
 
 
-
-
++ Ideal candidate would have experience with metabolomic datasets and familiarity with analytical chemistry/assay methods, automation systems, and LIMs
+	- LIMs???
+		* for lab data management
+		* LIMS: laboratory information management systems
+			- or, LIMs: laboratory information management systems
+			- or, LIS: laboratory information systems
+			- or, LMS: laboratory management systems
++ skill set:
+	- Experience in at least one of the following sequencing methodologies: cell-free DNA sequencing, methylation sequencing, single cell sequencing
+	- Deep understanding of next generation sequencing methods, platform-specific bias and errors, and data interpretation
+	- Hands-on experience with large-scale genomic data (e.g. whole genome sequencing, exome-seq, target enrichment, amplicon sequencing, RNA-seq, etc.)Hands-on experience with genome alignment, mapping, variant calling, and annotation tools
+	- Familiarity with human and mammalian genomics, standard genomic databases (UCSC, Ensembl, NCBI), formats, and tools.
+	- Proficiency in python, ruby, Perl, or another high-level scripting language (Python highly preferred)
+	- Familiarity with UNIX-based operating systems and shell scripting
+	- Excellent data analysis and visualization skills (Tableau, R, matplotlib, or similar)
+	- Excellent understanding of molecular biology and cell biology
+	- Experience with Seven Bridges, DNA Nexus or similar platform
++ skill set:
+	- M.S. or Ph.D. degree in Genetics, Biology, Bioinformatics, Biostatistics, Computational Biology, Computer Science, or related field
+	- Knowledge and experience in the field of cancer or rare disease genomics.
+	- Experience in at least one of the following sequencing methodologies: cell-free DNA sequencing, methylation sequencing, single cell sequencing
+	- Deep understanding of next generation sequencing methods, platform-specific bias and errors, and data interpretation
+	- Hands-on experience with large-scale genomic data (e.g. whole genome sequencing, exome-seq, target enrichment, amplicon sequencing, RNA-seq, etc.)
+	- Hands-on experience with genome alignment, mapping, variant calling, and annotation tools
+	- Familiarity with human and mammalian genomics, standard genomic databases (UCSC, Ensembl, NCBI), formats, and tools.
+	- Proficiency in python, ruby, Perl, or another high-level scripting language (Python highly preferred)
+	- Familiarity with UNIX-based operating systems and shell scripting
+	- Excellent data analysis and visualization skills (Tableau, R, matplotlib, or similar)
+	- Excellent understanding of molecular biology and cell biology
+	- Strong interpersonal communication skills
+	- Excellent publication track record
+	- Additional desired qualities include:
+		* Familiarity with version control (git, subversion)
+		* Experience with target enrichment
+		* Experience in clinical laboratory testing
+		* Experience with Seven Bridges, DNA Nexus or similar platform
 + tech stack:
 	- M.Sc/Ph.D. in Computer Science, Statistics, Cheminformatics, Bioinformatics, Computational Biology or B.S. in Computer Science with 7+ years experience.
 	- Strong computer science fundamentals

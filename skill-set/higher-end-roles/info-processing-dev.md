@@ -429,7 +429,7 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
++ Experience with CoreAudio, Audio Unit, ASIO and VST APIs.
 + skill set for research in Binaural 3D audio:
 	- advanced technical research, architecture evolution design and strategic technical planning
 	- Audiovisual Technology Lab in Huawei Munich Research Center is developing innovative technologies on spatial audio processing and rendering. You will contribute to these activities being inserted into an international and experienced team of researchers.
@@ -940,6 +940,11 @@ reactive programming = asynchronous dataflow programming
 + Knowledge of Linux and/or Windows programming and computer graphics including OpenCL\*, OpenGL\*, DirectX\*
 + Experience with low-level Graphics APIs (D3D12/Vulkan)
 + Familiarity with one or more of the following software: Unreal Engine, Unity, Maya, Houdini
++ skill set:
+	- Experience developing virtual world environment for games, such as Lumberyard, Unity3d, Unreal, CryEngine and/or other world simulation environments
+	- Experience with graphics APIs and frameworks such as OpenGL, DirectX, or Vulkan
+	- Experience with physics engines (e.g. Bullet, Havok, PhysX)
+	- Experience developing agent behaviors, physics, gameplay, tools, or GUIs
 + Experience of Unity, C# and 3D application development.
 	- Unity
 		* Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
@@ -1040,6 +1045,13 @@ reactive programming = asynchronous dataflow programming
 	- Experiences in application frameworks on different OS (Windows, Mac, iOS, Android)
 	- Strong mathematical background
 + GPU APIs: OpenGL, DirectX, ...
++ At least one graphics API (OpenGL, Direct 3D, Vulkan)
+	- Vulkan:
+		* low-overhead, cross-platform API, open standard for 3-D graphics and computing
+		* high-performance real-time 3-D computer graphics applications, such as:
+			+ video games
+			+ interactive media
+			+ highly parallelized computing
 + skill set:
 	- BLAH.
 + skill set:
@@ -1277,6 +1289,7 @@ These skill sets for extended reality, includes skill sets for the following:
 + skill set:
 	- Work in an agile, CI/CD based, test-driven development environment
 	- Semantic Web (RDF/SPARQL)
++ Experience with applied ontology development (RDF(S)/OWL, SPARQL, the Semantic Web or Frame based KR systems).
 + skill set:
 	- BLAH.
 + skill set:

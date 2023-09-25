@@ -23,6 +23,8 @@ reactive programming = asynchronous dataflow programming
 
 
 
++ ***Polyglot developer*** (e.g. Java, NodeJS, Python)
++ Interesting projects with technologies like Scala, Java, Groovy, Akka, SpringBoot, Cassandra, MongoDB, Apache Kafka, JavaScript, TypeScript, React, Angular.
 + ***software stacks***, or ***solution stacks***, from [WikipediaContributors2022b]:
 	- BCHS:
 		* OpenBSD (operating system)
@@ -246,6 +248,24 @@ reactive programming = asynchronous dataflow programming
 	- AWS
 	- Kafka
 	- Envoy
++ skill set:
+	- API rest
+	- Ruby on Rails
+	- CDNs
+	- Microservices
+	- Python
+	- MySQL
+	- Bento4
+	- FFmpeg
+	- Docker
+	- We are looking for students or graduates with strong knowledge of objected-oriented programming, SQL and NoSQL.
++ Enjoys working and deploying technologies such as Chef, AWS, Ruby, Rails, MySql, and Redis
+	- Chef
+		* Chef (software), an open source configuration management tool
+		* Progress Chef (formerly Chef)[4] is a configuration management tool written in Ruby and Erlang. It uses a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". Chef is used to streamline the task of configuring and maintaining a company's servers, and can integrate with cloud-based platforms such as Amazon EC2, Google Cloud Platform, Oracle Cloud, OpenStack, IBM Cloud, Microsoft Azure, and Rackspace to automatically provision and configure new machines. Chef contains solutions for both small and large scale systems.
+	- Redis
+		* Redis (/ˈrɛdɪs/;[6][7] Remote Dictionary Server)[6] is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability.[8] Because it holds all data in memory and because of its design, Redis offers low-latency reads and writes, making it particularly suitable for use cases that require a cache. Redis is the most popular NoSQL database
+		* The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
 + skill set:
 	- Preferably 8 years experience and deep knowledge of Python, Ansible, Postgres, JavaScript, Django, Terraform and AWS services.
 	- Experience with Docker, Kubernetes, GIT, and Splunk.
@@ -960,6 +980,26 @@ reactive programming = asynchronous dataflow programming
 + Technical Skills needed: vSphere, vSAN, NSX, vROps, Storage, Database, Middleware, and Scripting
 + You highly experienced with JavaScript/Node.js, SQL/NoSQL databases
 + Proficiency in React, TypeScript, GraphQL, Python, and Django (or a similar stack)
++ Experience with our web stack (React, Redux, TypeScript, protobuf, Apollo, GraphQL) and Spark
++ technologies/frameworks:
+	- ReactJS
+	- Java/Scala
+	- Spark
+	- Ruby/JRuby
+	- ElasticSearch
+	- MySQL
+	- Kubernetes
+	- Amazon Web Services
+	- MS Azure
+	- Google Cloud Platform
++ skill set:
+	- Passionate about developer experience: you want tools to be fast, CLIs intuitive, giving your colleagues (and yourself) the best experience possible doing development at Databricks.
+	- Passionate about automation: automated workflows, automated testing, automated deployments, automated monitoring, our job is to automate away any tedious work out of our own lives and that of our fellow engineers
+	- Comfortable in a heterogeneous environment and able to quickly learn new technologies. The team deals with a variety of environments from Kubernetes services to Jenkins automation, Scala libraries to Python scripting, writing graph algorithms to debugging 3rd-party Javascript, Dev-Tools does it all.
+	- Able to quickly learn their way around unfamiliar codebases: Dev-Tools routinely dives into unfamiliar third-party projects (in unfamiliar languages!), pushing them far beyond what they say they can do “on the box”
+	- Experience with Continuous Integration/Continuous Deployment frameworks
+	- Experience with monitoring frameworks for large systems
+	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
 + skill set:
 	- BLAH.
 + skill set:
@@ -1012,6 +1052,40 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
+
++ Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala)
++ skill set:
+	- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).
+	- Commercial experience with REST, RPC and message exchange protocols.
+		* REST
+			+ Representational state transfer (REST), a software architecture
+				- REST (Representational state transfer) is a software architectural style that was created to guide the design and development of the architecture for the World Wide Web. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave. The REST architectural style emphasises the scalability of interactions between components, uniform interfaces, independent deployment of components, and the creation of a layered architecture to facilitate caching of components to reduce user-perceived latency, enforce security, and encapsulate legacy systems.
+			+ reStructuredText (ReST or reST), a file format for textual data
+				- reStructuredText (RST, ReST, or reST) is a file format for textual data used primarily in the Python programming language community for technical documentation.
+		* RPC
+			+ In distributed computing, a remote procedure call (RPC) is when a computer program causes a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), which is written as if it were a normal (local) procedure call, without the programmer explicitly writing the details for the remote interaction. That is, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote. This is a form of client–server interaction (caller is client, executor is server), typically implemented via a request–response message-passing system. In the object-oriented programming paradigm, RPCs are represented by remote method invocation (RMI). The RPC model implies a level of location transparency, namely that calling procedures are largely the same whether they are local or remote, but usually, they are not identical, so local calls can be distinguished from remote calls. Remote calls are usually orders of magnitude slower and less reliable than local calls, so distinguishing them is important.
+			+ RPCs are a form of inter-process communication (IPC), in that different processes have different address spaces: if on the same host machine, they have distinct virtual address spaces, even though the physical address space is the same; while if they are on different hosts, the physical address space is different. Many different (often incompatible) technologies have been used to implement the concept.
+	- Experience with frameworks such as: Gin, Gorilla, Dep, Ginkgo
+		* Gin, Gin Web Framework, full-featured web framework for Go
+			+ martini: Classy web framework for Go
+		* Gorilla: Web toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications.
+		* Dep
+		* Ginkgo
+			+ Ginkgo is a testing framework for Go programming language, which is designed to facilitate writing behavior-driven (BDD) tests. It provides a simple and intuitive syntax for writing test suites, cases and assertions, making it easier to write, read and maintain tests.
+			+ Ginkgo is a mature testing framework for Go designed to help you write expressive specs.
+	- Knowledge around message queuing and distributed tasking (SMS,ZeroQ, RabbitMQ etc)
+		* ZeroQ
+			+ ZEROQ enables mixed-precision quantization without any access to the training or validation data. This is achieved by optimizing for a Distilled Dataset, which is engineered to match the statistics of batch normalization across different layers of the network. ZEROQ supports both uniform and mixed-precision quantization.
+			+ ZeroMQ (also spelled ØMQ, 0MQ or ZMQ) is an asynchronous messaging library, aimed at use in distributed or concurrent applications. It provides a message queue, but unlike message-oriented middleware, a ZeroMQ system can run without a dedicated message broker; the zero in the name is for zero broker. The library's API is designed to resemble Berkeley sockets.
+			+ ZeroMQ is developed by a large community of contributors, founded by iMatix, which holds the domain name and trademarks. There are third-party bindings for many popular programming languages.
+		* RabbitMQ
+			+ RabbitMQ is an open-source message-broker software (sometimes called message-oriented middleware) that originally implemented the Advanced Message Queuing Protocol (AMQP) and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol (STOMP), MQ Telemetry Transport (MQTT), and other protocols.
+			+ RabbitMQ is the most widely deployed open source message broker.
+			+ RabbitMQ is compared with Apache Kafka
+	- Working knowledge in Kubernetes, Rancher or Docker swarm.
+		* Rancher
+	- Ability to write clean and effective Godoc comments
 + micro Web frameworks, or Web microframeworks:
 	- Flask
 	- Tornado
@@ -2128,7 +2202,9 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
+* ES6
+	- Javascript ES6
+	- The ECMAScript language includes structured, dynamic, functional, and prototype-based features. Imperative and structured ECMAScript JavaScript supports C style structured programming.
 + skill set:
 	- JavaScript technologies
 		* React

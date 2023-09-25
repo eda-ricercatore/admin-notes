@@ -20,6 +20,14 @@
 
 
 Generic sets of skills in photonics engineering:
++ Programming experience in Python and MATLAB. Experience with LabView, VPItransmissionMaker, Tensorflow is a plus.
+	- VPItransmissionMaker (+ VPIcomponentMaker)
+		* VPItransmissionMaker Optical Systems
+			+ accelerate the design of photonic systems, including short-range, access, metro, and long haul optical trransmission systems
+			+ for:
+				- bidirectional links
+				- ring networks
+				- mesh networks
 + skill set:
 	- JMP or DataConductor for Big Data analysis
 	- free-space design software, such as Zemax and Code-V

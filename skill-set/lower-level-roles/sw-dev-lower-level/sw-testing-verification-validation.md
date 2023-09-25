@@ -68,6 +68,8 @@
 	- Very experienced in writing test plans, and design test suits for a new product.
 	- BS or higher in computer/software engineering, electrical engineering, or related field
 + 5+ years of experience on Dev/Test tools such as Git, Jenkins, Jira, Robot Framework/pytest,  Zephyr Scale/qTest, Grafana etc.
++ Knowledges of Web test frameworks like ***Selenium, React.js, Headless Chromium*** is a plus
++ Automated testing: Karma, Protractor
 + skill set:
 	- Software Engineer in Test
 	- Splunk is looking for an enthusiastic and innovative test engineer to take an active role in crafting the quality of our web application, empowering our customers to quickly detect, troubleshoot and resolve their infrastructure and application issues.

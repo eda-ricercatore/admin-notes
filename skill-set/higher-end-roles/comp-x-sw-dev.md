@@ -906,6 +906,9 @@ Emerging technologies that would be interesting application domains of computati
 
 
 
+
+
++ Experience with CUDA, VTK/ITK, and/or physics based simulation
 + skill set:
 	- Experience in developing and debugging multi-threaded/parallel applications.
 	- Experience in image processing, computational geometry, large data application, high performance computing and scientific simulation is a good plus.
@@ -1392,6 +1395,7 @@ Skill set for software development for parallel programming, especially on heter
 	- Experience in parallel programming
 	- Experience in parallel programming models (e.g. OpenMP) is a plus
 	- Excellent communication and writing skills in English
++ Demonstrated expertise with C++ with at least one of std::thread / OpenCL / CUDA
 + skill set:
 	- BLAH.
 + skill set:

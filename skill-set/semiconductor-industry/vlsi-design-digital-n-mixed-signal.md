@@ -1427,6 +1427,18 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
++ Good understanding of protocols like AXI, ACE, ACP, CHI etc.
+	- AXI: 
+		* for AMBA AXI, AMBA Advanced eXtensible Interface
+			+ AMBA: Advanced Microcontroller Bus Architecture
+	- ACE:
+		* AMBA ACE, AMBA AXI Coherency Extensions (in 2011)
+	- ACP:
+		* ACP: Association Control Protocol
+		* Accelerator Coherency Port (ACP)
+			- used for cache coherency with Cache Coherent Interface, CCI
+	- CHI:
+		* AMBA CHI, AMBA Coherent Hub Interface (in 2014)
 + Bus interface knowledge like AXI or PCIE
 + Familiar with AMBA/AXI bus protocol
 + Knowledge of high-speed protocols such as PCI Express, CXL, DDR and HBM, Ethernet, USB, and MIPI

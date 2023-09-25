@@ -293,6 +293,7 @@ Skills related to software development for enterprise search engines:
 ##	Software Development for API Development
 
 
++ API development
 + Develop public APIs on APIGEE, for API management and predictive analytics software
 
 
@@ -633,7 +634,14 @@ Skills related to software development for enterprise search engines:
 			+ Interior Point Differential dynamic programming (IPDDP) is an interior-point method generalization of DDP that can address the optimal control problem with nonlinear state and input constraints.
 		* Distributed Data Protocol, a client-server protocol for querying and updating a database
 		* Datagram Delivery Protocol (DDP) is a member of the AppleTalk networking protocol suite. Its main responsibility is for socket-to-socket delivery of datagrams over an AppleTalk network.
-+ API development
-
++ Areas of interest:
+	- Distributed and parallel systems
+	- Information retrieval
+	- Large software systems
+	- Web application development
+	- Database management
+	- Cloud computing
+	- Cloud security
+	- DevOps
 
 

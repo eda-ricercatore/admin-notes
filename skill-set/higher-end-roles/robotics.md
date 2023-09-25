@@ -360,6 +360,14 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 Sets of skills for autonomous road vehicles:
++ robotics engineering:
+	- Background in multiple of the following: SLAM, mapping, localization, calibration, sensor fusion, tracking, scene understanding, robotic systems.
+	- Experience in multiple of the following: non-linear optimization, 3D geometry, state estimation.
+	- Experience with advanced algorithms, data structures and working with real sensor data.
+	- Experience with Python and developing in the Linux and/or Mac OS environment.
+	- Familiarity with real-time, multi-process and multi-threaded coding.
+	- Strong C++ development skills.
+	- Be an essential part of a team of engineers and scientists developing state-of-the-art estimation algorithms used for a variety of tasks, including calibration, localization and tracking.
 + Familiarity with modern planning approaches including randomized search methods and trajectory optimization
 + skill set:
 	- As a Research Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
@@ -368,6 +376,7 @@ Sets of skills for autonomous road vehicles:
 	- Strong mathematics and analytical skills
 	- Work experience in deep learning platforms such as Caffe or Tensorflow
 	- Domain knowledge and implementation experience with Lidar/Visual SLAM/Odometry.
++ Installation, setup and calibration of MOCAP system, binocular cameras
 + skill set:
 	- Extensive knowledge in Communication Protocols (USB, CAT5/6, CAN, UART, I2C, SPI)
 	- Minimum 2 years of experience with python, C++, able to debug various applications, e.g: proprietary software and third-party software

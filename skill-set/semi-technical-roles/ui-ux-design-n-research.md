@@ -67,6 +67,10 @@ Types of interfaces:
 	- Some experience with design tools (Figma, Sketch, Photoshop, Illustrator, etc.)
 	- Some experience with interactive prototyping tools (Framer, Principle, Origami, Invision Studio, etc.)
 	- Excellence in design craft
++ UI/UX:
+	- Experience using design tools such as Photoshop, Illustrator, Sketch, InDesign, etc. for creating highly-detailed mockups
+	- Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
+	- Bootstrap, bulma, etc.
 + skill set:
 	- Distinguished Engineer-  Cloud Architect (Remote)
 	- Be part of our journey as we transform our security product offerings to be Cloud Native Solutions. This includes every product with our product portfolio; SEIM, UBA and SOAR.  All these offerings are tied together with our reinvented security operations product, Splunk® Mission Control  This enables enterprises to say goodbye to “swivel chair security. Mission Control is a unified cloud-based platform that brings together security data, analytics and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain and remediate threats — all from one place — resulting in faster, more efficient and more effective security operations.
@@ -389,7 +393,7 @@ Quantitative UX research methods:
 	- Effective interpersonal, communication, negotiation, and collaboration skills.
 	- Ability to drive and steer medium-to-high complexity research projects independently.
 	- Experience with enterprise software is a major plus
-
++ Experience in a UGC (user generated content) environment
 
 
 

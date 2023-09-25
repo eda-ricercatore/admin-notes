@@ -38,7 +38,7 @@ Cool soft skills to acquire:
 	- understand the trade-offs between choices of technologies and programming languages
 + use empathetic communication in technical discussions, such as during disagreements, to thoughtfully engage other perspectives and compromise when needed.
 	- communicate nuanced ideas clearly
-
++ You find the 10% work that gets us 90% of the value
 
 
 

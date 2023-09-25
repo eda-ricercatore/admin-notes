@@ -7,6 +7,9 @@
 
 
 
++ Cross platform C++17, OpenCL, Qt/QML, git, Python 3, clang-tidy, clang-format, Jenkins, CMake, Catch2, Docker, Vagrant, KVM, C++/CLI.
++ Work with cutting edge technologies such as C++17 (anything that passes VS2017, latest Clang, GCC, clang-tidy, ...). C++/CLI, GPGPU, Python, Jenkins, docker, KVM, libclang, boost, Qt and CMake
++ Very strong programming skill in C++14. You will be expected to know and use C++ templates, lambdas, and high-performance data structures.
 + skill set:
 	- System Software engineer, Staff
 	- SiFive is seeking an experienced System Software Engineer for our System Software group.  The SiFive System Software group develops critical software components for our Core and Intelligence processors, from firmware and bare-metal to high-level OS and AI runtime code.  The team is global, spanning several worldwide sites, working together as one group.   We believe that engineers create most of the value in the company.  Our management chain has a strong engineering and software development background.  We believe in open, honest, and direct communication; mutual respect; and seek strong communicators and listeners.
@@ -119,6 +122,7 @@
 	- Experience with open source development
 	- Knowledge of Git or similar
 	- Good understanding on SDN/NFV, Virtual Switching, cloud native
++ Experience with monitoring (NewRelic, Prometheus, PagerDuty)
 + skill set:
 	- BLAH.
 + skill set:
@@ -149,95 +153,6 @@
 	- BLAH.
 
 
-
-
-
-
-
-###	Skill Sets for Device Driver Development
-
-
-
-
-
-
-+ skill set:
-	- Development, testing, analysis, and documentation of Linux device drivers
-	- Development of new features and programs, as well as, enhancements, modifications, and corrections to existing software.
-	- Experience in Linux driver development (I2C/SPI/UAR/PCI/USB)
-	- Experience in software optimization code development within the Linux environment
-	- Strong C/C++ experience
-	- Knowledge of Git
-+ Knowledge of OS/driver software stacks, e.g., Linux/QNX.
-+ skill set:
-	- Experience in ISP driver, or V4L2 is strongly desired
-	- Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, etc.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
 
 
 

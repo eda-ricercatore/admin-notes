@@ -476,6 +476,10 @@ Roles in computing security:
 	- Experience using software version control systems/Git and GitHub
 	- Ability to engineer solutions using Python, Ruby or Go
 + Experience with security technologies (SSO, SAML, Okta etc).
++ Testing and directly mitigating against common application security issues such as the [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
++ Perform analysis of security incidents & threat actors for further enhancement of Detection Catalog and Hunt missions by leveraging the MITRE ATT&CK framework.
++ Experience with information security tools such as an enterprise SIEM solution (Splunk preferred), IDS/IPS, endpoint security, EDR and security monitoring solutions (NSM,DLP,Insider, etc).
++ Authentication: CAS (Java)
 + skill set:
 	- BLAH.
 + skill set:

@@ -322,6 +322,16 @@ Notes on cloud computing:
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
 + Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
 + skill set:
+	- 2+ years of cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)
+	- Familiarity with Continuous Integration tools (e.g., Jenkins, Travis)
++ skill set:
+	- Linux
+	- Puppet
+	- nginx
+	- AWS
+	- Datadog
+	- Cloudformation
++ skill set:
 	- C3.ai, Inc. (NYSE:AI) is a leading provider of Enterprise AI software for accelerating digital transformation. C3 AI delivers a family of fully integrated products: C3 AI® Suite, an end-to-end platform for developing, deploying, and operating large-scale AI applications; C3 AI Applications, a portfolio of industry-specific SaaS AI applications; C3 AI CRM, a suite of industry-specific CRM applications designed for AI and machine learning; and C3 AI Ex Machina, a no-code AI solution to apply data science to everyday business problems. The core of the C3 AI offering is an open, model-driven AI architecture that dramatically simplifies data science and application development. Learn more at: www.c3.ai
 	- We are looking for a seasoned and motivated Software Engineers to build the next generation AI platform scaling to several petabyte level data volumes.
 	- As a member of C3 AI's growing platform team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have a passion for finding elegant solutions to complex problems.
@@ -1149,6 +1159,7 @@ Notes about Software as a Service, SaaS:
 ###	Skill Sets for Software as a Service (SaaS)
 
 
++ Collaborate with engineering and product teams to design, develop, and publish software supporting a highly available, fault-tolerant SaaS platform
 + skill set:
 	- Cloud SaaS Architect – Italy
 	- Layout roadmap, design, plan, and implement scalable information technology solutions that meet current and future business needs together with the Platform Engineering Director
