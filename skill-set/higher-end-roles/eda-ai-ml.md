@@ -5045,6 +5045,7 @@ Skill sets for application engineers of different EDA products:
 	- You preferably have experience with data processing and storage frameworks like ***Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka***, etc.
 	- Extensive publication record at peer-reviewed ML conferences (e.g. ***NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI***, etc) as well conferences with applied ML (e.g. ***KDD, WSDM, WWW, CIKM, RecSys***, etc).
 + ***"Knowledge of Bayesian Global Optimization tools and technique"***
++ Familiarity with neural network framework such as ***Caffe, Torch, Theano, TensorFlow, CNTK***
 + vw / xgboost
 	- vw
 		* Vowpal Wabbit (VW) is an open-source fast online interactive machine learning system library and program developed originally at Yahoo! Research, and currently at Microsoft Research.
@@ -5875,6 +5876,8 @@ Skill sets for application engineers of different EDA products:
 	- Java, mahout, Hadoop
 	- Scala, Spark, SparkML
 	- Spark with Python, numpy and pandas
++ Experience in one application field (***Image processing, ADAS, FinTech, CyberSecurity***)
+	- ADAS: advanced driver-assistance system
 + skill set:
 	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
 	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
@@ -5994,6 +5997,85 @@ Skill sets for application engineers of different EDA products:
 	- MSG.AI
 	- Keepers - Advanced Child Monitoring
 	- Neura - User Awareness with AI
++ skill set:
+	- Software Engineer, Model Inference
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- We are looking for a systems expert to be one of our founding engineers, who’s excited to reinvent programming languages with AI and enable a software engineering revolution powered by AI. We can teach you the AI part, as we’ve taught over 100k people around the world.
+	- You’ll be working directly with the founders, influencing the product direction, and playing a key role in leading and growing our team. 
+	- Most of all, we’re looking for someone who is eager to iterate fast on building new ML cloud systems, and is hungry to build and own enormous contributions.
+	- 2+ Experience building and rapidly prototyping production cloud based software
+	- 2+ years of experience in researching or contributing to ML/DL systems and frameworks
+	- Strong coding skills (in at least one of Python and C++)
+	- Solid fundamentals in machine learning and deep learning topics
+	- Demonstrated fluency with data structures, algorithms, architecture, and agile software best practices in any language
+	- Desire to work in an inclusive and collaborative environment
+	- An interest in continually learning from others, teaching others, and digging into new challenges
+	- Desire to create speed of light training and inference systems for next-generation AI
+	- Deep technology expertise in machine learning systems, e.g. TinyML, Triton, CUDA, ROCm, Exo, MLIR, Halide, etc
+	- Software architect of a programming system or language
+	- Solid fundamentals in other computer science and computer engineering topics: algorithms and data structures, operating systems, computer architecture, etc.
+	- Experience with GPU architecture and programming: CUDA and its related libraries and toolkits (e.g., cuDNN, cuBLAS, CUTLASS, nvprof, Nsight Compute, Nsight Systems, etc.); ROCm and its related libraries and toolkits.
++ skill set:
+	- Machine Learning Engineer
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- We are looking for exceptionally talented Machine Learning Engineers to join our small team. You will be responsible for end-to-end ownership of scalable Machine Learning systems — from data pipelines, to training, to analyzing performance in a production environment. Since you’ll be joining an early-stage startup at the ground level, you’ll need to be able to wear multiple hats and thrive while working in a dynamic environment. 
+	- Design and train new production-ready machine learning models. You will lead the development of new machine learning models and data pipelines. You will apply fundamental machine learning concepts to quickly iterate and debug model related issues and develop new techniques to handle unique cases with each customer. 
+	- Collect, process and analyze data. A big part of our machine learning projects is understanding and analyzing the data. You must build pipelines and processes for cleaning and organizing data as well as build tools to help analyze data. You must also understand what types of data models are struggling with and use this analysis to propose solutions.
+	- Analyze and improve existing models. You will also be responsible for analyzing performance of our existing models and work to improve their accuracy by applying the latest published research, feature engineering and tuning of hyperparameters.
+	- At least 3 to 5+ years of professional experience designing, training, and deploying machine learning models
+	- Strong computer science foundation, including data structures, algorithms, and design patterns
+	- Expertise in Python demonstrated by implementing multiple medium to large-scale projects
+	- Proven ability to implement and debug machine learning models
+	- Excellent communication skills and the ability to have in-depth technical discussions with both the engineering team and business people
+	- Familiarity with machine learning frameworks and libraries (e.g., scikit-learn, Keras, TensorFlow, PyTorch)
+	- Industry experience with relational databases and SQL-based tools
+	- BSc in Computer Science, Mathematics or similar field; Master’s or Ph.D. degree is a plus
+	- Self-starter and comfortable working in an early-stage environment
+	- Experience with big data pipeline technologies such as BigQuery, SnowFlake, Spark, Kafka
+	- Research experience in machine learning or artificial intelligence related field
+	- Contributions to open source ML projects
+	- Experience working on logistics or shipping-related products
+	- Experience with Agile development 
++ skill set:
+	- MACHINE LEARNING PLATFORM SOFTWARE ENGINEER
+	- Collaborate with data engineers, data scientists, and product teams to guide the translation of R&D prototypes into stable, testable, and maintainable production services
+	- Develop and deploy tools and services for our team to accelerate the production lifecycle and assessment of production readiness
+	- Help lead team members in executing continuous integration and continuous delivery (CI/CD) activities to release code into a Production environment
+	- Act as a consultant within the Science Organization on software engineering principles, code quality, and performance optimization techniques
+	- Apply software engineering rigor and best practices to machine learning, including CI/CD and automation
+	- Build model performance monitoring capabilities and data monitoring tools
+	- MS Computer Science, Engineering, Technology, Mathematics, Statistics, or related field with 3+ years of industry experience or BS + 5 years' experience
+	- Hands on coding experience with Python building end-to-end systems as an MLOps Engineer, Machine Learning Engineer, Software Engineer, or equivalent
+	- Experience in ML model development, orchestration, deployment, monitoring, support and creating and maintaining deployment pipelines with CI/CD tools
+	- Experience with cloud computing platforms like AWS, GCP, or other cloud providers developing with containers (e.g., Docker, Kubernetes) in cloud computing environments
+	- Experience with database, such as SparkSQL, MongoDB, SQL, and SQLite
+	- Exposure to deep learning approaches and modeling frameworks (Py Torch, TensorFlow, Keras, etc.)
+	- Experience building ML web service, such as Flask, JavaScript, HTML, and Django.· Familiarity with Kubeflow or similar platforms like MLflow or SageMaker
+	- Experience building and evaluating machine learning models
+	- Strong understanding of software testing, benchmarking, and continuous integration
+	- Experience mentoring and teaching software development best practices to data scientists
+	- Ability to translate complex technical concepts to collaborations, decision makers, and non-technical audiences
+	- The ideal candidate will have a passion for generating new ideas, be a proactive and quick learner, and be able to demonstrate creativity and innovation.
++ skill set:
+	- ALGORITHM ENGINEER (DEEP LEARNING)
+	- You will be responsible for research, development and deployment of real world deep learning solutions while building Computer Vision, Speech, Machine Learning, and Robotics
+	- Drive end to end data collection/annotation, model training and model evaluation
+	- Optimizing and accelerating deep learning algorithms on various Kneron platforms (SOC, edge, server etc) and accelerators (DSP, NPU etc).
+	- Improving model accuracy by understanding failures, finding redundancies in data and staying on top of the latest in model architectures and training algorithms.
+	- Contributing to the backend or edge infrastructure to scale model training and inference workload including training pipelines, evaluation, and model deployment
+	- MS or PhD in Computer Science/Engineering with 2+ years of professional experience or equivalent experience
+	- Strong background in at least one of area of machine learning, such asgenerative models (GANs, VAE, etc.), segmentation, object detection, human tracking
+	- Strong programming skills in Python and C/C++; strong software design skills
+	- Experience working with modern deep learning frameworks including OpenMMlab, Keras, Tensorflow, PyTorch, MXNet
+	- Experience with improving efficiency of AI algorithms for deployment
+	- Ability to multitask effectively in a dynamic environment
+	- Strong debugging, problem-solving and analytical skills
+	- Excellent interpersonal, written and oral communications skills
+	- Familiarity with building DL algorithms (neural architecture search, active learning, pruning, quantization etc) and working with data pipelines (ETL, data lake etc).
+	- Familiarity with scene understanding, learning 3D representations, synthetic data, temporal data in computer vision.
+	- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open-source repositories (e.g., GitHub)
+	- The ideal candidate will have a passion for generating new ideas, be a proactive and quick learner, and be able to demonstrate creativity and innovation.
+
 + Strong understanding of machine learning algorithms & principles (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning), and their application
 + skill set for Machine Learning/Deep Learning Algorithm Engineer:
 	- Conduct research and development on machine learning, deep learning, and reinforcement learning models, including but not limited to basic algorithms and models, such as CNN, RNN, DNN, and DQN.
@@ -9032,6 +9114,28 @@ Skill sets for generic applied machine learning, applied ML
 			+ NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.
 		* https://github.com/NVIDIA/TensorRT
 + skill set:
+	- are as passionate about teaching AI/ML as you are about AI/ML itself
+	- are experienced in software engineering, machine learning engineering in Python using scikit-learn: regression, trees, ensembles (nice-to-have: catboost, XGBoost)
+	- are comfortable in collecting and manipulating data in Python: APIs, web scraping, Pandas, numpy/scipy
+	- have tackled Deep Learning (DL), including LSTMs, RNNs, CNNs (nice-to-have: YOLO) with real-world application experience such as computer vision or NLP
+	- have implemented ML and DL at scale using SparkML, Keras, TensorFlow and/or Pytorch
+	- have a strong understanding of software engineering best practices, including version control, testing, monitoring and debugging
+	- are highly proficient in the curriculum topics in our program
+	- are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and career advice
+	- have at least 3 years of experience solving real-life machine learning problems and building models
+	- are empathetic and have excellent communication skills
++ skill set:
+	- Experience in one or more of the following areas:
+		* Control theory
+		* Motion planning
+		* Optimization
+		* Formal logic
+		* Game AI development
+	- Experience in developing safety-critical, embedded or real-time systems
+	- Published research in any of the above mentioned areas
+	- Experience in machine learning and data analysis
+	- Programming in Python, working with Linux
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -11235,6 +11339,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Experience with open source platforms like Hadoop, Spark, ***Hive, Pig***; and/or ***ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow***; and/or assistants like Alexa, a plus.
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
 + NoSQL databases, such as MongoDB, Cassandra, HBase
++ Experience with ***scheduling engines*** such as ***Airflow***
 + Proficiency in using query languages such as SQL on a big data platform e.g. Hadoop, Hive
 + data visualisation tools, such as D3.js, GGplot, Tableau etc.
 + RStudio packages: The tidyverse, R Markdown, and Shiny
@@ -11377,6 +11482,12 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Familiarity with Python, React, GraphQL, and MySQL or similar relational databases
 + Familiarity with Python, React, GraphQL and online storage systems such as MySQL or MyRocks
 + Data visualization with ggplot and matplotlib.
++ Experience with Analytics tools is appreciated  (***Segment, Amplitude***)
+	- Segment
+		* single hub to collect, translate, and send (customer) data with the flip of a switch
+	- Amplitude
+		* event tracking and segmentation platform
+		* pinpoint most valuable behavioral patterns within hours
 + skill set:
 	- solid-hands-on skills in sourcing, cleaning, manipulating, analyzing, visualizing, and modeling real data.
 	- Break down complex problems into manageable steps that have an immediate impact on critical, real-world projects, without losing sight of long-terms roadmaps.
@@ -13738,6 +13849,8 @@ DataOps leadership principles:
 
 
 Skill sets for DataOps:
++ Familiar with big data processing tools such as ***Hadoop, Spark, HBase***
++ Working experience with large-scale data platform and pipelines such as Hadoop, Hive, Pig, MapReduce, Spark, Kafka, Flumes, etc.
 + Demonstrated track record working with data warehouse concepts.
 + Experience with at least one data warehousing platform (Redshift, Athena, Hive, Snowflake, etc.)
 + web analytics platforms such as Google Analytics, Appsflyer or Mixpanel

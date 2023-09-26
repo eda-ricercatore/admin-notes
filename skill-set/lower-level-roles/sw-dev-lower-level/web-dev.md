@@ -1015,8 +1015,26 @@ reactive programming = asynchronous dataflow programming
 				- The most popular and friendly mocking library for .NET
 				- Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
 	- Self-motivated individual who proactively identifies team bottlenecks and works with the team to resolve them
++ Buzzwords: Gitlab, Docker, MongoDB, AWS, Node.js.
 + skill set:
-	- BLAH.
+	- Full-Stack Software Engineer
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- Designing and implementing scalable and efficient software solutions for our large language model engine, including front-end and back-end components.
+	- Collaborating with cross-functional teams of machine learning engineers, system engineers, designers and product managers to understand requirements and translate them into technical specifications.
+	- Building and maintaining robust APIs and microservices to enable seamless integration of our language model into various applications and platforms.
+	- Conducting thorough testing and debugging to ensure the reliability and performance of the software components.
+	- Optimizing software performance and scalability through continuous improvement and refactoring.
+	- Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+	- 10 + years of solid experience as a Full-Stack Software Engineer, with experiences building a software product from end to end, preferably working on complex web applications or AI-related projects.
+	- Prior experience as a founder or founding engineer at a technology startup is highly valued
+	- Advanced knowledge of front-end languages including HTML5, CSS, JavaScript, TypeScript.
+	- Proficient in back-end languages including Java, Python.
+	- Experience building RESTful APIs and working with microservices architecture.
+	- Familiarity with database systems like SQL and NoSQL, and proficiency in writing efficient database queries.
+	- Knowledge of software testing methodologies and familiarity with automated testing frameworks.
+	- Strong problem-solving and analytical skills, with the ability to tackle complex technical challenges.
+	- Excellent communication and teamwork skills, with the ability to collaborate effectively with cross-functional teams.
+	- Knowledge of cloud platforms (e.g., AWS, Azure, GCP) and experience with containerization (e.g., Docker) is a plus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1070,6 +1088,11 @@ reactive programming = asynchronous dataflow programming
 
 
 + Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala)
++ skill set:
+	- Ability to performance tune and scale models
+	- Experience with Docker/Containerization
+	- Experience with Django
+	- Experience in a micro-service architecture
 + skill set:
 	- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).
 	- Commercial experience with REST, RPC and message exchange protocols.

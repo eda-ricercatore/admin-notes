@@ -1151,6 +1151,17 @@ Skill sets for computational biology:
 
 
 
+###	Skill Sets for Computational Neuroscience
+
+
+
+
++ The Computational Neuroscientist's primary job function is to work with the CTO to identify innovative technologies, and to research and develop practical Spiking Neural Network based products by using BrainChip's spiking neural model and previous research.  This involves the development of an architecture that is flexible in its application. The resulting SNN architecture will have a wide application range in areas such as Computer Vision, Olfactory, Auditory and Tactile feature learning and extraction.  Will also work on a development kit and API which will form the foundation for products for the in-house product development team and will also be made available to external research and development facilities. The computational Neuroscientist will work with associated educational facilities such as the Cerco, UCI and UCSD and evaluate technologies that are relevant to BrainChip's SNN technology.
+
+
+
+
+
 
 
 
@@ -1307,6 +1318,55 @@ Skill set for software development for computational fluid dynamics, CFD:
 
 
 
+###	Software Development for Finite Element Method, FEM
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+###	Software Development for Computational Electromagnetics, CEM, Computational Electrodynamics, Electromagnetic Modeling
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -1315,6 +1375,120 @@ Skill set for software development for computational fluid dynamics, CFD:
 
 
 
+
+###	Software Development for Computational Mechanics
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Software Development for Computational Thermodynamics
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+###	Software Development for Computational Thermofluids
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+###	Software Development for Computational Material Science
+
+
+
+
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -1332,6 +1506,8 @@ Skill set for software development for computational fluid dynamics, CFD:
 
 
 Skill set for software development for parallel programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
++ Published papers (e.g. in Supercomputing, IPDPS, or PPOPP) and/or open-source code that demonstrate your skills in writing fast code.
++ Familiarity with GPU computing (CUDA, OpenCL) is preferred
 + skill set:
 	- Multi-GPU software development engineer
 	- Design, develop and debug multi-GPU drivers and software

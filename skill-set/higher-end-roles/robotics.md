@@ -360,6 +360,61 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 Sets of skills for autonomous road vehicles:
++ Familiarity with modern planning approaches including randomized search methods and trajectory optimization
++ Solid work experiences with state-of-the-art mapping and localization algorithms
++ skill set:
+	- 4+ years of embedded software applications development, debug, deployment (including drivers development)
+	- Superior knowledge of RTOS-based software systems and/or Embedded Linux
+	- Comfortable with parallel paradigms (notions of pthread and/or OpenCL/Cuda)
+	- Agile methodology ; Git, continuous integration, test driven development
+	- Experience of AUTOSAR architecture is valuable
+	- Knowledge of Computer Vision libs (OpenCV, OpenVX) and Machine learning technology (TensorFlow, Caffe) would be a plus
+	- Knowledge of application middleware (e.g. ROS)and communication layers (TCP/UDP, DDS) would be a plus
++ skill set:
+	- SLAM SOFTWARE ENGINEER (SENSOR FUSION)
+	- Research and develop algorithms for sensor fusion and object association across multi-sensor modalities such as one or more cameras, IMU, radars, and lidar sensors.
+	- SLAM prototyping and vehicle testing
+	- Implement and integrate robotics algorithms into software using C++ and Python
+	- Sensor fusion and software development using IMU, Radar, camera, and Lidar
+	- Participate in brainstorming activities related to SLAM application project(s)
+	- Support software development
+	- Work with large field-testing data to continuously iterate/improve algorithm
+	- Proficient in C/C++, comfortable in Python is a MUST
+	- PhD or Masters student in CS, CE, EE, ME, or similar disciplines
+	- Hands on experience with Linux
+	- Understanding of basic Path Planning & Perception algorithms
+	- Understanding of Kalman filters and particle filters.
+	- One year of experience in robotics software development
+	- Ability to multitask effectively in a dynamic environment
+	- Strong debugging, problem-solving and analytical skills
+	- Excellent interpersonal, written and oral communications skills
+	- Passion for learning new software tools and languages
+	- Robot Operating System (ROS) experience
+	- Expertise in computer vision and machine learning
+	- Experience programming for interfacing between devices, such as analog signal processing and sensor reading via serial ports
+	- Embedded software programing experience with mobile GPU, DSP
+	- The ideal candidate will have a passion for generating new ideas, be a proactive and quick learner, and be able to demonstrate creativity and innovation.
++ skill set:
+	- EMBEDDED SOFTWARE ENGINEER (VISION)
+	- Design and optimize application software architectures and frameworks for real-world performance while matching or exceeding customer requirements.
+	- Design and profile efficient mechanisms to improve utilization on computers with multiple heterogeneous hardware engines.
+	- Working on areas such as component abstraction layers, inter-process data sharing and communication, and process scheduling.
+	- Collaborate with hardware, platform, testing, performance and algorithmic teams
+	- MS or higher in computer engineering, computer science or related engineering fields, with 2+ years of experience or equivalent experience
+	- Excellent C and C++ programming skills
+	- Strong scripting skill with Python
+	- Experience designing, developing and debugging multithreaded/distributed applications like multimedia systems, game engines, etc.
+	- Solid understanding on QNX, Linux, Android, and/or other real-time operating systems.
+	- Thrive on designing low latency, highly performant code
+	- Excellent communication and analytical skills.
+	- Self-motivated and a great teammate
+	- Understanding of embedded and high efficiency software architectures
+	- Experience with large frameworks like used in ROS, android etc.
+	- Experience on developing software in heterogeneous architectures, including GPUs and other types of accelerators.
+	- Be hands-on and work well within a team of algorithm, software and hardware engineers, with a significant level of detail orientation and a penchant for data organization and presentation
+	- Knowledge of automotive systems, notably ADAS or SLAM systems
+	- Embedded software programing experience with mobile GPU, DSP
+	- The ideal candidate will have a passion for generating new ideas, be a proactive and quick learner, and be able to demonstrate creativity and innovation.
 + robotics engineering:
 	- Background in multiple of the following: SLAM, mapping, localization, calibration, sensor fusion, tracking, scene understanding, robotic systems.
 	- Experience in multiple of the following: non-linear optimization, 3D geometry, state estimation.

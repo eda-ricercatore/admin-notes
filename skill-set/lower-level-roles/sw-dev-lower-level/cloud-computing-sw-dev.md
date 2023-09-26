@@ -1161,6 +1161,31 @@ Notes about Software as a Service, SaaS:
 
 + Collaborate with engineering and product teams to design, develop, and publish software supporting a highly available, fault-tolerant SaaS platform
 + skill set:
+	- Forward Deployed Software Engineer
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- We are looking for experienced software engineers eager to work directly with clients and build solutions tailored to their unique environments. This role requires a unique mix of technical skills, an entrepreneurial mindset, and product intuition. For engineers who seek to be customer-facing without sacrificing the technical components of an engineering role, this is your dream job!
+	- Customer Success: 
+		* Quickly onboard and orient to new codebases and systems 
+		* Provide timely, high-quality technical support in responding to customer inquiries
+		* Diagnose and debug customer problems across software, integrations, and infrastructure
+		* Build strong customer relationships and promote retention and expansion
+	- Solution Champion: 
+		* Design and configure software solutions to meet customer requirements
+		* Work closely with client teams to refine requirements and architectures
+	- Knowledge Sharing:
+		* Create technical guides, help docs, and instructional videos for self-service education
+		* Deliver product training and demos to new and existing customers
+		* Serve as a subject matter expert on capabilities, use cases, and best practices
+	- Feedback Advocate: 
+		* Advocate customer needs and provide feedback to enhance product experiences
+	- 5+ years enabling customers in a SaaS or tech environment
+	- Entrepreneurial mindset and startup experience are highly valued. Such as having been a founder or technical leader at an early-stage company
+	- Proven experience as a software engineer with a strong track record of designing and delivering complex software systems
+	- Ability to quickly learn and master new technologies 
+	- Comfortable with startup chaos, complexity, and rapid iteration
+	- Excellent written and verbal communication and customer-handling skills
+	- Customer-centric mindset with a passion for enablement
++ skill set:
 	- Cloud SaaS Architect – Italy
 	- Layout roadmap, design, plan, and implement scalable information technology solutions that meet current and future business needs together with the Platform Engineering Director
 	- Build resilient system implementations to ensure information security, stability and availability of business applications

@@ -364,7 +364,29 @@ Skill set for compiler design:
 	- MLIR
 	- GLOW
 	- XLA
++ Design and implement a set of compiler tools to translate from ML-oriented domain-specific languages (TensorFlow, Caffe, Theano) to proprietary binary format
 + Working on the IPU architecture compiler. Understanding code generation & optimization of C / C++ code to the instruction set of the machine. The architecture compiler and its ability to target the IPU for maximum performance and flexibility, is a fundamental component of the Poplar framework.
++ skill set:
+	- Software Engineer, Programming Languages
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- We are currently looking for exceptionally talented Software Engineers to join our small team. 
+	- You will be responsible for developing and designing DSLs (Domain Specific Languages) for LLMs. 
+	- You will build the language software development toolkits (SDKs) that allow external developers to access Lamini AI System from all supported languages. 
+	- You will own the component of the generated software runtime (backend, frontend) as well as code generators.
+	- Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+	- Passion for programming languages.
+	- Proficiency in Python
+	- Enjoy learning language internals and advanced language features.
+	- Strong competency in object-oriented programming, data structures, and algorithms.
+	- Enjoy working with abstract concepts and finding elegant, rigorous solutions to complex problems.
+	- Understanding of software development principles and design patterns.
+	- Understanding of software development lifecycle, tools, and standard methodologies.
+	- Excellent communication and collaboration skills.
+	- Intellectually curious and open to challenges.
+	- Thrive in a fast-paced, dynamic environment, and value end-to-end ownership of projects.
+	- Experience creating Domain-Specific Languages.
+	- Experience with end-to-end development of Python packages.
+	- Understand how compilers work, e.g. AST, IR, optimizations, code generation
 + skill set:
 	- We’re looking for an experienced Compiler Architect to help drive compiler improvements and hardware requirements.  
 	- Analyze deep learning networks and develop compiler optimization algorithms for our hardware 

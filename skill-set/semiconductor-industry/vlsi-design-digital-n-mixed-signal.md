@@ -812,6 +812,11 @@ List(s) of companies in the semiconductor industry:
 	- Knowledge of at least one object-oriented and/or functional programming language.
 	- BS/MS in EE, CE, CS or a related technical discipline, or equivalent experience.
 + skill set:
+	- 8+ years of meaningful industry experience and a background in high-speed processor design (i.e. Graphics, Microprocessors, Network Processors, or Mobile / Multimedia SOCs)
+	- Knowledge of GDDR5, LPDDR4 or DDR3 or related protocols, or knowledge of PCIE and high-speed Serdes
+	- Experience with all stages in the ASIC design flow including emulation, prototyping, DFT, timing analysis, floorplanning, ECO, bringup & lab debug, and ATE test development
+	- Experience with high speed clocking, cache interfaces and protocols
++ skill set:
 	- We’re looking for an experienced RTL designer to help develop novel AI hardware.   
 	- What you’ll do at Lightelligence:  
 	- Collaborate with RTL, DV, PD, and system engineers to define and implement  DFT functions (scan/ATPG, MBIST, LBIST and more) and methodology  

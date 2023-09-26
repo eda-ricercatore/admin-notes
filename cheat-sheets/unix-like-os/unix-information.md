@@ -155,14 +155,14 @@ Online *Linux* *Terminal* from *Tutorials Point India Private Limited*:
 
 Besides, [Kumar2022a] provides a good environment to run *Linux/UNIX* shell scripts for the *Bash* shell and serve as the *Terminal* application.
 
-@misc{Kumar2022a,
-	Address = {London, {U.K.}},
-	Author = {Chandan Kumar},
-	Howpublished = {Available online from {\it Geekflare -- Your trusted source for Technology Resources: Products: Compiler: Bash (5.0.0)} at: \url{https://geekflare.com/online-compiler/bash}; June 10, 2022 was the last accessed date},
-	Publisher = {Geekflare {LTD}},
-	Title = {Online Bash Compiler},
-	Url = {https://geekflare.com/online-compiler/bash},
-	Year = {2022}}
+	@misc{Kumar2022a,
+		Address = {London, {U.K.}},
+		Author = {Chandan Kumar},
+		Howpublished = {Available online from {\it Geekflare -- Your trusted source for Technology Resources: Products: Compiler: Bash (5.0.0)} at: \url{https://geekflare.com/online-compiler/bash}; June 10, 2022 was the last accessed date},
+		Publisher = {Geekflare {LTD}},
+		Title = {Online Bash Compiler},
+		Url = {https://geekflare.com/online-compiler/bash},
+		Year = {2022}}
 
 
 
