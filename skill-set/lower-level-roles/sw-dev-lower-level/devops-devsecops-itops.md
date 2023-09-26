@@ -91,6 +91,81 @@ Skill set for DevOps:
 	- Knowledge or hands-on experience in Container technologies such as Docker is a plus.
 	- Knowledge of Virtual machines, Hypervisors is a plus
 + skill set:
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Working experience and detailed knowledge in Java, JavaScript, or Python
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
+	- Agile development (Scrum) experience
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
++ skill set:
+	- Experience with system level monitoring tools such as Nagios or Zabbix and application performance monitoring tools such as NewRelic, AppDynamics or Dynatrace.
+	- Understand configuration management tools such as Puppet, Chef or Ansible.
+	- Strong understanding of the DevOps landscape from orchestration to instrumentation, from VCS to CI tools, and from APM to monitoring tools
++ skill set:
+	- Working experience with AWS services (Aurora DB, Dynamo DB, Athena, EMR, Redshift, Data Catalog etc)
+	- Experience with log analysis tools like Splunk
+	- Experience with Issue trackers tools like Jira etc
++ The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
+	- BuildBot:
+		* job scheduling system
+		* open-source framework for automating software build
+		* continuous integration tool, in the context of CI/CD
+	- Phabricator
+		* suite of Web development collaboration tools
+			+ code review tool
+			+ change monitoring tool
+		* supports post-commit auditing
+		* customizable task management
++ skill set:
+	- Knowledge of storage systems (File, Block) is a plus (Local/Network/Cloud Attached)
+	- Knowledge of ILOM, BMC, and OCP (Open Compute) is a plus
+		* ILOM
+			- Integrated Lights Out Manager, ILOM
+		* BMC
+			- process-centric AIOps
+		* OCP, Open Compute
+	- Good knowledge of common development tools such as yocto/git/gtest
+		* gtest, GoogleTest: Google Testing and Mocking Framework
+			+ Software test framework for writing and running C++ unit tests, and is based on the xUnit architecture for software unit testing
++ skill set:
+	- SGE or other DRMS
+		* SGE
+			+ search generative experience, based on generative AI
+				- for AI-powered overviews
+			+ Sun grid engine
+		* DRMS, distributed resource management systems
+		* in the context of job scheduler, or batch scheduling for batch processing 
+			+ also known as:
+				- batch system
+				- DRMS, distributed resource management systems
+				- DRM, distributed resource manager
+				- workload automation
+	- XML and XPath/XSLT
+		* XML
+		* XPath/XSLT
+			+ XPath: XML Path Language, used with extensible stylesheet language transformations, XSLT
+				- extensible stylesheet language, XSL
++ skill set for DevOps:
+	- Remote hardware administration with IPMI
+		* IPMI, intelligent platform management interface
+			+ standardized message-based hardware management interface
+				- control the:
+					* baseboard management controller, BMC
+						+ or, management controller, MC
+	- Configuration and management of
+		* SGE/Univa, Slurm, LSF or other DRMS
+		* Jenkins CI
+		* Phabricator
+		* FlexLM licensing
+	- Puppet, Ansible, Nagios
+	- LLVM, GCC
+	- DVCS e.g. Git
+	- AWS, Azure, Google Cloud
+	- XML and XPath/XSLT
+	- Web programming – HTML/DOM, JavaScript, SQL
++ skill set:
 	- Passion for process automation
 	- Build system experience like Maven, Bazel, or Gradle
 	- Continuous integration and testing experience like Jenkins

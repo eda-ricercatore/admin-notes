@@ -1147,7 +1147,8 @@ List(s) of companies in the semiconductor industry:
 
 
 
-Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping):
+Sets of skills for VLSI architects, and electronic system-level designers (including engineers who work on virtual prototyping and multi-processor system-on-chips, MPSoCs):
++ Experience working with PCIe form-factor accelerators such as GPUs, DSPs or FPGAs
 + skill set:
 	- Perform safety analysis by doing the FMEDA on targeted RTL
 	- Create safety work products - Safety Plan, safety manual, Dependent Failure analysis, Requirement Tracing, Confirmation Measures

@@ -39,6 +39,7 @@ Cool soft skills to acquire:
 + use empathetic communication in technical discussions, such as during disagreements, to thoughtfully engage other perspectives and compromise when needed.
 	- communicate nuanced ideas clearly
 + You find the 10% work that gets us 90% of the value
++ You approach problems with a scrappy, creative, and entrepreneurial mindset.
 
 
 

@@ -53,7 +53,19 @@ Skill sets for RF engineering, except RFIC design and millimeter-wave IC design:
 	- Openness to work in a diversified work environment with unique work cultures.
 	- Experience in presenting technical information to both technical and non-technical audience.
 	- Fluent in English (written and spoken).
-
++ Familiar with the operation of instrument -- VSG, VSA, Signal analyzer, channel emulator.
+	- VSG, RF Vector Signal Generator
+	- VSA, RF Vector Signal Analyzer
+	- signal analyzer
+	- channel emulator
+		* radio channel emulator, radio channel simulator, or fading simulator
+	- for wireless communication standards:
+		* WLAN
+		* WiMAX
+		* Zigbee
+		* GSM
+		* CDMA
+		* LTE
 
 
 

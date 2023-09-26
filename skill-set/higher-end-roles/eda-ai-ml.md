@@ -5055,6 +5055,20 @@ Skill sets for application engineers of different EDA products:
 		* "It aims to provide a "Scalable, Portable and Distributed Gradient Boosting (GBM, GBRT, GBDT) Library". It runs on a single machine, as well as the distributed processing frameworks Apache Hadoop, Apache Spark, Apache Flink, and Dask.
 		* "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples."
 		* XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
++ skill set for ***Deep Learning Research Scientist at DeepScale***:
+	- DeepScale was founded by the deep learning researchers from UC Berkeley who created SqueezeNet. DeepScale is developing perception systems that enable automated vehicles to interpret their environment in real-time using low-cost hardware.
+	- A PhD in electrical engineering, computer engineering, or computer science.
+	- A track record of advancing the state-of-the-art in an application of deep learning (ideally a computer vision or imaging application ... but if you did speech-recognition or text-analysis, that's pretty good too)
+	- Published papers that either (a) are in top peer-reviewed conferences such as ***CVPR, NIPS, ECCV, ICCV, or ICML*** ... or ... (b) a ***significant (>100) number of citations on one of your deep learning research publications***
+	- ***The ability to design, implement, train and test models in one or more of the leading deep learning frameworks like PyTorch or TensorFlow.***
++ Help the current effort of the AI research community, and contribute to cutting edge research in machine intelligence, starting from areas including:
+	- Deep Learning
+	- Generative Models
+	- Reinforcement Learning
+	- Evolutionary Computing
+	- Sequence Modelling
+	- Large-Scale Distributed Optimization
+	- Low-Precision Numerical Formats
 + skill set:
 	- As part of the Advanced Product Development team, immediate responsibilities include:
 		* Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, and spatial segmentation.
@@ -5855,6 +5869,9 @@ Skill sets for application engineers of different EDA products:
 	- Developing DAOs (data access objects) and APIs
 	- Extensive practical experience using a wide range of AWS technologies, including: S3, EC2s, Lambda, Step Functions, Glue, EMR, API Gateway
 + skill set:
+	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, Pytorch, ONNX, MxNet, Caffe/Caffe2, and/or Torch;
+	- Experience working with modern deep learning models including: Resnet, Mask-RCNN, RNN/LSMT, Bert, Transformer etc
++ skill set:
 	- Java, mahout, Hadoop
 	- Scala, Spark, SparkML
 	- Spark with Python, numpy and pandas
@@ -5866,6 +5883,11 @@ Skill sets for application engineers of different EDA products:
 + Design services for performant application of machine-learned models
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
 + Experience in GPU/CUDA/TensorRT
++ skill set:
+	- Machine learning areas of special interests include: CNNs, RNNs, distributed GPU computing, detection, prediction, motion planning, mapping and localization
+	- Work with lidar sensor firmware and low level signal processing
+	- Perform Multi-Object Tracking & Multi-Sensor Fusion
+	- Sensor calibration & Perception algorithms (all types and flavors)
 + skill set:
 	- Hadoop, HDFS, Hive, HBase, MapReduce, and Mahout.
 	- Large-scale graph algorithms, clustering, page-rank, and community detection.
@@ -11125,7 +11147,11 @@ Sets of skills for ***information retrieval***, including search engine developm
 	- Kibana is a source-available data visualization dashboard software for Elasticsearch.
 + Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based data stores and libraries (Lucene, Solr, etc.)
 + Knowledge of NoSQL technologies (e.g. Cassandra, MongoDB, Redis, etc.) and/or search-based data stores and libraries (Lucene, Solr, etc.
-
++ skill set:
+	- Elastic Search, Lucene, SQL Server, Kibana, or similar experience
+	- Prior experience aligning platform architecture with security, data
+	- Demonstrated ability to document architectural standards and decisions
+	- SaaS or high scale cloud experience
 
 
 
@@ -13719,6 +13745,7 @@ Skill sets for DataOps:
 	- Experience with distributed data processing systems like Spark and Hadoop
 	- Familiarity with interactive data visualization using tools like D3.js
 + Experience with: Large scale distributed computing, Database internals, Big Data engines e.g. Spark, Hadoop
++ You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
 + skill set:
 	- 2+ years experience with R or Python
 	- 2+ years experience with predictive modeling
@@ -14041,7 +14068,13 @@ Skill sets for DataOps:
 		* Upstream contributions to relevant open source projects (i.e. Kubernetes, Nomad, Linux kernel).
 		* Experience with virtualization, bare metal deployment, or network engineering.
 + big data platform tools such as Hadoop, Hive Druid, Kafka, Ambari, Spark, Zeppelin
-
++ skill set:
+	- Databases / Data warehousing
+	- Writing complex SQL
+	- Strong Microsoft Excel skills
+	- Experience with Big Data platforms such as Hadoop
+	- Experience with other reporting/visualization tools such as Tableau
+	- Experience with monitoring and tracking tools such as  Splunk, NewRelic, Adobe/Google Analytics
 
 
 

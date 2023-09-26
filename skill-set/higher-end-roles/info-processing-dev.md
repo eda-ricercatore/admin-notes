@@ -733,6 +733,19 @@ reactive programming = asynchronous dataflow programming
 	- OpenCV
 + Strong knowledge of image theory, design experience of algorithm modules such as super_resoulution/HDR/noise_reduction/frame_compression/ISP is preferred.
 + skill set:
+	- 2-4 years of experience in C/C++ development
+	- Object oriented programming experience
+	- Experience with applications design and implementation
+	- Experience in multi-threaded programming
+	- Proven track record of finding bottlenecks and delivering optimized, high-quality code
+	- Knowledge in algorithms development and implementation
+	- Fast learner, team player, reliable, motivated, hard worker
+	- Experience in Android NDK development
+	- Experience in image processing algorithms
+	- Experience in runtime optimizations on embedded accelerators (e.g. Neon, DSP, GPU).
+	- Experience in writing OpenCL kernels
+	- Experience in Matlab
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

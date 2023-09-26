@@ -115,6 +115,11 @@
 	- Knowledge of Load and performance testing using open source tools such as JMeter or LoadUI
 + Load and performance testing using open source tools such as JMeter or LoadUI
 + skill set:
+	- Experience with Backbone, Marionette or equivalent framework
+		* Backbone Web framework
+		* Marionette Web framework
+	- Experience with Protractor, RSpec or equivalent integration test framework
++ skill set:
 	- Strong foundation in Python & MongoDB/DynamoDB
 	- Experienced with software support tools for version control, issue tracking, collaboration, automation, containerization, document generation (JIRA, GIT, Artifactory, Confluence, Jenkins, Docker)
 	- Experience with testing frameworks and/or AB testing tools

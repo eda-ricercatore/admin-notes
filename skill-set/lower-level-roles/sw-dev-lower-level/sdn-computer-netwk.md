@@ -6,7 +6,7 @@
 
 
 
-#	Software-defined Networking (SDN): SDN Software Development
+##	Software-defined Networking (SDN): SDN Software Development
 
 
 + skill set:
@@ -88,6 +88,9 @@
 
 + Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
 + gRPC, open-source remote procedure call system
++ skill set:
+	- Candidates should have a solid background with standard networking protocols (TCP, RPC, UDP, IPSec), low-latency protocols (RDMA, RMA) and Clustering.
+	- Preferably, you should also have a background or interest in host device and network virtualisation (SR-IOV, Xen, Containers)
 + skill set:
 	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
 	- Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
@@ -458,6 +461,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+##	High-Performance Computing Instructure Engineers
+
+
+
++ skill set for HPC Infrastructure Engineer:
+	- Management of an on-premise computing cluster in a High Performance Computing (HPC) setting
+	- Develop usage policies for deep learning training
+	- Develop tools and infrastructure to scale deep learning
+	- Maintain network infrastructure for local and cloud compute
+	- Data management and backups
+	- Familiarity with environments including LDAP, NFS, bare metal GPU servers, deployments and automation / conﬁguration management, modular user shell environments, networking
+	- Hands on server hardware configuration experience
+	- Experience with cluster management software
+	- Comfortable with GPU servers
+	- Strong knowledge of Linux systems and internals (Debian preferred) with a good understanding of networking and related protocols, OS customization, and package management (APT)
+	- Hands on Infiniband experience
+	- Have used or developed metrics/analytics tools for usage
+	- Experience with Slurm or similar job systems
 
 
 

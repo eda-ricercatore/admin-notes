@@ -43,6 +43,16 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 		* MEC
 	- Strong interest in technologies and excellent logical thinking. Expertise in CDN, OpenStack, and Kubernetes and good understanding of popular edge computing products preferred
 + skill set:
+	- Hardware-In-the-Loop (HIL) Systems
+	- Development of test automation projects
+	- Modeling of physical systems for HIL simulation
+	- Specialized support of HIL systems and models
+	- Development, testing, or familiarity of embedded control systems (mechatronics, automotive control systems)
+	- HIL simulation systems
+	- In-vehicle communication networks such as CAN, LIN, FlexRay
+	- MIL/model-in-the-loop, SIL/software-in-the-loop, PIL/plant-in-the-loop, and HIL/hardware-in-the-loop
+	- The implementation of software is done in project-specific technologies and thus extends over a wide area, including C/C++, C # (including WPF, WCF), Python, MATLAB ®, VHDL.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

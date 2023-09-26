@@ -39,6 +39,11 @@ Notes:
 
 
 Skill set for compiler design:
++ Open64 is a free, open-source, optimizing compiler for the Itanium and x86-64 microprocessor architectures.
++ skill set:
+	- LLVM compiler internals.
+	- Polyhedral models.
+	- Familiarity with HPC kernels and their optimization.
 + Because compilers, interpreters, JIT, pre-processors, grammars, register allocation, term rewriting, LLVM and more are what brought us to computer science in the first place, Raincode Labs forms the largest independent compilation technology company in the world.
 + skill set:
 	- Research in Compilers and Architecture
@@ -359,6 +364,7 @@ Skill set for compiler design:
 	- MLIR
 	- GLOW
 	- XLA
++ Working on the IPU architecture compiler. Understanding code generation & optimization of C / C++ code to the instruction set of the machine. The architecture compiler and its ability to target the IPU for maximum performance and flexibility, is a fundamental component of the Poplar framework.
 + skill set:
 	- We’re looking for an experienced Compiler Architect to help drive compiler improvements and hardware requirements.  
 	- Analyze deep learning networks and develop compiler optimization algorithms for our hardware 
@@ -858,7 +864,7 @@ Skill set for compiler design:
 
 
 
-##	Compiler Design for Dynamic Just-In-Time Compilers, JITs
+##	Compiler Design for (Dynamic) Just-In-Time Compilers, JITs
 
 
 
@@ -877,7 +883,27 @@ Skill set for compiler design:
 	- Understanding of compilers and language times
 	- Ideally, experience with architectural simulators (e.g., gem5)
 	- Excellent communication and writing skills in English
-
++ Skill set:
+	- Psyco, Nukita, Shed skin.
+		* Psyco
+			+ Psyco is an unmaintained specializing just-in-time compiler for pre-2.7 Python originally developed by Armin Rigo and further maintained and developed by Christian Tismer. Development ceased in December, 2011.
+				- run-time algorithm specialization is a methodology for creating efficient algorithms for costly computation tasks of certain kinds
+			+ Psyco is a Python extension module which can greatly speed up the execution of any Python code.
+		* Nukita
+			+ https://pypi.org/project/Nuitka/
+			+ Nuitka is the Python compiler. It is written in Python. It is a seamless replacement or extension to the Python interpreter and compiles every construct that CPython 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11 have, when itself run with that Python version.
+			+ It then executes uncompiled code and compiled code together in an extremely compatible manner.
+			+ You can use all Python library modules and all extension modules freely.
+		* Shed skin
+			+ https://pypi.org/project/shed-skin/
+			+ Shed Skin is an experimental compiler, that can translate pure, but implicitly statically typed Python (3.8+) programs into optimized C++. It can generate stand-alone programs or extension modules that can be imported and used in larger Python programs.
+			+ Besides the typing restriction, programs cannot freely use the Python standard library (although about 25 common modules, such as random and re, are currently supported). Also, not all Python features, such as nested functions and variable numbers of arguments, are supported (see the documentation for details).
+			+ https://github.com/shedskin
+			+ An experimental (restricted-)Python-to-C++ compiler
+				- An experimental (restricted-Python)-to-C++ compiler
+			+ Shed Skin is an experimental compiler, that can translate pure, but implicitly statically typed Python 3 programs into optimized C++. It can generate stand-alone programs or extension modules that can be imported and used in larger Python programs.
+			+ Besides the typing restriction, programs cannot freely use the Python standard library (although about 25 common modules, such as random and re, are currently supported). Also, not all Python features, such as nested functions and variable numbers of arguments, are supported (see the documentation for details).
+			+ https://shedskin.github.io/
 
 
 

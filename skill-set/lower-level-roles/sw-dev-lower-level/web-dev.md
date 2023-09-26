@@ -1001,6 +1001,21 @@ reactive programming = asynchronous dataflow programming
 	- Experience with monitoring frameworks for large systems
 	- Experience with cloud APIs (e.g., a public cloud such as AWS, Azure, GCP or an advanced private cloud such as Google, Facebook)
 + skill set:
+	- Experience with relational databases (MySQL, DB2 or Oracle) and NoSQL databases (Redis, Cassandra or DynamoDB)
+	- Experience writing crisp, clean REST APIs
+	- Experience with RSpec or equivalent integration test framework
+		* RSpec
+			+ RSpec: Behaviour Driven Development for Ruby
+			+ https://rspec.info/
+			+ Behaviour Driven Development for Ruby.
+			+ Making TDD Productive and Fun.
+			+ RSpec is a computer domain-specific language (DSL) (particular application domain) testing tool written in the programming language Ruby to test Ruby code.[4] It is a behavior-driven development (BDD) framework which is extensively used in production applications. The basic idea behind this concept is that of test-driven development (TDD) where the tests are written first and the development is based on writing just enough code that will fulfill those tests followed by refactoring. It contains its own mocking framework that is fully integrated into the framework based upon JMock. The simplicity in the RSpec syntax makes it one of the popular testing tools for Ruby applications.
+				- mocking framework
+				- In object-oriented programming, mock objects are simulated objects that mimic the behaviour of real objects in controlled ways, most often as part of a software testing initiative. A programmer typically creates a mock object to test the behaviour of some other object, in much the same way that a car designer uses a crash test dummy to simulate the dynamic behaviour of a human in vehicle impacts. The technique is also applicable in generic programming.
+				- The most popular and friendly mocking library for .NET
+				- Moq (pronounced "Mock-you" or just "Mock") is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn't require any prior knowledge or experience with mocking concepts.
+	- Self-motivated individual who proactively identifies team bottlenecks and works with the team to resolve them
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

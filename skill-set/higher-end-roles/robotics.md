@@ -368,6 +368,17 @@ Sets of skills for autonomous road vehicles:
 	- Familiarity with real-time, multi-process and multi-threaded coding.
 	- Strong C++ development skills.
 	- Be an essential part of a team of engineers and scientists developing state-of-the-art estimation algorithms used for a variety of tasks, including calibration, localization and tracking.
++ skill set:
+	- Familiar with the basics of lidars, radars, cameras, and ultrasonic systems.
+	- Are familiar with Physics-based modeling and simulation of sensor systems (eg, link budget analysis, wave propagation, sensor noise sources, etc.).
+	- At least 1 year of experience in radar, lidar, or camera modeling and/or evaluation.
+	- Familiarity with test and calibration processes for autonomous vehicle sensors.
+	- Familiarity with EVT, DVT, and PVT processes for sensor bring-up and validation as well as FMEA principles.
+		* EP, Proto (early prototype) -> minimum viable product, MVP
+		* EVT, Engineering Validation Test - validate functional scope
+		* DVT, Design Validation Test - stabilize functional scope
+		* PVT, Production Validation Testing - adapt the production
+		* EVT -> DVT -> PVT -> mass production of MVP
 + Familiarity with modern planning approaches including randomized search methods and trajectory optimization
 + skill set:
 	- As a Research Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
