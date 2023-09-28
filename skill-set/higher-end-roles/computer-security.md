@@ -130,6 +130,18 @@ Roles in computing security:
 		* enterprise resilience
 		* software for searching, monitoring, and analyzing machine-generated data via a web-style interface
 + skill set:
+	- Abacus.AI
+	- SECURITY ENGINEER
+	- Responsible for the overall information security posture and compliance program for the Abacus.AI SaaS platform and internal systems.
+	- Candidates will need to have a BS or MS from top notch program with industry experience. We are looking for security engineers who have experience with at least two of the following:
+		* 5+ years professional experience in hands-on technical roles with emphasis on security and operations
+		* Successfully implemented one of SOC2, ISO27001, HIPAA, GDPR, PCI, Fedramp compliance programs
+		* Implementing IDS/IPS, WAF, DAST, SAST systems
+		* Conducting vulnerability scanning and penetration testing
+		* Developing information security policies, guidelines and documentation
+		* Developing security awareness and training programs
+		* Hands-on experience with network security, firewalls, vpns
++ skill set:
 	- document security operations, including:
 		* runbooks
 		* process workflow

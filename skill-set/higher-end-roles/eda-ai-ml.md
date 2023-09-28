@@ -5360,6 +5360,15 @@ Skill sets for application engineers of different EDA products:
 	- Hands-on experience and fast prototyping skills
 	- Demonstrated ability in both research and development
 + skill set:
+	- RESEARCH SCIENTIST @ Abacus.AI
+	- Responsible for coming up with new techniques in unsupervised learning, dataset augmentation and deep reinforcement learning that can be applied to automating various parts of the AI development workflow.
+	- Candidates will need to have a PhD preferably in Artificial Intelligence or Machine Learning. We are looking for people who have done research / published papers in one of the following areas:
+		* Auto ML
+		* Neural Architecture Search
+		* Personalization
+		* Forecasting
+	- Ideal candidates would be experienced at publishing at top conferences and be able to write code and ideate with the product team.
++ skill set:
 	- We're looking for a Research Scientist to join Snap Inc! The mission of the lab is to create hardware and/or software approaches to computational imaging that enable new photographic functionalities and experiences that go beyond what is possible with traditional cameras and image processing methods. Our goal is to empower our users with new tools that allow them to communicate with each other more efficiently and in more creative ways than possible today.
 	- We are looking for a highly innovative, motivated, and self-directed researcher. Working from our New York, NY office, you work closely with other researchers and our engineering teams, you will tackle unique technical challenges such as developing techniques to enhance existing products, create new products, deploying algorithms to handle our scale, and improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
@@ -6373,6 +6382,29 @@ Skill sets for application engineers of different EDA products:
 	- Experience with ML collaborative platforms/pipelines (MLflow, Neptune, Kubeflow, etc.)
 	- Docker and/or Kubernetes exposure
 	- Ph.D. in a related scientific field: Computer science, Physics, Math
++ skill set:
+	- There has never been a better time to indulge in the science and technology of Artificial Intelligence. Join a high performing, elite, well experienced team (worked at Google, Amazon, Uber and Facebook; key developers of BigQuery, GMail, Amazon Personalize; come from CMU, MIT, IIT, Stanford, Cal and Cornell), working on some holy grail problems in Machine Learning Systems (a next generation enterprise AI/ML platform that can automatically build custom models for a variety of business problems).
+	- We are looking for talented backend software engineers, machine learning software engineers and research scientists to be part of the founding team. You will help build the product that applies unsupervised learning to model the world and automatically creates and manages production grade AI systems. As an initial member of the founding team, you will own a significant chunk of the company, shape its culture and work on state-of-the-art science and technology.
+	- SOFTWARE ENGINEER - BACKEND SYSTEMS @ Abacus.AI
+	- Responsible for building out a cloud runtime for an AI engine that automates various aspects of an ML/AI system workflow including feature pipelines, model training and a real-time multi-tenant inference system.
+	- Candidates will need to have a BS or MS from top notch CS programs with over 4 years of industry experience. We are looking for excellent backend / systems software engineers who have experience building at least one of the following:
+		* Large scale backend systems used by consumer or high volume enterprise services
+		* Cloud data processing platforms in production
+		* Large scale machine learning pipeline infrastructure
+	- Experience building production applications which use ML/AI is a plus.
++ skill set:
+	- SOFTWARE ENGINEER 1 - MACHINE LEARNING @ Abacus.AI
+	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
+	- Candidates will need to have a BS in computer science from an accredited university. In addition, we’re looking for engineers who have the following:
+		* Working knowledge of software engineering - through job experience or coursework. Experience with Python preferred
+		* Have at least 6 months of professional work experience in one of the following: ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
+		* Coursework or work experience with machine learning algorithms such as classifiers, anomaly detection, and clustering
++ skill set:
+	- SENIOR SOFTWARE ENGINEER - MACHINE LEARNING @ Abacus.AI
+	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
+	- Candidates will need to have a BS in computer science from an accredited university OR have 5 years of professional work experience. In addition, we are looking for software engineers who have the following:
+		* 5 years of professional software engineering experience. Some experience with Python is required.
+		* Have at least 1 year of professional work experience in one of the following: data infrastructure, ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
 + skill set:
 	- The Think Tank Team is an interdisciplinary collective of researchers, designers, scientists and engineers located in Mountain View, CA. Our mandate is to explore what’s next for Samsung by applying bleeding-edge advances in software, machine learning, computer-human interaction, sensor and display technologies to solve real-world challenges that will transform users’ experiences in ways we can only just glimpse on the horizon today.
 	- TTT began as a small team in 2012 and brought its first concept -- the Samsung Gear watch -- to market one year later. Since then we have released several projects such as the Beyond 3D/360/4k camera for AR/VR cinematography, the BotChef cooking robot, the Ballie personalized companion, and others. We work on a wide variety of time scales, advancing science and applying it to create new products and experiences that will impact the lives of millions.
@@ -11324,6 +11356,18 @@ Need to address:
 		* Experience ***using AWS to build data-intensive infrastructure: ECS, Kinesis, S3, Kafka, Spark, Druid, Flink***
 		* Experience building platforms around publically available ***ML platforms*** like ***Sagemaker, Kubeflow, MLflow***, etc.
 		* Experience serving models using a variety of ***ML model frameworks*** like ***Tensorflow, PyTorch, Sci-kit Learn***, etc.
++ skill set:
+	- SITE RELIABILITY ENGINEER - ML OPS @ Abacus.AI
+	- Responsible for building, tuning and operating the entire infrastructure that powers Abacus.AI's multi-cloud SaaS products. We have a modern technology stack built on Kubernetes, Spark, TensorFlow, Python, Go, Mysql & Redis
+	- BS or MS from a top notch CS programs
+	- 2+ years professional experience in hands-on engineering roles including operating production environments in public clouds: AWS, GCP, Azure
+	- Strong Linux/Unix systems fundamentals
+	- Python programming experience in production environments
+	- Experience with modern cloud environments: containerization, infrastructure-as-code, devops, CI/CD pipelines and automation
+	- Operating Kubernetes clusters
+	- Experience with ML Ops: Spark, TensorFlow, GPUs
+	- Experience with Terraform
+	- Hands-on experience with network security, databases systems
 + skill set:
 	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
 	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
