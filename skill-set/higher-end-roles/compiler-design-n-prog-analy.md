@@ -336,6 +336,7 @@ Skill set for compiler design:
 
 
 + ***Experienced with Glow/TVM/NVM/TensorRT/Tensorflow compiler portion is plus***
++ [CUDA LLVM Compiler](https://developer.nvidia.com/cuda-llvm-compiler)
 + skill set:
 	- passion for developing and optimizing compilers for modern architectures
 	- experience in either or both of the following:
@@ -387,6 +388,20 @@ Skill set for compiler design:
 	- Experience creating Domain-Specific Languages.
 	- Experience with end-to-end development of Python packages.
 	- Understand how compilers work, e.g. AST, IR, optimizations, code generation
++ skill set:
+	- As an intern on our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute.
+	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed.  Compilers are needed to optimize the mappings of computation graphs to compute nodes. In this position, you will build the tools that generate distributed memory code from evolving intermediate representations.
+	- Design and devise graph semantics, intermediate representations, and abstraction layers between high-level definitions (like TensorFlow's XLA) and low-level distributed code.
+	- Use state-of-the-art parallelization and partitioning techniques to automate generation, exploiting hand-written distributed kernels.
+	- Identify and implement novel program analysis and optimization techniques.
+	- Employ and extend state of the art program analysis methods such as the Integer Set Library.
+	- Graduate and undergraduate students in Computer Science with a background in compilers and parallel programming.
+	- Two or more years of related work experience on compilers and distributed systems.
+	- Compiler experience; experience generating and optimizing code.
+	- Familiarity with high-level parallel program analysis and optimization
+	- LLVM compiler internals.
+	- Polyhedral models.
+	- Familiarity with HPC kernels and their optimization.
 + skill set:
 	- We’re looking for an experienced Compiler Architect to help drive compiler improvements and hardware requirements.  
 	- Analyze deep learning networks and develop compiler optimization algorithms for our hardware 
@@ -835,6 +850,47 @@ Skill set for compiler design:
 	- Understanding of fundamental concepts for high-performance software development, including instruction set architectures, memory hierarchy and locality, and instruction-level parallelism.
 	- Proactive in learning and exploring new ideas.
 	- Excellent communication and writing skills in English.
++ skill set:
+	- several years industry experience designing and developing a core compiler component and strongly prefer at least one of the following:
+		* 1. a research record
+		* 2. expert knowledge in some compiler or compiler related domain
+		* 3. contributions to an open source infrastructure (tensorflow, ...)
+		* 4. experience retargeting LLVM, GCC, or some other retargetable compiler infrastructure
+		* 5. linear algebra compilers
+		* 6. experience with a compiler related technology (profiling, static analysis, ...)
+		* 7. compiling to hardware
+		* For example, you might have a master's degree with compiler and algorithms course, implemented and you have spent several years at a job developing the IR of custom compiler.
++ skill set:
+	- Open-source Platforms:
+		* Investigate and determine how to integrate open-source compiler frameworks into Mythic's propriety compiler technology, e.g., LLVM.
+		* Investigate how to translate the output of deep learning frameworks such as Keras, Caffe, and Pytorch into programs that execute on Mythic's AI processor.
+	- Optimization:
+		* Develop Deep Neural Network (DNN) optimization algorithms that target a novel dataflow architecture composed of heterogeneous compute tiles.
+		* Investigate analog-aware algorithms that consider reduced precision, new datatypes, linearity, and noise requirements.
+		* Consider code generation schemes that tradeoff system latency, throughput, utilization, and power.
+	- Programming models:
+		* Innovate in a new compiler domain: mixed-signal computing.  Generate code for a heterogeneous processor with a mix of analog and digital compute accelerators.
+		* Develop a rapidly retargetable compiler infrastructure that models new custom accelerators for next-generation computer architectures.
+		* Investigate AI Domain Specific Languages (DSLs).
+	- Product Impact:
+		* Coordinate with engineering teams on the successful execution of the release of compiler products.
+		* Innovate across the entire product tool chain including parser, optimizer, code generator, linker, assembler, debugger, and related tools.
+		* Stay abreast of current industry and university compiler research and communicate key ideas to others at Mythic.
+	- ***Specific responsibilities will depend on background and skills.  If working at the intersection of compilers, AI, analog computing, and processor architecture sounds exciting, this is the role for you.***
+	- Required:
+		* Bachelor's in computer science or related field with 3+ years compiler development.
+		* Experience with system software and development tools.
+		* Experience with C and C++ programming Languages.
+		* Experience implementing, testing and upstreaming optimization and code generation solutions.
+		* Previous experience collaborating with others as part of a team.
+		* Strong software engineering skills.
+	- Nice to have but not required:
+		* Master's or PhD in Computer Science or related field with 3+ years compiler research experience.
+		* Experience with python.
+		* Familiarity with Agile software development processes
+		* Experience with embedded systems and instruction set architecture
+		* Experience with deep learning graph-compilers and related tools such as Glow, XLA, or TVM.
+		* Experience with DNN frameworks such as Pytorch, Tensorflow, or Caffe.
 + skill set:
 	- BLAH.
 + skill set:

@@ -272,7 +272,10 @@ Sets of skills for product management for machine learning products and services
 	- Excellent skills in creating high-fidelity prototypes using Invision, Principle, Code or similar
 	- Relevant experience in agile methodologies (Scrum, Agile, etc) and PM tools (e.g. Jira, Pivotal Tracker, Confluence etc.)
 	- Experience with relational (e.g. MySQL, PostgreSQL) and NoSQL (e.g. MongoDB, ElasticSearch) databases
-
++ skill set:
+	- ***Experience turning ideas into actionable designs.*** Able to persuade stakeholders and champion effective techniques through product development
+	- 5+ years of industrial data-mining / analytics experience including applied techniques in data mining, machine learning, or graph mining using Python, R, and/or Spark
+	- Comfortable working in a dynamic, research-oriented group with several ongoing concurrent projects
 
 
 
@@ -306,6 +309,13 @@ Sets of skills for product management for machine learning products and services
 
 
 
++ skill set:
+	- knowledge of software for creating interactive prototypes (Framer, Invision);
+	- experience in using visual mapping tools like Plectica;
+	- experience in type design and editorial design;
+	- talent or predisposition for vector and / or raster illustration.
+	- experience in the design and implementation of user interfaces and experience;
+	- excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
 + skill set:
 	- Splunk Observability is a new product to the market and is faced with exciting, unique design challenges. Join our growing team of designers and researchers to understand this new market and deliver a full-stack visibility into modern applications. As the Product Designer you will help admins, developers and engineers to simplify their daily tasks, troubleshooting much more efficiently. Provides an intuitive tool to help them when things go wrong, and build efficient, best-in-class products for their customers.
 	- Work alongside the Observability Product Design , PM and Engineering teams to deliver complete UX workflows to solve top user needs

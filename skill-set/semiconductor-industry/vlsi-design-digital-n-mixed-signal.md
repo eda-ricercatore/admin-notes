@@ -479,7 +479,28 @@ Skill sets for computer architects working with multi-GPU platforms, multi-TPU p
 	- Deep understanding of computer architecture at the CPU and system levels
 	- Understanding of VLSI design concepts and how they impact hardware and software architecture
 	- Ability to read HDLs such as Verilog/Chisel
-
++ skill set:
+	- You have experience with C++/C, CUDA, DX, or OpenGL.
+	- RISCV vector processor
+	- Familiarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP)
+	- Experience with Linux and/or QNX operating systems.
+	- You bring experience with CUDA and deep learning frameworks (i.e TensorFlow or Torch)
+	- Strong background in research with publications from top robotics and AI conferences (i.e. RSS, ICRA, CVPR, NIPS)
+	- Familiarity with parallel programming (OpenMP, OpenACC, MPI)
+	- Direct experience with LLVM IR
+	- Knowledge of Modern C++ semantics
+	- You are familiar with how to use open-source tools like Postman, cURL, Swagger UI/Editor/Codegen to design, build, test, document and consume RESTful APIs
+	- You have a passion for building and deploying microservice applications and experience using open source tools like Docker, Kubernetes and Open Shift
+	- Knowledge of industry-standard web technologies like HTTPS, REST, JSON, OData, OAuth, JWT, NoSQL
+	- Knowledge of industry-standard web technologies like HTTPS, REST, JSON, OData, OAuth, JWT, NoSQL
+	- Define, implement and validate backward- and forward-compatible, secure, robust RESTful APIs. Integrate these APIs with industry-standard tools and open source frameworks
+	- Experience with any of the deep learning frameworks: Tensorflow, Caffé, Theano, Torch.
+	- Experience in applying Deep Learning to 3D Computer Vision problems.
+	- Design, run, and analyze A/B tests to evaluate the effectiveness of your solution on real-world data.
+	- Research, implement and evaluate deep-learning-based image analysis and data-driven algorithms such as active learning or semi-supervised learning for mining and leveraging frames in massive amounts of unlabeled data.
+	- Strong background in computer architecture, preferably in the areas of CPUs, GPUs, and networks
+	- Investigate new hardware and software mechanisms to extend state-of-the art networking in multi-GPU systems
+	- Model, and analyze the performance of applications on proposed architectures
 
 
 
@@ -795,6 +816,8 @@ List(s) of companies in the semiconductor industry:
 + Deep understanding of ***timing corners, operating modes, OCV, cross-talk, noise, signoff criteria***.
 + ***Ability to follow a design flow (RTL, testbench, code coverage, synthesis, formal verification, gate level simulation).***
 + Implement design by performing synthesis, timing closure, lint, CDC, UPF
++ Strong understanding of noise, EM/IR, process variation, and low voltage design techniques
++ https://www.glassdoor.co.uk/Jobs/Google-vlsi-design-engineer-San-Jose-Jobs-EI_IE9079.0,6_KO7,27_IL.28,36_IC1147436.htm?countryRedirect=true
 + skill set:
 	- As an ALU Design Engineer at SiFive, you will be part of a global team designing the best CPU cores in the world, based on the revolutionary open RISC-V architecture. You will master the art of designing hardware as configurable generators in a hardware-enhanced software language. You will be working in a fast-paced dynamic environment to bring new hardware IP to market quickly, with high quality and exceptional performance.
 	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
@@ -1248,6 +1271,92 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Experience in leading a low-power architecture project from start to commercial volume chip production in an advanced node
 	- Experience in post-silicon measurement with the goal of correlating with pre-silicon power forecast
 	- Demonstrated technical innovations with impact on AI or high-performance computing
++ skill set:
+	- Responsible for SoC architecture development to achieve good area/power/performance
+	- Collaborate with Marketing and System team to define chip specifications and product roadmaps
+	- Co-work with algorithm team, design team, verification team to ensure the chip implementation follows architectural intend
+	- Help with chip level RTL design, integration and verification, including FPGA emulation
+	- Maintain chip level c-model to support full chip simulation
+	- Support product validation, ATE test and other chip level issues during high volume ramp-up
+	- Master/Ph.D Degree in Electrical/Communication Engineering or related fields\nMinimum 3 years industry SoC development experience. Video processing SoC design experience is preferred
+	- Fluent in Verilog, C/C++
+	- Familiar with clock, reset, low power design
+	- Experience in bus fabric development, integration & performance optimization
+	- Familiar with OCP protocol is a plus
+	- Experience in Perl/python is a plus
+	- Fluent speaking/writing in English and Good communication skill
+	- Self-motivated, Organized, Team Player, Result Oriented, and Fast learning on challenging task
++ skill set:
+	- Independently handle key IC design tasks: Comprehend algorithm or transaction protocol specifications
+	- Develop block-level micro-architecture and implementation with RTL
+	- Preparation of technical documentation
+	- Co-development of verification plan and test case definitions
+	- Chip- and block-level verification debug
+	- Subsystem- and SoC-level integration, including timing constraint definition, logic synthesis, power analysis and timing closure
+	- Support FPGA validation and silicon bring-up
+	- Interface with 3rd party vendors for successful IP integration into SOC
+	- BSEE Degree or above
+	- 3 to 5 years of hands-on experience in digital IC design
+	- Familiar with ASIC design methodology and SoC implementation flow
+	- Experience with common digital IC design CAD tools for simulation, logic synthesis, formal verification and static timing analysis
+	- Attention to detail, self-motivated and the ability to be a team player while working independently
+	- Strong analytical and problem-solving skills
+	- Good communication skills and proficient in written and verbal English
+	- Working experience in one of the following areas is a plus:
+	- Image or video processing IP design
+	- Computer architecture
+	- Interface controllers such as DDR, MIPI, PCI-Express, SATA, USB and HDMI
+	- Mobile or low-power SoC design
+	- Scripting languages such as bash/csh, Perl or Python
++ skill set:
+	- Definition of block level and product level SoC architecture
+	- Work closely with IC design, verification, software, physical design, and marketing teams to ensure SoC meets feature and performance requirements
+	- Modeling, Architecture, Micro architecture, Digital design,& RTL coding
+	- Interconnect exploration including AHB, AXI, ACE, AXI-stream, and NoC  interconnect architectures
+	- Bachelors Science or better in Electrical Engineering or related field.
+	- Masters or better in Electrical Engineering or related field.
+	- Willingness to travel domestically and internationally
+	- Strong communication skills
+	- Experience working with 3rd party teams
+	- Expertise in scripting languages such as Python, TCL, or Perl
+	- Experience developing design models in high level languages like System Verilog and System C
+	- Solid experience in design convergence cycle, including synthesis, timing closure, and verification
+	- Strong background in memory interfaces including DDR3 / DDR4 / LPDDR4 systems
+	- Familiarity with SoC security capabilities and protocols
+	- Experience in profiling SoC system performance
+	- 12 + years of experience in definition of SoCs
++ skill set:
+	- Definition of block level and product level SoC architecture
+	- Work closely with IC design, verification, software, physical design, and marketing teams to ensure SoC meets feature and performance requirements
+	- Modeling, Architecture, Micro architecture, Digital design, & RTL coding
+	- Interconnect exploration including AHB, AXI, ACE, AXI-stream, and NoC  interconnect architectures
+	- Willingness to travel domestically and internationally
+	- Strong communication skills
+	- Experience working with 3rd party teams
+	- Expertise in scripting languages such as Python, TCL, or Perl
+	- Experience developing design models in high level languages like System Verilog and System C
+	- Solid experience in design convergence cycle, including synthesis, timing closure, and verification
+	- Strong background in memory interfaces including DDR3 / DDR4 / LPDDR4 systems
+	- Familiarity with SoC security capabilities and protocols
+	- Experience in profiling SoC system performance
+	- 12 + years of experience in definition of SoCs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1535,8 +1644,14 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Experience in server manageability architecture, knowledge of industry standard initiatives such as Redfish and manageability protocols such as IPMI desirable
 	- Experienced with Continuous Integration and Test Automation framework
 	- Experienced with embedded Linux system development frameworks like Yocto, Buildroot, etc.
-
-
++ Knowledge of multi-domain clock synchronization and high-speed serial interfaces
++ skill set:
+	- Perform channel margin analysis to provide design tradeoffs amongst package, board, connector. Develop SerDes channel simulation models and correlate to test structures. Correlate TX and RX SerDes simulation models with measurements and work with SerDes vendors to improve model accuracy.
+		* SerDes: serializer/deserializer
+		* TX: transmitter
+		* RX: receiver
+	- Proficient with lab equipment such as oscilloscopes, Vector Network Analyzers, Time Domain Reflectometer, Spectrum Analyzers, phase noise analyzers.  Good lab debug skills a plus.
+	- Perform SI DVT measurements on boards and correlate simulations with DVT measurements.  Document SI DVT measurements and correlation to simulations.
 
 
 
@@ -1905,6 +2020,7 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 	- Excellent problem solving and analytical skills.
 	- Excellent verbal and written communications ability in English.
 	- Ability to work in a fast-paced global team environment.
++ Drive the generation, audit and validation of secondary views (IBIS models, Timing files, Power files) in support of faster integration and promote IP re-use
 + skill set:
 	- BLAH.
 + skill set:
@@ -2140,7 +2256,9 @@ Skill sets for mixed-signal IC design:
 	- Experience with FPGA and DSP design and implementation is a plus  
 	- Experience with various EDA/Computing languages and tools, i.e. Spice, SystemVerilog, Verilog-AMS, Matlab, Python, C++, etc. 
 	- Willingness to learn new skills and do the work necessary to succeed 
-
++ Mixed-Signal Circuit Techniques for Near-Sensor Machine Learning and Data Analysis
+	- Mixed-signal interfaces are the essential bridges between the physical world and the digital information processing backbone. In recent years, innovation in such interfaces has been increasingly fueled by application-level insight and the data-driven nature of modern systems. As a result, the traditional building block boundaries are blurring, and the extraction of information occurs through symbiotic interplay between analog and digital signal processing. In this talk, I will illustrate this trend using examples of small-scale machine learning and data analysis functions that operate at the physical interface. Specific examples include mixed-signal feature extraction circuits and compute fabric for machine learning inference, as well as data-compressive interfaces for high-dimensional sensor inputs.
+	- Boris Murmann is a Professor of Electrical Engineering at Stanford University. He joined Stanford in 2004 after completing his Ph.D. degree in electrical engineering at the University of California, Berkeley in 2003. From 1994 to 1997, he was with Neutron Microelectronics, Germany, where he developed low-power and smart-power ASICs in automotive CMOS technology. Since 2004, he has worked as a consultant with numerous Silicon Valley companies. Dr. Murmann's research interests are in mixed-signal integrated circuit design, with special emphasis on sensor interfaces, data converters and custom circuits for embedded machine learning. In 2008, he was a co-recipient of the Best Student Paper Award at the VLSI Circuits Symposium and a recipient of the Best Invited Paper Award at the IEEE Custom Integrated Circuits Conference (CICC). He received the Agilent Early Career Professor Award in 2009 and the Friedrich Wilhelm Bessel Research Award in 2012. He has served as an Associate Editor of the IEEE Journal of Solid-State Circuits, an AdCom member and Distinguished Lecturer of the IEEE Solid-State Circuits Society, as well as the Data Converter Subcommittee Chair and the Technical Program Chair of the IEEE International Solid-State Circuits Conference (ISSCC). He is the founding faculty co-director of the Stanford SystemX Alliance and the faculty director of Stanford's System Prototyping Facility (SPF). He is a Fellow of the IEEE.
 
 
 

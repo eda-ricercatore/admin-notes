@@ -13,7 +13,21 @@
 
 
 + Familiar with gtest, python unittest or other testing frameworks.
++ Use of online tools such as Userzoom, usertesting.com and Optimal Workshop a plus
 + Familiarity with common web application testing tools for DAST, SAST, and IAST analysis such as Burp Suite, Checkmarx, Veracode
++ Experience with testing frameworks: Selenium Webdriver, Rspec, Cucumber, Jasmine, etc.
++ Experience with Rspec, Jenkins, Maven
+	- Rspec: testing framework for Ruby applications, for behavior-driven development (BDD)
+	- Jenkins: open-source automation tool for continuous integration, CI, and continuous delivery, CD (CI/CD)
+	- Apache Maven, build automation tool, project management and comprehension tool
+		* provides support for reproducible builds
++ skill set:
+	- Many of us feel that we've found our home for the next decade. This motivates us to take a long-term approach to our work: ***writing clean, maintainable code, investing in automated testing, and building in budgets for technical debt***. This also motivates us to value mentorship; we want our most junior engineers to be in a position to mentor others and to independently take on more responsibilities in the coming years. We love it when our engineers take full ownership of a feature and drive it from design through validation.
+	- Familiarity with some enterprise user authentication technology (such as LDAP, SAML, Kerberos)
+	- Experience building, shipping, and maintaining the back-end of a web-accessible product
+	- Experience working with compiled programing languages (e.g. Go, Rust, C++, C# or Java) and SQL databases (any)
+	- Experience building and shipping on-premise enterprise software
+	- Experience with information security -- either via certifications (CISSP, CEH, etc.) or professional experience (security audit, pentesting, etc.)
 + skill set:
 	- Senior Software Engineer, Identity
 	- The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for. 
@@ -70,6 +84,18 @@
 + 5+ years of experience on Dev/Test tools such as Git, Jenkins, Jira, Robot Framework/pytest,  Zephyr Scale/qTest, Grafana etc.
 + Knowledges of Web test frameworks like ***Selenium, React.js, Headless Chromium*** is a plus
 + Automated testing: Karma, Protractor
++ skill set:
+	- Experience with Continuous Integration systems (e.g., Jenkins, Travis, GitLab)
+	- Experience working with Docker containers
+	- Experience with AWS or Kubernetes
+	- Expand our existing test automation framework and test coverage.
+	- Develop new tests and tools for our GitLab.com frontend, backend APIs and services, and low-level systems like geo replication, CI/CD, and load balancing.
+	- Identify and drive the adoption of best practices in code health, testing, testability, and maintainability. You should know about clean code and the test pyramid, and champion these concepts.
+	- Analyze complex software systems and collaborate with others to improve the overall design, testability and quality.
+	- Strive for the fastest feedback possible. Test parallelization should be a top priority. You see distributed systems as a core challenge of good test automation infrastructure.
+	- Configure automated tests to execute reliably and efficiently in CI/CD environments.
+	- Track and communicate test results in a timely, effective, and automated manner.
+	- Experience using test automation tools like Capybara, Watir, Selenium
 + skill set:
 	- Software Engineer in Test
 	- Splunk is looking for an enthusiastic and innovative test engineer to take an active role in crafting the quality of our web application, empowering our customers to quickly detect, troubleshoot and resolve their infrastructure and application issues.
@@ -152,6 +178,50 @@
 	- Has a collaborative attitude and a willingness to work with team members.
 	- Has good verbal and written communication skills with experience explaining 	- complex technical concepts to audiences.
 	- Possess the creativity to always think of new ways to break things; don't settle until as many corner cases as possible are covered.
++ skill set:
+	- Knowledge of JIRA, Test Rail, Jenkins, Splunk, New Relic, Allure Reports
+		+ JIRA
+			- issue and project tracking, in terms of project management
+		+ Test Rail
+			- test management platform
+			- streamline software testing processes
+			- get visibility into software quality assurance
+			- release high-quality software
+		+ Jenkins
+			- open-source automation server
+			- CI/CD support infrastructure
+			- platform for CI/CD environment
+		+ Splunk
+			- monitor and search through big data
+			- search, monitor, and analyze machine-generated data, via Web-style interface
+		+ New Relic
+			- all-in-one observability platform to monitor, debug, and improve computer systems
+			- SaaS (software as a service) that provides performance and availability monitoring
+				* based on standardized Apdex, application performance index
+			- use cases:
+				* performance monitoring
+				* time series analysis
+				* infrastructure monitoring
+				* synthetic monitoring of APIs
+				* provides insight into UI performance
+		+ Allure Reports
+			- Allure Framework: flexible lightweight multi-language test report tool
+				* Allure Report: flexible lightweight multi-language test report tool
+	- Knowledge of Selenium or TestCafe or Cypress is a bonus
+		* Selenium:
+			+ automate Web applications for software testing
+			+ automate Web-based administration tasks
+			+ open source umbrella project for a range of tools and libraries that support browser automation, especially for headless browsers (GUI-less Web browsers)
+				- supports test automation for Web applications
+				- take screenshots of Web pages
+				- supports test automation for JavaScript libraries
+				- automate interaction of Web pages
+				- useful for Web scraping
+		* TestCafe
+			+ user-friendly end-to-end software testing framework for Web applications, based on JavaScript
+		* Cypress
+			+ JavaScript component testing framework
+			+ front-end testing tool for Web applications
 + skill set:
 	- We are looking for a Software Engineer with a passion for “breaking” things and building reliable automated tests to ensure a high level of quality. This position requires knowledge of QA methodologies and programming experience.  You will have the opportunity to develop tests using Ruby and RSPEC and incorporate them into our automation framework for our CDN.
 	- This role will report to our: QA Manager.

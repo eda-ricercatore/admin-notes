@@ -184,6 +184,9 @@ Skills for EDA software development, and other high-end software development:
 		* MDX markup language, authorable format for writing JSX in Markdown documents
 			+ JSX, or JavaScript Extension, or JavaScript XML
 				- similar in appearance to HTML
+	- GitBook
+		* Modern documentation format and toolchain using Git and Markdown
+		* Good experiences with technologies used by GitBook: Go, Google Cloud Platform, Algolia, Firebase
 + Experience with unit testing, and performance benchmarking and tuning.
 + skill set:
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
@@ -310,9 +313,15 @@ Skills for EDA software development, and other high-end software development:
 	- research workflow
 		* The Collective Knowledge (CK) project is an open-source framework and repository to enable collaborative, reproducible and sustainable research and development of complex computational systems. CK is a small, portable, customizable and decentralized infrastructure helping researchers and practitioners
 	- Salesforce.com Process Workflow
+	+ ***data pipeline and workflow management tools: Azkaban, Luigi, Airflow***
 + program analysis tools:
 	- PerfView
 		* CPU, memory, garbage collection
++ ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
++ ***Refactoring existing C++ libraries for modularity and extensibility.***
++ Identify scaling bottlenecks and propose solutions.
++ Familiarity with Agile methodologies, such as Scrum or Kanban, as well as software development practices such as Continuous Integration, Test-Driven Development and DevOps.
++ knowledge of object-oriented and functional programming paradigms
 + 
 
 
@@ -1042,6 +1051,21 @@ VLSI formal verification companies:
 
 
 Sets of skills for VLSI formal verification, in terms of developing VLSI formal verification tools:
++ skill set:
+	- As a senior software engineer at Breker, you will work closely with our core product team to develop cutting-edge technologies to address the SoC verification crisis. You will communicate with our product definition team and translate the product specification into executable R&D tasks. You will independently design and implement the software components and take the ownership of one or more software modules. Your day-to-day work will also include participating in technical meetings and design reviews. As a product developer, you will also have the opportunity to interact directly with our customers and receive feedback about the work you have done. We are a small software team and believe in agile development philosophies. We insist on clean design and readable code. When Breker customers produce successful, reliable SoC products, you will know that you helped make them possible.
+	- requirements:
+		* MSEE/MSCS with 3 years of software industry experience
+		* Excellent understanding of software design concepts, including object-oriented design and patterns
+		* Extremely strong C/C++ coding skills and practices, including ability to debug complex software systems
+		* Excellent written and oral communication skills
+		* Self-starter, high energy, and able to develop effective plans for software component implementation
+		* Eagerness to be part of a startup and a desire to experience the excitement of offering powerful new technology
+	- preferred experience:
+		* PhD with relevant experience in circuit design and verification
+		* Knowledge about constraint solving techniques, such as Boolean Satisfiability (SAT), Binary Decision Diagrams (BDD), and Satisfiability Modular Theory (SMT)
+		* Adoption of agile software development methodologies
+		* Familiarity with hardware design and verification languages, such as Verilog and SystemVerilog
+		* Hands-on use of software construction tools, such as GNU Make and SVN
 + skill set:
 	- BLAH.
 + skill set:
@@ -2516,6 +2540,60 @@ Skill sets for FPGA design automation, or FPGA CAD:
 	- Familiarity with VHDL and/or Verilog
 	- Exposure to Synthesis and Simulation tools
 + skill set:
+	- Responsible for development of EDA database and FPGA design tools.
+	- Responsible for optimizing EDA database and enhancing current software architecture.
+	- Responsible for the design of state-of-art infrastructure for next generation FPGA products.
+	- Working with other software development teams to strongly support EDA tools capacities efficiently.
+	- Improve development methodologies and processes
+	- BS/MS/PHD in Electric Engineering or Computer Science or Mathmatics.
+	- 1+ years of experience in EDA, CAD, ASIC or FPGA.
+	- Experience with C/C++, Python, TCL on LINUX and/or WINDOWS platforms.
+	- Strong background in EDA algorithms and data structures is preferred.
+	- Strong and effective inter-personal and communication skills.
+	- Self-motivated, self-disciplined with the ability to set the team goals and work consistently towards achieving them.
+	- Experience of development of large existing software systems is highly desirable.
+	- Individuals with strong desire and ability to explore new technologies and who are able to demonstrate excellent analysis and problem-solving skills are preferred.
++ skill set:
+	- A successful candidate will join a team designing and developing Lattice FPGA software tools at San Jose. The candidate will contribute to delivering software solution for Lattice FPGA development with emphasis on placement and routing tools. The candidate is expected to research and develop novel algorithms to improve Lattice FPGA placement and routing engines to achieve better Fmax, runtime as well as memory footprint. The candidate is also expected to support new FPGA architecture evaluation and assess its potential impact on existing software tools. The candidate will be responsible for maintaining existing software product too and interacting with other teams to facilitate a value added solution.
+	- Responsible for new architecture evaluation, placement and routing tool's QoR improvement and support for Radiant/Diamond software release.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Dedicated: Devoted to a task or purpose with loyalty or integrity
+		* Functional Expert: Considered a thought leader on a subject
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Growth Opportunities: Inspired to perform well by the chance to take on more responsibility
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Required: Masters or better in Electrical Engineering or related field.
+		* Preferred: Doctorate or better in Computer Science or related field.
+	- Experience
+		* 8 years: 8+ years experience in EDA place and route development. Expertise in C++, knowledge of data structure and graph algorithms, and strong communication skills are required. Knowledge or experience in FPGA development is a plus.
++ skill set:
+	- A successful candidate will join a team designing and developing Lattice FPGA software tools at San Jose. The candidate will contribute to delivering software solution for Lattice FPGA development with emphasis on device support including device modeling, simulation model and bitstream generation. The candidate is expected to work closely with FPGA silicon design teams and FPGA SW implementation team (MAP, Place & Route and Timing Analysis) and programming teams to provide an entire FPGA solution from Synthesis to bitstream download. The candidate is also expected to support new FPGA architecture evaluation and assess its potential impact on existing software tools. The candidate will be responsible for maintaining existing software product too and interacting with other teams to facilitate a value added solution.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Innovative: Consistently introduces new ideas and demonstrates original thinking
+		* Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well
+	- Motivations
+		* Growth Opportunities: Inspired to perform well by the chance to take on more responsibility
+		* Goal Completion: Inspired to perform well by the completion of tasks
+		* Self-Starter: Inspired to perform without outside help
+	- Education
+		* Required: Bachelors or better in Electrical and Electronics Engineering or related field.
+		* Preferred: Masters or better in Electrical Engineering or related field.
+	- Experience
+		* Required
+			+ C++ programming and data structure
+			+ 5 years: Expertise in C++, Verilog, and scripts, knowledge of logic design, simulation and data structure
+		* Preferred
+			+ knowledge of FPGA, logic design & simulation
+			+ EDA tool development
+			+ Logic design & familiar with Verilog & VHDL
+			+ Strong communication skills are required
+			+ Knowledge or experience in FPGA development and System Verilog is a plus
+			+ 3 years: Experience in EDA development
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -3532,7 +3610,33 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 		* Security threat modelling and penetration testing
 		* Certification standards and compliance testing
 		* Security testing on covert red team campaigns, or similar offensive security experience
-
++ skill set:
+	- Principal Security Architect will develop a strategic direction for the security-related architecture of Lattice products, working closely with FPGA system and architecture experts to advance the company's presence within security-sensitive systems
+		* Reduce risks, threats, and vulnerabilities in systems built with Lattice products
+		* Drive Lattice's roadmap for data and design security within our programmable logic product line
+		* Meet with customers and ecosystem partners to ensure requirements are understood, implementations are sound, and the broader ecosystem is moving to meet the future challenges
+		* Coordinate across functional business units to ensure robust, secure posture from design to implementation
+		* Represent Lattice at industry forums related to data and design security
+		* Coordinate development of tools, methods, and training to support staff in achieving security objectives and ensure effectiveness of security standards
+		* Will partner closely with engineering, sales, marketing, applications, and end to end customers
+		* Strong customer facing skills
+	- Behaviors
+		* Dedicated: Devoted to a task or purpose with loyalty or integrity
+		* Team Player: Works well as a member of a group
+		* Leader: Inspires teammates to follow them
+	- Motivations
+		* Goal Completion: Inspired to perform well by the completion of tasks
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+		* Entrepreneurial Spirit: Inspired to perform well by an ability to drive new ventures within the business
+	- Education
+		* Required: Bachelors or better in Computer Science or related field.
+		* Preferred: Masters or better in Computer Science or related field.
+	- Experience
+		* Expert knowledge/background in secure code authentication/attestation and chains of trust
+		* Experience in industry attack, vulnerabilities and solutions around design and data security
+		* Working knowledge of online service architectures for connected/IOT systems
+		* Well versed in Secure Architecture and Design fundamentals
+		* 10 years: 10+ years of experience in the hardware data security industry
 
 
 
@@ -3747,6 +3851,9 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 + Research and develop CNN/RNN neural network compression algorithms, focusing on quantization and pruning
 + Either in AI tools; or autonomous embedded area; or FPGA
 + Knowledge of distributed machine learning framework (distributedTensorFlow/MXNET) or cloud/edge federation is a plus
++ skill set:
+	- Understanding On TensorRT is an Added Advantage
+	- Knowledge of Frameworks like DNN,BLAS,RAND,SPARSE.
 + workflow for embedded computer vision product development:
 	- dataset sourcing
 	- dataset curation
@@ -3798,6 +3905,20 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Experience/interest with ML acceleration ( compression, quantization, pruning etc.)
 	- Experience with metrics and evaluation for large systems
 	- SRE/Devops and passionate about applying software engineering best practices to ML
++ skill set:
+	- Strong C/C++ and Python programming skills;
+	- Experience with embedded systems and hardware;
+	- Working knowledge of Git.
+	- Familiarity with deploying machine learning on embedded devices using TensorFlow Lite or similar framework;
+	- Experience training models using machine learning frameworks like TensorFlow, PyTorch or MXNet;
+	- Experience optimizing code to run on GPU, DSP or neural processors;
+	- Experience with real-time operating systems like FreeRTOS or ThreadX;
+	- Experience with unit tests and Test Driven Development;
+	- An understanding of Continuous Integration systems.
+	- Software design and implementation;
+	- Collaboration in the team's agile planning processes;
+	- Code reviews and support for other development on going within the team;
+	- Collaboration with engineers from a range of disciplines to deliver production ready systems.
 + skill set:
 	- GrAI Matter Labs is looking for a talented Senior AI Processor Architect to help us shape the next generation of our GrAI Core Architecture and its pre- and post-processing peripherals (such as image processing, FFT, IFFT...). As a Senior Core Architect you will own the specifications of one or more components of our core architecture. You will analyse the performance of our processors for selected applications, and propose, quantify and specify architectural features and optimisations to improve the performance, cost and power consumption of our next generation GrAI Core.
 	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company’s architecture, as well as adapting such concepts to work in production-grade systems.
@@ -4142,6 +4263,42 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 + skill set:
 	- strong programming skills in C++ with experience in developing latency-critical software
 	- demonstrated ability to take neural network models from concept to production with in-depth knowledge in deep learning frameworks, such as TensorFlow
++ skill set:
+	- We are looking for a senior staff engineer with good understanding of neural network implementation on resource constrained embedded devices. In this position you will have an opportunity to influence how customers can efficiently utilize Lattice solution for neural network inference. In-depth understanding of neural network topologies, training with TensorFlow and/or Caffe framework is essential. Candidate need to possess good programming skills with Python, C/C++ with basic understanding of data structures. Candidates need to have the expertise to use embedded architectures such as FPGAs, GPUs, or other embedded processors to realize complex applications using deep learning.
+	- The ideal candidate would possess the following skills:
+		* Ability to create and use deep learning training frameworks for creating new applications.
+		* Expertise in one of Tensorflow, Caffe, Keras, or any other deep learning framework.
+		* Python programming expertise.
+		* Understand different kinds of numerical precisions in implementing deep learning solutions. Ability to translate networks trained with floating point to different fixed point formats. Understand the accuracy loss, and come up with ways to address them.
+		* Be up to date with the current research in neural networks, implementations, competitive solutions, etc.
+	- Able to present solutions to customers, understand their requirements and come up with solutions to address them.
+	- Create neural network models, add new features to neural network compiler for efficient inference, mentor junior engineers, deliver functionally correct software, debug customer issues, document features, develop new testcases, publish papers, file patents
+	- Behaviors
+		* Enthusiastic: Shows intense and eager enjoyment and interest
+		* Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well
+		* Innovative: Consistently introduces new ideas and demonstrates original thinking
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Required: Masters or better in Electrical Engineering or related field.
+		* Preferred: Doctorate or better in Computer Engineering or related field.
+	- Experience
+		* PHD on relevant topic, MS with 8+ years experience, BS with 10+ years experience
++ skill set:
+	- Machine learning engineer who develops neural network for a given application and map to FPGA solution. Need to develop technology to map the neural network into FPGA including neural network compiler and HW acceleration engine development.
+	- Need to know the details of machine learning including network design, network training, and training dataset build up. Also need to understand the general accelerator structure of machine learning inferencing engine.
+	- Behaviors
+		* Team Player: Works well as a member of a group
+		* Functional Expert: Considered a thought leader on a subject
+		* Enthusiastic: Shows intense and eager enjoyment and interest
+	- Motivations
+		* Self-Starter: Inspired to perform without outside help
+		* Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization
+	- Education
+		* Doctorate or better in Electrical Engineering or related field.
+	- Experience
+		* Hands on experience on network design and training. RTL design experience, FPGA design experience
 + skill set:
 	- BLAH.
 + skill set:
@@ -5025,8 +5182,77 @@ Skill sets for application engineers of different EDA products:
 
 
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
++ machine learning frameworks:
+	- JAX
+	- TensorFlow
+	- Caret
+	- H20 3
+	- Prophet
+	- PyTorch
+	- Tidymodels
+	- Xgboost
+	- MXNet
+	- Keras
+	- CatBoost
+	- LightGBM
+	- Scikit-Learn
+	- Fast.ai
++ machine learning algorithms:
+	- decision trees or random forests
+	- evolutionary approaches
+	- recurrent neural networks, RNN
+	- Bayesian networks
+	- linear or logistic regression
+	- convolutional neural networks, RNN
+	- transformer networks: BERT, gpt-3
+	- gradient boosting machines: xgboost, lightgbm
+	- dense neural networks: MLPs
+	- generative adversarial networks, GANs
++ machine learning products:
+	- Google Cloud Vision AI
+	- Amazon SageMaker
+	- Google Cloud AI Platform / Google Cloud ML engine
+	- Google Cloud Natural Language
+	- Amazon Forecast
+	- Amazon Rekognition
+	- Azure Cognitive Services
+	- Google Cloud Video AI
+	- Azure Machine Learning Studio
++ tools for managing machine learning experiments:
+	- Comet.ml
+	- Trains
+	- Guild.ai
+	- Domino Model Monitor
+	- Sacred + Omniboard
+	- Polyaxon
+	- TensorBoard
+	- Weights & Biases
+	- Neptune.ai
++ categories of automated machine learning tools (or partial AutoML tools):
+	- automated data augmentation: imgaug, albumentations
+	- automated feature engineering/selection: tpot, boruta_py
+	- automated model selection: auto_sklearn, xcessiv
+	- automated model architecture searches: darts, enas
+	- automated hyperparameter tuning: hyperopt, ray.tune, Vizier
+	- automation of full ML pipelines: Google Cloud AutoML, H20 Driverless AI
++ specific automated machine learning tools, or partial AutoML tools:
+	- H20 Driverless AI
+	- Xcessiv
+	- Google Cloud AutoML
+	- Auto-Sklearn
+	- Tpot
+	- Auto-Keras
+	- Auto_ml
+	- Databricks AutoML
+	- MLbox
+	- DataRobot AutoML
 + ***Publication in top-tier conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, STOC, IEEE TPAMI, IEEE TNNLS, IEEE TSP, IEEE TIP, Information Fusion, JAIR, IJRR, IJCV, and JMLR.***
++ If you work on any of these topics, publish in relevant ***conferences (CVPR, ICCV, ECCV, ACCV, NIPS, ICML, BMVC, WACV, ICIP, ICASSP, ICPR, EUSIPCO, MLSP, ICME, ACM Multimedia) and/or journals (IEEE PAMI, TIP, SMC, CSVT, TNNLS, TMM, Pattern Recognition, Information Sciences, Neurocomputing, Neural Networks, Image and Vision Computing, IJCV, ACM Transactions on Intelligent Systems and Technology, ACM Computing Surveys)*** and you want to get relevant regular news or post your own news, you can subscribe as shown above.
+	- Ioannis Pitas
+		* Professor, PhD, Director of the Artificial Intelligence and Information Analysis Lab, AUTH, Greece
+		* IEEE fellow and Distinguished Lecturer
 + platform-agnostic machine learning development
++ Strong understanding of ***Model optimization, Pruning, Tuning, ONNX, Distiller, Quantization***
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
 + tech stack:
 	- Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
@@ -5045,7 +5271,14 @@ Skill sets for application engineers of different EDA products:
 	- You preferably have experience with data processing and storage frameworks like ***Google Cloud Dataflow, Hadoop, Scalding, Spark, Storm, Cassandra, Kafka***, etc.
 	- Extensive publication record at peer-reviewed ML conferences (e.g. ***NIPS, ICML, AISTATS, UAI, COLT, ICLR, AAAI***, etc) as well conferences with applied ML (e.g. ***KDD, WSDM, WWW, CIKM, RecSys***, etc).
 + ***"Knowledge of Bayesian Global Optimization tools and technique"***
++ practical knowledge of machine learning tools (e.g. ***scikit-learn / LightGBM / PyTorch***)
 + Familiarity with neural network framework such as ***Caffe, Torch, Theano, TensorFlow, CNTK***
++ Good knowledge of popular deep learning platforms (***Tensorflow, Pytorch, Paddlepaddle***)
+	- https://github.com/PaddlePaddle/Paddle
+	- https://www.paddlepaddle.org.cn/
++ skill set:
+	- General knowledge in machine learning, natural language processing, knowledge graph, image processing and computer vision, with deep insight in recent progress and practical experience in one of the fields
+	- Understanding principles of deep learning, probabilistic inference, graphical models, reinforcement learning, transfer learning and adversarial learning, with extensive knowledge in one of the fields mentioned
 + vw / xgboost
 	- vw
 		* Vowpal Wabbit (VW) is an open-source fast online interactive machine learning system library and program developed originally at Yahoo! Research, and currently at Microsoft Research.
@@ -5056,12 +5289,47 @@ Skill sets for application engineers of different EDA products:
 		* "It aims to provide a "Scalable, Portable and Distributed Gradient Boosting (GBM, GBRT, GBDT) Library". It runs on a single machine, as well as the distributed processing frameworks Apache Hadoop, Apache Spark, Apache Flink, and Dask.
 		* "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples."
 		* XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
++ skill set:
+	- We use regression, Bayesian methods, tree-based learners, SVM, RF, XGBOOST, time series modelling, dimensionality reduction, SEM, GLM, GLMM, clustering etc on a regular basis.
+	- Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, Price Optimization
+	- Experience of working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights, and visualizations
+	- Detailed knowledge of XGboost, classification models, RF, understanding of Error metrics (RMSE, MSE, MAE), model fine tuning, feature selection, model selection
++ skill set:
+	- Good knowledge of machine learning algorithms like Neural network, CNN, Logistic regression, KNN, Random forest, decision tree, clustering etc.
+	- Decent depth in understanding ML algorithm concepts like supervised/unsupervised, regression/classification, time series algorithms
 + skill set for ***Deep Learning Research Scientist at DeepScale***:
 	- DeepScale was founded by the deep learning researchers from UC Berkeley who created SqueezeNet. DeepScale is developing perception systems that enable automated vehicles to interpret their environment in real-time using low-cost hardware.
 	- A PhD in electrical engineering, computer engineering, or computer science.
 	- A track record of advancing the state-of-the-art in an application of deep learning (ideally a computer vision or imaging application ... but if you did speech-recognition or text-analysis, that's pretty good too)
 	- Published papers that either (a) are in top peer-reviewed conferences such as ***CVPR, NIPS, ECCV, ICCV, or ICML*** ... or ... (b) a ***significant (>100) number of citations on one of your deep learning research publications***
 	- ***The ability to design, implement, train and test models in one or more of the leading deep learning frameworks like PyTorch or TensorFlow.***
++ skill set for Machine Learning Researcher:
+	- Specific Skills That Will Set You Apart from the Competition:
+		* Privacy-preserving machine learning
+		* Decentralized machine learning
+		* Deep knowledge of adtech
+		* Ph.D. in computer science from a top-tier school
+	- Demonstrates a high level of initiative and consistently delivers high-quality answers
+	- Has an enquiring mind and a disciplined scientific approach to extracting facts and understanding observed behavior
+	- Is excited by the potential of realising high-value commercial outcomes and change the way that the advertising business operates
+	- Want to be part of a high-growth startup company with global ambitions
+	- Comfortable with JavaScript and C++ so that they can effectively interact with the rest of the team. Knowledge of Python, Java or C# is also strongly encouraged.
+	- Has a proven track record implementing data driven products and a broad understanding of the state of the art in machine learning
+	- Comfortable working in an open source setting
+	- Able to create and deploy machine learning pipelines
+	- Has a passion for helping protect users' privacy and security
+	- A Ph.D. in computer science is highly preferred, but we may consider some exceptions
+	- Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering, etc. and a good grasp of the strengths and weaknesses of specific approaches
+	- Basic data cleansing and preparation, variable preprocessing/transformation
+	- Univariate analysis, performing statistical tests, covariance analysis, multivariate analysis and linear/non-linear regression
+	- Preparation of data sets for predictive modelling, robust predictive model building, validation and application
+	- Automation of statistical processes and integration into a bigger product
+	- Experience in Hadoop technologies such as Hive / Impala and distributed data pipelines such as Airflow / Luigi
++ skill set for Ph.D.-Level Internships at Brave:
+	- San Francisco, CA, or London, U.K..
+	- Brave is proud to offer summer internships for Ph.D.-level students that involve working on ground-breaking technologies that make the web faster, safer, and more private for millions of people worldwide. Brave's mission is also to change the way advertising is done on the web. If you are interested in technologies ranging from JavaScript to cutting-edge blockchain, web security, privacy, anonymity, and smart contracts, come and work with us to improve the web for millions of users!
+	- You should be ready to tackle hard problems that involve building software that will be shipped to millions of people worldwide. Brave is delving into challenges that are deeply connected to cutting-edge academic research. To address many of these complex issues, we are in touch with several academic groups worldwide and we are excited to offer research internships for students who are currently enrolled in a Ph.D. program.
+	- You will be part of Brave, will be paired with a mentor, and will be working alongside a larger Brave team. We offer internships in both the US and Europe. Most internships start in June 2019 and last three months, although there is some amount of flexibility for exceptional candidates.
 + Help the current effort of the AI research community, and contribute to cutting edge research in machine intelligence, starting from areas including:
 	- Deep Learning
 	- Generative Models
@@ -5070,6 +5338,9 @@ Skill sets for application engineers of different EDA products:
 	- Sequence Modelling
 	- Large-Scale Distributed Optimization
 	- Low-Precision Numerical Formats
++ skills set:
+	- ***security of machine learning***
+	- ***robustness and reliability of machine learning technologies***
 + skill set:
 	- As part of the Advanced Product Development team, immediate responsibilities include:
 		* Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, and spatial segmentation.
@@ -5835,12 +6106,15 @@ Skill sets for application engineers of different EDA products:
 ***Machine Learning Engineer***, and ***Deep Learning Engineer***, roles:
 + ***Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems***
 + Experience implementing ***production-ready machine learning solutions*** is a plus
++ semi-supervised learning
++ Knowledge of Apache Spark
 + Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
 + Experience with distributed analytic processing technologies (Hive, Pig, Presto, Spark)
 + Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
 + Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
 + Lifelong-DNNTM (L-DNN) technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
 + Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
++ You have strong coding skills in several of the following languages/libraries: ***Python, NumPy, TensorFlow, PyTorch***.
 + skill set:
 	- Experience with advanced ML models and concepts: ***HMMs, CRFs, MRFs, deep learning, regularization*** etc.
 	- Experience with ***distributed databases*** such as ***HBase, Redis, CouchBase*** etc.
@@ -5878,6 +6152,11 @@ Skill sets for application engineers of different EDA products:
 	- Spark with Python, numpy and pandas
 + Experience in one application field (***Image processing, ADAS, FinTech, CyberSecurity***)
 	- ADAS: advanced driver-assistance system
++ Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc) for the development of maintained components. Additional experience using PySpark a big plus.
++ skill set:
+	- Design and implement high-performance libraries/APIs for machine learning and statistical techniques.
+	- Experience with streaming and event-based programming
+	- Experience with continuous integration and deployment workflows
 + skill set:
 	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
 	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
@@ -5886,6 +6165,46 @@ Skill sets for application engineers of different EDA products:
 + Design services for performant application of machine-learned models
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
 + Experience in GPU/CUDA/TensorRT
++ skill set:
+	- Contribute to designing, building, evaluating, shipping, and refining Neural Magic's machine learning product including libraries, demos, and notebooks
+	- Prototype and iterate on state of the art research against proprietary, in-house software
+	- Work closely with customers to understand specific needs, implementation details, and successful deployment using Neural Magic's engine
+	- Collaborate with a cross functional team about market requirements, best practices and how machine learning is deployed in the wild
+	- Be a trusted advisor and partner, providing deep analysis of deep learning approaches, helping to define and conduct pilot tests
+	- Master's or PhD degree in computer science or math, or equivalent experience. Prefer a focus on machine learning.
+	- Solid knowledge of machine learning and deep learning fundamentals, in particular MLPs and CNNs
+	- Experience with taking deep learning models from conception to production: writing, training, testing, and deploying machine learning models
+	- Proficient with Python and one or more deep learning frameworks such as Pytorch, Tensorflow, Caffe, MXNet, Keras, etc
+	- Experience working with large data pipelines for analyzing and training
+	- Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
+	- Excellent communication skills, ability to tailor technical information for different audiences
+	- Strong sense of project ownership and personal responsibility
++ skill set:
+	- Design, build, evaluate, ship, and refine Neural Magic's machine learning product including libraries, demos, and notebooks
+	- Prototype and iterate on state of the art research against proprietary, in-house software
+	- Work closely with customers to understand specific needs, implementation details, and successful deployment using Neural Magic's engine
+	- Collaborate with a cross functional team about market requirements, best practices and how machine learning is deployed in the wild
+	- Be a trusted advisor and partner, providing deep analysis of deep learning approaches, helping to define and conduct pilot tests
+	- Several years of experience working with Machine Learning in industry. Master's or PhD degree in ML, computer science or math preferred.
+	- Solid knowledge of machine learning and deep learning fundamentals, in particular MLPs, Recommendation Systems, and CNNs
+	- Full stack experience of taking deep learning models from conception to production: writing, training, testing, and deploying models
+	- Proficient with Python and one or more deep learning frameworks such as Pytorch, Tensorflow, Caffe, MXNet, Keras, etc
+	- Experience working with large data pipelines for analyzing and training
+	- Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
+	- Excellent communication skills, ability to tailor technical information for different audiences
+	- Strong sense of project ownership and personal responsibility
++ skill set:
+	- Advanced understanding of SQL, Python, PySpark, Scala, Hive, h2o, as well as machine learning techniques and algorithms, such as linear / logistic regression, tree-based learners, Gradient boosting, SVM, NLP, time series modeling, clustering, etc.
++ skill set:
+	- https://scale.ai/careers/5d709886-b586-44c7-b112-4e04501a4ca0
+	- Create optimized and efficient tooling, like [Guided Automatic Segmentation](https://scale.ai/blog/automatic-segmentation), for taskers to complete complex tasks with speed and accuracy.
+	- Reliably evaluate data quality at scale.
+	- Intelligently route tasks from customers to specialized taskers for low turnaround and high accuracy.
+	- Automatically hire, train and onboard taskers.
+	- Deep Learning: building CNNs.
+	- Classical Machine Learning: non-deep learning methods (random forests, collaborative filtering, HMMs, etc.)
+	- Applied ML Engineering: building large-scale data and machine-learning pipelines.
+	- Experience with TensorFlow and/or Pytorch.
 + skill set:
 	- Machine learning areas of special interests include: CNNs, RNNs, distributed GPU computing, detection, prediction, motion planning, mapping and localization
 	- Work with lidar sensor firmware and low level signal processing
@@ -5901,6 +6220,20 @@ Skill sets for application engineers of different EDA products:
 + Help developers, marketers, and product managers understand how to access, implement, and rigorously evaluate and optimise ML-based interventions.
 + Working with Big Data, ML, AI. Keras, TensorFlow, Python, Redshift, S3, Spark, Random Forests and Vowpal Wabbit
 + Strong hands-on experience with at least one of the main stream deep learning frameworks such ***TensorFlow, PyTorch, BLVC Caffe, Theano***
++ skill set:
+	- Building descriptive or predictive models using Python, PySpark, Spark ML, Scala
+	- Building and deploying models in a Big Data environment; comfort with using Hive, MapReduce, Kafka, Spark Streaming, Spark SQL, JavaScript, Sqoop to run data processing tasks
+	- Building AI/ML models using techniques such as Regressions, Random Forest, Gradient boosting, neural networks, such as ANN/CNN, Hidden Markov, NLP, SVM, Bayesian techniques, etc.
+	- Experience in a Linux computing environment and use of command-line tools including knowledge of shells. Python scripting for automating common tasks is a plus
+	- Working knowledge of AIML packages such as Keras, Theano, TensorFlow. Software such as H2O is a plus
+	- Working knowledge of cloud infrastructures such as AWS, Azure or GCP is a plus
++ skill set:
+	- Drawing on recent advances in Deep Imitation Learning and Deep Reinforcement Learning, covariant.ai is developing AI software that makes it easy for robots to learn new, complex skills.
+	- As a part of a rapidly growing startup, you will have the rare opportunity to build and develop software that mimics human behavior without the help of engineers, while also growing and developing your own skills and passions as the company expands. Join us on an exciting journey as we bring the latest breakthroughs in artificial intelligence to the future of robotics.
+	- Work side-by-side with the top talent in industry and academia in the field of AI + robotics.
+	- Implement mission-critical software in a reliable and sustainable manner.
+	- Evolve best practices for traditional software development to address the needs of cyber-physical systems and deep-learning-based software -- including scalability, maintainability, and security.
+	- Collaborate with and support a diverse team, which includes software engineers, mechanical and electrical engineers, roboticists, and ML researchers.
 + machine learning:
 	- Develop backend services and infrastructure to expand our answer engine to support 10M+ documents and 100K+ QPS
 	- Ship web applications and APIs using Python, Flask, MongoDB, MySQL, Lucene, Spark, React, Go, and/or TensorFlow
@@ -5913,6 +6246,10 @@ Skill sets for application engineers of different EDA products:
 	- Familiarity with modern Deep Learning and Natural Language Processing / Natural Language Understanding (NLP, NLU), including Neural Networks, RNNs, seq2seq models, and real world machine learning in TensorFlow (incl. regularization, cross-validation, dropout) are a huge plus
 	- Adaptable, humble, and interested in pushing the boundaries of what's possible
 	- Work with world class talent (our team consists of former Facebook, Palantir, Dropbox, and LinkedIn Engineers; we have 2 ACM ICPC World Finalists)
++ skill set:
+	- Ursa Labs's work is focused on the Apache Arrow open source project, a cross-language development platform for in-memory analytics. Within the Arrow project, most of our time is spent on the C++, Python, and R libraries. It is our goal to make everyday tools for data access, cleaning, wrangling, analytics, and visualization a great deal more powerful and interoperable than they are now.
+	- We are looking for an experienced engineer to take a lead role in the build and testing systems of the Apache Arrow project, including automated building (continuous integration), testing, and benchmarking on a range of architectures and operating systems. The ideal candidate should have experience playing a significant role in shipping software with high technical complexity.
+	- Help maintain the Apache Arrow open source project: code review, documentation, and mentor junior contributors.
 + machine learning engineer:
 	- Experience in modern Deep Learning and Natural Language Processing / Natural Language Understanding (NLP, NLU), including Neural Networks, RNNs, seq2seq+attention models, and real world machine learning in TensorFlow (incl. regularization, cross-validation, dropout)
 	- Experience building production-ready NLP systems
@@ -5920,6 +6257,22 @@ Skill sets for application engineers of different EDA products:
 	- Familiarity with Distributed systems (Docker, Kubernetes, Kafka, Spark, Redis, AWS S3/EC2/RDS/KMS, MongoDB, or Lucene) is a plus
 	- Adaptable, humble, and interested in pushing the boundaries of what's possible
 	- Proficiency in Python, R, or Java
++ skill set for Deep Learning Research Engineer at Crossing Minds:
+	- San Francisco, CA.
+	- At Crossing Minds we are building a future where AI-powered software helps maximize human happiness. Currently, we are creating the continuous recommendation experience that provides personalized recommendations for all the things you love but haven't discovered yet.
+	- Crossing Minds incubates artificial intelligence products and services, enriching the human experience using deep learning. Our first product, Hai, is a universal recommendation engine that maps taste across categories (music, movies, games, etc.) to help find more of what you love. Through our website, app, and messenger interaction, Hai syncs with other platforms to serve as a cultural home and launchpad for personal exploration.
+	- Sponsored by Nvidia, GCP and Stanford's StartX program, we're looking for a deep learning expert to help our product understand tastes and help our growing team develop the heart of AI.
+	- Collaborate with our agile team of researchers and engineers.
+	- Design and implement efficient systems to understand users textual queries in real time.
+	- Elaborate algorithms to extract relevant informations from text reviews or descriptions.
+	- Elaborate algorithms to extract relevant informations from images data.
+	- You want to join a small team of hard-workers, to build an awesome product that'll help everyone you know.
+	- You have a PhD in Deep Learning, with focus on Computer Vision and/or Natural Language Processing.
+	- You have strong knowledge on Computer Science, Computational Learning and HPC fundamentals: algorithms, systems, linear algebra, numerical methods, statistics.
+	- You have at least two years of experience in Theano, TensorFlow or PyTorch.
+	- You used CUDA on clusters of GPUs professionally.
+	- Python, Machine Learning, Natural Language Processing, Deep Learning, theano, Convolutional Neural Networks, Machine Learning Data Science Python
+	- Compensation: $140k – $170k, 0.0% – 1.0% of stock options.
 + (applied) machine learning and data science skill set:
 	- Google Cloud ML Engine
 	- spaCy / Prodigy
@@ -5981,6 +6334,10 @@ Skill sets for application engineers of different EDA products:
 		* Compute infrastructure
 		* ML modelers and data scientists
 + skill set:
+	- Software Development at Rasa is not only about writing Code. You'll have to come up with good architectural designs, quality code, and break an ambitious long-term vision down into milestones and issues.
+	- We don't draw a hard line between our engineering and research teams, we all work on the same stack and share work, knowledge, and tools. A lot of the code we create is open source and used by a large community of developers. The driver for our development efforts is this: what would help developers build great conversational software? What can we enable them to build that they couldn't do currently?
+	- We do fundamental machine learning research, and we ship commercial quality software that puts it to use. We mostly work in Python, but dip into other languages when it makes sense to. Because engineering is so close to research, you'll quickly learn a lot about Machine Learning, Model Management, Data Analysis workflows, and what it takes to ship machine learning applications into production.
++ skill set:
 	- Google Dialogflow
 	- The Visual Fusion Engine, VFE
 	- algolia - Search Made Powerful
@@ -6015,6 +6372,8 @@ Skill sets for application engineers of different EDA products:
 	- Software architect of a programming system or language
 	- Solid fundamentals in other computer science and computer engineering topics: algorithms and data structures, operating systems, computer architecture, etc.
 	- Experience with GPU architecture and programming: CUDA and its related libraries and toolkits (e.g., cuDNN, cuBLAS, CUTLASS, nvprof, Nsight Compute, Nsight Systems, etc.); ROCm and its related libraries and toolkits.
++ skill set:
+	- Advanced understanding of SQL, Python, PySpark, Scala, Hive, h2o, as well as machine learning techniques and algorithms, such as linear / logistic regression, tree-based learners, Gradient boosting, SVM, NLP, time series modeling, clustering, etc.
 + skill set:
 	- Machine Learning Engineer
 	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
@@ -6075,7 +6434,16 @@ Skill sets for application engineers of different EDA products:
 	- Familiarity with scene understanding, learning 3D representations, synthetic data, temporal data in computer vision.
 	- Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open-source repositories (e.g., GitHub)
 	- The ideal candidate will have a passion for generating new ideas, be a proactive and quick learner, and be able to demonstrate creativity and innovation.
-
++ skill set:
+	- Good working knowledge in a wide range of machine learning methods and algorithms for classification, regression, clustering, and others – a must.
+	- Good Statistical analysis, e.g. hypothesis testing, estimation theory and mathematical skills.
+	- Experience dealing with end to end machine learning projects: data exploration, feature engineering/definition, model building, performance evaluation and help in implementation.
+	- The ideal candidate should be able to use his/her experience in implementing advanced analytical methods (machine learning, statistical/mathematical modeling) on large amounts of raw data – dealing with all parts of modeling workflow (from data extraction, feature engineering to model building and implementation) and should be able to clearly present and communicate the findings.
+	- As a Data Scientist at Playtika you will take part in projects in which analytical solutions are used for solving and/or optimizing business/product problems like user experience modeling, churn prediction, advanced segmentation and others.
+	- Experience working with big data tools e.g. pySpark.
+	- DL toolbox (e.g. pyTorch, Tensorflow etc. it a plus).
+	- Knowledge in Deep learning models (CNN, RNN, etc ...)
+	- Reinforcement Learning
 + Strong understanding of machine learning algorithms & principles (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning), and their application
 + skill set for Machine Learning/Deep Learning Algorithm Engineer:
 	- Conduct research and development on machine learning, deep learning, and reinforcement learning models, including but not limited to basic algorithms and models, such as CNN, RNN, DNN, and DQN.
@@ -9278,6 +9646,12 @@ Machine learning -based frameworks for computer vision:
 
 
 Skill sets for ***computer vision***:
++ categories of computer vision methods:
+	- image segmentation methods: U-Net, Mask R-CNN
+	- general-purpose image/video tools: PIL, cv2, skimage
+	- object detection methods: YOLOv3, RetinaNet
+	- image classification, and other general purpose networks: VCG, Inception, ResNet, ResNeXt, NASNet, EfficientNet
+	- generative networks: GAN, VAE
 + ***Strong publication record in top-tier research publications and conferences such as IJCV, CVPR, ICCV, ECCV, ICRA.***
 + Successful record of publication in top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, CVPR, ECCV, ICCV, SIGGRAPH)
 + At least 2 years of experience using deep learning techniques (CNN, RNN, LSTM) on computer vision tasks (object detection and tracking, classification, action recognition)
@@ -9295,6 +9669,20 @@ Skill sets for ***computer vision***:
 	- Having worked in embedded software development would be beneficial.Graphics, OpenGL, OpenCL, CV, CUDA, OpenCL C++, Assembly (highly sought after): Required for understanding h/w architecture, s/w design and architecture; Also required for writing the OpenVX built-in kernels, coming up with kernel algorithms, optimizations for driver implementation etc.
 	- Python/Shell/Ruby scripting: Required for writing scripts for automating application/test generation and execution. Also useful for automating other operations like code analysis, golden output generation etc.OpenGL, OpenCL, OpenCV, Graphics, Assembly - Any experience is welcome.
 	- C, C++, Data Structures, Algorithms & Graphic Libraries
++ skill set:
+	- Demonstrated experience in algorithm development and application of image processing, registration, segmentation, etc.
+	- Working knowledge of geometry and application experience
+	- OpenGL or DirectX, Cg knowledge and development experience.
+	- Proficiency in C++ development, parallelization, unit testing, and performance measurement
+	- C++ GUI development experience
+	- Experience in developing SQLite database application
+	- Microsoft Visual Studio development experience
+	- Solid software engineering foundation and a commitment to writing high quality code, including clear and understandable design and implementation, well-defined interfaces, ease of build and use & ease of extensibility.
+	- Computer Vision and Image Processing algorithm development experience
+	- OpenCV, IPP, CUDA experience
+	- Familiarity with data formats, such as STL, OBJ, FBX, etc.
+	- Familiarity with serial communication protocol, TCP/IP server/client communication protocol
+	- Familiarity with software development tools and methodology
 + skill set:
 	- At ApertureData, we are on a mission to solve data infrastructure challenges for machine learning on big-visual-data through our unique visual database, ApertureDB. We are an angel and NSF grant backed, fast growing startup looking for a Computer Vision Systems Engineer because dealing with images and videos is challenging, particularly at scale. If you can easily tackle the likes of OpenCV and ffmpeg, dealing with large object caching excites you, and being among the first five hires fires up your imagination on what all hats you get to wear, we are looking forward to hearing from you!
 	- Minimum qualifications
@@ -9711,6 +10099,11 @@ Companies involved in natural language processing, NLP:
 
 
 Skills for natural language processing, NLP:
++ natural language processing, NLP, methods:
+	- transformer language models: GPT-3, BERT, XLnet
+	- encoder-decoder models: seq2seq, vanilla transformers
+	- contextualized embeddings: ELMo, CoVe
+	- word embeddings/vectors: GLoVe, fastText, word2vec
 + Publications in NeurIPS, ICASSP, INTERSPEECH, TASLP.
 + Publication record in top AI conferences (ACL, CVPR, NAACL, ICML, etc.) is a plus.
 + Publications for NLP at:
@@ -9760,10 +10153,12 @@ Skills for natural language processing, NLP:
 		* Pandas
 		* NLTK
 		* Stanford CoreNLP
++ simultaneous machine translation (SMT) system
 + Scikit-learn, Keras/Tensorflow, Spark MLlib, Spacy or other ML libraries
 	- spaCy is an open-source software library for advanced natural language processing, written in the programming languages Python and Cython.
 	- spaCy: Industrial-strength Natural Language Processing
 	- spaCy is a powerful and versatile library for processing large-scale information extraction tasks in Python.
++ Good knowledge of Apache Big Data stack (any of Kafka, Hadoop, Hive, Storm etc) and open source machine learning and NLP tools (Stanford CoreNLP, NLTK, TensorFlow, scikit-learn etc)
 + skill set:
 	- experience with ML deployment frameworks
 	- work with highly imbalanced data sets to improve detection performance of our existing NLP models and algorithms
@@ -9786,6 +10181,11 @@ Skills for natural language processing, NLP:
 	- linear adaptive filtering
 	- linear systems
 	- audio data analysis
++ skill set:
+	- We are looking for multidisciplinary machine learners with sharp skills in one or more of the following fields:
+		* Deep Learning,
+		* Bayesian Modeling,
+		* Natural Language Processing.
 + data science skills:
 	- Excellent understanding of ML, NLP, and statistical methodologies
 	- Excellent programming skills (Java/Python/R/Sas)
@@ -10080,68 +10480,6 @@ Skills for natural language processing, NLP:
 	- Strong C++ programming skills.
 	- Systems software engineering knowledge and expertise in optimizing software for computational performance.
 	- Contribution to open source software projects.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-
-
-
-
-
-
-
-
-
-
-
-
 + skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – AUDIO APPLICATION AND NLP
 	- Implementing novel deep neural network architectures and learning techniques to solve a variety of audio related tasks and push the state of the art in performance.
 	- Research and develop advanced audio applications including speech recognition, voice recognition, voice wakeup using state of art deep learning algorithms.
@@ -10158,6 +10496,124 @@ Skills for natural language processing, NLP:
 	- Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus.
 	- Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, is a strong plus.
 	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
++ skill set:
+	- Personality Traits
+		* Ability to work independently under tight deadlines with accountability.
+		* Strong results driven personality with a high level of enthusiasm, energy and confidence.
+		* Strong problem-solving skills.
+	- Required Skills
+		* In-depth knowledge of various Natural Language Processing/Understanding (NLP/NLU) domains such as entity extraction, speech recognition, topic modeling, parsing, question answering, etc.
+		* Expertise in text mining (probabilistic topic model, word association mining, ontology learning, semantic similarity, etc.)
+		* Expertise in NLP/NLU (word representation, relation extraction, natural language inference, semantic parsing, etc.)
+		* Excellent background in Machine Learning (generative model, discriminative model, neural network, regression, classification, clustering, etc.)
+		* Experience in deep learning on NLP/NLU is a big plus
+		* Extensive experiences in using NLP related techniques/algorithms such as HMM, CRF, deep learning & recurrent ANN, word2vec/doc2vec, Bayesian modeling, etc.
+		* Experience in applied statistics including sampling approaches, modeling, and data mining techniques
+		* Experience in building analytical models and working with structured and unstructured data
+		* Experience with data structures and algorithms; ability to work in a Unix environment and building robust data processing and analytics pipelines
+		* Contributions to research communities, e.g. ACL, NIPS, ICML, EMNLP, etc. is a Plus
+	- Responsibilities:
+		* You will be part of a high impact team that's building the next generation of intelligence and language understanding for Cuddle
+		* Build text/voice-based search engine and question answering system for Cuddle
+		* You'll utilize the latest techniques in AI, ML (including Deep Learning approaches) and NLU
+		* Build topic analysis, text classification, named entity recognition methods for unstructured and semi-structured data
+		* Develop and perform text classification using methods such as logistic regression, decision trees, SVM and maximum entropy classifiers
+		* Perform text mining, generate and test working hypotheses, prepare and analyze historical data and identify patterns
+		* Generate creative solutions (patents) and publish research results in top conferences (papers)
+	- Qualifications
+		* Master's degree in Mathematics, Statistics, Computer Science, or related fields
+		* 2+ years of ML + NLP experience
+		* Software programming in Java or Python
+		* Knowledge of SQL and NoSQL databases
+		* Knowledge of open source machine learning libraries like scikit-learn, tensorflow, NLP tool as NLTK
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###	Machine Learning Systems for Human-Computer Interaction
+
+
+
++ skill set:
+	- We are looking for Research Scientist interns who have applied experience in the fields of in the fields of NLP, human-computer interaction, user behavioral analysis and/or the intersection of HCI, NLP and Machine Learning including algorithmic bias. We are open to a variety of approaches and methods to answer research questions related to how people interact and engage with Spotify. You will be part of an interdisciplinary team focused on making every user interaction with Spotify amazing through personalization and discovery, and in the process pushing state of the art and contributing to the wider research community by publishing papers. We work on a broad range of Spotify features – personalized playlists such as Discover Weekly and Daily Mix, the Homepage, Search and other ML systems powering recommendations of music and podcasts to 180 million users with billions of interactions.
+	- You are currently in a PhD program in human-computer interaction, psychology, NLP, statistics, IR/search/agents, data science or related area.
+	- You have publications in top tier venues such as CHI, ACL, UbiComp, SIGIR, Interspeech, HRI, CSCW, RecSys, or related.
+	- You are intrigued by how interaction design, data collection strategies, and people's perceptions affect Machine Learning outcomes.
+	- You have a demonstrated interest in speech/natural language, personalized recommendations, crowdsourcing, diversity in AI – and music or podcasts.
+	- You are a creative problem-solver who is passionate about digging into complex problems and devising new approaches to reach results.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to create a deep understanding of people's interaction with technology.
++ skill set:
+	- We are looking for Research Scientist interns who have applied experience in the field of machine learning, machine Intelligence, user behavioural analysis, IR, NLP, and more broadly, AI. You will be part of an interdisciplinary team focused on making every user interaction with Spotify amazing through personalisation and discovery, and in the process pushing state of the art and contributing to the wider research community by publishing papers. We work on a broad range of Spotify features – personalised playlists such as Discover Weekly and Daily Mix, the Homepage, Search and other ML systems powering recommendations.
+	- Courses: PhD programme in Computer Science, Data Science, or related areas with a strong computational focus.
+	- Experience: Publications in top tier venues such as WWW, SIGIR, WSDM, RecSys, CHI, KDD, AAAI, ACL, NeurIPS, ICML, or related, in the following topics: search, marketplace research, recommendations, user understanding, large scale experimentation, linguistics or (more broadly) machine learning.
+
 
 
 
@@ -10317,6 +10773,18 @@ Need to address:
 
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
++ In depth experience with Spark/Hadoop and either Theano/Tensorflow/Caffe/Torch.
++ skill set:
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Proficient in Scala, Java and SQL
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
 + Preferred Skills: Tensorflow, Slurm, Kubernetes
 	- The Slurm Workload Manager, formerly known as Simple Linux Utility for Resource Management (SLURM), or simply Slurm, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
 + skill set:
@@ -10424,6 +10892,16 @@ Need to address:
 		* Contributing to Kubeflow
 		* Have Kubeflow
 + skill set:
+	- Tensorflow
+	- Object oriented programming, C++ or Java
+	- Spark or Map Reduce
+	- SQL and noSQL database experience
+	- Linux
+	- Source control experience, preferably GIT
++ skill set:
+	- Have previous experience applying machine learning, and (big) data analytics frameworks such as TensorFlow, Scikit-learn, and the Apache Hadoop ecosystem, to real world problems.
+	- Are well versed in the Linux operating system. Experience with cloud technology, and containers like Docker or Kubernetes, are highly desirable.
++ skill set:
 	- Develop software tools for data preprocessing (e.g. sanitization and annotation) and support our algorithm development team to employ the tool chain on our datasets with data quality analysis;
 	- Develop algorithms for privacy-enhancing technologies;
 	- Develop algorithms for privacy-preserving machine learning;
@@ -10479,6 +10957,12 @@ Need to address:
 		* Experience architecting a system to run as a service independent of the cloud vendor
 		* Knowledge of how to interact with distributed file systems
 + skill set:
+	- You've worked with: Kafka, Cassandra, Hadoop, Hive, Spark, or similar technologies
+	- Knowledge of Machine Learning, Distributed Systems or Big Data.
+	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
++ 
+	-
++ skill set:
 	- Work on cutting-edge MLOps with guidance from MIT PhDs who are prominent in ML research.
 	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
 	- Work on interesting challenges (model deployment/monitoring, managing massive datasets, rapidly scaling cloud deployments, etc.) at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
@@ -10524,6 +11008,13 @@ Need to address:
 	- ***Familiarity with Infrastructure Automation***
 	- ***Familiarity of Data Center design, including server hardware, rack diagrams, power, and cooling requirements***
 	- ***Knowledge of Monitoring and Performance, such as Prometheus, Grafana, Dynatrace, Sysdig***
++ skill set:
+	- Research and design scalable Machine Learning infrastructures with real time applications utilizing TB of data.
+	- You will be working with talented and passionate teams and drive the evolution of Big Data and Data Science. You'll work with many exciting technologies such as Spark, Airflow, Hadoop, HP-Vertica, Aerospike, Redis, TensorFlow and Kafka.
+	- Direct management of architects team. Cross-functional interaction with a wide range of people and teams, work closely with data engineers and data scientists to ensure high level of professionalism and standards, as well as satisfying project requirements and timelines.
+	- Design scalable and reliable data pipelines to move huge amounts of data.
+	- Design complex marketing platforms enabling effective player acquisition and retention at scale of millions of daily users.
+	- Experienced with current SW development practices – SCRUM, test automation, TDD, CI, CD.
 + skill set:
 	- Tenstorrent is seeking a High-Performance Computing (HPC) Systems Architect for OpenStack multi-tenant cloud deployments. You will have the chance to architect multiple clusters, ensure all data is managed and secure, and deploy and support changing requirements. The ideal candidate will be proficient in cluster administration, network administration, relevant virtualization, and relationship to storage. You will support an environment with guarantees of no data leakage, rapid recovery process from VM snapshots, and support substantial cluster service scale and growth.
 	- ***Architect and evolve our Tenstorrent OpenStack environment***
@@ -11256,6 +11747,42 @@ Sets of skills for ***information retrieval***, including search engine developm
 	- Prior experience aligning platform architecture with security, data
 	- Demonstrated ability to document architectural standards and decisions
 	- SaaS or high scale cloud experience
++ skill set:
+	- Database hands-on experience (Elasticsearch and Mongo preferred)
+	- Administration of systems including Jenkins, Elasticsearch, Kibana, Mongo, Grafana, etc.
++ skill set:
+	- Mongodb
+	- Elasticsearch
++ Experience with relational (MySQL), NoSQL databases (Couchbase/Aerospike), search engines (ElasticSearch), caching solutions;
++ skill set:
+	- Experience with JVM tuning is a plus
+	- Experience with Apache Solr is a plus
+		* enterprise search platform
++ skill set:
+	- intermediate proficiency in Java and Python,
+	- proficiency in Spark framework,
+	- basic understanding of REST,
+	- practical knowledge of Docker Kubernetes,
+	- good english communication skills,
+	- ability to share your knowledge,
+	- willingness to learn continuously,
+	- basic machine learning knowledge (regression, classification, clustering, validation methods, time series forecasting).
+	- knowledge of Kafka platform,
+	- knowledge of Hadoop framework,
+	- basic programming skills in Scala/R,
+	- familiarity with ELK stack (Elasticsearch, Logstash, Kibana),
+	- knowledge of NoSQL databases (e.g. Cassandra, ELK),
+	- Storm, Nginx technologies.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11334,9 +11861,72 @@ Notes:
 
 
 Sets of skills for generic data science roles, or data scientist positions (i.e., junior to mid-level data scientists):
++ Notebook products:
+	- Binder/JupyterHub
+	- Databricks Collaborative Notebooks
+	- Google Cloud Datalab Notebooks
+	- Amazon Sagemaker Studio
+	- Code Ocean
+	- Google Cloud AI Platform Notebooks
+	- IBM Watson Studio
+	- Amazon EMR Notebooks
+	- Kaggle Notebooks
+	- Azure Notebooks
+	- Paperspace/Gradient
+	- Colab Notebooks
++ computing platforms for data science projects:
+	- deep learning workstation: NVIDIA GTX, or LambdaLabs
+	- cloud computing platform: AWS, Azure, GCP, hosted notebooks, ...
++ media sources to learn data science:
+	- Slack communities: ods.ai, kagglenoobs
+	- YouTube: Kaggle YouTube, Cloud AI Adventures
+	- journal publications: peer-reviewed journals and conference proceedings
+	- email newsletters: Data Elixir, O'Reilly Data & AI
+	- Course forums: forums.fast.ai, Coursera forums
+	- Kaggle: notebooks, forums
+	- Blogs: Towards Data Sciecne, Analytics Vidhya
+	- Twitter: data science influencers
+	- podcasts: Chai Time Data Science, O'Reilly Data Show
++ topics in mathematics and statistics to learn:
+	- Linear Algebra
+	- Probability (e.g. Bayes' Theorem, Distributions, Conditional Expectations)
+	- Multivariate Calculus (e.g. Integration, Multivariate Differentiation)
+	- Unsupervised Learning (e.g. KMeans, mixture models)
+	- Regression (e.g. Linear Regression, ANOVA)
+	- Classification (e.g. Naive Bayes, Logistic Regression, SVM, Random Forests)
+	- Numerical Analysis
+	- NLP (e.g. Bag of Words, TF/IDF, Topic Modeling)
+	- Time Series (e.g. AR, ARMA, ARCH, EMA)
+	- Matrix Factorization (e.g. PCA, NMF)
+	- Statistics (e.g., hypothesis testing, t-tests, p-values)
+	- Experimental Design
++ tool or platform for data analysis:
+	- basic statistical software, spreadsheets: Microsoft Excel, Google Sheets
+	- advanced statistical software: SPSS, SAS
+	- business intelligence software: Salesforce, Tableau, Spotfire
+	- local development environments: RStudio, JupyterLab
+	- cloud-based data software & APIs: AWS, GCP, Azure
++ platforms for data science courses:
+	- Udemy
+	- DataCamp
+	- Kaggle Learn Courses
+	- Udacity
+	- Cloud-certification programs: AWS, Azure, GCP
+	- university courses, resulting in a university degree
+	- Coursera
+	- edX
+	- Fast.ai
+	- LinkedIn
++ skill set:
+	- ***You have setup end to end data pipeline***
+	- ***You have worked on real world data sets that range into millions of data points that contain missing values, and unclean data***
+	- ***You have owned and delivered data science projects that are live on production***
+	- ***You have practical knowledge of a wide variety of data science methodologies and an intuitive understanding of which methodology is applicable to which problem***
++ Intermediate to advanced proficiency with R (tidyverse, ggplot2)
 + ***Experience with metrics systems such as Grafana.***
 + ***Experience working with analytics tools such as Google Analytics, Heap Analytics, Chartmogul, Baremetrics, Periscope, Tableau, Mode Analytics, Looker, or similar***
 + Experience with open source platforms like Hadoop, Spark, ***Hive, Pig***; and/or ***ML life-cycle/collaboration/automation platforms like AirFlow, FB Learner, MLFlow***; and/or assistants like Alexa, a plus.
++ ***Experience with a variety of data sources.*** Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](https://about.gitlab.com/handbook/business-ops/data-team/#-extract-and-load))
 + Data engineering experience and ***data pipeline tooling (e.g. Airflow, DBT)*** experience is a plus
 + NoSQL databases, such as MongoDB, Cassandra, HBase
 + Experience with ***scheduling engines*** such as ***Airflow***
@@ -11347,6 +11937,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Experience within the domain of Advanced Analytics and Data Science is highly desirable, e.g. hands-on experience with solutions such as Spark, MapReduce, Python, Redshift, Hive, Pig and visualization tools.
 + Experience with relational (e.g. postgres, SQL) and/or distributed (e.g. MongoDB) databases
 + Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
++ Second, help build a Data Science team to support the delivery of the Predictive Analytics core AI offerings for US-based pharmaceutical companies. These offerings include developing algorithms to find undiagnosed patients (often patients with rare diseases) or algorithms to predict patients likely to experience rapid disease progression and / or switch therapies. These core offerings involve very large datasets (typically many millions of patients) extracted from claims and prescription data and use Python and PySpark tools and libraries as part of IQVIA's Hadoop cloud environment.
 + skill set:
 	- Efficient in SQL, Hive, SparkSQL, etc.
 	- Serve as technical “go to” person for our core technologies – Hadoop, Spark, AWS, Vertica, Tableau, Cassandra, Graph Databases and others
@@ -11378,6 +11969,9 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Experience in using relational databases like MySQL, Redshift, ***Graph DB***.
 + To learn about the latest trends in hiring, technology, software development practices, data science workflows, machine learning workflows, and research
 + Specialist quantitative skills and/or qualifications in quantitative methods for social science, including data visualisation, database management (SQL), Python, Tableau visualisation or other data analysis tool sets.
++ skill set:
+	- You are an expert user of tools like Sketch, Figma, etc.
+	- You have demonstrable experience building new products (please show us examples!). You can iterate quickly by putting an MVP in people's hands, and test ideas and hypotheses before any code is written.
 + Experience with Python ORMs like SQLAlchemy and Python libraries like Pandas, Scikit-Learn, Numpy and Scipy
 	- ORMs: Object Relational Mapping (ORM)
 		* Object–relational mapping (ORM, O/RM, and O/R mapping tool)
@@ -11401,6 +11995,22 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- statsmodels
 	- scikit-learn
 	- XGBoost
++ skill set:
+	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing’s ability to engage with new audiences in new ways.
+	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
+	- As a Data Scientist, your mission is to turn our data into insights and gain a deep understanding of our users to impact the strategy and direction of DigitalOcean. You will study user behavior, marketing strategies, markets, content, new features and bring data and insights into every decision we make. Above all, your work will impact how we think about user growth and how we can make DigitalOcean available and accessible for more people in the world.
+	- Perform analyses on large sets of data to extract insights that will help drive DigitalOcean’s strategy across the user funnel
+	- Work cross-functionally with marketing, product, engineering, design and user research to propel DO’s customer growth forward
+	- Drive end to end execution of data science projects, from experimental design and analysis of test results to building predictive models and assisting engineers to productionize the model
+	- Establish and maintain a culture of rigor and curiosity to drive tangible business impact
+	- Proven experience with:
+	- Large-scale data sets in both structured & unstructured formats
+	- Causal inference & experimentation, time-series analysis, and building predictive models related to churn reduction or revenue expansion
+	- Helping engineering teams move models from prototype to production
+	- Experience with growth marketing for a tech company preferred
+	- Coding skills (such as Python/R and SQL) and analytics tools experience (Segment, Looker, or similar tools)
+	- Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
+	- Experience with international markets, growth marketing, web platforms or content marketing a plus
 + skill set:
 	- data pipeline and workflow management teams:
 		* Airflow
@@ -11435,6 +12045,26 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		*  message queueing
 		* stream processing
 		* highly scalable big data stores
++ skill set:
+	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across our Finance teams at Spotify. Data scientists within our Finance team has the mission of utilizing data insights to drive decision-making for the organization. You will study user behavior, strategic initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences music.
++ skill set:
+	- Undertake analysis to monitor and report key performance indicators (KPI's)
+	- Building out our KPI Dashboards for monitoring game performance
+	- Design, run, analyse and report on A/B tests
+	- Experience with business intelligence software like Tableau, Looker etc
++ skill set:
+	- The candidate must have a sufficient understanding of and practical experience with classic statistical modeling techniques (e.g. logistic regression, CART, K-means clustering) and machine learning algorithms (e.g. gradient boosting, neural networks, random forests)
+	- Comfort with ambiguous and large streams of data across different formats and entry points; Hands-on experience working with large data processing (processing large datasets); hands on experience with cloud environments (e.g. AWS, Azure) and Big Data technologies (e.g. Hadoop, Spark)
+	- Expert-level Python, R and SQL coding; Experience with TensorFlow or Microsoft Cognitive Tool Kit required
+	- Experience developing high value features; Hands-on experience deploying models in real-time environments
++ skill set:
+	- Expert-level familiarity with reporting and visualization platforms (e.g. Tableau, Mode)
+	- SQL expertise beyond querying: query optimization, schema design, and ETL maintenance
++ skill set:
+	- 6-7 years of overall experience working with data science methodologies & techniques like dimensionality reduction (PCA, Factor Analysis, etc.), clustering (supervised, unsupervised), time series forecasting, optimization, parametric modelling (SEM, GLM, GLMM, etc.), ML (tree based learners like RF, GBM, XGBOOST, CATBOOST, etc.), BBN, Neural Networks (ANN, CNN, RNN, etc.), DL, RL, Transfer learning, text mining & NLP, etc.
+	- Graduate or Under-graduate degree holder in Statistics/Mathematics/Economics/Science/Engineering/Business Management
+	- Any industry certification(s) related to Data Science techniques (DL, RL, NLP, etc.) \& platforms (SAS, R, Python, Spark, etc.), and Big Data technologies (AWS/MS Azure/GCP)
+	- P\&C Insurance domain knowledge preferredAt least 2-3 years working experience in P\&C Insurance domain
 + skill set:
 	- As a Data Scientist, you will participate in the definition of new analytics capabilities able to provide our customers with the information they need to make proper decisions to support our customers in operating the internet of things (IoT). In addition, you will help find the appropriate machine learning / data mining algorithms to answer these questions. Finally, you will be responsible for implementing this into the product and making it available to our customers.
 		* Qualified candidates will have an in-depth knowledge of most common machine learning techniques and their application. You will also understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.
@@ -11512,6 +12142,18 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Expert knowledge of a scientific computing language (such as R or Python), SQL, visualization, data modeling, ETL, and the data warehousing concepts
 	- 2+ years within SaaS industry-ideally at an prosumer SaaS platform
 + Knowledge of predictive analytics/statistical and mathematical modeling/data mining algorithms;
++ skill set:
+	- Advanced modeling and data visualization skills in Tableau Desktop
+	- Advanced Python coding talent including familiarity with common and emerging data science and scientific computing toolsets/libraries (matplotlib, pandas, scipy, numpy, et al)
+	- Savvy with collaborative data workbench tools and environments like Cloudera Data Science Workbench, Jupyter, Shiny, RStudio
+	- Data manipulation and ETL skill in Talend or a similar tool
+	- Strong interpersonal skills, including the knack for translating customer business needs and user stories into requirements and real-world outcomes
+	- Relevant education or experience in Computational Statistics
+	- An autodidact who keeps on learning
+	- Expert-level Excel | Google Sheets skills with scripting
+	- Understanding of ITIL concepts
+	- Experience with an RDBMS (Oracle, MySQL, Teradata, etc)
+	- Experience with containerization tools (Kubernetes, Docker)
 + set of skills:
 	- Statistical analysis and modeling
 	- Database architectures
@@ -11631,6 +12273,14 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- 2+ years experience with a fast-growing SaaS business based company is preferred.
 	- Strong experience in scientific computing using Python, R, or Scala.
 	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
++ skill set:
+	- Fluent in machine learning frameworks such as TensorFlow, PyTorch, Caffe, or Theano and libraries such as NumPy and pandas.
+	- Passion for seeing research through from initial conception to eventual application.
+	- Past experience with writing performant implementations of ML research.
+	- Have experience working with CUDA, Docker and AWS platform (Lambda, S3, RDS, and/or EKS).
+	- Have an artistic/creative practice of your own.
+	- Have published high-impact machine learning research.
+	- Have experience in a creative application (Unity, Photoshop, Blender, Processing, etc)
 + skill set:
 	- Strong experience in scientific computing using Python, R, or Scala
 	- Experience with Spark, SQL, Tableau, Google Analytics, Hive and BigQuery (or any other Big data/Cloud equivalent) etc.
@@ -11758,6 +12408,14 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Preferred working experience on Data Science/Machine Learning/Deep Learning/Computer Vision-related projects
 	- Basic knowledge about supervised and/or unsupervised machine learning models.
 	- Experience with container orchestration/infrastructure as code, e.g. Kubernetes.
++ skill set:
+	- Excellent skills in AWS, MapReduce
+	- Experience in machine learning, quantitative analysis
+	- Experience in knowledge graphs, statistical relational learning, trends-driven analysis
+	- Experience in modelling both structured and unstructured data
+	- Excellent skills in C++, Python
+	- Excellent skills in Postgres
+	- Ability to work/report remotely
 + skill set:
 	- Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the data Engineering team to improve the data collection and quality.
 	- Ability to define and spot macro and micro levels trends with statistical significance on a regular basis and understand key drivers driving those trends.
@@ -12170,6 +12828,26 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 
 Sets of skills for more senior data science roles, such as senior data scientists and management of data science teams (i.e., data science managers):
 + skill set:
+	- develop programs for data transformation, integration, or reduction;
+	- prototype and ship production-grade applications for (among others) data coding, entity resolution, predictive analytics, data visualization, data dashboards, and report generation;
+	- perform custom data analysis to support all phases of the data collection and research pipeline;
+	- design and implement research plans for program evaluation, using both experimental and quasi-experimental methods;
+	- participate in business development, including researching and crafting sections of technical proposals;
+	- coordinate and conduct internal data science presentations and workshops;
+	- communicate research findings to colleagues, clients, and research peers across a range of media;
+	- keep current with innovations and trends in data science and survey methodology.
+	- An advanced (Masters or above) degree in one of the following fields is required: math, statistics, computer science, data science, or a social science or public policy related field.
+	- At least five years' experience in positions of increasing responsibility in a research or data analysis role, which may include graduate-level training at the PhD level or equivalent experience in applied research, is required.
+	- Proficiency in statistics and statistical methods (e.g. probability, regression, generalized linear models) is required.
+	- Proficiency in at least one of R or Python and their packages for data manipulation, visualization, statistics, and machine learning is required.
+	- Experience in communicating scientific research to both specialist and general audiences is required.
+	- Familiarity and interest in social scientific and public policy research, as well as applications of data scientific methods to such research, is preferred.
+	- Familiarity with methods for causal inference, including the potential outcomes framework, experimental design, and quasi-experimental designs (e.g. difference-in-differences, instrumental variables, regression discontinuity), is preferred.
+	- Experience in conducting original research – either independently or as a member of a research group or lab – including research design, novel data collections, data analysis, and preparation of papers, posters, or other presentations, is preferred.
+	- Familiarity with areas of data science such as multi-level modeling, machine learning (e.g. methods for regularization, classification, and clustering), natural language processing (text pre-processing, text classification, named entity recognition, etc.), computer vision (e.g. image classification, image object detection), or deep learning libraries is preferred.
+	- Familiarity with Bayesian estimation and software for Bayesian inference (e.g. JAGS, Stan) is preferred.
+	- Experience with version control workflows and tools (e.g. Git), databases (e.g. SQL), big data technologies (Hadoop, Spark, Hive, etc.), and cloud computing environments (e.g. AWS, Google Cloud, Azure, etc.) is preferred.
++ skill set:
 	- At the heart of Netflix Product Innovations is an experimentation driven culture led by Science & Analytics (S&A).  In this role, you will lead teams of data scientists and analysts responsible for shaping UI and Content Innovations decisions through experimentation (A/B, quasi) and empirical studies to guide product strategy.
 	- Set an impact-focused, strategic science roadmap to guide product innovations.
 	- Recruit and inspire exceptional data scientists focused on the span of causal inference, behavioral research, and analytical activities.
@@ -12333,6 +13011,22 @@ Sets of skills for more senior data science roles, such as senior data scientist
 ####	Data Visualization
 
 
+
+
+
+
+Skill sets for data visualization:
++ data visualization libraries and tools:
+	- Ggplot/ggplot2
+	- Seaborn
+	- D3.js
+	- Matplotlib
+	- Bokeh
+	- Plotly / Plotly Express
+	- Altair
+	- Geoplotlib
+	- Shiny
+	- Leaflet / Folium
 + data visualization with the following tools and/or libraries:
 	- Plotly
 	- Tableau
@@ -12349,7 +13043,14 @@ Sets of skills for more senior data science roles, such as senior data scientist
 + [Plus] Familiarity with interactive data visualization using tools like D3.js
 + metrics systems:
 	- ***Grafana.***
-
++ skill set:
+	- experience in the use of data visualization libraries (d3.js, Processing);
+	- knowledge of tools and languages for data analysis and visualization (eg Tableau, R, Python, Gephi, NodeBox);
+	- interest and propensity to learn work dynamics in an international company, dealing with highly innovative and experimental projects;
+	- academic background in information design and data visualization;
+	- experience in the design and implementation of static and / or interactive data visualizations and infographics;
+	- imagine, design and collaborate with UX / UI and development teams to create static and interactive data visualizations, infographics, reports and dashboards;
+	- interact and design solutions with customers that can satisfy both explicit and unidentified needs.
 
 
 
@@ -12417,7 +13118,22 @@ This subsubsection includes the following topics of business analytics, except f
 
 
 Skill sets for business analytics:
++ business intelligence tools:
+	- Domo
+	- Tableau
+	- Microsoft Power BI
+	- Looker
+	- Salesforce
+	- SAP Analytics Cloud
+	- TIBCO Spotfire
+	- Sisense
+	- Alteryx
+	- Einstein Analytics
+	- Google Data Studio
+	- Qlik
+	- Amazon QuickSight
 + Form and validate data-driven hypotheses for accelerating customer retention and revenue, working closely with engineering, design, marketing, and analytics
++ ***Own and optimize P&L and adoption KPIs for the business.***
 + skill set:
 	- Minimum of 3 years' delivery experience in advanced modeling environment: strong understanding of statistical concepts and predictive modeling. (e.g., AI neural networks, multi-scalar dimensional models, logistic regression techniques, machine-based learning, big data platforms, SQL, etc.).
 	- Minimum 3 years' experience with predictive analytics tools, including at least two of the following: R, SAS, Alteryx, Python, Spark, and Tableau.
@@ -12427,6 +13143,19 @@ Skill sets for business analytics:
 + skill set:
 	- 2+ years SQL working experience (Redshift/PostgreSQL/MySQL)
 	- Experience with BI & reporting dashboards (Periscope, Tableau, etc)
++ skill set:
+	- Use machine learning methods (e.g., cluster analysis, decision trees, random forest, neural networks, logistics regression) to model and predict research outcomes
+	- Use advanced mathematical techniques (correlation, regression, time series analysis, analysis of variance, etc.) to forecast outcomes
+	- Identify appropriate methods to conduct analyses including simulation methods (e.g., bootstrap, monte carlo, bagging methods), machine learning, and statistical analyses
+	- Develop data visualizations to capture trends and summarize data
+	- Create reports of data metrics, trends, outliers, etc.
+	- Hands on experience with R and/or Python to manipulate and transform data
+	- Ability to communicate through graphical representation/visualizations, reports, algorithms, models, and dashboards
+	- Process and prepare both structured and unstructured data sets to ensure successful modeling further downstream of the insight generation and modeling process
+	- Hands on experience with R, SAS and/or Python to manipulate and transform data
+	- Experience working with databases (Teradata, Oracle, SQL and NoSQL dbs) and interpreting data; experience with feature engineering and data wrangling of both unstructured and structured data sets;
+	- Exposure to data visualization tools and techniques (matplotlib, ggplot or Tableau);
+	- Experience with business case analysis (problem identification, quantitative modeling and problem solving)
 + skill set:
 	- enterprise resource planning, ERP
 		* ***business intelligence***
@@ -12471,6 +13200,12 @@ Skill sets for business analytics:
 	- SOX
 		* Sarbanes-Oxley Act
 + skill set:
+	- Utilize tools such as Pentaho, MSSQL SSIS, Microsoft Power BI, Microsoft  Data Factory, Microsoft Data Analytics to build web usage analytic reports.
+	- 4-6 years in developing BI reports, dashboards, KPIs, and scorecards.
+	- 4-6 years development experience in Data Analytic technologies such as: Pentaho, Microsoft – Power BI or Tableau
+	- Experience with Microsoft Azure platform a plus (Data Factory, Data Lake, Data Analytics, Streams)
+	- Experience with Solr is a plus
++ skill set:
 	- Business Intelligence Developer
 	- Unity (NYSE: U) is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the world’s most powerful digital content is created. Specifically, Unity’s platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
 	- We are seeking a BI Developer who combines an intense curiosity about data with a strong dedication to practical problem solving for business collaborators. This role will require proficiency in a sophisticated and evolving data model unique in the industry not only for its scale but also in the magnitude of business processes involved. Our team works in close alignment with all business units to understand and conduct research on the analytical requirements of our data projects. Most importantly, we are looking for a keen analytical problem solver who enjoys working with and using data to find exciting insights!
@@ -12500,7 +13235,15 @@ Skill sets for business analytics:
 	- Familiar with GCP (an experience with other Cloud platforms is valuable), Kubernetes, Tensorflow, Sklearn, and Kubeflow.
 	- Good interpersonal and teamwork skills, passionate about learning new techniques and taking on challenging problems
 	- Prior experience working on Graph Neural Networks (GNNs), graph databases, federated learning, and TF-secure.
-
++ skill set:
+	- Scale is a rapidly growing post-Series B startup. Our mission is to accelerate the development of AI applications. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include Alphabet (Google), Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more, and we've become an industry standard for the self-driving car market.
+	- https://scale.ai/careers/444bb0b1-932f-4065-a3bc-5a45004f5440
+	- In this role, you will apply statistical models, design and interpret experiments, build mission-critical dashboards, and help structure and order our data in the pursuit of transparency over how we operate and how we can improve.
+	- Build machine-learning models that power core operations, such as quality assessment and fraud detection
+	- Expert knowledge of a scientific computing language (e.g. *R, Python*) and SQL
+	- Strong knowledge of statistics (clustering, regression, etc.) and experimental design
+	- Comfort setting up and using BI tools
+	- Experience with ETL tools and building / maintaining a data warehouse
 
 
 
@@ -12583,6 +13326,58 @@ Skill sets for business analytics:
 
 
 ###	Sports Analytics or Data Science for Sports
+
+
+
+
++ skill set:
+	- NBA's Team Marketing and Business Operations ("TMBO") group is a unique in-house consulting arm within the NBA league office that drives best practice sharing and innovation across all NBA, WNBA, NBA G-League and NBA2K teams.
+	- The Data Scientist role will be a technical expert within TMBO in all matters surrounding statistical analysis, data manipulation and interpretation, and process automation. You will be a thought leader, tasked with the responsibility to leverage the NBA's various internal data sources to create new and innovative analytical products and outputs to inform league executives about the state of team businesses. You will uncover insights through predictive analyses and data visualization, drive better decision making by using various statistical modeling techniques, and promote efficiencies in reporting to various stakeholder groups within the league office. The demand for advanced analytical solutions to business operations issues in sports continues to grow exponentially, and this is your opportunity to grow with us in a fast-paced, collaborative environment.
+	- Help lead TMBO's efforts to develop and maintain analytical products for communicating the state of team businesses to key stakeholders at the league office
+	- Work with TMBO executives to further proprietary analytical research for presentation to teams at various league workshops
+	- Enhance the current report generation processes within TMBO through the lens of potential automation and conversion to different, more useful development environments (e.g., R, Python, Tableau, etc.)
+	- Develop an understanding of current needs in data collection at the league office and create solutions to gather the required information
+	- Perform statistical analysis and create and maintain descriptive and predictive models as needed on a project basis
+	- Demonstrated skills, knowledge and experience in converting data into insights
+	- Passion for developing methods to streamline processes and data flow through automation
+	- Experience in understanding existing data structures, including collection and standardization processes, and ability to help shape future processes going forward with an eye toward business needs
+	- Ability to consult with business analysts and operators to understand their data needs, develop systems to access the data and convert the outputs into various formats for analysis
+	- Comfort with ambiguity in data and experience in working with partners to optimize third-party data streams
+	- Detail-oriented, extremely organized with ability to manage projects from inception through execution
+	- Strong communication skills, both verbal and written, particularly for presentations
+	- Expertise in leveraging R and Python to perform statistical analysis, build models and automate processes
+	- Expertise in using SQL to tap expansive databases
+	- Expertise in creating informative data visualizations through Tableau
+	- Familiarity with other coding languages, statistical analysis tools and business intelligence platforms preferred
+	- Familiarity with Microsoft Office software required, strong skills in Excel and VBA preferred
+	- Expertise in developing, executing and implementing: various classification and regression models and familiarity with more advanced machine learning techniques
+	- Expertise in parsing existing code and developing ways to increase its efficiency
+	- Familiarity with accessing and manipulating data via APIs
+	- Experience in an advanced analytical role, preferably in an industry focused on leveraging data to develop loyal fans or customers
++ skill set:
+	- Implement and maintain the League's data analytics platform(s) to manage the ongoing monitoring of internal and external information related to Sports Betting/gaming;
+	- Coordinate with other departments and third-parties to identify internal and external sources of meaningful information and assist in the process of data collection;
+	- Work with and coordinate the integration of multiple data sets into the selected data analytics platform(s) and/or visualization tool(s);
+	- Work with technical partners to automate data flows and reduce reliance on manual data development;
+	- Develop queries and manage the technical aspects of data interrogation;
+	- Maintain a reporting mechanism and protocols to ensure appropriate communication of alerts and/or findings, including through visualization and dashboards;
+	- Oversee information requests and project activities to ensure accurate, timely, and efficient reporting deliverables; and
+	- Support the investigation and review of any alerts
+	- Five+ years of experience in data analytics or a comparable area of expertise
+	- Integrity monitoring experience and/or understanding of the Sports Betting/Gaming industry preferred
+	- Ability to exercise discretion and use independent judgment in making decisions and work with minimal functional guidance; demonstrated project management skills
+	- Excellent oral and written communication skills, ability to share findings with non-technical audience, and deal effectively with the senior management, staff members, and vendors
+	- Exceptional problem solving and issue-spotting skills
+	- Excellent interpersonal and time management capabilities
+	- Experience with data analytics platforms, such as Symantic Pro, Symantic Cortex, IBM i2
+	- Understanding of statistical modeling techniques
+	- Proficiency in at least one of the following languages: R, Python, SQL query writing, working with JSON/XML data
+	- Data transfer and encryption knowledge, such as sftp, pgp, and others; and
+	- Knowledge of Cloud platforms, such as AWS, Azure, and others
+
+
+
+
 
 
 
@@ -12828,7 +13623,27 @@ They support databases for:
 
 
 
+
+
 ***Skill sets for data engineering***:
++ big data products:
+	- relational databases, data warehouses, data lakes
+	- IBM Db2
+	- MySQL
+	- Oracle Database
+	- Microsoft Azure Data Lake Storage
+	- Amazon DynamoDB
+	- PostgresSQL
+	- Microsoft Access
+	- MongoDB
+	- Amazon RedShift
+	- Google Cloud SQL
+	- Google Cloud BigQuery
+	- SQLite
+	- Snowflake
+	- Microsoft SQL Server
+	- Amazon Athena
+	- Google Cloud Firestore
 + ***process structured and unstructured data***
 + You've used several data storage technologies like ***Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra*** and have some idea how they work and why they work that way.
 + Experience with ***Scala, Scalding, Luigi, Hive, machine learning pipelines and model training*** is a plus
@@ -12879,6 +13694,12 @@ They support databases for:
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
 + Should have experience in dealing with XML and JSON data formats.
++ skill set:
+	- Redesigning our data systems from a warehouse-centric to a lake-centric architecture to be more cost-effective as our data volume grows.
+	- Rolling out a structured events pipeline for analytics and productization of high-volume event streams.
+	- Building a centralized, discoverable data catalog to enable users across the company to efficiently find and use data.
+	- We currently support a 100TB data warehouse used by hundreds of people to make mission-critical decisions for our products and business.
+	- An experienced data engineer. You have several years of experience operating large-scale distributed data processing systems—advanced ETL pipelines and data lakes or warehouses. Experience with Spark and AWS data services (EMR, Glue, Redshift) is preferred.
 + modern tech stack:
 	- React
 	- Redux
@@ -12894,6 +13715,11 @@ They support databases for:
 	- Spark
 	- Presto
 + ***Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)***
++ skill set:
+	- Experience with ETL process, real time or batch pipelines
+	- Experience with Kafka
+	- Experience with Vertica
+	- Knowledge in containerized environments (Docker, Kubernetes)
 + Experience writing production datasets in SQL/Hive OR building internal/production data tools for ETL, experimentation, or exploration in a scripting language (Python, R, etc.)
 + MongoDB, Redis, Memcached, experience crafting NoSQL data models.
 + data engineering tooling: Airflow and Databricks
@@ -12907,6 +13733,22 @@ They support databases for:
 	- DBT
 	- Scio
 	- Storm
++ skill set:
+	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
+	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
+	- Extensive experience developing big data, business intelligence, marketing automation and/or other analytics infrastructure or pipelines - data lake experience preferred
+	- 10 years experience in developing and architecting solutions using big data, data warehousing
+	- 3 ++ years hands-on experience developing data lake solutions using Amazon's AWS (certification preferred)
+	- Experience with data streaming technologies (Kinesis, Storm, Kafka, Spark Streaming) and real time analytics
+	- Working experience and detailed knowledge in Java, JavaScript, or Python
+	- Knowledge of ETL, Map Reduce and pipeline tools (Glue, EMR, Spark)
+	- Experience with large or partitioned relational databases (Aurora, MySQL, DB2)
+	- Experience with NoSQL databases (DynamoDB, Cassandra)
++ skill set:
+	- Working experience of Databricks or similar
+	- Knowledge of concepts such as data warehouse, star schemas, KPIs
+	- Hands on experience with Linux, HDFS, HIVE, HADOOP
+	- Experience with ETL / Informatica, JSON structures and REST Based web services a plus
 + skill set:
 	- high-volume heterogeneous data with distributed systems, such as:
 		* Hadoop
@@ -12928,6 +13770,51 @@ They support databases for:
 	- Druid
 		* Apache Druid
 		* Druid is a column-oriented, open-source, distributed data store written in Java. Druid is designed to quickly ingest massive quantities of event data, and provide low-latency queries on top of the data. The name Druid comes from the shapeshifting Druid class in many role-playing games, to reflect that the architecture of the system can shift to solve different types of data problems.
++ skill set:
+	- Develop ETL operations using Python, Spark, SqlServer, Redshift and Kafka.
+	- Develop the core tooling library to support Airflow data pipelines.
+	- Design and implement the testing framework for Airflow dags and write test cases.
+	- Document our systems for internal and external stakeholders
+	- Support business stakeholders, analysts and data scientists on diverse projects.
+	- Monitor and debug data pipelines running on Airflow.
+	- Participate in code reviews.
+	- Deliver quality work on tight deadlines.
+	- Experience building systems with a framework, ideally Airflow (web frameworks are helpful, too)
+	- Experience with data manipulation tools like Pandas, or ideally Spark
+	- Experience with test automation
+	- Experience accessing data via an API
+	- Total control of Git
+	- Working knowledge of Linux
+	- Deployment tools (i.e. Ansible, Puppet, Chef)
+	- Working knowledge of set-based querying (joins, etc...) ideally indexing, too.
+	- Hadoop/Spark experience
+	- Flume/Gobblin/Kinesis
+	- AWS experience
+	- Web analytics experience
+	- Docker experience
+	- Jupyter (notebook) experience
+	- Log processing experience
++ skill set:
+	- As a Data Engineer, you will join a growing Data Engineering team within our Engineering Services organization  that collaborates with decision-makers across the organization to catalyze business growth by providing insightful and actionable analysis, insights and data products. The Data Engineering team is hands-on with a wide variety of datasets, including user data, product behavior data, financial/payment data, upper-funnel marketing data, trust and safety data, and operational/infrastructure data, and is responsible for leveraging that data into usable analytical products by stakeholders across the company.
+	- Develop and implement metrics and dimensions for powering analytical use cases across the company, incorporating a wide variety of data sources across the company at varying levels of complexity and scale
+	- Focus on data quality of the data environment and data products being delivered to the business, and effectively communicate to internal user base regarding production status
+	- Interface closely with data infrastructure, engineering and technical operations teams to ensure correctness and soundness of metrics built in the data environment and availability of data product services
+	- Pioneer initiatives around data quality, integrity, security and governance
+	- Work closely with data stakeholders across the company, both technical and non-technical, to understand evolving needs as more complex data models are introduced for reporting and data science
+	- Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field;  or equivalent experience.
+	- Experience in custom ETL design, implementation and maintenance
+	- Track record of developing in complex data environments and intelligence platforms for business users
+	- Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
+	- History of proactively identifying forward-looking data engineering strategies, utilizing appropriate technologies, and implementing at scale
+	- Extensive hands-on experience with schema design and dimensional data modeling
+	- Experience interacting with key stakeholders in different fields, interpreting challenges and opportunities into actionable engineering strategies
+	- Experience with analytics databases like Snowflake, Redshift, or BigQuery.
+	- Advanced SQL and relational database knowledge (MySQL, PostgreSQL) in addition to warehousing and dimension modeling
+	- Experience scripting in Go or Python or a similar scripting language.
+	- Effective communication and interpersonal skills
+	- Experience implementing dimensional modeling in a configuration tool like dbt or LookML a plus
+	- Experience designing and building dashboards in BI tools like Looker, Tableau, or PowerBI a plus.
+	- Experience with job schedulers (Airflow, Luigi, Azkaban, etc.) a plus
 + skill set:
 	- Bachelor's degree in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters or PhD strongly preferred
 	- Significant experience in custom ETL design, implementation and maintenance, including serving machine learning models in production for multiple high-growth companies, preferably those with technical products
@@ -12979,6 +13866,12 @@ They support databases for:
 		* message queueing
 		* stream processing
 		* highly scalable big data stores
++ skill set:
+	- Flume/Gobblin/Kinesis
+	- Develop ETL operations using Python, Spark, SqlServer, Redshift and Kafka.
+	- Develop the core tooling library to support Airflow data pipelines.
+	- Design and implement the testing framework for Airflow dags and write test cases.
+	- Monitor and debug data pipelines running on Airflow.
 + skill set:
 	- support existing scientific workflows
 	- set the vision for future data generation and collection efforts
@@ -13849,6 +14742,30 @@ DataOps leadership principles:
 
 
 Skill sets for DataOps:
++ To bring visualization and easy-to-use data analysis tools to our users, our research and development teams work on full data processing cycle: from database's query processing, to data science (AI, machine learning, etc.), UI design, and cloud computing.
++ Experience with or exposure to Big Data (Hadoop/YARN, Spark, Nifi, Storm, Cassandra, Solr) is a definite plus.
++ Integrate our data pipeline with available Augmented Analytics models, tools, and applications.
++ Leverage and advance our query processing engine to build a data pipeline that enables the development of features and integration with available Augmented Analytics models, tools, and applications.
++ Preferred (but not essential) experience any Big Data technologies such as languages like R, Hadoop, Machine Learning and Data Lakes
++ skill set:
+	- Python 2.7, 3.7
+	- SQL Server, MySQL, Memcached, Solr, Ansible, Linux
+	- Kafka, RabbitMQ
+	- React, GraphQL
++ skill set:
+	- 5+ years experience developing data frameworks using Python
+	- 5+ years of using SQL for data manipulation in a fast-paced work environment
+	- Experience working with open source technologies like Kafka, Hadoop, Hive, Presto, and Spark, or similar
+	- Experience building and optimizing ‘big data' data pipelines, architectures and data sets
+	- Mastery of data warehousing development and fundamentals
+	- Passion for business-oriented data development
++ skill set:
+	- Experience with NoSQL databases (eg MongoDB, Redis) is an advantage
+	- An advantage: experience with Docker / Rancher or Kubernetes and with Native Mobile Development or NativeScript / ReactNative knowledge
++ skill set:
+	- Strong understanding of core Hadoop concepts including Yarn, MapReduce, Hive, Pig, Sqoop, HDFS
+	- Experience implementing large scale data loading, manipulation, processing and exploration using a range of AWS based technologies such as Spark, Kinesis, Athena, RedShift, Postgres etc
+	- Extensive experience in data profiling, source-target mappings, ETL development, SQL optimisation, testing and implementation
 + Familiar with big data processing tools such as ***Hadoop, Spark, HBase***
 + Working experience with large-scale data platform and pipelines such as Hadoop, Hive, Pig, MapReduce, Spark, Kafka, Flumes, etc.
 + Demonstrated track record working with data warehouse concepts.
@@ -13859,6 +14776,31 @@ Skill sets for DataOps:
 	- Familiarity with interactive data visualization using tools like D3.js
 + Experience with: Large scale distributed computing, Database internals, Big Data engines e.g. Spark, Hadoop
 + You are comfortable with Big Data technologies like Hadoop, Spark, Hive, Presto etc.
++ skill set:
+	- Docker container orchestration platforms like Kubernetes or Mesos
+	- Databases and key value stores like MySQL, MongoDB, or Redis
+	- Distributed streaming platforms like Kafka or AWS Kinesis
+	- Monitoring and alerting tools like Grafana and Sensu
+	- React, Angular 1.5, Webpack
+	- Relational databases (like PostgreSQL, MySQL)
+	- Key Value stores (like Redis)
+	- AWS services: AWS Lambda, Aurora, Elasticache, RDS, and other AWS services
++ skill set:
+	- Data technology: Relational databases (like PostgreSQL, MySQL), Key Value stores (like Redis)
+	- Container technology like Docker, and familiarity with Swarm/Kubernetes/Mesos
+	- Distributed systems, including fault tolerant design, event sourcing and other distributed system architectural pattern
++ skill set:
+	- Strong computer science fundamentals: data structures, algorithms, programming languages, distributed systems
+	- Developing, deploying, and monitoring services on cloud infrastructure like Amazon
+	- Understanding of modern application development and architecture
+	- Understanding of DevOps principles such as fail early and often, The Three Ways, small batches, CI/CD
+	- Software development methodology, like TDD and BDD
+	- Distributed systems, including fault tolerant design, event sourcing and other distributed system architectural pattern
+	- Container technology like Docker, and familiarity with Swarm/Kubernetes/Mesos
+	- DevOps skills: Kubernetes, Docker, Terraform, Helm
+	- Software design: Domain Driven Design, Design patterns
+	- Data technology: Relational databases (like PostgreSQL, MySQL), Key Value stores (like Redis)
+	- AWS services: AWS Lambda, Aurora, Elasticache, CloudFront, SNS, SQS, and other AWS services.
 + skill set:
 	- 2+ years experience with R or Python
 	- 2+ years experience with predictive modeling
@@ -13875,6 +14817,17 @@ Skill sets for DataOps:
 	- Build attractive visualizations
 	- Communicate results to non-technical colleagues and clients
 	- Provide data science expertise to sales, marketing, and R&D teams
++ skill set:
+	- Java, Scala & Python
+	- Kubernetes & Docker
+	- Data analysis tools such as R
+	- We rely on Big Data / Hadoop technologies such as Apache Spark, Impala and Amazon Redshift
+	- Participate in Agile practices such as daily stands-ups, sprint planning and retrospectives
++ skill set:
+	- Impala is a scalable and fast SQL query engine that runs directly on Hadoop and supports a wide range of analytic workloads, from subsecond interactive dashboards with hundreds of concurrent users to petabyte-scale rich data exploration.  Impala is currently supported by a large paying customer base, and is a key component of the Cloudera data platform. It is open sourced under the Apache 2.0 license and is developed publicly, including code reviews and bug tracking (see http://impala.apache.org/). It is distributed by Cloudera, MapR, AWS and Oracle among others.
+	- Feel free to read our CIDR Paper on Impala: http://bit.ly/cidr15impala or http://pandis.net/resources/cidr15impala.pdf.
+	- Knowledge of database concepts, RDBMS internals, and SQL is a strong plus
+	- Knowledge of the Hadoop space, containers, or Kubernetes is a strong plus.
 + big data platform tools such as Hadoop, Hive, Druid, Kafka, Ambari, Spark
 	- Hadoop
 	- Hive
@@ -13893,6 +14846,58 @@ Skill sets for DataOps:
 		* The Apache Ambari project intends to simplify the management of Apache Hadoop clusters using a web UI. It also integrates with other existing applications using Ambari REST APIs.
 		* The Apache Ambari project is aimed at making Hadoop management simpler by developing software for provisioning, managing, and monitoring Apache Hadoop clusters. Ambari provides an intuitive, easy-to-use Hadoop management web UI backed by its RESTful APIs.
 	- Spark
++ skill set:
+	- Modern databases like Cassandra, ElasticSearch, Redis, and Postgres.
+	- Frameworks like Django, Tornado and the PyData stack (e.g. Pandas).
+		* Django: Web framework for creating database-driven Websites
+		* Tornado: scalable, non-blocking web server and web application framework
+			+ for developing Web applications
+		* PyData
+			+ Pandas for data science
+	- Running Kafka, Storm, Spark in production atop massive data sets.
+	- Easy system management with Fabric and Chef.
+		* Chef:
+			+ Progress Chef (formerly Chef): configuration management tool
+		* Fabric.js, a Javascript HTML5 canvas library
+			+ Fabric OS, a firmware for Brocade Communications Systems's Fibre Channel switches
+	- Parse.ly's data engineering team already makes use of modern technologies like Python, Storm, Spark, Kafka, and Elasticsearch to analyze large datasets.
++ skill set:
+	- Building, maintaining and improving the modeling infrastructure using cutting edge tools including: Hadoop, PIG, Kafka, Flume, Ssamza, Zookeeper, PySpark, Elasticsearch, Python, Django
+		* PIG
+			+ Apache Pig: MapReduce programming tool for the Hadoop platform
+		* Kafka
+			+ Apache Kafka:
+				- open-source distributed event streaming platform for:
+					* high-performance data pipelines
+					* streaming analytics
+					* data integration
+					* mission-critical applications
+		* Flume
+			+ Apache Flune:
+				- service for collecting, aggregating, and moving large amounts of log data
+				- distributed, reliable, and available software for efficiently collecting, aggregating, and moving large amounts of log data
+				- simple and flexible architecture based on streaming data flows
+				- robust and fault tolerant with tunable reliability mechanisms, and failover and recovery mechanisms
+		* Ssamza
+			+ Apache Samza:
+				- build stateful applications that process data in real-time from multiple sources, such as:
+					* Apache Kafka
+				- near-realtime, asynchronous computational framework for stream processing
+				- provides fault tolerance, isolation, and stateful processing
+		* Zookeeper
+			+ Apache Zookeeper
+				- centralized service for maintaining configuration management information, naming, and providing distributed synchronization and group services.
+				- server for enabling highly reliable distributed coordination
+				- service for coordinating processes of distributed applications
+		* PySpark:
+			- Python API for Apache Spark
+			- real-time, large-scale data processing in distributed environments
+		* Django
+			- high-level Python Web framework for rapid development/prototyping and clean, pragmatic design
+			- follows the model-template-views (MTV) architectural pattern
+	- Learning how to build and maintain an ETL pipeline for scalability and stability.
+	- Supporting data analysis, mathematical modeling, machine learning and data mining for price testing and its optimization
+	- Explore and employ external data sets, finding them, adding them to the system, adjusting and reformatting/cleaning up so that they can be consumed by our infrastructure. Developing models and machine-based understanding of interactions between external datasets and client data.
 + You know your way around SQL-like databases (e.g. PostGres, Impala, Hive) and even better if have experience with Spark and other big data platforms.
 + skill set:
 	- Familiarity in data storage (e.g. MySQL, MyRocks, HBase, Memcached, Redis, etc), traffic handling (e.g. DNS, CDN, load balancing, etc) or infrastructure orchestration (Ansible, terraform, docker, Kubernetes, etc)
@@ -13901,6 +14906,13 @@ Skill sets for DataOps:
 	- Operational experience with Linux operating system internals, filesystems, disk/storage technologies and networking
 	- Experience with scripting languages (e.g. shell script)
 	- Experience with capacity planning for web scale systems
++ skill set:
+	- Familiarity with Hadoop, Map/Reduce, Spark, and distributed computing
+	- Understanding of data pipeline architectures (e.g. Lambda, Kappa)
+	- Database hands-on experience (MySQL, MongoDB, couchdb, ElasticSearch, etc.)
+	- Knowledge of real-time data pipelines (e.g. Kafka and Spark Streaming)
+	- Experience with continuous integration and deployment workflows
+	- Experience with Docker, AWS/Azure/On-Prem deployments, and networking
 + skill set:
 	- Extensive hands on experience with administering some of the following: HBase, Impala, Spark, EMR, Hive on Tez or Presto
 	- Experience operating large scale Hadoop clusters running Cloudera distribution
@@ -13917,6 +14929,18 @@ Skill sets for DataOps:
 	- No matter your role, or what your automation goals are, Ansible can help you demonstrate value, connect teams, and deliver efficiencies for your organization. Built on open source, Red Hat® Ansible® Automation Platform is a hardened, tested subscription product that offers full life cycle support for organizations. Explore how Ansible can help you automate today—and scale for the future.
 	- Ansible® is an open source, command-line IT automation software application written in Python. It can configure systems, deploy software, and orchestrate advanced workflows to support application deployment, system updates, and more.
 	- Ansible’s main strengths are simplicity and ease of use. It also has a strong focus on security and reliability, featuring minimal moving parts. It uses OpenSSH for transport (with other transports and pull modes as alternatives), and uses a human-readable language that is designed for getting started quickly without a lot of training.
++ skill set:
+	- Stitch is a cloud data ingestion platform... We power data infrastructure for thousands of businesses.
+	- Stitch is made up of these main components:
+		* Source integrations - lots of them! - that stream data out of SaaS applications, databases, and filesystems
+		* A high-volume data pipeline, moving hundreds of billions of records per month
+		* Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
+		* A mid-tier and UI that tie it all together
+	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
+	- [Simple, Composable, Open Source ETL; Singer powers data extraction and consolidation for all of your organization's tools.](https://www.singer.io/)
+	- https://github.com/singer-io
+	- Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
+	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
 + skill set:
 	- data expertise:
 		* manage data pipelines
@@ -13964,6 +14988,9 @@ Skill sets for DataOps:
 	- Experience with automation tools and configuration-as-code (CloudFormation, Ansible, Puppet, Chef, Vagrant, etc.)
 	- Experience working with either AWS or GCP services such as compute, databases, VPCs, networking, permissioning and storage
 + skill set:
+	- You have worked with Relational databases like MySql, Postgres and understand partitioning, sharding, as well as NoSQL databases such as mongoDB/Couchbase etc.
+	- You should be at ease with maintaining cloud instances on AWS, Rackspace, Digital Ocean and the like, and you should be at home with provisioning tools like Puppet or Ansible. Experience with Docker in production would be prized.
++ skill set:
 	- design and implement efficient ranking algorithm at high throughput and scalable search engine
 	- analyze search and document data using SQL and Hive on Spark, S3, and ElasticSearch
 	- understanding and experience for query expansion and rewrite techniques such as synonyms, auto complete, speel correction, query optimization, and query-to-query similarity
@@ -13995,6 +15022,34 @@ Skill sets for DataOps:
 	- Enterprise data integration, BI and analytics platforms: Informatica, Talend, InfoSphere, SAS, RevoR, QlikView, Qlik Sense, Tableau, Spotfire, D3.js
 	- Processing frameworks & programming tools: Spark (Scala/Python/Java), Kafka, Flink
 	- Client facing skills: ability to build trusted relationships with client stakeholders and act as a trusted adviser
++ skill set:
+	- You will join a team of highly talented Engineers and Data Scientists, with your main focus being to write highly performant and scalable code that will run on top of our Big Data platform (Spark/Hive/Impala/Hadoop). As such, you will work closely with the Data Science team to support them in the ETL process (including the cohorts building efforts).
+	- Working in a cross-functional team
+	- Building scalable and high-performant code
+	- Mentoring less experienced colleagues within the team
+	- Implementing ETL and Feature Extractions pipelines
+	- Monitoring cluster (Spark/Hadoop) performance
+	- Working in an Agile Environment
+	- Refactoring and moving our current libraries and scripts to Scala/Java
+	- Enforcing coding standards and best practices
+	- Working in a geographically dispersed team
+	- Working in an environment with a significant number of unknowns – both technically and functionally.
+	- BSc or MSc in Computer Science or related field
+	- Strong analytical and problem-solving skills with personal interest in subjects such as math/statistics, machine learning and AI
+	- Solid knowledge of data structures and algorithms
+	- Experience working in an Agile environment using Test Driven Development (TDD) and Continuous Integration (CI)
+	- Experience refactoring code with scale and production in mind.
+	Proficient in Scala, Java and SQL
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Experience with integration of data from multiple data sources
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
 + skill set:
 	- Partner with engineering leadership to buildout data driven roadmap items to address performance in critical areas
 	- Established performance test environments and frameworks
@@ -14188,7 +15243,17 @@ Skill sets for DataOps:
 	- Experience with Big Data platforms such as Hadoop
 	- Experience with other reporting/visualization tools such as Tableau
 	- Experience with monitoring and tracking tools such as  Splunk, NewRelic, Adobe/Google Analytics
-
++ skill set:
+	- Build large-scale batch and real-time data pipelines with data processing frameworks like Scalding, Scio, Storm, Spark and the Google Cloud Platform.
+	- Leverage best practices in continuous integration and delivery.
+	- Help drive optimization, testing and tooling to improve data quality.
+	- Collaborate with other engineers, ML experts and stakeholders, taking learning opportunities that will arise every single day.
+	- Work in cross functional agile teams to continuously experiment, iterate and deliver on new product objectives.
+	- You are pursuing a Bachelor's or Master's degree or a bootcamp certification in Computer Science or Computer Engineering or a related field of study.
+	- You've dabbled in high volume data, preferably with distributed systems such as Hadoop, BigTable, and Cassandra.
+	- You've had exposure to data modeling, data access, and data storage techniques.
+	- You have an interest in agile software processes, data-driven development, reliability, and responsible experimentation.
+	- You understand the value of collaboration within teams.
 
 
 
@@ -14332,7 +15397,7 @@ For the ***K-12 (kindergarten to grade 12) education market***, these are the sk
 
 
 
-For the ***higher education market***, these are the skill sets for applied machine learning and data science roles.
+For the ***higher education market***, these are the skill sets for applied machine learning and data science roles, and instructor positions for data science.
 + skill set:
 	- Experience using native APIs from higher ed core systems (SIS, ERP, LMS) a plus
 		* MIS, such as: ***student information systems, SIS***, student management systems, school administration software, school administration system
@@ -14361,6 +15426,19 @@ For the ***higher education market***, these are the skill sets for applied mach
 				- regulatory compliance
 		* learning management systems, LMS
 	- 3+ years' experience with enterprise level data integration working with multiple systems simultaneously; Including extracting data utilizing API integration from a variety of platforms, performing data mapping, data transformation, and loading data to the target system
++ skill set:
+	- Throughout the year, instructors will work on lecturing the course, curriculum development for new and existing courses, hosting office hours, managing a Teaching Assistant, assist with marketing, and others on an hourly basis.
+	- Leading course discussions
+	- Providing personalized support to students
+	- Managing a Teaching Assistant
+	- Hosting office hours
+	- Improving the quality of our curriculum
+	- Participating in course marketing activities
+	- Is a data scientist with outstanding knowledge of and experience in Python, Calculus, Linear Algebra, Probability, Statistics and various Data Science concepts and algorithms which include supervised and unsupervised learning, dimensionality reduction, exploratory data analysis, and programming best practices
+	- Is equally passionate about data science and teaching
+	- Strong communication skills
+	- Preferably has teaching experience alongside data science
+	- Approaches problems with a design perspective
 + skill set:
 	- BLAH.
 + skill set:
@@ -14452,6 +15530,30 @@ For the ***waste management market***, these are the skill sets for applied mach
 
 
 For the ***health care industry***, including health care informatics, health care analytics, health care management and hospital management, these are the skill sets for applied machine learning and data science roles.
++ skill set:
+	- Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc) for the development of maintained components. Additional experience using PySpark a big plus.
+	- Ability to integrate and scale solutions that involve large data sources in SQL databases and/or distributed systems such as Hadoop, as well as considerable experience deploying at scale on cloud technologies such as AWS, GCP, Azure.
+	- A set of software-development values that ensures high-quality, readable and maintainable code is produced within an open and collaborative environment.
+	- A pragmatic approach in scope and design, seeking simple iterative solutions wherever possible to shorten the time-to-value of work.
+	- Knowledge of supervised machine learning methods, such as regularised regressions, ensemble tree classifiers (e.g. xgboost), Support Vector Machines, deep learning, etc.
+	- Additional experience developing in C++, R, Java, Scala, Java, JavaScript, or advanced ability user of shell scripting commands (grep, sed, awk, etc).
+	- A demonstrable interest (e.g. public GitHub repo, or online course completion) in one of the following machine learning libraries (or equivalents): TensorFlow, Spark MLLib or CRAN packages for machine learning.
+	- Knowledge of healthcare / life science issues involving Real-World Evidence.
++ skill set:
+	- software engineering
+	- big data analytics framework
+	- product innovation
+	- services and applications
+	- communicating with industrial and academic experts
+	- machine learning
+	- statistics
+	- interested in personalized medicine
+	- strong interest in industry projects
+	- data mining
++ skill set:
+	- IBM Research Lab in Mulhuddart, Dublin, Ireland.
+	- AI for Health and Social Care team
+	- state-of-the-art in AI and Healthcare Informatics.
 + skill set:
 	- BLAH.
 + skill set:
@@ -14817,6 +15919,23 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 		* In practice, large-scale applied Machine Learning (ML) requires substantial infrastructure and systems engineering investment. Although we’re most well-known for early work in personalized recommendations, the sophistication and breadth of ML algorithms and applications at Netflix have grown substantially over the last few years. Today our main challenge is to scale machine learning in heterogeneous language environments across several domains and at all stages of a project’s lifecycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment.
 		* We need to do this at the scale of hundreds of millions of global streaming members, whose viewing habits, preferences, and contexts change over time. Content, studio, and marketing applications, which are being reimagined with machine learning, bring their own unique platform requirements. To meet these business and research needs, we need to innovate on the platform infrastructure itself, such that we are able to carefully orchestrate a continuous cycle of learning, inference, and observation while also maintaining high system reliability. Our journey continues as we seek to find new ways to scale with our member base as well as the ever-growing need for ML at Netflix.
 + Toyota Research Institute, TRI
+
+
+
+
+
+
+
+Generic skill sets for research scientists:
++ [OpenLabNotes – An Electronic Laboratory Notebook Extension for OpenLabFramework](https://doi.org/10.1515/jib-2015-274)
+	- Electronic laboratory notebooks (ELNs)
++ skill set:
+	- Take research from an initial idea all the way to a merged PR in our open source libraries.
+	- Speak to the Rasa community (developers who use our libraries) to help prioritize our research roadmap, and assess the impact of the research we've shipped.
+	- Design and conduct experiments that bring us closer to our vision.
+	- Collaborate on research papers.
+
+
 
 
 

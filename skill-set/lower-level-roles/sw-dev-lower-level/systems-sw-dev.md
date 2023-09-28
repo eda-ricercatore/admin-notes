@@ -7,6 +7,7 @@
 
 
 
++ System-level functional and performance debugging (***perf, gdb, valgrind***)
 + Cross platform C++17, OpenCL, Qt/QML, git, Python 3, clang-tidy, clang-format, Jenkins, CMake, Catch2, Docker, Vagrant, KVM, C++/CLI.
 + Work with cutting edge technologies such as C++17 (anything that passes VS2017, latest Clang, GCC, clang-tidy, ...). C++/CLI, GPGPU, Python, Jenkins, docker, KVM, libclang, boost, Qt and CMake
 + Very strong programming skill in C++14. You will be expected to know and use C++ templates, lambdas, and high-performance data structures.
@@ -124,7 +125,20 @@
 	- Good understanding on SDN/NFV, Virtual Switching, cloud native
 + Experience with monitoring (NewRelic, Prometheus, PagerDuty)
 + skill set:
-	- BLAH.
+	- Openstack
+	- Linux kernel namespaces internals
+	- Linux kernel KVM internals
+	- K8s networking internals
+	- OpenVSwitch
+	- Workload optimization in HPC / HTC (High Throughput Computing)
+	- In depth knowledge of Linux operating systems
+	- Networking protocol development experience
+	- Storage experience and/ or virtual machine experience
+	- Understanding of the operational, maintenance, monitoring and support aspects of a business - critical system.
+	- Understanding of underlying hardware in large - scale systems and how to best use it.
+	- Kernel virtualization mechanisms
+	- Leading software defined storage projects (Gluster, Ceph, Hadoop, etc...)
+	- Experienced in working in large bare-metal data centers
 + skill set:
 	- BLAH.
 + skill set:
@@ -151,6 +165,63 @@
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Skill Sets for Fault-Tolerant Software Development
+
+
+
++ skill set:
+	- Design fault tolerant systems that can scale, and allow us to move quickly without impacting customer access
+	- Build observable systems that track important metrics and automatically notifies when something is off
+	- Experience with multi-region data center architecture
+	- Experience working with a distributed service-oriented architecture
+	- Experience building admin features in SaaS applications
+	- Experience with modern security and access control practices
+	- Experience with continuous integration (frequent deployments)
+	- Experience with GraphQL
+	- Material contributions to open source projects
+	- Linux (Ubuntu) configuration and administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

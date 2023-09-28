@@ -143,6 +143,21 @@ Generic sets of skills in robotics:
 	- Docker
 	- ROS
 + skill set:
+	- Solid background in multiple programming languages, e.g. Python or C/C++ and willingness to pick up any new programming languages or frameworks.
+	- Fearless about jumping around the stack (from improving driver to writing CUDA kernel to putting together React webapp) and working on aspects that have significant impact on product
+	- Having built enough systems to recognize what are the pragmatic designs (not the most fancy ones)
+	- Shape the vision and architecture of the system infrastructure that powers the next-generation of intelligent machines.
+	- Implement mission-critical software in a reliable and sustainable manner.
+	- Craft tools, processes and frameworks to redefine the software development in the rise of autonomous systems powered by artificial intelligence.
+	- Collaborate with, learn from, and mentor a team of diverse roles, which include software engineers, roboticists and AI researchers.
+	- Have worked at a startup before. Enjoy the fast-paced environment.
+	- Know how to scale yourself as the company grows, via mentorship, delegation, increased role and responsibilities.
+	- Are self-directed and enjoy figuring out what is the most important problem to work on.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Are detail oriented, and like to get the system working but know when to cut corners versus get it exactly right.
+	- Have a strong interest in AI & robotics.
+	- At covariant.ai we don't just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Covariant.ai is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
++ skill set:
 	- Technical capability to create robust and well-tested C++ software
 	- Familiarity with modern model predictive control and other advanced control techniques
 	- Experience with adaptive control, system identification, and machine learning methods
@@ -492,6 +507,37 @@ Sets of skills for autonomous road vehicles:
 	- Responsible for research on perception algorithms of autonomous driving systems, including but not limited to: image target detection and segmentation, recognition, and tracking algorithm development; visual positioning, pose estimation, depth estimation, and 3D reconstruction algorithm research and development;
 	-  Familiar with commonly used computer vision and machine learning algorithms, with excellent mathematical ability; master the basic algorithms of image processing, familiar with camera models, multi-view geometry, optimization and other theories
 	- Have experience in the development of autonomous driving systems, including but not limited to lane line recognition/obstacle recognition and tracking/multi-view stereo/visual positioning/three-dimensional reconstruction, etc.;
++ Working knowledge of ROS + Gazebo. Experience with OMPL / PCL / OpenCV is a plus.
+	- ROS: Robot Operating System
+	- Gazebo simulator: open-source 3-D robotics simulator, which includes an ODE physics engine, OpenGL rendering, support code for sensor simulation and actuator control
+	- OMPL: open motion planning library, software package for computing motion plans using sampling-based algorithm
+		* used for motion planning, or path planning, to solve the navigation problem or piano mover's problem.
+	- PCL: point cloud library of algorithms for point cloud processing tasks, 3-D geometry processing, and 3-D computer vision
+		* filtering
+		* feature estimation
+		* surface reconstruction
+		* 3-D registration
+		* model fitting
+		* object registration
+		* segmentation
++ skill set for: Perception and Localization - Autonomy Software Engineer
+	- M.S & 4+ years of experience or Ph.D. in Computer Science, Electrical, Mechanical, Aerospace, Robotics or a related field. Ph.D.candidates will be given preference.
+	- Experience working hands-on with physical robots like quadcopters, AGVs, UGVs etc.
+	- High proficiency in C++.
+	- Rock solid software engineering foundation and a commitment to writing clean, documented and well-architected code
+	- Strong fundamental understanding of Kalman Filtering, SLAM, particle filtering, and other estimation and sensor fusion techniques.
+	- Strong math fundamentals in large scale optimization, dynamic programming, non-linear optimization, linear algebra etc.
+	- Competency in ROS/ OMPL / PCL / OpenCV is a plus.
+		* OMPL: open motion planning library, software package for computing motion plans using sampling-based algorithm
+		* used for motion planning, or path planning, to solve the navigation problem or piano mover's problem.
+	- PCL: point cloud library of algorithms for point cloud processing tasks, 3-D geometry processing, and 3-D computer vision
++ skill set:
+	- We will prefer candidates who have experience working hands-on with physical systems like robots. Example: manipulation of a robotic arm, ground robots, self-driving cars, quad rotor or any other mobile robot.
+	- High proficiency in C. Experience with C++/Python is a bonus.
+	- Experience working hands-on with micro-controllers like STM32 / NXP is a big bonus.
+	- Experience with RTOS.
+	- Rock solid software engineering foundation and a commitment to writing clean, documented and well architected code.
+	- B.S in Computer Science, Electrical, Robotics or a related field. > 2 years prior professional experience developing firmware for embedded systems.
 + skill set:
 	- Develop automotive standard software for vehicle-level autonomous controls.
 	- Improve and deliver reliable software through requirements generation, continuous integration, automated testing, issue tracking, and code reviews
@@ -810,6 +856,12 @@ Sets of skills for autonomous road vehicles:
 	- Can combine AI technology with the needs of the map field;
 	- Solid experience in road conditions, ETA and navigation
 	- Publication(s) in top-tier academic conferences or journals in related fields
++ Development software by ensure Alige/ASPICE development process
+	- Alige/ASPICE development process
+	- Alige development process
+		* agile methods???
+	- ASPICE development process
+		* ASPICE, automotive software process improvement capability determination, automotive SPICE
 + skill set:
 	- BLAH.
 + skill set:
@@ -908,6 +960,49 @@ Other car companies:
 + Mercedes
 + Mazda
 
+
+
+
+
+
+
+Car companies that manufacture electric cars or autonomous cars:
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

@@ -53,6 +53,28 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- MIL/model-in-the-loop, SIL/software-in-the-loop, PIL/plant-in-the-loop, and HIL/hardware-in-the-loop
 	- The implementation of software is done in project-specific technologies and thus extends over a wide area, including C/C++, C # (including WPF, WCF), Python, MATLAB ®, VHDL.
 + skill set:
+	- Develop software to control Pixelworks chip on Android system
+	- Light up MIPI DSI panel with Pixelworks' chip
+	- Do video and image post processing
+	- Validate new Pixelworks' chip
+	- Tune PQ performance and system stability
+	- Light up MIPI CSI camera
+	- Integrate Pixelworks algorithm to camera
+	- Validate functionality of ISP pipeline
+	- Support customer
+	- Good education background or knowledge base of image processing and color management is required
+	- In-depth knowledge of Android SurfaceFlinger and HWC is required
+	- Good knowledge background of MIPI DSI is preferred
+	- Good knowledge background of MIPI CSI is preferred
+	- Familiar with camera data processing from hardware and software perspectives
+	- Experience with ISP driver or image quality tuning is preferred
+	- Experience with camera HAL implementation is preferred
+	- Familiar with Android multimedia architecture
+	- Familiar with MDP/SDE of Qualcomm Application Processor from hardware and software perspectives
+	- Excellent C/C++ programming skills required. Java is a plus
+	- English communication capability to work with colleagues around the world
+	- Basic GPU programming is a plus
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -104,6 +126,43 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 
 Sets of skills for embedded software development roles:
 + Integrate, design, develop, upstream and release system software: Yocto/OpenEmbedded (both SiFive-proprietary and public open source)
++ skill set:
+	- Networking and asynchronous IO applications;
+	- IoT frameworks and messaging protocols;
+	- Database design;
+	- Real time operating systems;
+	- Low level serial protocols such as SPI; and
+	- Low level networking standards such as Ethernet and Wi-Fi.
+	- Strong C/C++ programming skills;
+	- Excellent problem solving skills;
+	- Experience of developing unit tests, and preferably of Test Driven Development;
+	- Familiarity with the use of SCM systems, and preferably a working knowledge of Git; and
+	- An understanding of Continuous Integration systems.
+	- Collaboration with agile planning processes
+	- Software design, implantation and documentation
+	- Automated test implementation
+	- Code reviews and support for other development on going within the team
+	- Collaboration with engineers from a range of disciplines to deliver complete, production ready systems
++ skill set:
+	- This is an excellent opportunity for an experienced Senior Embedded Software Engineer to develop key elements of an open-source platform for GPS/INS navigation systems. The role spans development of platform code, drivers, and tools on both 32-bit ARM Coretex platforms as well as in the future small Linux platforms.  Core elements of the firmware are contributed and maintained as open-source projects on GitHub for use by the Aceinna community of customers.  Projects include enhancement of existing code for the immediate release to open source, as well as development of new platform level code for future versions of hardware including at some point a Linux version.
+		* INS, inertia navigation systems
+	- Write significant amount of well-tested and documented firmware for small embedded hardware platforms
+	- Apply logic and software engineering practice to organize code in a sustainable and comprehendible manner for an open-source community
+	- Maintain related GitHub repositories for branches, pull requests, and merge requests.  Help manage GitHub community and identify good contributors on our projects as well as other related open-source projects
+	- Help hardware team evaluate new CPU architectures with benchmarks and requirements
+	- Develop driver code for both communication protocols, sensors, and other peripherals
+	- Perform other job related duties as assigned
+	- Expert C/C++ embedded firmware architecture, development, and debugging skills
+	- Experience with small RTOS systems with hard real-time constraints, and intensive numerical processing.
+	- Experience with writing real-time code on Linux or Linux-like platforms such as Raspberry Pi or similar
+	- Experience with hardware serial/bus protocols such as I2C, SPI, UART, CAN, Bluetooth and Ethernet buses
+	- Experience with Python and/or Node.JS is desired but not required
+	- Must be a self-starter and self-motivating individual
+	- Must be capable of working in a team
+	- Must be capable of training and generating documentation that will be posted on our GitHub account and other online documentation/blog posts
+	- Postion is located in Santa Clara, CA
+	- Education: BS or MS in Computer Science or related Technical Field
+	- Years of Experience:  7+
 + Knowledge of tools like Linux perf, vTune, ARM StreamLine, Trace Compass, etc.
 	- Linux perf: performance analyzing tool
 	- vTune: VTune Profiler is a performance analysis tool for x86 based machines running Linux or Microsoft Windows operating systems. Many features work on both Intel and AMD hardware, but advanced hardware-based sampling requires an Intel-manufactured CPU.
@@ -514,6 +573,24 @@ Sets of skills for embedded software development roles:
 	- Excellent communication skills, team-work, self-motivation, self-organization and independent working.
 	- Fluent written and spoken English.
 	- Ability/interest for international travel.
++ skill set:
+	- Porting libc and libc++
+	- Porting an open-source BIOS
+	- Writing a micro-kernel similar to L4
+	- Modifying and/or writing logic generators in C++ for hardware functional units
+	- Writing compiler toolchain code, including working on our own code generator back end and modifying LLVM to support some unusual capabilities of the Mill such as quad precision, overflow detection and decimal floating point
+	- Writing test sequence generators in C++ for individual operations
++ skill sets:
+	- Conception and development of product prototypes and commercial products according to customer-specific requirements (real-time system development, μC)
+	- Connection of sensors, definition of interfaces, integration of BUS systems etc.
+	- Point of contact for technical questions about your project (internal and external)
+	- Research on relevant hardware topics, e.g. new μC, hardware components etc.
+	- Bachelor‘s or Master‘s degree in electrical engineering, information technology, computer science or similar
+	- Knowledge in C, C++
+	- Experience in the programming of embedded systems (µC)
+	- Practical experience in building and testing prototypes, e.g. through private projects
+	- Communication skills, ability to work independently and in a team
+	- German and english language skills
 + skill set:
 	- BLAH.
 + skill set:

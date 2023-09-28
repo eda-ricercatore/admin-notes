@@ -255,6 +255,67 @@ Skills related to software development for database management systems and infor
 		* Streaming Platforms: Kafka, RabbitMQ
 	- Experience with Python or a similar dynamic programming language
 	- ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time.
++ skill set:
+	-  5+ years of experience engineering and managing MySQL or PostgreSQL database server for high traffic applications
+	- Deep expertise in designing and maintaining MySQL or PostgreSQL
+	- Experience in Distributed Systems engineering, Linux performance, memory management, I/O tuning, cluster management, sharding, Data durability, security, networking, and system crash analysis
+	- Experience in setting up and operating Highly Available MySQ
+	- Experience in debugging time critical DB problems like deadlock analysis and transaction locking
+	- Experience in engineering solutions for data backup and encryption
+	- Expertise in Database internals and ability to optimize and tune DB engines
+	- Experience in working with Percona and innoDB engine
+		* database software:
+			+ database distributions
+			+ database backups
+			+ database clustering
+			+ database observability
+			+ database monitoring
+			+ database management
+			+ database kubernetes operators
+	- Experience in debugging time critical DB problems like deadlock analysis, transaction locking etc
+	- Familiar with Agile SDLC
+	- Good communication skills and ability to work with remote teams.
+	- Ability to program in Bash shell scripts, Python, C/C++ and SQL.
+	- Self motivated engineer who can solve problems independently
+	- Ruby programming is an added advantage
+	- Experience with AWS is an added advantage.
+	- Exposure to different MySQL HA technologies like XtraDB cluster is an added advantage
+	- Exposure to MySQL native plugin development is an added advantage
+	- Build innovative monitoring systems that monitors the Computing infrastructure and the DB engine
++ skill set:
+	- Responsible to handle multiple clients at the same time
+	- Work alongside Project Management team to gather requirements, design and implement custom solutions for customers
+	- Perform discovery work sessions to determine the solution requirements
+	- Perform design work sessions and produce deliverables, including mock-ups, flow diagrams, etc.
+	- Provide customer specific configuration for Splash products
+	- Provide consulting services to Splash customers on how to configure Splash products to achieve a customer's desired use cases
+	- Review and validate solution designs produced by other Services team members
+	- Serve as the Splash subject matter expert (SME) on Splash product capabilities
+	- Develop tools, processes and best practices to ensure customers are realizing the greatest possible value from Splash
+	- Expand upon the Splash solution portfolio, demonstrating best practices in design for use cases across variety of industries and business functions
+	- Bachelor's degree plus 1-2+ years of work experience in a client-facing professional services/consulting role; prior experience in event marketing and SaaS service delivery preferred
+	- Demonstrated ability to present solutions to clients, manage client expectations, and implement and deliver solutions
+	- Strong communication skills (written, verbal, presentation), with the ability to explain technical subjects to non-technical end user personnel in large enterprises
+	- Hands-on working experience in the configuration, customization, and implementation of SaaS applications
+	- Experience with BI tools (e.g., Tableau) is a plus, but more important to be able to interpret and explain data in a meaningful way
+	- A working knowledge and proficiency in the Google Suite, MS Word, Excel, PowerPoint, and Mail, JIRA and Confluence, and Microsoft Project (or equivalent Project Management software)
+	- A working knowledge of the following is preferred:
+		* Working HTML, CSS, JavaScript (JQuery / Node.js)
+		* JSON, HTTP Requests, REST
+		* Types of Authentication including Oauth and Basic Auth
+		* PHP, SQL, XML
+		* Understanding of UTM / URL parameters
+	- Excellent problem solving ability
+	- Deadline-driven
+	- Willing to travel periodically (up to 25%) based on customer and business need
++ Experience with caching mechanisms
+
+
+
+
+
+
+
 
 
 
@@ -295,6 +356,23 @@ Skills related to software development for enterprise search engines:
 
 + API development
 + Develop public APIs on APIGEE, for API management and predictive analytics software
++ skill set:
+	- Experience of working with Flask (or similar web framework) to build APIs.
+	- Excellent understanding of SQLAlchemy, data modelling, Alembic, Postgres, Celery, Redis.
+	- 3 to 5 years prior related experience in developing web applications, graduate experience, or demonstrated success in development with DrugDev Spark or equivalent system
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -360,7 +438,13 @@ Skills related to software development for enterprise search engines:
 
 
 
-+ ***data pipeline and workflow management tools: Azkaban, Luigi, Airflow***
++ skill set:
+	- ***You are humble, and play well with other people. You thrive in team settings, and exhibit excellent communication and collaboration skills. For example, offering constructive feedback in code reviews, writing user-centered documentation, and chatting with masterful use of text and emojis in Slack.***
+	- You thrive on solving problems for your customers through product-mindedness. You are comfortable with a little bit of ambiguity, and enjoy the opportunity to shape the future of the product.
+	- You are an experienced "T-shaped" software engineer exhibiting broad knowledge of the entire discipline with deeper specializations in a few areas such as architecture, design, test automation, front-end technologies, etc.
+	- You are internally driven by curiosity and continuous learning. You have proven that you can be entrusted with big decisions, and strive to bring understanding and empathy to the entire team.
+	- You can function effectively in a distributed team. This means you are reliable, you know when to ask for help, you invest in strong relationships with your colleagues, and you know yourself well enough to be accountable for your own self management.
++ 3+ years of experience working with agile at scale vs scaling agile solutions such as SAFe, LeSS, Nexus (or others).
 + infrastructure reliability, corporate production systems, user-facing services, production serving or DevOps
 + Experience with full-text search engines (Solr, Elasticsearch).
 	- [Solr](https://solr.apache.org/)
@@ -643,5 +727,46 @@ Skills related to software development for enterprise search engines:
 	- Cloud computing
 	- Cloud security
 	- DevOps
++ skill set:
+	- Requirements:
+		* The ability to quickly pick up new languages and technologies
+		* Experience with relational databases (MySQL, Postgres, etc.)
+		* Strong modern Perl and Python experience
+		* Software architecture and design
+		* Database normalization, profiling, and tuning
+		* Experience with at least one major platform (Linux, MacOS, Windows) and exposure to the others
+		* The ability to write clean, well-tested code with clear documentation
+		* Excellent written and spoken skills, both technical and non-technical
+		* A willingness to engage in the process of defining our work through conversations with product management, other engineering teams, and the rest of the company
+		* The ability to help others on the team become better at their jobs through mentoring, thoughtful code reviews, and generally being a team player
+	- Assets
+		* Agile processes, including breaking large projects up into smaller stories, estimation, working in branches (GitHub Flow), code review, and CI/CD
+		* Microservices and message queues, especially Kafka
+		* Experience with one or more upstream language repositories (PyPI, RubyGems, CPAN)
+		* ETL experience
+		* Software estimation and planning
+		* Statistics and data analysis
+		* Testing large data sets via samples
+		* Good working knowledge of Docker
+		* Experience with Mesos, DCOS, Kubernetes
+		* Experience with Go and/or Bazel
+		* Experience with creating parsers, compilers, or code intelligence systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -34,6 +34,11 @@ Roles in computing security:
 
 + Ability to apply the ***MITRE ATT&CK and Killchain frameworks*** to security operations
 + skill set:
+	- Experience working with Single Sign On (SAML 2.0).
+	- Strong service oriented background including ability to multitask.
+	- Experience with Microsoft Windows domain environment including Active Directory.
+	- Familiarity with server virtualization and hosted infrastructure: AWS, Hyper-V, VMWare, clustering, high availability.
++ skill set:
 	- Experience Administering Okta
 		* identity and access management 
 	- Seasoned Experience with Systems Management Tools such as (meraki systems manager, jamf, kandji, etc.)
@@ -73,6 +78,7 @@ Roles in computing security:
 		* anti-malware
 		* security event testing
 	- security operations for cloud platforms
++ 3+ years of writing experience or experience in the technical field of security. Knowledge of Hadoop security concepts, especially that of Apache Ranger.
 + skill set:
 	- lead and execute all required audits and security practices:
 		* SOC2
@@ -102,6 +108,18 @@ Roles in computing security:
 	- Synthesize the analysis into dashboards or some form of reporting mechanism.
 + skill set:
 	- security O&M, security Operation & Maintenance, Operation & Maintenance security, O&M security
++ skill set:
+	- Design, deploy and operate cyber technologies in order to solve the security challenges in a technically diverse and complex environment
+	- Implement and develop in-house security tools and integrate open-source solutions
+	- Perform POCs and remain up-to-date and knowledgeable in regard to the latest security trends and emerging technologies
+	- In-depth knowledge of security concepts, architecture and methodologies from end to end perspective
+	- Strong background in most of the following topics: SIEM, Firewalls, IPS, NAC, EDR, DLP, OS Hardening, Vulnerability Management
+	- Knowledge with security aspects of networking, operating systems (Windows, Linux) and virtualization
+	- Coding/scripting capabilities – shell scripts (Python preferred)
+	- Self-motivated and an autodidact
+	- Team player
+	- Familiarity with working in DevOps oriented environment (Jenkins, OpenStack, Salt and Dockers) - Advantage
+	- Hold a professional certification in good standing (CISSP, GSEC) - Advantage
 + skill set:
 	- Research and design data security and privacy protection technologies in the cloud computing environment, including cloud data security storage, recovery and audit, cloud data processing and access control, cloud data deduplication and deletion, security data services related to cloud computing and big data, and junk information identification and filtering of big data.
 	- Lead compliance management of cloud data security and privacy protection. Identify data security and privacy protection risks, design a cloud data security governance framework, provide feasible security solutions, track identified risks, and perform post-event evaluation.
@@ -556,6 +574,22 @@ Roles in computing security:
 
 
 
+
++ skill set:
+	- Principal Security Architect will develop a strategic direction for the security-related architecture of Lattice products, working closely with FPGA system and architecture experts to advance the company's presence within security-sensitive systems
+	- Reduce risks, threats, and vulnerabilities in systems built with Lattice products
+	- Drive Lattice's roadmap for data and design security within our programmable logic product line
+	- Meet with customers and ecosystem partners to ensure requirements are understood, implementations are sound, and the broader ecosystem is moving to meet the future challenges
+	- Coordinate across functional business units to ensure robust, secure posture from design to implementation
+	- Represent Lattice at industry forums related to data and design security
+	- Coordinate development of tools, methods, and training to support staff in achieving security objectives and ensure effectiveness of security standards
+	- Will partner closely with engineering, sales, marketing, applications, and end to end customers
+	- Strong customer facing skills
+	- Expert knowledge/background in secure code authentication/attestation and chains of trust
+	- Experience in industry attack, vulnerabilities and solutions around design and data security
+	- Working knowledge of online service architectures for connected/IOT systems
+	- Well versed in Secure Architecture and Design fundamentals
+	- 10 years: 10+ years of experience in the hardware data security industry
 + skill set:
 	- GitHub is seeking a Security Solutions Architect for our Professional Services team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Security Solutions Architect you will have a direct impact on the security of some of the world’s largest code bases and the most commonly used applications. You will be a trusted consultant to the world's leading companies to assist them in transforming how they approach security in their software delivery life cycle. You will shape how they integrate security throughout their software delivery lifecycle. You will create a vision for these customers on how they can improve, and work closely with their stakeholders and teams to implement these changes.
 	- For this role, you can expect to spend about 60% of your time with customers on high-level details and driving Advanced Security adoption. The rest of the time is likely split between CodeQL and Advanced Security deployment.
@@ -958,6 +992,59 @@ Roles in computing security:
 	- You have excellent collaboration and communication skills;
 	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project;
 	- You have good programming skill in Java, R, Python
++ skill set:
+	- Serving in the role of Senior Security Researcher, you will have a direct impact on the direction of the company by researching threats, understanding how they appear on the network, reversing malware and helping technically shape the product direction.
+	- Perform leading edge security research – malware analysis, fuzzing, web-based threats, network/protocol analysis, etc. – and generate intelligence which will be incorporated into the product
+	- Create and enhance the company's security content framework, including malware intelligence and the process workflow
+	- Research new threat detection technologies and investigate approaches
+	- Apply your expert insights and experience in classifying new threats and mitigation techniques
+	- Collaborate across Vectra to identify new detection models – working hand-in-hand with members of the data science team
+	- Pursue security research topics that contribute to the knowledge and enumeration of new threats
+	- Provide an attackers-eye-view to the evidence presented by Vectra products and educate customers to the technical nature of the threat
+	- 5+ years direct experience in areas of security research, malware analysis, networking/system administration or software development
+	- 5+ years of attack and penetration testing experience
+	- Advanced technical degree
+	- Knowledgeable in exploitation technology such as shellcode, heap spray, ROP, etc.
+	- Knowledgeable in network and application protocols, and traffic analysis (network forensics)
+	- Proficiency with reverse engineering tools like standard debuggers, IDA pro, etc.
+	- Proficiency with network traffic analysis and network forensics tools such as Wireshark and tcpdump
+	- Proficiency with host forensics and memory analysis tools related to studying active exploitation
+	- Knowledge of corporate security investigation and incident response processes, along with malware detection and mitigation technologies
+	- Solid programming skills with scripting languages such as Python
+	- Deep working knowledge of networking and network application concepts: TCP/IP, HTTP, TLS, FTP, IRC, RPC, DNS, SMB, Kerberos, etc.
+	- Strong problem solving, troubleshooting and analysis skills
+	- Excellent written and verbal communication skills
+	- Excellent inter-personal and teamwork skills
+	- Proactive, hard-working team player with a good sense of humor
+	- Self-driven, able to efficiently work remotely without close supervision
+	- Professional or academic research in advanced security threats
+	- Operational experience in infosec as an incident handler, administrator, or internal consultant
+	- Experience with big data technologies such as Hadoop and Spark
+	- Participation in the broader infosec community with requisite contacts and access to external intelligence sources
+	- Understanding the lifecycle and economics of modern malware and advanced threats
++ skill set:
+	- close familiarity with ad tech
+	- familiarity with Thompson sampling, contextual bandits, and related techniques
+	- familiarity with privacy-preserving ML techniques
+	- familiarity with security and fraud prevention (optional)
+	- ability to read and understand scientific papers and to reduce research findings into practice
+	- experience with software development via distributed development teams
+	- comfortable working in an open source setting
+	- excellent written and verbal communication skills in English
+	- proven record of getting things done
+	- good knowledge of python, or other language for model training, working knowledge of  C++/Rust for browser components
+	- MS or PhD in Computer Science; we may consider a related quantitative discipline in exceptional cases
++ skill set for Visiting Professor at Brave:
+	- San Francisco, London, Remote
+	- Brave is looking for visiting professors to join Brave for both short and long-term projects, especially in the summer. We are interested in having productive and well-published researchers working with us in the following areas:
+		* software and hardware security
+		* software reliability
+		* privacy
+		* blockchain
+		* cryptography
+		* performance
+		* privacy-preserving machine learning
+	- We are open to both local (San Francisco and London) arrangements. Candidates should expect to engage closely with researchers and engineers, but also to publish.
 + skill set:
 	- BLAH.
 + skill set:

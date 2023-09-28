@@ -17,7 +17,7 @@
 	- CSA, Connectivity Standards Alliance (formerly the Zigbee Alliance) or Cloud Security Alliance
 	- ISTA, International Safe Transit Association
 		* about package testing or packaging testing
-
++ Key Performance Indicator (KPI) definition and propagation. Uses statistical inference to determine what KPIs are truly impactful to our customer engagement and adoption efforts. Work cross-functionally to make sure these KPIs are available for all relevant data sources and business units.
 
 
 
@@ -76,6 +76,13 @@
 	- Experience in large scale data processing leveraging frameworks like Hadoop, Map/Reduce etc.
 	- Experience of persistence with relational and NoSQL data stores.
 	- Excellent team player with the ability to work within a collaborative environment.
++ skill set:
+	- Work with product management to help define requirements for new high value features for customers
+	- Help break down and plan work for your team
+	- Help continue to grow the team through interviewing and hiring
+	- Mentor and grow team members both technically and non-technically
+	- Participate in architecture discussions and guide the technical direction of the team
+	- Ensure smooth delivery of software with automated tests in a modern CI toolchain
 + skill set:
 	- BLAH.
 + skill set:

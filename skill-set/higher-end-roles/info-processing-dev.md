@@ -892,6 +892,24 @@ reactive programming = asynchronous dataflow programming
 	- 3+ years of industry experience with image processing and camera pipeline algorithm development and optimization.
 	- Location: Taipei/Hsinchu/USA_San Diego/Shenzhen/Zhuhai
 + skill set:
+	- Design and verification of the Image/Video processing algorithm
+	- AI based pattern recognition, video scaling, video frame interpolation, video enhancement algorithm design.
+	- Knowledge in deep learning theory
+	- Experience building system based on deep-learning framework
+	- Familiar with at least one of AI platforms, such as TensorFlow, PyTorch, Caffee, Keras, etc.
+	- Solid mathematics fundamentals
+	- Knowledge in image/video processing algorithm (preferred)
+	- Knowledge in c/c++ and python; Master degree or Ph.D.
++ skill set:
+	- Co-work with Architect team and Algorithm team to launch Image/Video processing product
+	- Design and verification of the Image/Video processing engine
+	- Image/Video Algorithm integrating, optimization, analysis
+	- Familiar with ffmpeg, x264,x265,vp8/vp9
+	- Experience of developing product with ffmpeg
+	- linux c/c++ environment programming
+	- parallel programming
+	- Basic understanding about video codec and post-processing
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1159,6 +1177,18 @@ These skill sets for extended reality, includes skill sets for the following:
 + Working knowledge of HMD (ie Oculus, HTC Vive, Hololens)
 	- head-mounted display
 + Experience with Hololens, HTC Vive, Oculus, Google Cardboard and other leading AR/VR platforms
++ skill set:
+	- 2+ years of experience with C/C++/C#/Objective C or Java
+	- Intermediate-level expertise and experience working in Maya, Blender, or 3ds Max
+	- Intermediate-level expertise and experience working in Adobe Creative Cloud applications.
+	- Programming and/or scripting experience
+	- Experience with the latest mixed reality hardware (HoloLens, Leap Motion, Vive/Rift/PSVR/Daydream) a plus
+	- Amazing attention to detail, self-motivated and collaborative
+	- Passion for creating new, innovative, and ground-breaking user experiences
+	- Excellent communication skills (written and verbal)
+	- User interface and rapid prototyping experience
+	- Understanding of computer vision algorithms, spatial mapping, shaders
+	- Possess new technology curiosity and a history of self-technical education
 + skill set:
 	- BLAH.
 + skill set:

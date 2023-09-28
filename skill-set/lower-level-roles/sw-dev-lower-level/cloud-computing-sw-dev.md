@@ -218,6 +218,28 @@ Notes on cloud computing:
 
 
 + We are ***cloud agnostic*** and run our infrastructure and systems on Azure, AWS, as well as dedicated servers.
++ cloud computing platforms:
+	- Oracle Cloud
+	- Tencent Cloud
+	- Google Cloud Platform, GCP
+	- Amazon Web Services, AWS
+	- Microsoft Azure
+	- Salesforce Cloud
+	- SAP Cloud
+	- Alibaba Cloud
+	- VMware Cloud
+	- IBM Cloud / Red Hat
++ cloud computing products:
+	- Microsoft Azure Container Instances
+	- AWS Lambda
+	- Amazon EC2
+	- Amazon Elastic Container Service
+	- Google Cloud Functions
+	- Azure Functions
+	- Google Cloud App Engine
+	- Google Cloud Run
+	- Azure Cloud Services
+	- Google Cloud Compute Engine
 + OpenStack:
 	- Dashboard (Horizon)
 	- Compute Service (Nova)
@@ -290,6 +312,24 @@ Notes on cloud computing:
 + Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
 + knowledge of various issues in the field of cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)
 + skill set:
+	- Monitor and Metrics gathering (Prometheus, StackDriver ...)
+		* Prometheus:
+			+ monitoring system with time series database
+			+ for event monitoring and alerting
+		* Google Cloud's operations suite (formerly StackDriver)
+			+ integrated monitoring, logging, and trace managed services for applications and systems running on Google Cloud, and beyond
+			+ monitor and check the health of the cloud resources and application
+	- Experience with HashiCorp tools - Vault, Consul, Nomad
+		* for cloud computing infrastructure automation
+		* Vagrant: use virtualization technology to build and maintain reproducible software development environments
+		* Consul: provides service mesh, DNS-based service discovery, distributed KV storage, RPC, and event propogation
+		* Terraform: instructure as code software
+		* Vault: secrets management; identity-based access; encrypting application data; and auditing secrets of applications, systems, and users
+	- Experience with NixOS
+		* *NixOS*:
+			+ Linux distribution based on *Nix*
+			+ *Nix*: for package management and system configuration; and making reproducible, declarative, and reliable systems
++ skill set:
 	- continuous integration/delivery (CI/CD) methodologies and practices
 	- develop open-source, scalable simulation and virtualization environments
 	- contribute to open-source frameworks
@@ -321,6 +361,11 @@ Notes on cloud computing:
 	- Platform infrastructure to create finer granularity for cost of services across the platform for static and dynamic resource consumption
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
 + Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
++ skill set:
+	- ***Competence with industry-standard tools like: Git, npm, JIRA, Docker, etc.***
+	- Comfortable with Cloud services, specifically AWS services (in particular: ECS, EC2, S3, ECR) and their respective APIs, is a major plus.
+	- Experience building for SaaS/PaaS and distributed applications.
+	- Intimate knowledge of web services and building and interacting with REST APIs is essential.
 + skill set:
 	- 2+ years of cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)
 	- Familiarity with Continuous Integration tools (e.g., Jenkins, Travis)
@@ -366,6 +411,17 @@ Notes on cloud computing:
 	- In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
 	- Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
 	- Storage systems
++ Comfortable with AWS/Azure/On Premiss  deployments, networking, and security best practices.
++ skill set:
+	- Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage
+	- Operating knowledge of cloud computing platforms (AWS/Azure ML)
+	- Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and Hadoop ecosystem components -- Hive, Spark, HBase, Storm, Kafka etc.
++ skill set:
+	- Write APIs that handle millions of calls every day. Work with modern backend technologies like Node.js, GraphQL, Redis, and Elasticsearch.
+	- Build completely serverless systems on top of AWS services like Lambda, Kinesis, and Api Gateway. At Bustle, we are always trying out the latest and greatest that AWS and competitors have to offer.
+	- Write clean, functional, reusable, and testable "ES Next" code through tooling with Babel and TypeScript.
+	- Eager to improve the areas in which you live and work. (Code, Processes, Communication)
+	- Comfortable with cloud infrastructure (Google Cloud or AWS)
 + skill set:
 	- Senior Software Engineer - Backend (Remote)
 	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
@@ -474,6 +530,27 @@ Notes on cloud computing:
 	- Great understanding of software development life-cycle;
 	- Excellent written and verbal communication skills. Must be able to clearly articulate ideas and concepts to fellow engineers and management;
 	- A true team player, willing to work within a multi-culture organization.
++ skill set:
+	- Working with our automation team to improve tooling
+	- Deploying network infrastructure to our globally-distributed data centers
+	- Experience working with network vendor hardware/software including Arista, Cisco (IOS XR), or Juniper
+	- Experience working with typical layer-2 and -3 protocols (e.g., BGP, OSPF, VRRP, IS-IS)
+	- Experience supporting and troubleshooting global backbone networks
+	- Experience working on, building, and troubleshooting large-scale datacenter networks
+	- Understanding of peering and transit and their roles on the Internet
+	- Understanding of overlay and underlay networking concepts
+	- The ability to function independently on routine tasks and project work
+	- Good Linux/UNIX skills. Experience in Python or similar language is a plus
+	- Experience with network automation solutions including Ansible or Salt, NAPALM and OpenConfig is a plus
+	- Experience with MPLS, specifically BGP-LU and RSVP-TE is a plus
++ skill set:
+	- Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop (YARN, MR, HDFS) and associated technologies -- one or more of Hive, Sqoop, Avro, Flume, Oozie, Zookeeper, etc..
+	- Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage.
+	- Operating knowledge of cloud computing platforms (AWS/Azure ML)
+	- Grasp at databases including RDBMS, NoSQL, MongoDB etc.
++ skill set:
+	- Knowledge of variety and advanced architecture, tools and concepts across all layers of the modern distributed technology stack (Hadoop, Spark, Kafka, Cassandra, MongoDB and similar)
+	- Knowledge and experience in cloud architectures and cloud tools (Azure/GCP/AWS)
 + skill set:
 	- Senior Software Engineer, Cloud Database (Remote, EMEA)
 	- Grafana Cloud is our composable observability platform that integrates metrics, logs, and traces with Grafana. It allows our customers to leverage the best open source observability software – including Prometheus, Mimir, Loki, and Tempo – without the overhead of installing, maintaining and scaling their own observability stack
@@ -1005,6 +1082,30 @@ IaaS:
 	- ***Terraform***
 	- https://en.wikipedia.org/wiki/Infrastructure_as_code
 + skill set:
+	- Strong foundation in Infrastructure as Code and configuration management using tools like Terraform, SaltStack, Ansible, Chef, Puppet
+	- Knowledge of Internet engineering fundamentals (load balancing, DNS, CDNs)
+	- Experience with monitoring, metrics, and logging tools (Graphite, Grafana, Nagios/Icinga, SumoLogic, etc.)
+	- Experience with continuous integration and deployment (Jenkins, GitLab, CircleCI, etc.)
+	- Experience performing root cause analysis and troubleshooting and resolving production issues
+	- Obsession with code quality, task tracking, and writing documentation and runbooks that allow globally-distributed engineers to understand and support the infrastructure.
++ skill set:
+	- Architect, build, and operate AWS environments using infra-as-code best practices
+	- Define and implement standards around the utilization of AWS services
+	- Migrate on-premise services to AWS
+	- Help define AWS account structure, IAM, and AWS account security standards
+	- Collaborate with engineers to deploy, support, and monitor the application stacks
+	- Lead in the improvement of  the availability and scalability of our infrastructure
+	- Requirements:
+		* 3+ years of experience with AWS, including but not limited to heavy experience with IAM, VPC, EC2, ALB, S3, CloudWatch, Cloudfront, and Cloudformation
+		* Experience building well architected environments in AWS
+		* Demonstrable experience leveraging Configuration Management tooling such as Anisble, Cloudformation, Terraform, and proven strategies for maintaining large infrastructure-as-code deployments
+		* Systems Administration experience with Linux and/or Windows and the automation/scripting of operations within those OS environments
+		* Experience with container runtime environments, and container orchestration frameworks such as Docker or Kubernetes
+	- Experience with Python in either a software engineering or devops environment
+	- A solid understanding of network protocols and common services
+	- Experience and knowledge of Git and JIRA
+	- Experience with monitoring tools such as New Relic, Cloudwatch, or Datadog
++ skill set:
 	- 10+ Years of professional software engineering experience in building large-scale distributed systems
 	- Strong hands-on experience in developing applications in one or more language stacks: Java, Python, Go
 	- Strong experience in building platform-level shared libraries, frameworks, components, tools and services
@@ -1253,6 +1354,26 @@ Notes about Software as a Service, SaaS:
 		* How you apply DDD, BDD, and design for testability to collaborate with colleagues across diverse disciplines to design, implement, and evolve high-quality custom software that solves specific customer problems.
 		* Your use of event-brokers, which programming languages you used, and how that has informed your approach to design, modeling, and implementation of custom software systems.
 		* How you have taken on the challenges inherent in a commitment to continuous improvement.
++ skill set:
+	- Advanced understanding of OOPS
+	- Knowledge of SDL (Software development Lifecycle)
+	- Experience of working in Agile environment
+	- Good at Code review and design review
+	- Ability to design for scale and Performance
+	- Solid problem solving skills
+	- Experience with hands-on programming
+	- Expertise in data structures and algorithms
+	- A background in Engineering with sound oral and written communication skills
+	- Degree in Computer Science or equivalent practical experience
+	- Experience with large-scale systems
+	- Intermediate knowledge of Ruby on Rails
+	- Prior experience with AWS
+	- Experience with open-source projects
+	- Experience troubleshooting in a SaaS environment with an assertive deployment schedule
+	- Experience in leading engineering team
++ skill set:
+	- Experience troubleshooting in a SaaS environment with an assertive deployment schedule
+	- Experience building large-scale performant services
 + skill set:
 	- BLAH.
 + skill set:

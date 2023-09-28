@@ -1035,6 +1035,94 @@ reactive programming = asynchronous dataflow programming
 	- Strong problem-solving and analytical skills, with the ability to tackle complex technical challenges.
 	- Excellent communication and teamwork skills, with the ability to collaborate effectively with cross-functional teams.
 	- Knowledge of cloud platforms (e.g., AWS, Azure, GCP) and experience with containerization (e.g., Docker) is a plus.
++ Here are some of the key technologies used to build our document management platform and its applications.
+	- Server: REST, Scala, SQL, Java
+	- Client: JavaScript, React, HTML5, Less/CSS, Kendo UI, webpack
+	- Database & Search: PostgreSQL, Solr
+	- Build Automation: sbt, webpack, Bamboo
+	- Tools & Infrastructure: JIRA, Crucible+Fisheye, git, nexus
+	- Technical/functional expertise.
++ skill set:
+	- Java (Spring Boot, Java EE)
+	- Google Cloud Platform
+	- Relational Databases (MySQL, PostgreSQL, BigQuery)
+	- REST and OpenAPI
+	- JavaScript (AngularJS)
+	- TypeScript (Angular)
+	- 12-factor application model
+	- Bash
+	- Git
+	- WDL (Cromwell)
+	- Microservices, Docker, and Kubernetes
+	- Continuous deployment
++ skill set:
+	- Node.js or Python, JavaScript, HTML, CSS. Experience with at least one major web framework (django / symfony / express or others)
+	- Decent knowledge of modern frontend framework or libraries, preferably React
+	- Voracious appetite for learning
+	- Experience with Elastic Search or alternative search data technology, managing significant amount of data
+	- Advanced experience with AWS (Lambda, DynamoDB, EC2, etc.) with particular focus on scalability.
+	- Previous experience with CI/CD, preferably with Jenkins, deploying multiple times a day to production.
+	- Experience with CapnProto or BRO logging format is a plus.
++ skill set:
+	- Database hands-on experience (MySQL, couchdb, ElasticSearch, etc.)
+	- Understand modern web app architecture and be able to develop features in JavaScript as well as implement the Python-based web server APIs that field requests and responses.
+	- Excellent collaboration skills are required due to the cross functional communication necessary to help build the product.
+	- Experience with Python, JavaScript, and a modern web framework (e.g. Ember, React, etc.)
+	- Database hands-on experience (MySQL, couchdb, ElasticSearch, etc.)
+	- Experience with Python web framework (e.g. Django)
+	- Familiarity with web-based data visualization libraries (e.g. D3.js)
+	- Understanding of semantic markup (HTML) and web styling
+	- Knowledge of web language abstractions, such as ES6/ES2018, CSS preprocessors, etc.
++ Skilled in Spark , JavaScript, Hadoop, Vertica, HBase, Angular, React, Docker, Kubernetes – advantage
++ skill set:
+	- Experience in developing and maintaining SQL databases and writing SQL queries; NoSQL (MongoDB) experience preferred but not required
+	- Experience establishing and maintaining AWS, Google Cloud, Heroku, Tableau or similar cloud-based environments
+	- Background in extracting and storing data from APIs preferred but not required
+	- Knowledge of HTML, CSS and JS and lightweight web frameworks such as Django, Flask
++ Experience in the technologies we use is helpful but not required. They are: Go for core infrastructure; ObjC, Java and C# for native UI development on iOS, OSX, Android and Windows; Node.js and IcedCoffeeScript for Web development; FUSE for client file systems; MySQL/InnoDB, DynamoDB, S3 and EC2 for hosting.
++ skill set:
+	- Spring framework (Spring Boot, Spring Cloud)
+	- NoSQL and relational databases (MongoDB, Postgres)
+	- Be a team player and open for new technologies and challenges
+	- Gradle
+	- Unix/Linux
+	- Docker
+	- Terraform
+	- AWS
+	- Microservices
+	- Frontend development (JS, React, CSS)
++ skill set:
+	- Backend technologies such as Java (min 8)
+	- Frontend technologies such as React JS
+	- Building a CI/CD pipeline
+	- Technologies we also use: Git, Jenkins, AWS, Terraform
++ Experience working with Golang, Ruby, Docker, Sinatra, Rails, Postgres, MongoDB or Redshift.
++ skill set:
+	- Desire to work in a fast-paced, fluid environment
+	- Analytical mind with problem-solving aptitude
+	- Ability to work independently
+	- Knowledge of at least one of Ruby/Rails, Golang, JavaScript, Elixir, or Java, with an appetite for learning
+	- Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks
+	- In-depth knowledge of relational databases (e.g. PostgreSQL, MySQL) and NoSQL databases
+	- Experience with large-scale systems
+	- Working knowledge of Docker and Kubernetes, as well as Google Cloud
+	- Grasp of Terraform
++ skill set:
+	- In-depth, hands-on knowledge of JavaScript and experience working with the relevant tools/libraries (React, jQuery, Webpack, etc)
+	- Able to write efficient SQL queries and design schemas for relational databases
+	- Experience with Python and web frameworks (Pyramid, Django, Rails, etc)
++ skill set:
+	- The Pocket Casts team is looking for an experienced full stack engineer to join our team in a full time capacity. If successful you'll be working on everything from our new web front ends to our rapidly expanding backend microservices.
+	- At least 5 years of experience in server side programming languages such as Java or Kotlin.
+	- Strong database skills, with knowledge of Cassandra or similar NoSQL databases a big plus.
+	- Web development skills with HTML, Javascript and CSS.
+	- Deep knowledge of Linux based terminal commands and processes.
+	- Strong focus on unit testing and integration testing.
+	- Communication and interpersonal skills are a must.
+	- Interest and exposure to other programming languages and frameworks such as Kotlin, Vertx and Ruby on Rails.
+	- Experience building servers and services at scale.
+	- Front end development experience in React or similar Javascript frameworks.
+	- Knowledge or experience with The Box, The Box II or The Box III Gavin Belson Signature Edition.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1093,6 +1181,9 @@ reactive programming = asynchronous dataflow programming
 	- Experience with Docker/Containerization
 	- Experience with Django
 	- Experience in a micro-service architecture
++ skill set:
+	- Ability to leverage structured formats like JSON, YAML, XML to build scalable, testable RESTful applications
+	- Experience with NoSQL technologies like CouchDB, Redis
 + skill set:
 	- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).
 	- Commercial experience with REST, RPC and message exchange protocols.
@@ -1202,6 +1293,9 @@ reactive programming = asynchronous dataflow programming
 		* Working in a multi-functional, team-based environment, our culture is enabling and engaging
 		* You’ll be exposed to a range of technologies with the opportunity to expand your experience and expertise
 		* IDBS has the camaraderie of a small company, but the security of a global employer, we offer flexible career paths, exciting work, and the opportunity to both learn from others and share your experiences.
++ skill set:
+	- Deep understanding of micro-services architecture, Kubernetes & Docker
+	- Deep understanding of designing No-SQL databases (such as: MongoDb, Redis, etc.)
 + skill set:
 	- We are actively looking for an experienced Platform Software Engineer and Java, C++, Python software engineers to join our team on a Machine Learning developer tools software project. This role requires experience identifying and/or developing and integrating technology components for local/cloud Machine Learning development tools platform that includes rich visual development ML-based intelligent agents. Must be able to work with Agile product delivery team. Effective communicator who can collaborate with architects, Front End developers, and User Experience designers to produce necessary documentation based on the code created.
 	- Analyze, design, and develop the platform components.
@@ -1319,6 +1413,24 @@ reactive programming = asynchronous dataflow programming
 	- Familiarity with A/B testing, blue-green environments, and canary deployments.
 	- Strong verbal and written communication skills.
 	- Interest in information security is a plus.
++ skill set:
+	+ Hadoop
+	+ OOZIE
+	+ Hive
+	+ HBase
+	+ Druid
+	+ Kafka
+	+ Spark
+	+ Storm
+	+ ATS, or AWS???
+	+ Java
+	+ Jetty
+	+ Kubernetes
+	+ Docker
+	+ MySQL
+	+ Jenkins
+	+ Git
+	+ tools and technologies for CI/CD, configuration, monitoring and alerting management.
 + skill set:
 	- Principal Software Engineer
 	- Operate as the technical lead of multiple teams within Platform Observability. This person will lead the technical roadmap and vision spanning 12+ months which will provide significant innovation and customer-impact.
@@ -2178,6 +2290,33 @@ reactive programming = asynchronous dataflow programming
 	- Play an active role in recruiting future talent for the team.
 + GraphQL, Docker, Hashistack, Traefik, HUbot, InfluxDB
 + skill set:
+	- Back End: We write lots of micro-services, primarily with Java 8. Our APIs are RESTful and use the minimal Dropwizard framework. We take advantage of Kafka, Spark, Hadoop for processing volumes of data.
+	- Front End: Our web applications are complex, single-page apps written in JavaScript (React, ECMAScript 6, Sass).
+	- Core Data, Infrastructure, & Reliability: Building the systems that power thousands of services with Singularity on Apache Mesos, and empowering access to massive datasets with HBase, Elastic Search, ZooKeeper, Redis, MySQL, and Memcached.
++ skill set:
+	- Good understanding of SQLAlchemy, data modelling, Alembic, Postgres.
+		* SQLAlchemy: Python SQL toolkit
+			+ Object Relational Mapper
+		* Alembic: lightweight database migration tool, for use with SQLAlchemy database toolkit for Python
+	- Understanding of RESTful APIs and web services.
+	- Experience of working with Flask (or similar web framework)
+		* framework for developing Web applications
+	- Previous experience with scrum and Jira.
++ skill set:
+	- Experience working in an Agile environment using Test Driven Development (TDD) and Continuous Integration (CI)
+	- Experience refactoring code with scale and production in mind.
+	- Proficient in Scala, Java and SQL
+	- Strong experience with Apache Spark, Hive/Impala and HDFS
+	- Familiar with Python, Unix/Linux, Git, Jenkins, JUnit and ScalaTest
+	- Experience with integration of data from multiple data sources
+	- Experience with NoSQL databases, such as HBase, Cassandra, MongoDB
+	- Experience with any of the following distributions of Hadoop - Cloudera/MapR/Hortonworks.
+	- Other functional Languages such as Haskell and Clojure
+	- Big Data ML toolkits such as Mahout, SparkML and H2O
+	- Apache Kafka, Apache Ignite and Druid
+	- Container technologies such as Docker
+	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -2240,6 +2379,8 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
++ Nice to Know: React, React native, Ruby/Rails, GraphQL, apollo
 * ES6
 	- Javascript ES6
 	- The ECMAScript language includes structured, dynamic, functional, and prototype-based features. Imperative and structured ECMAScript JavaScript supports C style structured programming.
@@ -2335,6 +2476,12 @@ reactive programming = asynchronous dataflow programming
 	- Knowledge of CSS, HTML, XML, Flash, JavaScript.
 + Good knowledge in Java, Typescript and/or Angular
 + skill set:
+	- Experience with modern web frameworks, like Django, Flask, or Rails (Ruby)
+	- Experience with modern Javascript technologies like Node.js, React, Webpack and ESLint plugins
+	- Culture of code reviews and collaborating closely with other people (not a solo hacker)
+	- You are familiar with translation management/memory tools.
+	- Continuous integration & continuous deployment of localized product experience.
++ skill set:
 	- Software Engineer, Front End
 	- Splunk builds software that lets you search, report, monitor and analyze live-streaming and historical data across the entire data spectrum, from IT to Marketing to Operations, all from one place and in real time. Getting a vast variety of extensive data in and ready for analysis is never easy.
 	- The Enterprise Dashboards team strives to simplify the creation and consumption of dashboards and reports by both advanced and beginner users in Splunk Enterprise and Splunk Cloud, and to create tools and resources that aid in making beautiful, operational, and actionable dashboards in order to democratize insights from Splunk data to the wider customer organization.
@@ -2380,6 +2527,11 @@ reactive programming = asynchronous dataflow programming
 	- In-depth experience in standard testing approaches (unit, smoke, integration, etc)
 	- Experience in an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, etc.)
 	- Passionate about design and user experience
++ skill set:
+	- Knowledge of web language abstractions (Babel, Sass, etc.)
+	- Experience developing bespoke data visualizations with D3.js
+	- Understanding of resource-driven API structure
+	- Experience developing complex single-page applications with a UI framework (e.g. Ember, Angular, React, Vue)
 + skill set:
 	- Software Engineer III, Web Experiences - Front End (US Remote)
 	- Splunk is looking for an enthusiastic and innovative front-end engineer to work closely with product owners and designers to build consolidated customer-facing web applications to administer, monitor, and manage all aspects of the Splunk portfolio both on-premises and in the Cloud.

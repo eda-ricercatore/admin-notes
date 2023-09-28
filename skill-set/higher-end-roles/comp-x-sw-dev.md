@@ -526,6 +526,7 @@ Emerging technologies that would be interesting application domains of computati
 		* Distributed systems and/or high-performance computing
 		* CUDA or OpenCL
 		* Python
++ ***topological data analysis and graph network***
 + skill set:
 	- BLAH.
 + skill set:
@@ -1508,6 +1509,7 @@ Skill set for software development for computational fluid dynamics, CFD:
 Skill set for software development for parallel programming, especially on heterogeneous computing platforms (e.g., heterogeneous computer system architectures that support multiple instruction set architectures, ISAs, including ISAs for domain-specific computing) and high-performance computing (HPC):
 + Published papers (e.g. in Supercomputing, IPDPS, or PPOPP) and/or open-source code that demonstrate your skills in writing fast code.
 + Familiarity with GPU computing (CUDA, OpenCL) is preferred
++ After CUDA, learn OpenACC before OpenCL.
 + skill set:
 	- Multi-GPU software development engineer
 	- Design, develop and debug multi-GPU drivers and software
@@ -1572,6 +1574,7 @@ Skill set for software development for parallel programming, especially on heter
 	- Experience in parallel programming models (e.g. OpenMP) is a plus
 	- Excellent communication and writing skills in English
 + Demonstrated expertise with C++ with at least one of std::thread / OpenCL / CUDA
++ Experience with Hadoop/Hbase/Pig or MapReduce/Sawzall/Bigtable
 + skill set:
 	- BLAH.
 + skill set:

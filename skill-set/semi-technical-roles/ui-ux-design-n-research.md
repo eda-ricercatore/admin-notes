@@ -33,6 +33,7 @@ Types of interfaces:
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
 + Highly skilled in using design tools such as Adobe Creative Suite, Figma, Sketch and/or Invision
++ You enjoy building UIs with modern tools like ES6, React, Mobx, Webpack, etc..
 + skill set:
 	- Senior Software Engineer - UI (Remote)
 	- We are seeking a Senior Software Engineer to help design, develop and deliver our Security Intelligence solution. The service collects security threats at scale from external sources. It detects unknown threats by running innovative stream processing and machine learning algorithms in near real-time, on vast amounts of internally collected data and signals.
@@ -203,6 +204,25 @@ Types of interfaces:
 + Research UX and stay up to date on UI/UX methodologies.
 + You are experienced with InVision Studio, Sketch, Adobe XD or Figma
 + skill set:
+	- Accurat is looking for UX / UI design intern to be included in the design team of the Milan office.
+	- Our ideal candidate knows:
+		* imagine, design and collaborate with data viz and development teams to create effective and innovative user experiences;
+		* interact and design solutions with customers that can satisfy both explicit and unidentified needs.
+	- Our ideal candidate has:
+		* interest and propensity to learn work dynamics in an international company, dealing with highly innovative and experimental projects;
+		* an academic background in visual design, UX / UI design;
+		* experience in the design and implementation of interfaces and user experience;
+		* excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
+	- Also welcome:
+		* knowledge of software for creating interactive prototypes (Framer, Invision ...);
+		* experience in the use of visual mapping tools such as Plectica;
+		* experience in type design and editorial design;
+		* talent or predisposition for vector and / or raster illustration.
++ skill set:
+	- Proficient in one or more of the Conversation/UX design tools (IBM Watson Content hub, IBM digital experience manager, Botsociety, MS Visio, Sayspring Flinto, UxPin, Omnigraffle, proto.IO, MockFlow etc.)
+	-  Strong understanding of the NLP space and Voice based processing (Natural language Processing, understanding, sentiment analysis, Intent classification, dialogue flows, personality insight, Text to Speech, Speech to Text, )
+	-  Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -341,6 +361,22 @@ Quantitative UX research methods:
 
 ###	Skill Sets for UX Research
 
+
+
++ skill set:
+	- Familiarity with Ansible, TeamCity
+		* Ansible:
+			+ automate:
+				- provisioning
+				- configuration management
+				- application deployment
+				- orchestration
+		* TeamCity: CI/CD, maintain CI server to automate the pipeline, reports information about build time and disk usage
+	- Experience with BrowserStack; GraphQL, React, NodeJS
+		* BrowserStack: framework for cross-browser software testing
+	- Experience writing Splunk queries and tools like New Relic
+		* Splunk: search, monitor, and analyze machine-generated data via Web-style interface
+		* New Relic: Web tracking and analytics, track user interactions and service operators' software and hardware performance
 + skill set:
 	- Interest in using data and user research to inform product decisions. Experience with effective A/B testing is a plus.
 	- Ability to think holistically about a complex, social product, and map big picture metrics to a realistic actionable plan.

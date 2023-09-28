@@ -101,6 +101,7 @@
 + skill set:
 	- Experience with asynchronous I/O and coroutines
 	- Experience with event driven service architecture
++ Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as DNS, TCP/IP, or BGP work, and will probably have managed their own Linux machines)
 + advanced level experience with key network-infrastructure technologies, design/implementation, protocols, standards, capacity planning, management, and best practices
 	- BCP
 	- DMVPN
@@ -153,10 +154,34 @@
 		* variety of network routing algorithms
 + Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
 + Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
++ Complex routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN
++ skill set:
+	- cPanel, Apache, Nginx, CEPH, Virtualization (KVM)
+	- PHP Configuration, MySQL Configuration (Postgres a plus), WordPress Configuration,
+	- Exim, Zabbix, OpenStack, Content Delivery Networks, DNS Management (PowerDNS),
+	- Hardware Configuration, Network Configuration, Linux Kernel Configuration, Malware
+	- Detection/Mitigation, FTP, Hardware & Software RAID (LSI, 3Ware, MDADM), & backup technologies at scale
 + Knowledge of routing protocols such as BGP and OSPF
 + Experience with network technologies like DNS, AWS security groups, VPCs, etc.
 	- VPC: virtual private cloud
 + Experience with load balancing technologies such as ELB, NGINX, etc.
++ skill set:
+	- Cloudera is looking for a highly experienced software engineer with strong expertise in Java development and specialty in platform architecture to join the Data In Motion - Flow Management team focusing on [NiFi](https://nifi.apache.org/)
+		* ***Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.***
+	- Lead architecture, design, and implementation of a platform for managing usage of components
+	- Collaborate with other Data In Motion component teams to develop highly integrated solutions
+	- Work closely with UX and front end teams
+	- Interact with product teams to help define roadmap and shape technology
+	- Work closely with open source projects in Apache NiFi and other ecosystem projects
++ skill set:
+	- Experience with Jira or any ticketing management systems
+	- Understanding of AWS-VPC and basics of TCP and Routing.
+	- Experience with large-scale distributed systems
++ skill set:
+	- Experience in Monitoring tools like Nagios, New Relic, and Splunk
+	- Strong understanding of DNS, DHCP, NTP, SMTP, TCP/IP, SSH, HTTPS, TLS, IPSec, concepts of VPN and other internet protocols
+	- Experience in Application and Database level Monitoring and Troubleshooting (like Apache, Tomcat, and MySQL)
+	- Experience in Application & Infrastructure Monitoring (Nagios, New Relic, Datadog, Splunk, Sumologic, etc...)
 + skill set:
 	- As a Network Engineer you will be responsible for the design, implementation, and support for the network within the OVHcloud environment.  You will be required to understand application and hardware points of failure, performance characteristics and have the ability to identify actionable items to maintain an acceptable service level for all associated environments and applications.  You will be required to participate in an on-call rotation and serve as top-level support for network related issues. 
 	- Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.

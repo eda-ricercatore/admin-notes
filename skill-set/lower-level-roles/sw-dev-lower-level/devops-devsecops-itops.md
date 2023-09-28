@@ -78,6 +78,7 @@ DevOps is at the intersection of:
 
 
 Skill set for DevOps:
++ Kubernetes, the open source system for managing containerized applications across multiple hosts
 + Experience working with tools like Jenkins, Bamboo, Ansible, SonarQube, Artifactory.
 + Familiar with Docker, Conan, JFrog
 + Exposure to container technologies - container orchestrators (Kubernetes, Mesos, Docker Swarm Mode) is a plus
@@ -99,6 +100,10 @@ Skill set for DevOps:
 	- Agile development (Scrum) experience
 	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
 	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
++ skill set:
+	- Familiarity with ETL/ELT and related techniques
+	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
+	- Prior experience in adtech or martech
 + skill set:
 	- Experience with system level monitoring tools such as Nagios or Zabbix and application performance monitoring tools such as NewRelic, AppDynamics or Dynatrace.
 	- Understand configuration management tools such as Puppet, Chef or Ansible.
@@ -147,6 +152,37 @@ Skill set for DevOps:
 		* XPath/XSLT
 			+ XPath: XML Path Language, used with extensible stylesheet language transformations, XSLT
 				- extensible stylesheet language, XSL
++ skill set:
+	- Experience with a Data Warehouse (Redshift, Snowflake, etc) and data analysis using SQL
+	- Experience with ETL and Data Integration Platforms like Mulesoft, SnapLogic and Airflow
+	- Experience in at least one programming language (e.g. R, Python, Java, Ruby, Scala/Spark, or Go)
+	- Understanding of data modeling, performance analysis and production DB migrations
+	- Familiar with SFDC, Netsuite and Workday data models
+	- Develop pub/sub, streaming and batch data loads into our Data warehouse (Snowflake)
+	- Design scalable integrations with our product management teams that move key business data between our big rocks (SFDC, Workday, Netsuite, Internal Systems)
+	- Experience with Looker, Tableau or other business intelligence platform
+	- Experience with platform data like SFDC, NetSuite, Workday
++ skill set:
+	- Familiarity with ETL/ELT and related techniques
+	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
+	- Prior experience in adtech or martech
++ skill set:
+	- Troubleshooting and resolving technical support requests created by our customers spanning a growing range of container products and services, including Managed Kubernetes and Container Registry
+	- Experience troubleshooting basic and advanced Kubernetes issues ranging from pods and deployments to the control plane
+	- Knowledge of kubectl, community projects such as helm, istio, linkerd, prometheus, NGINX ingress-controller, and similar software and utilities used to manage deployments
+	- Bonus: Certifications such as CKA and/or CKAD
+		* Certified Kubernetes Application Developer (CKAD)
+			+ From Cloud Native Computing Foundation (CNCF).
+		* Certified Kubernetes Administrator (CKA)
+			+ From Cloud Native Computing Foundation (CNCF).
+	- Bonus: Experience with one or more database engines (MySQL, MariaDB, PostgreSQL, Redis, MongoDB)
++ skill set:
+	- Experience deploying, scaling, and troubleshooting NodeJS, Python, and PHP applications in production
+	- Knowledge of the CI/CD pipeline and GitHub repositories, actions, and deployment workflows
+	- Growth mindset, with an unrelenting focus on improving your knowledge and skill set
+	- Highly self-motivated with the ability to work independently and collaboratively with a high degree of autonomy in a remote work environment
+	- Bonus: Experience troubleshooting basic and advanced Kubernetes issues, from pods and deployments to the control plane
+	- Bonus: Experience troubleshooting one or more database engines: MySQL, MariaDB, PostgreSQL, Redis, MongoDB
 + skill set for DevOps:
 	- Remote hardware administration with IPMI
 		* IPMI, intelligent platform management interface
@@ -195,6 +231,31 @@ Skill set for DevOps:
 + Knowledge of container (docker or others) and orchestration (K8S or others) technology is a plus
 + Familiarity with automated build systems such as Jenkins or buildbot.
 + skill set:
+	- Experience with the [Common Workflow Language (CWL)](https://www.commonwl.org/), [Arvados](https://arvados.org/), PERL, C++, AWS, Docker
+	- [Dockstore, developed by the Cancer Genome Collaboratory, is an open platform used by the GA4GH for sharing Docker-based tools described with the Common Workflow Language (CWL), the Workflow Description Language (WDL), or Nextflow (NFL)](https://dockstore.org/)
+	- [Nextflow](https://www.nextflow.io/)
+	- [Workflow Description Language (WDL)](https://software.broadinstitute.org/wdl/)
+	- https://fairsharing.org/bsg-s000606/
+	- https://dnastack.com/#/
+	- https://curoverse.com/about
++ Strong understanding of the Hadoop ecosystems (especially Kafka, Flume, Avro, Parquet, HBase, Hive, and Hue) and related technologies with +2 years of experience
++ skill set:
+	- Reviewing the ETL Design and Data Roadmap, and continuously improving the processes.
+	- Ensuring the ETL Codes are running and constantly improving/following the game features and Business Requirements.
+	- Analyzing, developing and defining data integration solutions related to big data storage;
+	- Applying data modeling, data design and implementation to support business requirements;
+	- Participating in all agile development lifecycle activities: estimating, planning, designing, developing, documenting and testing;
+	- A minimum of 3 years of professional experience in Data Transformation (ETL) and systems integration processes.
+	- A deep understanding of Data flow, Database and data transformation principles (Big data and object storage concepts knowledge considered a major asset).
+	- Knowledge of big data environment is an asset (Kafka, Databricks, Vertica, Others)
++ skill set:
+	- Assisting developers to apply best practices to ensure fully working test, training and production environments using Gitlab-CI, Docker, Ansible.
+	- Designing, building and maintaining CI/CD, testing, and operations infrastructure for our systems.
+	- 5 years of DevOps experience, both building end-to-end automated CI/CD pipelines, as well as application and operations support. This experience should include hard-core hands-on Linux admin, networking, security, and AWS experience in a dev-through-production environment.
+	- A proven track record of excellent customer service delivery, including working with developers, ops, and users to troubleshoot and resolve challenging problems in a timely manner, and being an embedded DevOps member of an application scrum team, as well as requirements gathering, design, project planning, and implementation of DevOps process and tooling.
+	- Strong architectural level of understanding of software, networks, security, and operations, with the knowledge and know-how to influence software and operations design and process.
+	- Strong hands-on familiarity with infrastructure automation tools such as Jenkins, GoCD, Terraform, Artifactory/Nexus, Ansible, Puppet, Chef, InSpec, etc.
++ skill set:
 	- Proxmox, KVM virtualization, LXC and Docker containers
 	- large scale object storage (Ceph, cloud-based object storages)
 	- Puppet
@@ -224,6 +285,10 @@ Skill set for DevOps:
 	- Scalable data processing techniques: Kafka, Spark, ElasticSearch, Celery
 	- Real-time messaging and NoSQL infrastructures: Redis, RabbitMQ
 	- Have proven experience with ORMs (e.g. Django) and RDBMS (e.g. MySQL) including development of complex SQL queries.
++ skill set:
+	- Experience with Devops tools such as Jenkins, Nagios/icinga, Ansible, hashicorp vault.
+	- Experience with Docker, Kubernetes is required.
++ Orchestration platforms for containers (i.e. Docker, Kubernetes, Swarm or ECS)
 + skill set:
 	- What You’ll Do:
 		* Be a key member of the Anaconda Enterprise team
@@ -285,6 +350,15 @@ Skill set for DevOps:
 	- Good understanding of Deep learning, Computer Vision, NLP is plus
 	- Familiarity with ML framework (Tensorflow/Tensorflow-Lite/Pytorch) is plus
 	- In addition to the above, if you have rich experience in software automation and testing, and good system debugging and integration capability in large scale software systems, you are the professional we are looking for!
++ skill set:
+	- Use your understanding of the Hadoop eco-system to build reliable and scalable automated systems for validating Cloudera products.
+	- Work with our world-class development team to define new tools and tooling features that assist in triaging and debugging test failures.
+	- Work with cross component teams and be an effective team player.
+	- Experience developing in a containerized, Kubernetes environment
+	- Experience with Kibana, Elastic Search, Ansible, and Helm a plus
+	- Prefer familiarity with large-scale distributed systems and/or data management systems
+	- Experience working with open source automation tools and familiarity with Git, Maven, Gerrit a plus
+	- Experience with Apache Hadoop and its related technologies a big plus
 + skill set:
 	- configuration management and orchestration tools:
 		* Ansible
@@ -600,6 +674,22 @@ Skill set for DevOps:
 		* YAML = Yet Another Markup Language, YAML Ain't Markup Language
 		* YAML CRD
 			+ For Kubernetes, CRD = custom resource definition.
++ Experience with Hadoop, Vertica, HBase, Spark.
++ Experience with Docker, AWS, and CircleCI is a bonus.
++ skill set:
+	- Experience with Docker, Kubernetes, ceph, AWS a plus
+	- Comfortable around data stores, MySQL, PostgreSQL and Redis a plus
+	- You appreciate a well-designed REST API
+	- You calmly triage production issues across microservices and approach the creation of software with a DevOps mindset
++ skill set:
+	- Experience with build infrastructure (e.g. Jenkins), and build tools (e.g. Maven, Ant, Make, CMake, etc)
+	- In-depth knowledge of version control systems
+	- Infrastructure as code mindset
+	- Experience with infrastructure design and operations (monitoring, alerting, BDR)
+	- Experience with provisioning clusters on Amazon EC2, and/or Google Compute
+	- Experience with private/public clouds, virtualization technologies (VMWare, KVM, or similar) and container technologies (Docker, Kubernetes)
+	- Familiarity with concepts of InfoSec/AppSec
++ Comfortable with most of the following: linux, python, docker, kubernetes
 + skill set:
 	- Experience with Kubernetes and Docker.
 	- Experience with Elasticsearch, Redis and/or Memcached.
@@ -1801,7 +1891,7 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 
 
 
-
+Skill sets for Site Reliability Engineering, SRE:
 + skill set:
 	- ArgoCD
 	- AlloyDB / PostgreSQL
@@ -1844,6 +1934,16 @@ Layers of a pyramid for Site Reliability Engineering (SRE).
 	- Extensive understanding of Unix/Linux systems from kernel to shell and beyond (system libraries, file systems, and client-server protocols).
 	- 8+ years of experience as a Site Reliability Engineer, Production Engineer or Backend Software Engineer for web-scale or similar platforms.
 	- BS degrees in Computer Science or related technical field, or equivalent practical experience.
++ skill set:
+	- Support and improve our customer Insights Platform by operating and extending the Open Source software we depend on (Prometheus, Thanos, Grafana).
+	- Work closely with other product teams to enhance product offerings and improve our customer's observability.
+	- Automate as much of the operational work as possible to allow time for innovation.
+	- Working with exciting technologies such as Kubernetes, Prometheus/Thanos, Go, Docker, Kafka, ScyllaDB, and more.
+	- Proficiency in at least one of the following languages: Go, C/C++, Java, Python, Ruby. We primarily use Go, but sometimes we need to extend systems written in other languages such as Java.
+	- A willingness to dive into configuration management, deployment automation, and instrumentation.
+	- An appreciation of SRE principles, along with utilizing data and automation to improve systems.
+	- Excellent communication skills. We work intimately with product teams to ensure our customers have the observability they need to be successful on our platform.
+	- We value development. You will work with some of the smartest and most interesting people in the industry. We are a high-performance organization that is always challenging ourselves to continuously grow. We maintain a growth mindset in everything we do and invest deeply in employee development through formalized mentorship, LinkedIn Learning tracks, and other internal programs. We also provide all employees with reimbursement for relevant conferences, training, and education.
 + skill set:
 	- Principal Site Reliability Engineer, Splunk Observability - remote Spain
 	- The Splunk Observability Suite is a new generation of cloud applications for microservices and distributed applications. We work on new, world-class tools to monitor and observe microservice-based applications. Site Reliability Engineers at Splunk are hybrid Software/Systems Engineers whose overarching goal is to ensure that production services are always up and running reliably.

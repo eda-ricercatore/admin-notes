@@ -93,6 +93,7 @@ Technologies and skills for MIS:
 
 Skill set for management of information systems, MIS, including data analyst roles:
 + ***Refactor SQL code based on our best-in-class, in-house style guide.***
++ GraphQL experience is a plus
 + database systems:
 	- PostgreSQL database management system
 + Interact with MySQL data stores and NSQ messaging queues.
@@ -431,6 +432,15 @@ Skill set for management of information systems, MIS, including data analyst rol
 	- Preferred Qualifications
 		* Experience conducting statistical analysis using Python / R (or equivalent)
 		* Experience developing and maintaining ETLs (Airflow experience is a big plus)
++ skill set:
+	- Familiarity with NOSQL storage (MongoDB, Redis, Elastic, etc.)
+	- A strong background in relational database theory and excellent knowledge of Relational Databases (Postgres, MySQL, SQL server, Oracle)
++ skill set:
+	- Experience in defining and implementing MDM data models, matching rules, Duplicate Match Review processing, Match-Merge Rules, Workflow Configuration, complex hierarchy relationship management and data governance.
+		* MDM, master data management
+		* MDM, metadata management
+		* MDM, mobile device management
+	- System endurance improvement through root cause analysis (RCA), fixes and deployment support
 + skill set:
 	- ClickHouse columnar databases
 	- Spring Boot

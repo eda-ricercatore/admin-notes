@@ -180,6 +180,19 @@ Skill set for roles in digital VLSI verification:
 + Familiar with the principle of debugger, such as: ***OpenOCD***.
 + A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
 + skill set:
+	- System Verilog, Verilog, UVM/VMM
+	- Experience in at system level and block level verification.
+	- Expert in System Verilog and OVM/UVM based verification.
+	- Strong experience in ASIC design/validation experience in front end processes including RTL development, functional and performance verification.
+	- Expert in coding SV Testbench, drivers, monitors, scoreboards, checkers
+	- Experience in C/C++,Shell/Perl scripting.
+	- Understanding of AHB, AXI and other bus protocols and system architecture is a plus.
+	- Preferred Expertise in MIPI UniPro/UFS Protocol and UVM.
+	- To help the team to verify the existing design (UFS/UniPro)
+	- Help on improving the Functional & code coverage, by identifying critical issues & helping the team with new ideas.
+	- Expertise in verification of design blocks (IP) for system-on-chip (SoC) components.
+	- Preferable: Experience in one/more of the following areas PCI_Express, USB, SATA, SDIO, MIPI and /or AMBA standards (OCP, AXI, AHB etc.)
++ skill set:
 	- Verification of Tenstorrent's digital IP and SOC logic, using advanced verification methodologies - UVM, FPGA prototyping, emulation
 	- Creation of test plans
 	- Writing testbenches, checkers and tests, models, assertions and irritators
@@ -891,6 +904,26 @@ Skill set for roles in VLSI testing:
 	- Excellent problem solving and debugging skills
 	- Well organized and excellent communication skills
 	- BS/MS in Electrical Engineering or Computer Science + 4-10 years' experience
++ skill set:
+	- Interface with design team to ensure DFT design rules and guidelines are met.
+	- Understanding of different fault models such as stuck-at, transition and path-delay fault models.
+	- Understanding of JTAG, Boundary Scan, IJTAG, MBIST architecture and Mentor MBIST&Repair methodology
+	- Understanding of Scan Compresssion & ATPG process
+	- Understanding of timing and related tools.
+	- Ability to analyze MBIST, ATPG DRC/Simulation failures.
+	- Ability to analyze DFT timing violation
+	- Scripting skills in perl/tcl
+	- Experience in Silicon MBIST/ATPG pattern Bring up and Silicon Failure Analysis
+	- Prefer to have experience in system failure analysis
+	- Design Implementation CAD tools:
+	- Synopsys DC & DFT compiler, DFT MAX, Tetramax, Mentor (LogicVision) JTAG/MBIST/Memory Repair.
+	- Simulation tool: synopsys VCS & Cadence NC-Verilog.
+	- Waveform debug: both novas and simvision.
+	- Timing:  primeTime & cadence tempus
+	- Silicon bring up:
+	- Understand ATE ATPG test pattern format: STIL (WGL)
+	- Understand JTAG SVF format.
+	- Experience in Mentor LogicVison CPUBIST bring up.
 + skill set:
 	- BLAH.
 + skill set:
