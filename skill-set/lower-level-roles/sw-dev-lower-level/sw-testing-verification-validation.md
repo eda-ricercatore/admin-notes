@@ -12,6 +12,10 @@
 
 
 
++ skill set:
+	- Familiarity with pytest, unittest, or nose
+		* Nose, a Python unit test framework
+	- Experience with one or more of Cython, Jupyter Notebook widgets
 + Familiar with gtest, python unittest or other testing frameworks.
 + Use of online tools such as Userzoom, usertesting.com and Optimal Workshop a plus
 + Familiarity with common web application testing tools for DAST, SAST, and IAST analysis such as Burp Suite, Checkmarx, Veracode
@@ -28,6 +32,7 @@
 	- Experience working with compiled programing languages (e.g. Go, Rust, C++, C# or Java) and SQL databases (any)
 	- Experience building and shipping on-premise enterprise software
 	- Experience with information security -- either via certifications (CISSP, CEH, etc.) or professional experience (security audit, pentesting, etc.)
++ Bonus points for experience / familiarity with front-end testing (Jest, Cypress, Selenium), Docker, Kubernetes, GCP/AWS, infrastructure automation (chef/puppet/ansible)
 + skill set:
 	- Senior Software Engineer, Identity
 	- The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for. 

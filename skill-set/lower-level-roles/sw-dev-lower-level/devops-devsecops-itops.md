@@ -101,9 +101,13 @@ Skill set for DevOps:
 	- Other preferred experience includes working with DevOps practices, SaaS, IaaS, code management (CodeCommit, git), deployment tools (CodeBuild, CodeDeploy, Jenkins, Shell scripting), and Continuous Delivery
 	- Primary AWS development skills include S3, IAM, Lambda, RDS, Kinesis, APIGateway, Redshift, EMR, Glue, and CloudFormation
 + skill set:
-	- Familiarity with ETL/ELT and related techniques
-	- Exposure to CI / CD (with either Docker, Kubernetes, SaltStack or Jenkins)
-	- Prior experience in adtech or martech
+	- monitoring tools including New Relic, Splunk, and SignalFX;
+	- Apache Camel Messaging Services
+	- JBoss
+	- build tools, including ANT, Maven, and Gradle
+	- UML
++ Buildroot
+	- Buildroot is a set of Makefiles and patches that simplifies and automates the process of building a complete and bootable Linux environment for an embedded system, while using cross-compilation to allow building for multiple target platforms on a single Linux-based development system. Buildroot can automatically build the required cross-compilation toolchain, create a root file system, compile a Linux kernel image, and generate a boot loader for the targeted embedded system, or it can perform any independent combination of these steps.
 + skill set:
 	- Experience with system level monitoring tools such as Nagios or Zabbix and application performance monitoring tools such as NewRelic, AppDynamics or Dynatrace.
 	- Understand configuration management tools such as Puppet, Chef or Ansible.
@@ -255,6 +259,8 @@ Skill set for DevOps:
 	- A proven track record of excellent customer service delivery, including working with developers, ops, and users to troubleshoot and resolve challenging problems in a timely manner, and being an embedded DevOps member of an application scrum team, as well as requirements gathering, design, project planning, and implementation of DevOps process and tooling.
 	- Strong architectural level of understanding of software, networks, security, and operations, with the knowledge and know-how to influence software and operations design and process.
 	- Strong hands-on familiarity with infrastructure automation tools such as Jenkins, GoCD, Terraform, Artifactory/Nexus, Ansible, Puppet, Chef, InSpec, etc.
++ Experience in the development, test, deployment and administration of one of the following types of systems: Ngnix, Kubernetes, Docker, OpenStack, Hadoop, Spark, Flink, etc. is preferred
++ Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, Presto, Flume, Kafka, ClickHouse, Flink etc.)
 + skill set:
 	- Proxmox, KVM virtualization, LXC and Docker containers
 	- large scale object storage (Ceph, cloud-based object storages)

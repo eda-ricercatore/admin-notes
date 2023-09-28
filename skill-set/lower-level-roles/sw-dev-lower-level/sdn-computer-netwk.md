@@ -87,6 +87,7 @@
 
 
 + Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
++ 5+ years of experience building large-scale software and distributed systems in \*nix environments and with technologies that run the internet such as TLS, HTTP (1/1.1, 2, QUIC/3), TCP,UDP, IP, anycast, multicast, and unicast routing.
 + gRPC, open-source remote procedure call system
 + skill set:
 	- Candidates should have a solid background with standard networking protocols (TCP, RPC, UDP, IPSec), low-latency protocols (RDMA, RMA) and Clustering.
@@ -102,6 +103,26 @@
 	- Experience with asynchronous I/O and coroutines
 	- Experience with event driven service architecture
 + Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as DNS, TCP/IP, or BGP work, and will probably have managed their own Linux machines)
++ WebRTC
+	- WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs).
++ skill set:
+	- High-demand large-scale production environments
+	- BGP, MPLS, and RSVP configuration and management
+	- Internal routing protocols such as ISIS and OSPF
+	- Cloud deployments such as GCP and AWS
+	- Multiple hardware platforms such as Juniper, Arista, and Cisco
+	- Packet analysis and flow monitoring tools
+	- Scripting in Python or equivalent to automate operational tasks
+	- Strong documentation and interpersonal skills
++ skill set:
+	- Deep knowledge of TCP/UDP and IP routing
+	- Knowledge of Linux internals, TCP/IP, DNS, Load Balancing technologies
+	- Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+	- Knowledge of cloud compute technologies, network monitoring, data processing and analytics
+	- Experience with datacenter monitoring, service oriented systems, micro-services
+	- Experience with network automation, dynamic routing, SNMP, network telemetry
+	- Exposure to Grafana, Prometheus, ElasticSearch and other distributed platforms
+	- Aptitude to be a good team player and willingness to learn and implement new technologies as needed
 + advanced level experience with key network-infrastructure technologies, design/implementation, protocols, standards, capacity planning, management, and best practices
 	- BCP
 	- DMVPN

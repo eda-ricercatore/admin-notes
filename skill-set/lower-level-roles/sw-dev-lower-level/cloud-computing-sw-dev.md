@@ -350,13 +350,16 @@ Notes on cloud computing:
 	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
 	- Revolutionizing how data pipelines are built through Kafka Connect
 	- Running all of the above in our very own elastic, scalable cloud offering
++ skill set:
+	- Knowledge of relational database technologies such as Oracle, SQL Server, SQLite, or Postgres
+	- Understanding of cloud computing platforms and database services such as Amazon's Relational Database Service and Azure SQL Database
 + ZABBIX, Python, API, Ansible, Terraform, and AWS cloud.
 	- Zabbix is an open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services.
 	- Ansible is a suite of software tools that enables infrastructure as code.
 	- Terraform is an infrastructure-as-code software tool created by HashiCorp.
 + skill set:
 	- Sr Principle Software Engineer - Cloud Platform
-	- Splunk is on a journey to be a SAAS data analytics platform. We have built platform 1.0 hosting Splunk developed application verticals like security, observability, IT Ops and others. It’s still early days, plenty of technology to be created and new challenges emerge every week. A person in this role can help us find directional alignment, influence simplicity of designs and create iterative value without getting bogged down by “everything else” that needs to get done. You know how to prioritize ruthlessly under internal/external pressures while keeping an eye on the prize. We can find domain experts comfortable in their prior experience to apply on the job, we can also get generalist not afraid to tinker with anyones closely held beliefs but what we really want is someone who uses the right tools for the right occasion. We value technology leaders who elevate the whole ecosystem around them (people, process and product) while building cool technology needed for the day. You are completely at ease with deeply understanding and driving business requirements, at times generating them as needed. You can influence from early engineers to senior VP’s from product and engineering. You are equally comfortable hands on and know when to go deep to advance a project and when to delegate and let the team take over. If you thrive in managed chaos and like to bring order, you will find yourself right at home. Some specific areas we are building in the platform:
+	- Splunk is on a journey to be a SAAS data analytics platform. We have built platform 1.0 hosting Splunk developed application verticals like security, observability, IT Ops and others. It's still early days, plenty of technology to be created and new challenges emerge every week. A person in this role can help us find directional alignment, influence simplicity of designs and create iterative value without getting bogged down by “everything else” that needs to get done. You know how to prioritize ruthlessly under internal/external pressures while keeping an eye on the prize. We can find domain experts comfortable in their prior experience to apply on the job, we can also get generalist not afraid to tinker with anyones closely held beliefs but what we really want is someone who uses the right tools for the right occasion. We value technology leaders who elevate the whole ecosystem around them (people, process and product) while building cool technology needed for the day. You are completely at ease with deeply understanding and driving business requirements, at times generating them as needed. You can influence from early engineers to senior VP's from product and engineering. You are equally comfortable hands on and know when to go deep to advance a project and when to delegate and let the team take over. If you thrive in managed chaos and like to bring order, you will find yourself right at home. Some specific areas we are building in the platform:
 	- Unified metering and billing services for the platform as we shift towards consumption based pricing for our product portfolio
 	- Platform infrastructure to create finer granularity for cost of services across the platform for static and dynamic resource consumption
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
@@ -480,10 +483,10 @@ Notes on cloud computing:
 	- 2+ years experience using a messaging system, such as Apache Kafka, Pulsar or equivalent
 + skill set:
 	- Sr Software Engineer - Cloud Infrastructure
-	- Splunk’s Cloud Infrastructure organization builds robust and resilient auto-scaling platform solutions for hosting Splunk's enterprise software. The teams are fast-paced, high-velocity, and use state-of-the-art technology. The focus is always on automation, solving complex challenges that span across multiple groups within Splunk, ensuring smooth and expedient services to Splunk users.
-	- Splunk's Cloud Infrastructure team helps scale and secure our new global SaaS offerings.  We need experienced Software Engineers (various levels) to help lead, design and build the internet traffic management systems that will power Splunk’s next generation SaaS platform.
+	- Splunk's Cloud Infrastructure organization builds robust and resilient auto-scaling platform solutions for hosting Splunk's enterprise software. The teams are fast-paced, high-velocity, and use state-of-the-art technology. The focus is always on automation, solving complex challenges that span across multiple groups within Splunk, ensuring smooth and expedient services to Splunk users.
+	- Splunk's Cloud Infrastructure team helps scale and secure our new global SaaS offerings.  We need experienced Software Engineers (various levels) to help lead, design and build the internet traffic management systems that will power Splunk's next generation SaaS platform.
 	- We have a substantial AWS and Kubernetes presence of large-scale containerized systems. This is an incredible opportunity to utilize your existing cloud experience and drive the growth of the Splunk Cloud.
-	- Develop and deploy software that will help drive improvements towards the availability, performance, efficiency, and security of Splunk’s services. Technologies include L4/L7 Networking,  DNS, Load Balancers, API Gateways, Kubernetes, and TLS infrastructure for securing network communication.
+	- Develop and deploy software that will help drive improvements towards the availability, performance, efficiency, and security of Splunk's services. Technologies include L4/L7 Networking,  DNS, Load Balancers, API Gateways, Kubernetes, and TLS infrastructure for securing network communication.
 	- Work with Cloud providers on integrating their networking products into our ecosystem. You will be developing and extending a control plane to scale and secure cloud networks on various cloud computing platforms (Amazon AWS, Google Cloud Platform, Microsoft Azure).
 	- Drive for automation. You are passionate about adopting and mastering new technologies that will help you automate routine tasks and free up time for innovation. You will be utilizing a variety of languages used in systems programming, ranging from Go/Python to Terraform.
 	- Knowledge of technical excellence. You'll routinely use continuous delivery, testing and security best practices.
@@ -495,10 +498,10 @@ Notes on cloud computing:
 	- Have distributed systems design experience and integrate multiple systems using enterprise integration patterns and standard methodologies.
 	- You are proficient in coding in Python/Go.
 	- Ability to coach/mentor junior engineers on the team, provide technical direction, perform design/code reviews and champion engineering best practices.
-	- 5+ years of relevant industry experience; Bachelor’s degree in Computer Science, Computer Engineering or equivalent work experience.
+	- 5+ years of relevant industry experience; Bachelor's degree in Computer Science, Computer Engineering or equivalent work experience.
 	- Opportunities to develop and grow as an engineer. We are always expanding into new areas, working with open-source projects and contributing back, and exploring new technologies.
 	- A team of incredibly capable and dedicated peers, all the way from engineering to product management and customer support.
-	- Breadth and depth. You are interested to work on an area that dynamically scales to meet the needs of Splunk’s cloud offering. You want to go deep into optimizing how we automate every manual process and tedious task we encounter.
+	- Breadth and depth. You are interested to work on an area that dynamically scales to meet the needs of Splunk's cloud offering. You want to go deep into optimizing how we automate every manual process and tedious task we encounter.
 	- Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.
 	- A stable, collaborative, and supportive work environment. We work in an open environment, work together to get things done, and adapt to the changing needs for the team. We keep it real by being open and honest. We are a collaborative team that understands the value in open communication—it's how we interact with our customers.
 	- Balance. We don't expect people to work 12 hour days. We want you to be successful outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment, and believe that balance helps cultivate a positive environment.
@@ -518,7 +521,7 @@ Notes on cloud computing:
 		* IB-verbs
 		* Libfabric
 + skill set:
-	- The Futurewei Cloud Networking team is responsible for the design and implementation of Futurewei's Next Generation Cloud Virtual Network services including Virtual Private Cloud, Elastic Load Balancer, and Elastic IP, among others. We are looking for experienced architects and full-stack software developers who are passionate about cloud technology and are eager to build world-class networking solutions for the public cloud from the ground up.  The job responsibilities, depending on your prior work experiences, are ranging from designing architecture of l3-l7 layer network infrastructure services, to ensure the architectural integrity and successful delivery including but not limited to the development, testing, and operation in support of Futurewei’s Cloud Networking system. If this challenge sounds like a good fit for you, please reach out to us. Let's together build something brand new and change the sky with Futurewei Cloud.
+	- The Futurewei Cloud Networking team is responsible for the design and implementation of Futurewei's Next Generation Cloud Virtual Network services including Virtual Private Cloud, Elastic Load Balancer, and Elastic IP, among others. We are looking for experienced architects and full-stack software developers who are passionate about cloud technology and are eager to build world-class networking solutions for the public cloud from the ground up.  The job responsibilities, depending on your prior work experiences, are ranging from designing architecture of l3-l7 layer network infrastructure services, to ensure the architectural integrity and successful delivery including but not limited to the development, testing, and operation in support of Futurewei's Cloud Networking system. If this challenge sounds like a good fit for you, please reach out to us. Let's together build something brand new and change the sky with Futurewei Cloud.
 	- 8+ years of IT experience or 5+ years of experience with a large-scale public/private cloud provider
 	- Excellent coding ability (preferably Java or C++) and problem-solving skills;
 	- Familiarity with network virtualization, SDN, container, L3 and above; Network infrastructure service (VPC/LB/NAT/VPN, etc. ) design and development experience is highly preferred;
@@ -555,22 +558,22 @@ Notes on cloud computing:
 	- Senior Software Engineer, Cloud Database (Remote, EMEA)
 	- Grafana Cloud is our composable observability platform that integrates metrics, logs, and traces with Grafana. It allows our customers to leverage the best open source observability software – including Prometheus, Mimir, Loki, and Tempo – without the overhead of installing, maintaining and scaling their own observability stack
 	- The Databases team owns the telemetry databases that are Mimir for metrics, Loki for logs, and Tempo for traces. All of our databases are OSS projects that we also offer as a Cloud service supporting Grafana Cloud and as an on-premise solution. They are multi-tenant distributed systems implemented in Go and running on Kubernetes across all major Cloud providers (GCP, Azure, AWS). We also have engineers working on Prometheus, Grafana Agent, and the Mimir proxies.
-	- As a company we are remote-first and global, we embrace people of different experiences and backgrounds to build diverse teams where every person brings a new perspective to the software. Our tech stack is mostly made up of services written in Go, running on multiple Kubernetes clusters that leverage Google’s Cloud Platform.
+	- As a company we are remote-first and global, we embrace people of different experiences and backgrounds to build diverse teams where every person brings a new perspective to the software. Our tech stack is mostly made up of services written in Go, running on multiple Kubernetes clusters that leverage Google's Cloud Platform.
 	- Take an active role in influencing our roadmap and your own career objectives 
 	- Work with your team to deliver new features, then use the results to iterate and improve.
 	- Drive projects from initial ideation all the way to operations once it is in the hands of customers
-	- Embrace our open-source culture and contribute to other projects that may not directly fall within your team’s scope
+	- Embrace our open-source culture and contribute to other projects that may not directly fall within your team's scope
 	- Design, build, operate, and maintain critical systems, owning the reliability, performance, and availability
-	- Be a part of your team’s on-call rotations and take ownership of the services you’re running
+	- Be a part of your team's on-call rotations and take ownership of the services you're running
 	- Mentor and support other team members, participate in design discussions and collaborate with the team
 	- Learn new skills by gaining a deeper understanding of our cloud product and our customers and getting to know the codebase of a large distributed system
 	- As we are remote-first and our engineering organization is largely remote, we provide guidance and meet regularly using video calls, so an independent attitude and good communication skills are a must.
 	- You are a motivated self starter with a bias towards action
-	- You are customer focused. We build everything with our users in mind. You have a passion for creating intuitive products that fit customers’ needs 
+	- You are customer focused. We build everything with our users in mind. You have a passion for creating intuitive products that fit customers' needs 
 	- Pragmatism. You are able to take on complex challenges and break them down to achieve tight learning loops: to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively
-	- Collaboration and communication: The smallest unit we have is a team. You’ll be working with your teammates in a fully remote setup. Good communication skills are a must
+	- Collaboration and communication: The smallest unit we have is a team. You'll be working with your teammates in a fully remote setup. Good communication skills are a must
 	- Solid experience with at least one programming language. We use Go, but if you have familiarity with Python, C, C++, Rust or similar then that translates well
-	- Some experience with delivering projects from gathering requirements, brainstorming ideas all the way to shipping a product to the customer’s hands in a self-driven way
+	- Some experience with delivering projects from gathering requirements, brainstorming ideas all the way to shipping a product to the customer's hands in a self-driven way
 	- Some experience with developing software that runs in the Cloud or some experience with systems engineering
 	- Experience writing clean, robust, and performant software that is easily maintained by others
 	- Experience working with Kubernetes
@@ -579,7 +582,7 @@ Notes on cloud computing:
 	- Familiarity with being on-call and perfoming operations/SRE tasks or with the concept of infrastructure as code
 + skill set:
 	- Software Engineer - Cloud
-	- As a Software Engineer, you'll be part of Splunk’s core cloud platform and responsible for designing and developing Kubernetes operators that manage our Streaming, Messaging, Searching, Indexing workloads. Be part of a small closely-knit team in the Bay Area and have a large impact in crafting the team, technology, and a culture of excellence. You will be immersed in both microservices and core platforms as well as have exposure to the full portfolio of technology areas.
+	- As a Software Engineer, you'll be part of Splunk's core cloud platform and responsible for designing and developing Kubernetes operators that manage our Streaming, Messaging, Searching, Indexing workloads. Be part of a small closely-knit team in the Bay Area and have a large impact in crafting the team, technology, and a culture of excellence. You will be immersed in both microservices and core platforms as well as have exposure to the full portfolio of technology areas.
 	- You are an expert in distributed computing, cloud-native software architecture/development, and efficient in-memory algorithms. Initiative, passion, and commitment are your soft currency. You are excited to take on roles that provide new growth and learning opportunities. Finally, you enjoy working with highly collaborative teams and have fun doing your stuff!
 	- Design and develop algorithms/code for Splunk Enterprise roadmap for Cloud.
 	- Collaborate in a CI / CD development model for cloud-native deployments.
@@ -587,11 +590,11 @@ Notes on cloud computing:
 	- Analyze and improve performance, scalability, and reliability.
 	- Brainstorm and influence technical decision-making for features and architecture turns.
 	- Have fun and achieve your career goals.
-	- 5 years of related experience with a technical Bachelor’s degree; or equivalent practical experience
+	- 5 years of related experience with a technical Bachelor's degree; or equivalent practical experience
 	- Demonstrable foundation in data structures, algorithms, and software design for cloud-scale.
 	- Familiarity and experience with Microservices Architecture & AWS
 	- Familiarity in building cloud microservices and distributed systems in Golang.
-	- Familiarity with agile development models for cloud-native architectures (Microservices, automated CICD, RESTful API’s SOA, etc) at cloud scale.
+	- Familiarity with agile development models for cloud-native architectures (Microservices, automated CICD, RESTful API's SOA, etc) at cloud scale.
 	- Knowledge of networking protocol stacks (TCP/IP, HTTPx, DNS).
 	- Familiarity with Kubernetes, Docker, and AWS/GCP.
 + You have knowledge and experience with AWS services, like EC2, S3, etc.
@@ -622,7 +625,7 @@ Notes on cloud computing:
 	- You will play a critical role in being our innovative and passionate area lead architect that oversees the main front-end platform that powers splunk core platform.  You will help forge technical, design, product, and architecture direction for our hybrid strategy that stratifies cloud technologies with desktop web, native mobile, and future form factors that will connect the dots for success with our customers today.  You work across teams and organizations to ensure that the architecture and design are of high quality, stable, scalable and reliable. You will establish the technical architectural standards and drive the overall technical design and best engineering practices through design reviews, architecture reviews, hackathon activities, customer visits and engagement with Ecosystem Partners.
 	- Be a Technical Area Lead working with 175+ engineers
 	- Craft and execute the technical road map to develop the next generation hybrid cloud Application platform
-	- Integrate outstanding architecture principles and goals into the team’s projects through designs, implementation strategies, and project sequence
+	- Integrate outstanding architecture principles and goals into the team's projects through designs, implementation strategies, and project sequence
 	- Help grow, mentor, and shape engineering culture for engineering
 	- Work with product managers early on to craft product definition so that it can be built in a flexible, extensible, and robust way.
 	- Drive a culture of quality, technical curiosity, continuous improvement, and data-driven decision-making
@@ -633,7 +636,7 @@ Notes on cloud computing:
 	- ***Experience in multi-year transformation initiatives and playing a critical role***
 	- ***Experience in the visualization of large, sophisticated graph structures***
 	- Experience working on open-source projects
-	- Requires a minimum of 15 years of related experience with a technical bachelor’s degree; or 12 years and a technical Master’s degree; or a PhD with 8 years’ experience; or equivalent experience.
+	- Requires a minimum of 15 years of related experience with a technical bachelor's degree; or 12 years and a technical Master's degree; or a PhD with 8 years' experience; or equivalent experience.
 + Experience with queueing and streaming systems like Kafka, RabbitMQ, etc
 + Production experience with AWS tools including at least some of the following: EC2, S3, Kinesis, CloudFormation, Redshift
 + skill set:
@@ -839,11 +842,11 @@ Notes on cloud computing:
 	- Open source contributions to CNCF projects
 + skill set:
 	- Staff Software Engineer II
-	- Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favorite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That’s the power of data in motion in action—giving organizations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we’re building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can create a central nervous system to innovate and win in a digital-first world.
-	- We’re looking for self-motivated team members who crave a challenge and feel energized to roll up their sleeves and help realize Confluent’s enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you’re just starting out in your career or managing a large team, you’ll be amazed at the magnitude of your impact.
+	- Confluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Have you ever found a new favorite series on Netflix, picked up groceries curbside at Walmart, or paid for something using Square? That's the power of data in motion in action—giving organizations instant access to the massive amounts of data that is constantly flowing throughout their business. At Confluent, we're building the foundational platform for this new paradigm of data infrastructure. Our cloud-native offering is designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can create a central nervous system to innovate and win in a digital-first world.
+	- We're looking for self-motivated team members who crave a challenge and feel energized to roll up their sleeves and help realize Confluent's enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you're just starting out in your career or managing a large team, you'll be amazed at the magnitude of your impact.
 	- As Staff Engineer II of the new Compute Platform, you will be working closely with the team and other key stakeholders to design, architect and build out our secure, multi-tenant, polyglot, Cloud-native Compute substrate to enable new business opportunities across Confluent Cloud (including Connect, kSQLdb, Kafka and more) . As a senior technical leader, you think strategically and you help drive end-to-end technical delivery from customer experience to scaling internal operations. You are not confined to the status quo and you leverage your expertise in Cloud-native, large-scale distributed systems to help take our platform to the next level. You worry about key operational aspects (availability, reliability, performance, monitoring, emergency response, capacity planning, disaster recovery) of our new Compute Platform, and you make sure that we have a highly-available, resilient and secure offering that our largest customers can rely on. If you love the hum of big data systems, thinking about how to make them run as smoothly as possible, and want to have a big influence on the architecture plus operational design points of this new product, then you will fit right in.
 	- Be part of driving the overall technical charter for the new Compute Platform -- including, but not limited to cloud infrastructure, big data systems, and security
-	- Work closely with product management and engineering management to build and drive the overall roadmap for Confluent’s Compute Platform to enable new business opportunities
+	- Work closely with product management and engineering management to build and drive the overall roadmap for Confluent's Compute Platform to enable new business opportunities
 	- Deliver high impact to the business by driving important technical initiatives in areas comprising (but not limited to) security, reliability, multi-tenancy, architectural direction, and major component refactor across organizational boundaries
 	- Be as a strong technical leader and representative for engineering across the Connect organization
 	- Lead the team and the product on aspects of product definition, architectural design, and delivery
@@ -928,7 +931,7 @@ Notes on cloud computing:
 	- You'll collaborate and coordinate with Product Management team to implement features or fix bugs
 	- Innovate and contribute to product road map
 	- We hope that you have a passion for mentoring as you'll have the opportunity to lead software architecture and design processes.
-	- 5 years of related experience with a technical Bachelor’s degree; or equivalent practical experience;
+	- 5 years of related experience with a technical Bachelor's degree; or equivalent practical experience;
 	- Ability to own a set of product/service features, connectors, tests and/or modules using primarily Java on Apache Pulsar infrastructure in Linux environment.
 	- Excellent Java skills with distributed systems design and knowledge of OO programming practices.
 	- Familiarity with container technology such as Docker and Kubernetes
@@ -966,7 +969,7 @@ Notes on cloud computing:
 	- Proficient with development on multiple operating systems, such as Linux or Unix
 	- Able to learn new technologies quickly
 	- Capable of coordinating and coaching the junior members in the team
-	- Bachelor’s degree in Computer Science, Computer Engineering or equivalent
+	- Bachelor's degree in Computer Science, Computer Engineering or equivalent
 	- Experience with cloud technologies, such as AWS, Azure, or GCP. Ideally with certifications
 	- Experience with container technologies, such as Docker. Ideally with container orchestration such as Kubernetes or Docker Swarm
 	- Experience with stream processing platform, such as Flink, Spark or equivalent
@@ -1262,8 +1265,36 @@ Notes about Software as a Service, SaaS:
 
 + Collaborate with engineering and product teams to design, develop, and publish software supporting a highly available, fault-tolerant SaaS platform
 + skill set:
+	- Cloud engineering experience. AWS is preferred.
+	- Experience working with Kubernetes/Docker. Flux and Helm experience is preferred.
+	- Experience with tracing tools like Jaeger or Zipkin is preferred.
+	- Experience with Observability technologies, like Data Dog, Prometheus, and Grafana is a big plus.
+	- Treating cloud infrastructure as code by leveraging provisioning and configuration management tools such as Terraform and Ansible.
+	- Comfortable using common CI/CD tools such as TravisCI, Jenkins and Flux for application and infrastructure automation tasks.
+	- Providing engineers with the advice and tools they need to meaningfully monitor and alert on the services and features they develop, using tools like Prometheus/DataDog and PagerDuty.
+	- Collaborating with teammates and working cross-functionally with different engineering teams.
+	- Exploring and evaluating different open source tools.
+	- Knowledge of GitOps processes for driving auditable and repeatable changes to infrastructure
++ skill set:
+	- We're looking for a Research Engineer to join Snap Inc! You'll work with a small group in Snap Inc.'s Research team focused on experimenting and deploying new user experiences.
+	- Responsible for bringing ideas to life, you will be involved through the whole research process, from the design to the launch of a product. Our team develops new user experiences on both emerging and established platforms such as wearables, AR, voice, web, and mobile. Working closely with Research Scientists, you will develop prototypes that turn into scientific publications and transform those prototypes into real products that can impact millions of people every day.
+	- Architect, design, and implement software research prototypes
+	- Translate research prototypes into robust, lasting, and scalable products
+	- Assist Research Scientists on existing projects and collaborate with them on ideating new ones
+	- Iterate and learn new things quickly
+	- Bachelor's degree in a technical field such as Computer Science or equivalent experience
+	- 2+ years of full-stack software engineering experience in industry
+	- Significant experience in Python, Java, C# and/or C++
+	- Masters/PhD in a technical field such as Computer Science or equivalent experience
+	- Experience with cloud platforms such as Google Cloud and/or AWS
+	- Experience with Sketch, Figma and other design tools
+	- Hands-on experience and fast prototyping
+	- Demonstrated ability to build and ship software
+	- A collaborative, positive, and team-oriented mindset
+	- Experience building iOS and Android applications
++ skill set:
 	- Forward Deployed Software Engineer
-	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we're backed by leading computing and technology companies.
 	- We are looking for experienced software engineers eager to work directly with clients and build solutions tailored to their unique environments. This role requires a unique mix of technical skills, an entrepreneurial mindset, and product intuition. For engineers who seek to be customer-facing without sacrificing the technical components of an engineering role, this is your dream job!
 	- Customer Success: 
 		* Quickly onboard and orient to new codebases and systems 
@@ -1320,7 +1351,7 @@ Notes about Software as a Service, SaaS:
 	- You are not satisfied with mediocre cookie-cutter approaches. You thrive when challenged to step outside the familiar in order to design solutions that are tailored to user needs.
 	- Your experience with event-based application models and event brokers affords you insight into how those models and technologies offer distinct architectural advantages, how they are best applied, and, just as important, when they are not good fits.
 	- You are eager to practice your passion for domain-driven design and BDD by collaborating on an interdisciplinary team as we iterate on the solutions to customer problems that will benefit from the advantages of the neutral-atom quantum computing platform.
-	- Your approach to writing code is informed by the DDD patterns that pertain to the relationships between bounded contexts as well as the insights you’ve gained in practicing design for testability.
+	- Your approach to writing code is informed by the DDD patterns that pertain to the relationships between bounded contexts as well as the insights you've gained in practicing design for testability.
 	- You demonstrate the ethos of continuous improvement in your eagerness to discuss and apply lessons learned from successes and failures, past and present.
 	- Design and Programming
 		* functional programming: first-class functions, immutability, algebraic data types

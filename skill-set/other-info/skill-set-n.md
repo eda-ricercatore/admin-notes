@@ -1478,6 +1478,10 @@ Media sources that report on data science topics:
 
 
 
+
+
+
+
 ###	Skill Sets for Roles Spanning EECS
 
 
@@ -1576,6 +1580,40 @@ Media sources that report on data science topics:
 		* PHPStorm
 		* Android Studio
 		* NetBeans
+
+
+
+
+
+
+
+
+
+
+
+###	Skills Mentioned Elsewhere
+
+
++ computer (programming) languages surveyed in the "User Experience" survey for Google, Inc.:
+	- C++/C
+	- C\# or related frameworks (e.g., Xamarin)
+	- Dart or related frameworks (e.g., Flutter)
+	- Go
+	- HTML or related frameworks (e.g., Cordova, Ionic, Sencha)
+	- Java
+	- JavaScript or related frameworks (e.g., React, React Native, Node.js, AngularJS)
+	- Kotlin
+	- Objective-C
+	- PHP
+	- Python
+	- Ruby
+	- Swift
+
+
+
+
+
+
 
 
 

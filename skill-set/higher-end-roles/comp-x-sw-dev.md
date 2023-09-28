@@ -692,6 +692,12 @@ Emerging technologies that would be interesting application domains of computati
 		* also has implementations of:
 			+ graph algorithms
 + skill set:
+	- Experience with C++11 and ***modern C++ style and idioms***
+	- Optimize existing and new C++ code to ***reduce memory consumption*** and to ***increase performance and scalability***
+	- Design and implement algorithms and solvers in C++ for ***transportation routing problems***
+	- Work with product engineers to ***diagnose root causes for incorrect software behavior and failures***
+	- Fix bugs in the existing C++ codebase
++ skill set:
 	- Sr. Scientist with Applied Math (Ph.D. Required)
 	- MemComputing Inc. is developing disruptive, next generation and unconventional computing platforms. We are looking for an exceptional and talented scientist with strong skills in applied math, physics, combinatorics, scientific programming, and high-performance computing. Join our team and help develop a software-based solution for our customers needing faster computation for their A.I., M.L., Operations Research, and Big Data Analytics problems. This Scientist role will participate in the architecture, design, development, test, and deployment of an advanced computational engine, as well as helping with professional services for high-profile customers. Successful candidates will find rewarding work in a diverse set of math, physics, and computer science specialties, including parallel and distributed computing (on GPU, FPGA, etc.), combinatorial optimization, numerical analysis, and simulation of differential equations. Applications include transportation & logistics, aerospace, satellites, robotics, autonomous vehicles, computational chemistry, and more. Excellent communication and collaborative skills, attention to detail, and strong technical and problem-solving skills are essential aspects of this role. All efforts will be performed in-house at our San Diego Headquarters.
 	- Ph.D. in physics, applied math, computer science, computer engineering, data science, electrical engineering, or similar disciplines
@@ -990,6 +996,35 @@ Emerging technologies that would be interesting application domains of computati
 		* PySide
 		* 3-D graphics
 		* event-driven programming
++ skill set:
+	- Software Developer - Scientific Computing
+	- Are you looking for an opportunity to contribute to the next revolution in computing technology? Do you want to take part in an exciting and rapidly growing new industry? Do you want to put your skills to use at the forefront of a cutting-edge field?
+	- In this role you will develop highly optimized numerical code for simulating and benchmarking a variety of quantum computing devices. You will help translate high-level algorithms to run on a variety of computing architectures. You will help develop and optimize new parallelization techniques for simulating large quantum systems and algorithms designed for Xanadu's quantum computing platform and participate in the design and development of new simulation algorithms.
+	- Required Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Strong experience programming in low-level languages (e.g., C, C++, Fortran)
+		* Knowledge of CPU instruction sets, GPU programming, and compilation  
+		* Experience with high-level scientific programming frameworks in Python
+		* Ability to convert high-level language scripts to optimized low-level implementations  (e.g., C, C++, Fortran) with optimization (SIMD vectorization) and parallelization (OpenMP, threading)
+		* Experience working with multiprocessing and parallelized code
+		* Experience with development of numerical / approximation techniques
+		* Experience with binding high-level scripting languages to low-level implementations
+		* Ability to convert abstract descriptions of algorithms into efficient code implementations
+		* Ability to aggressively optimize algorithm efficiency at every part of the computational stack
+		* Ability to determine sensible tradeoffs between code being optimal, user-friendly, and easy to install
+		* Experience with software engineering best practices: testing, continuous integration, version control, documentation, and code review
+		* Familiarity with and experience working in a fast-growing technology start-up environment
+		* Great communication skills; can express complex technical concepts in a clear and easy to understand way
+	- Preferred Skills and Experience:
+		* Familiarity with distributed computation
+		* Experience with scientific computing on HPC, supercomputer, and cluster-grade hardware
+		* Experience with scientific computing on commodity / cloud hardware (e.g., AWS)
+		* Understanding of quantum computing and quantum simulation algorithms, including experience with tensor networks
+		* PhD in Computer Science, Physics, Mathematics, or Engineering an asset
+	- Qualifications:
+		* 5+ years of experience working in related fields
+		* BSc or MSc  in Computer Science, Physics, Mathematics, or Engineering with relevant industry experience preferred, or equivalent combination of education and experience
+		* Proven track record delivering highly optimized numerical algorithms
 + skill set:
 	- BLAH.
 + skill set:
@@ -1510,6 +1545,7 @@ Skill set for software development for parallel programming, especially on heter
 + Published papers (e.g. in Supercomputing, IPDPS, or PPOPP) and/or open-source code that demonstrate your skills in writing fast code.
 + Familiarity with GPU computing (CUDA, OpenCL) is preferred
 + After CUDA, learn OpenACC before OpenCL.
++ Proficient with parallel programming and performance optimization techniques such as NEON, OpenCL, OpenGL ES, Metal and Vulkan;
 + skill set:
 	- Multi-GPU software development engineer
 	- Design, develop and debug multi-GPU drivers and software
@@ -1750,3 +1786,14 @@ Skill set for software development for distributed programming (or distributed c
 	- Continuously gain insights into the industry's cutting-edge technical issues and develop products based on customer requirements to improve service competitiveness.
 	- Information security, computer science, data communications, or related major. Solid security expertise and project research experience. Ability to independently engage in research
 	- Extensive technical knowledge of distributed system architectures and the SOA architecture. Deep understanding of cloud computing technologies, such as Kubernetes and Docker. Experience with related product security development preferred
++ skill set - Bonus points if you have experience with any of the following:
+	- distributed systems
+	- batch data processing
+	- stream processing
+	- database internals
+	- query optimizers
+	- query processing
+	- data integration
+	- recommender systems
+	- information theory
+	- knowledge graphs

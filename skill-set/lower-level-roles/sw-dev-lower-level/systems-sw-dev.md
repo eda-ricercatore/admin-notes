@@ -7,6 +7,14 @@
 
 
 
++ Three or more years of programming experience with data structures and algorithms in C++11/14/17
++ skill set:
+	- Develop cross-platform code using the latest industry-standard tools:
+	- C++17, transitioning to C++20
+	- Modern CMake
+	- GoogleTest
+	- GitLab CI
+	- Build robust code within a strict test-driven development workflow.
 + System-level functional and performance debugging (***perf, gdb, valgrind***)
 + Cross platform C++17, OpenCL, Qt/QML, git, Python 3, clang-tidy, clang-format, Jenkins, CMake, Catch2, Docker, Vagrant, KVM, C++/CLI.
 + Work with cutting edge technologies such as C++17 (anything that passes VS2017, latest Clang, GCC, clang-tidy, ...). C++/CLI, GPGPU, Python, Jenkins, docker, KVM, libclang, boost, Qt and CMake
@@ -83,6 +91,7 @@
 		* Experience in working with open source projects.
 		* Experience in hands-on lab and bring-up activities, as well as knowledge of design for product and manufacturing
 		* You like to work in a fast-paced environment using agile methods
++ Have vast experience with schedulers like Kubernetes, Mesos/Marathon or similar with some sort of service mesh in use.
 + skill set:
 	- We want people who are passionate about designing and operating secure systems at scale.
 	- We are looking for someone who is familiar with our stack, understands our tools, is comfortable working remote, enjoys working in open source, and is excited about our mission.
@@ -139,6 +148,11 @@
 	- Kernel virtualization mechanisms
 	- Leading software defined storage projects (Gluster, Ceph, Hadoop, etc...)
 	- Experienced in working in large bare-metal data centers
++ skill set:
+	- Experience in the development, test, deployment and administration of one of the following types of systems is preferred:
+		* HDFS (with source-level familiarity);
+		* Object storage systems;
+		* Message queueing (MQ) systems, e.g., Kafka.
 + skill set:
 	- BLAH.
 + skill set:

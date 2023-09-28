@@ -23,3 +23,39 @@
 	- Drive process improvements required by Juniper related to manufacturing process and test, packaging, labelling, data collection
 	- Initiate ECO(Engineering Change Notice) and deviations for product changes impacting the site products involving shippable images, pack-out and labelling.
 	- Monitor capacity and proactively drive changes as required.
++ skill set:
+	- Experience in advanced analysis & problem solving techniques including DOE, failure analysis, 8D problem solving, CpK, GR&R, PFMEA etc.,
+	- Experience in production line development techniques including flow chart, cycle time calculation, UPH setup, line layout & balance, SOP, MVA calculation etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

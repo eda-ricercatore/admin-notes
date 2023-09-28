@@ -83,6 +83,19 @@
 	- Mentor and grow team members both technically and non-technically
 	- Participate in architecture discussions and guide the technical direction of the team
 	- Ensure smooth delivery of software with automated tests in a modern CI toolchain
++ skill set for aspects of software development or management:
+	- infrastructure administration and security
+	- user interface design, or user experience design
+	- infrastructure management and provisioning
+	- data pipeline development
+	- product management and project tracking
+	- product direction and high-level decision making
+	- quality assurance
+	- release management and/or distribution
+	- sales, marketing, and/or business intelligence
+	- software developing, computer programming, or coding
+	- software or system architecture
+	- resource and cost monitoring
 + skill set:
 	- BLAH.
 + skill set:

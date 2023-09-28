@@ -29,6 +29,13 @@ Types of interfaces:
 
 
 
+
++ Experience and appetite to engage with the tools needed to get the job done, including Sketch, Zeplin, Abstract, Framer, Flinto, JIRA and Confluence.
+	- Sketch: vector graphics editor
+	- Zeplin: for product development, and product design
+	- Abstract: version control for Sketch
+	- Framer: design, build and publish websites without coding
+	- Flinto: for software product design
 + UX measurement/quality through analytics/Real-User Metrics (RUM)
 + Experience using vector editors like Figma or Sketch and prototyping tools like Principle or Framer
 + You are an expert in AfterEffects, Cinema 4D, Sketch, Principle
@@ -73,6 +80,26 @@ Types of interfaces:
 	- Some awareness of the technology which will serve your designs and implementations, such as apache/nginx, Flask/django, PostgreSQL/MySQL, git, websockets, etc.
 	- Bootstrap, bulma, etc.
 + skill set:
+	- Understand product specifications and user psychology
+	- Conduct concept and usability testing and gather feedback
+	- Create personas through user research and data
+	- Define the right interaction model and evaluate its success
+	- Develop wireframes and prototypes around customer needs
+	- Find creative ways to solve UX problems (e.g. usability, findability)
+	- Work with UI designers to implement attractive designs
+	- Communicate design ideas and prototypes to developers
+	- Keep abreast of competitor products and industry trends
+	- Proven experience as a UX Designer or similar roles
+	- Strong portfolio of design projects
+	- Background in project management and research
+	- Familiarity with interaction design and information architecture
+	- Proficient in design software (e.g. UXPin, Balsamiq)
+	- Knowledge of HTML/CSS; JavaScript is a plus
+	- Problem-solving aptitude
+	- Analytical mind with a business acumen
+	- Excellent communication skills
+	- BSc in Design, Computer Science, Engineering or a related field
++ skill set:
 	- Distinguished Engineer-  Cloud Architect (Remote)
 	- Be part of our journey as we transform our security product offerings to be Cloud Native Solutions. This includes every product with our product portfolio; SEIM, UBA and SOAR.  All these offerings are tied together with our reinvented security operations product, Splunk® Mission Control  This enables enterprises to say goodbye to “swivel chair security. Mission Control is a unified cloud-based platform that brings together security data, analytics and operations under one common work surface where security teams can holistically detect, manage, investigate, hunt, contain and remediate threats — all from one place — resulting in faster, more efficient and more effective security operations.
 	- We are looking for creative problem solvers with a passion for scalable cloud-native distributed systems. As a member of the Security engineering leadership team you will be responsible for helping the various product teams with their journey to the Cloud.
@@ -106,6 +133,22 @@ Types of interfaces:
 + The ideal candidate will have at least 5 years of experience as a UX designer including user research, prototyping and using visual communication tools (e.g. Sketch, InVision, Axure).
 + Ideal candidate will have at least 5 years of experience as a UX designer, including; user research, prototyping and using visual communication tools (eg. Axure, Balsamiq, Sketch).
 + You can Figma in your sleep.
++ skill set:
+	- As a Senior UX/UI Designer at Nextdoor, you’ll design digital experiences that empower neighbors to build stronger communities and transform how people connect and engage with their local area. In this role, you’ll define and deliver new experiences across multiple platforms as well as work cross-functionally to shape the future of the Nextdoor product as we continue to grow.
+	- The Impact You’ll Make
+		* If you want the challenge of fast-paced growth, the satisfaction of seeing your design work come to life, and the pride in helping grow a world-class design team, this is the place for you. Please include a link to your portfolio in addition to your resume and cover letter.
+		* You’ll envision, design, and ship delightful, user-centered, cross-platform experiences that build the fabric of local communities around the globe.
+		* You’ll be involved in all aspects of the product development for a major product area; from strategy, research, prototyping, concept to interaction design, to final QA and code tweaks right before launch.
+		* You’ll participate in cross-functional brainstorms, discussions, design reviews and interesting and inspiring design team activities.
+	- What You’ll Bring to The House
+		* 7-10 years demonstrated experience shipping great consumer products in an agile environment, preferably including work on social networks, building social graphs, follow or relational models
+		* 5-7 years demonstrated experience shipping great mobile products in an agile environment.
+		* Comfort working across the product development spectrum: strategy, ideation, concept work, pixel-level details, and front-end development and implementation.
+		* Fluency with both mobile and responsive web design principles and best practices.
+		* A strong visual design sense and ability to design within, and help define, visual guidelines.
+		* Ability to create rich interactive prototypes with Framer, Origami, or similar
+		* Familiarity with HTML, CSS, JavaScript, Swift, Java, or Xcode
+		* You’re deeply curious about how to empower neighbors to strengthen their communities, how local businesses enhance their communities, and about what makes different neighborhoods around the globe thrive.
 + skill set:
 	- We're Progress and we offer the best platform for building and deploying tomorrow's applications quickly and easily. We are bold, forward-thinking innovators who build things that work and care about our customers. We invent and reinvent every day, work together as one, value and respect each other, and cheer our wins. Join us as a UX Designer for our Product team in Bangalore , India (Remote is an option).
 	- As a UX Designer, you will push your creative, problem-solving, and people skills to the fullest. You will study end-users to understand their problems, generate breakthrough design concepts, and craft them into buildable solutions. You will also create interactive prototypes as needed to simulate the experience and validate your solutions with users. You will provide detailed interaction specifications and support developers to make sure your work is built to specification.
@@ -430,7 +473,28 @@ Quantitative UX research methods:
 	- Ability to drive and steer medium-to-high complexity research projects independently.
 	- Experience with enterprise software is a major plus
 + Experience in a UGC (user generated content) environment
-
++ skill set:
+	- User experience is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users’ needs, behaviors, and emotions to gather insights that inform product strategy and design. Our UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and simplicity. We work on collaborative teams to solve complex challenges and craft experiences that highlight our products’ unique capabilities and personalities.
+	- User Experience Researcher (UXRs) in News Break plays a vital role in its principle of truly “user-driven and user-focused product development”. In this role, you will use qualitative and quantitative methods to create understanding and empathy around user needs, stated and unstated, for your entire product team including UI designers, product managers, and engineers. You will do so by conducting primary research, exploring the behaviors and motivations of our users through methods like field visits, ethnography, surveys, usability testing, and logs analysis. Your research will help the team to identify experience problem and articulate it in a laserlike focused way. By working closely with cross functional teams and deeply involved in all stages of product development, you will help us create useful, usable, and delightful new products and features for people as well as continually innovating on our existing products. You will bring inspiration into the team through delivering compelling, written, in-person and visual presentations on your findings, in forms that include but not limited to user persona, segmented persona, user journey map, etc.
+	- Conduct independent research on multiple aspects of products and experiences.
+	- Collect and analyze user behavior through field visits, ethnography, surveys, benchmark studies, server logs and online experiments (A/B testing).
+	- Work with Designers, Product Managers, Engineers and other UXRs to prioritize research opportunities in a fast-paced, rapidly changing environment.
+	- Understand and incorporate complex technical and business requirements into research.
+	- Advocate research findings to diverse audiences through written reports and in-person presentations.
+	- Create user personas based on user segmentations.
+	- Create User Journey Map to help the team understand different mood of the users.
+	- Minimum Qualifications:
+		* BA/BS degree in Anthropology, Human-Computer Interaction (HCI), Human Factors, Psychology, Sociology, or a related field or equivalent experience.
+		* Experience with research design utilizing various methods including but not limited to usability studies, contextual inquiry, and surveys.
+		* Relevant product research experience, either in an end-to-end, usability, or generative setting.
+		* Ability to generate research insights to help product teams make confident decisions, and build empathy and intuition for our users
+		* Experience to collaborate closely with cross-functional partners including Design, Data Science, Product Management, and Engineering
+	- Preferred Qualifications:
+		* Master's degree or PhD in a related field.
+		* 5 years of relevant work experience within User Experience, Human-Computer Interaction, applied research setting, and/or product research and development.
+		* Experience in a variety of product spaces, applied research and/or academic settings.
+		* Proficiency in communicating user research findings with cross functional partners to drive impact.
+		* Strong understanding of the strengths and shortcomings of different research methods, including when and how to apply them during the product development process.
 
 
 

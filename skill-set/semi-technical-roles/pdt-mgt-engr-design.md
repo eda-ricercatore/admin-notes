@@ -276,7 +276,7 @@ Sets of skills for product management for machine learning products and services
 	- ***Experience turning ideas into actionable designs.*** Able to persuade stakeholders and champion effective techniques through product development
 	- 5+ years of industrial data-mining / analytics experience including applied techniques in data mining, machine learning, or graph mining using Python, R, and/or Spark
 	- Comfortable working in a dynamic, research-oriented group with several ongoing concurrent projects
-
++ Experience with prototyping tools (Axure, InVision, Principle, Framer, etc)
 
 
 
@@ -316,6 +316,41 @@ Sets of skills for product management for machine learning products and services
 	- talent or predisposition for vector and / or raster illustration.
 	- experience in the design and implementation of user interfaces and experience;
 	- excellent knowledge of vector graphics software such as Adobe Illustrator and Sketch.
++ skill set:
+	- Description
+		* Founded in Tokyo in 2012, SmartNews has quickly become the go-to source of news for millions of users around the world, and a leading news aggregation mobile app. Our mission is bigger than simply aggregating news, and we are working to break through the filter bubble and deliver the world’s quality information to the people who need it. We are seeking a Director of Product Design with a “get-it-done” attitude and a passion to break through the filter bubble to lead our global design team.
+		* As the Director of Product Design at SmartNews, you will lead by example and connect design vision and strategy to achieve the company’s goals through innovative user experiences. In this role, you’ll be leading a globally distributed, highly motivated design team to create a one-of-a-kind news experience that will delight our users by delivering content that’s fresh, timely, and relevant. You will establish, maintain and represent the design team’s voice and partner with executive leadership across Product Management, Data Science, Engineering, Content, and Marketing.
+		* You will report to the SVP of Product and have an opportunity to make a significant contribution to achieving our global mission of and taking SmartNews to the next level. Join us and make a difference!
+	- Responsibilities
+		* Establish design direction to drive product strategy and deliver company goals
+		* Collaborate cross-functionally with stakeholders in product management, engineering, marketing, content, and ads to set the vision and strategic plan for the product roadmap, both short-term and long-term
+		* Build, lead, manage, and mentor a globally-distributed design team
+		* Empower design team to collaborate cross-functionally with product managers, engineers, marketing, and other members to execute the product roadmap
+		* Establish and integrate a collaborative user centric design practice into the product development process
+		* Lead a team through rigorous design reviews and iterations to align design and product strategy and execute detailed implementations that will deliver impact to company goals
+		* Create and enhance a design system that unifies product and marketing experiences and speeds design and product development
+		* Execute in a fast-paced and highly fluid environment and streamline complex problems into elegant solutions
+	- Requirements
+		* 10+ years of hands-on visual and interaction design experience executing and shipping mobile centric, consumer products
+		* 7+ years in a management or leadership role in product design with direct reports
+		* Design portfolio with examples of interactions and visuals across mobile applications
+		* Experience in leading design strategy all the way from vision to concept to production
+		* Experience growing scalable design process and practice within design teams
+		* Excellent communicator with exceptional speaking and presentation skills. You are a storyteller at heart.
+		* Possesses a hands-on, “roll up your sleeves,” action-oriented approach.
+		* Ability to thrive in a dynamic, high-octane environment while juggling multiple projects at once, and comfortable with tight deadlines
+		* Ability to bring cross-functional teams together to enable proficient and effective collaboration
+		* Ability to provide clear, honest and objective feedback in order to continue raising the bar for the product and design team
+		* Expert in the tools of the trade, e.g. Adobe CC, Sketch, Figma, and various design and prototyping software
+		* Possesses high attention to detail and consistency
+		* Responsive to feedback, capable of both receiving and giving constructive feedback with empathy
+		* Passion for the news as a fourth pillar of democracy and belief in mission to create better understanding and accountability between people through delivery of quality information not based on filter bubble
+	- Nice-to-haves
+		* B.S. and/or M.S. degree
+		* Knowledge of programming, mobile iOS or Android, or HTML/CSS/Javascript
+		* Multidisciplinary background such as Psychology, Cognitive Psychology, Sociology, or Anthropology
+		* Experience and familiarity with data science and analysis
+		* Familiarity with Japanese language and culture. We have distributed teams at SmartNews, and while Japanese language skill is not necessary, it will help with context
 + skill set:
 	- Splunk Observability is a new product to the market and is faced with exciting, unique design challenges. Join our growing team of designers and researchers to understand this new market and deliver a full-stack visibility into modern applications. As the Product Designer you will help admins, developers and engineers to simplify their daily tasks, troubleshooting much more efficiently. Provides an intuitive tool to help them when things go wrong, and build efficient, best-in-class products for their customers.
 	- Work alongside the Observability Product Design , PM and Engineering teams to deliver complete UX workflows to solve top user needs

@@ -1123,6 +1123,10 @@ reactive programming = asynchronous dataflow programming
 	- Experience building servers and services at scale.
 	- Front end development experience in React or similar Javascript frameworks.
 	- Knowledge or experience with The Box, The Box II or The Box III Gavin Belson Signature Edition.
++ Familiar with web technology stack like Spring, Flask, Gin, etc.
++ full-stack Web development:
+	- Expertise in at least one server side web application language. Java or Python experience is a plus
+	- Expertise in modern JavaScript/HTML/CSS. Experience with React is a huge plus
 + skill set:
 	- BLAH.
 + skill set:
@@ -1231,6 +1235,12 @@ reactive programming = asynchronous dataflow programming
 	- Experience with databases, such as MySQL, Postgres and InfluxDB.
 	- Experience with CI/CD framework, such as Jenkins.
 + Experience with MongoDB and/or ELK
++ skills for back-end Web development (languages/frameworks):
+	- Python/Django
+	- Java
+	- Golang
+	- SQL
+	- AWS
 + skill set:
 	- We’re looking for an experienced Senior Software Developer (back end) to join a team of talented engineers to develop high quality products which are scalable, testable, extensible, and provide high value to our customers.
 	- As a key member of the development team, you will work closely with designers, product managers, and other key stakeholders to define and execute on both our short term critical missions and long term vision.
@@ -2317,6 +2327,124 @@ reactive programming = asynchronous dataflow programming
 	- Container technologies such as Docker
 	- Cloud Platforms technologies such as DCOS/Marathon/Apache Mesos, Kubernetes and Apache Brooklyn.
 + skill set:
+	- Work on the core Ruby API & support Go microservices (Projects including Netlify Identity, Large Media, Analytics)
+	- Supporting the build systems used for customer sites
+	- Own features from code to production
+	- Design services for better observability, availability, and fault tolerance
+	- Work with support to address customer issues
+	- Work cross-functionally to scope, design, and implement services
+	- Backend services built in Go and Ruby
+	- All services deployed in Kubernetes on Google Cloud
+	- Work with databases like MongoDB and MySQL
+	- Data pipelines built with Kafka, Zookeeper, Consul
+	- Has experience building and maintaining highly available distributed systems
+	- Solid proficiency in at least Go or Ruby on Rails at scale (Ex: multiple daily releases & 15k+ requests per second)
+	- Experienced delivering product features
+	- Is curious and open to learning new technologies and best practices
+	- Thrives in a collaborative environment, working with others across multiple teams
+	- Enjoys working with a diverse group of people with different expertise, working in distributed locations.
++ skill set:
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- 3+ years experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
++ skill set:
+	- Experience working with Kubernetes/Docker. Flux and Helm experience is preferred.
+		* Flux and Helm
+	- Experience with tracing tools like Jaeger or Zipkin is preferred.
+		* Jaeger or Zipkin, distributed tracing system, with microservices architecture
++ skill set:
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- Solid experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
++ skill set:
+	- Creating and managing the stack of production tools and APIs that allow interaction with content objects and insights into key performance indicators.
+	- Collaborating and coordinating with various engineering, content, and product teams: providing the glue between consumption and publication systems and users.
+	- Participating in defining the technology road map and best practices across the engineering organization that support and advocate for transparency within the Content lifecycle.
+	- Being a key contributor to our next-generation Content platforms.
+	- In depth experience developing applications in Python
+	- Experience with application frameworks/libraries such as Django or Flask and have experience with JavaScript frameworks such as Angular, React, or NodeJS
+	- Ability to extract and translate needs and stories from stakeholders and existing codebases into actionable development.
+	- Experience designing and implementing APIs needed for effective data visualization and interactions.
+	- Experience with SQL/NOSQL systems such as MongoDB, Cassandra, Postgres, etc.
+	- Experience with CI/CD pipelines and testing methodologies.
+	- Experience with AWS stack is a plus.
+	- Experience with big data engineering principles and technology stacks (eg., Kafka and distributed data processing) is a plus.
+	- We are highly focused on using the right tools for the job, building decoupled flexible architectures, and committed to fostering ownership and responsibility to autonomous teams.
++ skill set:
+	- 3+ years experience with the JVM and Scala (preferably) or another functional programming language
+	- Experience working in high scale/distributed systems where high availability, low latency and scalability is key
+	- Strong experience working with concurrent and asynchronous programming
+	- Understanding of algorithms and data structure and how to apply them when designing and building systems
+	- Experience with SQL/NoSQL systems such as MongoDB, DynamoDB, PostgresQL
+	- Experience with Docker/Kubernetes
+	- Experience with continuous deployment and testing
+	- Working in a strongly typed language with compile time guarantees
+	- Being able to pick the best tool to get the job done
+	- Designing, developing, and deploying scalable services to support new and existing functionality
+	- Working in an environment where testing, monitoring, and reliability are part of the development process
+	- Collaborating and working closely within team/engineering as well as cross-functional teams
+	- Working on systems that are used by millions of users every day
+	- We are looking for a detail-oriented software engineer to join our backend services team.  Our team develops the core APIs that power the client applications used by millions of users daily. We primarily use Scala and deploy/run our code in Kubernetes. We also create and maintain some data pipelines to import/export data to other internal consumers. As part of our team, your responsibilities would include designing/building new features, maintaining high code quality via tests/code reviews/metrics, and keeping a focus on continuous improvement on all parts of the development process. Our team takes prides in having high quality code and developing in a principled fashion.
++ skill set:
+	- As a key member of the core platform engineering team, you will work directly with business and technical stakeholders to lead and execute projects including exploration of new languages, tools, technologies (such as Go, AWS Lambda, Aurora, ElastiCache, CloudSearch, etc), building new APIs and microservices, migration of existing services and data stores to the cloud, personalization and many more. While working on these projects you will be responsible for full life-cycle management, including requirements analysis, technical design, implementation, testing, documentation, deployment to production, and postproduction ownership.
+	- Design and build services and applications at scale for tens of millions of users.
+	- Profile and optimize browse and search algorithms over large datasets.
+	- Contribute to architecture, design and implementation of next generation monetization and metadata delivery platform.
+	- Contribute to development of new web and mobile applications and services.
+	- Create technical specifications for new products, executing from start to finish and owning the quality of the service in production.
+	- Create and enhance integrations with external partners like Amazon, Microsoft, Sonos, Tesla, and Google.
+	- Maintain and extend heterogeneous environment, including our core .NET codebase and our set of services written in Go.
+	- Maintain and extend API services, SDKs and developer documentation.
+	- 7+ years of software engineering experience with an emphasis in modern web stacks, design, development and deployment of high volume web applications and APIs (millions of transactions per day).
+	- Working knowledge of both relational and NoSQL database design and management (here at TuneIn we are using SQL Server, Aurora, Redis, DynamoDB, BerkeleyDB, Redshift and more).
+	- Expertise with object-oriented languages such as Go, C#, Java, JavaScript or C++
+	- History of building resilient, stateless, scalable, distributed and observable systems.
+	- Experience with microservices, knowledge of modern cloud services (such as AWS or similar).
+	- Practical perspective on software engineering discipline, focus on learning and delivering, and passion for high quality.
+	- Great energy and enthusiasm with a positive, collaborative working style, clear communication and writing skills.  Enthusiasm for audio content preferred.
++ skill set:
+	- microservice architecture
+	- Java
+	- Rest Webservices
+	- Agile software development methodology
+	- Jenkins
+	- Subversion
+	- Splunk as a monitoring tool
+	- New Relic application monitoring
++ skill set:
+	- Own internal services like Kubernetes and Ceph clusters, create microservices like authentication providers and load balancers, product-related services like our deployment pipeline, and everything in between.
+	- Write high-quality infrastructure-as-code that automates the provisioning, deployment, scaling, and monitoring of Squarespace's infrastructure and ensure that it is redundant and fast around the globe.
+	- Understand database design, storage, caching, scalability, and network fundamentals.
++ 3+ years of experience with ReactiveCocoa and MVVM a plus
+	- Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
+	- ReactiveSwift offers composable, declarative and flexible primitives that are built around the grand concept of streams of values over time. These primitives can be used to uniformly represent common Cocoa and generic programming patterns that are fundamentally an act of observation.
+	- ReactiveCocoa wraps various aspects of Cocoa frameworks with the declarative ReactiveSwift primitives.
+	- A family of Functional Reactive Programming inspired frameworks for Objective-C and Swift.
+	- Model–view–viewmodel (MVVM) is an architectural pattern in computer software that facilitates the separation of the development of the graphical user interface (GUI; the view)—be it via a markup language or GUI code—from the development of the business logic or back-end logic (the model) such that the view is not dependent upon any specific model platform.
+	- The MVVM pattern helps cleanly separate an application's business and presentation logic from its user interface (UI). Maintaining a clean separation between application logic and the UI helps address numerous development issues and makes an application easier to test, maintain, and evolve. It can also significantly improve code re-use opportunities and allows developers and UI designers to collaborate more easily when developing their respective parts of an app.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -2481,6 +2609,12 @@ reactive programming = asynchronous dataflow programming
 	- Culture of code reviews and collaborating closely with other people (not a solo hacker)
 	- You are familiar with translation management/memory tools.
 	- Continuous integration & continuous deployment of localized product experience.
++ front-end Web development skills:
+	- Understanding of web services technologies such as SOAP, HTTP, and REST
+	- Javascript/React programming language
+	- Strong understanding of TypeScript/Flow and ES6, Jest and Webpack
+	- Experience with CSS and Less/Sass (ability to write mixins, partials, functions, etc) and usage in large scale applications
+	- Experience in modern technologies such as Graphql/D3.
 + skill set:
 	- Software Engineer, Front End
 	- Splunk builds software that lets you search, report, monitor and analyze live-streaming and historical data across the entire data spectrum, from IT to Marketing to Operations, all from one place and in real time. Getting a vast variety of extensive data in and ready for analysis is never easy.

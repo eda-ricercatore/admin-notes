@@ -32,6 +32,76 @@ Roles in computing security:
 
 
 
+
+
++ cloud computing tasks:
+	- analyzing big data
+	- architecting cloud solutions
+	- configuring and maintaining infrastructure for building and/or deploying code
+	- configuring and/or managing security services and policies within an organization
+	- configuring virtual environments and networking
+	- deploying, managing, or monitoring machine learning pipelines
+	- evaluating and/or deciding which products to use, including APIs
+	- provisioning and/or managing storage (e.g., databases)
+	- managing employees
+	- managing or monitoring services in production
+	- managing your organization's service costs and cloud expenditures
+	- writing code for cloud-based applications or services
++ cloud computing platforms:
+	- Alibaba Cloud
+	- Amazon Web Services
+	- Firebase
+	- Heroku
+	- IBM Cloud
+	- Microsoft Azure
+	- on-premise services
+	- private Cloud
+	- Rackspace
+	- DigitalOcean
+	- Google Cloud Platform
+	- StackDriver
++ Google Cloud Platforms products:
+	- App Engine
+	- Cloud BigQuery
+	- Cloud Bigtable
+	- Cloud Build (formerly Container Builder)
+	- Cloud Dataflow
+	- Cloud Datalab
+	- Cloud DataProc
+	- Cloud Datastore
+	- Cloud Firestore
+	- Cloud Functions
+	- Cloud Identity & IAM
+	- Cloud Machine Learning
+	- Cloud Memorystore
+	- Cloud Pub/Sub
+	- Cloud Spanner
+	- Cloud SQL
+	- Cloud Storage
+	- Cloud Tasks
+	- Compute Engine
+	- Container Registry
+	- GCP Games
+	- Genomics
+	- Google Maps
+	- Hybrid Connectivity (e.g., HA VPN, Cloud Router, Interconnect)
+	- IoT Core
+	- Kubernetes Engine
+	- Network Security (e.g., Cloud Armor, Cloud Security Command Center, DLP)
+	- Network Services (e.g., Load Balancing and Content Delivery Networks)
+	- StackDriver
+	- TensorFlow
+	- VPC Network (Shared VPC, VPC Peering)
++ Google Cloud Platform interfaces:
+	- Cloud Console GUI via browser on desktop or laptop computer
+	- Cloud Console GUI via browser on mobile device
+	- Cloud Console mobile application
+	- Firebase Console GUI
+	- Google Cloud APIs (e.g., via HTTP requests, gRPC, Google Client Libraries)
+	- Google Cloud Command Line Interface (CLI) (e.g., gcloud, gsutil, bq, cbt)
+	- non-Google configuration management tools (e.g., Chef, Puppet)
+	- non-Google CLIs (e.g., kubectl, MySQL)
+	- non-Google GUIs (e.g., DataDog, New Relic, Splunk)
 + Ability to apply the ***MITRE ATT&CK and Killchain frameworks*** to security operations
 + skill set:
 	- Experience working with Single Sign On (SAML 2.0).
@@ -574,7 +644,12 @@ Roles in computing security:
 
 
 
-
++ security tasks for cloud computing:
+	- defining policies for assets and tracking performance
+	- scanning and detecting security threats and incidents
+	- responding to security threats and accidents
+	- ensuring applications comply with secure coding requirements
+	- managing accounts and defining permissions for cloud resources
 + skill set:
 	- Principal Security Architect will develop a strategic direction for the security-related architecture of Lattice products, working closely with FPGA system and architecture experts to advance the company's presence within security-sensitive systems
 	- Reduce risks, threats, and vulnerabilities in systems built with Lattice products

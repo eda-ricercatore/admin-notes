@@ -2332,6 +2332,18 @@ Skill sets for mixed-signal IC design:
 	- Good interpersonal skill, tactful, resourceful, possess initiative.
 	- Strong written and oral communications.
 + skill set:
+	- The SiFive Platform Engineering team is building an ambitious new infrastructure to support accelerated ASIC and FPGA design flows, IP delivery and SoC development - driving the next generation of SiFive's "Silicon at the speed of Software" mission. This infrastructure leverages state of the art compiler algorithms (built on open source MLIR and LLVM technologies), novel build system integration, and new Verilog RTL generation techniques.
+	- Evolve, design and build new compiler intermediate representations for hardware design and tool flows.
+	- Implement specific compiler optimization and lowering algorithms for chip design flows.
+	- Implement state of the art mechanisms for hierarchical caching that crosscut compiler and build systems.
+	- Participate in design discussions, planning, code review, documentation, open source processes, and other standard software practices.
+	- Collaborate with hardware architects to develop the approach and design flows.
+	- Manage your individual project priorities, deadlines and deliverables.
+	- We are hiring for several positions with different levels of seniority, but require a minimum of 2 years of compiler engineering experience.
+	- Strong oral and written communication skills, excellent team collaboration.
+	- Experience with C++ programming and git-based development workflows.
+	- Experience with Verilog and other chip design technologies is NOT required.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

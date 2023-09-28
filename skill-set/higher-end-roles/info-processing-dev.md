@@ -306,6 +306,19 @@ reactive programming = asynchronous dataflow programming
 
 
 
+
++ skill set:
+	- We are looking for a Senior Signal Processing Scientist to join our acoustic team in Paris and help us differentiate the end-to-end Sonos experience for customers.
+	- You will be responsible for the audio signal processing stage that plays a fundamental role across all of our acoustic engines including wake word detection, speaker identification, and speech-to-text. Data augmentation and speech enhancement are crucial to ensure the robustness of the speech processing modules (in the presence of external noise, reverberation etc). As a Senior Signal Processing Scientist, you will work at the intersection of machine learning and digital signal processing. You will help our machine learning scientists improve the generalization ability of their models by developing state-of-the-art acoustic data augmentation techniques to enhance the size of our training datasets. Additionally, you will be in close contact with the DSP engineers to help them develop processing techniques specifically tailored to speech processing.
+	- 2+ years experience in acoustic data augmentation (pitch and gain control, noise and room simulation etc) within the context of speech recognition.
+	- Experience with Python and with version control.
+	- MS / PhD in Computer Science, Electrical Engineering or related technical field.
+	- Ability to formalize, analyze and solve complex problems.
+	- Excellent verbal and written communications skills in English.
+	- Track record of published papers in peer-reviewed journals or conferences
+	- Experience with other general purpose programming languages (C++, Rust etc) and Docker
+	- Knowledge of acoustic DSP techniques for speech enhancement (noise control, dereverberation, echo cancellation, beamforming etc)
+	- Knowledge of Machine Learning, Deep Learning, and related frameworks (TensorFlow or PyTorch)
 + skill set for SENIOR SYSTEM/DSP ALGORITHM ARCHITECT
 	- We are looking for experienced system architect who can design algorithms for the whole system and product, optimize algorithm and system design with realist constraints, define system specification for Hardware and ASIC, define fixed point specification for algorithm and hardware.
 	- Investigate AI and deep learning algorithms and extract the computation and logic operations for hardware implementation.
@@ -798,7 +811,21 @@ reactive programming = asynchronous dataflow programming
 
 
 
-
++ Understanding of uncompressed video formats and codecs (e.g. HLS, MPEG-DASH)
++ skill set:
+	- Familiar with the use of multimedia architecture such as FFmpeg / directshow / AVFoundation;
+	- Experience with graphics libraries such as OpenGL/Metal/Vulkan and mobile operation systems such as Android iOS
++ skill set:
+	- Proven research and practical experience in one or more areas of image and video processing, including but not limited to (preferring candidates with publications in top-tier venues such as CVPR, ICCV and ECCV):
+		* Optical flow
+		* Image and video enhancement
+		* Noise reduction
+		* Image and video super-resolution
+		* Image and video de-blur
+		* HDR
+		* Artifact removal (rain, haze, reflection)
+		* Intrinsic images
+		* Image and video editing
 + Experience in V4L2, ALSA, OpenMax, G-Streamer, or FFMPEG, etc.
 	- "Video4Linux (V4L) is a collection of device drivers and an API for supporting realtime video capture on Linux systems"
 	- ALSA:
@@ -972,6 +999,15 @@ reactive programming = asynchronous dataflow programming
 + Experience with low-level Graphics APIs (D3D12/Vulkan)
 + Familiarity with one or more of the following software: Unreal Engine, Unity, Maya, Houdini
 + skill set:
+	- Achieve scaling, cropping, effects, filters and other pre & post processing functions based on OpenGLES and other graphics libraries;
+	- Experience with the use of FFmpeg/OpenGL
+	- Participated in NOI/ACM/TopCoder competition will be a big plus.
++ skill set:
+	- Familiar with graphics APIs (OpenGL, DirectX, Metal, or Vulkan) and GPU architectures.
+	- Knowledge of one or more UI frameworks (Qt, DirectUI, Electron, etc...)
++ C++ and OpenGL/DirectX experience
++ C++/CX, Qt
++ skill set:
 	- Experience developing virtual world environment for games, such as Lumberyard, Unity3d, Unreal, CryEngine and/or other world simulation environments
 	- Experience with graphics APIs and frameworks such as OpenGL, DirectX, or Vulkan
 	- Experience with physics engines (e.g. Bullet, Havok, PhysX)
@@ -979,6 +1015,7 @@ reactive programming = asynchronous dataflow programming
 + Experience of Unity, C# and 3D application development.
 	- Unity
 		* Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
++ Experience with Maya, Blender, Adobe Creative Suite/Creative Cloud.
 + skill set:
 	- Senior 3D Pipeline Engineer - Simulation
 	- Apple’s Special Project Group is seeking a Senior 3D Pipeline Engineer to help advance innovative simulation for autonomous technologies. You will directly play a role developing and maintaining tooling for our 3D content creation pipeline core to our simulation efforts. Your work will advance our ability to develop, test, and verify mobile autonomous systems.

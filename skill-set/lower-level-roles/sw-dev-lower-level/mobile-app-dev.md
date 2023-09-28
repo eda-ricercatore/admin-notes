@@ -52,6 +52,18 @@ reactive programming = asynchronous dataflow programming
 	- BS CS or EE degree, or equivalent training or work experience
 	- 5+ years related experience (or Masters and 4+ years related experience, or Ph.D. without experience)
 + Familiarity with modern mobile development frameworks (e.g., Flutter, Xamarin, Swiftic) and tools (e.g., IoC/DI, analytics, A/B testing, CI-CD and build systems like Bit, Buck, Bazel)
++ Android application software development:
+	- Kotlin, MVI and GraphQL.
+	- You make a point to test your obviously bug-free code with frameworks like JUnit, Mockito, and Espresso - just to be safe.
+	- Expertise in Kotlin and leveraging its features to increase the safety and clarity of our codebase.
+	- Familiar with modern networking stack, such as OkHttp, Retrofit, and GraphQL.
+	- Passion for UI architecture best practices such as MVI and libraries including RxJava, MvRx, and Epoxy.
+	- Familiar with architecting a large app for efficient modularization and dependency injection via Dagger and Gradle.
+	- You think the only real Android phones are Pixels.
++ skill set:
+	- Experience with mobile app attribution platforms (e.g. Appsflyer/Tune/Adjust)
+	- Experience working with very large data sets and distributed computing (Hive/Hadoop/MapReduce)
+	- Experience working with social and digital media data and other marketing analytics tools (e.g. Google Analytics/Adobe Analytics/Amplitude)
 + skill set:
 	- BLAH.
 + skill set:

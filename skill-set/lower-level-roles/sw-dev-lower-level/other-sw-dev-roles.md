@@ -125,7 +125,14 @@ This set of skill sets is for non-common software development roles, which inclu
 
 Skill sets for software development for educational technology:
 + Experience with higher education SIS and LMS systems (Banner, Colleague, Jenzabar, Canvas, Blackboard, etc.) strongly preferred
-
++ Learning Management Systems (LMS):
+	- Blackboard
+	- Canvas
+	- Desire2Learn (D2L) Brightspace
+	- Google Classroom
+	- Moodle or Moodlerooms
+	- Pearson's Learning Studio / eCollege
+	- Sakai
 
 
 

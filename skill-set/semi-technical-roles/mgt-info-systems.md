@@ -94,9 +94,13 @@ Technologies and skills for MIS:
 Skill set for management of information systems, MIS, including data analyst roles:
 + ***Refactor SQL code based on our best-in-class, in-house style guide.***
 + GraphQL experience is a plus
++ Knowledge of integration of other enterprise systems (e.g., ERP, EAM, CRM, SCM)
 + database systems:
 	- PostgreSQL database management system
 + Interact with MySQL data stores and NSQ messaging queues.
++ data analyst skills:
+	- A working knowledge of SQL, specifically involving coding your own queries and running programs on platforms such as Qubole
+	- Experience with marketing tools such as Tableau, Sendgrid, Wordpress, Instapages, and PyCharm preferred
 + Senior Data Integration Solution Architect
 	- Join us as we pursue our disruptive new vision to make machine data accessible, usable, and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun, and most importantly, to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
 	- As a Senior Solution Architect within the Enterprise Architecture group, you will play an important role in the success of our data integration strategy that directly impacts critical internal business processes that run our $3B+ and growing business. You will be responsible for defining the overall solution and technical architecture for our data integration platform that meets our vision for a Programmable Enterprise, while providing data integration solutions and expertise for a variety of complex internal business scenarios across the enterprise. You will need to apply your deep knowledge of ​data integration technologies, expertise with integration design patterns, and business application integration experience. To be successful you will have to balance priorities, collaborate with senior leaders, and present to executives while delivering within an agile delivery framework to meet key performance indicators.
@@ -556,9 +560,47 @@ Skill set for GIS-based software applications, computer systems, and cyber-physi
 	* OpenLayers is a free, open source JavaScript library that lets you display dynamic maps from any source. 
 	* OpenLayers is an open-source JavaScript library for displaying map data in web browsers as slippy maps. It provides an API for building rich web-based geographic applications similar to Google Maps and Bing Maps.
 	* OpenLayers makes it easy to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source. OpenLayers has been developed to further the use of geographic information of all kinds.
-
-
-
++ A skills matrix of your expertise in using Google OR Tools, Python, C++, geospatial analysis, and related tools (geopandas, shapely, QGIS, postgis, etc.)
++ skill set:
+	- Administrative experience with one or more IaaS cloud platforms
+	- Knowledge of user authentication protocols (basic, forms, Kerberos, NTLM, PKI), authentication systems (IWA, proprietary/custom token, SAML), and authorization concepts and systems (RBAC, OAuth)
+	- Experience with “emerging technologies” such as IoT, big data analytics, containerization, AI/ML
+	- Extensive experience with Esri software including ArcGIS Enterprise components, ArcGIS Enterprise geodatabases, and ArcGIS client applications (mobile and desktop applications)
+	- Experience with modern software implementation patterns including service-oriented architectures and cloud environments and concepts such as single sign-on authentication or mobile application development patterns
+	- Working knowledge of modern web technology; understanding of web servers, the HTTP protocol and methods, modern web browsers, developer tools, web proxies such as Fiddler, and the use of these technologies to troubleshoot web service and website functionality and performance.
+	- Experience with programming languages; working knowledge of Python, JavaScript, PowerShell, and SQL and when and where they should be used and what they can accomplish
+	- 4+ years of experience designing, implementing, and/or administering enterprise GIS solutions/systems that leverage the ArcGIS platform, specifically ArcGIS Enterprise components
+	- Experience with relational database management systems, including SQL Server, PostgreSQL or Oracle, including knowledge of standard SQL usage and database design concepts such as views, triggers, and schemas
+	- Understanding of enterprise geodatabase concepts in the ArcGIS platform, and where and why they are used for geospatial data workflows
+	- Experience with operating system concepts: Windows environments, domain management, sharing and security of filesystems in Windows environments, Linux system administration concepts, and general conceptual understanding
+	- Knowledge of networking concepts and topics such as firewalls, troubleshooting DNS entries, assessing network configuration and performance
+	- Bachelor’s or master’s in computer science, engineering, mathematics, GIS, or a related field, depending on position level
+	- Design Effective Enterprise Systems
+		* Asses and provide recommendations to customers related to the appropriate and effective use of ArcGIS software components
+		* Provide actionable advice related to system design, performance implications, functional limitations, and any other topics that affect system design
+		* Interface with solution architects and enterprise IT staff from a customer organization to explain and guide them through ArcGIS design decisions
+		* Communicate technical concepts and ArcGIS platform capabilities to technical and non-technical audiences
+	- Implement Advanced ArcGIS Enterprise Deployments
+		* Deploy and configure ArcGIS Enterprise in a wide variety of environments across operating systems, cloud providers, security architectures, customer types, industries, and organizations
+		* Configure ArcGIS Enterprise system to meet the customer’s service level agreement including high availability, disaster recovery, and security needs
+		* Plan and execute the migration of content from one ArcGIS Enterprise deployment to another, encompassing different architectures, deployment strategies, and software components
+	- Assist with Technical Troubleshooting and Issue Resolution
+		* Assist Esri customers with troubleshooting advanced ArcGIS Enterprise deployments
+		* Assist with communicating troubleshooting guidance to related platform components such as storage, networking, security
+	- Assess and Optimize Performance
+		* Identify performance requirements and understanding from a customer perspective
+		* Use Esri tools and industry standard tools to identify performance issues with maps, web services, databases, web applications, and other contexts
+		* Provide recommendations to customers related to performance monitoring, management, and improvement across the entire ArcGIS system
+	- Participate in a Technical Community
+		* Participate in a technical community of advanced enterprise staff, sharing experiences; writing best practices documentation, technical guides, and helpful scripts; and participating in product direction discussions and recommendations
+		* Work collaboratively with teammates to solve difficult technical challenges
++ skill set:
+	- Demonstrated experience with Esri ArcGIS 10.x, cartographic design, graphic editing, and standard office applications.
+	- Familiarity with ArcGIS Online, Tableau, and a statistical package (R, STATA, etc.)
+	- Ability to work in a fast-paced environment under tight deadlines while producing quality content.
+	- Strong organizational, interpersonal, oral and written communication skills.
+	- Strong analytical skills, data lover, ability to think big picture strategy and navigate details to ensure accuracy.
+	- Ability to participate in a 1-2-week field experience, which may involve domestic and/or international travel and overnight stays for up to 2 weeks.
 
 
 

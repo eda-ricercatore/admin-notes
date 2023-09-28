@@ -207,6 +207,7 @@ Bachelor's degree in Electrical Engineering, Computer Engineering, or similar te
 	- experience with dilution refrigerators
 	- experience with RF measurement techniques
 	- experience in RF/microwave PCB design and layout
++ Characterize full system (receiver and transmitter) performance as well as peripheral devices such as: RFIC transceivers, LNA’s, PA’s etc.  Characterization includes measuring essential parametrics such as sensitivity, power, EVM, linearity, etc.
 + skill set:
 	- BLAH.
 + skill set:

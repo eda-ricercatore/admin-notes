@@ -399,9 +399,39 @@ Skill sets for bioinformatics:
 	- Experience with many or all of the following:  Python, bash/unix scripting, Snakemake, Nextflow, airflow, CWL, relational databases (SQL), GraphQL, distributed computing (AWS/Google Cloud), Docker, software version control (git)
 	- Data and Database Management: SQL, AWS, Snowflake
 	- Technical program management skill, SCRUM, and agile methodologies
-
-
-
++ First-hand technical experience in at least two of the following areas: bioinformatics; sequence analysis; comparative genomics; phylogenetics; NGS analysis; statistics; probabilistic modeling; machine learning; population genetics; metabolic engineering; or quantitative modeling of biological systems
++ skill set:
+	- We're looking for a Software Solution Engineer who will work closely with Ginkgo scientists to understand their processes and quickly prototype and build the tools they need to create these new organisms, conduct experiments, control lab robots, and analyze massive amounts of data. You'll collaborate with a team of talented and diverse engineers, product managers, experts in data analysis and bioinformatics, and, of course, your customers – the dozens of biologists and chemists at Ginkgo. To be successful at this role, you should have a strong background in biology and bioinformatics, combined with excellent software development skills.
+	- Our tech stack includes AWS, Docker, Django, REST, GraphQL, React, MySQL, Postgres, Elastic Search, Airflow, and other modern tools and frameworks. Our languages of choice are Python and Javascript. We don't expect you to be an expert in every platform, but we do expect that you have a solid foundation in computer science and have no problem mastering the technologies that we use today (and will adopt tomorrow).
+	- Design and implement software solutions that address the current needs of Ginkgo bioengineers. These solutions could be a microservice, standalone tool, user-facing web application, data pipeline, etc.
+	- Collaborate with your product manager to define milestones and deliverables.
+	- Work as a member of an agile team, attend scrum meetings, and review code produced by your peers.
+	- Write automated tests for your solution and oversee its deployment.
+	- Monitor the production environment to detect and address customers' issues.
+	- Prototype new ideas, algorithms, and frameworks.
+	- Desired Experience and Capabilities
+	- Degree in computer science, biology, bioinformatics, or relevant field
+	- Relevant internship or work experience
+	- Working knowledge of next-generation sequencing and omics technologies
+	- Practical understanding of scalable bioinformatics pipelines
+	- Knowledge of distributed systems architecture
+	- Eagerness to work hand-in-hand with Ginkgo's foundry team to architect the next generation of foundry for engineering organisms
++ skill set:
+	- Our tech stack includes AWS, Docker, Django, REST, GraphQL, React, MySQL, Postgres, Elastic Search, Airflow, and other modern tools and frameworks. Our languages of choice are Python and Javascript. We don't expect you to be an expert in every platform, but we do expect that you have a solid foundation in computer science and have no problem mastering the technologies that we use today (and will adopt tomorrow). And, most importantly, while you may not have a background in biology, you must be passionate about Ginkgo's mission of making biology easier to engineer.
+	- We're looking for a Senior Software Engineer who will design, develop, test, and deploy the software used by Ginkgo scientists to create these new organisms, conduct experiments, control lab robots, and analyze massive amounts of data. You'll collaborate with a team of talented and diverse engineers, product managers, experts in data analysis and bioinformatics, and, of course, your customers – the dozens of biologists and chemists at Ginkgo.
+	- Design and implement software solutions that address current needs of Ginkgo bioengineers. These solutions could be a microservice, standalone tool, user facing web application, data pipeline, etc.
+	- Collaborate with your tech lead and product manager to define milestones and deliverables.
+	- Work as a member of an agile team, attend scrum meetings, and review code produced by your peers.
+	- Write automated tests for your solution and oversee its deployment.
+	- Monitor the production environment to detect and address customers' issues.
+	- Prototype new ideas, algorithms, and frameworks.
+	- BS, MS, or PhD in computer science with 5+ years of industry experience
+	- Proven track record in full-stack development
+	- Experience with building distributed systems
+	- Experience with code management systems, CI/CD, AWS, or any other cloud experience a plus
+	- Familiarity with biology a plus
+	- Previous startup experience a plus
+	- Eagerness to work hand-in-hand with the Ginkgo's foundry team to architect the next generation of foundry for engineering organisms
 
 
 

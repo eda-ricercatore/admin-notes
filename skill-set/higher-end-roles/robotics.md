@@ -142,6 +142,7 @@ Generic sets of skills in robotics:
 	- KiCad
 	- Docker
 	- ROS
++ Experience developing with ROS and related software such as MoveIt! and PCL
 + skill set:
 	- Solid background in multiple programming languages, e.g. Python or C/C++ and willingness to pick up any new programming languages or frameworks.
 	- Fearless about jumping around the stack (from improving driver to writing CUDA kernel to putting together React webapp) and working on aspects that have significant impact on product
@@ -293,6 +294,29 @@ Generic sets of skills in robotics:
 
 
 
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills For Autonomous Systems
+
+
+
+
++ skill set:
+	- The Artificial Intelligence Center of SRI International is looking to fill a research position in the area of autonomous systems. SRI has a long history of innovative work in autonomy, commencing with the development of the first mobile robot (Shakey) back in the 1960s through more recent work on distributed AI for controlling large-scale robot teams, privacy-aware information managers, UAV controllers, and robots that learn from their environments.  
+	- This position will focus on the development of innovative capabilities for autonomy, spanning both full and mixed-initiative autonomy models, as well as their deployment to challenging real-world problems. Responsibilities will include contributing to existing research projects through concept design, algorithm development, and evaluation; enhancing visibility of the lab through publishing and engagement with the broader research community; formulating new research directions; and collaborating within small teams to develop new projects related to autonomous systems.
+	- The ideal candidate will have technical depth in the following areas:
+		* Autonomy architectures
+		* Automated planning and scheduling
+		* Distributed AI / Multi-agent coordination
+		* Machine learning, with particular focus on reinforcement learning
 
 
 
@@ -1166,6 +1190,7 @@ Sets of skills in ***medical robotics***, includes ***surgical robotics***:
 
 
 Sets of skills in industrial robotics:
++ industrial robotic experience: KUKA, FANUC, or ABB.
 + skill set:
 	- BLAH.
 + skill set:

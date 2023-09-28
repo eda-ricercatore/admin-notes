@@ -140,7 +140,21 @@ Roles for physics and chemistry Ph.D.s in quantum computing:
 	- Ability to communicate technical concepts clearly and effectively
 	- Ability to manage individual project priorities, deadlines, and deliverables while working in a fast-paced environment
 + skill set:
-	- BLAH.
+	- Xanadu is seeking a full-time Experimental Physicist to work within the hardware team (20+ physicists and engineers) to develop and optimize all aspects of their transition edge sensor technology and its integration with existing systems. This role involves full-stack systems-level product design, construction, prototyping, testing, and assembly of cutting-edge cryogenic photon number resolving detectors. In addition, candidates may be responsible for writing patents describing these devices and their capabilities, when applicable. Successful applicants will have a proven track record of the following:
+	- Qualifications:
+		* PhD in Experimental Physics, Electrical Engineering, or related relevant discipline
+		* At least 1 year post-doctoral or industry experience (preferred)
+	- Minimum Experience:
+		* Experience working in a collaborative team-based development environment
+		* Experience with independent operating of sub 1 Kelvin cryogenic fridges, preferably with either an adiabatic demagnetization refrigerator and/or dilution refrigerator
+		* Experience installing apparatus intra cryostat and conducting cold measurements
+		* Strong record of independently led projects
+		* Experience automating and developing hardware control code for complex systems using Python
+		* Experience with standard mechanical CAD design tools
+	- Preferred Experience:
+		* Custom PCB design and testing
+		* Relevant experience in photonics, integrated optics or laser science
+		* Experience with technical product development
 + skill set:
 	- BLAH.
 + skill set:
@@ -167,6 +181,8 @@ Roles for physics and chemistry Ph.D.s in quantum computing:
 	- BLAH.
 + skill set:
 	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -180,10 +196,10 @@ Roles for physics and chemistry Ph.D.s in quantum computing:
 
 
 
-##	Sets of Skills in Quantum Error Detection and Correction
+##	Sets of Skills in Quantum Error Detection and Correction, and Fault-Tolerant Quantum Computing
 
 
-Sets of skills in quantum error detection and correction:
+Sets of skills in quantum error detection and correction, and fault-tolerant quantum computing:
 + skill set:
 	- Research Scientist - Quantum Error Correction
 	- QuEra Computing is seeking talented, impact-motivated theoretical researchers with strong expertise in quantum error correction. You will be part of the team to develop and invent novel schemes for quantum error correction on our unique hardware. You will have the opportunity to work with a vibrant community of academic collaborators and to help our growing team of diverse experts to address fascinating challenges, from the development of hardware-efficient error correction schemes and decoding algorithms for our unique Rydberg atom quantum computer, to the design of protocols for executing fault-tolerant quantum logic, and finally to the implementation of fault-tolerant quantum algorithms with these methods.
@@ -206,6 +222,23 @@ Sets of skills in quantum error detection and correction:
 		* scipy
 		* pandas
 		* scikit-learn
++ skill set:
+	- We are looking for a talented theoretical quantum error correction researcher to work with us towards building a fault-tolerant quantum computer. If you are interested in putting your expertise to use at the forefront of the quantum computing industry, then this is the perfect opportunity for you!
+	- In this role, you will
+		* Devise and develop new architectures for fault-tolerant photonic quantum computing.
+		* Develop software tools required to implement and analyse quantum error correction protocols.
+		* Collaborate with the researchers at Xanadu (including 40+ PhDs) to tailor fault-tolerant architectures to real-world photonic devices, and to inform the development of hardware towards fault-tolerance.
+		* Write patents and peer-reviewed articles reporting advances where applicable.
+	- Required qualifications and experience
+		* PhD degree in Physics, Computer Science, Mathematics, Statistics, or a related technical field with a focus on quantum error correction and fault tolerance.
+		* Demonstrated combination of strong problem solving skills, high creativity and attention to detail.
+		* Demonstrated strong communication skills, especially in interdisciplinary teams.
+		* Ability to operate in a fast-paced environment and manage multiple competing priorities.
+	- Preferred qualifications and experience
+		* Demonstrated interest and commitment toward understanding and collaborating with theory, simulation, and experimental teams.
+		* Demonstrated ability at learning new research topics.
+		* Familiarity with quantum optics and continuous variables.
+		* Proficiency in working with python or other modern programming language.
 + skill set:
 	- BLAH.
 + skill set:
@@ -304,3 +337,238 @@ Sets of skills in quantum processor simulator development:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Quantum Machine Learning Scientists
+
+
+
+Sets of skills in quantum machine learning scientists:
++ skill set:
+	- Researcher - Quantum Machine Learning
+	- You will join Xanadu’s Software & Algorithms team, working with a world-class team of researchers to build the theoretical and practical foundations of quantum machine learning, variational quantum algorithms, and quantum differentiable programming. You will conceive, undertake, and supervise projects which have an outsized impact, helping to establish the fundamentals of an emerging new field. Your ideas will have lasting influence and be used by thousands of researchers, developers, and enthusiasts worldwide.
+	- Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Expertise in the theory and practice of variational quantum algorithms and related fields like quantum chemistry, quantum optimization, etc.
+		* Familiarity with recent developments and ideas in both quantum computing and in machine learning
+		* Ability to make connections between different scientific fields, and successfully port ideas from one field to another
+		* Skilled at using scientific software tools (e.g., Python) and quantum computing hardware to explore ideas and implement algorithms
+		* Familiarity with limitations, restrictions, and imperfections in current quantum hardware devices and knowledgeable of mitigation practices
+		* Experience supervising, mentoring, and collaborating with others on successful research projects
+		* Proven ability to drive research projects from idea to execution
+		* Comfort working in a fast-paced tech-focused work environment
+		* High standards for scientific writing, both at a technical and a popular level
+		* Strong team player
+	- Qualifications:
+		* 5+ years of experience working as a researcher in quantum computing or machine learning
+		* PhD in Computer Science, Physics, Mathematics, Engineering, or Machine Learning with relevant postdoctoral experience preferred
+		* Scientific track record in the topic area of quantum machine learning, as evidenced by recent publications
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Quantum Machine Learning Engineers
+
+
+
+Sets of skills in quantum machine learning engineers:
++ skill set:
+	- As part of the Xanadu Software Team, you will be responsible for developing and maintaining PennyLane, an open-source framework for quantum machine learning, quantum computing, and quantum chemistry. Further duties include contributing to the development of a quantum cloud platform, and building and designing software and services with PennyLane. The selected candidate must possess the ability to learn advanced scientific and technical concepts quickly and with minimal direction. Strong technical skills and a demonstrated ability to learn new concepts is important for this position. Experience in both quantum computing and software development is essential.
+	- Required Skills and Experience:
+		* To succeed in this role, you should have the following:
+		* Previous experience with software best practices, including continuous-integration pipelines, unit testing, code review
+		* Experience working with several programming languages (most important are Python, C/C++)
+		* Ability to understand and apply complex mathematical concepts
+		* Demonstrated education or training in quantum computing
+		* Familiarity with additional languages (i.e., Javascript, HTML, CSS)
+		* Exposure/familiarity to machine learning/deep learning
+		* Software development skills, demonstrated via a public online portfolio (i.e., GitHub account, contributions to open-source projects, etc.)
+		* Self-motivated with a willingness to learn
+		* Comfortable working in a fast-paced environment
+		* High level of professionalism
+	- Preferred Skills and Experience:
+		* Expertise in quantum computing, as demonstrated by extensive coursework, thesis, or peer-reviewed publications
+		* Experience with web development (frontend or backend)
+		* Experience with numerical computation and high-performance computing
+	- Qualifications:
+		* BSc in Computer Science, Engineering, Physics, Math, or related field
+		* MSc, PhD in Computer Science, Engineering, Physics, Math, or related field preferred
++ skill set:
+	- As a Senior Software Developer you will help build a trustworthy AI platform to combat rogue quantum and classical AI. Xanadu is a full-stack quantum computing and advanced AI company. You will be involved in completely reshaping the nature of computation as we know it.
+	- Requirements
+		* Is able to take a technical leadership role.
+		* Is comfortable working in cross-functional teams.
+		* Is able to evangelize proper software development practises throughout the team.
+		* Can work anywhere in the stack, from databases, to REST APIs and above.
+		* Is comfortable working with a variety of open-source software including Nginx, Redis, and Postgres.
+		* Understands the full lifecycle of software development, including version control, code review, testing, continuous integration, logging, documentation and debugging.
+		* Is able to work productively on a geographically distributed team.
+		* Is able to contribute to open-source projects at a high technical level.
+		* Is curious and enthusiastic about new and unfamiliar technologies.
+		* Pays careful attention to detail.
+		* Has good communication skills and can express complex technical concepts in a clear and easy to understand way.
+	- Qualifications
+		* Has 4-8 years of experience working in the field.
+		* Is proficient in Python.
+		* Is adept at working with Linux.
+		* Is comfortable working with Git and GitHub.
+		* Is a generalist developer who is comfortable working in multiple languages.
+		* Hands-on experience building large, fault-tolerant, distributed systems at scale.
+		* Experience using Docker and deploying to cloud platforms like AWS or Google Cloud.
+		* Working knowledge of front-end development technologies (HTML, CSS, JavaScript, and front-end web frameworks like React, Vue.js, or Angular).
+		* Working knowledge of client-server architecture.
+		* A basic understanding of machine learning and AI.
+	- At Xanadu we primarily work with Python, but we use a variety of tools including C++, Postgres, Redis, Docker, CI pipelines, and multiple cloud platforms. We build using a distributed microservice model, and we are constantly exploring new technologies to add to our stack.
++ skill set:
+	- As part of Xanadu’s Machine Learning team, the selected candidate will be responsible for working with a multidisciplinary team of machine learning experts and quantum algorithm developers to bring machine learning models into production.  They will develop, deploy, and maintain code, models, and pipelines leveraging various cloud providers and services; automate model training, testing, deployment, and monitoring; and design solution architectures for data driven applications.
+	- Prospective applicants must have strong technical, programming, and mathematical skills. They must possess the ability to evaluate established methods and tools, learn new ones quickly, and apply their knowledge to solve practical problems. Applicants should be self-motivated and demonstrate the ability to successfully meet objectives. Familiarity with quantum computing is not essential for this position, but is a definite plus.
+	- Basic Qualifications and Experience
+		* MSc in Machine Learning, Mathematics, Computer Science, Physics,  Engineering, or a related field.
+		* Experience building and deploying production-grade machine learning applications at scale.
+		* Strong software engineering skills across multiple languages (Python, Scala, Java, C++, etc.)
+		* Experience building and supporting development environments for Machine Learning/Data Science teams.
+		* Experience with distributed computing frameworks like Spark, Dask, or Hadoop.
+	- Preferred Qualifications and Experience
+		* PhD in Machine Learning, Mathematics, Computer Science, Physics, Engineering, or a related field.
+		* Solid mathematical understanding of machine learning, statistical modelling, probability theory, and linear algebra.
+		* Experience with frontend and backend web application development.
+		* Passionate about agile software processes, data-driven development, reliability, testing, and continuous delivery.
+		* Familiarity with and experience working in a fast-growing technology start-up environment.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Sets of Skills in Integrated Photonic Quantum Computing
+
+
+
+Sets of skills in integrated photonic quantum computing:
++ skill set:
+	- As part of the Hardware Team, you will work with our established team of physicists and engineers to scale and deploy our integrated photonic quantum computation platform. Further duties include designing and construction of production-grade components and establishing a supply chain for those components. You will be responsible for maintaining Xanadu’s existing cloud-accessible quantum computers, as well as building new such devices and readying them for a production-level environment. The selected candidate will have a proven track record of accomplishments in optical hardware development.
+	- Required Qualifications and Experience:
+		* Undergrad or Masters in Engineering, Physics, or related discipline
+		* Academic or industrial experience in photonic engineering
+		* Strong understanding of photonics and electronics
+		* Self-motivated and comfortable working in a fast-paced team environment
+	- Preferred Qualifications and Experience:
+		* 2+ years hands-on experience working in photonic engineering
+		* Experience with lasers, modulators, and photodetection
+		* Experience with EDA software, PCB fabrication and assembly
+		* Experience designing mixed signal PCBs consisting of ADCs, DACs etc.
+		* Experience with nonlinear optics, product development, and chip-integrated photonics an asset
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

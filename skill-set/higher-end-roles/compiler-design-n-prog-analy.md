@@ -270,6 +270,32 @@ Skill set for compiler design:
 		* Parallel hypergraph decomposition for analysis of intelligence data
 	- An ideal candidate will have solid intellectual ability, motivation, and a strong history of achievement. Strong math, programming and engineering skills, as well as excellent oral and written communication skills, are desired. Serious consideration will be given to candidates with a firm math background, knowledge of network security, and/or knowledge of compilers. Passion for Computer Science research and application is a huge plus. Genuine interest in the spectrum of Reservoir’s projects is key, and the flexibility to move among them is essential.
 + skill set:
+	- Intel Architecture, Graphics, and Software (IAGS) brings Intel's technical strategy to life. We have embraced the new reality of competing at a product and solution level—not just a transistor one. We take pride in reshaping the status quo and thinking exponentially to achieve what's never been done before. We've also built a culture of continuous learning and persistent leadership that provides opportunities to practice until perfection and filter ambitious ideas into execution.
+	- In this position, you will develop compiler technology as the primary job function;  You will Design, develop, debug & test compiler software and programming languages e.g. advanced compiler optimizations and features specific for Intel Architectures, parallelization and vectorization through compilers, new programming languages support. May work directly with hardware design team, companies and communities developing compilers, participate in language and standard groups.
+	- Master's Degree in Computer science or Computer Engineering or Electrical Engineering with 4+ years of experience or PhD in Computer Science, Computer Engineering or Electrical Engineering or a related field with 2+ years of experience.
+	- 5+ years of experience with:
+		* Experience in C/C++
+		* object-oriented programming
+		* data structures
+		* compiler theory
+	- 2+ years of experience with compiler development
+	- 1+ years of experience with LLVM compiler development
+	- Knowledge of x86 instruction set architecture and Advanced Vector Extensions (AVX)
+	- Experience with vectorization and parallel programming models such as OpenMP and/or SYCL and/or GPU programming
++ skill set:
+	- The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.
+	- In this position, you will develop compiler technology as the primary job function. You will design, develop, debug & test compiler software, e.g. advanced compiler optimizations and features specific for Intel Architectures, parallelization and vectorization through compilers, new programming language support. You might work directly with hardware design teams, companies and communities developing compilers and, participate in language and standard groups.
+	- Bachelor’s degree in Computer Science, Computer Engineering,  Electrical Engineering or a related discipline with 8+ years of experience or a Master's Degree in Computer science, Computer Engineering or Electrical Engineering with 6+ years of experience or a PhD in Computer Science, Computer Engineering, Electrical Engineering or a related field with 4+ years of experience.
+	- 5+ years of experience with:
+		* C/C++
+		* object-oriented programming
+		* data structures
+		* compiler theory
+	- 3+ years of experience with compiler development
+	- 3+ years of experience with LLVM compiler development
+	- Knowledge of x86 instruction set architecture and Advanced Vector Extensions (AVX)
+	- Experience with vectorization and parallel programming models such as OpenMP and/or SYCL and/or GPU programming
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -444,6 +470,23 @@ Skill set for compiler design:
 + skill set:
 	- Experience in MLIR or similar multi-level optimizing compilers.
 	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ skill set:
+	- Deep Learning Compiler Engineer
+	- Habana Labs is a young and innovative company focused on developing purpose-built AI processors, disruptive solutions that will shape the future of AI and Deep Learning computing. Habana was founded in 2016 by successful entrepreneurs, launched its first AI Inference processor in 2018, its Training processor in 2019 and was acquired by Intel in December 2019.  The company now operates as an autonomous subsidiary of Intel.  Our vision to take AI processing from its current limits to the peak of its potential continues. We see challenges as opportunities, laser focus on execution and are determined to fulfill our vision to improve the quality of life, work and leisure with our AI solutions. We are looking for exceptionally smart people who believe that AI will change the world and would like to join us on our exciting journey!
+	- We are looking for a hands-on compiler engineer to join the R&D Engineering team, with in-depth knowledge in one or more of programming languages, compilers and hardware architecture. Knowledge of ML/DL frameworks and machine learning would be an added bonus but is not required.
+	- Roles and Responsibilities:
+		* Explore solutions to challenging customer requirements through state-of-the-art compilation techniques
+		* Put together, discuss and advocate design proposals for innovative ideas
+		* Rapid prototyping and data-driven exploration of new ideas
+		* Design and implement next-gen features in our compiler and runtime software stack
+		* Tackle large scale optimization problems across novel architectures
+		* Collaborate with peers in SW, Architecture and HW teams
+	- BS with 6+ years of experience or MS with 4+ years of experience in Computer Science, Computer Engineering or similar field
+	- 6 + years of experience C++ experience and software design skills
+	- 3+ years of compiler engineering experience with one or more of
+	- 2+ years of  experience building compilers using LLVM or equivalent
+	- 2+ years of  Experience building/designing programming models and languages
+	- 2+ years of  experience with loop optimizations (vectorization, unrolling, fusion, parallelization etc.)
 + skill set:
 	- We are looking for an experienced AI/ML compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM, TVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
 	- Develop MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.
