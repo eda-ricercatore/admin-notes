@@ -71,7 +71,24 @@
 	- ISTA, International Safe Transit Association
 		* about package testing or packaging testing
 + skill set:
-	- BLAH.
+	- VP, Product Engineering
+	- Lead a diverse team of engineers in their effort to create high-performance, secure language models for dev-centric enterprise products.
+	- Create an efficient and effective organizational structure for the Engineering team. 
+	- Help us scale! Provide vision and direction around code principles, project structuring, best practices, team dynamics, and engineering culture.
+	- Delivering large-scale dev-centric enterprise products.
+	- Aligning our teams around a strong product vision and nurturing a culture of innovation, creativity, and collaboration.
+	- Helping the team thrive by defining paths for professional development among our Engineers.
+	- Overseeing and participating in the day-to-day running of our Engineering teams.
+	- Closely partnering with Product, Design, and ML teams.
+	- Communicating and presenting plans and updates to senior executives and the wider organization
+	- You tell us! We need someone who has big ideas, and isn't afraid to rock the boat.
+	- 10+ years of Engineering experience in a scaling software company including 5+ years in a senior leadership role.
+	- A proven track record of effectively leading and delivering a suite of external-facing products from conception to production.
+	- Experience with large-scale dev-centric enterprise products, Large Language Models, and/or AI products.
+	- A strong technical background, with experience in a variety of Engineering disciplines.
+	- Experience building, growing, and empowering both front-end and backend teams.
+	- A scrappy, startup mentality to move fast, iterate quickly, learn on the go, and take initiative.
+	- Great communication and interpersonal skills working across different teams, personalities, and working styles.
 + skill set:
 	- BLAH.
 + skill set:

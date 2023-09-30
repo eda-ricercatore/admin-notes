@@ -658,8 +658,8 @@ Skill sets for STCO and DTCO:
 + Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)
 + skill set:
 	- Post-Moore Microelectronics/VLSI Co-Design Postdoctoral Scholar
-	- Berkeley Lab’s Applied math and Computational Sciences Division has an opening for a Postdoctoral Scholar to evaluate and develop devices to hardware/circuit co-design flow for architectural specializations for high performance computing and edge computing applications.
-	- In the absence of Moore’s Law Scaling, the Department of Energy (DOE) must investigate alternative paths to continuing computing performance improvements for scientific applications through architectural specialization. The successful candidate will contribute to the development and evaluation of novel heterogeneous device-based circuit design for extreme heterogeneous SoC (System on Chip) designs, and evaluate their merit for emerging computational workloads for the purpose of maximizing performance and energy efficiency. This work will have a broad impact on high performance and other larger-scale computing for critical applications for society and science. 
+	- Berkeley Lab's Applied math and Computational Sciences Division has an opening for a Postdoctoral Scholar to evaluate and develop devices to hardware/circuit co-design flow for architectural specializations for high performance computing and edge computing applications.
+	- In the absence of Moore's Law Scaling, the Department of Energy (DOE) must investigate alternative paths to continuing computing performance improvements for scientific applications through architectural specialization. The successful candidate will contribute to the development and evaluation of novel heterogeneous device-based circuit design for extreme heterogeneous SoC (System on Chip) designs, and evaluate their merit for emerging computational workloads for the purpose of maximizing performance and energy efficiency. This work will have a broad impact on high performance and other larger-scale computing for critical applications for society and science. 
 	- The successful applicant will need to have expertise with computer architecture and processor design and from the ground up, and have skills in Spice analog/digital circuit design, Verilog and use of CAD/EDA tools. It is desirable if the applicant has familiarity with higher-level hardware design languages such as CHISEL, PyMTL or other HDLs that target an FIRRTL intermediate representation. It is also beneficial if the candidate has experience with full tape-out experience of ASICs. Using those skills, the successful candidate will design post-Moore devices-based compute, memory, or data transfer blocks for key application kernels to demonstrate the merit of this approach. This position will also make key intellectual contributions and consequently publish papers to the emerging field of extreme heterogeneous computing and domain-specific specializations.
 	- Design circuits, hardware accelerators and processor architectures using post-Moore devices to accelerate key HPC applications and application kernels.
 	- Develop compact models and methodologies to use these circuits for performance and energy characterizations which can be used in architectural simulation framework for tightly integrating these accelerators into heterogeneous systems and SoCs that may contain multiple different kinds of accelerator devices.
@@ -705,7 +705,7 @@ Skill sets for STCO and DTCO:
 + skill set:
 	- Software Engineer – AI/Machine Learning software product development
 	- To further sustain and accelerate its growth, Cadence Belgium is looking for a Software Engineer – AI/Machine learning software product development to join the international team based in Brussels. 
-	- Cadence Belgium is part of Cadence, a pivotal leader in electronic design and computational expertise, using its Intelligent System Design strategy to turn design concepts into reality. Cadence customers are the world’s most creative and innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications. 
+	- Cadence Belgium is part of Cadence, a pivotal leader in electronic design and computational expertise, using its Intelligent System Design strategy to turn design concepts into reality. Cadence customers are the world's most creative and innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications. 
 	- Cadence Belgium develops simulation software for fluid flows, multiphysics and optimization, widely used by engineers and designers in a large range of fluid engineering applications, from aerospace, power generation and energy to race cars and ships. Cadence Belgium is extending its work force and is looking for qualified new colleagues. 
 	- By joining Cadence Belgium you will build the next generation AI/ML based software product and collaborate with experts in the world of simulation and Artificial Intelligence/Machine Learning. Our teams are fully committed to develop and implement creative solutions. We believe that quality, rigor, and innovation are key to success. With a team of highly skilled and motivated co-workers, we offer a stimulating, young and multicultural environment with career growth opportunities and internal mobility. 
 	- Join our technical team and contribute to the development of our CFD simulations. 
@@ -717,7 +717,7 @@ Skill sets for STCO and DTCO:
 	- Working with the Product Engineering teams identify and translate end user requirements into state-of-the-art interactive software 
 	- Understand and follow best software practices through design and code review, testing and validation. 
 	- Keeping abreast of the latest trends and technology in the field of human-computer interaction design pushing forward innovation and creativity in this domain 
-	- A bachelor’s or master’s degree in computer science, Mathematics, Physics or Engineering, with experience in the development of 3D visualization applications 
+	- A bachelor's or master's degree in computer science, Mathematics, Physics or Engineering, with experience in the development of 3D visualization applications 
 	- In-depth knowledge of C++, Python and JavaScript (or QML) languages 
 	- Knowledge of Linux and Windows (basics) 
 	- Passionate about UI/UX development and keeping up to date with the latest trends 
@@ -746,14 +746,14 @@ Skill sets for STCO and DTCO:
 	- Quick learning and adaption to new technologies
 + skill set:
 	- Research Engineer / Senior Research Engineer (Advanced packaging design flow, PDK and DTCO)
-	- Develop Process Design Kit for IME’s advanced packaging line with state-of-the-art Interposer, high density fanout , chip on wafer technologies 
+	- Develop Process Design Kit for IME's advanced packaging line with state-of-the-art Interposer, high density fanout , chip on wafer technologies 
 	- Develop parameterised cells, surrogate models, statistical models for various building block cells within PDK.
 	- Develop essential scripts, automation, parsers needed for realising CAD flows with commercial EDA tools.
 	- Develop QA strategies with defining test structures, CD, Design-of-Experiments to generate essential measurement data for PDK recalibration. 
 	- Realise hybrid CAD flows using multi physics EDA tools and data exchange. 
 	- Sole owner of advanced package PDK baseline and its derivatives. 
 	- Support SiP design and technology co-optimization flow with nessasary automation and modelling
-	- Bachelor or Master’s Degree in Electronics / Computer Engineering or applied computer engineering streams
+	- Bachelor or Master's Degree in Electronics / Computer Engineering or applied computer engineering streams
 	- Min 2 years of Experience in development, deployment of CMOS based PDK, with various front, back end EDA tools and design flows.
 	- Experience in developing machine learning/AI algorithms for clustering, regression, timeseries, multi modal data, optimization is a plus.
 	- Able to work both independently and as a team when required
@@ -875,7 +875,7 @@ Sets of skills for mixed-signal/RF multi-processor system-on-chip generators, mi
 	- SiFive is looking for hardware engineers who are passionate about designing industry-leading CPU and interconnect IP to help drive the tidal wave of adoption of RISC-V as the architecture of choice for SoC designs across a broad variety of vertical applications. We build and maintain multiple CPU family lines, TileLink interconnects and other uncore/infrastructure IP, and are seeking motivated individuals to improve/evolve our existing IP, as well as develop new IP. Join us and surf the RISC-V wave with SiFive!
 	- Architect, design and implement an enhanced TileLink interconnect, protocol bridges, and other infrastructure/uncore logic as RTL generators, including both open-source and proprietary designs.
 	- Improve current designs and work on future designs to provide higher performance, more efficient multi-core and multi-cluster system coherence.
-	- Integrate new design content into SiFive’s Chisel/FIRRTL framework and contribute to improvements to that framework to enable automatic configuration/generation of design collateral.
+	- Integrate new design content into SiFive's Chisel/FIRRTL framework and contribute to improvements to that framework to enable automatic configuration/generation of design collateral.
 	- Microarchitecture development and specification. Ensure that knowledge is shared via great documentation and participation in a culture of collaborative design.
 	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans.
 	- Work with physical implementation team to implement and optimize physical design to meet frequency, area, power goals.
@@ -896,7 +896,7 @@ Sets of skills for mixed-signal/RF multi-processor system-on-chip generators, mi
 	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
 	- Create more efficient shared arithmetic units; combining capabilities for single/double/half-precision floating point, integer, and/or fixed-point operations
 	- Design in extensive configurability as a first-class consideration, including reuse of ALU designs for vector and scalar operations
-	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- “Plumb” new design content into the SiFive's Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
 	- ***Perform initial sandbox verification***, and work with design verification team to create and execute thorough verification test plans
 	- Ensure that knowledge is shared via great documentation and a participation in a culture of collaborative design
 	- 4+ years of recent industry experience in CPU design
@@ -1284,11 +1284,11 @@ Skill sets for circuit simulation include those for:
 The sets of skills for circuit simulation are:
 + skill set:
 	- Software Developer- Circuit Simulation- Remote · Siemens EDA · Remote Position
-	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
+	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow's reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
 	- Siemens EDA is part of Siemens Digital Industries Software, a Siemens Group company and world leader in the global digitalization of companies. Siemens EDA, a world leader of Electronic Design Automation (EDA), develops and markets software products and hardware solutions (emulators) covering the entire design & verification flow.
 	- Siemens EDA counts among its customers the majority of the world's Top 50 in the fields of Semiconductors, Computing, Consumer, Automotive, Telecommunications and the Defense and Space sector.
-	- Siemens EDA R&D teams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world’s fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
-	- This position will be part of the AFS R&D team, focused on circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry’s leading circuit simulator, using cutting edge software development techniques, you will be offered:
+	- Siemens EDA R&D teams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world's fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
+	- This position will be part of the AFS R&D team, focused on circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry's leading circuit simulator, using cutting edge software development techniques, you will be offered:
 		* Technical challenges to solve toughest nanometer scale circuit verification problems for the leading semiconductor companies in the world.
 		* A motivating, stimulating, and rewarding work environment
 		* Excellent training and growth opportunities throughout your career
@@ -1326,9 +1326,9 @@ The sets of skills for circuit simulation are:
 	- EDA industry level work experience
 + skill set:
 	- Software Developer, RF Circuit Simulation-Remote · Siemens EDA · Remote Position
-	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
-	- Siemens EDA R&Dteams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world’s fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
-	- This position will be part of the AFS R&D team, focused on RF (Radio frequency) circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry’s leading circuit simulator, using cutting edge software development techniques, you will be offered:
+	- At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow's reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds
+	- Siemens EDA R&Dteams, located across the globe, develop disruptive semiconductor chip design CAD software, including the Analog FastSPICE™ (AFS), the world's fastest nanometer accurate circuit verification platform. AFS is used by over 200 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.
+	- This position will be part of the AFS R&D team, focused on RF (Radio frequency) circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry's leading circuit simulator, using cutting edge software development techniques, you will be offered:
 	- Technical challenges to solve toughest nanometer scale circuit verification problems for the leading semiconductor companies in the world.
 	- A motivating, stimulating, and rewarding work environment
 	- Excellent training and growth opportunities throughout your career
@@ -2389,7 +2389,7 @@ The sets of skills are:
 + skill set:
 	- This role will support the Siemens EDA DFT products which will involve building relationships with our customers, helping them embrace and deploy the Tessent product lines. It is a frontend team which works on top of the analyzer and elaborator.
 	- We are not looking for hard workers, just super minds
-	- You’re a Graduate / Postgraduate (Bachelors/Masters) in EEE) / ECE/Computer Science (CS) from top reputed Engineering colleges with significant experience in software development.
+	- You're a Graduate / Postgraduate (Bachelors/Masters) in EEE) / ECE/Computer Science (CS) from top reputed Engineering colleges with significant experience in software development.
 	- Working Experience should be 8 + Years of experience.
 	- Experience in EDA will be a phenomenal plus.
 	- Your sound understanding of C/C++ languages, design patterns along with data structure and algorithms will be key to development of software.
@@ -2818,7 +2818,7 @@ Sets of skills for process simulation TCAD are:
 	- Senior Software Engineer · ASML · United States
 	- ASML is an innovation leader in the semiconductor industry. We provide chipmakers with everything they need – hardware, software, and services – to mass-produce patterns on silicon through lithography. Our lithography machines are a hybrid of high-tech hardware and advanced software
 	- Senior Software Engineer at ASML play a critical role in owning and driving the technical details of the projects that would ultimately drive customer satisfaction. We are looking for an experienced engineer and technical leader with strong analytical, design and development skills, technical depth, curiosity, enthusiasm, integrity and being results oriented. You will be a key member of our highly integrated multi-disciplinary matrixed team of software, systems, applications and algorithm engineers. If you have a desire to work collaboratively while solving tough problems across real full software stacks including hardware, firmware, OS, desktop applications and web applications, we want to hear from you.
-	- Working at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.
+	- Working at the cutting edge of tech, you'll always have new challenges and new problems to solve – and working together is the only way to do that. You won't work in a silo. Instead, you'll be part of a creative, dynamic work environment where you'll collaborate with supportive colleagues. There is always space for creative and unique points of view. You'll have the flexibility and trust to choose how best to tackle tasks and solve problems.
 	- The California base annual salary/hourly range for this role is currently $154,125 - $256,875.
 + skill set:
 	- computational lithography
@@ -3247,7 +3247,7 @@ The sets of skills for Process Design Kit (PDK) are:
 	- Self motivated, quick learner and able to work independently in a large amount of automatically generated code.
 	- Ability to lead multi-functional projects, working closely with marketing and sales on the entire development process from requirements through end-customer delivery.
 + skill set:
-	- With Bachelor or Master’s degree in EE, CE, or CS with above 24-year validated experiences on large-scale enterprise software projects is extraordinary but not required. Although, of course, that if you know how to develop new algorithms, handle external tool integration and optimization in large-scale software projects, is much appreciated.
+	- With Bachelor or Master's degree in EE, CE, or CS with above 24-year validated experiences on large-scale enterprise software projects is extraordinary but not required. Although, of course, that if you know how to develop new algorithms, handle external tool integration and optimization in large-scale software projects, is much appreciated.
 	- You have a good understanding of topics around C/C++ software development and debugging techniques.
 	- Bachelor of Science or Master of Science. in Electrical Engineering, Computer Science, Computer Engineering with 24-year experiences in ASIC multiple die graphic presentation in OpenGL & design multiple die data.
 	- C/C++ proficiency
@@ -3258,9 +3258,9 @@ The sets of skills for Process Design Kit (PDK) are:
 	- Excellent English & Mandarine languages communication skill
 + skill set:
 	- Principal Software Engineer
-	- Cadence is seeking candidates to fill open positions in the EMX Product Engineering team as more customers utilize EMX’s world-class capabilities to design and develop their new products.
+	- Cadence is seeking candidates to fill open positions in the EMX Product Engineering team as more customers utilize EMX's world-class capabilities to design and develop their new products.
 	- Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.
-	- Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
+	- Cadence customers are the world's most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
 	- As an EDA Development Engineer for the EMX family of products, you will be responsible for capturing the requirements of, developing, testing and delivering software integrations between EMX / EMX Designer and other EDA tools within the Cadence EDA portfolio. You will work closely with other members of the EMX Product Engineering and R&D teams to respond to development and enhancement requests, focusing primarily upon the usability and user experience of EMX and EMX Designer and their interactions with other Cadence tools. Some travel may be required.
 	- Develop, enhance and maintain the integrations of the EMX product family and their interactions with the Cadence Virtuoso Studio and Virtuoso ADE product families.
  	- Work in cooperation with local/international Field Applications team members to capture feedback and usability improvement requests for the EMX family of products.
@@ -3269,7 +3269,7 @@ The sets of skills for Process Design Kit (PDK) are:
  	- Develop in SKILL / SKILL++ / Python / Perl / shell scripting.
  	- Perform detailed testing of the software implementations in preparation for release to customers.
  	- Author documentation and work with Technical Publications to ensure its inclusion into correct and easy to understand documents.
- 	- Bachelor or master’s degree (or equivalent) in Computer Science/Engineering
+ 	- Bachelor or master's degree (or equivalent) in Computer Science/Engineering
  	- A programming background with at least 8 years of professional experience
  	- Experience writing clean, structured and maintainable code
  	- In-depth knowledge of SKILL, SKILL++, Python, Perl and shell scripting and their usage in EDA tool and flow development
@@ -3558,7 +3558,7 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- trusted platform module (TPM)
 + skill set for Sr. SW Engineer - HW Security Analysis:
 	- Reporting to the VP of Engineering, the Sr. SW Engineer – HW Security Analysis will be responsible for developing innovative solutions that shape the way the emerging process of HW security verification and analysis is performed.
-	- Bachelor’s degree in Computer Science/Engineering (MS or PhD preferred)
+	- Bachelor's degree in Computer Science/Engineering (MS or PhD preferred)
 	- Expert level engineer with a minimum of 10 years of proficiency in algorithms and data structures for digital logic in the domains of Simulation, Synthesis or Formal Verification or similar products
 	- Deep knowledge in design and architecture of efficient, scalable software systems and data structures to support compilation of billion gate designs
 	- Experience in multi-threading, multi-tasking and job distribution to support analysis and netlist transformations to minimize runtime and memory footprint
@@ -3587,8 +3587,8 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 	- You are self-starting and self-motivating, willing to take initiatives and feel the responsibility for your project
 + skill set:
 	- We are looking for a senior SoC engineer who can leverage their understanding of system-level security goals to disseminate security requirements into the definition and development of ISA, platform, and firmware security capabilities for Ampere products spanning processors cores, IP, SoC, and platforms, while keeping up to date with the latest security threats and standards.
-	- The Hardware Security Architect candidate will join a small but growing CPU architecture team, advancing the art of high performance SoC development targeted for data center customers. Ideal candidates will channel their passion for secure products to contribute in cross-spectrum flow and methodology, working closely with processor and SoC architects and software architects to enhance Ampere’s security solution end-to-end. They will have high levels of flexibility to craft productivity flows to make highly visible contributions.
-	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere’s cloud customers.
+	- The Hardware Security Architect candidate will join a small but growing CPU architecture team, advancing the art of high performance SoC development targeted for data center customers. Ideal candidates will channel their passion for secure products to contribute in cross-spectrum flow and methodology, working closely with processor and SoC architects and software architects to enhance Ampere's security solution end-to-end. They will have high levels of flexibility to craft productivity flows to make highly visible contributions.
+	- The Ampere Architecture Group team turns ideas into reality. We are a group of technologists with tremendous experience shipping dozens of server products at multiple semiconductor companies. By listening to customers, driving industry standard protocols, and designing high-performance IPs and SoCs, Architects push products forward past the bleeding edge of microprocessor design. Architects are resourceful, and craft well-tuned designs to meet ecosystem requirements in a timely cadence, ultimately delighting Ampere's cloud customers.
 	- You will be the technical leader, at the heart of the solutions teams working closely with hardware SoC and IP development teams. Your role will be to understand security solutions at the system level and then provide expert input to product teams to help them understand and correctly implement their parts of the overall solution. This may include:
 		* Collaborate across the company to guide the direction of platform security and develop a long-term security roadmap for our products, working with hardware, software, and field support teams.
 		* Work with customers and partners to identify and address security issues and threats.
@@ -3948,7 +3948,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 		* Publications in trade journals such as JMLR or Machine Learning, or Presentations at related conferences such as ICML, NeurIPS, KDD, SIGIR and etc.
 + skill set:
 	- GrAI Matter Labs is looking for a talented Senior AI Processor Architect to help us shape the next generation of our GrAI Core Architecture and its pre- and post-processing peripherals (such as image processing, FFT, IFFT...). As a Senior Core Architect you will own the specifications of one or more components of our core architecture. You will analyse the performance of our processors for selected applications, and propose, quantify and specify architectural features and optimisations to improve the performance, cost and power consumption of our next generation GrAI Core.
-	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company’s architecture, as well as adapting such concepts to work in production-grade systems.
+	- You are expected to play a key role in innovation, working with partners on benchmarking and optimizing architectural features to match the needs of the application and efficiently mapping and prototyping them on the company's architecture, as well as adapting such concepts to work in production-grade systems.
 	- Our ideal architect is creative, curious, knowledgeable, and not afraid to get their hands dirty by helping the hardware and tools teams with implementation tasks when necessary. The right candidate knows how to find solutions that are both theoretically sound and provide the best cost-performance trade-offs, while also considering all the practical constraints created by the development process.
 	- As part of the architecture team your main responsibilities are:
 		* to carry out analysis of the performance and cost of the existing core architecture;
@@ -4049,7 +4049,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Collaborate with other teams such as HW Design, Solutions Architects and Test/QA.
 	- Work closely with Field teams to support customer engagements.
 	- Perform defect tracking and peer code reviews.
-	- Bachelor’s or Masters in CS/EE with 10+ years of industry experience.
+	- Bachelor's or Masters in CS/EE with 10+ years of industry experience.
 	- Knowledgeable with C/C++ and Python.
 	- Knowledgeable in data structures, graphs and algorithms.
 	- Incorporate strong troubleshooting skills using software (automated tests), hardware (RTL simulations) and other resources (datasheets and design documents).
@@ -4105,14 +4105,14 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- 5+ years of relevant Industry experience in robotics or autonomous systems
 + skill set:
 	- At Nextdoor, machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, and our ads relevance. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We are scrappy and believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction, not addictive behavior. We are looking for great engineers who believe in the power of local community to empower our members to make their communities great places to live.
-	- The Impact You’ll Make
+	- The Impact You'll Make
 		* You will be part of a scrappy and impactful team building data-intensive products, working with data and features, building machine learning models, and sharing insights around data and experiments. Some of the current products / projects you could work on include the newsfeed, ad relevance, search, notifications, trust and safety, and neighborhood vitality. You will build critical decision-making models for the product, enhancing the relevance and value of our products. Finally, you will help build the foundational patterns that ML engineers will use for years to come as we ramp up our effort to introduce machine learning into our platform.
 		* Collect and gather datasets to build machine learning (ML) models that make real-time decisions for the Nextdoor platform
 		* Analyze datasets and and use important features to build low-latency models for decisions that need to be made quickly
 		* Deploy ML models into production environments and integrate them into the product
 		* Run and analyze live user-facing experiments to iterate on model quality by measuring impact on business metrics
 		* Collaborate with other engineers and data scientists to create optimal experiences on the platform
-	- What You’ll Bring to The House
+	- What You'll Bring to The House
 		* B.S. in Computer Science, Applied Math, Statistics, Computational Biology or a related field
 		* 5+ years of industry/academic experience applying machine learning at scale.
 		* Proven engineering skills. Experience writing and maintaining high-quality production code. Python experience a plus.
@@ -4167,7 +4167,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Outstanding verbal and written communication skills
 	- Experience with modern neural-network architectures and deep learning libraries
 	- Expertise with performance optimization (preferred)
-	- Design and implement improvements to Apple’s Model Intermediate Language (MIL), the intermediate representation of neural-network workloads shared across the inference stack
+	- Design and implement improvements to Apple's Model Intermediate Language (MIL), the intermediate representation of neural-network workloads shared across the inference stack
 	- Develop the mechanisms for analyzing and transforming MIL workloads
 	- Build the tightly integrated pipeline that optimizes and compiles models and then orchestrates their execution on device
 	- Collaborate with CPU, GPU, and Neural Engine hardware backends to push inference performance and efficiency
@@ -4202,7 +4202,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Collaborate with silicon design, verification and implementation teams to build efficient and performant chips.
 	- Communicate the value proposition of Envise internally and externally.
 	- Collaborate with sales and field teams to drive customer engagements.
-	- 8 years and a Master’s degree; or a PhD with 5 years experience; or equivalent experience.
+	- 8 years and a Master's degree; or a PhD with 5 years experience; or equivalent experience.
 	- At least 3+ years of previous experience in high-performance or AI/ML semiconductor chip architecture resulting in silicon products.
 	- Experience in Python, C++ or other performance simulation tools.
 	- Strong teamwork skills with the ability to collaborate with multiple functional teams across a variety of fields.
@@ -4215,7 +4215,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 + skill set:
 	- Machine Learning Engineer - Generative AI and Deep Learning
 	- USA - California - Mountain View/Sunnyvale
-	- Synopsys’ Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
+	- Synopsys' Generative AI Center of Excellence defines the technology strategy to advance applications of Generative AI across the company. The GenAI COE pioneers the core technologies – platforms, processes, data, and foundation models – to enable generative AI solutions, and partners with business groups and corporate functions to advance AI-focused roadmaps.
 	- As an ML Engineer in Gen-AI, you will innovate and translate cutting edge research into user experiences on questions like the following:
 	- How to prompt an LLM like Llama-2, GPT-4, etc. effectively?
 	- How to build a foundation model for a specific domain like EDA?
@@ -4226,7 +4226,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Stay up to date with the latest research and advancements in the field of Generative AI and Deep Learning and apply this knowledge to improve our models and algorithms.
 	- Communicate complex technical concepts and findings to both technical and non-technical stakeholders.
 	- Participate in code reviews, testing, and deployment of machine learning models and algorithms.
-	- BS with 5+ years’ experience or MS degree with 1+ years’ experience in computer science, Electrical Engineering, Mathematics, or related field.
+	- BS with 5+ years' experience or MS degree with 1+ years' experience in computer science, Electrical Engineering, Mathematics, or related field.
 	- A Ph.D. in machine learning or a related area with good publication history would be a good fit for this position. We would also love to hear from people with similar skill sets acquired through other career paths.
 	- 2-5 years of experience in machine learning engineering, with a focus on AI/ML and Deep Learning.
 	- Proven familiarity with python, and excellent background in data structures and algorithms.
@@ -4274,7 +4274,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
  	- Certifications are a plus: AWS Solutions Architect, Cloud Security Certification, OpenStack Certification
 + skill set:
 	- Senior RTL Design Engineer
-	- AlphaIC, based in the US and India, designs and manufactures AI/ ML Co-Processor targeted for vision inference applications. Gluon, AlphaIC’s first AI/ ML Co-Processor, has been successfully taped out and we are planning to develop a more advanced AI/ ML Co-Processor which can be used in Edge Inference as well as Edge Learning applications. We have applied for multiple patents among which quite a few are granted and will continue to apply more to enhance our IP portfolio. The engineering team is led by Industry experts from SoC Design, System Design and Edge AI/ ML Application Development areas. We have raised Series A funding and in the process of raising further funds from leading VC firms
+	- AlphaIC, based in the US and India, designs and manufactures AI/ ML Co-Processor targeted for vision inference applications. Gluon, AlphaIC's first AI/ ML Co-Processor, has been successfully taped out and we are planning to develop a more advanced AI/ ML Co-Processor which can be used in Edge Inference as well as Edge Learning applications. We have applied for multiple patents among which quite a few are granted and will continue to apply more to enhance our IP portfolio. The engineering team is led by Industry experts from SoC Design, System Design and Edge AI/ ML Application Development areas. We have raised Series A funding and in the process of raising further funds from leading VC firms
 	- 1) Will work with system architects to understand the functional and performance requirements of a unit or feature.
 	- 2) Define micro-architecture and develop RTL for a module and feature.
 	- 3) Responsible for IP / sub-system level micro-architecture development and RTL coding.
@@ -4301,7 +4301,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Experience in video streaming and/or image processing design will be added advantage
 	- Neural network inference experience with resource constrained devices like FPGA/microprocessors will be added advantage
 + skill set:
-	- “Plumb” new design content into the SiFive’s Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
+	- “Plumb” new design content into the SiFive's Chisel/FIRRTL framework to enable automatic configuration/generation of documentation, verification testbenches and tests, and packaged software.
 	- Performing initial sandbox verification, and work with design verification team to create and execute thorough verification test plans.
 	- Knowledge of vector architecture and concepts.
 	- Prior experience designing high-performance vector and/or SIMD processors/units.
@@ -4479,7 +4479,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience in constrained-random verification is a strong plus
 + skill set:
 	- Flex-Logix Inference Software team is looking for Applications engineer or Software engineer, ideally with an EDA background. You will serve as an internal application engineer between its Softlogic group (Verilog generation and optimization) and its EFLX compiler (primarily place-and-route technology).  The position will report to the Senior Director of FPGA Technology. The successful applicant will serve as a bridge between the two groups and as an ambassador for the backend technology (these groups) to the customer application engineering group.  As such, the position offers great upward growth potential, including direct paths into either software or hardware engineering, customer application engineering, or management.
-	- As senior EDA application engineer, you will be the bridge between the Verilog and Place and Route teams, and from those groups to the rest of Flex Logix.  You will work at the application level to understand the performance of Flex Logix’s backend solutions, provide ideas and suggestions to the backend team to improve performance, debug applications that are failing, and pinpoint areas of improvement for the backend team. In order to perform these responsibilities, you will need to develop a reasonably deep understanding of backend eFPGA implementation as well as a user level understanding of neural network applications.
+	- As senior EDA application engineer, you will be the bridge between the Verilog and Place and Route teams, and from those groups to the rest of Flex Logix.  You will work at the application level to understand the performance of Flex Logix's backend solutions, provide ideas and suggestions to the backend team to improve performance, debug applications that are failing, and pinpoint areas of improvement for the backend team. In order to perform these responsibilities, you will need to develop a reasonably deep understanding of backend eFPGA implementation as well as a user level understanding of neural network applications.
 	* Collaborating with the applications, softlogic, architecture, and compiler teams to determine low-latency, high-throughput schemes for executing neural networks on our ML accelerator.
 	* Understanding low level operator/algorithm implementation and developing APIs to invoke individual operators at the graph level.
 	* Making minor modifications to operator/algorithm implementations.
@@ -5394,7 +5394,7 @@ Skill sets for application engineers of different EDA products:
 		* Set technical and research roadmap for AI Foundation or even company level machine learning roadmaps (at principal level) and able to lead its implementation
 		* The ability to solve hardest issues of AI Foundation team from fundamental algorithm development, implementation and optimization to deliver product metrics
 		* Lead cross-organizational projects to improve features/models that benefit company OKR
-		* Set visions for company’s research direction to be industry leading in areas of personalized discovery and related areas
+		* Set visions for company's research direction to be industry leading in areas of personalized discovery and related areas
 		* In this position, you are expected to utilize your industry leading expertise on one or more of following R&D areas to provide cutting edge solutions or core technologies for SmartNews recommendation systems (Ads, News, etc). At principal level, you are required to have overall understanding of corporate AI landscape, and set visions/roadmaps in its directions
 		* General Machine Learning, Deep Learning
 		* Natural Language Processing (entity recognition, categorization, text embedding, etc)
@@ -5501,7 +5501,7 @@ Skill sets for application engineers of different EDA products:
 	- Development of AI profiling tools for neural processor engines to optimize the entire deep neural network architectures
 	- Robust learning through minimal data, unsupervised learning, and on-device learning
 	- Basic knowledge of leading edge neural network models from TensorFlow/Tlite, Keras, Caffe/Caffe2
-	- Bachelor’s degree/Master’s degree. in Computer Science, Machine Learning, Mathematics, robotics, or similar field (Master’s degree is preferred)
+	- Bachelor's degree/Master's degree. in Computer Science, Machine Learning, Mathematics, robotics, or similar field (Master's degree is preferred)
 	- 1+ years of industry/academia experience with deep learning algorithm development and optimization.
 	- Experience in deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL)
 	- Experience with classification and regression algorithms (e.g. SVM, MLP)
@@ -5514,7 +5514,7 @@ Skill sets for application engineers of different EDA products:
 	- Descript is offering research internships to PhD and motivated masters students working in machine learning, human computer interaction, natural language processing, computer vision or computer audition. At Descript, we make technology that is transformative for content creation and media editing. Join us and help a passionate cross-disciplinary team of researchers, engineers, and designers build the next generation of media creation tools.
 	- As a research intern, you will collaborate with our research and/or engineering teams to develop exciting and novel technology, as well as work closely with researchers who regularly publish in top-tier journals and conferences. We are also interested in fostering ongoing collaborations, and are open to longer term projects that may become part of your PhD thesis, while also having meaningful impact for Descript users. Descript is the perfect vehicle for deploying cutting edge research to real users.
 	- Our research team is located primarily in Montreal, with some researchers working from France, as well as the Bay Area. Due to the COVID-19 pandemic, the location of the internship will be flexible, if not remote. You will be paired with a full-time researcher on a project tailored towards your skillset and interests.  The expected duration of the internship is anywhere between 3-6 months, and start dates are flexible.
-	- Pursuing a PhD or Master’s degree with a focus on one or more of the following research areas: computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision.
+	- Pursuing a PhD or Master's degree with a focus on one or more of the following research areas: computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision.
 	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
 	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
 + Distributed Deep Learning
@@ -5569,7 +5569,7 @@ Skill sets for application engineers of different EDA products:
 + skill set for SOFTWARE ENGINEER (INTERN)—DEEP LEARNING/MACHINE LEARNING /COMPUTER VISION
 	- Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.
 	- Development of AI profiling tools for neural processor engines to optimize the deep neural network architectures
-	- Bachelor's /Master’s degree. in Computer Science, Machine Learning, or similar field (Master’s degree is preferred)
+	- Bachelor's /Master's degree. in Computer Science, Machine Learning, or similar field (Master's degree is preferred)
 	- Basic knowledge on object-oriented software design skills
 	- Software engineering experience in an academic or industrial setting.
 	- Experience with Python, C++/C, and object-oriented programming skills demonstrated through relevant industry experience.
@@ -5578,7 +5578,7 @@ Skill sets for application engineers of different EDA products:
 	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
 	- Location: San Diego, CA.
 + skill set:
-	- At Toyota Research Institute (TRI), we’re building a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+	- At Toyota Research Institute (TRI), we're building a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we'll help...
 		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
 		* Bring advanced mobility technology to market faster.
@@ -5608,7 +5608,7 @@ Skill sets for application engineers of different EDA products:
 + skill set for Research Scientist:
 	- Responsibilities:
 		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
-		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Exploit Graphcore's hardware to develop and deliver models of unprecedented scale and performance.
 		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
 		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
 		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
@@ -5624,14 +5624,14 @@ Skill sets for application engineers of different EDA products:
 		* Experience in using or designing low-precision numerical formats.
 		* Kaggle competitions or other evidence of practical expertise.
 + skill set:
-	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help...
+	- At Toyota Research Institute (TRI), we're working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we'll help...
 		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
 		* Bring advanced mobility technology to market faster.
 		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
 		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
-	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
-	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
+	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We're continually searching for the world's best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you're interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
 	- Responsibilities:
 		* Research, design, and develop new deep learning algorithms
 		* Be a leader in high level algorithm decisions to ensure fast and accurate development cycles.
@@ -5655,13 +5655,13 @@ Skill sets for application engineers of different EDA products:
 		* Strong C++ software development skills.
 		* Proficient in Python and Unix is a minimum. Additional knowledge of C++ / CUDA is a plus
 + skill set:
-	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we:
+	- At Toyota Research Institute (TRI), we're working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we:
 		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
 		* Bring sophisticated mobility technology to market faster.
 		* Discover new materials that will make drive batteries and hydrogen fuel cells smaller, lighter, less expensive, and more powerful.
-	- Our work is guided by a dedication to safety – in how we research, develop, and validate the performance of technology to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries Ph.D. degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
-	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun start-up environment with forward-thinking people who enjoy solving global problems and the financial backing to successfully achieve our goals. If you’re passionate about working with smart people to make cars safer, enable the elderly to age in place, or design alternative fuel sources, TRI is the place for you. ‒ Start your impossible with us.
+	- Our work is guided by a dedication to safety – in how we research, develop, and validate the performance of technology to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries Ph.D. degrees. We're continually searching for the world's best talent ‒ people who are ready to define the new world of mobility with us!
+	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun start-up environment with forward-thinking people who enjoy solving global problems and the financial backing to successfully achieve our goals. If you're passionate about working with smart people to make cars safer, enable the elderly to age in place, or design alternative fuel sources, TRI is the place for you. ‒ Start your impossible with us.
 	- Our Machine Learning (ML) team is looking for Research Scientists in a variety of areas including Self-Supervised Learning, Reinforcement Learning (especially Model-based and Offline), Vision-as-Inverse-Graphics (including Differentiable Rendering), and ML Safety (including ML theory, AI ethics, causality). We are aiming to make progress on some of the hardest scientific challenges around the safe and effective usage of large robotic fleets, simulation, and prior knowledge (geometry, physics, proven experience, behavioral science), not only for automation but also for human augmentation.
 	- As a Research Scientist, you will work with a multidisciplinary team proposing, conducting, and transferring cutting-edge research in Machine Learning. You will use large amounts of sensory data and simulation to solve open problems, publish at top academic venues, and test your ideas in the real world (including our robots (https://www.tri.global/news/virtual-robotics-event/) and test vehicles (https://www.youtube.com/watch?v=0OLcLZwsgzY) of course!). You will also work closely with other teams at TRI to transfer and ship our most successful algorithms and models towards world-scale long-term autonomy and advanced assistance systems. Responsibilities and required qualifications are as follows:
 	- Responsibilities:
@@ -5672,7 +5672,7 @@ Skill sets for application engineers of different EDA products:
 		* Present results in verbal and written communications, internally, at top international venues, and via open-source contributions to the community.
 		* Lead collaborations with our external research partners (e.g., Stanford, Berkeley, MIT) and mentor research interns.
 	- Qualifications:
-		* Bachelor’s or Master’s degree in a quantitative field (e.g. Computer Science, Mathematics, Physics, Engineering, Chemistry). Ph.D. in Machine Learning, Robotics, Computer Vision, or related fields preferred.
+		* Bachelor's or Master's degree in a quantitative field (e.g. Computer Science, Mathematics, Physics, Engineering, Chemistry). Ph.D. in Machine Learning, Robotics, Computer Vision, or related fields preferred.
 		* Deep expertise in at least one key ML area among Computer Vision, RL, ML theory, AI ethics.
 		* Consistent track record of publishing at high-impact conferences/journals (CVPR, ICLR, NeurIPS, RSS, ICRA, ICCV, ECCV, PAMI, IJCV, etc.) on the aforementioned topics.
 		* Proficient at scientific python, Unix, and a common DL framework (preferably PyTorch). Experience with distributed learning (especially on AWS) is a plus.
@@ -5681,7 +5681,7 @@ Skill sets for application engineers of different EDA products:
 		* You are a reliable team-player. You like to think big and go deeper. You care about openness and delivering with integrity.
 	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
 + skill set:
-	- The machine learning research scientist’s primary role is to work with other R&D team members to imagine, define, and develop BrainChip’s spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- The machine learning research scientist's primary role is to work with other R&D team members to imagine, define, and develop BrainChip's spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip's Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team's algorithm development for the next version of the Akida NSoC.
 	- Ph.D. in computer science (or equivalent) or MS in computer science with +5 years of machine learning experience
 	- 3+ years of machine learning experience using Python
 	- Experience with supervised, unsupervised, and reinforcement learning
@@ -5691,12 +5691,12 @@ Skill sets for application engineers of different EDA products:
 	- Experience with event-based algorithms
 	- Experience with Git version control system
 + skill set for Deep Learning Architect Intern:
-	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today’s hardware and software, this is the place to be.
+	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today's hardware and software, this is the place to be.
 	- Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
 	- Guide development of future generations of deep learning processors and computing platforms.
 	- Develop detailed performance models and simulators for computing systems accelerating DL training.
 	- Collaborate across the company to guide the direction of machine learning at NVIDIA; spanning teams from hardware to software and research to production.
-	- Drive HW/SW co-design of NVIDIA’s full deep learning platform stack, from silicon to DL frameworks.
+	- Drive HW/SW co-design of NVIDIA's full deep learning platform stack, from silicon to DL frameworks.
 	- You are pursuing a PhD or MS in CS, EE or CSEE.
 	- Strong background in computer architecture, preferably with focus on high-performance parallel processors.
 	- Background in machine learning and neural networks, in particular training.
@@ -5722,7 +5722,7 @@ Skill sets for application engineers of different EDA products:
 	- Open source project ownership or contribution, healthy GitHub repositories, guiding and/or mentoring experience
 + skill set:
 	- NVIDIA is searching for world-class researchers in deep learning, focused on large-scale and high-precision medical imaging analysis, federated learning to join our applied research team. We believe that Deep Learning accelerated AI will completely reshape life sciences, medicine, and healthcare as an industry. To foster that transformation, NVIDIA is democratizing deep learning by providing an end-to-end AI computing platform crafted for the healthcare community.
-	- GPU-accelerated deep learning solutions can be used to craft more sophisticated neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making. Innovations in AI are advancing the future of precision medicine and population health management in spectacular ways. We are passionate about applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA’s hardware/software AI platform. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
+	- GPU-accelerated deep learning solutions can be used to craft more sophisticated neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making. Innovations in AI are advancing the future of precision medicine and population health management in spectacular ways. We are passionate about applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA's hardware/software AI platform. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
 	- Craft DL approaches to solving medical imaging analysis, federated learning problems.
 	- Construct and curate large problem datasets.
 	- Design and implement medical imaging, computer vision, machine learning, federated learning techniques sought at solving specific problems.
@@ -5756,8 +5756,8 @@ Skill sets for application engineers of different EDA products:
 	- First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
 	- Experience in developing and debugging in C/C++, Python, or C#
 + skill set:
-	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
-	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify's Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that's true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify's impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
 	- Contribute to the wider research community by publishing. 
 	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
 	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
@@ -5766,9 +5766,9 @@ Skill sets for application engineers of different EDA products:
 	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
 	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
 	- ***You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.***
-	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are curious about how interaction design, data collection strategies, and people's perceptions affect Machine Learning outcomes.
 	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
-	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people's interaction with technology.
 	- Knowledge or experience working in emerging markets is a plus.
 	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
 	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
@@ -5979,7 +5979,7 @@ Skill sets for application engineers of different EDA products:
 	- Machine Learning Researcher
 	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, rapid-feedback platform for ML experimentation. 
 	- Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software engineering roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
-	- We’re looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
+	- We're looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
 	- As an ML researcher, your expertise will also shape the firm's future ML developments including hiring new ML researchers, attending conferences, teaching techniques to teammates, and setting firmwide goals.
 + skill set:
 	- Research Scientist
@@ -5997,7 +5997,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- AI/ML Research Scientist
 	- Santa Clara Valley (Cupertino), California, United States
-	- Apple 3DML team is looking for software engineers to develop and deploy computer vision technologies (2D and 3D) for next generation of Apple products. You’ll join a phenomenal team of researchers and engineers with deep experience in deep learning, machine learning, computer vision and software engineering. The team has an outstanding track record in shipping high visibility products empowering Apple new hardwares. More specifically, you will be working closely with ML Applied research scientists in the team to bring CVML prototypes to life and deploy them on shipping frameworks. You’ll participate in crafting systems, algorithm, and optimization efforts to ship product with impact. No matter whether you have worked on computer vision and machine learning before, we provide you with the best experience, to learn, grow and contribute.
+	- Apple 3DML team is looking for software engineers to develop and deploy computer vision technologies (2D and 3D) for next generation of Apple products. You'll join a phenomenal team of researchers and engineers with deep experience in deep learning, machine learning, computer vision and software engineering. The team has an outstanding track record in shipping high visibility products empowering Apple new hardwares. More specifically, you will be working closely with ML Applied research scientists in the team to bring CVML prototypes to life and deploy them on shipping frameworks. You'll participate in crafting systems, algorithm, and optimization efforts to ship product with impact. No matter whether you have worked on computer vision and machine learning before, we provide you with the best experience, to learn, grow and contribute.
 	- Strong academic and publication record in computer vision.
 	- Solid programming skills with Python.
 	- Deep understanding large foundation models.
@@ -6015,7 +6015,7 @@ Skill sets for application engineers of different EDA products:
 	- At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $116,100 and $208,300 annualized, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
 	- Proactive Intelligence, Applied Research Scientist — Generative AI
-	- AI represents a huge opportunity to elevate Apple’s products and experiences for billions of people globally. We are looking for Applied Research Scientists with a background and interest in Generative AI. You will be leveraging state-of-the-art Generative models to ship extraordinary products, services, and customer experiences for the iPhone, Mac, Apple Watch, iPad and more. 
+	- AI represents a huge opportunity to elevate Apple's products and experiences for billions of people globally. We are looking for Applied Research Scientists with a background and interest in Generative AI. You will be leveraging state-of-the-art Generative models to ship extraordinary products, services, and customer experiences for the iPhone, Mac, Apple Watch, iPad and more. 
 	- The mission of Proactive Intelligence is to improve Apple platforms by better understanding, anticipating, and adapting to user behavior by using machine learning to build phenomenal features that are built right into Apple platforms. Our team provides an opportunity to be part of an incredible research and engineering organization within Apple. The ideal candidate for this role will have industry experience working on a range of modeling problems e.g., Conversational Agents, Sequential Decision Making, Reinforcement Learning, Autonomous Systems, Human Preference Learning and Large Language Models (LLMs). Working knowledge of large-scale data processing especially with structured data, probabilistic modeling and statistics will broaden your role and effectiveness in this position.
 	- Strong programming skills in Python and/or C++ with 5+ years of experience in using these languages for machine learning (ML) modeling and applied research
 	- Proficiency in using ML toolkits such as PyTorch, TensorFlow, SkLearn etc.
@@ -6034,7 +6034,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience developing software for mobile devices and heterogenous compute environments (eg. iOS, watchOS)
 + skill set:
 	- Proactive Intelligence, Applied Research Scientist — Generative AI
-	- AI represents a huge opportunity to elevate Apple’s products and experiences for billions of people globally. We are looking for Applied Research Scientists with a background and interest in Generative AI. You will be leveraging state-of-the-art Generative models to ship extraordinary products, services, and customer experiences for the iPhone, Mac, Apple Watch, iPad and more. 
+	- AI represents a huge opportunity to elevate Apple's products and experiences for billions of people globally. We are looking for Applied Research Scientists with a background and interest in Generative AI. You will be leveraging state-of-the-art Generative models to ship extraordinary products, services, and customer experiences for the iPhone, Mac, Apple Watch, iPad and more. 
 	- The mission of Proactive Intelligence is to improve Apple platforms by better understanding, anticipating, and adapting to user behavior by using machine learning to build phenomenal features that are built right into Apple platforms. Our team provides an opportunity to be part of an incredible research and engineering organization within Apple. The ideal candidate for this role will have industry experience working on a range of modeling problems e.g., Conversational Agents, Sequential Decision Making, Reinforcement Learning, Autonomous Systems, Human Preference Learning and Large Language Models (LLMs). Working knowledge of large-scale data processing especially with structured data, probabilistic modeling and statistics will broaden your role and effectiveness in this position.
 	- Strong programming skills in Python and/or C++ with 5+ years of experience in using these languages for machine learning (ML) modeling and applied research
 	- Proficiency in using ML toolkits such as PyTorch, TensorFlow, SkLearn etc.
@@ -6098,7 +6098,7 @@ Skill sets for application engineers of different EDA products:
 	- Participation in open source community
 + skill set:
 	- Machine Learning, AI Research Internship (FALL)
-	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer’s real-world operations requires new ideas, approaches and techniques.
+	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer's real-world operations requires new ideas, approaches and techniques.
 	- Success in the real world requires a team that represents that world: diversity of backgrounds, points of view, and experiences. Our common denominator: ambitious expectations, love of learning, empathy for those around us, and a team-first mindset.
 	- The Covariant Brain is a Universal AI Platform that powers all robotic applications at Covariant. The Brain is a collection of state-of-the-art models, algorithms, and APIs that enable all intelligent behavior of the robot, from perception to 3d object understanding, grasp sampling, motion planning, and control. 
 	- We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, robotics, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack.
@@ -6292,6 +6292,80 @@ Skill sets for application engineers of different EDA products:
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
 + Experience in GPU/CUDA/TensorRT
 + skill set:
+	- AI Engineer
+	- As an AI Engineer (a Member of Technical Staff role on our Forward Deployed team) you will work directly with customers to quickly understand their greatest problems and design and implement solutions using Large Language Models.
+	- You’ll apply your problem-solving ability, creativity, and technical skills to close the last-mile gap in Enterprise AI adoption. You’ll be able to deliver products like early startup CTOs/CEOs do and disrupt some of the most important industries and institutions globally!
+	- Own and build large new areas within our product.
+	- Work across backend, frontend, and customize Large Language Models.
+	- Experiment at a high velocity and level of quality to engage our customers and eventually deliver solutions that exceed their expectations.
+	- Work across the entire product lifecycle from conceptualization through production.
+	- 3+ years of model training, deployment, and maintenance in a production environment.
+	- Strong skills in NLP and deep learning.
+	- Experience scaling products at hyper-growth startup.
+	- Strong written and verbal communication skills.
+	- Ability and interest to travel up to 25%, as needed to client sites, but flexible based on personal preferences.
+	- Experience improving LLM performance for custom domains via fine tuning or RLHF.
+	- Experience in Information Retrieval systems for document question answering.
+	- Experience in day-to-day NLP for industry using Python and related toolchains (SpaCy, HuggingFace, NLTK, etc.).
+	- Published research in areas of machine learning at major conferences and/or journals.
++ skill set:
+	- Machine Learning Intern/Co-op (Winter 2024)
+	- Ship state of the art models to production.
+	- Design and implement novel research ideas.
+	- Build elegant training/deployment pipelines.
+	- Join us at a pivotal moment, shape what we build and wear multiple hats as an intern!
+	- Please Note: To be eligible for this position you should be a student currently enrolled in a post-secondary program, available for a full-time 3-6 month internship, co-op, or research work term (January - April). We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+	- Design, train and improve upon cutting-edge models
+	- Help us develop new techniques to train and serve models safer, better, and faster
+	- Train extremely large-scale models on massive datasets
+	- Explore continual and active learning strategies for streaming data
+	- Publish your work in top-tier conferences and journals
+	- Learn from experienced senior machine learning technical staff
+	- Work closely with product teams to develop solutions
+	- Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR
+	- Experience using large-scale distributed training strategies
+	- Familiarity with autoregressive sequence models, such as Transformers
+	- Strong communication and problem-solving skills
+	- A demonstrated passion for applied NLP models and products
+	- Bonus: experience writing kernels for GPUs using CUDA
+	- Bonus: experience training on TPUs
+	- Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP)
++ skill set:
+	- Software Engineer Intern/Co-op (Winter 2024)
+	- This role is for students who are excited about building the next generation of machine learning models and NLP products. Our SWE roles can cover creating datasets for machine learning, scaling the pods to serve our API, or even building out new security features on our platform. We don't distinguish much between interns and full-time employees, and you’ll have plenty of opportunities to push code to production. You'll have full autonomy and ownership over high-impact work, and will be backed by the support of an incredible team or leaders & mentors. Join us at a pivotal moment, shape what we build, and wear multiple hats!
+	- We're currently hiring for multiple teams and roles, including Frontend, Backend, Full-stack, and Infrastructure roles. We'll take your interests & experience into account throughout the application process.
+	- Please Note: To be eligible for this position, you should be currently enrolled in a post-secondary program and available for a full-time 3-6 month internship, co-op, or research work term (January - April). We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+	- Ship delightful experiences for our user-facing products, meticulously crafting code for browsers or server code
+	- Build features for the API platform that directly impact users
+	- Design and implement robust data pipelines (crawlers, storage, filters)
+	- Design and implement scalable services or infrastructure for machine learning development
+	- Build internal tooling (CI/CD, dev utilities) to move faster together
+	- Build tech writing skills through maintaining and contributing to technical documentation, both internal and external facing
+	- Keep up with the cutting edge and adopt new technologies to improve performance and reliability across Cohere
++ skill set:
+	- Member of Technical Staff
+	- Design and implement novel research ideas. 
+	- Ship state of the art models to production.
+	- Deep connections to academia.
+	- We do not delineate strongly between engineering and research. Everyone will contribute to writing production code and conducting research depending on individual interest and organizational need.
+	- Design, train and improve upon cutting-edge models
+	- Develop new techniques to train and serve models safer, better, and faster
+	- Train extremely large scale models on massive datasets
+	- Engage in research collaborations with our partner organizations and academic affiliations
+	- Publish your work in top-tier conferences and journals
+	- Work closely with product teams to develop solutions
+	- Assist our legal teams with preparation of patents on developed IP
+	- Join us at a pivotal moment, shape what we build and wear multiple hats!
+	- Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR
+	- Experience using large-scale distributed training strategies
+	- Familiarity with autoregressive sequence models, such as Transformers
+	- Strong communication and problem-solving skills
+	- A demonstrated passion for applied NLP models and products
+	- Bonus: experience writing kernels for GPUs using CUDA
+	- Bonus: experience training on TPUs
+	- Bonus: paper at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP)
+	- This is neither an exhaustive nor necessary set of attributes. Even if none of these apply to you, but you believe you will contribute to Cohere, please reach out. We have a wide variety of backgrounds at Cohere.
++ skill set:
 	- Collaborate within the team across product, design, product, infrastructure, strategy and engineering.
 	- Mentor, learn and share knowledge with others along the way.
 	- Have impact and have fun
@@ -6322,7 +6396,7 @@ Skill sets for application engineers of different EDA products:
 		* https://tech.iheart.com/ihrpi-a-simple-solution-to-python-package-management-874e373f5838
 		* https://tech.iheart.com/real-time-music-recommendations-for-new-users-with-amazon-sagemaker-364b346d07db
 + skill set:
-	- We’re looking for a Research Engineer - Deep Learning  to join Team Snapchat! As a member of the Augmented Reality team, you will train state of the art Machine Learning models. Working closely with the Research team, you will collaborate with engineers and designers and find new ways to apply machine learning to create exciting products and breakthrough interactive experiences for millions of Snapchatters around the world.
+	- We're looking for a Research Engineer - Deep Learning  to join Team Snapchat! As a member of the Augmented Reality team, you will train state of the art Machine Learning models. Working closely with the Research team, you will collaborate with engineers and designers and find new ways to apply machine learning to create exciting products and breakthrough interactive experiences for millions of Snapchatters around the world.
 	- Design and implement machine learning and computer vision solutions to be used by millions of Snapchatters
 	- Develop deep architectures and optimization techniques for cutting-edge solutions
 	- Write production software used by millions of Snapchatters
@@ -6395,7 +6469,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- SOFTWARE ENGINEER 1 - MACHINE LEARNING @ Abacus.AI
 	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
-	- Candidates will need to have a BS in computer science from an accredited university. In addition, we’re looking for engineers who have the following:
+	- Candidates will need to have a BS in computer science from an accredited university. In addition, we're looking for engineers who have the following:
 		* Working knowledge of software engineering - through job experience or coursework. Experience with Python preferred
 		* Have at least 6 months of professional work experience in one of the following: ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
 		* Coursework or work experience with machine learning algorithms such as classifiers, anomaly detection, and clustering
@@ -6406,10 +6480,10 @@ Skill sets for application engineers of different EDA products:
 		* 5 years of professional software engineering experience. Some experience with Python is required.
 		* Have at least 1 year of professional work experience in one of the following: data infrastructure, ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
 + skill set:
-	- The Think Tank Team is an interdisciplinary collective of researchers, designers, scientists and engineers located in Mountain View, CA. Our mandate is to explore what’s next for Samsung by applying bleeding-edge advances in software, machine learning, computer-human interaction, sensor and display technologies to solve real-world challenges that will transform users’ experiences in ways we can only just glimpse on the horizon today.
+	- The Think Tank Team is an interdisciplinary collective of researchers, designers, scientists and engineers located in Mountain View, CA. Our mandate is to explore what's next for Samsung by applying bleeding-edge advances in software, machine learning, computer-human interaction, sensor and display technologies to solve real-world challenges that will transform users' experiences in ways we can only just glimpse on the horizon today.
 	- TTT began as a small team in 2012 and brought its first concept -- the Samsung Gear watch -- to market one year later. Since then we have released several projects such as the Beyond 3D/360/4k camera for AR/VR cinematography, the BotChef cooking robot, the Ballie personalized companion, and others. We work on a wide variety of time scales, advancing science and applying it to create new products and experiences that will impact the lives of millions.
 	- Our team members represent a diverse skillset, including electrical engineering, computer engineering, signal processing, machine learning, computer vision, visual design, interaction design, industrial design, optics, physics, and more from institutions such as MIT, Caltech, Stanford, CMU, Oxford and others. We believe that the best way to show is to design and build prototypes, and that the best products come from teams collaborating to understand and solve a problem from multiple perspectives. We believe that design and creativity are core duties of every member of our team.
-	- You must be passionate about creating new devices and technologies, and ready to learn on the fly, solve complex problems, work closely with others, and creatively approach design and engineering tasks at all scales. We believe a person’s work speaks for itself, and welcome everyone with the right drive, attitude, and skills.
+	- You must be passionate about creating new devices and technologies, and ready to learn on the fly, solve complex problems, work closely with others, and creatively approach design and engineering tasks at all scales. We believe a person's work speaks for itself, and welcome everyone with the right drive, attitude, and skills.
 	- BS/MS/PhD degree in Computer Science or related technical field or equivalent practical experience.
 	- 2 years of work experience in Machine Learning or Artificial Intelligence in real-world settings.
 	- Strong C++ and/or Python skills.
@@ -6427,7 +6501,7 @@ Skill sets for application engineers of different EDA products:
 	- Develop solutions and algorithms that can be applied in variety of real-world applications and devices.
 	- Work closely with researchers and engineers from variety of disciplines to develop new algorithms, product concepts and core-technologies that will bring new business opportunities to Samsung.
 + skill set:
-	- Our Acoustic Modeling team is collaborating closely with our Machine Learning Engineering team to train, test, and deploy a state-of-the-art, deep-learning based system to transcribe voice into text. This critical work will add to our customers’ ease of use and control as we continue to differentiate an end-to-end Sonos experience for them.
+	- Our Acoustic Modeling team is collaborating closely with our Machine Learning Engineering team to train, test, and deploy a state-of-the-art, deep-learning based system to transcribe voice into text. This critical work will add to our customers' ease of use and control as we continue to differentiate an end-to-end Sonos experience for them.
 	- Train state of the art acoustic models
 	- Minimize the model footprint while keeping high performance in both noisy and far field conditions
 	- Manage, scale and optimize our Kaldi training pipeline (data management, infrastructure and metric tracking)
@@ -6457,6 +6531,25 @@ Skill sets for application engineers of different EDA products:
 	- Preferred skill/experience
 		* Experience with cloud based architecture (e.g. Amazon Web Services)
 		* Strong interest in news media and our mission
++ skill set:
+	- Senior Staff Software Engineer, Model Serving
+	- We're a team of engineers, thinkers, and champions whose aim is to give technology language. Every day our team is breaking new ground, as we build transformational AI technology and products for enterprise and developers that wish to harness the power of Large Language Models.
+	- We're driven by ambition, as we firmly believe that our technology has the potential to revolutionise the way industries engage with natural language. Our strong technical foundation speaks for itself, with our team composed of world-class experts who have collectively accumulated hundreds of thousands of citations in academia.
+	- The Cohere team is a collective of college dropouts, PhDs, alumni of big tech and scrappy start-ups, new grads and career pivots, who believe a diverse team is the key to a safer, more responsible technology. At Cohere, work isn't the opposite of play, as we build the future of language AI with team members on almost every continent in the world, working from high rises, cabins, tour buses, and dog-friendly offices.
+	- There's no better time to herald the next step with us as we shape the future of Generative AI.
+	- Are you energized by building high-performance, scalable and reliable machine learning systems? Do you want to help define and build the next generation of AI platforms powering advanced NLP applications?  We are looking for Senior Staff Software Engineers to join the Model Serving team at Cohere. The team is responsible for developing, deploying, and operating the AI platform delivering Cohere's large language models through easy to use API endpoints. In this role, you will work closely with many teams to deploy optimized NLP models to production in low latency, high throughput, and high availability environments. You will also get the opportunity to interface with customers and create customized deployments to meet their specific needs.
+	- We are looking for candidates with a range of experiences for multiple roles, from senior to staff-level engineers.
+	- Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+	- Experience with serving ML models
+	- Experience designing, implementing, and maintaining a production service at scale
+	- Familiarity with inference characteristics of deep learning models, specifically, Transformer based architectures.
+	- Familiarity with computational characteristics of accelerators (GPUs, TPUs, and/or Inferentia), especially how they influence latency and throughput of inference.
+	- Strong understanding or working experience with distributed systems
+	- Experience in performance benchmarking, profiling, and optimization.
+	- Experience with cloud infrastructure (e.g. AWS, GCP)
+	- Experience in Golang (or, other languages designed for high-performance scalable servers)
+	- If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! If you consider yourself a thoughtful worker, a lifelong learner, and a kind and playful team member, Cohere is the place for you.
+	- We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants of all kinds and are committed to providing an equal opportunity process. Cohere provides accessibility accommodations during the recruitment process. Should you require any accommodation, please let us know and we will work with you to meet your needs.
 + skill set:
 	- Responsibility
 		* Research and core technology development for machine learning
@@ -6756,7 +6849,7 @@ Skill sets for application engineers of different EDA products:
 		* Data lineage or data catalog
 	-  bottlenecks holding back further AI adoption:
 		* Lack of data or data quality issues
-		* Company culture doesn’t yet recognize the needs for AI
+		* Company culture doesn't yet recognize the needs for AI
 		* Lack of skilled people or difficulty hiring the required roles
 		* Efficient tuning of hyperparameters
 		* Difficulties in identifying appropriate business use cases
@@ -6791,10 +6884,10 @@ Skill sets for application engineers of different EDA products:
 	- Neura - User Awareness with AI
 + skill set:
 	- Software Engineer, Model Inference
-	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
-	- We are looking for a systems expert to be one of our founding engineers, who’s excited to reinvent programming languages with AI and enable a software engineering revolution powered by AI. We can teach you the AI part, as we’ve taught over 100k people around the world.
-	- You’ll be working directly with the founders, influencing the product direction, and playing a key role in leading and growing our team. 
-	- Most of all, we’re looking for someone who is eager to iterate fast on building new ML cloud systems, and is hungry to build and own enormous contributions.
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we're backed by leading computing and technology companies.
+	- We are looking for a systems expert to be one of our founding engineers, who's excited to reinvent programming languages with AI and enable a software engineering revolution powered by AI. We can teach you the AI part, as we've taught over 100k people around the world.
+	- You'll be working directly with the founders, influencing the product direction, and playing a key role in leading and growing our team. 
+	- Most of all, we're looking for someone who is eager to iterate fast on building new ML cloud systems, and is hungry to build and own enormous contributions.
 	- 2+ Experience building and rapidly prototyping production cloud based software
 	- 2+ years of experience in researching or contributing to ML/DL systems and frameworks
 	- Strong coding skills (in at least one of Python and C++)
@@ -6811,8 +6904,8 @@ Skill sets for application engineers of different EDA products:
 	- Advanced understanding of SQL, Python, PySpark, Scala, Hive, h2o, as well as machine learning techniques and algorithms, such as linear / logistic regression, tree-based learners, Gradient boosting, SVM, NLP, time series modeling, clustering, etc.
 + skill set:
 	- Machine Learning Engineer
-	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.
-	- We are looking for exceptionally talented Machine Learning Engineers to join our small team. You will be responsible for end-to-end ownership of scalable Machine Learning systems — from data pipelines, to training, to analyzing performance in a production environment. Since you’ll be joining an early-stage startup at the ground level, you’ll need to be able to wear multiple hats and thrive while working in a dynamic environment. 
+	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we're backed by leading computing and technology companies.
+	- We are looking for exceptionally talented Machine Learning Engineers to join our small team. You will be responsible for end-to-end ownership of scalable Machine Learning systems — from data pipelines, to training, to analyzing performance in a production environment. Since you'll be joining an early-stage startup at the ground level, you'll need to be able to wear multiple hats and thrive while working in a dynamic environment. 
 	- Design and train new production-ready machine learning models. You will lead the development of new machine learning models and data pipelines. You will apply fundamental machine learning concepts to quickly iterate and debug model related issues and develop new techniques to handle unique cases with each customer. 
 	- Collect, process and analyze data. A big part of our machine learning projects is understanding and analyzing the data. You must build pipelines and processes for cleaning and organizing data as well as build tools to help analyze data. You must also understand what types of data models are struggling with and use this analysis to propose solutions.
 	- Analyze and improve existing models. You will also be responsible for analyzing performance of our existing models and work to improve their accuracy by applying the latest published research, feature engineering and tuning of hyperparameters.
@@ -6823,7 +6916,7 @@ Skill sets for application engineers of different EDA products:
 	- Excellent communication skills and the ability to have in-depth technical discussions with both the engineering team and business people
 	- Familiarity with machine learning frameworks and libraries (e.g., scikit-learn, Keras, TensorFlow, PyTorch)
 	- Industry experience with relational databases and SQL-based tools
-	- BSc in Computer Science, Mathematics or similar field; Master’s or Ph.D. degree is a plus
+	- BSc in Computer Science, Mathematics or similar field; Master's or Ph.D. degree is a plus
 	- Self-starter and comfortable working in an early-stage environment
 	- Experience with big data pipeline technologies such as BigQuery, SnowFlake, Spark, Kafka
 	- Research experience in machine learning or artificial intelligence related field
@@ -6922,7 +7015,7 @@ Skill sets for application engineers of different EDA products:
 	- Debug and refactor parts of the SDK based on customer feedback  
 	- Work with electrical engineers to update compiler and runtime libraries
 	- Create profiling and debugging tools for both internal and customer use 
-	- Bachelor’s degree in computer science or related fields 
+	- Bachelor's degree in computer science or related fields 
 	- 2+ years of experience writing industry standard code 
 	- Proficient in at least one object-oriented programming language (i.e., Python, Java, C++) 
 	- Familiarity with Python and C++ 
@@ -6939,17 +7032,17 @@ Skill sets for application engineers of different EDA products:
 	- Experience publishing and maintaining open-source packages
 + skill set:
 	- The use of machine learning to reimagine software applications and service development is exploding.  Companies from every corner of the industry -- the biggest cloud service providers to corporate industrials to financial services to healthcare to retailers -- are exploring new ways of building products and services using data-centric learning models in place of traditional explicit programming.  The drive to deliver more timely and more accurate results is compelling an ever greater need for specialized computing power. GPUs have been hailed as the solution to those computing needs but the industry is actively searching for a better, more efficient solution.  Graphcore has that solution. 
-	- Graphcore’s Intelligence Processing Units, or IPUs, are specifically designed for artificial intelligence and compute-dense graph applications.  These are not GPUs, Graphics Processing Units, but rather graph processors especially adept at the kinds of computations used in understanding relationships within a sea of data.  Architecturally, IPUs looking nothing like GPUs.  They offer performance, latency, and power efficiency advantages a GPU will be unable to match.  Graphcore offers support for popular industry ML frameworks and a full tool suite for developers to innovate both within and outside those frameworks. 
-	- As a Machine Learning Engineer, you will work to port and optimize machine learning and artificial intelligence applications using Graphcore’s Poplar™ software and IPU processors, enabling breakthroughs in this rapidly moving field.
-	- You will work on AI and ML applications, create application notes and blog content, and work closely with Graphcore’s field teams, customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. Having access to world leading compute resources, you will develop applications that push the boundaries of what is possible with machine learning today. You will also act as a senior technical figure within our product support organization, debugging customer issues and providing concise summaries and recommended fixes to our core engineering teams.
-	- In your work you will support some of the world’s top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world’s largest cloud and internet companies. You will need to develop a deep understanding of the IPU architecture and the associated Poplar™ tools and become familiar with leading machine learning frameworks. 
+	- Graphcore's Intelligence Processing Units, or IPUs, are specifically designed for artificial intelligence and compute-dense graph applications.  These are not GPUs, Graphics Processing Units, but rather graph processors especially adept at the kinds of computations used in understanding relationships within a sea of data.  Architecturally, IPUs looking nothing like GPUs.  They offer performance, latency, and power efficiency advantages a GPU will be unable to match.  Graphcore offers support for popular industry ML frameworks and a full tool suite for developers to innovate both within and outside those frameworks. 
+	- As a Machine Learning Engineer, you will work to port and optimize machine learning and artificial intelligence applications using Graphcore's Poplar™ software and IPU processors, enabling breakthroughs in this rapidly moving field.
+	- You will work on AI and ML applications, create application notes and blog content, and work closely with Graphcore's field teams, customers and partners to help them in understanding and getting the most from our Intelligence Processing Unit (IPU) technology. Having access to world leading compute resources, you will develop applications that push the boundaries of what is possible with machine learning today. You will also act as a senior technical figure within our product support organization, debugging customer issues and providing concise summaries and recommended fixes to our core engineering teams.
+	- In your work you will support some of the world's top machine learning innovators at deep learning research groups, at academic institutions, at innovative machine learning start-ups, at leading automotive companies, and at some of the world's largest cloud and internet companies. You will need to develop a deep understanding of the IPU architecture and the associated Poplar™ tools and become familiar with leading machine learning frameworks. 
 	- You will need to develop a deep understanding of the state-of-the-art in artificial intelligence & machine learning domains and work with our customers to develop new techniques which exploit the unique features of our IPU architecture.  We want you to become an industry thought leader on Graphcore technology and machine learning applications in the cloud, in automotive and in embedded applications. You should be interested and keen to present at industry conferences and will be able to back this up with written blogs and compelling content.
 	- Responsibilities
 		* Develop strong technical relationships with researchers and engineers at our customers and partners and help them to develop new algorithms and achieve breakthroughs in artificial intelligence
-		* Become a recognized expert on Graphcore’s IPU technology and Poplar™ tools and deliver compelling training to our customers and partners
+		* Become a recognized expert on Graphcore's IPU technology and Poplar™ tools and deliver compelling training to our customers and partners
 		* Field & resolve challenging/complex customer support issues
 		* Shepherd critical customer issues and provide timely advance warning of critical issues that need attention
-		* Become a thought leader on machine learning and advocate for Graphcore’s IPU technology
+		* Become a thought leader on machine learning and advocate for Graphcore's IPU technology
 		* Work with the Product Management and Engineering to ensure a good flow of customer feedback that can be incorporated into future products
 	- Requirements
 		* Demonstrable machine learning development experience or related experience writing and optimizing applications in HPC, scientific libraries, compilers, digital signal processors or GPUs.
@@ -7046,13 +7139,13 @@ Skill sets for application engineers of different EDA products:
 	- Expertise with data storage, data arrangement, data coding, and data reduction preferred
 	- Skilled at using machine learning, deep learning, or reinforcement learning frameworks and platforms or tools, such as TensorFlow, Keras, and Caffe
 + skill set:
-	- We are looking for a highly motivated ML Frameworks engineer to develop deep learning network models and applications in tensorFlow and pyTorch, that would run on Blaize’s massively parallel graph streaming processors. The role provides an opportunity to work on cutting edge technologies in AI and to closely collaborate with the rest of the software stack at Blaize to achieve peak performance on Blaize’s graph streaming processors
+	- We are looking for a highly motivated ML Frameworks engineer to develop deep learning network models and applications in tensorFlow and pyTorch, that would run on Blaize's massively parallel graph streaming processors. The role provides an opportunity to work on cutting edge technologies in AI and to closely collaborate with the rest of the software stack at Blaize to achieve peak performance on Blaize's graph streaming processors
 	- Design and develop state-of-the art machine learning models in Image Classification, Object Detection, NLP, autonomous driving etc
 	- Translation of network models in different ML frameworks to MLIR based graphs
 	- Closely collaborate with MLIR graph compiler and the rest of the software stack to run the application end-to-end.
-	- Enable inference and network training on Blaize’s processors with close collaboration with other teams
+	- Enable inference and network training on Blaize's processors with close collaboration with other teams
 	- Analyze/Profile various ML workloads and report performance improvement opportunities
-	- Develop end to end demo applications to show-case Blaize’s capabilities
+	- Develop end to end demo applications to show-case Blaize's capabilities
 	- Follow agile software development methodology, unit testing and continuous integration
 	- Quantising the ML models for the edge to improve performance with minimal loss of accuracy
 	- B.Tech/M.Tech ECE or CS
@@ -7083,10 +7176,10 @@ Skill sets for application engineers of different EDA products:
 	- Experience with one or more: Python, C++, performance tuning
 	- Contributions to PyTorch, JAX, or other Machine Learning Frameworks
 	- Knowledge of GPU architecture and compilation stack, and capability of understanding and debugging end-to-end performance
-	- Familiarity with Nvidia’s deep learning SDK such as TensorRT
+	- Familiarity with Nvidia's deep learning SDK such as TensorRT
 	- Strong understanding of deep learning algorithms and solutions
 	- Strong understanding of ML model optimization techniques such as quantization, pruning, distillation.
-	- Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly growing field.
+	- Increasingly known as “the AI computing company” and widely considered to be one of the technology world's most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly growing field.
 	- The base salary range is $176,000 - $333,500.
 + skill set:
 	- You will be working on cutting edge problems in Deep Learning for Deeplite optimization software stack.
@@ -7103,7 +7196,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with deep learning runtime frameworks such as ARM-NN, CMSIS-NN, TensorRT, XLA, ONNX Runtime, OpenCL, MLIR is a huge plus
 + Knowledge of machine learning frameworks such as scikit-learn, SparkML, or Tensorflow.
 + skill set:
-	- Deeplite’s revolutionary platform “Neutrino” is being used and/or evaluated by many customers, including top consumer and automotive OEMs, semiconductor companies and computer vision pioneers, globally. As a member of the customer success team, you will be the bridge between our product team and our customers to enable them to optimize and run their Artificial Intelligence (AI) solutions on eco-friendly, small footprint devices for everyday use. 
+	- Deeplite's revolutionary platform “Neutrino” is being used and/or evaluated by many customers, including top consumer and automotive OEMs, semiconductor companies and computer vision pioneers, globally. As a member of the customer success team, you will be the bridge between our product team and our customers to enable them to optimize and run their Artificial Intelligence (AI) solutions on eco-friendly, small footprint devices for everyday use. 
 	- In this role, you will act as an external champion of our platform and work closely with our customers to solve issues and/or educate them to speed up their projects. You will also get an opportunity to work on development of faster & smaller models for small footprint devices.
 	- Undergraduate in Computer Science or related field (master's degree is a plus). 
 	- More than 2 years' experience with the following skills 
@@ -7118,7 +7211,7 @@ Skill sets for application engineers of different EDA products:
 	- Willingness to work on multiple projects concurrently.
 	- Opportunity to advance state-of-the-art software in the fields of DNN model compression, AutoML, Neural Architecture Search (NAS) and more!
 + skill set:
-	- Our platform is in the development phase, and we’re implementing academic works and our patent portfolio into our technology. In this role, you will be immersed in core concepts of deep neural networks and their low-level implementations, closely follow academic works in the field of deep learning and collaborate and increase productivity on existing research projects.
+	- Our platform is in the development phase, and we're implementing academic works and our patent portfolio into our technology. In this role, you will be immersed in core concepts of deep neural networks and their low-level implementations, closely follow academic works in the field of deep learning and collaborate and increase productivity on existing research projects.
 	- Post-secondary education in a related field.
 	- Strong working knowledge of deep learning, and experience utilizing theoretical and empirical research to solve real-world problems.
 	- Must have at least 1 year of experience with Deep Learning frameworks like PyTorch or TensorFlow.
@@ -7162,7 +7255,7 @@ Skill sets for application engineers of different EDA products:
 	- Implement novel deep neural network architectures and develop advanced training algorithms to support model structure training, auto applications, and others.·
 	- Research and optimize model compression techniques for CNN accelerator and jointly optimize hardware architecture for compressed models.·
 	- Develop a deep learning compiler stack that interfaces frameworks such as TensorFlow, CAFFE2, and KERAS, etc.· Convert neural nets (CNN/RNN) into internal representations suitable for optimization.
-	- Must have a Master’s Degree in Computer or Computational Science.·
+	- Must have a Master's Degree in Computer or Computational Science.·
 	- Proficient in C, C++/STL, PYTHON, MATLAB, JAVA Programming.·
 	- Knowledge in compute algorithms and data structure.·
 	- Familiar with software development process.
@@ -7170,7 +7263,7 @@ Skill sets for application engineers of different EDA products:
 	- Location: San Diego, CA.
 + skill set for AI Algorithm Expert/Data Scientist:
 	- Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning
-	- Huawei’s German Research Center in Nuremberg (Nuremberg Research Center) is responsible for Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning.
+	- Huawei's German Research Center in Nuremberg (Nuremberg Research Center) is responsible for Network Energy Advanced Technology Research, Architecture Evolution Design and Strategic Technology Planning.
 	- Responsible for exploring and breeding of the AI/Big Data algorithms and their application in on-board energy, data center energy, telecom energy and PV energy field, etc.
 	- Responsible for technology insight and planning, algorithm research and design, technology development and architecture maintaining of AI technology in energy field.
 	- Supervising a team of AI engineers to solve complex industrial and technical problems using advanced mathematical modeling and optimization technique, including but not limited to, big data pre-processing, problem formulation, feature engineering, algorithm selection, hyper parameters tuning and deployment. You will not only supervise the team but should also be able to code and deploy on your own
@@ -7194,13 +7287,13 @@ Skill sets for application engineers of different EDA products:
 	- Design software architecture to improve software data training and machine learning framework;· 
 	- Examine current state-of-the-art AI systems and investigate new approaches and methods to increase the speed of software solutions;· 
 	- Investigate the quality of database elements/data editing and research new validation methods and procedures;· 
-	- Investigate systems and software issues affecting company’s research efforts and investigate possible solutions;· 
+	- Investigate systems and software issues affecting company's research efforts and investigate possible solutions;· 
 	- Examine current research database and explore new ways to modify, test, verify, and analyze category and pre-processing of image data labeling;· 
-	- Prepare research manuscripts and presentations based on the company’s research discoveries;· 
+	- Prepare research manuscripts and presentations based on the company's research discoveries;· 
 	- Examine current performance measures and investigate new, more effective methods to evaluate energy efficiency, and time and space complexity of algorithms;· 
 	- Design and conduct tests to troubleshoot and validate software for performance, reliability, and robustness; and· 
 	- Design key performance testing models and procedures to measure the efficiency and accuracy of new and existing software.
-	- Must have a master’s degree in computer engineering.
+	- Must have a master's degree in computer engineering.
 	- Location: San Diego, CA.
 + skill set for SENIOR AI AND DEEP LEARNING ARCHITECT – MODEL COMPRESSION AND QUANTIZATION
 	- Research and develop state of art model compression techniques including model distillation, pruning, quantization, model binarization, and others for CNN, RNN, LSTM models.
@@ -7265,11 +7358,11 @@ Skill sets for application engineers of different EDA products:
 	- Do you want to be in the forefront of Deep Learning innovation? Training extremely large models at a fraction of time compared to other solutions? Helping companies and labs around the world solving a real impactful problem? Working with the latest Deep Learning Architecture (i.e. Transformer, GNN...etc)? If so, then we need you!!!
 	- Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML researchers work and pursue AI innovation.
 	- We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance because it is built from the ground up for deep learning workloads.
-	- Cerebras is building a team of exceptional people to work together on big problems. They aren’t afraid of taking risk and thinking outside of the box to solve fun and challenging problems.
+	- Cerebras is building a team of exceptional people to work together on big problems. They aren't afraid of taking risk and thinking outside of the box to solve fun and challenging problems.
 	- As an ML Software Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software, to develop state-of-the-art solutions for emerging problems in AI compute.
-	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, JAX, and MXNet.  Our ML software engineers are responsible for the backend of these frameworks and the integration with our own highly optimized software stack.
+	- The Cerebras software platform is designed to be targeted by today's most relevant machine learning frameworks such as TensorFlow, PyTorch, JAX, and MXNet.  Our ML software engineers are responsible for the backend of these frameworks and the integration with our own highly optimized software stack.
 	- Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.
-	- This role includes our ML framework backend and frontend stack, you will be involved in the frontend workflow for development, training and inference on our new hardware system. And the backend runtime that map the abstract computation expressed via third-party ML frameworks computation graph into our own representations that can then be compiled into highly optimized executables that target Cerebras’s system.
+	- This role includes our ML framework backend and frontend stack, you will be involved in the frontend workflow for development, training and inference on our new hardware system. And the backend runtime that map the abstract computation expressed via third-party ML frameworks computation graph into our own representations that can then be compiled into highly optimized executables that target Cerebras's system.
 	- The role includes cross team collaboration with the applied science and ML application team in one hand, and the compiler and hardware team on the other hand.
 	- Understanding of state-of-the-art deep learning model architectures and training protocols.
 	- Strong Python and C++ development skills.
@@ -7280,7 +7373,7 @@ Skill sets for application engineers of different EDA products:
 + skill set for Research Engineer
 	- Responsibilities:
 		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
-		* Exploit Graphcore’s hardware to develop and deliver models of unprecedented scale and performance.
+		* Exploit Graphcore's hardware to develop and deliver models of unprecedented scale and performance.
 		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
 		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
 		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
@@ -7297,10 +7390,10 @@ Skill sets for application engineers of different EDA products:
 		* Kaggle competitions or other evidence of practical expertise.
 + skill set:
 	- Contribute to open-source with guidance from MIT PhDs who are prominent in ML research.
-	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business's core asset.
 	- Get paid a Silicon Valley engineer salary but have the ability to work remotely with flexible hours.
 	- Work on interesting challenges (massive datasets, scaling systems, security/privacy, novel interfaces for data editing, etc.) using modern tech stack at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
-	- As a Cleanlab software engineer, you will be responsible for building Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll work on scalable backend code for data ingestion, model training, and data analysis, and you’ll help design beautiful and easy-to-use interfaces for data visualization, interpretation, and correction.
+	- As a Cleanlab software engineer, you will be responsible for building Cleanlab Pro, a user-friendly web app built on our ML algorithms. You'll work on scalable backend code for data ingestion, model training, and data analysis, and you'll help design beautiful and easy-to-use interfaces for data visualization, interpretation, and correction.
 	- We encourage applications from full-stack software engineers who have some familiarity with machine learning and are interested in furthering their skills in building MLOps applications. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
 	- Developing a SaaS data and machine learning pipeline.
 	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
@@ -7317,14 +7410,14 @@ Skill sets for application engineers of different EDA products:
 		* Distributed computing (Ray, Spark, etc.)
 		* Model serving, deployment, sharing (Sagemaker, Triton, gradio, etc.)
 + skill set:
-	- At Cleanlab you’ll get to
+	- At Cleanlab you'll get to
 		* Spend 100% of your time writing open-source ML, with guidance from MIT PhDs who are prominent in ML research. Get paid a Silicon Valley engineer salary but have the ability to work remotely from wherever you want. And the cherry on top? You get to work with a modern tech stack (the latest tooling and ML models) at a dynamic startup to pioneer the rapidly growing field of data-centric AI.
-	- What we’re looking for
+	- What we're looking for
 		* First and foremost, strong software engineering skills and experience productionizing your code. You should be comfortable with large software systems and love building applications.
 		* Contributed to the open-source community for more than 4 years, either via your own open-source package or via substantial contributions to existing open-source repositories, written blog posts, and tutorials.
 		* Experience working in ML: processing data, deploying models, etc. We do not require deep theoretical ML expertise, but practical experience in ML projects is desired.
 	- Responsibilities
-		* Develop and contribute novel data-centric AI algorithms to Cleanlab’s open-source projects, via high quality implementations and maintaining the highest coding standards.
+		* Develop and contribute novel data-centric AI algorithms to Cleanlab's open-source projects, via high quality implementations and maintaining the highest coding standards.
 		* Be a good member of the open-source community (address Github issues and queries, review PRs, write crisp documentation/tutorials, help integrate with other packages).
 		* Work on applied ML projects with Cleanlab enterprise customers.
 		* Collaborate with other engineers to build large-scale systems and help establish a strong engineering culture across the company.
@@ -7342,18 +7435,18 @@ Skill sets for application engineers of different EDA products:
 			+ ***Hugging Face, Snorkel, Weights and Biases, Gradio, Streamlit***
 	- Working at Cleanlab is awesome! Beyond the opportunity to work at a well-funded (backed by Bain Capital Ventures) early stage AI tech company with an incredible, friendly founding team of MIT, Stanford, and Harvard graduates, all full-time employees receive the following:
 		* $9,000 per year travel benefit
-		* Travel enhances our empathy with different cultures and enables us to work together more effectively. It’s how we grow and learn: traveling is an essential part of what makes us human. At Cleanlab, every two months you will receive a $1500 reimbursable travel benefit (resets on Jan 1, March 1, May 1, July 1, Sep 1, Nov 1). This is a unique benefit that lets you work from Paris for a week in February, then take a backpacking trip in the Andes for a weekend in March. Cleanlab will cover the flight for your partner or friend, too, as long as you attend and its within the $1500 / two-month period. For remote employees, you can use this benefit to come work with us in Boston/SF from time to time (encouraged, but not required).
+		* Travel enhances our empathy with different cultures and enables us to work together more effectively. It's how we grow and learn: traveling is an essential part of what makes us human. At Cleanlab, every two months you will receive a $1500 reimbursable travel benefit (resets on Jan 1, March 1, May 1, July 1, Sep 1, Nov 1). This is a unique benefit that lets you work from Paris for a week in February, then take a backpacking trip in the Andes for a weekend in March. Cleanlab will cover the flight for your partner or friend, too, as long as you attend and its within the $1500 / two-month period. For remote employees, you can use this benefit to come work with us in Boston/SF from time to time (encouraged, but not required).
 		* Premium health insurance
 			+ We provide a fantastic $4 (we cover the rest) health insurance option. We also provide a $0 deductible 100% coverage premium health care option for those who prefer the best health insurance.
 		* Stipend for attending conferences to keep up with the latest innovations in ML and software.
 		* Competitive salary (+ equity offering for certain roles), with regular opportunities for a raise if things are going well.
 	- Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. We develop next-generation DCAI algorithms that are publicly contributed via open-source (github.com/cleanlab), as well as SaaS enterprise products with interfaces for data scientists/engineers to effectively improve their data quality and produce more reliable ML models.
-	- Founded by 3 ML PhDs from MIT and engineers/scientists from Stanford & Harvard, Cleanlab is a well-funded early-stage startup that is rapidly growing to transform the future of DCAI. Some of Cleanlab’s early work (while the company was still in stealth-mode) has been featured in various media such as: Wired, MIT Technology Review, and VentureBeat.
-	- While many companies can help store/manage data or develop ML models, there exist few solutions today to improve the quality of existing data, which is the core asset of the modern enterprise. This is where you come in. At Cleanlab, you’ll be able to take ownership of critical projects that pioneer the future of data-centric AI.
+	- Founded by 3 ML PhDs from MIT and engineers/scientists from Stanford & Harvard, Cleanlab is a well-funded early-stage startup that is rapidly growing to transform the future of DCAI. Some of Cleanlab's early work (while the company was still in stealth-mode) has been featured in various media such as: Wired, MIT Technology Review, and VentureBeat.
+	- While many companies can help store/manage data or develop ML models, there exist few solutions today to improve the quality of existing data, which is the core asset of the modern enterprise. This is where you come in. At Cleanlab, you'll be able to take ownership of critical projects that pioneer the future of data-centric AI.
 	- We are a remote-first company, with roughly half of our team located near Boston, MA (EST time) and the other half located near San Francisco, CA (PST time).
 + skill set:
 	- As an ML Engineer on our team, you will work with leaders from industry and academia at the intersection of hardware and software to develop state-of-the-art solutions for emerging problems in AI compute.
-	- The Cerebras software platform is designed to be targeted by today’s most relevant machine learning frameworks such as TensorFlow, PyTorch, and JAX. Our ML software engineers are responsible for integrating these frameworks to work with our own highly optimized software stack. Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.  
+	- The Cerebras software platform is designed to be targeted by today's most relevant machine learning frameworks such as TensorFlow, PyTorch, and JAX. Our ML software engineers are responsible for integrating these frameworks to work with our own highly optimized software stack. Fundamentally, you will be enabling ML researchers to use the software tools and workflows of today to unlock the advanced hardware capabilities of tomorrow.  
 	- In this role, you will create tools and design workflows that enable the development, training, and deployment of machine learning models on our new hardware system. The workflow covers from a small to an extremely large models with trillion of parameters. Furthermore, you will be lowering abstract computations expressed via third-party ML frameworks into representations that can be compiled into highly optimized executables that target the Cerebras system, and help us design a general backend that can accommodate most advance deep learning models. You will also have the opportunity to participate and contribute to open-source projects that we depend on. 
 	- Work on the end-to-end training, eval, and inference workflow with customer-facing API
 	- Distributed training both via data and model parallelism
@@ -7362,7 +7455,7 @@ Skill sets for application engineers of different EDA products:
 	- Compiler optimization such as graph rewrite, constant folding, common expression elimination, and canonization
 	- Lower high-level OPs to low-level OPs such as affine dialect
 	- Handle both static and dynamic computational graph
-	- Bachelor’s, Master’s, or foreign equivalent in Computer Science, Engineering, or related
+	- Bachelor's, Master's, or foreign equivalent in Computer Science, Engineering, or related
 	- 5+ years software development experience
 	- Understanding of state-of-the-art deep learning model architectures and training protocols
 	- Strong Python and C++ development skills
@@ -7372,7 +7465,7 @@ Skill sets for application engineers of different EDA products:
 	- Familiar with deep learning model architecture
 	- Experience with MLIR, LLVM, or TVM
 + skill set:
-	- The junior machine learning engineer’s primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- The junior machine learning engineer's primary role is to support the research team in developing commercial applications for BrainChip's Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team's algorithm development for the next version of the Akida NSoC.
 	- B.S. in Computer Science or equivalent
 	- Course work in machine learning and computer vision
 	- Strong programming skills in Python
@@ -7385,14 +7478,14 @@ Skill sets for application engineers of different EDA products:
 	- Experience with Docker and Git
 	- Experience with Scrum/Agile software development (e.g. Jira)
 + skill set:
-	- The machine learning engineer's primary role is to support the research team in developing commercial applications for BrainChip’s Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team’s algorithm development for the next version of the Akida NSoC.
+	- The machine learning engineer's primary role is to support the research team in developing commercial applications for BrainChip's Akida Neuromorphic System-on-Chip (NSoC). Some of the target applications include work in computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, this team member will support the research team's algorithm development for the next version of the Akida NSoC.
 	- B.S. in Computer Science or equivalent
 	- Course work in machine learning and computer vision
 	- Strong programming skills in Python
-	- 3 years’ experience developing ML applications in either TensorFlow/Keras and/or PyTorch
+	- 3 years' experience developing ML applications in either TensorFlow/Keras and/or PyTorch
 	- Excellent communication skills
 	- The ability to read, understand, and implement algorithms from technical ML journals
-	- Master’s in computer science of equivalent
+	- Master's in computer science of equivalent
 	- 4+ years experience developing ML applications in TensorFlow/Keras and PyTorch
 	- Multi-project experience in object classification, object detection, face recognition, and/or keyword spotting
 	- Knowledge of deep learning quantization techniques
@@ -7404,7 +7497,7 @@ Skill sets for application engineers of different EDA products:
 	- Develop and optimize AI training pipelines.
 	- Use different sensors to acquire data.
 	- Create applications using AI and robotics.
-	- You will work closely with the Customer’s Solutions Architect Team to deliver contents that drive results.
+	- You will work closely with the Customer's Solutions Architect Team to deliver contents that drive results.
 	- You are in your last year of your engineering School.
 	- Pursuing a master's degree program in Computer Science, or related technical field.
 	- Programming experience in Python. Experience in C/C++ is a plus.
@@ -7445,7 +7538,7 @@ Skill sets for application engineers of different EDA products:
 		* "Can-do" mentality, excellent problem-solving skills
 	- GrAI Matter Labs is a dynamic organization which employs some of the brightest minds in the industry and is known for the great care we take with clients and employees alike. We believe we will win as a close-knit team that converts a strong vision into products that solve use cases which our customers truly value. We also hold to the highest standards of inclusion, team spirit, and cooperation. This position is based at GrAI Matter Labs offices at the High Tech Campus in Eindhoven, The Netherlands. The High Tech Campus houses 160 companies, employing a total of 11,000 entrepreneurs and R&D employees. To our interns, we offer a nice compensation, in line with what is customary around the Eindhoven area.
 + skill set:
-	- Master’s degree in software development, computer science, algorithm design, artificial intelligence, or machine learning or equivalent experience
+	- Master's degree in software development, computer science, algorithm design, artificial intelligence, or machine learning or equivalent experience
 	- 5 years of experience as a machine learning engineer and using libraries, such as Scikit-learn, TensorFlow, Caffe, Keras, etc.
 	- Experience with Microsoft Azure platform – Azure ML Services, Databricks, AKS, etc.
 	- Experience with the Hadoop ecosystem (e.g., Apache Hive, Pig, HBase and Kafka)
@@ -7463,13 +7556,13 @@ Skill sets for application engineers of different EDA products:
 	- Develop algorithms that drive automated data-driven decision-making
 	- Build the tools for monitoring the performance of machine learning applications
 + skill set:
-	- We are looking for Machine Learning Engineering Interns to help drive a data-led culture across Spotify. You will apply machine learning methods to extensive data sets to extend improve Spotify’s means of understanding and engaging users across various contexts and modalities. You will build upon Spotify’s deep understanding of our content, users, and artists to develop rich analytics, engagement, and business applications. Above all, your work will impact the way the world experiences audio.
-	- Contribute to designing, building, evaluating, shipping, and refining Spotify’s product by hands-on ML development
+	- We are looking for Machine Learning Engineering Interns to help drive a data-led culture across Spotify. You will apply machine learning methods to extensive data sets to extend improve Spotify's means of understanding and engaging users across various contexts and modalities. You will build upon Spotify's deep understanding of our content, users, and artists to develop rich analytics, engagement, and business applications. Above all, your work will impact the way the world experiences audio.
+	- Contribute to designing, building, evaluating, shipping, and refining Spotify's product by hands-on ML development
 	- Collaborate with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission to connect artists and fans in personalized and relevant ways
 	- Assist in prototyping new approaches and product-ionize solutions at scale for our hundreds of millions of active users
 	- Help drive optimization, testing, and tooling to improve quality
 	- Be part of an active group of machine learning practitioners across Spotify) collaborating with one another
-	- You are pursuing a Bachelor’s or Master’s degree in Machine Learning, Computer Science, Computer Engineering or a related field of study
+	- You are pursuing a Bachelor's or Master's degree in Machine Learning, Computer Science, Computer Engineering or a related field of study
 	- You have dabbled in ML engineering practices via prior internships, coursework, and/or projects
 	- You have experience in working with Scala and/or PythonYou have an understanding of system design, data structures, and algorithms
 	- You care about quality and you know what it means to ship high-quality code
@@ -7506,7 +7599,7 @@ Skill sets for application engineers of different EDA products:
 	- Design and iterate labeling instructions that produce high quality labels.
 	- Implement, design and manage databases of images, videos and metadata associated with them.
 	- Optimize models for performance on constrained environments.
-	- Deploy trained models on-premise integrated with the rest of the robot’s software stack.
+	- Deploy trained models on-premise integrated with the rest of the robot's software stack.
 	- Report of training procedures, error analysis, data review.
 	- Offline database analysis for getting insights, generating labels automatically, doing anonymization, etc. 
 	- You have knowledge of Python and scripting (advanced) 
@@ -7553,7 +7646,7 @@ Skill sets for application engineers of different EDA products:
 	- Anyscale is looking to hire strong individuals to develop open source machine learning libraries.
 	- The software industry largely operates on a messy zoo of specialized distributed systems such as Spark, Horovod, and TensorFlow Serving. These systems cannot easily be composed together and used as elements of a larger application. On the Machine Learning Ecosystem team at Anyscale, we are developing a rich ecosystem that will allow developers to import powerful distributed libraries and compose them together to build new applications.
 	- Part of this work will be open source as part of Ray, which is a distributed Python execution engine as well as an ecosystem of libraries for scalable machine learning.
-	- The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale. Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.
+	- The ML Ecosystem team's mission is to make it really easy to do distributed machine learning on Ray and Anyscale. Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.
 	- Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
 	- Build elastic, scalable, fault-tolerant distributed machine learning libraries that power the next generation of machine learning platforms around the world
 	- Benchmark and improve performance and scalability of different machine learning libraries
@@ -7570,7 +7663,7 @@ Skill sets for application engineers of different EDA products:
 	- RLlib is an open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications. We're looking for software engineers with existing machine learning experience that are interested in continuing to improve RLlib.
 	- We are looking for senior hires as well as less experienced but motivated individuals.
 	- About the ML Ecosystem team:
-		* The ML Ecosystem team’s mission is to make it really easy to do distributed machine learning on Ray and Anyscale.Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
+		* The ML Ecosystem team's mission is to make it really easy to do distributed machine learning on Ray and Anyscale.Specifically, our team maintains and develops features for a broad number of libraries — including RaySGD (distributed deep learning), Ray Tune (distributed hyperparameter tuning), RLlib (reinforcement learning), and XGBoost-on-Ray.Our team is the most user-facing engineering team on the open source side, collaborating with ML engineering teams at organizations like Shopify, Uber, and Bytedance.
 	- As part of this role, you will:
 		* Develop high quality open source software to simplify reinforcement learning (RLlib)
 		* Identify, implement, and evaluate promising new RL algorithms from the literature
@@ -7582,7 +7675,7 @@ Skill sets for application engineers of different EDA products:
 		* Are excited about working with customers who are applying RL to their own use cases
 		* Are excited about working on open source and broadcasting new features to the community
 	- About Anyscale:
-		* Anyscale provides an application development platform for developers to build distributed applications. We’re commercializing a popular open source project called Ray, which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.
+		* Anyscale provides an application development platform for developers to build distributed applications. We're commercializing a popular open source project called Ray, which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.
 		* With Ray, we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.
 + skill set:
 	- Software Runtime Principal Engineer (CA, TX or ON)
@@ -7619,7 +7712,7 @@ Skill sets for application engineers of different EDA products:
 	- ***Perform statistical analysis and fine-tuning using test results***
 	- ***Train and retrain systems when necessary***
 	- ***Extend existing ML libraries and frameworks***
-	- ***Develop novel ML models and primitives that take advantage of Tenstorrent’s breakthrough architecture to deliver orders of magnitude performance & efficiency improvements***
+	- ***Develop novel ML models and primitives that take advantage of Tenstorrent's breakthrough architecture to deliver orders of magnitude performance & efficiency improvements***
 	- Student in Electrical/Computer Engineering, Computer Science, Machine Intelligence, Engineering Science, or Math;
 	- 5 years of experience as a Machine Learning Engineer or similar role (a fleshed out GitHub repo a plus)
 	- Experience with algorithms, data structures, and software development in Python and C/C++.
@@ -7646,7 +7739,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- Sotware Engineer 1 - Machine Learning
 	- Responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques. As an ML engineer, they will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.
-	- Candidates will need to have a BS in computer science from an accredited university. In addition, we’re looking for engineers who have the following:
+	- Candidates will need to have a BS in computer science from an accredited university. In addition, we're looking for engineers who have the following:
 	- Working knowledge of software engineering - through job experience or coursework. Experience with Python preferred
 	- Have at least 6 months of professional work experience in one of the following: ML/AI models in production, neural network algorithms, performance optimization of deep learning systems.
 	- Coursework or work experience with machine learning algorithms such as classifiers, anomaly detection, and clustering
@@ -7870,7 +7963,7 @@ Skill sets for application engineers of different EDA products:
 + machine learning model compression techniques, such as quantization or pruning
 + skill set:
 	- Machine Learning Research Engineer, Generative AI
-	- Performant model code, high quality data, and robust evaluation methods form the foundation of an AI system. Scale’s leading end-to-end solutions for the ML lifecycle based on real-world data will continue to set the bar for the data-centric AI movement. Scale’s Generative AI team focuses on building models to accelerate AI adoption for some of the largest companies in the world. 
+	- Performant model code, high quality data, and robust evaluation methods form the foundation of an AI system. Scale's leading end-to-end solutions for the ML lifecycle based on real-world data will continue to set the bar for the data-centric AI movement. Scale's Generative AI team focuses on building models to accelerate AI adoption for some of the largest companies in the world. 
 	- Your focus will be on developing Models as a Service using a variety of Machine Learning techniques. You will be involved end-to-end from coordinating with operations to create high quality datasets to productionizing models for our customers. If you are excited about shaping the future of the data-centric AI movement, we would love to hear from you!
 	- Apply state of the art models, developed both internally and from the community, in production to solve problems for our customers and data labelers. 
 	- Work with product and research teams to identify opportunities for ongoing and upcoming services.
@@ -7885,7 +7978,7 @@ Skill sets for application engineers of different EDA products:
 	- Published research in areas of machine learning at major conferences (***NeurIPS, ICML, EMNLP, CVPR***, etc.) and/or journals. 
 	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
 	- Strong written and verbal communication skills to operate in a cross functional team environment. 
-	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $240,960. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $240,960. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You'll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
 + skill set:
 	- Scale Spellbook is a developer platform for prompt engineering, evaluation, deployment, knowledge retrieval and more. We are looking for a strong product engineer to join our team and help us scale and grow our product. The ideal candidate will have a strong understanding of software engineering principles and practices, as well as experience with large-scale distributed systems. You will be responsible for owning large new areas within our product, working across backend, frontend, and interacting with LLMs and ML models. You will solve hard engineering problems in scalability and reliability.
 	- Own large new areas within our product
@@ -7932,7 +8025,7 @@ Skill sets for application engineers of different EDA products:
 + Experience working fluently with standard orchestration & deployment technologies like Kubernetes, Temporal, Terraform, Docker, etc in multiple clouds
 + skill set:
 	- Senior Software Engineer, AV / CV
-	- At Scale AI, we are building tools to across the AI development lifecycle. Data is the new code, and Scale AI helps companies get the data they need, whether it’s for self-driving vehicles, artificial general intelligence, or robotics. The AV-CV Team (Autonomous Vehicles / Computer Vision) builds the infrastructure for labeling Lidar, Mapping, and Camera data. If seeing autonomous vehicles excited you, you’ll be seeing a lot of that on the AV-CV team. The team builds the tools for labeling Lidar pointclouds, annotating image and video feeds, and linking them together to build perception models.
+	- At Scale AI, we are building tools to across the AI development lifecycle. Data is the new code, and Scale AI helps companies get the data they need, whether it's for self-driving vehicles, artificial general intelligence, or robotics. The AV-CV Team (Autonomous Vehicles / Computer Vision) builds the infrastructure for labeling Lidar, Mapping, and Camera data. If seeing autonomous vehicles excited you, you'll be seeing a lot of that on the AV-CV team. The team builds the tools for labeling Lidar pointclouds, annotating image and video feeds, and linking them together to build perception models.
 	- Own large new areas within our product
 	- Become an expert in working closely with customers across many CV industries
 	- Build technologies ranging from frontend and backend to automated ML systems
@@ -7965,7 +8058,7 @@ Skill sets for application engineers of different EDA products:
 	- Research and analyze common algorithm models (CNN/RNN/Transformer, etc.) in scenarios such as computer vision, speech recognition, natural language processing, and advertisement recommendation, and analyze their implementation, performance, and accuracy on mature GPUs;
 	- Based on Biren's chip products (GPGPU), participate in the transplantation, acceleration, precision tuning of deep learning algorithm models on Biren GPU, and performance tuning of application pipelines;
 	- Closely track industry trends and technology trends, focusing on hot algorithms/models that will be applied in the industry.
-	- Master’s degree or above in EECS or related majors, with more than 5 years of relevant work experience;
+	- Master's degree or above in EECS or related majors, with more than 5 years of relevant work experience;
 	- Proficiency in operating Linux system, proficiency in C/C++/Python/Shell, solid programming foundation and debugging experience;
 	- Familiar with and have used one or more mainstream deep learning frameworks (Tensorflow/PyTorch/PaddlePaddle/MindSpore, etc.);
 	- Familiar with the principles of deep learning algorithms, have experience in precision and performance tuning, and be familiar with the application of algorithms in business scenarios;
@@ -7977,7 +8070,7 @@ Skill sets for application engineers of different EDA products:
 	- Have experience in AI compiler.
 + skill set:
 	- System Architect - HW/SW Architecture - Apple Vision Pro
-	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
+	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something — you'll add something.
 	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
 	- 6+ years of working experience
 	- Strong system / SoC architecture background with deep understanding of low power processing.
@@ -8026,7 +8119,7 @@ Skill sets for application engineers of different EDA products:
 	- Strong experience with workflow platforms (Argo, Jenkins, or other)
 	- Solid Kubernetes, AWS or other cloud experience
 	- Strong communications and collaboration skills required
-	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You’ll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
+	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You'll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
 	- Work in a team of engineers to deliver core tooling and pipelines for builds, validation, and deployment
 	- Build tooling and SCM integrations that ensures code consistency, test coverage, and reliability
 	- Develop pipelines for continuous, incremental delivery to preproduction environments
@@ -8186,14 +8279,14 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- Machine Learning Engineer - SIML, ISE
 	- Would you like to help shape the next set of ML features of iPhone? Would you like to contribute to the field of generative AI? Want to contribute to transforming how people interact with AI technologies?
-	- The System Intelligence and Machine Learning team is in charge of creating datasets that power many of Apple’s intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As a data scientist on our team you will be in charge of selecting the right assets, removing harmful and toxic assets and extracting insights from the datasets, assessing & reducing harmful biases, and maximizing fairness and inclusion of various ML features.
+	- The System Intelligence and Machine Learning team is in charge of creating datasets that power many of Apple's intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As a data scientist on our team you will be in charge of selecting the right assets, removing harmful and toxic assets and extracting insights from the datasets, assessing & reducing harmful biases, and maximizing fairness and inclusion of various ML features.
 	- We are looking for an experienced Machine Learning Engineer who can help create and improve the datasets used in Generative AI through solid understanding and usage of ML and stats. You will be using Apple technologies to refine our datasets, remove toxicity and select the right images, videos or texts through active selection and model-in-the-loop methodologies. Focus areas range from text processing across many languages (toxic language detection and removal, identification of colloquial vs formal language) to image and video understanding, deduplication and processing.
 	- Familiarity with a broad range of Machine Learning techniques and relevant statistical packages to engineer Machine Learning solutions end-to-end.
 	- Experience in contributing to production code bases. Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production code.
 	- Proficient in state-of-the-art ML techniques particularly in the field of Generative AI and Large Language Models (Transformer architecture, CLIP and various visual and text embedding models, GPT and BERT style language models).
 	- Exceptional communication and presentation skills and the ability to explain difficult technical topics to everyone from data scientists to engineers to business partners.
 	- Strong proficiency with Python (Scikit learn, Jupyter), PyTorch, SQL-based languages. Working proficiency with Git.
-	- As a Machine Learning Engineer on the Data Team, you will be working to deepen our understanding of how various datasets can improve the quality of Apple’s ML models on a range of products. You will particularly help shape Apple’s Datasets that are used for generative AI by removing irrelevant or toxic assets, selecting the right assets by employing various asset selection algorithms, utilizing Apple proprietary ML models. For this, you will also use your stats and ML background to build models and algorithms that can select the right assets for ML experiences from a large pool of available assets. And you will work with our data engineers to put your models in data pipelines to run on large scale datasets.
+	- As a Machine Learning Engineer on the Data Team, you will be working to deepen our understanding of how various datasets can improve the quality of Apple's ML models on a range of products. You will particularly help shape Apple's Datasets that are used for generative AI by removing irrelevant or toxic assets, selecting the right assets by employing various asset selection algorithms, utilizing Apple proprietary ML models. For this, you will also use your stats and ML background to build models and algorithms that can select the right assets for ML experiences from a large pool of available assets. And you will work with our data engineers to put your models in data pipelines to run on large scale datasets.
 	- In our team, you are expected to collaborate with other AIML product stakeholders and partners to understand needs, design Machine Learning models that help us better understand our data and automatically pick the right assets for ML training. Our Data Scientists actively evaluate and present the progress of their work. Your creative problem solving skills will be used daily.
 	- Masters or Phd degree in Computer Science, Engineering; or equivalent practical experience. 
 	- Strong analytical product intuition: able to understand the user experience and use data to guide the development of products.
@@ -8286,7 +8379,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- Data Collections Lead - SIML, ISE
 	- Would you like to help shape the next set of ML features of iPhone? Would you like to contribute to the field of generative AI? Want to contribute to transforming how people interact with AI technologies? 
-	- The System Intelligent and Machine Learning team is in charge of creating datasets that power many of Apple’s intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As part of the Data Collection team, you will be managing end-to-end data collection projects for a wide variety of features. Our data team is responsible for designing and building high quality datasets at scale. At the heart of machine learning, data defines how Apple features and products operate and what is the final user experience that will impact millions of our customers. This is an exciting time to join us: grow fast and have an impact on multiple key features on your first day at Apple!
+	- The System Intelligent and Machine Learning team is in charge of creating datasets that power many of Apple's intelligent software. Our datasets range from very small targeted sets to Petabyte scale datasets. As part of the Data Collection team, you will be managing end-to-end data collection projects for a wide variety of features. Our data team is responsible for designing and building high quality datasets at scale. At the heart of machine learning, data defines how Apple features and products operate and what is the final user experience that will impact millions of our customers. This is an exciting time to join us: grow fast and have an impact on multiple key features on your first day at Apple!
 	- Excellent project management, communication, interpersonal, analytical, and organizational skills
 	- Passion for creating great products and understanding the challenges associated with building datasets for machine learning features; while addressing the challenges of inclusion, bias removal, and fairness.
 	- Ability to define/design/develop data collection efforts that focus on the end-to-end user experience, including anticipating potential failure modes, edge cases, and anomalies
@@ -8309,7 +8402,7 @@ Skill sets for application engineers of different EDA products:
 	- Generative AI Applied Researcher - SIML, ISE
 	- Are you excited about Generative AI? We are looking for experts in this space to join our applied ML R&D team at Apple! You will be inventing and shipping the next generation of these core technologies with a focused team. Our purpose is to surprise and delight users and developers worldwide.
 	- The team comprises domain experts in Computer Vision & Natural Language Processing (NLP) who contribute to a variety of shipping workflows you may already regularly use, including: Photos Search, Curation, Memories, Intelligent Auto-crop, Visual Captioning for Accessibility, Federated Learning on visual content, Real-time Classification & Saliency in Camera, Semantic Segmentation in Camera, and several on- device feature extractors across the system. Further, several of our projects are surfaced to third party developers through Vision & CoreML. Shipping APIs include image tagging, image similarity, saliency estimation and prints for transfer learning. The team collaborates extensively with various teams across Apple in bringing experiences to life across our devices, services and 1st/3rd party APIs. 
-	- Selected references to our team’s work:
+	- Selected references to our team's work:
 	- https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon
 	- https://machinelearning.apple.com/research/on-device-scene-analysis
 	- https://machinelearning.apple.com/research/panoptic-segmentation
@@ -8336,7 +8429,7 @@ Skill sets for application engineers of different EDA products:
 	- Strong proficiency in C/C++
 	- Performance and optimization oriented
 	- Self-motivated and great teammate
-	- VPG (Vision Product Group) is the group that is responsible for many of the key algorithms for Apple Vision Pro. We are looking for versatile engineers who are passionate about building products for millions of customers around the world. You’ll be working on cutting-edge technology and develop algorithms that enable a high-quality user experience across a range of tentpole use cases and applications. As a part of our team, you will closely collaborate with HW engineers (cameras, silicon, electrical engineering, product design) and other technology development software teams (computer graphics, video engineering, data generation/annotation, drivers/OS). You can make a difference by researching and prototyping novel deformable object tracking algorithms beyond the state of the art and/or by optimizing the performance of real-time algorithms running on Apple silicon.
+	- VPG (Vision Product Group) is the group that is responsible for many of the key algorithms for Apple Vision Pro. We are looking for versatile engineers who are passionate about building products for millions of customers around the world. You'll be working on cutting-edge technology and develop algorithms that enable a high-quality user experience across a range of tentpole use cases and applications. As a part of our team, you will closely collaborate with HW engineers (cameras, silicon, electrical engineering, product design) and other technology development software teams (computer graphics, video engineering, data generation/annotation, drivers/OS). You can make a difference by researching and prototyping novel deformable object tracking algorithms beyond the state of the art and/or by optimizing the performance of real-time algorithms running on Apple silicon.
 	- M.Sc. or B.Sc. degree in Computer Science or similar, alternatively a comparable industry career with a consistent track record of successful projects.
 + Familiarities with Knowledge Graph and Traversal Algorithms
 + skill set:
@@ -8365,7 +8458,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- Algorithm & Performance Engineer - SPG
 	- The Apple Special Projects Group, working on autonomous systems, we are implementing highly complex algorithms. We are looking for a talented, dedicated and result oriented C++ Software Engineer to help improve, expand and further optimize our stack.
-	- You will be part of a world class team with a highly diverse skillsets. Implementing complex numerical algorithms in a well designed, testable manner is as much part of an Algorithm & Performance Engineer’s day-to-day as optimizing cache coherency of existing implementations, applying SIMD optimization or reducing memory footprint of modules. You will be addressing a vast variety of challenges from implementing GPU kernels over deploying and optimizing machine-learned models all the way to architecting, implementing and testing a complex software stack.
+	- You will be part of a world class team with a highly diverse skillsets. Implementing complex numerical algorithms in a well designed, testable manner is as much part of an Algorithm & Performance Engineer's day-to-day as optimizing cache coherency of existing implementations, applying SIMD optimization or reducing memory footprint of modules. You will be addressing a vast variety of challenges from implementing GPU kernels over deploying and optimizing machine-learned models all the way to architecting, implementing and testing a complex software stack.
 	- 3+ years of professional software development experience.
 	- Expert knowledge in Modern C++.
 	- Experience in either ComputerVision, High Performance Computing or Numerical Algorithms.
@@ -8398,10 +8491,10 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- State Estimation Engineer — World Representation / Localization
 	- Apple is looking for passionate, talented, and results-oriented robotics / state-estimation engineers to join our team and work on exciting technologies for autonomous systems. In this position, you will have the opportunity to work with a cross-functional team on innovative hardware/software technologies, enabled by the systems you build.
-	- Joining our team, you will get to work with a fantastic group of talented and dedicated engineers and researchers. We hope you’re excited about the values that drive us: 
-		* Passion for the mission:  we’re here to make something great. We take on whatever work is right for the mission and strive for the best possible results. 
+	- Joining our team, you will get to work with a fantastic group of talented and dedicated engineers and researchers. We hope you're excited about the values that drive us: 
+		* Passion for the mission:  we're here to make something great. We take on whatever work is right for the mission and strive for the best possible results. 
 		* Humility:  the right answer is more important than being right. We search for solutions as a team and value clear-eyed feedback. 
-		* Lean habits:  you can’t grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make great decisions.
+		* Lean habits:  you can't grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make great decisions.
 	- Experience developing and integrating state estimation algorithms for localization, calibration, mapping, or SLAM applications in robotic systems.
 	- Experience developing algorithms which fuse many sensor modalities is a plus.
 	- Very strong background in C++ development for Linux. Ability to understand and prototype in a python codebase is a plus.
@@ -8429,7 +8522,7 @@ Skill sets for application engineers of different EDA products:
 	- PhD or Masters in the area of Computer Science or equivalent years of industry experience
 + skill set:
 	- AIML - Machine Learning Engineer, Siri and Information Intelligence
-	- The Siri information intelligence team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of Siri Search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches, online learning to react quickly to change, natural language processing to understand queries, taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs.
+	- The Siri information intelligence team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri's universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of Siri Search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches, online learning to react quickly to change, natural language processing to understand queries, taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs.
 	- 5+ years of experience in machine learning, information retrieval, indexing and retrieval
 	- Mastery of two of following languages: Python, Go, Java, C++
 	- Excellent knowledge and good practical skills in major machine learning algorithms
@@ -8447,7 +8540,7 @@ Skill sets for application engineers of different EDA products:
 	- Utilizing Spark, Hadoop MapReduce, Hive, Impala to perform distributed data processing
 + skill set:
 	- AIML - Software Engineer, Machine Learning Platform & Technologies
-	- Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.
+	- Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
 	- The Machine Learning Platform Team at Apple is looking for a Senior Engineer who has extensive experience in CI/CD, orchestration pipelines, build, release, and code management to manage critical parts of our development lifecycle. You will work with a dedicated team of engineers that will deliver the tooling and pipelines that enable consistent development of a high performance search stack, ensuring high quality delivery and enabling fast engineering turnaround.
 	- 5+ years of experience in developing developer tooling, pipelines, automations and API
 	- Thorough understanding of software development lifecycle, DevOps (build, continuous integration, deployment tools) and best practices.
@@ -8456,7 +8549,7 @@ Skill sets for application engineers of different EDA products:
 	- Strong experience with workflow platforms (Argo, Jenkins, or other)
 	- Solid Kubernetes, AWS or other cloud experience
 	- Strong communications and collaboration skills required
-	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You’ll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
+	- We design and build infrastructures to support features that empowers billions of Apple users. Our team processes trillions of links to find the best content to surface to users through search. We also analyze pages to extract critical features for indexing, ranking. We apply statistical analysis to improve link selection, freshness, retrieval rates, extraction quality, and many others. You'll have the opportunity to work with large scale systems with trillions of rows and many petabytes of data and incredible complexity.
 	- Work in a team of engineers to deliver core tooling and pipelines for builds, validation, and deployment
 	- Build tooling and SCM integrations that ensures code consistency, test coverage, and reliability
 	- Develop pipelines for continuous, incremental delivery to preproduction environments
@@ -8464,7 +8557,7 @@ Skill sets for application engineers of different EDA products:
 	- Collaborate with DevOps and Release Engineering to enhance release speed and reliability
 + skill set:
 	- AIML - Senior Data Infrastructure Software Engineer, Machine Learning Platform and Technology
-	- The Data Infrastructure group within the AI/ML organization powers the analytics, experimentation and ML feature engineering that powers the Machine Learning technologies we all love in our Apple devices. Our mission is to provide cutting edge, reliable and easy to use infrastructure for ingesting, storing, processing and interacting with data while keeping Apple’s users’ data private and secure.
+	- The Data Infrastructure group within the AI/ML organization powers the analytics, experimentation and ML feature engineering that powers the Machine Learning technologies we all love in our Apple devices. Our mission is to provide cutting edge, reliable and easy to use infrastructure for ingesting, storing, processing and interacting with data while keeping Apple's users' data private and secure.
 	- Are you a passionate about building scalable, reliable, maintainable infrastructure and solving data problems at scale? Come join us and be part of the Data Infrastructure journey.
 	- 5 years of experience in software engineering with deep knowledge in computer science fundamentals.
 	- Strong in data structures and algorithms. Must write good quality code with test cases and review PR's in fast faced environment.
@@ -8479,7 +8572,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- AIML - Sr Product Manager, Siri Knowledge
 	- Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Do you love taking on challenges that create a positive impact? Here, you could play a leading part in revolutionizing how people use their computers and mobile devices by empowering many ground-breaking intelligent experiences.
-	- The Siri team is crafting innovative technology for virtual assistants, knowledge graph, and algorithmic search using machine learning, natural language processing, and artificial intelligence. We’re looking for someone to lead product management efforts for Search and Knowledge in Siri, Spotlight, and Safari. You would work with top tier engineering and product teams to serve over 1 billion customers, crafting the type of magnificent user experiences that Apple customers expect and love. As a PM for Siri Knowledge and Search, you would drive search relevance, machine learning, and user experience improvement projects to build and improve end-to-end knowledge products on all major Apple platforms including iPhone, CarPlay, macOS, AppleTV and HomePod.
+	- The Siri team is crafting innovative technology for virtual assistants, knowledge graph, and algorithmic search using machine learning, natural language processing, and artificial intelligence. We're looking for someone to lead product management efforts for Search and Knowledge in Siri, Spotlight, and Safari. You would work with top tier engineering and product teams to serve over 1 billion customers, crafting the type of magnificent user experiences that Apple customers expect and love. As a PM for Siri Knowledge and Search, you would drive search relevance, machine learning, and user experience improvement projects to build and improve end-to-end knowledge products on all major Apple platforms including iPhone, CarPlay, macOS, AppleTV and HomePod.
 	- 5+ years experience as a Product Manager, Software Engineer, Engineering Manager, or similar role leading cross-functional product or software engineering teams.
 	- 2+ years experience bringing a product from concept to completion, ideally related to joining together sophisticated backend and front-end systems with the user experience in mind
 	- Experience driving large cross-functional projects with multiple workstreams
@@ -8503,15 +8596,15 @@ Skill sets for application engineers of different EDA products:
 		* Digging in to the internals of open-source ML tools to extend their capabilities and fix fundamental bugs
 		* Optimizing our systems to match the needs of our trading systems, whether that be for efficient training or low-latency inference
 		* Building tools to train and evaluate models in parallel over large datasets
-	- And much more besides. As an ML Engineer, you’ll help drive the direction of an ML platform that is used daily by traders and researchers across every corner of the firm.
-	- We’re looking for accomplished and disciplined software engineers with deep experience in machine learning techniques and the software systems that power them. A good candidate will be curious, with a wide-ranging understanding of the open-source ML ecosystem, and an interest in the latest advances in ML, in both academic and industrial contexts.
+	- And much more besides. As an ML Engineer, you'll help drive the direction of an ML platform that is used daily by traders and researchers across every corner of the firm.
+	- We're looking for accomplished and disciplined software engineers with deep experience in machine learning techniques and the software systems that power them. A good candidate will be curious, with a wide-ranging understanding of the open-source ML ecosystem, and an interest in the latest advances in ML, in both academic and industrial contexts.
 + skill set:
 	- Senior Video Processing Algorithm Engineer
 	- As a Senior Video Processing Algorithm Engineer, you will explore opportunities to research and develop video process algorithms in order to both improve real-time video quality & performance, and add new features on Zoom video products. 
 	- Work across our stack, developing software ranging from Web Server to business application layer for our distributed, cloud-hosted backend. You will work alongside fellow experts in the field, you will deliver happiness to our users, and grow your knowledge base each and every day.  
 	- Conduct performance research evaluations on image/video processing algorithms 
 	- Perform feasibility analysis and validation, develop corresponding demos, and cooperate with team members for feature deployment on various platforms
-	- Develop and prototype innovative algorithms in Zoom’s video processing pipeline
+	- Develop and prototype innovative algorithms in Zoom's video processing pipeline
 	- Design new video features to tackle new and existing problems on Windows, macOS, IOS, Android and Linux systems
 	- Collaborate with internal stakeholders across the business to drive the delivery of features, processes and happiness
 	- PhD degree or Master degree with 4 years of working experiences in Computer Science, Electrical Engineering, or a related STEM field
@@ -8527,13 +8620,13 @@ Skill sets for application engineers of different EDA products:
 	- Basic understanding of Mandarin
 + skill set:
 	- Video Processing Algorithm Engineer
-	- Conduct research on image/video processing algorithms. Conduct performance evaluations on image/video processing algorithms. Leverage signal processing, machine learning and deep learning techniques to solve computer vision problems. Possess strong skills in the areas of development and real-time implementation of video processing system. Analyze factors that impact algorithm runtime on various platforms and come up with solutions for real-time implementation without sacrificing algorithm performance. Analyses at both algorithm level and coding level (x86/x64/Arm neon assembly optimization, data structure optimization, multiple thread, GPU acceleration, etc.) are conducted to achieve the goal. Develop and prototype innovative algorithms in Zoom’s video processing pipeline. Develop a deep understanding of Zoom’s video processing architecture and develop new features on top. Design new video features to tackle new and existing problems on Windows, macOS, IOS, Android and Linux systems. Perform feasibility analysis and validation, develop corresponding demos and cooperate with team members for feature deployment on various platforms. 
-	- Master’s degree in Electrical/Computer Engineering, Computer Science, a related field, or foreign equivalent and 1 year of post-baccalaureate experience in job offered or related. Applicants must have 1 year of experience with the following (1) C++/C and Python programming skills to develop computer vision/video processing features; (2) deep learning frameworks including TensorFlow, PyTorch, Keras, and Caffe; (3) video/image processing including semantic segmentation, object detection, object tracking, and image enhancement (traditional method or deep learning method); (4) Convolutional Neural Networks or (CNN) structure optimization and acceleration; and (5) project development skills including build and release, quality assessment, third party SDKs integration. Telecommuting Permitted.
+	- Conduct research on image/video processing algorithms. Conduct performance evaluations on image/video processing algorithms. Leverage signal processing, machine learning and deep learning techniques to solve computer vision problems. Possess strong skills in the areas of development and real-time implementation of video processing system. Analyze factors that impact algorithm runtime on various platforms and come up with solutions for real-time implementation without sacrificing algorithm performance. Analyses at both algorithm level and coding level (x86/x64/Arm neon assembly optimization, data structure optimization, multiple thread, GPU acceleration, etc.) are conducted to achieve the goal. Develop and prototype innovative algorithms in Zoom's video processing pipeline. Develop a deep understanding of Zoom's video processing architecture and develop new features on top. Design new video features to tackle new and existing problems on Windows, macOS, IOS, Android and Linux systems. Perform feasibility analysis and validation, develop corresponding demos and cooperate with team members for feature deployment on various platforms. 
+	- Master's degree in Electrical/Computer Engineering, Computer Science, a related field, or foreign equivalent and 1 year of post-baccalaureate experience in job offered or related. Applicants must have 1 year of experience with the following (1) C++/C and Python programming skills to develop computer vision/video processing features; (2) deep learning frameworks including TensorFlow, PyTorch, Keras, and Caffe; (3) video/image processing including semantic segmentation, object detection, object tracking, and image enhancement (traditional method or deep learning method); (4) Convolutional Neural Networks or (CNN) structure optimization and acceleration; and (5) project development skills including build and release, quality assessment, third party SDKs integration. Telecommuting Permitted.
 + skill set:
 	- Machine Learning Engineer
 	- You will be part of a team whose focus is to solve cutting edge AI problems and deploying models that constantly advance the state-of-the-art. You will be working across various Natural Language Processing (NLP) areas like summarization, topic segmentation, language modeling, coreference resolution and other interesting challenges that are challenging at Zoom's scale.
 	- A person in this role is expected to able to carry out independent research without much supervision, collaborate with other researchers on larger scale projects, and provide directions to junior engineers on their research/engineering tasks.
-	- Build and scale Machine Learning (ML) services which enable Zoom’s products.
+	- Build and scale Machine Learning (ML) services which enable Zoom's products.
 	- Research, build and deploy state-of-the-art Machine Learning models for Natural Language.  
 	- Processing use cases – mostly in the conversational domain.
 	- Take ML models from research all the way to production.
@@ -8545,7 +8638,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience in machine learning toolkits (TensorFlow, PyTorch, Scikit, etc.)
 	- Experience with large-scale data processing.
 	- Strong coding skills in Python
-	- Experience in distributed training and performance optimization on GPU’s
+	- Experience in distributed training and performance optimization on GPU's
 	- Experience working on multi-modal ML
 	- Familiarity with large-scale data processing and distributed systems.
 	- Microservice, Docker, Kubernetes, REST API, AWS
@@ -8640,7 +8733,7 @@ Skill sets for application engineers of different EDA products:
 	- A core part of this offering is providing a platform that allows developers reuse deployment specific tuning and enhancements across model families and frameworks. As an AI Kernel Engineer you will own developing and tuning performance libraries for AI models. You will develop kernels and algorithms to increase performance of kernels, reduce the activation volumes, speedup data pre- and post-processing, and in general increase the end-to-end performance of the model.
 	- Design and optimize high-performance ML numeric and data manipulation kernels/operators.
 	- Utilize low-level C/C++/Assembly programming to achieve state of the art performance. Your work will also entail potentially introducing new novel compiler and tools support.
-	- Work with compiler, framework, runtime and performance teams to deliver end-to-end performance that fully utilizes today’s complex server and mobile systems.
+	- Work with compiler, framework, runtime and performance teams to deliver end-to-end performance that fully utilizes today's complex server and mobile systems.
 	- Collaborate with architects and hardware engineers to co-design future accelerators, including ISA for new hardware features and evolving ISA.
 	- Collaborate with machine learning researchers to guide system development for future ML trends.
 	- 6+ years of relevant work experience.
@@ -8669,7 +8762,7 @@ Skill sets for application engineers of different EDA products:
 	- Develop a Tech driven innovation strategy for TIL based on the principles of Design Thinking.
 	- Identify and Define relevant channels of engagement across HERE for TIL to expand the impact footprint of the business vertical
 	- Define IP monetization strategy that will enable HERE to earn revenue /enter new market
-	- Define startup/university engagement framework for successful collaboration with these bodies, in line with HERE’s business strategy.
+	- Define startup/university engagement framework for successful collaboration with these bodies, in line with HERE's business strategy.
 	- Identify the domains in technology where TIL and HERE should engage and defining a strategy for realization of same through development of disruptive prototypes in line with HERE business strategy
 	- Enabling invention of new frameworks /solutions in the domain of AIML, Blockchain, Location intelligence, distributed computing,quantum computing, tinyML, etc
 	- Improving the innovation index of HERE, by getting research papers published in ***NeurIPS, IEEE***, and awarded recognition in international forums like CES, Stevie ,etc
@@ -8697,7 +8790,7 @@ Skill sets for application engineers of different EDA products:
 	- Shows a combined experience in both research and business field
 	- Startup experience is advantageous and highly desirable
 + skill set:
-	- A data scientist experienced with using real-world data to analyze and develop algorithms that are incorporated into commercially profitable product lines. Someone who can leverage clustering algorithms to model non-Gaussian statistics;  who is able to study the physical characteristics of a problem and design mathematical models that solve problems from first principles;  has a desire to learn, develop, and keep up to pace with the state-of-the-art machine learning based algorithms; has the ability to be a subject matter expert on HERE’s technologies and product lines and leverage that knowledge to identify derivative algorithms to create new growth opportunities.
+	- A data scientist experienced with using real-world data to analyze and develop algorithms that are incorporated into commercially profitable product lines. Someone who can leverage clustering algorithms to model non-Gaussian statistics;  who is able to study the physical characteristics of a problem and design mathematical models that solve problems from first principles;  has a desire to learn, develop, and keep up to pace with the state-of-the-art machine learning based algorithms; has the ability to be a subject matter expert on HERE's technologies and product lines and leverage that knowledge to identify derivative algorithms to create new growth opportunities.
 	- Knowledge of data mining and analytic methods.
 	- Perform your day-to-day work by programming in Python and work with associated statistical and analytics packages in python.
 	- Leverage AWS technologies and use them to develop modelling pipelines.
@@ -8705,11 +8798,11 @@ Skill sets for application engineers of different EDA products:
 + Experience tinkering with or productizing LLMs, CV, vector databases, and the other latest AI technologies
 + skill set:
 	- Software Engineer, Generative AI
-	- Software is eating the world, but AI is eating software. We live in unprecedented times – AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, personal shopper, travel guide, and therapist throughout life. As the world adjusts to this new reality, leading platform companies are scrambling to build LLMs at billion scale, while large enterprises figure out how to add it to their products. To make them safe, aligned and actually useful, these models need human eval and reinforcement learning through human feedback (RLHF) during pre-training, fine-tuning, and production evaluations. This is the main innovation that’s enabled ChatGPT to get such a large headstart among competition.
+	- Software is eating the world, but AI is eating software. We live in unprecedented times – AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, personal shopper, travel guide, and therapist throughout life. As the world adjusts to this new reality, leading platform companies are scrambling to build LLMs at billion scale, while large enterprises figure out how to add it to their products. To make them safe, aligned and actually useful, these models need human eval and reinforcement learning through human feedback (RLHF) during pre-training, fine-tuning, and production evaluations. This is the main innovation that's enabled ChatGPT to get such a large headstart among competition.
 	- At Scale, our Generative AI Data Engine powers the most advanced LLMs and generative models in the world through world-class RLHF, human data generation, model evaluation, safety, and alignment. The data we are producing is some of the most important work for how humanity will interact with AI.
-	- We’re looking for entrepreneurial Software Engineers to join our team. In this role, you'll be given the opportunity to build any of these products to meaningfully drive millions of dollars in revenue. You’ll also get widespread exposure to the forefront of the AI race as Scale sees it in enterprises, startups, governments, and large tech companies.
+	- We're looking for entrepreneurial Software Engineers to join our team. In this role, you'll be given the opportunity to build any of these products to meaningfully drive millions of dollars in revenue. You'll also get widespread exposure to the forefront of the AI race as Scale sees it in enterprises, startups, governments, and large tech companies.
 	- The ideal person is a natural entrepreneurial engineer who can take an ambiguous scope and lead the execution of outcomes, doing what it takes to hit them incl coding, talking to customers, defining requirements, etc. We strongly believe the best engineers own outcomes and deeply understand customer problems. This tweet by Greg Brockman summarizes it well: https://twitter.com/gdb/status/1514291063233474560
-	- You’re excited about solving customer problems, and you pick the technologies and tactics that balance speed, function, and long-term robustness.
+	- You're excited about solving customer problems, and you pick the technologies and tactics that balance speed, function, and long-term robustness.
 	- Own large new areas within our product
 	- Work across backend, frontend, and interacting with LLMs and/or other ML models
 	- Deliver experiments at a high velocity and level of quality to engage our customers
@@ -8728,7 +8821,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience building ML infrastructure and AI-powered solutions.
 + skill set:
 	- Senior Software Engineer, AV-CV
-	- At Scale AI, we are building tools to across the AI development lifecycle. Data is the new code, and Scale AI helps companies get the data they need, whether it’s for self-driving vehicles, artificial general intelligence, or robotics. The AV-CV Team (Autonomous Vehicles / Computer Vision) builds the infrastructure for labeling Lidar, Mapping, and Camera data. If seeing autonomous vehicles excited you, you’ll be seeing a lot of that on the AV-CV team. The team builds the tools for labeling Lidar pointclouds, annotating image and video feeds, and linking them together to build perception models.
+	- At Scale AI, we are building tools to across the AI development lifecycle. Data is the new code, and Scale AI helps companies get the data they need, whether it's for self-driving vehicles, artificial general intelligence, or robotics. The AV-CV Team (Autonomous Vehicles / Computer Vision) builds the infrastructure for labeling Lidar, Mapping, and Camera data. If seeing autonomous vehicles excited you, you'll be seeing a lot of that on the AV-CV team. The team builds the tools for labeling Lidar pointclouds, annotating image and video feeds, and linking them together to build perception models.
 	- Own large new areas within our product
 	- Become an expert in working closely with customers across many CV industries
 	- Build technologies ranging from frontend and backend to automated ML systems
@@ -8763,7 +8856,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with generative AI models
 + skill set:
 	- Machine Learning Research Engineer, Generative AI
-	- Performant model code, high quality data, and robust evaluation methods form the foundation of an AI system. Scale’s leading end-to-end solutions for the ML lifecycle based on real-world data will continue to set the bar for the data-centric AI movement. Scale’s Generative AI team focuses on building models to accelerate AI adoption for some of the largest companies in the world. 
+	- Performant model code, high quality data, and robust evaluation methods form the foundation of an AI system. Scale's leading end-to-end solutions for the ML lifecycle based on real-world data will continue to set the bar for the data-centric AI movement. Scale's Generative AI team focuses on building models to accelerate AI adoption for some of the largest companies in the world. 
 	- Your focus will be on developing Models as a Service using a variety of Machine Learning techniques. You will be involved end-to-end from coordinating with operations to create high quality datasets to productionizing models for our customers. If you are excited about shaping the future of the data-centric AI movement, we would love to hear from you!
 	- Apply state of the art models, developed both internally and from the community, in production to solve problems for our customers and data labelers. 
 	- Work with product and research teams to identify opportunities for ongoing and upcoming services.
@@ -8893,7 +8986,7 @@ Skill sets for application engineers of different EDA products:
 	- Experience with Linux and command line tools
 + skill set:
 	- Machine Learning Engineer [Dept: Business Analytics]
-	- Master’s degree or foreign equivalent in Operation Research, Machine Learning, Industrial Engineering or related field and 3 years of experience in the job offered or related occupation.
+	- Master's degree or foreign equivalent in Operation Research, Machine Learning, Industrial Engineering or related field and 3 years of experience in the job offered or related occupation.
 	- 1 year of experience with each of the following skills is required:
 	- Statistics
 	- Machine Learning
@@ -8902,10 +8995,10 @@ Skill sets for application engineers of different EDA products:
 	- Large scale mixed integer Optimization
 	- Metaheuristics
 	- Python
-	- Multiple positions available in Cupertino, California and various unanticipated locations throughout the USA. Design Apple’s future supply chain and planning processes leveraging linear, mixed-integer and stochastic optimization, machine learning and statistics. Collaborate with business teams to find opportunities, understand requirements, prepare technical solutions and drive critical projects. Design data science approach, applying tried-and tested techniques or developing custom algorithms as needed by the business problem. Collaborate with data engineers and infrastructure partners to implement robust solutions and operationalize models. Enhance and evolve solutions to meet changing business needs with agility. Work collaboratively across teams and present results of analyses and models to partners and senior leaders. Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. 40 hours/week.
+	- Multiple positions available in Cupertino, California and various unanticipated locations throughout the USA. Design Apple's future supply chain and planning processes leveraging linear, mixed-integer and stochastic optimization, machine learning and statistics. Collaborate with business teams to find opportunities, understand requirements, prepare technical solutions and drive critical projects. Design data science approach, applying tried-and tested techniques or developing custom algorithms as needed by the business problem. Collaborate with data engineers and infrastructure partners to implement robust solutions and operationalize models. Enhance and evolve solutions to meet changing business needs with agility. Work collaboratively across teams and present results of analyses and models to partners and senior leaders. Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. 40 hours/week.
 + skill set:
 	- AIML - Software Engineer, MLR
-	- As part of Apple’s Machine Learning Research organization, we do world-class scientific research and build the technologies that will power future products at Apple.  The techniques and tools we create will impact ML solutions across Apple, which in turn power most of the features we deliver to billions of consumers worldwide.  We are looking for highly motivated, result-oriented engineers with a strong background in system engineering and software development to join our team. In this position, you will work with researchers across the Machine Learning Research group to build scalable, distributed training and research pipelines in the latest and greatest generative models.
+	- As part of Apple's Machine Learning Research organization, we do world-class scientific research and build the technologies that will power future products at Apple.  The techniques and tools we create will impact ML solutions across Apple, which in turn power most of the features we deliver to billions of consumers worldwide.  We are looking for highly motivated, result-oriented engineers with a strong background in system engineering and software development to join our team. In this position, you will work with researchers across the Machine Learning Research group to build scalable, distributed training and research pipelines in the latest and greatest generative models.
 	- Expert in Python programming
 	- Expert in at least one ML framework (PyTorch preferred but tensor flow or jax are ok as well).
 	- Experience with CUDA programming, and/or High-Performance Computing and/or distributed computing.
@@ -8917,8 +9010,8 @@ Skill sets for application engineers of different EDA products:
 	- M.S. or PhD in Computer Science (or related fields) or related fields or equivalent experience.
 + skill set:
 	- AIML - Machine Learning Engineer, Siri Information & Intelligence (SII)
-	- Search ranking is the technology that presents the most relevant results to a search query, giving the user a rewarding experience with Apple’s search products. The Siri Information Intelligence teams are building groundbreaking technology using algorithmic search, machine learning, natural language processing, and artificial intelligence.
-	- The features we build are redefining how hundreds of millions of people interact with their favorite devices. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As a part of this group you will have an opportunity to contribute to on-device search technologies and imagine and build products that delight our customers every single day.
+	- Search ranking is the technology that presents the most relevant results to a search query, giving the user a rewarding experience with Apple's search products. The Siri Information Intelligence teams are building groundbreaking technology using algorithmic search, machine learning, natural language processing, and artificial intelligence.
+	- The features we build are redefining how hundreds of millions of people interact with their favorite devices. Siri's universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As a part of this group you will have an opportunity to contribute to on-device search technologies and imagine and build products that delight our customers every single day.
 	- Strong problem-solving skills, ability to abstract out details and simplify a problem
 	- Strong programming skills, e.g. C/C++, python
 	- Strong background in computer science: algorithms and data structures.
@@ -8941,7 +9034,7 @@ Skill sets for application engineers of different EDA products:
 	- Ability to work hands-on with multi-functional teams
 	- Ability to work under tight schedules and deliver under pressure
 	- Ability to thrive in a collaborative environment and communicate clearly and confidently with partner teams
-	- The Vision Products Group at Apple is actively looking for a highly motivated Machine Learning Engineer to contribute to and build Apple’s future technologies in the spatial computing space. The successful candidate will demonstrate deep knowledge of, and hands-on experience, with designing, implementing, and optimizing machine learning algorithms to tackle ambitious problems. Candidate is expected to be proficient in machine learning and deep learning and be comfortable in applying their machine learning background and problem-solving skills to develop high-quality machine learning solutions that contribute to Apple's revolutionary roadmap.
+	- The Vision Products Group at Apple is actively looking for a highly motivated Machine Learning Engineer to contribute to and build Apple's future technologies in the spatial computing space. The successful candidate will demonstrate deep knowledge of, and hands-on experience, with designing, implementing, and optimizing machine learning algorithms to tackle ambitious problems. Candidate is expected to be proficient in machine learning and deep learning and be comfortable in applying their machine learning background and problem-solving skills to develop high-quality machine learning solutions that contribute to Apple's revolutionary roadmap.
 	- As an Machine Learning Engineer in the Vision Products Group at Apple, you will partner with the algorithm designers to collaboratively design machine learning based solutions to solve high-impact problems on Apple product(s).
 	- The primary responsibilities associated with this role, include algorithm design, implementation and optimization, integrating ground breaking research into production frameworks, and collaborating closely with product teams before and after feature launch.
 	- You will work multi-functionally with multiple teams at Apple, drive requirements and deliver the end solution
@@ -8955,7 +9048,7 @@ Skill sets for application engineers of different EDA products:
 	- The base pay range for this role is between $170,700 and $300,200, and your base pay will depend on your skills, qualifications, experience, and location.
 + skill set:
 	- Machine Learning Engineer (Dept: SII Info Intelligence US)
-	- Master’s degree or foreign equivalent in Computer Science, Statistics, Software Engineering, Biomedical Engineering or related field and 2 years of experience in the job offered or related occupation.
+	- Master's degree or foreign equivalent in Computer Science, Statistics, Software Engineering, Biomedical Engineering or related field and 2 years of experience in the job offered or related occupation.
 	- 1 year of experience with each of the following skills is required:
 		* Machine Learning and generative models;
 		* Deep learning and language models;
@@ -8968,7 +9061,7 @@ Skill sets for application engineers of different EDA products:
 + skill set:
 	- ISE, SIML - Robustness Analysis & AI Safety ML Engineer
 	- Are you passionate about inclusion, fairness and safety in AI powered features that ship on 1.5B Apple products across the globe? Are you excited about Generative AI and motivated to build out robust and safety capabilities of generative models? 
-	- We are the Intelligence System Experience (ISE) team within Apple’s software organization. The team works at the intersection between multimodal machine learning and system experiences. System Experience (Springboard, Settings), Keyboards, Pencil & Paper, Shortcuts are some of the experiences that the team oversees. These experiences that our users enjoy are backed by production scale ML workflows. Visual Understanding of People, Text, Handwriting & Scenes, multilingual NLP for writing workflows & knowledge extraction, behavioral modeling for proactive suggestions, and privacy preserving learning are areas our multi disciplinary ML teams focus on.
+	- We are the Intelligence System Experience (ISE) team within Apple's software organization. The team works at the intersection between multimodal machine learning and system experiences. System Experience (Springboard, Settings), Keyboards, Pencil & Paper, Shortcuts are some of the experiences that the team oversees. These experiences that our users enjoy are backed by production scale ML workflows. Visual Understanding of People, Text, Handwriting & Scenes, multilingual NLP for writing workflows & knowledge extraction, behavioral modeling for proactive suggestions, and privacy preserving learning are areas our multi disciplinary ML teams focus on.
 	- We have multiple ongoing efforts involving generative models, and we are looking for talented candidates to ensure that features built on top of such models are safe for deployment, and perform equally well for diverse customers within Apple's global user base.
 	- Good ML fundamentals
 	- Experience in training machine learning models (NLP or computer vision)
@@ -8978,7 +9071,7 @@ Skill sets for application engineers of different EDA products:
 	- Familiarity with ML toolkits, e.g., PyTorch
 	- Excellent drive, problem solving skills and analytical approach
 	- Strong communication and collaboration skills in a cross-functional setting. Ability to work hands-on with multi-functional teams
-	- Apple’s commitment to deliver incredible experiences to a global and diverse set of users, in full respect of their privacy, has led to the development of a dedicated Robustness Analysis function. With the generative experience, creating a safe and robust platform is vital to our mission. Team’s responsibilities include monitoring ML model performance on relevant axes, and surfacing, measuring and mitigating ML failure modes, in order to improve overall user experience and reduce risks, with specific attention given to safety, inclusion and fairness.
+	- Apple's commitment to deliver incredible experiences to a global and diverse set of users, in full respect of their privacy, has led to the development of a dedicated Robustness Analysis function. With the generative experience, creating a safe and robust platform is vital to our mission. Team's responsibilities include monitoring ML model performance on relevant axes, and surfacing, measuring and mitigating ML failure modes, in order to improve overall user experience and reduce risks, with specific attention given to safety, inclusion and fairness.
 	- In this position, you will join a team of people passionate about leading RA operations for key future facing Apple features with focus on ensuring safety and robustness for generative models.
 	- research and develop approaches to mitigate harmful and risk behaviors in generative models 
 	- define product-centered axes of analysis relevant to target feature, in collaboration with model DRI and feature DRI
@@ -9002,13 +9095,13 @@ Skill sets for application engineers of different EDA products:
 	- Solid programming skills with c/c++
 	- Passion on cutting edge computer vision/machine learning technologies and product delivery
 	- Ability to communicate the results of analyses in a clear and effective manner
-	- You will create 3D computer vision algorithms to deliver AR/VR experiences that are impactful, meaningful, and influential. We work closely with Apple’s best-in-class designers to ensure the products we ship are more than technical demos – they resonate with users at a personal level.
+	- You will create 3D computer vision algorithms to deliver AR/VR experiences that are impactful, meaningful, and influential. We work closely with Apple's best-in-class designers to ensure the products we ship are more than technical demos – they resonate with users at a personal level.
 	- In this role you will be working on a wide range of responsibilities: core technology algorithm development in support of future user experiences; communicating with and supporting external teams that use our algorithms; supporting low-level, cross-platform efforts; participating in code reviews; and being a constant advocate within the team for high quality results.
 	- PhD in computer vision, robotics or machine learning; alternatively a comparable industry career, with significant experience on delivering products using state-of-the-art computer vision, machine learning and robotics technologies
 + skill set:
 	- AIML - Machine Learning Engineer, Operations Research
-	- Do you want to innovate on Operations Research and Machine Learning solutions to transform Apple product’s lifecycle to the next level? The Data and Machine Learning Innovation team is looking into innovative ways to forecast key business indicators and optimization throughout end-to-end product lifecycle. We are a R&D team with strong expertise in Machine Learning, Operations Research, and Data Engineering. The team works broadly with Finance, Sales, Operations and Marketing to advance capabilities in forecasting and supply chain optimization with innovative ML/OR techniques and applications.
-	- As part of our team, you will work together with domain experts in finance, econometrics and supply chain operations where your skills and expertise will impact decisions that optimizes Apple’s business. This role is highly multi-disciplinary and you will collaborate closely with top notch engineers to build end-to-end ML/OR applications.
+	- Do you want to innovate on Operations Research and Machine Learning solutions to transform Apple product's lifecycle to the next level? The Data and Machine Learning Innovation team is looking into innovative ways to forecast key business indicators and optimization throughout end-to-end product lifecycle. We are a R&D team with strong expertise in Machine Learning, Operations Research, and Data Engineering. The team works broadly with Finance, Sales, Operations and Marketing to advance capabilities in forecasting and supply chain optimization with innovative ML/OR techniques and applications.
+	- As part of our team, you will work together with domain experts in finance, econometrics and supply chain operations where your skills and expertise will impact decisions that optimizes Apple's business. This role is highly multi-disciplinary and you will collaborate closely with top notch engineers to build end-to-end ML/OR applications.
 	- 2+ years experience of building Operations Research applications.
 	- Deep understanding of Linear Programming, Integer Programming, and Stochastic Optimization.
 	- Being proficient in solving LP/IP problems using Gurobi/CPLEX/OR-Tools.
@@ -9020,7 +9113,7 @@ Skill sets for application engineers of different EDA products:
 	- You will have the unique opportunity to use innovative techniques from OR and ML to develop accurate forecasting models and supply chain optimization systems. Your work is particularly exciting as it will impact Apple business planning. Strong candidates operations research and machine learning skills are encouraged to apply.
 + skill set:
 	- Machine Learning Performance Engineer
-	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer’s real-world operations requires new ideas, approaches and techniques.
+	- Our mission is to build the Covariant Brain, a universal AI to give robots the ability to see, reason and act on the world around them. Bringing AI from research in the lab to the infinite variability and constant change of our customer's real-world operations requires new ideas, approaches and techniques.
 	- Success in the real world requires a team that represents that world: diversity of backgrounds, points of view, and experiences. Our common denominator: ambitious expectations, love of learning, empathy for those around us, and a team-first mindset.
 	- The Covariant Brain is a Universal AI Platform that powers all robotic applications at Covariant. The Brain is a collection of state-of-the-art models, algorithms, and APIs that enable all intelligent behavior of the robot, from perception to 3d object understanding, grasp sampling, ranking, motion planning, and control. Each ML Performance Engineer will be expected to own a product family and use their understanding of the Covariant Brain to make improvements toward making robots highly autonomous.
 	- Own all performance aspects of a robotic application 
@@ -9049,7 +9142,7 @@ Skill sets for application engineers of different EDA products:
 	- Lahore, Pakistan
 	- Siemens Digital Industry is an innovation leader in automation & digitization. We are part of Technology & Innovation department of Siemens Factory Automation, an international team of dedicated and passionate engineers working on the next generation of pre-products for Industry 4.0. We work on the complete business lifecycle from concept ideation to incubation. We are not tied to specific technology; we build our own technology. We have filed multiple patents for our innovations. Our current portfolio includes a fully managed multi-tier orchestrated industrial IoT Platform and a distributed machine learning flow manager, a no code solution for domain experts & low code solution for data scientists. We work in Machine Learning, Industrial devices and Industrial IoT on the entire stack ranging from Devices & connectivity to Platform services and UI. Our strategic search fields include Industrial grade AI, Industrial IoT & Edge Computing, IT/OT convergence & Digital Twin.
 	- Design & develop functionality for our new product using technologies like Generative AI & LLMs
-	- Research existing LLMs to find appropriate fit for the team’s need, fine-tuning or retraining existing LLMs available in the opensource
+	- Research existing LLMs to find appropriate fit for the team's need, fine-tuning or retraining existing LLMs available in the opensource
 	- Research different AI related topics which are in the interest of the team to create new product ideas and implement POCs and then translating them to complete product. These topics include Generative AI, Adoption of AI, AI Safety, Easy AI, etc.
 	- Construct jobs & scripts using industry standard toolsets to automate various data querying, loading, aggregating and reporting tasks
 	- Perform data analysis to identify new data sources and to optimize/identify features in existing data sources
@@ -9090,8 +9183,8 @@ Skill sets for application engineers of different EDA products:
 		* Solid background in Data Structures & Algorithms
 		* Knowledge of Machine Learning & Data Science
 		* Excellent programming skills, preferably in Python
- 	- Synopsys, Inc. is the Silicon to Software™ partner for innovative companies developing the electronic products and software applications we rely on every day. As the world’s 15th largest software company, Synopsys has a long history of being a global leader in electronic design automation (EDA)and semiconductor IP and is also growing its leadership in software quality and security solutions.
-	- At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
+ 	- Synopsys, Inc. is the Silicon to Software™ partner for innovative companies developing the electronic products and software applications we rely on every day. As the world's 15th largest software company, Synopsys has a long history of being a global leader in electronic design automation (EDA)and semiconductor IP and is also growing its leadership in software quality and security solutions.
+	- At Synopsys, we're at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we're powering it all with the world's most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
 + skill set:
 	- ***Machine learning engineer role with an EDA company to build machine learning frameworks, and machine learning infrastructure (in the context of MLOps)***
 	- Sr. Technical Lead (ML)
@@ -9114,7 +9207,7 @@ Skill sets for application engineers of different EDA products:
 	- Quick learning and adaption to new technologies
 + skill set:
 	- Staff Machine Learning Engineer - Language Modeling (Remote)
-	- Our small Natural Language Processing team works on providing key NLP competence to improve Quora users’ experience. We build end-to-end industry-scale NLP systems for moderation (e.g. spam detection) and content-based recommendation (e.g. topic tagging and modeling content relevance). The team directly supports moderation and growth-related initiatives at Quora. As a remote-first company, our engineers have a high degree of flexibility and autonomy.
+	- Our small Natural Language Processing team works on providing key NLP competence to improve Quora users' experience. We build end-to-end industry-scale NLP systems for moderation (e.g. spam detection) and content-based recommendation (e.g. topic tagging and modeling content relevance). The team directly supports moderation and growth-related initiatives at Quora. As a remote-first company, our engineers have a high degree of flexibility and autonomy.
 	- We are looking for an experienced Staff Machine Learning Engineer to join our growing NLP engineering team. You will have a unique opportunity to have high impact by advancing our NLP systems, as well as uncovering new opportunities to apply large language models to the Quora product. You will also play a key role in developing tools and abstractions that our other developers would build on top of.
 	- Improve our existing machine learning systems using your core coding skills and ML knowledge
 	- Identify new opportunities to apply large language models to different parts of the Quora product
@@ -9143,7 +9236,7 @@ Skill sets for application engineers of different EDA products:
 	- 4) Experience working with camera interfaces Develop camera, 3D and other sensors.
 + skill set:
 	- Deep Learning Software Library Development Engineer
-	- In this role, you will be responsible for developing highly optimized libraries for Deep Learning operators. This role is a very critical role in our AI Processor’s SDK development. It involves working on libraries, performance tuning and analysis, implementing new algorithms etc.
+	- In this role, you will be responsible for developing highly optimized libraries for Deep Learning operators. This role is a very critical role in our AI Processor's SDK development. It involves working on libraries, performance tuning and analysis, implementing new algorithms etc.
 	- 1) Bachelors, Masters or equivalent experience in Computer Science, Artificial Intelligence, Applied Math, EE or related fields.
 	- 2) Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
 	- 3) Good working understanding of TensorFlow operators and maths behind it.
@@ -9205,7 +9298,7 @@ Skill sets for application engineers of different EDA products:
 	- Comprehensive multidisciplinary skills for everything from model training to code review to ML research to product documentation, with the ability to adapt to different challenges and collaborate effectively with cross-functional teams
 	- Strategic and agile planner with an eye for MVP
 	- Efficient communication skills with a reliable pattern of providing quick feedback and acknowledgments, along with the ability to complete larger projects within established timelines
-	- Kintsugi is on a mission to scale access to mental healthcare for all. We are developing novel voice biomarker software to detect signs of depression and anxiety from short clips of free form speech. Awarded multiple distinctions for AI technology and recently named one of Forbes’ Top 50 AI companies to watch in 2022 and Fierce 15 in 2023, Kintsugi helps to close mental health care gaps across risk-bearing health systems, ultimately saving time and lives.
+	- Kintsugi is on a mission to scale access to mental healthcare for all. We are developing novel voice biomarker software to detect signs of depression and anxiety from short clips of free form speech. Awarded multiple distinctions for AI technology and recently named one of Forbes' Top 50 AI companies to watch in 2022 and Fierce 15 in 2023, Kintsugi helps to close mental health care gaps across risk-bearing health systems, ultimately saving time and lives.
 	- At Kintsugi, we believe that mental health is just as important as physical health. We exist to ensure that everyone who needs mental healthcare has access to the right care at the right time. 
 	- We're a female-founded organization, united and driven by our shared passion to revolutionize access to mental healthcare. Our mission is ambitious, and each member of our team wears multiple hats and plays a pivotal role. As an early-stage, Series A startup, we offer exciting growth opportunities and the chance to make a real impact. Join us to embark on a rewarding journey, learning and growing alongside our dedicated team of trailblazers.
 + skill set:
@@ -9321,7 +9414,7 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- The current expected base salary for this position ranges from $160,000 - $250,000.
 + skill set:
 	- Machine Learning Manager
-	- In order to execute our vision, we're constantly growing our machine learning team.  We are looking for an exceptional leader to help us with that growth, making sure that each engineer reaches their full potential.  We value hard workers who have no qualms working with terabyte-scale datasets. We’re interested in experimenting with new models, new ideas, and training on novel datasets. Our ideal candidate has experience managing a team of machine learning engineers working on ML projects of a massive scale, contributes innovative ideas and ingenious modeling improvement strategies to the team, and is capable of mentoring junior engineers through their journey to become better.
+	- In order to execute our vision, we're constantly growing our machine learning team.  We are looking for an exceptional leader to help us with that growth, making sure that each engineer reaches their full potential.  We value hard workers who have no qualms working with terabyte-scale datasets. We're interested in experimenting with new models, new ideas, and training on novel datasets. Our ideal candidate has experience managing a team of machine learning engineers working on ML projects of a massive scale, contributes innovative ideas and ingenious modeling improvement strategies to the team, and is capable of mentoring junior engineers through their journey to become better.
 	- Interface closely with product management, engineering, devops, labeling, and sales teams to build roadmap in supporting the long term vision of the team
 	- Lead a team of highly capable and passionate machine learning engineers, helping them achieve their goals through mentorship
 	- Participate in products technical design and architecture
@@ -9392,7 +9485,7 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Netflix is an equal-opportunity employer and strives to build diverse teams from all walks of life. We offer a unique culture of freedom and responsibility with a clear long-term view of our business. The overall market range for roles in this area of Netflix is typically $180,000 - $900,000. This market range is based on total compensation (vs. only base salary), which aligns with our compensation philosophy.
 + skill set:
 	- Engineering Manager, Machine Learning, Member Satisfaction
-	- We are looking for an experienced engineering leader to lead our applied ML research on estimating long-term member satisfaction. As Netflix continues to grow, we are venturing into exciting new frontiers of personalization to help our members find the content they’ll most enjoy. To do this, we have to understand which titles, and what experiences in the product, produce the most joy for each member. 
+	- We are looking for an experienced engineering leader to lead our applied ML research on estimating long-term member satisfaction. As Netflix continues to grow, we are venturing into exciting new frontiers of personalization to help our members find the content they'll most enjoy. To do this, we have to understand which titles, and what experiences in the product, produce the most joy for each member. 
 	- Your team will be at the forefront of research on causal inference, machine learning, reinforcement learning, and econometrics. You will lead a team of experts in these techniques to understand how members experience titles, and how that changes their long-term assessment of their satisfaction with the Netflix service. In this role you will be responsible for building and leading the team. Your team will be responsible for operating, as well as innovating on these algorithms. You will help select and guide projects from end-to-end: idea to production. You will partner with people from many disciplines, including behavioral scientists, machine learning researchers, and application engineers. 
 	- To be successful in this role, you need a strong machine learning, engineering, and econometrics background, to be data-driven, and have the proven ability to lead multi-disciplinary, cross-functional, teams. You also need to be great at giving and receiving feedback, championing new ideas, empowering others, and balancing the needs of both research and engineering.
 	- Experience building and leading a team of ML researchers and engineers
@@ -9411,9 +9504,9 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Build artificial intelligence and machine learning products that help Nike automatically move inventory throughout the supply chain to get the consumer the right product at the right time.
 	- Develop AI/ML products such as inventory optimization, demand sensing and forecasting, pricing and markdown, replenishment optimization. You will lead teams test new and interesting hypotheses, productionized and scale ML solutions in the cloud as APIs, stream processing, or extensive batch processing.
 	- Build and grow highly skilled, cross-functional engineering teams that deliver solutions unlocking machine learning for Nike. Lead the professional development and career plans for those on your teams, help us develop the technology leaders of tomorrow. Develops and leads team metrics.
-	- Leverage your prior experience, knowledge of industry trends, and personal creativity to develop new and innovative solutions which delight our customers. Given the rapid pace of change in technology and machine learning today, always be pushing the boundary of what’s possible and be on the offense always
+	- Leverage your prior experience, knowledge of industry trends, and personal creativity to develop new and innovative solutions which delight our customers. Given the rapid pace of change in technology and machine learning today, always be pushing the boundary of what's possible and be on the offense always
 	- Role model clarity and accountability as a leader of Nike. Communicate effectively, build trust and strong relationships across the company, do the right thing
-	- Engage employees meaningfully, assist the teams by removing roadblocks, align efforts across Nike’s matrix to drive progress forward and always win as a team
+	- Engage employees meaningfully, assist the teams by removing roadblocks, align efforts across Nike's matrix to drive progress forward and always win as a team
 	- Partners with Architecture to ensure architectural consistency across solutions
 	- Stays current with industry trends and recommends relevant technologies & products in the areas of Artificial Intelligence & Machine Learning, and Data Science tools and other emerging technologies in the areas of Enterprise Data & AI.
 	- 8 years of experience in developing production grade code in software or data engineering, machine learning or a related field + experience working in an Analytics environment
@@ -9426,7 +9519,7 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Strong skills in team leadership and building positive relationships across Product, Architecture, and Engineering, and ability to influence decisions and changes across loosely coupled teams.
 	- Excellent written and oral communication skills to both technical and non-technical audiences.
 	- Experience delivering software working with Agile frameworks, processes, and teams
-	- Bachelor’s Degree in computer science, software engineering, or related field
+	- Bachelor's Degree in computer science, software engineering, or related field
 + skill set:
 	- BLAH.
 + skill set:
@@ -9506,8 +9599,8 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 
 Skill sets for machine learning for fairness, accountability, transparency, and bias mitigation:
 + skill set:
-	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify’s Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that’s true to our values.
-	- Be part of an interdisciplinary team focused on understanding Spotify’s impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify's Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that's true to our values.
+	- Be part of an interdisciplinary team focused on understanding Spotify's impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
 	- Contribute to the wider research community by publishing. 
 	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
 	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
@@ -9516,9 +9609,9 @@ Skill sets for machine learning for fairness, accountability, transparency, and 
 	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
 	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
 	- You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.
-	- You are curious about how interaction design, data collection strategies, and people’s perceptions affect Machine Learning outcomes.
+	- You are curious about how interaction design, data collection strategies, and people's perceptions affect Machine Learning outcomes.
 	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
-	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people’s interaction with technology.
+	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people's interaction with technology.
 	- Knowledge or experience working in emerging markets is a plus.
 	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
 	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
@@ -9673,7 +9766,7 @@ Skill sets for generic applied machine learning, applied ML
 	- Familiarity with machine learning frameworks such as TensorFlow and Pytorch 
 	- Knowledge of ML application areas and state-of-the-art networks in various application areas
 + skill set:
-	- Cerebras’ Wafer Scale Engine (WSE) was designed to provide significant reduction of training times for deep neural networks. Our goal is to provide customers with the computational power needed to iterate faster so that they can develop the most accurate models possible. 
+	- Cerebras' Wafer Scale Engine (WSE) was designed to provide significant reduction of training times for deep neural networks. Our goal is to provide customers with the computational power needed to iterate faster so that they can develop the most accurate models possible. 
 	- As an applied machine learning engineer, you will work on adapting state of the art deep learning (DL) models to run on our wafer scale system. This includes both functional validation and performance tuning of a variety of core models for applications like Natural Language Processing (NLP), Computer Vision (CV), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), and Recommendation models. 
 	- As a member of the Cerebras engineering team you will be implementing models in popular DL frameworks like TensorFlow and PyTorch and using insights into our hardware architecture to unlock to full potential of our chip.  You will work on all aspects of the DL model pipeline including: 
 		* Dataloader implementation and performance optimization 
@@ -9681,7 +9774,7 @@ Skill sets for generic applied machine learning, applied ML
 		* Model convergence tuning 
 		* Model performance optimization 
 		* Model customization to meet customer needs 
-	- This role will allow you to work closely with partner companies at the forefront of their fields across many industries. You will get to see how deep learning is being applied to some of the world’s most difficult problems today and help ML researchers in these fields to innovate more rapidly and in ways that are not currently possible on other hardware systems. 
+	- This role will allow you to work closely with partner companies at the forefront of their fields across many industries. You will get to see how deep learning is being applied to some of the world's most difficult problems today and help ML researchers in these fields to innovate more rapidly and in ways that are not currently possible on other hardware systems. 
 	- Analyze, implement, and optimize DL models for the WSE 
 	- Functional and convergence of models on the WSE 
 	- Work with engineering teams to optimize models for the Cerebras stack 
@@ -9738,7 +9831,7 @@ Skill sets for generic applied machine learning, applied ML
 	- Build a culture of continuous learning, growth, and sharing of technological insights.
 	- 10+ years of hands-on technical experience.
 	- 4+ years of direct management experience of highly technical managers and engineers.
-	- Bachelor’s degree in Computer Science or another quantitative field. We will consider equivalent practical experience
+	- Bachelor's degree in Computer Science or another quantitative field. We will consider equivalent practical experience
 	- Experience in delivering multiple complex technical projects within an Agile environment.
 	- Familiar with machine learning and data science workflows.
 	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
@@ -9757,7 +9850,7 @@ Skill sets for generic applied machine learning, applied ML
 	- Build a culture of continuous learning, growth, and sharing of technological insights.
 	- 10+ years of hands-on technical experience.
 	- 4+ years of direct management experience of highly technical managers and engineers.
-	- Bachelor’s degree in Computer Science or another quantitative field. We will consider equivalent practical experience.
+	- Bachelor's degree in Computer Science or another quantitative field. We will consider equivalent practical experience.
 	- Experience in delivering multiple complex technical projects within an Agile environment.
 	- Familiar with machine learning and data science workflows.
 	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
@@ -9894,7 +9987,7 @@ Skill sets for generic applied machine learning, applied ML
 + skill set:
 	- Apache Beam or Google Dataflow
 		* https://beam.apache.org/
-		* "Apache Beam is an open source unified programming model to define and execute data processing pipelines, including ETL, batch and stream (continuous) processing.[2] Beam Pipelines are defined using one of the provided SDKs and executed in one of the Beam’s supported runners (distributed processing back-ends) including Apache Flink, Apache Samza, Apache Spark, and Google Cloud Dataflow."
+		* "Apache Beam is an open source unified programming model to define and execute data processing pipelines, including ETL, batch and stream (continuous) processing.[2] Beam Pipelines are defined using one of the provided SDKs and executed in one of the Beam's supported runners (distributed processing back-ends) including Apache Flink, Apache Samza, Apache Spark, and Google Cloud Dataflow."
 			+ https://en.wikipedia.org/wiki/Apache_Beam
 	- MapReduce frameworks
 		* Hadoop
@@ -10154,7 +10247,7 @@ Skill sets for ***computer vision***:
 	- Interest/background in algorithms with human-like abilities such as learning from small amounts of data and tight sensorimotor feedback.
 	- Strong C++ and/or Python skills. Experience developing with OpenCV, TensorFlow, and PCL.
 + skill set:
-	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize’s proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
+	- OpenVX Driver Feature Development: Developing OpenVX driver for Blaize's proprietary processor involves design, implementation, unit testing, maintenance of the driver code. This also involves memory management, state management, graph algorithms.
 		* Portable, Power-efficient Vision Processing. OpenVX™ is an open, royalty-free standard for cross platform acceleration of computer vision applications.
 		* OpenVX is an open, royalty-free standard for cross-platform acceleration of computer vision applications. It is designed by the Khronos Group to facilitate portable, optimized and power-efficient processing of methods for vision algorithms. This is aimed for embedded and real-time programs within computer vision and related scenarios. It uses a connected graph representation of operations.
 	- OpenVX Built-in kernel Development: The driver team also implements kernels using OpenCL C++ and Assembly language. This involves understanding/tweaking image-processing/CV/CNN algorithms for implementation most suited to our h/w architecture.
@@ -10237,10 +10330,10 @@ Skill sets for ***computer vision***:
 	- A great communicator who is self-motivated towards the team goal
 	- Take pride in helping others and welcome mentoring others around you
 	- Sharp mathematics skills
-	- Image recognition and speech recognition — GPU deep learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human imagination, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidia’s GPU runs deep learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why Nvidia GPUs are used broadly for deep learning, and NVIDIA is increasingly known as “the AI computing company.”
+	- Image recognition and speech recognition — GPU deep learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human imagination, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidia's GPU runs deep learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why Nvidia GPUs are used broadly for deep learning, and NVIDIA is increasingly known as “the AI computing company.”
 + skill set:
 	- As the Geometric Computer Vision Engineer you will need to develop computer vision algorithms for object detection, tracking, and classifications that are robust to lighting and weather changes. This work requires that you collaborate with state estimation engineers and assist in developing powerful feature detectors/ descriptors and large-scale 3D maps. Furthermore, it is expected that you stay organized and communicative with others to ensure that goals and objectives are being met on time. To guarantee the consistency of projects, you will participate in end-to-end development and training in Cloud to optimize development on embedded platforms.
-	- 3-5+ years’ significant industry experience and/or publications at venues such as ICRA, RSS, IROS, or CVPR in one or more areas-
+	- 3-5+ years' significant industry experience and/or publications at venues such as ICRA, RSS, IROS, or CVPR in one or more areas-
 		* Image Processing
 		* Geometric Computer Vision
 		* Deep Learning (ideally CNNs)
@@ -10381,7 +10474,7 @@ Skill sets for ***computer vision***:
 	- Excellent problem solving and analytical thinking skills
 	- Track record of successfully building and shipping products or open source projects
 	- Creativity and curiosity for solving highly complex problems
-	- You’ll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.
+	- You'll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.
 	- Inventing and implementing state of the art computer vision algorithms to solve cutting edge problems
 	- Designing such algorithms to work reliably and efficiently on mobile devices
 	- Collaborating with other teams in software and hardware to ensure the full pipeline runs efficiently and utilizes Apple hardware effectively
@@ -10418,7 +10511,7 @@ Skill sets for ***computer vision***:
 	- Excellent problem solving and analytical thinking skills
 	- Track record of successfully building and shipping products or open source projects
 	- Creativity and curiosity for solving highly complex problems
-	- You’ll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.   
+	- You'll be working in a team of computer vision and machine learning researchers and engineers to implement world class algorithms that pushes the state of the art.   
 	- Inventing and implementing state of the art computer vision algorithms to solve cutting edge problems 
 	- Designing such algorithms to work reliably and efficiently on mobile devices 
 	- Collaborating with other teams in software and hardware to ensure the full pipeline runs efficiently and utilizes Apple hardware effectively 
@@ -10435,7 +10528,7 @@ Skill sets for ***computer vision***:
 	- Technical publication record in deep learning and/or computer vision is desirable
 	- Experience in neural network optimization is a plus
 	- Proficiency with C/C++ and Python
-	- You’ll be working in a team of image processing and computer vision experts to push the state of the art in camera algorithms.
+	- You'll be working in a team of image processing and computer vision experts to push the state of the art in camera algorithms.
 	- Inventing and implementing innovative machine learning and computer vision algorithms to solve cutting edge problems in image processing.
 	- Designing such algorithms to work reliably and efficiently on mobile devices.
 	- Collaborating with other teams in software, firmware, and hardware to ensure the highest possible image quality.
@@ -10458,7 +10551,7 @@ Skill sets for ***computer vision***:
 	- Creating tools and workflow for integration into shader and rendering pipeline
 + skill set:
 	- Computer Vision Engineer
-	- The candidate will be required to spend considerable hands-on time designing, coding, optimizing, debugging, and testing Computer Vision applications on AlphaICs’s AI Processor running Linux operating systems.
+	- The candidate will be required to spend considerable hands-on time designing, coding, optimizing, debugging, and testing Computer Vision applications on AlphaICs's AI Processor running Linux operating systems.
 	- 1) 2-3 years' experience with Programming Languages such as C/C++, Python and experience with hands-on coding to collaborate with HW designers to adopt the proposed.
 	- 2) Embedded system software development experience i.e device driver, BSP development.
 	- 3) Experience enabling vision algorithms on imaging and vision accelerators or GPUs.
@@ -10666,7 +10759,7 @@ Skills for natural language processing, NLP:
 	- noise suppression, voice activity detection, and speacker recognition
 	- deep learning model optimization, such as quantization, neural architecture search, pruning
 + skill set:
-	- Our Spoken Language Understanding (SLU) team is building a speech-to-meaning engine that will add to our customers’ ease of use and control as we continue to differentiate an end-to-end Sonos experience for them.
+	- Our Spoken Language Understanding (SLU) team is building a speech-to-meaning engine that will add to our customers' ease of use and control as we continue to differentiate an end-to-end Sonos experience for them.
 	- Develop new models and algorithms for SLU with a particular focus on the interface between the speech-to-text and the text-to-meaning engines
 	- Write production-grade code to be deployed with the support of our software engineering and QA teams
 	- Own the development process, from the conception of the models to their evaluation
@@ -10730,7 +10823,7 @@ Skills for natural language processing, NLP:
 	- Developing algorithms for detecting synthesized media.
 	- Coming up with new research directions to improve our product.
 	- Proven experience in designing and implementing deep learning algorithms. 
-	- PhD or Master’s degree specialized in Deep Learning or equivalent experience. 
+	- PhD or Master's degree specialized in Deep Learning or equivalent experience. 
 	- Track record of developing new ideas in machine learning, as demonstrated by one or more first author publications or projects. 
 	- Good programming skills and experience with deep learning frameworks.
 	- Publications at top ML/Speech conferences is a big plus: NIPS, ICML, ICLR, Interspeech, ICASSP.
@@ -10769,8 +10862,8 @@ Skills for natural language processing, NLP:
 	- At least one paper published in ***Interspeech, ICASSP***, or related conference preferred
 + skill set:
 	- This is an opportunity to join the innovation division of EON, a leader in the healthcare patient management space, and expand our Computational Linguistics and Machine Learning capabilities. You will work with our Data Science, Engineering and Product teams to develop product features based on Computational Linguistics and Machine Learning technologies, ensuring that these new features address customer needs.
-	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people’s lives.
-	- In this role, you will apply Computational Linguistics and Machine Learning to create systems that innovate healthcare products at scale. In addition to a world-class data set, you’ll also have access to domain experts for annotations to help drive investigation and learning.
+	- You have a proven track record of creating CL models to extract information from unstructured texts, using advanced statistical methods to understand model results, and developing software to support these processes. You have a strong mathematical and statistics background, with the ability to understand algorithms and methods from a mathematical and intuitive viewpoint. In addition, you have a keen sense of ownership, resilience, and drive; like dynamic projects and enjoy being challenged; are comfortable in evolving requirements and occasional uncertainty, and enjoy making a difference in people's lives.
+	- In this role, you will apply Computational Linguistics and Machine Learning to create systems that innovate healthcare products at scale. In addition to a world-class data set, you'll also have access to domain experts for annotations to help drive investigation and learning.
 	- Proficiency in Python and SQL
 	- Experience in one or more of the following languages: C++, Java, C#
 	- Working knowledge of Unix commands and good security practices
@@ -10810,11 +10903,11 @@ Skills for natural language processing, NLP:
 + skill set:
 	- Computational Linguist
 	- As a Computational Linguist you will join project teams to build top-notch NLP/NLU solutions for our Customers and Partners worldwide, ensuring that all issues are dealt with in the most effective and satisfactory way. Not only you have a firm grasp of general linguistics (semantics, syntax, morphology) but you have also experience with artificial intelligence, machine learning, natural language processing and computational linguistics.
-	- Identify logical patterns underlying the language, write semantic rules on Expert.ai’s proprietary IDE to meet Customers’ expectations
+	- Identify logical patterns underlying the language, write semantic rules on Expert.ai's proprietary IDE to meet Customers' expectations
 	- Perform tests and validations to verify the effectiveness of the implemented solution
 	- Contribute to the continuous improvement of the core technology
 	- Identify suitable solutions for clients in the field of Natural Language Processing
-	- Work with Project Managers, Software Engineers and other Knowledge Engineers on Customer’s projects
+	- Work with Project Managers, Software Engineers and other Knowledge Engineers on Customer's projects
 	- Graduated in Computational Linguist or Languages
 	- Experienced in coding with Python and/or C++: write data processing scripts to transform or extract knowledge from unstructured data, including hands-on experience with regular expressions
 	- Analytical person with excellent written and verbal communication skills in a technical context
@@ -10824,7 +10917,7 @@ Skills for natural language processing, NLP:
 + skill set:
 	- Knowledge Engineer Intern
 	- If you are completing your studies in Computational Linguistics or Languages and you would like to be part of a growing company that works in an international environment, you can send us your application: we are looking for a Knowledge Engineer Intern for our Paris office.
-	- As knowledge Engineer intern you will support the Professional Services team that works on Artificial Intelligence projects aimed at helping big Companies and Public Institutions in solving the daily practical issues linked to the digital transformation and the processes’ automation. During your internship you will be trained in COGITO technology and you will develop your skills in the field of Natural Language Processing / Natural Language Understanding; you will learn the use cases of NLP for Companies and carry out a first experience as a consultant. Finally, you will contribute to the continuous development of our core technology from the linguistic point of view and you will test and verify the effectiveness of the platform.
+	- As knowledge Engineer intern you will support the Professional Services team that works on Artificial Intelligence projects aimed at helping big Companies and Public Institutions in solving the daily practical issues linked to the digital transformation and the processes' automation. During your internship you will be trained in COGITO technology and you will develop your skills in the field of Natural Language Processing / Natural Language Understanding; you will learn the use cases of NLP for Companies and carry out a first experience as a consultant. Finally, you will contribute to the continuous development of our core technology from the linguistic point of view and you will test and verify the effectiveness of the platform.
 	- Degree in Languages, Literature, Linguistics or Computational Linguistics;
 	- Excellent knowledge of English and another language;
 	- Good knowledge of linguistics will be necessary for the rapid handling of our Cogito technology;
@@ -10881,8 +10974,8 @@ Skills for natural language processing, NLP:
 + skill set:
 	- Software Engineer, AI Product
 	- Adept's mission is to build Useful General Intelligence. We are solving open problems in AI in order to train models that can do arbitrary things on a computer, and we are solving open product problems in order to package these models into a form factor that best enhances human experience and performance. 
-	- We’ve recently raised a $350M Series B led by General Catalyst and Spark, on top of a $65M Series A in 2022 with Addition and Greylock. We’re fortunate to be supported by amazing firms and angels such as Chris Re, Andrej Karpathy, Root Ventures, Howie Liu, Dara Khosrowshahi,  and others, and were recently highlighted by Forbes. Adept is backed by a coalition of strategic partners, including Atlassian, Microsoft, NVIDIA, and Workday.
-	- Adept thrives at the intersection of research and product. In this role, you will rapidly build new capabilities of our product leveraging a combination of in-house and external tooling, and help safely deploy applications built on top of large models at scale. You’ll collaborate closely with the product engineering, design, and product teams to build practical solutions that address real user needs.
+	- We've recently raised a $350M Series B led by General Catalyst and Spark, on top of a $65M Series A in 2022 with Addition and Greylock. We're fortunate to be supported by amazing firms and angels such as Chris Re, Andrej Karpathy, Root Ventures, Howie Liu, Dara Khosrowshahi,  and others, and were recently highlighted by Forbes. Adept is backed by a coalition of strategic partners, including Atlassian, Microsoft, NVIDIA, and Workday.
+	- Adept thrives at the intersection of research and product. In this role, you will rapidly build new capabilities of our product leveraging a combination of in-house and external tooling, and help safely deploy applications built on top of large models at scale. You'll collaborate closely with the product engineering, design, and product teams to build practical solutions that address real user needs.
 	- The ideal candidate is a full-stack software engineer who has built and launched applications on top of LLMs, worked with a variety of common tools for LLM-enabled software, and is familiar with research in prompt engineering techniques. You are familiar with or even have contributed to open-source libraries related to LLMs and love a 0 to 1 challenge.
 	- We deeply value software engineers who can engage with new problems and get things done at a startup, and our team members come from a variety of backgrounds and experiences. 
 	- 6+ years of experience as a software engineer, preferably building apps and interfaces
@@ -10897,7 +10990,7 @@ Skills for natural language processing, NLP:
 	- Natural Language Generation, Research Engineer, Input Experience
 	- Text generation is a key enabler for accelerated text input and intelligent interaction on Apple platforms. Our team is working on redefining user interaction with generative models for text generation. If you want to be part of an ambitious, organized and collaborative team that ships user experiences with pioneering ML applied to NLP, come join the Input Experience NLP team in Software Engineering. Recent announcements at WWDC 2023 for running Transformer models on every keystroke for autocorrection, sentence level correction and inline completions were conceived and built end-to-end on our team.
 	- You will work with a hard-working and dedicated set of outstanding ML and software engineers on a wide range of text generation technologies such as long-form text generation, summarization, question-answering, etc. Our team has been working in this area for years and own the NLP and ML text input stack for the keyboard input that includes autocorrection, predictive typing on all Apple platforms. We also work on full stack ML applied to NLP and expose these key technologies across Apple on device and also to third party applications through the Natural-Language framework. If you want to amplify your strong ML and NLP skills into user experiences that will reach every person around you, this is the perfect opportunity!
-	- We exemplify Apple’s outstanding integration of hardware and software to create seamless input experiences. You will have the opportunity to go from building offline pioneering NLP models to optimization of the models for different hardware backends and user interfaces that make the experience magical. Our vision always includes a deep dedication to strengthening Apple’s privacy policy by achieving all of the above on device with powerful ML.
+	- We exemplify Apple's outstanding integration of hardware and software to create seamless input experiences. You will have the opportunity to go from building offline pioneering NLP models to optimization of the models for different hardware backends and user interfaces that make the experience magical. Our vision always includes a deep dedication to strengthening Apple's privacy policy by achieving all of the above on device with powerful ML.
 	- We are looking for a NLG Research Engineer to innovate and enhance the input experience across all Apple platforms. If you are passionate about using pioneering ML for building phenomenal ML/NLP technologies, products and impacting user experience across billions of users, this is the job for you. The role will require you to set new directions, perform hands-on experimentation and implement your vision into deliverables. You will have wide impact across Apple with strong multi-functional collaboration across teams in hardware, software and design. Come join us!
 	- Here are a selection of relevant WWDC presentations focusing on technologies:
 		* https://developer.apple.com/videos/play/wwdc2023/10042/
@@ -10923,7 +11016,7 @@ Skills for natural language processing, NLP:
 + skill set:
 	- AI/ML - Sr Software Engineer, Siri in the Home
 	- An opportunity to join the Siri in the Home engineering team and contribute to the platform that is redefining conversational computing for our homes.
-	- We are seeking a Sr Software Engineer who brings a passion for connected home technology to help us advance Siri’s capabilities whilst delivering intuitive and delightful experiences to millions of customers.
+	- We are seeking a Sr Software Engineer who brings a passion for connected home technology to help us advance Siri's capabilities whilst delivering intuitive and delightful experiences to millions of customers.
 	- BS/MS in Computer Science or equivalent
 	- 8+ years of professional engineering experience
 	- Proven track record of architecting performant scalable software, ideally both client and server side
@@ -10938,7 +11031,7 @@ Skills for natural language processing, NLP:
 	- BS/MS in Computer Science or equivalent
 + skill set:
 	- Software Development Engineer [Dept: ***Machine Translation***]
-	- Master’s degree or foreign equivalent in Information Technology, Computer Science, Computer Engineering or related field and 1 year of experience in the job offered or related occupation.
+	- Master's degree or foreign equivalent in Information Technology, Computer Science, Computer Engineering or related field and 1 year of experience in the job offered or related occupation.
 	- Experience and/or education must include:
 		* Swift;
 		* Xcode Developer Tools;
@@ -10976,10 +11069,10 @@ Skills for natural language processing, NLP:
 	- NVIDIA's technology is at the heart of AI revolution, touching people across the planet by powering everything from self-driving cars, robotics, and voice-powered intelligent assistants. We work on new models for speech recognition, speech synthesis, and natural language processing. Our team crafted Jasper, QuartzNet, Talknet and other state-of-the-art neural models for ASR and text-to-speech, and we've also developed new algorithms to accelerate training large models on our GPU cloud.
 	- Be a part of the team that's released new models as part of NeMo - open-source toolkit for Conversational AI and whose models are used by world class companies for applications such as customer service, smart voice assistants, etc. This exciting opportunity will have you collaborating with internal research and product teams, as well as researchers from top machine learning labs, and we are looking for someone who's curious, tenacious, and passionate to join our applied research team to influence and build the next generation of Conversational AI systems!
 	- Develop new deep learning models and training algorithms for speech recognition, speech synthesis, information retrieval, machine translation, etc.
-	- Transfer your technology to NVIDIA’s software product teams.
+	- Transfer your technology to NVIDIA's software product teams.
 	- Publish your research at conferences (NeurIPS, Interspeech, ICASSP).
 	- Partner with Deep Learning & AI researchers in leading universities and industrial research labs.
-	- Master’s degree (or equivalent experience) or PhD in Computer Science, Electrical Engineering, Artificial Intelligence, or Applied Math.
+	- Master's degree (or equivalent experience) or PhD in Computer Science, Electrical Engineering, Artificial Intelligence, or Applied Math.
 	- 4+ years of practical experience.
 	- Advanced understanding of Deep Learning with applications in Speech Processing and NLP, and a record of publications or significant product contributions in these areas.
 	- Strong Python programming skills and experience with deep learning frameworks such as PyTorch or TensorFlow.
@@ -11179,7 +11272,7 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 		* Set technical and research roadmap for AI Foundation or even company level machine learning roadmaps (at principal level) and able to lead its implementation
 		* The ability to solve hardest issues of AI Foundation team from fundamental algorithm development, implementation and optimization to deliver product metrics
 		* Lead cross-organizational projects to improve features/models that benefit company OKR
-		* Set visions for company’s research direction to be industry leading in areas of personalized discovery and related areas
+		* Set visions for company's research direction to be industry leading in areas of personalized discovery and related areas
 		* In this position, you are expected to utilize your industry leading expertise on one or more of following R&D areas to provide cutting edge solutions or core technologies for SmartNews recommendation systems (Ads, News, etc). At principal level, you are required to have overall understanding of corporate AI landscape, and set visions/roadmaps in its directions
 		* General Machine Learning, Deep Learning
 		* Natural Language Processing (entity recognition, categorization, text embedding, etc)
@@ -11218,7 +11311,7 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 	- Provide other technical supports & draft related documentations:
 		* Discuss with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes for the overall online serving system, recommendation system, and the phrase mining algorithm.
 		* Confer with systems analysts, engineers, programmers and others to obtain information on limitations and capabilities, performance requirements and interfaces of a certain feature.
-	- Master’s degree in Computer Science, Computer Engineering or related plus 1 year experience.
+	- Master's degree in Computer Science, Computer Engineering or related plus 1 year experience.
 
 
 
@@ -11344,10 +11437,108 @@ Need to address:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
 + In depth experience with Spark/Hadoop and either Theano/Tensorflow/Caffe/Torch.
 + skill set:
+	- Are you energized by building high-performance, scalable and reliable machine learning systems? Do you want to help define and build the next generation of AI platforms powering advanced NLP applications?  We are looking for Senior Software Engineers to join the Model Serving team at Cohere. The team is responsible for developing, deploying, and operating the AI platform delivering Cohere's large language models through easy to use API endpoints. In this role, you will work closely with many teams to deploy optimized NLP models to production in low latency, high throughput, and high availability environments. You will also get the opportunity to interface with customers and create customized deployments to meet their specific needs.
+	- We are looking for candidates with a range of experiences for multiple roles, from senior to staff-level engineers.
+	- Experience in Golang (or, other languages designed for high-performance scalable servers)
+	- Strong understanding or working experience with distributed systems
+	- Experience designing, implementing, and maintaining a production service at scale
+	- Experience with serving ML models
+	- Familiarity with inference characteristics of deep learning models, specifically, Transformer based architectures
+	- Familiarity with computational characteristics of accelerators (GPUs, TPUs, and/or Inferentia), especially how they influence latency and throughput of inference
+	- Experience in performance benchmarking, profiling, and optimization
+	- Hands-on experience building and debugging microservices architecture
+	- Experience with cloud infrastructure (e.g. AWS, GCP)
++ skill set:
+	- The Cohere Modelling team is at the forefront of cutting-edge technologies, including Retrieval Augmented Generation (RAG). We are responsible for developing state-of-the-art models that seamlessly combine retrieval-based knowledge and generative text generation. Our innovations in RAG have the potential to revolutionise the way people access and interact with information.
+	- As a Full Stack Software Engineer on our RAG team, you will play a pivotal role in harnessing the power of Retrieval Augmented Generation. Your primary focus will be on frontend development, data engineering, and collaborating closely with our ML teams to support them implement and optimise RAG models. You'll have the unique opportunity to shape the future of information retrieval and content generation through RAG.
+	- Develop annotation interfaces that facilitate effective knowledge retrieval.
+	- Optimise data pipelines to support RAG model training and inference.
+	- Build essential tools that enhance the RAG workflow.
+	- Collaborate seamlessly with cross-functional teams, leveraging the capabilities of RAG in our projects.
+	- Have fun and build long lasting friendships!
+	- To excel in this role, we seek candidates with the following qualifications:
+	- A degree in Computer Science or a related field.
+	- Proficiency in various programming languages.
+	- Prior experience with React.
+	- Exposure to Large Language Models (LLM) and Natural Language Processing (NLP).
+	- Strong problem-solving abilities.
+	- Effective communication skills.
+	- A collaborative and team-oriented mindset.
+	- Join us and be part of the innovative RAG journey, where you'll contribute to reshaping how knowledge is retrieved, processed, and generated in the realm of natural language understanding and generation.
++ skill set:
+	- Senior Software Engineer, Data Infrastructure
+	- At Cohere, we strive to continually improve our large language models. Academic research and real-world experience has demonstrated that high quality, diverse datasets can contribute as much to the performance and capabilities of LLMs as the underlying model architecture and training regimen. We at Cohere believe data will play a central role in accelerating the advancement of our already world-class language models.
+	- Data is therefore critical to our success. Our ability to acquire data that is accurate, relevant, and timely is key to our ability to improve the quality of our models. We strive to continuously improve our data acquisition processes and systems to ensure that we have the data we need to stay competitive and meet the needs of our customers. We run frequent experiments to learn more about the role of data for model quality, from data mixtures, to cleaning techniques, to quality control.
+	- This role will be part of the Data Acquisition team, which broadly provides data for training models and is responsible for building and maintaining the infrastructure that acquires, cleans, and formats data for model training. We are looking for a technically skilled, resourceful problem-solver who is able to work in areas of ambiguity and find efficient and sometimes creative solutions. The main responsibility of this role is to improve our internal data acquisition infrastructure, which includes data crawlers, formatters, and integrations with data providers. This role would also work closely with different teams at Cohere to support their data acquisition needs, as well as engage in more experimental work to develop highly informative data signals.
+	- Design, build, and maintain data infrastructure to support large-scale data pipelines
+	- Establish infrastructure to enable rigorous experimentation and evaluation
+	- Implement best practices for data management and governance
+	- Develop technical proposals and lead vendor selection processes
+	- Collaborate cross-functionally to ensure infrastructure alignment across the organization
+	- Mentor junior team members and contribute to their professional growth
+	- You have more than 5 years of experience working as a software engineer specializing in data infrastructure.
+	- You have proficiency in Python and have used distributed processing technologies like Spark, Dask, etc.
+	- You have experience working with job orchestrators (e.g. Airflow, Dagster, Prefect) and/or MLOps frameworks (e.g. Metaflow, Pachyderm, DVC).
+	- You have built data pipelines and ETL processes to support large-scale datasets
+	- You have experience working with unstructured and/or human-annotated data (e.g., collecting or assessing sample quality).
+	- You have worked with ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR
+	- You have strong communication and problem-solving skills, and prefer using the right tool for the job even if it’s outside your wheelhouse.
+	- You have a demonstrated passion for applied NLP models and products
++ skill set:
+	- Member of Technical Staff, Data Acquisition
+	- At Cohere, we strive to continually improve our large language models. Academic research and real-world experience has demonstrated that high quality, diverse datasets can contribute as much to the performance and capabilities of LLMs as the underlying model architecture and training regimen. We at Cohere believe data will play a central role in accelerating the advancement of our already world-class language models.
+	- Data is therefore critical to our success. Our ability to acquire data that is accurate, relevant, and timely is key to our ability to improve the quality of our models. We strive to continuously improve our data acquisition processes and systems to ensure that we have the data we need to stay competitive and meet the needs of our customers. We run frequent experiments to learn more about the role of data for model quality, from data mixtures, to cleaning techniques, to quality control.
+	- This role will be part of the Data Acquisition team, which broadly provides data for training models and is responsible for building and maintaining the infrastructure that acquires, cleans, and formats data for model training. We are looking for a technically skilled, resourceful problem-solver who is able to work in areas of ambiguity and find efficient and sometimes creative solutions. The main responsibility of this role is to improve our internal data acquisition infrastructure, which includes data crawlers, formatters, and integrations with data providers. This role would also work closely with different teams at Cohere to support their data acquisition needs, as well as engage in more experimental work to develop highly informative data signals.
+	- Develop data pipelines to acquire, prepare, and integrate high-quality datasets into model training and evaluation
+	- Collaborate with research and product teams to identify, prioritize, and secure new data sources
+	- Enhance and develop infrastructure for data management, pipeline orchestration, and MLOps, while avoiding premature optimization
+	- Run experiments using new data inputs, preprocessing techniques, and data mixtures
+	- You have more than 2 years of experience working on a software or machine learning engineering team
+	- You have proficiency in Python and have used distributed processing technologies like Spark, Dask, etc.
+	- You have experience building data pipelines and ETL processes for large-scale datasets
+	- You have experience working with unstructured and/or human-annotated data (e.g., collecting or assessing sample quality).
+	- You have experience with ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR
+	- You have strong communication and problem-solving skills, preferring the right tool for the job even if it’s outside your wheelhouse
+	- You feel comfortable actively reading academic literature and researching state-of-the-art NLP best practices.
+	- You have a demonstrated passion for applied NLP models and products
++ skill set:
+	- Full Stack Software Engineer, Forward Deployed Engineering
+	- As a Full Stack Software Engineer on our Forward Deployed team you will work directly with customers to quickly understand their greatest problems and design and implement solutions using Large Language Models.
+	- In this role, you’ll apply your problem-solving ability, creativity, and technical skills to close the last-mile gap in Enterprise AI adoption. You’ll be able to deliver products like early startup CTOs/CEOs do and disrupt some of the most important industries and institutions globally!
+	- Own and build large new areas within our product.
+	- Work across the backend, frontend, and interact with Large Language Models.
+	- Experiment at a high velocity and level of quality to engage our customers and eventually deliver solutions that exceed their expectations.
+	- Work across the entire product lifecycle from conceptualization through production.
+	- Proficiency in one or more of Go, Python, Node, React, Next.js 
+	- Experience building ML infrastructure and AI-powered solutions.
+	- Experience scaling products at hyper-growth startups.
+	- Strong written and verbal communication skills.
+	- Ability and interest to travel up to 25%, as needed to client sites, but flexible based on personal preferences.
+	- Experience building LLM applications using tools such as Langchain.
+	- Experience in Information Retrieval systems for document question answering.
+	- Experience in day-to-day NLP for the industry using Python and related toolchains (SpaCy, HuggingFace, NLTK, etc.).
++ skill set:
+	- Engineering Manager, Forward Deployed Team
+	- Our Forward Deployed Team works directly with customers to quickly understand their greatest problems and design and implement solutions using Large Language Models.
+	- In this role, you’ll apply your problem-solving ability, creativity, and technical skills to close the last-mile gap in Enterprise AI adoption. You’ll be able to deliver products like early startup CTOs/CEOs do and disrupt some of the most important industries and institutions globally!
+	- Own and build large new areas within our product and scale to millions of dollars of revenue impact.
+	- Lead a cross-functional team of Engineers, Machine Learning Engineers and AI Data Trainers.
+	- Work across backend, frontend, and customize Large Language Models.
+	- Experiment at a high velocity and level of quality to engage our customers and eventually deliver solutions that exceed their expectations.
+	- Work across the entire product lifecycle from conceptualization through production.
+	- 5+ years of experience building AI-backed products with millions of dollars of revenue impact.
+	- Experience with B2B Enterprise SaaS applications.
+	- Experience scaling products and teams at hyper-growth startups
+	- Strong written and verbal communication skills
+	- Ability and interest to travel up to 25%, as needed to client sites, but flexible based on personal preferences.
+	- Experience building LLM applications using tools such as Langchain.
+	- Experience with Information Retrieval Systems for document question answering.
+	- Experience in day-to-day NLP for the industry using Python and related toolchains (SpaCy, HuggingFace, NLTK, etc.).
++ skill set:
 	- At Nextdoor, machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, our advertising, and our local ecosystem. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We are scrappy and believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction. We are looking for great engineers who believe in the power of local community to empower our members to make their communities great places to live.
-	- The Impact You’ll Make
-		* You will be part of a scrappy and impactful team building a scalable ML platform in a rapidly changing company. In this role, you will focus on developing the underlying data processing infrastructure to support the ML platform in collecting data, labeling data, and using data to monitor model performance. You will also build infrastructure to train, serve, and monitor ML models. Finally, you will be responsible for building platform-wide model features that the entire company can utilize in building ML models. As a result, you will be laying the foundation for a critical part of Nextdoor’s mission.
-	- What You’ll Bring to The House
+	- The Impact You'll Make
+		* You will be part of a scrappy and impactful team building a scalable ML platform in a rapidly changing company. In this role, you will focus on developing the underlying data processing infrastructure to support the ML platform in collecting data, labeling data, and using data to monitor model performance. You will also build infrastructure to train, serve, and monitor ML models. Finally, you will be responsible for building platform-wide model features that the entire company can utilize in building ML models. As a result, you will be laying the foundation for a critical part of Nextdoor's mission.
+	- What You'll Bring to The House
 		* B.S. in Computer Science, Math, Statistics, or a related field.
 		* 5+ years of industry/academic experience ***building ML infrastructure at scale***.
 		* Proven engineering skills. Experience ***writing and maintaining high-quality production code***.
@@ -11558,13 +11749,13 @@ Need to address:
 	-
 + skill set:
 	- Work on cutting-edge MLOps with guidance from MIT PhDs who are prominent in ML research.
-	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business’s core asset.
+	- Develop large-scale web applications for data-centric AI. Our tools enable data scientists/engineers (across all industries) to effectively diagnose/fix issues in their datasets thus improving the quality of their business's core asset.
 	- Work on interesting challenges (model deployment/monitoring, managing massive datasets, rapidly scaling cloud deployments, etc.) at a dynamic startup operating in one of the fastest growing subfields of data science & AI.
-	- As a Cleanlab software engineer, you will be responsible for Cleanlab Pro, a user-friendly web app built on our ML algorithms. You’ll orchestrate cloud infrastructure for data ingestion, model training, and data analysis, and you’ll optimize the reliability of our web app, model deployments, and data management systems.
+	- As a Cleanlab software engineer, you will be responsible for Cleanlab Pro, a user-friendly web app built on our ML algorithms. You'll orchestrate cloud infrastructure for data ingestion, model training, and data analysis, and you'll optimize the reliability of our web app, model deployments, and data management systems.
 	- We encourage applications from software engineers with DevOps/backend/cloud experience who have some familiarity with machine learning and are interested in furthering their MLOps skills. Your contributions to our SaaS tool will be used by data scientists/engineers across all industries to improve the quality of their data and reliability of ML models produced from this data. Come help us build the next generation of data-centric AI!
 	- Orchestrate cloud infrastructure to reliably support a SaaS data and machine learning pipeline.
 	- Design, develop, test, deploy, maintain, and improve software, using a modern tech stack.
-	- Contribute cloud/container integrations and other deployment/monitoring solutions to Cleanlab’s open-source library.
+	- Contribute cloud/container integrations and other deployment/monitoring solutions to Cleanlab's open-source library.
 	- Collaborate with other engineers to build and maintain large-scale systems and establish a strong engineering culture across the company.
 	- We select candidates based on strengths, not based on weaknesses. Candidates should have at leat 3+ years experience developing web apps using a modern tech stack and shipping code to production.
 		* Linux
@@ -11589,7 +11780,7 @@ Need to address:
 	- Effectively communicating with cloud tenants as required
 	- Monitor resource usage and planning for increased capacity
 	- Additional responsibilities assigned from time to time
-	- Bachelor’s Degree in a related discipline or equivalent experience, with 3 years of professional experience
+	- Bachelor's Degree in a related discipline or equivalent experience, with 3 years of professional experience
 	- Ceph Certified Specialist or equivalent experience
 	- Strong sense of urgency, client-oriented and ability to maintain positive partnerships
 	- ***Experience with Ceph, Swift, Luster, NFS, S3, and/or high-performance storage***
@@ -11619,7 +11810,7 @@ Need to address:
 	- Define support team for all cloud tenants
 	- Effectively communicate with cloud tenants as required
 	- Additional responsibilities assigned from time to time
-	- Bachelor’s Degree in a related discipline or equivalent experience, with 6+ years of professional experience
+	- Bachelor's Degree in a related discipline or equivalent experience, with 6+ years of professional experience
 	- 4+ years of experience of architecture experience in an OpenStack environment
 	- 5+ years of experience with Linux configuration, and administration
 	- Strong client service orientation and ability to maintain positive partnerships
@@ -11637,7 +11828,7 @@ Need to address:
 	- ***Familiarity with Infrastructure Automation***
 	- ***Familiarity with Kubernetes***
 	- ***Familiarity of Data Center design, including server hardware, rack diagrams, power, and cooling requirements***
-	- ***Knowledge of Canonical’s OpenStack***
+	- ***Knowledge of Canonical's OpenStack***
 	- ***Knowledge of Monitoring and Performance, such as Prometheus, Grafana***
 	- ***Knowledge of Container Security, such as Falco, Sysdig Secure, Aqua, or Anchore***
 	- ***Knowledge of Image Registries, such as Quay, Harbor, Docker Registry***
@@ -11782,7 +11973,7 @@ Need to address:
 	- Experience with Git version control
 + skill set:
 	- Software Engineer, Platform
-	- The Platform team is responsible for building the core abstractions and infrastructure on which the products can be built and iterated rapidly. The team owns how data flows throughout the scale platform. We’re looking for people with a strong background or interest in building distributed systems, data-intensive applications, and machine learning infrastructure. You have a growth mindset and are comfortable learning new technologies.
+	- The Platform team is responsible for building the core abstractions and infrastructure on which the products can be built and iterated rapidly. The team owns how data flows throughout the scale platform. We're looking for people with a strong background or interest in building distributed systems, data-intensive applications, and machine learning infrastructure. You have a growth mindset and are comfortable learning new technologies.
 	- Build engineering foundations for Scale, such as machine learning infrastructure, data platform, APIs framework and task dispatching systems.
 	- Collaborate with stakeholders across the organization, such as production engineers, machine learning scientists, customer operations, etc.
 	- Own services or systems and define their long-term health goals, while also improving the health of surrounding components.
@@ -11810,7 +12001,7 @@ Need to address:
 		* For high-scale jobs, introduce AWS proprietary profiler and libraries to boost performance
 		* Scale-up gating process: check the scripts performance and vet requests to scale up
 		* Build a knowledge base / best practices documentation for all researchers
-		* Implement and monitor CPU usage levels for our CPU clusters; identify users that need assistance in properly coding to maximize usage of CPU’s
+		* Implement and monitor CPU usage levels for our CPU clusters; identify users that need assistance in properly coding to maximize usage of CPU's
 		* Train researchers on best practices on how to implement automatization strategies to minimize human oversight on jobs.
 	- Develop and Test Strategies for Future Workloads:
 		* Benchmark new systems capabilities and identify strategies to properly utilize them (H100, TRN2, TPUv5, Intel Gaudi)
@@ -11873,7 +12064,7 @@ Need to address:
 		* For high-scale jobs, introduce AWS proprietary profiler and libraries to boost performance
 		* Scale-up gating process: check the scripts performance and vet requests to scale up
 		* Build a knowledge base / best practices documentation for all researchers
-		* Implement and monitor CPU usage levels for our CPU clusters; identify users that need assistance in properly coding to maximize usage of CPU’s
+		* Implement and monitor CPU usage levels for our CPU clusters; identify users that need assistance in properly coding to maximize usage of CPU's
 		* Train researchers on best practices on how to implement automatization strategies to minimize human oversight on jobs.
 	- Develop and Test Strategies for Future Workloads:
 		* Benchmark new systems capabilities and identify strategies to properly utilize them (H100, TRN2, TPUv5, Intel Gaudi)
@@ -11906,7 +12097,7 @@ Need to address:
 		* Strong communicator with excellent interpersonal skills and can-do attitude to work and thrive in a fast-paced team environment
 + skill set:
 	- Tools and Pipeline Software Engineer - Apple Vision Pro
-	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
+	- Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something — you'll add something.
 	- Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.
 	- We are looking for a driven and dedicated Tools and Pipeline Software Engineer to join our fast-paced team. As a member of the Face and Body technologies team, you have the unique and rewarding opportunity to work on upcoming releases of Apple products that delight and inspire millions of people every day. We invite you to contribute to our current spatial computing software platform and craft the future of this technology.
 	- 2+ years of production experience in tools and pipeline development with track record of successful projects
@@ -11922,7 +12113,7 @@ Need to address:
 + skill set:
 	- AIML - Sr Engineering Program Manager, Text to Speech
 	- Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Do you love taking on challenges that create a positive impact? Are you passionate about empowering many ground-breaking intelligent experiences to be made? The Apple AIML org is building groundbreaking technology... and we are looking for people like you!
-	- The AIML org Text-To-Speech team is building innovative Text-To-Speech solutions to enable most accurate, natural and connected voice and audio experiences for Apple users. We’re looking for a strong Senior Program Manager with a solid track record of building and maintaining sophisticated software technologies, tools and processes that deliver the best experiences that delight customers. The program manager will lead projects in Text-To-Speech program to serve our over 1 billion customers. You will work with world level deep learning and AI engineers applying innovative machine translation and AI technologies to solve challenges on speech generation, both on user experiences and technologies.
+	- The AIML org Text-To-Speech team is building innovative Text-To-Speech solutions to enable most accurate, natural and connected voice and audio experiences for Apple users. We're looking for a strong Senior Program Manager with a solid track record of building and maintaining sophisticated software technologies, tools and processes that deliver the best experiences that delight customers. The program manager will lead projects in Text-To-Speech program to serve our over 1 billion customers. You will work with world level deep learning and AI engineers applying innovative machine translation and AI technologies to solve challenges on speech generation, both on user experiences and technologies.
 	- 8+ years of experience in driving large scale program building machine learning powered products
 	- Excellent program management skills including program structuring and managing multiple work streams interdependently
 	- Have personally orchestrated the delivery of multiple significant client/server software products requiring large organizations (100+) to complete
@@ -11947,13 +12138,13 @@ Need to address:
 	- Network with internal customers to continuously look out for opportunities for Text-To-Speech services or technologies to improve user experience and (or) Apple values  
 	- Lead measurements to help team understand and measure success, including quality, usage scale and other critical metrics   
 	- Reflect on how the team operates, propose and implement new ways to work in order to improve the rate at which the team delivers value to customers
-	- Bachelors or Master’s degree in Computer Science, or related field and equivalent experience
+	- Bachelors or Master's degree in Computer Science, or related field and equivalent experience
 + skill set:
 	- AIML - Machine Learning Engineer, Visual Intelligence
-	- Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.
+	- Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
 	- Do you want to make Siri and Apple products smarter for our users? Do you want to be a part of redefining how people use their computing devices to search and access information? Are you excited by early stage initiatives with potential for huge impact?
 	- The AIML Information Intelligence teams are building groundbreaking technology for algorithmic search, machine learning, natural language processing, , computer vision and artificial intelligence. The features we build are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup.
-	- Join a new team in Apple AIML that is investigating novel visual capabilities across all Apple products that will transform the way people engage with the world around them! We’re looking for strong engineers to work on cutting-edge technology, collaborate with experts across Apple, and deliver new end-to-end experiences that delight customer
+	- Join a new team in Apple AIML that is investigating novel visual capabilities across all Apple products that will transform the way people engage with the world around them! We're looking for strong engineers to work on cutting-edge technology, collaborate with experts across Apple, and deliver new end-to-end experiences that delight customer
 	- 3+ years of professional experience in machine learning for computer vision applications
 	- Excellent knowledge and good practical skills in major machine learning algorithms
 	- Proven track record of developing and productionalizing high-quality computer vision algorithms
@@ -12576,7 +12767,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with both our consumer and business products.
 	- Partner with Product and Engineering teams to solve problems and identify trends and opportunities.
 	- Work on large scale data pipelines by leveraging different SQL/non-SQL technologies to build automated data analysis and dashboard.
-	- 2+ years’ experience doing quantitative analysis within a high-tech company. Startup is a plus
+	- 2+ years' experience doing quantitative analysis within a high-tech company. Startup is a plus
 	- BA/BS in Computer Science, Math, Physics, Engineering, Statistics or other technical fields
 	- Experience in SQL or similar programming languages
 	- Experience with one general purpose programming language (e.g., Java, C/C++, Python)
@@ -12620,11 +12811,11 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- scikit-learn
 	- XGBoost
 + skill set:
-	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing’s ability to engage with new audiences in new ways.
+	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing's ability to engage with new audiences in new ways.
 	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
 	- As a Data Scientist, your mission is to turn our data into insights and gain a deep understanding of our users to impact the strategy and direction of DigitalOcean. You will study user behavior, marketing strategies, markets, content, new features and bring data and insights into every decision we make. Above all, your work will impact how we think about user growth and how we can make DigitalOcean available and accessible for more people in the world.
-	- Perform analyses on large sets of data to extract insights that will help drive DigitalOcean’s strategy across the user funnel
-	- Work cross-functionally with marketing, product, engineering, design and user research to propel DO’s customer growth forward
+	- Perform analyses on large sets of data to extract insights that will help drive DigitalOcean's strategy across the user funnel
+	- Work cross-functionally with marketing, product, engineering, design and user research to propel DO's customer growth forward
 	- Drive end to end execution of data science projects, from experimental design and analysis of test results to building predictive models and assisting engineers to productionize the model
 	- Establish and maintain a culture of rigor and curiosity to drive tangible business impact
 	- Proven experience with:
@@ -12784,7 +12975,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Effective communicator and pay attention to the finer details
 	- Empathize with customers and stakeholder and build meaningful relationships
 	- Self-aware of strengths and seeking to constantly learn and improve
-	- You don’t allow perfect to become the enemy of the good
+	- You don't allow perfect to become the enemy of the good
 	- 5+ years of professional experience doing quantitative analysis (or 2+ if PhD in a quantitative field)  
 	- MS or higher in a quantitative field (e.g., Math, Economics, Statistics, Sciences, Engineering, CS, OR, ML or other quantitative fields)
 	- Advanced experience with experimental design and statistical methods such as causal Inference
@@ -12835,7 +13026,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- VoC, voice of customer software tools
 + skill set:
 	- As a data scientist at Quora, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
-	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- As a staff data scientist, you will draw on your experience to excel not only in your own work but also to elevate data's impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
 	- Extract actionable insights from broad, open-ended questions
 	- Create, design, and evaluate experiments to measure the impact of product changes
 	- Analyze data from across the product to uncover the root causes of metric movements
@@ -12991,7 +13182,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		* version control with Git
 + skill set:
 	- Zoomies help the world connect — and deliver happiness while doing it. We set out to build the best video conferencing product for the enterprise, and today help people communicate better with products like Zoom Phone, Zoom Rooms, Zoom Video Webinars, Zoom Apps, and OnZoom.
-	- Our Data Science teams lie at the foundation of Zoom’s success. As a Data Science, Intern on the Customer Success team, you will play an important role in driving the growth of Zoom by surfacing, analyzing, and reporting on data that drives mission-critical business decisions. 
+	- Our Data Science teams lie at the foundation of Zoom's success. As a Data Science, Intern on the Customer Success team, you will play an important role in driving the growth of Zoom by surfacing, analyzing, and reporting on data that drives mission-critical business decisions. 
 	- This paid internship is for a duration of approximately 10 - 12 weeks during the spring of 2021. The program offers cutting edge projects, as well as a mix of additional types of learning in areas of leadership and business acumen-- and is packed full of fun!
 	- Responsibilities:
 		* Assist with building and maintaining Zoom product features and services. 
@@ -13016,14 +13207,14 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 		* Consumer facing experience
 		* Strong communication and problem solving skills and a desire to learn something new.
 		* A passion for creating products that resonate emotionally with people.
-		* A passion for Zoom’s mission, vision, values, and culture.
+		* A passion for Zoom's mission, vision, values, and culture.
 + skill set:
 	- We are looking for Data Scientist Interns to #JoinTheBand and help drive a data-first culture across Spotify. Our Data Scientist mission is to turn terabytes of data into insights and get a deep understanding of music and listeners so we can impact the strategy and direction of Spotify. You will study user behavior, critical initiatives, markets, content, and new features and bring data and insights into every decision we make. Above all, your work will impact the way the world experiences audio. 
 	- Perform analyses on large sets of data to extract concrete insights that will help drive decisions across the business
 	- Build dashboards and recurring reporting results, empowering creative growth and business decisions.
 	- Communicate data-driven insights and recommendations to key collaborators
-	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
-	- You are pursuing a Bachelor’s, Master’s degree or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or similar quantitative field
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify's success
+	- You are pursuing a Bachelor's, Master's degree or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or similar quantitative field
 	- You are a sophomore, junior or senior in undergrad or a first or final year in a Master's program
 	- You have harbor a passion for numbers and the use of data to make decisions
 	- You have have technical competence to perform more analytics in one or more of the following areas:
@@ -13035,8 +13226,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Perform analyses on large sets of data to extract practical insights that will help drive decisions across the business
 	- Build dashboards and recurring reporting results, empowering creative growth and business decisions
 	- Communicate data-driven insights and recommendations to key collaborators
-	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify’s success
-	- You are pursuing a Bachelor’s, Master’s degree, or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
+	- Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are passionate about Spotify's success
+	- You are pursuing a Bachelor's, Master's degree, or bootcamp certification in Science, Computer Science, Statistics, Economics, Mathematics, or a similar quantitative subject area
 	- You have a graduation date of 2022 or 2023
 	- You currently have valid work authorization to work in the country in which this role is based that will extend from June to August 2022
 	- You harbor a passion for numbers and the use of data to make decisions
@@ -13147,7 +13338,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + skill set:
 	- Experience in data store design (data lakes; relational, columnar, NoSQL databases, analytics/OLAP cubes)
 	- AWS and DevOps experience with AI/ML pipelines
-	- Create the vision to build and evolve the team’s data infrastructure and tools. Technically lead for the design, building, and launching of new data models and data pipelines
+	- Create the vision to build and evolve the team's data infrastructure and tools. Technically lead for the design, building, and launching of new data models and data pipelines
 	- Ensure production quality methods to retrieve, condition, validate, synthesize, and manipulate data
 	- Full-stack build custom integrations between cloud-based systems using APIs
 	- Continuously refine and improve the data architecture and delivery as new requirements surface
@@ -13155,8 +13346,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + skill set:
 	- Associate Data Scientist (Internship):
 	- VMware Tanzu Labs partners with organizations worldwide to accelerate innovation, while reducing operating costs and risk.  The data science team at VMware Tanzu Labs is primarily a consulting practice; we work with our customers to solve real world problems.  Our customers, like us, are cross-disciplinary. We service engagements with use cases running from customer churn to optimization to detecting fraud and misconduct.  We are not just doers; we are also educators and enablers. programs.
-	- You have a passion for exploring data and connecting the value hidden in data with business outcomes and user needs.  You’re agile and retrospective, and not afraid to identify what we’re doing wrong so we can fix it, and what we're doing right so we can improve on it.  You’ll be working on a wide variety of data problems for a diverse range of clients. You will often be asked to learn new technologies and domains on the fly.   Above all, you judge your success by the success of your team and the happiness of your customers.
-	- Be given an opportunity to attend fun and educational events to kickstart your career, meanwhile, you’ll get a better feel for our culture. 
+	- You have a passion for exploring data and connecting the value hidden in data with business outcomes and user needs.  You're agile and retrospective, and not afraid to identify what we're doing wrong so we can fix it, and what we're doing right so we can improve on it.  You'll be working on a wide variety of data problems for a diverse range of clients. You will often be asked to learn new technologies and domains on the fly.   Above all, you judge your success by the success of your team and the happiness of your customers.
+	- Be given an opportunity to attend fun and educational events to kickstart your career, meanwhile, you'll get a better feel for our culture. 
 	- Get hands-on exposure with cutting edge technology from managers, mentors, and fellow team members.
 	- Acquire the tools and knowledge to contribute on a large scale.
 	- Have the ability to advance your career in the direction you choose in the future. 
@@ -13166,8 +13357,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Taking the models we build into production. This is an exciting stage for anyone who likes collaborating with product teams and seeing their model become real when users interact with it.
 	- Helping our clients develop their internal data science practices, through mentoring and pair programming, so that they can be successful when we hand off the project.
 	- Continuous learning by building demos and prototypes on new technologies, methodologies, and frameworks.  Presentation of learnings and findings for internal audiences, external conferences, and blog posts.
-	- Bachelor’s degree in an analytical or quantitative field, or currently pursuing a master’s or doctorate degree in an analytical or technical field (e.g. applied mathematics, statistics, computer science, operations research, economics, data science, etc.). 
-	- Clear and empathetic communicator. You’ll be the one sharing your insights with clients and stakeholders. As such, frequent communication and tireless empathy are essential to succeed in this role.
+	- Bachelor's degree in an analytical or quantitative field, or currently pursuing a master's or doctorate degree in an analytical or technical field (e.g. applied mathematics, statistics, computer science, operations research, economics, data science, etc.). 
+	- Clear and empathetic communicator. You'll be the one sharing your insights with clients and stakeholders. As such, frequent communication and tireless empathy are essential to succeed in this role.
 	- Fluent speaking and writing ability in Chinese and English.
 	- Advanced knowledge of statistical modeling and/or machine learning methods. These are the technical skills we need to iterate and improve data science pipelines.
 	- Strong exploratory data analysis skills. Every engagement starts with an investigation of the data, and thorough EDA saves us a lot of headaches in the long run.
@@ -13192,7 +13383,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
 + Hands-on experience with open source big data platforms (Hadoop, Hive, Presto) and familiarity with data visualization (Tableau, D3) technologies
 + Familiarity with implementing metric logging and interpreting metrics to make decisions
-+ Must possess knowledge in SW to Enterprise, SaaS and on Premise, and cloud technologies Elasticsearch for text indexing, MongoDB for structured data storage, Mysql/postgres for SQL storage, JanusGraph for Properties’ based graph storage, ArangoDB for Documents/Key Value/Graph storage, and Amazon AWS.
++ Must possess knowledge in SW to Enterprise, SaaS and on Premise, and cloud technologies Elasticsearch for text indexing, MongoDB for structured data storage, Mysql/postgres for SQL storage, JanusGraph for Properties' based graph storage, ArangoDB for Documents/Key Value/Graph storage, and Amazon AWS.
 + skill set:
 	- Deep understanding of machine learning, statistical modeling and data mining techniques such as gradient boosting, neural networks, natural language processing and clustering
 	- Understanding of experimental design and adaptive sampling
@@ -13379,7 +13570,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Passionate about building innovative products that delight customers
 	- Excited to work on multiple ML problems in a variety of domains with different data types
 	- Fun to work with and thrilled to make an impact
-	- The type that doesn’t whine or complain, but rather tries and instigates change or disagrees and still commits
+	- The type that doesn't whine or complain, but rather tries and instigates change or disagrees and still commits
 	- Thrilled to work on a small team of full stack data scientists
 + skill set:
 	- Data Scientist, Generative AI
@@ -13399,12 +13590,12 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Experience working with non-Transact-SQL databases and SQL dialects, preferably Oracle PL/SQL or Cerner Command Language
 	- Experience with large-scale data analysis systems, such as Databricks, Hadoop, Pig, Scala, Spark or MPP databases
 + skill set:
-	- The role’s primary technologies include Graphistry, Cypher+SPARQL, Python, Jupyter, StreamLit, pandas / RAPIDS.ai, Docker, React, and Linux/AWS/Azure. Of additional interest are graph neural networks, huggingface, mlflow, networkx/graphx, Tableau/PowerBI, and SQL.
+	- The role's primary technologies include Graphistry, Cypher+SPARQL, Python, Jupyter, StreamLit, pandas / RAPIDS.ai, Docker, React, and Linux/AWS/Azure. Of additional interest are graph neural networks, huggingface, mlflow, networkx/graphx, Tableau/PowerBI, and SQL.
 	- Required: Comfortable with pydata - Python, Jupyter, pandas, viz, cloud (Linux/AWS/Azure)
 	- Ideal: Experience with graphs - databases (cypher/sparql), algorithms, visualizations, & neural networks; Dashboarding (StreamLit/Ploty/Tableau/PowerBI/...); GPU PyData (RAPIDS, Tensorflow, numba, ...)
 	- Required: Comfortable with coding (Python, minor HTML/JS/CSS)  and/or ML (hands-on or courses around linear algebra, statistics, classical ML, neural networks)
 + skill set:
-	- You will collaborate with our users, technology partners, and Graphistry staff as part of a new locally-based team and growing community. Together, you will augment security data platforms with Graphistry’s graph AI and GPU visualization capabilities. Due to your privileged access, you will be a key innovator and implementer. The role provides significant room for growth, ownership, and startup experience. You will have day-to-day flexibility and competitive compensation.
+	- You will collaborate with our users, technology partners, and Graphistry staff as part of a new locally-based team and growing community. Together, you will augment security data platforms with Graphistry's graph AI and GPU visualization capabilities. Due to your privileged access, you will be a key innovator and implementer. The role provides significant room for growth, ownership, and startup experience. You will have day-to-day flexibility and competitive compensation.
 	- Develop, deploy, and iterate on visual and automated security AI solutions for detection, correlation, recommendation, prioritization, and investigation
 	- Learn, develop, integrate, and scale using graph neural networks, end-to-end GPU acceleration, vector search, UMAP, and other AI technologies in the Graphistry ecosystem, including Nvidia RAPIDS, Nvidia Morpheus, DGL, PyTorch, and PyGraphistry[AI]
 	- Share knowledge through public speaking opportunities, private trainings & presentations, customer demos, and tutorials & blog posts on topics such using the Graphistry ecosystem and workflows you build on top to tackle problems like cybersecurity investigations, anti-misinformation, and anti-fraud
@@ -13519,7 +13710,7 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- AIML - Head of Data Engineering, Data & Machine Learning Innovation
 	- Are you passionate about data, data quality, efficiency, and scale?  Would you like to play a critical part in accelerating data-informed product development to drive innovations and amazing user experiences?
 	- As the Head of Data Engineering, you and your team will be responsible for the crucial role of designing, operating, and supporting the increasingly complex environments that power modern data analytics and machine learning use cases for Apple products such as Siri, Dictation, Translations, Apple Search and others.
-	- You will partner closely with cross-functional teams and be responsible for the planning, execution, and success of technical projects as well as help drive scalable practices to accelerate the evolution of our products. You will lead existing data resources, build new datasets and data pipelines, and implement new technologies and tools to enable rigorous scalable science and analytics, and data-informed product development. Your team and vision will enable data to inform product engineering teams at scale, with the ultimate purpose of improving the product experience for Apple users across hardware, software, and services, while preserving Apple’s privacy values. You will drive a strong culture of data excellence!
+	- You will partner closely with cross-functional teams and be responsible for the planning, execution, and success of technical projects as well as help drive scalable practices to accelerate the evolution of our products. You will lead existing data resources, build new datasets and data pipelines, and implement new technologies and tools to enable rigorous scalable science and analytics, and data-informed product development. Your team and vision will enable data to inform product engineering teams at scale, with the ultimate purpose of improving the product experience for Apple users across hardware, software, and services, while preserving Apple's privacy values. You will drive a strong culture of data excellence!
 	- 10 years in a managerial role, growing and scaling organizations
 	- Experience in multiple large-scale data processing systems, data telemetry, data-driven performance and reliability improvement across platforms and products, the data foundation for advanced machine learning problems, and data/analytics.
 	- Demonstrated passion and leadership in data engineering, data-informed product development, building and shaping data culture
@@ -13550,7 +13741,7 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and data warehouses (e.g., BigQuery, Snowflake)
 + skill set:
 	- Data Science & Engineering Manager - Auction/Yield, Ad Platforms
-	- At Apple, we work every single day to build products that enrich people’s lives! Our Advertising Platforms group makes it possible for people around the world to easily access informative and visionary content on their devices while helping publishers and developers promote and monetize their work. We are a team of passionate scientists and technologists, dedicated to helping publishers and developers find their audience, and changing the way advertising works with data. Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. Our auctions power rapidly growing marketplaces and are critical to the health and diversity of our ecosystem.
+	- At Apple, we work every single day to build products that enrich people's lives! Our Advertising Platforms group makes it possible for people around the world to easily access informative and visionary content on their devices while helping publishers and developers promote and monetize their work. We are a team of passionate scientists and technologists, dedicated to helping publishers and developers find their audience, and changing the way advertising works with data. Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. Our auctions power rapidly growing marketplaces and are critical to the health and diversity of our ecosystem.
 	- We are looking for an exceptional data science and engineering manager who can thrive in a fast-paced environment and is highly knowledgeable in the space of auctions and marketplace optimization for online advertising. You will lead teams and systems that drive marketplace optimization, budget pacing, pricing, and winner selection algorithms. You will drive the conception, development, and delivery of innovative capabilities that differentiate our products and are core to our business. You should have experience developing and implementing machine learning algorithms, ideally within the ads space. You will have an excellent understanding of scalable architectures and thrive working in Agile environments.
 	- Recognized expertise in the areas of marketplace optimization and auction theory.
 	- Demonstrated success mentoring and growing a team technically as well as developing growth plans for its members.
@@ -13568,13 +13759,13 @@ Sets of skills for more senior data science roles, such as senior data scientist
 + skill set:
 	- Senior Data Scientist (Remote)
 	- Quora is a "remote-first" company. This position can be performed remotely from anywhere in North America. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.
-	- Quora’s mission is to grow and share the world’s knowledge. To do so, we have two knowledge sharing products:
+	- Quora's mission is to grow and share the world's knowledge. To do so, we have two knowledge sharing products:
 		* Quora: a global knowledge sharing platform with over 400M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.
 		* Poe: a platform that lets people ask questions, get instant answers, and have back-and-forth dialogue with various AI language models (bots). As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models.
 	- Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.
 	- The Data Team is highly empowered at Quora, helping navigate complexity and influencing product and company strategy directly. Quora's outsized commitment to data is visible in everything we do, from our rigor-driven experimentation processes to the backgrounds of our leaders. With this emphasis on data and empirics, we aim to balance rigor and pragmatism, searching for scrappy solutions in pursuit of our mission. In joining Quora's strong data team, you'll both benefit from and work to advance our culture of rational decision making.
 	- As a member of our team, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://data.quora.com/.
-	- As a Senior Data Scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- As a Senior Data Scientist, you will draw on your experience to excel not only in your own work but also to elevate data's impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
 	- Extract actionable insights from broad, open-ended questions
 	- Design and evaluate experiments to measure the impact of product changes
 	- Analyze data from across the product to uncover the root causes of metric movements
@@ -13592,15 +13783,15 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
 	- Experience pushing code and navigating a complex codebase
 	- Active Quora user with curiosity about the product
-	- At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.
+	- At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world's knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.
 	- US candidates only: For Colorado based applicants, the minimum base salary range is $122,000 - $171,000 USD + equity + benefits. For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $122,000 - $201,000 USD + equity + benefits.
 	- British Columbia Candidates Only: For British Columbia based applicants, the minimum base salary range is $122,000 - $201,000 CAD + equity + benefits.
 + skill set:
 	- LEAD DATA SCIENTIST
 	- The annual base salary for this position ranges from $112,600.00 in our lowest geographic market to $251,800.00 in our highest geographic market. Actual salary will vary based on a candidate's location, qualifications, skills and experience.
 	- We need an experienced Data Scientist to join our Digital planning and analytics team. You are an extraordinary, driven teammate with a curiosity for all things data, and while you rely on data to prove your point, you love to think creatively to solve problems. You build novel models and algorithms to solve business problems, deliver insights, and drive recommendations. You thrive in an entrepreneurial environment, and you are excited by the challenge of building something from the ground up.  You ask questions, are continually learning as well as finding opportunities to share knowledge with others. You are a strong communicator who is endlessly curious, takes pride in hard work and is committed to rapidly advancing your knowledge and expertise.
-	- As a Data Scientist, you will work with the Digital Supply Chain team to ensure Nike delivers an elevated consumer experience, using data.  You will build demand forecasts for our regional distribution network to inform capacity planning, develop models that optimize inventory placement, simulate SKU velocities to plan new facilities against capacity and inventory constraints, and transform ad hoc analyses into scalable solutions and tools that can provide repeatable insights for the business.  You will share your results and recommendations with a broad and senior audience, inspiring change in the organization by making analytics part of day-to-day business strategy.  You’ll also track model accuracy, ensuring model relevance and reliability.
-	- As a member of Nike’s North America Digital Marketplace Operations team, you will work alongside experienced analytics and supply chain professionals passionate about driving operational efficiency and better serving athletes* digitally. You will be reporting into the North America Digital Marketplace Operations Analytics leader, liaising closely with business strategy, Marketplace Operations, and Logistics (DC & Transportation) teams as well as product squads consisting of senior data scientists and engineers.  You will collaborate with other data scientists across teams to problem solve and share best practices.
+	- As a Data Scientist, you will work with the Digital Supply Chain team to ensure Nike delivers an elevated consumer experience, using data.  You will build demand forecasts for our regional distribution network to inform capacity planning, develop models that optimize inventory placement, simulate SKU velocities to plan new facilities against capacity and inventory constraints, and transform ad hoc analyses into scalable solutions and tools that can provide repeatable insights for the business.  You will share your results and recommendations with a broad and senior audience, inspiring change in the organization by making analytics part of day-to-day business strategy.  You'll also track model accuracy, ensuring model relevance and reliability.
+	- As a member of Nike's North America Digital Marketplace Operations team, you will work alongside experienced analytics and supply chain professionals passionate about driving operational efficiency and better serving athletes* digitally. You will be reporting into the North America Digital Marketplace Operations Analytics leader, liaising closely with business strategy, Marketplace Operations, and Logistics (DC & Transportation) teams as well as product squads consisting of senior data scientists and engineers.  You will collaborate with other data scientists across teams to problem solve and share best practices.
 	- 3+ years of relevant professional experience.
 	- Strong ability to solve complex analytical problems and take a new perspective on existing solutions.
 	- Strong understanding of common coding languages (Python, SQL, R) with demonstrated ability to learn new skills or apply skills in new environments.
@@ -13608,7 +13799,7 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Deep understanding of solution and technical design.
 	- Demonstrated ability to work well with internal and external customers.
 	- Strong collaboration skills with a demonstrated ability of working well within a team.
-	- Bachelor’s degree in Mathematics, Statistics, or quantitative field; or equivalent combination of education and experience.
+	- Bachelor's degree in Mathematics, Statistics, or quantitative field; or equivalent combination of education and experience.
 + skill set:
 	- BLAH.
 + skill set:
@@ -13895,7 +14086,7 @@ Skill sets for business analytics:
 	- Experience with Solr is a plus
 + skill set:
 	- Business Intelligence Developer
-	- Unity (NYSE: U) is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the world’s most powerful digital content is created. Specifically, Unity’s platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+	- Unity (NYSE: U) is the world's leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the world's most powerful digital content is created. Specifically, Unity's platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
 	- We are seeking a BI Developer who combines an intense curiosity about data with a strong dedication to practical problem solving for business collaborators. This role will require proficiency in a sophisticated and evolving data model unique in the industry not only for its scale but also in the magnitude of business processes involved. Our team works in close alignment with all business units to understand and conduct research on the analytical requirements of our data projects. Most importantly, we are looking for a keen analytical problem solver who enjoys working with and using data to find exciting insights!
 	- As a BI Developer you will make individual contributions, in the form of report and dashboard building, code and pipeline maintenance, testing and documentation, supporting many of our projects in cross-departmental teams including Sales and Developer Relations, Marketing, Finance, Product and Engineering, Data Science, Customer Support and Operations.
 	- Design, deployment, and maintenance of BI and data systems:
@@ -13933,8 +14124,8 @@ Skill sets for business analytics:
 	- Comfort setting up and using BI tools
 	- Experience with ETL tools and building / maintaining a data warehouse
 + skill set:
-	- At Nextdoor, we believe in the transformative power of community. In the Business Intelligence team at Nextdoor, we believe in the transformative power of information, bringing together data from a wide variety of sources and making it digestable and actionable by everyone in the company. We are a lean but powerful team with diverse backgrounds and perspectives, because that’s what we seek out and respect in others. We collaborate cross-functionally to make the numbers available and clear, playing a key role in the company’s overall effort to foster stronger and healthier communities.
-	- As Nextdoor’s first Engagement Data Science Manager, you’ll lead data science for all of our member-facing initiatives, including activation, retention, trust and safety, moderation, and much more. You’ll be the voice of data within engagement leadership, and you’ll work with your team to bring value to Nextdoor’s millions of members and help build stronger & safer communities. You’ll lead an agile, nimble data team, and you’ll work with leaders across the business to inform Nextdoor’s overall data strategy. You’ll directly contribute to growing and improving our core product, and will help lead us to the future of Nextdoor.
+	- At Nextdoor, we believe in the transformative power of community. In the Business Intelligence team at Nextdoor, we believe in the transformative power of information, bringing together data from a wide variety of sources and making it digestable and actionable by everyone in the company. We are a lean but powerful team with diverse backgrounds and perspectives, because that's what we seek out and respect in others. We collaborate cross-functionally to make the numbers available and clear, playing a key role in the company's overall effort to foster stronger and healthier communities.
+	- As Nextdoor's first Engagement Data Science Manager, you'll lead data science for all of our member-facing initiatives, including activation, retention, trust and safety, moderation, and much more. You'll be the voice of data within engagement leadership, and you'll work with your team to bring value to Nextdoor's millions of members and help build stronger & safer communities. You'll lead an agile, nimble data team, and you'll work with leaders across the business to inform Nextdoor's overall data strategy. You'll directly contribute to growing and improving our core product, and will help lead us to the future of Nextdoor.
 	- You should be excited to bring your experience and expertise every day in order to:
 		* Lead, develop, and grow a team of 6-8 data scientists working in our engagement teams
 		* Conduct in-depth analysis on Nextdoor data, analyzing neighborhood vitality, member experience, cross-platform initiatives, acquisition cycles, and new product development
@@ -13945,7 +14136,7 @@ Skill sets for business analytics:
 		* Develop and share key strategic insights through data analysis, visualization, and story-telling
 		* Work with the team to create and optimize statistical models and algorithms to help drive product and strategic decision-making
 		* Care deeply about data quality and empowering employees to leverage data to help Nextdoor grow and succeed
-	- What You’ll Bring to The House
+	- What You'll Bring to The House
 		* Advanced degree in a quantitative field and 8+ years work experience in data science
 		* 3+ years of people management
 		* Experience working in consumer internet, especially social networks
@@ -13959,7 +14150,7 @@ Skill sets for business analytics:
 	- Bonus Points
 		* Looker expertise
 		* Experience with topics like feed ranking, content moderation, and community modeling
-		* You’ve built a data team up from the ground and you’re up for a challenge!
+		* You've built a data team up from the ground and you're up for a challenge!
 
 
 
@@ -14251,7 +14442,7 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 Skill sets for data science roles in computational science (or scientific computing) and computational engineering (except EDA):
 + skill set:
-	- Imagine a super-resolution microscope so easy to use that anyone on earth can take high-resolution images of bacteria, proteins, cells, and even genes. Imagine the same microscope accelerating cancer research, pharmaceutical development, and virus identification by empowering scientists with real-time, nanoscale imagery of cells and proteins. We’re building this technology at ONI!
+	- Imagine a super-resolution microscope so easy to use that anyone on earth can take high-resolution images of bacteria, proteins, cells, and even genes. Imagine the same microscope accelerating cancer research, pharmaceutical development, and virus identification by empowering scientists with real-time, nanoscale imagery of cells and proteins. We're building this technology at ONI!
 	- Our aim is to make super-resolution imaging so easy and the insights so impactful that it becomes widely used by scientists and leads to radical discoveries and innovations. To achieve this goal, our platform will automate every stage of the workflow, integrating the Nanoimager, a microfluidics device (Roboflow) and an online analysis package (CODI) with next-gen super-resolution assays and application-specific microfluidic consumables. 
 	- We will soon be launching our first kit which is designed for extracellular vesicles. With one click, the kit captures, images and analyses these tiny particles allowing researchers to characterise their biomarkers for the first time. We are also developing a revolutionary new super-resolution technology called Every Molecule Counts (EMC) that will give our customers a new level of confidence about the biology underlying their images. EMC technology will be integrated into all of our future consumables.
 	- To drive all this innovation we have built a world-class R&D team with colleagues from disciplines including biology, computer science, mathematics and physics. A core principle behind our work is to be detailed in our thinking, but to make products that are simple and intuitive so they can be put in the hands of anyone irrespective of experience, background, or training. We are excited to welcome new team members who share these values and who are excited by our vision.
@@ -14283,12 +14474,12 @@ Skill sets for data science roles in computational science (or scientific comput
 	- ONI is looking for a highly motivated and creative scientist to join our Applications Development team as a Data Scientist. The Applications Development team invents new, cutting-edge molecular biology techniques based on single-molecule microscopy, and converts them into integrated bioware products that enable our users to access the full potential of super-resolution imaging. This work spans a diverse range of biological and technological fields, firmly founded in advanced fluorescence microscopy.
 	- The work of the Applications Development team demands creative, innovative ways to process and analyse imaging data of many formats - including localisation-based point clouds, single-particle tracking information, and pixel-based data. As the Data Scientist within the team, you will be responsible for identifying and developing the most effective and efficient ways to analyse data generated in the course of our developmental work. In the process you will bring new analysis tools into the company, and design bespoke tools that are unique to ONI. The insights that we need to extract from our data are highly dynamic and change according to the state of each project, and so this role is well-suited to a talented Data Scientist who likes solving problems creatively and rapidly. 
 	- This role is open to candidates able to work in our Oxford, UK office and will involve interaction with scientists at both of our research centres. You will work across several research projects involving multiple development teams, and fulfil a vital function within the company by pushing the boundaries of the insights we can derive from our imaging technology.
-	- Take a leading role in defining how data are analysed within Applications Development’s product- and technology-development process. This is through the development of new analytical methods to unlock previously unobtainable information within our data; advising on the most appropriate analytical approaches to take; and transferring the most cutting-edge analyses into the team
+	- Take a leading role in defining how data are analysed within Applications Development's product- and technology-development process. This is through the development of new analytical methods to unlock previously unobtainable information within our data; advising on the most appropriate analytical approaches to take; and transferring the most cutting-edge analyses into the team
 	- Directly handle the processing of some data collected by the wider team as part of our ongoing developmental work
 	- Assist and support other members of the team in their data analysis 
-	- Bridge ONI’s Applications Development and Software teams to ensure that requirements and strategies are fully understood by scientists with diverse biology and computing backgrounds
-	- Contribute to ONI’s ongoing research projects as an integral and intellectually-invested team member
-	- Contribute positively to ONI’s mission beyond your immediate work - e.g. providing technical advice/support to the wider company, promoting an exciting work culture etc.
+	- Bridge ONI's Applications Development and Software teams to ensure that requirements and strategies are fully understood by scientists with diverse biology and computing backgrounds
+	- Contribute to ONI's ongoing research projects as an integral and intellectually-invested team member
+	- Contribute positively to ONI's mission beyond your immediate work - e.g. providing technical advice/support to the wider company, promoting an exciting work culture etc.
 	- Significant expertise in image analysis methods, particularly single-molecule methods
 	- Experience of data analysis using Python
 	- Understanding of super-resolution or single-particle imaging methods
@@ -14406,9 +14597,9 @@ They support databases for:
 					* workflow management
 					* visualization
 					* hadoop support built in
-				- Doesn’t help you with the code, that’s what Scalding (scala), Pig, or anything else is good at.
+				- Doesn't help you with the code, that's what Scalding (scala), Pig, or anything else is good at.
 				- It helps you with the plumbing of connecting lots of tasks into complicated pipelines, especially if those tasks run on Hadoop.
-				- Luigi doesn’t replace Hadoop, Scalding, Pig, Hive, Redshift. It orchestrates them.
+				- Luigi doesn't replace Hadoop, Scalding, Pig, Hive, Redshift. It orchestrates them.
 				- Core beliefs of Luigi:
 					* Should remove all boilerplate code.
 					* Be as general as possible.
@@ -14708,7 +14899,7 @@ They support databases for:
 	- Interface closely with data infrastructure, engineering and technical operations teams to ensure correctness and soundness of metrics built in the data environment and availability of data product services
 	- Pioneer initiatives around data quality, integrity, security and governance
 	- Work closely with data stakeholders across the company, both technical and non-technical, to understand evolving needs as more complex data models are introduced for reporting and data science
-	- Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative field;  or equivalent experience.
+	- Bachelor's degree in Computer Science, Math, Statistics, Economics, or other quantitative field;  or equivalent experience.
 	- Experience in custom ETL design, implementation and maintenance
 	- Track record of developing in complex data environments and intelligence platforms for business users
 	- Demonstrable ability to relate high-level business requirements to technical ETL and data infrastructure needs, including underlying data models and scripts
@@ -14846,9 +15037,9 @@ They support databases for:
 		* Memcached
 		* Elasticsearch
 + skill set:
-	- We are looking for a Senior Software Engineer to join our Data Science team and help further develop Deezer’s data-driven mindset.
-	- We are part of the BI and Data Analytics team, whose mission is to find the correct levers within the product to further drive Deezer’s growth. Through our analysis and predictions tools, we ensure Deezer is fitting our users’ needs.
-	- As a Senior Software Engineer in the Data Science team, you will be responsible for the engineering and implementation of scalable technical solutions around data science production. This solution will have significant impact to Deezer’s results in areas of fraud detection, churn, inactivty & conversion.
+	- We are looking for a Senior Software Engineer to join our Data Science team and help further develop Deezer's data-driven mindset.
+	- We are part of the BI and Data Analytics team, whose mission is to find the correct levers within the product to further drive Deezer's growth. Through our analysis and predictions tools, we ensure Deezer is fitting our users' needs.
+	- As a Senior Software Engineer in the Data Science team, you will be responsible for the engineering and implementation of scalable technical solutions around data science production. This solution will have significant impact to Deezer's results in areas of fraud detection, churn, inactivty & conversion.
 	- What you will do:
 		* Develop a deep understanding of the business & product and their requirements to develop solutions to insure the fully adoption of our prediction modelling (visualisation, alerting, API).
 		* Design, build, and maintain data pipelines between our Data science team & product, CRM and other relevant systems.
@@ -15010,7 +15201,7 @@ They support databases for:
 	- Participate in rotating on-call duties to diagnose and fix customer issues.
 + skill set:
 	- Principal Technical Program Manager - GDI (Remote - US)
-	- We are looking for a Principal Technical Program Manager, who will be responsible for leading large-scale, complex programs from start to end within our GDI (getting data in) area. You will be working cross-functionally with a broad set of technical and business partners to drive programs that will further Splunk’s long range goals. We want a TPM who can thrive with a nebulous problem set, distill complex problems into concrete work, and guide multiple teams with their strong, critical thinking skills.
+	- We are looking for a Principal Technical Program Manager, who will be responsible for leading large-scale, complex programs from start to end within our GDI (getting data in) area. You will be working cross-functionally with a broad set of technical and business partners to drive programs that will further Splunk's long range goals. We want a TPM who can thrive with a nebulous problem set, distill complex problems into concrete work, and guide multiple teams with their strong, critical thinking skills.
 	- Strategically leading technical programs in the Platform Engineering organization, with a clear and constant understanding of priorities to drive expected outcomes, including New Product Introduction (NPI) and Go To Market (GTM) processes
 	- Breaking down problems and operationalizing initiatives into coherent workstreams; defining program timelines and ensuring accountability of program goals; operating as the single source of truth in execution of highly complex programs
 	- Proactively anticipating risks, developing mitigation plans, and driving problems to resolution
@@ -15029,11 +15220,11 @@ They support databases for:
 	- Understanding of key development tools and technologies such as Gitlab, AWS, Kubernetes, Terraform, etc. Experience with program management tools in the Atlassian stack (Jira and Confluence) are great
 + skill set:
 	- Data Engineer, DevOps (US Remote Available)
-	- The Analytics & Data Platform team (ADP) is responsible for Splunk’s data platform from ingestion to visualization. This platform enables our business partners to make the best data-driven decisions possible. We’re looking for a Data Engineer to join the team and contribute to the development and adoption of a true, self-serve, Data Mesh platform, with a focus on automation and observability. This position is responsible for the development, maintenance, and support of the data platform (including on-call rotations), partnering with all levels of customers in the course of support/adoption/migration activities, and actively participating in the growth and development of the ADP team and its capabilities and processes.
+	- The Analytics & Data Platform team (ADP) is responsible for Splunk's data platform from ingestion to visualization. This platform enables our business partners to make the best data-driven decisions possible. We're looking for a Data Engineer to join the team and contribute to the development and adoption of a true, self-serve, Data Mesh platform, with a focus on automation and observability. This position is responsible for the development, maintenance, and support of the data platform (including on-call rotations), partnering with all levels of customers in the course of support/adoption/migration activities, and actively participating in the growth and development of the ADP team and its capabilities and processes.
 	- Operate: Perform the day to day updates, changes, and scheduled activities on the data platform. All the while, being attentive to opportunities for automation.
 	- Support: Ensure SLAs are met by monitoring the data platform and responding to issues as they arise. Partner with other engineers or dependent teams as needed to resolve issues.
-	- Develop: SQL and Python will be your go to tools, but by no means is that all. You’ll have a broad range of technologies that you’ll need to wrestle into submission to be successful: Terraform, Gitlab, Airflow, K8, Docker, DBT, and Linux, just to name a few.
-	- Collaborate: Members of the ADP team are expected to work together to continuously improve the team’s processes, infrastructure, codebase, etc. Asking questions, challenging ideas, and recommending alternatives are all necessary for the team to continue to grow and improve. Passionate opinions are welcome.
+	- Develop: SQL and Python will be your go to tools, but by no means is that all. You'll have a broad range of technologies that you'll need to wrestle into submission to be successful: Terraform, Gitlab, Airflow, K8, Docker, DBT, and Linux, just to name a few.
+	- Collaborate: Members of the ADP team are expected to work together to continuously improve the team's processes, infrastructure, codebase, etc. Asking questions, challenging ideas, and recommending alternatives are all necessary for the team to continue to grow and improve. Passionate opinions are welcome.
 	- Innovate: Develop creative solutions to edge cases that are causing unnecessary complications, with a focus on maintainability and scalability.
 	- 4+ years of work experience in a relevant field (Data Engineer, DevOps Engineer, Backend Engineer, etc.)
 	- Experience with data warehousing technologies (Redshift, Snowflake, BigQuery, or similar)
@@ -15288,7 +15479,7 @@ They support databases for:
 	- Iterate on our high performance and scalable platform for massive data collection, real-time analytics, NLP, machine learning, and backend data services
 	- Build high performance, scalable, real-time, server-side technologies
 	- Write scalable code with extensive test coverage, working in a professional software engineering environment with source control, dev/stage/production release cycles, continuous integration, and deployment
-	- Work closely with product management, design, quality assurance and operations teams to understand our customers’ needs and effectively translate them to technical specifications
+	- Work closely with product management, design, quality assurance and operations teams to understand our customers' needs and effectively translate them to technical specifications
 	- Lead projects from translating product requirements into architecture to production
 	- Tech Stack:
 		* Scala, Java, Python
@@ -15330,12 +15521,12 @@ They support databases for:
 	- Partner with operations and sales teams to automate manual workflows
 	- Experience in using highly scalable data engineering technologies such as DBT, Airflow 
 	- Experience in best practices in table partitioning/data sharding strategies and query optimization
-	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $148,800 – $178,560. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $148,800 – $178,560. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You'll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
 + skill set:
-	- Foursquare’s flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK); data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Studio).
-	- Foursquare’s Marketers Engineering team writes and operates the software which produces core data sets for our Marketers suite of products. These petabyte-scale pipelines process geospatial data for the purposes of marketing use cases, such as ad targeting and attribution. It’s critical to this team’s success that we have rich data sets to build our applications on top of, and this data is kept fresh, easy to explore, and simple to make changes. The engineers on this team work closely with application engineers to prove out variant approaches and introduce new functionality.
+	- Foursquare's flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK); data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Studio).
+	- Foursquare's Marketers Engineering team writes and operates the software which produces core data sets for our Marketers suite of products. These petabyte-scale pipelines process geospatial data for the purposes of marketing use cases, such as ad targeting and attribution. It's critical to this team's success that we have rich data sets to build our applications on top of, and this data is kept fresh, easy to explore, and simple to make changes. The engineers on this team work closely with application engineers to prove out variant approaches and introduce new functionality.
 	- In the Data Software Engineer role, you will ship products with high visibility and strategic importance to Foursquare and contribute directly to the revenue. Our pipelines are written in a variety of programming languages and deployed to multiple orchestration platforms. The main technologies we work with are Spark, Amazon EMR, Ruby, Java, and Apache Airflow.
-	- Write and operate the data pipelines which produce Foursquare’s core data sets for our Marketers suite of products – Attribution and Targeting.
+	- Write and operate the data pipelines which produce Foursquare's core data sets for our Marketers suite of products – Attribution and Targeting.
 	- Document the expected and actual behavior of these pipelines, along with expectations for inputs and outputs.
 	- Monitor data quality and freshness, with a focus on proactively evaluating the business impact of changes. Report regularly on the state of the data sets and the software which produces them.
 	- Maintain a prioritized list of data questions and bugs which require further investigation. Escalate as needed to call attention to problems with the input data.
@@ -15348,12 +15539,12 @@ They support databases for:
 	- Experience with cloud computing service providers, such as AWS.
 	- Experience with ***containerization technologies, such as Docker, Mesos or Kubernetes***.
 	- Excellent written communication skills.
-	- ***Your own unique talents! If you don’t meet 100% of the qualifications outlined above, we encourage and welcome you to still apply!***
+	- ***Your own unique talents! If you don't meet 100% of the qualifications outlined above, we encourage and welcome you to still apply!***
 	- Experience with CI/CD systems such as Jenkins, Travis, TeamCity, and CircleCI.
 	- Experience at marketing or ad-tech data companies: RTB / real-time bidding. DSP / demand-side platform.
 	- Experience with geospatial data processing.
 + skill set:
-	- Foursquare’s flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK);  data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Unfolded Studio).
+	- Foursquare's flexible building blocks include technology to maximize marketing impact and drive incremental real-world engagement (Attribution, Audience, Proximity, SDK);  data to deeply understand points of interest and real-world behavior patterns (Places and Visits), and tools to conduct advanced analysis, data enrichment, unification and visualization (Unfolded Studio).
 	- Our Data Platform team provides the infrastructure, tools, libraries, and APIs that power our data processing infrastructure. The goal of the team is to make engineers at Foursquare more effective and happier by offloading common problems from the product and content experts, enabling them to apply their skills and knowledge to their specific domain, while the Data Platform team works on problems that affect the company as a whole.
 	- In this role, you will ship products with high visibility and strategic importance to Foursquare and contribute directly to revenue. Help us build and collaborate with Product, Engineering, and Data Science teams to create tools and processes to bring research and machine learning models to production.
 	- Build tools and APIs that would be used by other FSQ Engineers
@@ -15361,7 +15552,7 @@ They support databases for:
 	- Build resilient services and tooling which drive all of our offline processing of petabytes of data
 	- Write test automation, conduct code reviews, and take end-to-end ownership of deployments to production
 	- Participate in on-call rotation duties
-	- What you’ll need: If you have more or less experience than listed, please apply anyways and we will see if another role aligns better with your experience.
+	- What you'll need: If you have more or less experience than listed, please apply anyways and we will see if another role aligns better with your experience.
 	- BS/BA in a technical field such as computer science or equivalent experience
 	- 3+ year of experience in software development working with production-level code
 	- Experience in one or more of the programming languages we use
@@ -15391,11 +15582,11 @@ They support databases for:
 	- Open Source Infrastructure Engineer
 	- Our company has its roots in the Python data science community. Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS. Our mission is to connect companies to open-source communities to create sustainable solutions that benefit the whole ecosystem.
 	- We accomplish this mission by providing various services ranging from open-source software development to training and consulting. We believe in a culture of do-ers, learners, and collaborators. We are looking for people who are motivated, humble, curious, and respectful of others.
-	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
+	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight's growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
 	- Contribute to nebari (https://nebari.dev), an open source Data Science platform built on JupyterHub, Dask, and other tools from the PyData ecosystem.
 	- Participate in upstream open source communities we rely on (such as JupyterHub, BinderHub, Dask, etc.) in partnership with the established leaders of those communities.
-	- Deploy and ensure the reliable operation of Quansight’s and clients’ infrastructure.
-	- Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team’s impact.
+	- Deploy and ensure the reliable operation of Quansight's and clients' infrastructure.
+	- Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team's impact.
 	- Experience using some form of infrastructure-as-code tooling (i.e., Ansible, Salt, Puppet, Terraform, etc.)
 	- Experience with at least one major cloud platform (AWS, Azure, GCP)
 	- Experience developing tools in a general purpose programming language (eg. Python)..
@@ -15418,7 +15609,7 @@ They support databases for:
 + skill set:
 	- Data Platform Engineer
 	- SHANGHAI /PLATFORM ENGINEERING – PLATFORM ENGINEERING // REMOTE
-	- CertiK is a pioneer in blockchain security, leveraging best-in-class AI technology to protect and monitor blockchain protocols and smart contracts. Founded in 2018 by professors from Yale University and Columbia University, CertiK’s mission is to secure the web3 world. CertiK applies cutting-edge innovations from academia to enterprise, enabling mission-critical applications to scale with safety and correctness.
+	- CertiK is a pioneer in blockchain security, leveraging best-in-class AI technology to protect and monitor blockchain protocols and smart contracts. Founded in 2018 by professors from Yale University and Columbia University, CertiK's mission is to secure the web3 world. CertiK applies cutting-edge innovations from academia to enterprise, enabling mission-critical applications to scale with safety and correctness.
 	- Manage critical data platform services for the data lifecycle, including ingestion, transformation, management, delivery, and analytics. 
 	- Build tools and libraries that ease new pipeline development and reduce delivery time.
 	- Work towards increasing the robustness and fault tolerance on the platform processing large amounts of data.
@@ -15442,8 +15633,8 @@ They support databases for:
 	- Broad exposure to at least one cloud platform: AWS, Google, Azure.
 + skill set:
 	- Staff Software Engineer, Data Infrastructure
-	- Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on experienced engineers to help us further our 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.
-	- The Data Infrastructure team’s mission is to provide reliable and scalable data orchestration, ingestion, and processing infrastructure that enables data users at DoorDash to deliver high-quality, trustable, and compliant data. You will report directly into the Data Infrastructure Engineering Manager. You must be located in the Bay Area or Seattle for this hybrid role. 
+	- Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on experienced engineers to help us further our 24x7, global infrastructure system that powers DoorDash's three-sided marketplace of consumers, merchants, and dashers.
+	- The Data Infrastructure team's mission is to provide reliable and scalable data orchestration, ingestion, and processing infrastructure that enables data users at DoorDash to deliver high-quality, trustable, and compliant data. You will report directly into the Data Infrastructure Engineering Manager. You must be located in the Bay Area or Seattle for this hybrid role. 
 	- Build strong cross-functional partnerships across the core data platform, core infra, and core data engineering teams, and drive the roadmap for data orchestration, data ingestion, and egress at DoorDash. 
 	- Lead a team of engineers, guiding and co-pairing to build data platforms at scale. This role will also have access to several Senior Staff and Principal engineers across the Data Platform as they will be interacting with and building integrations for multiple services within the Data Platform org. 
 	- Help accelerate the adoption of the data lake by building near real-time data ingestion and egress framework, enabling self-serve ETL through full abstraction, and driving operational optimizations.
@@ -15870,7 +16061,7 @@ Skill sets for DataOps:
 	- Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 	- No matter your role, or what your automation goals are, Ansible can help you demonstrate value, connect teams, and deliver efficiencies for your organization. Built on open source, Red Hat® Ansible® Automation Platform is a hardened, tested subscription product that offers full life cycle support for organizations. Explore how Ansible can help you automate today—and scale for the future.
 	- Ansible® is an open source, command-line IT automation software application written in Python. It can configure systems, deploy software, and orchestrate advanced workflows to support application deployment, system updates, and more.
-	- Ansible’s main strengths are simplicity and ease of use. It also has a strong focus on security and reliability, featuring minimal moving parts. It uses OpenSSH for transport (with other transports and pull modes as alternatives), and uses a human-readable language that is designed for getting started quickly without a lot of training.
+	- Ansible's main strengths are simplicity and ease of use. It also has a strong focus on security and reliability, featuring minimal moving parts. It uses OpenSSH for transport (with other transports and pull modes as alternatives), and uses a human-readable language that is designed for getting started quickly without a lot of training.
 + skill set:
 	- Stitch is a cloud data ingestion platform... We power data infrastructure for thousands of businesses.
 	- Stitch is made up of these main components:
@@ -15910,7 +16101,7 @@ Skill sets for DataOps:
  	- Adding to Blaize AI Studio's state-of-the-art (SOTA) toolbox.
  	- Using small datasets to generate impressive results.
  	- Relentlessly staying on top of the state of the art in computer vision and related areas.
- 	- Bachlor’s degree in Applied Science/Mathematics or Engineering
+ 	- Bachlor's degree in Applied Science/Mathematics or Engineering
  	- 4 years of relevant experience or an equivalent combination of experience and education.
  	- Leadership positions external from AI/ML.
  	- Awareness of software engineering best practices with hands-on experience (Java, C++, Python).
@@ -16022,11 +16213,11 @@ Skill sets for DataOps:
 		* often compared with Splunk
 + skill set:
 	- Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS.
-	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight’s growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
+	- We are seeking a fully remote, experienced Open Source Infrastructure Engineer to join our team at Quansight. In this role, you will support Quansight's growing cloud and on-premises infrastructure and help make them more reliable, scalable, and efficient. You will also  address support issues from our clients and collaborators, explore emerging technologies in the Cloud and DevOps spaces, and design and implement cloud computing systems with the rest of our infrastructure team.
 	- Contribute to nebari (https://nebari.dev), an open source Data Science platform built on JupyterHub, Dask, and other tools from the PyData ecosystem.
 	- Participate in upstream open source communities we rely on (such as JupyterHub, BinderHub, Dask, etc.) in partnership with the established leaders of those communities.
-	- Deploy and ensure the reliable operation of Quansight’s and clients’ infrastructure.
-	- Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team’s impact.
+	- Deploy and ensure the reliable operation of Quansight's and clients' infrastructure.
+	- Collaborate with a fully distributed team - team members are expected to communicate and collaborate proactively to allocate effort and maximize the team's impact.
 	- ***Experience using some form of infrastructure-as-code tooling (i.e., Ansible, Salt, Puppet, Terraform, etc.)***
 	- Experience with at least one major cloud platform (AWS, Azure, GCP)
 	- Experience developing tools in a general purpose programming language (eg. Python)..
@@ -16116,7 +16307,7 @@ Skill sets for DataOps:
 	- Experience working on recommendation engines 
 + skill set:
 	- AIML - Senior Data Infrastructure Software Engineer, Machine Learning Platform and Technology
-	- The Data Infrastructure group within the AI/ML organization powers the analytics, experimentation and ML feature engineering that powers the Machine Learning technologies we all love in our Apple devices. Our mission is to provide cutting edge, reliable and easy to use infrastructure for ingesting, storing, processing and interacting with data while keeping Apple’s users’ data private and secure.
+	- The Data Infrastructure group within the AI/ML organization powers the analytics, experimentation and ML feature engineering that powers the Machine Learning technologies we all love in our Apple devices. Our mission is to provide cutting edge, reliable and easy to use infrastructure for ingesting, storing, processing and interacting with data while keeping Apple's users' data private and secure.
 	- Are you a passionate about building scalable, reliable, maintainable infrastructure and solving data problems at scale? Come join us and be part of the Data Infrastructure journey.
 	- 12+ years of experience in software engineering with deep knowledge in computer science fundamentals.
 	- Strong in data structures and algorithms. Must write good quality code with test cases and review PR's in fast faced environment.
@@ -16853,12 +17044,12 @@ For the ***regulatory compliance market***, and regulatory enforcement and inspe
 + Netflix Research
 	- https://research.netflix.com/
 	- Machine Learning
-		* As the world’s leading Internet television network with over 160 million members in over 190 countries, our members enjoy hundreds of millions of hours of content per day, including original series, documentaries and feature films. We invest heavily in machine learning to continually improve our member experience and optimize the Netflix service end-to-end. As researchers, we innovate using machine learning in many areas where we prototype, design, implement, evaluate, and productionize models and algorithms through both offline experiments and online A/B testing.
-		* Machine learning impacts many exciting areas throughout our company. Historically, personalization has been the most well-known area, where machine learning powers our recommendation algorithms. We’re also using machine learning to help shape our catalog of movies and TV shows by learning characteristics that make content successful. We use it to optimize the production of original movies and TV shows in Netflix’s rapidly growing studio. Machine learning also enables us to optimize video and audio encoding, adaptive bitrate selection, and our in-house Content Delivery Network that accounts for more than a third of North American internet traffic. It also powers our advertising spend, channel mix, and advertising creative so that we can find new members who will enjoy Netflix.
+		* As the world's leading Internet television network with over 160 million members in over 190 countries, our members enjoy hundreds of millions of hours of content per day, including original series, documentaries and feature films. We invest heavily in machine learning to continually improve our member experience and optimize the Netflix service end-to-end. As researchers, we innovate using machine learning in many areas where we prototype, design, implement, evaluate, and productionize models and algorithms through both offline experiments and online A/B testing.
+		* Machine learning impacts many exciting areas throughout our company. Historically, personalization has been the most well-known area, where machine learning powers our recommendation algorithms. We're also using machine learning to help shape our catalog of movies and TV shows by learning characteristics that make content successful. We use it to optimize the production of original movies and TV shows in Netflix's rapidly growing studio. Machine learning also enables us to optimize video and audio encoding, adaptive bitrate selection, and our in-house Content Delivery Network that accounts for more than a third of North American internet traffic. It also powers our advertising spend, channel mix, and advertising creative so that we can find new members who will enjoy Netflix.
 		* Using machine learning pervasively across Netflix brings many new challenges where we need to push forward the state-of-the-art. This means coming up with new ideas and testing them out, be it new models and algorithms or improvements to existing ones, better metrics or evaluation methodologies, and addressing the challenges of scale. Our research spans many different algorithmic approaches including causal modeling, bandits, reinforcement learning, ensembles, neural networks, probabilistic graphical models, and matrix factorization.
 	- Machine Learning Platform: https://research.netflix.com/research-area/machine-learning-platform
 		* Accelerating and Democratizing Machine Learning Innovation
-		* In practice, large-scale applied Machine Learning (ML) requires substantial infrastructure and systems engineering investment. Although we’re most well-known for early work in personalized recommendations, the sophistication and breadth of ML algorithms and applications at Netflix have grown substantially over the last few years. Today our main challenge is to scale machine learning in heterogeneous language environments across several domains and at all stages of a project’s lifecycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment.
+		* In practice, large-scale applied Machine Learning (ML) requires substantial infrastructure and systems engineering investment. Although we're most well-known for early work in personalized recommendations, the sophistication and breadth of ML algorithms and applications at Netflix have grown substantially over the last few years. Today our main challenge is to scale machine learning in heterogeneous language environments across several domains and at all stages of a project's lifecycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment.
 		* We need to do this at the scale of hundreds of millions of global streaming members, whose viewing habits, preferences, and contexts change over time. Content, studio, and marketing applications, which are being reimagined with machine learning, bring their own unique platform requirements. To meet these business and research needs, we need to innovate on the platform infrastructure itself, such that we are able to carefully orchestrate a continuous cycle of learning, inference, and observation while also maintaining high system reliability. Our journey continues as we seek to find new ways to scale with our member base as well as the ever-growing need for ML at Netflix.
 + Toyota Research Institute, TRI
 
@@ -16962,7 +17153,7 @@ Generic skill sets for research scientists:
 	- Strong communication skills needed. Being a creative and dynamic presenter is a huge advantage.
 + skill set for Research Scientist, Design Automation - New College Grad.
 	- We are now looking for a Research Scientist – Design Automation
-	- NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?
+	- NVIDIA's invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company, and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?
 	- NVIDIA Research is seeking leading researchers in the areas of VLSI electronic design automation (EDA) to contribute to the development of future high-performance and mobile computing systems. You should have a strong track record of research excellence; systems-building experience; a broad perspective across areas including EDA algorithms and software, machine learning, and VLSI chip design methodology. Specific areas of research interest include but are not limited to applications of supervised learning, unsupervised learning, reinforcement learning and GPU acceleration to EDA algorithms.
 	- Apply machine learning and GPU acceleration to EDA software and ASIC and VLSI design tool flows.
 	- Research and develop creative and innovative EDA software and algorithms.
