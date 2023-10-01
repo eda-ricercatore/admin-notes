@@ -1,8 +1,8 @@
-#	Information on Mercurial SCM
+#	Information on *Mercurial SCM*
 
 
 
-##	Common Mercurial SCM commands that I would use:
+##	Common *Mercurial SCM* commands that I would use:
 
 
 
@@ -35,18 +35,25 @@ hg push --new-branch
 
 
 
+##	Installing *Mercurial SCM*
+
+
+Use *Homebrew* to install *Mercurial SCM*.
+
+	brew install mercurial
 
 
 
 
+###	Current State of *Mercurial SCM* Installation
 
+I need to upgrade my version of *Mercurial SCM*, which is based on *Python 2.7*.
 
+It is located at the following location:
 
+	/usr/local/bin/hg
 
-
-
-
-
+Hence, I need to update it to allow *Mercurial SCM* to run on *Python 3.x*.
 
 
 
