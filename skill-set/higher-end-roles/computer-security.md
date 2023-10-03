@@ -9,6 +9,24 @@ This document does not include information on hardware security.
 ##	Notes about Computer Security
 
 
+
+
+Companies that work in computer security:
++ Crypta Labs: https://cryptalabs.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###	Roles in Computer Security
 
 

@@ -796,6 +796,23 @@ List(s) of companies in the semiconductor industry:
 
 
 
+Interesting start-ups and other companies in the semiconductor industry:
++ Blueshift Memory: https://www.blueshiftmemory.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

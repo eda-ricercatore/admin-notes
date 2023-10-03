@@ -1746,10 +1746,23 @@ To pursue exploratory engineering in the context of technological change, techno
 
 
 
-##	List of companies/jobs
+##	List of Companies/Jobs
 
 + [Women in Machine Learning and Data Science (WiMLDS): New York, NY](http://wimlds.org/jobs/#)
 + [VentureLoop](https://www.ventureloop.com/ventureloop/aboutus.php)
+
+
+
+
+
+
+
+###	List of Start-up Companies/Jobs
+
+
++ Wellfound (formerly AngelList Talent): https://wellfound.com/
+	- https://wellfound.com/company/crypta-labs/jobs
+
 
 
 
