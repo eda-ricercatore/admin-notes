@@ -419,7 +419,7 @@ List of semiconductor companies:
 	- [Achronix Semiconductor Corporation](https://www.achronix.com/company/careers)
 	- [AlphaICs Corp](https://alphaics.ai/company/careers/)
 	- [Panmnesia](https://panmnesia.com/)
-	- [NAME](URL)
+	- [Anari AI](https://anari.ai/)
 	- [NAME](URL)
 	- [NAME](URL)
 	- [NAME](URL)
@@ -6330,6 +6330,31 @@ Skill sets for application engineers of different EDA products:
 	- Bonus: experience writing kernels for GPUs using CUDA
 	- Bonus: experience training on TPUs
 	- Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP)
++ AI/ML Search Architect
+	- We seek a seasoned AI/ML Architect with expertise in Neural Information Retrieval (IR) technology to lead the design, development, and implementation of machine learning models for search and recommendation systems. Your focus will be on retrieval and ranking/reranking infrastructure and pipelines, collaborating with cross-functional teams, and maintaining awareness of the latest technological advancements. This is a unique opportunity to impact and contribute to our cutting-edge products significantly.
+	- Led the Design, Development, and Implementation: Spearheaded machine learning models for search and recommendation systems, focusing on retrieval, ranking/reranking infrastructure, and pipelines.
+	- Collaborate with Cross-Functional Teams: Work closely with product management, engineering, and business development to understand and translate product requirements into robust technical solutions.
+	- Monitor and Optimize Infrastructure: Regularly evaluate performance, adjusting algorithms and methodologies for continuous improvement.
+	- Manage End-to-End Pipeline: Supervise the complete machine learning pipeline, including data collection, preprocessing, feature engineering, modeling, and deployment.
+	- Stay Ahead of the Curve: Maintain awareness of the latest ML and search technologies to keep our systems at the cutting edge.
+	- Contribute to Strategic Decisions: Provide valuable insights into product direction through technical expertise.
+	- Educational Background: A Master’s or Ph.D. in Computer Science, Electrical Engineering, or a related field.
+	- Experience: Minimum seven years of professional experience in search, retrieval, and ranking, focusing on building search ML-based pipelines.
+	- Programming Languages and Frameworks:
+		* Proficiency in Deep Learning Frameworks: Knowledge of popular deep learning frameworks like TensorFlow, PyTorch, or Keras would be essential for implementing complex neural models.
+		* Proficient Programming Skills: Expertise in programming languages such as Python and C++ to write and optimize algorithms and machine learning models.
+	- Multimodal Search Algorithms: Deep understanding of search algorithms and methods across different data types (text, image, etc.).
+	- Architecting Neural Models for Information Retrieval: Develop and implement neural network architectures tailored for complex information retrieval tasks.
+	- Ranking Systems and Recommendation Models: Knowledge in designing and optimizing ranking/reranking systems and recommendation models for improving search functionality.
+	- Large-Scale Distributed Systems: Experience handling large-scale distributed systems is crucial for managing big data and ensuring the models run efficiently.
+	- Cloud Computing Platforms: Familiarity with popular cloud platforms like AWS, Azure, or Google Cloud for deploying and managing models.
+	- End-to-End Machine Learning Pipeline Management: Skills in managing the complete machine learning pipeline, including data collection, preprocessing, feature engineering, modeling, and deployment.
+	- Optimization Techniques: Ability to evaluate performance and apply optimization techniques for continuous model improvement.
+	- Collaborative Skills: Ability to work closely with cross-functional teams, including product management, engineering, and business development.
+	- Agile Methodologies: Familiarity with Agile methodologies for iterative development and collaboration in team environments.
+	- Research and Innovation: Collaborate with the research team to keep abreast of the latest developments in neural IR and drive innovation through prototyping.
+	- Publications/Contributions: Though not mandatory, contributions to scientific and tech communities can be a valuable addition.
+	- Technical Leadership: Guide less experienced engineers and researchers, actively contribute to technical documentation, and promote best practices in machine learning.
 + skill set:
 	- Software Engineer Intern/Co-op (Winter 2024)
 	- This role is for students who are excited about building the next generation of machine learning models and NLP products. Our SWE roles can cover creating datasets for machine learning, scaling the pods to serve our API, or even building out new security features on our platform. We don't distinguish much between interns and full-time employees, and you’ll have plenty of opportunities to push code to production. You'll have full autonomy and ownership over high-impact work, and will be backed by the support of an incredible team or leaders & mentors. Join us at a pivotal moment, shape what we build, and wear multiple hats!
@@ -12810,6 +12835,50 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- statsmodels
 	- scikit-learn
 	- XGBoost
++ Data Scientist:
+	- Amida Technology Solutions is a DC-based technology company focused on solutions for data interoperability, data utility, and data security. We create open-source solutions that collect, reconcile, transform, and standardize data for business intelligence, predictive analytics, decision support, and user transactions. We specialize in taking data from inception to impact.
+	- Our team is comprised of creative, forward thinkers who are passionate about using cutting-edge technology to make a difference in people's lives and have a positive impact on our country. We offer an entrepreneurial, high-growth environment that values fresh ideas, candid conversations, and authentic teamwork.
+	- Amida is currently looking for a Data Scientist to join our team in Washington, DC. In this role you will work across our client engagements, providing expertise in machine learning algorithms, natural language processing (NLP), data collection, data analysis, data mapping, data profiling, data mining, data modeling, and data visualization. You will architect data science solutions on the cloud using AWS or Azure data science services and participate in the implementation of the solutions. You will help with the business development activities and will be responsible to describe data science solutions in our proposals.
+	- Perform data analyses in the Azure Cloud
+	- Lend your expertise in the development of solutions using machine learning, NLP, data profiling, and/or data mining to projects and proposals across the company
+	- Use expertise in machine learning to design and implement predictive models for diverse fields such as health claim processing and electronic design automation
+	- Use expertise in NLP methods and healthcare data to identify relevant open-source NLP models and adapt them to free text data
+	- Leverage modern ML/NLP methodologies (e.g., deep learning), computing hardware (e.g., GPUs), cloud infrastructure (AWS/Azure), open-source modeling frameworks (e.g., TensorFlow, Keras, PyTorch, XGBoost)
+	- Develop standardized evaluation and validation frameworks for current and future work
+	- Create training materials for colleagues at different levels of experience
+	- Identify, create, and curate training datasets
+	- Bachelor's Degree in a quantitative field such as Computer Science, Statistics, or Mathematics (or related)
+	- 4+ years of recent professional experience in data science, data mining, data analysis, business process analysis, and/or healthcare analytics
+	- 3+ years working with Machine Learning and/or Natural Language Processing (in particular, Named Entity Recognition) methodologies
+	- 3+ years of programming experience in Python
+	- 2+ years of experience using Machine Learning tools, deploying models, and deploying software in Azure or Amazon Web Services (AWS) preferably holding certifications
+	- Experience to model data in Graphs
+	- Experience using Graph databases
+	- Experience contributing to proposals preferably in federal government contracting
+	- Ability to conduct data profiling and predictive analysis using a variety of standard tools
+	- Experience with data visualization tools and methodologies
+	- Excellent ability to communicate concisely and effectively with software engineers and clients
+	- Ability to obtain a Public Trust security clearance
+	- ADF
+	- Azure ML
+	- Azure SQL
+	- Databricks/Data Lake
+	- Python (for data wrangling, joins, cleansing, visualization, and statistical learning)
+	- Git
+	- Apache Spark (cluster computing/management)
+	- Deep Learning
+	- Neural Networks
+	- Master's Degree in a quantitative field such as Computer Science, Statistics, or Mathematics (or related)
+	- Previous experience in Knowledge Graphs and Graph Neural Networks
+	- Previous experience working with Databricks
+	- Prior experience working with healthcare data, or in the Healthcare field
+	- Previous experience working with government clients such as Dept. of Defense (DoD), Dept. of Veterans Affairs (VA), or The Centers for Medicare & Medicaid Services (CMS)
+	- Prior experience with metadata management to include meta-tagging
+	- Previous experience working in an Agile Team setting and using Agile management tools such as Jira
+	- Experience conducting business process analysis to identify gaps and inefficiencies
+	- Ability to uncover data-driven insights using statistical analysis or predictive analytics
+	- Communication is the key to success at Amida. Our people are known for their can-do attitude and their ability to work effectively with client teams. We pride ourselves on having a collegial, multidisciplinary team with diverse backgrounds and experience. Our best team members pay intense attention to detail in all aspects of their work, have a strong sense of initiative, and are willing to be opinionated about the best ways of doing things. A sense of humor is an asset at Amida.
+	- We help solve the biggest challenges in data management. If you're looking for an opportunity to help important organizations get their data right, we hope you'll forward your resume and let us know why this role appeals to you. We look forward to hearing from you.
 + skill set:
 	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing's ability to engage with new audiences in new ways.
 	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
@@ -13667,6 +13736,39 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 
 
 Sets of skills for more senior data science roles, such as senior data scientists and management of data science teams (i.e., data science managers):
++ Sr. Data Scientist
+	- Amida Technology Solutions is a DC-based technology company focused on solutions for data interoperability, data utility, and data security. We create open-source solutions that collect, reconcile, transform, and standardize data for business intelligence, predictive analytics, decision support, and user transactions. We specialize in taking data from inception to impact.
+	- Our team is comprised of creative, forward thinkers who are passionate about using cutting-edge technology to make a difference in people's lives and have a positive impact on our country. We offer an entrepreneurial, high-growth environment that values fresh ideas, candid conversations, and authentic teamwork.
+	- Amida is currently looking for a Senior Data Scientist to join our team in Washington, DC. In this role you will work across our client engagements, providing expertise in machine learning algorithms, natural language processing (NLP), data collection, data analysis, data mapping, data profiling, data mining, data modeling, and data visualization. You will architect data science solutions on the cloud using AWS or Azure data science services and participate in the implementation of the solutions. You will help with the business development activities and will be responsible to describe data science solutions in our proposals.
+	- Lend your expertise in the development of solutions using machine learning, NLP, data profiling, and/or data mining to projects and proposals across the company
+	- Use expertise in machine learning to design and implement predictive models for diverse fields such as health claim processing and electronic design automation
+	- Use expertise in NLP methods and healthcare data to identify relevant open-source NLP models and adapt them to free text data
+	- Leverage modern ML/NLP methodologies (e.g., deep learning), computing hardware (e.g., GPUs), cloud infrastructure (AWS/Azure), open-source modeling frameworks (e.g., TensorFlow, Keras, PyTorch, XGBoost)
+	- Develop standardized evaluation and validation frameworks for current and future work
+	- Create training materials for colleagues at different levels of experience
+	- Identify, create, and curate training datasets
+	- M.S. and/or Ph.D. in a quantitative field such as Computer Science, Statistics, or Mathematics (or related)
+	- 7+ years of recent professional experience in data science, data mining, data analysis, business process analysis, and/or healthcare analytics
+	- 5+ years working with Machine Learning and/or Natural Language Processing (in particular, Named Entity Recognition) methodologies
+	- 5+ years of programming experience in Python
+	- 3+ years of experience using Machine Learning tools, deploying models, and deploying software in Azure or Amazon Web Services (AWS) preferably holding certifications
+	- Experience to model data in Graphs
+	- Experience using Graph databases
+	- Experience contributing to proposals preferably in federal government contracting
+	- Ability to conduct data profiling and predictive analysis using a variety of standard tools
+	- Experience with data visualization tools and methodologies
+	- Excellent ability to communicate concisely and effectively with software engineers and clients
+	- Ability to obtain a Public Trust security clearance
+	- Previous experience in Knowledge Graphs and Graph Neural Networks
+	- Previous experience working with Databricks
+	- Prior experience working with healthcare data, or in the Healthcare field
+	- Previous experience working with government clients such as Dept. of Defense (DoD), Dept. of Veterans Affairs (VA), or The Centers for Medicare & Medicaid Services (CMS)
+	- Prior experience with metadata management to include meta-tagging
+	- Previous experience working in an Agile Team setting and using Agile management tools such as Jira
+	- Experience conducting business process analysis to identify gaps and inefficiencies
+	- Ability to uncover data-driven insights using statistical analysis or predictive analytics
+	- Communication is the key to success at Amida. Our people are known for their can-do attitude and their ability to work effectively with client teams. We pride ourselves on having a collegial, multidisciplinary team with diverse backgrounds and experience. Our best team members pay intense attention to detail in all aspects of their work, have a strong sense of initiative, and are willing to be opinionated about the best ways of doing things. A sense of humor is an asset at Amida.
+	- We help solve the biggest challenges in data management. If you're looking for an opportunity to help important organizations get their data right, we hope you'll forward your resume and let us know why this role appeals to you. We look forward to hearing from you.
 + skill set:
 	- develop programs for data transformation, integration, or reduction;
 	- prototype and ship production-grade applications for (among others) data coding, entity resolution, predictive analytics, data visualization, data dashboards, and report generation;
@@ -14645,6 +14747,18 @@ They support databases for:
 	- Experience with Kafka
 	- Experience with Vertica
 	- Knowledge in containerized environments (Docker, Kubernetes)
++ Sr. Data Engineer
+	- Amida is currently looking for a Sr. Data Engineer to provide expertise and implementation services in data collection, data integration, data analysis, data mapping, data profiling, data mining and data modeling.
+	- In this role, you will be responsible for designing and maintaining data pipelines, data warehouses, and data integration solutions. You will work closely with cross-functional teams to ensure data quality, optimize performance and implement scalable data infrastructure.
+	- Bachelors Degree in Computer Science or technical field AND;
+	- 5+ years of recent professional experience in data engineering
+	- Expertise in data modeling and ETL processes
+	- Proficiency in programming languages like Python and Scala
+	- Experience in SQL and Databricks
+	- An in-depth understanding of the terminologies, code sets, and standards of healthcare data
+	- Ability to communicate clearly, concisely and persuasively with software engineers and clients
+	- Experience working with non-Transact-SQL databases and SQL dialects, preferably Oracle PL/SQL or Cerner Command Language
+	- Experience with large-scale data analysis systems, such as Databricks, Hadoop, Pig, Scala, Spark or MPP databases
 + skill set:
 	- Responsibilities
 		* Design, develop and support data pipelines, warehouses and reporting systems to solve business operations, users and product problems.
