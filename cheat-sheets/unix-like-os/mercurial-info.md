@@ -7,7 +7,7 @@
 
 
 hg add
-hg commit
+hg commit -m "[THE MESSAGE!!!]"
 hg push
 
 
