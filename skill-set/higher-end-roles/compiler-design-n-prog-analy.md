@@ -360,7 +360,14 @@ Skill set for compiler design:
 ##	Compiler Design for Domain-Specific Languages
 
 
+Companies that hire compiler designers for domain-specific languages (DSLs):
++ DataPelago, Inc.: https://datapelago.io/careers/
 
+
+
+
+
+Skill sets for developing compilers for domain-specific languages (DSLs):
 + ***Experienced with Glow/TVM/NVM/TensorRT/Tensorflow compiler portion is plus***
 + [CUDA LLVM Compiler](https://developer.nvidia.com/cuda-llvm-compiler)
 + skill set:
