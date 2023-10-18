@@ -12880,6 +12880,34 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Communication is the key to success at Amida. Our people are known for their can-do attitude and their ability to work effectively with client teams. We pride ourselves on having a collegial, multidisciplinary team with diverse backgrounds and experience. Our best team members pay intense attention to detail in all aspects of their work, have a strong sense of initiative, and are willing to be opinionated about the best ways of doing things. A sense of humor is an asset at Amida.
 	- We help solve the biggest challenges in data management. If you're looking for an opportunity to help important organizations get their data right, we hope you'll forward your resume and let us know why this role appeals to you. We look forward to hearing from you.
 + skill set:
+	- 2021.AI CVR
+	- 2021.AI seeks a motivated Data Scientist to join our highly-skilled team of Data Scientists, working at the forefront of solving business challenges with AI and ML. In this role, you will participate in and lead data science projects and deliveries. In addition, you will assist in the future development of different AI / ML and technology services on our GRACE platform.
+	- You have high ambitions and want to positively impact the world with the AI / ML technology you develop and deliver to clients globally. This shines through in your ability to use AI / ML solutions to deliver impactful and valuable business solutions across different industries in the private and public sectors.
+	- You are independent, driven, motivated, and solutions-oriented.
+	- You work well with others. This entails teamwork with your internal team and with clients on- and off-site.
+	- Your expertise is with data science, AI/ML, and related technologies, and you are passionate about delivering AI/ML solutions all the way from initial ML model research to implementing the working model in production.
+	- You have experience in independently developing AI/ML or statistical models that solve particular business challenges, including the process of preparing the models for deployment and production.
+	- You are interested in working with one of the best data science teams on the planet, technology rock stars, and business magnates, all dedicated to responsibly and positively impacting the future with AI and other emerging technologies.
+	- As a Data Scientist at 2021.AI, you will make your mark and directly influence the direction of data science in 2021.AI while delivering value with AI and ML to our partners and clients.
+	- You will participate as a Data Scientist in client projects and work closely with other teams in 2021.AI to improve our core product features, and demonstrate product value to clients on the GRACE Platform.
+	- Take part in projects developing AI and ML models for clients and partners
+	- Embed those actions and insights into integrations and solutions for our clients’ businesses
+	- Develop high-quality models with the business value behind in mind
+	- Bring business objectives to the center of the ML development process
+	- M.Sc. or equivalent in Engineering, Statistics, Mathematics, Computer Science, or a related field
+	- 2-3 years of hands-on, practical experience from a similar position
+	- Solid experience in scripting/programming languages (Python, R, and their related packages such as Scikit-learn, Shap, Pandas) combined with a mathematical/theoretical foundation
+	- Data manipulation skills, including database handling and data cleaning/management
+	- Experience with data visualization tools and packages (Plotly, Dash, Python Seaborn)
+	- Understanding of how to implement and deploy AI and ML into production via e.g. Flask or Docker
+	- Full working knowledge of English
+	- Excellent presentation skills both toward business leaders and technical experts
+	- Exceptional human and superb collaboration skills
+	- The ability to identify potential use cases to create business value for our customers
+	- Experience with computer vision
+	- Founded in Copenhagen with several offices worldwide, 2021.AI is a fast-growing AI company focused on closing the gap between AI ambitions and real AI value for companies worldwide. Large private and public organizations globally trust us to help them stay competitive, compliant, and in control when applying AI.
+	- We are a team of passionate people who care deeply about the mission we are on; to positively impact the future with AI. Our tight-knit culture of camaraderie instills more than just a sense of belonging but great pride in our work. With high cultural ambitions, we expect you to bring lots of energy to the workplace and participate in company-related and social activities. In return, we promise great professional experiences and the freedom to tackle and own your tasks.
++ skill set:
 	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing's ability to engage with new audiences in new ways.
 	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
 	- As a Data Scientist, your mission is to turn our data into insights and gain a deep understanding of our users to impact the strategy and direction of DigitalOcean. You will study user behavior, marketing strategies, markets, content, new features and bring data and insights into every decision we make. Above all, your work will impact how we think about user growth and how we can make DigitalOcean available and accessible for more people in the world.
