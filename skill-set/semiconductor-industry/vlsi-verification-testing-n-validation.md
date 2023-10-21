@@ -924,6 +924,7 @@ Skill set for roles in VLSI testing:
 	- Understand ATE ATPG test pattern format: STIL (WGL)
 	- Understand JTAG SVF format.
 	- Experience in Mentor LogicVison CPUBIST bring up.
++ Familiarity with IEEE 1149, 1500, 1687, 1838
 + skill set:
 	- BLAH.
 + skill set:

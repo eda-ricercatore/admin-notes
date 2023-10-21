@@ -1532,6 +1532,61 @@ The sets of skills are:
 
 
 
+####	Skill Sets for the Design Automation of Networks-on-Chip
+
+
+
++ Design Automation Engineer, NoC Interconnect
+	- Piece Together The World’s Most Powerful Puzzle
+	- This world has a design. It’s infinite yet discoverable. Small yet powerful. Our design engineers must all at once predict it and create it. From implementation of the most advanced CPU, GPU and HPC processors on the planet to dreaming up every eventuality that could put our SoC and system IP to the test, we puzzle over the biggest questions of our time. And microarchitect the future.
+	- Work At The Very Edge
+	- At Arm, you’re in a position to influence 95% of the world’s connected devices and all of their applications. Healthcare, infrastructure, virtual reality… you’ll affect hundreds, if not thousands of industries worldwide, racing towards new milestones in human endeavour.
+	- Learning And Development: Whether you want to learn a new programming language, explore your management potential or witness the latest innovations at industry conferences, we promise you both the freedom and the support to develop when you want it.
+	- Sabbatical: We'll always encourage you to take plenty of annual leave, so you stay fresh and inspired. But you know what really does it? When we encourage you to take an extended, paid four-week sabbatical after 4 years of service.
+	- Progressive Leave: You're a human being, not a resource. So it's important to us that we're there for you at significant points in your life. Whether you're having kids, acting as a primary care giver or have lost a loved one, our flexible progressive leave allows you to put your family first without worrying about your career.
+	- Wellbeing: We create a safe space for you to look after your mental and physical health, with support ranging from medical insurance to the workplace mental health platform, Unmind. Alongside a growing number of onsite gyms, yoga, cycling and running clubs. All of which comes with a flexible working policy, so you can live life and be your brilliant self.
+	- The Arm Network-on-Chip Interconnect (NI) is designed for intelligent connected systems across a wide range of applications including mobile, networking infrastructure, storage, server, HPC, automotive, and industrial solutions. The highly scalable and configurable interconnect is optimized for Armv8/ArmV9 processors, supports the latest versions of AXI, ACE-Lite, CHI, AHB, APB, AXI-Stream and multi-chip protocols, and can be customized across a wide range of PPA points. Our Austin-based team drives the specification, planning and development of the current and next generation NoC Interconnect IP!
+	- As a member of the NoC interconnected team, you will be working on the infrastructure and tooling for auto-rendering configured interconnect RTL based on the user input, building infrastructure for design flows including DRCs, Lint, DFT Lint, CDC, RDC, Autocheck, UPF, SDC, IPXACT, and power analysis to deliver a high-quality interconnect product. We’d like you to join us!
+	- We are looking for an experienced Design Automation Engineer who will contribute to all tooling aspects of the interconnect design. Primary responsibilities include development of tools for configuring and building the Interconnect IP, as well as defining and building different flows required for RTL quality. On a day-to-day basis you will be working closely with the interconnect IP design, verification and front-end tooling teams. Your responsibilities include:
+	- Participate in IP microarchitecture discussions to identify the design automation requirements for our current and next-generation interconnect IP products.
+	- Work with senior members of the design/tooling/verification teams to make sure the configurability is built into the infrastructure, and it follows the functional/system level requirements.
+	- Create the scripts needed to absorb the input requirements to develop an engine which will auto render configured RTL. Develop and maintain infrastructure and flows to produce high quality RTL. Define, update and maintain internal flows to run different EDA tools including but not limited to lint, DFT lint, auto-check, CDC, RDC, power analysis etc. for a highly configurable interconnect.
+	- Identify and implement enhancements to flows in collaboration with the methodology group.
+	- Background in software development in connection with the delivery of hardware and/or IP projects, including tools, workflow automation, hardware design automation (EDA or EDA-like software)
+	- Proven programming and scripting skills e.g., C, C++, Java, Python, Perl, Ruby, etc.
+	- Experience with developing and maintaining infrastructure and flows to run different EDA tools for lint, DFT lint, auto-check, CDC, RDC, power analysis etc.
+	- Familiarity with version control software, such as Git or SVN. Experience with tools and platforms for continuous integration and delivery.
+	- Reasonable understanding of all stages of the design cycle: initial concept, specification, implementation, verification, documentation and support.
+	- Knowledge around highly configurable and parameterized RTL designs.
+	- Developed skills and experience in solving complex software engineering challenges, including ability to manage multiple tasks concurrently.
+	- Ability to understand/drive/challenge technical solutions. Possess a high level of dedication, initiative, and problem-solving skills.
+	- An ideal candidate will have between 5-10 years of work experience in design automation, infrastructure development for design flows, SoC/IP design workflows.
+	- Experience in hardware development and RTL design using Verilog or System Verilog.
+	- Experience with interconnect and bus architectures. Knowledge around Arm-based SoCs.
+	- Experience of working in a functional safety related development project applying standards such as ISO 26262 and/or IEC 61508.
+	- At Arm, we are proud to have a set of behaviors that reflect our culture and guide our decisions, defining how we work together to defy ordinary and shape extraordinary. These behaviors are assessed as part of the recruitment process:
+		* Partner and customer focus
+		* Collaboration and communication
+		* Creativity and innovation
+		* Team and personal development
+		* Impact and influence
+		* Deliver on your promises
+	- We offer a hybrid approach to home and office working to provide an adaptable experience for all employees. We expect some working time to be spent in office, to promote a strong collaborative environment with good team integration but are accommodating to different home working requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

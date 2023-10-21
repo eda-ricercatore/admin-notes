@@ -2507,7 +2507,7 @@ Skills for Physical Design Engineers (in the context of VLSI CAD):
 	- Strong background and experience in digital back-end flow.
 	- Solid background in memory design, memory layout and memory testing
 	- Strong team work ethic and good interpersonal skills
-
++ Understanding or an ability to learn industry standard modeling formats including: Liberty (NLM, CCS, ECSM, and LVF), Verilog, LEF, NDM, Spice, and APL
 
 
 
