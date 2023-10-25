@@ -11213,7 +11213,26 @@ Skills for natural language processing, NLP:
 	- Experience with one or more of the following: Natural Language Processing, text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems or similar
 	- Use traditional ML techniques such as Probabilistic Graphical Models, SVMs, etc. along with the latest techniques from deep learning including graph neural networks
 + skill set:
-	- BLAH.
+	- AI Research Intern (PhD)
+	- Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that’s where you come in!
+	- Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+	- We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+	- Duolingo AI Research is a small and nimble team, using data to develop new hypotheses about language and learning, test them empirically, and ship products based on research. As an AI Research Intern (PhD) you are a colleague, and your code and ideas will affect tens of millions of people worldwide. You will learn deeply and broadly from our team of award-winning engineers and researchers.
+	- Apply AI methods to massive real-world datasets
+	- Prototype new models, evaluate with small scale experiments, and/or productionize solutions at scale
+	- Work with a cross-functional team of world class researchers, engineers, and others to build new product features and/or publish state-of-the-art findings
+	- Contributions to research communities and efforts, including publishing papers at conferences such as ACL, CVPR, EDM, ICML, NeurIPS, etc.
+	- Experience implementing AI systems in Python, Java, Scala, or C/C++ (i.e., not just R or MATLAB)
+	- Pursuing a PhD in artificial intelligence, machine learning, natural language processing, or related field
+	- Graduation expected by August 2025
+	- 12 week consecutive availability
+	- Ability to relocate to Pittsburgh, PA
+	- Language learning opportunities
+	- Catered in-house lunches and breakfast
+	- Company-wide Hackathon
+	- PTO and company holidays
+	- Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+	- We invest in and support our Duos! The hourly range  for this internship is $60-$62. 
 + skill set:
 	- BLAH.
 + skill set:
@@ -11394,6 +11413,56 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 		* Discuss with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes for the overall online serving system, recommendation system, and the phrase mining algorithm.
 		* Confer with systems analysts, engineers, programmers and others to obtain information on limitations and capabilities, performance requirements and interfaces of a certain feature.
 	- Master's degree in Computer Science, Computer Engineering or related plus 1 year experience.
++ Staff AI Research Scientist, Recommendation
+	- Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that's where you come in!
+	- Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core language learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+	- We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+	- We are searching for an AI Research Scientist experienced with recommendation systems to join our efforts to personalize learning. Duolingo has a unique opportunity to define the future of personalized education with one of the world’s largest datasets. As an AI Research Scientist, you will apply your background in AI and machine learning to invent the technologies that will define the future of education. In many cases, this means identifying entirely new research problems, or synthesizing work that spans several fields. You will find opportunities to improve existing systems – or reinvent them completely – to tackle Duolingo's unique data. We are a fun and motivated team, building intelligent software used by millions of people around the world every day.
+	- Conduct cutting-edge AI research that pushes forward the field of education
+	- Work with a multi-functional team of award-winning designers, researchers, engineers, and others to build new research-based product features
+	- Assist in mentoring junior scientists and engineers
+	- Contribute to the broader research community by publishing and presenting about your work
+	- A few past projects from the group:
+		* The world's largest student model "Birdbrain" (IEEE Spectrum paper)
+			+ https://spectrum.ieee.org/duolingo
+		* A method to jump-start adaptive language testing (EMNLP paper)
+			+ https://research.duolingo.com/papers/mccarthy.emnlp21.pdf
+		* Novel bandit algorithm for mobile notifications (KDD paper)
+			+ https://research.duolingo.com/papers/yancey.kdd20.pdf
+		* The Duolingo English Test (TACL paper)
+			+ https://research.duolingo.com/papers/settles.tacl20.pdf
+	- PhD in machine learning, AI, computer science, or a related technical field
+	- 2 years of industry experience except for exceptional senior faculty candidates
+	- Experience working with recommendation systems
+	- Experience implementing ML systems in Python, Java, Scala, or C/C++ (i.e., not just R or MATLAB)
+	- Outstanding interpersonal communication and organizational skills
+	- Contributions to research communities and efforts, including publishing papers at conferences such as ACL, CVPR, EDM, ICML, NeurIPS, etc.
+	- Familiarity with educational and/or assessment technologies
+	- Experience mentoring or managing junior scientists or engineers
+	- Strong publication record
+	- We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingo’s world-class benefits. The starting base salary range for this role is, $197,500 - $374,000. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
++ Senior AI Research Engineer, Recommendation
+	- Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that’s where you come in!
+	- Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core language learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+	- We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+	- We are searching for an AI Research Engineer experienced with recommendation systems to join our efforts to personalize learning. Duolingo has a unique opportunity to define the future of personalized education with one of the world’s largest datasets. The AI Research Engineer role at Duolingo is quite broad, with responsibilities ranging from engaging with the research community via publishing papers and attending conferences, to bringing the latest advances in AI to our product by collaborating with our research scientists and software engineers. 
+	- Research engineers are expected to both innovate and implement. As such, we look for applicants with both an accomplished research portfolio as well as a strong software engineering background. AI research engineers often own projects from end-to-end, beginning with ideation, data collection, R&D, and culminating in putting your work in front of our learners.
+	- Solve our most ambitious problems with the right tool for the task
+	- Collaborate cross-functionally to bring your ideas to life in the product
+	- Identify problems, prototype solutions, evaluate their return on investment, and then implement the best solution at scale to improve the lives of our millions of learners each day
+	- Share your findings both within Duolingo as well as to the broader research community
+	- A creative, interdisciplinary, and entrepreneurial approach to R&D
+	- Strong debugging and critical thinking skills
+	- M.S./Ph.D. in machine learning, AI, computer science, or a related technical field
+	- 2 years of industry experience
+	- Experience working with recommendation systems
+	- Outstanding interpersonal communication and organizational skills
+	- Experience implementing AI systems at scale
+	- Ability to relocate to New York, NY or Pittsburgh, PA
+	- 5 years of post-doctoral and/or industry experience
+	- Experience mentoring or managing junior scientists or engineers
+	- A strong publication record
+	- We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingo’s world-class benefits. The starting base salary range for this role is, $166,500 - $273,000. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
 
 
 
