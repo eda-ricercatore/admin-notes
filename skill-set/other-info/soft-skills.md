@@ -40,7 +40,8 @@ Cool soft skills to acquire:
 	- communicate nuanced ideas clearly
 + You find the 10% work that gets us 90% of the value
 + You approach problems with a scrappy, creative, and entrepreneurial mindset.
-
++ 5+ years of relevant engineering experience at tech and product-driven companies
++ Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
 
 
 

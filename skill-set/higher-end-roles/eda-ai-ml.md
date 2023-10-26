@@ -770,13 +770,92 @@ Skill sets for STCO and DTCO:
 	- Candidates should have research experience in computing systems, and be familiar with at least one of the following areas:
 	- Design Space Exploration (DSE) Frameworks, Hierarchical DSE, Microarchitecture DSE, Architectural Models, Templates and Generators, Generator Methodology, Design Space Sampling, Constraint-Based DSE, Reusable Designs, System-Technology Exploration, Hardware-Software Co-Design and Co-Optimization
 	- Strong interpersonal skills and ability to work productively in a research environment
-
-
-
-
-
-
-
++ DL HW/SW Codesign Engineer
+	- We’re forming a new team to work with our partners on hardware optimization and co-design, and are looking for a founding engineer.
+	- This team will be responsible for working with partners to optimize their hardware for our workloads, identifying promising new deep learning accelerators, and bringing those hardware platforms to production.
+	- While primarily a software team, this team will be multidisciplinary and include experts in hardware design as well as data center facility design.
+	- If you’re excited to work at the intersection of cutting edge deep learning and emerging hardware designs this role is for you!
+	- Influence the roadmap of hardware partners to optimize them for OpenAI’s workloads.
+	- Evaluate potential partners’ accelerators and platforms.
+	- Build simulations and performance models to progressively improve decision making fidelity.
+	- As the scope of the role and team grows, understand and influence roadmaps for hardware partners for our datacenter networks, racks, and buildings.
+	- Have at least 4 years of industry experience, including experience harnessing compute at scale or building semiconductors.
+	- Have a strong bias toward action, and won’t take no for an answer.
+	- Experience with hardware/software co-design
+	- Are familiar with the fundamentals of deep learning computing and chip microarchitecture.
+	- Have a strong intrinsic desire to learn and fill in missing skills; and an equally strong talent for sharing that information clearly and concisely with others.
+	- Are comfortable with ambiguity and rapidly changing conditions.
+	- Annual Salary Range: $300,000—$370,000 USD
+	- OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+	- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
++ HW/SW Co-design Engineer
+	- Our mission at OpenAI is to discover and enact the path to safe, beneficial AGI. To do this, we believe that many technical breakthroughs are needed in generative modeling, reinforcement learning, large scale optimization, active learning, among other topics.
+	- The Research Platform team builds robust and scalable software to support our research efforts. It also offers core development services for mission critical goals and applications. In the Kernels team, we write Kernels for GPUs, we build a compiler to support important AI accelerators and we help with HW/SW co-design of future AI accelerators.
+	- As a Research Engineer, you will help build AI systems that can perform previously impossible tasks or achieve outstanding levels of performance. This requires good engineering (for example designing, implementing, and optimizing state-of-the-art AI models), writing bug-free machine learning code (surprisingly difficult!), and building the science behind the algorithms employed. In all the projects this role pursues, the ultimate goal is to push the field forward.
+	- As a Research Engineer for HW/SW co-design, you will co-design future hardware from different vendors for programmability and performance. You will work with our kernel, compiler and ML developers to understand their needs related to ML techniques, algorithms, numerical approximations, programming expressivity and compiler optimizations. You will evangelize these constraints with various vendors to develop future hardware architectures amenable for efficient training and inference. If you are excited about maximizing HBM bandwidth, optimizing for low arithmetic intensity, expressive SIMD ISA, low-precision formats, optimizing for memory hierarchies, simulating workloads at various resolutions of the hardware and evangelizing these ideas with hardware engineers, this is the perfect opportunity!
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Work with hardware vendors to help co-design their future hardware for programmability and performance
+	- Assist hardware vendors in developing optimal kernels and add support for it in our compiler
+	- Develop performance estimates for critical kernels for different hardware configurations 
+	- Work with ML engineers, kernel engineers and compiler developers to understand their vision and needs from high performance accelerators
+	- Manage communication and coordination with internal and external engagements
+	- Have a deep understanding of GPU and/or other AI accelerators
+	- Have good experience with CUDA or a related accelerator programming language
+	- Have experience driving ML accuracy with low precision formats
+	- Able to actively collaborate with ML engineers, kernel writers and compiler developers
+	- Have 3+ years of relevant industry experience
+	- Get a great deal of satisfaction with aligning future hardware with a well established HPC infrastructure
+	- PhD in Computer Science and Engineering with a specialization in Computer Architecture, Parallel Computing. Compilers or other Systems
+	- Are a strong coder with excellent skills in C/C++ and Python
+	- Experience working with hardware developers
+	- Experience building compilers
+	- Good understanding of LLMs and challenges related to their training and inference 
+	- OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+	- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
++ HW/SW Co-design Engineer
+	- Our mission at OpenAI is to discover and enact the path to safe, beneficial AGI. To do this, we believe that many technical breakthroughs are needed in generative modeling, reinforcement learning, large scale optimization, active learning, among other topics
+	- The Research Platform team builds robust and scalable software to support our research efforts. It also offers core development services for mission critical goals and applications. In the Kernels team, we write Kernels for GPUs, we build a compiler to support important AI accelerators and we help with HW/SW co-design of future AI accelerators.
+	- As a Research Engineer, you will help build AI systems that can perform previously impossible tasks or achieve outstanding levels of performance. This requires good engineering (for example designing, implementing, and optimizing state-of-the-art AI models), writing bug-free machine learning code (surprisingly difficult!), and building the science behind the algorithms employed. In all the projects this role pursues, the ultimate goal is to push the field forward.
+	- As a Research Engineer for HW/SW co-design, you will co-design future hardware from different vendors for programmability and performance. You will work with our kernel, compiler and ML developers to understand their needs related to ML techniques, algorithms, numerical approximations, programming expressivity and compiler optimizations. You will evangelize these constraints with various vendors to develop future hardware architectures amenable for efficient training and inference. If you are excited about maximizing HBM bandwidth, optimizing for low arithmetic intensity, expressive SIMD ISA, low-precision formats, optimizing for memory hierarchies, simulating workloads at various resolutions of the hardware and evangelizing these ideas with hardware engineers, this is the perfect opportunity!
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Work with hardware vendors to help co-design their future hardware for programmability and performance
+	- Assist hardware vendors in developing optimal kernels and add support for it in our compiler
+	- Develop performance estimates for critical kernels for different hardware configurations
+	- Work with ML engineers, kernel engineers and compiler developers to understand their vision and needs from high performance accelerators
+	- Manage communication and coordination with internal and external engagements
+	- Have a deep understanding of GPU and/or other AI accelerators
+	- Have good experience with CUDA or a related accelerator programming language
+	- Have experience driving ML accuracy with low precision formats
+	- Able to actively collaborate with ML engineers, kernel writers and compiler developers
+	- Have 3+ years of relevant industry experience
+	- Get a great deal of satisfaction with aligning future hardware with a well established HPC infrastructure
+	- PhD in Computer Science and Engineering with a specialization in Computer Architecture, Parallel Computing. Compilers or other Systems
+	- Are a strong coder with excellent skills in C/C++ and Python
+	- Experience working with hardware developers
+	- Experience building compilers
+	- Good understanding of LLMs and challenges related to their training and inference
+	- Have a deep understanding of GPU and/or other AI accelerators
+	- Have good experience with CUDA or a related accelerator programming language
+	- Have experience driving ML accuracy with low precision formats
+	- Able to actively collaborate with ML engineers, kernel writers and compiler developers
+	- Have 3+ years of relevant industry experience
+	- Get a great deal of satisfaction with aligning future hardware with a well established HPC infrastructure
+	- PhD in Computer Science and Engineering with a specialization in Computer Architecture, Parallel Computing
+	- Compilers or other Systems
+	- Are a strong coder with excellent skills in C/C++ and Python
+	- Experience working with hardware developers
+	- Experience building compilers
+	- Good understanding of LLMs and challenges related to their training and inference
+	- As a Research Engineer, you will help build AI systems that can perform previously impossible tasks or achieve outstanding levels of performance
+	- In all the projects this role pursues, the ultimate goal is to push the field forward
+	- As a Research Engineer for HW/SW co-design, you will co-design future hardware from different vendors for programmability and performance
+	- You will work with our kernel, compiler and ML developers to understand their needs related to ML techniques, algorithms, numerical approximations, programming expressivity and compiler optimizations
+	- You will evangelize these constraints with various vendors to develop future hardware architectures amenable for efficient training and inference
+	- Work with hardware vendors to help co-design their future hardware for programmability and performance
+	- Assist hardware vendors in developing optimal kernels and add support for it in our compiler
+	- Develop performance estimates for critical kernels for different hardware configurations
+	- Work with ML engineers, kernel engineers and compiler developers to understand their vision and needs from high performance accelerators
+	- Manage communication and coordination with internal and external engagements
 
 
 
@@ -5573,6 +5652,50 @@ Skill sets for application engineers of different EDA products:
 	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
 	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
 + Distributed Deep Learning
++ Research Scientist
+	- By applying to this role, you will be considered for Research Scientist roles across all teams at OpenAI.
+	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the team you work on, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
+	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
+	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
+	- Be excited about OpenAI’s approach to research 
+	- Interested in and thoughtful about the impacts of AI technology
+	- Past experience in creating high-performance implementations of deep learning algorithms
+	- The annual salary range for this role is $200,000 – $370,000.
++ Research Scientist, Machine Learning
+	- San Francisco, California, United States — Policy Research
+	- The Policy Research team at OpenAI is responsible for understanding our company’s current and potential impact on the world, and using that understanding to recommend the best possible policies at OpenAI and elsewhere (“policies” are defined broadly to include laws, safety requirements, industry norms, etc.). Team members have backgrounds in a wide variety of disciplines, including computer science and engineering, law, philosophy, economics, political science, and more, and we use a wide variety of quantitative and qualitative methods to measure, forecast, and analyze OpenAI’s impacts.
+	- We’re seeking an experienced machine learning researcher to shape and lead the ML research agenda for trustworthy AI. 
+	- This is an opportunity to pioneer and prototype new approaches for testing and evaluating the most advanced AI systems – and to harness the most advanced AI systems to do so. The role will include research on the development of novel evaluation methods and interventions for things like dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior. 
+	- If you enjoy tackling deep questions in ML research, thrive in roles where ambitious entrepreneurial pursuit of open-ended goals is rewarded, and are strongly motivated to contribute to the roll-out of advanced general AI systems going well, you will find our work here uniquely challenging and rewarding. This role reports to our Trustworthy AI lead.
+	- This role is based in our San Francisco HQ. We offer relocation assistance to new employees.
+	- Research upstream interventions at the level of training data, pre-training, and training
+	- Research and prototype novel evaluation methods in areas such as dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior. 
+	- Work with downstream product and infrastructure teams to build and scale effective tools for responsible deployment
+	- Develop and mentor ML Researchers on the Deployment Planning team
+	- Architect and develop interventions that improve real world impact
+	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
+	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
+	- Have experience developing novel techniques for ML model measurement and mitigation
+	- Have experience in research mentorship, leading project teams, and setting technical direction
+	- Be comfortable working cross functionally across both research and product teams
+	- Past experience in interdisciplinary research collaborations
+	- Past experience in creating high-performance implementations of deep learning algorithms
+	- Annual Salary Range: $200,000—$370,000 USD
++ Research Scientist, Safety
+	- The Safety Systems team is responsible for various safety work to ensure our best models can be safely deployed to the real world to benefit the society. The work encompasses a wide range of research and engineering projects from detection to model training to model evaluation and red-teaming, aiming to reduce unwanted use cases and ensure model behavior within our safety standard and legal compliance. The Safety Systems team is at the forefront of OpenAI's mission to build and deploy safe AGI, driving our commitment to AI safety and fostering a culture of trust and transparency.
+	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth. 
+	- OpenAI is seeking a senior researcher with passion for AI safety and experience in safety research. Your role will set directions for research to enable and empower safe AGI and work on research projects to make our AI systems safer, more aligned and more robust to adversarial or malicious use cases. You will play a critical role in shaping how a safe AI system should look like in the future at OpenAI, making a significant impact on our mission to build and deploy safe AGI.
+	- Set the research directions and strategies to make our AI systems safer, more aligned and more robust.
+	- Conduct state-of-the-art research on AI safety topics such as RLHF, adversarial training, robustness, and more.
+	- Coordinate and collaborate with cross-functional teams, including T&S, legal, policy and other research teams, to ensure that our products meet the highest safety standards.
+	- Actively performing safety audits on AI/ML models and systems, identifying areas of risk and proposing mitigation strategies.
+	- Ph.D. in computer science, machine learning, or a related field, with 5+ years of related research experience.
+	- Experience in the field of AI safety, working on topics like RLHF, adversarial training, robustness, fairness & biases, is extremely advantageous.
+	- Experience in safety work for AI model deployment is a big plus.
+	- Care deeply about AI safety and motivated by work to make the cutting edge AI models safer for real world use;
+	- In-depth understanding of deep learning research and/or strong engineering skills is critical for the success of the role.
+	- Enjoy being a team player.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
 	- Intuitive Surgical designs and manufactures state-of-the-art robot-assisted systems for use in minimally-invasive surgery. These systems are revolutionizing the way in which surgery is being done and offer a unique platform that is being used routinely at hospitals worldwide for exploring the potential of digital surgery. Joining Intuitive Surgical means joining a team dedicated to using technology to benefit patients by improving surgical efficacy and decreasing surgical invasiveness, with patient safety as our highest priority.
 	- The Applied Research group within Intuitive Surgical has an immediate opening in Sunnyvale, CA for a research scientist with focus on Computer Vision, Deep Learning and Image Analytics, contributing to new technology development in the area of 3D scene understanding/reconstruction and spatial AI systems for next-generation robot-assisted surgery platforms. This role is an exciting opportunity to join a newly formed team and contribute to its growth and it will give you an opportunity to test your knowledge in a challenging problem solving environment.
@@ -6423,6 +6546,57 @@ Skill sets for application engineers of different EDA products:
 	- Build internal tooling (CI/CD, dev utilities) to move faster together
 	- Build tech writing skills through maintaining and contributing to technical documentation, both internal and external facing
 	- Keep up with the cutting edge and adopt new technologies to improve performance and reliability across Cohere
++ Distributed Systems/ML Engineer
+	- The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.  Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+	- As a Distributed Systems/ML engineer, you will work on improving the training throughput for our internal training framework, while enabling researchers to experiment with new ideas.  This requires good engineering (for example designing, implementing, and optimizing state-of-the-art AI models), writing bug-free machine learning code (surprisingly difficult!), and acquiring deep knowledge of the performance of supercomputers. In all the projects this role pursues, the ultimate goal is to push the field forward.
+	- We’re looking for people who love optimizing performance, understanding distributed systems, and who cannot stand having bugs in their code.  Since our training framework is used for large runs with massive numbers of GPUs, performance improvements here will have a large impact.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Apply the latest techniques in our internal training framework to achieve impressive hardware efficiency for our training runs
+	- Profile and optimize our training framework
+	- Work with researchers to enable them to develop the next generation of models
+	- Have run small scale ML experiments
+	- Love figuring out how systems work and continuously come up with ideas for how to make them faster while minimizing complexity and maintenance burden
+	- Have strong software engineering skills and are proficient in Python
+	- Annual Salary Range: $245,000—$385,000 USD
++ ML User Experience Engineer
+	- The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.  Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+	- As a ML User Experience Engineer, you will work on our training framework to create the abstractions that allow researchers to perform experiments using cutting-edge models with impressive ease-of-use.  Many of our research teams build on our framework for running their experiments, and they should be able to write their experiments such that they get both flexibility and high scalability.
+	- We’re looking for someone who wants to work at the interface between research and compute and who loves building a great experience for researchers designing their next experiment. This is a high leverage area due to the large algorithmic gains that can be achieved when research productivity is increased.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Build out our internal training framework to make research with large distributed models easy and fun
+	- Work closely with researchers to ensure that the framework meets their needs and enables the next generation of experiments
+	- Design and build the next generation of training infrastructure at the forefront of language model research
+	- Have worked on ML tools that researchers love
+	- Have a good understanding of current models and training algorithms
+	- Are a strong software engineer and proficient in Python
+	- Are obsessed with correctness and beautiful interfaces
+	- Annual Salary Range: $245,000—$385,000 USD
++ Research Engineer
+	- By applying to this role, you will be considered for Research Engineer roles across all teams at OpenAI.
+	- As a Research Engineer here, you will be responsible for building AI systems that can perform previously impossible tasks or achieve unprecedented levels of performance. We're looking for people with solid engineering skills (for example designing, implementing, and improving a massive-scale distributed machine learning system), writing bug-free machine learning code, and building the science behind the algorithms employed. 
+	- The most outstanding deep learning results are increasingly attained at a massive scale, and these results require engineers who are comfortable working in large distributed systems. We expect engineering to play a key role in most major advances in AI of the future.
+	- Have strong programming skills
+	- Have experience working in large distributed systems
+	- Be excited about OpenAI’s approach to research 
+	- Interested in and thoughtful about the impacts of AI technology
+	- Past experience in creating high-performance implementations of deep learning algorithms
+	- Annual Salary Range: $200,000—$370,000 USD
++ Software Engineer – Model Inference
+	- Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- We're looking for an engineer to join our team at OpenAI to help us scale up our critical inference infrastructure, which efficiently services every customer request to use our state-of-the-art AI models, including GPT-4 and Dall-E. 
+	- Improve the reliability, security, scalability, and observability of our distributed inference infrastructure.
+	- Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues.
+	- Ensure the most efficient use of a constellation of different state-of-the-art AI models deployed on a large, heterogeneous fleet of Azure VMs under Kubernetes.
+	- Have experience with high-throughput scheduling as a service, particularly at supercomputing scale.
+	- Are proficient in testing, debugging, and maintaining systems written in low-level systems languages, particularly C++ or Go.
+	- Either know or can quickly learn the fundamentals of modern AI architectures.
+	- Have at least 3 years of professional software engineering experience.
+	- Know network technologies inside and out from L1 to L7.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Have a good intuition for when off-the-shelf solutions will work, and build tools to accelerate your own workflow quickly if they won’t.
+	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
 	- Member of Technical Staff
 	- Design and implement novel research ideas. 
@@ -10917,6 +11091,23 @@ Skills for natural language processing, NLP:
 	- Natural language processing knowledge and skills and deep understanding of computational semantics and text generation
 	- Knowledge of common machine learning algorithms; experience in the application of deep learning, transfer learning, and reinforcement learning technologies or publication of high quality thesis papers (preferred)
 	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
++ Software Engineer, Full Stack (DALL-E)
+	- The DALL-E team works across research, engineering, product, and design to bring OpenAI’s DALL-E 3 technology to consumers and businesses. We’re here to create the next generation of user interfaces for generative AI, both for creation and consumption.
+	- We are looking for a self-starter engineer who loves building new products in an iterative and fast-moving environment. In this role, you will be bringing our DALL-E 3 and future generative models to millions of users around the world. Our users include everyday enthusiasts, creators and professionals.
+	- You’ll interface directly with users to develop the features they want most. You will also collaborate closely with the DALL-E research team and work with them on continual improvement and product exploration. You will be a key part of the effort to push these technologies forward, and onto the next 100x users.
+	- Own the development of new user-facing generative AI features and product experiences end-to-end
+	- Talk to users to understand their problems and design solutions to address them
+	- Work with the research team to get relevant feedback and iterate on their latest models
+	- Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products
+	- Optimize applications for speed and scale
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and fast-paced collaboration
+	- 5+ years of relevant engineering experience at tech and product-driven companies
+	- Proficiency with JavaScript, React, and other web technologies
+	- Proficiency with some backend language (we use Python)
+	- Some experience with relational databases like Postgres/MySQL
+	- Excited to rapidly prototype with futuristic OpenAI generative models as they are trained
+	- Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+	- Annual Salary Range: $200,000—$385,000 USD
 + skill set:
 	- Provide software design and programming expertise to support research projects. You will work closely with Applied Research Scientists to solve exciting research problems. You will own software development and iteration throughout the research cycle.
 	- Read, understand, and replicate recent AI research papers.
@@ -11234,17 +11425,112 @@ Skills for natural language processing, NLP:
 	- Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
 	- We invest in and support our Duos! The hourly range  for this internship is $60-$62. 
 + skill set:
-	- BLAH.
+	- Engineering Manager – Fine Tuning API
+	- Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- We are looking for an experienced engineering manager to support our Fine Tuning API team – the team that enables our API developers to customize their models via fine-tuning. This is a unique team that spans both research and applied AI tech stacks. You will work closely with our research team to bring the core technology that trained GPT-4 into the hands of all of our API developers. You will also collaborate with our product teams to build a world-class model customization experience for our API developers. Above all, you will be responsible for ensuring the safe deployment of a product that can push the performance of our models to new heights.
+	- Manage, build out, and mentor a team of high performing software and research engineers.
+	- Work with our product team to craft both the technical and product vision for the future of our fine tuning API.
+	- Collaborate closely with research teams to push to the boundaries of what is possible with large language model customization.
+	- Create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+	- Have 3+ years of experience managing high performing and diverse software engineering teams, and 6+ years of experience working with production software systems.
+	- Have prior experience working with training and inference of large language models, especially in production environments.
+	- Have familiarity with the latest AI research and working knowledge of how these systems are efficiently implemented
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+	- Annual Salary Range: $300,000—$450,000 USD
 + skill set:
-	- BLAH.
+	- Engineering Manager, DALL-E
+	- The DALL-E team works across research, engineering, product, and design to bring OpenAI’s DALL-E 3 technology to consumers and businesses. We’re here to create the next generation of user interfaces for generative AI, both for creation and consumption.
+	- We are looking for an experienced engineering manager to lead the DALL-E product engineering team. This is a unique team that spans both research and production tech stacks. In this role, you will be bringing our DALL-E 3 and future generative models to millions of users around the world. Our users include everyday enthusiasts, creators and professionals.
+	- Manage, build out, and mentor a team of high performing software engineers
+	- Work with research, design and product counterparts to craft both the technical and product vision for new generative model experiences
+	- Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products
+	- Work with the research team to get relevant feedback and iterate on their latest models
+	- Talk to users to understand their problems and design solutions to address them
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and fast-paced collaboration
+	- Have 3+ years of experience managing high performing and diverse software engineering teams, and 6+ years of experience working with production software systems
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done and push through obstacles
+	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+	- Are willing to delve into the codebase when necessary.
+	- Possess excellent communication, planning, and organizational skills
+	- Have a track record of shipping ML-based products.
+	- Annual Salary Range: $310,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer — Engineering Acceleration
+	- The Applied AI team safely brings OpenAI's technology to the world. We released ChatGPT, Plugins, DALL·E, and the APIs for GPT-4, GPT-3, embeddings, and fine-tuning. We also operate inference infrastructure at scale. There's a lot more on the immediate horizon.
+	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+	- We serve end-users directly through ChatGPT, and serve developers through our APIs, which power product features that were never before possible. 
+	- The Engineering Acceleration team designs, builds and maintains the foundational systems that engineers use to build ChatGPT and the API. This is a fast-growing team and you will get a chance to own and define the strategy, vision, and plan for how to accelerate engineering.
+	- Drive the design, development, and implementation of tools, systems, and processes that accelerate engineering velocity, reduce manual effort, and increase the quality of output.
+	- Use our latest AI tools to re-think how we can be the most productive team in the industry.
+	- Work closely with various teams within OpenAI to understand their workflows, challenges, and needs, and ensure the tools and systems built by the Engineering Acceleration team address these requirements.
+	- Bring new features and research capabilities to the world by partnering with product engineers to lay the necessary technical foundations.
+	- Guide and advise product engineering teams on best practices for ensuring observable, scalable systems.
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think.
+	- Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed.
+	- Have 5+ years of experience in engineering, including 3+ years of experience in infrastructure building tooling for developers.
+	- Have experience-driven empathy for the tools, frustrations, and processes that slow engineering teams down and lead to toil or burnout.
+	- Care deeply about diversity, equity, and inclusion, and have a track record of building inclusive teams.
+	- Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others.
+	- Are comfortable with ambiguity and rapidly changing conditions. You view changes as an opportunity to add structure and order when necessary.
+	- As technical context: at the heart of our infrastructure is a large-scale deployment of GPU nodes running in dozens of Kubernetes clusters across regions. Some core technologies we build with include Terraform, Buildkite, Postgres, Cosmos DB, Kafka, Python, and FastAPI.
+	- This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employee
+	- Annual Salary Range: $300,000—$450,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Safety
+	- The Applied AI team safely brings OpenAI's advanced technology to the world. We released the GPT-3 API, Codex (which powers GitHub Copilot), and DALL-E. More is coming very soon.
+	- We empower developers with APIs offering state-of-the-art AI capabilities, which power product features that were never before possible. We also build AI-driven consumer applications.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- At OpenAI, we're dedicated to advancing artificial intelligence, and we know that creating a secure and reliable platform is vital to our mission. That's why we're seeking a software engineer to help us build out our trust and safety capabilities.
+	- In this role, you'll work with our entire engineering team to design and implement systems that detect and prevent abuse, promote user safety, and reduce risk across our platform. You'll be at the forefront of our efforts to ensure that the immense potential of AI is harnessed in a responsible and sustainable manner.
+	- Architect, build, and maintain anti-abuse and content moderation infrastructure designed to protect us and end users from unwanted behavior.
+	- Work closely with our other engineers and researchers to utilize both industry standard and novel AI techniques to combat abuse and toxic content.
+	- Assist with response to active incidents on the platform and build new tooling and infrastructure that address the fundamental problems.
+	- Have at least 3 years of professional software engineering experience.
+	- Have experience setting up and maintaining production backend services and data pipelines.
+	- Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+	- Are self-directed and enjoy figuring out the best way to solve a particular problem
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Care about AI Safety in production environments and have the expertise to build software systems that defend against abuse.
+	- Build tools to accelerate your own workflows, but only when off-the-shelf solutions would not do.
+	- Our infrastructure is built on Terraform, Kubernetes, Azure, Python, Postgres, and Kafka. While we value experience with these technologies, we are primarily looking for engineers with strong technical skills and the ability to quickly pick up new tools and frameworks.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, ChatGPT Data Flywheel
+	- The ChatGPT team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses.
+	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+	- We're seeking a software engineer with an entrepreneurial spirit to take the lead in building our data pipelines for ChatGPT. These pipelines are crucial for powering analyses that guide business decisions and product growth. If you're passionate about working with data and are eager to create solutions with significant impact, we'd love to hear from you. This role also provides the opportunity to collaborate closely with the researchers behind ChatGPT and help them train new models to deliver to users. As we continue our rapid growth, we value data-driven insights, and your contributions will play a pivotal role in our trajectory. Join us in shaping the future of ChatGPT!
+	- Design, build and manage our data pipelines, ensuring all user event data is seamlessly integrated into our data warehouse.
+	- Develop canonical datasets to track key product metrics including user growth, engagement, and revenue.
+	- Work collaboratively with various teams, including, Infrastructure, Data Science, Product, Marketing, Finance, and Research to understand their data needs and provide solutions.
+	- Implement robust and fault-tolerant systems for data ingestion and processing.
+	- Participate in data architecture and engineering decisions, bringing your strong experience and knowledge to bear.
+	- Ensure the security, integrity, and compliance of data according to industry and company standards.
+	- Have 3+ years of experience as a data engineer and 8+ years of any software engineering experience(including data engineering).
+	- Proficiency in at least one programming language commonly used within Data Engineering, such as Python, Scala, or Java.
+	- Experience with distributed processing technologies and frameworks, such as Hadoop, Flink and distributed storage systems (e.g., HDFS, S3).
+	- Expertise with any of ETL schedulers such as Airflow, Dagster, Prefect or similar frameworks.
+	- Solid understanding of Spark and ability to write, debug and optimize Spark code.
+	- Annual Salary Range: $200,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Backend (DALL-E)
+	- The DALL-E team works across research, engineering, product, and design to bring OpenAI’s DALL-E 3 technology to consumers and businesses. We’re here to create the next generation of user interfaces for generative AI, both for creation and consumption.
+	- We are looking for a self-starter engineer who loves building new products in an iterative and fast-moving environment. In this role, you will be bringing our DALL-E 3 and future generative models to millions of users around the world. Our users include everyday enthusiasts, creators and professionals.
+	- As OpenAI scales, we’re looking for experienced, problem-solving engineers to build new products and scale our systems. Our success depends on our ability to quickly iterate on products while also ensuring that they are performant and reliable. You will also collaborate closely with the DALL-E research team and work with them on continual improvement and product exploration. You will be a key part of the effort to push these technologies forward, and onto the next 100x users.
+	- You’ll work in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind. 
+	- Design and build the development and production platforms that power products for DALL-E and beyond, enabling reliability and security at scale
+	- Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world
+	- Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems
+	- Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and fast-paced collaboration
+	- Have been a startup founder or an early-stage engineer
+	- Have meaningful experience with building (and refactoring) production systems to deliver new product capabilities and to handle increasing scale
+	- Care deeply about the end user experience and take pride in building products to solve customer needs
+	- Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+	- Build tools to accelerate your own (and your teammates’) workflows, but only when off-the-shelf solutions won’t do
+	- Annual Salary Range: $160,000—$385,000 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -11852,6 +12138,23 @@ Need to address:
 	- 3+ years experience working in AI/ML model deployment, verification, tuning and quantization.
 	- 3+ proven years of experience in developing high quality production software in C/C++/Python.
 	- Experience in AI frameworks: ***Tensorflow/Tensorflow-Lite/Pytorch/Tensor-RT/CUDA***, etc.
++ Systems Software Engineer, Frontiers
+	- The Multimodal Team focuses on building A.I. systems that leverage modalities outside of pure-text, including images, audio, and video. Recent accomplishments from the team include the integration of visual inputs into GPT-4, the development of the Whisper speech recognition system, and the creation of the foundational text-image contrastive model known as CLIP.
+	- We are initiating a new project within the team, focused on applying these models to interact with the world through a general interface, and to solve complex real-world problems. 
+	- As a Systems Software Engineer, you will be responsible for building and maintaining an infrastructure for environments where our A.I. models can interact safely and efficiently. You will closely collaborate with other team members to execute a common research agenda.
+	- Architect, build, and maintain an infrastructure for the environments that scale.
+	- Optimize the infrastructure for speed and efficiency (e.g. by fine-tuning resource allocation, networking, and storage).
+	- Collaborate closely with other researchers and engineers to integrate your work into our larger system and to support continually emerging research needs.
+	- Troubleshooting any issues that arise and making sure the infrastructure is stable and reliable.
+	- Have strong programming skills in Python, C/C++, or another relevant language
+	- Have experience in systems software engineering, with a focus on virtualization, containerization, and sandboxing
+	- Have a good understanding of computer systems and networks
+	- Have experience with tools such as Docker, Kubernetes, and VirtualBox
+	- Have experience in distributed systems
+	- Enjoy fast-paced, collaborative, and cutting-edge research environments
+	- Take ownership of problems from start to finish, and be proactive to acquire any necessary knowledge to accomplish tasks
+	- Have a collaborative mindset and a willingness to work as part of a team towards a common goal
+	- Annual Salary Range: $210,000—$325,000 USD
 + skill set:
 	- management of E2E (enterprise-to-enterprise) ML pipeline development and automation, to enable developers and creators alike to have the ability to go from an ML idea to production in weeks of less
 	- ML ecosystem tooling
@@ -12349,13 +12652,82 @@ Need to address:
 		* work with Linux and other open-source operating systems
 		* automate workflow for validation vi auatomted testing/verification and continuous integration (CI) scripts
 + skill set:
-	- BLAH.
+	- Software Engineer, Backend
+	- We bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API.
+	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+	- As OpenAI scales, we’re looking for experienced, problem-solving engineers to build new products and scale our systems. Our success depends on our ability to quickly iterate on products while also ensuring that they are performant and reliable.
+	- You’ll work in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind. 
+	- Design and build the development and production platforms that power ChatGPT, enabling reliability and security at scale
+	- Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world
+	- Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+	- Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed
+	- Have meaningful experience with building (and rebuilding) production systems to deliver new product capabilities and to handle increasing scale
+	- Care deeply about the end user experience and take pride in building products to solve customer needs
+	- Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+	- Build tools to accelerate your own (and your teammates’) workflows, but only when off-the-shelf solutions won’t do
+	- Have been a startup founder or an early-stage engineer
+	- Annual Salary Range: $160,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Model Inference
+	- Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- We're looking for an engineer to join our team at OpenAI to help us scale up our critical inference infrastructure, which efficiently services every customer request to use our state-of-the-art AI models, including GPT-4 and Dall-E. 
+	- Work alongside machine learning researchers, engineers, and product managers to bring our latest technologies into production.
+	- Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models.
+	- Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues.
+	- Optimize our code and fleet of Azure VMs to utilize every FLOP and every GB of GPU RAM of our hardware.
+	- Have an understanding of modern ML architectures and an intuition for how to optimize their performance, particularly for inference.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Have at least 3 years of professional software engineering experience.
+	- Are an expert in core HPC technologies: InfiniBand, MPI, CUDA.
+	- Understand how to overlap compute and communication to maximize utilization of scarce compute, memory, and bandwidth resources.
+	- Have experience architecting, observing, and debugging production distributed systems.
+	- Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+	- Have needed to rebuild or substantially refactor production systems several times over due to rapidly increasing scale.
+	- Are self-directed and enjoy figuring out the most important problem to work on.
+	- Have a good intuition for when off-the-shelf solutions will work, and build tools to accelerate your own workflow quickly if they won’t.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Infrastructure
+	- The Applied Engineering team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses.
+	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+	- The Applied Infrastructure team designs, builds, and operates the foundational infrastructure that powers ChatGPT and the API.
+	- Design and build the development and production platforms that power our products, enabling reliability and security at scale
+	- Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems
+	- Bring new features and research capabilities to the world by partnering with product engineers to lay the necessary technical foundations
+	- Guide and advise product engineering teams on best practices for ensuring observable, scalable systems
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+	- Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed.
+	- Have 8+ years of experience in engineering, including 4+ years of experience in infrastructure
+	- Care deeply about helping to build a diverse, equitable, inclusive culture
+	- Take pride in building and operating scalable, reliable, secure systems
+	- Are comfortable with ambiguity and rapid change
+	- Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others
+	- Some of the technologies you’ll be working with include Kubernetes, Python, FastAPI, Cosmos DB, Postgres, and Terraform.
+	- Annual Salary Range: $160,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Infrastructure
+	- We believe that increasing compute is a huge lever to AI progress.
+	- The Supercomputing team owns the entire process of building OpenAI’s compute and infrastructure, which includes 1) the sourcing of hardware and system design, 2) the deployment of huge clusters using Kubernetes and Azure, 3) building the internal experiment platform for running/training the world’s largest AI models.
+	- We work at the very cutting edge of speed and scale, combining the traditions of High-Performance Computing (HPC) in a modern cloud and containerized environment.
+	- We build some of the largest Supercomputers in the world. When our Owl cluster launched it in 2019 it would've been among the top 5 of the TOP500 supercomputers in the world. Since then we've only continued to grow. See this blog post to get a sense of what kind of challenges we solve in our day-to-day work: Scaling Kubernetes to 7,500 Nodes
+	- You won’t encounter any other organization in the world with as much compute per employee. We are a small team that moves quickly, with access to huge resources, working with a direct impact on the success of OpenAI and, by extension, the field of AI as a whole.
+	- In this role, you will work with a small team of software engineers to build primarily the infrastructure and compute platform that all of the researchers at OpenAI use for their work.  You do not need to be an ML/DL expert to deliver world-class infrastructure, but you do need to be able to quickly obtain a deep technical understanding of new domains.  You should enjoy being self-directed and identifying the most important problems to solve as the team matures with standardized tools and processes around stability, observability, and scaling.
+	- As a Software Engineer focused on infrastructure with the Supercomputing team, you should:
+		* Know your way around bash, Terraform, Python, and/or Chef  
+		* Have experience designing large, highly available distributed systems with Kubernetes or Mesos clusters in the range of 500+ nodes. Even better is experience with GPU workloads on those clusters.
+		* Have experience working with Azure or other cloud platforms such as AWS or GCP
+		* Have expertise debugging problems across the stack, such as networking issues, performance problems, hardware issues or memory leaks
+	- Want to help build and maintain some of the world’s largest modern, cloud-based supercomputing systems
+	- Would enjoy working with world-class AI Research as your primary workload
+	- Have built large clusters but have motivation to scale beyond 
+	- Love building large distributed, highly available systems without having to manage complex databases 
+	- Enjoy owning things end-to-end and coming up with solutions to yet unsolved problems
+	- Enjoy the cycle of designing and building the next generation supercomputing cluster year after year
+	- We estimate that someone with 3-5+ years of experience as a software engineer working on a team building and monitoring a large-scale infrastructure deployment will quickly contribute to our challenges.  Any experience with high-performance computing or open-source contributions is a bonus.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -13033,6 +13405,138 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Experience with computer vision
 	- Founded in Copenhagen with several offices worldwide, 2021.AI is a fast-growing AI company focused on closing the gap between AI ambitions and real AI value for companies worldwide. Large private and public organizations globally trust us to help them stay competitive, compliant, and in control when applying AI.
 	- We are a team of passionate people who care deeply about the mission we are on; to positively impact the future with AI. Our tight-knit culture of camaraderie instills more than just a sense of belonging but great pride in our work. With high cultural ambitions, we expect you to bring lots of energy to the workplace and participate in company-related and social activities. In return, we promise great professional experiences and the freedom to tackle and own your tasks.
++ Data Scientist, Product
+	- Earlier in 2022, we introduced DALL-E 2, AI that creates images from text. In 2021 we launched Copilot, powered by Codex, in partnership with GitHub – and developers love it. In 2020 we introduced GPT-3 which the MIT Technology Review listed as one of its 10 Breakthrough Technologies of the year (alongside mRNA vaccines).Our product team is bringing OpenAI technologies to consumers and businesses around the world. We recently launched ChatGPT and ChatGPT Enterprise.
+	- As an early member of our Data Scientist team on the Applied Product team, you will establish the data-driven product development culture for either consumer products or developer platform at OpenAI. You should expect to define our north-star metrics, design our first A/B tests, and establish source-of-truth dashboards that the entire company can use to answer their own product questions. Most importantly, you should expect to be a core member of the product development team building our first party offerings.This role is based in our San Francisco HQ. We offer relocation assistance to new employees.
+	- Embed with the product development team as a trusted partner, uncovering new ways to improve the product and drive growth
+	- Define and interpret A/B tests that help answer critical questions about the impact of model and UX changes to our product
+	- Establish a data-driven product development culture by driving the definition, tracking, and operationalizing of feature-, product-, and company-level metrics
+	- Develop and socialize dashboards, reports, and other ways of enabling the team and company to answer product data questions in a self-serve way
+	- 5+ years experience in a quantitative role navigating highly ambiguous environments, ideally as a founding data scientist or product analyst at a hyper-growth product company or research org
+	- Proposed, designed, and run rigorous experiments with clear insights and product recommendations utilizing SQL and Python
+	- Defined, implemented, and operationalized new feature and product-level metrics from scratch
+	- Excellent communication skills with demonstrated ability to communicate with product managers, engineers, and executives alike
+	- Strategic insights beyond the paradigm of statistical significance testing
+	- Demonstrated prior experience in NLP, large language models, or generative AI
+	- Strong programming background, with ability to run simulations and prototype variants
+	- Experience validating quantitative insights with qualitative methods (e.g. surveys, UXR)
++ Research Engineer - Data Specialization
+	- San Francisco, California, United States — Reinforcement Learning
+	- Our team is responsible for the “post-training” or alignment of chatGPT. We integrate various improvements from the rest of the company into our RLHF process ultimately producing the models used by millions of users both in the chatGPT product and API.
+	- One of the most important parts of training chatGPT is building and training on extremely high quality datasets. We are looking for somebody to help us build infrastructure to manage this data! In contrast to most data engineering, dataset size is not the key factor here – instead we aim to bring more insight and continually increase the quality of our training data.
+	- Ideal candidates should have a strong technical background and general knowledge. Given how coupled our data systems are with the underlying models, candidates should have some familiarity with ML / ML Engineering either in a research context, or in an applied ML setting.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Build systems and tools for researchers to look at and transform datasets.
+	- Co-design and build experimental primitives used to construct data pipelines to train prototype chatGPT models.
+	- Work with the chatGPT product team building distributed pipelines to look at and understand large scale usage data.
+	- Help with other, more out there research ideas involving data pipelines.
+	- Help own the entire training distribution we train ChatGPT on.
+	- Are a team player – willing to do a variety of tasks that move the team forward.
+	- Experience working in complex technical environments
+	- Enjoy working in a more research setting – these data systems are new and the right solution is often not clear ahead of time.
+	- Experience with the python
+	- Experience with kubernetes / distributed infrastructure
+	- ***Experience with 1 or more large scale data system such as beam or spark.***
+	- The annual salary range for this role is $210,000 – $325,000.
++ Research Engineer - Fine-Tuning API
+	- San Francisco, California, United States — Applied AI Engineering
+	- Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- We are looking for an experienced research engineer to help push the boundaries of our Fine-Tuning API to the next level. You will be responsible for researching and implementing the methods used by developers to customize their models on our API. You will work closely with our research team to explore new and unproven fine tuning methods. You will also collaborate with our engineering team to take those methods and put them into production. Your work will help power the customization of GPT models for developers around the world.
+	- Research and explore the boundaries of foundation model fine-tuning methods for end-customer use cases.
+	- Deploy your research into production for customers to use.
+	- Interact with developers to understand their needs.
+	- Collaborate closely with a broad set of stakeholders, including product, research, go-to-market, and engineering.
+	- Have prior experience fine-tuning LLMs
+	- Have experience working with large distributed systems for both model training and inference.
+	- Have built production machine learning systems at internet scale.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+	- Annual Salary Range: $245,000—$450,000 USD
++ Research Engineer, Post Training Infra
+	- San Francisco, California, United States — Reinforcement Learning
+	- Our team is responsible for the “post-training” or alignment of chatGPT. We integrate various improvements from the rest of the company into our RLHF process ultimately producing the models used by millions of users both in the chatGPT product and API.
+	- We are looking for an engineer to help improve the efficiency and reliability of our AI model training systems. You will have the opportunity to work across the technology stack, from optimizing low-level components like GPU kernels and network traffic, to developing intuitive front end interfaces.
+	- The ideal candidate will have a strong technical background across areas like data technologies, distributed systems, and writing reliable software. Research experience is not required but experience in some kind of ML environment is (i.e. applied ML roles). This role involves analyzing and troubleshooting complex system issues, implementing solutions, and finding ways to prevent future failures.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Be responsible for unblocking and keeping our systems which power the models behind chatGPT running smoothly.
+	- Be willing to dive into large ML codebases to debug.
+	- Be responsible for keeping very large ML training jobs going smoothly.
+	- Fixing a variety of non-ml software things involving data quality, data prep, job startup speed, CI performance for our team’s tests, and so on.
+	- Debug and fix issues on the intersection of ML and systems.
+	- Sample projects include:
+		* Figuring out why a new cluster suddenly has 10% of experiments fail.
+		* Diagnosing and fixing regressions in our data pipelines.
+		* Fixing 30% slowdown in our RLHF training code.
+	- Are a team player – willing to do a variety of tasks that move the team forward.
+	- Experience working in complex technical environments
+	- Experience debugging ML systems.
+	- Experience with reinforcement learning and or transformers
+	- Experience with the python
+	- Experience with kubernetes / distributed infrastructure
+	- Experience with GPU’s
+	- Experience with 1 or more large scale data system such as beam or spark.
+	- The annual salary range for this role is $210,000 – $325,000. 
+	- Annual Salary Range: $310,000—$385,000 USD (additional salary range with contradictory information)
++ Research Engineer, Superalignment
+	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
+	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
+		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
+		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
+		* Automated interpretability: Can we use AI to explain how LLMs work internally?
+		* Robustness: How can we train our models to be aligned in worst-case situations?
+		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
+	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
+	- We are seeking Research Engineers to help design and implement experiments for alignment research.
+	- Writing performant and clean code for ML training.
+	- Independently running and analyzing ML experiments to diagnose problems and understand which changes are real improvements.
+	- Writing clean non-ML code, for example when building interfaces to let workers interact with our models or pipelines for managing human data.
+	- Collaborating closely with a small team to balance the need for flexibility and iteration speed in research with the need for stability and reliability in a complex long-lived project.
+	- Understanding our high-level research roadmap to help plan and prioritize future experiments.
+	- Implement experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
+	- Studying generalization to see when AI systems trained on easy problem can solve hard problems
+	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
+	- Investigating situations when training against a reward signal causes model outputs to deteriorate
+	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
+	- Designing novel approaches for using LLMs in alignment research
+	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+	- Want to use your engineering skills to push the frontiers of what state-of-the-art language models can accomplish
+	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
+	- Enjoy fast-paced, collaborative, and cutting-edge research environments
+	- Have experience implementing ML algorithms (e.g., PyTorch)
+	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
+	- Want to ensure that powerful AI systems stay under human control
++ Research Scientist, Superalignment
+	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
+	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
+		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
+		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
+		* Automated interpretability: Can we use AI to explain how LLMs work internally?
+		* Robustness: How can we train our models to be aligned in worst-case situations?
+		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
+	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
+	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the Superalignment team, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
+	- We are seeking Research Scientists to help design and implement experiments for alignment research.
+	- Designing experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
+	- Studying generalization to see when AI systems trained on easy problems can solve hard problems
+	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
+	- Developing experiments to test how well chain of thought reasoning reflects model cognition
+	- Investigating situations when training against a reward signal causes model outputs to deteriorate
+	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
+	- Designing novel approaches for using LLMs in alignment research
+	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter.
+	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
+	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
+	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
+	- Enjoy fast-paced, collaborative, and cutting-edge research environments
+	- Have experience implementing ML algorithms (e.g., PyTorch)
+	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
+	- Want to ensure that powerful AI systems stay under human control
+
+
+
+
+
 + skill set:
 	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing's ability to engage with new audiences in new ways.
 	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
@@ -14953,6 +15457,19 @@ They support databases for:
 + Experience working with Big Data, Data Pipelines, Caching and Technologies such as ElasticSearch and Redis
 + Very strong experience in scaling and optimizing schemas, performance tuning SQL and ETL pipelines in the OLTP, OLAP and Data Warehouse environments
 + Passionate about various technologies including but not limited to SQL/No SQL/MPP databases etc.
++ skill set:
+	- Data Engineer, Applied Engineering
+	- Design, build and manage our data pipelines, ensuring all user event data is seamlessly integrated into our data warehouse.
+	- Develop canonical datasets to track key product metrics including user growth, engagement, and revenue.
+	- Work collaboratively with various teams, including, Infrastructure, Data Science, Product, Marketing, Finance, and Research to understand their data needs and provide solutions.
+	- Implement robust and fault-tolerant systems for data ingestion and processing.
+	- Participate in data architecture and engineering decisions, bringing your strong experience and knowledge to bear.
+	- Ensure the security, integrity, and compliance of data according to industry and company standards.
+	- Have 3+ years of experience as a data engineer and 8+ years of any software engineering experience(including data engineering).
+	- Proficiency in at least one programming language commonly used within Data Engineering, such as Python, Scala, or Java.
+	- Experience with distributed processing technologies and frameworks, such as Hadoop, Flink and distributed storage systems (e.g., HDFS, S3).
+	- Expertise with any of ETL schedulers such as Airflow, Dagster, Prefect or similar frameworks.
+	- Solid understanding of Spark and ability to write, debug and optimize Spark code. 
 + Hands-on experience with Big Data technologies (e.g Hadoop, Hive, Spark)
 + Have a thirst for technical challenges with big data and distributed systems, including HBase, Kafka, Elasticsearch and Dropwizard
 + data plane development kit, DPDK, from the Linux Foundation for computer networking and interactions with the Linux operating system kernel
@@ -16115,6 +16632,7 @@ Skill sets for DataOps:
 + Integrate our data pipeline with available Augmented Analytics models, tools, and applications.
 + Leverage and advance our query processing engine to build a data pipeline that enables the development of features and integration with available Augmented Analytics models, tools, and applications.
 + Preferred (but not essential) experience any Big Data technologies such as languages like R, Hadoop, Machine Learning and Data Lakes
++ Some of the technologies you’ll be working with include Apache Spark, Python, Terraform, Kafka, Azure EventHub, Vector DBs.
 + skill set:
 	- Scala, Flask, Big Data or cloud technologies
 	- hands-on technologists who are strong in software engineering fundamentals, Big Data, and DevOps
@@ -16181,6 +16699,25 @@ Skill sets for DataOps:
 	- Hands-on experience with Big Data ecosystem - Yarn, Hive, HDFS, Spark, Presto, Parquet, HBase
 	- Experience working with and building real-time compute and streaming infrastructure - Kafka, Kinesis, Flink, Storm, Beam
 	- Experience with workflow management (Airflow, Oozie)
++ Senior Software Engineer, Data Acquisition
+	- The Data Acquisition team within the Pre-training organization at OpenAI is responsible for all aspects of data collection to support our model training operations. Our team manages web crawling and GPTBot services and works closely with Data Processing, Architecture, and Scaling teams. We are looking for a skilled Senior Software Engineer to join our Data Acquisition team.
+	- Own and lead engineering projects in the area of data acquisition including web crawling, data ingestion, and search.
+	- Collaborate with other sub-teams, such as Data Processing, Architecture, and Scaling, to ensure smooth data flow and system operability.
+	- Work closely with the legal team to handle any compliance or data privacy-related matters.
+	- Develop and deploy highly scalable distributed systems capable of handling petabytes of data.
+	- Architect and implement algorithms for data indexing and search capabilities.
+	- Build and maintain backend services for data storage, including work with key-value databases and synchronization.
+	- Deploy solutions in a Kubernetes Infrastructure-as-Code environment and perform routine system checks.
+	- Conduct and analyze experiments on data to provide insights into system performance.
+	- BS/MS/PhD in Computer Science or a related field.
+	- 5+ years of industry experience in software development.
+	- Experience with large web crawlers a plus
+	- Strong expertise in large stateful distributed systems and data processing.
+	- Proficiency in Kubernetes, and Infrastructure-as-Code concepts.
+	- Willingness and enthusiasm for trying new approaches and technologies.
+	- Ability to handle multiple tasks and adapt to changing priorities.
+	- Strong communication skills, both written and verbal.
+	- Annual Salary Range: $310,000—$385,000 USD
 + skill set:
 	- Data technology: Relational databases (like PostgreSQL, MySQL), Key Value stores (like Redis)
 	- Container technology like Docker, and familiarity with Swarm/Kubernetes/Mesos

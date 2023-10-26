@@ -108,6 +108,41 @@ Skill set for DevOps:
 	- UML
 + Buildroot
 	- Buildroot is a set of Makefiles and patches that simplifies and automates the process of building a complete and bootable Linux environment for an embedded system, while using cross-compilation to allow building for multiple target platforms on a single Linux-based development system. Buildroot can automatically build the required cross-compilation toolchain, create a root file system, compile a Linux kernel image, and generate a boot loader for the targeted embedded system, or it can perform any independent combination of these steps.
++ Software Engineer, Developer Experience
+	- San Francisco, California, United States — Research Acceleration
+	- The Research Acceleration team builds high-quality research tools and frameworks to increase research productivity across OpenAI, with the goal of accelerating progress towards AGI. We frequently collaborate with other teams to speed up the development of new state-of-the-art capabilities.
+	- As we scale up with more researchers and engineers joining OpenAI, we seek a pragmatic and passionate engineer with a strong focus on the researcher experience.
+	- In this role, you will be responsible for building and maintaining systems that allow our research + engineering organization to iteratively develop, test, and deploy new features reliably, with high velocity, and with a frictionless and fast development cycle.
+	- You will be tasked with profiling and optimizing continuous integration pipelines, building better testing infrastructure, and serving as the go-to expert for any build or test-related inquiries. Our current environment relies heavily on Python, Rust, and C++, which you will take ownership of and strive to transform into a state of the art development experience for research.
+	- Ultimately, your role will be to provide the necessary tools and metrics to support our fast-paced culture and ensure a stable, scalable platform for growth, while also fostering a seamless and low friction experience for OpenAI’s research.
+	- This role is based in our San Francisco HQ. We offer relocation assistance to new employees.
+	- Are a proficient Python programmer, with experience using Rust in production
+	- Have worked with and on build systems
+	- Are proficient with Kubernetes
+	- Annual Salary Range: $245,000—$370,000 USD
++ skill set:
+	- You should be experienced working with streaming platforms such as Azure EventHub, Apache Kafka, Apache Flink or Amazon Kinesis. You’re comfortable with infrastructure tooling such as Terraform, worked with Kubernetes, and have the skillsets of a SRE. 
+	- Maintain the health and operability of critical data infrastructure systems such as Kafka, Azure EventHub while ensuring scalability, reliability, and security 
+	- Ensure our data platform can scale reliably to the next several orders of magnitude
+	- Accelerate company productivity by empowering your fellow engineers & teammates with excellent data tooling and systems, providing a best in case experience
+	- Bring new features and capabilities to the world by partnering with product engineers, trust & safety and other teams to build the technical foundations
+	- Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed
+	- Have 4+ years in stream infrastructure engineering maintaining Kafka, Azure EventHub, AWS Kinesis OR
+	- Have 4+ years in infrastructure engineering with a strong interest in streaming systems
+	- Take pride in building and operating scalable, reliable, secure systems
+	- Are comfortable with ambiguity and rapid change
+	- Have a voracious and intrinsic desire to learn and fill in missing skills—and an equally strong talent for sharing learnings clearly and concisely with others
+	- Annual Salary Range: $200,000—$385,000 USD
++ Software Engineer, Developer Productivity
+	- The Platform Runtime team builds core components to enable productive research from small to state of the art scale across OpenAI, with the goal of accelerating progress towards AGI. We frequently collaborate with other teams to speed up the development of new state-of-the-art capabilities.
+	- As we scale up with more researchers and engineers joining OpenAI, we seek a pragmatic and passionate engineer with a strong focus on the development experience for both engineers and scientists.
+	- In this role, you will be responsible for building and maintaining systems that allow our research + engineering organization to iteratively develop, test, and deploy new features reliably, with high velocity, and with a frictionless and fast development cycle.
+	- You will help oversee and drive to the vision of how we should build, test and deploy software. You will drive the design of our continuous integration pipelines, testing infrastructure, training and support around our build system. Our current environment relies heavily on Python, Rust, and C++, which you will take ownership of and strive to transform into a state of the art development experience for research.
+	- Ultimately, your role will be to provide the necessary tools and metrics to support our fast-paced culture and ensure a stable, scalable platform for growth, while also fostering a seamless and low friction experience for OpenAI’s research.
+	- Have supported large monorepo deployments before
+	- Are a proficient Python programmer, with experience using Rust in production
+	- Are proficient with Kubernetes
+	- Annual Salary Range: $245,000—$385,000 USD
 + skill set:
 	- Experience with system level monitoring tools such as Nagios or Zabbix and application performance monitoring tools such as NewRelic, AppDynamics or Dynatrace.
 	- Understand configuration management tools such as Puppet, Chef or Ansible.
@@ -2098,7 +2133,37 @@ Skill sets for Site Reliability Engineering, SRE:
 		* Experience with Terraform
 		* Hands-on experience with network security, databases systems
 + skill set:
-	- BLAH.
+	- Reliability Engineer
+	- Join the engineering teams that bring OpenAI’s ideas safely to the world!!
+	- The Applied Engineering team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses. We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+	- As OpenAI continues to grow, we are looking for experienced, problem-solving engineers to ensure our systems scale. Our success depends on our ability to quickly iterate on products while also ensuring that they are performant and reliable. You will work in a deeply iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind. Successful candidates will play a crucial role in ensuring the reliability, scalability, and performance of our systems as we continue to expand. As a Reliability Engineer, you will be at the forefront of maintaining and enhancing the stability, scalability, and performance of our rapidly evolving infrastructure. You will work closely with cross-functional teams, including software engineers, product managers, and data scientists, to build and maintain resilient systems that can handle our growing user base and workload.
+	- Design and implement solutions to ensure the scalability of our infrastructure to meet rapidly increasing demands.
+	- Collaborate with development teams to make the systems they design and operate more reliable.
+	- Implement and manage monitoring systems to proactively identify issues and anomalies in our production environment.
+	- Develop and maintain service level objectives (SLOs) and service level indicators (SLIs) to measure and ensure system reliability.
+	- Implement fault-tolerant and resilient design patterns to minimize service disruptions.
+	- Build and maintain automation tools to streamline repetitive tasks and improve system reliability.
+	- Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world.
+	- Participate in an on-call rotation to respond to critical incidents and ensure 24/7 system availability.
+	- Enjoy seeking out and addressing bottlenecks and areas for performance improvement in our systems.
+	- Utilize Infrastructure as Code (IaC) principles to automate infrastructure provisioning and configuration management.
+	- Are experienced in collaborating with cross-functional teams to ensure that reliability and scalability are considered in the design and development of new features and services.
+	- Have a track record of accelerating engineering reliability by empowering your fellow engineers with excellent tooling and systems.
+	- Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think.
+	- Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
+	- Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent work experience).
+	- Proven experience as an reliability engineer or a similar role in a fast-paced, rapidly scaling company.
+	- Strong proficiency in cloud infrastructure.
+	- Proficiency in programming/scripting languages.
+	- Experience with containerization technologies and container orchestration platforms like Kubernetes.
+	- Knowledge of IaC tools such as Terraform or CloudFormation.
+	- Excellent problem-solving and troubleshooting skills.
+	- Strong communication and collaboration skills.
+	- Experience with observability tools such as DataDog, Prometheus, Grafana, Splunk and ELK stack.
+	- Experience with microservices architecture and service mesh technologies.
+	- Knowledge of security best practices in cloud environments.
+	- Annual Salary Range: $245,000—$385,000 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -2447,6 +2512,21 @@ KPIs for ITOps are based on:
 	- Significant experience working with data center hardware and writing software to make that easier, faster, and less manual effort
 	- Familiarity with best practices for hardware acceptance testing
 + Experience with streaming data frameworks like spark streaming, kafka streaming, Flink and similar tools a plus.
++ Software Engineer, Hardware Health
+	- San Francisco, California, United States — Scaling
+	- OpenAI’s Hardware Health team oversees all hardware health related aspects of our custom-built hyperscale supercomputers. The team is responsible for maximizing the available supercomputing capacity for research and ensuring that our researchers are minimally impacted by hardware faults.
+	- The hardware health team is being incubated inside OpenAI’s Scaling team, which operates at the far edge of all available innovations in AI — doing the engineering and research required to train large-scale AI models of unprecedented capability.
+	- As a SWE in Hardware Health, you will work to maintain a sophisticated and comprehensive suite of hardware health tests and collaborate with researchers and our Supercomputing team on root-causing and reliably reproducing newly discovered problems.
+	- The team moves at a fast pace and provides individuals with a high degree of autonomy and a strong ability to affect change.
+	- A balance of building and operational skills
+	- Excellent abilities developing in python and shell scripting
+	- A high degree of comfort digging into noisy data with SQL, PromQL, and Pandas
+	- Experience developing reproducible analyses / building dashboards and visualizations
+	- A high level of detail orientation and a good intuition for when results are “too good/bad to be true”
+	- A strong sense of ownership causing them to very carefully monitor outcome of deployed updates
+	- Prior TL experience as this is a 0-1 effort with team growth on the horizon
+	- Bonus Points if you have expertise and interest in low level details of hardware components, protocols, and associated Linux tooling (PCIe, networking, power management, kernel perf tuning).
+	- Annual Salary Range: $200,000—$370,000 USD
 
 
 

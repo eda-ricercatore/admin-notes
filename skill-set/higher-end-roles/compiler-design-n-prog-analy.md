@@ -464,6 +464,31 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- Experience in MLIR or similar multi-level optimizing compilers.
 	- Experience with open source contributions. 
 	- Experience with hardware specific optimizations such as SIMD, parallel architectures or other specialized accelerators.
++ Software Engineer, Triton Compiler
+	- San Francisco, California, United States — Research Acceleration
+	- Our mission at OpenAI is to discover and enact the path to safe, beneficial AGI. To do this, we believe that many technical breakthroughs are needed in generative modeling, reinforcement learning, large scale optimization, active learning, among other topics.
+	- As a Software Engineer, you will help build AI systems that can perform previously impossible tasks or achieve outstanding levels of performance. This requires good engineering (for example designing, implementing, and optimizing state-of-the-art AI models), writing bug-free machine learning code (surprisingly difficult!), and building the science behind the algorithms employed. In all the projects this role pursues, the ultimate goal is to push the field forward.
+	- The Research Acceleration team builds high-quality research tools and frameworks to increase research productivity across OpenAI, with the goal of accelerating progress towards AGI. For example, we develop Triton, a language and compiler for writing custom GPU kernels. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA. 
+	- We frequently collaborate with other teams to speed up the development of new state-of-the-art capabilities. For example, we recently collaborated with our Codegen research team on the Codex model, which can generate code in Python and many other languages.
+	- Do you love research tools, compilers, and collaborating on cutting-edge AI models? If so, this role is for you! We are looking for people who are self-directed and enjoy determining the most meaningful problem to solve in order to accelerate our research.
+	- 3+ years of relevant engineering experience
+	- Owning problems end-to-end, with a willingness to pick up whatever knowledge is missing to get the job done
+	- Bonus: contributions to an AI framework such as PyTorch or Tensorflow, or compilers such as GCC, LLVM, or MLIR
+	- Annual Salary Range: $200,000—$370,000 USD
++ Graph Compiler Engineer
+	- The Platform ML team builds the ML side of our state-of-the-art internal training framework used to train our cutting-edge models.  We work on distributed model execution as well as the interfaces and implementation for model code, training, and inference.  Our priorities are to maximize training throughput (how quickly we can train a new model) and researcher throughput (how quickly we can develop new models) with the goal of accelerating progress towards AGI.  We frequently collaborate with other teams to speed up the development of new capabilities.
+	- As a Graph Compiler Engineer you will work on the capture and optimization of model graphs for our training runs.  Seamless graph capture is important for keeping researcher throughput high, while graph-level optimizations will allow us to get state-of-the-art training throughput on current and future accelerators.
+	- We’re looking for engineers who are excited to work on our training framework and with researchers at the cutting edge of ML research.  Given the scale of our training, small improvements to hardware utilization for our largest runs can produce large cost savings.  Enabling researchers to iterate quickly on their ideas will produce large improvements in model capabilities and compute efficiency.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Work on our internal training framework to enable easy graph capture of our research experiments
+	- Apply advanced optimizations to the graph to maximally utilize hardware resources
+	- Have strong software engineering skills and are proficient in Python
+	- Have experience running machine learning experiments
+	- Have experience working on a machine learning compiler
+	- Have deep knowledge of GPU performance and systems-level optimization
+	- Annual Salary Range: $245,000—$385,000 USD
+	- OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+	- At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
 + skill set:
 	- We are looking for an experienced MLIR compiler engineer, passionate about optimization, compiler technology and parallel compute. The candidate should demonstrate a track record in developing compiler technology in MLIR, LLVM or similar frameworks to achieve optimizations of algorithms in domains such as AI, deep learning, and high performance computing.
 	- Developing MLIR and LLVM based compiler technology for the SiFive Intelligence platforms.

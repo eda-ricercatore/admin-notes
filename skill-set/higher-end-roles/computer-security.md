@@ -599,13 +599,76 @@ Roles in computing security:
 + Experience with information security tools such as an enterprise SIEM solution (Splunk preferred), IDS/IPS, endpoint security, EDR and security monitoring solutions (NSM,DLP,Insider, etc).
 + Authentication: CAS (Java)
 + skill set:
-	- BLAH.
+	- Software Engineer, Anti Fraud & Abuse
+	- The Applied team safely brings OpenAI's technology to the world. We released ChatGPT; Plugins; DALL·E; and the APIs for GPT-4, GPT-3, embeddings, and fine-tuning. We also operate inference infrastructure at scale. There's a lot more on the immediate horizon.
+	- Our customers build fast-growing businesses around our APIs, which power product features that were never before possible. ChatGPT is a prime example of what is currently possible. We simultaneously ensure that our powerful tools are used responsibly. Safe deployment is more important to us than unfettered growth.
+	- The Fraud Engineering team works within our Applied Engineering organization identifying and responding to fraudsters on our platform. We are looking for a software engineer with anti fraud & abuse experience to help architect and build our next-generation anti-fraud systems.
+	- Design and build systems for fraud detection and remediation while balancing fraud loss, cost of implementation, and customer experience
+	- Work closely with finance, security, product, research, and trust & safety operations to holistically combat fraudulent and abusive actors on our system
+	- Stay abreast of the latest techniques and tools to stay several steps ahead of determined and well resourced adversaries
+	- Utilize GPT-4 and future models to more effectively combat fraud and abuse
+	- Have at least 5 years of software engineering experience in backend and data systems.
+	- Have at least 2 years experience in fraud or abuse analysis, investigation, and/or operations
+	- Can dive into our codebase, intuit how it works, and be able to have a strong intuition for suggestions that will lead us to a stronger engineering position.
+	- A voracious and intrinsic desire to learn and fill in missing skills. An equally strong talent for sharing that information clearly and concisely with others
+	- Are comfortable with ambiguity and rapidly changing conditions. You view changes as an opportunity to add structure and order when necessary
+	- Experience in Machine Learning techniques is a plus, but not required
+	- Our infrastructure is built on Terraform, Kubernetes, Azure, Python, Postgres, and Kafka. While we value experience with these technologies, we are primarily looking for engineers with strong technical skills and the ability to quickly pick up new tools and frameworks.
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Detection Engineering
+	- Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.  
+	- The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture.  
+	- As a Software Engineer you will join our OpenAI engineers and researchers in building, operating and securing transformational AI technologies. This role will be a transformational role on the Security Defense and Intelligence, working closely to support the Security Engineers on the team.
+	- Drive projects in all major security verticals including: AppSec, InfraSec, OffSec and Detection and Response
+	- Innovate to solve novel security problems 
+	- Collaborate on cutting-edge AI research, and use AI to improve OpenAI’s Security posture 
+	- Innovating on Detection and Response infrastructure 
+		* Build tools for managing the lifecycle of detection rules
+		* Develop, measure, and tune detection rules to ensure effective and sustainable operations.
+		* Automate manual response processes 
+	- Ensuring visibility and control of OpenAI’s endpoint fleet (macOS, Windows)
+	- Driving improvements across identity access and management (IAM), device management, productivity software, and our use of public cloud environments (e.g. AWS, Microsoft Azure).
+	- Building and maintaining robust, reliable, secure and scalable data pipelines
+	- Working knowledge of operating systems primitives (Linux, macOS) 
+	- Querying and enriching data using Spark 
+	- Performance monitoring and autoscaling of cloud resources 
+	- Programming in Golang, Python and/or Scala 
+	- Working within Cloud Infrastructure and experience with either of Azure, AWS or GCP
+	- Creating a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think
+	- Experience using LLMs
+	- Experience with Databricks
+	- Built infrastructure using Terraform
+	- Experience with Kubernetes
+	- Annual Salary Range: $245,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer, Privacy
+	- The Privacy Team at OpenAI is dedicated to implementing robust security measures and promoting the ethical use of AI technology. Our work encompasses ChatGPT, the API, DALL-E, and other groundbreaking tools we are preparing to launch. We provide developers with APIs that offer top-tier AI capabilities, enabling them to create features that were previously inconceivable. In addition to this, we develop consumer applications driven by AI.
+	- In line with OpenAI's mission to introduce Artificial General Intelligence (AGI) that offers broad benefits, we prioritize safety, privacy, and ethical considerations, fostering responsible growth.
+	- Design, build, and implement back-end systems that power privacy and security functions within our API products and consumer applications.
+	- Conduct threat modeling, privacy design reviews, and code-level assessments to ensure the highest privacy and security standards.
+	- Collaborate with product managers, and other engineering teams to develop new products that leverage emerging research while maintaining privacy and security integrity.
+	- Work closely with the legal team to document and evaluate internal compliance practices, ensuring alignment with legal requirements and organizational standards, and conduct thorough internal audits to maintain the highest levels of compliance and integrity.
+	- Coordinate and actively participate in privacy incident response efforts.
+	- Have substantial experience in building (and re-engineering) production systems to meet legal requirements, manage increased scale, and uphold privacy and security standards.
+	- Have led or been a significant contributor to security projects, demonstrating a cross-functional collaboration skill set.
+	- Deeply care about user experience and take pride in developing products that meet customer needs whilst drawing on experience in threat modeling, secure design, and regulatory compliance.
+	- Possess a humble attitude, strong communication skills, and an eagerness to support your colleagues, reflecting a readiness to do whatever is necessary for team success.
+	- Take responsibility for problems from beginning to end, demonstrating problem-solving abilities and preparedness to acquire any missing knowledge necessary to get the job done.
+	- Have previously worked in a leadership role, such as a startup founder or early-stage engineer with a focus on privacy and security, or have managed and grown a global security team.
 + skill set:
-	- BLAH.
+	- Software Engineer, Privacy
+	- The Privacy Team at OpenAI is committed to ensuring the secure and ethical utilization of AI technology. Our work encompasses ChatGPT, the API, DALL-E, and other innovative tools we're poised to launch. We provide developers with APIs that offer top-tier AI capabilities, enabling them to create features that were previously inconceivable. In addition to this, we develop consumer applications driven by AI. Across all our product ranges, we prioritize the responsible use of these powerful tools. This approach is essential to OpenAI's mission to safely introduce Artificial General Intelligence (AGI) that offers broad benefits. We prioritize safety and ethical considerations over unrestricted expansion.
+	- Design, build, and implement the back-end systems and services that power privacy functions within our API products and consumer applications
+	- Work closely with product managers, researchers, and the rest of our engineering team to develop new products that leverage emerging research capabilities and meet unaddressed customer requirements, all while maintaining stringent privacy standards
+	- Continuously iterate to enhance user and developer experiences, while also boosting scalability, performance, observability, and security
+	- Have substantial experience in building (and re-engineering) production systems to meet legal requirements, manage increased scale, and uphold privacy and security standards
+	- Deeply care about user experience and take pride in developing products that meet customer needs while ensuring privacy
+	- Possess a humble attitude and an eagerness to support your colleagues, demonstrating a readiness to do what's necessary for team success
+	- Take responsibility for problems from beginning to end, and are prepared to acquire any missing knowledge necessary to get the job done
+	- Create tools to speed up your own and your colleagues’ workflows, particularly when pre-existing solutions are inadequate
+	- Have previously been a startup founder or worked as an early-stage engineer with a focus on privacy
+	- Annual Salary Range: $245,000—$385,000 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -978,13 +1041,72 @@ Roles in computing security:
 	- Excellent learning ability and hands-on skills, agile thinking, hard working, good teamwork, and willingness to solve challenging problems
 	- Those who have published papers in international professional journals, participated in international standards meetings or academic conferences, or published related patents are preferred
 + skill set:
-	- BLAH.
+	- Research Engineer, Privacy
+	- Privacy is a cornerstone of our mission at OpenAI. As a part of the Privacy Team, you will work on the frontlines of safeguarding user data while ensuring the usability and efficiency of our AI systems. You will help us understand and implement the latest research in privacy-enhancing technologies such as differential privacy, federated learning, and memorization in a large language model. Moreover, you will focus on investigating the interaction between privacy and machine learning, developing innovative techniques to improve data anonymization, and preventing model inversion and membership inference attacks.
+	- Your responsibilities could involve designing privacy-preserving machine learning algorithms, enhancing the privacy guarantees of our AI models, and studying the trade-offs between model performance and data privacy. You will also work on creating privacy standards and guidelines for AI system development and deployment, and conduct exploratory research to mitigate the unintended consequences of AI and machine learning on privacy. You will have the opportunity to collaborate with various teams at OpenAI to integrate privacy-enhancing methods into our AI systems.
+	- Your work will not only contribute to OpenAI’s goal of ensuring artificial general intelligence (AGI) benefits all of humanity but will also help shape the discourse on privacy in the age of AI, fostering a broader impact on the technology industry and society at large.
+	- Have strong programming skills
+	- Have experience working in large distributed systems
+	- Be excited about OpenAI’s approach to research
+	- Are interested in and thoughtful about the impacts of AI technology
+	- Have past experience in creating high-performance implementations of deep learning algorithms
+	- Annual Salary Range: $295,000—$440,000 USD
 + skill set:
-	- BLAH.
+	- Security Engineer, Detection & Response
+	- Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.  
+	- The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture.  
+	- As a Security Engineer, you will join our OpenAI engineers and researchers in building, operating and securing transformational AI technologies. This role will focus on all aspects of Detection & Response, including infrastructure and operations, and will also contribute to the Security team as a strong generalist.
+	- Drive projects in all major security verticals including: AppSec, InfraSec, OffSec and Detection and Response
+	- Innovate to solve novel security problems 
+	- Collaborate on cutting-edge AI research, and use AI to improve OpenAI’s Security posture 
+	- You’ll make an impact at OpenAI by:
+		* Innovating on Detection and Response infrastructure 
+			+ Build tools for managing the lifecycle of detection rules
+			+ Develop, measure, and tune detection rules to ensure effective and sustainable operations.
+			+ Automate manual response processes 
+		* Ensuring visibility and control of OpenAI’s endpoint fleet (macOS, Windows)
+		* Driving improvements across identity access and management (IAM), device management, productivity software, and our use of public cloud environments (e.g. AWS, Microsoft Azure).
+	- Experience in Security or a Security-adjacent field. We are open to junior, mid-level and senior candidates as we are recruiting multiple Security Engineers to join the team.
+	- Experience with Microsoft Azure and/or cloud infrastructure platforms
+	- Knowledge of modern adversary tactics, techniques, and procedures.
+	- Proficiency with a scripting language (e.g. Python, Bash, PowerShell, or similar).
+	- Ability to empathize and collaborate with colleagues, independently manage and run projects, and prioritize efforts for risk reduction.
++ Security Engineer, Partnerships
+	- Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.  
+	- The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture.   
+	- As a Security Engineer, you will play a crucial role in building secure systems and implementing effective security measures based on input from security partners. Leveraging your strong software engineering skills and deep security knowledge, you will collaborate with cross-functional teams to design and develop secure software solutions and infrastructure. Additionally, you will work closely with security partners to understand their requirements and ensure that security is ingrained into the fabric of OpenAI's systems. This role requires a proactive and resilient team player who can work cross-functionally and help build a cohesive security team.
+	- Collaborating with security partners to understand their requirements and translate them into secure system designs.
+	- Designing, developing, and implementing secure software solutions and infrastructure components.
+	- Conducting security code reviews and providing guidance on secure coding practices.
+	- Collaborating with cross-functional teams to integrate security controls and best practices into software development processes.
+	- Fostering a strong security culture within the organization by promoting security awareness and best practices.
+	- Building enduring and high-trust partnerships with colleagues across the organization.
+	- Deep understanding of security principles, best practices, and common vulnerabilities.
+	- Experience designing and developing secure software solutions and infrastructure components.
+	- Proficiency in programming languages such as Python, Golang, or similar.
+	- Familiarity with secure coding practices and the ability to guide development teams on secure software development.
+	- Knowledge of secure network and infrastructure design principles.
+	- Experience with cloud platforms (e.g., Amazon AWS, Microsoft Azure) and a solid understanding of cloud security concepts.
+	- Familiarity with container security, orchestration security, and authentication/authorization.
+	- Strong analytical and problem-solving skills, with an ability to think critically and objectively assess security risks.
+	- Excellent communication skills, with the ability to convey complex security concepts to technical and non-technical stakeholders.
+	- Ability to work collaboratively and effectively in a cross-functional team environment.
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Senior Software Engineer- Identity Platform
+	- Our team brings OpenAI’s most capable technology to the world through our products. Most recently, we released ChatGPT, GPT-4, the Whisper API, and DALL-E. We empower consumers and developers alike to use and access our start-of-the-art AI models, allowing them to do things that they’ve never been able to before.
+	- Across all product lines, we ensure that these powerful tools are used responsibly. This is a key part of OpenAI’s path towards safely deploying broadly beneficial Artificial General Intelligence (AGI). Safety is more important to us than unfettered growth.
+	- We are looking for a senior software engineer to build the foundational platform for identity across all OpenAI products. This involves building authentication, authorization, and access control systems – all while making the product experience seamless for our users and customers. You will work across our entire product fleet (ChatGPT, Plugins, API) and help us evolve and grow our identity offering. You will also work closely with other software engineers, who will use the platform to build out our products.
+	- Architect and build the next generation of authentication and authorization at OpenAI – including integration with our ambitious future product roadmap.
+	- Work across the stack to build end-to-end authentication products for our wide variety of ChatGPT and API users.
+	- Design our identity platform for consumer internet scale, while also solving scalability bottlenecks as they arise. 
+	- Build tools and primitives to empower other engineers at OpenAI to more easily build authentication into their products.
+	- Collaborate closely with a broad set of stakeholders, including product, design, go-to-market, and other engineers. 
+	- Have experience or interest in Authentication, Authorization, Federation, and Identity Management.
+	- Interest or experience with protocols such as OAuth 2.0, SAML, SCIM, and OpenID Connect.
+	- Have industry experience with projects such as Hydra or Auth0, and languages such as Python or Golang.
+	- Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done
+	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
+	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
 	- BLAH.
 + skill set:

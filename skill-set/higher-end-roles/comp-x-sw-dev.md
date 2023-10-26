@@ -1797,3 +1797,38 @@ Skill set for software development for distributed programming (or distributed c
 	- recommender systems
 	- information theory
 	- knowledge graphs
++ Software Engineer, Distributed Systems
+	- San Francisco, California, United States — Research Acceleration
+	- The Platform Runtime team builds the low level framework components to power our ML training systems.  We work on building robust, scalable, high performance components to support our distributed training workloads.  Our priorities are to maximize the productivity of our researchers and our hardware, with the goal of accelerating progress towards AGI.  
+	- As a Distributed Systems/Data engineer, you will work to deliver powerful APIs orchestrating thousands of computers moving/persisting vast amounts of data. This requires both providing easy to use, introspectible systems that can promote a fast debugging/development cycle, while also enabling that experience to scale to our newest supercomputers maintaining stability and performance throughout.
+	- We’re looking for people who love optimizing an end to end system, understanding high performance I/O to maximize local performance and distributed across our supercomputers. We want someone excited by the rapid pace of responding to the dynamic and evolving needs of our training systems architectures.
+	- This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+	- Work across our Python and Rust stack
+	- Profile and optimize and help design for scale our compute and data capabilities
+	- Work on deploying our training framework to our latest supercomputers rapidly responding to the changing shapes and needs of the ML systems.
+	- Have worked on large distributed systems
+	- Love figuring out how systems work and continuously come up with ideas for how to make them faster while minimizing complexity and maintenance burden
+	- Have strong software engineering skills and are proficient in Python and Rust
+	- Annual Salary Range: $245,000—$385,000 USD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
