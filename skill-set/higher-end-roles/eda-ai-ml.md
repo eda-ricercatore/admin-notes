@@ -5652,6 +5652,61 @@ Skill sets for application engineers of different EDA products:
 	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
 	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
 + Distributed Deep Learning
++ Staff Research Scientist, AI/ML
+	- at Chan Zuckerberg Initiative (View all jobs)
+	- Redwood City, CA (Open to Flex)
+	- We’re on an ambitious mission to solve some of society’s toughest challenges — from eradicating disease to improving education and addressing the needs of our local communities. Join us to build a better future for everyone!
+	- The mission of the CZI Science Initiative is to support the science and technology that will help make it possible to cure, prevent, or manage all diseases by the end of the century. We support interdisciplinary teams of physicians, biologists, computational scientists, and engineers to expand our understanding of the human body and illness — the very science behind medicine. CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research. Our current focus is on understanding the mysteries of the cell, the fundamental building block of life. To that end, our approach in the Science Technology group is to digitally model cell function through research, advanced development, collaboration, and funding
+	- Building software such as:
+		* CZ cellxgene - an easy to use corpus of single-cell transcriptomics data.
+		* CZ ID - a metagenomics platform that delivers insights in infectious disease.
+	- Funding of:
+		* Single cell biology and the application of technologies that enable multi-omics investigation at the level of cells.
+		* Imaging and developing tools capable of observing biological processes across spatial scales at the level of tissues, cells, and proteins.
+	- Doing science through:
+		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
+		* The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution.
+	- As a Staff Research Scientist on the AI/ML team you will develop and apply state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of a team to leverage CZI’s large open-source biological datasets to create models that transform our understanding of cells. 
+	- You will have the opportunity to work closely with teams of scientists, computational biologists, engineers within CZI and to collaborate with CZI grantees, with CZ institutes, and other external labs and organizations. Your work will inspire and enhance the production and analysis of datasets by CZ teams and collaborators. Scientific focus areas could include single cell biology, imaging, genomics, and proteomics.
+	- Develop, deploy, and maintain innovative machine learning models,  systems, and software tools that enable the analysis and interpretation of complex biology data sets.
+	- Solve important problems in biomedical sciences through the application of state-of-the-art methods in artificial intelligence and machine learning.
+	- Implement solutions with respect to complex problems/scientific questions on large scale data sets, especially using machine learning approaches, predictive models, and statistical analysis, to advance understanding of cell structures, systems, and interactions.
+	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research.
+	- Have a PhD or Masters in computer science (focus on machine learning & data analytics), computational biology or a related field or equivalent industry experience and at least 6-8 years of experience developing and applying machine learning methods.
+	- Have demonstrated experience building and training AI/ML models, ideally but not exclusively to address problems in biology, and developing deep learning methods
+	- Experience and technical fluency in AI, machine learning, operations research, data integration, or computer science on varied large scale data sets
+	- Have the ability to work independently and as part of a team, and have excellent communication and interpersonal skills.
+	- Have a proven track record of relevant research publications, preprints, or software packages
+	- The Redwood City, CA base pay range for this role is $270,000.00- $405,000.00.
++ Research Scientist Intern
+	- at Chan Zuckerberg Initiative
+	- Redwood City, CA (Onsite)
+	- We’re on an ambitious mission to solve some of society’s toughest challenges — from eradicating disease to improving education and addressing the needs of our local communities. Join us to build a better future for everyone!
+	- The mission of the CZI Science Initiative is to support the science and technology that will help make it possible to cure, prevent, or manage all diseases by the end of the century. We support interdisciplinary teams of physicians, biologists, computational scientists, and engineers to expand our understanding of the human body and illness — the very science behind medicine. CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research. Our North Star objective is on understanding the mysteries of the cell, the fundamental building block of life. To that end, our approach is to digitally model cell function through research, advanced development, collaboration, and funding.
+	- Building software such as 
+		* CZ cellxgene - an easy to use corpus of single-cell transcriptomics data.
+		* CZ ID - a metagenomics platform that delivers insights in infectious disease.
+	- Funding of
+		* Single cell biology and the application of technologies that enable multi-omics investigation at the level of cells.
+		* Imaging and developing tools capable of observing biological processes across spatial scales at the level of tissues, cells, and proteins.
+	- Doing science through
+		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
+		* The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution.
+		* As a Research Scientist Intern, you will contribute to the development and application of state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of the Single Cell team to leverage CZI’s large open-source biological datasets to create models that transform our understanding of cells. You will have the opportunity to work closely with teams of scientists, computational biologists, and engineers.
+	- Develop innovative machine learning models that enable the analysis and interpretation of complex biology data sets.
+	- Solve important problems in biomedical sciences through the application of state-of-the-art methods in artificial intelligence and machine learning.
+	- Implement solutions with respect to complex problems/scientific questions on large scale data sets.
+	- Targeted graduation date December 2024 through Summer 2025
+	- Pursuing a MS or PhD degree (Computer Science or related field preferred) and will have time remaining in school after your summer internship
+	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research.
+	- Have experience building and training AI/ML models, ideally but not exclusively to address problems in biology and developing deep learning methods.
+	- Experience with PyTorch, scikit-learn, and other deep learning frameworks.
+	- Experience using collaborative notebook-based workflows (e.g., Jupyter, Databricks) for prototyping and knowledge sharing.
+	- Familiarity with big data technologies
+	- The ability to work for 12 consecutive weeks during the Summer 2024
+	- Our internship program is designed to give students a meaningful, real-world work experience that complements their academic learnings. While we are not able to offer conversions to full-time positions following our internships, our program is open to a wide range of students at any point in their undergraduate careers that want to develop skills, gain experience, and connect with leaders in their fields.
+	- The Redwood City, CA pay for this role is: $56.74/hour for BS candidates; $60.07/hour for MS candidates; $63.61/hour for PhD candidates.
+	- The Chan Zuckerberg Initiative was founded in 2015 to help solve some of society’s toughest challenges — from eradicating disease and improving education, to addressing the needs of our local communities. Our mission is to build a more inclusive, just, and healthy future for everyone.
 + Research Scientist
 	- By applying to this role, you will be considered for Research Scientist roles across all teams at OpenAI.
 	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the team you work on, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
@@ -6975,6 +7030,37 @@ Skill sets for application engineers of different EDA products:
 	- Preferred Qualifications
 		* Strong interest in news media and our mission
 		* Experience with news ranking
++ Senior Machine Learning Engineer, Science
+	- at Chan Zuckerberg Initiative (View all jobs)
+	- Redwood City, CA (Open to Flex)
+	- We’re on an ambitious mission to solve some of society’s toughest challenges — from eradicating disease to improving education and addressing the needs of our local communities. Join us to build a better future for everyone!
+	- Learn more about our work modes, benefits, and interview process at www.chanzuckerberg.com/careers.
+	- The mission of the CZI Science Initiative is to support the science and technology that will help make it possible to cure, prevent, or manage all diseases by the end of the century. We support interdisciplinary teams of physicians, biologists, computational scientists, and engineers to expand our understanding of the human body and illness — the very science behind medicine. CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research. Our current focus is on understanding the mysteries of the cell, the fundamental building block of life. To that end, our approach in the Science Technology group is to digitally model cell function through research, advanced development, partnerships, and funding.
+	- Building software such as 
+		* CZ CELLxGENE - a rich data platform with interfaces that enable any computational or biological expert to understand the molecular function of cells and tissues.
+		* CZ ID - a metagenomics platform that delivers insights in infectious disease.
+		* napari-hub - a site to discover image analysis methods.
+	- Funding of
+		* Single cell biology and the application of technologies that enable multi-omics investigation at the level of cells.
+		* Imaging and developing tools capable of observing biological processes across spatial scales at the level of tissues, cells, and proteins.
+		* Neurodegeneration and bringing new ideas and new people into the field, to look at this problem from a cross-disease perspective.
+	- Doing science through
+		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
+	- The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution
+	- As an Engineer on the  AI/ML team you will apply and optimize state-of-the-art models in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of a team responsible for developing and deploying ML models that use data developed by CZI and research partners all for the purpose of contributing to greater understanding of human cell function.
+	- You will have the opportunity to work closely with teams of scientists, computational biologists, engineers within CZI and to collaborate with CZI grantees, with CZ institutes, and other external labs and organizations. Your work will inspire and enhance the production and analysis of datasets by CZ teams and collaborators. Scientific focus areas could include single cell biology, imaging, genomics, and proteomics.
+	- Working with the ML Research Scientists, iterate on, optimize, deploy, and maintain innovative machine learning models, systems, and software tools that enable the analysis and interpretation of complex biology data sets and natural language.
+	- Work with the cross-functional team members to quickly iterate on system performance to meet/stay ahead of users’ needs - e.g. we get feedback that the model doesn't scale to X million so working with our user researcher/scientist/product team to iterate on the solution. 
+	- May be involved in data pipelining work to clean, manage, and version data to ensure that the Research Scientist has access to reproducible data. 
+	- Serve as an interface to product teams to understand how models may need to evolve to support multiple use cases.
+	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research.
+	- A track record and expertise in developing AI/ML models for large scale  clusters of CPUs and GPUs, using techniques of distributing load, scheduling computation, optimizing AI/ML code, fine tuning models,  deploying for batch/endpoint inference, and generally taking full advantage of the computational infrastructure.
+	- A good working knowledge of Python-based ML  libraries and frameworks such as PyTorch, TensorFlow, NumPy, Pandas, and Scikit-learn.
+	- Expertise in using modern frameworks for distributed computing and infrastructure management, particularly as related to ML models, (e.g. Apache Spark, High Performance Compute (HPC), Distributed Tensorflow, etc)
+	- Have a Masters in computer science with a focus on machine learning & data analytics, or equivalent industry experience and at least 3-5 years of experience developing and applying machine learning methods.
+	- A good working knowledge of general software engineering practices in a production environment.
+	- The ability to work independently and as part of a team, and have excellent communication and interpersonal skills.
+	- The Redwood City, CA base pay range for this role is $190,000- $285,000.00.
 + skill set:
 	- Building descriptive or predictive models using Python, PySpark, Spark ML, Scala
 	- Building and deploying models in a Big Data environment; comfort with using Hive, MapReduce, Kafka, Spark Streaming, Spark SQL, JavaScript, Sqoop to run data processing tasks
@@ -9613,6 +9699,37 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 + Experience with Hive, R, and Python preferred
 	- Hive: productivity platform for fast-moving teams
 	- The ***Apache Hive™*** is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale and facilitates reading, writing, and managing petabytes of data residing in distributed storage using SQL.
++ Director, Artificial Intelligence, Science
+	- at Chan Zuckerberg Initiative
+	- Redwood City, CA (Open to Flex)
+	- We’re on an ambitious mission to solve some of society’s toughest challenges — from eradicating disease to improving education and addressing the needs of our local communities. Join us to build a better future for everyone!
+	- CZI is building out our AI/ML capabilities in support of our long-term mission to cure, prevent, and manage all disease by the end of the century, and the ten-year vision of unlocking the ability to digitally model human cell function.  To this end, we are seeking a world-class leader for the consolidated and growing AI/ML research group who will tackle hard problems in pursuit of that vision.  The leader will be responsible for setting the team direction and identifying the best approaches to building models and solutions that lead to an ability to mimic and predict cellular biology mechanisms.
+	- We support interdisciplinary teams of physicians, biologists, computational scientists, and engineers to expand our understanding of the human body and illness — the very science behind medicine. CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research. Our North Star objective is on understanding the mysteries of the cell, the fundamental building block of life. To that end, our approach is to digitally model cell function through research, advanced development, collaboration, and funding.
+	- Building software such as 
+		* CZ cellxgene - an easy to use corpus of single-cell transcriptomics data.
+		* CZ ID - a metagenomics platform that delivers insights in infectious disease.
+	- Funding of
+		* Single cell biology and the application of technologies that enable multi-omics investigation at the level of cells.
+		* Imaging and developing tools capable of observing biological processes across spatial scales at the level of tissues, cells, and proteins.
+	- Doing science through
+		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
+		* The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution.
+	- The AI/ML Director will be a leader within CZI developing and applying state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s focus on understanding the mysteries of the cell by modeling cell function. You will lead a team that will leverage datasets that are created as part of CZI’s efforts to build, fund, and do science to create models that transform our understanding of cells. 
+	- You will lead a concerted ML effort within CZI Science Technology and have the opportunity to work closely with teams of scientists, computational biologists, and engineers. You will also collaborate with other groups within CZI, CZI grantees, CZ institutes, and other external labs and organizations. Your work should inspire and enhance the production and analysis of datasets by CZ teams and collaborators. Scientific focus areas could include single cell biology, imaging, genomics, and proteomics.
+	- Conceive of and lead projects to solve important problems in biomedical sciences through the application of state-of-the-art methods in artificial intelligence and machine learning.
+	- Be a leader on a diverse team that develops, deploys, & maintains innovative machine learning systems and software tools that enable the analysis and interpretation of complex and noisy biology data sets.
+	- Identify opportunities, create, and implement solutions with respect to complex problems/scientific questions on large scale data sets, especially using machine learning approaches, predictive models, and statistical analysis, to advance understanding of cell structures, systems, and interactions.
+	- Collaborate with the CZI Science Program and Technology teams to help identify problems and opportunities in the biomedical sciences that can be tackled with artificial intelligence.
+	- Collaborate with the CZI Science Program and Technology teams to identify and define necessary datasets.
+	- Summarize and present complex and highly technical problems and solutions to audiences with a wide variety of skills and domain knowledge
+	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners
+	- Act as a thought leader and mentor for the AI/ML team, leading hiring, developing, and retaining people to help them develop their full potential and build new skills and abilities
+	- Have a passion for actively directing and managing highly skilled individuals to consistently achieve high levels of motivation, enthusiasm, inclusion, and performance
+	- A passion for tackling hard problems and orchestrating team activities to face the challenges involved.
+	- Have a Masters or PhD in computer science (focus on machine learning & data analytics), biocomputing or a related field or equivalent industry experience and at least 10 years of experience leading a research and development team
+	- Have demonstrated experience building and training AI/ML models to address biological or adjacent problems, and developing deep learning methods
+	- Have a proven track record leading teams with diverse skill sets and focused on the analysis and interpretation of complex biological data
+	- The Redwood City, CA base pay range for this role is $323,000 - $485,000.
 + skill set:
 	- Staff Machine Learning Engineer
 	- In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.

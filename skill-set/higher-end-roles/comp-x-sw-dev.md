@@ -1198,6 +1198,34 @@ Skill sets for computational biology:
 
 
 
+###	Skill Sets for Computational Medicine and Medical Imaging
+
+
++ Senior Software Engineer, Science at Chan Zuckerberg Initiative
+	- We’re on an ambitious mission to solve some of society’s toughest challenges — from eradicating disease to improving education and addressing the needs of our local communities. Join us to build a better future for everyone!
+	- In our Science Initiative, our mission is to support science and technology that will help make it possible to cure, prevent, or manage all diseases by the end of the century. Interdisciplinary teams of physicians, biologists, computational scientists, and engineers can expand our understanding of the human body and illness — the very science behind medicine. CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research. 
+	- The Imaging Technology Team is focused on enabling researchers to gain a much deeper mechanistic and quantitative understanding of biological systems. We are growing an open source image visualization and analysis ecosystem, built around napari and the napari hub.  We are also in the early stages of developing image acquisition software to enable high-performance  advanced microscopes that need tight integration with image visualization and analysis. 
+	- As a Senior Software Engineer on the Imaging Technology Team, you will build open source software to support this mission, working closely with a collaborative, multi-disciplinary team. You will also collaborate with external partners, who are pushing the boundaries of current microscopy hardware, and learn about imaging technologies. This is a great opportunity for a Software Engineer who wants to help speed up scientific research and enjoys solving challenging problems.
+	- Build open source software to control microscope hardware and work with high-speed streaming imaging data
+	- Solve challenging data problems to enable near real-time visualization and analysis of very large volumetric imaging datasets
+	- Develop real-time software for integrating cameras and other devices critical for researchers developing cutting-edge microscopes
+	- Work in a multi-disciplinary team, with engineers, product managers, applications scientists, data scientists, UX researchers and designers, to define product plans and deliver on roadmaps
+	- Provide technical leadership and mentoring to other engineers
+	- 5+ years of demonstrated experience with C, C++ and Python
+	- Experience with CUDA, CMake and Rust is a plus
+	- Experience developing robotics software is a plus
+	- Experience writing multi-process or multi-threaded software with practical knowledge of how this software can fail
+	- A solid understanding of data structure tradeoffs and can apply performant algorithms to solve problems
+	- Experience working with microscope instrumentation and control preferred
+	- Internal drive for continuous learning and teaching others
+	- Experience working with open-source software development methodologies is a plus
+	- The Redwood City, CA base pay range for this role is $190,000 - $285,000. 
+
+
+
+
+
+
 
 
 
