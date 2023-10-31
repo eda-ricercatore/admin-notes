@@ -714,6 +714,7 @@ Emerging technologies that would be interesting application domains of computati
 	- Experience with large, complex scientific and technical software systems.
 	- Knowledge of distributed machine learning and unsupervised deep learning/neural networks.
 	- Experience/education in a subset of the following: system engineering, distributed system design, numerical analysis, modeling and simulation, relational/object/geographic database technologies, user interfaces, scientific data visualization, web services technologies, and software development for multi-core/GPU/parallel computing.
+	- Pay: $115,000.00 - $145,000.00 per year
 + skill set:
 	- BLAH.
 + skill set:
