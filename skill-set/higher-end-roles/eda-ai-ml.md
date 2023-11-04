@@ -5350,6 +5350,15 @@ Skill sets for application engineers of different EDA products:
 
 
 
+Companies that have machine learning -centric products
++ OctoML: https://octoml.ai/company/careers/
+
+
+
+
+
+
+
 
 
 ###	Machine Learning Scientist & Deep Learning Scientist Roles
@@ -5565,41 +5574,30 @@ Skill sets for application engineers of different EDA products:
 	- ***The ability to design, implement, train and test models in one or more of the leading deep learning frameworks like PyTorch or TensorFlow.***
 + AI Research Scientist
 	- AI Research @ Autodesk
-
-As an AI Research Scientist at Autodesk Research, you will be doing fundamental and applied research that will help our customers imagine, design, and make a better world. We are a team of scientists, researchers, engineers, and designers working together on projects that range from learning-based design systems, computer vision, graphics, robotics, human-computer interaction, sustainability, simulation, manufacturing, architectural design and construction.
-
-As a member of the AI Lab in Autodesk Research you will be an experts in research areas such as artificial intelligence, deep learning, generative AI, machine learning, computer vision, reinforcement learning, information retrieval, and natural language processing.
-
-Autodesk's AI Lab is active in the wider research community, targeting publications at CVPR, NeurIPS, ICML, ICLR, SIGGRAPH, and other top-tier conferences. We collaborate with top academic & industry labs, combining the best of an academic environment with product-guided research. We are a global team, located in London, Germany and Italy
-
-Location: Flexible EMEA: UK, London, Italy, Germany
-Explore and develop new ML models and AI techniques
-Lead and collaborate on research projects within a global team
-Review relevant AI/ML literature to identify emerging methods, technologies, and best practices
-Work towards long-term research goals, while identifying intermediate milestones
-Build relationships and collaborate with academics and institutions
-Explore new data sources and discover techniques for best leveraging data
-Publish papers; attend and speak at conferences
-Think strategically about research directions
-Minimum Qualifications
-A Master's or PhD in a field related to AI/ML such as: Computer Science, Mathematics, Statistics, Physics, Linguistics, Mechanical Engineering, Architecture or related disciplines
-Publication track record in machine learning conferences and/or journals
-Significant post-graduate research experience, or 5 or greater years of work experience (actual job title/position will be commensurate to experience)
-Strong background in statistical methods for Machine Learning (e.g. Bayesian methods, HMMs, graphical models, dimension reduction, clustering, classification, regression techniques, etc.)
-Familiarity with Deep Learning techniques (e.g. Network architectures, regularization techniques, learning techniques, loss-functions, optimization strategies, etc.)
-Familiarity with PyTorch, TensorFlow, JAX or similar frameworks
-Strong coding abilities in Python and/or C++
-
-
-LLMs and Natural Language ProcessingReinforcement Learning
-Computational geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, geometric deep learning, graph neural networks)
-Multi-modal deep learning and/or information retrieval
-Architecture, Construction, Manufacturing, Media & Entertainment or other Autodesk domains
-
-
-
-
-
+	- As an AI Research Scientist at Autodesk Research, you will be doing fundamental and applied research that will help our customers imagine, design, and make a better world. We are a team of scientists, researchers, engineers, and designers working together on projects that range from learning-based design systems, computer vision, graphics, robotics, human-computer interaction, sustainability, simulation, manufacturing, architectural design and construction.
+	- As a member of the AI Lab in Autodesk Research you will be an experts in research areas such as artificial intelligence, deep learning, generative AI, machine learning, computer vision, reinforcement learning, information retrieval, and natural language processing.
+	- Autodesk's AI Lab is active in the wider research community, targeting publications at CVPR, NeurIPS, ICML, ICLR, SIGGRAPH, and other top-tier conferences. We collaborate with top academic & industry labs, combining the best of an academic environment with product-guided research. We are a global team, located in London, Germany and Italy
+	- Location: Flexible EMEA: UK, London, Italy, Germany
+	- Explore and develop new ML models and AI techniques
+	- Lead and collaborate on research projects within a global team
+	- Review relevant AI/ML literature to identify emerging methods, technologies, and best practices
+	- Work towards long-term research goals, while identifying intermediate milestones
+	- Build relationships and collaborate with academics and institutions
+	- Explore new data sources and discover techniques for best leveraging data
+	- Publish papers; attend and speak at conferences
+	- Think strategically about research directions
+	- Minimum Qualifications
+		* A Master's or PhD in a field related to AI/ML such as: Computer Science, Mathematics, Statistics, Physics, Linguistics, Mechanical Engineering, Architecture or related disciplines
+		* Publication track record in machine learning conferences and/or journals
+		* Significant post-graduate research experience, or 5 or greater years of work experience (actual job title/position will be commensurate to experience)
+		* Strong background in statistical methods for Machine Learning (e.g. Bayesian methods, HMMs, graphical models, dimension reduction, clustering, classification, regression techniques, etc.)
+		* Familiarity with Deep Learning techniques (e.g. Network architectures, regularization techniques, learning techniques, loss-functions, optimization strategies, etc.)
+		* Familiarity with PyTorch, TensorFlow, JAX or similar frameworks
+		* Strong coding abilities in Python and/or C++
+		* LLMs and Natural Language ProcessingReinforcement Learning
+		* Computational geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, geometric deep learning, graph neural networks)
+		* Multi-modal deep learning and/or information retrieval
+		* Architecture, Construction, Manufacturing, Media & Entertainment or other Autodesk domains
 + skill set for Machine Learning Researcher:
 	- Specific Skills That Will Set You Apart from the Competition:
 		* Privacy-preserving machine learning
