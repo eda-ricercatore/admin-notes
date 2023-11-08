@@ -6624,6 +6624,30 @@ Companies that have machine learning -centric products
 	- Research and Innovation: Collaborate with the research team to keep abreast of the latest developments in neural IR and drive innovation through prototyping.
 	- Publications/Contributions: Though not mandatory, contributions to scientific and tech communities can be a valuable addition.
 	- Technical Leadership: Guide less experienced engineers and researchers, actively contribute to technical documentation, and promote best practices in machine learning.
++ Software Engineer, AI Frameworks
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Within the Frameworks and Engagement team, we are focused on building software that helps drive Modular product adoption while engaging with our customers. We work heavily with compiler, performance and kernel teams to fully understand events, metrics, logs and traces for customers and our production systems. We are looking for candidates based on both their breadth and depth of experience in software engineering, compiler, hardware, machine learning and more.
+	- We are a growing team who collaborate across disciplines on a day to day basis. A strong cross-collaborator is a must. If solving customers problems excites you, come and be part of our team and architect our client side infrastructure at Modular. Join our world-leading AI infrastructure team and help drive our AI infrastructure stack forward.
+	- Build monitoring, alerting and observability for Modular services.
+	- Collaborate with open source engineers to help facilitate the future of ML software stacks
+	- Work with compiler, performance, and kernel teams providing API’s to fully integrate the events, metrics, logs and traces and build corresponding dashboards to analyze today’s complex server, mobile, and other production systems.
+	- Ensure that existing and up-and-coming accelerators are high performing and work with ML frameworks inside the Modular runtime.
+	- 4+ years of systems design experience such as distributed systems, high-performance concurrency, etc.
+	- Ability to create durable, reusable software frameworks that are leveraged across teams and functions
+	- In-depth knowledge of modern C++ is required.
+	- Develops secure and high-quality production code, and reviews and debugs code written by others
+	- Experience with one or more cloud application programming languages (C, C++, Java, C#, Go etc.) and modern scripting languages (Bash, Python, etc).
+	- Strong collaboration skills, ability to share information with internal and external engineering and product teams.
+	- Experience, or deep interest, in machine learning technologies and use cases.
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
+	- Experience using open source software components in production.
+	- Devotion to quality and engineering excellence.
+	- Strong written and verbal communication skills.
+	- Strongly identifies with our core company cultural values.
+	- LLVM, MLIR, or Python experience is a bonus.
+	- Experience with working on or contributing to a major machine learning framework such as TensorFlow, PyTorch, and/or ONNX/ONNXRuntime is a bonus.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $166,500.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
 + skill set:
 	- Software Engineer Intern/Co-op (Winter 2024)
 	- This role is for students who are excited about building the next generation of machine learning models and NLP products. Our SWE roles can cover creating datasets for machine learning, scaling the pods to serve our API, or even building out new security features on our platform. We don't distinguish much between interns and full-time employees, and you’ll have plenty of opportunities to push code to production. You'll have full autonomy and ownership over high-impact work, and will be backed by the support of an incredible team or leaders & mentors. Join us at a pivotal moment, shape what we build, and wear multiple hats!
@@ -9731,6 +9755,25 @@ Companies that have machine learning -centric products
 
 
 Skill sets for managing machine learning engineers, or machine learning engineering managers or machine learning managers:
++ Mojo Standard Library Engineering Manager
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Modular is building a next-generation AI infrastructure platform that unifies the many application frameworks and hardware backends, simplifying deployment for AI production teams and accelerating innovation for AI researchers and hardware developers. A key component in our technology stack is Mojo 🔥 programming language that unlocks programmability of AI hardware. We are looking for a technical Software Engineering Manager to lead the development of Mojo 🔥Standard Library. In this role, you will own the design and implementation of  the library APIs and work closely with other teams and a growing community of Mojo 🔥 developers (aka Mojicians 🔥) to deliver outstanding user experience and performance. You will drive hiring and team growth, work to align the team on product deliverables, set team execution strategy and engineering practices, and collaborate across teams to deliver Mojo 🔥to internal and external customers. We are looking for candidates with strong communication and teamwork skills who excel in collaborating across team boundaries. Join our world-leading team and help us redefine how AI systems are built.
+	- Lead an engineering team in building a well-designed, scalable, high-performance standard library for Mojo 🔥.
+	- Drive development of  library APIs based on requirements of internal and external customers.
+	- Engage with the Mojo 🔥developer community and, in collaboration with other teams, drive adoption and evolution of Mojo  🔥.
+	- Provide technical leadership and career guidance to the team engineers helping them to realize their full potential and set and achieve career goals.
+	- Collaborate with engineering and cross-functional teams to build a balanced technology stack that fully utilizes today’s complex hardware systems.
+	- 5+ years experience in system library software development, including 2+ years in a management role.
+	- Strong understanding of library design principles.
+	- Strong knowledge of C++ and Python. 
+	- Experience working with the open source developer community.
+	- Proven experience in managing and developing a high-performance engineering team.
+	- Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
+	- Creativity and passion for building high-quality user-facing products.
+	- Knowledge of modern programming languages, such as Swift, Rust, Julia, Kotlin, Scala, or Zig.
+	- Experience working with MLIR or LLVM.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
 + Experience with Hive, R, and Python preferred
 	- Hive: productivity platform for fast-moving teams
 	- The ***Apache Hive™*** is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale and facilitates reading, writing, and managing petabytes of data residing in distributed storage using SQL.

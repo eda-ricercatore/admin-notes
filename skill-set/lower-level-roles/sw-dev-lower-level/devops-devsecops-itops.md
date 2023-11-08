@@ -1901,6 +1901,37 @@ Skill set for Compiler DevOps:
 	- Experience with one or more version control systems, such as git or Perforce.
 	- Experience with Linux configuration and installation of apps. Networking is a plus.
 	- Interest in ground breaking technologies and the ability to take initiatives and drive them across multiple functional teams.
++ Software Engineer, SDLC
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Within the Software Development Life Cycle Team, we seek to understand and apply the capabilities that drive software delivery performance at Modular. We are heavily data driven and make use of the dora metrics to track progress as we run experiments to determine the impact of our team’s initiatives and investments.
+	- We are looking for “T” shaped individuals to help accelerate the Software Development Life Cycle. We focus on compounding improvements of customer value delivery and exponential gains in velocity and quality. The goal is to bring together diverse, collaborative teams for intensive project work. We are looking for candidates based on both their breadth and depth of experience.
+	- The vertical stroke of the “T” is a depth of skill that allows candidates to contribute to the creative process. That can be from any number of different specialities: software engineering, IAAS and PAAS, test, build, compiler, kernel, hardware, machine learning and more.
+	- The horizontal stroke of the “T” is the disposition for collaboration across disciplines. It is composed of two things. First, empathy. It’s important because it allows people to imagine the problem from another perspective – to stand in somebody else’s shoes. Second, ideal candidates tend to get very enthusiastic about other people’s disciplines, to the point that they may actually start to practice them. T-shaped people have both depth and breadth in their skills.
+	- Come and be part of our team and architect our software development life cycle at Modular. Join our world-leading AI infrastructure team and help drive our AI infrastructure stack forward!
+	- Build, optimize, and contribute to machine learning frameworks such as TensorFlow, PyTorch, and ONNX/ONNXRuntime.
+	- Ensure that existing and up-and-coming accelerators are high performing and work with ML frameworks inside the Modular runtime.
+	- Work with compiler, performance, and kernel teams to provide a foundation that fully utilizes today’s complex server, mobile, and other production systems.
+	- Collaborate with open source engineers to help facilitate the future of ML software stacks.
+	- Develop highly reliable and scalable CI/CD pipelines for builds, tests and benchmarking across diverse OS and hardware targets.
+	- Monitoring, alerting and observability for Software Development Life Cycle services.
+	- 4+ years of systems design experience such as HPC, kernel development, low-level threading, high-performance concurrency, etc.
+	- In-depth knowledge of modern C++ is required.
+	- Experience with one or more cloud application programming languages (C, C++, Java, C#, Go etc.) and modern scripting languages (Bash, Python, etc). 
+	- Ability to utilize and work within traditional GitHub workflows such as pull requests.
+	- Strong collaboration skills, ability to share information with internal and external engineering teams.
+	- Experience, or deep interest, in machine learning technologies and use cases.
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
+	- Experience using open source software components in production.
+	- Devotion to quality and engineering excellence.
+	- Strong written and verbal communication skills.
+	- Strongly identifies with our core company cultural values.
+	- LLVM, MLIR, or Python experience is a bonus.
+	- Experience with working on or contributing to a major machine learning framework such as TensorFlow, PyTorch, and/or ONNX/ONNXRuntime is a bonus.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $166,500.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
+
+
+
 
 
 

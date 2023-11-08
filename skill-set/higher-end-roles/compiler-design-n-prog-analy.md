@@ -422,6 +422,67 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- Experience creating Domain-Specific Languages.
 	- Experience with end-to-end development of Python packages.
 	- Understand how compilers work, e.g. AST, IR, optimizations, code generation
++ Staff AI Compiler Engineer
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Modular is looking for Staff AI Compiler engineers to work on multi-framework, multi-hardware and user-extensible compiler infrastructure. We are looking for candidates with strong communication and teamwork skills who excel in collaborating across team boundaries. In this role you will own the design and implementation of compiler types, operations and passes related to machine learning models, and work across teams to integrate them with the rest of Modular’s product.
+	- Build an MLIR-based machine learning compiler with scalable and high quality infrastructure
+	- Implement generic and extensible optimizations for machine learning models from multiple frameworks and on multiple devices
+	- Work with other teams to provide a balanced stack that fully utilizes today’s complex server and mobile systems.
+	- Collaborate with machine learning researchers and engineers to guide compiler development for future ML trends.
+	- 8+ years of compiler engineering experience.
+	- Experience working with compilers for machine learning, such as XLA, Glow, TVM, nGraph, TensorRT, IREE, etc.
+	- Experience with machine learning graph optimizations
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
+	- Strong knowledge of core compiler algorithms and data structures.
+	- In-depth knowledge of C++, as well as, knowledge of basic GitHub workflows like pull requests.
+	- Strong knowledge of and experience working with MLIR and LLVM.
+	- Experience with 8 bit and lower model quantization
+	- Advanced degree in Computer Science or a related area
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
+	- For candidates who fall outside of the listed requirements, we nevertheless encourage you to apply as we may have openings that are lower/higher level than the ones advertised. 
+	- What Modular brings to the table:
+	- Amazing Team. We are a progressive and agile team with some of the industry’s best engineering and product leaders.
+	- Flexible Location. We want you to work where you are most productive and we are a remote-first company. We have offices in Palo Alto, CA and Seattle, WA for collaboration, and will open more next year.
+	- World-class Benefits. In order to attract the best, we need to offer the best. Premier insurance plans, up to 5% 401k matching, very generous WFH setup stipends, flexible paid time off, and more are available to you! Please note that specific benefit packages may vary based on your location.
+	- Competitive Compensation. We offer very strong compensation packages, including stock options. We want people to be focused on their best work and believe in tailoring compensation plans to meet the needs of our workforce. 
+	- Team Building Events. We organize regular team onsites and local meetups in different cities.
+	- Working at Modular will enable you to grow quickly as you work alongside incredibly motivated and talented people who have high standards, possess a growth mindset, and a purpose to truly change the world.
++ Mojo Compiler Engineering Manager
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Modular is building a next-generation AI infrastructure platform that unifies the many application frameworks and hardware backends, simplifying deployment for AI production teams and accelerating innovation for AI researchers and hardware developers. We are looking for a technical Software Engineering Manager to lead the development of the compiler for our Mojo 🔥programming language. In this role you will own the definition and design of Mojo 🔥language features and the compiler infrastructure that implements them. You will work to align the team on product deliverables, set team execution strategy and engineering practices, collaborate across teams to deliver Mojo 🔥to internal and external customers, and work closely with a growing community of Mojo developers (aka Mojicians 🔥). We are looking for candidates with compiler background and strong communication and teamwork skills who excel in collaborating across team boundaries. Join our world-leading team and help us redefine how AI systems are built.
+	- Lead Mojo 🔥Compiler team in building high-quality compiler infrastructure with state-of-the-art optimizations.
+	- Drive development of Mojo 🔥language features based on requirements of internal and external customers.
+	- Engage with the Mojo 🔥developer community and, in collaboration with other teams, drive adoption and evolution of Mojo 🔥.
+	- Provide technical leadership and career guidance to the team engineers helping them to realize their full potential and set and achieve career goals.
+	- Collaborate with engineering and cross-functional teams to build a balanced technology stack that fully utilizes today’s complex hardware systems.
+	- 5+ years’ experience in compiler development, including 2+ years in a management role.
+	- Strong understanding of programming language and compiler development.
+	- Experience working with MLIR or LLVM.
+	- Proven experience in managing and developing a high-performance engineering team.
+	- Ability to work in a fast-paced, dynamic environment and manage multiple priorities.
+	- Creativity and passion for building high-quality user-facing products. 
+	- Strong understanding of modern programming languages, such as Python, C++, Rust, Swift and Julia.
+	- Experience working with the open source developer community.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
++ AI Compiler Engineering Manager
+	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
+	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
+	- Modular is looking for a technical Software Engineering Manager to lead and drive our internal multi-framework, multi-hardware and user-extensible compiler infrastructure. We are looking for candidates with strong communication and teamwork skills who excel in collaborating across team boundaries. In this role you will own the design and implementation of compiler types, operations and passes related to machine learning models, work to align the team on product deliverables, code quality, and software architecture, driving hiring and team growth, and work across teams to provide an excellent experience for customers and other teams.
+	- Build an MLIR-based machine learning compiler with scalable and high quality infrastructure.
+	- Implement generic and extensible optimizations for machine learning models from multiple frameworks and on multiple devices.
+	- Work with other teams to provide a balanced stack that fully utilizes today’s complex server and mobile systems.
+	- Collaborate with machine learning researchers and engineers to guide compiler development for future ML trends.
+	- 6+ years of compiler engineering experience and 2+ years of software engineering management experience.
+	- Proven experience in technical leadership, management, and growth of high performance teams.
+	- Creativity and curiosity for solving complex problems, a team-oriented attitude that enables you to work well with others, and alignment with our culture.
+	- In-depth knowledge of C++, as well as, knowledge of basic GitHub workflows like pull requests.
+	- Experience working with compilers for machine learning, such as XLA, Glow, TVM, nGraph, TensorRT, IREE, etc.
+	- Strong knowledge of and experience working with MLIR and LLVM.
+	- Experience with 8 bit and lower model quantization.
+	- Advanced degree in Computer Science or a related area.
+	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $207,000.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
 + skill set:
 	- As an intern on our Compiler team, you will work with leaders from industry and academia to develop entirely new solutions for the toughest problems in AI compute.
 	- As deep neural network architectures evolve, they are becoming enormously parallel, and distributed.  Compilers are needed to optimize the mappings of computation graphs to compute nodes. In this position, you will build the tools that generate distributed memory code from evolving intermediate representations.
