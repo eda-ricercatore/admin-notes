@@ -1188,6 +1188,7 @@ reactive programming = asynchronous dataflow programming
 + skill set:
 	- Ability to leverage structured formats like JSON, YAML, XML to build scalable, testable RESTful applications
 	- Experience with NoSQL technologies like CouchDB, Redis
++ Backend applications (e.g., Ruby on Rails), databases (e.g., Postgres and Redis), and observability (e.g., Datadog), Services written in Go
 + skill set:
 	- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).
 	- Commercial experience with REST, RPC and message exchange protocols.
