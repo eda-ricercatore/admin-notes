@@ -179,6 +179,28 @@ Skill set for roles in digital VLSI verification:
 + Experience in verification/validation using emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM.
 + Familiar with the principle of debugger, such as: ***OpenOCD***.
 + A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
++ skill set for Senior Design Verification Engineer:
+	- $160,000/yr - $260,000/yr 
+	- Our mission is to radically reduce the cost of artificial intelligence.
+	- We are the world leaders in algorithm/hardware co-design for artificial intelligence. Our roadmap begins with products 100x better than GPUs and will ultimately deliver products that are many orders of magnitude more cost effective than what is available today. We will ultimately be able to put models the size of ChatGPT into chips the size of a thumbnail.
+	- This is a remote role, so you can work from anywhere in the United States.
+	- You will be responsible for verifying the design of key SoC subsystems and RTL blocks and full SoC functionality 
+	- Develop test plans for subsystems and full SoC in cooperation with SoC architects, software developers and RTL designers 
+	- Work with RTL engineers and designers to debug and verify AI acceleration blocks 
+	- Develop and execute on a full life cycle verification flow, from writing test cases, debug issues and work with RTL designers to address issues 
+	- BS/MS in Electrical Engineering or Computer Engineering 
+	- 5 - 10 + years of relevant experience in design verification, RTL design and/or ASIC design 
+	- Proven industry experience and successful track record in verifying chip- and block-level RTL designs for high-performance computing chips, such as AI accelerators 
+	- Experience with advanced verification methodologies such as UVM 
+	- Experience with LPDDR/DDR Interface, PCIe4.0+, Ethernet, MIPI, AXI bus, Image/Video processing, ARM CPU and AMBA bus protocols 
+	- Experience with Industry standard verification tools such as VCS or similar, Verdi, Debussy or similar 
+	- Extensive experience working with SystemVerilog and familiairty with Python for scripting 
+	- Exhibit a high degree of motivation and independence 
+	- Willingness & excitement to collaborate closely with system architects and the broader silicon team 
+	- Strong communication skills, both written and verbal 
+	- MS in Electrical Engineering or Computer Engineering with 10 + years experience with a focus on low power AI accelerators and CPU architectures 
+	- Experience with low power vision DSPs and accelerators 
+	- The anticipated annual base salary for this position is $160,000 - $260,000. This range does not include any other compensation components or other benefits that an individual may be eligible for.
 + skill set:
 	- System Verilog, Verilog, UVM/VMM
 	- Experience in at system level and block level verification.

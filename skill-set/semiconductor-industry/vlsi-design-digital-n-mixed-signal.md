@@ -677,6 +677,43 @@ Skill sets for processor architecture modeling in processor emulators:
 	- Deep understanding of computer architecture at the CPU and system levels
 	- Understanding of VLSI design concepts and how they impact hardware and software architecture
 	- Ability to read HDLs such as Verilog/Chisel
++ skill set for Modeling and Simulations Lead:
+	- $220,000/yr - $300,000/yr
+	- Our mission is to radically reduce the cost of artificial intelligence.
+	- We are the world leaders in algorithm/hardware co-design for artificial intelligence. Our roadmap begins with products 100x better than GPUs and will ultimately deliver products that are many orders of magnitude more cost effective than what is available today. We will ultimately be able to put models the size of ChatGPT into chips the size of a thumbnail.
+	- As a Senior Engineer in Simulation and Modeling, you will collaborate with the software, architecture, and IC design teams to deliver high-performance software simulation tools that accurately model the functionality and performance of Rain’s hardware platform. These tools play a critical role in Rain’s internal software and hardware development efforts and will be deployed to end-users as part of the Rain SDK, allowing customers to experiment with Rain hardware early in the product development life cycle. Through your efforts, our simulation tools will be easy to use, extensible, and will deliver maximum performance without compromising accuracy.
+	- This is a remote role – you can work from anywhere in the United States.
+	- Develop functional and cycle-accurate simulators of Rain’s SoC design
+	- Collaborate with hardware architecture and IC design teams to ensure the simulation tools precisely match hardware behavior
+	- Design and implement validation strategies to ensure the hardware and simulation tools stay in sync
+	- Leverage open-source simulation tools and frameworks where appropriate
+	- Be responsive to the needs of internal and external stakeholders
+	- Consistently deliver high-quality, scalable, maintainable, and performant solutions
+	- Document code, tools, and APIs and participate in code and design review processes
+	- Mentor junior engineers and be a shining example of development best practices
+	- BS in Computer Science, Computer Engineering, or related fields
+	- 7+ years in industry with experience with a focus on software simulation tools and hardware design
+	- Excellent programming skills in C/C++ and SystemC
+	- Experience with performance profiling and optimization
+	- Track record of ownership of advanced software systems
+	- Strong communication skills, both written and verbal
+	- High degree of motivation and independence
+	- Ability to work successfully in a distributed and remote environment
+	- MS or PhD in Computer Science, Computer Engineering, or related fields
+	- Experience developing software simulators that model ML accelerators and/or SoC devices
+	- Experience with open-source simulation tools such as qemu or SAIL
+	- Experience working on AI/ML products or at AI/ML companies
+	- Familiarity with the RISC-V instructions set
+	- Experience with hardware bring-up and supporting early hardware test/debug
+
+
+
+
+
+
+
+
+
 
 
 

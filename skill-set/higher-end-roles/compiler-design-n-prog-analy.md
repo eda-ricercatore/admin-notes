@@ -1029,7 +1029,35 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 		* Experience with deep learning graph-compilers and related tools such as Glow, XLA, or TVM.
 		* Experience with DNN frameworks such as Pytorch, Tensorflow, or Caffe.
 + skill set:
-	- BLAH.
+	- Senior Compiler Engineer.
+	- $220,000/yr - $300,000/yr
+	- Our mission is to radically reduce the cost of artificial intelligence.
+	- We are the world leaders in algorithm/hardware co-design for artificial intelligence. Our roadmap begins with products 100x better than GPUs and will ultimately deliver products that are many orders of magnitude more cost effective than what is available today. We will ultimately be able to put models the size of ChatGPT into chips the size of a thumbnail.
+	- As a Senior Compiler Engineer at Rain, you will participate in the design, implementation, and productization of an optimizing ML compiler for Rain’s AI accelerator products. In collaboration with other members of the compiler team, you will deliver software that efficiently maps ML models to Rain’s hardware for inference and training, blending the use of open-source tools, known compiler techniques, and novel algorithm design.
+	- This is a remote role – you can work from anywhere in the United States.
+	- Develop an optimizing compiler that provides exceptional out-of-the-box performance when mapping ML models to Rain hardware
+	- Tackle compilation and performance problems in a boundary-less fashion, contributing to the compiler frontend and backend as needed
+	- Work collaboratively with other compiler engineers to ensure high performance and resource efficiency of generated code (while being mindful of compilation time)
+	- Write well-documented and tested code, participating in the development of testing infrastructure, debuggers, and performance analysis tools
+	- Participate constructively in design and code reviews of your work and the work of others
+	- Work closely with the architecture team to codesign Rain’s HW/SW products, including ISA extensions that enable efficient use of Rain’s accelerators for deep learning
+	- Work closely with the research and ML applications teams to efficiently map emerging ML algorithms and models to Rain’s hardware
+	- Stay up to date with the latest research and trends in compiler design and implementation
+	- Mentor and provide technical guidance to junior engineers
+	- BS in Computer Science, Computer Engineering, or related fields
+	- 7+ years of experience in compilers and programming languages
+	- 3+ years of experience developing AI/ML compilers targeting deep learning applications
+	- Excellent programming skills in C/C++, Python, or similar high-level languages
+	- Familiarity with open-source compiler technologies such as TVM, XLA, Halide, MLIR, and LLVM
+	- Strong communication skills, both written and verbal
+	- Exhibit a high degree of motivation and independence
+	- Ability to work successfully in a distributed and remote environment
+	- MS or PhD in Computer Science or Computer Engineering, with a focus on compilers and/or software development for AI accelerators
+	- Experience developing software for novel hardware architectures, such as ML accelerators
+	- Experience with low-level software, including reading and writing assembly code
+	- Familiarity with RISC-V
+	- Familiarity with deep learning models and willingness to learn novel algorithms
+	- Experience with using generative code techniques (e.g. TableGen, GitHub Copilot, ChatGPT)
 + skill set:
 	- BLAH.
 + skill set:

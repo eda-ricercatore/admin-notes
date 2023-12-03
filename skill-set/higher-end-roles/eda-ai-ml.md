@@ -856,8 +856,28 @@ Skill sets for STCO and DTCO:
 	- Develop performance estimates for critical kernels for different hardware configurations
 	- Work with ML engineers, kernel engineers and compiler developers to understand their vision and needs from high performance accelerators
 	- Manage communication and coordination with internal and external engagements
-
-
++ skill set for AI HW/SW Co-design Intern:
+	- Rain Neuromorphics Inc.: https://rain.ai/careers
+	- $45/hr - $85/hr
+	- Our mission is to radically reduce the cost of artificial intelligence.
+	- We are the world leaders in algorithm/hardware co-design for artificial intelligence. Our roadmap begins with products 100x better than GPUs and will ultimately deliver products that are many orders of magnitude more cost effective than what is available today. We will ultimately be able to put models the size of ChatGPT into chips the size of a thumbnail.
+	- The AI HW/SW Co-Design Intern will contribute to developing a framework for an in-memory compute AI accelerator to perform hardware/software co-design and optimization. This framework will guide the architecture and algorithm design to optimize Rain’s hardware. This is a collaborative role – as an intern, you will have the opportunity to work across many teams at Rain. 
+	- This is a remote internship opportunity – you can work anywhere in the US. The duration of this internship will be 6 months.
+	- Lead and contribute to the HW/SW co-optimization of Rain’s AI accelerators, including but not limited to:
+		* Create functional models for Rain’s chips. 
+		* Develop an HW/SW codesign framework. 
+		* Optimize hardware architecture for Rain’s benchmarking suite. 
+		* Develop new models for Rain’s next-generation hardware. 
+		* Collaborate with the algorithms team to develop hardware-aware algorithms.
+	- Document and present results.
+	- Currently pursuing a PhD in Computer Engineering, electrical engineering or a related field. 
+	- Strong Knowledge of computer architecture and AI accelerator architecture. 
+	- Experience with hardware models for accelerators and RISC-V processors. 
+	- Experience with DNN models mapping to hardware. 
+	- Experience with hardware-software co-design and design space exploration. 
+	- Experience in developing and debugging in C/C++, Python and/or PyTorch. 
+	- Excellent communication skills.
+	- Publications in top conferences on computer architecture and design automation conferences or related topics. 
 
 
 
@@ -4018,6 +4038,32 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 	- Experience with at least one deep learning algorithm, such as CNN/LSTM/GRU
 	- Experience with at least one deep learning framework, such as Tensorflow, Pytorch, Caffe, Kaldi
 + Strong knowledge of SOC SW development, such as Nvidia Tegra, T.I. TDA series, Qualcomm Snapdragon.
++ skill set of Senior ML Hardware Architect:
+	- $220,000/yr - $320,000/yr
+	- Our mission is to radically reduce the cost of Artificial Intelligence.
+	- We are the world leaders in algorithm/hardware co-design for artificial intelligence. Our roadmap begins with products 100x better than GPUs and will ultimately deliver products that are many orders of magnitude more cost effective than what is available today. We will ultimately be able to put models the size of ChatGPT into chips the size of a thumbnail.
+	- We’re looking for an experienced ML Hardware Architect to help define the architecture of Rain’s next-generation AI accelerators! This person will report to our Lead Architect. 
+	- This is a remote role, so you can work from anywhere in the United States.
+	- Define the architecture of next-generation AI accelerators to enable novel online learning algorithms 
+	- Work closely with the algorithms team to understand and evaluate local and global data movement in systolic and data-flow architectures 
+	- Develop architecture simulators for system design, verification, prototyping, and hardware-software co-optimizations 
+	- Work closely with the design team to define the micro-architecture of key IP blocks 
+	- Work closely with the system software team to develop compilers and ISA extensions to enable new hardware functional units in an SoC 
+	- Integrate proprietary accelerators and design macros with standard service cores
+	- MSEE with 5+ years or PhD in Electrical Engineering and/or Computer Engineering with a focus on SoC architecture design, AI accelerator design, system modeling, and PPA analysis 
+	- Deep understanding of processor ISA including x86, ARM, and RISC-V 
+	- Strong understanding of memory management schemes, on-chip and off-chip data movement, logic-memory optimizations, and efficient code placement techniques 
+	- Experience with SystemC, Python, C/C++, and the ability to write production-ready, annotated code 
+	- Experience designing state-of-the-art data flow, spatial, and systolic architectures and the ability to integrate synchronous and asynchronous design macros with both digital and mixed-signal circuit collaterals 
+	- Familiarity with compiler optimizations, synthesis, code generation, programming models and computer architecture 
+	- Familiarity with the integration of novel accelerators and design macros with service cores 
+	- Familiarity with algorithmic techniques for on-device learning (online/continuous learning) 
+	- Developed the architecture of at least one state-of-the-art AI accelerator 
+	- Familiarity with deep learning models and willingness to learn novel algorithms and translate them into specifications for hardware accelerators 
+	- Exhibit a high degree of motivation and independence 
+	- Strong communication skills, both written and verbal
+	- PhD in Electrical Engineering and/or Computer Engineering with focus on near- and in-memory computing architectures for AI acceleration 
+	- Understanding of state-of-the-art SRAM based in-memory computing macros
 + skill set:
 	- As a Software Engineer in computer vision/deep learning, you will be developing the “eye” of our vehicles. This includes designing, training, and evaluating perception solutions, specifically, large scale image/LIDAR data classification, segmentation, tracking, etc. You will also research and apply state-of-the-art computer vision algorithms into production.
 	- Strong programming skills in C/C++ or Python
@@ -4563,7 +4609,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 ###	Start-ups related to VLSI Deep Learning & Embedded Deep Learning
 
 + Covariant: https://covariant.ai/careers/
-
++ Rain Neuromorphics Inc.: https://rain.ai/careers
 
 
 
