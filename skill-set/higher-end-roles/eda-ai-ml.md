@@ -2227,7 +2227,18 @@ Here are the sets of skills for physical design and physical synthesis.
 		* POCV
 		* IR-STA
 + skill set:
-	- BLAH.
+	- SDC, .lib/CCS/ECSM
+	- noise analysis
+	- multi-thread technology
+	- multi-tasking MMMC
+	- cross-talk analysis
+		* timing window -based analysis
+		* composite aggressors
+		* advanced pessimism reductions considering the effects of logic correlations with complex structure
+		* discrete timing window
+		* CRPR
+	- VCD, SAIF, and FSDB formats
+	- switching power, state-dependent path dependent (SDPD) internal power, SDPD leakage power, X-transition power, glitech power, clock tree power
 + skill set:
 	- BLAH.
 + skill set:
