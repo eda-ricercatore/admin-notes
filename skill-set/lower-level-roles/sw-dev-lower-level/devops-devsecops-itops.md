@@ -1149,7 +1149,7 @@ Skill set for DevOps:
 	- Experience configuring web servers (e.g. Apache/Tomcat, nginix)
 + ***Infrastructure as code*** experience (we use terraform)
 + Familiar with orchestration components (Chef-Puppet-Ansible-Kubernetes-VSTS)
-+ view DevOps as ***configuration as code***:
++ view DevOps as ***configuration as code***, ***CaC***:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + skill set:
 	- Exposure to containers or orchestration services:  Kubernetes, Mesos, or Docker Swarm
@@ -1560,7 +1560,7 @@ Projects you will be expected to complete in your the first 6 months
 	- Using advanced troubleshooting skills to diagnose and fix problems
 	- Experience in working with Linux and Windows operating systems
 	- Experience with cloud providers as AWS or Azure (Azure being the preferred one)
-	- Experience with monitoring tools such as Prometheus and Grafana or others
+	- Experience with monitoring tools such as ***Prometheus and Grafana*** or others
 	- Previous work experience with CI/CD which includes tools like SVN, GIT, Octopus Deploy and TeamCity
 	- Experience with tools like ELK Stack, Nginx, CloudFront, RabbitMQ, Ansible, Terraform, CloudFormation
 	- Experience with Agile/Scrum development methodologies
@@ -1838,7 +1838,7 @@ Projects you will be expected to complete in your the first 6 months
 	- Experience with the Linux Netfilter framework
 + Familiarity with GitOps, Terraform, Kubernetes, Prometheus, as well as major clouds (Azure, AWS, GCP...)
 + skill set:
-	- Experience with orchestration and build systems, such as Kubernetes, OpenShift, or Bazel.
+	- Experience with orchestration and build systems, such as Kubernetes, OpenShift, or ***Bazel***.
 	- Join a team of passionate developers working with modern web development technologies: Java, Spring, Typescript, React, Cypress, next.js, Kubernetes, Bazel.
 + Experience with at least one of the job schedulers such as LSF, SLURM, Mesos/Marathon, Kubernetes, Docker Swarm
 + Experience with containers – Docker, Clear Containers, rkt

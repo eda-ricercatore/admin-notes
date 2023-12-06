@@ -12041,7 +12041,6 @@ This subsubsection includes skill sets for applied machine learning roles in leg
 
 
 
-
 ####	MLOps, or ML Ops
 
 
@@ -12107,6 +12106,9 @@ Need to address:
 + model effectiveness
 + model compliance
 + model life cycle (MLC) management as a cross-functional process
+
+
+Use MLOps to support distributed machine learning, distributed ML.
 
 
 
