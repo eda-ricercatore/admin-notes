@@ -149,7 +149,13 @@ Skills for EDA software development, and other high-end software development:
 		* Slurm
 	- ***CI/CD pipelines***
 	- microservice architecture
-	- infrastructure as code
+	- infrastructure as code, IaC
+		* Pulumi - Infrastructure as Code in Any Programming Language
+			+ https://www.pulumi.com
+			+ Pulumi's open source infrastructure as code SDK enables you to create, deploy, and manage infrastructure on any cloud, using your favorite languages.
+			+ Automate your infrastructure at any scale
+			+ Your Code, Your Cloud, Your Success
+			+ Build, manage, and scale your infrastructure, secrets, and configurations in one place.
 	- Produce high quality and well-documented code in an automated CI/CD environment
 + configuration management:
 	- software configuration management includes:
@@ -307,6 +313,22 @@ Skills for EDA software development, and other high-end software development:
 	- Collective Knowledge, CK
 	- Cuneiform programming language
 		* based on Erlang, functional programming language
+	- ***Dagster***
+		* https://dagster.io/
+		* Cloud-native orchestration of data pipelines
+		* Ship data pipelines with extraordinary velocity
+		* The cloud-native orchestrator for the whole development lifecycle, with integrated lineage and observability, a declarative programming model, and best-in-class testability.
+		* Manage your data assets with code
+		* An orchestration platform for the development, production, and observation of data assets.
+	- ***Flyte***
+		* https://flyte.org/
+		* Build & deploy data & ML pipelines, hassle-free
+		* The infinitely scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+		* Create extremely flexible data and ML workflows
+		* End-to-end data lineage
+		* Collaborate with reusable components
+		* Integrate at the platform level
+		* Allocate resources dynamically
 	- Intake: https://intake.readthedocs.io
 	- Jenkins
 	- Jira, with built-in workflow management systems, WfMS, WFMS
@@ -16299,6 +16321,22 @@ They support databases for:
 	- Strong technical acumen, creativity, interpersonal skills, and emotional intelligence.
 + ***[Apache Airflow, Luigi](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7), workflow management system (WMS), Azkaban, [Open Source Data Pipeline – Luigi vs Azkaban vs Oozie vs Airflow](https://www.bizety.com/2017/06/05/open-source-data-pipeline-luigi-vs-azkaban-vs-oozie-vs-airflow/), [Pinball](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8), Airbnb Airflow vs Apache Nifi***
 	- ***Jenkins vs Airflow. Jenkins is an open source continuous integration tool written in Java.***
+	- ***Flyte***
+		* https://flyte.org/
+		* Build & deploy data & ML pipelines, hassle-free
+		* The infinitely scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+		* Create extremely flexible data and ML workflows
+		* End-to-end data lineage
+		* Collaborate with reusable components
+		* Integrate at the platform level
+		* Allocate resources dynamically
+	- ***Dagster***
+		* https://dagster.io/
+		* Cloud-native orchestration of data pipelines
+		* Ship data pipelines with extraordinary velocity
+		* The cloud-native orchestrator for the whole development lifecycle, with integrated lineage and observability, a declarative programming model, and best-in-class testability.
+		* Manage your data assets with code
+		* An orchestration platform for the development, production, and observation of data assets.
 + Exposure to big data systems like Hadoop, Spark, Kafka, etc.
 + skill set:
 	- Understanding and experience with NoSQL such as MongoDB or Neo4j

@@ -609,7 +609,7 @@ Skill sets for computational pharmacology:
 	- As one of the first members of this new team, you will have a large role in establishing the core architecture, making technical choices, and creating patterns of our model training and serving infrastructure. You will help create the data and model provenance and management infrastructure necessary for such a project.
 	- You will work closely with experts in DNA design and Protein Engineering to enable scientists of various levels of exposure to modern ML to create foundation models for biology, train new task-specific models, and leverage existing ones.
 	- On occasion, you may need to do some data archaeology, quickly learn the basics of protein folding or codon optimization, become the company’s expert on a new tool, or pair with your VP to work out capacity planning. You will identify what needs to happen, bring it to the team’s attention, and make it happen.
-	- You will not be expected to be an expert in All The Things. You will be expected to have a high level of general technical competency, be a fast learner brimming with curiosity, and an expert in a few things. 
+	- ***You will not be expected to be an expert in All The Things. You will be expected to have a high level of general technical competency, be a fast learner brimming with curiosity, and an expert in a few things.***
 	- Build, manage, and evolve a GCP-based platform for large scale  (up to 100B+ parameters) training, evaluation, and serving of Foundation Models for biology. 
 	- Develop, implement and maintain a system for creating smaller models that combine large FMs with additional experimental data to address specific needs and applications.
 	- Own processes for data ingestion, data prep, data and model provenance tracking, and various other data engineering and ML Ops activities.
@@ -618,7 +618,7 @@ Skill sets for computational pharmacology:
 	- Minimum Requirements
 		* PhD in a scientific discipline and a minimum of 5 years related experience; may include post-doctoral experience; Masters and 7 years of related experience; Bachelors and 9 years of related experience in data engineering, systems engineering, machine learning and operations, MLOps, or similar roles; or equivalent industry experience.
 		* Deep experience with Python.
-		* Experience with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster.
+		* Experience with ***ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster***.
 		* Familiarity with recent literature and state of the art for large model architectures and training approaches
 		* Experience with building machine/deep learning models with at least one common framework such as PyTorch, Tensorflow, or JAX.
 	- Preferred Capabilities and Experience
@@ -664,7 +664,7 @@ Skill sets for computational pharmacology:
 	- Familiarity with the ML ecosystem and ability to explain pros and cons of various options
 	- Understanding of explainability and interpretability in machine learning models, and experience with techniques like feature importance analysis or model-agnostic methods.
 	- Familiarity with automated machine learning (AutoML) tools and frameworks like H2O.ai or Google Cloud AutoML.
-	- Experience with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte
+	- ***Experience with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte***
 	- Experience with deploying machine learning models in production environments using containerization and deployment tools like Docker or Kubernetes.
 	- Familiarity with Terraform and other standard DevOps tooling
 	- Understanding of cloud services and platforms for machine learning and big data processing. GCP / Vertex AI experience.
@@ -696,7 +696,7 @@ Skill sets for computational pharmacology:
 	- Ability to work independently, manage multiple projects, and meet project timelines
 	- Strong publication record in protein design and engineering for therapeutic protein applications
 	- 4+ years experience in applying protein design to any application within protein binder engineering, bispecific antibody design, CAR-T / cell therapy applications, gene editors, or capsid engineering 
-	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE) a plus. Expertise in the computational modeling of biomacromolecules is a plus
+	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as ***PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE)*** a plus. Expertise in the computational modeling of biomacromolecules is a plus
 	- Hand-on wet-lab experience in protein sciences or experience working closely with experimentalists strongly preferred
 	- Total compensation for this role is market driven, with a starting salary of $110K +, as well as company stock awards.
 + skill set:
@@ -723,7 +723,7 @@ Skill sets for computational pharmacology:
 	- Ability to work independently, manage multiple projects, and meet project timelines.
 	- Strong publication record in developing and applying AI/ML to protein design and engineering applications 
 	- Some exposure with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster.
-	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE) a plus. Expertise in the computational modeling of biomacromolecules is a plus.
+	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as ***PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE)*** a plus. Expertise in the computational modeling of biomacromolecules is a plus.
 	- Hand-on wet-lab experience in protein sciences or experience working closely with experimentalists strongly preferred 
 	- Total compensation for this role is market driven, with a starting salary of $110K+, as well as company stock awards.
 + skill set:
