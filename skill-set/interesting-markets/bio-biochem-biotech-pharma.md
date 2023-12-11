@@ -556,15 +556,176 @@ Skill sets for computational pharmacology:
 	- Experience with cloud computing environments (AWS/Azure/GCE)
 	- https://www.atomwise.com/jobs/senior-machine-learning-research-scientist/
 + skill set:
-	- BLAH.
+	- AI/ML Engineer - DNA & RNA design
+	- Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms. 
+	- The Design Team’s mission is to unlock the power of synthetic biology by making genetic engineering — the art of designing genotypes and underlying DNA that ultimately achieves a desired phenotype — more predictive and robust. We are an interdisciplinary team with core expertise in computational biology, genomics, bioinformatics, microbial and mammalian genetics, RNA biology, statistics, and software engineering. We design and develop GInkgo’s genetic design platform, and directly support Ginkgo’s portfolio of customer projects with design and analysis of high-throughput experiments. We work in a broad range of application areas, including health, agriculture, specialty chemicals, and biosecurity.
+	- Ginkgo recently announced a large partnership with Google Cloud to build a generative AI platform for engineering biology and for biosecurity. The Design Team is responsible for delivering best-in-class foundation and application specific models for design, analysis, and functional prediction of nucleic acid sequences, organismal phenotypes, and more. 
+	- As a Machine Learning / Artificial Intelligence (ML/AI) Engineer on Ginkgo’s Design Team, you will leverage Ginkgo’s wealth of proprietary sequence and experimental data to design, train, and experimentally validate novel foundation and application-specific (e.g. fine-tuned) AI models for application to classification and design of genes, regulatory elements, multi-gene pathways, and even genomes. In addition, you will collaborate with experts throughout the organization to identify transformational opportunities for application of AI in genetic design, as well as in analysis of phenotypic data.
+	- We have access to nearly limitless compute capacity: CPU, GPU, or TPU. In addition, you will have access to Ginkgo's experimental platform and resulting large datasets for generating and testing hypotheses using machine learning approaches as well as informing strategic training data acquisition.
+	- The successful candidate will bring practical experience in modern AI/ML methods, creativity in solving problems at the intersections of scientific domains, a collaborative mindset, and enthusiasm for professional growth. We are looking for someone who is equally comfortable dreaming big as rolling up their sleeves and digging through the weeds.
+	- Foundation Model (FM) development: Conceive, develop, and validate best-in-class foundation models for DNA and/or RNA, leveraging Ginkgo’s large and diverse proprietary sequencing datasets. Collaborate in cross-functional teams to design and experiment with model architectures, data models, data representations.
+	- Application-specific model development: Conceive, develop, and validate purpose-built models (e.g. fine-tuned) for a range of DNA and RNA design and prediction applications
+	- Influence strategic dataset acquisition: Partner with world-class experimentalists and hundreds of robots to conceive and design experiments to collect high-value training data at unprecedented scale. Influence how routine experiments are performed to maximize future learning potential. 
+	- Influence the roadmap for AI at Ginkgo: Identify opportunities for application of AI and ML across the company, create prototypes, and contribute to overall prioritization and roadmap development for AI at Ginkgo.
+	- Maintain high-quality documentation of your work and discoveries, creating written reports, technical presentations for internal or external audiences, electronic lab notebooks, internal database records, code comments, and software documentation.
+	- Take part in something big: This is a growing team, a significant company focus, and a rapidly evolving field. You will be able to influence where things go and how they change.
+	- Minimum Requirements
+		* Bachelor’s degree and 4+ years, or Master’s degree and 2+ years, of subsequent ***experience in applying AI/ML to biological applications***
+		* ***Subject matter expertise in genetics, genomics, transcription, translation, or RNA biology***
+		* ***Familiarity with recent literature and state of the art for large model architectures and training approaches***
+		* Deep ***knowledge of AI/ML literature as applied to DNA or RNA***
+		* Proficiency with at least one programing language (Python preferred)
+		* ***Experience with building machine/deep learning models with at least one common framework such as PyTorch, Tensorflow, or JAX
+	- Preferred Capabilities and Experience***
+		* PhD in artificial intelligence, computer science, synthetic biology, computational biology, genomics, bioinformatics, quantitative biology, chemical engineering, or another related field. Interdisciplinary work is strongly preferred.
+		* ***Hands-on experience (3+ years) in developing deep neural networks. Deep knowledge of currently available AI model architectures and data schemes. Perspective on advantages and drawbacks of various approaches***
+		* ***Broad knowledge of state-of-art machine learning approaches to biological sequence analysis***
+		* ***Significant hands-on experience in using software libraries such as tensorflow, pytorch, jax, and keras for model construction***
+		* ***Exposure with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster.***
+			+ Flyte
+				- https://flyte.org/
+				- Build & deploy data & ML pipelines, hassle-free
+				- The infinitely scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+				- Create extremely flexible data and ML workflows
+				- End-to-end data lineage
+				- Collaborate with reusable components
+				- Integrate at the platform level
+				- Allocate resources dynamically
+			+ Dagster
+				- https://dagster.io/
+				- Cloud-native orchestration of data pipelines
+				- Ship data pipelines with extraordinary velocity
+				- The cloud-native orchestrator for the whole development lifecycle, with integrated lineage and observability, a declarative programming model, and best-in-class testability.
+				- Manage your data assets with code
+				- An orchestration platform for the development, production, and observation of data assets.
+		* Expertise in best practices for software development, including version control, code reviews, unit testing, and continuous integration. ***Experience in ML model management, MLOps, is a plus***
+		* ***Proven track record of delivering in cross-functional teams and in project management. Excellence in scientific communication***
+		* ***Enthusiasm to learn new techniques. Strong curiosity of areas of biology previously unknown to you***
+	- Total compensation for this role is market driven, with a starting salary of $90K+, as well as company stock awards.
 + skill set:
-	- BLAH.
+	- Senior ML (Machine Learning) Engineer
+	- Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms. 
+	- Ginkgo recently announced a large partnership with Google Cloud to build a generative AI platform for engineering biology and for biosecurity. The AI Enablement team is responsible for delivering the ML expertise required to make this happen. We have an ambitious goal: making it as easy as possible to use AI and ML across all of Ginkgo. We have access to nearly limitless compute capacity: CPU, GPU, or TPU. We partner closely with biologists, software and DevOps engineers, and data scientists to create the necessary ML infrastructure, organize data, invent, evaluate, train, and fine-tune new models and approaches, consult and prototype new applications - whatever needs doing!
+	- As one of the first members of this new team, you will have a large role in establishing the core architecture, making technical choices, and creating patterns of our model training and serving infrastructure. You will help create the data and model provenance and management infrastructure necessary for such a project.
+	- You will work closely with experts in DNA design and Protein Engineering to enable scientists of various levels of exposure to modern ML to create foundation models for biology, train new task-specific models, and leverage existing ones.
+	- On occasion, you may need to do some data archaeology, quickly learn the basics of protein folding or codon optimization, become the company’s expert on a new tool, or pair with your VP to work out capacity planning. You will identify what needs to happen, bring it to the team’s attention, and make it happen.
+	- You will not be expected to be an expert in All The Things. You will be expected to have a high level of general technical competency, be a fast learner brimming with curiosity, and an expert in a few things. 
+	- Build, manage, and evolve a GCP-based platform for large scale  (up to 100B+ parameters) training, evaluation, and serving of Foundation Models for biology. 
+	- Develop, implement and maintain a system for creating smaller models that combine large FMs with additional experimental data to address specific needs and applications.
+	- Own processes for data ingestion, data prep, data and model provenance tracking, and various other data engineering and ML Ops activities.
+	- Contribute to model design and experimentation.
+	- Identify opportunities for application of AI and ML across the company, create prototypes, and contribute to overall prioritization and roadmap development for AI at Ginkgo.
+	- Minimum Requirements
+		* PhD in a scientific discipline and a minimum of 5 years related experience; may include post-doctoral experience; Masters and 7 years of related experience; Bachelors and 9 years of related experience in data engineering, systems engineering, machine learning and operations, MLOps, or similar roles; or equivalent industry experience.
+		* Deep experience with Python.
+		* Experience with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster.
+		* Familiarity with recent literature and state of the art for large model architectures and training approaches
+		* Experience with building machine/deep learning models with at least one common framework such as PyTorch, Tensorflow, or JAX.
+	- Preferred Capabilities and Experience
+		* Practical experience iterating on LLM design 
+		* Familiarity with the ML ecosystem, including MLFlow and related tools
+		* Experience with Terraform or Pulumi, Kubernetes
+			+ Pulumi - Infrastructure as Code in Any Programming Language
+			+ https://www.pulumi.com
+			+ Pulumi's open source infrastructure as code SDK enables you to create, deploy, and manage infrastructure on any cloud, using your favorite languages.
+			+ Automate your infrastructure at any scale
+			+ Your Code, Your Cloud, Your Success
+			+ Build, manage, and scale your infrastructure, secrets, and configurations in one place.
+		* Experience operating non-trivial GCP deployments
+		* Experience with Vertex AI services
+		* Experience with “Cloud Life Sciences” / Google Batch
+	- Total compensation for this role is market driven, with a starting salary of $150K +, as well as company stock awards. 
 + skill set:
-	- BLAH.
+	- Principal Machine Learning Researcher
+	- Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms. 
+	- Ginkgo recently announced a large partnership with Google Cloud to build a generative AI platform for engineering biology and for biosecurity. The AI Enablement team is responsible for delivering the ML expertise required to make this happen. We have an ambitious goal: making it as easy as possible to use AI and ML across all of Ginkgo. We have access to nearly limitless compute capacity: CPU, GPU, or TPU. We partner closely with biologists, software and DevOps engineers, and data scientists to create the necessary ML infrastructure, organize data, invent, evaluate, train, and fine-tune new models and approaches, consult and prototype new applications - whatever needs doing!
+	- As one of the first members of this new team, you will have a large role in molding our approaches to creating foundation models for biology, as well as creating fine-tuned and derived models for specific applications in bioengineering. You will work closely with experts in DNA design and Protein Engineering to achieve this goal.
+	- You will be the go-to expert for deep learning model architectures and training approaches. You will often take the lead on novel model design and evaluation. Many other types of work will come your way. You may need to do data archaeology, create and debug pipelines in tools like Kubeflow or Flyte, quickly learn the basics of protein folding or codon optimization, become the company’s expert on a new tool, debug odd results created by a production model for a project under a time crunch, teach seminars and deliver tech talks, or pair with an engineer to improve the scaling characteristics of our key training pipelines. 
+	- This is a new team, a significant company focus, and a rapidly evolving field. You will need to be able to handle ambiguity and uncertainty; on the flip side, you will be able to influence where things go and how they change.
+	- You will identify what needs to happen, bring it to the team’s attention, and make it happen.
+	- You will not be expected to be an expert in All The Things. You will be expected to have a high level of general technical competency, be a fast learner brimming with curiosity, and an expert in a few things - deep learning, in particular. 
+	- Lead design and evaluation of new foundation models for biology
+	- Establish patterns for creating derived / fine-tuned models for specific biological applications
+	- Leverage Ginkgo’s extensive internally generated data, and public and in-licensed datasets of protein and DNA sequences, assay results, fermentation data time series, research archives, lab notebooks, and more. 
+	- Create processes for appropriate data featurization, model fine-tuning, benchmarks and evaluations, etc.
+	- Work collaboratively with a team of engineers and scientists
+	- Provide guidance, document key decisions, serve as go-to expert in Deep Learning
+	- Identify opportunities for application of AI and ML across the company, create prototypes, and contribute to prioritization and roadmap development for AI at Ginkgo
+	- Share results and learnings through means such as whitepapers, blog posts, workshops, or presentations
+	- Ph.D in Artificial Intelligence, Computer Science, or equivalent (extensive practical experience may be considered in lieu of degree)
+	- Eight or more years of experience in industry
+	- Deep experience with Python.
+	- Expert knowledge of recent literature and state of the art for large model architectures and training approaches
+	- Extensive experience with building and iterating on machine/deep learning models using common frameworks such as PyTorch, Tensorflow, or JAX. Demonstrated expertise in implementing and fine-tuning neural networks, including design choices such as activation functions, loss functions, and regularization techniques.
+	- Excellent ability to explain complex technical concepts, in writing as well as verbally
+	- Experience with data preprocessing techniques, including feature engineering and data augmentation.
+	- Ability to collaborate effectively with cross-functional teams, including data scientists, engineers, and domain experts.
+	- Proficiency in using cloud computing platforms and distributed systems for training large-scale machine learning models.
+	- Familiarity with the ML ecosystem and ability to explain pros and cons of various options
+	- Understanding of explainability and interpretability in machine learning models, and experience with techniques like feature importance analysis or model-agnostic methods.
+	- Familiarity with automated machine learning (AutoML) tools and frameworks like H2O.ai or Google Cloud AutoML.
+	- Experience with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte
+	- Experience with deploying machine learning models in production environments using containerization and deployment tools like Docker or Kubernetes.
+	- Familiarity with Terraform and other standard DevOps tooling
+	- Understanding of cloud services and platforms for machine learning and big data processing. GCP / Vertex AI experience.
+	- Experience operating in non-trivial cloud deployments
+	- Exposure to computational biology, bioinformatics, protein engineering, DNA synthesis, & more: very welcome but not required
+	- Total compensation for this role is market driven, with a starting salary of $170K+, as well as company stock awards. 
 + skill set:
-	- BLAH.
+	- AI/ML Engineer, Therapeutic Protein Design
+	- Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms. 
+	- The Protein Engineering Team works to address the complex challenges of protein and enzyme discovery, optimization, and design. We develop, onboard, stress-test, and utilize state-of-the-art protein discovery and design techniques in a continuously improving suite of AI, machine learning, and computational protein design tools. We are responsible for building a platform to “make proteins easier to engineer”, and deliver on protein design challenges that span a range of applications from health, agriculture, commodity chemicals, materials, flavors and fragrances, and more. 
+	- Ginkgo recently announced a large partnership with Google Cloud to build a generative AI platform for engineering biology and for biosecurity. The Protein Engineering team is responsible for delivering best-in-class foundational models and application-specific models to tackle a range of protein design challenges, from generative models for design of enzyme sequences with novel catalytic functions to developing models for significantly accelerating the development of therapeutic proteins. 
+	- As a Therapeutic Protein Engineer at Ginkgo Bioworks, you will play a vital role in advancing our efforts to engineer and optimize therapeutic proteins for diverse applications. Your expertise in protein design, coupled with your proficiency in machine learning and AI, will enable you to drive the development of novel therapeutic proteins with improved or novel functional characteristics in addition to engineering for developability properties such as solubility, stability, and reduced immunogenicity. 
+	- You will leverage Ginkgo’s wealth of proprietary protein data to design, build, and train novel machine learning and AI models for application to protein design and optimization. We have access to nearly limitless compute capacity: CPU, GPU, or TPU. In addition, you will have access to Ginkgo's experimental platform and resulting large datasets for generating and testing hypotheses using machine learning approaches as well as informing strategic training data acquisition.
+	- Protein Design and Engineering: Lead and contribute to the design and engineering of therapeutic proteins, focusing on enhancing developability attributes such as solubility, stability, prolonged half-life in serum, formulation considerations, and mitigating immunogenicity through computational methods.
+	- Machine Learning and AI Integration: Develop and implement machine learning and AI algorithms to predict and optimize protein properties, allowing for the creation of highly effective and safe therapeutic proteins.
+	- Immunogenicity Mitigation: Apply deep knowledge of immunogenicity mechanisms to design strategies that effectively mitigate immunogenic responses in therapeutic proteins, ensuring their safety and efficacy.
+	- Data Analysis: Analyze extensive biological datasets to extract insights into protein engineering and developability, informing decision-making processes in therapeutic protein development.
+	- Collaboration: Collaborate closely with interdisciplinary teams of scientists, including biochemists, mammalian biological engineers, and other protein designers to translate computational insights into practical therapeutic solutions.
+	- Research and Development: Stay updated with the latest advancements in protein design, machine learning, and AI through active participation in scientific literature review and attendance at relevant conferences.
+	- Influence the roadmap for AI at Ginkgo: Identify opportunities for application of AI and ML across the company, create prototypes, and contribute to overall prioritization and roadmap development for AI at Ginkgo.
+	- Take part in something big: This is a growing team, a significant company focus, and a rapidly evolving field. You will be able to influence where things go and how they change.
+	- PhD in bioengineering, computer science, biophysics, biochemistry, computational biology, bioinformatics, chemical engineering, or related field plus 3 years experience. May include post doctoral or industry experience. Masters plus 5 years additional postgraduate or industry relevant experience. 
+	- Hands-on experience (5+ years) in protein design and engineering, with a deep understanding of developability considerations for therapeutic proteins
+	- Hands-on experience (2+ years) in developing and applying machine learning and AI algorithms for protein design
+	- Broad knowledge of state-of-art machine learning approaches to protein design and biological data analysis. Familiarity with recent literature and state of the art for large model architectures and training approaches
+	- Fluency with Python. Knowledge of best practices for software development, including version control, code reviews, unit testing, and continuous integration
+	- Strong communication skills, both written and verbal, for effective collaboration within interdisciplinary teams
+	- Enthusiasm to learn new techniques. Strong curiosity of areas of biology previously unknown to you
+	- Ability to work independently, manage multiple projects, and meet project timelines
+	- Strong publication record in protein design and engineering for therapeutic protein applications
+	- 4+ years experience in applying protein design to any application within protein binder engineering, bispecific antibody design, CAR-T / cell therapy applications, gene editors, or capsid engineering 
+	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE) a plus. Expertise in the computational modeling of biomacromolecules is a plus
+	- Hand-on wet-lab experience in protein sciences or experience working closely with experimentalists strongly preferred
+	- Total compensation for this role is market driven, with a starting salary of $110K +, as well as company stock awards.
 + skill set:
-	- BLAH.
+	- AI/ML Engineer, Protein Design
+	- Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms. 
+	- The Protein Engineering Team works to address the complex challenges of protein and enzyme discovery, optimization, and design. We develop, onboard, stress-test, and utilize state-of-the-art protein discovery and design techniques in a continuously improving suite of AI, machine learning, and computational protein design tools. We are responsible for building a platform to “make proteins easier to engineer”, and deliver on protein design challenges that span a range of applications from health, agriculture, commodity chemicals, materials, flavors and fragrances, and more. 
+	- Ginkgo recently announced a large partnership with Google Cloud to build a generative AI platform for engineering biology and for biosecurity. The Protein Engineering team is responsible for delivering best-in-class foundational models and application-specific models to tackle a range of protein design challenges, from generative models for design of enzyme sequences with novel catalytic functions to developing models for significantly accelerating the development of therapeutic proteins.
+	- As a Machine Learning / Artificial Intelligence (ML/AI) Protein Engineer, you will leverage Ginkgo’s wealth of proprietary protein data to design, build, and train novel foundational and application-specific (e.g. fine-tuned) AI models for application to protein design and optimization. We have access to nearly limitless compute capacity: CPU, GPU, or TPU. In addition, you will have access to Ginkgo's experimental platform and resulting large datasets for generating and testing hypotheses using machine learning approaches as well as informing strategic training data acquisition. 
+	- We are looking for someone who is excited about the promise of artificial intelligence in synthetic biology and the premier role of biomolecular engineering in biology by design. If you sleep not only to maintain healthy levels of protein in the brain, but also dream of harnessing the power of machine learning and artificial intelligence to design enzymes and other proteins, then you are at the right place.
+	- While this is a fully remote position, you will be expected to travel approximately every six months for company on-sites. There may also be infrequent travel where required with advanced notice and discussion, where appropriate.  
+	- Foundational Model (FM) development: Conceive and develop best-in-class foundational protein language models leveraging Ginkgo’s large and diverse proprietary protein datasets. Collaborate in cross-functional teams to design and experiment with model architectures and data schemes.
+	- Application-specific model development: Conceive and develop purpose-built models (e.g. fine-tuned) for a range of protein design applications leveraging Ginkgo’s unprecedented scale of protein experimental data 
+	- Influence strategic dataset acquisition: Partner with world-class experimentalists and hundreds of robots to conceive and design experiments to collect high-value training data at unprecedented scale. Influence how routine experiments are performed to maximize future learning potential. 
+	- Influence the roadmap for AI at Ginkgo: Identify opportunities for application of AI and ML across the company, create prototypes, and contribute to overall prioritization and roadmap development for AI at Ginkgo.
+	- Take part in something big: This is a growing team, a significant company focus, and a rapidly evolving field. You will be able to influence where things go and how they change.
+	- PhD in bioengineering, computer science, math, biophysics, computational biology, bioinformatics, chemical engineering, or related field. May include post doctoral or industry experience. Masters plus 5 years additional postgraduate or industry relevant experience. 
+	- Hands-on experience (3+ years) in developing large foundation models or fine-tuned applications. Deep knowledge of currently available AI model architectures and data schemes. Perspective on advantages and drawbacks of various approaches. 
+	- Broad knowledge of state-of-art machine learning approaches to protein design and biological data analysis. Familiarity with recent literature and state of the art for large model architectures and training approaches
+	- Fluency with Python. Expertise in best practices for software development, including version control, code reviews, unit testing, and continuous integration. Experience in ML models management, MLOps, is a plus.
+	- Significant hands-on experience in developing software libraries such as tensorflow, pytorch, jax, keras, and scikit for model construction.
+	- Experience with building machine/deep learning models with at least one common framework such as PyTorch, Tensorflow, or JAX. 
+	- Strong communication skills, both written and verbal, for effective collaboration within interdisciplinary teams.
+	- Enthusiasm to learn new techniques. Strong curiosity of areas of biology previously unknown to you.
+	- Ability to work independently, manage multiple projects, and meet project timelines.
+	- Strong publication record in developing and applying AI/ML to protein design and engineering applications 
+	- Some exposure with ML and data orchestration and workflow engines like Airflow, Kubeflow, Flyte, or Dagster.
+	- Knowledge and hands-on experience with physics-based protein modeling and design methods are a plus. Familiarity with at least one type of molecular modeling software such as PyMOL, Rosetta, Schrodinger, Molecular Operating Environment (MOE) a plus. Expertise in the computational modeling of biomacromolecules is a plus.
+	- Hand-on wet-lab experience in protein sciences or experience working closely with experimentalists strongly preferred 
+	- Total compensation for this role is market driven, with a starting salary of $110K+, as well as company stock awards.
 + skill set:
 	- BLAH.
 + skill set:
