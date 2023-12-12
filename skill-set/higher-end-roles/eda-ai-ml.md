@@ -11203,6 +11203,29 @@ Libraries for natural language processing, NLP:
 
 
 
+Language models for natural language processing, NLP, including large language models (LLMs):
++ LLaMA 2 70B
++ GPT - 3.5
++ Mixtral 8x7B
+
+
+Benchmarks for natural language processing, NLP:
++ MMLU (MCQ in 57 subjects)
++ HellaSwag (10-shot)
++ ARC Challenge (25-shot)
++ WinoGrande (5-shot)
++ MBPP (pass@1)
++ GSM-8K (5-shot)
++ MT Bench (for Instruct Models)
+
+
+
+
+
+
+
+
+
 
 Companies involved in natural language processing, NLP:
 + https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/
@@ -11211,7 +11234,7 @@ Companies involved in natural language processing, NLP:
 
 
 
-
+natural language processing
 ####	Skills for Natural Language Processing, NLP
 
 
