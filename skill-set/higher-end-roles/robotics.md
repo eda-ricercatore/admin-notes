@@ -1879,8 +1879,29 @@ Sets of skills in Machine Vision:
 
 
 
+##	Sets of Skills For Autonomous Sea Vehicles
 
 
+Companies that hire engineers to develop autonomous sea vehicles and other autonomous (electric) vehicles include:
++ Onomotion
++ Nimbus, sells Nimbus One
++ WeRide, sells Robobus
++ Zoox, from Amazon, sells robotaxi
++ Viceroy
++ REGENT, sells Viceroy seaglider
++ Volocopter, electrical vertical take-off and landing (eVOTL)
++ Mayflower autonomous research vehicle
++ Candela
++ Zeabuz
++ X Shore, sells X Shore Pro
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 
