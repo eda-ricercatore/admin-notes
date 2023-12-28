@@ -6183,7 +6183,7 @@ Companies that have machine learning -centric products
 	- Publishing and talking at conferences
 	- Working closely with product engineers to design, develop and incorporate AI solutions into new products
 	- Meeting with customers to understand how ML could be applied to their problems
-	- Thinking strategically about research directions
+	- ***Thinking strategically about research directions***
 	- Mentoring more junior researchers and engineers
 	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
 	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
@@ -6198,7 +6198,7 @@ Companies that have machine learning -centric products
 	- Comfortable working in newly forming ambiguous areas where learning and adaptability are key skills
 	- At times, the ability to lead and rally stakeholders and team members
 	- ***Reinforcement Learning and other areas of Control Theory***
-	- Distributed Systems and High Performance Computing methods
+	- ***Distributed Systems and High Performance Computing methods***
 	- ***Geometric Shape Analysis***
 	- ***Advanced simulation methods such as: FEA, CFD, Shape and Design Optimization, Photo-Realistic Rendering, etc***
 	- ***Knowledge Representation (semantic models, graph databases, etc.)***
