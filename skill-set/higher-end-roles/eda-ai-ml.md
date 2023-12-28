@@ -5858,9 +5858,9 @@ Companies that have machine learning -centric products
 	- If you enjoy tackling deep questions in ML research, thrive in roles where ambitious entrepreneurial pursuit of open-ended goals is rewarded, and are strongly motivated to contribute to the roll-out of advanced general AI systems going well, you will find our work here uniquely challenging and rewarding. This role reports to our Trustworthy AI lead.
 	- This role is based in our San Francisco HQ. We offer relocation assistance to new employees.
 	- Research upstream interventions at the level of training data, pre-training, and training
-	- Research and prototype novel evaluation methods in areas such as dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior. 
-	- Work with downstream product and infrastructure teams to build and scale effective tools for responsible deployment
-	- Develop and mentor ML Researchers on the Deployment Planning team
+	- ***Research and prototype novel evaluation methods in areas such as dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior.***
+	- Work with ***downstream product and infrastructure teams*** to ***build and scale effective tools for responsible deployment***
+	- Develop and mentor ML Researchers on the ***Deployment Planning team***
 	- Architect and develop interventions that improve real world impact
 	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
 	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
@@ -5873,13 +5873,13 @@ Companies that have machine learning -centric products
 + Research Scientist, Safety
 	- The Safety Systems team is responsible for various safety work to ensure our best models can be safely deployed to the real world to benefit the society. The work encompasses a wide range of research and engineering projects from detection to model training to model evaluation and red-teaming, aiming to reduce unwanted use cases and ensure model behavior within our safety standard and legal compliance. The Safety Systems team is at the forefront of OpenAI's mission to build and deploy safe AGI, driving our commitment to AI safety and fostering a culture of trust and transparency.
 	- We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth. 
-	- OpenAI is seeking a senior researcher with passion for AI safety and experience in safety research. Your role will set directions for research to enable and empower safe AGI and work on research projects to make our AI systems safer, more aligned and more robust to adversarial or malicious use cases. You will play a critical role in shaping how a safe AI system should look like in the future at OpenAI, making a significant impact on our mission to build and deploy safe AGI.
+	- OpenAI is seeking a senior researcher with passion for AI safety and experience in safety research. Your role will set directions for research to enable and empower safe AGI and work on research projects to make our AI systems safer, more aligned and more robust to adversarial or malicious use cases. You will play a critical role in shaping how a safe AI system should look like in the future at OpenAI, making a significant impact on our mission to build and deploy ***safe AGI***.
 	- Set the research directions and strategies to make our AI systems safer, more aligned and more robust.
-	- Conduct state-of-the-art research on AI safety topics such as RLHF, adversarial training, robustness, and more.
+	- Conduct state-of-the-art research on AI safety topics such as ***RLHF, adversarial training, robustness***, and more.
 	- Coordinate and collaborate with cross-functional teams, including T&S, legal, policy and other research teams, to ensure that our products meet the highest safety standards.
 	- Actively performing safety audits on AI/ML models and systems, identifying areas of risk and proposing mitigation strategies.
 	- Ph.D. in computer science, machine learning, or a related field, with 5+ years of related research experience.
-	- Experience in the field of AI safety, working on topics like RLHF, adversarial training, robustness, fairness & biases, is extremely advantageous.
+	- Experience in the field of AI safety, working on topics like ***RLHF, adversarial training, robustness, fairness & biases***, is extremely advantageous.
 	- Experience in safety work for AI model deployment is a big plus.
 	- Care deeply about AI safety and motivated by work to make the cutting edge AI models safer for real world use;
 	- In-depth understanding of deep learning research and/or strong engineering skills is critical for the success of the role.
@@ -5905,12 +5905,12 @@ Companies that have machine learning -centric products
 	- Establish strong academic collaborations across research disciplines
 	- Doctoral degree in computer science, electrical and computer engineering, or Master's degree with minimum (5) years industry experience developing computer vision and machine learning applications
 	- Strong understanding of machine learning: you should be familiar with the process (data collection, training, evaluation, and making iterative improvements) of building effective learning systems.
-	- Strong hands-on experience with at least one of the main stream deep learning frameworks such TensorFlow, PyTorch, BLVC Caffe, Theano
+	- Strong hands-on experience with at least one of the ***main stream deep learning frameworks such TensorFlow, PyTorch, BLVC Caffe, Theano***
 	- Strong hands-on experience with Python (proficiency), C/C++ (proficiency), Shell Script, Matlab
 	- Strong engineering practices, debugging/profiling skills, familiarity with multi- threaded programming.
-	- Train machine learning and deep learning models on a computing cluster to perform visual recognition tasks, such as segmentation and detection
+	- Train machine learning and deep learning models on a computing cluster to perform ***visual recognition tasks, such as segmentation and detection***
 	- Hands-on experience with GPU accelerated algorithms and implementations
-	- Hands-on experience with state-of-the-art models based on CNNs, RNNs, and LSTMs
+	- Hands-on experience with state-of-the-art models based on ***CNNs, RNNs, and LSTMs***
 	- Excellent communication skills both written and verbal
 	- Interested in early phases of product exploration and iteration based on incomplete requirements.
 	- Solid understanding of computer vision, machine learning, and deep learning algorithms and techniques is required
@@ -5924,24 +5924,24 @@ Companies that have machine learning -centric products
 	- Collaborate with the engineering team to bring  AI services to life
 	- Provide guidance on the performance trade-offs of Deep Learning models in production to the rest of the organization
 	- Ability to write flawless, readable and maintainable code in Python. Experience with Go is a plus.
-	- Familiarity with gRPC and Deep Learning model deployments
-	- Experience in design, development and maintenance of tools for ML data and modeling pipelines, including big data processing, model training and evaluation, continuous integration and development, model quality monitoring and analytics
+	- Familiarity with ***gRPC*** and Deep Learning model deployments
+	- ***Experience in design, development and maintenance of tools for ML data and modeling pipelines, including big data processing, model training and evaluation, continuous integration and development, model quality monitoring and analytics***
 	- Previous experience with developing machine learning infrastructure or experience in using GPUs
 	- Strong analytical skills and a real passion for efficiency of the data and modeling process
-	- Familiarity with deep learning frameworks (e.g. Tensorflow, PyTorch)
-	- Preferred: Experience with on-device deployment of the deep learning models
+	- Familiarity with ***deep learning frameworks (e.g. Tensorflow, PyTorch)***
+	- Preferred: Experience with ***on-device deployment of the deep learning models***
 	- Preferred: Ability to deal well with ambiguous problems, and proceed with good judgement
-	- Preferred: Knowledge and experience with Google Cloud Platform and Kubernetes
-+ Familiar with a certain deep learning framework, such as TensorFlow, MXNet, Caffe, Torch, etc., and have a deep understanding of deep learning
+	- Preferred: Knowledge and experience with ***Google Cloud Platform and Kubernetes***
++ Familiar with a certain ***deep learning framework, such as TensorFlow, MXNet, Caffe, Torch***, etc., and have a deep understanding of deep learning
 + skill set for SOFTWARE ENGINEER (INTERN)—DEEP LEARNING/MACHINE LEARNING /COMPUTER VISION
-	- Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.
-	- Development of AI profiling tools for neural processor engines to optimize the deep neural network architectures
+	- ***Software performance bottleneck analysis of frameworks, tools, and run-time to develop and integrate full stack solutions using a variety of neural network architectures.***
+	- Development of ***AI profiling tools for neural processor engines to optimize the deep neural network architectures***
 	- Bachelor's /Master's degree. in Computer Science, Machine Learning, or similar field (Master's degree is preferred)
 	- Basic knowledge on object-oriented software design skills
 	- Software engineering experience in an academic or industrial setting.
 	- Experience with Python, C++/C, and object-oriented programming skills demonstrated through relevant industry experience.
-	- Hands-on experience running machine learning toolkits such Caffe/Caffe2, PyTorch, and TensorFlow 
-	- Basic knowledge of machine learning concepts, algorithms and architectures, including CNNs, LSTM-RNNs, etc
+	- ***Hands-on experience running machine learning toolkits such Caffe/Caffe2, PyTorch, and TensorFlow***
+	- Basic knowledge of machine learning concepts, algorithms and architectures, including ***CNNs, LSTM-RNNs***, etc
 	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
 	- Location: San Diego, CA.
 + skill set:
