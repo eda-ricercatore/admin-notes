@@ -6048,14 +6048,14 @@ Companies that have machine learning -centric products
 		* You are a reliable team-player. You like to think big and go deeper. You care about openness and delivering with integrity.
 	- Please add a link to Google Scholar and include a full list of publications when submitting your CV to this position.
 + skill set:
-	- The machine learning research scientist's primary role is to work with other R&D team members to imagine, define, and develop BrainChip's spiking neural network technology. This research takes place at the interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware. The research scientist will also be involved in developing commercial applications for BrainChip's Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion. Additionally, the team member will support the research team's algorithm development for the next version of the Akida NSoC.
+	- The machine learning research scientist's primary role is to work with other R&D team members to imagine, define, and develop ***BrainChip's spiking neural network technology***. This research takes place at the ***interface between machine learning algorithms, event-based algorithms, and neuromorphic hardware***. The research scientist will also be involved in developing commercial applications for BrainChip's Akida Neuromorphic System-on-Chip (NSoC). Target commercial application topics include ***computer vision (object classification/detection and face recognition), audio processing (keyword spotting), and sensor fusion***. Additionally, the team member will support the research team's algorithm development for the next version of the Akida NSoC.
 	- Ph.D. in computer science (or equivalent) or MS in computer science with +5 years of machine learning experience
 	- 3+ years of machine learning experience using Python
-	- Experience with supervised, unsupervised, and reinforcement learning
-	- Experience in popular Deep Learning/Machine Learning frameworks (Keras, Tensorflow, PyTorch, Scikit-learn, etc.)
-	- Experience in one or more of the following application fields: Image Processing/Computer Vision, ADAS, Anomaly Detection, Audio/Speech Processing, or Sensor Fusion.
-	- Experience in Neuromorphic Engineering and/or Spiking Neural Networks
-	- Experience with event-based algorithms
+	- Experience with ***supervised, unsupervised, and reinforcement learning***
+	- Experience in popular ***Deep Learning/Machine Learning frameworks (Keras, Tensorflow, PyTorch, Scikit-learn, etc.)***
+	- Experience in one or more of the following application fields: ***Image Processing/Computer Vision, ADAS, Anomaly Detection, Audio/Speech Processing, or Sensor Fusion***.
+	- Experience in ***Neuromorphic Engineering and/or Spiking Neural Networks***
+	- Experience with ***event-based algorithms***
 	- Experience with Git version control system
 + skill set for Deep Learning Architect Intern:
 	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today's hardware and software, this is the place to be.
