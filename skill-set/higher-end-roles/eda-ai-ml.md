@@ -5550,8 +5550,8 @@ Companies that have machine learning -centric products
 	- Publications in relevant top venues (e.g., ***KDD, NIPS, ICML, AAAI, IJCAI, ICDM, ACL*** etc.)
 	- You have publications in communities such as ***WWW, SIGIR, FAT\*, NeurIPS, WSDM, SIGDIAL, RecSys, CHI, KDD, AAAI, ACL, ICML***, or related.
 	- You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with ***XGBoost, TensorFlow*** is also a plus.
-	- You preferably have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio and cloud platforms like GCP or AWS.
-	- Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+	- You preferably have experience with ***data pipeline tools like Apache Beam*** or even our ***open source API for it, Scio*** and cloud platforms like GCP or AWS.
+	- Extensive experience manipulating and analysing complex data with SQL, Python and/or R. Knowledge of ***Google BigQuery*** and Java/Scala is a plus.
 	- Familiarity with marketing tracking platforms (e.g. ***DoubleClick, Google Tag Manager, Google Analytics***) preferred
 	- Become an expert on leveraging existing state-of-the-art tooling into the Spotify eco-system (***TensorFlow, TFX, Kubeflow Pipelines, Cloud Bigtable***)
 	- Contribute to new and existing Spotify open source machine learning and data processing products (scio, zoltar)
@@ -5588,7 +5588,7 @@ Companies that have machine learning -centric products
 	- Contribute to the research community by publishing cutting edge research papers
 	- PhD in a technical field such as computer science or equivalent experience
 	- Experience in computer vision, machine learning, deep learning, graphics
-	- Successful record of publication in top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, CVPR, ECCV, ICCV, SIGGRAPH)
+	- Successful record of publication in top-tier international research venues (e.g. ***ICLR, AAAI, NeurIPS, CVPR, ECCV, ICCV, SIGGRAPH***)
 	- Programming experience in one or more of the following: Python, C, C++
 	- 1+ years of industrial or academic experience beyond internships or post doctoral positions
 	- Efficient and scalable algorithm design and problem solving skills
@@ -5622,7 +5622,7 @@ Companies that have machine learning -centric products
 	- 3+ years of research or industry experience
 	- 5+ years of research or industry experience
 	- Track record of innovative work in the area of computational imaging
-	- Experience or familiarity with imaging optics, illumination techniques, image processing, computer vision and computer graphics
+	- Experience or familiarity with ***imaging optics, illumination techniques, image processing, computer vision and computer graphics***
 	- Ability to perform research that is justified and guided by business opportunities
 	- Ability to thrive in a fast-paced, ever-changing work environment
 	- Successful record of publication in top-tier international research venues
@@ -5630,7 +5630,7 @@ Companies that have machine learning -centric products
 	- Hands-on research experience and fast prototyping skills
 	- Ability to lead small group of talented researchers to deliver on a high-impact research project
 + skill set:
-	- SmartNews is a leading mobile app of news aggregation services. It analyzes millions of articles to deliver most engaging information with high quality in near-real time fashion to millions of users around the world. Our AI Foundation team is responsible to research and develop world-class AI algorithms that can be applied at large scale to accomplish our mission. It works on a range of content understanding, user modeling and recommendation problems, which include natural language processing tasks of classification, entity recognition, summarization, computer vision of image/video processing, collaborative filtering, etc. The team generally produce good content/user signals and state-of-art recommendation models to News Ranking/Ads Ranking team to deliver the world's high quality information to the people who need it.
+	- SmartNews is a leading mobile app of news aggregation services. It analyzes millions of articles to deliver most engaging information with high quality in near-real time fashion to millions of users around the world. Our AI Foundation team is responsible to research and develop world-class AI algorithms that can be applied at large scale to accomplish our mission. It works on a range of ***content understanding, user modeling and recommendation problems, which include natural language processing tasks of classification, entity recognition, summarization, computer vision of image/video processing, collaborative filtering***, etc. The team generally produce good content/user signals and state-of-art recommendation models to News Ranking/Ads Ranking team to deliver the world's high quality information to the people who need it.
 	- Responsibilities
 		* Set technical and research roadmap for AI Foundation or even company level machine learning roadmaps (at principal level) and able to lead its implementation
 		* The ability to solve hardest issues of AI Foundation team from fundamental algorithm development, implementation and optimization to deliver product metrics
@@ -5657,12 +5657,12 @@ Companies that have machine learning -centric products
 		* Strong interest in news media and our mission
 		* Strong domain expertise in recommendation algorithms
 + skill set:
-	- We use regression, Bayesian methods, tree-based learners, SVM, RF, XGBOOST, time series modelling, dimensionality reduction, SEM, GLM, GLMM, clustering etc on a regular basis.
-	- Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, Price Optimization
-	- Experience of working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights, and visualizations
-	- Detailed knowledge of XGboost, classification models, RF, understanding of Error metrics (RMSE, MSE, MAE), model fine tuning, feature selection, model selection
+	- We use ***regression, Bayesian methods, tree-based learners, SVM, RF, XGBOOST, time series modelling, dimensionality reduction, SEM, GLM, GLMM, clustering*** etc on a regular basis.
+	- Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: ***Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, Price Optimization***
+	- Experience of ***working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights, and visualizations***
+	- Detailed knowledge of ***XGboost, classification models, RF, understanding of Error metrics (RMSE, MSE, MAE), model fine tuning, feature selection, model selection***
 + skill set:
-	- Good knowledge of machine learning algorithms like Neural network, CNN, Logistic regression, KNN, Random forest, decision tree, clustering etc.
+	- Good knowledge of machine learning algorithms like ***Neural network, CNN, Logistic regression, KNN, Random forest, decision tree, clustering*** etc.
 	- Decent depth in understanding ML algorithm concepts like supervised/unsupervised, regression/classification, time series algorithms
 + skill set for ***Deep Learning Research Scientist at DeepScale***:
 	- DeepScale was founded by the deep learning researchers from UC Berkeley who created SqueezeNet. DeepScale is developing perception systems that enable automated vehicles to interpret their environment in real-time using low-cost hardware.
@@ -5673,8 +5673,8 @@ Companies that have machine learning -centric products
 + AI Research Scientist
 	- AI Research @ Autodesk
 	- As an AI Research Scientist at Autodesk Research, you will be doing fundamental and applied research that will help our customers imagine, design, and make a better world. We are a team of scientists, researchers, engineers, and designers working together on projects that range from learning-based design systems, computer vision, graphics, robotics, human-computer interaction, sustainability, simulation, manufacturing, architectural design and construction.
-	- As a member of the AI Lab in Autodesk Research you will be an experts in research areas such as artificial intelligence, deep learning, generative AI, machine learning, computer vision, reinforcement learning, information retrieval, and natural language processing.
-	- Autodesk's AI Lab is active in the wider research community, targeting publications at CVPR, NeurIPS, ICML, ICLR, SIGGRAPH, and other top-tier conferences. We collaborate with top academic & industry labs, combining the best of an academic environment with product-guided research. We are a global team, located in London, Germany and Italy
+	- As a member of the AI Lab in Autodesk Research you will be an experts in research areas such as ***artificial intelligence, deep learning, generative AI, machine learning, computer vision, reinforcement learning, information retrieval, and natural language processing***.
+	- Autodesk's AI Lab is active in the wider research community, targeting publications at ***CVPR, NeurIPS, ICML, ICLR, SIGGRAPH***, and other top-tier conferences. We collaborate with top academic & industry labs, combining the best of an academic environment with product-guided research. We are a global team, located in London, Germany and Italy
 	- Location: Flexible EMEA: UK, London, Italy, Germany
 	- Explore and develop new ML models and AI techniques
 	- Lead and collaborate on research projects within a global team
@@ -5688,19 +5688,20 @@ Companies that have machine learning -centric products
 		* A Master's or PhD in a field related to AI/ML such as: Computer Science, Mathematics, Statistics, Physics, Linguistics, Mechanical Engineering, Architecture or related disciplines
 		* Publication track record in machine learning conferences and/or journals
 		* Significant post-graduate research experience, or 5 or greater years of work experience (actual job title/position will be commensurate to experience)
-		* Strong background in statistical methods for Machine Learning (e.g. Bayesian methods, HMMs, graphical models, dimension reduction, clustering, classification, regression techniques, etc.)
-		* Familiarity with Deep Learning techniques (e.g. Network architectures, regularization techniques, learning techniques, loss-functions, optimization strategies, etc.)
-		* Familiarity with PyTorch, TensorFlow, JAX or similar frameworks
+		* Strong background in statistical methods for Machine Learning (e.g. ***Bayesian methods, HMMs, graphical models, dimension reduction, clustering, classification, regression techniques***, etc.)
+		* Familiarity with Deep Learning techniques (e.g. ***Network architectures, regularization techniques, learning techniques, loss-functions, optimization strategies***, etc.)
+		* Familiarity with ***PyTorch, TensorFlow, JAX*** or similar frameworks
 		* Strong coding abilities in Python and/or C++
-		* LLMs and Natural Language ProcessingReinforcement Learning
-		* Computational geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, geometric deep learning, graph neural networks)
-		* Multi-modal deep learning and/or information retrieval
+		* LLMs and Natural Language Processing
+		* Reinforcement Learning
+		* ***Computational geometry and geometric methods (e.g. shape analysis, topology, differential geometry, discrete geometry, functional mapping, geometric deep learning, graph neural networks)***
+		* ***Multi-modal deep learning and/or information retrieval***
 		* Architecture, Construction, Manufacturing, Media & Entertainment or other Autodesk domains
 + skill set for Machine Learning Researcher:
 	- Specific Skills That Will Set You Apart from the Competition:
-		* Privacy-preserving machine learning
-		* Decentralized machine learning
-		* Deep knowledge of adtech
+		* ***Privacy-preserving machine learning***
+		* ***Decentralized machine learning***
+		* Deep knowledge of ***adtech***
 		* Ph.D. in computer science from a top-tier school
 	- Demonstrates a high level of initiative and consistently delivers high-quality answers
 	- Has an enquiring mind and a disciplined scientific approach to extracting facts and understanding observed behavior
@@ -5709,11 +5710,11 @@ Companies that have machine learning -centric products
 	- Comfortable with JavaScript and C++ so that they can effectively interact with the rest of the team. Knowledge of Python, Java or C# is also strongly encouraged.
 	- Has a proven track record implementing data driven products and a broad understanding of the state of the art in machine learning
 	- Comfortable working in an open source setting
-	- Able to create and deploy machine learning pipelines
-	- Has a passion for helping protect users' privacy and security
+	- Able to ***create and deploy machine learning pipelines***
+	- Has a passion for helping ***protect users' privacy and security***
 	- A Ph.D. in computer science is highly preferred, but we may consider some exceptions
-	- Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering, etc. and a good grasp of the strengths and weaknesses of specific approaches
-	- Basic data cleansing and preparation, variable preprocessing/transformation
+	- ***Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering***, etc. and a good grasp of the strengths and weaknesses of specific approaches
+	- Basic ***data cleansing and preparation, variable preprocessing/transformation***
 	- Univariate analysis, performing statistical tests, covariance analysis, multivariate analysis and linear/non-linear regression
 	- Preparation of data sets for predictive modelling, robust predictive model building, validation and application
 	- Automation of statistical processes and integration into a bigger product
