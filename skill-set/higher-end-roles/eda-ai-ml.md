@@ -900,9 +900,32 @@ Skill sets for STCO and DTCO:
 	- Experience in developing and debugging in C/C++, Python and/or PyTorch. 
 	- Excellent communication skills.
 	- Publications in top conferences on computer architecture and design automation conferences or related topics. 
-
-
-
++ Research Scientist Intern, AI & System Co-Design (PhD)
+	- Bellevue, WA | Menlo Park, CA
+	- AI System SW/HW Co-design team’s mission is to explore, develop and help productize high-performance software and hardware technologies for AI at datacenter scale. We achieve this via concurrent design and optimization of many aspects of the system such as models, algorithms, numerics, performance and AI hardware including compute, networking and storage. In essence, we drive the AI HW roadmap at Meta and ensure our existing and future AI workloads and software are well optimized and suited for the hardware infrastructure. 
+	- We’re a diverse group of problem solvers driven by a culture of experimentation and innovation. As a Research Scientist Intern, you will be a key member of a team of innovators, working on leading AI workloads, distributed systems, and developing architecture to enable the future of AI SW/HW co-design. 
+	- Our team at Meta AI offers twelve (12) to sixteen (16) weeks long internships and we have various start dates throughout the year. To learn more about our research, visit https://ai.facebook.com.
+	- Lead and support research that accelerates ML applications over one or more of software, system and accelerator architectures, optimizing training and/or inference of next gen AI workloads here at Meta.
+	- Work towards long-term ambitious research goals, while identifying intermediate milestones.
+	- Lead and collaborate on research projects with other researchers and engineers across diverse disciplines.
+	- Communicate research agenda, progress and results.
+	- Influence progress of relevant research communities by producing publications.
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Currently has, or is in the process of obtaining, PhD degree in the field of Computer Science or a related STEM field.
+		* Strong knowledge of Computer Architecture and Distributed systems with interest in one or more of High Performance Computing, Numerics, Performance and AI hardware including compute, networking and storage.
+		* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Preferred Qualifications
+		* Track record of achieving results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences such as MICRO, ISCA, HPCA, ASPLOS, ATC, SOSP, OSDI, MLSys or similar.
+		* 2+ years experience in one or more of High Performance Computing, Numerics, Performance and AI hardware including compute, networking and storage.
+		* Experience or knowledge in developing and debugging in C/C++, Python and/or PyTorch.
+		* Experience driving original scholarship in collaboration with a team.
+		* Experience leading a team in solving analytical problems using quantitative approaches.
+		* Interpersonal experience: cross-group and cross-culture collaboration.
+		* Experience in theoretical and empirical research and for answering questions with research.
+		* Experience communicating research for public audiences of peers.
+		* Intent to return to degree-program after the completion of the internship/co-op.
+	- $7,650/month to $11,333/month + benefits
 
 
 
@@ -5444,10 +5467,6 @@ Companies that have machine learning -centric products
 
 
 
-
-
-
-
 ***Machine Learning Scientist*** and ***Deep Learning Scientist*** roles:
 + machine learning frameworks:
 	- JAX
@@ -5521,10 +5540,10 @@ Companies that have machine learning -centric products
 + platform-agnostic machine learning development
 + Strong understanding of ***Model optimization, Pruning, Tuning, ONNX, Distiller, Quantization***
 + Experience framework such as ***MLflow, Kubeflow, Airflow, Seldon Core, TFServing*** etc
-+ Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, deep neural networks, etc
++ Experience with a number of ML techniques and frameworks, e.g. ***data discretization, normalization, sampling, linear regression, decision trees, deep neural networks***, etc
 + tech stack:
-	- Research publications at relevant conferences such as SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA a major plus.
-	- Expertise in Deep Learning, Machine learning and familiarity with tools like Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB etc. and related areas.
+	- Research publications at relevant conferences such as ***SIGGRAPH, ACM Trans on Graphics, CVPR, ICCV, ICCP, SPIE, JOSA*** a major plus.
+	- Expertise in Deep Learning, Machine learning and familiarity with tools like ***Scipy, Boost, Caffe, TensorFlow, OpenCV, DLIB*** etc. and related areas.
 + tech stack:
 	- Publication record in top conferences (***ICML, ICLR, NIPS, KDD, IJCAI, AAAI*** etc )
 	- Good knowledge and handson experience in distributed technologies such as ***Hadoop, Hive, Spark*** Experience in Scala programming language.
@@ -6569,10 +6588,7 @@ Companies that have machine learning -centric products
 
 
 
-
-
-
-
+###	Machine Learning Engineer & Deep Learning Engineer Roles
 
 
 
@@ -9827,7 +9843,7 @@ Companies that have machine learning -centric products
 
 
 
-
+###	Machine Learning Manager & Deep Learning Manager Roles
 
 
 
@@ -10260,7 +10276,7 @@ Skill sets for machine learning for fairness, accountability, transparency, and 
 
 
 
-For applications of machine learning, or ML, in the following fields, see the *Markdown* document for [](bio-biochem-biotech-pharma.md)
+For applications of machine learning, or ML, in the following fields, see the *Markdown* document for [Skill Set for the Biotechnology & Pharmaceutical Industry](bio-biochem-biotech-pharma.md)
 + bioinformatics
 + bio design automation, BDA
 + bio manufacturing automation
@@ -10588,6 +10604,88 @@ Skill sets for generic applied machine learning, applied ML
 
 
 
+###	Notes and Skill Sets about Applied Machine Learning, Applied ML, for Computational Science (or Scientific Computing)
+
+
+
+
+Skill sets about applied machine learning, applied ML, for computational science (or scientific computing):
++ skill set:
+	- Research Engineer - FAIR AI-Guided Design
+	- Our team is a part of FAIR’s AI guided design group. The vision of the team is to create an AI design agent which can be used by optics experts to achieve fundamental breakthroughs in the field of optics and scientifically guided AI. These breakthroughs will power advances across the field of optics, but particularly in the design of optical devices, e.g. photonic integrated circuits. We are hiring AI engineers and scientists to advance this effort. The work will be done in collaboration with world class computational experts in optics and AI.
+	- Work with both optical engineers / scientists to integrate AI into optical design workflows
+	- Work with AI engineers / scientists to develop datasets and training pipelines for physics grounded AI models
+	- Publish research in top tier conferences / journals
+	- Lead, collaborate, and execute on research that pushes forward the state-of-the-art physics guided generative models
+	- Mentor engineers / scientists on engineering best practices, building AI tooling, improving performance in simulations and training
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+		* 3+ year(s) of work experience in an industry, university, or government lab
+		* Research experience in one or more of these areas: generative AI, AI for science / mathematics, machine learning, deep learning, or related field
+		* Experience writing software and executing complex experiments involving AI models and large datasets
+		* Experience working with machine learning libraries like Pytorch, Tensorflow, etc.
+		* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Preferred Qualifications
+		* A PhD in Artificial Intelligence (AI), computer science, or related technical fields
+		* Experience in applying generative AI to at least one scientific / mathematics problem. Examples could include: using theoretical knowledge, e.g of physics / optics, to build in prior to the AI architecture, design of biological systems, e.g. proteins or antibodies, applying AI to solve intractable computational problems
+		* 4+ year(s) of work experience in an industry, university, or government lab
+		* Experience with scientific computing, distributed computation, scaling computational experiments, working with physical, chemical, or biological simulations
+		* Experience working and communicating cross functionally
+		* First author publications experience at peer-reviewed AI conferences (e.g., ICML, NeurIPS, Nature etc)
+		* $143,000/year to $204,000/year + bonus + equity + benefits
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -10595,6 +10693,91 @@ Skill sets for generic applied machine learning, applied ML
 
 
 
+
+
+###	Generative AI
+
+
+####	Notes about Generative AI
+
+
+
+
+
+
+
+
+
+
+
+
+####	Skill Sets about Generative AI
+
+
+
++ skill set:
+	- Research Engineer, Language - Generative AI
+	- Meta is seeking a Research Engineer to join our Large Language Model (LLM) Research team. We conduct focused research and engineering to build state-of-the-art LLMs, which we often open-source, like our team’s recent Llama 2. We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling.
+	- Design methods, tools, and infrastructure to push forward the state of the art in large language models.
+	- Define research goals informed by practical engineering concerns.
+	- Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results.
+	- Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU).
+	- Work with a large and globally distributed team.
+	- Contribute to publications and open-sourcing efforts.
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+		* Research experience in machine learning, deep learning, and/or natural language processing.
+		* Experience with developing machine learning models at scale from inception to business impact.
+		* Programming experience in Python and hands-on experience with frameworks such as PyTorch.
+		* Exposure to architectural patterns of large scale software applications.
+		* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Preferred Qualifications
+		* Master's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+		* A PhD in AI, computer science, data science, or related technical fields.
+		* Direct experience in generative AI and LLM research.
+		* First author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).
+	- $143,000/year to $204,000/year + bonus + equity + benefits
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 
@@ -11099,11 +11282,65 @@ Skill sets for ***computer vision***:
 	- Understanding of computer architecture and ability to optimize and customize algorithm libraries via algorithms and machine code instructions (preferred)
 	- Knowledge of the transportation, finance, industrial control, and environment protection industries (preferred)
 + skill set:
-	- BLAH.
+	- ***AI Research Scientist - Computer Vision (Technical Leadership)***
+	- Pittsburgh, PA | Menlo Park, CA | New York, NY
+	- Meta is seeking exceptional AI Research Scientists to join our AI organization. Individuals in this role are expected to be recognized experts in areas such as artificial intelligence, machine learning, computational statistics, and applied mathematics, particularly including areas such as deep learning, graphical models, reinforcement learning, computer perception, natural language processing and data representation. The ideal candidate will have an interest in producing new science to understand intelligence and technology to make computers more intelligent, and an equal interest in taking new research findings in this area and implementing it towards production ready problems.
+	- Help Advance the science and technology of intelligent machines
+	- Contribute to research that enables learning the semantics of data (images, video, text, audio and other modalities)
+	- Work on projects, strategies, and problems of moderate to high complexity and scope. Can identify and define both short & medium term objectives
+	- Design policies, processes, procedures, methods, tests, and/or components, from the ground up and with the understanding of how to put together end-to-end systems
+	- Independently lead projects and work cross-functionally to bring research advancements to production teams and Meta Products
+	- Influence progress of relevant research communities by producing publications
+	- Devise better data-driven models of human behavior
+	- Plan and execute cutting-edge research and development to advance the state-of-the-art in machine perception, mapping, reconstruction and localization, as well as 3D scene understanding across optical/inertial/wireless sensing systems
+	- Collaborate with other researchers and engineers across machine perception teams at Meta to develop experiments, prototypes, and concepts that advance the state-of-the-art in AR/VR systems
+	- Work with the team to help design, setup, and run practical experiments and prototype systems related to large-scale long-duration sensing and machine reasoning
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+		* PhD in the following fields: Computer Vision, Robotics, State Estimation, 3D Reconstruction, Object Tracking, Physics based models, or a related field
+		* Experience in applying research to production problems
+		* Experience leading a team in solving modeling problems using AI/ML approaches
+		* Experience communicating research for public audiences of peers
+		* Proven publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields
+		* Experience with real world system building and data collection, including design, coding (C++) and evaluation (C++/Python)
+		* Hands-on experience implementing 3D computer vision algorithms, Sensor Fusion, Reconstruction, Object Tracking, Mapping, and Image Processing
+	- Preferred Qualifications
+		* Experience holding a faculty, industry, or government researcher position in a role with primary emphasis on AI research
+		* Experience showing first-author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
+		* Experience in developing and debugging in C/C++, Python, or C#
+		* Experience in real-time computer graphics or modern GPU programming (CUDA, OpenGL, OpenCL)
+		* Experience with designing (products or open-source) software for inertial/optical/wireless sensing devices
+		* Experience working in a Unix environment
+	- $205,000/year to $281,000/year + bonus + equity + benefits
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Research Scientist Intern, Computer Vision
+	- Paris, France
+	- Meta was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Meta offers countless ways to make an impact in a fast growing organization.
+	- We are committed to advancing the field of artificial intelligence by making fundamental advances in technologies to help interact with and understand our world. We are seeking individuals passionate in areas such as deep learning, computer vision, audio and speech processing, natural language processing, machine learning, reinforcement learning, computational statistics, and applied mathematics. Our interns have an opportunity to make core algorithmic advances and apply their ideas at an unprecedented scale.
+	- We offer twelve (12) to twenty-four (24) weeks long internships and we have various start dates throughout the year.
+	- Develop novel state-of-the-art computer vision algorithms and corresponding systems, leveraging various deep learning techniques.
+	- Based on the project, help analyze and improve efficiency, scalability, and stability of corresponding deployed algorithms.
+	- Perform research to advance the science and technology of intelligent machines.
+	- Perform research that enables learning the semantics of data (images, video, text, audio, and other modalities).
+	- Collaborate with researchers and cross-functional partners including communicating research plans, progress, and results.
+	- Publish research results and contribute to research that can be applied to Meta product development.
+	- Minimum Qualifications
+		* Currently has or is in the process of obtaining a Masters degree in Computer Science, Computer Vision, Artificial Intelligence, or relevant technical field.
+		* Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment.
+		* Experience with Python, C++, C, Java or other related language.
+		* Experience building systems based on machine learning and/or deep learning methods.
+	- Preferred Qualifications
+		* Intent to return to degree program after the completion of the internship/co-op.
+		* Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL or similar.
+		* Experience working and communicating cross functionally in a team environment.
+		* Experience in advancing AI techniques in computer vision, including core contributions to open source libraries and frameworks in computer vision.
+		* Publications or experience in machine learning, AI, computer vision, optimization, computer science, statistics, applied mathematics, or data science.
+		* Experience solving analytical problems using quantitative approaches.
+		* Experience setting up ML experiments and analyze their results.
+		* Experience manipulating and analyzing complex, large scale, high-dimensionality data from varying sources.
+		* Experience in utilizing theoretical and empirical research to solve problems.
+		* Experience with deep learning frameworks.
 + skill set:
 	- BLAH.
 + skill set:
@@ -11234,7 +11471,7 @@ Companies involved in natural language processing, NLP:
 
 
 
-natural language processing
+
 ####	Skills for Natural Language Processing, NLP
 
 

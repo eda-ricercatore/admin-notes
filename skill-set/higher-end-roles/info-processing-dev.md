@@ -1227,11 +1227,90 @@ These skill sets for extended reality, includes skill sets for the following:
 	- Understanding of computer vision algorithms, spatial mapping, shaders
 	- Possess new technology curiosity and a history of self-technical education
 + skill set:
-	- BLAH.
+	- Research Scientist Intern, AI-Driven Neural Interfaces for AR/VR (PhD)
+	- Meta Reality Labs is looking for Research Scientist Intern to help us unleash human potential by eliminating the bottlenecks between intent and action. To achieve this, we're building a practical neural interface drawing on the rich neuromotor signals that can be measured non-invasively using electromyography (EMG).
+	- Our research lies at the intersection of computational neuroscience, machine learning, signal processing, statistics, biophysics, motor learning, perceptual psychophysics, 3D interfaces, AR/VR and human-computer interaction.
+	- We're looking for people who want to shape the future of this technology and are excited about joining our collaborative research team that has grown out of the acquisition of CTRL-labs.
+	- As a Research Scientist Intern working at the Reality Labs, you will be responsible for the implementation and acceleration of our EMG machine learning platform; create new AI models, tools, and infrastructure that unlock the capabilities of our technology; productionize our research results, and work with scientists, software engineers, hardware engineers and designers to advance the company's AI-driven AR/VR agenda.
+	- Our internships are twelve (12) to twenty four (24) weeks long, and we have various start dates throughout the year.
+	- Research and develop Deep Learning or other computational models at the intersection of Computer Vision, Natural Language Processing and EMG signal processing.
+	- Design methods, tools and infrastructure to analyze and leverage rich multimodal data sets.
+	- Collaborate with research scientists and research engineers to develop innovative deep learning models that define the next generation EMG-based AR/VR interaction techniques.
+	- Work side-by-side with research scientists to integrate core science goals to the deliverables.
+	- Define short term research goals, informed by practical engineering concerns.
+	- Help transition and deliver our work from research into product.
+	- Minimum Qualifications
+		* Currently has, or is in the process of obtaining a PhD, in one or more of the following fields: machine learning, speech and language technologies, signal processing, electrical engineering, computer science, statistics, physics, or related fields.
+		* Research experience in machine learning, deep learning, computer vision and/or natural language processing.
+		* Programming experience in Python and hands-on experience with frameworks such as PyTorch.
+	- Preferred Qualifications
+		* Intent to return to degree program after the completion of the internship.
+		* Demonstrated software engineering experience via an internship, work experience, coding competitions, open source contributions, or research.
+		* Working in research environments where rapid iteration and flexibility is prioritized.
+		* Experience with productizing new research results.
+		* Experience in neuroscience, EMG, brain-machine interfaces, or human-computer interactions.
 + skill set:
-	- BLAH.
+	- Research Scientist, Novel View Synthesis and Neural Rendering, Live Telepresence
+	- Reality Labs (RL) Research is dedicated to the research and development required to bring virtual and augmented reality to billions of people around the world. In our Codec Avatars lab, we aspire to a vision of social VR and AR, where people are able to interact with each other across distances in a way that is indistinguishable from in-person interactions. 
+	- We are looking for an exceptional researcher with a proven track record in using machine learning for solving computer vision and graphics problems (e.g., neural rendering, view synthesis, generative models for images and videos) as well as an outstanding software engineer who can prototype invented algorithms.
+	- As a Research Scientist at RLR, you will pursue research, and work with other Computer Vision and Machine Learning Researchers and Engineers to solve challenges at the forefront of computer vision and graphics that transform virtual reality from dream to reality. We are looking for a creative researcher to usher in the next era of efficient view synthesis and neural rendering approaches for avatars.
+	- Participating in cutting edge research in neural rendering, computer vision, and graphics
+	- Developing efficient deep neural network models for 3D content generation and tracking
+	- Publish research results in top-tier journals and at leading international conferences
+	- Contributing research that can be applied to Meta VR/AR product development
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+		* Currently has, or is in the process of obtaining, a PhD and/or postdoctoral assignment in the field of computer vision, computer graphics, machine learning or a related field.
+		* Proven track record in using machine learning and computer vision.
+		* Experience with neural rendering, view synthesis, or 3D reconstruction.
+		* Interpersonal experience: cross-group and cross-culture collaboration.
+		* Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Preferred Qualifications
+		* Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading conferences (e.g., SIGGRAPH, CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML) or journals (e.g., PAMI, IJCV, JMLR, ToG).
+		* 3+ years experience designing and developing computer vision or machine learning algorithms in C++.
+		* 3+ years of experience with prototyping algorithms in Python.
+		* Experience with neural rendering approaches such as NeRF.
+		* Experience in 3D computer vision, graphics, and deep learning models for this domain.
+		* Demonstrated software engineer experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)
+		* Experience with data-parallel (e.g., CUDA) or graphics (e.g., OpenGL, Vulcan) programming.
+	- $143,000/year to $204,000/year + bonus + equity + benefits
 + skill set:
-	- BLAH.
+	- Research Scientist Intern, Photorealistic Telepresence (PhD)
+	- Pittsburgh, PA
+	- Meta’s mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Meta are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+	- Reality Labs (RL) in Pittsburgh is looking for exceptional interns to help us create a revolution in virtual reality: achieving true photorealistic telepresence, where you can be with anyone, anywhere, at any time. We have made some important advances, but it will take a diverse team with a wide spectrum of skills to accomplish this future. If you have expertise in computer vision, machine learning, and computer graphics, we expect you will find the work here highly intriguing. We are looking for motivated software, electrical, and mechanical engineers; and strong math skills are always a huge plus. We publish our work at leading conferences and journals.
+	- Come join us as we make photorealistic telepresence in VR happen!
+	- Available projects may include, but are not limited to:
+		* Neural Rendering
+		* 3D Audio Reconstruction from Multiple Microphones
+		* Speech Synthesis
+		* High Fidelity Face Model Reconstruction and Tracking
+		* High Fidelity Hand Model Reconstruction and Tracking
+		* High Fidelity Body Model Reconstruction and Tracking
+		* High Fidelity Hair Model Reconstruction and Tracking
+		* Neural Architecture Search and Optimization
+	- Our internships are twelve (12) to sixteen (16) to twenty four (24) weeks long and we have various start dates throughout the year.
+	- Solve real problems in enabling Photorealistic Telepresence.
+	- Collaboration with and support of other researchers across various disciplines.
+	- Communication of research agenda, progress, and results.
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Currently has, or is in the process of obtaining, a PhD in Audio Processing, Computer Science, Computer Vision, Computer Graphics, Robotics, Machine Learning, or related field.
+		* Interpersonal skills: cross-group and cross-culture collaboration.
+		* Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+		* Experience with solving inverse problems in imaging emphasizing modeling, algorithm development, and hardware prototyping.
+		* 2+ years of experience with Machine Learning for solving computer vision, computer graphics, or audio synthesis problems.
+		* Experience with deep learning frameworks such as Pytorch and TensorBoard.
+		* Experience with scientific programming languages such as Matlab or Python.
+	- Preferred Qualifications
+		* Proven track record of achieving significant results as demonstrated by patents and first-authored publications at leading workshops or conferences such as ICCV, CVPR, NeurIPS, SIGGRAPH, ICASSP, or similar.
+		* Intent to return to a degree-program after the completion of the internship.
+		* Experience with systems building in Python or C++.
+		* Experience with Machine Learning for 3D Data (such as meshes, point clouds, and voxels).
+		* Experience with Machine Learning for Visual Synthesis or Audio Synthesis.
+		* Demonstrated engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g., GitHub).
+	- $7,650/month to $11,333/month + benefits
 + skill set:
 	- BLAH.
 + skill set:

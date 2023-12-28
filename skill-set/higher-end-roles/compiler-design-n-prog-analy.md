@@ -1059,6 +1059,27 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- Familiarity with deep learning models and willingness to learn novel algorithms
 	- Experience with using generative code techniques (e.g. TableGen, GitHub Copilot, ChatGPT)
 + skill set:
+	- ***Software Engineering Manager, AI Compiler***
+	- The MTIA (Meta Training & Inference Accelerator) Software team has been developing a comprehensive AI Compiler strategy and optimizing compiler toolchains. This enables training and inference of Meta’s production DL/ML workloads on the specialized MTIA AI accelerator hardware in a highly performant and flexible way.
+	- We are looking for a Software Engineering Manager who drives the compiler stack development & high performance compilers optimizations and tuning, specific to the MTIA AI accelerator hardware.
+	- Grow a team of domain experts within AI Compiler.
+	- Communicate, collaborate, and build relationships with clients and peer teams to facilitate cross-functional projects.
+	- Operate strategically and tactically. Develop vision, strategy and help set direction for the team.
+	- Remain up-to-date on ongoing software development activities in the team, help work through technical challenges, and be involved in design decisions.
+	- Minimum Qualifications
+		* Prior experience with Meta can be considered to supplement an applicant’s prior years of experience or types of prior experience to meet the minimum qualifications of the position.
+		* Experience with compiler architecture and development, particularly ML compilers or DSLs or static/dynamic languages compilers.
+		* 2+ years of experience in managing a team of compiler engineers of varied skill levels.
+		* Experience with cross functional collaboration with hardware or AI framework teams.
+		* Demonstrated experience recruiting, building, structuring, leading technical organizations, including performance management.
+	- Preferred Qualifications
+		* Experience with compiler optimizations such as loop optimizations, vectorization, parallelization, HW architecture specific optimizations.
+		* Experience in compiling and code generation targeting ML accelerators or custom hardware, GPUs or CPUs.
+		* Experience with different programming models for high-performance computations, e.g. ***GPU CUDA programming or OpenCL or OpenMP programming***.
+		* Experience with ***MLIR, or LLVM or IREE or XLA or Triton or TVM or Halide***.
+		* Knowledge of ***ML frameworks like PyTorch, TensorFlow, ONNX, MXNet***, etc.
+	- $173,000/year to $241,000/year + bonus + equity + benefits
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
