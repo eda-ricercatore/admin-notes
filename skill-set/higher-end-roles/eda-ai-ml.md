@@ -6146,14 +6146,14 @@ Companies that have machine learning -centric products
 		* Unsupervised Learning
 		* ***Generative Modeling***
 		* Deep Neural Networks
-		* Deep Reinforcement Learning
-		* Generative Adversarial Networks
+		* ***Deep Reinforcement Learning***
+		* ***Generative Adversarial Networks***
 		* ***Causal Reasoning***
 	- Ideal candidates would be able to rapidly iterate on new ideas with engineers, potentially publish at top conferences and be able to write code.
 + skill set:
 	- Principal Software Engineer - Applied Machine Learning
 	- As the Principal Software Engineer for our Machine Learning team you will be responsible for ensuring that the development of ML systems and services meets all technical and quality standards. You will work with Product Management and other technical teams within Splunk, incorporating new requirements and providing technical information related to this sophisticated ML Platform as needed.
-	- work with a team of senior ML engineers, applied researchers and security researchers, and experts within their own specialty. You will set an example for this group, as well as set high standards on quality, communication and ability to deliver with deadlines.
+	- work with a team of ***senior ML engineers, applied researchers and security researchers, and experts within their own specialty***. You will set an example for this group, as well as set high standards on quality, communication and ability to deliver with deadlines.
 	- contribute to architecture and technical decisions while also mentoring junior members within the team.
 	- be working in a multi-office, multi-location development environment and prior experience working with local and remote teams or groups will be a plus.
 	- While expertise with ML products and their application within enterprise solutions is highly desirable, it is not required, provided you are willing to quickly come up to speed and you have some prior experience of ML technology and its application.
