@@ -6082,48 +6082,48 @@ Companies that have machine learning -centric products
 	- 2+ years of relevant software development experience
 	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design
 	- You should display a real passion for artificial intelligence and computer vision, and knowledge of the latest developments in DL and AI
-	- Experience working with deep learning frameworks like Caffe, TensorFlow and PyTorch
+	- Experience working with ***deep learning frameworks like Caffe, TensorFlow and PyTorch***
 	- Dedicated and able to work without supervision
-	- Experience with low precision inference, quantization, compression of DNNs
-	- Experience with NVIDIA software libraries such as CUDA and TensorRT
-	- Open source project ownership or contribution, healthy GitHub repositories, guiding and/or mentoring experience
+	- Experience with ***low precision inference, quantization, compression of DNNs***
+	- Experience with ***NVIDIA software libraries such as CUDA and TensorRT***
+	- ***Open source project ownership or contribution, healthy GitHub repositories, guiding and/or mentoring experience***
 + skill set:
-	- NVIDIA is searching for world-class researchers in deep learning, focused on large-scale and high-precision medical imaging analysis, federated learning to join our applied research team. We believe that Deep Learning accelerated AI will completely reshape life sciences, medicine, and healthcare as an industry. To foster that transformation, NVIDIA is democratizing deep learning by providing an end-to-end AI computing platform crafted for the healthcare community.
-	- GPU-accelerated deep learning solutions can be used to craft more sophisticated neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making. Innovations in AI are advancing the future of precision medicine and population health management in spectacular ways. We are passionate about applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA's hardware/software AI platform. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
-	- Craft DL approaches to solving medical imaging analysis, federated learning problems.
-	- Construct and curate large problem datasets.
-	- Design and implement medical imaging, computer vision, machine learning, federated learning techniques sought at solving specific problems.
-	- Keep up with the latest DL research and collaborate with diverse teams, including DL researchers, physicians, hardware architects, and software engineers, etc.
-	- Generate high-quality patents and top-tier technical or clinical publications, transfer technology into products.
+	- NVIDIA is searching for world-class researchers in deep learning, focused on ***large-scale and high-precision medical imaging analysis, federated learning*** to join our applied research team. We believe that Deep Learning accelerated AI will completely reshape life sciences, medicine, and healthcare as an industry. To foster that transformation, NVIDIA is democratizing deep learning by providing an ***end-to-end AI computing platform*** crafted for the healthcare community.
+	- ***GPU-accelerated deep learning solutions*** can be used to craft more sophisticated ***neural networks for healthcare and medical research applications: from real-time pathology assessment to point-of-care interventions to predictive analytics for clinical decision-making***. Innovations in AI are advancing the future of ***precision medicine and population health management*** in spectacular ways. We are passionate about ***applying deep learning to healthcare applications for high-performance preventive/precision medicine, and knowledge mining from very large-scale clinical datasets and resources, to facilitate effective clinical workflows, built upon NVIDIA's hardware/software AI platform***. After building prototypes that demonstrate the promise of your research, you will collaborate with software engineering team to integrate your work into products.
+	- Craft DL approaches to solving ***medical imaging analysis, federated learning problems***.
+	- ***Construct and curate large problem datasets.***
+	- ***Design and implement medical imaging, computer vision, machine learning, federated learning techniques sought at solving specific problems.***
+	- Keep up with the latest ***DL research and collaborate with diverse teams, including DL researchers, physicians, hardware architects, and software engineers***, etc.
+	- ***Generate high-quality patents and top-tier technical or clinical publications, transfer technology into products.***
 	- Pursuing a PhD in Electrical Engineering, Computer Science/Engineering, or related field.
-	- Relevant work experience in computer vision, medical imaging, deep learning, statistical learning, federated learning.
-	- You've produced a track record of research (publication) excellence and/or significant product development. IE 4+ pieces of tier-one publications with substantial deep learning for healthcare applications.
-	- Excellent rapid prototyping skills with medical applications using Python.
-	- Excellent knowledge and development experience of common deep learning frameworks and packages (Caffe, Tensorflow, PyTorch, etc.).
+	- ***Relevant work experience in computer vision, medical imaging, deep learning, statistical learning, federated learning.***
+	- ***You've produced a track record of research (publication) excellence and/or significant product development. IE 4+ pieces of tier-one publications with substantial deep learning for healthcare applications.***
+	- ***Excellent rapid prototyping skills with medical applications using Python.***
+	- Excellent knowledge and development experience of ***common deep learning frameworks and packages (Caffe, Tensorflow, PyTorch***, etc.).
 	- Excellent communications skills.
 	- Prior experience working with physicians to identify (novel) important problems and assessing possible DL solutions is a plus.
 + skill set:
-	- Facebook is seeking a Research Scientist to join our AI Research Team, a research organization focused on making significant progress in AI. Individuals in this role are expected to be recognized experts in identified research areas such as artificial intelligence, machine learning, computational statistics, and applied mathematics, particularly including areas such as deep learning, graphical models, reinforcement learning, computer perception, natural language processing and data representation. The ideal candidate will have a keen interest in producing new science to understand intelligence and technology to make computers more intelligent. To learn more about our research, visit https://ai.facebook.com/.
-	- Lead research to advance the science and technology of intelligent machines
-	- Lead research that enables learning the semantics of data (images, video, text, audio, speech and other modalities)
-	- Devise better data-driven models of human behavior
-	- Work towards long-term ambitious research goals, while identifying intermediate milestones
+	- Facebook is seeking a Research Scientist to join our AI Research Team, a research organization focused on making significant progress in AI. Individuals in this role are expected to be recognized experts in identified research areas such as ***artificial intelligence, machine learning, computational statistics, and applied mathematics, particularly including areas such as deep learning, graphical models, reinforcement learning, computer perception, natural language processing and data representation***. The ideal candidate will have a keen interest in producing new science to understand intelligence and technology to make computers more intelligent. To learn more about our research, visit https://ai.facebook.com/.
+	- ***Lead research to advance the science and technology of intelligent machines***
+	- ***Lead research that enables learning the semantics of data (images, video, text, audio, speech and other modalities)***
+	- Devise better ***data-driven models of human behavior***
+	- ***Work towards long-term ambitious research goals, while identifying intermediate milestones***
 	- Influence progress of relevant research communities by producing publications
 	- Contribute research that can be applied to Facebook product development
 	- Lead and collaborate on research projects within a globally based team
 	- Experience holding a faculty, industry, or government researcher position
 	- Ph.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields
 	- Experience leading a team in solving modeling problems using AI/ML approaches
-	- Experience in theoretical and empirical research and for addressing research problems
+	- ***Experience in theoretical and empirical research and for addressing research problems***
 	- Experience communicating research for public audiences of peers
 	- Knowledge in a programming language
 	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
 	- 1+ year(s) of work experience in a university, industry, or government lab(s), in a role with primary emphasis on AI research
 	- Experience driving original scholarship in collaboration with a team
-	- First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)
+	- ***First-author publications at peer-reviewed AI conferences (e.g. NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL)***
 	- Experience in developing and debugging in C/C++, Python, or C#
 + skill set:
-	- We are looking for a Research Scientist Intern to join our growing Trust & Safety Research & Algorithmic Impact team. Spotify's Algorithmic Responsibility effort focuses on empowering Spotify teams to assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators. As an Algorithmic Impact research intern, you will help to define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that's true to our values.
+	- We are looking for a Research Scientist Intern to join our growing ***Trust & Safety Research & Algorithmic Impact team***. ***Spotify's Algorithmic Responsibility effort*** focuses on empowering Spotify teams to ***assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators***. As an ***Algorithmic Impact research intern***, you will help to ***define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that's true to our values.***
 	- Be part of an interdisciplinary team focused on understanding Spotify's impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
 	- Contribute to the wider research community by publishing. 
 	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
