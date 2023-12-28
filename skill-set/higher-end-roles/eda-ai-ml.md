@@ -6124,24 +6124,24 @@ Companies that have machine learning -centric products
 	- Experience in developing and debugging in C/C++, Python, or C#
 + skill set:
 	- We are looking for a Research Scientist Intern to join our growing ***Trust & Safety Research & Algorithmic Impact team***. ***Spotify's Algorithmic Responsibility effort*** focuses on empowering Spotify teams to ***assess the algorithmic impact of their products on audio culture, avoid algorithmic harms and unintended side effects, and better serve worldwide audiences and creators***. As an ***Algorithmic Impact research intern***, you will help to ***define, research, and communicate how we assess our impact as a platform and our recommendations across podcasts, music, and user-generated content. We help ensure that Spotify is a safe platform that's true to our values.***
-	- Be part of an interdisciplinary team focused on understanding Spotify's impact as a platform, and practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments. 
+	- Be part of an interdisciplinary team focused on understanding Spotify's impact as a platform, and ***practical implementation and operationalization of Responsible ML activities such as algorithmic impact assessments***. 
 	- Contribute to the wider research community by publishing. 
-	- Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry. 
-	- Apply your scientific knowledge to develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings. 
-	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification. 
+	- ***Develop and iterate policy and auditing processes related to tech responsibility, algorithmic fairness and representation in the music and podcast industry.***
+	- Apply your scientific knowledge to ***develop strategy around cultural equity in audio and algorithmic systems, including application-oriented problems in search, recommendation and Machine Learning settings***. 
+	- Provide consultative support, guidance on methods, and research-based input for products. For instance, this can include ***algorithmic audits, or analyzing & tracking global and local trends around online abuse, hate content, misinformation, etc., with a particular focus on algorithmic amplification***.
 	- Work closely with our team and internal partners to develop, refine, and launch processes that help ensure Spotify is a safe and positive experience. 
-	- Be a valued member of an autonomous, multi-functional team working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
+	- Be a valued member of an ***autonomous, multi-functional team*** working in collaboration with other scientists, engineers, product managers, policy experts, designers, user researchers, and analysts across Spotify to design creative solutions to exciting problems.
 	- You are pursuing a PhD in Social Science, HCI, Computer Science, Information Science, Data Science, Technology Policy, or related areas with a strong computational focus.
 	- ***You have publications in communities such as the Web Conference, AIES, FAccT, CSCW, SIGIR, CHI, ACL, NeurIPS, WSDM, EMNLP, RecSys, KDD, ICWSM, ISMIR or related venues.***
-	- You are curious about how interaction design, data collection strategies, and people's perceptions affect Machine Learning outcomes.
+	- ***You are curious about how interaction design, data collection strategies, and people's perceptions affect Machine Learning outcomes.***
 	- You are a creative problem-solver who is passionate about digging into complex problems and devising innovative ways to reach results.
-	- You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people's interaction with technology.
-	- Knowledge or experience working in emerging markets is a plus.
+	- ***You have experience with the complexities of real-world data, and understand the value of both in-depth, qualitative and web-scale, quantitative data working together to build a deep understanding of people's interaction with technology.***
+	- Knowledge or ***experience working in emerging markets*** is a plus.
 	- You have strong communication skills, both written and verbal. Able to provide concise advice and translate complex challenges clearly. Willing to apply academic knowledge and frameworks into product and practice.
 	- You must be comfortable reviewing or being exposed to sensitive content and topics, and having related conversations with teams.
 + skill set:
 	- Research Scientist
-	- Responsible for coming up with new techniques in unsupervised learning, dataset augmentation and deep reinforcement learning that can be applied to automating various parts of the AI development workflow.
+	- ***Responsible for coming up with new techniques in unsupervised learning, dataset augmentation and deep reinforcement learning that can be applied to automating various parts of the AI development workflow.***
 	- Candidates will need to have a PhD preferably in Artificial Intelligence or Machine Learning. We are looking for people who have done research / published papers in one of the following areas:
 		* Unsupervised Learning
 		* ***Generative Modeling***
