@@ -5966,29 +5966,29 @@ Companies that have machine learning -centric products
 		* ***Strong systems-level thinking and approach to problem solving.***
 		* Solid C++ software development skills.
 		* Strong understanding of common software performance issues and trade-offs.
-		* Lifelong learner, interested in tackling new challenges daily.
+		* ***Lifelong learner, interested in tackling new challenges daily.***
 		* Familiarity with modern machine learning concepts.
-		* Familiarity with computational geometry and dynamics.
+		* Familiarity with ***computational geometry and dynamics***.
 		* Good communication and collaboration skills.
 		* Experience deploying machine learning models on real-world applications is a plus
 		* Experience fielding real-world robotic systems is a plus.
 + skill set for Research Scientist:
 	- Responsibilities:
-		* Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.
+		* ***Perform and publish cutting-edge research in machine intelligence, with special focus on fundamental algorithms and applications for computer vision, language modelling, numerical formats and graph neural networks.***
 		* Exploit Graphcore's hardware to develop and deliver models of unprecedented scale and performance.
 		* Collaborate with both the research team and other groups within the company, to develop new ideas, identify research opportunities and provide machine learning expertise.
 		* Follow the latest developments in the field by attending/presenting at journal clubs and travelling to relevant conferences.
 		* Promote the IPU by developing and maintaining collaborations with external institutions and research labs.
 	- Essential:
 		* MSc or PhD in Machine Learning, Computer Science, Electrical Engineering, Physics, Mathematics or a related field.
-		* In-depth understanding of modern machine learning algorithms, deep learning architectures and probability theory.
-		* Experience using modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX).
+		* In-depth understanding of ***modern machine learning algorithms, deep learning architectures and probability theory***.
+		* Experience using ***modern machine learning frameworks (e.g., TensorFlow, PyTorch, JAX)***.
 		* Proficiency in Python and/or C++.
 		* Strong communication skills and willingness to work in a collaborative environment.
 	- Desirable:
-		* Publications at top conference venues (e.g., NeurIPS, ICLR, ICML).
-		* Contributions to open-source software projects in the area of machine intelligence.
-		* Experience in using or designing low-precision numerical formats.
+		* Publications at ***top conference venues (e.g., NeurIPS, ICLR, ICML)***.
+		* Contributions to ***open-source software projects in the area of machine intelligence***.
+		* Experience in ***using or designing low-precision numerical formats***.
 		* Kaggle competitions or other evidence of practical expertise.
 + skill set:
 	- At Toyota Research Institute (TRI), we're working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we'll help...
@@ -5996,15 +5996,15 @@ Companies that have machine learning -centric products
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
 		* Bring advanced mobility technology to market faster.
 		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
-		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+		* ***Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.***
 	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We're continually searching for the world's best talent ‒ people who are ready to define the new world of mobility with us!
 	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you're interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.
 	- Responsibilities:
 		* Research, design, and develop new deep learning algorithms
-		* Be a leader in high level algorithm decisions to ensure fast and accurate development cycles.
-		* Implement and maintain cutting edge deep learning algorithms in object classification, object detection, video understanding, labeling, clustering, segmentation, data association, tracking and prediction
-		* Build robust, reliable systems to handle common and long tail problems
-		* Embrace self-supervised learning strategies to overcome ever so growing data needs.
+		* ***Be a leader in high level algorithm decisions to ensure fast and accurate development cycles.***
+		* ***Implement and maintain cutting edge deep learning algorithms in object classification, object detection, video understanding, labeling, clustering, segmentation, data association, tracking and prediction***
+		* ***Build robust, reliable systems to handle common and long tail problems***
+		* ***Embrace self-supervised learning strategies to overcome ever so growing data needs.***
 		* As an applied researcher your goal should be to deploy your work onto our test vehicles.
 		* Develop systems that can run in tightly controlled real-time loops.
 		* Collaborate with other perception engineers and scientists to develop perception algorithms, systems, and tools for autonomous driving systems.
