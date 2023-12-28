@@ -6059,25 +6059,25 @@ Companies that have machine learning -centric products
 	- Experience with Git version control system
 + skill set for Deep Learning Architect Intern:
 	- NVIDIA is seeking computer architecture interns to help design processor and system architectures that will enable compelling Deep Learning performance, architecture and efficiency improvements. This role offers the opportunity to directly impact the future hardware and software roadmap in a fast-growing technology company that leads the AI revolution. If you are obsessed with improving deep learning performance beyond anything possible with today's hardware and software, this is the place to be.
-	- Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
+	- ***Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.***
 	- Guide development of future generations of deep learning processors and computing platforms.
-	- Develop detailed performance models and simulators for computing systems accelerating DL training.
+	- ***Develop detailed performance models and simulators for computing systems accelerating DL training.***
 	- Collaborate across the company to guide the direction of machine learning at NVIDIA; spanning teams from hardware to software and research to production.
-	- Drive HW/SW co-design of NVIDIA's full deep learning platform stack, from silicon to DL frameworks.
+	- ***Drive HW/SW co-design of NVIDIA's full deep learning platform stack, from silicon to DL frameworks.***
 	- You are pursuing a PhD or MS in CS, EE or CSEE.
-	- Strong background in computer architecture, preferably with focus on high-performance parallel processors.
-	- Background in machine learning and neural networks, in particular training.
-	- Experience analyzing and tuning application performance.
-	- Experience with processor and system-level performance modelling.
+	- ***Strong background in computer architecture, preferably with focus on high-performance parallel processors.***
+	- ***Background in machine learning and neural networks, in particular training.***
+	- Experience ***analyzing and tuning application performance***.
+	- Experience with ***processor and system-level performance modelling***.
 	- Programming skills in C++ and Python.
-	- Familiarity with GPU computing (CUDA, OpenCL).
+	- Familiarity with ***GPU computing (CUDA, OpenCL)***.
 + skill set:
-	- We are looking for an extraordinary Deep Learning Software Intern to develop NVIDIA's deep learning solutions in autonomous driving vehicles. As a member of our Solution Engineering-Automotive Machine Learning team, you will utilize ground breaking NVIDIA deep learning model training/inference software libraries for deployment on NVIDIA's hardware architecture. You will develop new deep learning architectures, deploy deep learning models in low precision, and compile and optimize DNN graphs. As a part of this role, you will be building a close technical relationship with our internal automotive/framework teams during product development and coordinate with the architecture and software teams to develop the best solution on our platforms.
-	- Train, fine-tune, optimize and customize perception DNNs in low precision (FP16/INT8)
-	- Apply low precision inference, quantization, and compression of DNNs
-	- Design and develop robust inferencing software that can be scaled to multiple platforms for functionality and performance
-	- Performance analysis, optimization and tuning
-	- You'll collaborate across the company to guide the direction of machine learning inferencing, working with software, research and product teams
+	- We are looking for an extraordinary Deep Learning Software Intern to develop NVIDIA's deep learning solutions in autonomous driving vehicles. As a member of our ***Solution Engineering-Automotive Machine Learning team***, you will utilize ground breaking ***NVIDIA deep learning model training/inference software libraries for deployment on NVIDIA's hardware architecture***. You will ***develop new deep learning architectures, deploy deep learning models in low precision, and compile and optimize DNN graphs***. As a part of this role, you will be building a close technical relationship with our internal ***automotive/framework teams during product development and coordinate with the architecture and software teams to develop the best solution on our platforms***.
+	- ***Train, fine-tune, optimize and customize perception DNNs in low precision (FP16/INT8)***
+	- ***Apply low precision inference, quantization, and compression of DNNs***
+	- ***Design and develop robust inferencing software that can be scaled to multiple platforms for functionality and performance***
+	- ***Performance analysis, optimization and tuning***
+	- You'll collaborate across the company to guide the direction of ***machine learning inferencing***, working with software, research and product teams
 	- Pursuing MS or PhD degree from a leading University in a relevant field, e.g. engineering, computer science, or computer engineering or equivalent
 	- 2+ years of relevant software development experience
 	- Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design
