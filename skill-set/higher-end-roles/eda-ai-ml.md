@@ -5801,11 +5801,11 @@ Companies that have machine learning -centric products
 		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
 		* The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution.
 	- As a Staff Research Scientist on the AI/ML team you will develop and apply state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of a team to leverage CZI’s large open-source biological datasets to create models that transform our understanding of cells. 
-	- You will have the opportunity to work closely with teams of scientists, computational biologists, engineers within CZI and to collaborate with CZI grantees, with CZ institutes, and other external labs and organizations. Your work will inspire and enhance the production and analysis of datasets by CZ teams and collaborators. Scientific focus areas could include single cell biology, imaging, genomics, and proteomics.
-	- Develop, deploy, and maintain innovative machine learning models,  systems, and software tools that enable the analysis and interpretation of complex biology data sets.
+	- You will have the opportunity to work closely with teams of scientists, computational biologists, engineers within CZI and to collaborate with CZI grantees, with CZ institutes, and other external labs and organizations. Your work will inspire and enhance the production and analysis of datasets by CZ teams and collaborators. Scientific focus areas could include ***single cell biology, imaging, genomics, and proteomics***.
+	- Develop, deploy, and maintain innovative machine learning models, systems, and software tools that enable the analysis and interpretation of complex biology data sets.
 	- Solve important problems in biomedical sciences through the application of state-of-the-art methods in artificial intelligence and machine learning.
-	- Implement solutions with respect to complex problems/scientific questions on large scale data sets, especially using machine learning approaches, predictive models, and statistical analysis, to advance understanding of cell structures, systems, and interactions.
-	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research.
+	- Implement solutions with respect to complex problems/scientific questions on large scale data sets, especially using ***machine learning approaches, predictive models, and statistical analysis, to advance understanding of cell structures, systems, and interactions***.
+	- Enjoy working in a ***highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research***.
 	- Have a PhD or Masters in computer science (focus on machine learning & data analytics), computational biology or a related field or equivalent industry experience and at least 6-8 years of experience developing and applying machine learning methods.
 	- Have demonstrated experience building and training AI/ML models, ideally but not exclusively to address problems in biology, and developing deep learning methods
 	- Experience and technical fluency in AI, machine learning, operations research, data integration, or computer science on varied large scale data sets
@@ -5826,16 +5826,16 @@ Companies that have machine learning -centric products
 	- Doing science through
 		* The CZ Biohub empowering scientists to work on their riskiest, most exciting ideas.
 		* The CZ Imaging Institute and developing technologies to image the molecular architecture of the cell with atomic resolution.
-		* As a Research Scientist Intern, you will contribute to the development and application of state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of the Single Cell team to leverage CZI’s large open-source biological datasets to create models that transform our understanding of cells. You will have the opportunity to work closely with teams of scientists, computational biologists, and engineers.
+		* As a Research Scientist Intern, you will contribute to the development and application of state-of-the-art methods in artificial intelligence and machine learning to solve important problems in the biomedical sciences aligned with CZI’s mission. You will work as part of the ***Single Cell team*** to leverage CZI’s ***large open-source biological datasets*** to create models that transform our understanding of cells. You will have the opportunity to work closely with teams of scientists, computational biologists, and engineers.
 	- Develop innovative machine learning models that enable the analysis and interpretation of complex biology data sets.
 	- Solve important problems in biomedical sciences through the application of state-of-the-art methods in artificial intelligence and machine learning.
 	- Implement solutions with respect to complex problems/scientific questions on large scale data sets.
 	- Targeted graduation date December 2024 through Summer 2025
 	- Pursuing a MS or PhD degree (Computer Science or related field preferred) and will have time remaining in school after your summer internship
 	- Enjoy working in a highly interactive and cross-functional collaborative environment with a diverse team of colleagues and partners in leading-edge cell biology data-driven research.
-	- Have experience building and training AI/ML models, ideally but not exclusively to address problems in biology and developing deep learning methods.
-	- Experience with PyTorch, scikit-learn, and other deep learning frameworks.
-	- Experience using collaborative notebook-based workflows (e.g., Jupyter, Databricks) for prototyping and knowledge sharing.
+	- Have ***experience building and training AI/ML models***, ideally but not exclusively to address problems in biology and developing deep learning methods.
+	- Experience with ***PyTorch, scikit-learn, and other deep learning frameworks***.
+	- Experience using ***collaborative notebook-based workflows (e.g., Jupyter, Databricks) for prototyping and knowledge sharing***.
 	- Familiarity with big data technologies
 	- The ability to work for 12 consecutive weeks during the Summer 2024
 	- Our internship program is designed to give students a meaningful, real-world work experience that complements their academic learnings. While we are not able to offer conversions to full-time positions following our internships, our program is open to a wide range of students at any point in their undergraduate careers that want to develop skills, gain experience, and connect with leaders in their fields.
