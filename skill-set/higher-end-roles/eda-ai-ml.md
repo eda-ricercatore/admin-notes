@@ -5948,22 +5948,22 @@ Companies that have machine learning -centric products
 	- At Toyota Research Institute (TRI), we're building a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we'll help...
 		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
-		* Bring advanced mobility technology to market faster.
-		* Discover new materials that will make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
-		* Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.
+		* Bring ***advanced mobility technology*** to market faster.
+		* Discover new materials that will ***make batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful***.
+		* ***Develop human-centered AI systems to augment (not replace) human decision making to increase the quality of decisions (e.g. mitigate cognitive biases) and/or to facilitate faster innovation cycles.***
 	- Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies.
 	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals.
-	- TRI's Planning and Control team is building the decision-making, planning, and execution technology required to develop the uncrashable Toyota. We are doing cutting edge research in the decision systems required for L5 autonomous cars in addition to the exploration of highly dynamic control regimes and blended driver-machine control techniques to build the ultimate, fun, uncrashable car of the future. We are leveraging advances in AI, Planning, and Control Theory to realize a scalable, verifiable system to solve the L5 driving problem in the long term, while making a difference in society in the short term through our Guardian and Chauffeur systems.
+	- ***TRI's Planning and Control team is building the decision-making, planning, and execution technology required to develop the uncrashable Toyota. We are doing cutting edge research in the decision systems required for L5 autonomous cars in addition to the exploration of highly dynamic control regimes and blended driver-machine control techniques to build the ultimate, fun, uncrashable car of the future. We are leveraging advances in AI, Planning, and Control Theory to realize a scalable, verifiable system to solve the L5 driving problem in the long term, while making a difference in society in the short term through our Guardian and Chauffeur systems.***
 	- Responsibilities:
-		* Develop, deploy and evaluate state of the art algorithms in agent behavior prediction.
-		* Closely work together with perception and motion planning engineers and research scientists to understand needs and develop integrated solutions.
-		* Maintain and improve the interplay between perception, prediction, and planning to achieve robust and human-like AV behavior.
-		* Build software tools to accelerate prediction and planning development.
-		* Design reusable software components as part of an integrated system.
-		* Understand and fulfill the software practices that produce maintainable code, including automated testing, continuous integration, and code review.
+		* Develop, deploy and evaluate state of the art algorithms in ***agent behavior prediction***.
+		* Closely work together with ***perception and motion planning engineers and research scientists*** to understand needs and develop integrated solutions.
+		* ***Maintain and improve the interplay between perception, prediction, and planning to achieve robust and human-like AV behavior.***
+		* ***Build software tools to accelerate prediction and planning development.***
+		* ***Design reusable software components as part of an integrated system.***
+		* ***Understand and fulfill the software practices that produce maintainable code, including automated testing, continuous integration, and code review.***
 	- Qualifications:
 		* Master's degree or greater in Robotics, Computer Science or equivalent and 3+ years of industry experience, or B.S. and 5+ years of industry experience.
-		* Strong systems-level thinking and approach to problem solving.
+		* ***Strong systems-level thinking and approach to problem solving.***
 		* Solid C++ software development skills.
 		* Strong understanding of common software performance issues and trade-offs.
 		* Lifelong learner, interested in tackling new challenges daily.
