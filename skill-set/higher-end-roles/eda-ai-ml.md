@@ -5715,10 +5715,10 @@ Companies that have machine learning -centric products
 	- A Ph.D. in computer science is highly preferred, but we may consider some exceptions
 	- ***Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering***, etc. and a good grasp of the strengths and weaknesses of specific approaches
 	- Basic ***data cleansing and preparation, variable preprocessing/transformation***
-	- Univariate analysis, performing statistical tests, covariance analysis, multivariate analysis and linear/non-linear regression
-	- Preparation of data sets for predictive modelling, robust predictive model building, validation and application
-	- Automation of statistical processes and integration into a bigger product
-	- Experience in Hadoop technologies such as Hive / Impala and distributed data pipelines such as Airflow / Luigi
+	- ***Univariate analysis, performing statistical tests, covariance analysis, multivariate analysis and linear/non-linear regression***
+	- ***Preparation of data sets for predictive modelling, robust predictive model building, validation and application***
+	- ***Automation of statistical processes and integration into a bigger product***
+	- Experience in ***Hadoop technologies such as Hive / Impala and distributed data pipelines such as Airflow / Luigi***
 + skill set for Ph.D.-Level Internships at Brave:
 	- San Francisco, CA, or London, U.K..
 	- Brave is proud to offer summer internships for Ph.D.-level students that involve working on ground-breaking technologies that make the web faster, safer, and more private for millions of people worldwide. Brave's mission is also to change the way advertising is done on the web. If you are interested in technologies ranging from JavaScript to cutting-edge blockchain, web security, privacy, anonymity, and smart contracts, come and work with us to improve the web for millions of users!
@@ -5729,15 +5729,15 @@ Companies that have machine learning -centric products
 	- Generative Models
 	- Reinforcement Learning
 	- Evolutionary Computing
-	- Sequence Modelling
-	- Large-Scale Distributed Optimization
-	- Low-Precision Numerical Formats
+	- ***Sequence Modelling***
+	- ***Large-Scale Distributed Optimization***
+	- ***Low-Precision Numerical Formats***
 + skills set:
 	- ***security of machine learning***
 	- ***robustness and reliability of machine learning technologies***
 + skill set:
 	- As part of the Advanced Product Development team, immediate responsibilities include:
-		* Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, and spatial segmentation.
+		* Exploration and development of ***machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, and spatial segmentation***.
 		* Development of new technologies and digital products to improve surgeon and team performance on robotic surgery platforms.
 		* Support clinical and academic collaborations in related fields.
 	- Additional responsibilities include:
@@ -5757,25 +5757,25 @@ Companies that have machine learning -centric products
 			+ Solid understanding of statistics, machine learning, and deep learning algorithms and techniques is required
 			+ Experience with sequence modeling, image analysis, activity recognition, and/or temporal segmentation on real-world data is required
 			+ Experience with Python is required
-			+ Hands-on experience with deep learning frameworks such as Tensorflow, Theano, Caffe, and/or Torch is required
-			+ Hands-on experience with CNNs, RNNs, and LSTMs is ideal
+			+ Hands-on experience with deep learning frameworks such as ***Tensorflow, Theano, Caffe, and/or Torch*** is required
+			+ Hands-on experience with ***CNNs, RNNs, and LSTMs*** is ideal
 			+ Experience with R, SQL is ideal
 			+ Experience with C/C++ is ideal
 			+ Experience with clinical studies is a plus
 			+ Ability to travel domestically and internationally (10%)
 + skill set for DEEP LEARNING ALGORITHM INTERN
 	- Development the deep machine learning models covers computer vision and NLP applications
-	- Software performance bottleneck analysis in CNN/RNN/LSTM architectures and design
+	- Software performance bottleneck analysis in ***CNN/RNN/LSTM architectures and design***
 	- Development of AI profiling tools for neural processor engines to optimize the entire deep neural network architectures
 	- Robust learning through minimal data, unsupervised learning, and on-device learning
-	- Basic knowledge of leading edge neural network models from TensorFlow/Tlite, Keras, Caffe/Caffe2
+	- Basic knowledge of leading edge neural network models from ***TensorFlow/Tlite, Keras, Caffe/Caffe2***
 	- Bachelor's degree/Master's degree. in Computer Science, Machine Learning, Mathematics, robotics, or similar field (Master's degree is preferred)
 	- 1+ years of industry/academia experience with deep learning algorithm development and optimization.
-	- Experience in deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL)
-	- Experience with classification and regression algorithms (e.g. SVM, MLP)
+	- Experience in ***deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL)***
+	- Experience with ***classification and regression algorithms (e.g. SVM, MLP)***
 	- 2-3 years of software engineering experience in an academic or industrial setting.
 	- Excellent Python, C++, and object-oriented programming skills demonstrated through relevant industry experience
-	- Hands-on experience in computer vision and deep learning frameworks, e.g., OpenCV,Tensorflow,Keras,Pytorch, and Caffe.
+	- Hands-on experience in ***computer vision and deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe***.
 	- Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively.
 	- Location: San Diego, CA.
 + skill set:
