@@ -6006,43 +6006,43 @@ Companies that have machine learning -centric products
 		* ***Build robust, reliable systems to handle common and long tail problems***
 		* ***Embrace self-supervised learning strategies to overcome ever so growing data needs.***
 		* As an applied researcher your goal should be to deploy your work onto our test vehicles.
-		* Develop systems that can run in tightly controlled real-time loops.
-		* Collaborate with other perception engineers and scientists to develop perception algorithms, systems, and tools for autonomous driving systems.
-		* Support the development of large data sets and data pipelines for system training and evaluation.
+		* ***Develop systems that can run in tightly controlled real-time loops.***
+		* ***Collaborate with other perception engineers and scientists to develop perception algorithms, systems, and tools for autonomous driving systems.***
+		* Support the ***development of large data sets and data pipelines for system training and evaluation***.
 		* Stay up to date on the state-of-the-art in deep learning ideas and algorithms.
 	- Qualifications:
 		* PhD or MS in CS/CE/EE, or equivalent experience
 		* 3+ years of professional experience in related position
 		* Extensive experience with ML frameworks such as PyTorch
-		* Experience with machine learning and classification, tracking or prediction
-		* Experience in robotics, AI, tracking, prediction or computer vision applied to autonomous driving.
-		* Proficiency in linear algebra, probability, statistics, and differential equations
-		* Strong grasp of current ML techniques, especially deep learning for perception, tracking or prediction algorithms.
+		* ***Experience with machine learning and classification, tracking or prediction***
+		* ***Experience in robotics, AI, tracking, prediction or computer vision applied to autonomous driving.***
+		* ***Proficiency in linear algebra, probability, statistics, and differential equations***
+		* Strong grasp of current ***ML techniques, especially deep learning for perception, tracking or prediction algorithms.***
 		* Strong communication skills. Team player.
 		* Strong C++ software development skills.
-		* Proficient in Python and Unix is a minimum. Additional knowledge of C++ / CUDA is a plus
+		* ***Proficient in Python and Unix is a minimum. Additional knowledge of C++ / CUDA is a plus***
 + skill set:
 	- At Toyota Research Institute (TRI), we're working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We're dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we:
-		* Develop vehicles incapable of causing a crash, regardless of the actions of the driver.
+		* ***Develop vehicles incapable of causing a crash, regardless of the actions of the driver.***
 		* Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.
 		* Bring sophisticated mobility technology to market faster.
-		* Discover new materials that will make drive batteries and hydrogen fuel cells smaller, lighter, less expensive, and more powerful.
+		* ***Discover new materials that will make drive batteries and hydrogen fuel cells smaller, lighter, less expensive, and more powerful.***
 	- Our work is guided by a dedication to safety – in how we research, develop, and validate the performance of technology to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries Ph.D. degrees. We're continually searching for the world's best talent ‒ people who are ready to define the new world of mobility with us!
 	- We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun start-up environment with forward-thinking people who enjoy solving global problems and the financial backing to successfully achieve our goals. If you're passionate about working with smart people to make cars safer, enable the elderly to age in place, or design alternative fuel sources, TRI is the place for you. ‒ Start your impossible with us.
-	- Our Machine Learning (ML) team is looking for Research Scientists in a variety of areas including Self-Supervised Learning, Reinforcement Learning (especially Model-based and Offline), Vision-as-Inverse-Graphics (including Differentiable Rendering), and ML Safety (including ML theory, AI ethics, causality). We are aiming to make progress on some of the hardest scientific challenges around the safe and effective usage of large robotic fleets, simulation, and prior knowledge (geometry, physics, proven experience, behavioral science), not only for automation but also for human augmentation.
-	- As a Research Scientist, you will work with a multidisciplinary team proposing, conducting, and transferring cutting-edge research in Machine Learning. You will use large amounts of sensory data and simulation to solve open problems, publish at top academic venues, and test your ideas in the real world (including our robots (https://www.tri.global/news/virtual-robotics-event/) and test vehicles (https://www.youtube.com/watch?v=0OLcLZwsgzY) of course!). You will also work closely with other teams at TRI to transfer and ship our most successful algorithms and models towards world-scale long-term autonomy and advanced assistance systems. Responsibilities and required qualifications are as follows:
+	- Our Machine Learning (ML) team is looking for Research Scientists in a variety of areas including ***Self-Supervised Learning, Reinforcement Learning (especially Model-based and Offline), Vision-as-Inverse-Graphics (including Differentiable Rendering), and ML Safety (including ML theory, AI ethics, causality)***. We are aiming to make progress on some of the hardest scientific challenges around the ***safe and effective usage of large robotic fleets, simulation, and prior knowledge (geometry, physics, proven experience, behavioral science), not only for automation but also for human augmentation***.
+	- As a Research Scientist, you will work with a multidisciplinary team proposing, conducting, and transferring cutting-edge research in Machine Learning. You will use large amounts of sensory data and simulation to solve open problems, publish at top academic venues, and test your ideas in the real world (including our robots (https://www.tri.global/news/virtual-robotics-event/) and test vehicles (https://www.youtube.com/watch?v=0OLcLZwsgzY) of course!). You will also work closely with other teams at TRI to transfer and ship our most successful algorithms and models towards ***world-scale long-term autonomy and advanced assistance systems***. Responsibilities and required qualifications are as follows:
 	- Responsibilities:
-		* Conduct ambitious research in Machine Learning that solves open problems of high practical value and validate it in real-world benchmarks and systems.
-		* Push the boundaries of knowledge and the state of the art in ML areas including simulation, perception, prediction, and planning for autonomous driving and robotics.
+		* ***Conduct ambitious research in Machine Learning that solves open problems of high practical value and validate it in real-world benchmarks and systems.***
+		* ***Push the boundaries of knowledge and the state of the art in ML areas including simulation, perception, prediction, and planning for autonomous driving and robotics.***
 		* Partner with a multidisciplinary team including other research scientists and engineers across the ML team, TRI, Toyota, and our university partners.
 		* Stay up to date on the state-of-the-art in Machine Learning ideas and software.
 		* Present results in verbal and written communications, internally, at top international venues, and via open-source contributions to the community.
 		* Lead collaborations with our external research partners (e.g., Stanford, Berkeley, MIT) and mentor research interns.
 	- Qualifications:
 		* Bachelor's or Master's degree in a quantitative field (e.g. Computer Science, Mathematics, Physics, Engineering, Chemistry). Ph.D. in Machine Learning, Robotics, Computer Vision, or related fields preferred.
-		* Deep expertise in at least one key ML area among Computer Vision, RL, ML theory, AI ethics.
-		* Consistent track record of publishing at high-impact conferences/journals (CVPR, ICLR, NeurIPS, RSS, ICRA, ICCV, ECCV, PAMI, IJCV, etc.) on the aforementioned topics.
-		* Proficient at scientific python, Unix, and a common DL framework (preferably PyTorch). Experience with distributed learning (especially on AWS) is a plus.
+		* ***Deep expertise in at least one key ML area among Computer Vision, RL, ML theory, AI ethics.***
+		* ***Consistent track record of publishing at high-impact conferences/journals (CVPR, ICLR, NeurIPS, RSS, ICRA, ICCV, ECCV, PAMI, IJCV, etc.) on the aforementioned topics.***
+		* ***Proficient at scientific python, Unix, and a common DL framework (preferably PyTorch). Experience with distributed learning (especially on AWS) is a plus.***
 		* You can identify, propose, and lead new research projects, working in collaboration with other researchers and engineers to complete it from initial idea to working solution.
 		* You are passionate about large-scale challenges in ML, especially in the space of Automated Driving and Robotics and for societal good in general.
 		* You are a reliable team-player. You like to think big and go deeper. You care about openness and delivering with integrity.
