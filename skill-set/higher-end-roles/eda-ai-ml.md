@@ -6155,18 +6155,18 @@ Companies that have machine learning -centric products
 	- As the Principal Software Engineer for our Machine Learning team you will be responsible for ensuring that the development of ML systems and services meets all technical and quality standards. You will work with Product Management and other technical teams within Splunk, incorporating new requirements and providing technical information related to this sophisticated ML Platform as needed.
 	- work with a team of ***senior ML engineers, applied researchers and security researchers, and experts within their own specialty***. You will set an example for this group, as well as set high standards on quality, communication and ability to deliver with deadlines.
 	- contribute to architecture and technical decisions while also mentoring junior members within the team.
-	- be working in a multi-office, multi-location development environment and prior experience working with local and remote teams or groups will be a plus.
+	- ***be working in a multi-office, multi-location development environment and prior experience working with local and remote teams or groups will be a plus.***
 	- While expertise with ML products and their application within enterprise solutions is highly desirable, it is not required, provided you are willing to quickly come up to speed and you have some prior experience of ML technology and its application.
 	- 12+ years software development with focus on large scale distributed systems.
-	- Some Machine Learning application development experience, this is NOT a data scientist role, but a services/platform development role.
+	- Some Machine Learning application development experience, this is NOT a data scientist role, but a ***services/platform development role***.
 	- Ability to communicate effectively in conversations with researchers and engineers from academia background.
-	- Passionate about building and encouraging good engineering practices and processes such as continuous integration and deployment.
-	- Experience developing and putting into production test automation and CI/CD systems.
-	- Expertise in developing software with container deployment and orchestration technologies at scale, with strong knowledge of the fundamentals including service discovery, deployments, monitoring, scheduling, load balancing.
-	- Strong background in building streaming applications or streaming analytics platforms.
-	- Expert in one of the streaming platforms, preferably Flink.
-	- Expertise in developing software on a public cloud platform (AWS, GCP, Azure).
-	- Expertise in developing software with stream processing technology (Kafka, AWS Kinesis).
+	- Passionate about building and encouraging good engineering practices and processes such as ***continuous integration and deployment***.
+	- ***Experience developing and putting into production test automation and CI/CD systems.***
+	- ***Expertise in developing software with container deployment and orchestration technologies at scale, with strong knowledge of the fundamentals including service discovery, deployments, monitoring, scheduling, load balancing.***
+	- Strong background in ***building streaming applications or streaming analytics platforms***.
+	- Expert in one of the ***streaming platforms, preferably Flink***.
+	- Expertise in ***developing software on a public cloud platform (AWS, GCP, Azure)***.
+	- Expertise in ***developing software with stream processing technology (Kafka, AWS Kinesis)***.
 + ***Capsule Networks***, or capsule neural networks
 + skill set for ***Autodesk AI Lab, Pier.9 at San Francisco***:
 	- [BrickBot](https://www.fastcompany.com/90204615/autodesks-lego-model-building-robot-is-the-future-of-manufacturing)
