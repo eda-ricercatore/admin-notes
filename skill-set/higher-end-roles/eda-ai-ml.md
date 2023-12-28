@@ -5782,10 +5782,10 @@ Companies that have machine learning -centric products
 	- Descript is offering research internships to PhD and motivated masters students working in machine learning, human computer interaction, natural language processing, computer vision or computer audition. At Descript, we make technology that is transformative for content creation and media editing. Join us and help a passionate cross-disciplinary team of researchers, engineers, and designers build the next generation of media creation tools.
 	- As a research intern, you will collaborate with our research and/or engineering teams to develop exciting and novel technology, as well as work closely with researchers who regularly publish in top-tier journals and conferences. We are also interested in fostering ongoing collaborations, and are open to longer term projects that may become part of your PhD thesis, while also having meaningful impact for Descript users. Descript is the perfect vehicle for deploying cutting edge research to real users.
 	- Our research team is located primarily in Montreal, with some researchers working from France, as well as the Bay Area. Due to the COVID-19 pandemic, the location of the internship will be flexible, if not remote. You will be paired with a full-time researcher on a project tailored towards your skillset and interests.  The expected duration of the internship is anywhere between 3-6 months, and start dates are flexible.
-	- Pursuing a PhD or Master's degree with a focus on one or more of the following research areas: computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision.
+	- Pursuing a PhD or Master's degree with a focus on one or more of the following research areas: ***computer audition, human computer interaction (with either a video or audio focus), computer vision, deep learning, and computer vision***.
 	- Track record of developing new research ideas, as demonstrated by one or more first author publications or projects.
-	- Publications at top ML/Audio/HCI conferences is a big plus: CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP.
-+ Distributed Deep Learning
+	- Publications at top ML/Audio/HCI conferences is a big plus: ***CHI, UIST, NeurIPS, ICML, ICLR, ISMIR, Interspeech, ICASSP***.
++ ***Distributed Deep Learning***
 + Staff Research Scientist, AI/ML
 	- at Chan Zuckerberg Initiative (View all jobs)
 	- Redwood City, CA (Open to Flex)
