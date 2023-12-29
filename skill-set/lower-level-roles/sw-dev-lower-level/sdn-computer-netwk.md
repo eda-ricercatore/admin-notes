@@ -86,32 +86,32 @@
 
 
 
-+ Understanding of networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark is a big plus
-+ 5+ years of experience building large-scale software and distributed systems in \*nix environments and with technologies that run the internet such as TLS, HTTP (1/1.1, 2, QUIC/3), TCP,UDP, IP, anycast, multicast, and unicast routing.
-+ gRPC, open-source remote procedure call system
++ Understanding of ***networking protocols such as TCP, UDP, HTTP(S), DHCP, DNS and experience with Wireshark*** is a big plus
++ 5+ years of experience building ***large-scale software and distributed systems in \*nix environments and with technologies that run the internet such as TLS, HTTP (1/1.1, 2, QUIC/3), TCP,UDP, IP, anycast, multicast, and unicast routing***.
++ ***gRPC, open-source remote procedure call system***
 + skill set:
-	- Candidates should have a solid background with standard networking protocols (TCP, RPC, UDP, IPSec), low-latency protocols (RDMA, RMA) and Clustering.
-	- Preferably, you should also have a background or interest in host device and network virtualisation (SR-IOV, Xen, Containers)
+	- Candidates should have a solid background with ***standard networking protocols (TCP, RPC, UDP, IPSec), low-latency protocols (RDMA, RMA) and Clustering***.
+	- Preferably, you should also have a background or interest in ***host device and network virtualisation (SR-IOV, Xen, Containers)***
 + skill set:
-	- Experience working with Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading
-	- Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
-	- Experience with Atlassian toolset e.g. Jira, Confluence, Bitbucket
-	- Any previous experience with reporting frameworks like MicroStrategy or similar is a plus
-	- Knowledge SCM tools (e.g. Git), make and build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment
-	- Experience and knowledge of 4G LTE and 5G Networks is a plus for this role: experience working with some Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)
+	- Experience working with ***Columnar Database (e.g. Vertica) with exposure to SQL and high-volume data loading***
+	- ***Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)***
+	- Experience with ***Atlassian toolset e.g. Jira, Confluence, Bitbucket***
+	- Any previous experience with ***reporting frameworks like MicroStrategy*** or similar is a plus
+	- Knowledge SCM tools (e.g. Git), make and ***build automation (e.g. Jenkins), code testing (Junit/Mockito) with experience working in a Continuous Integration environment***
+	- Experience and knowledge of ***4G LTE and 5G Networks*** is a plus for this role: experience working with some ***Network Elements (xNodeB, MME, SGW, AMF, SMF etc.), Interfaces (N1, S1-MME, S5/S8, etc.) and Protocols (GTP, SIP, Diameter etc.)***
 + skill set:
-	- Experience with asynchronous I/O and coroutines
-	- Experience with event driven service architecture
-+ Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as DNS, TCP/IP, or BGP work, and will probably have managed their own Linux machines)
+	- Experience with ***asynchronous I/O and coroutines***
+	- Experience with ***event driven service architecture***
++ Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as ***DNS, TCP/IP, or BGP work***, and will probably have managed their own Linux machines)
 + WebRTC
-	- WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs).
+	- ***WebRTC (Web Real-Time Communication)*** is a free, open-source project that provides web browsers and mobile applications with ***real-time communication (RTC)*** via simple application programming interfaces (APIs).
 + skill set:
 	- High-demand large-scale production environments
-	- BGP, MPLS, and RSVP configuration and management
-	- Internal routing protocols such as ISIS and OSPF
-	- Cloud deployments such as GCP and AWS
-	- Multiple hardware platforms such as Juniper, Arista, and Cisco
-	- Packet analysis and flow monitoring tools
+	- ***BGP, MPLS, and RSVP configuration and management***
+	- ***Internal routing protocols such as ISIS and OSPF***
+	- ***Cloud deployments such as GCP and AWS***
+	- Multiple ***hardware platforms such as Juniper, Arista, and Cisco***
+	- ***Packet analysis and flow monitoring tools***
 	- Scripting in Python or equivalent to automate operational tasks
 	- Strong documentation and interpersonal skills
 + skill set:

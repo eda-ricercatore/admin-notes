@@ -348,12 +348,12 @@ Notes on cloud computing:
 + skill set:
 	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
 	- ***Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka***
-	- Revolutionizing how data pipelines are built through Kafka Connect
-	- Running all of the above in our very own elastic, scalable cloud offering
+	- Revolutionizing how data pipelines are built through ***Kafka Connect***
+	- Running all of the above in our very own ***elastic, scalable cloud offering***
 + skill set:
-	- Knowledge of relational database technologies such as Oracle, SQL Server, SQLite, or Postgres
-	- Understanding of cloud computing platforms and database services such as Amazon's Relational Database Service and Azure SQL Database
-+ ZABBIX, Python, API, Ansible, Terraform, and AWS cloud.
+	- Knowledge of ***relational database technologies such as Oracle, SQL Server, SQLite, or Postgres***
+	- Understanding of ***cloud computing platforms and database services such as Amazon's Relational Database Service and Azure SQL Database***
++ ***ZABBIX, Python, API, Ansible, Terraform, and AWS cloud.***
 	- Zabbix is an open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services.
 	- Ansible is a suite of software tools that enables infrastructure as code.
 	- Terraform is an infrastructure-as-code software tool created by HashiCorp.
@@ -363,32 +363,32 @@ Notes on cloud computing:
 	- Unified metering and billing services for the platform as we shift towards consumption based pricing for our product portfolio
 	- Platform infrastructure to create finer granularity for cost of services across the platform for static and dynamic resource consumption
 	- Hybrid connectivity services to bridge on-prem and cloud worlds for a number of interesting use case like a single pane of glass to view and remedy security incidents
-+ Fluency with developing and operating services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)
++ Fluency with developing and operating ***services running on Linux and cloud infrastructure (we use Heroku, AWS, and GCP)***
 + skill set:
 	- ***Competence with industry-standard tools like: Git, npm, JIRA, Docker, etc.***
-	- Comfortable with Cloud services, specifically AWS services (in particular: ECS, EC2, S3, ECR) and their respective APIs, is a major plus.
-	- Experience building for SaaS/PaaS and distributed applications.
-	- Intimate knowledge of web services and building and interacting with REST APIs is essential.
+	- Comfortable with ***Cloud services, specifically AWS services (in particular: ECS, EC2, S3, ECR) and their respective APIs***, is a major plus.
+	- Experience ***building for SaaS/PaaS and distributed applications***.
+	- Intimate knowledge of ***web services and building and interacting with REST APIs*** is essential.
 + skill set:
-	- 2+ years of cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)
-	- Familiarity with Continuous Integration tools (e.g., Jenkins, Travis)
+	- 2+ years of ***cloud experience using AWS (e.g., EC2, ECS, Batch, Lambda)***
+	- Familiarity with ***Continuous Integration tools (e.g., Jenkins, Travis)***
 + skill set:
 	- Linux
-	- Puppet
-	- nginx
+	- ***Puppet***
+	- ***nginx***
 	- AWS
-	- Datadog
-	- Cloudformation
+	- ***Datadog***
+	- ***Cloudformation***
 + skill set:
 	- C3.ai, Inc. (NYSE:AI) is a leading provider of Enterprise AI software for accelerating digital transformation. C3 AI delivers a family of fully integrated products: C3 AI® Suite, an end-to-end platform for developing, deploying, and operating large-scale AI applications; C3 AI Applications, a portfolio of industry-specific SaaS AI applications; C3 AI CRM, a suite of industry-specific CRM applications designed for AI and machine learning; and C3 AI Ex Machina, a no-code AI solution to apply data science to everyday business problems. The core of the C3 AI offering is an open, model-driven AI architecture that dramatically simplifies data science and application development. Learn more at: www.c3.ai
 	- We are looking for a seasoned and motivated Software Engineers to build the next generation AI platform scaling to several petabyte level data volumes.
 	- As a member of C3 AI's growing platform team, you will be responsible for the entire software engineering lifecyle, i.e design, document, build, test, maintain. As one of the core teams, this role is integral to the success of the company. A successful candidate will thrive in a fast-paced, highly collaborative environment and demonstrate an ability to execute precisely and quickly. The ideal candidate will have a passion for finding elegant solutions to complex problems.
 	- Role Responsibilities:
-		* Design and develop various features in the next generation C3 AI PaaS AI suite
-		* Design and develop data pipelines that can handle petabyte level data scale and more
-		* Develop core fundamental distibuted system components like distributed stream processing engine, distributed queueing, distributed batch processing, cluster management, etc.
-		* Design and develop abstraction over existing datastores & cloud infrastructure in an innovative way E.g. Key value stores like cassandra / hbase, sql stores like postgres / mysql, file systems like s3 / azure blob store / hdfs, cloud infrastructure like AWS / Azure / GCP
-		* Handle large data infrastructure platform and driving stability through automated monitoring, alerting, and actions.
+		* Design and develop various features in the ***next generation C3 AI PaaS AI suite***
+		* Design and develop ***data pipelines that can handle petabyte level data scale and more***
+		* Develop core fundamental ***distibuted system components like distributed stream processing engine, distributed queueing, distributed batch processing, cluster management***, etc.
+		* ***Design and develop abstraction over existing datastores & cloud infrastructure*** in an innovative way E.g. ***Key value stores like cassandra / hbase, sql stores like postgres / mysql, file systems like s3 / azure blob store / hdfs, cloud infrastructure like AWS / Azure / GCP***
+		* ***Handle large data infrastructure platform and driving stability through automated monitoring, alerting, and actions.***
 		* Work closely with software engineering & product management teams to gather requirements and deliver a top quality product following the agile software development methodology
 	- Minimum Qualifications
 		* BS in Computer Science or related technical field, or equivalent industry experience
@@ -397,10 +397,10 @@ Notes on cloud computing:
 		* Systematic problem-solving approach coupled with a strong sense of ownership and independence
 		* Strong understanding of Computer Science fundamentals ( Algorithms, Data Structures)
 		* Must be proficient in expert level programing in Java or Javascript or Python.
-		* Experience with Aws / Azure / GCP Cloud Platform
-		* Skilled in robust, highly available large-scale, distributed SaaS systems.
-		* Familiarity with Big Data systems like Apache Spark / Hadoop / Distributed Systems
-		* Experience with security technologies (SSO, SAML, Okta etc).
+		* Experience with ***Aws / Azure / GCP Cloud Platform***
+		* Skilled in ***robust, highly available large-scale, distributed SaaS systems***.
+		* Familiarity with ***Big Data systems like Apache Spark / Hadoop / Distributed Systems***
+		* Experience with ***security technologies (SSO, SAML, Okta etc)***.
 		* Proactive work ethic - self starter
 	- Preferred Qualifications
 		* Experience with modern container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm
