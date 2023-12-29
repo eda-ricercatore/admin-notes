@@ -259,92 +259,92 @@ Skill set for roles in digital VLSI verification:
 	- ***Collaborating closely with the design team on feature specifications, test plans and failure analysis.***
 	- 7+ years of recent experience with ***standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.***
 	- Solid understanding of ***CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers***.
-	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
-	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
-	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
-	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
-	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)
-	- Understanding of CPU memory systems caches from an architectural level.
+	- Experience with ***industry standard system bus protocols (e.g., AMBA AXI, AHB, APB)*** is preferred. ***Knowledge of TileLink*** is a plus.
+	- A thorough understanding of the ***high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure)***.
+	- Ability to effectively ***assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure***.
+	- ***Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.***
+	- Ability to ***learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)***
+	- ***Understanding of CPU memory systems caches from an architectural level.***
 + skill set:
-	- A minimum of 3 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
+	- A minimum of 3 years of recent experience with ***standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.)***.
 	- Familiarity with and/or ability to learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.).
 	- A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
 + skill set:
-	- As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to generate the test cases automatically to fit those teams verification requirements in different perspectives. Your responsibilities will target establishing a random instruction test generator that produces self-checking direct test cases.
-	- Design, develop, documentation and deploy random instruction generator and support multiple projects.
-	- Support execution of the generator and flows in the RTL design process.
-	- Integrate and ramp up on an existing instruction level verification flows.
+	- ***As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to generate the test cases automatically to fit those teams verification requirements in different perspectives.*** Your responsibilities will target establishing a ***random instruction test generator that produces self-checking direct test cases***.
+	- ***Design, develop, documentation and deploy random instruction generator and support multiple projects.***
+	- ***Support execution of the generator and flows in the RTL design process.***
+	- Integrate and ramp up on an existing ***instruction level verification flows***.
 	- Bachelor's, or Master's in Computer Science, Electrical Engineering, or a similar discipline.
 	- Familiarity or academic experience with hardware design and verification.
-	- Experience with basic CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools.
-	- Experience with software project architecture/design and python/C++11 above programming.
-	- Basic understanding of Verilog, System-Verilog RTL, UVM and constrain random verification.
+	- Experience with basic ***CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools***.
+	- Experience with ***software project architecture/design and python/C++11 above programming***.
+	- Basic understanding of ***Verilog, System-Verilog RTL, UVM and constrain random verification***.
 + skill set:
-	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU power management who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
-	- Architect test methodologies applicable to a wide range of CPU designs for CPU Power Management.
-	- Understand CPU multi-core power management from an architectural level and create effective verification strategies for these designs.
-	- Build test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
-	- Develop tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
-	- Development and use of full IP and unit level test benches that use constrained random stimulus
-	- Use of assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
-	- Writing directed assembly tests as appropriate to test power management.
-	- Provide technical leadership for verification engineers and coordinate technical teams to execute our verification strategies to meet program goals.
-	- Collaborate closely with the design team on feature specifications, test plans and failure analysis.
-	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
-	- Solid understanding of CPU power management and how that impacts both the RTL and verification environment.
-	- Experience with industry standard system bus protocols (e.g. AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
-	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
-	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
-	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
-	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel ***application of verification methodologies to parameterizable CPU IP generators***. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU power management who will build an environment to be used specifically with SiFive’s ***functional programming-based hardware design suite***.
+	- ***Architect test methodologies applicable to a wide range of CPU designs for CPU Power Management.***
+	- ***Understand CPU multi-core power management from an architectural level and create effective verification strategies for these designs.***
+	- ***Build test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.***
+	- ***Develop tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.***
+	- Development and use of ***full IP and unit level test benches that use constrained random stimulus***
+	- Use of ***assembly code Random test generators*** to meet verification objectives in single and multi-core CPU environments.
+	- ***Writing directed assembly tests as appropriate to test power management.***
+	- ***Provide technical leadership for verification engineers and coordinate technical teams to execute our verification strategies to meet program goals.***
+	- Collaborate closely with the design team on ***feature specifications, test plans and failure analysis***.
+	- 7+ years of recent experience with ***standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation***.
+	- ***Solid understanding of CPU power management and how that impacts both the RTL and verification environment.***
+	- Experience with ***industry standard system bus protocols (e.g. AMBA AXI, AHB, APB)*** is preferred. ***Knowledge of TileLink*** is a plus.
+	- A thorough understanding of the ***high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure)***.
+	- Ability to effectively ***assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure***.
+	- ***Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.***
+	- ***Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).***
 + skill set:
-	- As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to generate the test cases automatically to fit those teams verification requirements in different perspectives. Your responsibilities will target establishing a random instruction test generator that produces self-checking direct test cases.
-	- Design, develop, documentation and deploy random instruction generator and support multiple projects.
-	- Support execution of the generator and flows in the RTL design process.
-	- Integrate and ramp up on an existing instruction level verification flows.
+	- As a Design Verification Engineer, you will work with CPU designers, compiler team, performance team, and system verification team to ***generate the test cases automatically to fit those teams verification requirements in different perspectives***. Your responsibilities will target establishing a ***random instruction test generator that produces self-checking direct test cases***.
+	- Design, develop, documentation and deploy ***random instruction generator*** and support multiple projects.
+	- ***Support execution of the generator and flows in the RTL design process.***
+	- ***Integrate and ramp up on an existing instruction level verification flows.***
 	- Bachelor's, or Master's in Computer Science, Electrical Engineering, or a similar discipline.
-	- Familiarity or academic experience with hardware design and verification.
-	- Experience with basic CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools.
-	- Experience with software project architecture/design and python/C++11 above programming.
-	- Basic understanding of Verilog, System-Verilog RTL, UVM and constrain random verification.
+	- Familiarity or academic experience with ***hardware design and verification***.
+	- Experience with basic ***CPU micro-architecture (and related technologies and algorithms), as well as functional verification and simulation tools***.
+	- Experience with ***software project architecture/design and python/C++11 above programming***.
+	- Basic understanding of ***Verilog, System-Verilog RTL, UVM and constrain random verification***.
 + skill set:
-	- System-level verification to SiFive virtualization technologies, hypervisor, secure boot cryptography, and more on FPGA.
+	- ***System-level verification to SiFive virtualization technologies, hypervisor, secure boot cryptography, and more on FPGA.***
 	- Collaborate with cross-functional teams to ensure our core quality and confirm the core is well verified and delivered on time.
-	- Collaborate with cross-functional teams on developing and implementing emulation strategy based on product goals.
-	- A minimum of 5 years of direct system-level debug experience especially on Linux system, including system testing and debug using FPGAs and emulators
-	- Hypervisor knowledge/ background, SoC bring up, validation and debugging experiences are required
-	- Strong and wide knowledge on Linux system software and kernel, processor, memory, bus protocol, and SoC architecture, or a strong desire and ability to learn the same.
+	- Collaborate with cross-functional teams on developing and implementing ***emulation strategy based on product goals***.
+	- A minimum of 5 years of direct ***system-level debug experience*** especially on Linux system, including ***system testing and debug using FPGAs and emulators***
+	- ***Hypervisor knowledge/ background, SoC bring up, validation and debugging experiences*** are required
+	- Strong and wide knowledge on ***Linux system software and kernel, processor, memory, bus protocol, and SoC architecture***, or a strong desire and ability to learn the same.
 	- A conscientious and thorough approach to Design Verification.
 	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
 + skill set:
-	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
-	- Review and influence product definition and specifications from a verification perspective and collaborate closely with the design team on feature specifications, test plans, and failure analysis.
-	- Develop tools, test benches, and test suites (UVM, C++/C, or otherwise as needed) to execute test plans.
-	- Write functional coverage, analyze both code and functional coverage, and close coverage holes.
-	- A minimum of 5 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).
-	- Familiarity with and/or ability to learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.).
-	- A conscientious and thorough approach to Design Verification.
-	- Solid understanding of processor and SoC architecture, or a strong desire and ability to learn the same.
-	- A thorough understanding of the high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure).
-	- Experience with prototyping and debugging systems on Field Programmable Gate Array (FPGA) platforms will be a plus.
-	- Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.
-	- An unwavering dedication to product quality.
+	- ***Develop checkers and assertions to verify the memory subsystem designs with interconnect.***
+	- ***Review and influence product definition and specifications from a verification perspective and collaborate closely with the design team on feature specifications, test plans, and failure analysis.***
+	- ***Develop tools, test benches, and test suites (UVM, C++/C, or otherwise as needed) to execute test plans.***
+	- ***Write functional coverage, analyze both code and functional coverage, and close coverage holes.***
+	- A minimum of 5 years of recent experience with ***standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.)***.
+	- Familiarity with and/or ability to ***learn languages and methodologies that are not part of the industry-standard approach to verification (Scala, Chisel, etc.)***.
+	- ***A conscientious and thorough approach to Design Verification.***
+	- Solid understanding of ***processor and SoC architecture***, or a strong desire and ability to learn the same.
+	- A thorough understanding of the ***high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure)***.
+	- Experience with ***prototyping and debugging systems on Field Programmable Gate Array (FPGA) platforms*** will be a plus.
+	- ***Good interpersonal skills to listen to diverse points of view and influence people from different disciplines.***
+	- ***An unwavering dedication to product quality.***
 + skill set:
 	- Functional verification of high-performance CPUs going into industry leading AI/ML architecture. The person coming into this role will help define DV strategies and execute on them while working alongside with a group of highly experienced engineers across various domains of the AI chip.
-	- Define DV requirements for design changes resulting from rapidly evolving AI/ML models; work with engineers across domains to understand real world use cases
-	- Develop DV testplans for ISA and microarchitecture and execute on them
-	- Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers
-	- Build architectural tools for ISA level verification
-	- Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain
-	- Evaluate and integrate open-source toolchains into the DV flow
-	- Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon
+	- ***Define DV requirements for design changes resulting from rapidly evolving AI/ML models; work with engineers across domains to understand real world use cases***
+	- ***Develop DV testplans for ISA and microarchitecture and execute on them***
+	- ***Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers***
+	- ***Build architectural tools for ISA level verification***
+	- ***Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain***
+	- ***Evaluate and integrate open-source toolchains into the DV flow***
+	- ***Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of experience
-	- Experience with computer architecture/system components/network/fabric as a part of a CPU, ASIC or SOC design team
-	- Verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage, infrastructure, tools
-	- Experience with C++ / SV / UVM as well as scripting languages
-	- Experience with assembly level programming
-	- Experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)
-	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Experience with ***computer architecture/system components/network/fabric as a part of a CPU, ASIC or SOC design team***
+	- ***Verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage, infrastructure, tools***
+	- Experience with ***C++ / SV / UVM as well as scripting languages***
+	- Experience with ***assembly level programming***
+	- Experience with ****hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)****
+	- ***Strong problem solving and debug skills across various levels of design hierarchies***
 + skill set:
 	- Develop DV testplans for ISA and microarchitecture and execute on them
 	- Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers and coverage models

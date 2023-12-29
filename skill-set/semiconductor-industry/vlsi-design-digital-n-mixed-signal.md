@@ -35,7 +35,7 @@ Measure performance in terms of:
 Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), and hardware/software co-design of computer systems:
 + ***Experience with designing an out-of-order system ( high-performance DDR controller or caches controllers on a hetro/homo-geneous multi core system is a plus.***
 + ***Architect, design and implement new features, performance improvements, and ISA extensions in RISC-V CPU core generators.***
-+ Expertise in CPU processor designs in one or more of the following areas: instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems.
++ Expertise in CPU processor designs in one or more of the following areas: ***instruction fetch and decode; branch prediction; register renaming and instruction scheduling; scalar and/or vector execution units; load-store unit; cache and memory subsystems***.
 + Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
 + skill set:
 	- As a key member in our motivated and multicultural team, you will support our research on improving future microarchitectures. In particular, you will focus on methodologies to improve performance analysis.
