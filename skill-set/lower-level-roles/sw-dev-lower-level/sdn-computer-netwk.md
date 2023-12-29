@@ -237,14 +237,14 @@
 		* Cultivate open source projects developed by GitHub and build things you are proud to share.
 		* Work closely with networking and facilities teams to design and support our global data center presence.
 	- Minimum Qualifications:
-		* Experience building and managing large clusters of Linux servers with configuration management and infrastructure as code, such as Puppet, Chef, Ansible, or Salt and Terraform.
-		* Standard web protocols and systems should be second nature to you, such as TCP, HTTP, TLS, DNS, CDNs, load balancers.
+		* Experience building and managing large clusters of Linux servers with ***configuration management and infrastructure as code, such as Puppet, Chef, Ansible, or Salt and Terraform***.
+		* ***Standard web protocols and systems*** should be second nature to you, such as ***TCP, HTTP, TLS, DNS, CDNs, load balancers***.
 		* Proficiency in high-level languages such as Ruby, Python and Bash.
 		* Experience diagnosing and resolving performance problems at the intersection of software and hardware.
 		* You take a pragmatic approach to decision making and design choices.
 	- Bonus Qualifications:
 		* Familiarity with systems languages such as C/C++ or Go.
-		* Experience with network technologies such as BGP, or work with network configuration on Arista EOS and/or Juniper Junos.
+		* Experience with ***network technologies such as BGP, or work with network configuration on Arista EOS and/or Juniper Junos***.
 		* Experience operating services in physical data centers and the public cloud, or multiple public clouds.
 		* Experience at a large content provider or content delivery network.
 + skill set:
@@ -254,31 +254,16 @@
 	- Creating and inventing novel solutions to solve those problems
 	- Communicating those results internally through documentation and presentations
 	- Identifying patentable ideas and filing ISFs
+		* ***Information Security Forum Ltd***
+		* ***Importer Security Filing (ISF)***
 	- Publishing key research results to ensure NVIDIA maintains a right to use and contributes to the NVIDIA research brand.
 	- Much of NVIDIA’s networking research is funded by external sources (e.g. DOE, DoD). You are expected to work towards the contractual obligations, including the work areas, and assist in preparing deliverables such as reports and presentations.
 	- Ph.D. in CE/CS/EE plus publications history and excellent accomplishments in research or equivalent experience. 2+ years of relevant postgrad research work.
-	- Strong background in computer architecture, networking, VLSI, circuits, parallel processing, high-performance computing, and/or mobile computing
+	- Strong background in ***computer architecture, networking, VLSI, circuits, parallel processing, high-performance computing, and/or mobile computing***
 	- Demonstrated ability to innovate and implement
 	- Experience with experimental computer architecture development and evaluation
 	- Experience with C, C++, and scripting languages
 	- Deep understanding of technology and passionate about what you do
-+ skill set:
-	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO). OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on exploring synthesis of code from documentation.
-	- Here is some more detail on that initial project - it is just an example of more such projects in future. Recent advances in machine learning models for source code indicate that it is possible to synthesize code just from the signature and docstring of a function. Often better synthesis results are possible by also specifying an example to test synthesized candidates. We’d like to explore how to integrate this functionality into CodeSpaces, so that users can browse alternative solutions synthesized by the model. We’d also like to consider other user experiences for the same functionality, for example in an automated assistant for novice developers.
-	- Responsibilities:
-		* Design and build user interfaces as outlined above, and experiment with new ideas to embody the new code synthesis technology.
-		* Collaborate with early adopters and machine learning experts on improving both the underlying technology and the way users interact with the synthesizer.
-		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
-	- Minimum Qualifications:
-		* Ability to quickly create innovative user interfaces and new user experiences.
-		* 5+ years experience in creating frontends in production
-		* Inclination to prototype quickly and make fast decisions on experiment failure.
-		* A creative mindset and good practical skills are more important than formal experience.
-	- Preferred Qualifications:
-		* Experience with user interface design, especially for developer tools.
-		* Proven track record of working with early adopters to refine initial designs.
-		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
-		* Interest in modern AI technologies and their use in developer tools.
 + skill set:
 	- GitHub has changed the way software is built. While GitHub-the-product must deliver immediate value to software engineers, we also have a unique opportunity to look farther ahead and identify how to make software development faster, safer, easier, and more accessible.
 	- This is the mission of GitHub’s Office of the CTO. We research the current state of software engineering to understand what can be improved, and illustrate the future through working prototypes. We’re looking for talented polymaths to join us!
@@ -291,7 +276,7 @@
 		* These are the general qualities that candidates must possess in order to succeed in this role.
 			+ Comfortable identifying and justifying research goals in situations of ambiguity, and executing towards those goals without explicit direction.
 			+ Finds ways to build prototypes that clearly articulate a thesis to others. Able to prototype quickly and evaluate ideas strategically.
-			+ Is an effective and inclusive communicator, comfortable with remote communication practices. OCTO’s currency is ideas; the health of our team, our execution, and our results rests on our ability to communicate well.
+			+ ***Is an effective and inclusive communicator, comfortable with remote communication practices. OCTO’s currency is ideas; the health of our team, our execution, and our results rests on our ability to communicate well.***
 			+ Able to collaborate with members of OCTO and the broader GitHub Engineering community to identify fruitful areas of investigation, inform OCTO’s point of view on issues/opportunities, and define projects to enhance our understanding of these topics.
 			+ Comfortable managing interactions with stakeholders around timelines and milestones. Proactive, consistent communications are key to our working relationships, and a good guardrail against rabbitholes.
 			+ 5+ years of experience writing and shipping software. This is a senior engineering role! That said, we are not primarily looking for raw coding ability. Experience is about more than your ability to write code and debate the finer points of $LANGUAGE_FEATURE.
@@ -300,48 +285,48 @@
 		* These are more specific abilities we’re looking for, but it is the rare human who possesses them all. Think of this as a descriptive sketch, not a checklist of requirements. Be comfortable applying even if you don’t have all of them.
 			+ A deep understanding of GitHub’s industry and business context, and the ability to be articulate about topics related to our product and audience.
 			+ Has held roles that deal with topics at the boundary of human knowledge regarding software development and developers.
-			+ A demonstrated ability to ship software using a variety of technology stacks. You are not afraid to read source code. You are comfortable picking up new technology stacks in the normal course of work.
+			+ ***A demonstrated ability to ship software using a variety of technology stacks. You are not afraid to read source code. You are comfortable picking up new technology stacks in the normal course of work.***
 			+ Have significant experience with one or more frontend technologies. We currently default to Typescript and React for the web, but “whatever helps us ship” is the top concern.
-			+ Have significant experience with one or more backend technologies: server-side environments, compute, datastores, networking, infrastructure, devops, security.
+			+ Have significant experience with one or more ***backend technologies: server-side environments, compute, datastores, networking, infrastructure, devops, security***.
 			+ Have significant experience with open-source software, communities, and the systems that these communities use to self-organize and ship software for others to use.
 			+ Have significant experience operating production systems at a nontrivial scale, and are familiar with the common patterns and pitfalls of that work.
-			+ Have significant experience in another area of computing that is relevant to our mission. Human-computer interaction, distributed systems, $YOURTHING.
+			+ Have significant experience in another area of computing that is relevant to our mission. ***Human-computer interaction, distributed systems***, $YOURTHING.
 + skill set:
 	- develop software with good code quality
 	- development experience with high performance, high stability, and high availability real-time server development
-	- multithreading programming
-	- STL4
-	- TCP/IP, LAN, WAN, and P2P experience
-	- unit testing and test framework like Gtest
-+ Experience with related tools such as LSF/Slurm, high-performance storage arrays, ansible and VMware.
-	- LSF/Slurm: LSF/Slurm
-		* The IBM Spectrum LSF ("LSF", short for load sharing facility) software is industry-leading enterprise-class software. LSF distributes work across existing heterogeneous IT resources to create a shared, scalable, and fault-tolerant infrastructure, that delivers faster, more reliable workload performance and reduces cost. LSF balances load and allocates resources, and provides access to those resources.
-		* The Slurm Workload Manager, formerly known as Simple Linux Utility for Resource Management (SLURM), or simply Slurm, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
+	- ***multithreading programming***
+	- ***STL4***
+	- ***TCP/IP, LAN, WAN, and P2P experience***
+	- ***unit testing and test framework like Gtest***
++ Experience with related tools such as ***LSF/Slurm, high-performance storage arrays, ansible and VMware***.
+	- ***LSF/Slurm: LSF/Slurm***
+		* The ***IBM Spectrum LSF ("LSF", short for load sharing facility)*** software is industry-leading enterprise-class software. LSF distributes work across existing heterogeneous IT resources to create a shared, scalable, and fault-tolerant infrastructure, that delivers faster, more reliable workload performance and reduces cost. LSF balances load and allocates resources, and provides access to those resources.
+		* The ***Slurm Workload Manager***, formerly known as Simple Linux Utility for Resource Management (SLURM), or simply Slurm, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
 		* Slurm: A Highly Scalable Workload Manager
 + skill set:
 	- Working on a team designing, deploying and supporting mission-critical infrastructure including: Continuous integration framework, Automated test-regression sub-systems, Grid compute system, Cloud compute environment.
-	- 5+ years of relevant and recent experience with a strong understanding of concepts such as Continuous Integration, filesystems, data-mining, optimization, webhooks.
-	- Fluency in languages such as Groovy, Python, Bash.
-	- Expertise in the following tools: Jenkins, Git/Github, Slurm, Saltstack/Ansible.
+	- 5+ years of relevant and recent experience with a strong understanding of concepts such as ***Continuous Integration, filesystems, data-mining, optimization, webhooks***.
+	- Fluency in languages such as ***Groovy, Python, Bash***.
+	- Expertise in the following tools: ***Jenkins, Git/Github, Slurm, Saltstack/Ansible***.
 		* The ***Slurm Workload Manager***, formerly known as ***Simple Linux Utility for Resource Management***, or simply ***Slurm***, is a free and open-source job scheduler for Linux and Unix-like kernels, used by many of the world's supercomputers and computer clusters.
 		* ***SaltStack*** is a highly extensible platform, allowing for the creation of modules that enable new execution models, states, etc. ***Ansible Python API*** can extend Ansible with plugins and modules to control certain aspects of the system (e.g., node management).
 	- Interest in building modular, scalable and resilient flows and tools.
 + skill set:
 	- Reservoir Labs, a high performance computing R&D firm with an award winning Cybersecurity team, is seeking a High Performance Network Research Engineer to join our growing business. We were named as one of the top 500 fastest and most innovative Cybersecurity companies in the nation by Cybersecurity Ventures. You will help innovate and lead advanced research and development projects within Reservoir's security product team.
 	- Job Responsibilities
-		* Contribute to research of future architectures and development of network processing and analysis products
-		* Program and utilize advanced packet processing and data analytics hardware (physical / on-premise virtual / cloud)
-		* Develop and implement new algorithms and systems for distributed high-throughput network processing
-		* Develop systems of devices, integrating with other parts of the cybersecurity and networking infrastructure
+		* Contribute to research of future architectures and development of ***network processing and analysis products***
+		* Program and utilize advanced ***packet processing and data analytics hardware (physical / on-premise virtual / cloud)***
+		* Develop and implement new ***algorithms and systems for distributed high-throughput network processing***
+		* Develop systems of devices, integrating with other parts of the ***cybersecurity and networking infrastructure***
 	- Desired Skills & Experience
 		* BS, MS, or Ph.D. in Computer Science with strength and experience in networking, algorithms, and computer systems
-		* Skilled in systems programming tools (C, C++, Python, Bash, Angular, , and/or kernels)
-		* Strong software engineering skills and experience with software engineering tools (e.g., Atlassian/Jira, Mercurial, GIT)
+		* Skilled in ***systems programming tools (C, C++, Python, Bash, Angular, and/or kernels)***
+		* Strong software engineering skills and experience with ***software engineering tools (e.g., Atlassian/Jira, Mercurial, GIT)***
 	- Plus Knowledge
-		* Zeek (Bro), Suricata, ElasticSearch, Kibana, Elk, Splunk
-		* Experience with advanced networking products, protocols, hardware and tools (e.g., SDN, OpenFlow, NetFlow, sFlow, Mininet)
-		* Cybersecurity and network security
-		* Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+		* ***Zeek (Bro), Suricata, ElasticSearch, Kibana, Elk, Splunk***
+		* Experience with advanced ***networking products, protocols, hardware and tools (e.g., SDN, OpenFlow, NetFlow, sFlow, Mininet)***
+		* ***Cybersecurity and network security***
+		* Experience with ***cloud platforms (e.g., AWS, Azure, Google Cloud)***
 		* Prior work with a variety of computer architectures
 + skill set:
 	- Experience in Linux programming in the C language with emphasis on knowledge of system calls, threading, and interaction with device drivers.

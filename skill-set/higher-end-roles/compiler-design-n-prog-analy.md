@@ -1498,3 +1498,46 @@ Skill sets for program analysis:
 + skill set:
 	- BLAH.
 
+
+
+
+
+
+
+
+
+
+#	Program Synthesis
+
+
+##	Skill Sets for Program Synthesis
+
+
+Skill sets for program synthesis:
++ skill set:
+	- GitHub is seeking a research engineer in the area of code intelligence in the office of the CTO (OCTO). OCTO aims to be a meeting place within GitHub for experimentation with new ideas, and for setting the agenda for GitHub’s product several years in advance. OCTO has a small number of permanent research staff, and this position is part of the core OCTO team. The engineer will initially focus on exploring synthesis of code from documentation.
+	- Here is some more detail on that initial project - it is just an example of more such projects in future. Recent advances in machine learning models for source code indicate that it is possible to synthesize code just from the signature and docstring of a function. Often better synthesis results are possible by also specifying an example to test synthesized candidates. We’d like to explore how to integrate this functionality into CodeSpaces, so that users can browse alternative solutions synthesized by the model. We’d also like to consider other user experiences for the same functionality, for example in an automated assistant for novice developers.
+	- Responsibilities:
+		* Design and build user interfaces as outlined above, and experiment with new ideas to embody the new ***code synthesis technology***.
+		* Collaborate with early adopters and machine learning experts on improving both the underlying technology and the way users interact with the synthesizer.
+		* Participate in all activities of the OCTO at GitHub: organizing webinar series, evaluating project proposals, and disseminating research results.
+	- Minimum Qualifications:
+		* Ability to quickly create innovative ***user interfaces and new user experiences***.
+		* 5+ years experience in ***creating frontends in production***
+		* Inclination to prototype quickly and make fast decisions on experiment failure.
+		* A creative mindset and good practical skills are more important than formal experience.
+	- Preferred Qualifications:
+		* Experience with ***user interface design, especially for developer tools***.
+		* Proven track record of working with early adopters to refine initial designs.
+		* Ability to communicate complex ideas clearly, both in spoken and written form, for expert as well as novice audiences.
+		* Interest in modern AI technologies and their use in developer tools.
+
+
+
+
+
+
+
+
+
+
