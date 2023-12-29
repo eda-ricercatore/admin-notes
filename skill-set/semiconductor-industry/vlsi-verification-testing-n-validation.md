@@ -465,35 +465,35 @@ Skill set for roles in digital VLSI verification:
 	- ***Generate directed and random test cases, write regression scripts, and report code and functional coverage.***
 	- ***Do a first level debug for root cause classification (TB, HW, or SW issue), and work with design team to validate fixes or workarounds.***
 	- ***Run Gate level simulations, and replicate Silicon/FPGA bugs in the test bench environment.***
-	- Develop and grow verification infrastructure to improve verification productivity and regression management
-	- Contribute to identifying and adopting best engineering practices with cross-functional teams
+	- ***Develop and grow verification infrastructure to improve verification productivity and regression management***
+	- Contribute to ***identifying and adopting best engineering practices with cross-functional teams***
 	- BS/MS in Electrical Engineering or related degree or certification required.
-	- 2+ years of experience in System Verilog or UVM/OVM based verification
-	- Good skills in verification methodology, test planning and test bench architecture
-	- Very good experience with System Verilog and advanced verification techniques: constrained random verification, code/functional/assertion coverage.
-	- Experience in integrating Verification IPs, and HW/SW Co-Simulation is a plus.
-	- Knowledge of ARM based SoC architecture and system busses (AHB, AXI, APB) is strongly desired.
-	- Knowledge of standard SoC interfaces (SPI, I2C, ect…) and high-speed IO protocols (PCIe, USB, DDR) is a plus.
-	- Programming skills in C++, Python, and shell scripting are strongly desired.
-	- Good debugging skills, and well experienced with VCS/Verdi or similar toolsets.
+	- 2+ years of experience in ***System Verilog or UVM/OVM based verification***
+	- Good skills in ***verification methodology, test planning and test bench architecture***
+	- Very good experience with ***System Verilog and advanced verification techniques: constrained random verification, code/functional/assertion coverage***.
+	- Experience in ***integrating Verification IPs, and HW/SW Co-Simulation*** is a plus.
+	- Knowledge of ***ARM based SoC architecture and system busses (AHB, AXI, APB)*** is strongly desired.
+	- Knowledge of ***standard SoC interfaces (SPI, I2C, ect...) and high-speed IO protocols (PCIe, USB, DDR)*** is a plus.
+	- ***Programming skills in C++, Python, and shell scripting are strongly desired.***
+	- Good debugging skills, and well experienced with ***VCS/Verdi*** or similar toolsets.
 + skill set:
-	- Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).
-	- Creating effective verification strategies for CPU memory system caches.
-	- Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
-	- Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
-	- Developing and using unit level test benches that use constrained random stimulus.
-	- Using assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
-	- Writing directed assembly tests as appropriate to test CPU functions.
-	- Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.
-	- Collaborating closely with the design team on feature specifications, test plans and failure analysis.
-	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
-	- Solid understanding of CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers.
-	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
-	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
-	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
-	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
-	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)
-	- Understanding of CPU memory systems caches from an architectural level.
+	- ***Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).***
+	- Creating effective ***verification strategies for CPU memory system caches***.
+	- ***Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.***
+	- ***Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.***
+	- ***Developing and using unit level test benches that use constrained random stimulus.***
+	- Using ***assembly code Random test generators*** to meet verification objectives in single and multi-core CPU environments.
+	- ***Writing directed assembly tests as appropriate to test CPU functions.***
+	- ***Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.***
+	- ***Collaborating closely with the design team on feature specifications, test plans and failure analysis.***
+	- 7+ years of recent experience with ***standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation***.
+	- Solid understanding of ***CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers***.
+	- Experience with ***industry standard system bus protocols (e.g., AMBA AXI, AHB, APB)*** is preferred. ***Knowledge of TileLink*** is a plus.
+	- A thorough understanding of the ***high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure)***.
+	- ***Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.***
+	- ***Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.***
+	- ***Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)***
+	- ***Understanding of CPU memory systems caches from an architectural level.***
 + skill set:
 	- BLAH.
 + skill set:
