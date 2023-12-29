@@ -6294,7 +6294,7 @@ Companies that have machine learning -centric products
 	- Create a year long project proposal with research managers.
 	- ***First-author publications at AI conferences and journals (e.g. NIPS, ICML, ICLR, ACL, CVPR, KDD, PAMI, JMLR, TACL, IJCV).***
 + skill set:
-	- Salesforce Research Asia is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
+	- ***Salesforce Research Asia*** is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
 		* deep learning,
 		* machine learning,
 		* natural language processing,
@@ -6309,28 +6309,28 @@ Companies that have machine learning -centric products
 	- Strong algorithmic problem solving skills
 	- Programming experience in ***Python, Java, C/C++, Lua***, or a similar language
 + skill set:
-	- Salesforce Research (previously MetaMind) is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
+	- ***Salesforce Research (previously MetaMind)*** is looking for outstanding research interns. Ideal candidates have a strong background in one or more of the following fields:
 		* deep learning,
 		* machine learning,
 		* natural language processing,
 		* computer vision, or
 		* reinforcement learning
-	- Applied to, for example: text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Applied to, for example: ***text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection***.
 	- ***Candidates that have published in top-tier conferences or journals (e.g. NIPS, ICML, ACL, EMNLP, CVPR, ICCV, SIGKDD, ICDM, ICLR, PAMI, JMLR, TACL, IJCV) are preferred.***
 	- As a research intern, you will work with a team of research scientists and engineers on a project that ideally leads to a submission to a top-tier conference.
 	- PhD/MS candidate in a relevant research area
-	-  Excellent understanding of deep learning techniques, i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods
-	-  Experience with one or more deep learning libraries and platforms, e.g. Torch, TensorFlow, Caffe, or Chainer
-	-  Strong background in machine learning, natural language processing, computer vision, or reinforcement learning
+	- Excellent understanding of ***deep learning techniques, i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods***
+	-  Experience with one or more ***deep learning libraries and platforms, e.g. Torch, TensorFlow, Caffe, or Chainer***
+	-  Strong background in ***machine learning, natural language processing, computer vision, or reinforcement learning***
 	-  Strong algorithmic problem solving skills
 	-  Programming experience in Python, Lua, Java, or a similar language
 + skill set:
-	- Salesforce Research (previously MetaMind) is looking for an outstanding entry level research scientists focused on ethics in AI. It is our belief in the words of our CEO Marc Benioff, “The business of business is improving the state of the world." The way we behave — with integrity, transparency, alignment, and accountability — builds trusted relationships. We believe that companies can do well and do good in the world. We know technology is not inherently good or bad. It's what we do with it that matters. With AI, we believe that we can go even further to advance and support its effectiveness by ensuring equality, transparency, and accountability in the models we create and how we implement them in our products.
+	- ***Salesforce Research (previously MetaMind)*** is looking for an outstanding entry level research scientists focused on ethics in AI. It is our belief in the words of our CEO Marc Benioff, “The business of business is improving the state of the world." The way we behave — with ***integrity, transparency, alignment, and accountability*** — builds trusted relationships. We believe that companies can do well and do good in the world. We know technology is not inherently good or bad. It's what we do with it that matters. With AI, we believe that we can go even further to advance and support its effectiveness by ***ensuring equality, transparency, and accountability in the models we create and how we implement them in our products***.
 	- As a research scientist, you discover new research problems, develop novel models, design careful experiments and generally advance the state of the art in AI. At Salesforce, the research team is committed to collaboration with the wider research community. In this unique role, you will have the opportunity to work directly on advancing technologies that nonprofits use to solve problems in the real world that create positive impact for the world while accomplishing publications at major conferences. We believe that making substantive progress on hard problems can drive and sharpen the research questions we study, and, in turn, scientific breakthroughs can spawn entirely new applications. With this in mind, the team maintains a portfolio of projects, some with an immediate path to production, others that may not find an application for several years. Research scientists have the freedom to set their own research agenda and move between pure and applied research.
 	- As a research intern, you will work with a team of research scientists and engineers on a project that ideally leads to a submission to a top-tier conference.
 	- PhD/MS candidate in a relevant research area (e.g., Machine Learning, AI, AI ethics, law and policy)
-	- Excellent understanding of deep learning models and techniques (i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods)
-	- Experience with one or more deep learning libraries and platforms (e.g. PyTorch, TensorFlow)
+	- Excellent understanding of ***deep learning models and techniques (i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods)***
+	- Experience with one or more ***deep learning libraries and platforms (e.g. PyTorch, TensorFlow)***
 	- Strong background in machine learning, natural language processing, computer vision, or reinforcement learning
 	- Programming experience in Python or a similar language
 	- Strong algorithmic problem-solving skills
