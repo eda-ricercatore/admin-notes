@@ -6331,37 +6331,37 @@ Companies that have machine learning -centric products
 	- PhD/MS candidate in a relevant research area (e.g., Machine Learning, AI, AI ethics, law and policy)
 	- Excellent understanding of ***deep learning models and techniques (i.e., CNN, RNN, LSTM, GRU, attention models, and optimization methods)***
 	- Experience with one or more ***deep learning libraries and platforms (e.g. PyTorch, TensorFlow)***
-	- Strong background in machine learning, natural language processing, computer vision, or reinforcement learning
+	- Strong background in ***machine learning, natural language processing, computer vision, or reinforcement learning***
 	- Programming experience in Python or a similar language
 	- Strong algorithmic problem-solving skills
-	- Demonstrable experience implementing machine learning models and algorithms, e.g., through open-source implementations, or shareable code
+	- ***Demonstrable experience implementing machine learning models and algorithms, e.g., through open-source implementations, or shareable code***
 	- Strong presentation and communication skills
-	- Experience applying deep learning models to ethical issues in AI or social causes (e.g., racial disparity in facial recognition, explainability of AI for redress and remediation)
-	- Experience researching artificial intelligence ethics, including areas such as fairness, safety, privacy and transparency in artificial intelligence
+	- ***Experience applying deep learning models to ethical issues in AI or social causes (e.g., racial disparity in facial recognition, explainability of AI for redress and remediation)***
+	- ***Experience researching artificial intelligence ethics, including areas such as fairness, safety, privacy and transparency in artificial intelligence***
 	- ***Published in top-tier conferences or journals (e.g., FAT\*, NIPS, AIES, ICML, ACL, EMNLP, CVPR, ICCV, SIGKDD, ICDM, ICLR, PAMI, JMLR, TACL, IJCV)***
-	- Open-source implementations of machine learning research projects.
+	- ***Open-source implementations of machine learning research projects.***
 	- The ideal candidate will have a keen interest in producing new science to understand intelligence and technology and how to apply it safely and fairly in real-world settings.
 + ***Open-source projects that demonstrate relevant skills and/or publications in relevant conferences and journals (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP)***
 + skill set:
 	- Machine Learning Researcher
-	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, rapid-feedback platform for ML experimentation. 
+	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, ***rapid-feedback platform for ML experimentation***. 
 	- Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software engineering roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
-	- We're looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
+	- We're looking for people to join the research team with ***deep ML experience in either an applied or academic context***. A good candidate should have a ***deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.***
 	- As an ML researcher, your expertise will also shape the firm's future ML developments including hiring new ML researchers, attending conferences, teaching techniques to teammates, and setting firmwide goals.
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- Research Scientist
-	- We are looking for Research Scientists in the machine learning discipline who are passionate about generative models and creative applications of AI. In particular, we are looking for people who share our mission of open-source research; people who do not believe AI models should be controlled by a centralized gatekeeper behind a closed wall, but rather be truly open and in control by all. We want highly creative researchers who are motivated to push the boundaries of generative models research, not just in state-of-the-art performance, but in pushing the efficient frontier between performance and resource usage. You will have access to state-of-the-art high performance computing resources and you will be able to work alongside top researchers and engineers to truly make an impact in the fast growing world of generative AI.
-	- Work with research team to execute research agenda
-	- Build the next generation of creative generative AI models
-	- Publication of results at top conferences or journals, and blog posts
-	- Work with open-source community on model release and tooling
-	- Work with engineering / business teams on model deployment and customized training
-	- Publication of papers, projects, and blog posts that had a high impact in generative AI
-	- Experience with dataset curation, rather than rely solely on spoonfed research datasets
-	- Ability to communicate research ideas effectively through writing and visualization
-	- Experience with Python scientific stack, PyTorch, creating Jupyter/Colab notebooks
-	- Experience with training large models on a compute cluster environment is a plus
+	- We are looking for Research Scientists in the machine learning discipline who are passionate about ***generative models and creative applications of AI***. In particular, ***we are looking for people who share our mission of open-source research; people who do not believe AI models should be controlled by a centralized gatekeeper behind a closed wall, but rather be truly open and in control by all. We want highly creative researchers who are motivated to push the boundaries of generative models research, not just in state-of-the-art performance, but in pushing the efficient frontier between performance and resource usage. You will have access to state-of-the-art high performance computing resources and you will be able to work alongside top researchers and engineers to truly make an impact in the fast growing world of generative AI.***
+	- ***Work with research team to execute research agenda***
+	- ***Build the next generation of creative generative AI models***
+	- ***Publication of results at top conferences or journals, and blog posts***
+	- ***Work with open-source community on model release and tooling***
+	- ***Work with engineering / business teams on model deployment and customized training***
+	- ***Publication of papers, projects, and blog posts that had a high impact in generative AI***
+	- ***Experience with dataset curation, rather than rely solely on spoonfed research datasets***
+	- ***Ability to communicate research ideas effectively through writing and visualization***
+	- ***Experience with Python scientific stack, PyTorch, creating Jupyter/Colab notebooks***
+	- ***Experience with training large models on a compute cluster environment is a plus***
 + skill set:
 	- AI/ML Research Scientist
 	- Santa Clara Valley (Cupertino), California, United States
