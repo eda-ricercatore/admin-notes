@@ -215,11 +215,11 @@ Sets of skills for product management for machine learning products and services
 	- Master's degree or Ph.D. in AI, Computer Science, or related technical field.
 	- Have worked in or around startups before or have a strong understanding of the nature of fast-moving, highly dynamic teams.
 + skill set:
-	- Product Manager, AI Fabrics
+	- Product Manager, ***AI Fabrics***
 	- Austin, TX | Menlo Park, CA | Seattle, WA
-	- At Meta, the AI Systems and Accelerated Platforms organization comprises the teams responsible for defining, developing, and delivering the compute, storage, and network hardware and software upon which all Meta products and services run.   
-	- As the Product Manager for AI Fabrics, you will be responsible for defining the high-performance network infrastructure that connects our AI systems, enabling efficient deployment of some of the world's largest AI models at a global scale.  You will play a critical role in identifying opportunities to innovate and differentiate our AI fleet through industry-leading  fabric performance and scale.
-	- In this role, you will collaborate with a diverse group of technical and non-technical partners to establish a shared vision and strategy for a portfolio of networking and fabric technologies and solutions that empower our AI systems to lead in performance and scale.  You will work closely with cross-functional teams, including hardware and software engineers, data scientists, co-design collaborators, and product designers to drive product definition, launch innovative products, and analyze metrics that inform the success of products.
+	- At Meta, the ***AI Systems and Accelerated Platforms organization*** comprises the teams responsible for defining, developing, and delivering the compute, storage, and network hardware and software upon which all Meta products and services run.   
+	- As the Product Manager for AI Fabrics, you will be responsible for defining the ***high-performance network infrastructure*** that connects our AI systems, enabling efficient deployment of some of the world's largest AI models at a global scale.  You will play a critical role in ***identifying opportunities to innovate and differentiate our AI fleet through industry-leading fabric performance and scale***.
+	- In this role, you will collaborate with a diverse group of technical and non-technical partners to establish a shared vision and strategy for a portfolio of networking and fabric technologies and solutions that empower our AI systems to lead in performance and scale.  You will work closely with cross-functional teams, including hardware and software engineers, data scientists, ***co-design collaborators***, and product designers to drive product definition, launch innovative products, and analyze metrics that inform the success of products.
 	- The ideal candidate for this role will be passionate about identifying and innovating the next generation of fabric technologies, and have a proven track record of effectively guiding product teams. You should have experience in analyzing and interpreting data to make informed business decisions, and possess excellent communication and collaboration skills.
 	- Establish a shared vision and strategy for a portfolio of networking and fabric technologies and solutions that empower our AI systems.
 	- Lead the ideation, definition, and launch of innovative fabrics in areas of significant strategic ambiguity.
@@ -238,7 +238,7 @@ Sets of skills for product management for machine learning products and services
 		* Knowledge in organizational, communication, execution, cross-functional, and collaboration skills.
 		* Experience analyzing, interpreting, leveraging data, and handling ambiguity to make business decisions.
 	- Preferred Qualifications
-		* Experience in building compute fabrics that lead in performance and scale.
+		* ***Experience in building compute fabrics that lead in performance and scale.***
 	- $197,000/year to $270,000/year + bonus + equity + benefits
 + skill set:
 	- BLAH.
