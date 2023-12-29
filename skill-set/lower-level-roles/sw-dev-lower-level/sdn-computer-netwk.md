@@ -205,30 +205,30 @@
 	- Experience in ***Application & Infrastructure Monitoring (Nagios, New Relic, Datadog, Splunk, Sumologic, etc...)***
 + skill set:
 	- As a Network Engineer you will be responsible for the design, implementation, and support for the network within the OVHcloud environment.  You will be required to understand application and hardware points of failure, performance characteristics and have the ability to identify actionable items to maintain an acceptable service level for all associated environments and applications.  You will be required to participate in an on-call rotation and serve as top-level support for network related issues. 
-	- Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.
+	- ***Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.***
 	- Execute or implement simple, automated and scripted changes or infrastructure requests.
 	- Troubleshoot and provide customer support for technology and infrastructure issues.
-	- Document and update incident technical details into ServiceNow/Jira ticketing system.
+	- Document and update incident technical details into ServiceNow/***Jira ticketing system***.
 	- Escalate issues to Tier III support if unable to resolve through initial triage and troubleshooting.
 	- Execution of standard operational processes which involve technology and client interfaces.
 	- 1-2 years of hands on enterprise network operations support experience
 	- CCNA certification required
 	- Intermediate understanding of OSI model and troubleshooting of technology related issues
-	- Intermediate understanding of network protocols (to include but not limited to): OSPF EIGRP BGP MPLS RSTP STP HSRP VRRP VRF VTP DHCP DNS CDP LLDP ARP FTP TFTP
-	- CCNA level knowledge and experience (at least 1yr)
-	- Able to work well in a fast-paced environment and be comfortable in stressful situations
+	- Intermediate understanding of ***network protocols (to include but not limited to): OSPF EIGRP BGP MPLS RSTP STP HSRP VRRP VRF VTP DHCP DNS CDP LLDP ARP FTP TFTP***
+	- ***CCNA level knowledge and experience (at least 1yr)***
+	- ***Able to work well in a fast-paced environment and be comfortable in stressful situations***
 	- Can effectively communicate with both management as well as non-technical personnel on any technology issue to ensure they understand the nature of the issue and current statue easily understood on any outage conference calls
 	- Detail oriented self-motivated goal driven
-	- Intermediate familiarity with Cisco IOS, Nexus NX-OS and IOS-XR
+	- Intermediate familiarity with ***Cisco IOS, Nexus NX-OS and IOS-XR***
 	- Knowledge of the following is preferred:
-		* Network product: Arista
-		* Virtualization network knowledge: VxLan
+		* ***Network product: Arista***
+		* ***Virtualization network knowledge: VxLan***
 		* Scripting: Python, Perl
-		* Devops: Linux, Github, bastion
-		* Security knowledge: firewall, VPN
-		* Load balancer
+		* ***Devops: Linux, Github, bastion***
+		* ***Security knowledge: firewall, VPN***
+		* ***Load balancer***
 + skill set:
-	- GitHub is looking for engineers to join the Traffic Engineering team within our larger Data Center Engineering organization. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our edge and internal traffic and service load balancers, design and implement DDoS mitigation systems, and help improve end user performance through expanding our global network.
+	- GitHub is looking for engineers to join the ***Traffic Engineering team*** within our larger ***Data Center Engineering organization***. You will focus on the systems and tools that enable our engineers to operate and scale the world's largest code hosting platform. You will help maintain our edge and internal traffic and service load balancers, design and implement DDoS mitigation systems, and help improve end user performance through expanding our global network.
 	- The Data Center Engineering team is highly distributed and you will thrive in an environment of remote work and asynchronous communication. You're expected to have strong written communication skills and be able to develop working relationships with coworkers in locations around the globe.
 	- As an engineer at GitHub you'll always be challenged to solve interesting and novel problems that have real impact on how the world builds software.
 	- Responsibilities:
