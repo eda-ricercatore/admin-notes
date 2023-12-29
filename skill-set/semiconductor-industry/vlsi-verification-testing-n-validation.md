@@ -240,25 +240,25 @@ Skill set for roles in digital VLSI verification:
 	- ***Collaborate closely with the design team on feature specifications, test plans and failure analysis.***
 	- 7+ years of recent experience with ***standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.***
 	- Solid understanding of ***CPU power management and how that impacts both the RTL and verification environment***.
-	- Experience with industry standard system bus protocols (e.g. AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
-	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
-	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
-	- Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.
-	- Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).
+	- Experience with ***industry standard system bus protocols (e.g. AMBA AXI, AHB, APB)*** is preferred. ***Knowledge of TileLink*** is a plus.
+	- A thorough understanding of the ***high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure)***.
+	- Ability to effectively ***assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure***.
+	- ***Verification experience in test planning, constrained random test generation, test stimulus, code coverage, functional coverage.***
+	- ***Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.).***
 + skill set:
-	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel application of verification methodologies to parameterizable CPU IP generators. SiFive is looking for someone with outstanding knowledge and skills in verification and CPU memory systems who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite.
+	- We at SiFive are looking for a Verification Engineer to join our growing team working on implementing a novel ***application of verification methodologies to parameterizable CPU IP generators***. SiFive is looking for someone with outstanding ***knowledge and skills in verification and CPU memory systems who will build an environment to be used specifically with SiFive’s functional programming-based hardware design suite***.
 	- Location: The ideal candidate for this position can work out of one of our US offices or remotely from home, collaborating with the HQ in San Mateo, CA. However, all positions are currently remote until further notice.
-	- Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).
-	- Creating effective verification strategies for CPU memory system caches.
-	- Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.
-	- Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.
-	- Developing and using unit level test benches that use constrained random stimulus.
-	- Using assembly code Random test generators to meet verification objectives in single and multi-core CPU environments.
-	- Writing directed assembly tests as appropriate to test CPU functions.
-	- Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.
-	- Collaborating closely with the design team on feature specifications, test plans and failure analysis.
-	- 7+ years of recent experience with standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.
-	- Solid understanding of CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers.
+	- ***Architecting test methodologies applicable to a wide range of CPU designs for CPU memory sub-systems including memory virtualization (Paging and Hypervisors), Load-Store unit, various levels of caches and industry standard bus protocols (e.g., AMBA and TileLink).***
+	- Creating effective ***verification strategies for CPU memory system caches***.
+	- ***Building test plans to implement these strategies, considering issues such as design feature priority, potential customer impact, coverage metrics generation and measurability, etc.***
+	- ***Developing tools, test benches, and test suites (UVM, C++/C or otherwise, as needed) to execute test plans.***
+	- ***Developing and using unit level test benches that use constrained random stimulus.***
+	- Using ***assembly code Random test generators*** to meet verification objectives in single and multi-core CPU environments.
+	- ***Writing directed assembly tests as appropriate to test CPU functions.***
+	- ***Providing technical leadership to verification engineers and coordinating technical teams to execute our verification strategies to meet program goals.***
+	- ***Collaborating closely with the design team on feature specifications, test plans and failure analysis.***
+	- 7+ years of recent experience with ***standard verification tools and methodologies (UVM, Verdi/DVE, System Verilog, Verilog, Makefiles, scripting languages, etc.), especially in hands-on testbench development and test suite generation.***
+	- Solid understanding of ***CPU and SoC memory architecture including memory virtualization (hypervisor, paging), Load-Store unit, various levels of caches, cache coherence protocols, bus interface units, and memory controllers***.
 	- Experience with industry standard system bus protocols (e.g., AMBA AXI, AHB, APB) is preferred. Knowledge of TileLink is a plus.
 	- A thorough understanding of the high-level verification flow methodology (testplan generation, test generation, failure analysis, coverage analysis and closure).
 	- Ability to effectively assess the design verification metrics, remaining state space to be covered, and efficient methods to achieve verification closure.
