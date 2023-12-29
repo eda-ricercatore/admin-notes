@@ -346,125 +346,125 @@ Skill set for roles in digital VLSI verification:
 	- Experience with ****hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)****
 	- ***Strong problem solving and debug skills across various levels of design hierarchies***
 + skill set:
-	- Develop DV testplans for ISA and microarchitecture and execute on them
-	- Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers and coverage models
-	- Build architectural tools for ISA level verification
-	- Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain
-	- Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon
+	- ***Develop DV testplans for ISA and microarchitecture and execute on them***
+	- ***Design and develop component, block and core level testbenches including stimulus engines, microarchitectural models, checkers and coverage models***
+	- ***Build architectural tools for ISA level verification***
+	- ***Develop stimulus generators that scale from pre-silicon to emulation and post-silicon domain***
+	- ***Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon***
 	- BS/MS/PhD in EE/ECE/CE/CS with a strong GPA
-	- Knowledge of computer architecture/system components/network/fabric, prior internship working in these domains preferred
-	- Strong academic skills or internship experience in verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage
-	- Academic projects in C++ / SV / UVM as well knowledge of scripting languages
-	- Understanding of assembly level programming
+	- Knowledge of ***computer architecture/system components/network/fabric***, prior internship working in these domains preferred
+	- Strong academic skills or internship experience in ***verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage***
+	- Academic projects in ***C++ / SV / UVM as well knowledge of scripting languages***
+	- Understanding of ***assembly level programming***
 	- Knowledge of hardware description languages (Verilog, VHDL)
 	- Strong problem solving and debug skills across various levels of design hierarchies
-	- Understanding of deep learning concepts and familiarity with popular machine learning frameworks and models is a plus
+	- ***Understanding of deep learning concepts and familiarity with popular machine learning frameworks and models is a plus***
 + skill set:
-	- In this role, you will learn Functional verification of high-performance CPUs going into industry leading AI/ML architecture. You will be mentored by and work alongside a group of highly experienced engineers across various domains of the AI chip.
-	- Develop and execute DV testplans for ISA and microarchitecture
-	- Understand and debug RTL code for the CPU and help make changes to the design
-	- Help with development of architectural tools for ISA level verification
-	- Write C/assembly based stimulus that scales from pre-silicon to emulation and post-silicon domain
-	- Help with infrastructure and tool development for RTL, Performance and DV environments
-	- Support development and integration of testbench components such as microarchitectural models, checkers and coverage
+	- In this role, you will learn ***Functional verification of high-performance CPUs going into industry leading AI/ML architecture***. You will be mentored by and work alongside a group of highly experienced engineers across various domains of the AI chip.
+	- ***Develop and execute DV testplans for ISA and microarchitecture***
+	- ***Understand and debug RTL code for the CPU and help make changes to the design***
+	- ***Help with development of architectural tools for ISA level verification***
+	- ***Write C/assembly based stimulus that scales from pre-silicon to emulation and post-silicon domain***
+	- Help with ***infrastructure and tool development for RTL, Performance and DV environments***
+	- ***Support development and integration of testbench components such as microarchitectural models, checkers and coverage***
 	- Senior year BS/MS or PhD candidate in EE/ECE/CE/CS with a strong GPA
 	- Prior academic work in the field of computer architecture, internship experience preferred
-	- Academic projects in C++ / SV / UVM as well knowledge of scripting languages
-	- Understanding of assembly level programming
+	- ***Academic projects in C++ / SV / UVM as well knowledge of scripting languages***
+	- Understanding of ***assembly level programming***
 	- Knowledge of hardware description languages (Verilog, VHDL)
 	- Strong academic skills or internship experience in verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage
 	- Strong problem solving and analytical skills
 + skill set:
-	- Design and development of scalable verification infrastructure for high performance CPUs going into industry leading AI/ML architecture. The person coming into this role will help define DV methodology and create tools and flows that will enable a multi-discipline and multi-site team to execute flawlessly. The person in this role will collaborate with a group of highly experienced engineers across various domains of the AI chip.
-	- Architecture and hands-on development of scalable solutions that are leveraged for DV testbenches, architectural tools, RTL development and performance modelling across CPU, compute engines and SOCs
-	- Development of automation systems for the entire design team
+	- ***Design and development of scalable verification infrastructure for high performance CPUs going into industry leading AI/ML architecture.*** The person coming into this role will help ***define DV methodology and create tools and flows that will enable a multi-discipline and multi-site team to execute flawlessly***. The person in this role will collaborate with a group of highly experienced engineers across various domains of the AI chip.
+	- ***Architecture and hands-on development of scalable solutions that are leveraged for DV testbenches, architectural tools, RTL development and performance modelling across CPU, compute engines and SOCs***
+	- ***Development of automation systems for the entire design team***
 	- Engage with leading industry vendors and 3rd party IP providers, drive integration of external tools and IPs in the design flow
-	- Experience with open-source tool-flows and deployment of applicable tools and infrastructure in the design flow; drive tool decisions for build vs leverage vs buy
-	- Own regular block/chip/emulation regressions
-	- Experience with development of DV tools and infrastructure and large-scale regression environments is required, extensive debug of automation workflows
-	- Knowledge of EDA tools, strong understanding of simulators. Hands-on experience working with emulation environment and tools is a plus
-	- Expertise developing tools for revision control, prior experience with git preferred
-	- Very strong programming skills in C/C++, scripting skills in Python, Tcl, Perl
-	- Knowledge of multiple testbench methodologies, proficiency in UVM is a plus
-	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Experience with ***open-source tool-flows and deployment of applicable tools and infrastructure in the design flow; drive tool decisions for build vs leverage vs buy***
+	- Own regular ***block/chip/emulation regressions***
+	- Experience with ***development of DV tools and infrastructure and large-scale regression environments*** is required, ***extensive debug of automation workflows***
+	- Knowledge of ***EDA tools, strong understanding of simulators***. Hands-on experience working with ***emulation environment and tools*** is a plus
+	- ***Expertise developing tools for revision control, prior experience with git preferred***
+	- ***Very strong programming skills in C/C++, scripting skills in Python, Tcl, Perl***
+	- Knowledge of ***multiple testbench methodologies, proficiency in UVM is a plus***
+	- ***Strong problem solving and debug skills across various levels of design hierarchies***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience
 + skill set:
-	- Flex Logix is looking for Verification Engineers to join our growing team. You will be involved in functional verification and emulation of Inference SoC and EFLX (embedded FPGA) cores in different process nodes.
-	- Responsible for all aspects of verification and emulation.
-	- Integration of industry standard Verification IPs.
-	- Development and debug of UVM/SV testbenches for SoCs and TPU.
-	- Bring-up and integration verification of cores, NoC, LPDDR4X/5 memory, PCIe, USB, DFT subsystems.
-	- Development of verification testbench for silicon validation, post-silicon bring-up and checkout; Linux-based validation using C++/Python.
-	- Development of coverage plans and metrics, drive coverage activities and test writing.
-	- Gate-Level Simulation/UPF simulation and debug.
-	- Emulation of SoC and/or TPU using an industry standard emulation tool.
-	- Silicon On-tester pattern generation using standard IP functional features.
+	- Flex Logix is looking for Verification Engineers to join our growing team. You will be involved in ***functional verification and emulation of Inference SoC and EFLX (embedded FPGA) cores in different process nodes***.
+	- Responsible for ***all aspects of verification and emulation***.
+	- ***Integration of industry standard Verification IPs.***
+	- ***Development and debug of UVM/SV testbenches for SoCs and TPU.***
+	- ***Bring-up and integration verification of cores, NoC, LPDDR4X/5 memory, PCIe, USB, DFT subsystems.***
+	- ***Development of verification testbench for silicon validation, post-silicon bring-up and checkout; Linux-based validation using C++/Python.***
+	- ***Development of coverage plans and metrics, drive coverage activities and test writing.***
+	- ***Gate-Level Simulation/UPF simulation and debug.***
+	- ***Emulation of SoC and/or TPU using an industry standard emulation tool.***
+	- ***Silicon On-tester pattern generation using standard IP functional features.***
 	- BSEE/MSEE with at least 5 years of relevant industry experience. 
 	- Must be very smart and very motivated.
-	- Must have hands-on experience in VIP setup/integration of tools from Synopsys, Avery, SmartDV or similar.
-	- Must have hands-on experience with UVM/OVM.
-	- Must have hands-on experience in developing verification plans for SoC or ASIC architectures.
-	- Must have hands-on, test-writing experience with SIMD, RISCV or ARM ISA, AMBA, JTAG/DFT architectures.
-	- Must have hands-on functional coverage analysis and assertion implementation experience.
-	- Must have hands-on experience with standard functional simulators such as NCSIM or Questa.
-	- FPGA debug exposure.
-	- LPDDR4X/5, PCIe5/USB4 architecture.
-	- Emulation flow development in Mentor Graphics’ Veloce or equivalent emulation hardware.
-	- Exposure to Formal Verification techniques.
+	- ***Must have hands-on experience in VIP setup/integration of tools from Synopsys, Avery, SmartDV or similar.***
+	- Must have hands-on experience with ***UVM/OVM***.
+	- Must have hands-on experience in ***developing verification plans for SoC or ASIC architectures***.
+	- Must have hands-on, ***test-writing experience with SIMD, RISCV or ARM ISA, AMBA, JTAG/DFT architectures***.
+	- Must have hands-on ***functional coverage analysis and assertion implementation experience***.
+	- Must have hands-on experience with ***standard functional simulators such as NCSIM or Questa***.
+	- ***FPGA debug exposure***.
+	- ***LPDDR4X/5, PCIe5/USB4 architecture***.
+	- ***Emulation flow development in Mentor Graphics’ Veloce or equivalent emulation hardware***.
+	- Exposure to ***Formal Verification techniques***.
 	- Worked with and directed external contractors.
 + skill set:
-	- Hands on system Verilog/UVM development work for modern high performance CPU verification.
-	- Work will involve writing test cases, using test generators to generate targeted tests for RISCV CPU verification
-	- Working with internal test generators to target coverage/test-plan scenarios
+	- Hands on ***system Verilog/UVM development work for modern high performance CPU verification***.
+	- Work will involve ***writing test cases, using test generators to generate targeted tests for RISCV CPU verification***
+	- Working with ***internal test generators to target coverage/test-plan scenarios***
 	- 7-15 years of experience in DV preferably in CPU verification.
-	- Proficiency in System Verilog and UVM methodology.
-	- Very good object oriented programming skills.
-	- Any CPU architecture knowledge (x86, ARM or RISC-V) with test writing/test plan implementation experience.
-	- Bus interface knowledge like AXI or PCIE
-	- Integration experience with third party VIPs like bus VIPs.
+	- Proficiency in ***System Verilog and UVM methodology***.
+	- Very good ***object oriented programming skills***.
+	- Any ***CPU architecture knowledge (x86, ARM or RISC-V) with test writing/test plan implementation experience***.
+	- ***Bus interface knowledge like AXI or PCIE***
+	- ***Integration experience with third party VIPs like bus VIPs.***
 + skill set:
-	- Require Knowledge of hardware interfaces SPI, I2C, UART, JTAG, PWM, RTC.
-	- Hands on experience using JTAG, GDB and OpenOCD debuggers.
-+ Previous experience with HBM-DDR, AXI, Clock-Domain Crossing. Debug highly desired
-+ Knowledge of memory coherence, DDR, AXI/ACE is required
+	- ***Require Knowledge of hardware interfaces SPI, I2C, UART, JTAG, PWM, RTC.***
+	- Hands on experience using ***JTAG, GDB and OpenOCD debuggers***.
++ Previous experience with ***HBM-DDR, AXI, Clock-Domain Crossing Debug*** highly desired
++ Knowledge of ***memory coherence, DDR, AXI/ACE*** is required
 + skill set:
-	- PCIE GEN3 or above IP project verification experience;
-	- CXL/CCIX project experience;
-	- Validation process/tool development;
-	- Driver or firmware development experience;
-	- Familiarity with UCIE/HBM/DDR protocols is preferred
-	- Experience in D2D/HBM/DDR projects is preferred
+	- ***PCIE GEN3 or above IP project verification experience***;
+	- ***CXL/CCIX project experience***;
+	- ***Validation process/tool development***;
+	- ***Driver or firmware development experience***;
+	- Familiarity with ***UCIE/HBM/DDR protocols*** is preferred
+	- Experience in ***D2D/HBM/DDR projects*** is preferred
 + skill set:
-	- As a design verification technical lead, you will be responsible for defining the comprehensive verification and validation plan covering block to fullchip and system level validation. You will also be responsible for carrying out design validation to ensure design full functionality from logic simulation, emulation prototyping to system level validation. In additional, you will be driving the verification methodology to improve the verification flow and reduce the verification time through automation.
+	- As a design verification technical lead, you will be responsible for ***defining the comprehensive verification and validation plan covering block to fullchip and system level validation***. You will also be responsible for ***carrying out design validation to ensure design full functionality from logic simulation, emulation prototyping to system level validation***. In additional, you will be ***driving the verification methodology to improve the verification flow and reduce the verification time through automation***.
 	- Location: Penang, Malaysia
-	- Create verification and validation plan based on IP/FPGA architecture specifications and carry out all the validation tasks. The plan should include functional, system level and fullchip verification and validation perspectives.
-	- Developing IP/subsystem/system level/fullchip testbench, create tests, and necessary coverage goals based on specification to verify the design.
-	- Lead the results review against the coverage goals. Track and improve the tests to ensure the desire coverage is met.
-	- Support cross-functional teams in IP functional validation tests for IP bring-up on actual FPGA.
-	- Standardizing verification and validation framework, drive system test design implementation and overall IP system validation on HW.
-	- Define and develop verification and validation tools and flows to reduce the verification time.
+	- ***Create verification and validation plan based on IP/FPGA architecture specifications and carry out all the validation tasks. The plan should include functional, system level and fullchip verification and validation perspectives.***
+	- ***Developing IP/subsystem/system level/fullchip testbench, create tests, and necessary coverage goals based on specification to verify the design.***
+	- ***Lead the results review against the coverage goals. Track and improve the tests to ensure the desire coverage is met.***
+	- ***Support cross-functional teams in IP functional validation tests for IP bring-up on actual FPGA.***
+	- ***Standardizing verification and validation framework, drive system test design implementation and overall IP system validation on HW.***
+	- ***Define and develop verification and validation tools and flows to reduce the verification time.***
 	- Interfacing with 3rd party vendors for latest industry tool and methodology evaluation.
 	- Apply advanced techniques to achieve verification and validation with the highest quality, productivity, and time-to-market.
 	- Bachelor's degree in Electrical, Electronics or equivalent.
 	- Experience in IC design verification.
-	- Experienced using advanced verification methodologies such as UVM, OVM, VMM, System Verilog, constrained-random verification, assertion-based verification, and functional coverage techniques is a strong plus.
+	- Experienced using advanced ***verification methodologies such as UVM, OVM, VMM, System Verilog, constrained-random verification, assertion-based verification, and functional coverage techniques*** is a strong plus.
 	- Experienced creating and executing validation plans.
 	- Experience of leading a verification or validation team.
 	- Familiar in RTL design with Verilog and/or VHDL is a strong plus.
-	- Knowledge of memory interface protocol (DDR, HBM, etc) or high speed interfaces (PCIe, Ethernet, etc) is a strong plus.
+	- Knowledge of ***memory interface protocol (DDR, HBM, etc) or high speed interfaces (PCIe, Ethernet, etc)*** is a strong plus.
 	- Familiar with Perl, TCL and shell scripts is a plus.
 	- Exceptional analytical, problem solving and communication skills. Able to work independently.
 	- Demonstrates fundamental values such as accountability, integrity and a winning mindset.
 + skill set:
-	- The ASIC Verification Engineer primary job function is Pre-Silicon Design Verification of Spiking Neural Network IP and SOC designs using industry standard verification methodologies.
-	- Pre-Silicon Design verification of next generation Spiking Neural Network IPs and SoCs, blocks and/or chip top-level.
-	- Collaborate with other team members to define a verification methodology and a test plan.
-	- Develop IP level verification environments including stimulus generators, monitors, scoreboards, and coverage collectors
-	- Build self-checking test benches for SoC blocks and chip top-level verification.
-	- Develop verification plan for IP and SOC features
-	- Generate directed and random test cases, write regression scripts, and report code and functional coverage.
-	- Do a first level debug for root cause classification (TB, HW, or SW issue), and work with design team to validate fixes or workarounds.
-	- Run Gate level simulations, and replicate Silicon/FPGA bugs in the test bench environment.
+	- The ASIC Verification Engineer primary job function is ***Pre-Silicon Design Verification of Spiking Neural Network IP and SOC designs*** using industry standard verification methodologies.
+	- Pre-Silicon Design verification of next generation ***Spiking Neural Network IPs and SoCs, blocks and/or chip top-level***.
+	- Collaborate with other team members to ***define a verification methodology and a test plan***.
+	- ***Develop IP level verification environments including stimulus generators, monitors, scoreboards, and coverage collectors***
+	- Build ***self-checking test benches for SoC blocks and chip top-level verification***.
+	- Develop ***verification plan for IP and SOC features***
+	- ***Generate directed and random test cases, write regression scripts, and report code and functional coverage.***
+	- ***Do a first level debug for root cause classification (TB, HW, or SW issue), and work with design team to validate fixes or workarounds.***
+	- ***Run Gate level simulations, and replicate Silicon/FPGA bugs in the test bench environment.***
 	- Develop and grow verification infrastructure to improve verification productivity and regression management
 	- Contribute to identifying and adopting best engineering practices with cross-functional teams
 	- BS/MS in Electrical Engineering or related degree or certification required.
