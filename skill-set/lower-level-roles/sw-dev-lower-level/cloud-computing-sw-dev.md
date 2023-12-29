@@ -13,40 +13,40 @@ Notes on cloud computing:
 			+ API-driven
 			+ controlled via Web console in a user's Web browser
 	- types of delivery, cloud computing delivery models, or business models:
-		* development as a service, DaaS
+		* ***development as a service, DaaS***
 			+ Web-based, community shared tool set
 				- compare to locally installed software development tools in traditional (non-cloud computing) delivery of software development tools
-		* banking as a service, BaaS
+		* ***banking as a service, BaaS***
 			+ provision of banking products (current accounts and credit cards) as a service to non-bank third parties through APIs
-			+ banking as a platform, BaaP
+			+ ***banking as a platform, BaaP***
 				- provided on top of Infrastructure as a Service, IaaS, model
-				- FinTech SaaS
+				- ***FinTech SaaS***
 					* provides atomic and composite software-based financial services that are available on-demand
-			+ integrated banking as a service, BaaS, structure
+			+ ***integrated banking as a service, BaaS, structure***
 				- larger portfolio of services reduces risk of failure than single service provider
 				- efficient end-to-end proposition
-		* blockchain as a service, BaaS
+		* ***blockchain as a service, BaaS***
 			+ provide businesses with cloud-based solutions to build, host, and use their own blockchain apps, smart contracts, and function on the blockchain infrastructure developed by a vendor
-		* car as a service, CaaS, vehicle as a service, VaaS
-			+ electric vehicle as a service, ?aaS
-		* edge as a service, EaaS
-		* encryption as a service, EaaS
-		* energy as a service, EaaS
-		* evaluation as a service, EaaS
-		* games as a service, GaaS
-		* identity as a service, IDaaS
-		* IT as a service, ITaaS
+		* ***car as a service, CaaS, vehicle as a service, VaaS***
+			+ ***electric vehicle as a service, ?aaS***
+		* ***edge as a service, EaaS***
+		* ***encryption as a service, EaaS***
+		* ***energy as a service, EaaS***
+		* ***evaluation as a service, EaaS***
+		* ***games as a service, GaaS***
+		* ***identity as a service, IDaaS***
+		* ***IT as a service, ITaaS***
 			+ operational model for IT service providers to provide IT services to businesses
-		* logging as a service, LaaS
+		* ***logging as a service, LaaS***
 			+ IT archtectural model for centrally ingesting and collecting any type of log files coming from any given source or location, such as:
 				- servers
 				- applications
 				- devices
-			+ managed service provider (MSP) environment
+			+ ***managed service provider (MSP) environment***
 				- managed services as an alternative to break/fix model and on-demand outsourcing model
-		* lighting as a service, LaaS, light as a service
+		* ***lighting as a service, LaaS, light as a service***
 			+ service-based business model in which light service is charged on a subscription basis rather than via a one-time payment
-		* mobility as a service, MaaS
+		* ***mobility as a service, MaaS***
 			+ via a joint digital channel that enables users to plan, book, and pay for multiple types of mobility services (or vehicles that users can get a ride in to their destination)
 				- carpool companies
 				- ridesharing companies
@@ -56,39 +56,39 @@ Notes on cloud computing:
 				- "pop-up" bus services
 				- on-demand car services
 					* from self-driving cars, autonomous cars, driver-less cars, robotic cars, or robo-cars
-		* monitoring as a service, MaaS
-		* mass personalization as a service, MPaaS, personalization as a service, PaaS
-		* payment as a service, PaaS
+		* ***monitoring as a service, MaaS***
+		* ***mass personalization as a service, MPaaS, personalization as a service, PaaS***
+		* ***payment as a service, PaaS***
 			+ SaaS-based connection to group of international payment systems
 		* ***quality assurance as a service***, ***QAaaS***
 		* ***recovery as a service***, ***RaaS***, ***disaster recovery as a service***, ***DRaaS***
 			+ RaaS/DRaaS architectural models:
-				- to-cloud RaaS/DRaaS
+				- ***to-cloud RaaS/DRaaS***
 					* source application: primary private data centr of users
 					* backup/recovery target: cloud
-				- in-cloud RaaS/DRaaS
+				- ***in-cloud RaaS/DRaaS***
 					* source application: cloud
 					* backup/recovery target: cloud
-				- from-cloud RaaS/DRaaS
+				- ***from-cloud RaaS/DRaaS***
 					* primary/production application, or data, or source: cloud
 					* backup/recovery target: private data center
 		* ***robot as a service***, ***RaaS***, ***robotics as a service***
 			+ cloud computing service that facilitates seamless integration of robot and embedded devices into Web and cloud computing environment
-			+ subset of Internet of Intelligent Things, IoIT
-				- subset of Internet of Things, IoT
+			+ subset of ***Internet of Intelligent Things, IoIT***
+				- subset of ***Internet of Things, IoT***
 			+ cyber-physical systems consist of:
 				- computational and communication core
 				- physical elements that can interact with the physical world
-				- autonomous decentralized system, ADS
+				- ***autonomous decentralized system, ADS***
 					* components are designed to operate independently in a loosely coupled manner, so that the overall goal of the system is met
 					* share data through content-oriented protocol
 						+ data transmission on enterprise service bus, ESB
 					* based on a decoupled architecture
-					* autonomous decentralized service system, ADSS
-						+ based on service-oriented architecture, SOA
+					* ***autonomous decentralized service system, ADSS***
+						+ based on ***service-oriented architecture, SOA***
 			+ subscription-based contract for industrial or service robots
-			+ Visual IoT/Robotics Progamming Language Environment, VIPLE
-			+ uses service-oriented architecture, SOA, for:
+			+ ***Visual IoT/Robotics Progamming Language Environment, VIPLE***
+			+ uses ***service-oriented architecture, SOA***, for:
 				- service providers:
 					* each RaaS cloud unit hosts a repository of preloaded services
 					* developer/client can deploy new services into, or remove services from, a robot
@@ -99,12 +99,12 @@ Notes on cloud computing:
 					* each client can look up available services and applications in the directory of the RaaS cloud unit
 					* developer/client can compose a new application/functionality based on the services available in and outside the RaaS cloud unit
 					* available services and applications are hierarchically organized in the directory of the RaaS cloud unit, so that their discovery can be facilitated
-+ *content as a service, CaaS, or managed content as a service, MCaaS*
++ ***content as a service, CaaS, or managed content as a service, MCaaS***
 	- provide content on demand to service consumer via Web services that are licensed under subscription
-+ *big data business models*:
-	- answers as a service, AaaS
++ ***big data business models***:
+	- ***answers as a service, AaaS***
 		* cloud-based software tools for to answer questions about data sets???
-	- information as a service, Info-aaS
+	- ***information as a service, Info-aaS***
 		* cloud-based software tools for extract or create information from data???
 	- **data as a service, DaaS**
 		* cloud-based software tools for working with data
@@ -138,8 +138,8 @@ Notes on cloud computing:
 			+ association rules
 			+ neural networks
 		* related to:
-			+ content as a service, CaaS
-			+ data as a service, DaaS
+			+ ***content as a service, CaaS***
+			+ ***data as a service, DaaS***
 	- **models for differentiating data, information, and knowledge**:
 		* **DIKW pyramid**
 			+ represent structural and functional relationships between:
@@ -153,7 +153,7 @@ Notes on cloud computing:
 			+ information hierarchy, information pyramid
 			+ data hierarchy
 		* need to handle explicit knowledge and tacit knowledge
-+ *security as a service, SECaaS*
++ ***security as a service, SECaaS***
 	- service provider integrates security services into corporate infrastructure on a subscription basis more cost effectively than most individuals and coporations can provide on their own, in terms of total cost of ownership
 	- security services include:
 		* authentication
@@ -161,17 +161,17 @@ Notes on cloud computing:
 		* anti-malware/spyware detection and mitigation
 		* intrusion detection, intrusion management
 		* penetration testing
-		* security information and event management, SIEM
+		* ***security information and event management, SIEM***
 			+ security event management
-		* business continuity and disaster recovery, BCDR, or BC/DR
+		* ***business continuity and disaster recovery, BCDR, or BC/DR***
 		* continuous monitoring
-		* data loss prevention, DLP
+		* ***data loss prevention, DLP***
 		* email security
 		* encryption
-		* identity and access management, IAM
+		* ***identity and access management, IAM***
 		* network security services
-			+ managed security services, MSS
-				- + managed security service providers, MSSP
+			+ ***managed security services, MSS***
+				- ***managed security service providers, MSSP***
 		* security assessment
 		* vulnerability scanning
 		* Web security
@@ -179,12 +179,12 @@ Notes on cloud computing:
 	- system integration business delivered as a cloud computing service that addresses:
 		* data
 		* process
-		* service-oriented architecture, SOA
+		* ***service-oriented architecture, SOA***
 		* application integration
-	- ***integration platform as a service***, ***iPaaS***, cloud-based iPaaS integration model:
+	- ***integration platform as a service***, ***iPaaS***, ***cloud-based iPaaS integration model***:
 		* suite of cloud computing services that enable customers to develop, execute, and manage/govern integration flows between disparate applications
-			+ shift for business to business (B2B) from electronic data interchange (EDI) and value-added network (VAN)
-			+ leads to the creation of new cloud-based business process management tools that don't require integration layers (provided as a separate service via )
+			+ shift for ***business to business (B2B)*** from ***electronic data interchange (EDI)*** and ***value-added network (VAN)***
+			+ leads to the creation of new *cloud-based business process management tools* that don't require integration layers (provided as a separate service)
 + ***Messaging as a Service (MaaS)***
 + ***Infrastructure as a Service, IaaS***
 + ***Platform as a Service (PaaS)***
