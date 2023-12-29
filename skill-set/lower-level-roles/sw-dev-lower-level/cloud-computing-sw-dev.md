@@ -307,19 +307,19 @@ Notes on cloud computing:
 	- Experience with ***configuration as code***; Puppet, SaltStack, Ansible, or Chef.
 + ***network operations center, NOC.***
 	- A network operations center (NOC, pronounced like the word knock), also known as a "network management center", is one or more locations from which network monitoring and control, or network management, is exercised over a computer, telecommunication or satellite network.
-+ Expertise using AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation
-+ Experience developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault
-+ Experience with Cloud based services, Microservices a Cloud Computing class or similar experience
-+ knowledge of various issues in the field of cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)
++ Expertise using ***AWS services like CloudWatch, CodeBuild, CloudTrail, Athena, ECS, EC2, IAM, Lambda, and CloudFormation***
++ Experience ***developing and deploying systems on cloud infrastructure such as Kubernetes, Consul, and Vault***
++ Experience with ***Cloud based services, Microservices a Cloud Computing class*** or similar experience
++ knowledge of various issues in the field of ***cloud engineering (virtualization, scalability, load balancing, failovers, distributed computing power, cloud deployments, monitoring, log processing)***
 + skill set:
-	- Monitor and Metrics gathering (Prometheus, StackDriver ...)
+	- ***Monitor and Metrics gathering (Prometheus, StackDriver ...)***
 		* Prometheus:
 			+ monitoring system with time series database
 			+ for event monitoring and alerting
-		* Google Cloud's operations suite (formerly StackDriver)
+		* ***Google Cloud's operations suite (formerly StackDriver)***
 			+ integrated monitoring, logging, and trace managed services for applications and systems running on Google Cloud, and beyond
 			+ monitor and check the health of the cloud resources and application
-	- Experience with HashiCorp tools - Vault, Consul, Nomad
+	- Experience with ***HashiCorp tools - Vault, Consul, Nomad***
 		* for cloud computing infrastructure automation
 		* Vagrant: use virtualization technology to build and maintain reproducible software development environments
 		* Consul: provides service mesh, DNS-based service discovery, distributed KV storage, RPC, and event propogation
@@ -330,8 +330,8 @@ Notes on cloud computing:
 			+ Linux distribution based on *Nix*
 			+ *Nix*: for package management and system configuration; and making reproducible, declarative, and reliable systems
 + skill set:
-	- continuous integration/delivery (CI/CD) methodologies and practices
-	- develop open-source, scalable simulation and virtualization environments
+	- ***continuous integration/delivery (CI/CD) methodologies and practices***
+	- develop ***open-source, scalable simulation and virtualization environments***
 	- contribute to open-source frameworks
 	- design cloud infrastructure
 	- distributed CI/CD constructions
@@ -347,7 +347,7 @@ Notes on cloud computing:
 	- orchestration tools
 + skill set:
 	- Modernizing Kafka to make it infinitely scalable, elastic, and globally replicated
-	- Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka
+	- ***Building out best in class stream processing solutions like Kafka Streams and KSQL to perform rich, real time, transformation and querying of data in Kafka***
 	- Revolutionizing how data pipelines are built through Kafka Connect
 	- Running all of the above in our very own elastic, scalable cloud offering
 + skill set:
