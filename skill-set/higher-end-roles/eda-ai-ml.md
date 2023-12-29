@@ -6204,20 +6204,20 @@ Companies that have machine learning -centric products
 	- ***Knowledge Representation (semantic models, graph databases, etc.)***
 + skill set:
 	- Our AI Labs focus on research in: ***deep learning, control systems, simulation and knowledge representation applied to diverse areas such as: geometry, robotics, advanced sensing, design exploration and sustainable engineering or construction practices***. The labs also host product engineers resulting in early productization of our research, so you can see your work in action.
-	- You will be a senior researcher focusing on problems related to geometry understanding, manipulation and synthesis.
-	- The Lab brings together AI Researchers, Software Engineers and specialists in various problem areas to create novel AI solutions in all the areas mentioned above and more. They work closely with experts in: geometric modeling, simulation systems, robotics, knowledge representation, sensing and computer vision, industrial manufacturing and construction techniques.
+	- You will be a senior researcher focusing on problems related to ***geometry understanding, manipulation and synthesis***.
+	- The Lab brings together AI Researchers, Software Engineers and specialists in various problem areas to create novel AI solutions in all the areas mentioned above and more. They work closely with experts in: ***geometric modeling, simulation systems, robotics, knowledge representation, sensing and computer vision, industrial manufacturing and construction techniques***.
 	- Explore and develop new Machine Learning models and techniques
 	- Constantly review relevant Machine Learning literature to identify emerging methods or technologies and current best practices
 	- Introduce creative approaches to research topics and generates new approaches, perspectives and solutions to research topics
 	- Plan and design research projects: specifying the problem and defining the project scope
 	- Connect with academics and institutions to build relationships and collaborate
-	- Realize solutions through prototypes
+	- ***Realize solutions through prototypes***
 	- Explore new data sources and discover techniques for best leveraging data
 	- Collect and perform data analysis to validate and further new theories and discoveries
 	- Publish and talk at conferences
 	- Work closely with product engineers to design, develop and incorporate AI solutions into new products
 	- Meet with customers to understand how ML could be applied to their problems
-	- Think strategically about research directions
+	- ***Think strategically about research directions***
 	- Mentor more junior researchers and engineers
 	- An MS or PhD in a field related to Machine Learning such as: Computer Science, Mathematics, Statistics or Physics
 	- Significant doctoral or post-doctoral research experience or 5 or greater years of work experience
@@ -6237,16 +6237,16 @@ Companies that have machine learning -centric products
 	- [TensorBoard, TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
 	- https://databricks.com/tensorflow/visualisation
 + skill set:
-	- Ideal candidates have a strong background in one or more of the following fields: deep learning, machine learning, natural language processing, computer vision, or reinforcement learning. Additionally, applicants should have in-depth experience with one or more of text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection.
+	- Ideal candidates have a strong background in one or more of the following fields: ***deep learning, machine learning, natural language processing, computer vision, or reinforcement learning***. Additionally, applicants should have in-depth experience with one or more of ***text categorization, text summarization, information extraction, question answering, dialogue learning, machine translation, language and vision, image classification, image segmentation, or object detection***.
 	- ***Candidates should have a strong publication record in top-tier conferences or journals (e.g. NIPS, ICML, ICLR, ACL, CVPR, KDD, PAMI, JMLR, TACL, IJCV).***
-	- In addition to their own research agenda, senior research scientists will have the opportunity to take on additional responsibilities leading project teams, mentoring interns, and advising junior research scientists.
+	- In addition to their own research agenda, senior research scientists will have the opportunity to take on additional responsibilities ***leading project teams, mentoring interns, and advising junior research scientists***.
 	- Participate in cutting edge research in machine intelligence and machine learning applications.
 	- Develop solutions for real world, large scale problems.
 	- Find and build ambitious, long-term research goals.
 	- As needed or desired, lead teams to deliver on more complex pure and applied research projects.
 	- ***Strong publication record in machine learning, NLP, computer vision, reinforcement learning, or optimization, especially at venues like NIPS, ICML, ICLR, ACL, and CVPR.***
 	- ***Experience with one or more deep learning libraries and platforms (e.g., TensorFlow, Caffe, Chainer or PyTorch).***
-		* Chainer: open-source deep learning framework
+		* ***Chainer: open-source deep learning framework***
 + skill set:
 	- Solid Machine Learning background and familiarity with standard speech processing and machine learning techniques
 	- Experience with one or more deep learning libraries and platforms (e.g., ***TensorFlow, Caffe, Chainer or PyTorch***).
