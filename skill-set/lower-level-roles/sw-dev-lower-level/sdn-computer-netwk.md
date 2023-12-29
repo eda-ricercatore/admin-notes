@@ -193,16 +193,16 @@
 	- Collaborate with other Data In Motion component teams to develop highly integrated solutions
 	- Work closely with UX and front end teams
 	- Interact with product teams to help define roadmap and shape technology
-	- Work closely with open source projects in Apache NiFi and other ecosystem projects
+	- Work closely with ***open source projects in Apache NiFi and other ecosystem projects***
 + skill set:
-	- Experience with Jira or any ticketing management systems
-	- Understanding of AWS-VPC and basics of TCP and Routing.
-	- Experience with large-scale distributed systems
+	- Experience with ***Jira or any ticketing management systems***
+	- Understanding of ***AWS-VPC and basics of TCP and Routing***.
+	- Experience with ***large-scale distributed systems***
 + skill set:
-	- Experience in Monitoring tools like Nagios, New Relic, and Splunk
-	- Strong understanding of DNS, DHCP, NTP, SMTP, TCP/IP, SSH, HTTPS, TLS, IPSec, concepts of VPN and other internet protocols
-	- Experience in Application and Database level Monitoring and Troubleshooting (like Apache, Tomcat, and MySQL)
-	- Experience in Application & Infrastructure Monitoring (Nagios, New Relic, Datadog, Splunk, Sumologic, etc...)
+	- Experience in ***Monitoring tools like Nagios, New Relic, and Splunk***
+	- Strong understanding of ***DNS, DHCP, NTP, SMTP, TCP/IP, SSH, HTTPS, TLS, IPSec, concepts of VPN and other internet protocols***
+	- Experience in ***Application and Database level Monitoring and Troubleshooting (like Apache, Tomcat, and MySQL)***
+	- Experience in ***Application & Infrastructure Monitoring (Nagios, New Relic, Datadog, Splunk, Sumologic, etc...)***
 + skill set:
 	- As a Network Engineer you will be responsible for the design, implementation, and support for the network within the OVHcloud environment.  You will be required to understand application and hardware points of failure, performance characteristics and have the ability to identify actionable items to maintain an acceptable service level for all associated environments and applications.  You will be required to participate in an on-call rotation and serve as top-level support for network related issues. 
 	- Provide Tier I/II Technical Support for OVHCloud's global network infrastructure.
