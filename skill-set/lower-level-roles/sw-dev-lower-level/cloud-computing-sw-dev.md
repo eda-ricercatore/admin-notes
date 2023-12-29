@@ -403,36 +403,36 @@ Notes on cloud computing:
 		* Experience with ***security technologies (SSO, SAML, Okta etc)***.
 		* Proactive work ethic - self starter
 	- Preferred Qualifications
-		* Experience with modern container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm
-		* Experience with building scalable and reliable data pipelines
+		* Experience with modern ***container orchestration systems: e.g. Kubernetes, Mesos, DC/OS, Swarm***
+		* Experience with ***building scalable and reliable data pipelines***
 		* Experience with integration of data from multiple data sources
 + tech stack:
-	- Security and privacy
-	- Virtualization and container technologies (e.g., Xen and Docker)
-	- Cloud services (e.g., AWS and Azure)
-	- Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)
-	- In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)
-	- Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)
+	- ***Security and privacy***
+	- ***Virtualization and container technologies (e.g., Xen and Docker)***
+	- ***Cloud services (e.g., AWS and Azure)***
+	- ***Distributed programming tools (e.g., Hadoop, Cassandra, and ZooKeeper)***
+	- ***In-home wireless network protocols (WiFi, Bluetooth, Zigbee, and Z-wave)***
+	- ***Systems for machine learning training and inference (Tensorflow, MXNet, Caffe etc)***
 	- Storage systems
-+ Comfortable with AWS/Azure/On Premiss  deployments, networking, and security best practices.
++ Comfortable with ***AWS/Azure/On Premiss  deployments, networking, and security best practices***.
 + skill set:
-	- Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage
-	- Operating knowledge of cloud computing platforms (AWS/Azure ML)
-	- Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and Hadoop ecosystem components -- Hive, Spark, HBase, Storm, Kafka etc.
+	- Hands-on experience with ***Apache Spark and its components (Streaming, SQL, MLLib)*** is a strong advantage
+	- Operating knowledge of ***cloud computing platforms (AWS/Azure ML)***
+	- Strong understanding and experience in ***distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and Hadoop ecosystem components -- Hive, Spark, HBase, Storm, Kafka*** etc.
 + skill set:
-	- Write APIs that handle millions of calls every day. Work with modern backend technologies like Node.js, GraphQL, Redis, and Elasticsearch.
-	- Build completely serverless systems on top of AWS services like Lambda, Kinesis, and Api Gateway. At Bustle, we are always trying out the latest and greatest that AWS and competitors have to offer.
-	- Write clean, functional, reusable, and testable "ES Next" code through tooling with Babel and TypeScript.
+	- Write APIs that handle millions of calls every day. Work with modern ***backend technologies like Node.js, GraphQL, Redis, and Elasticsearch***.
+	- Build completely ***serverless systems on top of AWS services like Lambda, Kinesis, and Api Gateway***. At Bustle, we are always trying out the latest and greatest that AWS and competitors have to offer.
+	- ***Write clean, functional, reusable, and testable "ES Next" code through tooling with Babel and TypeScript.***
 	- Eager to improve the areas in which you live and work. (Code, Processes, Communication)
-	- Comfortable with cloud infrastructure (Google Cloud or AWS)
+	- Comfortable with ***cloud infrastructure (Google Cloud or AWS)***
 + skill set:
 	- Senior Software Engineer - Backend (Remote)
-	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an analytics-driven SIEM that solves a wide range of security analytics and security operations use cases like security monitoring, advanced threat detection, compliance, and incident investigations.
-	- We need strong engineers to address the next set of data challenges that include real-time streaming data processing, cloud migrations, and integration of disparate and distributed data sources. That's where you come in!
+	- The Splunk Analytic Apps team follows a lean process that focuses on empowering our engineers. Our Platform is an ***analytics-driven SIEM*** that solves a wide range of ***security analytics and security operations*** use cases like ***security monitoring, advanced threat detection, compliance, and incident investigations***.
+	- We need strong engineers to address the next set of data challenges that include ***real-time streaming data processing, cloud migrations, and integration of disparate and distributed data sources***. That's where you come in!
 	- As a Senior Software Engineer, you will be able to connect with customers and learn about their experiences, you will get a first-person view of the state of the art Security Operations Centers, and you will collaborate with product management to define and craft new products that streamline analysts' investigations.
-	- You will work with the team to develop insightful user experiences for the data analytics platform. You will deliver these features to meet the ever-increasing scalability, performance, and security requirements; while designing and developing with an eye on reliability and high availability.
-	- Own and be accountable for the design and development of multiple features in the ultra-high performance system, processing immense amounts of data.
-	- Pay extra attention to non-functional requirements (Performance, Scalability, Reliability, High Availability).
+	- You will work with the team to develop insightful user experiences for the ***data analytics platform***. You will deliver these features to meet the ***ever-increasing scalability, performance, and security requirements***; while designing and developing with an eye on ***reliability and high availability***.
+	- Own and be accountable for the design and development of multiple features in the ***ultra-high performance system***, processing immense amounts of data.
+	- Pay extra attention to ***non-functional requirements (Performance, Scalability, Reliability, High Availability)***.
 	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world deployment scenarios to develop an understanding of which solutions will bring value to our customers.
 	- Scale and performance of the product using Splunk platform innovations, open-source, and cloud tools and technologies.
 	- Work in an Agile environment and follow scrum practices.

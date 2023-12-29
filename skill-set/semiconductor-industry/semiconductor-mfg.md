@@ -612,43 +612,43 @@ Semiconductor manufacturing companies to pay attention to:
 
 + skill set:
 	- PROCESS DEVELOPMENT ENGINEER (F/M/D)
-	- X-FAB is looking for a Wide Bandgap device and process development engineer to join our global Process Development team, preferred in Dresden, Germany, but working as part of an international organization developing Wide Bandgap technologies
-	- Development of semiconductor devices, mainly GaN and SiC devices
-	- Define semiconductor process flows and device architectures.
-	- TCAD Simulation of devices and processes
-	- Definition, implementation and evaluation of experiments, using Design of Experiments (DoE) methodology.
+	- X-FAB is looking for a ***Wide Bandgap device and process development engineer*** to join our global Process Development team, preferred in Dresden, Germany, but working as part of an international organization developing Wide Bandgap technologies
+	- Development of semiconductor devices, mainly ***GaN and SiC devices***
+	- Define ***semiconductor process flows and device architectures***.
+	- ***TCAD Simulation of devices and processes***
+	- ***Definition, implementation and evaluation of experiments, using Design of Experiments (DoE) methodology.***
 	- Development and design of test structures.
-	- Electrical characterization of SiC MOSFETs and GaN HEMTs
+	- ***Electrical characterization of SiC MOSFETs and GaN HEMTs***
 	- Process integration and cooperation with other departments within X-FAB
 	- Offer technical support to customers.
 	- Cooperation with external partners (e.g. in funded projects).
 	- Management of development projects, working in interdisciplinary and international teams.
 	- University degree (Uni/FH/HS) in the field of electrical engineering, microelectronics or related fields
-	- Min. 3 years experience in development, functionality, manufacturing, characterization and application of semiconductor devices, preferably SiC & GaN devices
-	- Experience with SiC and GaN wafer processes
-	- Experience in the development environment for the automotive industry is desirable
+	- Min. 3 years experience in ***development, functionality, manufacturing, characterization and application of semiconductor devices, preferably SiC & GaN devices***
+	- Experience with ***SiC and GaN wafer processes***
+	- Experience in the ***development environment for the automotive industry*** is desirable
 	- Confident handling of MS-Office, Linux development environment
-	- Enjoy teamwork in a multicultural work environment
+	- ***Enjoy teamwork in a multicultural work environment***
 	- Interest in the development of modern semiconductor devices with the highest quality standards
 	- Strong communication skills
 	- Very good knowledge of the English language
 + skill set:
 	- DEVELOPMENT ENGINEER
-	- X-FAB Dresden is looking for a HV device and process development engineer to join our Process Development team, based in Dresden, Germany, but working as part of an international organization developing mixed signal CMOS & wide band gap technologies.
-	- Development of semiconductor devices, mainly HV devices
-	- Define semiconductor process flows and device architectures
-	- TCAD Simulation of devices and processes
-	- Definition, implementation and evaluation of experiments, using Design of Experiments (DoE) methodology
-	- Development and design of test structures
-	- Electrical characterization of HV transistors
-	- Process integration and cooperation with other departments within X-FAB
+	- X-FAB Dresden is looking for a HV device and process development engineer to join our Process Development team, based in Dresden, Germany, but working as part of an international organization developing ***mixed signal CMOS & wide band gap technologies***.
+	- Development of semiconductor devices, mainly ***HV devices***
+	- Define ***semiconductor process flows and device architectures***
+	- ***TCAD Simulation of devices and processes***
+	- ***Definition, implementation and evaluation of experiments, using Design of Experiments (DoE) methodology***
+	- Development and design of ***test structures***
+	- ***Electrical characterization of HV transistors***
+	- ***Process integration and cooperation with other departments within X-FAB***
 	- Offer technical support to customers.
 	- Cooperation with external partners (e.g. in funded projects).
-	- Management of development projects, working in interdisciplinary and international teams.
+	- Management of ***development projects, working in interdisciplinary and international teams***.
 	- University degree (Uni/FH/HS) in the field of Physics, Microelectronics, Electrical Engineering or related subjects
-	- Good understanding of semiconductor device physics and methodologies for process development 
-	- Experience in electronics development (design, simulation, test) is required (preferably HV devices)
-	- Experience in the development environment for the automotive industry is desirable
+	- Good understanding of ***semiconductor device physics and methodologies for process development***
+	- Experience in ***electronics development (design, simulation, test)*** is required (preferably ***HV devices***)
+	- Experience in the ***development environment for the automotive industry*** is desirable
 	- Confident handling of MS-Office and Linux development environment
 	- Enjoy teamwork in a multicultural work environment
 	- Interest in the development of modern semiconductor devices with the highest quality standards
@@ -661,40 +661,40 @@ Semiconductor manufacturing companies to pay attention to:
 	- Develop and optimize processes,
 	- Guarantee and improve quality,
 	- Provide operational support to production,
-	- Participate in technology transfer and industrialization of new products,
+	- Participate in ***technology transfer and industrialization of new products***,
 	- Implement and optimize product and equipment monitoring,
-	- Draw up preventive and/or corrective action and improvement plans.
+	- Draw up ***preventive and/or corrective action and improvement plans***.
 	- To carry out your tasks, you will interface with a number of entities :
-	- Internally: Process Defect Integration, Development, Industrial Engineering, Production, Business Development, etc.
+	- Internally: ***Process Defect Integration, Development, Industrial Engineering, Production, Business Development***, etc.
 	- Externally: with our suppliers and customers.
 	- Education: Engineering school, Master's degree or PhD
 	- Languages: Fluent English
-	- Experience: You have experience in semiconductor processes.  You know how to characterize the various materials deposited. You have skills in SPC, FDC/APC, DOE.
-		* Fault Detection and Classification
-			+ fault defect classification
-		* Automatic v. Automated Defect Classification, ADC
-			+ automatic defect classification
-		* Advanced Process Control in Semiconductor Manufacturing ...
+	- Experience: You have experience in semiconductor processes.  You know how to characterize the various materials deposited. You have skills in ***SPC, FDC/APC, DOE***.
+		* ***Fault Detection and Classification***
+			+ ***fault defect classification***
+		* ***Automatic v. Automated Defect Classification, ADC***
+			+ ***automatic defect classification***
+		* ***Advanced Process Control in Semiconductor Manufacturing*** ...
 		* APC system refers to the use of advanced statistical and analytical techniques to manipulate process control parameters and inputs on process tools to improve output quality.
-			+ Run-to-Run (R2R)
+			+ ***Run-to-Run (R2R)***
 				- R2R control of a process on a tool uses data from outgoing and incoming wafers in combination with a model of the process on that tool, to adjust process parameters.
-			+ Fault Detection Classification (FDC)
+			+ ***Fault Detection Classification (FDC)***
 				- FDC on the other hand, is the prediction of tool failure where application of an appropriate model to classify failure root cause.
-		+ Fault Detection Control (FDC) engineer is under Process Control Engineering (PCE) team
-		+ SPC/FDC Engineer
+		+ ***Fault Detection Control (FDC) engineer is under Process Control Engineering (PCE) team***
+		+ ***SPC/FDC Engineer***
 	- Rigorous and autonomous, you have a taste for the field and dynamic environments. Your communication skills and adaptability will enable you to integrate quickly into our teams.
 + skill set:
 	- PROCESS INTEGRATION/YIELD ENHANCEMENT ENGINEER
-	- On our playing field at the Dresden location we are looking for an Engineer Yield Enhancement for immediate substitution in the area of Yield Enhancement / Process Integration.  
+	- On our playing field at the Dresden location we are looking for an ***Engineer Yield Enhancement*** for immediate substitution in the area of ***Yield Enhancement / Process Integration***.
 	- Develop, optimize and integrate new process flows in an interdisciplinary environment.
 	- Transfer technologies into production and be part of a global cross-site team
 	- Analyze and evaluate various measurement and process data and translate the results into appropriate technological measures
 	- Solve problems together with the single process, quality assurance and the customer
-	- Lead projects to increase yield, improve quality and reduce costs
+	- ***Lead projects to increase yield, improve quality and reduce costs***
 	- Ensure good documentation of your technologies and processes
 	- You lead the way, take responsibility to make the goal, but also play off at the right moment
 	- You have electrical engineering, physics, chemistry or a related field of study in your blood and in the form of a university degree in your pocket
-	- Tools and methods like FMEA, 8D and DoE, as well as statistical data analysis arouse your interest and not your flight reflex
+	- ***Tools and methods like FMEA, 8D and DoE, as well as statistical data analysis arouse your interest and not your flight reflex***
 		* ***Eight Disciplines Methodology (8D)***
 			+ D0: Preparation and Emergency Response Actions: Plan for solving the problem and determine the prerequisites. Provide emergency response actions.
 			+ D1: Use a Team: Establish a team of people with product/process knowledge. Teammates provide new perspectives and different ideas when it comes to problem solving.
@@ -710,46 +710,46 @@ Semiconductor manufacturing companies to pay attention to:
 	- You are able to communicate your concerns clearly and comprehensibly in German or English in an interdisciplinary environment
 	- You have understood that multicultural teamwork is not a buzzword, but the key to mutual success.
 + hv power transistor, high-voltage power transistor
-+ Knowledge of problem-solving and continuous improvement tools (8D, DMAIC, AMDEC)
-	- PLY (Process Limited Yield)
++ Knowledge of ***problem-solving and continuous improvement tools (8D, DMAIC, AMDEC)***
+	- ***PLY (Process Limited Yield)***
 	- ***DMAIC: Define, Measure, Analyze, Improve, and Control***
 		* https://en.wikipedia.org/wiki/DMAIC
 			+ define the following:
 				- A problem
 				- The customer(s), SIPOC
-					* SIPOC or suppliers, inputs, process, outputs and customers (sometimes in the reversed order: COPIS)
+					* ***SIPOC or suppliers, inputs, process, outputs and customers (sometimes in the reversed order: COPIS)***
 					* https://en.wikipedia.org/wiki/SIPOC
-				- Voice of the customer (VOC) and critical to quality (CTQs) — what are the critical process outputs?
+				- ***Voice of the customer (VOC) and critical to quality (CTQs)*** — what are the critical process outputs?
 	- ***AMDEC***
-		* AMDEC or Analysis of failure modes, their effects and their criticality is the English translation of the FMECA (Failure Modes, Effects and Criticality Analysis). It is the French equivalent of the original FMECA method.
+		* ***AMDEC or Analysis of failure modes***, their effects and their criticality is the English translation of the ***FMECA (Failure Modes, Effects and Criticality Analysis)***. It is the French equivalent of the original FMECA method.
 		* https://www.kaizen-coach.com/en/lean-dictionary/amdec
 		* Analyse des modes de défaillance, de leurs effets et de leur criticité
 			- https://mltng.net/meanings/AMDEC/3882
 	- https://en.wikipedia.org/wiki/IPO_model
-		* IPO model
-		* input–process–output (IPO) model, or input-process-output pattern
+		* ***IPO model***
+		* ***input–process–output (IPO) model, or input-process-output pattern***
 	- https://en.wikipedia.org/wiki/The_CIPO-model
-		* context-input-process-output (CIPO) model
+		* ***context-input-process-output (CIPO) model***
 	- https://en.wikipedia.org/wiki/Value-stream_mapping
-		* "Value-stream mapping, also known as material- and information-flow mapping, is a lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from the beginning of the specific process until it reaches the customer"
+		* "***Value-stream mapping***, also known as ***material- and information-flow mapping***, is a ***lean-management method*** for analyzing the current state and designing a future state for the series of events that take a product or service from the beginning of the specific process until it reaches the customer"
 + skill set:
 	- PROCESS INTEGRATION ENGINEER (F/M/X)
-	- To support its growth, X-FAB France is looking to strengthen its Process Integration / Yield Improvement team. This team guarantees product quality and performance. It defines yield improvement plans. It must detect anomalies, understand and resolve them. It also plays a key role in ramping up the production line by improving manufacturability, and in qualification risk analysis.
+	- To support its growth, X-FAB France is looking to strengthen its Process Integration / Yield Improvement team. This team guarantees ***product quality and performance***. It defines ***yield improvement plans***. It must ***detect anomalies, understand and resolve them***. It also plays a key role in ***ramping up the production line by improving manufacturability, and in qualification risk analysis***.
 	- You will be in charge of a sequence of processes for which you must :
-		* Understand the link between process integration and electrical performance
-		* Propose performance improvements
-		* Identify excursions and follow a problem-solving methodology (8D, ....)
-		* Improve manufacturability and support process engineers in risk analysis (FMEA)
+		* ***Understand the link between process integration and electrical performance***
+		* ***Propose performance improvements***
+		* ***Identify excursions and follow a problem-solving methodology (8D, ....)***
+		* ***Improve manufacturability and support process engineers in risk analysis (FMEA)***
 		* Publish internal/external reports
-	- You will be a major player in our continuous improvement plan:
-		* Zero defects" program
+	- You will be a major player in our ***continuous improvement plan***:
+		* ***"Zero defects" program***
 		* Automotive industry requirements
 	- Engineer or PhD with experience in the semiconductor field
 	- Excellent analytical and synthesis skills
 	- Leadership and autonomy
 	- Taste for teamwork
-	- Ability to adapt communication to situations/clients (internal/external)
-	- Very good computer skills (JMP, R or equivalent) and good knowledge of data analysis systems
+	- ***Ability to adapt communication to situations/clients (internal/external)***
+	- Very good ***computer skills (JMP, R or equivalent)*** and good knowledge of ***data analysis systems***
 	- Fluency in French and very good level of English
 + skill set:
 	- MASK TOOLING ENGINEER
@@ -759,29 +759,30 @@ Semiconductor manufacturing companies to pay attention to:
 	- Execute layer generation/Boolean operation and dummy insertion on prime die.
 	- Generate reticle frame with necessary frame cells, fiducial marks and barcode.
 	- Set up frame flow for different technologies and new processes.
-	- Prepare frame paperwork and job deck for mask making.
-	- Generate and optimize reticle and wafer layout.
-	- Prepare overall reticle data and prepare tooling documentation to maskshop.
-	- Prepare Stepper and Scanner Tooling Form (STF) or Mask Documentation for every tapeout.
-	- Perform job view on reticle frame and customer’s prime die.
-	- Perform job view on reticle MEBES data prior to reticle making.
-	- Ensure reticle quality in terms of frontend-related defects (submicron geometry, off-grid and non-standard patterns).
-	- Interface with maskshop for mask data preparation.
+	- Prepare ***frame paperwork and job deck for mask making***.
+	- Generate and ***optimize reticle and wafer layout***.
+	- ***Prepare overall reticle data and prepare tooling documentation to maskshop.***
+	- ***Prepare Stepper and Scanner Tooling Form (STF) or Mask Documentation for every tapeout.***
+	- Perform job view on ***reticle frame*** and ***customer’s prime die***.
+	- Perform job view on ***reticle MEBES data*** prior to reticle making.
+	- Ensure reticle quality in terms of ***frontend-related defects (submicron geometry, off-grid and non-standard patterns)***.
+	- ***Interface with maskshop for mask data preparation.***
 	- Work with IT department for system administration, data storage and software maintenance.
-	- EHS and Quality:
-		* To contribute towards the achievement of quality objectives by complying to the quality operating system and participating in continuous improvement activities (defect prevention, reduction of variation or prevention of waste).
-		* To contribute towards the achievement of the EHS objectives by complying to the EHS policy and articipating in the implementation of EHS management system.
+	- ***EHS and Quality***:
+		* To contribute towards the achievement of quality objectives by complying to the ***quality operating system*** and participating in ***continuous improvement activities (defect prevention, reduction of variation or prevention of waste)***.
+		* To contribute towards the achievement of the ***EHS objectives*** by complying to the ***EHS policy*** and articipating in the implementation of ***EHS management system***.
 		* Any other assignment deems fit that shall be given to you from time to time.
 	- Bachelor Degree of Engineering / Science or equivalent.
 	- At least 1 to 3 years related working experience in semiconductor industry.
 	- Behavioral Competencies:
 		* Team player, proactive and able to perform under pressure.
-		* Experience with UNIX, Linux, CAD tools like K2, Layout Editor.
-			+ k2 - 3D CAD Model Collection
+		* Experience with UNIX, Linux, ***CAD tools like K2, Layout Editor***.
+			+ ***k2 - 3D CAD Model Collection***
 				- https://grabcad.com/library/tag/k2
-		* Mask data preparation / lithography / process integration experience is an advantage.
+		* ***Mask data preparation / lithography / process integration*** experience is an advantage.
 		* Work independently with high accuracy in a systematic and organized way.
 		* Good communication skills (verbal & written).
+	- ***Environmental Health and Safety, EHS***
 + skill set:
 	- BLAH.
 + skill set:

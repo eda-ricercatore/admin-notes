@@ -444,25 +444,25 @@
 	- Familiar with the ***online storage services or structured asset storage services***, and experience in 10 million of mobiles services is preferred.
 + skill set for Network Engineer/Network Researcher:
 	- Our team’s mission is to develop new intelligent tools aimed at SRE and cloud maintenance operators to enable them to quickly detect anomalies thanks to the use of artificial intelligence when cloud services are slow or unresponsive. We analyze observability data from Huawei Cloud to detect glitches which impact customers, identify their root cause within seconds, and automatically fix problems, when possible.
-	- To drive automation and reliability, we are seeking a Network Engineer/Network Researcher to join the Ultra-scale AIOps Lab and the Computing and Network Innovation Lab which is distributed across Munich, Dublin, and Shenzhen Research Centers. This team is entrusted with developing key new innovative solutions for Huawei Cloud. You will take systematic approaches to solve operation problems, dissect how large-scale, complicated systems work, and feel a great satisfaction from making continuous improvements.
-	- Contribute with systems to the future generation of AIOps for networks and Intent-Based Networks.
-	- Propose new ideas and concepts to support self-driving networks.
-	- Work with AI/ML engineers to develop new tools for network performance analysis, anomaly detection, root cause analysis and network verification.
-	- Develop new tools using cutting edge technology focusing on efficiency and automation.
+	- To drive automation and reliability, we are seeking a Network Engineer/Network Researcher to join the ***Ultra-scale AIOps Lab*** and the Computing and Network Innovation Lab which is distributed across Munich, Dublin, and Shenzhen Research Centers. This team is entrusted with developing key new innovative solutions for Huawei Cloud. You will take systematic approaches to solve operation problems, dissect how large-scale, complicated systems work, and feel a great satisfaction from making continuous improvements.
+	- Contribute with systems to the future generation of ***AIOps for networks and Intent-Based Networks***.
+	- Propose new ideas and concepts to support ***self-driving networks***.
+	- ***Work with AI/ML engineers to develop new tools for network performance analysis, anomaly detection, root cause analysis and network verification.***
+	- ***Develop new tools using cutting edge technology focusing on efficiency and automation.***
 	- Collaborate with colleagues from science, engineering, and business backgrounds
-	- Several years of professional experience working in large scale networking environments.
-	- Deep understanding of network management and operation.
-	- Experience with a global service provider or hyper-scale network in engineering or design roles.
-	- Knowledge of network analysis fundamentals and robust troubleshooting skills.
-	- Familiar with the overall architecture of public cloud networks.
+	- Several years of professional experience working in ***large scale networking environments***.
+	- Deep understanding of ***network management and operation***.
+	- Experience with a ***global service provider or hyper-scale network in engineering or design roles***.
+	- Knowledge of ***network analysis fundamentals and robust troubleshooting skills***.
+	- Familiar with the overall ***architecture of public cloud networks***.
 	- Experience with applying AI algorithms and knowledge in formal verification is a plus.
 	- Experience with automation via bash/shell scripting and Perl/Python/Java programming.
 	- Experience working within a Linux environment.
 	- Sense of ownership and drive.
 	- Demonstrated ability to solve challenging engineering problems.
 + skill set:
-	- high-level programming languages, such as: Lisp (or Common Lisp), Go (or Golang), Erlang, Scala, or Clojure.
-	- Experience in RPC API design and construction.
+	- high-level programming languages, such as: ***Lisp (or Common Lisp), Go (or Golang), Erlang, Scala, or Clojure***.
+	- Experience in ***RPC API design and construction***.
 + skill set:
 	- BLAH.
 + skill set:
@@ -507,19 +507,19 @@
 
 
 + skill set for HPC Infrastructure Engineer:
-	- Management of an on-premise computing cluster in a High Performance Computing (HPC) setting
+	- Management of an ***on-premise computing cluster in a High Performance Computing (HPC) setting***
 	- Develop usage policies for deep learning training
-	- Develop tools and infrastructure to scale deep learning
-	- Maintain network infrastructure for local and cloud compute
+	- ***Develop tools and infrastructure to scale deep learning***
+	- Maintain ***network infrastructure for local and cloud compute***
 	- Data management and backups
-	- Familiarity with environments including LDAP, NFS, bare metal GPU servers, deployments and automation / conﬁguration management, modular user shell environments, networking
-	- Hands on server hardware configuration experience
-	- Experience with cluster management software
+	- Familiarity with environments including ***LDAP, NFS, bare metal GPU servers, deployments and automation / conﬁguration management, modular user shell environments, networking***
+	- Hands on ***server hardware configuration experience***
+	- Experience with ***cluster management software***
 	- Comfortable with GPU servers
-	- Strong knowledge of Linux systems and internals (Debian preferred) with a good understanding of networking and related protocols, OS customization, and package management (APT)
-	- Hands on Infiniband experience
-	- Have used or developed metrics/analytics tools for usage
-	- Experience with Slurm or similar job systems
+	- Strong knowledge of ***Linux systems and internals (Debian preferred)*** with a good understanding of ***networking and related protocols, OS customization, and package management (APT)***
+	- Hands on ***Infiniband experience***
+	- Have used or developed ***metrics/analytics tools for usage***
+	- Experience with ***Slurm or similar job systems***
 
 
 
