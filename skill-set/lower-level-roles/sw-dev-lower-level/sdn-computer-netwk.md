@@ -174,18 +174,18 @@
 		* variety of ***network topologies***
 		* variety of ***network routing algorithms***
 + Knowledge of ***Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)***
-+ Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
-+ Complex routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN
++ Understanding of ***standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing***
++ Complex ***routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN***
 + skill set:
-	- cPanel, Apache, Nginx, CEPH, Virtualization (KVM)
+	- ***cPanel, Apache, Nginx, CEPH, Virtualization (KVM)***
 	- PHP Configuration, MySQL Configuration (Postgres a plus), WordPress Configuration,
-	- Exim, Zabbix, OpenStack, Content Delivery Networks, DNS Management (PowerDNS),
-	- Hardware Configuration, Network Configuration, Linux Kernel Configuration, Malware
-	- Detection/Mitigation, FTP, Hardware & Software RAID (LSI, 3Ware, MDADM), & backup technologies at scale
-+ Knowledge of routing protocols such as BGP and OSPF
-+ Experience with network technologies like DNS, AWS security groups, VPCs, etc.
-	- VPC: virtual private cloud
-+ Experience with load balancing technologies such as ELB, NGINX, etc.
+	- ***Exim, Zabbix, OpenStack, Content Delivery Networks, DNS Management (PowerDNS),***
+	- ***Hardware Configuration, Network Configuration, Linux Kernel Configuration, Malware***
+	- ***Detection/Mitigation, FTP, Hardware & Software RAID (LSI, 3Ware, MDADM), & backup technologies at scale***
++ Knowledge of ***routing protocols such as BGP and OSPF***
++ Experience with ***network technologies like DNS, AWS security groups, VPCs***, etc.
+	- ***VPC: virtual private cloud***
++ Experience with ***load balancing technologies such as ELB, NGINX***, etc.
 + skill set:
 	- Cloudera is looking for a highly experienced software engineer with strong expertise in Java development and specialty in platform architecture to join the Data In Motion - Flow Management team focusing on [NiFi](https://nifi.apache.org/)
 		* ***Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.***
