@@ -115,20 +115,20 @@
 	- Scripting in Python or equivalent to automate operational tasks
 	- Strong documentation and interpersonal skills
 + skill set:
-	- Deep knowledge of TCP/UDP and IP routing
-	- Knowledge of Linux internals, TCP/IP, DNS, Load Balancing technologies
-	- Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
-	- Knowledge of cloud compute technologies, network monitoring, data processing and analytics
-	- Experience with datacenter monitoring, service oriented systems, micro-services
-	- Experience with network automation, dynamic routing, SNMP, network telemetry
-	- Exposure to Grafana, Prometheus, ElasticSearch and other distributed platforms
+	- Deep knowledge of ***TCP/UDP and IP routing***
+	- Knowledge of ***Linux internals, TCP/IP, DNS, Load Balancing technologies***
+	- Experience working with ***fault tolerant, highly available, high throughput, distributed, scalable systems***
+	- Knowledge of ***cloud compute technologies, network monitoring, data processing and analytics***
+	- Experience with ***datacenter monitoring, service oriented systems, micro-services***
+	- Experience with ***network automation, dynamic routing, SNMP, network telemetry***
+	- Exposure to ***Grafana, Prometheus, ElasticSearch and other distributed platforms***
 	- Aptitude to be a good team player and willingness to learn and implement new technologies as needed
-+ advanced level experience with key network-infrastructure technologies, design/implementation, protocols, standards, capacity planning, management, and best practices
-	- BCP
-	- DMVPN
++ advanced level experience with ***key network-infrastructure technologies, design/implementation, protocols, standards, capacity planning, management, and best practices***
+	- ***BCP***
+	- ***DMVPN***
 	- QoS
-	- enterprise switching
-	- data center switching
+	- ***enterprise switching***
+	- ***data center switching***
 + skill set:
 	- Ability to write idiomatic code in Rust.
 	- solid understanding of:
@@ -137,43 +137,43 @@
 		* blockchain technology
 		* cybersecurity
 	- experience with substrate:
-		* IPFS
-		* UNIX CLI
-+ be a Rustacean.
+		* ***IPFS***
+		* ***UNIX CLI***
++ ***be a Rustacean.***
 + skill set:
 	- Work with:
-		* NVLink
-		* NVSwitch
-		* InfiniBand
+		* ***NVLink***
+		* ***NVSwitch***
+		* ***InfiniBand***
 	- strong understanding of:
 		* computer networking fundamentals
-		* high-performance networks, such as Ethernet/IB
+		* ***high-performance networks, such as Ethernet/IB***
 		* computer architecture
 		* operating systems
-		* kernel internals
+		* ***kernel internals***
 	- excellent C++ programming and debugging skills
 	- experience with:
 		* Linux/UNIX shell scripting
 		* Python scripting
 		* Perl scripting
-		* big complex system-level software build flow/maintenance/open-source project
-	- ability and flexibility to work and communicate effectively in a multi-national, multi-time-zone corporate environment
-	- experience with OS virtualization technologies:
-		* KVM
-		* QEMU
-		* Hyper-V
+		* ***big complex system-level software build flow/maintenance/open-source project***
+	- ability and flexibility to work and communicate effectively in a ***multi-national, multi-time-zone corporate environment***
+	- experience with ***OS virtualization technologies***:
+		* ***KVM***
+		* ***QEMU***
+		* ***Hyper-V***
 	- passionate about low-level software
 + skill set:
 	- networking technologies:
-		* RDMA
-		* congestion control
-		* network interface architectures
-		* computer network protocols
-		* network address translation mechanisms
+		* ***RDMA***
+		* ***congestion control***
+		* ***network interface architectures***
+		* ***computer network protocols***
+		* ***network address translation mechanisms***
 		* error handling
-		* variety of network topologies
-		* variety of network routing algorithms
-+ Knowledge of Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)
+		* variety of ***network topologies***
+		* variety of ***network routing algorithms***
++ Knowledge of ***Internet protocols (e.g., TCP/IP, BGP, OSPF, TACACS, IPSEC, SNMP, SYSLOG)***
 + Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing
 + Complex routing and switching solutions ( using Juniper, Cisco, Arista) utilizing BGP, OSPF, ISIS VxLan , EVPN
 + skill set:
