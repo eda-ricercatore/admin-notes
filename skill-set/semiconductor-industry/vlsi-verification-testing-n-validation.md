@@ -543,37 +543,37 @@ Skill set for roles in digital VLSI verification:
 Skill sets for VLSI formal verification, in terms of using VLSI formal verification tools:
 + skill set:
 	- Principal Formal Verification Engineer
-	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
-	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
-	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first ***vendor-neutral, fully automated RISC-V formal verification app*** that has been used to ***find bugs in pre-existing processors and exhaustively prove bug absence***. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve ***building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence***. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to ***build cool new solutions, publish papers, file patents, and work live with customers***. We are an equal opportunity employer. Everyone is welcome.
 	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
 	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
-	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- You will be required to ***carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.***
 	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
 	- Linux/Unix experience
 	- Verilog/VHDL design experience
-	- SV/UVM experience
+	- ***SV/UVM experience***
 	- Open-source projects in design/verification
-	- RISC-V/Arm/x86/MIPS
-	- SVA/PSL/Theorem proving
-	- Tcl/Python/Bash
+	- ***RISC-V/Arm/x86/MIPS***
+	- ***SVA/PSL/Theorem proving***
+	- ***Tcl/Python/Bash***
 + skill set:
 	- Staff Formal Verification Engineer
-	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first vendor-neutral, fully automated RISC-V formal verification app that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
-	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence. For this position we expect you to have prior industry experience in design verification including formal verification.
-	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to build cool new solutions, publish papers, file patents, and work live with customers. We are an equal opportunity employer. Everyone is welcome.
+	- Axiomise is the world’s only formal verification training, consulting, services and custom solutions company. In its sixth year, we have delivered training to over a hundred engineers globally and provided consulting & services to some of the best names in the semiconductor industry. We designed the industry’s first ***vendor-neutral, fully automated RISC-V formal verification app*** that has been used to find bugs in pre-existing processors and exhaustively prove bug absence. We love formal methods and use them day and night to sign off designs so our customers do not leave bugs in the silicon. We are headquartered in the UK in London.
+	- We are looking to hire top-notch experienced engineering talent for the UK. Your typical day job would involve ***building cutting-edge formal verification testbench environments to find bugs and build proofs of bug absence in SoCs containing processors, video/GPUs, networking, AI/ML designs. Formal verification is the only way to generate proofs of correctness and build proofs of bug absence***. For this position we expect you to have prior industry experience in design verification including formal verification.
+	- We are looking for bright spirited individuals with a positive can-do attitude. We often work on very challenging problems that are not always solvable within a 9-to-5 framework, so we expect our team to put in extra hours if needed. The outcome will be very rewarding, we can promise that. We do not have a hierarchical structure so you will learn fast. You will get to ***build cool new solutions, publish papers, file patents, and work live with customers***. We are an equal opportunity employer. Everyone is welcome.
 	- Remember you will be working in a small organization that is growing rapidly with lots of opportunities for you to grow and learn. We welcome our engineering talent to also get involved in other areas of our business and we take pride that we are agile and can respond swiftly to our customer and employee needs.
 	- You must have an engineering degree in EEE/ECE/CS/Maths and must have six to eight years of experience in the industry in design verification.
-	- You will be required to carry out hands-on work on formal verification of processors, GPU blocks, networking designs or AI/ML. The work will include building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology. You are expected to be confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting.
+	- You will be required to carry out hands-on work on ***formal verification of processors, GPU blocks, networking designs or AI/ML***. The work will include ***building strategy, verification plans, testbenches and sign-off using the Axiomise six-dimensional coverage methodology***. You are expected to be ***confident in Verilog/VHDL as well as fluent in SVA and Tcl/Perl/Python and Unix/Linux scripting***.
 	- Bachelor/Masters/Doctorate in EEE/ECE/CS/Maths
-	- Experience in design verification using SVA 
-	- Evidence of sign-off capable work done previously
+	- Experience in ***design verification using SVA***
+	- ***Evidence of sign-off capable work done previously***
 	- Have a can-do attitude, can show self-learning attributes
 	- Individual contributor & excellent team player
 	- Strong reasoning skills
 	- Excellent attention to detail
 	- Excellent communication details in English
-	- Linux/Unix experience
+	- ***Linux/Unix experience***
 	- Verilog/VHDL design experience
 	- SV/UVM experience
 	- Open-source projects in design/verification
