@@ -434,13 +434,13 @@ Notes on cloud computing:
 	- Own and be accountable for the design and development of multiple features in the ***ultra-high performance system***, processing immense amounts of data.
 	- Pay extra attention to ***non-functional requirements (Performance, Scalability, Reliability, High Availability)***.
 	- Achieve a deep knowledge of our product architecture, usage patterns, and real-world deployment scenarios to develop an understanding of which solutions will bring value to our customers.
-	- Scale and performance of the product using Splunk platform innovations, open-source, and cloud tools and technologies.
-	- Work in an Agile environment and follow scrum practices.
+	- Scale and performance of the product using ***Splunk platform innovations, open-source, and cloud tools and technologies***.
+	- ***Work in an Agile environment and follow scrum practices.***
 	- Receive guidance from Principal Engineers, Architects for current and strategic features.
 	- Partner with leaders from architecture, engineering management, and product management on project requirements, designs, and development plans.
 	- Help identify and develop ways to improve our team's productivity and efficiency by expanding on our existing tools and processes.
-	- Collaborate with members of our team on the design and implementation of frameworks and backend components.
-	- Keep product quality top of mind by creating automated tests for the software that you help create.
+	- Collaborate with members of our team on the ***design and implementation of frameworks and backend components***.
+	- ***Keep product quality top of mind by creating automated tests for the software that you help create.***
 	- Become well versed in core Splunk technologies as they apply to application development.
 	- Mentor junior engineers and interns as they develop their application development skills.
 	- 7+ years of software engineering experience focused on application development.
