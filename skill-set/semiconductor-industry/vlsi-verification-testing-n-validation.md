@@ -766,6 +766,9 @@ Skill set for roles in VLSI testing:
 	- ***OpenCD***
 + ***Architecting test methodologies applicable to a wide range of processor and SoC designs including memory virtualization (Paging and Hypervisors), various levels of caches and industry standard bus protocols (e.g., AMBA, TileLink, PCIe).***
 + ***Architect test methodologies applicable to a wide range of CPU and SoC designs for CPU memory sub-systems including Load-Store unit, various levels of caches, memory virtualization and industry standard bus protocols (e.g. AMBA and TileLink).***
++ ***statistics CP/CPK***
+	- ***process capability index, CPK***
+	- ***process capability, CP***
 + skill set:
 	- Position is ***Design for Test and Design for Debug (DFT/DFD or DFx) engineer for high-performance designs going into industry leading AI/ML architecture***. The person coming into this role will be involved in all aspects of implementation and verification of advanced DFx techniques for various IPs. ***High level challenges include reducing test cost while attaining high coverage, and facilitating debug and yield learnings while minimizing design intrusions.*** The work is done alongside with a group of highly experienced engineers across various domains of the AI ASIC.
 	- ***ATPG and test coverage analysis using industry standard tools.***
@@ -780,29 +783,30 @@ Skill set for roles in VLSI testing:
 	- Experience with ***industry standard ATPG and DFx insertion CAD tools***.
 	- Familiarity with ***System Verilog and UVM***.
 	- ***Fluent in RTL coding for DFx logic including lock-up latches, clock gates, and scan anchors.***
-	- Understanding of low-power design flows such as power gating, multi-Vt and voltage scaling.
-	- Good understanding of high-performance, low-power design fundamentals.
+	- Understanding of ***low-power design flows such as power gating, multi-Vt and voltage scaling***.
+	- Good understanding of ***high-performance, low-power design fundamentals***.
 	- ***Knowledge of fault models including Stuck-at, Transition, Gate-Exhaustive, Path Delay, IDDQ, and Cell Aware.***
-	- Exposure to post-silicon testing and tester pattern debug are major assets.
-	- Experience with Fault Campaigns a plus.
+	- Exposure to ***post-silicon testing and tester pattern debug*** are major assets.
+	- Experience with ***Fault Campaigns*** a plus.
 	- Strong problem solving and debug skills across various levels of design hierarchies.
 + skill set:
-	- Position is ASIC Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
-	- Track test execution to confirm all features are validated.
-	- Convert design specifications into characterization and test plans.
-	- Translate patterns and sequences into tester format to run on ATE and SLT.
+	- Position is ASIC Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct ***post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns***. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
+	- ***Track test execution to confirm all features are validated.***
+	- ***Convert design specifications into characterization and test plans.***
+	- ***Translate patterns and sequences into tester format to run on ATE and SLT.***
+		* ***system-level test, SLT***
 	- ***Help develop ATE load boards, SLT interface boards, and sockets.***
-	- Prepare for first silicon arrival with prioritized test plans that includes enablement of IP and critical features.
-	- Work with test systems, tools, and lab equipment to debug ASIC faults.
-	- Leverage lessons from current products to drive continuous improvements into future products.
+	- Prepare for first silicon arrival with prioritized test plans that includes ***enablement of IP and critical features***.
+	- ***Work with test systems, tools, and lab equipment to debug ASIC faults.***
+	- ***Leverage lessons from current products to drive continuous improvements into future products.***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
 	- ***Experience with SLT, ATE, and new product introduction.***
 	- ***Proficiency with test equipment such as oscilloscopes, protocol/logic/network analyzers and signal generators.***
-	- Successful track record debugging SOC and board-level faults.
+	- Successful track record ***debugging SOC and board-level faults***.
 	- ***Experience testing CPUs, high speed SERDES, PCIe, DDR, and PLLs is desirable.***
 	- ***Solid understanding of DFx features and standards including scan, ASST, MBIST, IEEE 1149.6, JTAG, and IJTAG, and fluency in RTL coding for DFx logic a plus.***
-	- Good understanding of PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools.
-	- Strong scripting skills in C/C++, Python, Perl, Java, Bugzilla, TCL, or Ruby.
+	- Good understanding of ***PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools***.
+	- Strong scripting skills in C/C++, Python, Perl, Java, ***Bugzilla***, TCL, or Ruby.
 + skill set:
 	- Position is Hardware Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
 	- Work closely with the Design for Test and Design Verification teams on test vectors, coverage, and diagnostics.
