@@ -808,36 +808,37 @@ Skill set for roles in VLSI testing:
 	- Good understanding of ***PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools***.
 	- Strong scripting skills in C/C++, Python, Perl, Java, ***Bugzilla***, TCL, or Ruby.
 + skill set:
-	- Position is Hardware Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
-	- Work closely with the Design for Test and Design Verification teams on test vectors, coverage, and diagnostics.
-	- Track test execution to confirm all features are validated.
-	- Convert design specifications into characterization and test plans.
-	- Translate patterns and sequences into tester format to run on ATE and SLT.
-	- Help develop ATE load boards, SLT interface boards, and sockets.
-	- Prepare for first silicon arrival with prioritized test plans that includes enablement of IP and critical features.
-	- Work with test systems, tools, and lab equipment to analyze ASIC faults.
-	- Collect and analyze volume fault data for root cause identification.
-	- Debug issues found during bring-up, characterization, validation, and production.
+	- Position is Hardware Test Engineer for industry leading AI/ML ASICs. The person coming into this role will conduct ***post-silicon characterization and testing to verify the functionality and timing of internal blocks and interfaces in our ASICs, and collaborate with DV and DFT teams to develop test requirements and test patterns***. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
+	- Work closely with the Design for Test and Design Verification teams on ***test vectors, coverage, and diagnostics***.
+	- Track test execution to ***confirm all features are validated.***
+	- ***Convert design specifications into characterization and test plans.***
+	- ***Translate patterns and sequences into tester format to run on ATE and SLT.***
+	- ***Help develop ATE load boards, SLT interface boards, and sockets.***
+	- ***Prepare for first silicon arrival with prioritized test plans that includes enablement of IP and critical features.***
+	- ***Work with test systems, tools, and lab equipment to analyze ASIC faults.***
+	- ***Collect and analyze volume fault data for root cause identification.***
+	- ***Debug issues found during bring-up, characterization, validation, and production.***
 	- ***Generate voltage/frequency shmoos.***
-	- Leverage lessons from current products to drive continuous improvements into future products.
+		* ***Get the definition of voltage/frequency shmoos***
+	- ***Leverage lessons from current products to drive continuous improvements into future products.***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
-	- Experience with SLT, ATE, new product introduction, and high-volume production enablement.
-	- Experience interfacing with OSATs and delivering converted ATE patterns for production runs.
-	- Proficiency with test equipment such as oscilloscopes, protocol/logic/network analyzers and signal generators.
-	- Expertise with processor characterization, speed path testing, frequency/power sort using ATE, and guard-banding for volume shipping.
-	- Successful track record debugging SOC and board-level faults.
+	- ***Experience with SLT, ATE, new product introduction, and high-volume production enablement.***
+	- ***Experience interfacing with OSATs and delivering converted ATE patterns for production runs.***
+	- ***Proficiency with test equipment such as oscilloscopes, protocol/logic/network analyzers and signal generators.***
+	- ***Expertise with processor characterization, speed path testing, frequency/power sort using ATE, and guard-banding for volume shipping.***
+	- Successful track record ***debugging SOC and board-level faults***.
 	- ***Experience testing CPUs, high speed SERDES, PCIe, DDR, and PLLs is desirable.***
 	- Good fundamentals in digital ASIC design, CMOS, and reliability.
 	- Strong scripting skills in C/C++, Python, Perl, Java, TCL, and/or Ruby.
-	- Experience with Bugzilla, LoadRunner, and Apache Maven.
+	- ***Experience with Bugzilla, LoadRunner, and Apache Maven.***
 	- ***Solid understanding of DFx features and standards including scan, ASST, MBIST, IEEE 1149.6, IEEE 1687, and IEEE 1500.***
-	- Fluency in RTL coding for DFx logic is a plus.
-	- Basic understanding of DFT fault models.
-	- Good understanding of PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools.
+	- ***Fluency in RTL coding for DFx logic is a plus.***
+	- Basic ***understanding of DFT fault models***.
+	- Good understanding of ***PCB fabrication, server-class compliance standards, signal and power integrity (SI/PI) methods, thermal and mechanical analysis tools***.
 + skill set:
 	- Position is ASIC Production Test Engineer for industry leading AI/ML ASICs. The person coming into this role will enable and conduct high-volume production testing of ASICs in preparation for shipping. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
-	- Assist in initial silicon bring-up and debug, and provide feedback for changes needed for volume production.
-	- Assist in requirements and inputs for ATE load boards, SLT interface boards, and sockets.
+	- Assist in ***initial silicon bring-up and debug, and provide feedback for changes needed for volume production***.
+	- Assist in ***requirements and inputs for ATE load boards, SLT interface boards, and sockets***.
 	- Collect and analyze volume fault data for root cause identification and yield improvement opportunities.
 	- Track and help improve production yield.
 	- Debug issues found during validation and production.
