@@ -1595,7 +1595,13 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 
 
 
-
+Skills for VLSI design for wired communication ICs, including high-speed interconnect design:
++ Experience in high performance SOC internal bus architectures based on CHI and/or AMBA NoC style implementations
++ Understanding of standard interface such as AMBA/AXI protocols, I2C, SPI, UART.
++ Understanding of standard interface such as PCIe, interconnect fabric, IO coherency, AMBA/AXI protocols
++ skill set:
+	- Solid background in ATE testing, test methodologies, silicon process and DFT/DFM
+	- Familiarity with JTAG/SCAN/ATPG/MBIST/SerDes tests a plus
 + Good understanding of protocols like AXI, ACE, ACP, CHI etc.
 	- AXI: 
 		* for AMBA AXI, AMBA Advanced eXtensible Interface
@@ -2398,7 +2404,27 @@ Skill sets for mixed-signal IC design:
 	- Experience with C++ programming and git-based development workflows.
 	- Experience with Verilog and other chip design technologies is NOT required.
 + skill set:
-	- BLAH.
+	- CAD Engineer, Principal
+	- We are looking for an experienced CAD Engineer, Principal to join a small but growing Processor Design group, advancing the art of high-performance implementation and physical design.
+	- Ideal candidates will develop and maintain ***physical design flows*** for high performance designs.
+	- Develop and support innovative ***physical design methodology and custom CAD***
+	- Work closely with implementation and physical design (PD) team
+	- Debugging flow issues
+	- ***Running multiple test designs through flow on latest technologies to determine impact on technology changes to area, power and timing***
+	- ***Automating new flow practices for general use in the design community***
+	- Minimum of 8 years relevant work experience
+	- Experience in ***physical design CAD flow including synthesis, place & route, and floor planning***
+	- Preferred - ***power distribution, static timing analysis and physical design verification***
+	- Experience in ***hierarchical P&R and flow development***
+	- Experience with ***all aspects of PD including floorplanning, power-distribution, pad ring construction, placement, CTS, and routing***
+	- Experience with ***low power design and implementation techniques using UPF/CPF***
+	- Understand ***hierarchical P&R issues including top-level floorplanning, pin-assignment, clock-distribution, critical-signal handling, hierarchical abstractions (black-box, ILM, etc.)***
+	- Strong ***TCL/Perl/Makefile scripting knowledge***
+	- Experience in developing complex algorithms, managing, and regressing P&R flows
+	- Familiar with ***chip-finishing issues (metal-fill, spare-cells, DFM rules, boundary-cells, etc.)*** for the latest generations of process technologies
+	- Experience with ***tool sets including as Cadence Genus, Cadence Innovus, Mentor Calibre***
+	- Excellent communication and problem-solving skills
+	- The full base pay range for this role is between $143,000 and $238,000.
 + skill set:
 	- BLAH.
 + skill set:

@@ -179,6 +179,8 @@ Skill set for roles in digital VLSI verification:
 + Experience in verification/validation using ***emulation tools like Palladium, Protium, Zebu and SV/Verilog, UVM***.
 + Familiar with the principle of debugger, such as: ***OpenOCD***.
 + A thorough understanding of the ***high-level verification flow methodology (test plan generation, test generation, failure analysis, coverage analysis and closure)***.
++ Experience developing verification environments in one or more industry standard languages like ***SVTB, UVM/OVM***.
+	- SVTB refers to SystemVerilog testbench
 + skill set for Senior Design Verification Engineer:
 	- $160,000/yr - $260,000/yr 
 	- Our mission is to radically reduce the cost of artificial intelligence.
@@ -819,7 +821,17 @@ Skill set for roles in VLSI testing:
 	- ***Collect and analyze volume fault data for root cause identification.***
 	- ***Debug issues found during bring-up, characterization, validation, and production.***
 	- ***Generate voltage/frequency shmoos.***
-		* ***Get the definition of voltage/frequency shmoos***
+		* ***voltage/frequency shmoos***: A shmoo plot is a 2-D graph to visualize the dependency of two metrics, represented by the two axes (vertical and horizontal axes).
+			+ also, see ***shoerror logs***
+			+ common dimensions/metrics for three independent variables are:
+				- frequency
+				- voltage
+				- temperature
+				- these are analogous to PVT, process, voltage, and temperature
+		* References:
+			+ https://en.wikipedia.org/wiki/Shmoo_plot
+			+ https://www.design-reuse.com/articles/47330/understanding-shmoo-plots-and-various-terminology-of-testers.html
+			+ https://semiengineering.com/knowledge_centers/test/shmooing-shmoo-test-shmoo-plot/
 	- ***Leverage lessons from current products to drive continuous improvements into future products.***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
 	- ***Experience with SLT, ATE, new product introduction, and high-volume production enablement.***
@@ -839,12 +851,12 @@ Skill set for roles in VLSI testing:
 	- Position is ASIC Production Test Engineer for industry leading AI/ML ASICs. The person coming into this role will enable and conduct high-volume production testing of ASICs in preparation for shipping. The work is done alongside a group of highly experienced engineers across various domains of the AI ASIC.
 	- Assist in ***initial silicon bring-up and debug, and provide feedback for changes needed for volume production***.
 	- Assist in ***requirements and inputs for ATE load boards, SLT interface boards, and sockets***.
-	- Collect and analyze volume fault data for root cause identification and yield improvement opportunities.
-	- Track and help improve production yield.
-	- Debug issues found during validation and production.
-	- Generate voltage/frequency shmoos.
-	- Determine characterization test needs and requirements for ASICs for volume production.
-	- Leverage lessons from current products to drive continuous improvements into future products.
+	- ***Collect and analyze volume fault data for root cause identification and yield improvement opportunities.***
+	- ***Track and help improve production yield.***
+	- ***Debug issues found during validation and production.***
+	- ***Generate voltage/frequency shmoos.***
+	- ***Determine characterization test needs and requirements for ASICs for volume production.***
+	- ***Leverage lessons from current products to drive continuous improvements into future products.***
 	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced testing techniques.
 	- Experience with SLT, ATE, new product introduction, and high-volume production enablement.
 	- Experience interfacing with OSATs and delivering ATE patterns for production runs.
@@ -1021,6 +1033,52 @@ Skill set for roles in VLSI post-silicon validation:
 	- Attention to detail and a focus on high-quality design;
 	- Ability to work well with others and a belief that engineering is a team sport;
 	- Bachelor’s degree in Electrical Engineering or Computer Engineering, Master’s preferred.
++ Customer-Focused Silicon Validation Engineer- DDR/Memory Tuning
+	- Ampere Computing is seeking a Customer-Focused Post-Silicon Validation Engineer- DDR / Memory Tuning to join a talented and experienced team to validate server class products for memory sub-system that power Cloud, Enterprise, and Data Center!  Ampere's competitive edge depends on building CPUs optimized for high performance, low power with cutting edge technology. It poses a unique challenge, gives us opportunities to innovate, and makes our jobs fun.
+	- Our team has a start-up attitude: plenty of opportunities to learn and grow and plenty of room for innovation. We also have great mentors for you in the field of ***custom processor/controller/ Physical Layer (PHY) architecture, mix signal analog-digital designs, server system design, virtual and cloud software frameworks***, product development, etc. to name a few. They are industry veteran architects and designers who know how to build and deliver leadership products. Come here to learn, add value, and be part of what comes next in the semiconductor industry.
+	- You will learn the ***Ampere's processor micro-architecture, core & Mesh, DDR5 memory, PCIe IO interface, system RAS***, etc. features. You will contribute to validation of ***Ampere's DDR5 memory subsystem, PHY, Equalization, IO characterization, DDR training routines, memory controller RAS & performance in both emulation and post-silicon environments***. Role may include but not limited to: Engaging with and providing customer support with ***IP & DDR vendors and customers***, Writing and debugging tests for ***Firmware level bare metal environment, BIOS initialization sequence, hypervisors, OS level applications and benchmarks***.
+	- ***Setup DDR4/5 pre/post-silicon validation environment, boards, test equipment.***
+	- Contribute towards ***SI/PI related debug & testing, IO tuning, compliance testing and PVT characterization***.
+	- Develop software routines for ***DDR PHY/DRAM initialization / training routines, equalization & IO tuning, SI/PI related optimization***, etc.
+	- ***Validate and characterize the silicon on server board system and execute data collection, AVL (Approved vendor list) test, DDR DIMM interoperability test.***
+	- Be the "point person" for engaging directly with IP and DDR vendors and customers. To help identify issues, understand concerns and offer solutions.
+	- Involve writing test plans, executing test plan in post silicon environments, perform debugging and failure analysis alongside the Silicon and Board design engineers to identify and fix any hardware bugs before going into production.
+	- 3-6 years’ post-silicon validation experience
+	- 2+ years of ***DDR5 Driver experience***.
+	- Exposer to ***DRAM initialization / Training***.
+	- 1+ years of ***Input/Output (I/O), Signal Integrity (SI) tuning and Margin Optimization***
+	- Expert in ***SI integrity measurements, equalization features validation and related tuning***.
+	- 1 year Analog Engineering/Validation know-how.
+	- Exposer dealing directly with ***IP and DDR vendors/customers***.
+	- Customer-focused skills as a Hardware Application Engineer highly-desirable.
+	- Minimum of 2 year of experience in developing and testing DDR sub systems
+	- Working experience with ***DDR4/5 controller and PHY, JEDEC and DFI specifications***
+	- ***Microcontroller & Embedded Systems Programming Experience in C/C++***
+	- Deep understanding of ***Server boot flow and specifically DDR initialization process***.
+	- Comfortable with the ***lab environment, using DMM, high speed oscilloscopes, compliance, and similar tools***.
+	- Knowledge of ***High-speed analog and VLSI design, transmission-line theory***.
+	- Debug skills at both ***SoC and system level***.
+	- Strengths in script languages such as ***Perl or Python, Linux shell script***.
+	- Strong communication and interpersonal skills are required along with the ability to work in a dynamic, product oriented, distributed team.
+	- Must be a self-starting team player with excellent communication skills who can work with minimal guidance.
++ skill set:
+	- Support Ops team on NPI startup and HVM deployment activities
+	- Strong Advantest V93K test program development and scripting skills
+	- Solid background in ATE testing, test methodologies, silicon process and DFT/DFM
+	- Familiarity with JTAG/SCAN/ATPG/MBIST/SerDes tests a plus
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1046,6 +1104,7 @@ Skill set for roles in VLSI post-silicon validation:
 
 
 Skill set for roles in VLSI post-silicon validation:
++ Experience in debugging/analyzing post-silicon HW/SW issues using ***Lauterbach Trace32 or OpenOCD debugger*** is required.Familiarity with pre-silicon environments such as Verification, Emulation and post-silicon Bring-Up is plus.
 + skill set:
 	- As a ML processor bring-up and validation engineer in our System Engineering team, you will have a unique opportunity to work at the intersection of machine learning and systems engineering: performing combined tuning of model + system parameters, studying sparsity and data statistics vs. power/temperature; debugging performance and power bottlenecks for modern machine learning models. Additionally, the successful candidate will gain experience with state-of-the art ML processor architecture, embedded firmware development, FPGA and board design and debug.
 	- Development of post-silicon test and characterization/tuning plans
