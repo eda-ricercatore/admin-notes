@@ -1080,7 +1080,11 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 		* Knowledge of ***ML frameworks like PyTorch, TensorFlow, ONNX, MXNet***, etc.
 	- $173,000/year to $241,000/year + bonus + equity + benefits
 + skill set:
-	- BLAH.
+	- Domain-specific compiler designers and interns for "PolyMage Labs"
+	- https://www.linkedin.com/company/polymage-labs/about/
+	- https://www.linkedin.com/company/polymage-labs/about/
+	- Compilers, MLIR, Polyhedral framework, HPC, and AI
+	- We look for talented engineers with strong computer science systems and programming skills. Prior compiler engineering experience (two years or more) and familiarity with at least one or more of the following fields are highly desirable: LLVM/MLIR, high-performance computing, and ML/AI programming frameworks. Most of the work done at PolyMage Labs is highly specialized — we thus believe that our engineers will, in most cases, learn additional advanced skills after they are on board with us.
 + skill set:
 	- BLAH.
 + skill set:

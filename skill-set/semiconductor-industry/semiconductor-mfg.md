@@ -784,7 +784,9 @@ Semiconductor manufacturing companies to pay attention to:
 		* Good communication skills (verbal & written).
 	- ***Environmental Health and Safety, EHS***
 + skill set:
-	- BLAH.
+	- IC Reliability Engineer
+	- Participate and contribute in design reviews, DFMEA, etc. through the entire product development life cycle; assess and communicate reliability risk to stakeholders.
+	- Automotive level qualification, APQP/PPAP
 + skill set:
 	- BLAH.
 + skill set:

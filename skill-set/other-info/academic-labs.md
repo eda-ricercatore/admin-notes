@@ -1,4 +1,4 @@
-#	Academic Research Labs
+#	Academic Research Labs and Non-Profit Research Institutes
 
 
 
@@ -72,8 +72,9 @@
 ##	Middle East, and Africa
 
 
-
-
++ Technology Innovation Institute (TII):
+	- Abu Dhabi, United Arab Emirates
+	- 
 
 
 
