@@ -5,7 +5,7 @@
 
 
 Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
-+ The following NoSQL databases provide support for ACID properties (Atomicity, Consistency, Isolation, Durability) or "joins":
++ [The following NoSQL databases provide support for ACID properties (Atomicity, Consistency, Isolation, Durability) or "joins"](https://en.wikipedia.org/wiki/NoSQL#ACID_and_join_support):
 	- Apache Ignite
 		* Not graph database.
 		* distributed database management system
@@ -27,7 +27,7 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 	- OrientDB
 		* Supports SQL.
 		* graph database.
-+ list of graph databases & supported query languages (prioritize SPARQL)
++ [list of graph databases & supported query languages (prioritize SPARQL)](https://en.wikipedia.org/wiki/NoSQL#Graph):
 	- AllegroGraph
 		* supports SPARQL
 		* RDF triple store
@@ -35,7 +35,10 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports Gremlin
 		* supports SPARQL
 	- Apache Giraph
-	- ArangoDB
+		* ["Apache project to perform graph processing on big data"](https://en.wikipedia.org/wiki/Apache_Giraph)
+		* [No longer actively developed](https://giraph.apache.org/)
+			+ https://attic.apache.org/projects/giraph.html
+	- ***ArangoDB***
 		* supports GraphQL
 		* supports AQL
 		* supports JavaScript
@@ -62,8 +65,11 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports SPARQL
 		* supports XQuery
 		* multi-model document database and RDF triple store
-	- Neo4J
+		* ["enterprise NoSQL database"](https://en.wikipedia.org/wiki/MarkLogic)
+	- **s**
 		* supports Cypher
+		* ["ACID-compliant transactional database with native graph storage and processing"](https://en.wikipedia.org/wiki/Neo4j)
+			+ "available in a non-open-source "community edition" licensed with a modification of the GNU General Public License, with online backup and high availability extensions licensed under a closed-source commercial license"
 	- OpenLink Virtuoso
 		* supports C++
 		* supports C#
@@ -73,10 +79,12 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 	- Oracle
 		* SPARQL 1.1
 		* RDF triple store added in 11g
-	- OrientDB
+	- [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 		* supports Java
 		* supports SQL
 		* multi-model document and graph database
+		* "open source NoSQL database management system"
+		* "multi-model database, supporting graph, document, key/value, and object models, but the relationships are managed as in graph databases with direct connections between records"
 	- OWLIM
 		* supports Java
 		* supports SPARQL 1.1
@@ -94,9 +102,74 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports Python
 		* supports datalog
 		* open source RDF triple-store and document store
-	- Virtuoso
-
-	
+	- [Virtuoso, Virtuoso Universal Server, OpenLink Virtuoso](https://en.wikipedia.org/wiki/Virtuoso_Universal_Server)
+		* "middleware and database engine hybrid that combines the functionality of a traditional relational database management system (RDBMS), object–relational database (ORDBMS), virtual database, RDF, XML, free-text, web application server and file server functionality in a single system"
++ substitutes for the deprecated *Apache Giraph*
+	- https://www.g2.com/products/apache-giraph/competitors/alternatives
+		* GraphDB
+		* Redis
+		* Azure Cosmos DB
+		* OrientDB
+		* Elastic Stack
+		* Amazon Neptune
+		* Aerospike
+		* Dgraph
+	- https://slashdot.org/software/p/Apache-Giraph/alternatives
+		* Amazon Neptune
+		* Aster SQL-GR
+		* AnzoGraph DB
+		* TigerGraph
+		* DataStax
+		* Graph Engine, GE
+		* TIBCO Graph Database
+		* Neo4j
+		* Cayley
+		* HyperGraphDB
+		* OrigoDB
+			- commercial
+		* Titan
+		* Apache TinkerPop
+		* JanusGraph
+		* AllegroGraph
+		* HugeGraph
+		* Oracle Spatial and Graph
+		* InfiniteGraph
+		* Graph Story
+			- commercial
+		* FlockDB
+		* Memgraph
+		* RelationalAI
+		* Virtuoso
+		* Grakn
+		* IBM Cloud Databases
+		* ArcadeDB
+		* Nebula Graph
+		* GraphBase
+		* KgBase
+		* OrientDB
+		* Dgraph
+		* ArangoDB
+		* Sparksee
+		* Locstat
+		* Stardog
+		* Luna for Apache Cassandra
+		* Redis
+		* TerminusDB
+		* Graphlytic
+			- commercial
+		* GraphDB
+		* Fluree
+		* RecallGraph
+		* VelocityDB
+			- commercial
+		* Apache Cassandra
+		* Fauna
+		* Blazegraph
+		* data.world
+			- commercial
+		* GUN
+		* Apache Spark
+		* Apache Mahout
 
 
 
@@ -125,6 +198,13 @@ Information from [Wikipedia](https://en.wikipedia.org/wiki/Graph_database):
 
 
 
+#	Additional Information
+
++ [multi-model database](https://en.wikipedia.org/wiki/Multi-model_database)
+	- "In the field of database design, a multi-model database is a database management system designed to support multiple data models against a single, integrated backend."
+	- "Document, graph, relational, and key–value models are examples of data models that may be supported by a multi-model database."
++ [triplestore](https://en.wikipedia.org/wiki/Triplestore)
+	- "A triplestore or RDF store is a purpose-built database for the storage and retrieval of triples[1] through semantic queries. A triple is a data entity composed of subject–predicate–object, like "Bob is 35" (i.e., Bob's age measured in years is 35) or "Bob knows Fred"."
 
 
 
