@@ -28,81 +28,130 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* Supports SQL.
 		* graph database.
 + [list of graph databases & supported query languages (prioritize SPARQL)](https://en.wikipedia.org/wiki/NoSQL#Graph):
-	- AllegroGraph
+	- [ ] AllegroGraph
 		* supports SPARQL
 		* RDF triple store
-	- Amazon Neptune
+		* https://en.wikipedia.org/wiki/AllegroGraph
+	- [ ] Amazon Neptune
 		* supports Gremlin
 		* supports SPARQL
-	- Apache Giraph
+	- [ ] Apache Giraph
 		* ["Apache project to perform graph processing on big data"](https://en.wikipedia.org/wiki/Apache_Giraph)
 		* [No longer actively developed](https://giraph.apache.org/)
 			+ https://attic.apache.org/projects/giraph.html
-	- ***ArangoDB***
+	- [x] ***ArangoDB***
 		* supports GraphQL
 		* supports AQL
 		* supports JavaScript
 		* multi-model DBMS document, graph database and key-value store
-	- Azure Cosmos DB
+		* https://en.wikipedia.org/wiki/ArangoDB
+		* Cytoscape with ArangoDB
+			+ https://cytoscape.org/
+			+ https://github.com/cytoscape/cytoscape-tutorials
+		* https://arangodb.com/2013/12/visualize-graphs/
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "NoSQL native graph database system developed by ArangoDB Inc, supporting three data models (key/value, documents, graphs), with one database core and a unified query language called AQL (ArangoDB Query Language). Provides scalability and high availability via datacenter-to-datacenter replication, auto-sharding, automatic failover, and other capabilities."
+		* https://arangodb.com/
+			+ pricing for cloud services
+				- https://dashboard.arangodb.cloud/home
+			+ downloads:
+				- https://arangodb.com/download-major/
+				- supports
+					* Docker
+					* Kubernetes
+					* Debian
+					* Ubuntu
+					* macOS (for Intel/Arm processors)
+						+ The recommended way of using ArangoDB on macOS is to use the ArangoDB Docker images with, for instance, Docker Desktop.
+						+ Running production environments on macOS is not supported.
+	- [ ] Azure Cosmos DB
 		* supports Gremlin
-	- DEX/Sparksee
+		* ["globally distributed, multi-model database service"](https://en.wikipedia.org/wiki/Cosmos_DB)
+	- [ ] DEX/Sparksee
 		* supports C++
 		* supports Java
 		* supports C#
 		* supports Python
-	- FlockDB
+	- [ ] FlockDB
 		* supports Scala
-	- IBM Db2
+	- [ ] IBM Db2
 		* supports SPARQL
 		* RDF triple store added in DB2 10
-	- InfiniteGraph
+	- [ ] InfiniteGraph
 		* supports Java
-	- JanusGraph
+		* distributed graph database
+		* commercial product
+		* ***Poorly supported product***
+	- [ ] JanusGraph
 		* supports Java
-	- MarkLogic
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "Open source, scalable, distributed across a multi-machine cluster graph database under The Linux Foundation; supports various storage backends (Apache Cassandra, Apache HBase, Google Cloud Bigtable, Oracle Berkeley DB);[29] supports global graph data analytics, reporting, and extract, transform, load (ETL) through integration with big data platforms (Apache Spark, Apache Giraph, Apache Hadoop); supports geo, numeric range, and full-text search via external index storages (Elasticsearch, Apache Solr, Apache Lucene)."
+		* https://janusgraph.org/
+	- [ ] MarkLogic
 		* supports Java
 		* supports JavaScript
 		* supports SPARQL
 		* supports XQuery
 		* multi-model document database and RDF triple store
 		* ["enterprise NoSQL database"](https://en.wikipedia.org/wiki/MarkLogic)
-	- **s**
+	- [ ] NebulaGraph
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "A scalable open-source distributed graph database for storing and handling billions of vertices and trillions of edges with milliseconds of latency. It is designed based on a shared-nothing distributed architecture for linear scalability."
+		* ["open-source distributed graph database built for super large-scale graphs with milliseconds of latency"](https://en.wikipedia.org/wiki/NebulaGraph)
+		* https://hub.docker.com/extensions/weygu/nebulagraph-dd-ext
+			+ Docker installation.
+			+ https://www.nebula-graph.io/
+	- [ ] **Neo4j**
 		* supports Cypher
 		* ["ACID-compliant transactional database with native graph storage and processing"](https://en.wikipedia.org/wiki/Neo4j)
 			+ "available in a non-open-source "community edition" licensed with a modification of the GNU General Public License, with online backup and high availability extensions licensed under a closed-source commercial license"
-	- OpenLink Virtuoso
+		* https://neo4j.com/pricing/
+			+ GraphQL is not supported for free.
+		* ***Search for Neo4j GraphQL solutions***
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "Open-source, supports ACID, has high-availability clustering for enterprise deployments, and comes with a web-based administration that includes full transaction support and visual node-link graph explorer; accessible from most programming languages using its built-in REST web API interface, and a proprietary Bolt protocol with official drivers."
+	- [ ] OpenLink Virtuoso
 		* supports C++
 		* supports C#
 		* supports Java
 		* supports SPARQL
 		* middleware and database engine hybrid
-	- Oracle
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "Multi-model (Hybrid) relational database management system (RDBMS) that supports both SQL and SPARQL for declarative (Data Definition and Data Manipulation) operations on data modelled as SQL tables and/or RDF Graphs. Also supports indexing of RDF-Turtle, RDF-N-Triples, RDF-XML, JSON-LD, and mapping and generation of relations (SQL tables or RDF graphs) from numerous document types including CSV, XML, and JSON. May be deployed as a local or embedded instance (as used in the NEPOMUK Semantic Desktop), a one-instance network server, or a shared-nothing elastic-cluster multiple-instance networked server"
+	- [ ] Oracle
 		* SPARQL 1.1
 		* RDF triple store added in 11g
-	- [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
+	- [ ] [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 		* supports Java
 		* supports SQL
 		* multi-model document and graph database
 		* "open source NoSQL database management system"
 		* "multi-model database, supporting graph, document, key/value, and object models, but the relationships are managed as in graph databases with direct connections between records"
-	- OWLIM
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "Second-generation[clarification needed] distributed graph database with the flexibility of documents in one product (i.e., it is both a graph database and a document NoSQL database); licensed under open-source Apache 2 license; and has full ACID support; it has a multi-master replication and sharding; supports schema-less, -full, and -mixed modes; has security profiling based on user and roles; supports a query language similar to SQL. It has HTTP REST and JSON API."
+	- [ ] OWLIM
 		* supports Java
 		* supports SPARQL 1.1
 		* RDF triple store
-	- Profium Sense
+	- [ ] Profium Sense
 		* Java
 		* SPARQL
 		* RDF triple store
-	- RedisGraph
+	- [ ] RedisGraph
 		* supports Cypher
-	- Sqrrl Enterprise
+	- [ ] Sqrrl Enterprise
 		* supports Java
-	- TerminusDB
+	- [ ] TerminusDB
 		* supports JavaScript
 		* supports Python
 		* supports datalog
 		* open source RDF triple-store and document store
-	- [Virtuoso, Virtuoso Universal Server, OpenLink Virtuoso](https://en.wikipedia.org/wiki/Virtuoso_Universal_Server)
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "Document-oriented knowledge graph; the power of an enterprise knowledge graph with the simplicity of documents."
+	- [ ] TypeDB
+		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
+			+ "TypeDB is a strongly-typed database with a rich and logical type system. TypeDB empowers you to tackle complex problems, and TypeQL is its query language. TypeDB allows you to model your domain based on logical and object-oriented principles. Composed of entity, relationship, and attribute types, as well as type hierarchies, roles, and rules, TypeDB allows you to think higher-level, as opposed to join-tables, columns, documents, vertices, edges, and properties."
+	- [ ] [Virtuoso, Virtuoso Universal Server, OpenLink Virtuoso](https://en.wikipedia.org/wiki/Virtuoso_Universal_Server)
 		* "middleware and database engine hybrid that combines the functionality of a traditional relational database management system (RDBMS), object–relational database (ORDBMS), virtual database, RDF, XML, free-text, web application server and file server functionality in a single system"
 + substitutes for the deprecated *Apache Giraph*
 	- https://www.g2.com/products/apache-giraph/competitors/alternatives
@@ -112,22 +161,25 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* OrientDB
 		* Elastic Stack
 		* Amazon Neptune
-		* Aerospike
-		* Dgraph
+		* ***Aerospike***
+		* ***Dgraph***
 	- https://slashdot.org/software/p/Apache-Giraph/alternatives
 		* Amazon Neptune
 		* Aster SQL-GR
 		* AnzoGraph DB
 		* TigerGraph
 		* DataStax
-		* Graph Engine, GE
+		* ***Graph Engine, GE***
+			+ https://www.predictiveanalyticstoday.com/top-free-graph-databases/
 		* TIBCO Graph Database
 		* Neo4j
-		* Cayley
-		* HyperGraphDB
+		* ***Cayley***
+			+ https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+		* ***HyperGraphDB***
 		* OrigoDB
-			- commercial
-		* Titan
+			+ commercial
+		* ***Titan***
+			+ https://www.predictiveanalyticstoday.com/top-free-graph-databases/
 		* Apache TinkerPop
 		* JanusGraph
 		* AllegroGraph
@@ -170,6 +222,26 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* GUN
 		* Apache Spark
 		* Apache Mahout
++ additional options
+	- [ ] GraphDB Lite
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] MapGraph API
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] BrightstarDB
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] WhiteDB
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] Orly
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] Weaver
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] sones GraphDB
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+	- [ ] Filament
+		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+
+
+
 
 
 
@@ -191,6 +263,60 @@ Information from [Wikipedia](https://en.wikipedia.org/wiki/Graph_database):
 				- supported by JSON descriptions
 	- [resource description framework, RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 		* [GraphQL: an open-source data query and manipulation language for APIs. Dgraph implements modified GraphQL language called DQL (formerly GraphQL+-)](https://en.wikipedia.org/wiki/GraphQL)
+			+ https://github.com/dgraph-io/dgraph
+			+ https://dgraph.io/
+
+
+
+Favor solutions that support:
++ [GraphQL](https://en.wikipedia.org/wiki/GraphQL)
+	- https://graphql.org/
+	- https://github.com/graphql/graphql-spec
+
+
+
+Graph database visualization:
++ https://neo4j.com/developer-blog/15-tools-for-visualizing-your-neo4j-graph-database/
+	- [ ] Charts (reporting tool)
+		* ***Check this out!!!***
+	- [ ] Cytoscape with ArangoDB (development tool)
+		* https://cytoscape.org/
+		* https://github.com/cytoscape/cytoscape-tutorials
+	- [ ] Data visualization tools for Neo4j graph databases.
+		* Neo4j Browser (development tool)
+		* Neo4j Bloom (exploration and analysis tool)
+	- [ ] Graphileon (reporting tool)
+		* dashboard development environment
+	- [ ] Graphistry (analysis tool)
+	- [ ] Graphlytic, graphlytic.biz
+	- [ ] GraphXR
+	- [ ] Hume
+		* GraphAware Hume (exploration and analysis tool)
+	- [ ] Keylines (development tool)
+		* From Cambridge Intelligence
+	- [ ] Kineviz
+		* Kineviz GraphXR (analysis tool)
+	- [ ] Linkurious (exploration and analysis tool)
+	- [ ] NeoDash (reporting tool)
+		* ***Check this out!!!***
+	- [ ] neovis.js (development tool)
+		* https://github.com/neo4j-contrib/neovis.js/
+			+ depends on Neo4j
+		* https://visjs.org/
+			+ wrapper for Vis.js
+	- [ ] Perspectives
+		* Tom Sawyer's Perspectives (exploration and analysis tool)
+	- [ ] popoto.js (development tool)
+		* ***Check this out!!!***
+	- [ ] SamSpect
+	- [ ] yWorks Neo4j Explorer (exploration and analysis tool)
+	- "Embeddable libraries without direct Neo4j connection"
+		* Cytoscape.js
+		* D3.js
+		* Sigma.js
+		* Vivagraph.js
+
+
 
 
 

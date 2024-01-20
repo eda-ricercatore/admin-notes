@@ -1127,6 +1127,7 @@ reactive programming = asynchronous dataflow programming
 + full-stack Web development:
 	- Expertise in at least one server side web application language. Java or Python experience is a plus
 	- Expertise in modern JavaScript/HTML/CSS. Experience with React is a huge plus
++ Experience with cloud platforms (AWS preferred, or GCP, Azure), databases (Postgres preferred, or MySQL, etc.), IaC (Terraform preferred), Containers (Docker, Kubernetes), and CI/CD systems (Jenkins, GitHub Actions)
 + skill set:
 	- BLAH.
 + skill set:

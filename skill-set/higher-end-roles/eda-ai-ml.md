@@ -5841,6 +5841,32 @@ Companies that have machine learning -centric products
 	- Our internship program is designed to give students a meaningful, real-world work experience that complements their academic learnings. While we are not able to offer conversions to full-time positions following our internships, our program is open to a wide range of students at any point in their undergraduate careers that want to develop skills, gain experience, and connect with leaders in their fields.
 	- The Redwood City, CA pay for this role is: $56.74/hour for BS candidates; $60.07/hour for MS candidates; $63.61/hour for PhD candidates.
 	- The Chan Zuckerberg Initiative was founded in 2015 to help solve some of society’s toughest challenges — from eradicating disease and improving education, to addressing the needs of our local communities. Our mission is to build a more inclusive, just, and healthy future for everyone.
++ Research Scientist, Superalignment
+	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
+	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
+		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
+		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
+		* Automated interpretability: Can we use AI to explain how LLMs work internally?
+		* Robustness: How can we train our models to be aligned in worst-case situations?
+		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
+	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
+	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the Superalignment team, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
+	- We are seeking Research Scientists to help design and implement experiments for alignment research.
+	- Designing experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
+	- Studying generalization to see when AI systems trained on easy problems can solve hard problems
+	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
+	- Developing experiments to test how well chain of thought reasoning reflects model cognition
+	- Investigating situations when training against a reward signal causes model outputs to deteriorate
+	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
+	- Designing novel approaches for using LLMs in alignment research
+	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter.
+	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
+	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
+	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
+	- Enjoy fast-paced, collaborative, and cutting-edge research environments
+	- Have experience implementing ML algorithms (e.g., PyTorch)
+	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
+	- Want to ensure that powerful AI systems stay under human control
 + Research Scientist
 	- By applying to this role, you will be considered for Research Scientist roles across all teams at OpenAI.
 	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the team you work on, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
@@ -6744,6 +6770,34 @@ Companies that have machine learning -centric products
 	- LLVM, MLIR, or Python experience is a bonus.
 	- Experience with working on or contributing to a major machine learning framework such as TensorFlow, PyTorch, and/or ONNX/ONNXRuntime is a bonus.
 	- The estimated base salary range for this role to be performed in the US, regardless of the state, is $166,500.00 - $286,000.00 USD. The salary for the successful applicant will depend on a variety of permissible, non-discriminatory job-related factors, which include but are not limited to education, training, work experience, business needs, or market demands. This range may be modified in the future. The total compensation for a candidate will also include annual target bonus, equity, and benefits, with equity making up a significant portion of your total compensation.
++ Research Engineer, Superalignment
+	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
+	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
+		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
+		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
+		* Automated interpretability: Can we use AI to explain how LLMs work internally?
+		* Robustness: How can we train our models to be aligned in worst-case situations?
+		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
+	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
+	- We are seeking Research Engineers to help design and implement experiments for alignment research.
+	- Writing performant and clean code for ML training.
+	- Independently running and analyzing ML experiments to diagnose problems and understand which changes are real improvements.
+	- Writing clean non-ML code, for example when building interfaces to let workers interact with our models or pipelines for managing human data.
+	- Collaborating closely with a small team to balance the need for flexibility and iteration speed in research with the need for stability and reliability in a complex long-lived project.
+	- Understanding our high-level research roadmap to help plan and prioritize future experiments.
+	- Implement experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
+	- Studying generalization to see when AI systems trained on easy problem can solve hard problems
+	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
+	- Investigating situations when training against a reward signal causes model outputs to deteriorate
+	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
+	- Designing novel approaches for using LLMs in alignment research
+	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
+	- Want to use your engineering skills to push the frontiers of what state-of-the-art language models can accomplish
+	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
+	- Enjoy fast-paced, collaborative, and cutting-edge research environments
+	- Have experience implementing ML algorithms (e.g., PyTorch)
+	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
+	- Want to ensure that powerful AI systems stay under human control
 + skill set:
 	- Software Engineer Intern/Co-op (Winter 2024)
 	- This role is for students who are excited about building the next generation of machine learning models and NLP products. Our SWE roles can cover creating datasets for machine learning, scaling the pods to serve our API, or even building out new security features on our platform. We don't distinguish much between interns and full-time employees, and you’ll have plenty of opportunities to push code to production. You'll have full autonomy and ownership over high-impact work, and will be backed by the support of an incredible team or leaders & mentors. Join us at a pivotal moment, shape what we build, and wear multiple hats!
@@ -14015,65 +14069,24 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Experience with 1 or more large scale data system such as beam or spark.
 	- The annual salary range for this role is $210,000 – $325,000. 
 	- Annual Salary Range: $310,000—$385,000 USD (additional salary range with contradictory information)
-+ Research Engineer, Superalignment
-	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
-	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
-		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
-		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
-		* Automated interpretability: Can we use AI to explain how LLMs work internally?
-		* Robustness: How can we train our models to be aligned in worst-case situations?
-		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
-	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
-	- We are seeking Research Engineers to help design and implement experiments for alignment research.
-	- Writing performant and clean code for ML training.
-	- Independently running and analyzing ML experiments to diagnose problems and understand which changes are real improvements.
-	- Writing clean non-ML code, for example when building interfaces to let workers interact with our models or pipelines for managing human data.
-	- Collaborating closely with a small team to balance the need for flexibility and iteration speed in research with the need for stability and reliability in a complex long-lived project.
-	- Understanding our high-level research roadmap to help plan and prioritize future experiments.
-	- Implement experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
-	- Studying generalization to see when AI systems trained on easy problem can solve hard problems
-	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
-	- Investigating situations when training against a reward signal causes model outputs to deteriorate
-	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
-	- Designing novel approaches for using LLMs in alignment research
-	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter
-	- Want to use your engineering skills to push the frontiers of what state-of-the-art language models can accomplish
-	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
-	- Enjoy fast-paced, collaborative, and cutting-edge research environments
-	- Have experience implementing ML algorithms (e.g., PyTorch)
-	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
-	- Want to ensure that powerful AI systems stay under human control
-+ Research Scientist, Superalignment
-	- OpenAI’s Superalignment Team is working on technical approaches to ensure that superintelligence–an AI system vastly smarter than humans–follows human intent. 
-	- Through scientific experimentation, we explore the scalability of alignment techniques and identify potential breaking points. Our approach to alignment research includes a range of different projects; some of these will help us improve the alignment of our models and others will allow us to validate how aligned our models actually are:
-		* Scalable oversight: How can we best leverage AI systems to assist evaluation of other AI systems on difficult tasks?
-		* Generalization: Can we understand and control how our models generalize from easy tasks that humans can supervise to hard tasks that humans cannot?
-		* Automated interpretability: Can we use AI to explain how LLMs work internally?
-		* Robustness: How can we train our models to be aligned in worst-case situations?
-		* Adversarial testing: If we deliberately train deceptively aligned models as testbeds,  can our oversight techniques, interpretability tools, and evaluations detect this misalignment?
-	- We want to figure out how to spend vast amounts of compute to solve this problem, in particular by automating alignment research itself.
-	- As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the Superalignment team, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.
-	- We are seeking Research Scientists to help design and implement experiments for alignment research.
-	- Designing experiments to measure the effectiveness of scalable oversight techniques such as AI-assisted feedback and Debate
-	- Studying generalization to see when AI systems trained on easy problems can solve hard problems
-	- Managing large datasets from interpretability experiments and creating visualizations to explore interpretability data
-	- Developing experiments to test how well chain of thought reasoning reflects model cognition
-	- Investigating situations when training against a reward signal causes model outputs to deteriorate
-	- Exploring methods to understand and predict model behaviors, such as finding inputs causing anomalous circuits or catastrophic outputs
-	- Designing novel approaches for using LLMs in alignment research
-	- Are excited about OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charter.
-	- Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects
-	- Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects
-	- Possess a strong curiosity about aligning and understanding ML models, and are motivated to use your career to address this challenge
-	- Enjoy fast-paced, collaborative, and cutting-edge research environments
-	- Have experience implementing ML algorithms (e.g., PyTorch)
-	- Can develop data visualization or data collection interfaces (e.g., JavaScript, Python)
-	- Want to ensure that powerful AI systems stay under human control
-
-
-
-
-
++ graph data scientist
+	- We are looking for a data scientist to join us & our users on trying new graph solutions. Your primary goal is to help our users prototype visual graph data science solutions, and secondarily, create related useful integrations and educational materials for fellow data scientists and developers. You will begin as part of a team of some of the industry’s most-known graph data scientists and developers and helping Fortune 500 organizations across multiple departments adopting graph technologies. Over time, you will work directly with top data teams from top data organizations across the world, and our partners who are many of the top data technology creators. The role’s primary technologies include Graphistry, Cypher+SPARQL, Python, Jupyter, StreamLit, pandas / RAPIDS.ai, Docker, and Linux/AWS/Azure. Of additional interest are graph neural networks, huggingface, mlflow, networkx/graphx, Tableau/PowerBI, and SQL.
++ graph data scientist:
+	- The role’s primary technologies include Graphistry, Cypher+SPARQL, Python, Jupyter, StreamLit, pandas / RAPIDS.ai, Docker, React, and Linux/AWS/Azure. Of additional interest are graph neural networks, huggingface, mlflow, networkx/graphx, Tableau/PowerBI, and SQL.
+	- Required: Comfortable with pydata - Python, Jupyter, pandas, viz, cloud (Linux/AWS/Azure)
+	- Ideal: Experience with graphs - databases (cypher/sparql), algorithms, visualizations, & neural networks; Dashboarding (StreamLit/Ploty/Tableau/PowerBI/…); GPU PyData (RAPIDS, Tensorflow, numba, …)
+	- Amazing: Ability to live debug with friendly users (pair-programming) and assist with open source & partner technology integrations, tutorials, & presentations.
+	- Required: Comfortable with coding (Python, minor HTML/JS/CSS)  and/or ML (hands-on or courses around linear algebra, statistics, classical ML, neural networks)
+	- Ideal:  
+		* Practitioner who has led or been a primary contributor to graph data projects
+		* STEM MS/PhD/PostDoc or equivalent in experience (ex: worked on data projects), especially around graph data
+		* Even if you do not have a degree, *please apply*, it is just 1 data point
+	- Amazing: Can help onboard bleeding-edge technologies & algorithms and innovate new solutions that combine them with Graphistry’s core technologies for new combined experiences, especially in IC/DoD/etc. scenarios
+	- Required: Interested in collaborative work with multidisciplinary teams
+	- Ideal: Strong written & verbal communication skills
+	- Amazing: Can inspire users during interactions like customer pair-programming / help chats / hackathons, write clear code & tutorials, make engaging talks & articles,  manage customer/internal data projects, and help with government R&D programs (see related R&D role)
+	- Ideal: Graph & data technologies; graph-y domains like security/fraud/bio/NLP/…
+	- Amazing: Loves picking up new technologies / working on new problems; Successfully used graph/investigative technologies for tough use cases; Brimming with high-impact ideas that are both practical & innovative; Can share inspiring stories
 + skill set:
 	- We are looking for a motivated, data-driven and results-oriented self-starter who is passionate about Growth Marketing to join our Revenue Marketing team. Our key focus is to accelerate Self-Service revenue across the entire customer journey - from new customer acquisition to retention and cross-sell / upsell. With a portfolio of hundreds of thousands of paying customers, you will lead insights at scale to find new user growth opportunities across Self-Service customer journey by helping more of our customers to discover the value of DigitalOcean through engaging, differentiated experiences. The focus will be on delivering engaging experiences for key high-value strategic initiatives and facilitating & enhancing Revenue Marketing's ability to engage with new audiences in new ways.
 	- You will lead experimentation for the team, driving improvements in user acquisition, engagement and long-term growth at scale by measuring and optimizing new channels, platforms and strategic marketing initiatives - with a specific focus on helping our team identify key product and marketing levers for user growth - backed by systematic testing and optimization.
