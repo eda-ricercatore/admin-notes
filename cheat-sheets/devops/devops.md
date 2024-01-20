@@ -4,27 +4,9 @@
 
 
 + Docker
-	- Pricing information: https://www.docker.com/pricing/
-		* Personal (free)
-		* Pro
-		* Team
-		* Business
-	- Get Started with Docker: https://www.docker.com/get-started/
-	- Docker Hub
-		* "The world’s largest container registry"
-		* "Discover, share, and integrate container images"
-		* https://www.docker.com/products/docker-hub/
-		* Docker Hub Container Image Library: https://hub.docker.com/
-			+ When not signed in.
-			+ Docker Hub: https://hub.docker.com/
-				- When signed in.
-	- Kubernetes
-		* https://kubernetes.io/
-			+ ["The legacy Linux package repositories (apt.kubernetes.io and yum.kubernetes.io AKA packages.cloud.google.com) have been frozen starting from September 13, 2023 and are going away in January 2024, users must migrate."](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/)
-		* https://kubernetes.io/docs/setup/
-		* https://kubernetes.io/releases/download/
-		* https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
-			+ "You must use a kubectl version that is within one minor version difference of your cluster. For example, a v1.29 client can communicate with v1.28, v1.29, and v1.30 control planes. Using the latest compatible version of kubectl helps avoid unforeseen issues."
+	- See information in private repository about using Docker.
++ Kubernetes
+	- See information in private repository about using Kubernetes.
 
 
 
