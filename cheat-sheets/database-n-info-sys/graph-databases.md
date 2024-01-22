@@ -240,7 +240,9 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 	- [ ] Filament
 		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
 
-
+	- [ ] DataStax Astra DB
+	- [ ] Elastic
+	- [ ] Pinecone
 
 
 
