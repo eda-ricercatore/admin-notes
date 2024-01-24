@@ -788,6 +788,65 @@ Semiconductor manufacturing companies to pay attention to:
 	- Participate and contribute in design reviews, DFMEA, etc. through the entire product development life cycle; assess and communicate reliability risk to stakeholders.
 	- Automotive level qualification, APQP/PPAP
 + skill set:
+	- Cluster Head (Technology), IME
+	- Be a member of the leadership team to achieve the vision and mission of the National GaN Technology Centre (NGTC).
+	- Lead the Technology, Engineering and Industry team in technology road mapping and R&D pathfinding in device architecture, fabrication process technology, and MMIC design.
+	- Lead the Technology team, which comprises (a) characterization & modelling, (b) MMIC design, testing & model validation, (c) device failure and reliability analysis, (d) ultra high frequency GaN-on-SiC device design, layout, fabrication and characterization, and (e) low voltage GaN-on-Silicon device design, layout, fabrication and characterization. 
+	- Coordinate with the Engineering team to develop ultra high frequency devices, ultra low voltage devices, and their MMICs.
+	- Coordinate with the Engineering and Operations teams to ensure timely delivery of the projects.
+	- Initiate and secure research grants and industry funding.
+	- Initiate, coordinate and manage research collaborations with IHLs and industry partners.
+	- Provide regular progress report of the Technology team?s activities to NGTC management.
+	- Represent NGTC in customer meetings. 
+	- PhD in Electrical & Electronic Engineering, Materials Science and Engineering, Microelectronics Engineering, or closely related fields are welcome to apply.
+	- Deep understanding of GaN-HEMT device physics and GaN-based MMICs.
+	- At least 10 years of post-PhD hands-on experience in GaN HEMT and MMIC technology development including design, characterization (e.g. DC, small-signal and load-pull measurement), and modelling; preferably in RF GaN-on-Silicon or GaN-on-SiC technologies.
+	- At least 8 years of experience in leading a team of research engineers/scientists in managing multiple projects.
+	- Candidates with industry experience in GaN related R&D would be preferred.
+	- Working knowledge and hands-on experience in Design of Experiments (DOE) methodologies, statistical root cause analysis, problem-solving methods, and in-line metrology techniques is desired.
+	- Possess strong leadership, project management, interpersonal and oral/written communication skills.
++ Prepare Standard Operation Procedure (SOP), Out of Control Plan (OCAP) and other technical documentation for fab line to follow.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.

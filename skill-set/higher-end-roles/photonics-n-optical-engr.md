@@ -304,9 +304,41 @@ Sets of skills in photonic fabrication process engineering:
 		* Demonstrated track record of delivering finished integrated photonics products
 		* Experience working in fabless companies
 + skill set:
-	- BLAH.
+	- Senior Scientist (Photonics and Sensors), IME
+	- As part of IME?s Photonics & Sensors Department, the candidate will take the lead for the development of advanced photonics integration. This could include but not limited as photonic heterogeneous integration by bring various best-in-class materials into silicon wafer, electro-photonics integration, etc. You will work closely with an excellent multidisciplinary team involving photonics, semiconductor process, and fab operation.
+	- Development of various photonics integration capabilities with 8-inch and 12-inch facilities, with emphasis on photonics heterogenous integration.
+	- Design and fabricate various advanced photonics components and integrated circuits aiming for next-generation photonic applications.
+	- Design of Experiments (DOE) for both design and process margin checking and control.
+	- Process metrology data taking, device / circuit performance data taking.
+	- Data analysis and documentation
+	- Preparation of technical presentations and papers for internal meetings, as well as conferences and journals.
+	- Collaborate with project team to ensure quality and on-time delivery for various projects.
+	- Performs other duties as assigned.
+	- PhD in Integrated Photonics, Opto-electronics, Materials Science, Physics or equivalent
+	- Strong hands-on experience in photonics integration.
+	- Experience in one or more topics listed below is strongly preferred: confocal microscopy, Raman spectroscopy, semiconductor carrier lifetime measurement, optical nonlinear device characterization, ultrafast optics, or other relevant fields.
+	- Hands-on experience in photonic simulation using various electrical / photonics design software.
+	- Strong communication, industry awareness, and problem-solving skills.
+	- Minimum 3 years project management skill.
+	- Strong self-motivation and interest in the next-generation photonics technology development.
+	- Industry experience is a plus.
 + skill set:
-	- BLAH.
+	- Scientist (Photonics and Sensors Department), IME
+	- Scientist for Advanced Photonics (Photonic Computing and Quantum Computing)
+	- As part of IME?s Photonics & Sensors Department, the candidate will paticipate in various projects for the development of photonic computing, quantum photonics, or other photonic applications. This will include photonic circuit design, characterization, electro-optic integration, and verification of system functionalities. You will work closely with an excellent multidisciplinary team working on photonics, electronics, semiconductor process, integration, and fab operation.
+	- Design of photonic integrated circuits for advanced photonic applications, including but not limited to photonic computing, quantum photonics, etc.
+	- Development of optical testing platform for advanced photonic applications. This emphasizes on the application-specific testing with multi-channel in, multi-channel out.
+	- Development of electro-optic testing platform for advanced photonic applications. This focuses on the electro-optic integration and relevant high-speed control interface.
+	- Verification of electro-optic system functionalities. This emphasizes on the realization of targeted algorithm implemented on photonic integrated circuits, as well as data analysis, trouble-shooting and optimization.
+	- Preparation of technical presentations and papers for internal meetings, as well as conferences and journals.
+	- Collaborate with project team to ensure quality and on-time delivery for various projects. You will get a chance to expose to both industrial and academic projects.
+	- Performs other duties as assigned.
+	- PhD in Integrated Photonics, Microelectronics, Opto-electronics, Physics or equivalent.
+	- Experience in one or more topics listed below is strongly preferred: Photonic computing, quantum computing, LiDar, optical switch array, compute-in-memory.
+	- Hands-on experience in photonic simulation using various electrical / photonics design software.
+	- Hands-on experience in photonics and microelectronic testing at circuit level or above.
+	- Strong communication, industry awareness, and problem-solving skills.
+	- Strong self-motivation and interest in the next-generation photonics technology development.
 + skill set:
 	- BLAH.
 + skill set:
