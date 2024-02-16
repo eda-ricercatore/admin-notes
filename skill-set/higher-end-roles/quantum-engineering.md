@@ -534,6 +534,7 @@ Sets of skills in integrated photonic quantum computing:
 		* Experience with EDA software, PCB fabrication and assembly
 		* Experience designing mixed signal PCBs consisting of ADCs, DACs etc.
 		* Experience with nonlinear optics, product development, and chip-integrated photonics an asset
++ Knowledge of thin film lithium niobate, silicon nitride, or integrated photonics
 + skill set:
 	- BLAH.
 + skill set:

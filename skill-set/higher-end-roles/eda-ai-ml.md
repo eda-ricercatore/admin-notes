@@ -3025,6 +3025,10 @@ Notes about TCAD for process simulation:
 
 Sets of skills for process simulation TCAD are:
 + skill set:
+	- Component Simulation Engineer
+	- Familiar with GaN (or HV, PMIC), process.
+	- Familiar with HV/PMIC Reliability is a plus.
++ skill set:
 	- Senior Software Engineer · ASML · United States
 	- ASML is an innovation leader in the semiconductor industry. We provide chipmakers with everything they need – hardware, software, and services – to mass-produce patterns on silicon through lithography. Our lithography machines are a hybrid of high-tech hardware and advanced software
 	- Senior Software Engineer at ASML play a critical role in owning and driving the technical details of the projects that would ultimately drive customer satisfaction. We are looking for an experienced engineer and technical leader with strong analytical, design and development skills, technical depth, curiosity, enthusiasm, integrity and being results oriented. You will be a key member of our highly integrated multi-disciplinary matrixed team of software, systems, applications and algorithm engineers. If you have a desire to work collaboratively while solving tough problems across real full software stacks including hardware, firmware, OS, desktop applications and web applications, we want to hear from you.
@@ -5670,6 +5674,24 @@ Companies that have machine learning -centric products
 	- A track record of advancing the state-of-the-art in an application of deep learning (ideally a computer vision or imaging application ... but if you did speech-recognition or text-analysis, that's pretty good too)
 	- Published papers that either (a) are in top peer-reviewed conferences such as ***CVPR, NIPS, ECCV, ICCV, or ICML*** ... or ... (b) a ***significant (>100) number of citations on one of your deep learning research publications***
 	- ***The ability to design, implement, train and test models in one or more of the leading deep learning frameworks like PyTorch or TensorFlow.***
++ Machine Learning Researcher
+	- Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by machine learning and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities.
+	- As a Machine Learning Researcher, you can turn these complex data sets into useful information to solve global challenges. Across private and public sectors — from fraud detection, to cancer research, to national intelligence — you know the answers are in the data. You'll design and implement machine learning solutions for complex tasks on large datasets, including extracting insights from multiple disparate data sources and types, such as cyber, language, and vision. You'll perform research in machine learning, including adversarial machine learning, algorithmic fairness, and model interpretability. You'll write journal articles, present at academic conferences, and produce whitepapers and briefings to both technical and non-technical audiences. You'll serve as the client interface and maintain responsibility across the entire life cycle, including requirements gathering and analysis, process and systems definition, data analysis, presentation of analysis to clients in a format they can digest, and development of algorithm driven products and solutions.
+	- 3+ years of experience with programming in Python and C
+	- Experience with functional programming in OCaml
+	- Experience with machine learning, including Bayesian machine learning methods
+	- Knowledge of adversarial machine learning or differential privacy
+	- Knowledge of mathematics and statistics, including coursework in the theory of probability, statistical inference, algorithms, linear algebra, and calculus
+	- Ability to derive a variational inference procedure mathematically for a novel model and implement the inference procedure in a framework, including PyTorch or Numpy
+	- Ability to communicate results to both technical and non-technical audiences effectively
+	- Ability to obtain a security clearance
+	- Bachelor's degree in Computer Science, Statistics, Mathematics, Physics, Applied Mathematics, or Engineering
+	- Experience with application areas of machine learning, including computer vision, natural language processing, and learning on graphs
+	- Experience with Bayesian deep learning and Gaussian processes
+	- Experience with building complex data pipelines
+	- Experience with using GPUs for machine learning using frameworks, including PyTorch or TensorFlow
+	- Knowledge of cloud systems, including AWS, Azure, or GCP
+	- Ability to work independently on complex tasks
 + AI Research Scientist
 	- AI Research @ Autodesk
 	- As an AI Research Scientist at Autodesk Research, you will be doing fundamental and applied research that will help our customers imagine, design, and make a better world. We are a team of scientists, researchers, engineers, and designers working together on projects that range from learning-based design systems, computer vision, graphics, robotics, human-computer interaction, sustainability, simulation, manufacturing, architectural design and construction.
@@ -12464,6 +12486,26 @@ Use MLOps to support distributed machine learning, distributed ML.
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
 + In depth experience with Spark/Hadoop and either Theano/Tensorflow/Caffe/Torch.
++ MLOps engineering lead
+	- As an experienced MLOps engineer, you understand that machine learning is critical to processing and analyzing massive datasets. Your ability to build, deploy, and maintain ML infrastructure makes you an integral part of delivering robust AI solutions to answer challenging problems. We need your technical expertise and domain knowledge to support the development of generative AI and natural language platforms. As an MLOps engineer in support of strategic innovations, you’ll be implementing cutting-edge ML and DevOps technologies to accelerate our clients’ understanding of their data.
+	- You’ll collaborate with a large community of data scientists, software engineers, and DevOps engineers to deliver world-class solutions. Your advanced consulting skills and hands-on technical experience will guide clients as they navigate the constantly evolving landscape of various ML tools and frameworks. You will also be involved in shaping team direction and will work without considerable direction, including mentoring and supervising team members. Work with us to solve real-world challenges and define ML strategy for the client and beyond.
+	- 10+ years of experience with artificial intelligence, MLOps, DevOps, or data engineering, either in a research or professional role 
+	- Experience building and deploying containerized applications or microservices using Docker and Kubernetes 
+	- Experience deploying AI solutions built on frameworks, such as TensorFlow, PyTorch, or Transformers 
+	- Experience with CI/CD or DevOps frameworks, including Jenkins, GitHub Actions, and Argo CD
+	- Experience with cloud infrastructure provisioning or configuration frameworks, including CloudFormation, Terraform, Pulumi, and Ansible
+	- Experience with full-stack development
+	- Experience working in an Agile team 
+	- Knowledge of languages, such as Python, Java, TypeScript, JavaScript, and SQL 
+	- Experience with integrating DevSecOps practices and principles throughout the project life cycle 
+	- Experience writing technical documentation 
+	- Experience with testing and quality assurance  
+	- Experience with GPU-programming, including CUDA, RAPIDs, or similar  
+	- Knowledge of front-end frameworks, such as React, Angular, or Vue
+	- Knowledge of back-end and middleware services, such as NGINX, FastAPI, or Airflow
+	- Knowledge of AI concepts and tooling to support deep learning, machine learning, signal processing and natural language processing 
+	- CompTIA Security + Certification
+	- Master's degree in Computer Science, Statistics, or a related field  
 + skill set:
 	- Are you energized by building high-performance, scalable and reliable machine learning systems? Do you want to help define and build the next generation of AI platforms powering advanced NLP applications?  We are looking for Senior Software Engineers to join the Model Serving team at Cohere. The team is responsible for developing, deploying, and operating the AI platform delivering Cohere's large language models through easy to use API endpoints. In this role, you will work closely with many teams to deploy optimized NLP models to production in low latency, high throughput, and high availability environments. You will also get the opportunity to interface with customers and create customized deployments to meet their specific needs.
 	- We are looking for candidates with a range of experiences for multiple roles, from senior to staff-level engineers.

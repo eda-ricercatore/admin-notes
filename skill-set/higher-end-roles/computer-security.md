@@ -408,6 +408,11 @@ Roles in computing security:
 	- SIFT distribution, SIFT workstation - digital forensics and incident response distribution
 	- Volatility, open-source memory forensics framework for incident response and malware analysis
 	- eDiscovery, electronic discovery, e-discovery
++ GPEN, CCNP, CCIE, GWAPT, GNFA, GXPN, GREM, OSCP, OSCE, or a related Certification preferred
++ data brokering engineer
+	- Experience writing playbooks and scripts for automation tools including Terraform, Ansible or Puppet for Infrastructure as Code (IaC) and Configuration as Code (CaC)
+	- Knowledge of cybersecurity concepts, including threats, vulnerabilities, security operations, encryption, boundary defense, auditing, authentication and supply chain risk management
+	- DoD8570 IAT II Compliance Certification, such as Security+, CCNA Security, GSEC
 + skill set:
 	- Application systems, network architecture, multiple platforms and new technologies from a security perspective to include, but not limited to, Firewalls; Intrusion Detection/Protection Systems; Operating Systems (UNIX, Windows); Networking (switches, routers, protocols, etc.); Network Services and Security Vulnerabilities; Network Architecture; Remote Access; Multifactor Authentication; Platform Security (Application, Database, OS); Antivirus; Federated Identity Management; Cryptography; Active Directory; and high-level programming languages.
 	- System and network exploitation, attack pathologies and intrusion techniques (such as denial of service, sync attacks, malicious code, password cracking, etc).
@@ -480,6 +485,17 @@ Roles in computing security:
 		* reusable security automation frameworks
 	- build strong partnerships with security and engineering teams, with a customer-focused mindset
 	- extended application security or red teaming experience with basic coding skills
++ senior embedded software engineer
+	- 4+ years of experience with embedded platforms, including Linux, Unix, Android, or VxWorks
+	- Knowledge of Software System Requirements Analysis, Design, Development, Integration, or Testing
+	- Experience in development with Virtual Environment, including VMWare/ESXi, Open Stack, Open vSwitch, or QEMU
+	- Experience with Software Reverse Engineering or debugging tools, including IDAPro, OllyDbg, gdb, or Ghidra
+	- Experience with vulnerability analysis and exploit development
++ embedded software engineer, mid
+	- Experience in Configuration, administration, and development with Virtual Environments, including VMWare ESXi, Open Stack, Open vSwitch, or QEMU
+	- Experience with development on embedded platforms, including Linux, Unix, Android, or VxWorks
+	- Experience with Software Reverse Engineering or debugging tools, including IDAPro, OllyDbg, or gdb
+	- Experience with vulnerability analysis and exploit development
 + skill set:
 	- deep insight of common threat actor methodologies, OWASP Top10 vulnerabilities and MITRE ATT&CK
 	- experience in IT auditing and technical assessments of networks, operating systems, cloud environments
@@ -1108,7 +1124,27 @@ Roles in computing security:
 	- Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
 	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
-	- BLAH.
+	- Research Scientist
+	- Kudu Dynamics is a 100% employee-owned company, forged out of a decade of experience in computer network operations and staffed with talent who have built, overseen, and enhanced capabilities throughout the entire USG arsenal. Our team of hackers, engineers, makers, and shakers have experience spanning centuries of research, development, and operations missions - across desktop, mobile, IoT, and embedded platforms. Kudu Dynamics is uniquely qualified to anticipate tomorrow’s threats and build the next generation of capabilities.
+	- We are looking for a creative researcher to help discover and develop new and more efficient ways to find vulnerabilities in computer programs. You will work with a small team to develop software that analyzes binaries to find execution primitives that can be misused and chained together to form full exploits. You will be expected to perform novel research which advances the state of the art of static program analysis, as well as occasionally use dynamic analysis, such as fuzzing and symbolic execution. This tool is used by both external and internal customers, so your research will have immediate impact.
+	- A U.S. citizen with the ability to obtain and maintain a Top Secret clearance.
+	- Expert in some field of static program analysis, such as: type systems, abstract interpretation, model checking, flow analysis, etc.
+	- Able to read and understand academic papers
+	- Ability to engineer well-written, extensible software
+	- Strong communications skills including the ability to communicate both verbally and in writing
+	- Nice to Have Qualifications:
+	- Familiar with assembly language and low-level program execution
+	- Proficient with a static, functional programming language, such as: Haskell, OCaml, Idris, ML
+	- Proficient with a low-level language, such as: C/C++, Rust
+	- Experience with reverse engineering binaries using IDA Pro, Binary Ninja, Ghidra, etc
+	- Able to work in a small team to design new features and improvements
+	- Integrate new technologies into a system that spans multiple components
+	- Participate in all aspects of the development lifecycle: research, design, develop, test, SCM, code review, CI/CD, troubleshooting / support, and performance measurement.
+	- Equity at a company that is doing dynamic, fun, meaningful, and interesting work.
+	- A flexible work schedule, with the option to work remotely most days, if that’s your style.
+	- Your own yearly discretionary budget to buy the things that make you happy.
+	- In addition to highly competitive salaries, we offer premium healthcare options, 401k matching, and an annual pass to a swim in the bonus pool. We also offer four weeks of paid time off and 11 federal holidays to utilize whenever you want throughout the year.
+	- Awesome, enthusiastic co-workers and a company culture that promotes a jerk- free environment. Rattle the windows with the company band, participate in board game or movie nights, and help balance out the scotch vs. bourbon ratio in the office.
 + skill set:
 	- BLAH.
 + skill set:

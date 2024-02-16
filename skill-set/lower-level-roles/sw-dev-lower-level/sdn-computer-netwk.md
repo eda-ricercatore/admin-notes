@@ -103,6 +103,9 @@
 	- Experience with ***asynchronous I/O and coroutines***
 	- Experience with ***event driven service architecture***
 + Detailed theoretical and practical knowledge of operating system and network basics (i.e. a successful candidate should know how technical elements such as ***DNS, TCP/IP, or BGP work***, and will probably have managed their own Linux machines)
++ Knowledge of routing and switching protocols, including BGP, IS-IS, OSPF, MPLS, LDP, RSVP, VPLS, STP, or L3VPNs
+	- CCNA, CCNP, VMWare, JNCIA, or JNCP Certification
+	- Experience with Software Defined Wide Area Networks (SD-WAN)
 + WebRTC
 	- ***WebRTC (Web Real-Time Communication)*** is a free, open-source project that provides web browsers and mobile applications with ***real-time communication (RTC)*** via simple application programming interfaces (APIs).
 + skill set:

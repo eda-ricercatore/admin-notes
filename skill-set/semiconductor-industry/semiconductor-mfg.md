@@ -597,7 +597,14 @@ Semiconductor manufacturing companies to pay attention to:
 + Tower Semiconductor
 + Qorvo (formerly TriQuint Semiconductor)
 + Rohm (Lapis Semiconductor)
-
++ Systems on Silicon Manufacturing Company Pte. Ltd., SSMC
+	- Singapore
++ Vanguard International Semiconductor Corporation
+	- Hsinchu, Taiwan.
+		* Also has offices in:
+			+ Luzhu Dist, Taoyuan City,Taiwan
+			+ Singapore
+	- https://vis.applyourjobs.com/
 
 
 

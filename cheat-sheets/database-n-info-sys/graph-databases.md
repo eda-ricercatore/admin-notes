@@ -15,15 +15,24 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports GraphQL
 	- [Couchbase, Couchbase Server, originally known as Membase](https://en.wikipedia.org/wiki/Couchbase_Server)
 		* "source-available,[2] distributed (shared-nothing architecture) multi-model NoSQL document-oriented database software package optimized for interactive applications"
+		* https://www.couchbase.com/pricing/
 	- CouchDB
 		* ["open-source document-oriented NoSQL database"](https://en.wikipedia.org/wiki/Apache_CouchDB)
+		* [Apache CouchDB](https://couchdb.apache.org/)
+			+ Needs to set a password for [CouchDB admin](https://couchdb.apache.org/).
+			+ Did not provide opportunity to set up username for the account, and authentication for CouchDB admin failed as a result.
+		* https://courses.cs.washington.edu/courses/cse344/16wi/hw/hw5/hw5.html
+			+ https://courses.cs.washington.edu/courses/cse344/16wi/
+			+ Database Systems: The Complete Book, Hector Garcia-Molina, Jeffrey Ullman, Jennifer Widom
 	- IBM Db2
 		* graph database.
 	- MarkLogic
 		* graph database.
+		* https://www.marklogic.com/
 	- MongoDB
 		* Not graph database.
 		* source-available, cross-platform, document-oriented database program
+		* https://www.mongodb.com/pricing
 	- OrientDB
 		* Supports SQL.
 		* graph database.
@@ -32,9 +41,11 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports SPARQL
 		* RDF triple store
 		* https://en.wikipedia.org/wiki/AllegroGraph
+		* https://allegrograph.com/
 	- [ ] Amazon Neptune
 		* supports Gremlin
 		* supports SPARQL
+		* https://aws.amazon.com/neptune/
 	- [ ] Apache Giraph
 		* ["Apache project to perform graph processing on big data"](https://en.wikipedia.org/wiki/Apache_Giraph)
 		* [No longer actively developed](https://giraph.apache.org/)
@@ -67,13 +78,20 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 	- [ ] Azure Cosmos DB
 		* supports Gremlin
 		* ["globally distributed, multi-model database service"](https://en.wikipedia.org/wiki/Cosmos_DB)
+		* https://azure.microsoft.com/en-us/products/cosmos-db
+		* https://learn.microsoft.com/en-us/azure/cosmos-db/introduction
+		* https://cosmos.azure.com/
 	- [ ] DEX/Sparksee
 		* supports C++
 		* supports Java
 		* supports C#
 		* supports Python
+		* https://en.wikipedia.org/wiki/Sparksee_(graph_database)
+		* https://www.sparsity-technologies.com/pricing/
 	- [ ] FlockDB
 		* supports Scala
+		* https://github.com/twitter-archive/flockdb
+			+ deprecated/archived
 	- [ ] IBM Db2
 		* supports SPARQL
 		* RDF triple store added in DB2 10
@@ -87,6 +105,13 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
 			+ "Open source, scalable, distributed across a multi-machine cluster graph database under The Linux Foundation; supports various storage backends (Apache Cassandra, Apache HBase, Google Cloud Bigtable, Oracle Berkeley DB);[29] supports global graph data analytics, reporting, and extract, transform, load (ETL) through integration with big data platforms (Apache Spark, Apache Giraph, Apache Hadoop); supports geo, numeric range, and full-text search via external index storages (Elasticsearch, Apache Solr, Apache Lucene)."
 		* https://janusgraph.org/
+			+ data storage supported for:
+				- Apache Cassandra
+				- Apache HBase
+				- Google Cloud Bigtable
+				- Oracle BerkeleyDB
+				- ScyllaDB
+			+ https://github.com/JanusGraph/janusgraph
 	- [ ] MarkLogic
 		* supports Java
 		* supports JavaScript
@@ -94,6 +119,7 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* supports XQuery
 		* multi-model document database and RDF triple store
 		* ["enterprise NoSQL database"](https://en.wikipedia.org/wiki/MarkLogic)
+		* https://www.marklogic.com/
 	- [ ] NebulaGraph
 		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
 			+ "A scalable open-source distributed graph database for storing and handling billions of vertices and trillions of edges with milliseconds of latency. It is designed based on a shared-nothing distributed architecture for linear scalability."
@@ -118,6 +144,8 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* middleware and database engine hybrid
 		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
 			+ "Multi-model (Hybrid) relational database management system (RDBMS) that supports both SQL and SPARQL for declarative (Data Definition and Data Manipulation) operations on data modelled as SQL tables and/or RDF Graphs. Also supports indexing of RDF-Turtle, RDF-N-Triples, RDF-XML, JSON-LD, and mapping and generation of relations (SQL tables or RDF graphs) from numerous document types including CSV, XML, and JSON. May be deployed as a local or embedded instance (as used in the NEPOMUK Semantic Desktop), a one-instance network server, or a shared-nothing elastic-cluster multiple-instance networked server"
+		* https://virtuoso.openlinksw.com/
+		* https://shop.openlinksw.com/license_generator/virtuoso-download/
 	- [ ] Oracle
 		* SPARQL 1.1
 		* RDF triple store added in 11g
@@ -151,8 +179,10 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 	- [ ] TypeDB
 		* [open-source](https://en.wikipedia.org/wiki/Graph_database)
 			+ "TypeDB is a strongly-typed database with a rich and logical type system. TypeDB empowers you to tackle complex problems, and TypeQL is its query language. TypeDB allows you to model your domain based on logical and object-oriented principles. Composed of entity, relationship, and attribute types, as well as type hierarchies, roles, and rules, TypeDB allows you to think higher-level, as opposed to join-tables, columns, documents, vertices, edges, and properties."
+			+ https://typedb.com/
 	- [ ] [Virtuoso, Virtuoso Universal Server, OpenLink Virtuoso](https://en.wikipedia.org/wiki/Virtuoso_Universal_Server)
 		* "middleware and database engine hybrid that combines the functionality of a traditional relational database management system (RDBMS), object–relational database (ORDBMS), virtual database, RDF, XML, free-text, web application server and file server functionality in a single system"
+		* https://shop.openlinksw.com/license_generator/virtuoso-download/
 + substitutes for the deprecated *Apache Giraph*
 	- https://www.g2.com/products/apache-giraph/competitors/alternatives
 		* GraphDB
@@ -171,11 +201,19 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* DataStax
 		* ***Graph Engine, GE***
 			+ https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+			+ https://www.graphengine.io/
+				- https://www.nuget.org/packages/GraphEngine.Core/
+				- https://github.com/Microsoft/GraphEngine
 		* TIBCO Graph Database
 		* Neo4j
 		* ***Cayley***
 			+ https://www.predictiveanalyticstoday.com/top-free-graph-databases/
+			+ https://cayley.io/
+				- https://cayley.gitbook.io/cayley/
+				- https://cayley.gitbook.io/cayley/getting-started
 		* ***HyperGraphDB***
+			+ http://www.hypergraphdb.org/
+				- http://www.hypergraphdb.org/?project=hypergraphdb&page=Downloads
 		* OrigoDB
 			+ commercial
 		* ***Titan***
@@ -187,7 +225,7 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* Oracle Spatial and Graph
 		* InfiniteGraph
 		* Graph Story
-			- commercial
+			+ commercial
 		* FlockDB
 		* Memgraph
 		* RelationalAI
@@ -208,17 +246,17 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* Redis
 		* TerminusDB
 		* Graphlytic
-			- commercial
+			+ commercial
 		* GraphDB
 		* Fluree
 		* RecallGraph
 		* VelocityDB
-			- commercial
+			+ commercial
 		* Apache Cassandra
 		* Fauna
 		* Blazegraph
 		* data.world
-			- commercial
+			+ commercial
 		* GUN
 		* Apache Spark
 		* Apache Mahout
@@ -239,10 +277,330 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
 	- [ ] Filament
 		* https://www.predictiveanalyticstoday.com/top-free-graph-databases/
-
 	- [ ] DataStax Astra DB
 	- [ ] Elastic
 	- [ ] Pinecone
+	- [G.V()](https://gdotv.com/)
+	- [Tom Sawyer Graph Database Browser](https://www.tomsawyer.com/graph-database-browser)
++ From ***Databases of Databases***:
+	- https://dbdb.io/browse?os=os-x&type=academic&type=educational&type=hobby&type=industrial-research&type=open-source&data-model=graph&data-model=network&q=
+	- support for characteristics
+		* Abandoned Project
+		* Acquired Company
+		* Blockchain
+		* Cache
+		* Failed Company
+		* Immutable
+		* Middleware
+		* Mobile
+		* Nearest Neighbor Search
+		* NewSQL
+		* NoSQL
+		* OLAP
+		* OLTP
+		* Peer-to-Peer
+		* Search Engine
+		* Serverless
+		* Streaming
+		* Time-Series
+		* Versioning
+		* Web Browser
+	- support for Project Types
+		* Academic
+		* Commercial
+		* Educational
+		* Hobby
+		* Industrial Research
+		* Internal / Non-Public
+		* Open Source
+	- support for Licenses
+		* AGPL v3
+		* Apache v2
+		* Boost Software License
+		* BSD
+		* Business Source License
+		* Code Project Open License
+		* Commons Clause License
+		* Creative Commons License
+		* Eclipse Public License
+		* Elastic License v2
+		* Fair Source License
+		* GPL v2
+		* GPL v3
+		* ISC License
+		* LGPL v2
+		* LGPL v3
+		* Microsoft Reference Source License
+		* MIT
+		* Mozilla Public License
+		* Mulan PubL v2
+		* OpenLDAP Public License
+		* Open Software License 3.0
+		* Parity Public License
+		* PostgreSQL License
+		* Proprietary
+		* Public Domain
+		* Python License
+		* Server Side Public License
+		* VoltDB Proprietary License
+		* Zope Public Licenses
+	- support for checkpoints:
+		* blocking
+		* consistent
+		* fuzzy
+		* non-blocking
+		* not supported
+	- support for compression:
+		* bitmap encoding
+		* bit packing / mostly encoding
+		* delta encoding
+		* dictionary encoding
+		* incremental encoding
+		* naive (page-level)
+		* naive (record-level)
+		* null suppression
+		* prefix compression
+		* run-lenth encoding
+	- support for concurrency control:
+		* deterministic concurrency control
+		* multi-version concurrency control (MVCC)
+		* not supported
+		* optimistic concurrency control (OCC)
+		* timestamp ordering
+		* two-phase locking (deadlock detection)
+		* two-phase locking (deadlock prevention)
+	- support for data model
+		* array / matrix
+		* column family / wide-column
+		* document / XML
+		* entity-attribute-value
+		* entity-relationship
+		* graph
+		* hierarchical
+		* key/value
+		* multi-value
+		* network
+		* object-oriented
+		* object-relational
+		* relational
+		* triplestore / RDF
+		* vector
+	- support for Fault Tolerance
+		* Asynchronous Replication
+		* Conflict Resolution
+		* Quorum-based Replication
+		* Read Repair
+		* Synchronous Replication
+	- support for foreign keys
+	- support for Hardware Acceleration
+		* Custom
+		* FPGA
+		* GPU
+		* RDMA
+	- support for Indexes
+		* Adaptive Radix Tree (ART)
+		* AVL-Tree
+		* B-epsilon Tree
+		* BitMap
+		* Block Range Index (BRIN)
+		* B+Tree
+		* Bw-Tree
+		* Hash Table
+		* Hierarchical Navigable Small World (HNSW)
+		* Inverted Index (Full Text)
+		* K-D Tree
+		* Log-Structured Merge Tree
+		* MassTree
+		* Not Supported
+		* Patricia/Radix Trie
+		* Red-Black Tree
+		* R-Tree
+		* Skip List
+		* T-Tree
+	- support for Isolation Levels
+		* Cursor Stability
+		* Not Supported
+		* Read Committed
+		* Read Stability
+		* Read Uncommitted
+		* Repeatable Read
+		* Serializable
+		* Snapshot Isolation
+	- support for Joins
+		* Broadcast Join
+		* Hash Join
+		* Index Nested Loop Join
+		* Nested Loop Join
+		* Not Supported
+		* Semi Join
+		* Shuffle Join
+		* Sort-Merge Join
+		* Worst-Case Optimal Join
+	- support for Logging
+		* Command Logging
+		* Logical Logging
+		* Not Supported
+		* Physical Logging
+		* Physiological Logging
+		* Shadow Paging
+	- support for Parallel Execution
+		* Bushy
+		* Inter-Operator (Vertical)
+		* Intra-Operator (Horizontal)
+	- support for Query Compilation
+		* Code Generation
+		* JIT Compilation
+		* Not Supported
+		* Stored Procedure Compilation
+	- support for Query Execution
+		* Materialized Model
+		* Tuple-at-a-Time Model
+		* Vectorized Model
+	- support for Query Interface
+		* Command-line / Shell
+		* Custom API
+		* Cypher
+		* Datalog
+		* GraphQL
+		* Gremlin
+		* HTTP / REST
+		* PartiQL
+		* PL/SQL
+		* PromQL
+		* QUEL
+		* RDFS++
+		* RPC
+		* SPARQL
+		* SQL
+		* Stored Procedures
+		* XPath
+		* XQuery
+	- support for Storage Architecture
+		* Disk-oriented
+		* Hybrid
+		* In-Memory
+	- support for Storage Format
+		* Apache Arrow
+		* Apache Avro
+		* Apache CarbonData
+		* Apache Hudi
+		* Apache Iceberg
+		* Apache ORC
+		* Apache Parquet
+		* CSV
+		* Custom
+		* DataFrame
+		* HDF5
+		* N-Triples
+		* RCFile
+		* SequenceFile
+		* Trevni
+	- support for Storage Model
+		* Custom
+		* Decomposition Storage Model (Columnar)
+		* Hybrid
+		* N-ary Storage Model (Row/Record)
+	- support for Storage Organization
+		* Copy-on-Write / Shadow Paging
+		* Heaps
+		* Indexed Sequential Access Method (ISAM)
+		* Log-structured
+		* Sorted Files
+	- support for stored procedures
+	- support for System Architecture
+		* Embedded
+		* Shared-Disk
+		* Shared-Everything
+		* Shared-Memory
+		* Shared-Nothing
+	- support for User-Defined Functions
+		* Custom Language
+		* Java
+		* Javascript
+		* Perl
+		* PHP
+		* PL/SQL
+		* Python
+		* R
+		* Ruby
+		* Rust
+		* TCL
+		* T-SQL
+	- support for Views
+		* Materialized Views
+		* Not Supported
+		* Virtual Views
+	- results are:
+		* https://dbdb.io/db/agensgraph
+			+ AgensGraph
+			+ https://bitnine.net/agensgraph-downloads/
+			+ https://bitnine.net/agensgraph/?ckattempt=1
+			+ https://github.com/bitnine-oss/agensgraph
+			+ "./configure --prefix=$(pwd)" fails to generate Makefiles.
+			+ '/opt/local/lib/libintl.8.dylib' (mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'))
+			+ additional resources:
+				- https://bitnine.net/documentations/manual/operation/english/agens_graph_operation_manual_html.html?ckattempt=1
+				- https://bitnine.net/documentations/manual/developer/english/agens_graph_developer_manual_html.html
+				- https://bitnine.net/documentation/
+					* https://bitnine.net/documentations/manual/quick_guide/agens_graph_quick_guide_html.html
+				- https://github.com/bitnine-oss/agensgraph
+				- https://github.com/bitnine-oss
+				- https://github.com/bitnine-oss/agensgraph
+		* https://dbdb.io/db/arangodb
+			+ ArangoDB
+		* https://dbdb.io/db/blazegraph
+			+ Blazegraph
+			+ https://github.com/blazegraph/database
+			+ https://blazegraph.com/
+			+ https://github.com/blazegraph/database/releases/tag/BLAZEGRAPH_2_1_6_RC
+		* https://dbdb.io/db/dgraph
+			+ Dgraph
+			+ https://dgraph.io/
+		* https://dbdb.io/db/hypergraphdb
+			+ HyperGraphDB
+			+ https://github.com/hypergraphdb/hypergraphdb
+			+ http://www.hypergraphdb.org/?project=hypergraphdb&page=Downloads
+		* https://dbdb.io/db/polypheny
+			+ Polypheny
+			+ https://docs.polypheny.com/en/latest/getting_started/setup/install#binaries
+			+ https://github.com/polypheny/Polypheny-DB/releases/tag/v0.9.1
+			+ https://github.com/polypheny/Polypheny-DB
+			+ After clicking on the executable binary, it launches on a tab in a Web browser.
+				- http://localhost:8080/#/views/monitoring
+				- can create app at:
+					* http://localhost:8080/#/views/schema-editing/
+				- manage data at:
+					* http://localhost:8080/#/views/data-table/
+					* http://localhost:8080/#/views/data-table/bigotnetwork
+			+ ***Annoying to edit/manage.***
+		* https://dbdb.io/db/sparksee
+			+ https://www.sparsity-technologies.com/#sparksee
+			+ https://www.sparsity-technologies.com/form-academia/
+			+ https://www.sparsity-technologies.com/UserManual/
+			+ https://www.sparsity-technologies.com/wp-content/uploads/2021/05/UserManual.pdf
+			+ Python, or C++
+			+ macOS, Linux
+		* https://dbdb.io/db/surrealdb
+			+ SurrealDB is a multi-model DBMS that supports embedded and shared-nothing deployments. It uses a hybrid data model that combines documents with explicit graph edge relationships.
+		* https://dbdb.io/db/typedb
+			+ TypeDB is a strongly-typed database with a rich and logical type system. TypeDB empowers you to tackle complex problems, and TypeQL is its query language.
+			+ https://github.com/vaticle/typedb
+				- Vaticle: TypeDB
+				- TypeDB: the polymorphic database powered by types
+			+ https://typedb.com/lectures/typedb-polymorphic-database
+				- polymorphic database
+				- "There are three fundamental forms of polymorphism in computer science: inheritance polymorphism, interface polymorphism, and parametric polymorphism. In order to be fully polymorphic, a database must implement all three kinds. It must be able to interpret queries about a given type, that operate on instances of that type and all its subtypes. It must be able to interpret queries about a given interface type, that operate on instances of all types that implement it. And it must be able to interpret queries about parametrized types, that operate on instances of all types supplied as parameters."
+				- Vaticle Ltd.: London, U.K..
+			+ https://github.com/topics/polymorphic?o=desc&s=updated
+	- https://dbdb.io/db/kyoto-cabinet
+		* Kyoto Cabinet
+
+
+
+
+
+
+
 
 
 
@@ -287,6 +645,13 @@ Graph database visualization:
 	- [ ] Data visualization tools for Neo4j graph databases.
 		* Neo4j Browser (development tool)
 		* Neo4j Bloom (exploration and analysis tool)
+	- [Graphexp](https://github.com/bricaud/graphexp)
+		* Gremlin server, or Apache TinkerPop™
+			+ https://tinkerpop.apache.org/
+			+ Gremlify:
+				- https://tinkerpop.apache.org/
+				- https://github.com/gremlify/gremlify
+				- https://gremlify.com/
 	- [ ] Graphileon (reporting tool)
 		* dashboard development environment
 	- [ ] Graphistry (analysis tool)
@@ -294,6 +659,7 @@ Graph database visualization:
 	- [ ] GraphXR
 	- [ ] Hume
 		* GraphAware Hume (exploration and analysis tool)
+	- [Invana Studio](https://github.com/invana/invana-studio?tab=readme-ov-file)
 	- [ ] Keylines (development tool)
 		* From Cambridge Intelligence
 	- [ ] Kineviz
@@ -308,6 +674,8 @@ Graph database visualization:
 			+ wrapper for Vis.js
 	- [ ] Perspectives
 		* Tom Sawyer's Perspectives (exploration and analysis tool)
+	- [PuppyQuery](https://puppygraph.com/)
+		* https://docs.puppygraph.com/user-manual/docker-deployment
 	- [ ] popoto.js (development tool)
 		* ***Check this out!!!***
 	- [ ] SamSpect

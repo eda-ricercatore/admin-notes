@@ -592,7 +592,8 @@ Sets of skills for embedded software development roles:
 	- Communication skills, ability to work independently and in a team
 	- German and english language skills
 + skill set:
-	- BLAH.
+	- Experience with the creation of Linux packages, including OpenWrt, LEDE, and RPM packages for Fedora and Red Hat
+	- 2+ years of experience with embedded software languages and products, including Java, JavaScript, Python, Reverse Engineering, Embedded Platforms, Android iOS, Swift, Wind River VxWorks, IDA Pro, OllyDbg, or Gdb Debugger
 + skill set:
 	- BLAH.
 + skill set:

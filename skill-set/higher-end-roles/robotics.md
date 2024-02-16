@@ -991,42 +991,23 @@ Other car companies:
 
 
 Car companies that manufacture electric cars or autonomous cars:
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
++ Apple Inc.
++ ***Cruise LLC***
++ ***Waymo LLC***
++ ***Zoox Inc***
++ ***Nuro Inc***
++ Mercedes Benz Research & Development North America, Inc
++ AImotive Inc.
++ Weride Corp
++ Autox Technologies, Inc
++ Didi Research America
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 
 
 

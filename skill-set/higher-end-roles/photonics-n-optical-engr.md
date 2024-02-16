@@ -156,6 +156,7 @@ Generic sets of skills in photonics engineering:
 
 
 Sets of skills in photonic IC design or optoelectronics:
++ ***integrated photonics***
 + skill set:
 	- Photonics Engineer
 	- QuEra Computing is at the forefront of quantum computing technology, and we're looking for highly motivated and experienced Photonics Engineers to join our team. As a key member of our R&D team, you'll have the opportunity to work on cutting-edge projects and make a significant impact on the development of our technology. 

@@ -835,8 +835,11 @@ List(s) of companies in the semiconductor industry:
 
 Interesting start-ups and other companies in the semiconductor industry:
 + Blueshift Memory: https://www.blueshiftmemory.com/
-
-
++ Tenstorrent
++ Ventana Micro???, Ventana Microsystems
+	- Seems to be the same as Ventana Systems, or Ventana
++ Ventana Systems, or Ventana
+	- "What strikes me about this bullet list is that it’s built for high-performance, RAS (Reliability, Serviceability. Availability) and security. Higher levels of RAS and security are required in the datacenter, the datacenter edge, carrier use cases, and in the software-defined vehicle."
 
 
 
