@@ -603,6 +603,12 @@ Information about [NoSQL](https://en.wikipedia.org/wiki/NoSQL):
 
 
 
++ additional database management systems, and frameworks for developing database management systems
+	- Apache Calcite
+		* "Apache Calcite is an open source framework for building databases and data management systems. It includes a SQL parser, an API for building expressions in relational algebra, and a query planning engine. As a framework, Calcite does not store its own data or metadata, but instead allows external data and metadata to be accessed by means of plug-ins."
+
+
+
 
 
 

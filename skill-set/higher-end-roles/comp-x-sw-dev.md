@@ -1839,7 +1839,28 @@ Skill set for software development for distributed programming (or distributed c
 	- Love figuring out how systems work and continuously come up with ideas for how to make them faster while minimizing complexity and maintenance burden
 	- Have strong software engineering skills and are proficient in Python and Rust
 	- Annual Salary Range: $245,000—$385,000 USD
-
++ Senior C++/GPU Software Engineer / Team Lead (EMEA - Remote)
+	- When it comes to enterprise applications, microseconds matter. And when organizations need extreme speed and scale, they turn to GridGain Systems. GridGain is the company behind Apache Ignite, a TOP-5 Apache SF project, the open-source distributed database and computing platform which is used by companies all over the world for fast and fault-tolerant access to their data. Based on Apache Ignite, GridGain develops an extended GridGain In-memory Computing Platform, packed with mission critical features such as advanced security, disaster recovery and rolling upgrades that JPMorgan Chase, ING, Citi, UPS, American Airlines, DreamWorks, CMA CGM, IBM, VMware, Microsoft, United Healthcare, and others rely on for application speed, scale and availability.
+	- GridGain is growing. So, now's the time to join the company that, in 2021, was recognized among Silicon Valley Business Journal Fastest Growing Private Companies, the Deloitte Technology Fast 500, and the Inc. 5000.
+	- As the modern CPUs and GPUs keep evolving, modern databases can take advantage of the massively parallel processing capabilities provided by both of them. As a database engineer you will design and write the code at the very heart of a distributed database rethinking the way Ignite executes SQL queries and exploiting massive parallelization as well as other CPU/GPU capabilities to dramatically speed the system up.
+	- Design and develop enhancements for query execution runtime: do research, check ideas, design and code query engine optimizations for GPU execution.
+	- ***Develop enhancements for distributed SQL engine based on Apache Calcite™ for both Apache Ignite™ and GridGain™: implement new planner optimization rules, update cost function ro reflect GPU execution features, enhance query code generation.***
+	- ***Contribute to data storage format and transactional protocol development to enable native GPU support and minimize data transformation for GPU memory transfer.***
+	- ***Influence the development of open source Apache Ignite project.***
+	- Mostly write C/C++, but also contribute to the Java part of the project (no prior Java experience is required).
+	- As we make progress, build and lead the team to further exploit the GPU capabilities.
+	- ***Hands-on experience with GPU development (CUDA or OpenCL)***
+	- ***Hands-on experience with vectorized CPU execution (SIMD, SSE, AVX)***
+	- Understanding of query execution pipeline (query planning and execution)
+	- Experience with concurrent programming
+	- 5+ years experience as a Software Engineer
+	- ***Eager to read (in English), understand and present to the team cutting-edge academia field results (SIGMOD, VLDB, etc.)***
+	- ***Experience with building distributed systems/algorithms, experience with distributed/NoSQL/NewSQL databases***
+	- Experience with ClickHouse or RocksDB
+	- Experience building database query execution pipelines
+	- Experience building database storage engines
+	- Experience with Ignite/GridGain
+	- ***Experience with Docker, Kubernetes and/or public Cloud (AWS, GCE, Azure, etc.)***
 
 
 
