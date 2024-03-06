@@ -89,6 +89,30 @@ Skill set for DevOps:
 	- Heroku is a cloud platform as a service supporting several programming languages.
 + Working knowledge of industry leading configuration management tools and methods (Salt, Ansible, Chef, Puppet, etc)
 + skill set:
+	- Software Engineer III, HPP
+	- With more than 40 million users, Anaconda is the world’s most popular data science platform and the foundation of modern AI development. We pioneered the use of Python for data science, championed its vibrant community, and continue to steward open-source projects that make tomorrow’s innovations possible. Our enterprise-grade solutions enable corporate, research, and academic institutions around the world to harness the power of open source for competitive advantage, groundbreaking research, and a better world.
+	- Anaconda is seeking people who want to be at the center of Artificial Intelligence. Candidates should be knowledgeable and capable, but always eager to learn more and to teach others. 
+	- Here is why people love most about working here: We’re not just a company, we’re part of a movement. Our dedicated employees and user community are democratizing data science and creating and promoting open-source technologies for a better world, and our commercial offerings make it possible for enterprise users to leverage the most innovative output from open source in a secure, governed way.
+	- Anaconda is seeking a talented Software Engineer III to join our High Performance Python team. This is an excellent opportunity for you to leverage your experience and skills and apply it to the world of data science and machine learning.
+	- Build and maintain an automated system for running Python benchmarks on a variety of platforms.
+	- Interacting with IT to provision and monitor benchmarking resources in the cloud or on-premise.
+	- Building data analysis pipelines to process performance data and share it with stakeholders.
+	- Write Python-based tools to setup benchmark environments, run benchmarks, and gather / analyze results
+	- Python development and packaging experience
+	- CI/CD experience
+	- Devops tools, such as Terraform
+	- Some data engineering tool experience: Examples include dbt, Airflow, Prefect
+	- Team attitude: “I am not done, until WE are done”
+	- Embody our core values:  
+		* Great People
+		* Great Product
+		* Great Performance
+	- Care deeply about fostering an environment where people of all backgrounds and experiences can flourish 
+	- Experience with high-performance computing and program optimization
+	- Knowledge of Python internals
+	- Experience creating compiled Python extensions
+	- Experience with GPU computing
++ skill set:
 	- Knowledge or hands-on experience in Container technologies such as Docker is a plus.
 	- Knowledge of Virtual machines, Hypervisors is a plus
 + skill set:

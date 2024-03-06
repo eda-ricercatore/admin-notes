@@ -5832,6 +5832,24 @@ Journals in signal processing and communication/information theory:
 
 
 
+
+Additional Journals of Interest:
++ https://www.ieeecss.org/publication/transactions-control-network-systems
+	- The IEEE Transactions on Control of Network Systems is committed to the timely publication of high-impact papers at the intersection of control systems and network science. In particular, the journal addresses research on decision and control systems characterized by a ***distributed or networked architecture***, spanning modeling, analysis, estimation, design, and implementation, with an emphasis on analytical foundations. Topics covered by this journal include ***collaborative control, distributed learning, multi-agent systems, distributed optimization, control of collective behavior, distributed estimation, dynamical systems over graphs, coevolutionary networks, synchronization, large-scale complex systems, and control with communication constraints***. Application areas relevant to ***control of network systems include smart infrastructure, multi-robot systems and swarm robotics, systems biology, smart health, computing, communications, transportation, manufacturing, power systems, sensor networks, social networks, and cyber-physical social systems***.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #	Benchmarks and Data Sets
 
 + [SPEC CUP2017 benchmarks](https://webdocs.cs.ualberta.ca/~amaral/AlbertaWorkloadsForSPECCPU2017/benchmarks/index.html)
