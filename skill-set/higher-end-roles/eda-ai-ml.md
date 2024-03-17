@@ -4861,6 +4861,8 @@ Skill sets for application engineers of different EDA products:
 		* OpenVINO
 		* ***NVIDIA TensorRT***, or ***TensorRT***
 		* edge inference frameworks:
+			+ [***Lightning, or Lightning AI***](https://lightning.ai)
+				- Or, ***PyTorch Lightning***
 			+ ***PyTorch Mobile***
 			+ ***Tensorflow Lite, TFLite***
 				- ***TensorFlow Lite Micro***
@@ -4886,8 +4888,6 @@ Skill sets for application engineers of different EDA products:
 			+ TNN
 			+ TVM
 			+ XLA
-	- [***Lightning, or Lightning AI***](https://lightning.ai)
-		* Or, ***PyTorch Lightning***
 	- Chainer/ChainerMN
 	- ***ML.NET***
 		* Microsoft Cognitive Toolkit, CNTK, The Microsoft Cognitive Toolkit (deprecated)
@@ -6646,13 +6646,14 @@ Companies that have machine learning -centric products
 + ***Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems***
 + Experience implementing ***production-ready machine learning solutions*** is a plus
 + semi-supervised learning
-+ Knowledge of Apache Spark
-+ Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.
-+ Experience with distributed analytic processing technologies (Hive, Pig, Presto, Spark)
-+ Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.
++ Knowledge of ***Apache Spark***
++ Experience with ML frameworks such as ***PyTorch, MxNET, Tensorflow***, etc.
++ Experience with ***distributed analytic processing technologies (Hive, Pig, Presto, Spark)***
++ Machine Learning: build systems and processes that apply ***ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction***, etc.
 + Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
-+ Lifelong-DNNTM (L-DNN) technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
-+ Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
++ ***Lifelong-DNNTM (L-DNN)*** technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
++ Excellent understanding of machine learning techniques and algorithms, such as ***k-NN, Naive Bayes, SVM, Decision Forests***, etc.
++ Proficiency with one or more of the following packages: ***HuggingFace, Fastai, scikit-learn, XGBoost, LightGBM, Ray***
 + You have strong coding skills in several of the following languages/libraries: ***Python, NumPy, TensorFlow, PyTorch***.
 + skill set:
 	- Experience with advanced ML models and concepts: ***HMMs, CRFs, MRFs, deep learning, regularization*** etc.
@@ -6667,40 +6668,40 @@ Companies that have machine learning -centric products
 + tech stack:
 	- Python (***numpy, pandas, scikit-learn, tensorflow, keras***)
 	- Google Cloud Platform
-	- Machine Learning (e.g. regression, ensemble methods, deep learning, etc.)
-	- Statistics (Bayesian methods, experimental design, causal inference)
-	- Tableau, Looker
-	- Snowflake (SQL)
+	- ***Machine Learning (e.g. regression, ensemble methods, deep learning, etc.)***
+	- ***Statistics (Bayesian methods, experimental design, causal inference)***
+	- ***Tableau, Looker***
+	- ***Snowflake (SQL)***
 + skill set:
-	- extensive experience in deep learning, classifiers, clustering algorithms, and anomaly detection
-	- highly scalable security tools for exploit and bot detection
-	- ML security projects
-	- large-scale ML systems
+	- extensive experience in ***deep learning, classifiers, clustering algorithms, and anomaly detection***
+	- ***highly scalable security tools for exploit and bot detection***
+	- ***ML security projects***
+	- ***large-scale ML systems***
 + skill set:
-	- Technologies : AWS Batch,  Spark, Hive, EMR, Presto, Docker, Jenkins, Bitbucket
-	- Databases: RDS MySQL, Redshift
-	- Machine Learning: Distributed TensorFlow, Keras, PyTorch, Caffe2, scikit-learn, Apache MxNet, SageMaker
-	- Developing DAOs (data access objects) and APIs
-	- Extensive practical experience using a wide range of AWS technologies, including: S3, EC2s, Lambda, Step Functions, Glue, EMR, API Gateway
+	- Technologies : ***AWS Batch,  Spark, Hive, EMR, Presto, Docker, Jenkins, Bitbucket***
+	- Databases: ***RDS MySQL, Redshift***
+	- Machine Learning: ***Distributed TensorFlow, Keras, PyTorch, Caffe2, scikit-learn, Apache MxNet, SageMaker***
+	- ***Developing DAOs (data access objects) and APIs***
+	- Extensive practical experience using a wide range of ***AWS technologies, including: S3, EC2s, Lambda, Step Functions, Glue, EMR, API Gateway***
 + skill set:
-	- Experience working with modern deep learning software architecture and frameworks including: Tensorflow, Pytorch, ONNX, MxNet, Caffe/Caffe2, and/or Torch;
-	- Experience working with modern deep learning models including: Resnet, Mask-RCNN, RNN/LSMT, Bert, Transformer etc
+	- Experience working with modern deep learning software architecture and frameworks including: ***Tensorflow, Pytorch, ONNX, MxNet, Caffe/Caffe2, and/or Torch***;
+	- Experience working with modern deep learning models including: ***Resnet, Mask-RCNN, RNN/LSMT, Bert, Transformer*** etc
 + skill set:
-	- Java, mahout, Hadoop
-	- Scala, Spark, SparkML
-	- Spark with Python, numpy and pandas
+	- ***Java, mahout, Hadoop***
+	- ***Scala, Spark, SparkML***
+	- Spark with ***Python, numpy and pandas***
 + Experience in one application field (***Image processing, ADAS, FinTech, CyberSecurity***)
-	- ADAS: advanced driver-assistance system
-+ Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc) for the development of maintained components. Additional experience using PySpark a big plus.
+	- ***ADAS: advanced driver-assistance system***
++ Advanced level programming skills in Python, ideally developed from experience working on long-term commercial projects, including significant experience using ***SciPy and machine-learning packages (Numpy, Pandas, scikit-learn, etc)*** for the development of maintained components. Additional experience using PySpark a big plus.
 + skill set:
 	- Design and implement high-performance libraries/APIs for machine learning and statistical techniques.
 	- Experience with streaming and event-based programming
 	- Experience with continuous integration and deployment workflows
 + skill set:
-	- Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA.
-	- Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet.
-	- Common DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM.
-	- Compilers such as TVM, Glow, Halide, CLANG, LLVM, and GCC.
+	- ***Machine learning accelerators such as OpenTPU, NVDLA, Eyeriss, and VTA***.
+	- ***Machine learning frameworks such as TensorFlow, PyTorch, Caffe2, Keras, and MXNet***.
+	- Common ***DNN models such as AlexNet, ResNet50, Inception, YOLO, RNN, and LSTM***.
+	- ***Compilers such as TVM, Glow, Halide, CLANG, LLVM, and GCC***.
 + Design services for performant application of machine-learned models
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
 + Experience in GPU/CUDA/TensorRT
@@ -8548,7 +8549,7 @@ Companies that have machine learning -centric products
 	- Experience in dealing with large scale AI problems, ideally in the generative-AI field. 
 	- Demonstrated expertise in large vision-language models for diverse real-world applications, e.g. classification, detection, question-answering, etc. 
 	- Published research in areas of machine learning at major conferences (***NeurIPS, ICML, EMNLP, CVPR***, etc.) and/or journals. 
-	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
+	- Strong high-level programming skills (e.g., Python), frameworks and tools such as ***DeepSpeed, Pytorch lightning, kuberflow, TensorFlow***, etc. 
 	- Strong written and verbal communication skills to operate in a cross functional team environment. 
 	- The base salary range for this full-time position in our hub locations of San Francisco, New York, or Seattle, is $176,000 - $240,960. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. You'll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
 + skill set:
@@ -9442,7 +9443,7 @@ Companies that have machine learning -centric products
 	- Experience in dealing with large scale AI problems, ideally in the generative-AI field
 	- Demonstrated expertise in large vision-language models for diverse real-world applications, e.g. classification, detection, question-answering, etc. 
 	- Published research in areas of machine learning at major conferences (***NeurIPS, ICML, EMNLP, CVPR***, etc.) and/or journals
-	- Strong high-level programming skills (e.g., Python), frameworks and tools such as DeepSpeed, Pytorch lightning, kuberflow, TensorFlow, etc. 
+	- Strong high-level programming skills (e.g., Python), frameworks and tools such as ***DeepSpeed, Pytorch lightning, kuberflow, TensorFlow***, etc. 
 	- Strong written and verbal communication skills to operate in a cross functional team environment
 + skill set:
 	- Stability AI is a community and mission driven, open-source artificial intelligence company that cares deeply about real-world implications and applications. Our most considerable advances grow from our diversity in working across multiple teams and disciplines. We are unafraid to go against established norms and explore creativity. We are motivated to generate breakthrough ideas and convert them into tangible solutions. Our vibrant communities consist of experts, leaders and partners across the globe who are developing cutting-edge open AI models for Image, Language, Audio, Video, 3D and Biology.
@@ -12505,7 +12506,27 @@ Use MLOps to support distributed machine learning, distributed ML.
 	- Knowledge of back-end and middleware services, such as NGINX, FastAPI, or Airflow
 	- Knowledge of AI concepts and tooling to support deep learning, machine learning, signal processing and natural language processing 
 	- CompTIA Security + Certification
-	- Master's degree in Computer Science, Statistics, or a related field  
+	- Master's degree in Computer Science, Statistics, or a related field
++ skill set:
+	- Senior Software Engineer, ML Workflows (Remote)
+	- At Weights & Biases, our mission is to build the best developer tools for machine learning. Weights & Biases is a series C company with $250 million in funding and a rapidly growing user base. Our platform is an essential piece of the daily work for machine learning engineers, from academic research institutions like FAIR and UC Berkeley to massive enterprise teams including iRobot, OpenAI, Toyota Research Institute, Samsung, NVIDIA, Salesforce, Blue Cross Blue Shield, Lyft, and more.
+	- We are hiring a software engineer for the Machine Learning Workflows team to build an end-to-end platform for current and future ML workloads.
+	- In this role, you will own building new products that connect various stages of the machine learning lifecycle. You will have the opportunity to work directly with state-of-the-art ML organizations and ship features that will be used in cutting-edge research. You will be expected to tackle some key problems in ML operations today such as dataset management, model governance, and compute orchestration.
+	- Design and build new products that reshape how ML engineers interact with their datasets and models
+	- Scale APIs and systems to support enterprise-level ML workloads and datasets
+	- Implement automation to assist ML engineers in finding optimal hyperparameters or run an inference job when training is finished
+	- Focus on our end users and listen to customer feedback in order to deliver value
+	- Keep up with the latest trends in the ML world and leverage existing tools and frameworks whenever necessary
+	- Ability to synthesize complex requirements into concrete features and milestones
+	- Strong software engineering fundamentals and knowledge of at least 1 modern programming language (Go, Python, Typescript, etc)
+	- Experience in building ML or data systems (Kubeflow, TFX, MLFlow)
+	- Basic understanding of ML algorithms or familiarity with some ML framework (PyTorch, Tensorflow, HuggingFace, LangChain)
+	- Experience with cloud platforms and technologies (AWS, GCP, Kubernetes, etc)
+	- Ability to synthesize complex requirements into concrete features and milestones
+	- Strong software engineering fundamentals and knowledge of at least 1 modern programming language (Go, Python, Typescript, etc)
+	- Experience in building ML or data systems (Kubeflow, TFX, MLFlow)
+	- Basic understanding of ML algorithms or familiarity with some ML framework (PyTorch, Tensorflow, HuggingFace, LangChain)
+	- Experience with cloud platforms and technologies (AWS, GCP, Kubernetes, etc)
 + skill set:
 	- Are you energized by building high-performance, scalable and reliable machine learning systems? Do you want to help define and build the next generation of AI platforms powering advanced NLP applications?  We are looking for Senior Software Engineers to join the Model Serving team at Cohere. The team is responsible for developing, deploying, and operating the AI platform delivering Cohere's large language models through easy to use API endpoints. In this role, you will work closely with many teams to deploy optimized NLP models to production in low latency, high throughput, and high availability environments. You will also get the opportunity to interface with customers and create customized deployments to meet their specific needs.
 	- We are looking for candidates with a range of experiences for multiple roles, from senior to staff-level engineers.
