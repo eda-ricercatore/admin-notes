@@ -574,6 +574,15 @@ reactive programming = asynchronous dataflow programming
 		* GraphQL
 		* Spark
 + skill set:
+	- 2+ years of full-time professional experience building consumer web products (excluding internships)
+	- Excellent skills in Python or similar programming language
+	- Professional experience leveraging backend storage systems such as ***MySQL, MyRocks, Memcached, or Redis***
+		* Knowledge of backend storage systems such as ***MySQL, HBase, Memcached, or Redis***
+	- Knowledge of frontend technologies such as ***React and Typescript***
+	- Experience with large-scale distributed systems
+	- 2+ years of frontend experience with frontend technologies, such as ***React, Javascript, Typescript***
+	- 1+ years of experience building with open-source data infrastructure technologies, such as ***Kafka, Airflow, and Spark***
++ skill set:
 	- Experience in development using MEAN stack (Node.js, Angular.js, Express.js, MongoDB)
 	- Data exchange technologies like JSON
 	- Familiarity with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.

@@ -6653,6 +6653,7 @@ Companies that have machine learning -centric products
 + Experience in neural network frameworks like TensorFlow, ONNX, Caffe, PyTorch etc. is a plus
 + ***Lifelong-DNNTM (L-DNN)*** technology, which reduces the data requirements for AI model development and enables continuous learning in the cloud or at the edge
 + Excellent understanding of machine learning techniques and algorithms, such as ***k-NN, Naive Bayes, SVM, Decision Forests***, etc.
++ Experience working with large data sets and distributed computing tools (e.g. ***Redshift, Presto***)
 + Proficiency with one or more of the following packages: ***HuggingFace, Fastai, scikit-learn, XGBoost, LightGBM, Ray***
 + You have strong coding skills in several of the following languages/libraries: ***Python, NumPy, TensorFlow, PyTorch***.
 + skill set:
