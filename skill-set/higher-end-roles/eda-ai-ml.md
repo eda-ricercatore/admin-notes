@@ -12375,15 +12375,35 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 
 
 
+###	Artificial General Intelligence
+
+
+####	Organizations/Companies Working on in Artificial General Intelligence
 
 
 
-
-
-
-
-
-
++ DeepMind
+	- DeepMind Technologies Limited doing business as (dba) Google DeepMind
+	- https://deepmind.google
++ Vicarious
+	- https://vicarious.com
++ Anthropic PBC
+	- https://anthropic.com
++ OpenAI
++ Google AI
++ Microsoft AI
+	- https://www.microsoft.com/en-us/ai
++ Vicarious
+	- https://vicarious.com
+	- Part of Intrinsic (Alphabet Inc.).
++ Robust AI
+	- https://www.robust.ai
++ Elemental Cognition
+	- https://ec.ai
++ GoodAI
+	- https://www.goodai.com
++ Nnaisense
+	- https://www.nnaisense.com
 
 
 
