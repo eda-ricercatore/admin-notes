@@ -6723,6 +6723,89 @@ Companies that have machine learning -centric products
 	- Experience in Information Retrieval systems for document question answering.
 	- Experience in day-to-day NLP for industry using Python and related toolchains (SpaCy, HuggingFace, NLTK, etc.).
 	- Published research in areas of machine learning at major conferences and/or journals.
++ Machine Learning Platform Engineer
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Location: San Francisco or Seattle
+	- Base Salary Range: $127,000 USD - $297,000 USD
+	- At X, we’re pioneering the frontier of technology with our innovative Everything App. Our mission is to revolutionize how people connect, share ideas, and engage in meaningful conversations. We champion freedom of speech and strive to create a platform that embraces diverse perspectives. Our commitment is to foster open dialogue and empower individuals to express themselves freely.
+	- We value:
+		* Writing code rather than documents
+		* Shipping products rather than talking about roadmaps
+		* Big features rather than changing button colors
+	- Build large-scale distributed machine learning systems which are scalable, performant, efficient and reliable.
+	- Design and evaluate novel approaches for handling high-volume real-time data streams in a machine learning environment. 
+	- Participant in design and code reviews, team processes, and technical decisions. 
+	- Work on ML frameworks such as Pytorch, Tensorflow, and/or feature management and vector databases such as Qdrant.
+	- Learn new machine learning, deep learning, and/or natural language processing techniques for a variety of modeling and relevance problems involving users, their tweets, their interests, twitter ads, and relationships among entities. 
+	- Conduct online A/B testing, interpret and understand algorithm performance
+	- Shape the future of development of Machine Learning Platform at X.
+	- We're looking for exceptional engineers who are passionate about our mission and have a strong desire to make a meaningful impact. The ideal candidate will have:
+		* Bachelor, Master, Post-graduate or PhD in computer science, computing engineering, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+		* 2+ years of industry experience working with high traffic or large ML production environments, distributed systems, backend infrastructure, recommender systems and/or deep learning applications
+		* 2+ years experience with ML problems and platform tools either through first-hand modeling or close collaboration with modeling engineers or data scientists
+		* Programming experience in Python, Rust or C / C++ or Java.
+	- Nice to haves
+		* You are comfortable with Linux systems.
+		* You have worked with Vector databases, GPU / CUDA programming.
+	- At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Senior/Staff ML Platform Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App.
+	- If you're an exceptional engineer who shares our passion for freedom of speech, we'd love to hear from you.
+	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
++ Machine Learning Engineer - Core Product
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Location: San Francisco or London
+	- Base Salary Range: $127,000 to $297,000 USD; 56,000 - 169,000 GBP 
+	- At X, we’re pioneering the frontier of technology with our innovative Everything App. Our mission is to revolutionize how people connect, share ideas, and engage in meaningful conversations. We champion freedom of speech and strive to create a platform that embraces diverse perspectives. Our commitment is to foster open dialogue and empower individuals to express themselves freely.
+	- Writing code rather than documents
+	- Shipping products rather than talking about roadmaps
+	- Big features rather than changing button colors
+	- Designing and architecting recommendation algorithms across various product surfaces in X 
+	- Collaborating with cross-functional teams to integrate machine learning models into our platform
+	- Iterating and improving the algorithm by gathering user feedback in real time through experimentation
+	- Ensuring scalability and efficiency of machine learning systems
+	- Mentoring junior engineers and contributing to the team's growth
+	- Staying updated on Machine Learning and Deep Learning industry trends
+	- Master, Post-graduate or PhD in computer science, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+	- 2+ years of industry experience working with recommender systems and/or deep learning applications (note - we are open to hiring for this role at all levels)
+	- Good theoretical grounding in core machine learning concepts and techniques
+	- Ability to perform comprehensive literature reviews and provide critical feedback on state-of-the-art solutions and how they may fit to different operating constraints
+	- Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, SVMs, deep neural networks, bandits, reinforcement learning, etc.
+	- Familiarity with one or more DL software frameworks such as Tensorflow, PyTorch.
++ ML Infrastructure Engineer
+	- Location: San Francisco or New York
+	- Base Salary Range: $127,000 USD - $297,000 USD
+	- Writing code rather than documents
+	- Shipping products rather than talking about roadmaps
+	- Big features rather than changing button colors
+	- Enabling teams to quickly test and iterate on their ML hypotheses via ML training capabilities, reliable GPU compute infrastructure and experimentation tools such as distributed deep learning libraries and Python notebooks
+	- Integrating X’s GPU compute environment with large scale data and inference pipelines
+	- Collaborating with cross-functional teams to integrate machine learning models into our platform
+	- Ensuring scalability and efficiency of machine learning systems
+	- Work across the stack to solve problems independently
+	- Mentoring junior engineers and contributing to the team's growth
+	- Bachelor, Master, Post-graduate or PhD in computer science, computing engineering, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+	- 2+ years of industry experience (4+ for Senior) working with high traffic or large data production environments, distributed systems, backend infrastructure, recommender systems and/or deep learning applications
+	- 2+ years experience (4+ for Senior) with ML problems and platform tools either through first-hand modeling or close collaboration with modeling engineers or data scientists
+	- Working knowledge of Jupyter notebooks and Python, plus experience with a compiled language, such as Scala, Java or C++
+	- You stay up-to-date on Machine Learning and Deep Learning industry trends
+	- You have low level understanding of compute systems such as distributed storage, NVIDIA drivers and CUDA toolkits
+	- You are comfortable with Linux systems
+	- You have worked with Slurm scheduler, Puppet or Ansible
++ Machine Learning Engineer - Community Notes
+	- Location: San Francisco, San Jose, Seattle, Los Angeles, New York City
+	- Base Salary Range: $127,000 to $297,000 USD
+	- X serves our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and create a marketplace that enables the economic success of all its participants.
+	- We are the Community Notes team — empowering the people to keep each other better informed, with a fully open source algorithm and data. Community Notes is constantly advancing the state-of-the-art in improving the quality of information on the internet and we employ an experimental, fast-moving, iterative approach to find product solutions that work for people of all different points of view.
+	- Design and build improvements to our unique machine learning algorithm that improve Community Notes’ helpfulness, accuracy, scale, speed, and manipulation resistance
+	- Work in public: contribute to our open source code base, supporting external researchers and people working with our public data . For (example).
+	- Build efficient, scalable internal production machine learning systems and infrastructure
+	- Contribute to the entire product via tight cross-functional collaborations with product/eng/etc
+	- Experience developing and shipping high-impact ML solutions end-to-end: from getting your hands dirty creating training data pipelines, to developing novel model architectures, to deploying to production at scale reliably
+	- Demonstrated ability to work with real-world data to extract insights, inform product roadmap and develop guiding metrics in situations that lack cut-and-dry evaluation criteria
+	- Familiarity with one or more deep learning software frameworks, e.g. PyTorch
+	- Enjoy working in a 0-to-1 space with no known machine learning or product solutions, and trailblazing to build novel solutions that work
+	- Love doing whatever work is needed to get things done, enabling rapid iteration on the product
+	- Join our small and fast-paced team and empower the people to keep each other better informed.
+	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
 + skill set:
 	- Machine Learning Intern/Co-op (Winter 2024)
 	- Ship state of the art models to production.
@@ -11656,7 +11739,7 @@ Skills for natural language processing, NLP:
 		* Deep Learning,
 		* Bayesian Modeling,
 		* Natural Language Processing.
-+ data science skills:
++ data science skills in the context of NLP:
 	- Excellent understanding of ML, NLP, and statistical methodologies
 	- Excellent programming skills (Java/Python/R/Sas)
 	- Ability to test ideas and adapt methods quickly end to end from data extraction to implementation and validation
@@ -11678,6 +11761,19 @@ Skills for natural language processing, NLP:
 	- Adept at all aspects of technical communications, including using presentations technologies (e.g. WebEx, PowerPoint) and software demonstrations.
 	- Data Collections: Expertise in large data collection and processing including ETL, workflow and delivery of data
 	- Business Intelligence (BI) tool like Qlik or Tableau
++ NLP Engineer
+	- Salary: 14,000~16,000 SGD/month
+	- 1. Extract and convert data from charts and textual materials in academic papers into OpenRead's internal data storage format.
+	- 2. Acquire expertise in natural language processing (NLP) techniques, including text comprehension, text classification, and text summarization, and integrate viable and innovative concepts into OpenRead applications.
+	- 3. Conduct a comprehensive investigation on integrating modules with diverse input formats to facilitate cross-learning across various data types.
+	- 4. Execute module training and engage in research regarding the interoperability of articles, with a primary objective of developing a robust and efficient data extraction mechanism.
+	- 5. Enhance the precision of data extraction to align with industry best practices.
+	- 1. Exceptional aptitude for learning, outstanding proficiency in communication and collaboration, and a fervent dedication to resolving complex issues.
+	- 2. Familiarity with multimodal learning is advantageous.
+	- 3. Possess a robust theoretical background in Natural Language Processing (NLP) and deep learning, demonstrating extensive expertise in NLP methodologies including CRF, CNN, LSTM/GRU, Transformer, BERT, and other related technologies.
+	- 4. Proficient in developing and implementing various components of natural language processing (NLP) and machine learning algorithms, including but not limited to long/short text keyword extraction, entity recognition, text classification, semantic matching, text understanding, text summarization, question-answering/dialogue systems, knowledge graphs, and information retrieval. Prior expertise in dialogue systems is highly desirable.
+	- 5. Proficiency in Python or Java programming languages, accompanied by excellent programming and algorithmic skills.
+	- 6. Demonstrated expertise in utilizing machine learning frameworks like PyTorch or TensorFlow, with hands-on experience in implementing advanced natural language processing (NLP) algorithms.
 + skill set:
 	- Oversee research process implementation, from problem definition all the way to concrete research experiments.
 	- Collaborate and communicate clearly and efficiently with the rest of the team about the status, results, and challenges of your current tasks.
@@ -14008,6 +14104,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- statsmodels
 	- scikit-learn
 	- XGBoost
++ Experience with common data science tools, such as ***Pandas, NumPy, Scikit-Learn, Tensorflow, Dash/Streamlit/Gradio*** etc.
 + Data Scientist:
 	- Amida Technology Solutions is a DC-based technology company focused on solutions for data interoperability, data utility, and data security. We create open-source solutions that collect, reconcile, transform, and standardize data for business intelligence, predictive analytics, decision support, and user transactions. We specialize in taking data from inception to impact.
 	- Our team is comprised of creative, forward thinkers who are passionate about using cutting-edge technology to make a difference in people's lives and have a positive impact on our country. We offer an entrepreneurial, high-growth environment that values fresh ideas, candid conversations, and authentic teamwork.
