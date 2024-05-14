@@ -10229,9 +10229,11 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Experience delivering software working with Agile frameworks, processes, and teams
 	- Bachelor's Degree in computer science, software engineering, or related field
 + skill set:
-	- BLAH.
+	- Strong understanding of Computer Science fundamentals (algorithms and data structures) as well as modern techniques in machine learning and deep learning, ***deep learning model architectures (C/RNN, attention/memory, autoregressive, etc.) and extensions (Transformers, LSTM, Autoencoders, etc.)***
+	- Experience in ***Natural Language Processing, Question Answering, Generative AI including training and tuning Large Language Models***
 + skill set:
-	- BLAH.
+	- Working knowledge of ***common ML frameworks such as PyTorch, TensorFlow, scikit-learn, ONNX***, etc.
+	Prior experience with ***container technologies like Docker, Kubernetes, Buildpacks***, etc.
 + skill set:
 	- BLAH.
 + skill set:
@@ -11875,6 +11877,10 @@ Skills for natural language processing, NLP:
 	- Expertise in Natural Language Processing (NLP) in the clinical or biomedical domain
 	- Experience in developing CL models using spaCy
 	- Experience in training custom spaCy models is a huge plus
++ skill set:
+	- In addition, we contribute to open source; contributions we have made and work with include Solr, Koan, KFServing, Cloud Native Buildpacks and PyTorch Lightning that directly impact our production services. 
+	- Our team makes extensive use of open source technologies such as, Kubernetes, Kubeflow, KServe, Argo, Buildpacks, and other cloud-native MLOps technologies.
+	- KServe was co-created by Bloomberg to provide production-grade model inference for all of our models from SKLearn based regression models to large language models like Bloomberg GPT. 
 + skill set:
 	- build and operate high volume distributed systems
 	- design and build systems in a microservice-based architecture
@@ -17372,6 +17378,9 @@ DataOps leadership principles:
 
 
 Skill sets for DataOps:
++ skill set:
+	- Familiarity with our core tools, including AWS, Kubernetes, Jenkins, OpenResty, Terraform, Python, ElasticSearch, Postgres, and Kafka.
+	- You may have experience with Kubernetes Kafka, data warehouse, or Airflow.
 + Experience in Big data technology stack (Hadoop, Hbase, Sqoop, Hive, Spark, etc.).
 + Our platform is ever-evolving, but currently is a combination of Python, Java, Postgres, Kubernetes, Spark, Presto, Kafka, and Mongo
 + To bring visualization and easy-to-use data analysis tools to our users, our research and development teams work on full data processing cycle: from database's query processing, to data science (AI, machine learning, etc.), UI design, and cloud computing.

@@ -349,7 +349,10 @@ Skills related to software development for enterprise search engines:
 + Experience implementing search solutions with technologies such as SOLR, Elasticsearch, Lucene is preferred.
 + Elasticsearch and ELK pipeline
 + Monitoring solutions experience (ELK, NewRelic)
-
++ skill set for search engines:
+	- Hands-on experience with search engine technologies (e.g., Apache Solr, ElasticSearch, Vespa, FAST, or Lucene) or a demonstrated interest in learning
+	- Experience with A/B testing
+	- Previous experience working on search backends or improving search user experience (e.g., through relevance, recommendations, or question answering)
 
 
 
