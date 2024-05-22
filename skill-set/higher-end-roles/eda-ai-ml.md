@@ -638,6 +638,8 @@ System-Technology Co-Optimization, STCO
 
 
 Skill sets for STCO and DTCO:
++ OpenAI Triton
+	- A domain-specific language (DSL) and associated domain-specific compiler for domain-specific computing and STCO.
 + skill set:
 	- Development of compilers and peripheral libraries for MN-Core
 	- We will develop the compiler and peripheral libraries of MN-Core. Specifically, we are assuming the following themes
