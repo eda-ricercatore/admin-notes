@@ -101,6 +101,493 @@ Sources for generative AI models, tools, and resources:
 
 
 
+###	Skills Mentioned in the 2024 Stack Overflow Developer Survey
+
+
+
+Programming, scripting, and markup languages:
++ Ada
++ Apex
++ Assembly
++ Bash/Shell (and other UNIX/Linux shells)
++ C
++ C\#
++ C++
++ Clojure
++ Cobol
++ Crystal
++ Dart
++ Delphi
++ Elixir
++ Erlang
++ F\#
++ Fortran
++ GDScript
++ Go
++ Groovy
++ Haskell
++ HTML/CSS
++ Java
++ JavaScript
++ Julia
++ Kotlin
++ Lisp
++ Lua
++ MATLAB
++ MicroPython
++ Nim
++ Objective-C
++ OCaml
++ Perl
++ PHP
++ PowerShell
++ Prolog
++ Python
++ R
++ Ruby
++ Rust
++ Scala
++ Solidity
++ SQL
++ Swift
++ TypeScript
++ VBA
++ Visual Basic (.Net)
++ Zephyr
++ Zig
+
+
+
+
+Database environments:
++ Big Query
++ Cassandra
++ Clickhouse
++ Cloud Firestore
++ Cockroachdb
++ Cosmos DB
++ Couch DB
++ Couchbase
++ Databricks SQL
++ Datomic
++ DuckDB
++ Dynamodb
++ Elasticsearch
++ EventStoreDB
++ Firebase Realtime Database
++ Firebird
++ H2
++ IBM DB2
++ InfluxDB
++ MariaDB
++ Microsoft Access
++ Microsoft SQL Server
++ MongoDB
++ MySQL
++ Neo4J
++ Oracle
++ PostgreSQL
++ Presto
++ RavenDB
++ Redis
++ Snowflake
++ Solr
++ SQLite
++ Supabase
++ TiDB
+
+
+
+Cloud platforms:
++ Alibaba Cloud
++ Amazon Web Services (AWS)
++ Cloudflare
++ Colocation
++ Databricks
++ Digital Ocean
++ Firebase
++ Fly.io
++ Google Cloud
++ Heroku
++ Hetzner
++ IBM Cloud or Watson
++ Linode
++ Managed Hosting
++ Microsoft Azure
++ Netlify
++ OpenShift
++ OpenStack
++ Oracle Cloud Infrastructure, OCI
++ OVH
++ PythonAnywhere
++ Render
++ Scaleway
++ Supabase
++ Vercel
++ VMware
++ Vultr
+
+
+
+
+Web frameworks and Web technologies:
++ Angular
++ AngularJS
++ ASP.Net
++ ASP.Net Core
++ Astro
++ Blazor
++ CodeIgniter
++ Deno
++ Django
++ Drupal
++ Elm
++ Express
++ FastAPI
++ Fastify
++ Flask
++ Gatsby
++ Htmx
++ jQuery
++ Laravel
++ NestJS
++ Next.js
++ Node.js
++ Nuxt.js
++ Phoenix
++ Play Framework
++ React
++ Remix
++ Ruby on Rails
++ Solid.js
++ Spring Boot
++ Strapi
++ Svelte
++ Symfony
++ Vue.js
++ WordPress
++ Yii 2
+
+
+
+
+
+Embedded systems and technologies:
++ Arduino
++ Boost.Test
++ build2
++ Catch2
++ CMake
++ Cargo
++ cppunit
++ CUTE
++ doctest
++ GNU GCC
++ LLVM's Clang
++ Meson
++ Micronaut
++ MSVC
++ Ninja
++ PlatformIO
++ QMake
++ Rasberry Pi
++ SCons
++ ZMK
+
+
+
+Other frameworks and libraries:
++ .NET (5+)
++ .NET Framework (1.0 - 4.8)
++ .NET MAUI
++ Apache Kafka
++ Apache Spark
++ Capacitor
++ Cordova
++ CUDA
++ DirectX
++ Electron
++ Flutter
++ GTK
++ Hadoop
++ Hugging Face Transformers
++ Ionic
++ JAX
++ Keras
++ Ktor
++ MFC
++ mlflow
++ NumPy
++ OpenCL
++ OpenCV
++ OpenGL
++ Pandas
++ Qt
++ Quarkus
++ RabbitMQ
++ React Native
++ Roslyn
++ Ruff
++ Scikit-Learn
++ Spring Framework
++ SwiftUI
++ Tauri
++ TensorFlow
++ Tidyverse
++ Torch/PyTorch
++ Xamarin
+
+
+
+
+Developer tools for compiling, building and testing:
++ Ansible
++ Ant
++ APT
++ Bun
++ Chef
++ Chocolatey
++ Composer
++ Dagger
++ Docker
++ Godot
++ Google Test
++ Gradle
++ Homebrew
++ Kubernetes
++ Make
++ Maven (build tool)
++ MSBuild
++ Ninja
++ Nix
++ npm
++ NuGet
++ Pacman
++ Pip
++ pnpm
++ Podman
++ Pulumi
++ Puppet
++ Terraform
++ Unity 3D
++ Unreal Engine
++ Visual Studio Solution
++ Vite
++ Webpack
++ Yarn
+
+
+
+
+
+
+Development environments:
++ Android Studio
++ BBEdit
++ CLion
++ Code::Blocks
++ DataGrip
++ Eclipse
++ Emacs
++ Fleet
++ Geany
++ Goland
++ Helix
++ IntelliJ IDEA
++ IPython
++ Jupyter Notebook/JupyterLab
++ Kate
++ Nano
++ Neovim
++ Netbeans
++ Notepad++
++ PhpStorm
++ PyCharm
++ Qt Creator
++ Rad Studio (Delphi, C++ Builder)
++ Rider
++ RStudio
++ RubyMine
++ Spacemacs
++ Spyder
++ Sublime Text
++ Vim
++ Visual Studio
++ Visual Studio Code
++ VSCodium
++ WebStorm
++ Xcode
+
+
+
+
+
+Operating system:
++ AIX
++ Android
++ Arch
++ BSD
++ ChromeOS
++ Cygwin
++ Debian
++ Fedora
++ Haiku
++ iOS
++ iPadOS
++ macOS
++ Other Linux-based
++ Red Hat
++ Solaris
++ Ubuntu
++ Windows
++ Windows Subsystem for Linux (WSL)
+
+
+
+
+
+
+
+
+
+Collaborative work management and/or code documentation tools:
++ Airtable
++ Asana
++ Azure Devops
++ Basecamp
++ Clickup
++ Confluence
++ Doxygen
++ GitHub Discussions
++ Jira
++ Linear
++ Lucid
++ Markdown File
++ Microsoft Lists
++ Microsoft Planner
++ Miro
++ Monday.com
++ Notion
++ Obisidian
++ Redmine
++ Shortcut
++ Smartsheet
++ Stack Overflow for Teams
++ Trello
++ Wikis
++ YouTrack
+
+
+
+
+
+
+
+
+
+Communication tools:
++ Cisco Webex Teams
++ Coolfire Core
++ Discord
++ Google Chat
++ Google Meet
++ IRC
++ Jitsi
++ Matrix
++ Mattermost
++ Microsoft Teams
++ Ringcentral
++ Rocketchat
++ Signal
++ Skype
++ Slack
++ Symphony
++ Telegram
++ Unify Circuit
++ Whatsapp
++ Wickr
++ Wire
++ Zoom
++ Zulip
+
+
+
+
+
+
+
+
+AI-powered search and developer tools, for "using AI tools as part of [...] development workflow":
++ Andi
++ AskCodi
++ Amazon Q
++ Bing AI
++ ChatGPT
++ Claude
++ Codeium
++ Cody
++ GitHub Copilot
++ Google Gemini
++ Lightning AI
++ Meta AI
++ Metaphor
++ Neeva AI
++ OpenAI Codex
++ Perplexity AI
++ Phind
++ Quora Poe
++ Replit Ghostwriter
++ WolframAlpha
++ Synk Code
++ Tabnine
++ Visual Studio Intellicode
++ Whispr AI
++ You.com
+
+
+
+
+
+Tasks in development workflow that can be helped with AI tools:
++ learning about a codebase
++ project planning
++ writing code
++ documenting code
++ debugging and getting help
++ testing code
++ committing and reviewing code
++ deployment and monitoring
++ predictive analytics
++ search for answers
++ generating content or synthetic data
+
+
+
+
+AI ethical responsibilities:
++ biased results that do not represent diverse viewpoints
++ circulating misinformation or disinformation
++ imitating a person's likeness
++ replacing jobs without options for new employment opportunities
++ energy demand
++ missing or incorrect attribution for sources of data
+
+
+
+
+
+Challenges to organization/team using AI code assistants or GenAI tools:
++ don't trust the output or answers
++ AI tools lack context of codebase, internal architecture, and/or company knowledge
++ they create more work (more code/PRs to review, etc.)
++ we do not have the right policies in place to reduce security risks
++ not everyone uses them
++ lack of executive buy-in
++ lack of proper training and education on new tools
+
+
+
+
 
 
 

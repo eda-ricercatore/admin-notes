@@ -633,6 +633,19 @@ System-Technology Co-Optimization, STCO
 
 
 
+
+Languages for creating dialects in the context of domain-specific languages and domain-specific compilers:
++ MicroPython
+
+
+
+
+
+
+
+
+
+
 ####	Skill sets for STCO and DTCO:
 
 
