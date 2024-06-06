@@ -6661,6 +6661,9 @@ Companies that have machine learning -centric products
 + ***Take end to end ownership of machine learning systems - data pipelines, candidate extraction, feature engineering, model training, as well as integration into our production systems***
 + Experience implementing ***production-ready machine learning solutions*** is a plus
 + semi-supervised learning
++ skill set:
+	- ***Jax, PyTorch, TensorFlow, Apache (Spark, Hive, Airflow), Numpy, Pandas, Matplotlib***
+	- ***Docker, Git, AWS (S3, Athena, Presto, Glue), Jenkins, Linux, GCP***
 + Knowledge of ***Apache Spark***
 + Experience with ML frameworks such as ***PyTorch, MxNET, Tensorflow***, etc.
 + Experience with ***distributed analytic processing technologies (Hive, Pig, Presto, Spark)***
