@@ -1367,7 +1367,31 @@ List of software formal verification companies:
 	- In this job, you will participate in the verification effort project of the crypto-currency Tezos. We publish all our results in open-source on https://nomadic-labs.gitlab.io/coq-tezos-of-ocaml/ Explore this website beforehand to have more details. We use the automated system coq-ofocaml to convert the OCaml code of Tezos to Coq. Your job will be to write and automate Coq proofs on various sub-systems of the blockchain.
 	- We are looking for profiles who are interested in functional programming and proof assistants. Prior knowledge of OCaml or Haskell is a plus. Prior knowledge of a proof assistant is mandatory. Prior knowledge of crypto-currencies is optional.
 + skill set:
-	- BLAH.
+	- Functional Software Engineer (Austin TX)
+	- At Imandra, we build tools for reasoning about algorithms. Our technology forms an integral part of our customers’ software development lifecycles, from the design stage to analytics and monitoring of critical production systems.
+	- Imandra strives to recruit, develop, and retain the most talented people worldwide, regardless of their background. We are looking for the best R&D Engineers to help scale our products to the next level.
+	- We have a solid foothold in the financial sector, and we are now applying Imandra’s general purpose automated reasoning tools to other industries to help make producing correct software simpler and more accessible for everyone.
+	- If you’re interested in finding out more about the Imandra reasoning engine, check out our interactive technical docs at https://docs.imandra.ai/
+	- You'll be working on developing our cloud-based automated reasoning platform, primarily using OCaml.
+	- There are opportunities to get involved across the full stack according to your skills and interests:
+		* Our web APIs and backend services (OCaml, PostgreSQL, Redis).
+		* Product UIs and visualization tools (React, via the ReasonML/Bucklescript/Melange toolchain, webgl).
+		* Continuous integration and cloud infrastructure (Google Cloud, Kubernetes, Terraform).
+		* Modeling and verifying customer production systems using Imandra.
+		* Working directly with customers to prototype and develop new product features.
+		* Contributing to novel advanced proof automation techniques, formal verification, and code synthesis algorithms.
+		* Contributing to open source projects, both upstreaming new features and fixes and publishing new open source libraries.
+	- You’ll be working with a globally distributed team in different time zones. Our primary locations are Austin, TX and London, UK.
+	- Strong software development skills.
+	- A product-focused mindset, with a willingness to design, develop and deliver features and improvements across the full software stack.
+	- An interest in typed, functional languages.
+	- Competent Linux/Unix skills.
+	- Experience collaborating using Git/GitHub/CI tools and processes.
+	- We don’t expect everyone to have these, but any experience or interest in working with them would definitely be a plus:
+	- Experience building projects with OCaml, ReasonML, Haskell, or other functional programming languages.
+	- Working with cloud infrastructure, specifically GCP.
+	- An interest in theorem proving and formal verification.
+	- Experience contributing to open-source projects.
 + skill set:
 	- BLAH.
 + skill set:
