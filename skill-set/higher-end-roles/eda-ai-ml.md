@@ -1388,7 +1388,7 @@ List of software formal verification companies:
 	- Competent Linux/Unix skills.
 	- Experience collaborating using Git/GitHub/CI tools and processes.
 	- We don’t expect everyone to have these, but any experience or interest in working with them would definitely be a plus:
-	- Experience building projects with OCaml, ReasonML, Haskell, or other functional programming languages.
+	- ***Experience building projects with OCaml, ReasonML, Haskell, or other functional programming languages.***
 	- Working with cloud infrastructure, specifically GCP.
 	- An interest in theorem proving and formal verification.
 	- Experience contributing to open-source projects.
