@@ -1356,6 +1356,10 @@ List of software formal verification companies:
 + CertiK: https://www.certik.com/company/careers
 + Elasticsearch B.V.: https://www.elastic.co/careers
 + Formal Vindication: https://formalv.com/
++ Imandra Inc.: https://www.imandra.ai/
+	- Austin, TX (headquarters)
+	- Edinburgh and London, U.K..
+	- Provides reasoning-as-a-service, or automated reasoning via decision procedures and cloud computing
 + Trellix, which is part of Musarubra US LLC: https://careers.trellix.com/
 
 
