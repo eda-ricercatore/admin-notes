@@ -1868,7 +1868,37 @@ Projects you will be expected to complete in your the first 6 months
 + Experience with containers – Docker, Clear Containers, rkt
 + Some experience working with and implementing DevOps solutions including but not limited to Python, Ansible, Docker/Containers, Kubernetes and datacenter deployments
 + skill set:
-	- BLAH.
+	- Platform Engineer III
+	- Be at the center of AI
+	- With more than 45 million users, Anaconda is the most popular operating system for AI providing access to the foundational open-source Python packages used in modern AI, data science, and machine learning through a seamless platform. We pioneered the use of Python for data science, championed its vibrant community, and continue to steward open-source projects that make tomorrow’s innovations possible. Our enterprise-grade solutions enable corporate, research, and academic institutions around the world to harness the power of open source for competitive advantage, groundbreaking research, and a better world. To learn more visit https://www.anaconda.com.
+	- Here is why people love most about working here: We’re not just a company, we’re part of a movement. Our dedicated employees and user community are democratizing data science and creating and promoting open-source technologies for a better world, and our commercial offerings make it possible for enterprise users to leverage the most innovative output from open source in a secure, governed way.
+	- Anaconda is seeking a talented Platform Engineer III to join our rapidly growing company. This is an excellent opportunity for you to leverage your experience and skills and apply it to the world of data science, artificial intelligence, and machine learning.
+	- Be a member of our Core Platform team helping make sure Anaconda apps and services run efficiently as container workloads, and stay up to date
+	- Improve our existing infrastructure with new ideas, debugging, performance tuning, cost-savings, better integration with external services, and more
+	- Enable developers to work as autonomously as possible while ensuring the stability of our platform through technical solutions, guidance, and education
+	- Work with teams to troubleshoot, advise, and implement software and system changes
+	- Work with other teams to find the right tool. Our stack is primarily AWS and Cloudflare, when requirements fall outside, you’ll help with design, integration, and maintenance
+	- Participate in on-call rotations monitoring and supporting teams and systems
+	- Participate on Slack and in team meetings, reviews, and demos
+	- Work from backlogs of planned opportunities and on ad-hocs asks
+	- GitOps mindset with a desire to reduce toil and automate everything
+	- Production experience with Kubernetes, GitHub Actions, ArgoCD, or Helm
+	- Experience provisioning, tuning, securing, scaling, networking, and monitoring containerized applications
+	- Experience using IaC tools (e.g. Terraform, Helm, ArgoCD) 
+	- Experience working in a fast-paced agile or remote environment
+	- Results-driven, “self-starter” approach to your work
+	- Team attitude: “I am not done until WE are done”
+	- Embody our core values:     
+		* Great People
+		* Great Product
+		* Great Performance
+	- Care deeply about fostering an environment where people of all backgrounds and experiences can flourish 
+	- Anaconda, Python, or OSS community experience
+	- AWS storage and data transfer optimization
+	- Examples of test automation, linting, and refactoring in your prior work
+	- Great peer recommendations and appreciation
+	- Experience working in a fast-paced startup environment
+	- Experience working in an open-source, AI, or data science-oriented company
 + skill set:
 	- BLAH.
 + skill set:
