@@ -496,7 +496,7 @@ BibTeX entries for URLs pertinent to aforementioned topics.
 
 + [mkyong2017]
 	- mkyong, "wget on Mac OS X", from mkyong's Web page: mac,
-		no address, January 4, 2017.
+		self-published, no address, January 4, 2017.
 		Available online from mkyong's Web page: mac at:
 			https://mkyong.com/mac/wget-on-mac-os-x/;
 			February 13, 2020 was the last accessed date.
