@@ -5625,6 +5625,15 @@ Companies that have machine learning -centric products
 		* "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples."
 		* XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 + Knowledge of sequence models and generative models.
++ Machine Learning Researcher
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- Machine learning is a critical pillar of Jane Street's global business, and our ever-changing trading environment serves as a unique, rapid-feedback platform for ML experimentation. 
+	- Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software engineering roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
+	- We’re looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a ***deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences***. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
+	- As an ML researcher, your expertise will also shape the firm's future ML developments including hiring new ML researchers, attending conferences, teaching techniques to teammates, and setting firmwide goals.
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- We're looking for a Research Scientist to join Snap Inc! You'll work closely with our Research team to work on innovative problems that unlock new experiences for our users through computer vision, machine learning and graphics. Working closely with researchers and our engineering teams, you will develop technologies empowering our users and creators improving improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
@@ -6752,6 +6761,64 @@ Companies that have machine learning -centric products
 + Design services for performant application of machine-learned models
 + Prior experience is required working with an existing open-source or proprietary machine learning accelerator architecture such as OpenTPU, NVDLA, Eyeriss, or VTA. You must have a background in compiler hacking on one or more of TVM, Glow, Halide, Spatial, XLA, CLANG, LLVM, or GCC. Experience desired with compiler Intermediate Representations (IRs) and back-ends; JIT compilers; kernel-mode and user-mode Windows, Unix, or embedded systems runtime environments and device drivers.
 + Experience in GPU/CUDA/TensorRT
++ Machine Learning Performance Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- We are looking for an engineer with experience in low-level systems programming and optimization to join our growing ML team. 
+	- Machine learning is a critical pillar of Jane Street's global business. Our ever-evolving trading environment serves as a unique, rapid-feedback platform for ML experimentation, allowing us to incorporate new ideas with relatively little friction.
+	- Your part here is optimizing the performance of our models – both training and inference. We care about efficient large-scale training, low-latency inference in real-time systems, and high-throughput inference in research. Part of this is improving straightforward CUDA, but the interesting part needs a whole-systems approach, including storage systems, networking, and host- and GPU-level considerations. Zooming in, we also want to ensure our platform makes sense even at the lowest level – is all that throughput actually goodput? Does loading that vector from the L2 cache really take that long?
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind and a passion for solving interesting problems, we have a feeling you’ll fit right in. 
+	- There’s no fixed set of skills, but here are some of the things we’re looking for:
+		* An understanding of ***modern ML techniques and toolsets***
+		* The experience and systems knowledge required to debug a training run’s performance end to end
+		* ***Low-level GPU knowledge of PTX, SASS, warps, cooperative groups, Tensor Cores, and the memory hierarchy***
+		* ***Debugging and optimization experience using tools like CUDA GDB, NSight Systems, NSight Compute***
+		* ***Library knowledge of Triton, CUTLASS, CUB, Thrust, cuDNN, and cuBLAS***
+		* ***Intuition about the latency and throughput characteristics of CUDA graph launch, tensor core arithmetic, warp-level synchronization, and asynchronous memory loads***
+		* ***Background in Infiniband, RoCE, GPUDirect, PXN, rail optimization, and NVLink, and how to use these networking technologies to link up GPU clusters***
+		* ***An understanding of the collective algorithms supporting distributed GPU training in NCCL or MPI***
+		* An inventive approach and the willingness to ask hard questions about whether we're taking the right approaches and using the right tools
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Machine Learning Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- We are looking for an engineer with robust experience in machine learning and strong mathematical foundations to join our growing ML team and to help drive the direction of our ML platform.
+	- Machine learning is a critical pillar of Jane Street's global business. Our ever-evolving trading environment serves as a unique, rapid-feedback platform for ML experimentation, allowing us to incorporate new ideas with relatively little friction. Our ML team is full of people with a shared love for the craft of software engineering, and for designing APIs and systems that are delightful to use. 
+	- We’ll rely on your in-depth knowledge of the ML ecosystem and understanding of varying approaches — whether it’s neural networks, random forests, gradient-boosted trees, or sophisticated ensemble methods — to aid decision-making so we apply the right tool for the problem at hand. Your work will also focus on enhancing research workflows to tighten our feedback cycles. Successful ML engineers will be able to understand the mechanics behind various modeling techniques, while also being able to break down the mathematics behind them.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. While there isn’t a fixed list of qualifications we’re looking for, if you have a curious mind and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- Experience building and maintaining training and inference infrastructure, with an understanding of what it takes to move from concept to production
+	- A strong mathematical background; Good candidates will be excited about things like ***optimization theory, regularization techniques, linear algebra***, and the like
+	- A passion for keeping up with the state of the art, whether that means diving into academic papers, experimenting with the latest hardware, or reading the source of a new machine learning package
+	- A proven ability to create and maintain an organized research codebase that produces robust, reproducible results while maintaining ease of use
+	- ***Expertise wrangling an ML framework – we're fans of PyTorch, but we'd also love to learn what you know about Jax, TensorFlow, or others***
+	- An inventive approach and the willingness to ask hard questions about whether we're taking the right approaches and using the right tools
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Machine Learning Engineer - Core Product
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Base Salary Range: $127,000 to $297,000 USD; 56,000 - 169,000 GBP 
+	- At X, we’re pioneering the frontier of technology with our innovative Everything App. Our mission is to revolutionize how people connect, share ideas, and engage in meaningful conversations. We champion freedom of speech and strive to create a platform that embraces diverse perspectives. Our commitment is to foster open dialogue and empower individuals to express themselves freely.
+	- Writing code rather than documents
+	- Shipping products rather than talking about roadmaps
+	- Big features rather than changing button colors
+	- If this sounds like you, let’s talk.
+	- As a Machine Learning Engineer, you will play a pivotal role in providing the most compelling experience on X. Your responsibilities will include:
+		* Designing and architecting recommendation algorithms across various product surfaces in X 
+		* Collaborating with cross-functional teams to integrate machine learning models into our platform
+		* Iterating and improving the algorithm by gathering user feedback in real time through experimentation
+		* Ensuring scalability and efficiency of machine learning systems
+		* Mentoring junior engineers and contributing to the team's growth
+		* Staying updated on Machine Learning and Deep Learning industry trends
+	- We're looking for exceptional engineers who are passionate about our mission and have a strong desire to make a meaningful impact.
+	- Master, Post-graduate or PhD in computer science, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+	- 2+ years of industry experience working with recommender systems and/or deep learning applications (note - we are open to hiring for this role at all levels)
+	- Good theoretical grounding in core machine learning concepts and techniques
+	- Ability to perform comprehensive literature reviews and provide critical feedback on state-of-the-art solutions and how they may fit to different operating constraints
+	- Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, SVMs, deep neural networks, bandits, reinforcement learning, etc.
+	- Familiarity with one or more DL software frameworks such as Tensorflow, PyTorch.
+	- At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Machine Learning Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App. 
+	- If you're an exceptional engineer who shares our passion for freedom of speech, we'd love to hear from you.
 + skill set:
 	- AI Engineer
 	- As an AI Engineer (a Member of Technical Staff role on our Forward Deployed team) you will work directly with customers to quickly understand their greatest problems and design and implement solutions using Large Language Models.
@@ -6816,6 +6883,64 @@ Companies that have machine learning -centric products
 	- Ability to perform comprehensive literature reviews and provide critical feedback on state-of-the-art solutions and how they may fit to different operating constraints
 	- Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, SVMs, deep neural networks, bandits, reinforcement learning, etc.
 	- Familiarity with one or more DL software frameworks such as Tensorflow, PyTorch.
++ Machine Learning Engineer - Community Notes
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Location: San Francisco, San Jose, Seattle, Los Angeles, New York City
+	- Base Salary Range: $127,000 to $297,000 USD
+	- X serves our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and create a marketplace that enables the economic success of all its participants.
+	- We are the Community Notes team — empowering the people to keep each other better informed, with a fully open source algorithm and data. Community Notes is constantly advancing the state-of-the-art in improving the quality of information on the internet and we employ an experimental, fast-moving, iterative approach to find product solutions that work for people of all different points of view.
+	- Design and build improvements to our unique machine learning algorithm that improve Community Notes’ helpfulness, accuracy, scale, speed, and manipulation resistance
+	- Work in public: contribute to our open source code base, supporting external researchers and people working with our public data . For (example).
+	- ***Build efficient, scalable internal production machine learning systems and infrastructure***
+	- Contribute to the entire product via ***tight cross-functional collaborations with product/eng/etc***
+	- Experience ***developing and shipping high-impact ML solutions end-to-end: from getting your hands dirty creating training data pipelines, to developing novel model architectures, to deploying to production at scale reliably***
+	- Demonstrated ability to work with real-world data to extract insights, inform product roadmap and develop guiding metrics in situations that lack cut-and-dry evaluation criteria
+	- Familiarity with one or more deep learning software frameworks, e.g. PyTorch
+	- ***Enjoy working in a 0-to-1 space with no known machine learning or product solutions***, and trailblazing to build novel solutions that work
+	- Love doing whatever work is needed to get things done, enabling rapid iteration on the product
+	- Join our small and fast-paced team and empower the people to keep each other better informed.
+	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
++ Machine Learning Platform Engineer
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Base Salary Range: $127,000 USD - $297,000 USD
+	- At X, we’re pioneering the frontier of technology with our innovative Everything App. Our mission is to revolutionize how people connect, share ideas, and engage in meaningful conversations. We champion freedom of speech and strive to create a platform that embraces diverse perspectives. Our commitment is to foster open dialogue and empower individuals to express themselves freely.
+	- Writing code rather than documents
+	- Shipping products rather than talking about roadmaps
+	- Big features rather than changing button colors
+	- If this sounds like you, let’s talk.
+	- Build large-scale distributed machine learning systems which are scalable, performant, efficient and reliable. 
+	- Design and evaluate novel approaches for handling high-volume real-time data streams in a machine learning environment. 
+	- Participant in design and code reviews, team processes, and technical decisions. 
+	- Work on ***ML frameworks such as Pytorch, Tensorflow, and/or feature management and vector databases such as Qdrant***.
+	- Learn new machine learning, deep learning, and/or natural language processing techniques for a variety of modeling and relevance problems involving users, their tweets, their interests, twitter ads, and relationships among entities. 
+	- Conduct online A/B testing, interpret and understand algorithm performance
+	- Shape the future of development of Machine Learning Platform at X.
+	- We're looking for exceptional engineers who are passionate about our mission and have a strong desire to make a meaningful impact. The ideal candidate will have:
+		* Bachelor, Master, Post-graduate or PhD in computer science, computing engineering, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+		* 2+ years of industry experience working with high traffic or large ML production environments, distributed systems, backend infrastructure, recommender systems and/or deep learning applications
+		* 2+ years experience with ML problems and platform tools either through first-hand modeling or close collaboration with modeling engineers or data scientists
+		* Programming experience in Python, Rust or C / C++ or Java.
+		* You are comfortable with Linux systems.
+		* You have worked with ***Vector databases, GPU / CUDA programming***. 
+	- At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Senior/Staff ML Platform Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App. 
+	- If you're an exceptional engineer who shares our passion for freedom of speech, we'd love to hear from you.
+	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + ML Infrastructure Engineer
 	- Location: San Francisco or New York
 	- Base Salary Range: $127,000 USD - $297,000 USD
@@ -6831,11 +6956,11 @@ Companies that have machine learning -centric products
 	- Bachelor, Master, Post-graduate or PhD in computer science, computing engineering, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
 	- 2+ years of industry experience (4+ for Senior) working with high traffic or large data production environments, distributed systems, backend infrastructure, recommender systems and/or deep learning applications
 	- 2+ years experience (4+ for Senior) with ML problems and platform tools either through first-hand modeling or close collaboration with modeling engineers or data scientists
-	- Working knowledge of Jupyter notebooks and Python, plus experience with a compiled language, such as Scala, Java or C++
-	- You stay up-to-date on Machine Learning and Deep Learning industry trends
-	- You have low level understanding of compute systems such as distributed storage, NVIDIA drivers and CUDA toolkits
+	- ***Working knowledge of Jupyter notebooks and Python, plus experience with a compiled language, such as Scala, Java or C++***
+	- ***You stay up-to-date on Machine Learning and Deep Learning industry trends***
+	- ***You have low level understanding of compute systems such as distributed storage, NVIDIA drivers and CUDA toolkits***
 	- You are comfortable with Linux systems
-	- You have worked with Slurm scheduler, Puppet or Ansible
+	- You have worked with ***Slurm scheduler, Puppet or Ansible***
 + Machine Learning Engineer - Community Notes
 	- Location: San Francisco, San Jose, Seattle, Los Angeles, New York City
 	- Base Salary Range: $127,000 to $297,000 USD
@@ -16329,6 +16454,20 @@ They support databases for:
 	- DBT
 	- Scio
 	- Storm
++ Software Engineer - Data Engineering (ML Platform)
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- Base Salary Range: $127,000 to $297,000 USD
+	- X serves our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and build a marketplace that enables the economic success of all its participants.
+	- The Data Engineering team plays a pivotal role in our organization. We are responsible for crafting robust and highly efficient data pipelines that serve a wide range of stakeholders, including our end-users and internal teams such as Product, AI, Marketing, Ads, and Sales. Additionally, we develop essential tools and libraries that cater to various use cases across X. Our work extends beyond data-centric solutions, encompassing non-data-related challenges, ultimately maximizing the potential of data for the benefit of our diverse user base.
+	- What you’ll do: As a data engineer at X, you will be able to work with large scale data and make sense out of it. You will need to do the actual work, and also work with team members to design, code, ship new projects and also maintain the pipelines afterwards. You will need to adapt to different toolings, infrastructures, and environments quickly and adjust the solution accordingly. You will need to make sure the data product being offered is accurate, reliable and easy to deal with.
+	- Who You Are: We are looking for dedicated engineers to join us. You should have a strong desire to learn the new stacks and ship impactful projects. You will have exposure to solving large scale problems and comfortable doing incremental quality work while building brand new systems to enable future quality improvements. Capable of interpreting product requirements into engineering implementation plans. Effectively communicate with different groups (AI, product, marketing/sales and engineering). You are good at coding, data pipeline toolings and distributed systems.
+	- Willingness to relocate to SF Office and work onsite 5 days per week
+	- Extremely committed 
+	- Coding in Scala/Java, Python, Rust
+	- Knowledge of Spark/Kafka/Flink/SQL and RMDBs/NoSQL
+	- Distributed systems and Data Pipeline building experience
+	- Willing to learn and work in a fast paced environment
+	- In compliance with federal law, all offers are subject to verification of identity and eligibility to work in the US, and completion of the required employment eligibility verification form.  
 + skill set:
 	- Minimum of 3+ years experience implementing large-scale production systems
 	- Experience with Java or Scala build systems: maven, ant, sbt

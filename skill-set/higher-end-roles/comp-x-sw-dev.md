@@ -1867,13 +1867,39 @@ Skill set for software development for distributed programming (or distributed c
 
 
 
+###	Skill Set for Financial Engineering, Including Computational Finance
 
 
 
-
-
-
-
++ Senior Quantitative Researcher
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- OCaml Experience
+	- Jane Street Group, LLC has openings for Senior Quantitative Researchers - multiple openings in New York, NY.
+	- The position duties are as follows:  Independently analyze large datasets using a variety of machine learning techniques, build and test models, create new trading strategies and write the code that implements them. Day-to-day job duties include:
+		* Independently managing and executing quantitative research;
+		* Reviewing and vetting research performed by (Junior) Quantitative Researchers;
+		* mentoring and training (Junior) Quantitative Researchers in statistical and modeling techniques, Financial markets, and idioms of the OCaml programming language;
+		* Liaising with Traders regarding trading opportunities, expectancy, and risks pertaining to proprietary valuation and trading methods; and
+		* Implementing, configuring, and maintaining production trading systems in OCaml.
+	- The position requires a  3 or 4 year Bachelor’s Degree in Mathematics, Physics, Engineering, Computer Science or a related scientific or quantitative field or foreign equivalent plus 2 years of experience in any occupation where an individual gains experience conducting quantitative research in the context of financial markets. Experience must include: 
+		* 1 year of experience developing software in OCaml;
+		* 1 year of experience analyzing and building models for financial asset prices in python and pandas;
+		* 1 year of experience contributing to and maintaining a large production codebase.
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Quantitative Trader 
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- Our trading is based on our own proprietary models and on busy days we engage in over a million trades. Traders work in teams to seek out and trade on pricing inefficiencies, develop models, manage risk, investigate new products, and push into new business areas. Experienced traders teach and oversee the less-experienced. New traders serve as assistants while they learn the ropes, getting increasing responsibility as they demonstrate their ability to handle it.
+	- Technology is at the core of how we approach trading, and we consider ourselves as much a technology company as a trading firm. We use OCaml, a statically-typed functional programming language, as our primary development language, and have the largest team of OCaml engineers in any industrial setting.
+	- We are looking for people who have a strong quantitative mind and enjoy working collaboratively to solve challenging problems in a practical setting. Prior knowledge of finance or economics is not expected or required. Experience with particular programming languages is also not required, although generally being comfortable programming in your language of choice is a plus. 
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++  Alpha Capture Lead
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
 
 
 

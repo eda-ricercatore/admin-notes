@@ -481,6 +481,22 @@ Notes on cloud computing:
 	- 8+ years of industry experience with a proven track record of ownership and delivery (or Masters and 6 + years related experience or PhD and 3+ years experience)
 	- 2+ years experience in stream processing platform, such as Flink, Storm, Spark, or equivalent
 	- 2+ years experience using a messaging system, such as Apache Kafka, Pulsar or equivalent
++ Software Engineer - Compute
+	- Are you prepared to join the X team and help build the ultimate real-time information-sharing app, revolutionizing how people connect? At X, we're on a mission to become a trusted global digital public square, committed to minimal censorship within legal boundaries. Our goal is to empower every user to freely create and share ideas, fostering open public discourse without barriers. Join us in shaping this thrilling journey where your contribution will be invaluable to our success!
+	- X serves our community of users and customers by working tirelessly to preserve free expression and choice, create limitless interactivity, and create a marketplace that enables the economic success of all its participants.
+	- Compute team, responsible for providing X Engineering with an approachable, productive, and reliable compute platform. Our infrastructure powers most of the services behind X.com, X’s revenue-generating businesses, and a variety of internal infrastructure and has the largest server footprint in our datacenters. X’s hundreds of engineers use our compute platform to launch and operate their services on a fleet consisting of 100,000s of servers.
+	- Despite being a small team, our compute platform is built using the largest ***Aurora/Mesos clusters*** in the world. Therefore we need to build software that is highly scalable, reliable, cost efficient, and operationally automated.
+	- We also have a more nascent Kubernetes platform, which in the long run we’d like to transition towards. However, this comes with significant technical challenges given the maturity and scale of our current Aurora/Mesos clusters; we would be running one of the largest Kubernetes environments in the world.
+	- We are looking for talented engineers who draw motivation from building infrastructure and platforms that help others be more productive. We’re not working on a traditional consumer product, but we are building the platform that other teams will use to build and run the X product. You favor sustainable, scalable, and automation-focused approaches to the systems you design and build. You’re comfortable iterating quickly and experimenting when exploring a new problem, but you know when and how to invest in automating and documenting your work so it’s discoverable and useful to others. You are curious and driven to understand new technical spaces and problems. You are an engaged and thoughtful collaborator, ready to solve challenging problems with your peers. Quality and reliability are key pillars in your software engineering philosophy. 
+	- Participate in building and operating the mission-critical compute infrastructure that powers X.
+	- Participate in systems review processes, growing into system design contributions.
+	- Actively engage in knowledge sharing - great documentation is really important, and we should have that for the folks who operate the platform, and for the customers who rely on our product.
+	- Proficiency in languages like Java, C++, Python, Golang, Scala
+	- Experience with cluster management and containerization technologies is very helpful (e.g. kubernetes, docker, mesos, borg)
+	- Independent learning capabilities for new technologies
+	- Extremely committed, willing to work in a fast paced environment
+	- Excellent communication and interpersonal skills
+	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
 + skill set:
 	- Sr Software Engineer - Cloud Infrastructure
 	- Splunk's Cloud Infrastructure organization builds robust and resilient auto-scaling platform solutions for hosting Splunk's enterprise software. The teams are fast-paced, high-velocity, and use state-of-the-art technology. The focus is always on automation, solving complex challenges that span across multiple groups within Splunk, ensuring smooth and expedient services to Splunk users.
