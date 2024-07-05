@@ -2789,6 +2789,19 @@ The sets of skills are:
 
 
 Skill sets for FPGA design automation, or FPGA CAD:
++ FPGA Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We are looking for an FPGA Engineer to help us design, test, and deploy advanced hardware accelerators. You will be part of the ultra-low latency team, but you’ll also have the chance to work with people in areas across the firm, including trading, networking, and research infrastructure.
+	- We are big believers in the ability of tools to improve the productivity, reliability, and day-to-day joy of hardware engineering. That’s why we created Hardcaml, a hardware development toolchain embedded in OCaml.
+	- While we don’t expect you to know OCaml (we can teach it to you), we are looking for ***hardware engineers who are excited about the advantages that better tools can bring and as a result are willing to try new things***. We are also looking for a particular mix of skills and experience:
+		* Practical experience of RTL design and testing
+		* Experience with back-end tooling like Vivado and Quartus
+		* ***An interest in using software engineering techniques to improve the hardware design process and experience programming in a high-level language (e.g., Python, C++, Java, Haskell, etc.)***
+		* Experience with PCIe, SERDES integration, and high-performance Ethernet/InfiniBand are a plus
+		* Experience working on trading-related applications is a plus
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- Senior Software Engineer
 	- The Senior Software Manager is a Key member of QuickLogic eFPGA Engineering team, reporting to the Director of Engineering, eFPGA. This is a key role at QuickLogic, with primary responsibility for leading the Software tools development for eFPGA products. The role holder is responsible for software roadmap creation, release planning, coordinate the execution of projects with the help of internal engineers/contract resources. This is a remote opportunity operating mostly in the Pacific time zone.
@@ -16088,10 +16101,23 @@ This subsubsection includes skill sets for data science roles in legal services,
 
 
 
+###	Data Science for Weather Analysis, Meteorology, and Atmospheric Science
 
 
-
-
+Skill sets for data scientists for weather analysis, meteorology, and atmospheric science as well as weather analysts:
++ Weather Analyst
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- We are looking to hire a strongly motivated individual who is excited to work in a fast paced, collaborative environment. We are looking for someone who wants to work on applied research on our weather team, embedded within the commodities trading desk. We invite graduate students nearing graduation, both early career and experienced academics, and industry professionals to apply.
+	- Masters degree (minimum) in Atmospheric Science or related field
+	- Must be a strong programmer, with excellent python skills for data analysis
+	- Expertise in relevant topics such as: ***sub-seasonal predictability, data assimilation and numerical weather prediction, tropical variability, synoptic meteorology, renewable energy forecasting***
+	- ***Experience using gridded data, observational data and satellite data*** to drive quantitative research in academia or industry
+	- ***Machine learning experience, especially applied to weather***, is beneficial
+	- Have good taste in research. The problems you will work on will aim to ***challenge the limits of atmospheric predictability***. You should be comfortable pushing in new and unknown directions while maintaining clarity of purpose
+	- Think and communicate precisely and openly. We believe great solutions come from the interaction between diverse groups of people across the firm
+	- Base salary is $200,000 - $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 
 
 

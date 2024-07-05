@@ -163,6 +163,15 @@ Skill set for compiler design:
 	- RISC-V experience a plus.
 + skill set:
 	- Programming Language Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We're looking to hire an experienced Software Engineer with a background working on programming languages to join us. Jane Street's OCaml Language team focuses on improving OCaml as a foundation for our ever-growing technology stack, in collaboration with the greater OCaml community. We work on many different aspects of the language, aiming to make it easier for developers to express their ideas in OCaml, to improve the performance of the generated code, and to make the OCaml compiler itself faster and easier to use. 
+	- Over the years, we’ve extended the type system with support for novel language features, re-engineered the optimizer ground-up, and added feedback-directed optimization. We also extend and enhance the surrounding toolchain, working on tools for profiling, debugging and generating documentation. The vast majority of our work is open-source, and we upstream as much as we can to the mainstream OCaml compiler.
+	- For this specialized role within the OCaml Language team, we are seeking candidates with multiple years of experience in practical language design and implementation in an industrial-strength implementation. Research experience and publications in programming languages is a plus, but not a requirement. No previous experience with OCaml or functional programming languages is required.
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ skill set:
+	- Programming Language Engineer
 	- We're looking to hire a Software Engineer with experience working on programming languages to join us. Jane Street's Compilers team focuses on improving OCaml as a foundation for our ever-growing technology stack, in collaboration with the greater OCaml community. We work on many different aspects of the language, aiming to make it easier for developers to express their ideas in OCaml, to improve the performance of the generated code, and to make the OCaml compiler itself faster and easier to use. 
 	- Over the years, we’ve extended the type system with support for novel language features, re-engineered the optimizer ground-up, and added feedback-directed optimization. We also extend and enhance the surrounding toolchain, working on tools for profiling, debugging and generating documentation. The vast majority of our work is open-source, and we upstream as much as we can to the mainstream OCaml compiler.
 	- If you’ve worked on a production compiler in industry or on research compilers in an academic setting, you might have a strong foundation for this role. No previous experience with OCaml or functional programming languages is required. Fluency in English is required.
@@ -1472,7 +1481,15 @@ Skill sets for program analysis:
 	- Lots of our automation and Python tooling is written in OCaml, but we’re happy to teach you that, and we don’t expect any previous experience with OCaml or any other functional programming language.
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
-	- BLAH.
+	- Language and Runtime Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We’re looking to hire a Software Engineer with experience working on language compilers and runtimes. Our team maintains a framework used at Jane Street for a wide variety of purposes, including financial modeling, risk calculation, and custom alerting. Our system evaluates, in real time and in parallel, a large, irregular, and dynamic graph of user-specified computations. We are particularly focused on understanding, quantifying, and improving its performance and scalability. The technical problems we face relate to implementation of programming languages and their runtimes, efficient distribution and scheduling of computation graphs, and effective measurement and communication of resource usage.
+	- ***You have a background in compilers, scheduling, dynamic graph systems, parallel runtimes***, or another related field
+	- You have strong experience in ***performance analysis and optimization***
+	- No previous experience with OCaml or functional programming languages is required
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- BLAH.
 + skill set:

@@ -1900,6 +1900,111 @@ Skill set for software development for distributed programming (or distributed c
 	- LOCATION: New York
 	- DEPARTMENT: Trading and Research
 	- TEAM: Quantitative Trading
+	- We’re looking to hire an experienced Alpha Capture professional to help expand and maintain relationships between Jane Street and our sell-side partners. You’ll be joining our Alpha Capture team, which is comprised of many highly collaborative individuals who all endeavor to build out best-in-class models for day-to-day partner interaction.
+	- You’ll collaborate daily with traders and researchers across the firm to inform priors and bolster relationships between Jane Street and its partners. Your existing industry knowledge of the sell side will add immense value as you work to find new partnerships for Jane Street to form. 
+	- The problems we work on rarely have clean, definitive answers, and they often require insights from people across the firm with different areas of expertise. It’s easy to connect with colleagues no matter their department; we find that we make the most progress when team members collaborate and communicate fluidly. People who work here are true partners, working together toward shared goals.
+	- Staying competitive as we’ve grown has required constant invention — of new trading strategies, technology, and processes. We’ve found this is easier when you hire humble, kind people. This is an exciting opportunity to join a growing function at our firm, and we’ll endeavor to put your quick thinking and relationship-building skills to good use.
+	- 5+ years of experience leading an Alpha Capture team at a buy-side institution
+	- Motivated and entrepreneurial; is eager to build relationships internally and externally
+	- Open to a variety of techniques and modes of thinking
+	- Strong quantitative skills
+	- Humble about what you do and don’t know; willing to admit mistakes
+	- Enjoys learning new skills and teaching others what you know
+	- Has the desire to take ownership of ongoing projects and collaborate with colleagues across several departments and geographic regions
+	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Statistical Arbitrage Researcher
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- We are looking for a Statistical Arbitrage Research Analyst who is excited to apply rigorous math and statistical methods to analyze a variety of input datasets to create novel alpha-focused trading strategies for Jane Street. Your work has the potential to span across any and all liquid asset classes, including, but not limited to, U.S. and global equities, equity and fixed income futures, FX, and corporate bonds.
+	- Ideally, you will have previous experience working in a buy-side or sell-side financial firm with some combination of asset price returns data, non-returns-based traditional data, and “alternative” data sets. However, if you are an economist or data scientist in a different field (such as tech) we’re open to teaching you what you need to know to thrive in this role.  
+	- We are looking for someone who is eager to dig deep into the details of data sets to assess quality and consider outliers, dimensionality, feature engineering, causality, aligning dates across datasets, and more. 
+	- You’ll help us stay vigilant in our efforts to find and correct errors or mistakes in code, which inevitably happen — though we expect this role to involve as much time delving into the lovely messiness and complexity of data as it will on advanced statistical modeling.
+	- The problems we work on rarely have clean, definitive answers, and they often require insights from people across the firm with different areas of expertise. We find that we make the most progress when team members collaborate and communicate fluidly. Your success in this role will depend on your ability to balance expertise and intellectual rigor with an open mind to a variety of techniques and modes of thinking.
+	- We don’t believe in “one-size-fits-all” solutions; we are open to and excited about applying all different types of mathematical and statistical techniques, depending on what best fits a given problem. Progress takes place at different tempos on our team depending on the project, so you’ll need to be comfortable embracing both large leaps and incremental steps forward.
+	- 2-6 years of professional experience working in a data-rich environment in quantitative research
+	- Team player with a highly collaborative mindset; communicates clearly and often and enjoys discussing research ideas and results in depth
+	- Open to a variety of techniques and modes of thinking
+	- Humble about what you do and don’t know; willing to admit mistakes
+	- Enjoys learning new skills and teaching others what you know
+	- Able to write code and analyze large datasets
+	- Experienced with statistical and ML modeling
+	- Knowledge of Python preferred, but not required
+	- Background knowledge of financial markets is a plus
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Trader
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- OCaml Experience
+	- Jane Street Group, LLC has openings for Traders - multiple openings in New York, NY.
+	- The position duties are as follows:  Work as part of a team to seek out and trade on pricing inefficiencies, develop models, manage risk, investigate new products, and push into new business areas. Day-to-day job duties include:
+		* Responsible for executing the firm’s proprietary and bespoke strategies in trading various financial instruments in global markets;
+		* Continuously update and maintain a proprietary trading system that facilitates trading of these financial instruments across global market;
+		* Trading and pricing special situations and corporate actions in various global markets;  
+		* Liaising with our global office traders about trading opportunities and their expectancy/risks as pertains to the firm’s proprietary valuation and trading methods; 
+		* Responsible for maintaining competitive markets and providing real liquidity for financial instruments being traded;
+		* Exercising discretion with respect to firm risk limits in all trading situations; 
+		* Maintaining and expanding active communication/trading with brokers who specialize in the financial instrument being traded, and research and develop new strategies for trading various financial instruments in their respective markets; 
+		* Maintaining responsibility for building and maintaining complex spreadsheets and databases that are crucial to real time pricing, and market making of financial instruments being traded;  
+		* Leverages strong understanding of trading strategies and behavior in the relevant markets, and significant knowledge of Excel, Bloomberg, VBA, UNIX, Bash, OCaml, and PostgreSQL.; 
+		* Training  Junior Traders in Jane Street’s trading methodology and culture; and
+		* Actively interviews and recruits new Traders to join Jane Street. 
+	- The position requires a 3 or 4 year Bachelor’s degree in Mathematics, Physics, Engineering, Computer Science, or a related scientific or quantitative field or foreign equivalent plus 1 year of experience as an assistant trader or similar role. Experience must include the following:
+		* Conducting trade entry, trade reporting organizing and displaying market data to facilitate trade decisions;
+		* Back-testing new trading strategies and conducting paper-trades on new trading strategies;
+		* Applying knowledge of Excel, VBA and Bloomberg; and 
+		* Applying knowledge of UNIX, Bash, OCaml, and PostgreSQL.  
+		* Series 7 and Series 57 license required.
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Fundamental Analyst
+	- LOCATION: Hong Kong
+	- DEPARTMENT: Trading and Research
+	- TEAM: Fundamental Research
+	- We are looking for an experienced Fundamental Analyst to help our global team of generalists develop innovative ways to overlay traditional stock analysis onto the firm’s core quantitative strategy. The person will focus on all APAC and some EMEA markets. Our day-to-day work is diverse, and your analysis will help us find new ways to expand our trading opportunities.
+	- Contributing to team coverage of fundamental events and special situations
+	- Precisely communicating valuation changes and investment theses to global trading teams in time-sensitive environments
+	- Developing and evaluating trade ideas that involve fundamental catalysts or valuation insights
+	- Performing due diligence, including valuation analysis for primary and secondary equity offerings
+	- Interacting with sell-side sales and research contacts globally
+	- 5+ years of relevant experience analyzing securities (hedge fund analyst, long only analyst, sell side equity research, sell side sales and trading)
+	- Undergraduate degree (BS/BA equivalent) required, degree in a quantitative field preferred
+	- Effective communicator
+	- Flexible enough to consider intellectually rigorous but nontraditional equity trading strategies
+	- Familiar with accounting, financial statement analysis, and financial modeling
+	- Prior experience with VBA and/or SQL is a plus, but not required
+	- Fluency in English required
++ India Fundamental Analyst
+	- LOCATION: Hong Kong
+	- DEPARTMENT: Trading and Research
+	- TEAM: Fundamental Research
+	- We are looking for an experienced Fundamental Analyst to help our global team of generalists develop innovative ways to overlay traditional stock analysis onto the firm’s core quantitative strategy. The person will focus on India but also potentially other APAC markets. Our day-to-day work is diverse, and your analysis will help us find new ways to expand our trading opportunities.
+	- Contributing to team coverage of fundamental events and special situations
+	- Precisely communicating valuation changes and investment theses to global trading teams in time-sensitive environments
+	- Developing and evaluating trade ideas that involve fundamental catalysts or valuation insights
+	- Performing due diligence, including valuation analysis for primary and secondary equity offerings
+	- Interacting with sell-side sales and research contacts globally
+	- 5+ years of relevant experience analyzing securities (investment banking analyst/associate, equity research associate, buy-side analyst, or similar)
+	- Undergraduate degree (BS/BA equivalent) required, degree in a quantitative field preferred
+	- Effective communicator
+	- Flexible enough to consider intellectually rigorous but nontraditional equity trading strategies
+	- Familiar with accounting, financial statement analysis, and financial modeling
+	- Prior experience with VBA and/or SQL a plus, but not required
+	- Fluency in English required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -266,9 +266,26 @@ Types of interfaces:
 	-  Strong understanding of the NLP space and Voice based processing (Natural language Processing, understanding, sentiment analysis, Intent classification, dialogue flows, personality insight, Text to Speech, Speech to Text, )
 	-  Experience in conceiving and delivering fantastic end-to-end cross-channel experiences with appreciation of flow, context, micro-interactions, multi -modal possibilities, performance and tone for multiple customers
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Staff UX Designer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We are looking for a Staff UX Designer capable of producing elegant design solutions for our internal systems, while also cultivating an environment for sustainable design growth at the firm. You will sit on one of a few teams in Tech, the part of Jane Street responsible for building the firm's technology. 
+	- Across Tech, we collaborate with teams and users in a wide variety of disciplines, so we're very invested in building an intentional design culture that helps people at Jane Street do their best work. The interest in partnering with people who bring user experience process and thinking to projects has grown in parallel with the scale of the firm. You will be joining at an inflection point: we are actively growing our design talent to meet the demand.
+	- With direct access to a diverse user community, you will lead initiatives to help your team understand what people need to do their jobs, and apply user research to help scope what products need to be built to address those needs. You will help teams better understand how to approach user-centered research and how they can deploy these methods early and often during the product life cycle. 
+	- Demonstrating design craft is critical to the daily work of this role. As you scope work to be done in partnership with your team, you will rapidly sketch, storyboard, and prototype possible solutions for better experiences. We will expect you to distill complex routines of your user community into approachable design solutions that can be used by people at all levels of technical skill.
+	- We are looking for someone who understands that deep knowledge of the existing processes and domain for a particular user community is crucial to their design work. Your scope of work will encompass initial conversations with people to learn more about their systems and challenges.
+	- You should be willing to take the time needed to learn about our work and existing processes, while being flexible as we build a design presence. You will offer your insights on UX decisions across your team, advocate for usability testing across other teams in Tech, standardize user research methodologies, and further define how our engineers can best partner with a design collaborator.
+	- 5+ years of experience in UX design with a professional portfolio (please include a link to this in your resume or elsewhere in your application)
+	- Your portfolio demonstrates a mastery of distilling challenges people face with their software into feasible solutions
+	- Interested in helping our users and passionate about making their lives easier
+	- Comfortable working on problems that rarely have clean, definitive answers; happy to make immediate, incremental improvements where there is obvious value
+	- Capable of leading design projects across a product lifecycle from early conception to launch 
+	- Invested in unpacking technical details within a new domain prior to deep design work
+	- Comfortable sharing ideas and designs early, and rapidly updating them within nebulous problem spaces
+	- Enjoys collaborating with a wide range of colleagues with different skill sets and levels of experience; approachable, humble, and curious
+	- Eager to create a strong design ethos within the firm and collaborate with colleagues to integrate a design process
+	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- BLAH.
 + skill set:
@@ -547,3 +564,35 @@ ResearchOps is about
 
 
 
+##	Skills for Graphic Design
+
+
+
++ skill set:
+	- Production Designer
+	- LOCATION: New York
+	- DEPARTMENT: Creative
+	- TEAM: Creative Engagement
+	- We are looking for an experienced designer to join our Creative Engagement team. In this role, you’ll work closely with our team of talented designers to transform concepts from initial sketch to a finalized print or digital design. 
+	- We’re looking for someone with a methodical approach to work and a meticulous attention to detail who is eager to take on a variety of projects and help out wherever necessary. The projects you’ll work on will be wide-ranging, and could include hands-on design for items like t-shirts, board games, conference booths, logos, and much more. 
+	- Retouching and adapting existing designs for new sizes, formats, or variants
+	- Quality checking and preparing final press-ready files based on vendor specifications
+	- Identifying any graphic inconsistencies and ensuring artwork remains in line with our visual brand
+	- Managing multiple projects while meeting deadlines
+	- Supporting the auditing, updating, and housekeeping of design files and assets
+	- This position sits within Jane Street’s Creative Engagement team, a close-knit and nimble group that continues to grow alongside the firm. You’ll jump right into a variety of projects with little red tape and a quick feedback loop — an environment that really lets the creative process shine.
+	- Our team takes a holistic and thoughtful approach to design and we’ll look to you not only to take instruction well from our team of designers, but also to execute at a high level. You will have room to grow your skills, try new things, and really make this position your own. Your skillset and design solutions will make the team stronger.
+	- A portfolio of work is required to apply.
+	- 3-6 years of design experience, including internships
+	- Strong layout and typography skills; illustration skills are a major plus
+	- Able to turn initial sketches into compelling designs 
+	- Views precise feedback and creative iteration as key to solving design puzzles
+	- Enjoys working on a diverse set of projects and has a no-job-too-small attitude 
+	- Has a deep understanding of file formats, color management, image sizing, and other pre-press requirements
+	- Likes to learn new things and teach others what you know
+	- Proactive and organized; able to manage competing priorities and stay on deadline
+	- Communicates clearly with colleagues and external partners
+	- Proficient in Photoshop, Illustrator, InDesign, and PowerPoint
+	- Comfortable working in Google Suite (especially Slides and Docs)
+	- No financial experience necessary 
+	- Base salary is $85000 - $125000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
