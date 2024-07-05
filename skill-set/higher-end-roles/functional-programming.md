@@ -4,6 +4,29 @@
 ##	Notes About Functional Programming
 
 
+Resources:
++ https://www.janestreet.com/mock-interview/
+	- https://blog.janestreet.com/tag/internship/
++ https://www.janestreet.com/technology/
++ https://opensource.janestreet.com/
++ https://www.janestreet.com/tech-talks/
++ https://blog.janestreet.com/
+	- https://blog.janestreet.com/applying-to-jane-street/
+	- https://blog.janestreet.com/interviewing-at-jane-street/
+	- https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/
+	- https://blog.janestreet.com/unraveling/
+	- https://blog.janestreet.com/no-functional-experience-required/
++ https://signalsandthreads.com/
+	- https://signalsandthreads.com/future-of-programming/
+	- https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/
+	- https://www.janestreet.com/join-jane-street/get-to-know-us/brittany/
++ https://www.janestreet.com/quantitative-research/
++ https://www.janestreet.com/functional-programming/
+
+
+
+
+
 
 
 
@@ -11,6 +34,64 @@
 
 
 Generic sets of skills in software development, using functional programming:
++ skill set:
+	- Software Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We're always hiring software engineers for all of our offices. Technology is at the core of how we approach our work, and engineers are intimately tied in to every area of the business. 
+	- We are big believers in functional programming, using OCaml, a statically-typed functional programming language, as our primary development language. We also believe in the value of open source software, using it in our daily work and releasing hundreds of thousands of lines of our own code as open source.
+	- Top-notch programming skills
+	- Deep experience with - and love for - technology. There's no specific checklist; we use software to approach a variety of problems, so we're interested in everything from machine learning to systems administration to programming language design
+	- Strong interpersonal skills. Software engineering at Jane Street is highly collaborative, and we are looking for people who can work effectively in small, close-knit teams
+	- We don’t expect you to have experience with functional programming, OCaml, or finance; we’re happy to hire talented engineers and teach them what they need to know. 
+	- If you'd like to get an idea of what we cover in our software engineering interview process, you can read our series of blog posts discussing what we do and don't look for.
+		* https://blog.janestreet.com/applying-to-jane-street/
+		* https://blog.janestreet.com/interviewing-at-jane-street/
+		* https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/
+		* https://blog.janestreet.com/unraveling/
+		* https://blog.janestreet.com/no-functional-experience-required/
+	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ skill set:
+	- Software Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We’re looking for Software Engineers who want to help us design and build the systems and tools that run the firm. You’ll find Software Engineers in all parts of Jane Street, solving real problems in critical areas ranging from trading desks to our accounting team, as well as building foundational infrastructure, whether that means implementing network monitoring or risk models. We are big believers in functional programming, and use OCaml as our primary development language (we have the largest team of OCaml developers in any industrial setting). 
+	- Beyond our own environment, we also recognize the value of open source software, leveraging it in our daily work and releasing hundreds of thousands of lines of our own code as open source. We’re also always looking for ways to expand open source projects, and provide ongoing support to things like Mercurial, the OCaml compiler, and the OPAM package manager. That said, we’re interested in talented engineers with experience in any language—most of us came in with little to no practical experience in OCaml before we joined. 
+	- We don’t expect you to have a background in functional programming, finance, or any other specific field—we’re looking for smart programmers who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A top-notch programmer with a love for technology
+		* Intellectually curious, collaborative, and eager to learn
+		* Humble and unafraid to ask questions and admit mistakes
+	- Base salary is $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Software Engineer Internship, January-April
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time. Over the course of your internship, you will explore ways to approach and solve exciting problems within your field of interest through fun and challenging classes, interactive sessions, and group discussions—and then you will have the chance to put those lessons to practical use.
+	- As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done. When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Software Engineering intern, you’ll learn how we use OCaml (our primary development language) in our day to day work, and gain exposure to the libraries and tools that are foundational to our internal systems.
+	- During the program you’ll work on two projects, mentored closely by the full-time employees who designed them. Some projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will work in two distinct areas, so you’ll gain a better understanding of the wide range of problems we solve every day, from high performance trading systems to programming language design and everything in between.
+	- We don’t expect you to have a background in finance, OCaml, functional programming, or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A top-notch programmer with a passion for technology
+		* Collaborative and courteous with strong interpersonal and communication skills
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Must be enrolled in a co-op program at your university
+	- Base salary is $250000.
++ Software Engineer Internship, September-December
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- Our internships center around hands-on mentorship and a robust educational curriculum that includes challenging classes, interactive sessions, and small group discussions. Over the course of 10-12 weeks, you’ll be matched with full-time employees in your role who will mentor you as you tackle real-world projects they design. You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
+	- If you’ve never thought about a career in finance, you’re in good company—many of us were in the same position before working here. If you have a curious mind, a collaborative nature, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Software Engineering intern, you’ll learn how we use OCaml (our primary development language) in our day to day work, and gain exposure to the libraries and tools that are foundational to our internal systems.
+	- During the program you’ll work on two projects, mentored closely by the full-time employees who designed them. Some projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will work in two distinct areas, so you’ll gain a better understanding of the wide range of problems we solve every day, from machine learning to systems administration to programming language design.
+	- We don’t expect you to have a background in finance, OCaml, functional programming, or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A top-notch programmer with a passion for technology
+		* Collaborative and courteous with strong interpersonal and communication skills
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Fluent in English
 + Senior Software Engineer:
 	- LOCATION: New York
 	- DEPARTMENT: Technology
@@ -44,10 +125,6 @@ Generic sets of skills in software development, using functional programming:
 	- Strong interpersonal skills. Software engineering at Jane Street is highly collaborative and we are looking for people who can work effectively in small, close-knit teams.
 	- We don't expect you to have experience with functional programming, F#, OCaml, Linux, Windows, or finance. We’re happy to hire talented engineers and teach them what they need to know.
 	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
@@ -139,6 +216,49 @@ Generic sets of skills in software development, using functional programming:
 		* Programming experience in any language (functional languages a plus)
 		* Fluency in English required
 		* Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Linux Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: IT and Systems Engineering
+	- We are looking for Linux Engineers to join the team that maintains the critical infrastructure underlying the rest of Jane Street’s technology. Our group includes hard-working Systems Engineers, Administrators and Programmers, tasked with maintaining and improving the platform that powers Jane Street's production trading systems. Our mix of in-house and open source software allows you to investigate and innovate at every level. On any given day, you could be debugging kernel performance, developing management tools, or resolving production issues in real time. Diving into tricky systems problems is our specialty.
+	- Deployment automation, scalable configuration management, and obsessive monitoring are the focus of some of our ongoing projects. We automate as much of our work as we can, but not because we’re lazy. We find that automation reduces our error rate and overall workload - plus, we think it's fun.
+	- Working in our group provides opportunities for involvement with almost every other facet of the company. We work directly with colleagues in trading, technology, and operations to build and maintain systems with a firm-wide scope. Using feedback from other groups and our custom monitoring tools, we strive to resolve production issues quickly, perform comprehensive root-cause analyses, and integrate long-term fixes in a clean and robust way.
+	- We don't expect you to come in with deep experience - we're happy to hire smart problem solvers and teach them what they need to know. You’ll train alongside our more seasoned team members in a hands-on capacity, learning how we make tangible and immediate improvements to our infrastructure every day.
+	- Bachelor's degree in Computer Science, Software Engineering, or other technical discipline, or equivalent experience
+	- Experience managing/troubleshooting Linux systems in a home, work, or school environment
+	- Exposure to Linux environments through past experience in either software development, IT operations (Helpdesk, Technical Support, DevOps, etc.), or a similar field
+	- Interested in systems programming and administration and a desire to expand these skills
+	- Willing to learn OCaml, our programming language of choice (no prior experience with OCaml is required, though)
+	- Able to analyze and deconstruct technical problems
+	- Knowledgeable about operating system fundamentals, especially Linux
+	- Confident with the Unix command line and basic shell scripting
+	- Has a basic understanding of network protocols and can perform basic troubleshooting
+	- Comfortable with fundamental programming concepts
+	- Practical experience with modern Linux systems and systems programming concepts (e.g., C, sockets, virtual memory, process life cycle) is a plus
+	- Intermediate/advanced knowledge of troubleshooting tools and techniques (e.g., gdb, perf, DTrace, or SystemTap) is a plus
+	- Intermediate/advanced programming experience in any language is a plus
+	- Base salary is $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ skill set:
+	- Linux Engineer Internship, May-August
+	- LOCATION: New York
+	- DEPARTMENT: IT and Systems Engineering
+	- TEAM: IT and Systems Engineering
+	- Our internships center around hands-on mentorship and a robust educational curriculum that includes challenging classes, interactive sessions, and small group discussions. Over the course of 10-12 weeks, you’ll be matched with full-time employees who provide one-on-one mentorship on your project work. You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
+	- If you’ve never thought about a career in finance, you’re in good company—many of us were in the same position before working here. If you have a curious mind, a collaborative nature, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Linux Engineering intern, you’ll work side by side with full-timers to learn how we maintain and improve the critical infrastructure underlying our firm’s technology, including our production trading systems. On any given day, we might be debugging kernel performance, developing management tools, or resolving production issues in real time. Our mix of in-house and open source software allows us to investigate and innovate at every level.
+	- During the program you’ll work on two projects, mentored closely by the full-time employees who designed them. Some projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will be drawn from two different areas, so you’ll gain a better understanding of the wide range of problems we solve every day—from finding new and interesting ways to resolve production issues quickly, perform comprehensive root-cause analyses, and integrate long-term fixes in a clean and robust way. 
+	- You’ll have a unique opportunity to see how our team interacts with almost every other group, building solutions that work on a firm-wide scale. We automate as much of our work as we can, because we find that automation reduces our error rate and overall workload—plus, we think it's fun.
+	- We don’t expect you to have a background in one specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* Knowledgeable of operating system fundamentals and computer architecture
+		* Able to understand network protocols at a basic level
+		* Someone who solves problems by writing code (in any language)
+		* Intellectually curious, collaborative, and eager to learn
+		* Humble and unafraid to ask questions and admit mistakes
+		* A strong communicator
+		* As comfortable at the command-line of a \*nix machine as you are in a GUI 
+		* Experienced with systems programming concepts like C, sockets, virtual memory, and the process life cycle
+		* Experienced with a modern \*nix system, whether that’s from course work, time spent as a systems administrator for your campus computer lab, side projects, etc.
+		* Fluent in English
 + skill set:
 	- Senior Linux Engineer
 	- LOCATION: New York
@@ -558,7 +678,23 @@ Generic sets of skills in software development, using functional programming:
 	- Can stay focused on the team’s roadmap and objectives in the long term
 	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
-	- BLAH.
+	- Cybersecurity Analyst
+	- LOCATION: New York
+	- DEPARTMENT: Cybersecurity
+	- TEAM: Cybersecurity
+	- We're looking to add a passionate Cybersecurity Analyst to our New York office to help protect Jane Street’s employees, data, and infrastructure from the wilds of the internet. Our Cybersecurity Analysts are responsible for developing and using monitoring tools to guard the firm, as well as handling incident response and remediation when a threat is found.
+	- Our Cybersecurity team is a skilled group of programmers and security experts who are dedicated to keeping the firm safe. We consider ourselves to be tapped into developments in the broader cybersecurity space, and can tell the difference between the latest cool hack by security researchers and what actually matters in our day-to-day. In this role, you’ll carefully consider the context of our decisions as we think about the tradeoffs we’re making in our approach to resolving cybersecurity issues. We’ll expect you to apply a methodical approach to performing unstructured investigations to locate and repair the source of a security issue.
+	- You will also act as an ambassador of best practices to the rest of the firm. Team members understand and practice good personal cybersecurity hygiene, and are able to talk to others about it. A key component of doing well in this position is bringing everyone else along with you on the cybersecurity journey, and you should be excited to learn from your colleagues and pass that learning on to new analysts.
+	- Graduating December 2023 through Summer 2024 with a Bachelor’s degree in Computer Science, Engineering, Information Systems, or a related field
+	- An avid follower of cybersecurity news
+	- A strong programmer who can demonstrate high potential and an aptitude for learning
+	- Comfortable and interested in managing your code and configs in version control, and knowledge of your editor (we don't care which though)
+	- Familiar with threat modeling, and able to clearly communicate your understanding of the tradeoffs we’re making to internal stakeholders
+	- Able to explain the cybersecurity decisions you’ve made in your own life, and how you’ve approached thinking about those decisions
+	- Able to adapt to changing scenarios and make challenging decisions under pressure
+	- Humble attitude about what you know and don’t know; not afraid to ask questions and admit mistakes
+	- Curious problem solver with a positive, collaborative attitude
+	- Base salary is $175,000 - $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
 	- BLAH.
 + skill set:

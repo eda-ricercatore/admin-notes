@@ -190,6 +190,9 @@ Skill set for compiler design:
 	- We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas. We don’t expect you to have a background in finance, OCaml, or functional programming. Fluency in English required.
 + skill set:
 	- Tools & Compilers Researcher Internship, Flexible
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
 	- We are excited to announce research internships in our Tools and Compilers group, which will be available to complete from Summer 2022. We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas.
 	- Jane Street's Compilers team focuses on improving OCaml as a foundation for Jane Street's ever-growing technology stack, in collaboration with the greater OCaml community. We work on many different aspects of the compiler, aiming to make it easier for developers to express their ideas in OCaml, to improve the performance of the generated code, and to make the OCaml compiler itself faster and easier to use. 
 	- Over the years, we extended the type system with support for novel language features, re-engineered the optimizer ground-up, and added feedback-directed optimization. We also extend and enhance the surrounding toolchain, working on tools for profiling, debugging, documenting, and building automation. The vast majority of our work is open-source, and we upstream as much as we can to the mainstream OCaml compiler.
@@ -200,6 +203,22 @@ Skill set for compiler design:
 	- During the internship, you will work in collaboration with your mentors on one project for about 10-12 weeks. You’ll learn how we use OCaml in our day-to-day work, and gain exposure to the libraries and tools that are foundational to our internal systems. You’ll gain a better understanding of the wide range of problems we solve every day. You’ll try out new ideas and apply state-of-the art research to a large actively-developed production codebase.
 	- You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
 	- We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas. We don’t expect you to have a background in finance, OCaml, or functional programming. Fluency in English required. Please include the list of your peer-reviewed publications in your resume.
++ skill set:
+	- Tools & Compilers Research and Development Internship, Flexible
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We are excited to announce research internships in our Tools and Compilers group. We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas. 
+	- Jane Street's Compilers team focuses on improving OCaml as a foundation for Jane Street's ever-growing technology stack, in collaboration with the greater OCaml community. We work on many different aspects of the compiler, aiming to make it easier for developers to express their ideas in OCaml, to improve the performance of the generated code, and to make the OCaml compiler itself faster and easier to use. 
+	- Over the years, we extended the type system with support for novel language features, re-engineered the optimizer ground-up, and added feedback-directed optimization. We also extend and enhance the surrounding toolchain, working on tools for profiling, debugging, documenting, and building automation. The vast majority of our work is open-source, and we upstream as much as we can to the mainstream OCaml compiler.
+	- During the application process, we will work with you to identify a project that aligns with your research expertise and interests. Examples of areas we are interested in exploring include:
+		* Type systems that track locality and uniqueness
+		* Superoptimization 
+		* Compiler testing and validation
+	- During the internship, you will work in collaboration with your mentors on one project for about 10-12 weeks. You’ll learn how we use OCaml in our day-to-day work, and gain exposure to the libraries and tools that are foundational to our internal systems. You’ll gain a better understanding of the wide range of problems we solve every day. You’ll try out new ideas and apply state-of-the art research to a large actively-developed production codebase.
+	- You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
+	- We’re looking for PhD and masters students with outstanding research experience in programming languages, compilers, verification, and related areas. We don’t expect you to have a background in finance, OCaml, or functional programming. Please include the list of your peer-reviewed publications in your resume.
+	- Base salary is $250,000.
 + skill set:
 	- GNU toolchain developer
 	- AdaCore is seeking a talented and highly motivated GNU toolchain developer. 

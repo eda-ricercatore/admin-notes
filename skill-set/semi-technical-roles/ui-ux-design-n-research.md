@@ -596,3 +596,40 @@ ResearchOps is about
 	- Comfortable working in Google Suite (especially Slides and Docs)
 	- No financial experience necessary 
 	- Base salary is $85000 - $125000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Creative Artworker
+	- LOCATION: London
+	- DEPARTMENT: Creative
+	- TEAM: Creative Engagement
+	- We are looking for an experienced artworker to join our Creative Engagement team. In this role, you’ll work closely with our team of talented designers to transform concepts from initial sketch to a finalised print or digital design. 
+	- We’re looking for someone with a methodical approach to work and a meticulous attention to detail who is eager to take on a variety of projects and help out wherever necessary. The projects you’ll work on will be wide-ranging, and could include hands-on design for items like t-shirts, board games, conference booths, logos and much more. 
+	- Retouching and adapting existing designs for new sizes, formats or variants
+	- Quality checking and preparing final press-ready files based on vendor specifications
+	- Identifying any graphic inconsistencies and ensuring artwork remains in line with our visual brand
+	- Managing multiple projects while meeting deadlines
+	- Supporting the auditing, updating and housekeeping of design files and assets
+	- This position sits within Jane Street’s Creative Engagement team, a close-knit and nimble group that continues to grow alongside the firm. You’ll jump right into a variety of projects with little red tape and a quick feedback loop — an environment that really lets the creative process shine. 
+	- Our team takes a holistic and thoughtful approach to design and we’ll look to you not only to take instruction well from our team of designers, but also to execute at a high level. You will have room to grow your skills, try new things and really make this position your own. Your skillset and design solutions will make the team stronger.
+	- A portfolio of work is required to apply.
+	- 3-6 years of design experience, including internships
+	- Strong layout and typography skills; illustration skills are a major plus
+	- Able to turn initial sketches into compelling designs 
+	- Views precise feedback and creative iteration as key to solving design puzzles
+	- Enjoys working on a diverse set of projects and has a no-job-too-small attitude 
+	- Has a deep understanding of file formats, colour management, image sizing and other pre-press requirements
+	- Likes to learn new things and teach others what you know
+	- Proactive and organised; able to manage competing priorities and stay on deadline
+	- Communicates clearly with colleagues and external partners
+	- Proficient in Photoshop, Illustrator, InDesign and PowerPoint
+	- Comfortable working in Google Suite (especially Slides and Docs)
+	- No financial experience necessary 
+	- Fluency in English required
+
+
+
+
+
+
+
+
+
+

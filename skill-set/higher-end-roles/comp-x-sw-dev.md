@@ -1888,6 +1888,20 @@ Skill set for software development for distributed programming (or distributed c
 		* 1 year of experience analyzing and building models for financial asset prices in python and pandas;
 		* 1 year of experience contributing to and maintaining a large production codebase.
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Quantitative Trader
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- We are looking for Quantitative Traders to help us find and trade on price inefficiencies, develop models, manage risk, investigate new products, and push into new business areas. Our trading is based on our own proprietary models, and on busy days we engage in over a million trades across 200 trading venues around the world.
+	- Our trading desks are central to our collaborative and cooperative office environment. You can expect to work side by side with experienced Traders who are committed to teaching, guiding, and supporting our newest hires from day one. Through hands-on, interactive training, you’ll acquire significant, real trading responsibilities within weeks to months of being on the desk. In parallel, you will participate in our robust year-long firmwide educational curriculum.
+	- A profitable trading strategy is only as strong as the technology it runs on, and we consider ourselves as much a technology company as a trading firm. While exposure to a particular programming language is not required, general programming experience is a plus.
+	- We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A critical thinker with a strong quantitative mind
+		* A collaborative problem-solver who enjoys working on a team
+		* Able to make decisions quickly in a fast-paced environment
+		* Proactive, reliable, and courteous with strong organizational and communication skills
+		* Eager to ask questions, admit mistakes, and learn new things
+	- Base salary is $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + Quantitative Trader 
 	- LOCATION: New York
 	- DEPARTMENT: Trading and Research
@@ -1896,7 +1910,89 @@ Skill set for software development for distributed programming (or distributed c
 	- Technology is at the core of how we approach trading, and we consider ourselves as much a technology company as a trading firm. We use OCaml, a statically-typed functional programming language, as our primary development language, and have the largest team of OCaml engineers in any industrial setting.
 	- We are looking for people who have a strong quantitative mind and enjoy working collaboratively to solve challenging problems in a practical setting. Prior knowledge of finance or economics is not expected or required. Experience with particular programming languages is also not required, although generally being comfortable programming in your language of choice is a plus. 
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
-+  Alpha Capture Lead
++ Quantitative Trader Internship, May-August
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- Our internships center around hands-on mentorship and a robust educational curriculum that includes challenging classes, interactive sessions, and small group discussions. Over the course of 10-12 weeks, you’ll be matched with full-time employees in your role who will mentor you as you tackle real-world projects they design. You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
+	- If you’ve never thought about a career in finance, you’re in good company—many of us were in the same position before working here. If you have a curious mind, a collaborative nature, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Quantitative Trading intern, you’ll be part of an immersive experience, paired with experienced traders who will teach you how we identify market signals, analyze and execute trading strategies, construct quantitative models, conduct statistical analysis, and build trading intuition. 
+	- During the program you'll work on projects that expose you to the wide variety of problems we solve every day. Interns have the chance to be mentored sequentially by full-time employees working in two different areas of trading. Quantitative Trading interns work on a diverse range of projects with their mentors, conducting studies on new or existing datasets, building quantitative models, writing new tools, or even considering big-picture questions that we're still trying to figure out. Project work is complemented by classes on the broader fundamentals of markets and trading, lunch seminars, and dozens of simulated interactive trading sessions.
+	- A profitable trading strategy is only as strong as the technology it runs on, and we consider ourselves as much a technology company as a trading firm. While exposure to a particular programming language is not required, general programming experience is a plus.
+	- We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re actually more interested in how you think and learn than what you currently know. You should be:
+		* A strong quantitative thinker who enjoys working collaboratively on a team 
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Fluent in English
++ Quantitative Trader Internship, December-February
+	- LOCATION: Hong Kong
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time. Over the course of your internship, you will explore ways to approach and solve exciting problems within your field of interest through fun and challenging classes, interactive sessions, and group discussions—and then you will have the chance to put those lessons to practical use.
+	- As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done. When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Quantitative Trading intern, you’ll be part of an immersive experience, paired with experienced traders who will teach you how to identify market signals, analyze and execute strategies, construct quantitative models, conduct statistical analysis, and build trading intuition. 
+	- You'll work on projects alongside mentors in two different areas of trading, giving you a sense of the variety of problems we solve every day. In the past, these projects have included conducting studies on new or existing datasets, building quantitative models, writing tools, and even considering big-picture questions that we're still trying to figure out.
+	- Throughout the summer, you'll also participate in dozens of simulated interactive team-based mock trading sessions. These will expose you to many of the dynamics we observe in real markets, illustrate the role that we play in making markets more efficient, and help build intuition for how we think about both trading and collaborating.
+	- This work is reinforced with intensive classes on the broader fundamentals of markets and trading, workshops on various tools we use, and interactive lunch seminars with senior traders.  
+	- During the second half of the internship, you will also get to participate in one “elective” based on your interests. Electives consist of targeted classes and immersive activities, and are designed to give you a deeper and more nuanced look into one of the many aspects of what trading and research can look like at Jane Street:
+		* Algorithmic Trading and Market Microstructure
+			+ You’ll learn the end-to-end process of developing an algorithmic trading strategy. Working in small teams, you'll learn how to analyze market data to develop a tradable fair value, implement a trading strategy in Python, and adapt that strategy to different market structures. Teams will compete to have the best performing strategy in several different simulated markets. Through classes and immersive activities, you'll also learn how to backtest your strategy and improve its performance from simulation, and how real-world trading differs from simulation. 
+		* Trading Strategy and Scenarios
+			+ Each week, you'll be introduced to a new trading scenario inspired by real events on a particular trading desk. You’ll work in teams on multiple mock trading sessions related to each scenario and use the time between sessions to refine your strategy, write recaps, and hear how the story played out in real life from our seasoned full-time traders who lived through it. 
+		* Modeling, Machine Learning, and Data Science
+			+ You'll learn how Jane Street applies advanced machine learning and statistical techniques to model and predict large datasets. Through a series of classes and activities, you will analyze things such as real trading data, simulated marketdata, and prediction markets. You'll gain an understanding of the differences between textbook machine learning and its application to noisy and complex financial data.
+	- We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A strong quantitative thinker who enjoys working collaboratively on a team 
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Fluency in English required
+	- There is a strong technology component to our trading strategy. Knowing a particular programming language is not required, but general programming experience is a plus. To learn more, you can read about all the internships we offer, our interview process, and meet some of our newest hires.
+	- Please note: Jane Street will provide flights to and from Hong Kong as well as accommodation throughout the entirety of the program.
++ Quantitative Researcher
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- At Jane Street, we consider trading and programming to be two ends of a continuum. As both a trading firm and a tech firm, we have room for people who love to trade, people who love to program, and people everywhere in between. Nearly all of our traders write code, and many of our software engineers trade. The role you carve out for yourself will be largely dependent on your strengths and the types of problems you enjoy thinking about.
+	- Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software engineering roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
+	- Be able to apply logical and mathematical thinking to all kinds of problems. Asking great questions is more important than knowing all the answers
+	- Write great code. We mostly write in OCaml, so you should want to learn functional programming if you don't already have experience with it
+	- Have good taste in research. The problems we work on rarely have clean, definitive answers. You should be comfortable pushing in new and unknown directions while maintaining clarity of purpose
+	- Think and communicate precisely and openly. We believe great solutions come from the interaction between diverse groups of people across the firm
+	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Quantitative Researcher
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- We are looking for quantitative researchers to help us build models, strategies, and systems that price and trade financial instruments. Our advanced proprietary trading models are the backbone of our operation, enabling us to identify profitable trading opportunities across hundreds of thousands of financial products daily, in over 200 trading venues globally.
+	- Our success is rooted in a deep understanding of the markets, a collaborative spirit between researchers and traders, and a desire to continuously challenge the status quo. At Jane Street, you will work alongside a tight-knit team, utilizing petabytes of data, our computing cluster with hundreds of thousands of cores, and our growing GPU cluster containing thousands of A/H100s to develop trading strategies in adversarial markets that evolve every day. Signals are small; noise is high.
+	- We don’t believe in “one-size-fits-all” modeling solutions; we are open to and excited about applying all different types of statistical and ML techniques, from linear models to deep learning, depending on what best fits a given problem. Your ability to venture into new and uncharted territories of data analysis, while maintaining a clear focus on the ultimate goal, will be key.
+	- At Jane Street, we blur the lines between trading and research, fostering a fluid environment where teams work in a tight loop to solve complex problems. The most successful researchers will be driven by their curiosity for how their contributions fit into the larger picture of our trading operations, and how to adapt their findings into actionable strategies.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- We don’t expect you to have a background in finance or any other specific field — we’re looking for smart, ambitious people who enjoy solving challenging problems. Most candidates will have experience with data science or machine learning, but ultimately, we’re more interested in how you think and learn than what you currently know. You should be:
+		* Able to apply logical and mathematical thinking to all kinds of problems
+		* Intellectually curious — eager to ask questions, admit mistakes, and learn new things 
+		* A strong programmer who’s comfortable with Python
+		* An open-minded thinker and precise communicator who enjoys collaborating with colleagues from a wide range of backgrounds and areas of expertise
+		* PhD or other research experience a plus
+	- https://www.janestreet.com/quantitative-research/
+	- https://www.janestreet.com/static/pdfs/trading-interview.pdf
+	- Base salary is $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Quantitative Researcher Internship, May-August
+	- LOCATION: New York
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Trading
+	- Our internships center around hands-on mentorship and a robust educational curriculum that includes challenging classes, interactive sessions, and small group discussions. Over the course of 10-12 weeks, you’ll be matched with full-time employees in your role who will mentor you as you tackle real-world projects they design. You’ll also be able to access our physical and virtual educational resources, attend guest speakers and social events, and hopefully get a real sense of what it would be like to work here full time.
+	- If you’ve never thought about a career in finance, you’re in good company—many of us were in the same position before working here. If you have a curious mind, a collaborative nature, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- As a Quantitative Research intern, you’ll work side by side with full-timers to learn how we identify market signals, analyze large datasets, build and test models, create new strategies, and write code to implement them.
+	- The problems we work on rarely have clean, definitive answers—and they often require insights from colleagues across the firm with different areas of expertise. During the program you’ll work on two projects, mentored closely by the full-time employees who designed them. Some projects consider big-picture questions that we’re still trying to figure out, while others involve building new tools or systems. 
+	- Your mentors will work in two distinct areas of research, so you’ll gain a better understanding of the diverse array of research challenges we consider every day, from reasoning about how best to analyze very noisy datasets to building practical models that allow us to better identify market signals. Your day-to-day project work will be complemented by classes on the broader fundamentals of markets and trading, lunch seminars, and real-time discussion on the desk.
+	- We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* Able to apply logical and mathematical thinking to all kinds of problems
+		* Intellectually curious—asking great questions is more important than knowing all the answers
+		* A strong programmer who is interested in learning to write code in OCaml, even if you’ve never done functional programming before
+		* An open-minded thinker and precise communicator who enjoys interacting with colleagues from a wide range of professional backgrounds and areas of expertise
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Fluent in English
++ Alpha Capture Lead
 	- LOCATION: New York
 	- DEPARTMENT: Trading and Research
 	- TEAM: Quantitative Trading

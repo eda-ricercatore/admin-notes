@@ -2803,6 +2803,64 @@ Skill sets for FPGA design automation, or FPGA CAD:
 		* Experience working on trading-related applications is a plus
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
+	- https://www.janestreet.com/join-jane-street/position/6855956002/
+	- FPGA Engineer
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- We are looking to hire an Engineer with experience in both software and hardware design to help us build our FPGA-based applications. 
+	- ***We're big believers in the ability of tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we’re looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.***
+	- In this role, you’ll work on the ground-up design and implementation of new FPGA applications, and help extend and refine the high-level synthesis and testing tools that we use internally. Your day-to-day work will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration, but you can also expect to work with some Verilog and C. While you don’t need to have worked with OCaml specifically, a good background in some typed functional language is a plus.
+	- We don’t expect you to have a background in OCaml, finance, or any other specific field—we’re looking for smart programmers who will approach hardware design with a software engineering mindset. We’re more interested in how you think and learn than what you currently know. You should be:
+		* A top-notch programmer with a love for technology
+		* Comfortable with a software programming language
+		* Intellectually curious, collaborative, and eager to learn
+		* Humble and unafraid to ask questions and admit mistakes
+		* Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs
+		* Experienced working with FPGA vendor tools (Vivado or Quartus)
+		* Experienced with building a working FPGA project through an academic, professional, or personal project
+		* Interested in learning how to use FPGAs in the context of networking
+	- Base salary is $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ skill set:
+	- FPGA Engineer Internship, May-August
+	- LOCATION: New York
+	- DEPARTMENT: Technology
+	- TEAM: Software Engineering
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time. Over the course of your internship, you will explore ways to approach and solve exciting problems within your field of interest through fun and challenging classes, interactive sessions, and group discussions—and then you will have the chance to put those lessons to practical use.
+	- As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done. When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- ***In this internship, you’ll learn how we use tools to make programming faster, more pleasant, and more reliable. We apply these same principles to our FPGA Engineering work, and we're looking for people who are interested in using programming language technology to improve the process of designing, testing, and validating hardware designs. We use Hardcaml, an OCaml library for succinctly describing hardware in RTL. Hardcaml is tightly integrated into our development environment, so you’ll also gain lots of exposure to the libraries and tools that are foundational to our internal systems. No previous knowledge of Hardcaml is required.***
+	- During the program you’ll work on a range of projects, mentored closely by the full-time employees who designed them. Some projects consider big-picture questions that we’re still trying to figure out, while others involve building something new. Your mentors will help you gain a better understanding of the wide range of problems we solve every day.  We expect interns to build FPGA applications from concept to a working design; your projects will predominantly involve OCaml & Hardcaml, for both RTL design and testing/integration.
+	- If you’d like to learn more, you can read about our interview process, meet some of our newest hires, or check out our OCaml All The Way Down talk and Programmable Hardware podcast episode.
+		* https://blog.janestreet.com/applying-to-jane-street/
+		* https://www.janestreet.com/join-jane-street/get-to-know-us/
+		* https://www.janestreet.com/tech-talks/ocaml-all-the-way-down/
+		* https://signalsandthreads.com/programmable-hardware/
+	- We don’t expect you to have a background in finance, OCaml, functional programming, or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+		* Intending to start full-time employment by Summer 2024
+		* Comfortable with a software programming language
+		* Experienced with a Hardware Description (or Construction) language (VHDL, Verilog, Chisel, Pymtl, or other), for both writing and testing hardware designs
+		* Experienced working with FPGA vendor tools - Vivado or Quartus
+		* Experienced with building a working FPGA project through an academic, professional, or personal project
+		* Interested in learning how to use FPGAs in the context of networking
+		* Fluent in English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ skill set:
 	- Senior Software Engineer
 	- The Senior Software Manager is a Key member of QuickLogic eFPGA Engineering team, reporting to the Director of Engineering, eFPGA. This is a key role at QuickLogic, with primary responsibility for leading the Software tools development for eFPGA products. The role holder is responsible for software roadmap creation, release planning, coordinate the execution of projects with the help of internal engineers/contract resources. This is a remote opportunity operating mostly in the Pacific time zone.
 	- This individual will collaborate with key stake holders, and handle projects of varying complexity, by providing appropriate direction, and strategy to reach long term goals. The individual needs to be a self-starter, with good planning and organization skills, as the role holder works closely in terms of coordination and functional integration with various groups located in multiple sites and geographies
@@ -5647,6 +5705,27 @@ Companies that have machine learning -centric products
 	- We’re looking for people to join the research team with deep ML experience in either an applied or academic context. A good candidate should have a ***deep understanding of a wide variety of ML techniques, and a passion for tinkering with model architectures, feature transformations, and hyperparameters to generate robust inferences***. We also want people who are good communicators, with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.
 	- As an ML researcher, your expertise will also shape the firm's future ML developments including hiring new ML researchers, attending conferences, teaching techniques to teammates, and setting firmwide goals.
 	- Base salary is $250,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ skill set:
+	- Machine Learning Researcher Internship, December-February
+	- LOCATION: Hong Kong
+	- DEPARTMENT: Trading and Research
+	- TEAM: Quantitative Research
+	- Our goal is to give you a real sense of what it’s like to work at Jane Street full time as an ML researcher. Over the course of your internship, you will explore ways to approach and solve cutting-edge machine learning problems through fun and challenging classes, interactive sessions, and group discussions — and then you will have the chance to put those lessons to practical use. The Machine Learning Research internship is based in our Hong Kong office, but interns will split their time between Hong Kong and New York. This opportunity to work globally and gain exposure to the breadth of projects we work on mirrors the full time Machine Learning Researcher experience.
+	- As a Machine Learning Research intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects. Evolving our approach from simple linear models to sophisticated state-space models, Jane Street has consistently remained at the cutting edge of machine learning innovation.  When you’re not working on your project, you will have plenty of time to use our office amenities, physical and virtual educational resources, attend guest speakers and social events, and engage with the parts of our work that excite you the most.
+	- If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you’ll fit right in.
+	- Machine learning is a critical pillar of Jane Street's global business. Our ever-changing trading environment serves as a unique, ***rapid-feedback platform for ML experimentation***, allowing us to incorporate new ideas with relatively little friction.
+	- ***Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade thousands of financial instruments algorithmically. This job involves processing petabytes of data, produced by adversarial markets, that evolve everyday. Signals are small, noise is high.***
+	- We’re looking for people with advanced machine learning experience in either an applied or academic context. ***A good candidate should have a deep understanding of a wide variety of ML techniques, and a passion for iterating with model architectures, feature transformations, and hyperparameters to generate robust inferences. We move fast, and want people with the ability to quickly absorb the context of a new problem, carefully consider tradeoffs, and recommend possible solutions.***
+	- You'll learn how Jane Street applies advanced machine learning and statistical techniques to model and predict moves in financial markets. Through a series of classes and activities, you will ***analyze real trading data via access to our growing GPU cluster containing thousands of A/H100s . You'll gain an understanding of the differences between textbook machine learning and its application to noisy financial data.***
+	- We don’t expect you to have a background in finance — we’re more interested in how you think and learn than what you currently know. You should be:
+		* An undergraduate, PhD student, or postdoc with practical experience working on ML problems
+		* Able to apply logical and mathematical thinking to all kinds of problems
+		* Intellectually curious — asking great questions is more important than knowing all the answers
+		* A strong programmer in Python 
+		* An open-minded thinker and precise communicator who enjoys interacting with colleagues from a wide range of professional backgrounds and areas of expertise
+		* Eager to ask questions, admit mistakes, and learn new things
+		* Fluency in English required
+	- Please note: Jane Street will provide flights to and from Hong Kong and New York, as well as accommodation throughout the entirety of the internship program.
 + skill set:
 	- We're looking for a Research Scientist to join Snap Inc! You'll work closely with our Research team to work on innovative problems that unlock new experiences for our users through computer vision, machine learning and graphics. Working closely with researchers and our engineering teams, you will develop technologies empowering our users and creators improving improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
