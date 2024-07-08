@@ -5778,6 +5778,47 @@ Companies that have machine learning -centric products
 	- 5+ years of experience with cloud technologies such as AWS
 	- 3+ years of experience in language models
 	- The Washington Post includes salary ranges for certain positions to comply with local pay transparency laws. The salary range for this position is: 131,500.00 - 219,100.00 USD Annual
++ On-device ML Engineer - US Remote
+	- Machine Learning Advocacy
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- As an On-device ML Engineer, you will explore cutting edge methods to run models on consumer platforms, with a special focus on Apple technologies. Your responsibilities will include optimizing, quantizing, and converting the best models for efficient execution on iPhones and Macs. Additionally, you will design, build, and contribute to open source software that demonstrates model usage and develop libraries to minimize friction for developers who may not be deeply familiar with ML. Beyond the technical challenges, your goal will be to disseminate these methods, facilitate their adoption, and create tools for the community.
+	- Model evaluation, considering quality, latency, memory, and storage needs. You understand the best model for a task may not be the latest SOTA, but the one with the best trade-off.
+	- Strive to make SOTA models work efficiently on Apple platforms by converting them to native formats like Core ML or MLX, enabling execution on GPUs and the Neural Engine.
+	- Dive into large codebases, such as Transformers, to optimize model architectures for Apple Silicon platforms, debug issues, and develop workarounds.
+	- Write Swift code to implement or optimize ML tasks, including pre-and post-processing pipelines.
+	- Produce high-quality technical documentation, including blog posts, tutorials, guides, social media threads, and concise demo apps.
+	- Contribute to open source projects, like coremltools, to improve coverage of PyTorch operations.
+	- Create tools that enable developers to convert, run, and share models easily, making it straightforward for researchers and practitioners to distribute models in device-friendly formats.
+	- Occasionally, write or be ready to understand low-level code such as parallel GPU kernels.
+	- Experienced Swift Developer: Have a strong background in Swift development with a practical, builder mindset and a good sense of software and application design.
+	- Passionate About ML: Have a deep understanding of essential model architectures and a passion for machine learning.
+	- ***Core ML Proficiency: Have experience using Core ML and understand its advantages and limitations.***
+	- Open Source Contributor: Are eager to publish and contribute to open-source libraries to help developers adopt ML.
+	- ***Versatile Engineer: Can move across different levels of abstraction as needed, from UI to Metal kernels.***
+	- ***Readable Code: Write code that is easy to understand but are also prepared to make critical path ugly for optimization’s sake. (But just the critical path, please 🙂)***
+	- Optimization Techniques: Understand various ***optimization techniques, from kv-caching in transformers to post-training quantization and training-time methods.***
+	- ***System Understanding: Have a strong systems understanding and can identify performance bottlenecks.***
+	- ***Framework Proficiency: Have experience with various frameworks such as llama.cpp, MLX, PyTorch, and CoreNet.***
+	- Are a good debugger.
+	- Can write excellent technical documentation.
+	- Engage in discussion forums and communities about these topics.
++ Senior Product Software Engineer, ML Platform - US Remote
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- To fulfill our mission of building the Github of Machine Learning, our team is now looking for a Product Engineer with experience working in a fast-paced environment. In this unique position, you will play a key role by building the essential tooling required to interact with our Machine Learning Hub, which is rapidly becoming a go-to destination for companies and individuals to host and run their models.
+	- You'll work with a supportive team of talented engineers while enjoying a lot of autonomy to build and own features end-to-end. This is a great opportunity to be an early contributor to the biggest platform shift of the decade. 
+	- Enthusiastic about working on technical challenges for ML-focused products.
+	- Are a generalist and polyglot engineer with an ability to pick up new frameworks quickly and willing to work across the stack from backend to frontend (Typescript, Node.js, Svelte, MongoDB, AWS).
+	- Comfortable working in a fast-paced and ambiguous environment, aka shifting sands of startup land.
+	- Excited to be a builder for builders! Empathy for developers across the stack and an enthusiasm for developer-first products.
+	- A great product sense and experience building products that our users rely on.
+	- Enjoy understanding technical domains deeply and are willing to really get into the weeds.
+	- A high sense of technical and product ownership and a desire to please the customer.
+	- You know what it takes to build cross-platform tools, and you have experience working collaboratively across the stack.
+	- If you're interested in joining us, but don't tick every box above, we still encourage you to apply! We're building a diverse team whose skills, experiences, and backgrounds complement one another. We're happy to consider where you might be able to make the biggest impact.
++ HPC Engineer, Machine Learning Infrastructure - US Remote
+	- 
 + skill set:
 	- We're looking for a Research Scientist to join Snap Inc! You'll work closely with our Research team to work on innovative problems that unlock new experiences for our users through computer vision, machine learning and graphics. Working closely with researchers and our engineering teams, you will develop technologies empowering our users and creators improving improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
