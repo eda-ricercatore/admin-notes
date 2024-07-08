@@ -5726,6 +5726,58 @@ Companies that have machine learning -centric products
 		* Eager to ask questions, admit mistakes, and learn new things
 		* Fluency in English required
 	- Please note: Jane Street will provide flights to and from Hong Kong and New York, as well as accommodation throughout the entirety of the internship program.
++ Senior Applied Machine Learning Scientist
+	- DC-Washington-TWP Headquarters
+	- The Washington Post Personalization team is looking for a senior data scientist who is excited to create forward-thinking solutions for the next generation of journalism. Our team is at the heart of the Post’s machine learning strategies to build intelligent and adaptable personalized news experiences and business solutions capable of powering the most high-scale websites in the world.
+	- You value world-class journalism and are eager to immerse yourself in features and projects that support that mission.
+	- You are a technically savvy critical thinker who enjoys problem-solving.
+	- You receive feedback enthusiastically and thrive in a collaborative environment.
+	- You are a born self-starter with an earnest work ethic.
+	- You are eager to evolve and grow your skill-set by learning and sharing the latest machine learning technologies.
+	- Collaborate with cross-functional agile teams of data scientists, machine learning engineers, software engineers, and others in building machine learning infrastructure that best supports the ML needs.
+	- Have a solid problem-solving ability and a knack for statistical analysis.
+	- Apply machine learning technologies to develop statistical models with large amounts of data.
+	- Leverage your experience to drive best practices in ML systems.
+	- Research new machine learning technologies to support rapid business growth.
+	- Monitor and ensure the quality of machine learning solutions by implementing process and control disciplines and tooling to govern.
+	- Mentor team members in technological and machine learning best practices.
+	- Promote innovation, share ideas and experiences, ask questions, and strive to remove ambiguity for both oneself and team members.
+	- Minimum Qualifications
+		* Bachelor’s degree in Computer Science, Mathematics, Statistics, or related field
+		* 4 year+ machine learning and data science experience
+		* 4 year+ professional experience with Python
+	- Preferred Qualifications
+		* 1 year+ experience with LLMs
+		* 2 year+ experience with AWS
+		* 2 year+ experience with clustering, classification, sentiment analysis, time series, and deep learning
+		* Ph.D. degree in Computer Science, Mathematics, Statistics, or related field
+	- The Washington Post includes salary ranges for certain positions to comply with local pay transparency laws. The salary range for this position is: 123,200.00 - 205,400.00 USD Annual
++ Staff Applied Machine Learning Scientist
+	- DC-Washington-TWP Headquarters
+	- As a staff applied machine learning scientist, you will create forward-thinking solutions for the next generation of journalism. Our team is at the heart of The Post's AI strategies to build intelligent and adaptable personalized news experiences and business solutions capable of powering the world's most high-scale digital media platform. This role is equal parts scientist, statistician & software developer.
+	- You value world-class journalism and are eager to immerse yourself in features and projects that support that mission.
+	- You are a technically savvy critical thinker who enjoys problem-solving.
+	- You receive feedback enthusiastically and thrive in a collaborative environment.
+	- You are a born self-starter with an earnest work ethic.
+	- You are eager to evolve and grow your skill set by learning and sharing the latest machine-learning technologies.
+	- As a vital project team member, you will play a key role in addressing business challenges. This involves defining the problems, establishing the intended approach and quantitative methods, assessing analytical solutions, and implementing them into production.
+	- Identify data science projects that bring value to site visitors, the newsroom, and the advertisement team.
+	- Present project findings to technical communities in the DC area and to a broader audience within research and business communities at various conferences.
+	- Interact with internal and external peers and managers to exchange complex information in areas of specialization.
+	- Document projects, including business objectives, data gathering and processing, leading approaches, final algorithm, detailed set of results, and analytical metrics. Create materials to articulate project findings and effectively communicate these findings to business audiences.
+	- Evaluate commercial and open-source techniques in Machine Learning, Data Mining, NLP, and Analytics.
+	- Build scalable and high-performance Machine Learning and Data Mining algorithms.
+	- Rapidly test hypotheses by developing prototypes, running offline experiments, and online A/B tests.
+	- Generate actionable insights by analyzing large amounts of data and using analytical rigor, predictive modeling, cluster analysis, temporal analysis, social network analysis, and other techniques.
+	- Generate reports and visualizations to provide insight into the workings of the production systems.
+	- Mentors less experienced members of the team.
+	- Master's degree in Computer Science, Statistics, or Mathematics required with emphasis on data mining, NLP, or machine learning.
+	- 6+ years of professional experience in NLP systems, predictive modeling, recommendations/personalization, clustering, classification, sentiment analysis, time series, and deep learning 
+	- Ability to act with independent judgment.
+	- 5+ years of programming experience in Python, TensorFlow, PyTorch, or Keras 
+	- 5+ years of experience with cloud technologies such as AWS
+	- 3+ years of experience in language models
+	- The Washington Post includes salary ranges for certain positions to comply with local pay transparency laws. The salary range for this position is: 131,500.00 - 219,100.00 USD Annual
 + skill set:
 	- We're looking for a Research Scientist to join Snap Inc! You'll work closely with our Research team to work on innovative problems that unlock new experiences for our users through computer vision, machine learning and graphics. Working closely with researchers and our engineering teams, you will develop technologies empowering our users and creators improving improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
