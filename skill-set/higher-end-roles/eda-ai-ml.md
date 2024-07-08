@@ -5818,7 +5818,82 @@ Companies that have machine learning -centric products
 	- You know what it takes to build cross-platform tools, and you have experience working collaboratively across the stack.
 	- If you're interested in joining us, but don't tick every box above, we still encourage you to apply! We're building a diverse team whose skills, experiences, and backgrounds complement one another. We're happy to consider where you might be able to make the biggest impact.
 + HPC Engineer, Machine Learning Infrastructure - US Remote
-	- 
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- We are looking for a HPC Engineer responsible for developing and scaling our distributed large cluster. The ideal candidate will have experience provisioning large compute clusters for AI workflows and strong experience supporting teams to create best practices for reliability and scalability.
+	- Design, develop, deploy, and maintain reliable and scalable infrastructure that enables efficient training workloads.
+	- Manage large compute clusters for AI Training and development.
+	- Create tooling and infrastructure that abstract compute and storage in ML workflows
+	- Measure and optimize system performance.
+	- Monitor and troubleshoot infrastructure issues, ensuring high availability and performance of AI workloads.
+	- Stay up to date with the latest advancements in AI infrastructure technologies and recommend improvements to enhance system efficiency and performance.
+	- Work closely with AI software engineering teams to ensure infrastructure can handle all system requirements.
+	- Provide primary operational support and engineering for multiple teams.
+	- 7+ years of experience in a DevOps or infrastructure Engineer role building machine learning infrastructure and working with large GPU clusters.
+	- ***Knowledge of cloud providers such as AWS, GCP, infra-as-code frameworks and observability tools.***
+	- Familiarity with Python Scientific stack, Pytorch.
+	- Experience with data structures, data modeling, and database management as well as object and file storage systems.
+	- Strong communication, collaboration, and documentation skills.
+	- Experience with Linux, Git, containers, networking and command line tools.
+	- Strong programming skills in Python, Golang, and/or Rust.
+	- If you are a passionate HPC Engineer with a keen interest in AI and thrive in a challenging and innovative setting, we would love to hear from you. Join our team and contribute to the advancement of AI technologies while working alongside talented professionals in a collaborative and stimulating environment.
+	- ***We care about your well-being. We offer flexible working hours and remote options. We offer health, dental, and vision benefits for employees and their dependents. We also offer 12 weeks of parental leave (20 for birthing mothers) and unlimited paid time off.***
++ Machine Learning Engineer, Fast Optimized Inference - US Remote
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Algolia, Grammarly and NASA.
+	- As a Machine learning Engineer, you work mainly on creating great libraries highly focused on real world ML use cases. We're building on top of our open-source to create more specialized code with a focus on industrial level of usage.
+	- We are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a progressive, nimble and decentralized approach to develop real-world solutions and positive user experiences at every interaction.
+	- Develop specialized software for specific machine learning (ML) use cases that have broad applications, similar to [text-generation-inference](https://github.com/huggingface/text-generation-inference).
+		* ***https://github.com/huggingface/text-generation-inference***
+	- Utilize existing library frameworks to create scalable software solutions for industrial purposes.
+	- Enhance the reliability, quality, and time-to-market of our software suite. Measure and optimize system performance to stay ahead of customer needs and drive innovation.
+	- Manage the production environment by monitoring availability and ensuring overall system health. We run our own tools
+	- If you are a passionate Machine Learning Engineer with a keen interest in AI and proficient with Python, Rust and specialized Cuda kernels Frameworks (transformers of course + Keras or PyTorch), we would love to hear from you. Join our team and contribute to the advancement of AI technologies while working alongside talented professionals in a collaborative and stimulating environment.
++ Cloud Machine Learning Engineer - US remote
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- Hugging Face has become the most popular, community-driven project for training, sharing, and deploying the most advanced machine learning models. Workload efficiency is key to our mission of democratizing state of the art and we are always looking to push the boundaries for faster, and more efficient ways to train and deploy models.
+	- We are looking for a Cloud Machine Learning engineer responsible to help build machine learning solutions used by millions leveraging cloud technologies. You will work on integrating Hugging Face's open-source libraries like Transformers and Diffusers, with major cloud platforms or managed SaaS solutions.
+	- You may want to take a look at the announcements on our [...] announcements to get a better sense of what it means in practice 🤗.
+		* https://huggingface.co/blog/aws-partnership
+		* https://huggingface.co/blog/huggingface-and-ibm
+		* https://huggingface.co/blog/safecoder
+		* https://huggingface.co/blog/hugging-face-endpoints-on-azure
+	- We are looking for talented people with deep experience and passion for both Machine Learning (at the framework level) and Cloud Services:
+		* Bridging and integrating 🤗 transformers/diffusers models with a different Cloud provider.
+		* Ensuring the above models meet the expected performance
+		* Designing & Developing easy-to-use, secure, and robust Developer Experiences & APIs for our users.
+		* Write technical documentation, examples and notebooks to demonstrate new features
+		* Sharing & Advocating your work and the results with the community.
+	- You'll enjoy working on this team if you have experience with and interest in deploying machine learning systems to production and build great developer experiences. The ideal candidate will have skills including:
+		* Deep experience building with ***Hugging Face Technologies, including Transformers, Diffusers, Accelerate, PEFT, Datasets***
+		* ***Expertise in Deep Learning Framework, preferably PyTorch, optionally XLA understanding***
+		* Strong knowledge of ***cloud platforms like AWS and services like Amazon SageMaker, EC2, S3, CloudWatch and/or Azure and GCP equivalents.***
+		* ***Experience in building MLOps pipelines for containerizing models and solutions with Docker***
+		* Familiarity with ***Typescript, Rust, and MongoDB, Kubernetes*** are helpful
+		* Ability to write clear documentation, examples and definition and work across the full product development lifecycle
+		* Bonus: Experience with ***Svelte & TailwindCSS***
++ Machine Learning Engineer in the Optimization team - US Remote
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- Transformers in NLP pushed forward the computational requirements and the trend started to expand to other modalities such as Computer Vision and Speech which are actively adopting Transformer architectures to build the latest state-of-the-art models.
+	- Hugging Face has become the most popular, community-driven project for training, sharing, and deploying the most advanced machine learning models. Workload efficiency is key to our mission of democratizing state of the art and we are always looking to push the boundaries for faster, and more efficient ways to train and deploy models.
+	- If you like digging into the dark side of low-level system integrations, compiler support, and framework optimizations: we should talk!
+	- We are looking for talented people to join the Hugging Face Special Ops team, focusing on:
+		* Bridging 🤗 transformers models with state-of-the-art AI hardware
+		* Ensuring the above models meet the expected performance
+		* Designing easy to use and proficient Developer Experience for our users
+		* Deploying these models in the most efficient and scalable way.
+	- This is an exciting opportunity to work at the edge of AI on both model architectures and hardware technologies! As additional material, you may want to take a look at [...] 🤗.
+			+ https://huggingface.co/blog/graphcore
+	- You’ll enjoy working in this team if you like digging into the dark side of low-level system integrations, compiler support, and framework optimizations. At the intersection of software engineering and machine learning, you would be in charge of integrating the latest features from our hardware partners in Python/C++, designing rich and easy Python APIs in the continuity of what Hugging Face did with transformers, tokenizers, and the datasets library with a strong focus on performances. Linux or embedded devices experience would be a great plus for the job.
++ ***Open-Source Machine Learning Engineer - International Remote***
+	- Here at Hugging Face, we’re on a journey to advance good Machine Learning and make it more accessible. Along the way, we contribute to the development of technology for the better.
+	- We have built the fastest-growing, open-source, library of pre-trained models in the world. With more than 1 Million+ models and 320K+ stars on GitHub, over 15.000 companies are using HF technology in production, including leading AI organizations such as Google, Elastic, Salesforce, Grammarly and NASA.
+	- As an open-source Machine Learning Engineer, you will work to improve the open-source machine learning ecosystem. You will mainly work with existing open-source libraries, such as Transformers, Datasets, or Accelerate, and you will interact with users and contributors of the broad open-source machine learning ecosystem. We'll brainstorm with you to put you in a position to do the work that interests you and that is impactful.
+	- You'll get to foster one of the most active machine learning communities, helping users contribute to and use the tools that you build. You'll interact with Researchers, ML practitioners and data scientists on a daily basis through GitHub, our forums, or slack.
+	- If you love open-source, are passionate about making complex technology more accessible, and want to contribute to one of the fastest-growing ML ecosystems, then we can't wait to see your application!
+	- If you're interested in joining us, but don't tick every box above, we still encourage you to apply! We're building a diverse team whose skills, experiences, and background complement one another. We're happy to consider where you might be able to make the biggest impact.
 + skill set:
 	- We're looking for a Research Scientist to join Snap Inc! You'll work closely with our Research team to work on innovative problems that unlock new experiences for our users through computer vision, machine learning and graphics. Working closely with researchers and our engineering teams, you will develop technologies empowering our users and creators improving improving the experience on Snapchat for millions of people every day. In addition to impacting the company via products, researchers are encouraged to publish their results in top-tier journals and conferences.
 	- Beyond the application and interviews, Research Scientist candidates should prepare to provide detailed supporting materials including a research statement, references, biography, and a 60-minute presentation during the evaluation process.
