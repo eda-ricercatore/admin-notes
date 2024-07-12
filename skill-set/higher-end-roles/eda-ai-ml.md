@@ -955,17 +955,39 @@ Skill sets for STCO and DTCO:
 
 
 
+###	Design Automation for Photonic ICs, Optoelectronics, and Silicon Photonics 
 
 
 
 
+####	Skill Set for the Design Automation of Photonic ICs, Optoelectronics, and Silicon Photonics
 
 
 
-
-
-
-
++ EPDA – Software Engineer for Photonic IC Design Automation
+	- Gent, Belgium
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- Keysight EDA is at the forefront of enabling Photonic IC design automation within our advanced EDA platform. Our exciting new project, EPDA (Electronic Photonics Design Automation), is a collaborative effort between experts in electronics, photonics, and software engineering. Our diverse team, spread across Belgium and India, is expanding rapidly, and we're seeking talented software engineers to accelerate the development of our EPDA solutions.
+	- We are looking for passionate software engineers to join our Keysight EDA team, focusing on the development of Photonic IC (PIC) software design automation solutions. Our EPDA initiative aims to create a cutting-edge photonic CAD/CAE program for the design, simulation/analysis, and layout of PIC for photonic device systems. This role involves developing a platform for process design kits (PDK), validating PIC designs, and establishing seamless PIC design flows. You will be instrumental in integrating these solutions into existing Keysight EDA tools, ensuring industry-standard compliance and seamless integration of various golden standards.
+	- Design and Development: Contribute to the design and development of EPDA solutions within the Keysight EDA platform.
+	- Software Engineering: Write clean, efficient code to enable the EPDA solution, working with other developers to design algorithms and flowcharts.
+	- Integration: Integrate software components and third-party programs to create a cohesive solution.
+	- Test-Driven Development: Practice test-driven development, verifying and deploying programs and systems.
+	- Maintenance and Debugging: Troubleshoot, debug, and upgrade existing software to ensure optimal performance.
+	- Documentation: Create technical documentation for reference and reporting.
+	- Customer Requirements: Understand customer requirements and translate them into technical tasks.
+	- Agile Development: Participate in the Agile software development process, collaborating with a global team.
+	- Problem-Solving: Apply problem-solving skills to keep projects on track and deliver exceptional results.
+	- Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field.
+	- Advanced industry experience in C++ software development (preferred in EDA software development).
+	- Proficiency with simple and complex data structures.
+	- Extensive experience with source control systems and CI/CD platforms.
+	- Experience in Agile software development.
+	- Knowledge of databases.
+	- Programming skills in Python.
+	- Entrepreneurial and growth mindset.
+	- Strong communication skills.
 
 
 
@@ -7903,6 +7925,28 @@ Companies that have machine learning -centric products
 	- Familiarity with modern Deep Learning and Natural Language Processing / Natural Language Understanding (NLP, NLU), including Neural Networks, RNNs, seq2seq models, and real world machine learning in TensorFlow (incl. regularization, cross-validation, dropout) are a huge plus
 	- Adaptable, humble, and interested in pushing the boundaries of what's possible
 	- Work with world class talent (our team consists of former Facebook, Palantir, Dropbox, and LinkedIn Engineers; we have 2 ACM ICPC World Finalists)
++ Machine Learning R&D Engineer
+	- Santa Rosa, California; Santa Clara, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- We are seeking highly qualified individuals to join our team as Machine Learning Engineer. We are dedicated to research and development in the field of machine learning within the design and test industry. As a part of the team, you will have the opportunity to work on some of the most challenging technical problems and develop innovative ML solutions that will influence the future of Keysight’s products and business operations. You'll be developing innovative ML solution for our next generation design and test products enabling 6G. You'll collaborate with cross-functional teams across Keysight to ensure that the AI/ML solutions are seamlessly integrated within our product. We're looking for someone who is self-motivated. You thrive in dynamic environments, quickly building relationships and adapting to change and ambiguity. Your strong programming skills and experience crafting, prototyping, and delivering sophisticated algorithmic solutions are essential.
+	- As a machine learning engineer, you will be focusing on:
+		* Working with large volumes of data; extracting and manipulating large datasets using tools such as Spark SQL, command line and scripting languages.
+		* Designing, developing, validating and maintaining big data-driven predictive models, tools and pipelines to improve user engagement using latest technologies in machine learning, user pattern recognition, and data modeling based on user lifecycle events.
+		* Implementing state of the art machine learning models to improve business metrics and conduct end-to-end deployment.
+		* Developing infrastructure tools to improve the development, deployment and the full lifecycle of machine learning models.
+	- Master’s degree or a PhD degree, with a minimum of 3 years of experience
+	- In-depth knowledge in deep learning (DL) and statistical machine learning (ML).
+	- Deep understanding of predictive modeling and machine learning algorithms for supervised and unsupervised learning including classification, regression, clustering, CNN/RNN/LSTM/Transformer, etc.
+	- Solid programming skills, with proficiency in Python and C++
+	- Hands-on experience with TensorFlow or PyTorch
+	- Experience with complete MLOps workflow - data platform, training infrastructure and edge deployment infrastructure.
+	- Passionate about developing software tools/apps that are intuitive, easy to maintain, well architected and documented, and reusable.
+	- Ability to thrive in a fast-paced environment, meet tight deadlines, and independently explore new, innovative ideas to improve Keysight products and business operations.
+	- Creative and collaborative.
+	- Strong verbal and written communication skills
+	- The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.
+	- California pay range: MIN $ 149,850- MAX $249,750
 + skill set:
 	- Vicarious aims to transform robotics by creating robots with human level performance on real-world manipulation tasks. We are passionate about changing the world with science and software, and we are looking for exceptional people to join us in that mission.
 	- Our long term goal is to build machines that exceed human intelligence. We are passionate about changing the world with science and software, and we are looking for exceptional people to join us in that mission. Vicarious is working on solving the problems that will take us from the current state of the art to human-level AGI. We work on all components of the AI problem, including perception, concept learning, reasoning, and sensory motor systems, and beyond. Our underlying framework is a probabilistic graphical model that is inspired by the structure of the neocortex. You will join a small, tightly knit collective of extraordinary engineer scientists. Everyone works on our full stack, from algorithms to low level optimizations to GUI code and back.

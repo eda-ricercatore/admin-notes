@@ -893,18 +893,49 @@ Semiconductor manufacturing companies to pay attention to:
 	- R&D Engineer - Semiconductor Heterogeneous Integration
 	- Santa Rosa, California
 	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
-Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
-
-Responsibilities
-
-Keysight Technologies has created a new position for a Semiconductor Heterogeneous Integration Engineer in Santa Rosa, CA. This engineer will develop manufacturing processes to integrate System in Package (SiP) modules with next level assemblies in mmWave subsystems.
-
- 
-
-This position is within the High Frequency Technology Center (HFTC) at our Headquarters in beautiful Sonoma County. Just an hour north of San Francisco, you will live close to vineyards, redwood forests, regional and state parks, and a vibrant culinary scene, while developing state-of-the-art semiconductor manufacturing technologies.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- Keysight Technologies has created a new position for a Semiconductor Heterogeneous Integration Engineer in Santa Rosa, CA. This engineer will develop manufacturing processes to integrate System in Package (SiP) modules with next level assemblies in mmWave subsystems.
+	- This position is within the High Frequency Technology Center (HFTC) at our Headquarters in beautiful Sonoma County. Just an hour north of San Francisco, you will live close to vineyards, redwood forests, regional and state parks, and a vibrant culinary scene, while developing state-of-the-art semiconductor manufacturing technologies.
 	- HFTC is part of Keysight Labs, the core R&D organization that enables Centers of Excellence and other business groups to provide RF, microwave, mmWave, 5G and 6G solutions to customers in various industries, including communications, aerospace & defense, automotive & energy, general electronics, manufacturing, and semiconductor industries. HFTC technologies include InP and GaAs-based HBTs, HEMTs, and diodes, as well as high-frequency System in Package (SiP) and PCA subsystem solutions.
+	- We are seeking an industry professional with proven expertise in one or more of the following technologies:
+		* Thermocompression / flip chip bonding
+		* Solder/adhesive dispense and jetting
+		* Component pick and place
+		* Surface Mount Technology (SMT) processes
+		* Automatic Optical Inspection (AOI)
+		* Underfill materials and methods
+		* IC and SiP singulation: laser or saw cutting
+	- This role requires strong leadership, drive, and ambition to realize a novel technology that differentiates Keysight in 6G markets. Excellent interpersonal and communication skills are important for successful cross-functional interactions.
+	- This position requires access to certain goods, software, technology, or technical data subject to U.S. export control laws and regulations. Under these laws and regulations, U.S. persons (which includes U.S. citizens, U.S. nationals, lawful permanent residents, refugees, and asylees) working for Keysight can access export-controlled items without authorization from the U.S. government. For any individual who is not a U.S. person, Keysight may need authorization from the U.S. Department of State, U.S. Department of Commerce, or other appropriate federal agency before the individual can access export-controlled items. Employment in this position for non-U.S. persons is contingent on Keysight’s ability to obtain any required government authorizations.
+	- BS in Mechanical Engineering, Chemical Engineering, Manufacturing Engineering, Materials Science, Physics, Chemistry, or relevant fields. MS or PhD preferred.
+	- Professional experience in the following areas is desired:
+		* III-V compound semiconductors and/or silicon technologies
+		* Heterogeneous integration, advanced packaging & assembly techniques
+		* Thermal, mechanical and electrical reliability
+		* Technical project management
+		* Experience with New Technology Introduction and New Product Introduction
+		* ***Statistical process control (SPC), design of experiments (DOE)***
+	- Santa Rosa, CA Pay Range: MIN $143,000.00 - MAX $238,000.00
 + skill set:
-	- BLAH.
+	- R&D Semiconductor Integration Engineer
+	- Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- Define, implement, and enhance semiconductor device processes for microwave and mmWave applications.
+	- Collaborate with cross-functional teams to meet project deliverables, partnering with process and product engineers, technicians, and customers.
+	- Define material, process, and device performance, supporting semiconductor fab yield targets.
+	- Develop and characterize new devices, components, and vehicle circuits.
+	- Lead corrective action teams, define actions, and drive schedules.
+	- M.S. or Ph.D. in Electrical Engineering, Materials Science, Chemical Engineering, Physics, or equivalent experience.
+	- 5+ years of proven experience with advanced semiconductor processes and devices.
+	- Specific skills in III-V device physics and processing are highly desirable.
+	- Knowledge of high-frequency transistor design and performance (HBT, HEMT) is desired.
+	- Experience with statistical process control (SPC) and design of experiments (DOE) is desired.
+	- Strong problem-solving and analytical skills.
+	- Excellent leadership and communication skills for successful inter and intra-group interactions.
+	- Strong accountability, self-initiative, and proactive attitude.
+	- Candidates requiring work sponsorship must be eligible for access to export-controlled electronics technology.
+	- Santa Rosa, CA Pay Range: MIN $119,000.00 - MAX $199,000.00
 + skill set:
 	- BLAH.
 + skill set:
