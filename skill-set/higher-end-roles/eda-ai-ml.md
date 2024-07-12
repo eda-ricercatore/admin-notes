@@ -3008,6 +3008,50 @@ Skill sets for FPGA design automation, or FPGA CAD:
 				- semiconductor manufacturing process technology node is defined by the minimum feature size
 
 
+Generic skill sets for technology CAD, TCAD:
++ Software R&D Manager
+	- Calabasas, California; Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- The Keysight EDA organization has an exciting opportunity for an Operating Manager position in our EDA team. Keysight Technologies is a global leader in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our Device Modeling Group focuses on cutting-edge software solutions for semiconductor device modeling and characterization. Our products include IC-CAP, WaferPro Express, MBP, MQA, and A-LFNA. 
+	- In this role, you will lead a dynamic team of engineers and scientists dedicated to advancing our modeling software solutions. Your primary focus will be on managing a high-performance team, driving innovation, ensuring product quality, and meeting customer expectations. You'll collaborate closely with cross-functional teams to deliver state-of-the-art solutions to our customers. 
+	- Product Development Leadership: 
+		* Lead and inspire a team of software engineers and domain experts. 
+		* Define the product roadmap, aligning it with business goals and customer needs. 
+		* Oversee the development of modeling software enhancements and new features. 
+	- Technical Excellence: 
+		* Stay abreast of industry trends, emerging technologies, and competitive landscape. 
+		* Foster a culture of technical excellence, encouraging creativity and problem-solving. 
+		* Collaborate with the team to improve existing products and explore new possibilities. 
+	- Quality Assurance and Compliance: 
+		* Ensure rigorous testing, validation, and adherence to industry standards. 
+		* Work closely with regulatory bodies to meet compliance requirements. 
+	- Collaboration and Communication: 
+		* Engage with cross-functional teams, including product management, marketing, and sales. 
+		* Communicate progress, challenges, and opportunities to senior leadership. 
+	- People Development: 
+		* Mentor and develop team members, fostering their growth and career progression. 
+		* Promote a positive work environment that encourages collaboration and innovation.
+	- Master's or Ph.D. in Electrical Engineering, Computer Science, or related field. 
+	- Proven track record in agile software development. 
+	- At least 5 years of experience in C++ and Python coding. 
+	- Semiconductor primitive device and circuit knowledge. 
+	- Leadership experience, managing teams and driving successful projects. 
+	- Strong technical acumen, with expertise in software architecture and design. 
+	- Excellent communication, collaboration, and problem-solving skills. 
+	- Passion for cutting-edge CMOS, III-V and more than Moore technologies and its impact on the industry. 
+	- Familiarity with RF and microwave technologies, PDK designs, CMC Compact Models, Semiconductor characterization, Simulation technologies, Verilog-A, SPICE simulators and Foundry technologies is a plus. 
+	- Knowledge of CI/CD and DevSecOps will be beneficial. 
+	- Pay Salary Range: MIN $153,000 - MAX $255,000.00
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4171,9 +4215,34 @@ Skill sets for cyber-physical system security, including robotics security and a
 	- Focus on exchange of complex technical information
 	- Good reporting and presentation skills
 	- Good understanding of internal interfaces
-
-
-
++ Senior Software Engineer - Modern C++ Expert
+	- Santa Rosa, California; Colorado Springs, Colorado; Loveland, Colorado
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- About the Job: Join us for an exciting opportunity as a Senior Software Developer for the PathWave Test Sync Executive team. Our commercial software product, PathWave Test Sync Executive, leverages FPGA IP and a Core SW library integrated into Keysight hardware, delivering unparalleled synchronization for cutting-edge applications such as Quantum, 6G, and Radar. It's designed for system application developers, offering an intuitive API to build complex solutions and manage large instrumentation systems effortlessly.
+	- About the Team: You'll be an integral part of our growing and dynamic R&D team based in Barcelona (Spain) acting as the USA liaison, collaborating closely with teams in the USA and worldwide. We're seeking a skilled and motivated software developer to drive technology innovations for the rapidly expanding test and measurement market and engage closely with partners in the USA to speed up the adoption of our new technologies.
+	- Refine and develop new features as defined in the PoR working closely with the rest of the R&D team in Barcelona.
+	- Be the technical point of contact for internal partners and external customers in the USA, gather requirements and engage closely to support the PathWave Test Sync Executive technology integration into Keysight products and solutions.
+	- BS/MS/PhD in Computer Science or Electrical Engineering with a strong focus on software.
+	- Wealth of experience in software development.
+	- Strong knowledge of software architecture and experience in full-stack development.
+	- Proficiency in Modern C++.
+	- Solid experience in cross-platform development, especially on Windows and Linux.
+	- Ability to multitask and solve complex problems across different areas while interacting with multiple projects in a fast-changing environment with challenging objectives.
+	- Proficiency in C# and Python.
+	- Knowledge of API and GUI development and testing to deliver the best user experience.
+	- Experience with real-time multi-threaded applications.
+	- Experience with synchronization and/or time-critical applications.
+	- Familiarity with continuous integration technologies and practices.
+	- Experience with Cmake, Conan, Git, VS, and other software development tools.
+	- Experience working with Agile Scrum methodology.
+	- Knowledge of microcontrollers, FPGA technologies, and test & measurement equipment.
+	- Self-motivated with strong communication skills and a pronounced customer focus.
+	- Strong team player with good mentoring skills to aid in the technical development and growth of the team.
+	- Candidates can be considered to work from the following locations: Santa Rosa (CA), Loveland (CO), Colorado Spring (CO).
+	- The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.
+		* California pay range: MIN $132,000- MAX $220,000
+		* Colorado pay range: MIN $122,000 - Max $204,000
 
 
 

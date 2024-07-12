@@ -364,7 +364,26 @@
 	- Education: Master's degree or higher;
 	- English: Upper-intermediate or higher.
 + skill set:
-	- BLAH.
+	- R&D Operating Mgr
+	- Gurgaon, India
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- Software QA Automation Leader (Licensing)
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights to the world’s visionaries and innovators in electronic design, test, manufacturing, and optimization. Our ~14,000 employees create world-class solutions in wireless communications, 5G, automotive, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. 
+	- Software is a strategic growth area for Keysight enabled by our software licensing ecosystem which includes common components integrated into Keysight products as well as the entitlement management system.  As a customer-facing enterprise system, KSM is instrumental in bringing new business models and products to market while delivering an industry-leading customer experience.  
+	- We are looking for a highly capable QA automation leader to join us on our growth journey.
+	- Lead licensing QA automation team in support of R&D and system enhancement projects
+	- Recruit and manage talent to create a high performance and effective team
+	- Drive process efficiency and product quality initiatives to reduce time to market while maintaining quality standards
+	- Partner with product management and tech leaders in the organization to create a frictionless DevOps process inclusive of test automation
+	- Research technology trends and invest in people development to positively impact the team's impact
+	- 10+ years of professional experience with increasing scope and ideally including people management or team leadership
+	- Ideal candidate has a technical background in test automation platforms and tools such as Jenkins, selenium, Eggplant, Protractor, Jmeter, Rest-Assured, etc.
+	- Software development experience with C++, C#, Python and DevOps tools including Git/Gitab, Jenkins, TFS, Jira and Confluence
+	- Experience working with remote teams
+	- Solid written and verbal communication skills
+	- Bachelor’s or Master's degree in computer science, information systems or equivalent
+	- Prior experience with software licensing technologies and systems is highly desired
 + skill set:
 	- BLAH.
 + skill set:

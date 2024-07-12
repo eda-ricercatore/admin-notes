@@ -66,5 +66,69 @@ Skill sets for RF engineering, except RFIC design and millimeter-wave IC design:
 		* ***GSM***
 		* ***CDMA***
 		* ***LTE***
++ R&D Measurement Engineer
+	- Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- The Keysight Global Services Organization (KGSO) is seeking a talented and motivated individual to join our calibration procedure and test automation team in Santa Rosa, California.  In this position, you will develop calibration software that allows Keysight’s global service centers as well as external self-maintainer customers to efficiently repair, calibrate, and optimize our market-leading electronic test equipment.
+	- Working with world class engineers and measurement experts, you will be part of a team that creates automated software that adheres to US and international standards to ensure that Keysight products meet their performance specifications.
+	- You will be working with R&D, manufacturing, and software teams in other geographies world-wide.
+	- You will be responsible for designing measurement procedures for adjusting, calibrating, or validating equipment to ensure instruments are within documented specifications.
+	- You will develop metrology requirements, ensuring measurement uncertainty that is consistent with the Guide to the Expression of Uncertainty in Measurement (GUM) as well as establishing and maintaining metrology processes consistent with ISO 17025 and ANSI/NCSL Z540.3 standards.
+	- Your job will include hands on exposure to a wide variety of Keysight test equipment products including (but not limited to) power meters and sensors, signal analyzers, network analyzers, signal generators and oscilloscopes.
+	- Training will be provided as needed.
+	- BS, MS or PhD in Computer Engineering, Electrical Engineering with software exposure, Computer Science with hardware emphasis, or equivalent experience
+	- 3+ years of experience in measurement science related roles or calibration procedure development
+	- Experience with electronic measurement equipment
+	- Understanding of electronic measurement methods
+	- Demonstration of excellent communication and teamwork skills
+	- Strong organizational skills
+	- Knowledge of HP/Agilent/Keysight test and measurement products a plus.
+	- Proficiency and experience with object-oriented design principles
+	- Experience in C/C++ or C#
+	- Familiarity with building, testing, and debugging software with .NET, Microsoft Visual Studio, and Bitbucket/Git.
+	- USD $115,770.00 - USD $181,950.00 Year. Note: For other locations, pay ranges will vary by region.
++ RF Microwave Design Engineer
+	- Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This critical position has an opportunity to shape Keysight’s future product architectures and impact the World around us by creating and delivering new measurement capability.  You will apply your skills to all phases of the product development process including conceptual design, electromagnetic analysis, prototyping, and ensuring that your work meets Keysight's quality/regulatory requirements. This is your opportunity to join a team that is bringing to market some of the most advanced solutions in the world. While part of a team, you will also be working independently on your priorities and tasks. The scope and complexity of your tasks will be based on your existing knowledge and capabilities as well as how fast you can acquire new skills.
+	- As an RF/Microwave Design Engineer you will be part of Keysight Lab’s mm-Wave subsystems design group.  Our group designs leading mm-wave front-end products that address a variety of market applications (5G, 6G, Automotive Radar, Aero/Defense) partnering with our Centers of Excellence and Industry Solutions Groups.
+	- Help lead the architecture and definition of new products and own all phases of the RF/Microwave design process from concept to production ensuring that the product meets performance and manufacturability goals and reliability qualifications requirements.
+	- Design novel RF/Microwave signal conditioning components in several different cutting-edge technology platforms.
+	- Develop electromagnetic models to fully characterize complex subsystems.
+	- Work within a multi-discipline project team to create new products and ensure new designs meet both internal and customer requirements.
+	- Work with our internal and external manufacturing partners to prototype designs and bring them to manufacturing
+	- BS and MS or PhD Degrees in Electrical Engineering or equivalent with an emphasis in RF and Microwave Design or equivalent industry experience.
+	- Mastery of electrical engineering, electronics, and RF principles.
+	- Proficiency with microwave modeling tools (1D, 2.5D, and 3D simulators). 
+	- Works well in a collaborative team environment.
+	- Ability to generate new ideas.
+	- Good listening and communication skills.
+	- Organizes work effectively and uses available resources.
+	- 5+ years of experience in RF/mm-wave/microwave subsystem design.
+	- Proficiency with ADS, Genesys, and emPro.
+	- California pay range: MIN $132,000.00 -  - MAX $220,000.00/Year
++ R&D RF/Microwave Design Engineer
+	- Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- As an R&D RF/Microwave Design Engineer at Keysight, you'll be part of a collaborative and inclusive environment located primarily in Santa Rosa, CA. Our team, housed within Keysight Laboratories, is dedicated to shaping the future of technology. By joining us, you'll play a pivotal role in creating, validating, and implementing next-generation solutions high-performance digital baseband, and next generation ASICs and microwave/mm-wave solutions. that set Keysight products apart from the competition.
+	- You'll have the opportunity to delve into fascinating projects, including researching and inventing technology for best-in-class low phase noise references, analog and digital phase-lock-loop structures  and Keysight’s next generation microwave/mm-wave solutions.
+	- Educational Background: BS, MS, or PhD in Electrical Engineering or Computer Engineering, or equivalent.
+	- Experience: Minimum of 6 years of relevant experience.
+	- Technical Expertise: Strong proficiency in analog, RF, and/or microwave circuit design, with a solid understanding of analog control loops.
+	- Design Proficiency: Demonstrated expertise in designing printed circuit assemblies and advanced microwave structures.
+	- Simulation Skills: Experience with microwave circuit simulation, leveraging tools to drive innovation.
+	- Analytical Skills: Self-motivated with excellent analytical skills, capable of tackling complex problems.
+	- Team Player: Strong teamwork and interpersonal skills, with a collaborative spirit.
+	- Adaptability: Must be flexible, adaptable, and eager to push technical boundaries.
+	- Communication Skills: Excellent written and verbal communication skills, essential for effective collaboration.
+	- Simulation Tools: Experience with ADS or equivalent simulation tools, enhancing design capabilities.
+	- 3D EM Simulation: Proficiency in 3D EM simulation, adding depth to design approaches.
+	- PLL Structures: Knowledge of PLL structures, contributing to the advancement of our projects.
+	- Test Equipment Experience: Familiarity with electronic test and measurement equipment, especially RF equipment, advantageous.
+	- Santa Rosa, CA Pay Range: MIN $117,000.00 - MAX $196,000.00
+ 
 
 

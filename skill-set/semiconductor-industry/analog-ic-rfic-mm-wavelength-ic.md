@@ -45,7 +45,6 @@
 	- ***load pull techniques***
 	- ***tune, match, and circuit optimization***
 	- ***optimization of circuit linearity*** for ***DPD***
-+ Responsible for Lead layout design and manage delivery of ***high frequency mixed signal blocks/IPs : DLL, PLL, HBMIO, Clktree, VCDL and DCC***
 + skill set:
 	- As a part of the IP department, design next-generation ***analog, mixed-signal high-speed modules, PLL*** and other circuits. Experience in ***Serdes, GDDR, PLL, ADC/DAC*** and other module design is preferred. Those who have actual design experience in one or more of the following ***Serdes circuits are preferred: Driver; Receiver; Serializer; Deserializer; Phase Interpolator; Low jitter PLL; CDR, High Speed Clock Distribution; Bias and Bandgap; and Voltage Regulators***;
 	- Practical design experience in classic ***analog and mixed signal circuits, such as ADC, DAC, IO, LDO, Bias, OP***, etc.;
@@ -122,7 +121,7 @@
 
 
 
-###	Analog IC and RFIC Design Manager
+##	Analog IC and RFIC Design Manager
 
 
 
@@ -184,17 +183,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ##	RFIC Design
 
 
@@ -210,9 +198,62 @@
 + ***Characterize full system (receiver and transmitter) performance as well as peripheral devices such as: RFIC transceivers, LNA’s, PA’s etc.***
 	- ***Characterization includes measuring essential parametrics such as sensitivity, power, EVM, linearity, etc.***
 + skill set:
-	- BLAH.
+	- R&D Hardware Engineer
+	- Santa Rosa, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- Keysight Laboratories invents and delivers breakthrough, growth-enabling technology so Keysight can be first-to-market with solutions that extend our design, measurement, and test leadership.
+	- As an R&D Design Engineer at Keysight, you'll be part of a collaborative and inclusive environment located primarily in Santa Rosa, CA.  Our team, within Keysight Laboratories, is dedicated to shaping the future of technology.
+	- By joining us, you'll play a pivotal role helping to create next generation instrument architectures and high-performance baseband, microwave and synthesis solutions that set Keysight products apart from the competition.
+	- Educational Background: BS, MS, or PhD in Electrical Engineering or Computer Engineering, or equivalent.
+	- Experience: Minimum of 8 years of relevant industry experience.
+	- Team Leader: Demonstrated experience leading teams as technical leader or manager
+	- Team Player: Strong teamwork and interpersonal skills, with a collaborative spirit.
+	- Technical Expertise:
+		* Can help reduce broad concepts and business strategies into structured projects across multiple product or technology families.
+		* Proficiency in analog and microwave circuit design and/or baseband digital design.
+		* Experience with system design
+		* Demonstrated experience solving complex, high impact design/ development problems
+	- Simulation Skills: Experience with microwave and/or baseband circuit simulation
+	- Analytical Skills: Self-motivated with excellent analytical skills, capable of tackling complex problems.
+	- Adaptability: Must be flexible, adaptable, and eager to push technical boundaries.
+	- Communication Skills: Excellent written and verbal communication skills, essential for effective collaboration.
+	- Santa Rosa Pay Range: MIN $143,050.00  - MAX $ 238,420.00
+	- Additional Desired Skills:
+		* General understanding of Spectrum Analyzer and/or Vector Signal Generator and/or Network Analyzer hardware architectures.
+		* Experience with ADS or equivalent simulation tools, enhancing design capabilities.
+		* Familiarity with RF/Microwave electronic test and measurement equipment
 + skill set:
-	- BLAH.
+	- Analog and Mixed-Signal ASIC / MMIC Design Engineer
+	- Colorado Springs, Colorado
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This job will be part of Keysight Labs, which helps Keysight be first to market, focusing on top opportunities and market trends that address unmet needs. Keysight Laboratories is focusing on the development of state-of-the-art analog and mixed-signal application specific integrated circuits (ASICs), and monolithic millimeter-wave integrated circuits (MMICs) and subsystems that provide Keysight’s test and measurement products with a competitive advantage in performance and cost.
+	- As an Analog and Mixed-Signal (BiCMOS) ASIC / MMIC Design Engineer at Keysight Technologies, you will apply your IC design knowledge and experience to design Analog and Mixed-Signal ASICs and MMICs that enable Keysight’s next generation of measurement/test equipment.  To identify what ICs are needed in current and future Keysight instruments you will be involved in system-level analysis to identify the needed IC performance with respect to the overall system requirements.
+	- Ideally this role will be based in Colorado Springs, CO, where the majority of team is located. But we will consider the Santa Rosa, or Santa Clara, CA locations, where we have other team members.
+	- Education: BS, MS or PhD in Electrical Engineering, with thesis work (PhD or MS) on mixed-signal IC design preferred
+	- 5+ years of substantial experience in high-speed analog and/or mixed-signal ASIC and/or MMIC design using advanced semiconductor processes
+	- Will consider new PhD/MS graduates with specific course work and training in analog and/or mixed-signal ASIC and/or MMIC design using advanced semiconductor processes
+	- Strong background in analog and RF circuit design, and bipolar transistor design
+	- Strong understanding of fundamentals in microwave engineering
+	- Strong understanding of signal integrity and EM issues
+	- Solid understanding of the underlying devices and their parasitics, enabling creative design to push circuit limits
+	- Working knowledge of various circuit topologies including amplifier, mixer, and filter circuits
+	- Knowledge of efficient techniques for design, simulation, and layout of integrated circuits
+	- Experience with schematic capture, simulation and layout tools
+	- Experience in using the following tools is a plus: ADS, Momentum, EMPro, SystemVue, Cadence
+	- Experience in system level analysis
+	- Experience in PCB (board-level) design is a plus
+	- Experience with device modelling, thermal design, and IC package design are a plus
+	- Ability to perform hands-on measurements using state-of-the-art test and measurement equipment and techniques
+	- Ability to troubleshoot, “dig deep”, and drive to root cause on difficult problems
+	- Excellent interpersonal, problem solving, and communication skills to work in dynamic environment as part of multiple teams working on multiple projects
+	- Demonstrated ability to work well in a team environment and experience in a design team, including the ability to communicate well, and collaborate cross-functionally with a team-oriented mindset
+	- Must be highly self-motivated to accomplish all the tasks required to meet aggressive product development schedules and world class manufacturing expectations
+	- Demonstrated ability to document and effectively present results
+	- This position requires access to certain goods, software, technology, or technical data subject to U.S. export control laws and regulations. Under these laws and regulations, U.S. persons (which includes U.S. citizens, U.S. nationals, lawful permanent residents, refugees, and asylees) working for Keysight can access export-controlled items without authorization from the U.S. government. For any individual who is not a U.S. person, Keysight may need authorization from the U.S. Department of State, U.S. Department of Commerce, or other appropriate federal agency before the individual can access export-controlled items. Employment in this position for non-U.S. persons is contingent on Keysight’s ability to obtain any required government authorizations.
+	- Colorado pay range: MIN $110,740- MAX $184,570
+	- California pay range, depending on location: MIN $119,610- MAX $218,720
 + skill set:
 	- BLAH.
 + skill set:

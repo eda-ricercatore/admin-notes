@@ -2168,10 +2168,39 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 + skill set:
 	- Solid Exeprience in image processing pipeline algorithm for video and still camera applications, including Bad Pixel Correction, Demosaicing, Denoise, Edge Enhancement etc.
 	- Knowledge and experience in ISP new features, including HDR, RGBW/RGBIR, or related
++ ASIC Digital Design Engineer
+	- Colorado Springs, Colorado
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- A major success factor for the company continues to be the development and deployment of breakthrough digital and mixed-signal Application Specific ICs (ASICs) that drive performance and value in new products. We have an exciting opportunity for a highly motivated Digital & DSP ASIC R&D Engineer to join our ASIC team. In this role, you will take part in the design of high-performance integrated circuit solutions for test and measurement applications including Oscilloscopes, Bit-Error Rate Testers, Frequency-Domain Instruments, and Autonomous Drive Emulation solutions. 
+	- Join our collaborative, dynamic team environment in the design and verification of digital / DSP and mixed signal ASICs that meet Test & Measurement-grade product functionality, quality, and schedule requirements. Participate in the full spectrum of design activities for market-leading integrated circuits from concept, definition, DSP/digital logic design, IP integration & validation, verification, synthesis, tape-release, and through the system integration, turn-on & debug, product release, and product support phases. 
+	- Responsibilities may include digital architecture definition, digital signal processing algorithm development, digital flow support, IP integration, RTL design, and verification of digital and mixed-signal ASICs from the block, subsystem, top-level, and FPGA cosim levels of the IC hierarchy. You’ll collaborate locally and globally in a complete ASIC development team including digital, analog, physical design, flow/tools, DFT, test, packaging, and NPI functions with access to world-leading semiconductor and foundry solutions. You’ll have the opportunity to work with our world-class data converter IP, invent new DSP algorithms to minimize analog impairments, and help enable breakthroughs in high-performance measurement circuits. 
+	- This role will be part of Keysight Laboratories, a world-renowned technology organization which enables Keysight to be first to market with breakthrough, highly differentiated and market leading solutions. Our dedicated team of seasoned engineers has enabled countless innovations and inventions over many generations of ASIC and product development, spanning all corners of the technology landscape. 
+	- Our beautiful development campus is located in Colorado Springs, Colorado at the base of Pikes Peak, and includes both office and advanced technology, assembly & machining facilities, as well as an 18-hole disc golf course, volleyball/basketball courts, a complete fitness center, and cafeteria. Our city is consistently rated as one of the best places to live in the United States. We enjoy bountiful outdoor access, year-round recreational opportunities, and over 300 days of sunshine per year. 
+	- A major success factor for the company continues to be the development and deployment of breakthrough Digital/DSP and mixed signal Application Specific ICs (ASICs) that drive the performance and value of new products. We have an exciting opportunity for a Experienced  Digital & DSP/ASIC R&D engineer. This technical position is responsible for the Digital & DSP architecture development, RTL design and verification of digital and mixed signal ASICs.
+	- BS/MS in Electrical Engineering or Computer Engineering
+	- 2+ years of experience in the design and verification of digital or mixed signal ASICs
+	- Strong EE fundamentals with experience in ASIC Design, DSP, digital architectures, and verification of large ASIC designs
+	- Experience with ASIC/FPGA design flow, methodologies, and process
+	- Solid mathematical background with fluency in DSP theory and digital design techniques
+	- Proficiency in software models and their usage in the design, verification, and programming of an ASIC
+	- Fluency with object-oriented programming
+	- Strong teamwork and written/verbal communication skills
+	- Leadership skills to drive change and influence teams toward execution goals
+	- The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.
+	- Colorado Pay Range MIN $91,430 MID $121,900.00 -  MAX $152,380.00 
 
+ 
 
+ 
 
+Candidates can be considered to work from the following locations:
 
+Colorado Springs, CO
+
+ 
+
+Colorado Pay Range MIN $91,430 MID $121,900.00 -  MAX $152,380.00 
 
 
 
@@ -2238,6 +2267,7 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 
 
 Skill sets for mixed-signal IC design:
++ Responsible for Lead layout design and manage delivery of ***high frequency mixed signal blocks/IPs : DLL, PLL, HBMIO, Clktree, VCDL and DCC***
 + Developing, implementing and delivering digital and mixed signal IP and test chips across a broad range of process nodes from low geometry FinFET to more specialist processes.
 + Digital/Mixed Signal HW Design Engineer · Keysight Technologies · United States
 	- As a Digital/Mixed Signal HW Design Engineer in product R&D, you will play a key role in defining and developing Signal Source products, and you will have the opportunity to directly contribute to the success of Keysight. You will work with engineers from diverse areas of expertise to create complete solutions for our customers. The product R&D team is made up of electrical, mechanical, FPGA, firmware, and software engineers, who all work together with our planning and marketing departments to transform designs into final products.
@@ -2322,15 +2352,104 @@ Skill sets for mixed-signal IC design:
 + Mixed-Signal Circuit Techniques for Near-Sensor Machine Learning and Data Analysis
 	- Mixed-signal interfaces are the essential bridges between the physical world and the digital information processing backbone. In recent years, innovation in such interfaces has been increasingly fueled by application-level insight and the data-driven nature of modern systems. As a result, the traditional building block boundaries are blurring, and the extraction of information occurs through symbiotic interplay between analog and digital signal processing. In this talk, I will illustrate this trend using examples of small-scale machine learning and data analysis functions that operate at the physical interface. Specific examples include mixed-signal feature extraction circuits and compute fabric for machine learning inference, as well as data-compressive interfaces for high-dimensional sensor inputs.
 	- Boris Murmann is a Professor of Electrical Engineering at Stanford University. He joined Stanford in 2004 after completing his Ph.D. degree in electrical engineering at the University of California, Berkeley in 2003. From 1994 to 1997, he was with Neutron Microelectronics, Germany, where he developed low-power and smart-power ASICs in automotive CMOS technology. Since 2004, he has worked as a consultant with numerous Silicon Valley companies. Dr. Murmann's research interests are in mixed-signal integrated circuit design, with special emphasis on sensor interfaces, data converters and custom circuits for embedded machine learning. In 2008, he was a co-recipient of the Best Student Paper Award at the VLSI Circuits Symposium and a recipient of the Best Invited Paper Award at the IEEE Custom Integrated Circuits Conference (CICC). He received the Agilent Early Career Professor Award in 2009 and the Friedrich Wilhelm Bessel Research Award in 2012. He has served as an Associate Editor of the IEEE Journal of Solid-State Circuits, an AdCom member and Distinguished Lecturer of the IEEE Solid-State Circuits Society, as well as the Data Converter Subcommittee Chair and the Technical Program Chair of the IEEE International Solid-State Circuits Conference (ISSCC). He is the founding faculty co-director of the Stanford SystemX Alliance and the faculty director of Stanford's System Prototyping Facility (SPF). He is a Fellow of the IEEE.
-
-
-
-
-
-
-
-
-
++ Mixed-Signal IC Designer
+	- Santa Clara, California
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This job will be part of Keysight Laboratories, which develops state-of-the art and beyond application specific integrated circuits (ASICs), enabling performance breakthroughs that differentiate our electronic test and measurement products. Keysight fosters a collaborative engineering environment which emphasizes teamwork, enthusiasm, and excellence in creating highest performance, analog and mixed-signal integrated circuits.
+	- You will join a group in Mixed-Signal ASIC Design section, e.g developing custom ASIC data converter solutions in GHz applications, implementing core ADC and DAC structures, as well as streaming I/O data paths, or complex measuring and emulating communication transceiver ASICs in CMOS and BiCMOS technologies. We are dedicated to raising the bar by innovating the next generation of high-performance mixed-signal ASICs that provide Keysight’s test and measurement products with a competitive advantage in performance and cost. These ASICs will enable the generation and characterization of leading-edge high-speed signals, such as serial links and RF waveforms. Become a part of our team and apply your IC design knowledge and experience to make the world's fastest and most accurate measurement ICs.
+	- PhD. in Electrical Engineering or closely related field, with thesis work on mixed-signal IC design preferred, or an M.S. in Electrical Engineering with substantial experience in IC design are required.
+	- Experience in designing high-speed analog and mixed-signal circuits in CMOS or BiCMOS technologies,
+	- Experience must include both, transistor level design and physical design,
+	- Experience with mixed-signal building blocks and integrated systems, such as PLLs, DACs, Serializers, ADCs, or wideband amplifiers,
+	- Demonstrated ability to work well in a team environment, and strong ability to document and present results,
+	- Excellent interpersonal, problem solving, and communication skills to work in dynamic environment as part of multiple teams working on multiple projects and collaborate cross-functionally with a team-oriented mindset,
+	- Ability to troubleshoot, and drive to root cause on difficult problems,
+	- Demonstrated experience in mixed-signal circuit design, including experience through a complete design and fabrication cycle,
+	- A strong working knowledge of (higher) GHz clock, DAC, and in particular ADC circuits,
+	- Solid background in device modelling, thermal design, and IC package design,
+	- A sound understanding of the underlying semiconductor technologies and devices and their parasitics, enabling creative design to push circuit limits,
+	- Understanding of signal integrity and EM issues,
+	- Preferred experience with at least the 65 nm process node,
+	- Experience with mixed-mode simulation of analog and digital blocks, including behavioral modelling of analog circuits, using tools like Verilog or Verilog A for simulation,
+	- Familiarity with programming and scripting languages to enable automation in the design, simulation, and testing of ICs,
+	- Ability to perform hands-on measurements using state-of-the-art test and measurement equipment and techniques,
+	- Experience with synthesized digital design flows, using RTL descriptions to deliver verified netlists for physical synthesis,
+	- A highly self-motivated mindset to accomplish all the tasks required to meet aggressive product development schedules and world class manufacturing expectations.
+	- This position requires access to certain goods, software, technology, or technical data subject to U.S. export control laws and regulations. Under these laws and regulations, U.S. persons (which includes U.S. citizens, U.S. nationals, lawful permanent residents, refugees, and asylees) working for Keysight can access export-controlled items without authorization from the U.S. government. For any individual who is not a U.S. person, Keysight may need authorization from the U.S. Department of State, U.S. Department of Commerce, or other appropriate federal agency before the individual can access export-controlled items. Employment in this position for non-U.S. persons is contingent on Keysight’s ability to obtain any required government authorizations.
+	- Santa Clara, CA Pay Range: MIN $152,470.00 - MAX $254,120.00
++ Mixed-Signal Designer
+	- Bochum, Germany
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This position will be situated within Keysight Laboratories in Bochum, where cutting-edge application-specific integrated circuits (ASICs) are developed to drive performance breakthroughs and set our electronic test and measurement products apart. At Keysight, we cultivate a collaborative engineering environment that values teamwork, enthusiasm, and a commitment to excellence in crafting the highest performance analog and mixed-signal integrated circuits.
+	- Joining the Mixed-Signal ASIC Design section, you'll become part of a team developing custom ASIC data converter solutions for GHz applications. Your responsibilities will include implementing core ADC and DAC structures, designing streaming I/O data paths, and contributing to the measurement and emulation of communication transceiver ASICs in CMOS and BiCMOS technologies. Our focus is on innovating the next generation of high-performance mixed-signal ASICs, giving Keysight’s test and measurement products a competitive edge in performance and cost-effectiveness. These ASICs will facilitate the generation and characterization of cutting-edge high-speed signals such as serial links and RF waveforms. Join our team and leverage your IC design knowledge and experience to contribute to the development of the world's fastest and most accurate measurement ICs. 
+	- PhD. in Electrical Engineering or closely related field, with thesis work on mixed-signal IC design preferred, or an M.S. in Electrical Engineering with substantial experience in IC design are required.
+	- Experience in designing high-speed analog and mixed-signal circuits in CMOS or BiCMOS technologies,
+	- Experience must include both, transistor level design and physical design,
+	- Experience with mixed-signal building blocks and integrated systems, such as PLLs, DACs, Serializers, ADCs, or wideband amplifiers
+	- Demonstrated ability to work well in a team environment, and strong ability to document and present results
+	- Excellent interpersonal, problem solving, and communication skills to work in dynamic environment as part of multiple teams working on multiple projects and collaborate cross-functionally with a team-oriented mindset,
+	- Ability to troubleshoot, and drive to root cause on difficult problems
+	- Demonstrated experience in mixed-signal circuit design, including experience through a complete design and fabrication cycle
+	- A strong working knowledge of (higher) GHz clock, DAC, and in particular ADC circuits
+	- Solid background in device modelling, thermal design, and IC package design
+	- A sound understanding of the underlying semiconductor technologies and devices and their parasitics, enabling creative design to push circuit limits
+	- Understanding of signal integrity and EM issues
+	- Preferred experience with at least the 65 nm process node
+	- Experience with mixed-mode simulation of analog and digital blocks, including behavioral modelling of analog circuits, using tools like Verilog or Verilog A for simulation
+	- Familiarity with programming and scripting languages to enable automation in the design, simulation, and testing of ICs
+	- Ability to perform hands-on measurements using state-of-the-art test and measurement equipment and techniques
+	- Experience with synthesized digital design flows, using RTL descriptions to deliver verified netlists for physical synthesis
+	- A highly self-motivated mindset to accomplish all the tasks required to meet aggressive product development schedules and world class manufacturing expectations.
++ Mixed-Signal Lead Designer
+	- Bochum, Germany
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This position will be situated within Keysight Laboratories in Bochum, where cutting-edge application-specific integrated circuits (ASICs) are developed to drive performance breakthroughs and set our electronic test and measurement products apart. At Keysight, we cultivate a collaborative engineering environment that values teamwork, enthusiasm, and a commitment to excellence in crafting the highest performance analog and mixed-signal integrated circuits.
+	- You will assume a leadership role within the Mixed-Signal ASIC Design team, overseeing the development of custom ASIC data converter solutions for GHz applications. As the technical lead, your responsibilities will include implementing core ADC and DAC structures, designing streaming I/O data paths, and conducting measurements and emulations of communication transceiver ASICs. Our ASIC projects leverage both CMOS and BiCMOS technologies, aiming to pioneer the next generation of high-performance mixed-signal ASICs. These advancements will grant Keysight’s test and measurement products a competitive edge in terms of performance and cost-effectiveness, facilitating the characterization and generation of cutting-edge high-speed signals such as RF communication and serial link waveforms. Join our team and apply your expertise in IC design to contribute to the development of the world's fastest and most precise measurement ICs.
+	- A Ph.D. in Electrical Engineering or a closely-related field, with a focus on mixed-signal IC design (preferred), or an M.S. in Electrical Engineering coupled with extensive experience in mixed-signal IC design is mandatory.
+	- Solid hands-on experience in designing and developing high-speed (> 5 GSa/s, 8+ bits) analog-to-digital (ADC) converters in advanced CMOS (28nm and smaller) technologies, encompassing architectural and transistor-level expertise.
+	- Proven track record in ADC chip turn-on, test, debug, and performance documentation.
+	- Proficiency in designing a variety of high-speed analog and mixed-signal circuits in advanced CMOS technologies, spanning schematic design to physical layout.
+	- Experience with various mixed-signal building blocks and integrated systems, such as PLLs, DACs, Serializers, or wideband amplifiers.
+	- Demonstrated leadership abilities within a team environment, with strong skills in technical leadership, documentation, and presentation.
+	- Excellent interpersonal, problem-solving, and communication skills, essential for thriving in dynamic team environments and collaborating cross-functionally.
+	- Proficiency in troubleshooting complex problems and driving to root cause, coupled with a highly self-motivated approach to meeting aggressive product development schedules and world-class manufacturing expectations.
+	- Proven ability to lead a team of skilled engineers towards achieving technical objectives.
+	- Capability to mentor junior engineers to aid in their design aspirations.
+	- Demonstrated experience in applying Analog and Digital Signal Processing in data converter systems to enhance linearity, accuracy, and performance.
+	- Expertise in high-speed digital-to-analog (DAC) and high-rate (>28 Gbps) SERDES circuits, including CDRs, AFE, and DFE.
+	- Strong background in device modeling, thermal design, and IC package design.
+	- Deep understanding of semiconductor technologies and devices, enabling innovative design approaches to push circuit boundaries.
+	- Knowledge of signal integrity and electromagnetic issues.
+	- Proficiency in mixed-mode simulation of analog and digital blocks, including behavioral modeling of analog circuits, utilizing tools like Verilog or Verilog A for simulation.
+	- Familiarity with programming and scripting languages to facilitate automation in IC design, simulation, and testing.
+	- Experience with synthesized digital design flows, utilizing RTL descriptions to deliver verified netlists for physical synthesis.
++ Experienced Mixed-Signal Designer
+	- Bochum, Germany
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- This position will be situated within Keysight Laboratories in Bochum, where cutting-edge application-specific integrated circuits (ASICs) are developed to drive performance breakthroughs and set our electronic test and measurement products apart. At Keysight, we cultivate a collaborative engineering environment that values teamwork, enthusiasm, and a commitment to excellence in crafting the highest performance analog and mixed-signal integrated circuits.
+	- As an Experienced Mixed-Signal Designer, you'll join the Mixed-Signal ASIC Design section as a senior designer or co-lead designer. Your role will involve collaborating with a team to develop custom ASIC data converter solutions for GHz applications. Key tasks will include implementing core ADC and DAC structures, designing streaming I/O data paths, and contributing to the measurement and emulation of communication transceiver ASICs. Working with both CMOS and BiCMOS technologies, you'll contribute to innovating the next generation of high-performance mixed-signal ASICs. These advancements will give Keysight’s test and measurement products a competitive edge in performance and cost-effectiveness, enabling the generation and characterization of cutting-edge high-speed signals like RF communication and serial link waveforms. Join us and apply your extensive IC design knowledge and experience to contribute to the development of the world's fastest and most accurate measurement ICs.
+	- A PhD. in Electrical Engineering or closely-related field, with thesis work on mixed-signal IC design (preferred) or an M.S. in Electrical Engineering with substantial experience in mixed-signal IC design is required.
+	- Several years direct experience in the design and development of high-speed (> 5 GSa/s, 8+ bits) analog-to-digital (ADC) converters in advanced CMOS (28nm and smaller) technologies, at both the architectural and transistor level.
+	- Direct experience in ADC chip turn-on, test, debug, and documentation of performance.
+	- Experience in designing a diverse collection of high-speed analog and mixed-signal circuits in advanced CMOS technologies at both the transistor level (schematic) and physical (layout) levels.
+	- Experience with related mixed-signal building blocks and integrated systems, such as PLLs, DACs, Serializers, or wideband amplifiers.
+	- Demonstrated ability to work well in a team environment, technically lead others, and strong ability to document and present results.
+	- Excellent interpersonal, problem solving, and communication skills to work in dynamic environment as part of multiple teams working on multiple projects and collaborate cross-functionally with a team-oriented mindset.
+	- Ability to troubleshoot, and drive to root cause on difficult problems.
+	- A highly self-motivated mindset to accomplish all the tasks required to meet aggressive product development schedules and world class manufacturing expectations.
+	- Ability to mentor junior engineers to help them achieve design goals
+	- Demonstrated experience applying Analog and Digital Signal Processing in data converter systems to improve linearity, accuracy, spurious and hard distortion performance.
+	- Demonstrated experience in high-speed digital-to-analog (DAC) and high-rate (>28 Gbps) SERDES circuits (e.g. CDRs, AFE, DFE).
+	- Solid background in device modelling, thermal design, and IC package design.
+	- A sound understanding of the underlying semiconductor technologies and devices and their characteristics, enabling creative design to push circuit limits.
+	- Understanding of signal integrity and EM issues.
+	- Experience with mixed-mode simulation of analog and digital blocks, including behavioral modelling of analog circuits, using tools like Verilog or Verilog A for simulation.
+	- Familiarity with programming and scripting languages to enable automation in the design, simulation, and testing of ICs.
+	- Experience with synthesized digital design flows, using RTL descriptions to deliver verified netlists for physical synthesis.
 
 
 
@@ -2574,9 +2693,32 @@ Skills for Physical Design Engineers (in the context of VLSI CAD):
 	- Solid background in memory design, memory layout and memory testing
 	- Strong team work ethic and good interpersonal skills
 + Understanding or an ability to learn industry standard modeling formats including: Liberty (NLM, CCS, ECSM, and LVF), Verilog, LEF, NDM, Spice, and APL
-
-
-
++ Digital Physical Design Engineer
+	- Colorado Springs, Colorado
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- A major success factor for the company continues to be the development and deployment of breakthrough Digital/DSP and mixed signal ASICs that drive the performance and value of new products.  We have an exciting opportunity for an experienced Physical Design R&D engineer responsible for the physical design and tape release of digital and mixed signal ASICs. 
+	- We are located in Colorado Springs, Colorado at the base of Pikes Peak.  You’ll collaborate in a team environment to design and verify digital / DSP and mixed signal ASICs that meets customer functionality, schedule, and quality requirements.  This job will be part of Keysight Laboratories, a world-renowned technology organization which enables Keysight to be first to market with breakthrough products and solutions. 
+	- Experienced Digital Physical Design ASIC R&D engineer responsible for both module level as well as SoC Level implementation from RTL to GDS of digital and mixed signal ASICs.  Solves complex and high impact design and development problems including customer application issues of varying scope and complexity. Uses product and customer applications knowledge to determine, define, develop, and validate design concepts and methods. 
+		* Participate in the entire spectrum of full ASIC design activities including definition, architectures, digital logic design, IP validation and synthesis.
+		* Responsible for floor planning, PNR, timing closure, STA, formal verification, low power design, clock distribution, EMIR analysis and physical verification
+		* Close sign-off checks, interface with industry foundries and GDS delivery
+		* Work extensively with cross functional teams to guide architecture with physical design constraints
+		* Develop tool flows and drive vendors to achieve milestones
+	- Bachelors or master’s degree in electrical or computer engineering.  Typically, 8-10  years relevant experience.  Requires extensive experience and knowledge and ability to work independently.
+	- Industry tapeout experience
+	- Desire to identify and debug problems.
+	- Experience with Innovus and Tempus
+	- Experience with task automation and scripting
+	- Strong EE fundamentals with experience in ASIC Design, DSP, digital architectures/systems, and verification of large and mixed signal ASIC designs
+	- Leadership skills to gain credibility and respect to drive change and influence teams and partners towards higher levels of execution, return, and productivity
+	- Strong teamwork and written/verbal communication skills
+	- Experience in digital and analog ASIC design flow, methodologies, and process
+	- Experience with DFT architecture and implementation
+	- Fluent with object-oriented programming
+	- Ability to multi-task and to engage with multiple projects, engineers, and partnerships
+	- Relocation is available for this position
+	- Visa Sponsorship is not available for this position
 
 
 

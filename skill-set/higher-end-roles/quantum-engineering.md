@@ -563,9 +563,27 @@ Sets of skills in integrated photonic quantum computing:
 
 
 
+##	Generic Sets of Skills in Quantum Computing Hardware
 
 
 
+Generic sets of skills in quantum computing:
++ R&D Engineer 2, Software
+	- Hachioji, Japan
+	- Overview
+	- Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+	- Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+	- The Quantum Engineering Solutions (QES) division at Keysight Technologies seeks outstanding experimental quantum physicists to join our team as a quantum solution engineer in our customer success team. QES is responsible for producing world-leading solutions for the challenging and exciting market of quantum technologies, including quantum computing, quantum communications, and quantum sensing.
+	- As a quantum solution engineer, you own customer success for the world’s first fully digital quantum control solution (QCS). QCS enables applications ranging from quantum computing R&D to large-scale deployed cloud systems with thousands of qubits. To achieve this, you will engage with key and strategic customers to demonstrate leading proof of principle quantum experiments and applications using QCS.  You will work with QCS R&D team to define the technical specifications of QCS, to continually enable more state-of-the-art quantum use cases. You will collaborate with our marketing team to create technical content such as code examples and quantum technology specific user guides. For key accounts, you will represent QES with our business development team as the quantum control solution expert and you will be responsible for customer success on our worldwide quantum computing customer base.
+	- Experimental background in superconducting or spin qubits
+	- MS or PhD degree in physics, engineering, or a related field
+	- Operational knowledge of phase-coherent, pulse sequencing with AWGs, data acquisition with digitizers, and DC-source biasing
+	- Proficiency in Python programming 
+	- Excellent analytical and troubleshooting skills 
+	- Excellent written and verbal communication skills in Japanese
+	- Excellent organization and coordination skills
+	- Ability to consistently deliver on deadlines and delight the customer
+	- Ability to work in a collaborative environment and to influence individuals over geographically dispersed teams. 
 
 
 
