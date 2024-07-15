@@ -315,6 +315,29 @@ reactive programming = asynchronous dataflow programming
 	- 8+ years related experience (or Masters and 6 + years related experience or PhD and 3+ years experience)
 + Knowledge of web frameworks (like Sinatra/Rails), testing frameworks (like Rspec/Minitest) and Javascript. Experience with Ruby, MySQL and Apache Solr is a plus.
 + Knowledge of a majority of the following: Elixir, Erlang, Ruby, JavaScript, PHP, Postgresql, MySQL, Apache Solr, Elasticsearch.
++ Staff Full Stack Software Engineer - Poe Core Product (Remote)
+	- Remote - Multiple Locations, United States, Canada, Ireland, & 13 other countries
+	- Quora is a "remote-first" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.
+	- Quora’s mission is to grow and share the world’s knowledge. To do so, we have two knowledge sharing products:
+		* Quora: a global knowledge sharing platform with over 400M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.
+		* Poe: a platform providing millions of global users with one place to chat, explore and build with a wide variety of AI language models (bots), including GPT-4, Claude 3, Gemini Pro, DALL-E 3 and more. As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models.
+	- We are seeking a talented Staff Software Engineer to contribute to Poe, our exciting AI product. You'll have the thrilling opportunity to build cutting-edge features from scratch as a member of a team focused on improving the chat experience and bot ecosystem.
+	- Your role will involve planning and implementing new features, contributing to front-end and back-end development, and taking shared ownership of the cross-functional product development cycle. If you're a team player with strong technical skills, passionate about AI, and eager to learn emerging technologies, we'd love to hear from you. With Poe's rapid growth trajectory, this role offers an invaluable opportunity to make a significant impact.
+	- Collaborate closely with designers, product, data scientists, QA, and other engineers to deliver interactive, intuitive AI-powered user experiences on Poe
+	- Iterate quickly on projects, from ideation to launch, using the full web technology stack
+	- Be a champion for both user experience and for sustainable, scalable code practices
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 7+ years of full-time professional full-stack experience building user-facing consumer web products (excluding internships)
+	- 5+ years of professional experience with React, Typescript, and GraphQL
+	- 5+ years experience in Python or similar programming language
+	- Professional experience leveraging backend storage systems such as MySQL, MyRocks, Memcached, or Redis
+	- Passion for Poe and Quora’s products and mission
+	- At Quora, we value diversity and inclusivity and welcome individuals from all backgrounds, including marginalized or underrepresented groups in tech, to apply for our job openings. We encourage all candidates who share a passion for growing the world’s knowledge, even those who may not strictly meet all the preferred requirements, to apply, as we know that a diverse range of perspectives can have a significant impact on our products and our culture.
+	- We are accepting applications on an ongoing basis.
+	- Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more. Benefits are country-specific and may vary. For more information on benefits, visit this link: https://www.careers.quora.com/benefits
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $174,400 - $275,750 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $179,311 - $283,515 CAD + equity + benefits.
 + skill set:
 	- Staff Engineer, Web Platforms
 	- We are looking for a staff level engineer with deep experience in the web ecosystem. You’ll contribute to a vital team in an organization that values empathy, collaboration, transparency, diversity, and learning. You will report to Soraya Dib and work cross-functionally with engineers, designers, and product managers.
