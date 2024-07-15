@@ -12285,6 +12285,28 @@ Skills for natural language processing, NLP:
 		* Deep Learning,
 		* Bayesian Modeling,
 		* Natural Language Processing.
++ Machine Learning Engineer - NLP (Remote)
+	- Our small engineering team works on challenging problems every day. We have a culture that's rooted in constantly learning and improving, and our engineers are encouraged to think big and experiment with new ideas. Using continuous deployment, we quickly see our changes in the product and make fast iterations. Our engineers focus on creating polished products and writing high quality code by designing APIs and abstractions that are extensible and maintainable. As a remote first company, our engineers have a high degree of flexibility and autonomy. Everyone on the engineering team has a huge impact on our product and our company.
+	- We are looking for an experienced Machine Learning engineer to join our growing engineering team. At Quora, we use machine learning in almost every part of the product and natural language processing plays an important role. As a natural language processing expert, you will help us leverage our rich textual data and help uncover new opportunities to apply machine learning to the Quora product. You will also play a key role in developing tools and abstractions that our other developers would build on top of.
+	- Improve our existing machine learning systems using your core coding skills and ML knowledge
+	- Identify new opportunities to apply machine learning to different parts of the Quora product
+	- Work with other machine learning engineers to implement algorithms and systems in an efficient way
+	- Take end to end ownership of machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- Demonstrated professional experience in software development and machine learning
+	- 3+ years of professional experience working on natural language processing, language modeling, etc
+	- Solid understanding of mathematical foundations of machine learning algorithms
+	- Previous experience building end to end machine learning systems
+	- BS, MS or PhD in Computer Science, Engineering or a related technical field
+	- Flexible and positive team player with outstanding interpersonal skills
+	- 3+ years of experience writing Python or C++ code
+	- Proven track record of delivering NLP models to solve industry-scale problem
+	- Experience with transformer models
+	- Experience with leading large-scale multi-engineer projects
+	- Passion for Quora's mission and goals
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $120,800 - $275,750 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $122,471 - $279,565 CAD + equity + benefits.
 + data science skills in the context of NLP:
 	- Excellent understanding of ML, NLP, and statistical methodologies
 	- Excellent programming skills (Java/Python/R/Sas)
@@ -12912,6 +12934,27 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 	- Have more than 3 years of work experience;
 	- Have a solid programming ability and master at least one back-end programming language (Python/Go/Java, etc.);
 	- Have a deep understanding of operating systems, data structures and algorithms
++ Machine Learning Engineer - Recommendation System (Remote)
+	- Our Recommender System team works on challenging problems every day. Our Machine Learning Engineers are tasked with optimizing the content distribution system at Quora. The team covers the entire Machine Learning lifecycle from end-to-end, including feed generation, notifications, digest emails, and requests to answer. Engrained in our culture is the desire to constantly learn and improve, and our engineers are encouraged to think big and experiment with new ideas. Using continuous deployment, we quickly see our changes in the product and make fast iterations. Our engineers focus on creating polished products and writing high-quality code by designing APIs and abstractions that are extensible and maintainable. As a remote-first company, our engineers have a high degree of flexibility and autonomy. Everyone on the engineering team has a huge impact on our product and our company. Since we first launched our content distribution platform, we've grown to support millions of users who are engaging with over 400 million+ monthly unique visitors on Quora. Our journey is just beginning as we continue to build new products from the ground up and tackle exciting challenges at scale. Today, we're working on a broad range of areas to grow our content product to drive more value to our users. As a member of the Recommender System team, you will have a chance to work with a diverse and talented global team of engineers and collaborate closely with cross-functional partners to help users get the right content at the right time and build a stronger connection between Quora users and its knowledge base.
+	- Improve our existing machine learning systems using your core coding skills and ML knowledge
+	- Take end to end ownership of machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems
+	- Apply state-of-the-art machine learning algorithms at scale and serving for next-generation ad recommendation systems that directly impact the company’s top line metrics
+	- Collaborate with ML platform and product engineers to build scalable and efficient machine learning systems in the production environment
+	- Improve the design of recommender model
+	- Work with product and business teams on new innovative features for recommender systems to optimize user and advertiser performance
+	- Identify new opportunities to apply machine learning to different parts of the Ads product to drive value for our users and advertisers
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 3+ years of professional software development experience in machine learning
+	- Previous experience building large scale ranking/recommendation systems
+	- Good understanding of mathematical foundations of machine learning algorithms
+	- Highly proficient coding ability writing Python, C++ or Golang code
+	- BS, MS or PhD in Computer Science, Engineering or a related technical field
+	- Experience with leading large-scale multi-engineer projects
+	- Flexible and positive team player with outstanding interpersonal skills
+	- Passion for Quora's mission and goals
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $147,200 - $275,750 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $151,270 - $283,374 CAD + equity + benefits.
 + skill set:
 	- SmartNews is a leading mobile app of news aggregation services. It analyzes millions of articles to deliver most engaging information with high quality in near-real time fashion to millions of users around the world. Our AI Foundation team is responsible to research and develop world-class AI algorithms that can be applied at large scale to accomplish our mission. It works on a range of content understanding, user modeling and recommendation problems, which include natural language processing tasks of classification, entity recognition, summarization, computer vision of image/video processing, collaborative filtering, etc. The team generally produce good content/user signals and state-of-art recommendation models to News Ranking/Ads Ranking team to deliver the world's high quality information to the people who need it.
 	- Responsibilities
@@ -14599,6 +14642,30 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- Believe that building canonical datasets can empower an organization
 	- Have a proven track record of making meaningful impacts through data insights and discovery in past roles.
 	- Nice to haves: ***Airflow/Luigi/other DAG tool experience***, Python, Node
++ Senior Data Scientist - Poe (Remote)
+	- The Data Team is highly empowered at Quora, helping navigate complexity and influencing product and company strategy directly. Quora's outsized commitment to data is visible in everything we do, from our rigor-driven experimentation processes to the backgrounds of our leaders. With this emphasis on data and empirics, we aim to balance rigor and pragmatism, searching for scrappy solutions in pursuit of our mission. In joining Quora's strong data team, you'll both benefit from and work to advance our culture of rational decision making.
+	- As a member of our team, you'll work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics, design randomized controlled experiments, build visualizations, and tackle hard, open-ended problems that uncover usage patterns and opportunities for the company. Quora has a wide range of rich data, giving you ample room for exploration and creativity. Examples of some projects our data scientists have worked on include modeling our long-term growth, improving the relevance and personalization of the homepage feed, and exploratory analysis of factors driving question-asking behavior. For more about our work, see Quora's Data blog at https://quoradata.quora.com/.
+	- As a Senior Data Scientist, you will draw on your experience to excel not only in your own work but also to elevate data’s impact at a company-wide level. You will provide team mentorship that propels the work of your colleagues while helping to establish best practices for data usage across Quora.
+	- Extract actionable insights from broad, open-ended questions
+	- Design and evaluate experiments to measure the impact of product changes
+	- Analyze data from across the product to uncover the root causes of metric movements
+	- Communicate results to cross-functional stakeholders to inform product decisions
+	- Develop tools to scale and automate analyses, improving productivity across the company
+	- Improve the work of other data scientists through mentorship and by bringing industry best practices to the team
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 3+ years work experience in an analytical or quantitative role as a Data Scientist or similar title
+	- 2+ years experience working on product analytics
+	- Extensive experience generating insights using statistical techniques (e.g. regression, hypothesis testing)
+	- Demonstrated ability to clearly explain data results to cross-functional teams
+	- Experience using a procedural programming language (e.g. Python, R) to manipulate, clean, and analyze data
+	- Ability to exercise judgment and combine quantitative skills with intuition and common sense
+	- Experience evangelizing best practices and process improvements on your team
+	- Experience working with large data sets and distributed computing tools (e.g. Redshift, Presto)
+	- Experience pushing code and navigating a complex codebase
+	- Active Quora and/or Poe user with curiosity about the product
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $122,000 - $235,700 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $123,688 - $238,961 CAD + equity + benefits.
 + skill set:
 	- A fluidity with tools commonly used for data analysis such as Python (numpy, pandas, and scikit learn), R, and Spark (MLlib).
 	- Experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.

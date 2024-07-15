@@ -338,6 +338,26 @@ reactive programming = asynchronous dataflow programming
 	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
 		* US candidates only: For US based applicants, the salary range is $174,400 - $275,750 USD + equity + benefits.
 		* Canada candidates only: For Canada based applicants, the salary range is $179,311 - $283,515 CAD + equity + benefits.
++ Software Engineer - Ads (Remote)
+	- In just over six years since we first launched our advertising platform, we've already grown to support thousands of advertisers who are reaching over 400 million monthly unique visitors on Quora. Today, we're working on a broad range of areas to support our data-intensive needs: metrics and insights reporting, audience targeting, low-latency real-time ad delivery, and a suite of advertiser tools to create and optimize campaigns, to name just a few.
+	- As an engineer on the Ads product team, you'll work on efforts focused on generating revenue for the success of the company and mission. As part of a highly cross-functional development team, you'll work closely with machine learning engineers, data scientists, product managers, and designers, build data-intensive applications and systems to enable advertisers to reach a well-targeted audience, and ensure that our users experience ads comparable to the quality of the content they appear alongside.
+	- Drive projects from ideation to production using the full technology stack
+	- Architect, design, and implement features for our mission-critical online ad platform at massive scale with data-driven iteration
+	- Identify high impact features that achieve engineering and revenue goals, and be able to explain rationale for your decisions
+	- Work with designers, fellow engineers, and data scientists to prototype and implement functionality and analyze impact
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 4+ years of full-time product development experience building consumer or enterprise web products (internships excluded)
+	- Excellent Python, Java, or C++ development skills
+	- Knowledge of backend storage systems such as MySQL, HBase, Memcached, or Redis
+	- Knowledge of frontend technologies such as React, Javascript, Typescript
+	- Experience with large-scale distributed systems
+	- 2+ years of industry experience in online advertising, or related areas in monetization & marketing
+	- 1+ years of experience building with open-source data infrastructure technologies, such as Kafka, Airflow, and Spark
+	- 1+ years of frontend experience with frontend technologies, such as React, Javascript, Typescript
+	- Love of the Quora products
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $120,800 - $232,750 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $122,471 - $235,970 CAD + equity + benefits.
 + skill set:
 	- Staff Engineer, Web Platforms
 	- We are looking for a staff level engineer with deep experience in the web ecosystem. You’ll contribute to a vital team in an organization that values empathy, collaboration, transparency, diversity, and learning. You will report to Soraya Dib and work cross-functionally with engineers, designers, and product managers.

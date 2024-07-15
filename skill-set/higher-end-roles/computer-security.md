@@ -1146,7 +1146,34 @@ Roles in computing security:
 	- In addition to highly competitive salaries, we offer premium healthcare options, 401k matching, and an annual pass to a swim in the bonus pool. We also offer four weeks of paid time off and 11 federal holidays to utilize whenever you want throughout the year.
 	- Awesome, enthusiastic co-workers and a company culture that promotes a jerk- free environment. Rattle the windows with the company band, participate in board game or movie nights, and help balance out the scotch vs. bourbon ratio in the office.
 + skill set:
-	- BLAH.
+	- Director of Engineering - Head of Security (Remote)
+	- We are seeking a highly experienced Head of Security to lead the development and management of security operations for both Quora and Poe products, and to represent Quora's security interests to customers and regulatory bodies. This role encompasses a variety of responsibilities, including identifying vulnerabilities, implementing best-in-class security practices, and developing long-term security strategies. The ideal candidate will possess a proven track record in team building, engineering, and upholding the highest security standards.
+	- Hire, lead, and manage the security team
+	- Lead the identification and continuous enhancement of security measures across engineering processes, products, and infrastructure
+	- Develop and maintain security policies, standards, and guidelines that align with organizational objectives and legal requirements, including compliance and audit planning
+	- Collaborate with various departments such as Legal, IT, Facilities, and Operations to develop and implement secure engineering practices
+	- Conduct regular security assessments and audits, ensuring compliance with industry standards
+	- Lead the coordinated response to security incidents, from detection to remediation, root cause analysis, and prevention
+	- Stay informed about emerging threats and technologies, and advise the leadership team accordingly
+	- Mentor and guide engineering teams on best practices for secure development, threat modeling, and testing
+	- Design and execute security training and awareness programs tailored for the engineering department and all employees
+	- Collaborate with senior leadership and other functions (Product, IT, HR, Finance, and Legal) to ensure that company culture, values, and strategies are integrated into practical security applications
+	- Ability to be available for meetings and impromptu communication during Quora's “coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- 8+ years of experience in Infrastructure and Information Security
+	- 3+ years of experience leading a team
+	- Proven experience in designing and securing solutions in a complex and regulated enterprise environment
+	- Skilled in defining security requirements and assisting teams in implementing these through collaborative architecture and engineering
+	- In-depth knowledge of AWS security best practices and security controls, including IAM, CloudTrail, CloudWatch, etc
+	- Strong understanding of security concepts, such as secure coding, encryption, and authentication
+	- Ability to communicate complex subjects regarding strategic and tactical cybersecurity processes to partners of varying technical levels
+	- Knowledge of industry standards like SOC 2, ISO 27001 and GDPR
+	- Comprehensive understanding of advanced persistent threats, attacker methodologies, attack lifecycle, and the MITRE framework
+	- Experience in leading a company-wide security program that encompasses security in Infrastructure, IT, Facilities, Operations, and achieving compliance
+	- Experience in building secure consumer products at internet scale
+	- Passion for Quora's mission and goals.
+	- There are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs.
+		* US candidates only: For US based applicants, the salary range is $236,400 - $373,875 USD + equity + benefits.
+		* Canada candidates only: For Canada based applicants, the salary range is $243,010 - $384,328 CAD + equity + benefits.
 + skill set:
 	- BLAH.
 + skill set:
