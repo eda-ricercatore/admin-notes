@@ -4046,8 +4046,22 @@ hardware security topics from Trust-Hub website Trust-Hub.org:
 		* Working knowledge of online service architectures for connected/IOT systems
 		* Well versed in Secure Architecture and Design fundamentals
 		* 10 years: 10+ years of experience in the hardware data security industry
-
-
++ Chip Architecture Security Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a highly motivated and detail-oriented Hardware Security Architect to join our dynamic team. As a Hardware Security Architect, you will be responsible for designing, implementing, and maintaining security measures for our hardware systems. You will work closely with cross-functional teams to ensure the integrity and confidentiality of our hardware components, protecting against potential threats and vulnerabilities. This role is ideal for individuals with a strong background in hardware security and a passion for staying abreast of the latest advancements in the field.
+	- Developing and maintaining security protocols for a wide range of product lines.
+	- Defining security architecture and participate in design tasks.
+	- Bachelor’s degree in Electrical Engineering, Computer Engineering, or a related field.
+	- Demonstrated experience in hardware security design and implementation.
+	- Knowledge of cryptographic algorithms and protocols.
+	- Familiarity with security standards such as ISO 27001, Common Criteria, and FIPS.
+	- Proficiency in hardware description languages (HDL) such as Verilog or VHDL.
+	- Experience with security testing tools and methodologies.
+	- Strong analytical and problem-solving skills
+	- Excellent communication and collaboration skills.
+	- Master’s degree in Electrical Engineering, Computer Engineering, or a related field.
+	- Experience with hardware security modules (HSMs) and secure element integration.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 
 
 

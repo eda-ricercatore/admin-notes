@@ -1114,9 +1114,57 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- Compilers, MLIR, Polyhedral framework, HPC, and AI
 	- We look for talented engineers with strong computer science systems and programming skills. Prior compiler engineering experience (two years or more) and familiarity with at least one or more of the following fields are highly desirable: LLVM/MLIR, high-performance computing, and ML/AI programming frameworks. Most of the work done at PolyMage Labs is highly specialized — we thus believe that our engineers will, in most cases, learn additional advanced skills after they are on board with us.
 + skill set:
-	- BLAH.
+	- Sr. Principal Software Engineer, AI Compiler
+	- Austin, Texas, United States
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a Sr. Principal Software Engineer with expertise in compilers and semiconductor technology to join our team. As a Sr. Principal Software Engineer, AI Compiler Specialist, you will play a critical role in designing, developing, and optimizing compilers for cutting-edge semiconductor products. You will work closely with hardware engineers, software engineers, and other stakeholders to ensure the efficient and effective execution of compiler-related tasks.
+	- Develop machine learning graph compiler
+	- Participate in the co-design of Tenstorrent's hardware and software stack
+	- Benchmark, analyze, and optimize performance of key machine learning applications across Tenstorrent's hardware and software stack
+	- Develop performance analysis and estimation infrastructure that feeds into Tenstorrent compiler
+	- Develop high-performance run-time engine
+	- Integrate the Tenstorrent software into leading machine learning frameworks
+	- Work closely with machine learning engineers to discover the hardware and software requirements of current and future machine learning applications
+	- Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or related field.
+	- Extensive experience (10+ years) in compiler development, with a focus on optimizing compilers for high-performance computing systems.
+	- Strong proficiency in programming languages such as C/C++, with experience in compiler toolchains and development frameworks.
+	- Solid understanding of computer architecture principles, particularly in the context of AI accelerators and heterogeneous computing systems.
+	- Proven track record of delivering production-quality compiler solutions and optimizing performance for complex workloads.
+	- Excellent problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment.
+	- Strong communication skills with the ability to articulate technical concepts and collaborate effectively with cross-functional teams.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ Sr. Software Engineer, AI Compiler
+	- Toronto, Ontario, Canada
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- This role is hybrid, based out of Toronto, ON.
+	- We are seeking an experienced and highly skilled Sr. Software Engineer with expertise in compilers and semiconductor technology to join our team. As a Sr. Software Engineer, AI Compiler Specialist, you will play a critical role in designing, developing, and optimizing compilers for cutting-edge semiconductor products. You will work closely with hardware engineers, software engineers, and other stakeholders to ensure the efficient and effective execution of compiler-related tasks.
+	- Develop machine learning graph compiler
+	- Benchmark, analyze, and optimize performance of key machine learning applications across Tenstorrent's hardware and software stack
+	- Develop performance analysis and estimation infrastructure that feeds into Tenstorrent compiler
+	- Integrate the Tenstorrent software into leading machine learning frameworks
+	- Work closely with machine learning engineers to discover the hardware and software requirements of current and future machine learning applications
+	- BSc, MSc or PhD in Electrical/Computer Engineering or Computer Science
+	- Familiarity with common AI/ML models, and basics of machine learning operations (matrix multiplications, convolutions, etc.)
+	- Experience with algorithms, data structures, and software development in C/C++.
+	- Expertise in Python.
+	- Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus
 + skill set:
-	- BLAH.
+	- Staff Software Engineer, AI Compiler
+	- Austin, Texas, United States
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking an experienced and highly skilled Software Engineer with expertise in compilers and semiconductor technology to join our team. As a Staff Software Engineer, AI Compiler Specialist, you will play a critical role in designing, developing, and optimizing compilers for cutting-edge semiconductor products. You will work closely with hardware engineers, software engineers, and other stakeholders to ensure the efficient and effective execution of compiler-related tasks.
+	- This role is hybrid, based out of Austin, TX; Santa Clara, CA; or Toronto, ON.
+	- Develop machine learning graph compiler
+	- Participate in the co-design of Tenstorrent's hardware and software stack
+	- Benchmark, analyze, and optimize performance of key machine learning applications across Tenstorrent's hardware and software stack
+	- Develop performance analysis and estimation infrastructure that feeds into Tenstorrent compiler
+	- Develop high-performance run-time engine
+	- Integrate the Tenstorrent software into leading machine learning frameworks
+	- Work closely with machine learning engineers to discover the hardware and software requirements of current and future machine learning applications
+	- BSc, MSc or PhD in Electrical/Computer Engineering or Computer Science
+	- Experience with algorithms, data structures, and software development in C/C++. Python expertise is welcome as well
+	- Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:

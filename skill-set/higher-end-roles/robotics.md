@@ -1791,6 +1791,11 @@ Sets of skills in Machine Vision:
 ##	Sets of Skills in Humanoid Robots
 
 
+Companies working with humanoid robots:
++ https://www.skild.ai/career
+
+
+
 + skill set:
 	- At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life, through innovations in AI and robots.
 	- Our work is guided by a dedication to safety – in both what we research and how we perform our research, our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who bring invaluable leadership, experience, and ideas from leading industry and academic institutions. We are actively involved with the broader academic community and promote the sharing of research outcomes through publications, funding, and open-source software. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
@@ -1847,6 +1852,174 @@ Sets of skills in Machine Vision:
 		* Comfortable using Adobe Illustrator, Adobe Xd, Sketch, or a similar for task flows, wireframes, mockups
 		* Comfortable using Adobe Premiere or similar software to produce stimuli or concept videos
 		* Appetite to learn across functions
++ Robotics Engineer, Deployment & Testing
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for a Robotics Engineer specializing in Deployment & Testing to help further the performance and capabilities of Skild AI’s world-class high-level software and products through formalized, rigorous testing. You will design and implement automated software tests and the ecosystems in which they run. As a critical member of the robotics team, you will have an important role in defining the quality standards of our software while accelerating its development.
+	- Define, implement, and maintain comprehensive regression tests for Skild AI’s software and products.
+	- Design and organize test plans according to priority, impact, risk, and feasibility.
+	- Debug and troubleshoot failures in complex scenarios while testing and/or deployment at customer sites.
+	- Maintain robots and ensure they are deployment ready.
+	- Recreate corner cases from production logs into repeatable tests.
+	- Collaborate closely with robotic software developers and machine learning engineers and provide feedback on what needs to be improved to produce and sustain a top-quality product that meets customer expectations.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing in low-level systems languages (C, C++, Rust, Go) and Python.
+	- Experience with complex software systems working in real-time with embedded systems.
+	- Experience with Test Management and Requirements software.
+	- Experience with ROS/ROS2 or other robotics middleware platforms.
+	- Previous work experience as a Test Engineer.
+	- Prior experience developing and deploying software on real robots.
+	- Deep understanding and practical experience with software engineering principles, including algorithms, data structures, and system design.
+	- Familiarity with machine learning integration and deployment in robotic systems.
++ Robotics Engineer, Manipulation
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are seeking a versatile Robotics Engineer to develop and implement software solutions for our manipulation systems. The ideal candidate will have experience in controls, perception, and planning. You will be working on deploying state-of-the-art learning-based algorithms on real robot setups, focused on daily manipulation tasks. This role will require close collaboration with researchers and the ML team. The ideal candidate should be comfortable with building high-quality software for robotic manipulation and deploying it on robot hardware.
+	- Help design algorithms, models, and techniques for various robotic manipulation tasks.
+	- Design hardware and software systems for various robotic manipulation tasks.
+	- Write controllers and perception stacks for real-world robotic deployment.
+	- Write and maintain production-level C++ and Python code for our robotic manipulation platforms.
+	- Collaborate with machine learning engineers to deploy state-of-the-art models on our robots.
+	- Continuously improve and optimize robotic software for performance, reliability, and scalability.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Experience in designing robotic manipulation systems and deploying software on real robots.
+	- Experience with writing controllers and knowledge of robotics (e.g., kinematics, dynamics, control, motion planning, SLAM).
+	- Proficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.
+	- Systems-level understanding of the various software modules and their interfaces in a robotic application (ROS/ROS2, simulators, etc.).
+	- ***Publications at top-tier ML, robotics or CV conferences (e.g., NeurIPS, ICML, ICLR, CoRL, RSS, ICRA, CVPR, ECCV, ICCV).***
+	- Experience with designing custom robot hardware solutions.
+	- Proficiency with various robot learning techniques (RL, imitation learning, etc.).
+	- Experience working with modern computer vision algorithms, sensors (LiDAR, camera, radar, etc.), 3D (meshes, point clouds, etc.), segmentation, tracking, object detection.
++ Embedded Systems Engineer
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for Embedded Systems Engineers to design, develop, and implement embedded systems for a variety of applications. You will work closely with a team of engineers to create high-quality, reliable, and efficient embedded solutions that meet our clients' needs.
+	- Design and develop embedded systems and software for various applications.
+	- Write, test, and debug embedded software and firmware.
+	- Collaborate with hardware engineers to integrate software and hardware components.
+	- Perform system-level and unit-level testing to ensure the reliability and performance of embedded systems.
+	- Develop and maintain documentation for embedded systems, including design specifications, user manuals, and test plans.
+	- Participate in design reviews and provide feedback on hardware and software designs.
+	- Troubleshoot and resolve issues related to embedded systems in a timely manner.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing in low-level systems languages (C, C++, Rust, Go).
+	- Proven experience in embedded systems design and development.
+	- Experience with real-time operating systems such as Linux Preempt-RT and FreeRTOS.
+	- Strong understanding of microcontrollers, microprocessors, and digital/analog circuit design.
+	- Familiarity with communication protocols such as I2C, SPI, UART, CAN, etc.
+	- Experience with hardware design and PCB layout.
+	- Knowledge of wireless communication protocols (Bluetooth, Wi-Fi, Zigbee, etc.).
+	- Experience with debugging tools and techniques for embedded systems.
++ Robotics Software Engineer
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are seeking a versatile Robotics Software Engineer to develop and implement software solutions for our robotic systems. Your work will entail building systems for navigation, planning and controls, SLAM, manipulation, and/or perception. You should be comfortable working with both general-purpose and specialized robotics applications. This role involves close collaboration with research scientists and machine learning engineers to integrate state-of-the-art machine learning models into our robots.
+	- Design, implement, and test software to bring our robots to life, focusing on navigation, planning and control, SLAM, perception, manipulation, and/or high-level behaviors.
+	- Write and maintain production-level C++ and Python code for our robotic platforms.
+	- Collaborate with machine learning engineers and researchers to deploy state-of-the-art models on our robots.
+	- Work with deployment and test engineers to deploy and monitor robotic solutions at various sites, ensuring robust performance and reliability.
+	- Continuously improve and optimize robotic software for performance, reliability, and scalability.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing in C++ or Python.
+	- Prior experience developing and deploying software on real robots.
+	- Strong systems-level understanding of the various software modules and their interfaces in a robotic application Strong technical experience in at least one of the following: navigation, motion planning and controls, SLAM, perception/computer vision, or manipulation.
+	- Experience with ROS/ROS2 or other robotics middleware platforms.
+	- Deep understanding and practical experience with software engineering principles, including algorithms, data structures, and system design.
+	- Familiarity with machine learning integration and deployment in robotic systems.
++ Embedded Security Engineer
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are seeking a proficient Embedded Security Engineer to join our team and contribute to the protection of our models deployed on robotic hardware. You will be responsible for conducting comprehensive threat modeling and security assessments, as well as supporting our engineering teams in adhering to established security standards and requirements. This role involves both software engineering techniques and deep learning methods to encode/encrypt trained models. A blend of technical acumen and collaborative skills is essential, as you will develop solutions to identified risks, write test cases for security controls, and actively participate in offensive security assessments.
+	- Conduct detailed threat modeling and security assessments of critical assets.
+	- Regularly update threat models to reflect evolving threats and changes in the business environment.
+	- Identify and explore vulnerabilities in critical software components used across our environment.
+	- Create and implement technical solutions to mitigate identified risks, and maintain test cases to ensure the effectiveness and resilience of the solutions.
+	- Collaborate with engineering teams to ensure compliance with defined security standards and requirements.
+	- Provide support in the implementation of security measures.
+	- Lead penetration tests and red team exercises.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing higher-level languages (e.g., PHP, Python, C++, or Java).
+	- Experience with deep learning software, frameworks, and APIs (e.g., PyTorch, etc.).
+	- Experience with enterprise security.
+	- Proven experience in threat modeling, security assessments, and penetration testing.
+	- Strong understanding of cybersecurity principles, frameworks, and standards.
+	- Understanding and experience with securing transfer and storage of deep neural network models.
++ Software Engineer, AI Inference
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for a Software Engineer to work at the forefront of deploying our cutting-edge AI models, enhancing the performance and capabilities of our embodied systems. You will be responsible for optimizing AI inference processes from lightweight to billion-parameter models, ensuring our robots operate with unmatched efficiency and intelligence in real-world environments. You will work at the intersection of systems and machine learning, directly contributing to making our AI models more powerful and adaptive by ensuring consistent performance in light of variable and perhaps unforeseen compute and hardware constraints.
+	- Develop and optimize runtime AI inference pipelines for real-world robotic deployment.
+	- Build infrastructure, frameworks, and tooling to enable reliable integration of models into robotic systems and informative analysis of production models to drive the direction of architecture choice and deployment system design.
+	- Formulate specialized optimization solutions for various inference paradigms and scenarios (autoregressive models, denoising models, hierarchical models, state machines, multi-agent systems, cloud-based inference).
+	- Adapt optimization solutions to various compute, hardware, and networking constraints.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing in low-level systems languages (C, C++, Rust, Go), Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.
+	- Deep understanding and practical experience with low-level systems concepts (multithreading, networking, embedded systems, memory management).
+	- Experience with CUDA.
+	- Deep understanding of state-of-the-art machine learning techniques and models.
+	- Experience optimizing various machine learning architectures.
+	- Experience with machine learning compilers.
+	- Experience optimizing model inference for robotic systems deployment.
++ Software Engineer, AI Training and Infrastructure
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for a Software Engineer to work at the forefront of developing and optimizing the software infrastructure and tools necessary for training cutting-edge AI models. You will focus on building robust, scalable, and efficient training pipelines and frameworks that support the entire machine learning lifecycle, from data preparation to model deployment. You will collaborate with researchers and machine learning engineers to ensure seamless integration and operation of training systems, pushing the boundaries of what AI can achieve in real-world robotics applications. You will explore new ways to efficiently make use of many types of data in our training pipeline.
+	- Develop and maintain robust, scalable, and distributed training pipelines (data preprocessing, training orchestration, and model evaluation) and frameworks for large-scale AI models.
+	- Optimize training processes for performance and resource utilization, ensuring scalability and reliability.
+	- Collaborate with researchers and machine learning engineers to integrate state-of-the-art algorithms and techniques into training pipelines.
+	- Monitor and analyze training, identifying bottlenecks and proposing solutions to improve efficiency and performance.
+	- Ensure the robustness and reliability of the training infrastructure, including automated testing and continuous integration.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency in Python, C++, or similar and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.
+	- Strong background in distributed computing, parallel processing techniques, handling large-scale datasets and data preprocessing.
+	- Deep understanding of state-of-the-art machine learning techniques and models.
+	- Experience with cloud-based training environments (AWS, Google Cloud, Azure).
+	- Experience in developing and maintaining software tooling and infrastructure for machine learning.
+	- Deep understanding and practical experience with software engineering principles, including algorithms, data structures, and system design.
+	- Experience with continuous integration and automated testing frameworks.
++ Machine Learning Engineer, Reinforcement Learning
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for a Machine Learning Engineer to be responsible for designing and implementing cutting-edge reinforcement learning algorithms, conducting experiments, and optimizing these models to perform efficiently in real-world robotic environments. This will require close collaboration with our robotics, research, and engineering team. Your work will directly impact the development of intelligent, adaptable robots capable of learning and performing complex tasks autonomously.
+	- Develop and implement state-of-the-art reinforcement learning algorithms for robotic applications.
+	- Design and conduct experiments to train RL models and conduct real-world tests.
+	- Collaborate closely with researchers to explore novel methods of scaling up reinforcement learning model training.
+	- Communicate effectively with inference, application, and deployment engineers to integrate RL models into robotic systems and iterate on methods to enable robust deployment.
+	- Analyze and interpret experimental results, iterating on model design to achieve desired performance.
+	- Stay up-to-date with the latest research and advancements in reinforcement learning.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency in Python, C++, or similar and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.
+	- Deep understanding and practical experience with various reinforcement learning algorithms and techniques (model-free, model-based, multi-task, hierarchical, multi-agent, etc.).
+	- Strong background in algorithms, data structures, and software engineering principles.
+	- Experience with physics simulation engines and tools for training RL.
+	- Deep understanding of state-of-the-art machine learning techniques and models.
+	- Extensive industry experience with reinforcement learning and robotic systems.
++ Simulation Engineer
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are seeking talented simulation engineers to create expansive simulated worlds to scale up robotic experience. You will have a dual focus: designing high-level virtual environments and enhancing low-level simulator software. This role requires a blend of technical expertise and collaborative skills, as you will work closely with our machine learning engineers and researchers. We are looking for candidates with diverse backgrounds, including game development, CGI artistry, animation, and interior design, who are passionate about turning their virtual creations into impactful real-world applications.
+	- Design visually and physically realistic diverse scenes.
+	- Create new, specialized simulators optimized for high throughput, high fidelity data.
+	- Work with our ML and research team to deploy and/or improve simulators.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency in programming languages such as Python, C++, or similar.
+	- Deep understanding of commonly used physics engine simulators for robotics.
+	- Technical understanding of different components of a simulation - graphics, physics, etc.
+	- Experience in game development, CGI, or animation.
+	- Knowledge of robot design, controls, and robot hardware.
+	- Experience in inverse rendering or photogrammetry.
++ Research Scientist
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for Research Scientists to lead the effort in developing the next generation of techniques to advance the capabilities of our robotic systems. We are looking for people with proven expertise in machine learning and/or robotics, who are passionate about pushing the boundaries of what is possible. You will collaborate with a team of talented researchers and engineers, and enhance our cohesive research strategy, driving ongoing innovation and technological advancements within the company. The ideal candidate will have a track record of discovering fundamental, scalable solutions, and a passion for seeing their research transform into impactful applications.
+	- Develop new algorithms and methods for training general-purpose robot foundation models.
+	- Conduct cutting edge research across multiple disciplines (Perception, Robotics, RL, Machine Learning, etc.).
+	- Work with large scale systems and large-scale model training.
+	- PhD degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Multiple years of experience in conducting research.
+	- Proficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc.
+	- ***Publications at top-tier ML, robotics, or CV conferences (e.g., NeurIPS, ICML, ICLR, CoRL, RSS, ICRA, CVPR, ECCV, ICCV).***
+	- Deep technical knowledge, and research experience in deep learning, reinforcement learning, robotics, or computer vision.
+	- Deep understanding of state-of-the-art machine learning techniques and models.
+	- Experience working with robot systems.
+	- Experience working with large-scale model training and systems.
+
+
+
+
+
+
+
 
 
 

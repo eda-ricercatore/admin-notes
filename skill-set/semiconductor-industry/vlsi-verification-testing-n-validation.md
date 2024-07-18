@@ -497,17 +497,87 @@ Skill set for roles in digital VLSI verification:
 	- ***Ability to learn languages and methodologies that are not part of the industry standard to verification (Scala, Chisel, etc.)***
 	- ***Understanding of CPU memory systems caches from an architectural level.***
 + skill set:
-	- BLAH.
+	- VLSI Verification Engineer
+	- An exciting semiconductor startup is seeking an outstanding verification engineers to develop a new type of massively parallel architecture.
+	- This is a rare and exciting opportunity to join an evolving team and company, allowing you to influence the future of both processor architectures and database systems.
+	- We are looking for highly motivated Engineers who love the challenge and the opportunity of a growing company. Join us and be a part of a small and dynamic team, which is revolutionizing the parallel processor architecture.
+	- BSc in Electronics Engineering or Computer Science
+	- 10+ Years of industry experience in verification, full chip dev. cycle.
+	- 2+ years of experience in leading a team of engineers (including technical and personal mentoring, etc.)
+	- Experience with System Verilog and UVM methodology - MUST
+		* Hands-on experience with two or more of the following :
+		* PCIE (Gen5 and above).
+		* DDR (v4 and above).
+		* AMBA protocol family, (inc. AXI4+, ACE/CHI)
+		* ARM core architecture.
+	- M.Sc. in Electronics Engineering or Computer Science
+	- Working experience with Formal verification
+	- Scripting skills in Python/Perl/shell
 + skill set:
-	- BLAH.
+	- Formal Verification Engineer
+	- An exciting semiconductor startup is seeking an outstanding formal verification engineer to develop a new type of massively parallel architecture.
+	- This is a rare and exciting opportunity to join an evolving team and company, allowing you to influence the future of both processor architectures and database systems.
+	- We are looking for highly motivated engineers who love the challenge and the opportunity of a small company. Join us and be a part of a small and dynamic team, which revolutionizes the parallel processor architecture.
+	- BSc in Electronics Engineering
+	- 3+ Years of industry experience in formal verification.
+	- Team Player, with excellent interpersonal skills.
+	- Experience as a verification engineer and knowledge in System Verilog and UVM methodology.
+	- Knowledge with Jasper.
 + skill set:
-	- BLAH.
+	- Principal, Design Verification Engineer, Fabric and Memory Subsystem
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Experienced engineer focused on Fabric / Memory Subsystem verification for high-performance CPUs. The person coming into this role will work on a server class Fabric unit.
+	- Functional and performance verification of the Fabric unit for a from-scratch high performance CPU while working closely with Architecture and RTL team
+	- Develop detailed block level verification plans for a high-performance Fabric
+	- Design and develop reusable block level testbench components in SV, UVM and C++, that include microarchitectural models, monitors, checkers
+	- Develop random and directed stimulus that spans pre-silicon, emulation and post-silicon domain
+	- Evaluate and integrate open-source toolchains into the DV flow
+	- Develop DV environment, tools and infrastructure to enable functional verification for pre-silicon, emulation and post-silicon
+	- Work with design, test and post silicon validation teams to ensure high quality delivery of the Fabric / Mem Subsystem block
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of experience
+	- Strong background and experience with high performance OOO CPU microarchitecture especially with load/store, caches and memory subsystem 
+	- Experience working on a Fabric for a CPU or GPU based system.  Knowledge of industry standard protocols such as CHI, AXI, ACE, Tilelink, CMN
+	- Architectural understanding of memory ordering, cache coherency protocols, memory consistency, multi-processors and fabric topologies
+	- Significant experience debugging RTL and DV in a simulation environment
+	- Verification methodologies and techniques – Simulation/debug, TB development, stimulus, checking, coverage, infrastructure, tools
+	- Experience with C++ / SV / UVM as well as scripting languages
+	- Experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator)
+	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
-	- BLAH.
+	- Staff, Digital Design Verification Engineer, Chiplets
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent is looking for a Staff Digital DV Engineer to join our team. At Tenstorrent you will accelerate your career building the AI and Software 2.0 compute platform of the future. You will work on challenging engineering problems within our dedicated team. We are looking for a talented DV candidate with great communication skills to help build our products and improve our processes.
+	- Verification of Tenstorrent's digital IP and SOC logic, using advanced verification methodologies - UVM, C/C++/Python, FPGA prototyping, emulation
+	- Execution and creation of test plans
+	- Writing testbenches, checkers and tests, models, assertions and initiators
+	- Creating functional coverage points
+	- Reviewing verification results and metrics while helping the team towards tape-out
+	- Performance and power verification and validation of Tenstorrent's IP and SOC
+	- Bachelor/Master in Electrical/Computer Engineering/Engineering Science
+	- 5-8 years experience in block-level verification
+	- Strong hardware verification language experience (SystemVerilog, SystemC)
+	- Knowledge of UVM and coverage driven constrained random verification
+	- Excellent programming skills – particularly C, C++, Python.  (Also Ruby, Perl, Tcl, YAML, Make, Bash)
+	- Deep interest in computer architecture, picking up new methodologies and tools, as well as the application of machine learning to make chip-design and verification more efficient
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+	- Staff Engineer, CPU Formal Verification
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- CPU Formal Verification engineer will be responsible for applying various formal verification techniques to source bugs in specifications and RTL implementation for a high performance data center class CPU.
+	- Drive formal verification for block across CPU design by interacting with the team and scoping out the complexity of the problem at hand
+	- Develop detailed verification plans to highlight the checks and constraints
+	- Develop assertions, cover properties and connectivity checks as a part of formal verification flows and debug any failures in regressions 
+	- Create formal verification flows and deploy techniques that leverage on both industry standard and open-source tools. Drive automation of formal testbenches and ensure they are a part of regressions 
+	- Deploy scripts and automation to support formal, review setups and proofs with Microarchitecture and DV engineers
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of experience 
+	- Prior experience with formal verification methods and techniques 
+	- Strong knowledge of computer architecture with some experience on CPU, GPU, Cache designs 
+	- Hands-on experience with formal verification tools such as Jasper, VC-Formal, Yosys, IFV, Questa, etc. 
+	- Proficiency in programing/scripting languages 
+	- Strong experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator), experience capturing design specification in a temporal assertion language such as SVA 
+	- Strong problem solving and debug skills for complex logic and digital designs
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:
@@ -970,7 +1040,31 @@ Skill set for roles in VLSI testing:
 	- Experience in Mentor LogicVison CPUBIST bring up.
 + Familiarity with IEEE 1149, 1500, 1687, 1838
 + skill set:
-	- BLAH.
+	- Staff, Design for Test Engineer (DFT)
+	- Santa Clara, California, United States
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- The role is Design for Test (DFT) for high-performance designs going into industry leading AI/ML architectures. The person coming into this role will be involved in all implementation aspects from RTL to tapeout for various IPs on the chip. High level challenges include reducing test cost while attaining high coverage, and facilitating debug and yield learnings while minimizing design intrusions. The work is done collaboratively with a group of highly experienced engineers across various domains of the ASIC.
+	- Implementation of DFT features into RTL using verilog.
+	- Understanding of DFT Architectures and micro-architectures.
+	- ATPG and test coverage analysis using industry standard tools.
+	- JTAG, Scan Compression, and ASST implementation.
+	- Gate level simulation using Synopsys VCS and Verdi.
+	- Support silicon bring-up and debug.
+	- MBIST planning, implementation, and verification.
+	- Support Test Engineering on planning, patterns, and debug.
+	- Develop efficient DFx flows and methodology compatible with front end and physical design flows
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 5 years of industry experience in advanced DFx techniques.
+	- DFx experience implementing in finFET technologies.
+	- Experience with industry standard ATPG and DFx insertion CAD tools.
+	- Familiarity with SystemVerilog and UVM.
+	- Fluent in RTL coding for DFx logic including lock-up latches, clock gates, and scan anchors.
+	- Understanding of low-power design flows such as power gating, multi-Vt and voltage scaling.
+	- Good understanding of high-performance, low-power design fundamentals.
+	- Knowledge of fault models including Stuck-at, Transition, Gate-Exhaustive, Path Delay, IDDQ, and Cell Aware.
+	- Exposure to post-silicon testing and tester pattern debug are major assets.
+	- Experience with Fault Campaigns a plus.
+	- Strong problem solving and debug skills across various levels of design hierarchies.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1182,7 +1276,32 @@ Skill set for roles in VLSI post-silicon validation:
 	- Experience with photonics is a plus 
 	- Aptitude for problem solving and opportunity exploration 
 + skill set:
-	- BLAH.
+	- Principal Engineer, Post Silicon Validation
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are looking for a highly skilled and motivated Post Silicon Validation Engineer to join our dynamic team. In this role, you will be responsible for the post-silicon execution and debugging of our advanced AI hardware. You will develop tools, software, and scripts for post-silicon verification, and work closely with our customers to replicate and troubleshoot issues. You will also work with design and architecture teams to develop debug features. This role requires a strong background in software and firmware, along with experience in emulation and RTL.
+	- Execute post-silicon validation tasks, including debugging using tools and techniques like JTAG, on-chip logic, trace, and scan.
+	- Define and develop post silicon validation infrastructure for content development and execution.
+	- Develop and maintain collateral for post-silicon verification, including tools, software, and scripts.
+	- Utilize emulation for firmware and post silicon content verification before deployment.
+	- Define, design and implement debug features. Provide debug feature requirements with insights from post silicon validation experience.
+	- Collaborate closely with hardware engineers and design teams to ensure alignment of software and hardware design.
+	- Provide customer-facing support. This includes root causing customer issues by triaging, replicating fails in-house and providing software or hardware solutions as needed.
+	- Stay updated with the latest advancements in post-silicon validation  and debugging techniques.
+	- Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.
+	- 5+ years of experience in post-silicon validation and debugging.
+	- Proficiency with debugging tools and techniques, including JTAG, on-chip logic, trace, and scan.
+	- Strong software and firmware development skills.
+	- Experience with hardware emulation and understanding its limitations.
+	- Familiarity with RTL design and the ability to convert post-silicon features to pre-silicon design information.
+	- Strong problem-solving skills and attention to detail.
+	- Excellent communication skills and experience in customer-facing roles.
+	- Ability to work effectively in a small, collaborative team environment.
+	- Experience with CPU or AI hardware and machine learning frameworks. (preferred)
+	- Knowledge of CPU, GPU or FPGA programming. (preferred)
+	- Understanding of parallel computing and distributed systems.  (preferred)
+	- Experience with version control systems such as Git. (preferred)
+	- Experience with RTOS. (preferred)
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:

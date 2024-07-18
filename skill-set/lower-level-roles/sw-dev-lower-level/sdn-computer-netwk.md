@@ -530,6 +530,48 @@
 
 
 
+##	Skill Sets for Distributed Database Management
+
+
+
+Skill Sets for Distributed Database Management:
++ Presto / Trino Developer
+	- An exciting semiconductor startup is seeking an experienced Presto/Trino developer to lead the software development for running state-of-the-art analytics frameworks on a new type of hardware accelerators. This is a rare opportunity to influence the future of both processor architectures and analytics frameworks.
+	- Architect and implement a Presto/Trino connectors and plugins for a revolutionary hardware accelerator SoC
+	- Interact with the processor and compiler teams to introduce system optimizations
+	- Provide technical guidance to a team of software engineers building software platforms for large-scale data processing and real time analytics
+	- Contribute to the data analytics open-source community of (e.g., Presto, Trino, Spark)
+	- BA/BSc or higher degree in Computer Science, Informatics, Computer Engineering, or Electrical Engineering.
+	- Hands-on systems builder who is not afraid to dive in large code bases.
+	- Hands on experience in Presto/Trino internals
+	- Expert level proficiency in Java
+	- Having contributed code into Presto/Trini or another large OSS project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

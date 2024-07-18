@@ -29,7 +29,7 @@ Measure performance in terms of:
 
 
 
-
+##	Skill Sets for Microarchitects or Processor Architects, and Hardware/Software Co-Design
 
 
 Skill set for roles in computer architecture (i.e., computer architects or microarchitects), including microarchitecture design (or, processor architecture design), and hardware/software co-design of computer systems:
@@ -231,9 +231,69 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 		* Utilization of semi-custom and custom logic design for high speed and low power
 		* Application of machine learning techniques
 + skill set:
-	- BLAH.
+	- CPU Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking an experienced CPU Architect to join our team. The successful candidate will lead the architecture and design of RISC-V CPUs, focusing on validating their performance against specifications. This pivotal role involves close collaboration with cross-functional teams, including design, verification, and physical design, to ensure the device meets required specifications pre- and post-silicon availability. The ideal candidate possesses a deep understanding of CPUs, validation methodologies, and industry trends in performance testing.
+	- Define and enhance methodologies for pre-silicon and post-silicon validation of high-complexity System-on-Chip (SoC) designs.
+	- Collaborate with performance architecture teams to craft a comprehensive performance test plan.
+	- Develop techniques to drive performance validation, ensuring product requirements are met.
+	- Work closely with architects, hardware engineers, and microcode (ucode) engineers to grasp new feature implementations.
+	- Delve into SoC design features to understand their performance impact.
+	- Analyze key workloads and identify bottlenecks.
+	- Prototype solutions to address performance challenges.
+	- Create test plans and functional coverage metrics.
+	- Explore opportunities for hardware and software co-optimization to enhance system performance.
+	- Collaborate with cross-functional teams to seamlessly integrate performance enhancements.
+	- Develop and maintain the silicon validation architecture roadmap for new product introductions.
+	- Collaborate with cross-functional teams to define validation requirements and ensure compliance throughout the design process.
+	- Design and optimize the silicon validation architecture for maximum performance, power consumption, and area efficiency.
+	- Analyze and interpret data to identify trends and areas for improvement in silicon performance.
+	- Develop and maintain complex models and simulations of silicon devices using advanced software tools.
+	- 7+ years of experience in silicon performance validation.
+	- Master's degree in Computer Engineering, Computer Science, or related field.
+	- Strong background in silicon validation, performance analysis, and computer architecture with 5+ years of experience in performance validation.
+	- Silicon validation and performance analysis using industry tools such as Linux perf, ARM DS5, or home-grown tools across pre-silicon performance models, RTL, and emulation and FPGA platforms (e.g., Zebu, HAPS)
+	- Ability to read and write microbenchmarks using assembly and or C/C++
+	- Proficiency in C++, Python, and System Verilog.
+	- Ability to automate tasks and report results using Continuous Integration (CI) and/or Python scriptsBachelor’s or Master’s degree in electrical engineering, computer engineering, or a related field.
+	- Excellent communication and interpersonal skills.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
-	- BLAH.
+	- Functional Simulation Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- As a Functional Simulation Architect, you will author a virtual platform comprising SystemC/C++ models of CPU, ML Accelerators and peripheral controllers. You will provide this platform to the Architects and software engineering to start hardware-software co-development. You will be responsible for managing the development and enhancements of these models and integration to the full platform.
+	- Guides the development and use of complex models, platforms and related tools to facilitate hardware-software co-design
+	- Guides modeling architectures, requirements, and systems performance
+	- Guides the creation of models to support analysis of alternatives, design and performance trade-offs, and new features and develops alternatives for deployment based 
+	- Mentors Mid-, and Junior-level contract Engineers.
+	- B.S. or M.S. degree in Computer Engineering or Electrical Engineering or related technical fields
+	- hands-on programming experience in C/C++ or other object oriented programming languages.
+	- Strong understanding of low level OS and Hardware programming
+	- Understanding of complexities of developing, debugging, maintenance, and running prototype models, and tradeoffs in speed v/s accuracy of such platforms. 
+	- 8+ years of experience in low level Software development, ASIC architecture evaluation, algorithm development, from within firmware or Hardware Modeling teams.
+	- Experience working across multiple projects and adjusting priorities in partnership with stakeholders.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ skill set:
+	- Staff Engineer - CPU Architecture
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent USA, Inc seeks Staff Engineer - CPU Architecture. Fully Remote Work Opportunity, employee can reside anywhere in US.
+	- The job position requires Master’s degree in Electrical Engineering (EE), Electrical and Computer Engineering (ECE), Computer Engineering (CE), or Computer Science (CS); 48 months of experience in job offered or in related occupation.
+	- Alternative Requirements:
+		* PhD in Electrical Engineering (EE), Electrical and Computer Engineering (ECE), Computer Engineering (CE), or Computer Science (CS) and 24 months of experience in job offered or in related occupation
+		* Special Skills/Requirements:  Computer Architecture and SOC, RTL, ASIC and FPGPA design with Verilog ECE and operating systems design, data structures & C++
+	- A CPU architecture staff engineer is tasked with various responsibilities to ensure optimal hardware performance and efficiency.
+	- These responsibilities include:
+		* Establishing the direction of CPU architecture based on comprehensive data analysis and collaborating with cross-functional teams to achieve the best hardware/software solutions that align with Power, Performance, and Area (PPA) goals;
+		* Developing a precise cycle-accurate CPU model that delineates the microarchitecture using programming expertise such as C/C++, Verilog, Python, Perl, and/or System Verilog to evaluate new features;
+		* Identifying representative benchmarks for software applications;
+		* Pinpointing application performance bottlenecks;
+		* Conducting data-driven analyses using benchmarks and performance models to assess software, architecture, and micro- architecture solutions.
+	- The goal is to enhance performance, power efficiency, hardwarearea, or reduce hardware-design costs;
+	- Collaborating with RTL and Physical design teams to make informed trade-offs in power, performance, and area.
+	- Leading analysis and correlation of performance features in both pre-Silicon and post-silicon stages.
+	- And Collaborating with Software and platform architecture teams to comprehend CPU hardware requirements for AI accelerator compiler, OS, video/image/voice processing, security, networking, and virtualization technology.
+	- Fully Remote Work Opportunity, employee can reside anywhere in US.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:
@@ -272,7 +332,7 @@ Skill set for roles in computer architecture (i.e., computer architects or micro
 
 
 
-
+##	Skill Sets for Computer Architects Working With Memory Subsystems
 
 
 Skill sets for computer architects in memory subsystems:
@@ -357,7 +417,7 @@ Skill sets for computer architects in memory subsystems:
 
 
 
-
+##	Skill Sets for Computer Architects for Domain-Specific Architecture/Accelerators and Hardware/Software Co-Design of Domain-Specific Computer
 
 
 
@@ -439,7 +499,7 @@ Skill sets for computer architects in domain-specific processor architecture des
 
 
 
-
+##	Skill sets for Computer Architects Working with Multi-GPU Platforms, Multi-TPU Platforms, and Data Center Computing
 
 
 Skill sets for computer architects working with multi-GPU platforms, multi-TPU platforms, and data center computing.
@@ -516,7 +576,7 @@ Skill sets for computer architects working with multi-GPU platforms, multi-TPU p
 
 
 
-
+##	Skill Set for Computer Architects Working with Compiler Designers, Operating System Researchers, and Researchers in High-Performance Computing
 
 
 Skill sets for computer architects working with compiler designers, operating system researchers, and researchers in high-performance computing:
@@ -595,7 +655,7 @@ Skill sets for computer architects working with compiler designers, operating sy
 
 
 
-
+##	Skill sets for Performance Engineering in Processor/Computer Architecture
 
 
 Skill sets for performance engineering, such as workload analysis, in computer architecture; or performance analysis and workload characterizations of microarchitecture designs in the context of design space exploration and benchmarking:
@@ -649,6 +709,85 @@ Skill sets for performance engineering, such as workload analysis, in computer a
 	- Experienced with micro-architecture performance analysis
 	- Experienced with microbenchmark design
 	- Good presentation skills
++ Performance Analyst Engineer
+	- An exciting full-stack startup, backed by the largest VCs in Israel and founded by serial entrepreneurs together with academic experts, is seeking an outstanding SW Validation Engineer. This is a rare opportunity to join early and build new products and business model and make a dramatic impact on the core of future data processing.
+	- In this role, you will be responsible for implementing infrastructure for performance analysis, tuning, and debug of a new SOC product. As a member of our SW team, you will collaborate closely with other SW & HW Engineers to study, Dev ops to develop and get required environment, debug and improve the performance of our new cutting-edge SOC. Collaborate with our business unit and participate in the product design and implementation. Evaluate, implement, and integrate diverse tools and technologies among which: Databases, SPARK, PrestoSQL, Hardware simulators, etc.
+	- Collecting performance data for various workloads / benchmarks
+	- Conducting detailed workload characterization
+	- Building an automated performance analysis environment
+	- Writing micro-benchmarks to understand performance characteristics of a SoC
+	- Collect traces to feed the performance simulation model
+	- Integrating performance pipeline metrics with internal dashboard.
+	- Implement the backend of outbound facing tool.
+	- Present the performance data in a concise manner
+	- BS degree in Electrical / Computer Eng or equivalent relevant experience
+	- At least 3 year experience in a SW role
+	- At least 1 year experience in a tests/pipeline infrastructure
+	- Good understanding of computer systems
+	- Strong scripting skills in Python
+	- Proficiency in C / C++
+	- Experience with analytics frameworks such as SPARK, PrestoSQL &
+	- Experience with Databases such as PostgreSQL
+	- Experience with hardware performance counters and binary instrumentation tools
+	- Experience in Linux kernel internals / system programming
++ SW Engineer- Performance Analysis
+	- In this role, you will be responsible for implementing infrastructure for performance analysis, tuning, and debug of a new SOC product. As a member of our SW team, you will collaborate closely with other SW &amp; HW Engineers to study, Dev ops to develop and get required environment, debug and improve the performance of our new cutting-edge SOC. Collaborate with our business unit and participate in the product design and implementation. Evaluate, implement, and integrate diverse tools and technologies among which: Databases, SPARK, PrestoSQL, Hardware simulators, etc.
+	- Collecting performance data for various workloads / benchmarks
+	- Conducting detailed workload characterization
+	- Building an automated performance analysis environment
+	- Writing micro-benchmarks to understand performance characteristics of a SoC
+	- Collect traces to feed the performance simulation model
+	- Integrating performance pipeline metrics with internal dashboard.
+	- Implement the backend of outbound facing tool.
+	- Present the performance data in a concise manner
+	- BS degree in Electrical / Computer Eng or equivalent relevant experience
+	- At least 3 year experience in a SW role
+	- At least 1 year experience in a tests/pipeline infrastructure
+	- Good understanding of computer systems
+	- Strong scripting skills in Python
+	- Proficiency in C / C++
+	- Experience with analytics frameworks such as SPARK, PrestoSQL &amp;
+	- Experience with Databases such as PostgreSQL
+	- Experience with hardware performance counters and binary instrumentation
+tools
+	- Experience in Linux kernel internals / system programming
+	- We would love to hear from you if you are passionate about DevOps and have the required skills and experience. 
++ Performance Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a highly motivated and detail-oriented performance architect to join the dynamic Tenstorrent Architecture team. As a performance architect, you will be responsible for implementing the infrastructure and models to do performance analysis of the architecture for our family of CPU and AI products. You will help the architecture team make the right trade-offs during early-stage architectural exploration. You will work with cross-functional teams to prove that our design meets the performance KPIs. This role is initially focused on dataflow performance, including the fabrics and the memory subsystem. This role is ideal for individuals who can quantify performance in high-level behavioral modeling, and also help ensure that performance is attained by the implementation all the way to silicon. 
+	- Develop a scalable architectural performance modeling strategy for use across a wide range of product lines. 
+	- Steer the architectural choices towards the right solution to meet the performance targets. 
+	- Collect workload traces. 
+	- Identify under/over utilization of hardware resources. 
+	- Identify bottlenecks in the fabric and memory hierarchy and quantify the performance gains from specific changes to the architecture or implementation. 
+	- Correlate performance modeling results to emulation results. 
+	- BS/MS/PhD in EE/ECE/CE/CS 
+	- Demonstrated experience in CPU, SOC, or ASIC architectural performance modeling and simulation. 
+	- Hands-on experience with C or System C performance modeling. 
+	- Hands-on experience with implementing synthesizable traffic generators. 
+	- Hands-on experience with collecting workload traces and mapping those to traffic generator configurations. 
+	- Strong understanding of traffic patterns, timings, priority classes, and dependencies.  Strong understanding of performance bottleneck sources and mitigation techniques. 
+	- Proficiency in hardware description languages (HDL) such as Verilog or VHDL.
+	- Proficiency in programming languages and tools including Python and Git. 
+	- Strong analytical and problem-solving skills. 
+	- Excellent communication and collaboration skills. 
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ Performance Modelling Engineer
+	- Bengaluru, Karnataka, India
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- You will be part of a dynamic AI architecture team in India that spearheads architectural innovation to challenge and advance the industry norms for AI processors, SoCs, and systems at scale. We are seeking engineers for prototyping ideas, analyze performance, energy and cost trade-offs across hardware/software options. You should have a firm grasp of deep learning workloads, especially the large generative LLM/Diffusion models.
+	- This role is on-site, based out of Bangaluru, India. 
+	- Lead the development of innovative performance models for AI Systems.
+	- Collaborate with cross-functional teams to drive architectural innovations from model insights to implementation.
+	- Maintain an expert-level awareness of technological advancements and performance modelling practices.
+	- Explore HW/SW Optimizations at Component, SoC, Network (Scale-Up/Scale-Out) and System Levels
+	- Master’s/Phd in CS/EE, or a related field, with a solid foundation in Computer Architecture.
+	- At least 7 years of experience in performance modelling, simulation, or system architecture, with a passion for AI technologies.
+	- A strong foundation in AI/Deep-Learning fundamentals to complement your expertise in computer architecture.
+	- Proficient programmer in Python/C/C++.
+	- Experience in building simulators/models in SystemC or similar frameworks at different abstraction levels.
+	- Exceptional problem-solving, analytical, and innovation-driven skills.
+	- Effective communication skills and adeptness at collaborative teamwork.
 
 
 
@@ -660,6 +799,7 @@ Skill sets for performance engineering, such as workload analysis, in computer a
 
 
 
+##	Skill Set for Processor Architecture Modeling in Processor Emulators
 
 
 
@@ -705,6 +845,27 @@ Skill sets for processor architecture modeling in processor emulators:
 	- Experience working on AI/ML products or at AI/ML companies
 	- Familiarity with the RISC-V instructions set
 	- Experience with hardware bring-up and supporting early hardware test/debug
++ Emulation Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Design and development of emulation infrastructure for system in packages (SiPs) for high-performance AI/ML engines. This role requires a high degree of ownership, a strong technical background and a problem-solver mindset. By enabling and optimizing our emulation strategy, you will be ensuring the success of internal and external customers, and making a significant impact on bringing Tenstorrent's products to market.
+	- Develop a complete hardware emulation ecosystem 
+	- Create the optimal build flow for single and multi-chiplet emulation models with best frequency, emulation foodprint combination
+	- Create emulation test bench for single/multi chiplet models with best in class transactors, monitors,and harness components
+	- Own and develop test plans focusing on unique functional coverage, performance, power extraction and low level software development
+	- Maximize debuggability and automation of the build and run flows.
+	- Create multi-user environment for  optimal usage and resource sharing
+	- Develop synthetic components for custom transactors, monitors, checkers etc. to enable architectural analysis, software optimization etc.
+	- Create a strong support system to maximize engineering efficiency of emulation customers
+	- Cross-functional work with Architects, Software and Design/Verification/Emulation teams to define and improve emulation platform
+	- Guide and mentor junior engineers
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 10 years of industry experience working with  ASICs or SoC teams
+	- Expert understanding of logic design and mapping design to emulation hardware
+	- Expert knowledge of one or more commercial emulators like ZeBu, Palladium, Veloce
+	- Expertise in verilog/systemVerilog/C++/systemC, 
+	- Expertise in emulation tools and flows, scripting and automation
+	- Strong problem solving skills
+	- Excellent organizational and communication skills, oral and written.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 
 
 
@@ -720,9 +881,7 @@ Skill sets for processor architecture modeling in processor emulators:
 
 
 
-
-
-
+##	Skill Sets for Computer/Processor Architecture of Non-von Neumann Computer Systems
 
 
 Skill sets for computer/processor architecture of non-von Neumann computer systems:
@@ -1172,7 +1331,26 @@ Interesting start-ups and other companies in the semiconductor industry:
 	- Knowledge of SIMD, MIMD, VLIW, and parallel processing a plus
 	- Understanding of GPU/AI/ML Processor architecture
 + skill set:
-	- BLAH.
+	- RTL Design Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent USA, Inc seeks Engineer (RTL).
+	- Fully Remote Work Opportunity, employee can reside anywhere in US.
+	- The position requires a Master’s degree in Electrical Engineering (EE), Electrical and Computer Engineering (ECE), Computer Engineering (CE), or Computer Science (CS).
+	- And Expertise in either professional or academic setting in the following: Verilog, Linux, Synthesis tools such as Synopsys Design Compiler, Microarchitecture RTL design and development of IP (e.g. CPU, Network-on-chip, etc.) and SOCs used in Core and ASICs.
+	- Define architectural, microarchitectural and logic requirements and write code in a hardware description language (e.g. Verilog, VHDL, Chisel, etc.) to implement chip functionality.
+	- Explore open source as well as vendor tools and methodologies. Use industry standard EDA tools for design implementation such as but not limited to VCS, NC-Verilog, Verilator.
+	- Develop tools and environments as needed to implement the design in RTL.
+	- Analyze workloads from applications to industry standard benchmarks and proprietary microbenchmarks.
+	- Use this analysis to evaluate hardware changes for IP and SOC micro-architecture.
+	- Drive trade-offs for logic by working closely with performance, verification and physical design engineers to craft optimal solutions that meet the design goals.
+	- Deploy innovative techniques for improvin gpower, performance and area of the design.
+	- Run experiments to evaluate synthesis, timing and power results.
+	- Debug RTL/logic issues across various hierarchies (core, chip) in both presilicon and post-silicon environment.
+	- Use tools such as computer architecture, instruction set, digital and circuit design to develop and simulate the design.
+	- Use disparate programming languages such as C/C++, Python, Perl, Verilog, System Verilog, Assembly to perform various tasks related to RTL design.
+	- Work collaboratively with other members of the team across various domains.
+	- Fully Remote Work Opportunity, employee can reside anywhere in US.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1215,6 +1393,70 @@ Interesting start-ups and other companies in the semiconductor industry:
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+###	Skills for VLSI Design of Processor Architectures
+
+
++ CPU RTL Engineer, Shared Cache
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent is looking for a leadership level Cache RTL design engineer to join this innovative team as a technical expert. In this role, the candidate will develop and implement the highest performance, most energy efficient cache and fabric designs in the industry. This person will be a key contributor for developing Tenstorrent’s next generation of cores and caches. This role requires creativity and innovation, along with excellent verbal and written communication skills. The ideal candidate has strong analytical thinking and problem-solving skills and enjoys using those skills to accomplish goals.
+	- RTL coding in Verilog leveraging on both industry tools as well as open-source infrastructure 
+	- Play a lead role in the architecture, design and development of processor L2 and LLC (Last Level Cache) for high-performance computing systems.
+	- Design and micro architect Caches as driven by capacity, latency, bandwidth, and RAS requirements
+	- Drive trade-offs for your logic by working closely with performance, DV and physical design engineers to craft optimal solutions that meet the design goals 
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL and evaluate synthesis, timing and power results 
+	- Debug RTL/logic issues across various hierarchies (ex: core, chip) in both pre-silicon and post-silicon environment
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 10 years of experience 
+	- Experience in Cache, Multi-processor coherency microarchitecture, familiarity with AXI, TileLink and CHI protocol
+	- Experience with computer architecture/system components/network/fabrics as a part of a CPU, ASIC or SOC design team 
+	- Expertise in logic design and ability to evaluate functional, performance, timing and power for you design 
+	- Strong experience with hardware description languages (Verilog, VHDL) and simulators (VCS, NC, Verilator) 
+	- Experience with NuCA NuMA (Non-uniform Cache Memory architecture) architectures and implementations.
+	- Expertise in microarchitecture definition and specification development 
+	- Prior experience in industry standard ISAs – ARM, RISC-V, X86 preferred 
+	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
+
+
+
+
+
+
+###	Skills for VLSI Design Managers
+
+
+
++ Chief of Staff, CPU
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent is seeking an experienced technical manager with a strong background in CPU design or verification. This role is ideal for someone that is ready to pivot towards Project Management within the role of a Chief of Staff to Engineering leadership. 
+	- This is a dynamic role spanning engineering program management to organization planning, budgeting to vendor management, silicon planning to executive readouts. As a CoS you will be supporting the delivery of Tenstorrent’s CPU product portfolio from design engineering to customer deployment. This is an important and multi-faceted role requiring someone to drive new ideas and initiatives, foster partnerships, improve collaboration and achieve the vision of our RISC-V CPU organization.
+	- This role is hybrid, based out of Santa Clara, CA or Austin, TX. 
+	- Help manage key projects within the CPU team, from inception to completion. This will include driving cross-team alignment with our Physical Design, Software and Architecture teams, resource allocation, and monitoring progress to ensure that projects are delivered on time and within budget. Importantly, ready to roll up the sleeves and jump into engineering execution wherever necessary
+	- Serve as the point of contact for communication both within the CPU and with other departments or external partners. This involves disseminating information from the executive team, facilitating communication between team members, and representing the team in meetings and presentations
+	- Work closely with the executive team to develop and execute strategic plans for the CPU division
+	- Provide leadership and mentoring to CPU Technical Program Managers
+	- Build and maintain relationships with our Customer and Legal teams to support CPU IP delivery, manage vendor relationships for all tooling and licensing needs within the department. Headcount planning for the CPU division, drive strong partnership with our recruiting stakeholders and provide general hiring guidance, updates and support
+	- Track key performance indicators (KPIs) and metrics to assess the execution velocity and identify areas for improvement and present findings to the executive team to support strategic decision-making
+	- Required: 10+ years of experience within a CPU related role, with a deep understanding  of the end to end design process, industry, challenges, and competitors
+	- Prior leadership experience in engineering management within the CPU space is strongly preferred
+	- Strong organization, strategic planning and analytical skills. Ability to translate strategic vision into actionable plans and initiatives
+	- Expert level presentation skills with the ability to create impactful presentation collateral, succinctly communicate technical roadmaps and influence stakeholders is required for this role
+	- Excellent communication and interpersonal skills, with the ability to build relationships and influence stakeholders at all levels of the organization
+	- Demonstrated project management abilities, including the ability to manage complex projects with multiple stakeholders and deliverables
+	- Financial acumen, with the ability to develop and manage budgets, analyze financial data, and make data-driven decisions
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
+
+
+
+
+
+
+
 
 
 
@@ -1397,9 +1639,47 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Familiarity with SoC security capabilities and protocols
 	- Experience in profiling SoC system performance
 	- 12 + years of experience in definition of SoCs
-
-
-
++ Lead SoC Architect
+	- An exciting semiconductor startup is seeking an outstanding lead architect to join the architecture and system engineering team and create and define a SoC and system architecture for a new type of SoC processing big data. The architect will be responsible for the hardware specifications and flow specifications of complicated modules in the chip and in the full system solution. The architect will work closely with the chip design, firmware and software teams.
+	- This is a rare opportunity to influence future processor architectures.
+	- Definition and specification of subsystems in the SoC which includes multi-core massively parallel processor, accelerators, network on chip and networking blocks.
+	- Breaking down the sub-system architecture into microarchitectural blocks, firmware, and SW components.
+	- Understanding the system in which the SoC is integrated to and designing the SoC to perfectly fit into the datacentre system.
+	- BSc or higher degree in Electrical Engineering, Computer Science or Computer Engineering.Graduated with honors.
+	- 6+ years of experience as a system architect for large, high-end ASIC SoCs.
+	- Experience with multidisciplinary HW/SW systems.
+	- Team player with good communication skills.
+	- Experience in defining requirements and architectures for advanced high-end systems.
+	- Advantage: Deep understanding of datacenter systems.
+	- Advantage: Background in networks and protocols (e.g. Ethernet, IP, DDr4/5).
++ Principal RTL Design Engineer, Network-on-chip (NoC)
+	- Toronto, Ontario, Canada
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a highly skilled and experienced Principal RTL Design Engineer to join our team, focusing on Network-on-Chip (NoC) design. In this role, you will play a critical part in architecting and implementing high-performance, scalable NoC solutions that are integral to the efficiency of our AI processors. You will collaborate closely with cross-functional teams to ensure our NoC designs meet the stringent performance, power, and area requirements of our cutting-edge products.
+	- This role is hybrid, based out of Belgrade, Serbia or Toronto, Ontario.
+	- Take ownership of key components within our Network-on-Chip (NoC), driving their design and development.
+	- Define and architect NoC specifications and micro-architectures in collaboration with system architects and other design engineers.
+	- Optimize NoC designs for performance, power, and area, ensuring efficient data movement and low latency.
+	- Develop and maintain RTL code in Verilog/SystemVerilog, ensuring high coding standards and best practices.
+	- Conduct thorough design verification and validation, including simulation, emulation, and formal verification.
+	- Collaborate with physical design teams to ensure successful integration and implementation of NoC components.
+	- Drive design reviews and provide technical guidance and mentorship to junior engineers.
+	- Work closely with software and hardware teams to define and implement system-level features and enhancements.
+	- Contribute to the development of design methodologies and flows to improve efficiency and quality.
+	- Degree in Electrical Engineering, Computer Engineering, or a related field.
+	- 10+ years of experience in RTL design, with a strong focus on Network-on-Chip (NoC) architectures.
+	- Proven expertise in Verilog/SystemVerilog and RTL design principles.
+	- Deep understanding of NoC design, including routing algorithms, flow control, arbitration, and topology.
+	- Experience with performance analysis and optimization of NoC systems.
+	- Familiarity with design verification methodologies and tools (SystemVerilog Assertions, UVM, C-DPI, etc.).
+	- Experience with synthesis, timing analysis, and physical design considerations.
+	- Strong problem-solving skills and the ability to work independently and as part of a team.
+	- Excellent communication and interpersonal skills, with a track record of leading and mentoring engineering teams.
+	- Experience with high-performance computing or AI/ML accelerator architectures - preferred.
+	- Experience and/or understanding of low-level firmware written in C/C++ - preferred.
+	- Experience with system-level modeling and simulation tools - preferred.
+	- Familiarity with high-level synthesis (HLS) tools and methodologies - preferred.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 
 
 
@@ -1473,7 +1753,27 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Deep understanding of power principles and tradeoffs.
 	- Strong interpersonal and teamwork skills.
 + skill set:
-	- BLAH.
+	- Sr, RTL Design Engineer (Clock, Reset, Power)
+	- Toronto, Ontario, Canada
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a skilled and motivated Digital Designer to join our team, specializing in clocks, reset, and power management. In this role, you will be responsible for the design, implementation, and testing of digital circuits and systems related to clock generation and distribution, reset mechanisms, and power management in our products.
+	- This role is hybrid, based out of Toronto, Canada or Boston, MA. 
+	- RTL design and Microarchitecture of clock generation and distribution logic, including implementation of Dynamic Frequency Scaling and Dynamic Voltage Frequency Scaling solutions, as well as other power management functions
+	- RTL design and Microarchitecture of reset distribution systems
+	- RTL coding in Verilog leveraging both industry tools as well as open-source infrastructure
+	- Conduct timing analysis and ensure designs meet required timing constraints.
+	- Work with design, test and post silicon validation teams for high quality delivery of the these solutions
+	- Evaluate and integrate 3rd party IP components such as PLLs into the design
+	- Drive trade-offs for your logic by working closely with architecture, DV and physical design engineers to craft optimal solutions that meet the design goals
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL and evaluate synthesis, timing and power results
+	- Debug RTL/logic issues across various hierarchies (core, chip) in both pre-silicon and post-silicon environment
+	- Enhance RTL design environment, tools and infrastructure
+	- BS/MS/PhD in EE/ECE/CE/CS with at least 3 years of experience
+	- Strong background and experience in timing, clock generation and distribution, reset strategies and power analysis
+	- Knowledge of industry standard protocols such as AXI, AHB, APB
+	- Strong experience with hardware description languages (Verilog, VHDL), simulators (VCS, NC, Verilator), Synthesis and Power tools
+	- Familiar with microarchitecture definition and specification development
+	- Strong problem solving and debug skills across various levels of design hierarchies
 + skill set:
 	- BLAH.
 + skill set:
@@ -2190,18 +2490,6 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 	- The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.
 	- Colorado Pay Range MIN $91,430 MID $121,900.00 -  MAX $152,380.00 
 
- 
-
- 
-
-Candidates can be considered to work from the following locations:
-
-Colorado Springs, CO
-
- 
-
-Colorado Pay Range MIN $91,430 MID $121,900.00 -  MAX $152,380.00 
-
 
 
 
@@ -2548,9 +2836,49 @@ Skill sets for mixed-signal IC design:
 	- Excellent communication and problem-solving skills
 	- The full base pay range for this role is between $143,000 and $238,000.
 + skill set:
-	- BLAH.
+	- CAD Engineer - Design Verification Infrastructure
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Design and development of scalable DevOps infrastructure for high performance chiplets going into industry leading AI/ML architecture. The successful candidate will be responsible for administration and automation of many aspects of the Front-End compute environment. The person coming into this role will help define methodology and create tools and flows that will enable a multidisciplinary and multi-site team to execute flawlessly.
+	- Administration and automation of workflows associated with servers, batch compute infrastructure and licensing tools
+	- Linux administration for design team’s compute infrastructure
+	- Development and maintenance of containers used across the design team
+	- VM hosting and management for critical design team services
+	- Maintain and enhance the Git infrastructure to support CI/CD, nightly regressions across multiple development platforms
+	- Build software tools and scripts for design flow automation
+	- Engage with leading industry vendors and 3rd party IP providers, driving integration of external tools and IPs in the design flow
+	- Experience with open-source tool-flows and deployment of applicable tools and infrastructure in the design flow; drive tool decisions for build vs leverage vs buy
+	- BS/MS/PhD in EE/ECE/CE/CS with minimum 3 years of industry experience
+	- Experience with HPC compute
+	- Experience with development of DV tools and infrastructure and large-scale regression environments is required, extensive debug of automation workflows
+	- Experience working with build tools such as Bazel
+	- Knowledge of EDA tools, strong understanding of simulators. Hands-on experience working with emulation environment and tools is a plus
+	- Expertise developing tools for revision control, prior experience with git preferred
+	- Very strong programming skills in C/C++, scripting skills in Python, Tcl, Perl
+	- Familiarity with relational databases (e.g MySql, MariaDB) and visualization tools (e.g.Kibana)
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
-	- BLAH.
+	- IP Release Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a highly skilled and experienced Release Manager to join our IP team.  In this highly visible role, you will be responsible for coordination, build, and release of our IP products to our end-customers. This role is at the epicenter of the IP team, which will call for a significant amount of cross-functional collaboration. 
+	- Deliver timely, consistent IP builds for the consumption of our customers
+	- Coordinate with various internal stakeholders on specific domain requirements for their respective product releases
+	- Understand and own the packaging of our products for the different industries our products service, including HPC, automotive, consumer electronics, and more.
+	- Support all of Tenstorrent’s IP products, including RISC-V CPU and AI/NPI IP and their respective collateral
+	- Own the build process for each product, which may include defining new processes, improvements to existing flows, and more
+	- Define a reproducible end-to-end process for IP releases
+	- Debug issues with the build flow and drive towards resolution with respective owners
+	- Comprehensive tracking of delivery of all IP using Jira
+	- Assist in defining product requirements, where needed
+	- Effectively communicate the status of IP releases to management
+	- Demonstrable in depth knowledge of IP products, preferably in the CPU and/or AI IP domain
+	- Ability to manage and prioritize multiple simultaneous release requests
+	- Ability to work cross functionally with Engineering, Program Management, Sales, and Product teams
+	- Excellent written and verbal communication
+	- ***Familiarity with Jira systems is preferred***
+	- Working experience with RISC-V ISA CPU and/or AI IP technologies is preferred
+	- Working knowledge of the IP sales process is preferred
+	- Customer-facing experience is preferred
+
 + skill set:
 	- BLAH.
 + skill set:
@@ -2719,10 +3047,65 @@ Skills for Physical Design Engineers (in the context of VLSI CAD):
 	- Ability to multi-task and to engage with multiple projects, engineers, and partnerships
 	- Relocation is available for this position
 	- Visa Sponsorship is not available for this position
-
-
-
-
++ CPU/AI Physical Design Block Lead
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Physical design for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all implementation aspects from synthesis to tapeout for various IPs on the chip. The work is done alongside a group of highly experienced engineers across various domains of the AI chip.
+	- Own physical design partitions and drive the design to closure
+	- Define PD requirements by working closely with the front-end team, understand the chip architecture and drive physical aspects early in the design cycle
+	- Physical design tasks including such as synthesis, PnR, timing closure, area improvement, floorplanning, clocking, I/O planning and power optimization
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL, and evaluate synthesis, timing and power results
+	- Collaborate with RTL designers to explore design options, conduct PD experiments, analyze results, understand tradeoffs and arrive at optimal design solutions
+	- BS/MS/PhD in EE/ECE/CE/CS
+	- Expertise in optimizing PPA for high performance and low power designs 
+	- Excellent understanding of logic design fundamentals and gate/transistor level implementation
+	- Prior experience with optimizing RTL for timing/power
+	- Hands-on experience with synthesis, block and chip level implementation, timing closure and ECO flows
+	- Knowledge of low-power design flows such as power gating, multi-Vt and voltage scaling
+	- Prior experience working on high performance technology nodes and understanding of deep sub-micron design problems/solutions
+	- Strong programming skills in Tcl/Perl/Shell/Python
+	- Knowledge of CPU or AI/ML Accelerator Micro Architecture is a plus
+	- Exposure to DFT is an asset
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ IP Physical Design Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- As a Technical Lead on the Tenstorrent CPU development team, you will have a front seat in designing the latest core IP to power cutting edge compute processors across client, server, and AI. We innovate state of the art microprocessor architecture on the most advanced and latest process technologies with a focus on power efficiency. Our core designs are present in nearly all segments of Tenstorrent compute roadmap. Knowledge of cutting edge silicon technology 5nm and lower and multi Ghz CPU is a must.
+	- Synthesis and Place and Route using industry standard tools for high speed CPU core design.
+	- Plan out resources, schedule, project PPA
+	- Perform all aspects of design flow from logic synthesis, place and route, FEV, power, timing, quality checks, and design closure.
+	- Develop strategies to deliver reproducible design convergence results.
+	- Help to create and refine synthesis flow for the project team.
+	- Develop and recommend better design method practices to enable better synthesis convergence.
+	- The ideal candidate will exhibit behavioral traits that demonstrate:
+	- Willingness to work with others in a highly complex decision space.
+	- Skills at developing an implementation plan monitoring key indicators and communicating resource needs and scoping risk to deliver value on schedule.
+	- Excellent verbal and written communication and collaboration skills.
+	- Bachelors in Computer Engineering or Electrical Engineering with 10+ years of relevant work experience or M.S. in Computer Engineering or Electrical Engineering (or higher degree) with 10+ years of relevant work experience
+	- Experience with integrated circuit design tools (ex: Synopsys/Cadence), including logic synthesis, place and route, static timing analysis and design closure.
+	- PV convergence (including static timing and power analysis).
+	- Chip physical design verification including formal equivalence, timing, electrical rules, DRC/LVS, Noise and electro-migration checks.
+	- Scripting in an interpreted language (Python, TCL)
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ Senior Physical Design Engineer
+	- Santa Clara, California, United States
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- This role is hybrid, based out of Santa Clara, CA, Austin, TX or Ft. Collins, CO.
+	- Physical design for high-performance designs going into industry leading AI/ML architecture. The person coming into this role will be involved in all implementation aspects from synthesis to tapeout for various IPs on the chip. The work is done alongside a group of highly experienced engineers across various domains of the AI chip.
+	- Define PD requirements by working closely with the front-end team, understand the chip architecture and drive physical aspects early in the design cycle
+	- Physical design tasks including such as synthesis, PnR, timing closure, area improvement, floorplanning, clocking, I/O planning and power optimization
+	- Discussions with 3rd party IP providers, foundry partners and design services
+	- End to end tasks from flow development to sign-off
+	- Deploy innovative techniques for improving power, performance and area of the design, drive experiments with RTL, and evaluate synthesis, timing and power results
+	- BS/MS/PhD in EE/ECE/CE/CS
+	- Hands-on experience with synthesis, block and chip level implementation with industry standard PnR flows and tools
+	- Strong experience in SOC/ASIC/GPU/CPU design flows on taped out designs, expertise in timing closure at block/chip levels and ECO flows
+	- Experience with back-end design tools such as Primetime, Innovus, RedHawk, etc.
+	- Knowledge of low-power design flows such as power gating, multi-Vt and voltage scaling
+	- Strong programming skills in Tcl/Perl/Shell/Python
+	- Excellent understanding of logic design fundamentals and gate/transistor level implementation
+	- Exposure to DFT is an asset
+	- Prior experience working on high performance technology nodes and understanding of deep sub-micron design problems/solutions
+	- Strong problem solving and debug skills across various levels of design hierarchies
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 
 
 

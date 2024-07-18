@@ -75,7 +75,25 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- English communication capability to work with colleagues around the world
 	- Basic GPU programming is a plus
 + skill set:
-	- BLAH.
+	- Principal, Systems Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- As the first member of our Taiwan expansion team, you will have a unique opportunity to shape the future of our operations in the region. As an ML Processor Bring-Up and Validation Engineer within our System Engineering team, you will work at the exciting intersection of machine learning and systems engineering. In this role, you will gain hands-on experience with cutting-edge ML processor architecture, embedded firmware development, board design and debugging while supporting our local CMs.
+	- Execute ML processor, board, and system bring-up and validation.
+	- Design, develop, and maintain system firmware for embedded devices and systems.
+	- Work closely with our local CM partners on system and firmware requirements.
+	- Build out CI/CD pipelines to ensure quality firmware deliverables
+	- Architect and develop frameworks for automating post-silicon verification, data analysis, and debugging.
+	- Drive issue debugging across all product life cycle phases: bring-up, validation, and production.
+	- Bachelor or Master’s in Electrical or Computer Engineering with more than 10 years of experience
+	- Superior analytical and problem-solving skills
+	- Excellent programming skills in C, C++, and Python
+	- Strong understanding of computer architecture and logic design
+	- Experience in scripting and test automation
+	- Good understanding of circuit design, power regulation, high speed signal propagation
+	- Experience using lab equipment: high speed oscilloscopes, logic and protocol analyzers
+	- Interest in and understanding of machine learning
+	- Superior verbal and written communication skills
+	- Ability to work cross functionally and drive issues to closure
 + skill set:
 	- BLAH.
 + skill set:
@@ -595,9 +613,49 @@ Sets of skills for embedded software development roles:
 	- Experience with the creation of Linux packages, including OpenWrt, LEDE, and RPM packages for Fedora and Red Hat
 	- 2+ years of experience with embedded software languages and products, including Java, JavaScript, Python, Reverse Engineering, Embedded Platforms, Android iOS, Swift, Wind River VxWorks, IDA Pro, OllyDbg, or Gdb Debugger
 + skill set:
-	- BLAH.
+	- Principal Systems Software Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- As a Principal System Software Engineer, you will be responsible for design and development of the software components of our next generation RISC-V systems. This covers a broad range from embedded and real-time systems to server platform designs, with versatile use cases for complex workloads. This is an excellent opportunity for a motivated individual to work on exciting projects in a fast-paced, collaborative environment.
+	- Design, develop, and optimize system software for RISC-V-based AI and ML systems.
+	- Collaborate with cross-functional teams to define software requirements and specifications.
+	- Collaborate with the broader open-source community on shared solutions and contributions.
+	- Develop and maintain software stacks, including Operating Systems, drivers, firmware, and libraries, to support our hardware platforms.
+	- Implement and optimize system software, and contribute to AI/ML workload optimization.
+	- Participate in the HW/SW co-design and review process for architecture and products designs.
+	- Troubleshoot and resolve software and system-level issues.
+	- Develop and maintain software development processes, tools, and methodologies to ensure high-quality code and timely delivery.
+	- Stay up-to-date and engaged with the latest industry trends and advancements in RISC-V, AI, and ML technologies.
+	- Bachelor's degree or higher in Computer Science, Computer Engineering, Electrical Engineering, or a related field, or equivalent work experience.
+	- Strong debugging, problem-solving, and analytical skills.
+	- Excellent communication and teamwork abilities.
+	- Proven experience in delivering complex system software products to customers and internal stakeholders.
+	- 10+ years of professional experience in system software engineering.
+	- Solid understanding of RISC-V architecture and instruction set is a plus.
+	- Experience with product development of embedded software and real-time solutions is a plus.
+	- Strong coding skills in C/C++ and one or more of Python, Rust or Go.
+	- Familiarity with AI and ML algorithms, frameworks, and libraries.
+	- Experience with Linux kernel development and device driver programming.
+	- Experience with UEFI, EDK2/Tianocore and ACPI is a plus.
+	- Experience with AI accelerators and HW/SW co-design is a plus.
+	- Previous management experience is a plus. 
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
-	- BLAH.
+	- Software Developer, Metal Runtime
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a highly skilled and motivated Software Engineer to join our dynamic team. In this role, you will be responsible for designing, developing, and optimizing the Metal runtime for our AI accelerators. As a crucial member of our software engineering team, you will play a key role in enhancing the performance and efficiency of our AI systems.
+	- Metal Runtime Development: Design, implement, and optimize the Metal runtime for our AI accelerators, ensuring high performance and efficiency.
+	- Collaboration with Hardware Teams: Work closely with hardware engineers to understand the architecture and features of our AI accelerators, and collaborate on the development of runtime software that maximizes hardware capabilities.
+	- Performance Analysis and Optimization: Conduct performance analysis of Metal runtime, identify bottlenecks, and implement optimizations to achieve optimal performance for AI workloads.
+	- API Design and Implementation: Contribute to the design and implementation of APIs that provide seamless integration of the Metal runtime with higher-level software components.
+	- Debugging and Troubleshooting: Investigate and resolve issues related to the Metal runtime, ensuring robust and reliable performance in various AI applications.
+	- Bachelor's or Master’s degree in Computer Science, Electrical Engineering, or a related field.
+	- Proven experience in low-level software development.
+	- Strong proficiency in programming languages such as C / C++.
+	- Familiarity with AI and deep learning frameworks (e.g., TensorFlow, PyTorch) is a plus.
+	- Excellent problem-solving skills and the ability to work collaboratively in a fast-paced, innovative environment.
+	- Strong communication skills and the ability to work effectively with cross-functional teams.
+	- Passion for technology and a commitment to pushing the boundaries of what is possible in AI.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
 	- BLAH.
 + skill set:
@@ -789,6 +847,27 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- Able to work in a diversified team. Possess cross-team and cross-domain communication skills.
 	- The willingness and ability to travel are required.
 	- Fluent in English, German and Chinese is a plus.
++ Functional Safety Engineer
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- Tenstorrent is a fast-growing RISC-V CPU and AI Hardware design company. We are seeking a highly skilled Functional Safety Engineer with experience in CPU IP, SoC design and ML/AI HW accelerators to join our team. The ideal candidate will have expertise in ISO26262 compliance, safety analysis methodologies, and semiconductor functional safety. 
+	- Execution of safety-related activities such as assumption of use, safety requirements development, and safety validation and verification.
+	- Conduct safety analysis for CPU IP, SoC devices and ML/AI HW accelerators used in automotive applications.
+	- Create customer facing documentation such as safety manuals, demos, and marketing material
+	- Execute processes, template, checklist and guideline to ensure compliance with ISO 26262
+	- Work with cross-functional teams to identify and mitigate potential safety hazards in product designs.
+	- Provide functional safety expertise to internal teams and external customers as required.
+	- Experience driving the ISO26262 product full certification, preferably for ADAS or autonomous driving applications.
+	- At least 5 years of functional safety experience related to CPU IP, SoC design and ML/AI HW accelerators for automotive applications.
+	- Experience with safety analysis methodologies such as FMEDA, FTA, DFA
+	- Excellent communication, technical writing and interpersonal skills.
+	- Ability to work effectively in a cross-functional team environment.
+	- Strong project management skills.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
+
+
+
+
+
 
 
 
@@ -813,7 +892,18 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- Experience in ISP driver, or V4L2 is strongly desired
 	- Experience in one of the following video in/out related drivers: MIPI, LCD, image sensor, etc.
 + skill set:
-	- BLAH.
+	- Senior Firmware Engineer
+	- An exciting semiconductor startup is seeking an outstanding Firmware engineer. This is a rare opportunity to influence the future of both processor architectures and database systems.
+	- Take a part in the design and brainstorming of new complex features. Develop, test, debug and optimize low-level firmware layer on our SOC. Collaborate with chip design, software, verification, and architecture teams to define and design new low-level firmware flow. Improve our team methodologies, and automated process.
+	- BA or BSc in computer science/electrical engineering.
+	- Experience of 5+ years, with development of RT Embedded software on a custom ASIC.
+	- Proficient in C/C++ and Linux.
+	- Knowledge with real-time operating systems and Bare metal (no-OS).
+	- Knowledge and experience programming/debug complex HW/SW systems.
+	- Experience with micro-controllers (RiscV/arm) architecture and boot flow.
+	- Strong scripting abilities (Bash, Python, Cmake).
+	- Great debug skills on Simulation, FPGA, Emulation, real chip.
+	- Experience partnering with software and architecture teams to define and implement firmware.
 + skill set:
 	- BLAH.
 + skill set:

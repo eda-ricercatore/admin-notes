@@ -90,7 +90,24 @@
 	- A scrappy, startup mentality to move fast, iterate quickly, learn on the go, and take initiative.
 	- Great communication and interpersonal skills working across different teams, personalities, and working styles.
 + skill set:
-	- BLAH.
+	- Senior Product Manager
+	- At Speedata, we are building the world’s fastest processor for Data Analytics – we call it the Analytics Processing Unit (APU).   Thanks to a revolutionary architecture based on years of academic research, we can accelerate analytic workloads by orders of magnitude, by offloading them from the CPU.  We can achieve this without any code changes required from our customers.
+	- We are looking for a Senior Product Manager to drive the roadmap and priorities for Speedata’s products.  This position will be based out Speedata’s main office in Netanya, Israel.
+	- Meet with Data Engineers, VPs of Data Platforms,  Data Architects, and Infrastructure Engineers within our customers and prospects to understand their use cases, pain points, and requirements
+	- Research distributed data engineering use cases and heavyweight data analytics workloads across industry verticals, looking for workloads where our APU can deliver significant acceleration.
+	- Understand the competitive landscape for acceleration options at a deep technical level.
+	- Use this information to prioritize workload coverage in our acceleration platform.
+	- Drive the roadmap for a performance profiling tool that helps customers predict the APU’s speedup before they have the APU.
+	- Collaborate with executive team on go-to-market strategy and drive product priorities to support that strategy.
+	- 3+ years of experience in Product Management
+	- 3+ years of experience in the Data Management industry, which could be in the form of:
+		* Working for a company that sells data management software, or 
+		* Working in a role where you manage large, distributed data platforms
+	- Excellent written and verbal communication
+	- Self-starter focused on results
+	- Bachelors in Electrical Engineering or Computer Science
+	- Experience working with Spark, Hadoop, or Presto
+	- Experience with AWS EMR, Azure Synapse, Databricks, or Snowflake
 + skill set:
 	- BLAH.
 + skill set:

@@ -126,7 +126,21 @@ Generic sets of skills in software development, using functional programming:
 	- We don't expect you to have experience with functional programming, F#, OCaml, Linux, Windows, or finance. We’re happy to hire talented engineers and teach them what they need to know.
 	- Base salary is $200,000 - $300,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
 + skill set:
-	- BLAH.
+	- OCaml Developer
+	- Serokell is a fast-growing, fully remote software development company that works on innovative solutions for complex problems. We’re packed with adventurous, curious, and inclusive folks who want to build cutting-edge software with modern technologies like functional programming.
+	- We’re seeking an OCaml software engineer to develop a modern, general-purpose smart contract programming language and its automated code-level verifier.
+	- We require solid knowledge of the following:
+		* OCaml basics. Polymorphic variants, functional and imperative styles, monads, laziness, kinds of polymorphism (parametric, row, weak), GADT, modules system (functors, covariant/contravariant parameters), exceptions.
+		* OCaml ecosystem. Opam/dune, ppx syntax extensions.
+		* Algorithms and data structures. Fundamental ones, like binary search tree, DFS, hashtable, quicksort, etc.
+		* Familiarity with tools used for build/deploy automation and CI/CD: Docker, Nix, Kubernetes, etc. (at least one).
+		* Good coding culture. Code structuring and decoupling, patch management with git and code review practices.
+		* Self-organization. To a decent level.
+	- Good-to-have, but not crucial:
+		* Parsers. Writing your own parsers, using parser combinators and/or parser generators.
+		* Programming language theory. A large part of our work is related to compiler development and other topics in this area.
+		* Knowledge of Haskell/Rust/TypeScript and experience with them.
+		* Knowledge of computer networks: HTTP, TCP/IP stack, understanding of poll- and push-based data synchronization models and their usage in modern service APIs.
 + skill set:
 	- BLAH.
 + skill set:

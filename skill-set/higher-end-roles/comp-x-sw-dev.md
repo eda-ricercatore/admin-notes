@@ -1861,6 +1861,42 @@ Skill set for software development for distributed programming (or distributed c
 	- Experience building database storage engines
 	- Experience with Ignite/GridGain
 	- ***Experience with Docker, Kubernetes and/or public Cloud (AWS, GCE, Azure, etc.)***
++ Sr. Principal High-Performance Computing Architect
+	- Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+	- We are seeking a skilled and experienced High-Performance Computing (HPC) Architect to join our team. As an HPC Architect, you will play a crucial role in designing and implementing cutting-edge architectures for high-performance computing systems, enabling efficient and scalable computation for scientific, research, and data-intensive applications. You will collaborate closely with cross-functional teams, including hardware engineers, software developers, and domain experts, to deliver optimized solutions that meet the demanding requirements of HPC workloads.
+	- Conduct performance analysis, benchmarking, and write performance models to identify performance bottlenecks, optimize system parameters, and guide architectural enhancements.
+	- Design and develop high-performance computing architectures that deliver exceptional computational performance, scalability, and energy efficiency.
+	- Collaborate with hardware engineers to design and optimize the system's computational components, including processors, accelerators, interconnects, and memory subsystems.
+	- Work closely with software developers to define and implement software development frameworks, libraries, and tools that maximize performance and productivity on the target HPC architecture.
+	- Define system-level requirements, including processing power, memory capacity, I/O bandwidth, storage capabilities, and ensure compliance with industry standards and customer expectations.
+	- Evaluate and select appropriate technologies, including processors, accelerators, and network fabrics, based on application requirements, performance & power characteristics, and cost considerations.
+	- Collaborate with domain experts and application developers to understand the unique requirements of specific scientific, research, or data-intensive workloads and propose tailored architectural solutions.
+	- Stay up-to-date with the latest advancements in HPC hardware, software, and industry trends to guide future system designs and technology adoption.
+	- Work closely with vendors and suppliers to evaluate emerging HPC technologies, assess their suitability for specific applications, and negotiate supply agreements.
+	- Provide technical guidance and mentorship to junior team members, fostering knowledge sharing and best practices within the HPC architecture domain.
+	- 15+ years of experience
+	- Experience coding performance models in C++
+	- Bachelor's or Master's degree in Computer Engineering, Electrical Engineering, or a related field. A Ph.D. is a plus.
+	- Strong expertise in high-performance computing architecture design, including processors, accelerators, interconnects, and memory subsystems.
+	- Experience developing new architectures using large scale performance simulation environments, for example GEM5 or SST
+	- Experience analyzing workload behavior on large systems using open-source or custom software tools
+	- Proven experience in designing and optimizing HPC architectures for scientific, research, or data-intensive applications.
+	- Proficiency in parallel programming models and frameworks, such as OpenMP, MPI, CUDA, or OpenCL, and their application to HPC workloads.
+	- Solid understanding of performance analysis and optimization techniques for parallel computing, including profiling, tracing, and performance counters.
+	- Familiarity with industry-standard interconnects and network fabrics, such as InfiniBand, Ethernet, or Omni-Path, and their impact on HPC system performance.
+	- Knowledge of memory subsystems and memory hierarchy designs, including cache coherence protocols, memory models, and NUMA architectures.
+	- Experience with HPC software stack components, such as compilers, runtime systems, job schedulers, and scientific libraries.
+	- Strong programming skills in languages commonly used in HPC, such as C, C++, Fortran, or Python.
+	- Excellent problem-solving abilities and the ability to analyze and address complex performance and scalability challenges.
+	- Strong communication and collaboration skills to work effectively with cross-functional teams and domain experts.
+	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
+
+
+
+
+
+
+
 
 
 
@@ -2087,11 +2123,51 @@ Skill set for software development for distributed programming (or distributed c
 	- Familiar with accounting, financial statement analysis, and financial modeling
 	- Prior experience with VBA and/or SQL a plus, but not required
 	- Fluency in English required
-
-
-
-
-
++ Rust Software Engineer
+	- Serokell is a fast-growing, fully-remote software development company that works on innovative solutions for complex problems. We’re packed full of adventurous, curious, and inclusive folks that want to build cutting-edge software with modern technologies like functional programming.
+	- We’re seeking a Rust software engineer to join the development of communication and control software for a civil services drones project.
+	- Proficensy with Rust.
+	- Solid knowledge of Rust’s basics: type system, generics, lifetimes, std, serde, logging, error handling, project organization and structure.
+	- Extensive experience with Rust’s async ecosystem (tokio, futures, streams).
+	- Experience writing and running unit tests, integration tests.
+	- Knowledge of the fundamental algorithms and data structures like binary search tree, DFS, hashtable, quicksort, etc.
+	- Knowledge of computer networks: HTTP, TCP/IP stack, understanding of poll- and push-based data synchronization models and their usage in modern service APIs.
+	- Experience with cross-compiling Rust
+	- Knowledge of video formats and codecs, experience with gstreamer
+	- Experience with WebRTC
+	- Experience with PID or other feedback controllers
+	- Familiarity with C++
+	- Familiarity with strongly-typed functional languages and their patterns
+	- Develop robust, scalable, and maintainable Rust applications, adhering to best practices and coding standards.
+	- Participate in code reviews, providing constructive feedback and ensuring code quality.
+	- Debug and resolve technical issues, identifying and implementing effective solutions.
++ Smart Contract Developer
+	- Serokell is a fast-growing, fully remote software development company that works on innovative solutions for complex problems. We’re packed full of adventurous, curious, and inclusive folks who want to build cutting-edge software with modern technologies like functional programming.
+	- Serokell is building a talent pool for future projects, not hiring immediately. Submit your CV and be the first to know about an open role that aligns perfectly with your unique profile.
+	- We’re seeking a senior-level Smart Contract Developer to join a team of fierce and fun Serokellers.
+	- Fluency with with at least one blockchain from Ethereum (or another EVM-based), Solana, TON, Cardano, Tezos, and Internet Computer.
+	- 2+ years in front-end, back-end or full-stack development.
+	- 1+ years of experience writing, testing and deploying smart contracts for this blockchain.
+	- Hands-on experience with development tools for this blockchain. Knowledge of how to submit transactions to the blockchain, how to fetch data from it, and how to manage public and private keys. It can be command-line-based or web.
+	- Understanding of smart contract security issues and best practices.
+	- Knowledge of popular standards for this blockchain, e. g. token standards (ERC-20, ERC-721 and ERC-1155 in the case of Ethereum).
+	- Experience in developing and integrating decentralized applications that use smart contracts: whether on the backend or frontend.
+	- Basic understanding of cryptography primitives: public/private keys, signing, encryption, hashing.
+	- Knowledge of the fundamental algorithms and data structures like binary search tree, DFS, hashtable, quicksort, etc.
+	- Familiarity with tools used for build/deploy automation and CI/CD: Docker, Nix, Kubernetes, etc.
+	- Good coding culture (code structuring and decoupling, using git and pull requests, code review practices).
+	- Knowledge of TypeScript, Haskell, Rust or OCaml and experience with them.
+	- Experience in conducting smart contract audits and identifying vulnerabilities.
+	- Knowledge of computer networks: HTTP, TCP/IP stack, understanding of poll- and push-based data synchronization models and their usage in modern service APIs.
+	- Create and implement secure and efficient smart contracts on EVM and non-EVM (Solana, TON, Cardano, Tezos, Internet Computer) blockchain platforms. Ensure they are scalable, reliable, and maintainable.
+	- Integrate smart contracts with blockchain networks, which often involves backend and frontend work. We are interested in candidates skilled in either backend or frontend.
+	- Review and audit smart contracts written by us and possibly by other companies.
+	- Develop and execute unit tests, integration tests, and end-to-end tests for smart contracts.
+	- Write detailed documentation for smart contracts, including design specifications, user guides, and API documentation.
+	- Stay updated with the latest developments in blockchain technology, cryptographic methods, and smart contract languages.
+	- Optimize smart contract performance and gas efficiency.
+	- Implement and enforce security best practices to protect smart contracts from common attack vectors (e.g., reentrancy attacks, integer overflow/underflow).
+	- Provide ongoing support and maintenance for deployed smart contracts. Addressing issues and bugs reported by users.
 
 
 

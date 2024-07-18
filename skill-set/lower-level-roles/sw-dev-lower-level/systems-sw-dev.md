@@ -154,7 +154,18 @@
 		* ***Object storage systems***;
 		* ***Message queueing (MQ) systems, e.g., Kafka***.
 + skill set:
-	- BLAH.
+	- SW Architect
+	- In this position, you will provide system-level software solutions for a new hardware accelerator with an innovative architecture. You will be involved in and lead all aspects of development, including architecture, design, and implementation stages.
+	- Good high level familiarity with modern CPU architecture: caches, pipelines, multi-processing consideration.
+	- 10+ years of experience with excellent familiarity of the Linux OS structure:
+		* Kernel-user space inter-faces.
+		* VFS and cache systems.
+		* Device drivers.
+		* Boot sequence (preferably on ARM).
+	- Good familiarity with modern C++ features, peculiarities and idiosyncrasies.
+	- Familiarity with working with, and getting support from, open source projects.
+	- Good familiarity with databases: SQL queries, query planner, database
+optimizations.
 + skill set:
 	- BLAH.
 + skill set:
@@ -181,6 +192,45 @@
 	- BLAH.
 + skill set:
 	- BLAH.
+
+
+
+
+
+
+##	Skill Sets for Domain-Specific Systems Software Development
+
+
+
+Skill sets for domain-specific systems software development:
++ Senior SW Engineer
+	- We’re an exciting Deep Tech startup, backed by the largest VCs and founded by serial entrepreneurs. Our products provide high-performance computing capabilities that will improve the speed and efficiency of database operations. We’re seeking an outstanding Senior SW Engineer to join our team and help us develop advanced algorithms that will be executed on our hardware accelerator. This is a rare opportunity to influence the future of data processing.
+	- Develop and optimize algorithms for database operations that can be executed on our hardware accelerator
+	- Fly high with the SW, and dive in for a byte of the HW
+	- Write high-performance code in Python and C++
+	- Collaborate with hardware engineers to optimize software and hardware integration for maximum performance
+	- Conduct research on state-of-the-art algorithms and techniques for data analytics and hardware acceleration
+	- Develop and maintain software tools to support testing and validation of our products
+	- Participate in code reviews and contribute to software design decisions
+	- BSc or equivalent or higher degree in Computer Science, Computer Engineering, or Electrical Engineering.
+	- 5+ years of experience in software development with a strong focus on algorithm development
+	- Strong proficiency in Python and C++
+	- Knowledge of advanced algorithms and data structures for data analytics and hardware acceleration
+	- Familiarity with software optimization techniques for performance-critical code
+	- Familiarity with computer architecture and low level programming
+	- Excellent communication skills and ability to explain complex technical concepts to non-technical stakeholders
+	- Background in research
+	- Experience with hardware acceleration systems
+	- Experience with database systems and SQL
+	- We are looking for a highly skilled professional that is interested in working on cutting-edge technology and wants to be a part of something big. If you meet the qualifications and are excited about the opportunity to work with our team, we encourage you to apply.
+
+
+
+
+
+
+
+
 
 
 
@@ -225,12 +275,25 @@
 
 
 
+##	Skill Sets for Software Engineer
 
 
 
-
-
-
++ Software Engineer, Infrastructure
+	- At Skild AI, we are building the world's first general purpose robotic intelligence that is robust and adapts to unseen scenarios without failing. We believe massive scale through data-driven machine learning is the key to unlocking these capabilities for the widespread deployment of robots within society. Our team consists of individuals with varying levels of experience and backgrounds, from new graduates to domain experts. Relevant industry experience is important, but ultimately less so than your demonstrated abilities and attitude. We are looking for passionate individuals who are eager to explore uncharted waters and contribute to our innovative projects.
+	- We are looking for a Software Engineer to enhance the performance, reliability, and maintainability of our cutting-edge robotics systems in deployment. You will design, implement, and maintain software systems for deployment in real-world robotic products. This role involves leading discussions and collaborating with machine learning, deployment, test, and security engineers to ensure seamless integration of our machine learning models into practical applications. You will also define technical roadmaps and drive product and system architecture direction.
+	- Architect, build, and maintain deployment software infrastructure and back-end services (e.g., model training infrastructure, AI developer tools, metrics dashboards).
+	- Lead teams to develop reliable software systems with robust testing, metrics, and logging mechanisms.
+	- Write and review code, develop documentation, create capacity plans, and debug on robot hardware.
+	- Collaborate with cross-functional teams to define technical roadmaps and drive the direction of product and system architecture.
+	- Share an on-call rotation with the engineering team to ensure system reliability and quick issue resolution.
+	- BS, MS or higher degree in Computer Science, Robotics, Engineering or a related field, or equivalent practical experience.
+	- Proficiency developing higher-level languages (e.g. PHP, Python, C++, or Java).
+	- Experience in configuration and maintenance of applications such as web servers, load balancers, relational databases, storage systems, and messaging systems.
+	- Knowledge of Linux OS fundamentals, memory management, and kernel.
+	- Experience learning software, frameworks, and APIs.
+	- Experience with enterprise security.
+	- Previous extensive work experience as a: Systems Engineer, Software Engineer, DevOps Engineer, Network Engineer, Systems Administrator, Linux Administrator, Database Administrator, Site Reliability Engineer (SRE), or similar.
 
 
 

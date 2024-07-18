@@ -516,6 +516,28 @@ Skill set for DevOps:
 	- Preferred:
 		* Master’s degree in Computer Science, Electrical Engineering, or related field.
 		* Proficient in Python and JavaScript
++ DevOps Engineer
+	- Speedata, an innovative fabless semiconductor company, is looking for an experienced and skilled DevOps Engineer to join our team. We are seeking a candidate with a Python programming background, hands-on lab experience, and a team player with excellent problem-solving skills. 
+	- Working at least four days a week in the Netanya office.
+	- Collaborate closely with development teams to maximize efficiency.
+	- Create, build, and maintain automation workflows, scripts, and CI/CD pipelines across multiple environments.
+	- Maintain custom container-based infrastructure and orchestration.
+	- Oversee both on-premises servers and cloud infrastructure.
+	- Supporting basic lab operations like PCIe card installations.
+	- Create and implement design strategies to ensure the reliability, observability, performance, and security of both infrastructure and applications.
+	- 3+ years of experience as a DevOps Engineer.
+	- Strong programming skills in Python.
+	- Deep understanding of software development, build, and deployment workflows for C/C++, Python, and Java.
+	- Experience in designing and implementing CI/CD pipelines, preferably in GitLab.
+	- Extensive hands-on experience with Docker usage and container orchestration tools.
+	- Extensive hands-on experience with Linux systems and scripts.
+	- Basic hands-on experience with lab operations like PCIe card installations.
+	- Experience with managing cloud infrastructure, preferably AWS.
+	- Strong problem-solving and troubleshooting skills.
+	- Excellent communication and collaboration skills.
+	- Knowledge of SQL and data analytics.
+	- Knowledge in HW development using FPGA and Emulators.
+	- Experience with infrastructure-as-code tools like Terraform.
 + skill set:
 	- production level Kubernetes, Helm, and Terraform experience
 		* Helm
