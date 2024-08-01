@@ -15923,7 +15923,32 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Strong collaboration skills with a demonstrated ability of working well within a team.
 	- Bachelor's degree in Mathematics, Statistics, or quantitative field; or equivalent combination of education and experience.
 + skill set:
-	- BLAH.
+	- Senior Data Analyst - Incubation
+	- Ramat Gan, Israel
+	- Placer.ai is a fast-growing high growth, big data pre-IPO company led by seasoned executives and repeat entrepreneurs who are building the world's first "Google Analytics for the physical world." Placer.ai’s platform provides instant visibility into any property in the U.S., presenting accurate details about visitation patterns and demographic breakdowns of visitors. Placer.ai’s customers can see where visitors have been before, where they go afterwards, where they typically go for sports, entertainment, groceries, etc., and what their interests are. Placer.ai's A.I.-based SaaS platform replaces archaic solutions such as manual surveys, installed cameras and other people-counting systems, creating a blue ocean market of more than $100B+. 
+	- Placer.ai has grown 3x year-over-year for the past 3 years, counting more than 4,000 paying customers across a range of industries, including 2 of the world’s top-10 retailers, 2 of the top-10 CPG firms worldwide, a world’s top hospitality firm, 2 of the world’s top-10 commercial real estate (CRE) firms and 2 of the world’s top multinational asset managers and hedge funds. Placer.ai has just raised $100M for Unicorn ($1B+) valuation in Series C funding.
+	- We are looking for a Senior Analyst to join our incubation team. This is a strong team of Data Scientists and Product Managers that develop prototypes for new tools and features while working with our customers. 
+	- The role involves analyzing data from various stages of a product's lifecycle, including prep work, tracking model outputs over time, assessing the impact of updates on customer output, and creating performance metrics. Our analysts work on multiple projects with other senior team members, and are expected to take initiative with minimal daily guidance.
+	- Defining performance metrics  and quality criteria for multiple models operating  at scale
+	- Tracking experiments over time and identifying failure points or drifts
+	- Developing monitoring capabilities for deployments, performance and data quality tracking as well as customer usage
+	- Taking an active role in the design of new products’ pipelines and models
+	- Testing out new hypotheses regarding existing features or new ones
+	- Working with first-party data and building tools for better visibility to our customers
+	- Strong data literacy: good understanding of how reality is reflected in our data, and how a mathematical manipulation translates into an insight
+	- Self-driven but great team player: Work independently with multiple parties, and at times, on several projects in parallel
+	- Customer-facing mindset: learn multiple business domains, and adopt a customer’s point of view on how a model offers a solution to a real-world challenge
+	- Excellent understanding of complex processes: be able to review the high-level architecture of a solution and its shortcomings in a would-be production system
+	- Good communication skills: present and share knowledge to tech and non-tech staff in Hebrew and English
+	- 5+ years of working as a data analyst
+	- 3+ years of working with python and familiarity with the typical analyst tech. stack (pandas, numpy, plot.ly/seaborn, etc.)
+	- 3+ years of working over a cloud environment - GCP, AWS or Azure
+	- B.Sc or its equivalent in a quantitative fields
+	- Additional, preferred skills:
+	- Familiarity with BI tools as serving layers - Tableau, Looker, PowerBI, Data Studio, Sisense, etc.
+	- Working with geo data and it’s python stack
+	- Familiarity with big data processing tools such as Spark
+	- Analytics over relational databases
 + skill set:
 	- BLAH.
 + skill set:
@@ -17392,6 +17417,32 @@ They support databases for:
 	- Phenomenal at decision-making, consensus building, and problem solving; you don't shy away from challenges
 	- Strong technical proficiency required to understand development tasks and identify and resolve issues as they arise
 	- Understanding of key development tools and technologies such as Gitlab, AWS, Kubernetes, Terraform, etc. Experience with program management tools in the Atlassian stack (Jira and Confluence) are great
++ Senior Big Data Engineer
+	- Tel Aviv, Israel
+	- Placer.ai is a fast-growing big data startup led by seasoned executives and repeat entrepreneurs who are building the world's first "Google Analytics for the physical world." Placer.ai’s platform provides instant visibility into any property in the U.S., presenting accurate details about visitation patterns and demographic breakdowns of visitors. Placer.ai’s customers can see where visitors have been before, where they go afterwards, where they typically go for sports, entertainment, groceries, etc., and what their interests are. Placer.ai's A.I.-based SaaS platform replaces archaic solutions such as manual surveys, installed cameras and other people-counting systems, creating a blue ocean market of more than $100B.
+	- Placer.ai has grown 3x year-over-year for the past 3 years, counting more than 4000 paying customers across a range of industries, including 2 of the world’s top-10 retailers, 2 of the top-10 CPG firms worldwide, a world’s top hospitality firm, 2 of the world’s top-10 commercial real estate (CRE) firms and 2 of the world’s top multinational asset managers and hedge funds. Placer.ai has just raised $100M for Unicorn ($1B+) valuation in Series C funding.
+	- As a Senior Big Data Engineer, working within Placer.ai's Foundation Entity Group, you will play a pivotal role in designing, developing, and maintaining the data infrastructure that powers our location analytics platform.
+	- Data Pipeline Architecture and Development: Design, build, and optimize robust and scalable data pipelines to process, transform, and integrate large volumes of data from various sources into our analytics platform.
+	- Data Quality Assurance: Implement data validation, cleansing, and enrichment techniques to ensure high-quality and consistent data across the platform.
+	- Performance Optimization: Identify performance bottlenecks and optimize data processing and storage mechanisms to enhance overall system performance and reduce latency.
+	- Cloud Infrastructure: Work extensively with cloud-based technologies (GCP), to design and manage scalable data infrastructure.
+	- Collaboration: Collaborate with cross-functional teams including Data Analysts, Data Scientists, Product Managers, and Software Engineers to understand requirements and deliver solutions that meet business needs.
+	- Data Governance: Implement and enforce data governance practices, ensuring compliance with relevant regulations and best practices related to data privacy and security.
+	- Monitoring and Maintenance: Monitor the health and performance of data pipelines, troubleshoot issues, and ensure high availability of data infrastructure.
+	- Mentorship: Provide technical guidance and mentorship to junior data engineers, fostering a culture of learning and growth within the team.
+	- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+	- 5+ years of professional experience in software development, with at least 3 years as a Big Data Engineer.
+	- Spark expertise (mandatory): Strong proficiency in Apache Spark, including hands-on experience with building data processing applications and pipelines using Spark's core libraries.
+	- PySpark/Scala (Mandatory): Proficiency in either PySpark (Python API for Spark) or Scala for Spark development.
+	- Data Engineering: Proven track record in designing and implementing ETL pipelines, data integration, and data transformation processes.
+	- Cloud Platforms: Hands-on experience with cloud platforms such as AWS, GCP, or Azure.
+	- SQL and Data Modeling: Solid understanding of SQL, relational databases, and data modeling.
+	- Big Data Technologies: Familiarity with big data technologies beyond Spark, such as Hadoop ecosystem components, data serialization formats (Parquet, Avro), and distributed computing concepts.
+	- Programming Languages: Proficiency in programming languages like Python, Java, or Scala.
+	- ETL Tools and Orchestration: Familiarity with ETL tools and frameworks, such as Apache Airflow.
+	- Problem-Solving: Strong analytical and problem-solving skills.
+	- Collaboration and Communication: Effective communication skills and collaboration within cross-functional teams.
+	- Geospatial Domain (Preferred): Prior experience in the geospatial or location analytics domain is a plus.
 + skill set:
 	- Data Engineer, DevOps (US Remote Available)
 	- The Analytics & Data Platform team (ADP) is responsible for Splunk's data platform from ingestion to visualization. This platform enables our business partners to make the best data-driven decisions possible. We're looking for a Data Engineer to join the team and contribute to the development and adoption of a true, self-serve, Data Mesh platform, with a focus on automation and observability. This position is responsible for the development, maintenance, and support of the data platform (including on-call rotations), partnering with all levels of customers in the course of support/adoption/migration activities, and actively participating in the growth and development of the ADP team and its capabilities and processes.

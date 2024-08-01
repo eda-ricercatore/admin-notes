@@ -33,6 +33,25 @@
 	- Experience building and shipping on-premise enterprise software
 	- Experience with information security -- either via certifications (CISSP, CEH, etc.) or professional experience (security audit, pentesting, etc.)
 + Bonus points for experience / familiarity with front-end testing (Jest, Cypress, Selenium), Docker, Kubernetes, GCP/AWS, infrastructure automation (chef/puppet/ansible)
++ Automation Engineer
+	- Ramat Gan, Israel
+	- Placer.ai is a fast-growing high growth, big data pre-IPO company led by seasoned executives and repeat entrepreneurs who are building the world's first "Google Analytics for the physical world." Placer.ai’s platform provides instant visibility into any property in the U.S., presenting accurate details about visitation patterns and demographic breakdowns of visitors. Placer.ai’s customers can see where visitors have been before, where they go afterwards, where they typically go for sports, entertainment, groceries, etc., and what their interests are. Placer.ai's A.I.-based SaaS platform replaces archaic solutions such as manual surveys, installed cameras and other people-counting systems, creating a blue ocean market of more than $100B+. 
+	- Placer.ai has grown 3x year-over-year for the past 3 years, counting more than 4,000 paying customers across a range of industries, including 2 of the world’s top-10 retailers, 2 of the top-10 CPG firms worldwide, a world’s top hospitality firm, 2 of the world’s top-10 commercial real estate (CRE) firms and 2 of the world’s top multinational asset managers and hedge funds. Placer.ai has just raised $100M for Unicorn ($1B+) valuation in Series C funding.
+	- We are looking for a talented Automation Engineer who is eager for quality, and to find best in-class solutions for testing complex data driven systems. This person will work with developers and product managers to enable zero manual testing in the feature development life cycle. Passion is a MUST and passion for data even more so! If you are someone who thrives outside their comfort zone, your place is at Placer.ai.
+	- Help the team maintain best-in-class, top-quality deliverables.
+	- Write and execute complex tests, including data validation and UI visualization.
+	- Automate tests using Python, PyTest, and Selenium.
+	- Bachelor's degree in Computer Science or an equivalent field.
+	- At least 4 years of experience in test automation, object-oriented programming (OOP), and hands-on development in complex, multi-component environments.
+	- At least 1-2 years of experience in designing and building automation infrastructure.
+	- Experience with Continuous Integration and Automation using Jenkins.
+	- Experience with SQL and complex data querying/analysis involving both SQL and NoSQL databases.
+	- Self-motivated, quick learner, and a team player.
+	- Experience with automating testing platforms such as JUnit, PyTest, Selenium, and Appium.
+	- Experience with web testing tools.
+	- Experience in test design and test planning.
+	- Experience with Spark.
+	- Experience with cloud environments such as GCP, AWS, etc.
 + skill set:
 	- Senior Software Engineer, Identity
 	- The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for. 

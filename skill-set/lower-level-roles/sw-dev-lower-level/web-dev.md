@@ -400,6 +400,50 @@ reactive programming = asynchronous dataflow programming
 		* Knowledge of Apollo GraphQL
 		* Strong testing background (JUnit, Cypress, React-Testing-Library)
 + skill set:
+	- Senior Full Stack Engineer
+	-  Ramat Gan, Israel
+	- Placer.ai is a fast-growing big data startup led by seasoned executives and repeat entrepreneurs who are building the world's first "Google Analytics for the physical world." Placer.ai’s platform provides instant visibility into any property in the U.S., presenting accurate details about visitation patterns and demographic breakdowns of visitors. Placer.ai’s customers can see where visitors have been before, where they go afterwards, where they typically go for sports, entertainment, groceries, etc., and what their interests are. Placer.ai's A.I.-based SaaS platform replaces archaic solutions such as manual surveys, installed cameras and other people-counting systems, creating a blue ocean market of more than $100B.
+	- Placer.ai has grown 3x year-over-year for the past 3 years, counting more than 4,200 paying customers across a range of industries, including 2 of the world’s top-10 retailers, 2 of the top-10 CPG firms worldwide, a world’s top hospitality firm, 2 of the world’s top-10 commercial real estate (CRE) firms and 2 of the world’s top multinational asset managers and hedge funds. Placer.ai has just raised $100M for Unicorn ($1B+) valuation in Series C funding.
+	- Our group is looking for a senior full-stack developer to join. We are looking for a people person with the willingness to help us conquer the world. Our group works with React and Node.js in a flexible and dynamic environment. you'll be responsible for implementing core product features.   
+	- Build a next-generation analytics web app on React 
+	- Building end-to-end development of new and existing features including client and server-side code, database schemas, and communication APIs.
+	- Design and develop an overall architecture of the web application.
+	- Design, implement and deploy E2E features. 
+	- Work closely with the rest of the engineering team to design and launch new features.
+	- Deep understanding of Node.js
+	- Deep understanding of React, Angular, VUE.JS
+	- Deep understanding of at least one of the following technologies Redux, MobX, NgRx, Akita, GraphQL
+	- CS degree or equivalent experience
+	- Self-initiated and quick learner
+	- 2+ years of experience with Python, pandas, celery, RabbitMQ, and MongoDB 
+	- Experience working with Google Cloud Platform
+	- Developing complex large-scale data pipelines
++ skill set:
+	- R&D Team Lead
+	- Ramat Gan, Israel
+	- Placer.ai is a fast-growing big data startup led by seasoned executives and repeat entrepreneurs who are building the world's first "Google Analytics for the physical world." Placer.ai’s platform provides instant visibility into any property in the U.S., presenting accurate details about visitation patterns and demographic breakdowns of visitors. Placer.ai’s customers can see where visitors have been before, where they go afterwards, where they typically go for sports, entertainment, groceries, etc., and what their interests are. Placer.ai's A.I.-based SaaS platform replaces archaic solutions such as manual surveys, installed cameras and other people-counting systems, creating a blue ocean market of more than $100B.
+	- Placer.ai has grown 3x year-over-year for the past 3 years, counting more than 4,000 paying customers across a range of industries, including 2 of the world’s top-10 retailers, 2 of the top-10 CPG firms worldwide, a world’s top hospitality firm, 2 of the world’s top-10 commercial real estate (CRE) firms and 2 of the world’s top multinational asset managers and hedge funds. Placer.ai has just raised $100M for Unicorn ($1B+) valuation in Series C funding.
+	- As an R&D team lead at Placer.ai you will have full ownership of core and critical Placer services. You will be responsible for planning, tech design, implementing and rolling out to production the services of our Analytics engine.
+	- In your day to day, you will tackle challenging scaling issues, you will brainstorm with super talented team members on how to support our overall hyper growth and system complexity. You will push code to production on a daily basis.
+	- Design and develop core infrastructure modules and functional services, tackle large scale and load challenges, using Python, Node and  SQL / columnar /  document  DB’s.
+	- Own a critical section of Placer’s core product.
+	- Manage 4 to 6 backend and full stack developers. 
+	- Perform POCs for new technology and design concepts. 
+	- Play a central role in building complex and large scale systems that powers Placer.ai’s platform
+	- Measure, analyze and improve the performance, scalability and robustness of the product as well as processes
+	- Take full ownership by carrying out tasks end-to-end, from design to deployment
+	- Technically mentor and assist team members to excel at their job by executing code and design reviews, and technical guidance
+	- Collaborate with Product, Analysts and Data Science teams in order to improve the product’s quality and deliver new features
+	- 5+ years of professional backend experience, 2+ years of experience as team leader.
+	- Experience building large distributed production systems including event based architecture, experience with various DB’s and messaging technologies.  
+	- Be hands-on with proficient coding skills in one or more of the following languages: Python, Java, Go.
+	- BSc degree in Computer Science or an equivalent
+	- Experience with frontend frameworks (React, Angular). 
+	- Experience with big-data products, ideally with BI products. 
+	- Experience with Google cloud, K8. 
+	- Dev Ops experience or background ideally with helm and terraform. 
+	- Experience and knowledge  with different DBs such as Mongo, postgres, Big query, Big table.
++ skill set:
 	- Provide technical leadership for significant engineering efforts involving work from multiple teams
 	- Mentor other engineers on the team and across teams
 	- Design and implement the user interface and backend services including the evaluation and selection of key technologies
