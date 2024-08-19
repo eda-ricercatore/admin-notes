@@ -12827,7 +12827,38 @@ Skills for natural language processing, NLP:
 	- Build tools to accelerate your own (and your teammates’) workflows, but only when off-the-shelf solutions won’t do
 	- Annual Salary Range: $160,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Senior NLP Engineer
+	- Spain, Engineering / Permanent / Remote
+	- Founded in 2017, Logically combines artificial intelligence with expert analysts to tackle harmful and manipulative content at speed and scale. We work to reduce the individual, institutional, and societal damage caused by misleading and deceptive online discourse. In 2021, the company launched its threat intelligence platform - Logically Intelligence - to help governments and organisations monitor the spread of damaging narratives.
+	- In 2023, the company announced its new independent fact-checking unit - Logically Facts - to help deliver accurate fact-checks at scale and provide people with more reliable and accurate information. 
+	- Logically has been named one of the world’s most innovative artificial intelligence companies by Fast Company and won the Rising Star in TechCogX Award.
+	- The company has offices in the UK, US, and India. For more information, please visit Logically.ai
+	- The data science team at Logically develops AI-first products and services that use machine learning to address harmful misinformation and deliberate disinformation online. As an NLP engineer, you will be crucial for the development and advancement of Logically’s AI platform which is the core technology behind our tools and products to identify and tackle harmful and manipulative content at speed and at scale. You will work with large-scale data sets, knowledge graphs, and ontologies built in-house as well as open-source to train and develop advanced machine/deep learning models that offer at-scale insights. You will have access to cutting-edge infrastructure, and resources to engineer your solutions to solve real-world problems. You will play a significant role in the development of novel hybrid AI solutions that will be used across different products that offer a unique experience to our users/clients in the B2B and B2G markets.
+	- Research and Innovation: Stay up-to-date with the latest advancements in NLP and AI research, and actively contribute to the development of novel solutions and applications.
+	- Machine learning algorithms: Apply machine learning and deep learning algorithms to solve NLP-related problems, including text classification, language modeling, and information retrieval.
+	- NLP Model development: Develop, implement, and fine-tune NLP models, including but not limited to clustering, sentiment analysis, named entity recognition, topic modeling, and text summarisation.
+	- Collaboration: Work closely with cross-functional teams, including software developers, product managers, and domain experts, to integrate NLP solutions into our products and services. Collaborate with the Tech Lead to design technical solutions for the AI team. 
+	- Mentorship: Mentor Junior engineers regarding coding standards through code reviews and feedback sessions.
+	- Working in a team of exceptional Data Scientists to work and innovate on ML-based capabilities in the space of disinformation and misinformation.
+	- Take ownership of individual ML capabilities, working collaboratively with the Product team and Technical Programme Manager. Collaborate in the design phase and actively contribute to driving capabilities from conceptualization to final deliveryLead and mentor junior NLP engineers throughout the capability development. 
+	- Will be responsible for the development of capability and cross collaboration with the product/OSINT teams.
+	- Operate within a product requirements-driven team, with a strong focus on aligning ML capabilities with product goals and improving an ML capability based on user feedback.
+	- As this role will be an Individual Contributor (IC) profile, You won’t be doing people management and won’t have multiple meetings. We value the innovation freedom of developers and believe it's essential for them to have dedicated time. Our goal is to build substantial capabilities, not just small models. Your work won’t be limited to fine-tuning a Language Model (LM) with data but will involve constructing the entire capability around user requirements.
+	- You won’t be working as a Prompt Engineer. You will work with Generative AI models, however, this won’t be the primary focus of your role.   
+	- Bachelor’s or Master’s degree in a numeric discipline (e.g., Statistics, Machine Learning, Computer Science, Engineering, Physics).
+	- Strong analytical and problem-solving skills.  Good understanding of Data Structures (Hashmap, Graphs, Linked Lists). Also having a working knowledge of algorithms around these technologies (DP, Dijkstra, etc) 
+	- Fluent in English
+	- Good understanding and work experience with ML techniques like PCA, Clustering, Anomaly detection, etc.
+	- Experience with delivering multiple ML models driven capabilities end-to-end Good experience in core NLP and text analytics tasks and application areas (e.g. Social network analysis, text classification, topic detection, information extraction, Named Entity recognition, entity resolution, Question-Answering, multilingual NLP, sentiment analysis, event detection, language modeling).Scientific expertise and real-world experience in Deep Learning, especially with hands-on experience in hyper-parameter tuning and deep construction/distribution (e.g., architecture design of transformers and other deep learning networks, attention mechanisms, parameter initialization, activation, normalization, and optimization) ideally with Pytorch or Tensorflow.
+	- Working knowledge of productionising models and code: Git version control, unit tests
+	- The ability to engage with business stakeholders (with excellent oral and written communication).
+	- Ability to work independently and deliver high-quality results.
+	- Experience with creating and working with APIs in any 1 (Django, Flask, FastAPI) or any steaming architecture.
+	- Experience and understanding in model serving(MLFlow, TFserving, Torchserving, ONNX) 
+	- Completion of one significant project (the equivalent of a MSc research project, and/or a viable commercial product) in one or more of the hiring themes.
+	- Experience working with Databricks.
+	- Contributions to open-source NLP projects.
+	- Publications or presentations in NLP-related conferences or journals.
 + skill set:
 	- BLAH.
 + skill set:
