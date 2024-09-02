@@ -2272,7 +2272,27 @@ Skill sets for Site Reliability Engineering, SRE:
 	- Knowledge of security best practices in cloud environments.
 	- Annual Salary Range: $245,000—$385,000 USD
 + skill set:
-	- BLAH.
+	- Site Reliability Engineer (SRE)
+	- London, UK or Palo Alto, CA
+	- The xAI London team is a team of software engineers with a focus on large-scale, highly-reliable distributed systems. We work on many different levels of the stack ranging from build systems, to production backend infrastructure, and frontend development. For example, we built large parts of the Grok production stack. We focus on building high-quality software and aren’t afraid to delve into technically complex topics to solve problems the right way.
+	- We’re looking for an experienced site reliability engineer (SRE) who can thrive in a dynamic start-up environment. The main responsibilities for this role are:
+	- Improving our observability by adding/adjusting metrics,
+	- Building easily parsable dashboards,
+	- Building reliable alerts,
+	- Designing and overseeing our on-call rotations,
+	- Improving our deployment process to increase reliability.
+	- Expert in at least one programming language that compiles to machine code such as Rust, C++, or Go. Rust or C++ experience is preferred,
+	- Expert knowledge of monitoring technologies such as Prometheus, Grafana, and PagerDuty,
+	- Expert knowledge of deployment technologies such as Pulumi or Terraform,
+	- Expert knowledge of Kubernetes.
+	- The role is based in our London office close to Piccadilly Circus underground station. We usually work from the office 5 days a week but allow for work-from-home days when required. Candidates must be willing to attend late meetings at least twice a week to coordinate with the rest of our team, which is based in California. This role includes semi-regular business trips to California.
+	- Interview process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding interview in Rust, C++ or Go,
+			+ Monitoring & deployment design interview,
+			+ Distributed systems design interview,
+			+ Meet the wider team and give a 20 minute presentation about the most difficult technical problems you have solved.
+		* Our goal is to finish the process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
 + skill set:
 	- BLAH.
 + skill set:
@@ -2634,6 +2654,35 @@ KPIs for ITOps are based on:
 	- Prior TL experience as this is a 0-1 effort with team growth on the horizon
 	- Bonus Points if you have expertise and interest in low level details of hardware components, protocols, and associated Linux tooling (PCIe, networking, power management, kernel perf tuning).
 	- Annual Salary Range: $200,000—$370,000 USD
++ DevOps Engineer - Supercomputing
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Kubernetes
+		* Pulumi
+		* Rust and Go
+		* Flux / ArgoCD
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Operating some of the world’s largest GPU supercomputing clusters for both AI training and serving production models.
+	- Implement IaC best practices, enhancing deployment pipelines, and ensuring robust, secure service delivery across our production environments.
+	- Working with both on-premise clusters and cloud providers.
+	- Help with security best practices for internal researchers and live external traffic.
+	- Writing scalable and highly available containerized applications in Rust.
+	- Managing compute fleets with Pulumi, Terraform, Ansible, or other stateful automation libraries.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to an initial interview (45 minutes - 1 hour) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems design: Translate high-level requirements into a scalable, fault-tolerant service.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+		* Annual Salary Range: $180,000 - $370,000 USD
+
 
 
 

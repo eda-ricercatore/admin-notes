@@ -1182,6 +1182,27 @@ IaaS:
 	- BLAH.
 
 
+
+
+###	Skill Sets for Data Center Computing
+
+
++ skill set:
+	- server and network infrastructure for Data Centers and Global Points of Presence
+	- You will be responsible for our two most important data center operations metrics: mean time to detect (MTTD) and mean time to repair (MTTR). You are great at following directions, are a fast learner and are super attentive to details.
+	- You understand all aspects of the equipment you are responsible for to drive efficiencies and optimizations where necessary to simplify and improve our server intake and repair processes.
++ Highly proficient using a light meter, OTDR (Optical Time Domain Reflectometer), OPMs (optical power meter), fiber certifier, loopback, and optical probes
+
+
+
+
+
+
+
+
+
+
+
 ##	Software Development for Platform as a Service (PaaS)
 
 

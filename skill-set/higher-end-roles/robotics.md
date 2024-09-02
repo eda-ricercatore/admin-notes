@@ -398,6 +398,15 @@ Sets of skills for unmanned ground vehicles (UGVs):
 
 
 
+
+Companies that are competing in this space:
++ Latitude AI: https://lat.ai/
+
+
+
+
+
+
 Sets of skills for autonomous road vehicles:
 + Familiarity with modern planning approaches including randomized search methods and trajectory optimization
 + Solid work experiences with state-of-the-art mapping and localization algorithms
@@ -886,6 +895,380 @@ Sets of skills for autonomous road vehicles:
 		* agile methods???
 	- ASPICE development process
 		* ASPICE, automotive software process improvement capability determination, automotive SPICE
++ Tech Lead Software Engineer, ML (Unified Model)
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Unified Model development team is a group of highly skilled and experienced professionals who specialize in cutting-edge computer vision and machine learning technology. Together, we collaborate to create advanced detection models that are capable of generating representations of both static and dynamic actors. These representations are then utilized by various downstream autonomy consumers including motion planning, prediction, and localization.
+	- The team's primary focus is on developing compute-efficient, multi-view, multi-sensor deep learning models that can perform a wide range of tasks such as 3D object detection, lane line detection, state estimation, and scene segmentation. The ultimate goal is to take these algorithms from the lab to the road, ensuring that they are optimized for onboard performance and able to function as production-grade vision systems on vehicles.
+	- To achieve this goal, the team constantly stays up-to-date with the latest research literature and pushes the boundaries of what is possible. We are dedicated to developing cutting-edge ML algorithms and models that can help vehicles reason about the world around them in real-time.
+	- Develop ***spatio-temporal machine learning models*** for detection, multi-sensor fusion, segmentation, etc
+	- Read literature, analyze raw data, and design state-of-the-art solutions
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation
+	- Collaborate with perception experts and experienced roboticist on algorithm design, prototyping, testing, deployment, and productization
+	- Build and maintain industry-leading software practices and principles
+	- Develop clean and efficient software for perception modules interfacing with other key modules
+	- Show initiative and be a valued team member in a fast-paced, innovative, and entrepreneurial environment
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 7+ years of relevant experience (or Master's degree and 5+ years of relevant experience, or PhD and 2+ years of relevant experience)
+	- Expert-level knowledge and experience in machine learning, with a proven track record of developing and deploying deep learning solutions using PyTorch, Tensorflow, or similar frameworks
+	- Experience in developing perception systems using sensors such as Camera, Radar, and LiDAR
+	- Strong experience in computer vision, perception, and point cloud processing
+	- Proven experience in shipping computer vision software products to industry or consumers
+	- At least 5 years of development experience in Python/C++ environments
+	- Ph.D. with machine learning focus, or equivalent experience
+	- Experience developing and deploying temporal computer vision models (for instance, video activity recognition or using multiple frames for improved results on other tasks)
+	- The expected base salary range for this full-time position in California is $207,760-$285,670 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ Staff Software Engineer, Perception at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Metro Detroit, MI, Remote
+	- Latitude AI is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone. 
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- In the Intelligent Systems team, we convert photons into understanding, primarily via computer vision and machine learning. Our organization is responsible for all downstream tasks of the vehicle sensor suite onboard, as well as the full offboard/cloud infrastructure for machine learning at Latitude.
+	- Collaborate with perception experts and experienced roboticist to build solutions that scale from the lab to the customer, for one of the largest-scale robotics projects in history.
+	- Architect, design, and implement state of the art and beyond solutions in your domain- some example domains that are within our remit:
+	- Sensing: From the sensor driver to objects, algorithms to determine everything in the world and its properties.
+	- Machine Learning & Data Platform: Cloud services for data management, ingest, workflow orchestration, distributed training at scale, and core components of our validation and safety case.
+	- Mapping: Generating a consistent, geo-tagged representation of the universe for consumption by the fleet.
+	- Labeling: Managing operators, development of labeling tools, and accelerating our dataset management and distribution analysis.
+	- State Estimation: Fuse information over time and estimate attributes (e.g. kinematics).
+	- Localization: Estimate where the vehicle is in the world.
+	- Calibration: Estimate the location and properties of all sensing systems on the vehicle, and the vehicle itself, in unconstrained environments.
+	- Performance: Everything about making the systems of the company faster on the vehicle - use resources more efficiently, deploy jobs to accelerators more intelligently, and squeeze more out of the resources on-vehicle.
+	- Develop production quality software in a fast-paced, highly autonomous environment while maintaining a strong safety culture.
+	- Bachelor's degree in Computer Science, ECE, Robotics, Physics, Mathematics, or related field.
+	- Significant (7+ years) prior experience in one or more of the domains listed above, or in another domain of relevancy to the autonomous vehicles space.
+	- Significant (7+ years) of experience in C++ or Python software development.
+	- Track record of product development culminating in successful launches/releases/etc.
+	- Master’s and 5+ years experience or PhD degree and 2+ years experience in Robotics, ECE, Computer Science, or a related field.
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release.
+	- The expected base salary range for this full-time position in California is $207,760-$285,670 USD.
++ skill set:
+	- Staff Software Engineer, Localization & Mapping at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a ***Ford Motor Company subsidiary***, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Latitude AI Localization team provides solutions for onboard vehicle pose and state estimates. We also play a crucial role in the process of building highly accurate maps at a massive scale. Our goal is to provide the ADAS system with an accurate, stable, and coherent understanding of where the vehicle is in the world and on the road.
+	- ***Come help us make the world safer, and driving more pleasant.***
+	- Collaborate with expert software engineers and experienced roboticists to build solutions that scale from the lab to the customer, for one of the largest-scale robotics projects in history
+	- Architect, design, and implement novel, state-of-the-art solutions for onboard localization and offline mapping at large scales
+	- Develop production quality, highly performant software in a fast-paced, autonomous environment while maintaining a strong safety culture
+	- Lead communicate design decisions, implementation improvements and project progress within your team and across the organization
+	- Write and lead automated tests and metrics  to improve and validate performance
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 7+ years of relevant experience (or Master's degree and 5+ years of relevant experience, or PhD and 2+ years of relevant experience)
+	- Significant (7+ years) prior experience in one or more of the following: 
+		* IMU filtering, state estimation, and vehicle dynamics
+		* developing real-time visualization and benchmarking tools
+		* localization, mapping, SLAM, and geometric computer vision
+		* numerical optimization methods
+	- Significant (7+ years) prior experience in C++ software development
+	- Track record of leading technical product development culminating in successful launches/releases/etc
+	- Master’s or PhD degree in Robotics, ECE, Computer Science, Mathematics, or a related field
+	- Significant (5+ years) of experience in Python software development
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release
+	- The expected base salary range for this full-time position in California is $207,760-$285,670 USD.
++ skill set:
+	- Sr Software Engineer, Open World Perception at Latitude AI
+	- Palo Alto, CA, Remote
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Perception Anomaly and Open-World Detection team at Latitude has two major focus areas. First, we detect and handle open-world/vocabulary objects that are uncovered in the labeling ontology. Second, we identify scenarios that are outside the vehicle's known operational domain (e.g., because of precipitation and low visibility) to trigger disengagements. Equipping our perception system with the ability to handle or disengage when faced with such unfamiliar objects or scenarios is an essential necessity, particularly in safety-critical applications.
+	- Our team integrates these systems onboard and evaluates their performance offboard to ensure they align with our safety case needs. We work closely with systems engineering to develop a formal validation story and ensure the vehicle operates correctly while requesting that the user retakes control in the previously described situations. As the lead for this team, you will have a unique opportunity to transform research concepts into practical solutions that have a significant impact on our product.
+	- Develop innovative and scalable solutions for anomaly detection, using cutting-edge technologies and best practices
+	- Collaborate closely with internal perception experts and external stakeholders to ensure seamless integration of software and systems
+	- Champion safety and quality standards throughout the software development lifecycle, from design to deployment
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation
+	- Continuously evaluate and optimize software performance, using data-driven insights and feedback from stakeholders
+	- Stay up-to-date with emerging trends and technologies in the field, and share knowledge with the team
+	- Bachelor's degree in Computer Science, ECE, Robotics, Physics, Mathematics, or related field
+	- Significant (4+ years) prior experience in computer vision, machine learning and deep learning
+	- Significant (4+ years) of experience in C++ or Python software development
+	- Track record of Deep learning research and development, ML research and development and/or AI research and development. 
+	- Track record of product development culminating in successful launches/releases/etc
+	- Master’s and 2+ years experience or PhD degree in Robotics, ECE, Computer Science, or a related field
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release
+	- Experience in the field of autonomous driving
++ skill set:
+	- Software Engineer II, Prediction at Latitude AI
+	- Palo Alto CA, Pittsburgh PA, Dearborn MI, Remote
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Latitude AI Prediction team is responsible for designing and building systems that allow an autonomous vehicle to understand the current scene around it and to predict how the scene will evolve in the future. The Prediction team analyzes the output generated by the perception teams and anticipates the likely intents and future trajectories of nearby objects so our vehicle can make safe and comfortable driving decisions. The team focuses on deploying SOTA algorithms in limited compute environments.
+	- You will play a key role in improving the quality and safety of the autonomy system by enabling it to reason about uncertainty, agent intentions, and their future behavior. You will be designing, implementing, and tuning probabilistic algorithms and machine-learned models to infer actor behaviors and forecast where and how they will travel in the near-future. 
+	- Design and implement algorithms and models for predicting the future behavior of other traffic participants in real time
+	- Measure the statistical properties and quality of predictions
+	- Build a system that safely handles nominal and out-of-distribution driving events
+	- Evaluate and verify the system's performance on real-world and simulated data
+	- Improve and deliver reliable software through continuous integration, automated testing and code reviews
+	- Collaborate across different teams to jointly achieve objectives in improving system performance
+	- Monitor system performance and ensure designs and implementation stay within resource constraints
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 2+ years of relevant experience, Master's degree, or PhD
+	- Strong knowledge of C++ including good software design skills and experience with Python
+	- Knowledgeable in areas pertaining to probabilistic inference and prediction such as probability theory and statistics, Bayesian inference, machine learning for classification and regression, time series forecasting, and generative or variational models
+	- Willingness to dive into anything, but know when to ask for cross team collaboration
+	- Industry experience writing production-quality, performance-critical code, and maintaining large codebases is desired
+	- Strong written and verbal communication skills are required
++ skill set:
+	- Software Engineer II, Perception State Estimation at Latitude AI
+	- Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The State Estimation team is a group of highly skilled and experienced professionals who specialize in cutting-edge multi-object tracking, scene estimation, and machine learning technology. Together, we collaborate to create advanced Bayesian filters, graph models, and deep learning models that are capable of temporally tracking both static and dynamic actors as well as estimating road features. The State Estimation team is the interface of the perception system to various downstream autonomy consumers including motion planning, prediction, and localization.
+	- The team's primary focus is on developing compute-efficient models and systems that can perform a wide range of tasks such as closed world multi-object tracking, track-to-detection data association, object motion forecasting, uncertainty estimation, lane line temporal smoothing, perception based road shape generation, and open world scene tracking and state estimation. The ultimate goal is to take these algorithms from the lab to the road, ensuring that they are optimized for onboard performance and able to function as production-grade perception systems on vehicles.
+	- To achieve this goal, the team constantly stays up-to-date with the latest research literature and pushes the boundaries of what is possible. We are dedicated to developing cutting-edge tracking algorithms, ML algorithms, and models that can help vehicles reason about the world around them in real-time.
+	- Develop machine learning models and Bayesian algorithms for multi-object tracking, state estimation, and uncertainty estimation 
+	- Develop deep learning models with temporal fusion for scene state estimation including occupancy, visibility, motion (velocity), and uncertainty
+	- Develop estimation algorithms for road feature estimation such as lane lines and speed limit as well as estimating the road shape 
+	- Read literature, analyze raw data, and design state-of-the-art solutions
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation
+	- Collaborate with perception experts and experienced roboticist on algorithm design, prototyping, testing, deployment, and productization
+	- Build and maintain industry-leading software practices and principles
+	- Develop clean and efficient software for perception modules interfacing with other key modules
+	- Show initiative and be a valued team member in a fast-paced, innovative, and entrepreneurial environment
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 2+ years of relevant experience (or Master's degree and 0+ years of relevant experience, or PhD)
+	- Relevant knowledge and experience in machine learning, with a proven track record of developing and deploying deep learning solutions using PyTorch, Tensorflow, or similar frameworks
+	- Experience in developing multi-object tracking systems using classical algorithms or machine learning algorithms
+	- Strong experience in deep learning, Bayesian filtering, and optimization algorithms
+	- Proven experience in shipping perception software products to industry or consumers
+	- At least 2 years of development experience in Python/C++ environment
+ 	- Ph.D. with machine learning focus, or equivalent experience
+	- Experience developing and deploying temporal computer vision models (for instance, video activity recognition or using multiple frames for improved results on other tasks)
++ skill set:
+	- Software Engineer II, Open World Perception at Latitude AI
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Perception Anomaly and Open-World Detection team at Latitude has two major focus areas. First, we detect and handle open-world/vocabulary objects that are uncovered in the labeling ontology. Second, we identify scenarios that are outside the vehicle's known operational domain (e.g., because of precipitation and low visibility) to trigger disengagements. Equipping our perception system with the ability to handle or disengage when faced with such unfamiliar objects or scenarios is an essential necessity, particularly in safety-critical applications.
+	- Our team integrates these systems onboard and evaluates their performance offboard to ensure they align with our safety case needs. We work closely with systems engineering to develop a formal validation story and ensure the vehicle operates correctly while requesting that the user retakes control in the previously described situations. As the lead for this team, you will have a unique opportunity to transform research concepts into practical solutions that have a significant impact on our product.
+	- Develop innovative and scalable solutions for anomaly detection, using cutting-edge technologies and best practices
+	- Collaborate closely with internal perception experts and external stakeholders to ensure seamless integration of software and systems
+	- Champion safety and quality standards throughout the software development lifecycle, from design to deployment
+	- Continuously evaluate and optimize software performance, using data-driven insights and feedback from stakeholders
+	- Stay up-to-date with emerging trends and technologies in the field, and share knowledge with the team
+	- Build and maintain industry-leading software practices and principles
+	- Bachelor's degree in Computer Science, ECE, Robotics, Physics, Mathematics, or related field and 2+ years of experience
+	- 2+ years of experience in computer vision, machine learning and deep learning
+	- 2+ years of experience in C++ or Python software development
+	- Track record of Deep learning research and development, ML research and development and/or AI research and development. 
+	- Track record of product development culminating in successful launches/releases/etc
+	- Master’s or PhD degree in Robotics, ECE, Computer Science, or a related field
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release
+	- Experience in the field of autonomous driving
+	- The expected total salary range for this full-time position in California is $240,960-$300,320 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Software Engineer II, Autonomous System Evaluation at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Detroit, MI
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- Join our Autonomy Evaluation team, the cornerstone of building the platform and metrics that are used to measure system safety & performance. We are a dedicated group of talented engineers with dual mission; not only do we ensure that our system is safe adhering to stringent guidelines and safety regulation but we also ensure that it meets the demanding performing requirements while navigating the complex trade-offs in autonomy stack design 
+	- Additionally, the team applies rigorous evaluation of data quality, ensuring all performance evaluation data is representative under diverse real-world conditions
+	- The team is a diverse group of software engineers, automotive sensor experts and expert statisticians
+	- We operate at the exciting intersection of safety, performance and research. Our environment is collaborative, constantly evolving, and encourages intellectual curiosity and growth. If you are seeking a role where your work will make a significant impact, where you can contribute to advancing the state of the art in autonomous vehicle design evaluation, our Evaluation team is the place to be
+	- Design, develop, and maintain large-scale data processing and evaluation pipelines in python using tools such as Numpy, Pandas, Ray, and PyTorch
+	- Automate the evaluation, validation and triaging processes
+	- Leverage cloud technologies, particularly AWS, LakeFS and BigQuery, to optimize data processing and storage
+	- Build cloud services for data management, ingest, workflow orchestration, distributed evaluation at scale, and core components of our validation and safety case
+	- Develop scalable data visualization solutions to present insights effectively
+	- Monitor and troubleshoot data pipeline issues to ensure reliability and performance
+	- Stay up-to-date with emerging technologies and best practices in data engineering and visualization
+	- Document processes, workflows, and solutions for team collaboration and knowledge sharing
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 2+ years of relevant experience, Master's degree, or PhD
+	- 2+ years of experience in the complete software product development cycle from concept to launch: developing, testing, and maintaining, and 1 year of experience with software design and architecture 
+	- Experience building scalable data platforms for real-time and batch processing
+	- Proven experience in Python programming
+	- Hands-on experience with ***Dagster for workflow automation***
+	- Proficiency in cloud technologies, particularly ***AWS (e.g., S3, EC2, Lambda) and BigQuery***
+	- Proficiency with Docker and Kubernetes (K8s) for containerization and orchestration
+	- Familiarity with open-source tools and frameworks for data processing and visualization
+	- Experience with ***scalable data visualization solutions (e.g., Steamlit, Grafana, Superset)***
+	- Excellent communication and teamwork skills
+	- Ability to work in a fast-paced, dynamic environment
+	- Masters degree or higher in Computer Science, Robotics Engineering, or a related field
+	- Experience with C++ programming
+	- Experience in modern ML technologies such as ***PyTorch, Ray, Weights&Bias***, etc
+	- Experience with ***Bazel*** for build and test automation
+	- The expected base salary range for this full-time position in California is $143,200-$196,900 USD.
++ skill set:
+	- Software Engineer, C++ at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote
+	- Latitude AI is an automated driving technology company  developing a new hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to make travel safer, less stressful, and more enjoyable for everyone. 
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning, robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- Shipping the software that powers Latitude’s automated driving products is a challenging job. Our C++ Software Engineers ensure that we are delivering fast, scalable code across all of our product development groups.
+	- Develop software in C++ for automated driving products.
+	- Integrate components of our autonomy stack to meet requirements of complex, distributed real time systems. 
+	- Design and develop the software development infrastructure for autonomous application development. 
+	- Communicate design decisions, implementation improvements and project progress within your team and across the organization
+	- Develop and extend supporting tools and features of runtime middleware.
+	- Write automated tests to improve and validate performance.
+	- Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field.
+	- Strong C++ Coding skills for real time applications. 
+	- Strong problem solving skills and algorithm design experience. 
+	- Machine learning experience or experience integrating machine learning components into runtime-constrained systems.
+	- Experience with production robots operating in an uncontrolled environment.
+	- Experience with autonomous vehicles. 
++ skill set:
+	- Senior Systems Engineer, Perception at Latitude AI
+	- Remote, Palo Alto, CA, Detroit, MI, Pittsburgh, PA
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Latitude AI Systems Engineering team brings all the components of the autonomy stack together.  We work very closely with the software teams to verify all of the functions of the autonomy stack from sensing and perception through prediction and motion planning.
+	- Cultivate and maintain a healthy, diverse work culture and environment with a strong emphasis on safety
+	- Develop, mentor and coach others in your area of expertise
+	- Act as subject matter expert across the perception functions
+	- Develop requirements and verification plans for perception hardware
+	- Develop metrics and requirements for perception performance
+	- Analyze and root cause issues for perception hardware, software, ground truth and metrics
+	- Define use cases and bounding scenarios that define the limits of perception capabilities
+	- Work with the testing and triage teams to implement in car tests
+	- Work with the analytics, data science and cloud computing teams to implement metrics at scale
+	- Develop statistical models for perception failures and extrapolate to make recommendations
+	- Prototype different tools (in Python or C++) to analyze perception performance
+	- Perform data driven trade studies on a number of options
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 4+ years of relevant experience (or Master's degree and 2+ years of relevant experience, or PhD)
+	- Proven track record of delivering high priority assignments efficiently.
+	- Experience in a professional work environment where safety, honesty, procedure and/or software testing are emphasized 
+	- Strong desire to learn new skills related to technology and software
+	- Excellent written communication skills 
+	- Detail oriented mindset with a focus on safety and procedure
+	- Ability to work independently or with minimal supervision
+	- Willingness to travel to remote offices and test facilities as needed
+	- The expected base salary range for this full-time position in California is $152,320 - $209,440 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Senior Systems Engineer, Fault Handling Systems at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Platform Systems, Integration, and Test Team at Latitude is responsible for the design, integration, and testing of all interface functions between the self-driving technology and robotics platform. These functions include motion control, fault handling, HMI, and controls integration, along with the overall vehicle architecture. We specialize in parallelized development of prototype functionality and production designs, enabling all of Latitude to rapidly develop feature intent functionality without incurring significant technical debt.
+	- Define the architecture and requirements of our fault handling system, from detection and logging to customer notification and interaction
+	- Lead the systems engineering of all customer-facing HMI functions at Latitude including:
+		* How a customer safely and confidently engages/disengages the self-driving system through visual, auditory, and haptic interfaces
+		* The situational awareness display the brings customer confidence to our autonomy system performance
+	- Write safety and performance requirements that enable a complex, tightly integrated HMI to support our safety case through ISO 26262 and SOTIF standards
+	- Work closely with cross-functional systems and software teams at Latitude and Ford in creating designs
+	- Work closely with the integration and test engineers at Latitude to develop and execute the Design Verification Plan on benches, simulators, and vehicles
+	- Work closely with human factors teams at Ford to generate data-driven metrics for customer use of various HMI interfaces
+	- Periodically get hands-on with the product and see the designs in action!
+	- Bachelor’s Degree in Mechanical, Electrical, or Computer Engineering, or a related field
+	- At least 4+ years of experience working in either automotive or robotics engineering, or a related field
+	- Experience working in production applications of customer HMI
+	- Experience writing functional requirements
+	- Experience writing safety requirements to meet ISO 26262 or similar standards
+	- Master’s Degree with a focus in sensing or perception
+	- Familiarity with model-based systems engineering tools (ex: MagicDraw)
+	- Familiarity with requirements management tools (ex: Jama)
+	- Experience with Python, C++, or other programming skills
+	- Experience with autonomous vehicle testing
+	- The expected base salary range for this full-time position in California is $152,320 - $209,440 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Senior Staff Software Engineer, Perception at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Metro Detroit, MI, Remote
+	- Latitude AI is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone. 
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- In the Intelligent Systems team, we convert photons into understanding, primarily via computer vision and machine learning. Our organization is responsible for all downstream tasks of the vehicle sensor suite onboard, as well as the full offboard/cloud infrastructure for machine learning at Latitude.
+	- Come help us make the world safer, and driving more pleasant.
+	- Collaborate with perception experts and experienced roboticist to build solutions that scale from the lab to the customer, for one of the largest-scale robotics projects in history.
+	- Architect, design, and implement state of the art and beyond solutions in your domain- some example domains that are within our remit:
+		* Sensing: From the sensor driver to objects, algorithms to determine everything in the world and its properties.
+		* Machine Learning & Data Platform: Cloud services for data management, ingest, workflow orchestration, distributed training at scale, and core components of our validation and safety case.
+		* Mapping: Generating a consistent, geo-tagged representation of the universe for consumption by the fleet.
+		* Labeling: Managing operators, development of labeling tools, and accelerating our dataset management and distribution analysis.
+		* State Estimation: Fuse information over time and estimate attributes (e.g. kinematics).
+		* Localization: Estimate where the vehicle is in the world.
+		* Calibration: Estimate the location and properties of all sensing systems on the vehicle, and the vehicle itself, in unconstrained environments.
+		* Performance: Everything about making the systems of the company faster on the vehicle - use resources more efficiently, deploy jobs to accelerators more intelligently, and squeeze more out of the resources on-vehicle.
+	- Develop production quality software in a fast-paced, highly autonomous environment while maintaining a strong safety culture.
+	- Bachelor's degree in Computer Science, ECE, Robotics, Physics, Mathematics, or related field.
+	- Significant (10+ years) prior experience in one or more of the domains listed above, or in another domain of relevancy to the autonomous vehicles space.
+	- Significant (10+ years) of experience in C++ or Python software development.
+	- Track record of product development culminating in successful launches/releases/etc.
+	- Master’s plus 8 year of experience or PhD degree plus 5 years of experience in Robotics, ECE, Computer Science, or a related field.
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release.
+	- The expected base salary range for this full-time position in California is $240,960-$331,320 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Senior Software Engineer, Perception State Estimation at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The State Estimation team is a group of highly skilled and experienced professionals who specialize in cutting-edge multi-object tracking, scene estimation, and machine learning technology. Together, we collaborate to create advanced Bayesian filters, graph models, and deep learning models that are capable of temporally tracking both static and dynamic actors as well as estimating road features. The State Estimation team is the interface of the perception system to various downstream autonomy consumers including motion planning, prediction, and localization.
+	- The team's primary focus is on developing compute-efficient models and systems that can perform a wide range of tasks such as closed world multi-object tracking, track-to-detection data association, object motion forecasting, uncertainty estimation, lane line temporal smoothing, perception based road shape generation, and open world scene tracking and state estimation. The ultimate goal is to take these algorithms from the lab to the road, ensuring that they are optimized for onboard performance and able to function as production-grade perception systems on vehicles.
+	- To achieve this goal, the team constantly stays up-to-date with the latest research literature and pushes the boundaries of what is possible. We are dedicated to developing cutting-edge tracking algorithms, ML algorithms, and models that can help vehicles reason about the world around them in real-time.
+	- Develop machine learning models and Bayesian algorithms for multi-object tracking, state estimation, and uncertainty estimation 
+	- Develop deep learning models with temporal fusion for scene state estimation including occupancy, visibility, motion (velocity), and uncertainty
+	- Develop estimation algorithms for road feature estimation such as lane lines and speed limit as well as estimating the road shape 
+	- Read literature, analyze raw data, and design state-of-the-art solutions
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation
+	- Collaborate with perception experts and experienced roboticist on algorithm design, prototyping, testing, deployment, and productization
+	- Build and maintain industry-leading software practices and principles
+	- Develop clean and efficient software for perception modules interfacing with other key modules
+	- Show initiative and be a valued team member in a fast-paced, innovative, and entrepreneurial environment
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 4+ years of relevant experience (or Master's degree and 2+ years of relevant experience, or PhD)
+	- Relevant knowledge and experience in machine learning, with a proven track record of developing and deploying deep learning solutions using PyTorch, Tensorflow, or similar frameworks
+	- Experience in developing multi-object tracking systems using classical algorithms or machine learning algorithms
+	- Strong experience in deep learning, Bayesian filtering, and optimization algorithms
+	- Proven experience in shipping perception software products to industry or consumers
+	- At least 4 years of development experience in Python/C++ environment
+	- Ph.D. with machine learning focus, or equivalent experience
+	- Experience developing and deploying temporal computer vision models (for instance, video activity recognition or using multiple frames for improved results on other tasks)
+	- The expected base salary range for this full-time position in California is $170,560-$234,520 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Senior Software Engineer, Machine Learning (CVML) at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA, REMOTE
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Unified Model development team is a group of highly skilled and experienced professionals who specialize in cutting-edge computer vision and machine learning technology. Together, we collaborate to create advanced detection models that are capable of generating representations of both static and dynamic actors. These representations are then utilized by various downstream autonomy consumers including motion planning, prediction, and localization.
+	- The team's primary focus is on developing compute-efficient, multi-view, multi-sensor deep learning models that can perform a wide range of tasks such as 3D object detection, lane line detection, state estimation, and scene segmentation. The ultimate goal is to take these algorithms from the lab to the road, ensuring that they are optimized for onboard performance and able to function as production-grade vision systems on vehicles.
+	- To achieve this goal, the team constantly stays up-to-date with the latest research literature and pushes the boundaries of what is possible. We are dedicated to developing cutting-edge ML algorithms and models that can help vehicles reason about the world around them in real-time.
+	- Develop spatio-temporal machine learning models for detection, multi-sensor fusion, segmentation, etc
+	- Read literature, analyze raw data, and design state-of-the-art solutions
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation
+	- Collaborate with perception experts and experienced roboticist on algorithm design, prototyping, testing, deployment, and productization
+	- Build and maintain industry-leading software practices and principles
+	- Develop clean and efficient software for perception modules interfacing with other key modules
+	- Show initiative and be a valued team member in a fast-paced, innovative, and entrepreneurial environment
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 4+ years of relevant experience (or Master's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 2+ years of relevant experience)
+	- Relevant knowledge and experience in machine learning, with a proven track record of developing and deploying deep learning solutions using PyTorch, Tensorflow, or similar frameworks
+	- Experience in developing perception systems using sensors such as Camera, Radar, and LiDAR
+	- Strong experience in computer vision, perception, and point cloud processing
+	- Proven experience in shipping computer vision software products to industry or consumers
+	- At least 4 years of development experience in Python/C++ environments
+	- Ph.D. with machine learning focus, or equivalent experience
+	- Experience developing and deploying temporal computer vision models (for instance, video activity recognition or using multiple frames for improved results on other tasks)
+	- The expected base salary range for this full-time position in California is $207,760-$285,670 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
++ skill set:
+	- Senior Software Engineer, Localization & Mapping at Latitude AI
+	- Pittsburgh, PA, Palo Alto, CA
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone.  
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Latitude AI Localization team provides solutions for onboard vehicle pose and state estimates. We also play a crucial role in the process of building highly accurate maps at a massive scale. Our goal is to provide the ADAS system with an accurate, stable, and coherent understanding of where the vehicle is in the world and on the road.
+	- Come help us make the world safer, and driving more pleasant.
+	- Collaborate with expert software engineers and experienced roboticist to build solutions that scale from the lab to the customer, for one of the largest-scale robotics projects in history
+	- Architect, design, and implement novel, state-of-the-art solutions for onboard localization and offline mapping at large scales
+	- Develop production quality, highly performant software in a fast-paced, autonomous environment while maintaining a strong safety culture
+	- Communicate design decisions, implementation improvements and project progress within your team and across the organization
+	- Write automated tests and metrics to improve and validate performance
+	- Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field and 4+ years of relevant experience (or Master's degree and 2+ years of relevant experience, or PhD)
+	- Significant (4+ years) prior experience in one or more of the following: 
+		* developing real-time visualization and benchmarking tools
+		* IMU filtering
+		* localization, mapping, SLAM, and geometric computer vision
+		* numerical optimization methods
+	- Significant (4+ years) prior experience in C++ software development
+	- Track record of product development culminating in successful launches/releases/etc
+	- Master’s or PhD degree in Robotics, ECE, Computer Science, Mathematics, or a related field
+	- Significant (5+ years) of experience in Python software development
+	- Track record of technical leadership (not limited to management) taking products or large features from research to consumer release
+	- The expected base salary range for this full-time position in California is $170,560-$234,520 USD. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Latitude employees are also eligible to participate in Latitude’s annual bonus programs, equity compensation, and generous Company benefits program, subject to eligibility requirements.
 + skill set:
 	- BLAH.
 + skill set:
@@ -916,8 +1299,9 @@ Sets of skills for autonomous road vehicles:
 	- BLAH.
 + skill set:
 	- BLAH.
-+ skill set:
-	- BLAH.
+
+
+
 
 
 

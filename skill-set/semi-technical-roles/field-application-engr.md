@@ -77,7 +77,27 @@
 	- Experience working with PCIe form-factor accelerators such as GPUs, DSPs or FPGAs
 	- Experience in the cloud or automotive space
 + skill set:
-	- BLAH.
+	- Embedded Applications Engineer
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries. We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  As an AI chip company, we believe that AI can help us create a better, safer, more productive, and more convenient world. For this to happen, AI needs to be available at scale and on the edge. 
+	- To this end, our team of hardware and software leaders is developing top-performing AI processors, dedicated to AI tasks on edge devices in a wide variety of applications and industries including smart cities, automotive, manufacturing, agriculture, retail, and many more. With hundreds of customer programs around the world, and a wide ecosystem of software and hardware partners, Hailo is leading the edge AI revolution.
+	- As a team member in our Media Pipeline team, you will be responsible for developing a C++ open-source framework and applications for our top-of-the-line AI-Vision processor. You will be working on a production-grade framework that enables Vision pipelines for our customers in multiple industries, such as security, automotive, retail and more.
+	- If you are passionate about working with a large-scale SW and you’re excited about AI, we want to meet you!
+	- In this role, you will have a direct impact on our products.
+	- Help build and develop our best-in-class Edge AI SoC, developing an open-source, production-grade framework for the media pipeline
+	- Work in different SW environments: C++, Python, C
+	- Work closely with Software architects and the Machine Learning group, integrating and debugging complex software systems while taking into account challenging requirements as part of managing a large-scale embedded system.
+	- B.Sc in Computer Science from top Universities. (GPA above 85)
+	- 3+ years experience in C/ C ++ development
+	- Experience in user space applications.
+	- Hands-on experience with some of the following build systems: ***Yocto, Meson, CMake, Make, Builldroot***
+	- Hard-working, committed, and self-reliant
+	- Great interpersonal skills and a team-player
+	- Fluent English
+	- Python programming, scripting on Linux
+	- Knowledge with GStreamer
+	- Knowledge in Open-source software
+	- Familiarity with Docker
 + skill set:
 	- BLAH.
 + skill set:

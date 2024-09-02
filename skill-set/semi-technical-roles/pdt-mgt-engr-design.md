@@ -258,7 +258,31 @@ Sets of skills for product management for machine learning products and services
 		* ***Experience in building compute fabrics that lead in performance and scale.***
 	- $197,000/year to $270,000/year + bonus + equity + benefits
 + skill set:
-	- BLAH.
+	- Product AI Engineer
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- You will leverage xAI’s models and algorithms to create a new generation of delightful consumer products and experiences and scale this out to millions of users around the world.
+	- Tech Stack
+		* Rust
+		* Python
+		* JAX and XLA
+		* CUDA (C++ and Triton)
+	- Expert in ML and fine-tuning large language models.
+	- Experience in developing and managing large-scale machine learning systems.
+	- Familiar with the latest prompting techniques.
+	- Passion for making delightful consumer products with cutting edge technology
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $500,000 USD
 + skill set:
 	- BLAH.
 + skill set:

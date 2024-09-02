@@ -2544,7 +2544,28 @@ reactive programming = asynchronous dataflow programming
 	- Model–view–viewmodel (MVVM) is an architectural pattern in computer software that facilitates the separation of the development of the graphical user interface (GUI; the view)—be it via a markup language or GUI code—from the development of the business logic or back-end logic (the model) such that the view is not dependent upon any specific model platform.
 	- The MVVM pattern helps cleanly separate an application's business and presentation logic from its user interface (UI). Maintaining a clean separation between application logic and the UI helps address numerous development issues and makes an application easier to test, maintain, and evolve. It can also significantly improve code re-use opportunities and allows developers and UI designers to collaborate more easily when developing their respective parts of an app.
 + skill set:
-	- BLAH.
+	- Product Backend Engineer
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- You will leverage xAI’s models and algorithms to create a new generation of delightful consumer products and experiences and scale this out to millions of users around the world.
+	- Tech Stack
+		* Rust
+		* gRPC
+		* Postgresql, Sqlite, and other relational databases
+		* Experience with cloud platforms like AWS, Google Cloud, or Microsoft Azure.
+		* Knowledge of RESTful APIs, microservices architecture, and containerization technologies like Docker.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
 + skill set:
 	- BLAH.
 + skill set:

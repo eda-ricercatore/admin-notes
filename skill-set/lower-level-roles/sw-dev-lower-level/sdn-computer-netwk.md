@@ -467,7 +467,47 @@
 	- high-level programming languages, such as: ***Lisp (or Common Lisp), Go (or Golang), Erlang, Scala, or Clojure***.
 	- Experience in ***RPC API design and construction***.
 + skill set:
-	- BLAH.
+	- Network Engineer
+	- Memphis, TN
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. 
+	- xAI is seeking a Network Engineer who is proficient with the fundamentals, and eager to grow their skills on a global network. The ideal candidate is a motivated, pragmatic, thinker eager to get the job done while finding a balance between shipping and quality. If you thrive in a dynamic, high-growth, tech environment and relish the opportunity to collaborate with passionate, driven, over-achievers, we'd love to hear from you!
+	- This is an in-person role based in Memphis, Tennessee and will require about 30-40% travel. 
+	- Be onsite in our Memphis data center or any other DC working alongside our Siteops engineers or San Francisco, Palo Alto, or other offices working with other network engineers.
+	- Troubleshoot physical network devices and links, test to ensure they operate as expected and put back into production.
+	- Contribute to the continuous improvement of tooling, automation and operational procedures
+	- Network troubleshooting and fault analysis; hardware troubleshooting and repair of devices outside data centers.
+	- Trouble ticket generation and response; carrier interface and escalations
+	- Liaise with third parties to fix and resolve issues
+	- Creation and execution of scheduled changes, process & documentation
+	- Participate in a 12x7 call-out rotation and shift work based on the time zone you’re hired in
+	- Software/firmware installation
+	- Monitor, manage, and respond to network based alerts
+	- Automate away repeatable work using python or Ansible like tools 
+	- Project work that comes in from upstream Neteng teams (example: datacenter tech refresh  -  decommissioning older devices and provisioning new ones)
+	- High school diploma or equivalency certificate
+	- 1+ years of Network Engineering experience troubleshooting physical and logical issues
+	- B.S. in network engineering or a related technical discipline 
+	- Beginner to intermediate logical and physical understanding of break/fix operations including:
+		* Network layer 1,2,3, and 4.
+	- Beginner to intermediate understanding of network fundamentals
+		* Routing, Switching, IP services, and network automation
+	- Working knowledge of at least two internal routing protocols, its configuration and day to day operation
+	- Beginner to Intermediate working knowledge of Backbone and Datacenter networks
+	- Beginner to Intermediate working knowledge of TCP/IP
+	- Vendor certifications such as CCNA, CCNP, JNCIA and JNCIP
+	- Vendor Hardware Cisco, Juniper, NVIDIA, Avocent  
+	- Understanding of unix/linux shells and scripting languages (python preferred)
+	- Ability to learn new networking protocols, programming/scripting languages, and vendor operating systems as necessary
+	- Methodical troubleshooting approach
+	- Strong documentation and communication skill set
+	- Technical project management mindset
+	- Team-player, takes initiative, and highly motivated
+	- Ability to work for extended periods of time standing, when needed
+	- Work is often performed in tight quarters and physical dexterity is necessary to preform job functions
+	- Comfortable working in an environment requiring exposure to noise
+	- Ability to work evenings and weekends as needed 
+	- Ability to lift or carry 10-15lbs
+	- Position is subject to pre-employment drug and random drug and alcohol testing
 + skill set:
 	- BLAH.
 + skill set:
@@ -523,7 +563,34 @@
 	- Hands on ***Infiniband experience***
 	- Have used or developed ***metrics/analytics tools for usage***
 	- Experience with ***Slurm or similar job systems***
-
++ Software Engineer - Supercomputing
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Rust
+		* Kubernetes
+		* gRPC
+	- The role is based in the Bay Area \[San Francisco and Palo Alto\s]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Build highly reliable internal tools and services to support the Staff
+	- Design, build, and deploy gRPC-based services, CLI tools, or kubernetes operators
+	- Diagnosing and debugging complex issues in production environments
+	- Identifying and implementing optimizations across the entire software stack
+	- Proficiency in Rust or another systems programming language
+	- Extensive experience designing, building, and deploying software independently
+	- We are looking for generalists as well as specialists, for example systems programmers or engineers who have focused on performance or security.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to an initial interview (45 minutes - 1 hour) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in one of the following programming languages: Rust, C++, or Go.
+			+ Systems design: Translate high-level requirements into a scalable, fault-tolerant service.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $370,000 USD
 
 
 

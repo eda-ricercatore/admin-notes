@@ -4888,6 +4888,7 @@ Sets of skills for embedded machine learning engineers, VLSI machine learning en
 ###	Start-ups related to VLSI Deep Learning & Embedded Deep Learning
 
 + Covariant: https://covariant.ai/careers/
++ Hailo: https://hailo.ai/
 + Rain Neuromorphics Inc.: https://rain.ai/careers
 
 
@@ -6983,7 +6984,11 @@ Companies that have machine learning -centric products
 	- You will be asked to include a short (max one page) statement describing your research experiences and interests, and (optionally) their relevance to Netflix Research. For inspiration, have a look at the Netflix research site. In this statement, please include the approximate dates you might be able to work full-time hours (40 hours a week) for 12 weeks between the fall of 2023 and spring of 2024.
 	- The overall market range for Netflix Internships is typically $40/hour - $110/hour.
 + skill set:
-	- BLAH.
+	- Machine Learning Research with Alibaba Group
+	- Building an innovative and systematic AI benchmarks platform
+	- Currently in Alibaba Group, deep learning and related applications have been employed in various business departments. Tmall, Alitrip, Taobao, Ant Financial and other departments are making extensive use of emerging deep learning technologies to continuously improve application and algorithms and enhance the consumer experience. On the one hand, Alibaba's engineering teams design, experiment and deploy different deep learning algorithms and applications every day. On the other hand, deep learning requires a lot of computational power, which also puts higher requirements on the computational power of the hardware and their adaptability to the application. How to balance the demand and supply relationship between these two and integrate the solution into a systematic platform product? How to automatically and systematically evaluate the computional power of an AI hardware? How to evaluate the advantages and disadvantages of a hardware for usage in an application and give customer recommendations through a systematic platform? These are the challenges we are currently dealing with and we need to solve. Recently we have launched the AI Matrix product (through aimatrix.ai website), but it is still in the early stage of the product. In the future, we need more people who have the same understanding as us and are willing to involve in solving these problems. Let's contribute our own strength and make the AI Matrix as an effective systematic platform and an impactful technical brand.
+	- [AI Matrix](https://aimatrix.ai/en-us/)
+	- https://github.com/alibaba/ai-matrix
 + skill set:
 	- BLAH.
 + skill set:
@@ -7290,22 +7295,6 @@ Companies that have machine learning -centric products
 	- At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Senior/Staff ML Platform Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App. 
 	- If you're an exceptional engineer who shares our passion for freedom of speech, we'd love to hear from you.
 	- If you thrive in a dynamic, high-growth tech environment and relish the opportunity to collaborate with passionate, driven over-achievers, your career with us here at X will be both exhilarating and fulfilling!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 + ML Infrastructure Engineer
 	- Location: San Francisco or New York
 	- Base Salary Range: $127,000 USD - $297,000 USD
@@ -7389,6 +7378,31 @@ Companies that have machine learning -centric products
 	- Research and Innovation: Collaborate with the research team to keep abreast of the latest developments in neural IR and drive innovation through prototyping.
 	- Publications/Contributions: Though not mandatory, contributions to scientific and tech communities can be a valuable addition.
 	- Technical Leadership: Guide less experienced engineers and researchers, actively contribute to technical documentation, and promote best practices in machine learning.
++ Machine Learning Engineer
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries. We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  As an AI chip company, we believe that AI can help us create a better, safer, more productive, and more convenient world. For this to happen, AI needs to be available at scale and on the edge. 
+	- To this end, our team of hardware and software leaders is developing top-performing AI processors, dedicated to AI tasks on edge devices in a wide variety of applications and industries including smart cities, automotive, manufacturing, agriculture, retail, and many more. With hundreds of customer programs around the world, and a wide ecosystem of software and hardware partners, Hailo is leading the edge AI revolution.
+	- You will be responsible for defining the system solution for NN-based image signal processing algorithms.
+	- In your role, you will be tasked with designing an ISP solution that leverages NN to replace classic ISP algorithms and taking the solution from the POC stage to production. You will scope the existing landscape of literature and select solutions which are appropriate for running on Hailo’s embedded HW, perform proof-of-concept, define system KPIs, and finally carry the solution to product grade level and deployment on Hailo’s Vision-Processor. 
+	- Domain expert in the field of neural network image enhancement for video cameras.
+	- Work with the product team to translate high-level product functions to system building blocks and drive R&D efforts to implement them.
+	- Implement proof-of-concept projects, taking ideas from papers and public reports and showing product fit.
+	- Technological leadership in a multi-disciplinary environment. You will be working with both external partners and internal technical leadership. You will be expected to understand the various disciplines in a detailed manner and to be both a technical and project focal point for all aspects of the project.
+	- BSc in Electronic Engineering or CS.
+	- At least 6 years of previous experience in R&D development where you stood out due to your technical excellence. Show a proven track record of technical leadership and excellence.
+	- High-level analytic skills and ability to read and understand academic literature.
+	- Strong programming skills and ability to design simulation environments to test algorithmic solutions.
+	- We want self-motivated individuals who strive to be elite in what they do and push our product to be the best AI edge accelerator in the world.
+	- Strong interpersonal communication skills and ability to analyze complex problems and present the results succinctly and accurately to the company leadership.
+	- “Can do attitude” – We don’t always understand the problem we want you to solve. Your most important job is to help us understand the problem. The solution will follow.
+	- Feel very comfortable quickly learning new disciplines and trying out new things.
+	- Previous experience in at least one of the following:
+		* ISP algorithm development
+		* Development of deep learning solutions to product grade including data collection and training.
+	- MSc in CS/EE with thesis in signal processing or machine learning.
+	- Start-up experience.
+	- Lab experience and working with test or optical equipment
+	- Working at the system level of complicated multi-disciplinary systems e.g. ADAS, satellites, defense projects etc.
 + Software Engineer, AI Frameworks
 	- We believe that AI is a net positive force in the world. Our vision and mission are to help rebuild AI infrastructure to advance humanity and our environment. We will do whatever it takes to empower our customers, team, and company to benefit from that pursuit. You can read about our culture and careers here to understand how we work and what we value.
 	- We are owners and advocates for the underlying technologies, developer platforms, product components, and infrastructure. These essential building blocks form the high-quality and coherent experiences our users expect. We aim to drive the pace of innovation for every AI/ML developer.
@@ -10793,7 +10807,29 @@ Skill sets for managing machine learning engineers, or machine learning engineer
 	- Working knowledge of ***common ML frameworks such as PyTorch, TensorFlow, scikit-learn, ONNX***, etc.
 	Prior experience with ***container technologies like Docker, Kubernetes, Buildpacks***, etc.
 + skill set:
-	- BLAH.
+	- Tech Lead / Tech Lead Manager, Unified Modeling
+	- Palo Alto, California, United States, Pittsburgh, PA, United States
+	- Latitude AI (lat.ai) is an automated driving technology company developing a hands-free, eyes-off driver assist system for next-generation Ford vehicles at scale. We’re driven by the opportunity to reimagine what it’s like to drive and make travel safer, less stressful, and more enjoyable for everyone. 
+	- When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – all dedicated to making a real, positive impact on the driving experience for millions of people. 
+	- As a Ford Motor Company subsidiary, we operate independently to develop automated driving technology at the speed of a technology startup. Latitude is headquartered in Pittsburgh with engineering centers in Dearborn, Mich., and Palo Alto, Calif.
+	- The Unified Model development team is a group of highly skilled and experienced professionals who specialize in cutting-edge computer vision and machine learning technology. Together, we collaborate to create advanced detection models that are capable of generating representations of both static and dynamic actors. These representations are then utilized by various downstream autonomy consumers including motion planning, prediction, and localization.
+	- The team's primary focus is on developing compute-efficient, multi-view, multi-sensor deep learning models that can perform a wide range of tasks such as 3D object detection, lane line detection, state estimation, and scene segmentation. The ultimate goal is to take these algorithms from the lab to the road, ensuring that they are optimized for onboard performance and able to function as production-grade vision systems on vehicles.
+	- To achieve this goal, the team constantly stays up-to-date with the latest research literature and pushes the boundaries of what is possible. We are dedicated to developing cutting-edge ML algorithms and models that can help vehicles reason about the world around them in real-time.
+	- Develop spatio-temporal machine learning models for detection, multi-sensor fusion, segmentation, etc.
+	- Read literature, analyze raw data, and design state-of-the-art solutions
+	- Transition solutions from the lab to the test track and public roads to ensure successful production-level implementation.
+	- Collaborate with perception experts and experienced roboticists on algorithm design, prototyping, testing, deployment, and productization
+	- Build and maintain industry-leading software practices and principles
+	- Develop clean and efficient software for perception modules interfacing with other key modules
+	- Show initiative and be a valued team member in a fast-paced, innovative, and entrepreneurial environment
+	- A Bachelor's or Master's Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics, or a related field
+	- Expert-level knowledge and experience in machine learning, with a proven track record of developing and deploying deep learning solutions using PyTorch, Tensorflow, or similar frameworks
+	- Experience in developing perception systems using sensors such as Camera, Radar, and LiDAR
+	- Strong experience in computer vision, perception, and point cloud processing
+	- Proven experience in shipping computer vision software products to industry or consumers
+	- At least 5 years of development experience in Python/C++ environments.
+	- Ph.D. with machine learning focus, or equivalent experience
+	- Experience developing and deploying temporal computer vision models (for instance, video activity recognition or using multiple frames for improved results on other tasks).
 + skill set:
 	- BLAH.
 + skill set:
@@ -13104,6 +13140,295 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 
 
 
+###	Machine Learning for (Engineering) Machine Learning Systems (ML4MLSys) 
+
+
+
+Organizations working on machine learning for machine learning systems (ML4MLSys):
++ Asari AI Inc: https://asari.ai/
+
+
+
+
+
+
+
+Skill sets for using machine learning to engineer machine learning systems:
++ Founding Member of Technical Staff
+	- Asari AI Inc: https://asari.ai/
+	- San Francisco Office, Pasadena Office, Remote
+	- Zone A - Bay Area:
+		* $150K – $250K
+		* Offers Equity
+		* Offers Bonus
+	- Build AI to co-invent the future
+	- We’re a tight-knit team of passionate technologists building AI agents that help people design and make new products, services, and discoveries.
+	- We get energized by solving challenging and meaningful problems, building useful and seamless products, and helping move the world forward. 
+	- Our team has published award-winning AI research, includes alumni from Caltech, and Professors from Caltech and UT Austin.
+	- We're backed by top-tier investors and partners: Eric Schmidt (former CEO of Google and former Executive Chairman of Alphabet), Caltech, Jeff Dean (Chief Scientist, Google DeepMind and Google Research), and JP Millon.
+	- We expect excellence, focus, and impact.
+	- We value thinking from first principles, learning fast, and getting things done.
+	- We want to empower you to take ownership in fulfilling our mission.
+	- Above all, we value team spirit, sharing the ups and downs, achieving great things together, and having fun while doing so.
+	- Be a key team member that will help set the course, take ownership, and execute rapidly.
+	- Design, train, and evaluate hybrid AI systems that perform well at scale and make optimal trade-offs.
+	- Build data processing pipelines
+	- Implement machine learning models
+	- Run machine learning workloads at scale using distributed computing
+	- Define and apply simple design principles that scale (Occam's Razor)
+	- Solve min-max problems: how can we do more with less?
+	- Accelerate our work by removing operational and tooling bottlenecks.
+	- You enjoy and are energized by solving challenging and meaningful real-world problems.
+	- You have a track record in a technical domain, e.g., machine learning, computer science, physics, math.
+	- You have developed and implemented machine learning algorithms, models, and tools.
+	- You have strong programming and math abilities.
+	- You have clear verbal and written communication skills
+	- You have strong conceptual and structured thinking.
+	- You are willing and able to learn quickly.
+	- You have team spirit.
+	- You can independently structure, plan, prioritize, and get things done.
+	- You have a drive for excellence, a sense of urgency, and bias to action.
+	- It would be nice to have
+		* Open-source projects, published research papers, or other examples of experience in using machine learning.
+		* Experience with applying deep learning, reinforcement learning, unsupervised learning, and other techniques to large-scale problems.
+		* Experience with distributed computing and handling large datasets.
+		* Unlimited PTO (with manager approval)
+	- Process
+		* Step 1: CS fundamentals assessment
+			+ To prepare for this, it would be good to have a solid understanding of basic data structures (e.g., lists, hash maps, stacks, queues, trees) and algorithms (e.g., sorting, depth-first vs breadth-first search, dynamic programming).
+		* Step 2: Interviews
+			+ Optional: presentation on previous (research) projects.
+			+ 2x machine learning interviews: 1:1 interviews where we will go over a machine learning problem in a collaborative code editor. The goal is to assess your current knowledge level of machine learning, relevant math/statistics concepts, coding, and general problem solving and communication skills.
+			+ 1x CS / technical communication interview. A mix of coding and debugging/analyzing existing code.
+			+ 1x discussion of behavioral cases and your career goals.
+		* Step 3: Offer
+			+ Background and reference checks.
++ Your next awesome job!
+	- Asari AI Inc: https://asari.ai/
+	- Location: San Francisco Office
+	- ***Build AI to co-invent the future***
+	- We’re a tight-knit team of passionate technologists building AI agents that help people design and make new products, services, and discoveries.
+	- We get energized by solving challenging and meaningful problems, building useful and seamless products, and helping move the world forward. 
+	- Our team has published award-winning AI research, includes alumni from Caltech, and Professors from Caltech and UT Austin.
+	- We're backed by top-tier investors and partners: Eric Schmidt (former CEO of Google and former Executive Chairman of Alphabet), Caltech, Jeff Dean (Chief Scientist, Google DeepMind and Google Research), and JP Millon.
+	- We expect excellence, focus, and impact.
+	- We value thinking from first principles, learning fast, and getting things done.
+	- We want to empower you to take ownership in fulfilling our mission.
+	- Above all, we value team spirit, sharing the ups and downs, achieving great things together, and having fun while doing so.
+	- We want to hear from you!
+	- We're always looking for talented people who are excited about our mission.
+	- Even if you don't see a specific job opening that fits you, we still want to hear from you if you're motivated and want to contribute in some way!
+	- Please drop us a note and let us know what your superpowers are!
+	- The target salary range for this position is $90,000 - $250,000 annually. Actual offers and compensation are based on the specific job duties, individual experience, performance, and other considerations, and might lie outside this range.
+
+
+
+
+
+
+
+
+
+###	Automated Scientific Discovery
+
+
+####	Organizations Working on Automated Scientific Discovery
+
+
++ xAI: https://x.ai/
+	- Or, X.AI Corporation: Burlingame, CA.
+	- Or, X.AI Corp..
+	- Owned by:
+		* X Corp..
+			+ Also known as: "X", previously Twitter.
+
+
+
+
+
+####	Skills for Automated Scientific Discovery
+
+
+
++ AI Engineer & Researcher - Human Data
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- xAI’s Human Data team is responsible for delivering high-quality data to drive frontier model performance. We collaborate closely with the post-training team and AI tutor team to develop new solutions that accelerate research progress across model capabilities, evaluation, safety, and alignment.
+	- Build features end-to-end: front-end, back-end, system design, debugging and testing
+	- Build systems that monitor and flag quality issues with large-scale data collections.
+	- Help drive high-priority data collection projects for our team.
+	- Understand training and eval data needs across xAI to improve our platform, and help develop our technical roadmap and prioritization
+	- Create innovative human and synthetic data generation methods and pipelines.
+	- Ensure that our overall data collection platform is secure, scalable, and delightful to use.
+	- Innovating new ideas that bring us closer to our goal: to develop AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Experience delivering high-quality web applications in rapidly changing environments - as a tech lead, former founder, etc.
+	- Experience collaborating in highly cross-functional environments
+	- Experience in connecting machine learning model behavior to data distribution and data quality.
+	- Experience in fine-tuning large language models.
+	- Tech Stack
+		* Typescript, Python, Rust
+		* React, Express, PostgreSQL 
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ HTML/CSS interview
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
++ AI Engineer & Researcher - Multimodal
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Python
+		* JAX and XLA
+		* Rust
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- ***Training trillion parameter neural networks at scale, as well as a variety of smaller specialized models.***
+	- Mastering all data modalities: text, audio, images, video, etc
+	- ***Rapidly implementing the latest state-of-the-art methods from the deep learning literature.***
+	- Innovating new ideas that bring us closer to our goal: Developing AI systems that can accurately understand the universe and create new knowledge.
+	- Building distributed training systems for AI models in HPC clusters.
+	- ***Working with JAX/XLA for multi-host training.***
+	- Digging into third-party source code for debugging and customization.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ One on one research discussion & coding interviews  (three meetings total)
+			+ Project deep-dive: Present your past exceptional work to a small audience
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
++ AI Coding Tutor
+	- Remote / Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to develop advanced AI systems that are truthful, competent, and maximally beneficial for all of humanity. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+	- As an AI Coding Tutor, you will be responsible for generating consistently high-quality and accurately labeled data through various methods to facilitate the training of NLP algorithms. Collaborating closely with the technical staff, you will create datasets for model training, benchmarking, and overall advancement. You will play a crucial role in the improvement of our products and services by ensuring high-quality and accurately labeled data.
+	- AI model training initiatives by curating code examples, offering precise solutions, and meticulous corrections in Python, Rust, JavaScript, C / C++, Java, Go.
+	- Evaluate and refine AI-generated code, ensuring it adheres to industry standards for efficiency, scalability, and reliability.
+	- Produce detailed documentation that simplifies advanced coding techniques for AI training
+	- Collaborate with cross-functional teams to enhance AI-driven coding solutions, ensuring they meet enterprise-level quality and performance benchmarks.
+	- Advanced proficiency in English, both verbal and written.
+	- Knowledge in at least one of Python, Rust, JavaScript, C / C++, Java, Go, with a solid foundation in software development practices.
+	- A minimum of 2 years of hands-on industry experience with a proven track record in software development.
+	- Extensive experience with a wide array of tools and systems such as Databases, SQL, Kubernetes, Spark, Kafka, gRPC, and AWS.
+	- Strong grasp of system fundamentals, including threads versus processes, multiprocessing versus concurrency, etc.
+	- Proficiency in shell scripting with terminal tools such as bash, zsh, and environment variable management.
+	- A high reputation on platforms like StackOverflow
+	- Evidence of meaningful contributions to open source projects
+	- Evidence of strong performance in programming competitions, eg. a high rating on Codeforces, or success in the ICPC
+	- The ideal candidate for this role is adaptable, possesses strong logical reasoning skills applicable to various scenarios, is detail-oriented, has experience with computers and software, and thrives in a fast-paced work environment.
+	- Available to work evenings and weekends, as the schedule varies depending on team operational needs; flexibility is required
+	- Demonstrates a strong capacity to quickly adapt by learning new skills and unlearning outdated ones, thriving in dynamic and changing environments
+	- This position offers the flexibility of being either remote or in-office:
+	- Remote Work: Must maintain a productive workspace and be available for virtual collaboration during work hours.
+	- In-Office Work: Regular attendance is expected for team synergy and direct interaction.
+	- Compensation and Benefits
+		* Pay Range: $55/hour - $65/hour
+		* Your actual level and base pay will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+		* Base pay is just one part of your total rewards package at xAI. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks. You will be eligible for 10 or more paid holidays per year. 
++ AI Engineer & Researcher - Data / Crawling
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Python
+		* JAX
+		* Rust
+		* Spark
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Building petabyte-scale, high-throughput data processing systems.
+	- Managing workloads across large cloud compute clusters.
+	- Pre-processing datasets for AI training.
+	- Strong engineering skills with passion to improve different aspects of data and model.
+	- Has worked on one or more modalities other than text and demonstrated exceptional work.
+	- Building bespoke data processing libraries from scratch.
+	- Designing and implementing distributed systems in Rust.
+	- Keeping up with state-of-the-art techniques for preparing AI training data.
+	- Organizing and meticulously bookkeeping data across multiple clouds, of multiple modalities, and from many sources.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD.
++ AI Engineer & Researcher - Post-training
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Python
+		* JAX
+		* Rust
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Designing and implementing evaluations for new capabilities.
+	- Creating new and enhancing existing human and synthetic data generation methods and pipelines.
+	- Experimenting with novel fine-tuning and reinforcement learning techniques.
+	- Optimizing training data quality and data mixture to improve evaluation metrics.
+	- Innovating new ideas that bring us closer to our goal: Developing AI systems that can accurately understand the universe and create new knowledge.
+	- Expert in ML and fine-tuning large language models.
+	- Experience in developing and managing large-scale machine learning systems.
+	- Experience in connecting machine learning model behavior to data distribution and data quality.
+	- Familiar with the latest prompting and inference-time search techniques.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Post-Training Technical Session (2): This session will be testing your ability to formulate, design and solve concrete problems in post-training. It can be research or engineering, depending on background/experience. 
+			+ Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
++ AI Engineer & Researcher - Pre-training
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* Python
+		* JAX and XLA
+		* Rust
+		* CUDA (C++ and Triton)
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Training trillion parameter neural networks at scale, as well as a variety of smaller specialized models.
+	- Profiling, debugging, and optimizing multi-host GPU utilization.
+	- Improving and innovating inference stack to serve millions of users.
+	- Rapidly implementing the latest state-of-the-art methods from the deep learning literature.
+	- Innovating new ideas that bring us closer to our goal: Developing AI systems that can accurately understand the universe and create new knowledge.
+	- Building distributed training systems for AI models in HPC clusters.
+	- Configuring and troubleshooting hardware and operating-systems for maximum performance.
+	- Working with JAX/XLA for multi-host training.
+	- Writing custom CUDA kernels in either C++ or via Triton.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
+
+
+
+
+
+
+
+
 
 
 
@@ -14138,7 +14463,33 @@ Use MLOps to support distributed machine learning, distributed ML.
 	- We estimate that someone with 3-5+ years of experience as a software engineer working on a team building and monitoring a large-scale infrastructure deployment will quickly contribute to our challenges.  Any experience with high-performance computing or open-source contributions is a bonus.
 	- Annual Salary Range: $200,000—$370,000 USD
 + skill set:
-	- BLAH.
+	- Software Engineer - AI Tooling
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- xAI’s Human Data team is responsible for delivering high-quality data to drive frontier model performance. We collaborate closely with the post-training team and AI tutor team to develop new solutions that accelerate research progress across model capabilities, evaluation, safety, and alignment.
+	- Be responsible for architecting, building, and designing our data collection platform
+	- Iterate rapidly on new features to improve user experience on our platform for both human operations and our research team
+	- Build features end-to-end: front-end, back-end, system design, debugging and testing
+	- Build systems that monitor and flag quality issues with large-scale data collections
+	- Establish best practices and help scale a world-class engineering team
+	- Ensure that our overall data collection platform is secure, scalable, and delightful to use.
+	- Innovating new ideas that bring us closer to our goal: to develop AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Tech Stack
+		* Typescript, Python, Rust
+		* React, Express, PostgreSQL 
+	- The role is based in the Bay Area \[San Francisco and Palo Alto\]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ HTML/CSS interview
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -15981,7 +16332,29 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Familiarity with big data processing tools such as Spark
 	- Analytics over relational databases
 + skill set:
-	- BLAH.
+	- Human Data Project Lead
+	- Bay Area (San Francisco and Palo Alto)
+	- We're looking for a motivated and driven Project Lead to join our team and make a real impact on the development and evolution of our AI model. In this position, you will work with cross-functional teams to ensure high data integrity, driving data tracks, and reliability of the data powering Grok. Your expertise in data curation, annotation workflows, and AI/ML concepts will be instrumental in enhancing our model's capabilities across diverse domains such as science, technology, mathematics, humanities, and more.
+	- Help develop and support Grok's architecture and personality, ensuring alignment with the vision and strategic goals. This includes improving understanding and generation in specific domains like humor and recent events.
+	- Research, implement, and evaluate techniques and strategies to enhance model capabilities, from data collection, annotation, generation, and integration of multi-modal features.
+	- Guide Grok's improvement by working across areas like programming, science, technology, social sciences, recent events, and multimodal, making sure our models can handle a wide range of topics and tasks.
+	- Ideate, design, manage, and execute plans for developing and modifying model behavior through data management, optimization, and analysis.
+	- Focus on maintaining high data integrity and truthfulness in our datasets. This includes validation processes to ensure data factuality and reliability.
+	- Conduct thorough evaluations of our models and datasets to identify those that best align with project requirements, emphasizing quality over quantity. Ensure resources and timelines are managed effectively, quickly tackling any challenges or inefficiencies to improve model behavior and uphold data integrity.
+	- Support the ideation of annotation workflows and the design of annotation tools and applications that prioritize data integrity, from labeling interfaces to web applications.
+	- Communication and Collaboration:
+		* Act as a liaison between the technical staff, engineering teams, and tutoring team, to ensure collaboration and effective knowledge sharing. This role is key in facilitating clear and open communication across all teams and aligning efforts towards common project goals.
+		* Report project status, model insights from annotation, insights gained, and blockers encountered. These updates provide transparency and facilitate informed decision-making, ensuring cross-functional teams are well-informed and aligned with the project's direction.
+	- We are looking for candidates with the following traits, skills, background, expertise:
+		* Strong background in data curation or related fields, demonstrating hands-on experience with data quality, labeling processes, motivated about AI innovations, interested in high data-integrity.
+		* Technical expertise, including familiarity with AI and machine learning concepts, tools, and practices, to directly contribute to the development and optimization of annotation tools and methodologies.
+		* Excellent analytical skills, with the ability to analyze data sets, identify trends and anomalies, and provide insights that drive project improvements.
+		* Proven ability to work independently, managing one's own tasks and responsibilities effectively while contributing to team goals.
+		* Strong communication skills, capable of effectively articulating technical concepts and insights to both technical and non-technical team members.
+		* Have experience with SQL, Python.
+		* Bachelors degree.
+	- ***Unlimited paid time off subject to prior approval***
+	- ***Annual Salary Range: $140,000. to $196,000***
 + skill set:
 	- BLAH.
 + skill set:
@@ -16801,6 +17174,32 @@ They support databases for:
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
 + Should have experience in dealing with XML and JSON data formats.
++ Product Data Engineer
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- You will leverage xAI’s models and algorithms to create a new generation of delightful consumer products and experiences and scale this out to millions of users around the world.
+	- Tech Stack
+		* Rust
+		* Python
+		* Spark
+		* Postgresql
+	- Expertise in data curation, filtering, and cleaning for large language and multimodal models.
+	- Experience in working with and quality controlling large-scale human annotation.
+	- Familiarity with crafting consumer app data flywheel.
+	- Rigor in identifying product direction from usage data.
+	- Passion for making delightful consumer products with cutting edge technology.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $500,000 USD
 + skill set:
 	- Redesigning our data systems from a warehouse-centric to a lake-centric architecture to be more cost-effective as our data volume grows.
 	- Rolling out a structured events pipeline for analytics and productization of high-volume event streams.
@@ -18682,6 +19081,31 @@ Skill sets for DataOps:
 	- You've had exposure to data modeling, data access, and data storage techniques.
 	- You have an interest in agile software processes, data-driven development, reliability, and responsible experimentation.
 	- You understand the value of collaboration within teams.
++ Software Engineer (Backend & Data processing)
+	- London, UK
+	- The xAI London team is a team of software engineers with a focus on large-scale, highly-reliable distributed systems. We work on many different levels of the stack ranging from build systems, to production backend infrastructure, and frontend development. For example, we built large parts of the Grok production stack. We focus on building high-quality software and aren’t afraid to delve into technically complex topics to solve problems the right way.
+	- We’re looking for an experienced and versatile software engineer who can thrive in a dynamic start-up environment. An ideal candidate meets at least the following requirements:
+	- Expert in at least one programming language that compiles to machine code such as Rust, C++, or Go. Rust or C++ experience is preferred,
+	- Expert in Python and writing Python bindings in a compiled language such as C (using the Python API), C++ (pybind11, SWIG,  CLIF), or Rust (pyo3),
+	- Experience in designing reliable and horizontally scalable distributed systems,
+	- Experience in API design.
+	- Additionally, experience in any of the following technologies may help a candidate stand out:
+		* TypeScript and React or Angular
+		* gRPC
+		* Kubernetes
+		* JAX
+		* CUDA
+		* MLIR
+		* Triton
+		* XLA
+		* The role is based in our London office close to Piccadilly Circus underground station. We usually work from the office 5 days a week but allow for work-from-home days when required. Candidates must be willing to attend late meetings at least twice a week to coordinate with the rest of our team, which is based in California. This role includes semi-regular business trips to California.
+	- Interview process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding interview in Rust, C++ or Go,
+			+ Coding interview in Python,
+			+ Distributed systems design interview,
+			+ Meet the wider team and give a 20 minute presentation about the most difficult technical problems you have solved.
+		* Our goal is to finish the process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
 
 
 
@@ -18692,12 +19116,44 @@ Skill sets for DataOps:
 
 
 
+###	Data Management
 
 
-
-
-
-
+Skill sets for data management:
++ Human Data Manager
+	- Bay Area (San Francisco and Palo Alto)
+	- We're looking for a talented and driven Human Data Manager to join our team and make a real impact on the development of our products. In this role, you will guide and mentor a large team of AI tutors while maintaining data integrity. The ideal candidate is passionate about AI technologies and has a strong background in data curation, attention to detail, technical expertise in AI and ML concepts, and exceptional leadership and communication skills.
+	- Team Leadership and Development
+		* Guide and mentor a large team of tutors, providing direction and support to ensure data integrity.
+		* Conduct performance analyses, identify areas for improvement, and implement training initiatives.
+		* Foster a culture of excellence, continuous learning, and employee engagement through development initiatives and performance reviews.
+		* Develop and create strategies, including gamification elements, to motivate and recognize team members who exceed expectations.
+	- Project Management and Coordination
+		* Collaborate with cross-functional teams to define and refine project scope, objectives, and quality control guidelines.
+		* Support the accurate projections and detailed timelines for efficient project execution.
+		* Prioritize tasks, adjust resources, and manage the project flow to address blockers and ensure timely delivery.
+		* Optimize resource allocation by distributing tasks and personnel across projects.
+	- Data Quality and Integrity
+		* You’re not afraid to dive into the data and get in the trenches to understand labeling inefficiencies.
+		* Ensure the integrity and security of data throughout the annotation process.
+		* Analyze data and evaluation sets to identify key findings, communicate insights effectively, and suggest actionable improvements based on model behaviors.
+		* Maintain active communication with project leads, providing updates on progress, challenges, and solutions.
+		* Encourage the sharing of best practices and lessons learned among team members to foster continuous improvement.
+	- Technical Collaboration and Innovation
+		* Interact and collaborate with technical teams to develop or refine internal tooling that supports project objectives.
+		* Stay informed of the latest industry trends and technologies that could impact data curation processes.
+		* Contribute to the development and optimization of annotation tools and methodologies.
+	- Strong background in data curation or related fields, with hands-on experience in data quality and labeling processes.
+	- Technical expertise in AI and machine learning concepts, tools, and practices.
+	- Excellent analytical skills, with the ability to analyze data sets, identify trends and anomalies, and provide actionable insights.
+	- Proven leadership experience, with the ability to guide and mentor teams.
+	- Strong communication skills, capable of effectively articulating technical concepts to both technical and non-technical team members.
+	- Detail-oriented approach, ensuring high-quality outputs and overseeing project-wide quality standards.
+	- Experience in creating and maintaining documentation for technical processes, guidelines, and training materials.
+	- Bachelors degree.
+	- If you are passionate about AI, have a strong focus on data integrity, are scrappy, and possess the skills to lead and develop a high-performing team, we encourage you to apply for this exciting opportunity.
+	- Unlimited paid time off subject to prior approval
+	- Annual Salary Range: $104,000 to $156,000
 
 
 
@@ -19592,23 +20048,6 @@ Generic skill sets for research scientists:
 
 
 
-
-
-
-##	Machine Learning Research & Deep Learning Research
-
-
-
-
-
-
-
-###	Machine Learning Research with Alibaba Group
-
-+ Building an innovative and systematic AI benchmarks platform
-	- Currently in Alibaba Group, deep learning and related applications have been employed in various business departments. Tmall, Alitrip, Taobao, Ant Financial and other departments are making extensive use of emerging deep learning technologies to continuously improve application and algorithms and enhance the consumer experience. On the one hand, Alibaba's engineering teams design, experiment and deploy different deep learning algorithms and applications every day. On the other hand, deep learning requires a lot of computational power, which also puts higher requirements on the computational power of the hardware and their adaptability to the application. How to balance the demand and supply relationship between these two and integrate the solution into a systematic platform product? How to automatically and systematically evaluate the computional power of an AI hardware? How to evaluate the advantages and disadvantages of a hardware for usage in an application and give customer recommendations through a systematic platform? These are the challenges we are currently dealing with and we need to solve. Recently we have launched the AI Matrix product (through aimatrix.ai website), but it is still in the early stage of the product. In the future, we need more people who have the same understanding as us and are willing to involve in solving these problems. Let's contribute our own strength and make the AI Matrix as an effective systematic platform and an impactful technical brand.
-	- [AI Matrix](https://aimatrix.ai/en-us/)
-	- https://github.com/alibaba/ai-matrix
 
 
 

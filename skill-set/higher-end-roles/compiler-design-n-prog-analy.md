@@ -1166,6 +1166,43 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- Familiarity with and passion for any of the following -- machine learning, compilers, parallel programming, high-performance and massively parallel systems, processor and computer architecture -- is a plus
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
 + skill set:
+	- ***Data Flow Compiler Engineer***
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries. We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  As an AI chip company, we believe that AI can help us create a better, safer, more productive, and more convenient world. For this to happen, AI needs to be available at scale and on the edge. 
+	- To this end, our team of hardware and software leaders is developing top-performing AI processors, dedicated to AI tasks on edge devices in a wide variety of applications and industries including smart cities, automotive, manufacturing, agriculture, retail, and many more. With hundreds of customer programs around the world, and a wide ecosystem of software and hardware partners, Hailo is leading the edge AI revolution.
+	- As a team member of the team, you will work on several challenging fronts, implementing different algorithms for resource allocation, mapping, HW-specific features, and optimizations in C++. Help build and develop Hailo’s dataflow compiler, an innovative unique toolchain that takes real-world AI models and compiles them to Hailo’s breakthrough processors.
+	- The role involves a deep understanding of Hailo’s architecture and has an extensive direct impact on our products.
+	- Design and develop a multidisciplinary system for machine learning.
+	- Work in different SW environments: C++, Python, AI frameworks
+	- BSc in Computer Science or Electrical Engineering. (GPA above 85)
+	- 3+ years of R&D experience in C/C++, Python
+	- Hard-working, committed, and self-reliant
+	- Great interpersonal skills and a team-player
+	- Fluent English
+	- Experience in Deep Learning and Deep Learning development frameworks
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1191,8 +1228,34 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- BLAH.
 + skill set:
 	- BLAH.
-
-
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

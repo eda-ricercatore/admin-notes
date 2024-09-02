@@ -656,6 +656,22 @@ Sets of skills for embedded software development roles:
 	- Strong communication skills and the ability to work effectively with cross-functional teams.
 	- Passion for technology and a commitment to pushing the boundaries of what is possible in AI.
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
++ Embedded SW Engineer
+	- Hailo is a leading start-up developing a first-in-class deep learning inference processor for smart devices in various industries. Hailo offers a breakthrough processor uniquely designed to accelerate embedded AI applications on edge devices.  
+	- We combine a fundamental understanding of the way neural networks operate with our team’s expertise in SW and HW architecture, to develop a product that has the potential to be a landmark in computer technology. The company is built from a mixture of experts from various fields, coming from the elite units of the intelligence community and the leading tech companies in Israel, with a track record of executing complex projects from the ground up.
+	- Hailo is looking to hire a motivated and skilled Embedded Dataflow Software Engineer to join our software group in Tel Aviv. As a team member, you will be responsible for development of our dataflow low level Drivers over multiple environments spanning from embedded FW, drivers on different operation systems and different cloud platforms.
+	- If you’re a talented and motivated Embedded Software Engineer who is excited about difficult low-level challenges, we want to meet you!
+	- Building and developing our best-in-class Edge AI Run time stack from the ground up, all the way from a Proof-of-Concept to a leading product.
+	- Develop in different SW environments: including low level drivers, real-time Firmware, Embedded Linux (User and Kernel space), complex infrastructure and frameworks (such as Yocto) and more.
+	- Work closely with the hardware, integrating and debugging complex hardware/software systems while taking into account challenging requirements as part of managing a large-scale embedded system.
+	- B.Sc in Computer Science or Electrical Engineering or a relevant field.
+	- 5+ years of R&D experience in C/C++.
+	- Experience with embedded SW stack: Linux/windows Kernel (Drivers), Linux User-Mode.
+	- Hardworking, committed and self-reliant.
+	- Proactive technical leadership, strong interpersonal skills and communication skills and ability to work effectively in a team.
+	- Fluent English.
+	- Experience with Run time Firmware.
+	- Familiarity with hardware-software development methodologies.
 + skill set:
 	- BLAH.
 + skill set:
@@ -905,7 +921,23 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- Great debug skills on Simulation, FPGA, Emulation, real chip.
 	- Experience partnering with software and architecture teams to define and implement firmware.
 + skill set:
-	- BLAH.
+	- Embedded Linux & Firmware Engineer
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries.
+	- We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  
+	- Hailo is looking to hire a motivated and skilled Embedded Software Engineer to join our software group in Tel Aviv. As a team member, you will be responsible for software running in multiple environments spanning from Embedded Software, Real-Time Firmware, and Linux (Drivers and Userspace) on different aspects such as Boot flows, Security, and Safety considerations, Memory Management, and so on. If you’re a talented and motivated Embedded Software Engineer who is excited about difficult low-level challenges, we want to meet you!
+	- Help building and developing our best-in-class Edge AI SoC from the ground up, all the way from a Proof-of-Concept to a leading product.
+	- Develop in different SW environments: including low level drivers, real-time Firmware, Embedded Linux (User and Kernel space), complex infrastructure and frameworks (such as Yocto, Uboot, etc..), runtime libraries and more.
+	- Work closely with the hardware, integrating and debugging complex hardware/software systems while taking into account challenging requirements as part of managing a large-scale embedded system.
+	- B.Sc in Computer Science or Electrical Engineering or a relevant field.
+	- 3+ years of R&D experience in C/C++.
+	- Experience with embedded SW stack: Firmware, Linux Kernel (Drivers), Linux User-Mode.
+	- Hard working, committed and self-reliant.
+	- Great interpersonal skills and a team-player.
+	- Fluent English.
+	- Experience with the Linux Kernel and Linux Drivers.
+	- Experience building BSPs and working on complex SoCs.
+	- Familiarity with hardware-software development methodologies.
 + skill set:
 	- BLAH.
 + skill set:

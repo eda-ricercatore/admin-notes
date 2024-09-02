@@ -1641,7 +1641,37 @@ Skill set for software development for parallel programming, especially on heter
 + Demonstrated expertise with C++ with at least one of std::thread / OpenCL / CUDA
 + Experience with Hadoop/Hbase/Pig or MapReduce/Sawzall/Bigtable
 + skill set:
-	- BLAH.
+	- CUDA Kernel Engineer & Researcher
+	- Bay Area (San Francisco and Palo Alto)
+	- xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+	- Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+	- We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+	- All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+	- Tech Stack
+		* CUDA
+		* C/C++ and Python binding tools (pybind)
+	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
+	- Developing and improving low-level CUDA kernel optimizations for state-of-the-art inference and training software stack.
+	- Profiling, debugging, and optimizing single and multi-GPU operations using tools such as Nsight.
+	- Understanding GPU memory hierarchy and computation capabilities.
+	- Implementing the latest methods from the deep learning literature in low-level CUDA kernels.
+	- Innovating new ideas that bring us closer to the limits of a GPU.
+	- Building high-performance GeMM CUDA kernels using Tensor cores or CUDA cores from scratch or by utilizing CuTe/CUTLASS.
+	- Implementing features for attention kernel by extending existing kernels or writing them from scratch.
+	- Comfortable with writing both forward and backward kernels and ensuring its correctness while considering floating point errors.
+	- Optimizing for both memory-bound and compute-bound operations.
+	- Reasoning about register pressure, shared-memory usage and GPU utilization through tools such as Nsight and removing bottlenecks.
+	- Being familiar with the latest and the most effective techniques in optimizing inference and training workloads.
+	- Using pybind to integrate custom-written kernels into a framework, specially JAX/XLA.
+	- Interview Process
+		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+			+ Coding assessment in a language of your choice.
+			+ Systems hands-on: Demonstrate practical skills in a live problem-solving session.
+			+ Project deep-dive: Present your past exceptional work to a small audience.
+			+ Meet and greet with the wider team.
+		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+	- Annual Salary Range: $180,000 - $440,000 USD
 + skill set:
 	- BLAH.
 + skill set:

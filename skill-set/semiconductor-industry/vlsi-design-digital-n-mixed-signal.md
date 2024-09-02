@@ -479,7 +479,35 @@ Skill sets for computer architects in domain-specific processor architecture des
 	- Skills in the areas of processor/multicore architectures, electronic design automation, cyber-security, compiler construction, and/or HW architecture simulation are beneficial.
 	- Excellent communication skills, must be a team player
 	- High proficiency in oral and written English. German is beneficial.
-
++ System Architect
+	- Hailo (On-Site)
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries. We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  As an AI chip company, we believe that AI can help us create a better, safer, more productive, and more convenient world. For this to happen, AI needs to be available at scale and on the edge. 
+	- To this end, our team of hardware and software leaders is developing top-performing AI processors, dedicated to AI tasks on edge devices in a wide variety of applications and industries including smart cities, automotive, manufacturing, agriculture, retail, and many more. With hundreds of customer programs around the world, and a wide ecosystem of software and hardware partners, Hailo is leading the edge AI revolution.
+	- In this position, you will oversee system definition and ownership for one of our product lines. You will be in charge of defining system solutions conforming to product, marketing, and customer requirements, with a detailed definition reaching non-functional KPIs. You will closely collaborate with R&D and Business groups to make technical decisions that balance product requirements, timelines, and the complexity of solutions.
+	- Work with stakeholders to understand their requirements.
+	- Specify system, SW, and HW requirements and architectural features at system and SoC levels while conforming to product requirements.
+	- Define pre and post-silicon data flows and control flows combining HW and SW.
+	- Uncover and resolve design weak spots. 
+	- Lead cross-functional system level features and debug system-level bugs.
+	- Write internal and external specifications and technical documentation.
+	- B.Sc./M.Sc. Electrical Engineering or Computer Engineering or related field from a leading university.
+	- 3+ years of experience as a system architect/engineer
+	- 5+ years of experience as one of the following:
+	- Board designer
+	- Logic designer
+	- Verification/system validation engineer
+	- FW engineer
+	- Proficiency in Python or C++
+	- Experience with HW/SW partitioning
+	- Experience with standard interfaces such as DDR, MIPI, PCIe, USB, Ethernet etc.
+	- Experience with SoC security and life cycle management.
+	- Experience with SoC/platform power management.
+	- Experience with functional safety and automotive qualifications.
+	- We are passionate about building an inclusive and equitable working environment. 
+	- We promote a flexible work environment that encourages work-life balance. 
+	- If you don’t meet 100% of the requirements– no worries!  
+	- Our DNA is characterized by openness to multi-disciplinary people, who bring great potential to grow with us, not just a skills set list. We encourage you to apply if you think this role would make you excited about coming to work every day. 
 
 
 
@@ -1680,12 +1708,35 @@ Sets of skills for VLSI architects, and electronic system-level designers (inclu
 	- Experience with system-level modeling and simulation tools - preferred.
 	- Familiarity with high-level synthesis (HLS) tools and methodologies - preferred.
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
-
-
-
-
-
-
++ SoC Architect
+	- Hailo is a leading high-tech company, developing top-performing AI processors for edge devices in various industries. We combine an extensive understanding of the way neural networks operate, with our team’s expertise in SW and HW architecture, to develop products that transform the way we use machines to perceive and analyze the world around us.
+	- Our company is led by a group of experts from a wide range of disciplines, combining experience from elite intelligence units as well as leading tech companies in Israel and abroad, with a track record of executing complex projects from the ground up.  As an AI chip company, we believe that AI can help us create a better, safer, more productive, and more convenient world. For this to happen, AI needs to be available at scale and on the edge. 
+	- To this end, our team of hardware and software leaders is developing top-performing AI processors, dedicated to AI tasks on edge devices in a wide variety of applications and industries including smart cities, automotive, manufacturing, agriculture, retail, and many more. With hundreds of customer programs around the world, and a wide ecosystem of software and hardware partners, Hailo is leading the edge AI revolution.
+	- In this position, you will write SoC, system, and sub-systems specifications and requirements for Hailo’s future chips. You will collaborate with Product, SW, and VLSI to explore optimal architectural solutions balancing product and market requirements, HW and SW effort, and non-functional KPIs. You will be tasked to analyze different architectural concepts and own different KPIs of Hailo’s SoC and its subsystems.
+	- Work with stakeholders to understand their requirements.
+	- Specify system, SW, and HW requirements and architectural features at SoC level, Hailo’s IP and 3rd party IPs integration while conforming to product requirements.
+	- Define pre-silicon data flows, control flows and features combining HW and SW and balancing effort and nonfunctional KPIs.
+	- Evaluate the SoC, sub-systems, and Hailo’s IP performance, and analyze and suggest optimal balancing performance, power, cost and effort.
+	- Evaluate and select third-party IPs for Hailo’s future SoCs.
+	- B.Sc./M.Sc. Electrical Engineering or Computer Engineering or related field from a leading university.
+	- 3+ years of experience as a SoC or system architect.
+	- 5+ years of experience as one of the following:
+	- Logic designer
+	- Design Verification engineer
+	- System engineer
+	- Ability to deal with ambiguity, strong analytical and problem-solving skills.
+	- Proactive technical leadership, strong interpersonal skills and communication skills, and ability to work in effectively in a team
+	- Experience with SoC memory sub-system, bus fabric, and DDR interfacing.
+	- Experience with Microprocessor and/or DSP architecture.
+	- Experience with HW/SW partition
+	- Experience with standard interfaces such as MIPI, PCIe, USB, Ethernet, etc.
+	- Proficiency in Python/C++/SystemC
+	- Experience with SoC security.
+	- Experience with Deep Learning and Deep Learning HW acceleration.
+	- We are passionate about building an inclusive and equitable working environment. 
+	- We promote a flexible work environment that encourages work-life balance.
+	- If you don’t meet 100% of the requirements– no worries!  
+	- Our DNA is characterized by openness to multi-disciplinary people, who bring great potential to grow with us, not just a skills set list. We encourage you to apply if you think this is a role that would make you excited about coming to work every day. 
 
 
 
