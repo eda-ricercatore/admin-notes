@@ -5832,6 +5832,32 @@ Companies that have machine learning -centric products
 		* Eager to ask questions, admit mistakes, and learn new things
 		* Fluency in English required
 	- Please note: Jane Street will provide flights to and from Hong Kong and New York, as well as accommodation throughout the entirety of the internship program.
++ AI Researcher:
+	- If you apply, we'd love you to tell us about the most impressive thing you've ever built in place of a cover letter.
+	- Playground: https://playground.com/
+	- **Researchers on the team today:**
+		* Work primarily in Python and PyTorch
+		* Write code based on the latest research to learn and explore
+		* A perseverance to experiment but understand not everything they accomplish will be used in our products
+		* Are supportive—especially when teammates are faced with new challenges
+		* Are left to autonomously figure out the solutions to their challenges
+		* Value clear, frequent communication (we do a lot of reading & writing)
+		* Are naturally curious and willing to take a step to learn something they don’t have experience in
+		* Feel a great sense of accountability to each other
+		* Uphold best practices in engineering, security, and design
+	- **You might be the wrong fit if...**
+		* Publishing papers and earning citations is one of your top 3 priorities
+		* Working on research that ships to users hasn’t been a priority for you
+		* Writing production worthy code is something you tend to avoid
+		* Teaching or mentoring people from time-to-time isn’t how you want to spend your time
+	- Background in Computer Vision and/or Natural Language Processing
+	- Track record of implementing research you can show
+	- Bonus: Scaling distributed systems for the purposes of training
+	- Having a PhD is not important to us but a track record of building real things in production is
+	- 4+ years of working full-time
+	- **Here are examples of things we’ve worked on:**
+		* Building an aesthetic classifier to predict aesthetically pleasing images by user ratings
+		* Predicting highly accurate object masks from bounding boxes
 + Senior Applied Machine Learning Scientist
 	- DC-Washington-TWP Headquarters
 	- The Washington Post Personalization team is looking for a senior data scientist who is excited to create forward-thinking solutions for the next generation of journalism. Our team is at the heart of the Post’s machine learning strategies to build intelligent and adaptable personalized news experiences and business solutions capable of powering the most high-scale websites in the world.
@@ -7189,6 +7215,32 @@ Companies that have machine learning -centric products
 	- Familiarity with one or more DL software frameworks such as Tensorflow, PyTorch.
 	- At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Machine Learning Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App. 
 	- If you're an exceptional engineer who shares our passion for freedom of speech, we'd love to hear from you.
++ ML Performance Engineer
+	- If you apply, we'd love you to tell us about the most impressive thing you've ever built in place of a cover letter.
+	- Playground: https://playground.com/
+	- We need help optimizing training runs to squeeze out the most GPU compute per dollar as well as speeding up inference for our models to keep costs low while providing users a fast experience in the product.
+	- **Engineers on the team today:**
+		* Work primarily in Python and PyTorch
+		* Write code based on the latest research to learn and explore
+		* A perseverance to experiment but understand not everything they accomplish will be used in our products
+		* Are supportive—especially when teammates are faced with new challenges
+		* Are left to autonomously figure out the solutions to their challenges
+		* Value clear, frequent communication (we do a lot of reading & writing)
+		* Are naturally curious and willing to take a step to learn something they don’t have experience in
+		* Feel a great sense of accountability to each other
+		* Uphold best practices in engineering, security, and design
+	- **You might be the wrong fit if…**
+		* Publishing papers and earning citations is one of your top 3 priorities
+		* Writing production worthy code is something you tend to avoid
+		* Teaching or mentoring people from time-to-time isn’t how you want to spend your time
+	- **Skills & Experience**
+		* Background in speeding up training runs, optimizing AI models to be faster at inference, etc.
+		* Track record of optimization/performance related projects
+		* Having a PhD is not important to us but a track record of building real things in production is
+		* 4+ years of working full-time
+	- **Here are examples of things we’ve worked on:**
+		* Building an aesthetic classifier to predict aesthetically pleasing images by user ratings
+		* Predicting highly accurate object masks from bounding boxes
 + skill set:
 	- AI Engineer
 	- As an AI Engineer (a Member of Technical Staff role on our Forward Deployed team) you will work directly with customers to quickly understand their greatest problems and design and implement solutions using Large Language Models.
