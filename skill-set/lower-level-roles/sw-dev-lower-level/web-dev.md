@@ -202,6 +202,7 @@ reactive programming = asynchronous dataflow programming
 	- Experience optimizing the speed and performance of websites.
 	- Experience maintaining large and growing code bases in a fast-moving environment.
 	- Interest in staying current with new and evolving web technologies.
++ Our toolchain includes: ***GitHub, TeamCity (CI), GHA, Octopus Deploy, HAProxy / NGINX, ElasticSearch, Redis, Argo Workflows, Kubernetes, Datadog***
 + skill set:
 	- Speaking of code our current stack is:
 		* Backend
