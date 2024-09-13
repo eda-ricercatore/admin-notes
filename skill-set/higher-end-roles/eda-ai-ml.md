@@ -10711,10 +10711,10 @@ Companies that have machine learning -centric products
 	- Mentor junior engineers.
 	- 8+ years of post-internship, full-time industry experience
 	- 6+ years of hands-on professional experience in ***building and productionizing end-to-end state of the art candidate retrieval and ranking machine learning models at scale***.
-	- Deep systems level understanding of industry scale recommendation systems.
-	- Proficient in programming languages such as Python, Golang.
-	- Proficient in working and building machine learning models using PyTorch or Tensorflow.
-	- Experience with large scale data processing & pipeline orchestration tools like Dataflow, Kubeflow, Airflow, BigQuery and Ray.
+	- ***Deep systems level understanding of industry scale recommendation systems***.
+	- Proficient in programming languages such as ***Python, Golang***.
+	- Proficient in ***working and building machine learning models using PyTorch or Tensorflow***.
+	- Experience with ***large scale data processing & pipeline orchestration tools like Dataflow, Kubeflow, Airflow, BigQuery and Ray***.
 	- Experience in large-scale deep learning recommendation model training using parallel computing, distributed training frameworks (e.g., Ray Training, PyTorch Distributed), and efficient utilization of hardware resources is a big plus.
 	- MS or PhD degree in Computer Science or related field
 	- This role is 100%, permamently remote, with the option to work flexibly in one of Reddit's office locations near you if you choose! 
@@ -10722,6 +10722,122 @@ Companies that have machine learning -centric products
 	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
 	- The base pay range for this position is: $230,000 - $322,000 USD
++ skill set:
+	- Staff Machine Learning Engineer, Ads Optimization
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Reddit has a flexible first workforce! if you happen to live close to one of our physical office locations our doors are open for you to come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely from the United States or Canada.
+	- As a company, Reddit primarily generates revenue through advertising, and we're working towards building a massive business to fund our mission. We distinguish ourselves from other digital ad platforms by attracting advertisers who want to connect with a specific target audience because of our passionate and engaged communities.
+	- The Advertiser Optimization team builds ad campaign optimizations that enable advertisers to efficiently capture user engagement while minimizing their costs. The team leverages machine learning models to incorporate advertisers off-site goals in auction ranking, allowing them to maximize installs, key conversions, or return on ad spend. As the primary owners of the budget pacing and autobidding systems, the team is responsible for a central part of the ads delivery system that automates bidding taking into account advertiser objectives, delivers advertisers budgets smoothly and completely throughout the day. Given the centrality of this system, the team also regularly conducts highly rigorous and controlled experiments in order to measure the impact of improvements to these systems. Some of the project highlights include:
+		* A bid-based budget pacing system that delivers campaigns’ budgets throughout the day.
+		* The Maximize Conversions campaign optimization, which uses real-time bidding to meet advertisers’ key objectives.
+		* The Lowest Cost campaign optimization, which simplifies advertisers’ experiences by automating campaign bids.
+		* Cost caps that allow advertisers to get as much volume as possible without sacrificing their performance goals.
+		* Campaign Budget Optimization that automatically manages budget across multiple ad groups and optimizes for maximum volume or maximum value based on advertiser settings.
+	- As a staff machine learning engineer in the Advertiser Optimization team, you will work closely with technical leaders to build new advertiser optimization products like target CPA and target RoAS bidding, optimized CPM, view through optimization, etc that significantly increase the efficiency and ROI for the advertisers. You will be responsible for the quality and technical approach within the team; partner with other leads in direction setting, planning, and overseeing engineering designs and executions; establish and contribute to the group’s culture and processes. You will ***collaborate with cross-functional engineering, product, and marketing teams to ensure that our customers’ voices are represented in your work. You will design, conduct, and analyze experiments to quantify the impact of the systems that you build.***
+	- We are seeking a ***highly skilled engineer to take a critical role in building state-of-the-art bidding optimization systems***. As a leader of this team, you will help us uplevel the capabilities of Reddit Ads platform through innovative optimization products that enhance advertiser value.
+	- Building Reddit-scale optimizations to improve advertiser outcomes using cutting-edge techniques in the industry.
+	- ***Leverage live auction data and model predictions to adjust campaign bids in real time.***
+	- Incorporate knowledge of the Reddit ads marketplace into budget pacing algorithms powered by control & reinforcement learning systems 
+	- Lead the team on designing new bid & budget optimization products and algorithms as well as conducting rigorous A/B experiments to evaluate the business impact.
+	- Actively participate and work with other leads to set the long term direction for the team, plan and oversee engineering designs and project execution.
+	- 7+ years of ***contributing high-quality code to production systems that operate at scale***.
+	- 5+ years of ***experience building control systems, PID controllers, multi-armed bandits, reinforcement learning algorithms, or bid/pricing optimization systems.***
+	- ***Experience leading large engineering teams and collaborating with cross-functional partners is required.***
+	- ***Experience designing optimization algorithms in an ad serving platform and/or other marketplaces is preferred.***
+	- Experience with ***state of the art control systems, reinforcement learning algorithms*** is a strong plus.
+	- Significant experience in one or more general-purpose programming languages like ***Java, Python, Go, Scala, C++ or similar*** 
+	- ***Data processing frameworks like Spark, Flink, Kafka, Druid***, etc.
+	- A ***cloud service provider like AWS or GCP***
+	- Tools: ***Kubernetes, Drone, CircleCI, Spinnaker, Argo, Airflow, Docker, Thrift***
+	- ***Datastores: ElasticSearch / Amazon OpenSearch, Redis, Postgres, Cassandra, BigQuery***
+	- An ***machine learning modeling framework like Tensorflow or PyTorch***
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $230,000 - $322,000 USD
++ skill set:
+	- Software Engineer III, Machine Learning (Ads Ranking)
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- As a company, Reddit primarily generates revenue through advertising, and we're working towards building a massive business to fund our mission. We distinguish ourselves from other digital ad platforms by attracting advertisers who want to connect with a specific target audience because of our passionate and engaged communities.
+	- The Ads Ranking organization is responsible for predicting various ad engagement rates, including but not limited to click, conversion, and app install predictions. These rates are then used in the ad auction to maximize ad engagements and marketplace efficiency. This organization owns a critical piece in the ads delivery pipeline and machine learning infrastructure.
+	- Project highlights:
+		* Model architecture engineering via exploring different state-of-the-art model architectures such as Multi-task learning, Attention Layers, and Delayed Feedback models.
+		* Systematic feature engineering to build powerful features from Reddit’s data with aggregation, embedding, sub-models, content understanding techniques, etc.
+		* Build efficient ML infrastructure and tools such as auto ML flows and batch feature engineering framework to accelerate MLE dev cycle.
+	- As a machine learning engineer in the Ads Ranking organization, you will research, formulate, and execute projects, and actively participate in the end-to-end implementation process. You will collaborate with cross-functional teams to ensure successful product delivery. You will also be able to contribute your expertise and shape the future of ads ML at Reddit.
+	- Building industrial-level models for critical ML tasks with advanced modeling techniques
+	- Research, implement, test, and launch new model architectures including deep neural networks with advanced pooling and feature interaction architectures
+	- Systematic feature engineering work to convert all kinds of raw data in Reddit (dense & sparse, behavior & content, etc) into features with various FE technologies such as aggregation, embedding, sub-models, etc.  
+	- Contribute meaningfully to team strategy. We give everyone a seat at the table and encourage active participation in planning for the future
+	- Tracking records of consistently driving KPI wins through systematic works around model architecture and feature engineering
+	- 3+ years of experience with industry-level Machine Learning models
+	- 3+ years of experience with mainstream ML frameworks (such as Tensorflow and Pytorch)
+	- 3+ years of end-to-end experience of training, evaluating, testing, and deploying industry-level models
+	- Deep learning experience is a strong plus
+	- Experience in orchestrating complicated data generation pipelines on large-scale dataset is a plus
+	- Experience with Ads domain is a plus
+	- Experience with Recommendation Systems is a plus
+	- Pay Transparency:
+
+This job posting may span more than one career level.
+
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+
+The base pay range for this position is:
+
+$185,800 - $260,100 USD
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 + skill set:
 	- BLAH.
 + skill set:
