@@ -10694,7 +10694,34 @@ Companies that have machine learning -centric products
 	- $200,000 - $240,000 a year
 	- Our base salary ranges are based on paying competitively for our company's size and industry and are one part of the total compensation package that also includes annual bonuses, equity, benefits, and other opportunities at OctoAI. In accordance with pay transparency laws, OctoAI is required to provide a reasonable estimate of the compensation range for this role. Individual pay decisions are ultimately based on a number of factors, including qualifications for the role, experience level, skillset, geography, and balancing internal equity. This is a reasonable estimate of the current salary base range. We expect most candidates to fall in the middle of the range. We also believe that your personal needs and preferences should be taken into consideration, so we allow some choice between equity and cash.
 + skill set:
-	- BLAH.
+	- Staff Machine Learning Engineer, Notifications Relevance
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Reddit is looking for an experienced Staff Machine Learning Engineer to join the Notifications Relevance team. The team is in the mission to send the right content to the right user at the right time using the right channel (push notification, email digest and in-app). ***Leveraging machine learning and large-scale system development, we process hundreds of millions of posts and user activities to provide personalized recommendations for tens of millions of users. The team plays a critical role in driving daily active users (DAU) and enhancing user retention on Reddit.***
+	- ***Tackle various challenging problems, including budgeting optimization, candidate retrieval, and ranking. This involves researching, implementing, improving, testing, and launching new model enhancements to boost user engagement.***
+	- Design and implement content discovery algorithms to connect users with the most relevant content.
+	- Develop scalable systems that handle the complexity and volume of Reddit’s vast user base and content, including ***large-scale data, models, pipelines, and product integration***.
+	- ***Own and drive technical roadmaps, lead day-to-day project execution, and contribute significantly to the team's vision and strategy.***
+	- ***Serve as the primary ML domain expert, influencing technology choices.***
+	- Drive architectural decisions and implementation across the engineering organization.
+	- ***Collaborate with cross-functional partners, including product managers, engineers, and data scientists, to identify opportunities for business impact, understand and prioritize requirements for machine learning systems and data pipelines, and drive engineering decisions while quantifying impact.***
+	- ***Foster a culture that values diverse viewpoints while navigating complex decisions.***
+	- ***Make significant contributions to both immediate wins and long-term objectives through rapid experimentation and iterative processes.***
+	- Lead by example to build a culture of craftsmanship and innovation.
+	- Mentor junior engineers.
+	- 8+ years of post-internship, full-time industry experience
+	- 6+ years of hands-on professional experience in ***building and productionizing end-to-end state of the art candidate retrieval and ranking machine learning models at scale***.
+	- Deep systems level understanding of industry scale recommendation systems.
+	- Proficient in programming languages such as Python, Golang.
+	- Proficient in working and building machine learning models using PyTorch or Tensorflow.
+	- Experience with large scale data processing & pipeline orchestration tools like Dataflow, Kubeflow, Airflow, BigQuery and Ray.
+	- Experience in large-scale deep learning recommendation model training using parallel computing, distributed training frameworks (e.g., Ray Training, PyTorch Distributed), and efficient utilization of hardware resources is a big plus.
+	- MS or PhD degree in Computer Science or related field
+	- This role is 100%, permamently remote, with the option to work flexibly in one of Reddit's office locations near you if you choose! 
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $230,000 - $322,000 USD
 + skill set:
 	- BLAH.
 + skill set:
