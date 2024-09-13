@@ -164,10 +164,43 @@
 		* Boot sequence (preferably on ARM).
 	- Good familiarity with modern C++ features, peculiarities and idiosyncrasies.
 	- Familiarity with working with, and getting support from, open source projects.
-	- Good familiarity with databases: SQL queries, query planner, database
-optimizations.
+	- Good familiarity with databases: SQL queries, query planner, database optimizations.
 + skill set:
-	- BLAH.
+	- Staff Software Engineer - Compute Reliability and Efficiency
+	- San Francisco, CA
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- The Compute Reliability and Efficiency team is looking to hire a Staff Software Engineer with a focus on lower-level (Linux and Kubernetes) systems engineering that thrives at the intersection of infrastructure and software engineering. 
+	- At Reddit, our Compute organization breaks down into 2 teams:
+		* Compute Reliability and Efficiency (CRE)
+		* Compute Platform and Orchestration (CPO)
+	- CRE: Intra-cluster engineering problems focused on balancing performance, efficiency, and stability. A subset of focus areas include:
+		* Detection of node-level (Linux) performance characteristics and making availability decisions based on the data.
+		* Schedulers that support more efficient packing of resources along with reactive rescheduling on the basis of changing compute availability.
+		* Lower-level Kubernetes integrations such as CSI drivers, node probs, and kernel-level observability.
+		* Cluster upgrades, both mechanical process concerns and automation.
+	- CPO: Higher-level orchestration of both compute capacity and workload primitives to support our multi-cloud, multi-region, deployments. A subset of current focuses include:
+		* Software automation that creates, manages, and destroys clusters in our fleet.
+		* APIs and controllers that support multi-cluster deployment and scheduling mechanics.
+		* Core SDKs that enable controller development in the larger organization.
+		* Software that codifies out-of-cluster ancillary concerns such as network configurations and managed services.
+	- As a member of the Compute Reliability and Efficiency team, you’ll be solving some of the world’s largest at-scale infrastructure problems using software we create along with integrating services from the cloud native ecosystem. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+	- Work collaboratively with a team of software engineers to create and maintain the foundational platform for running Reddit’s infrastructure.
+	- Execute performance and reliability analysis on our Linux-based Kubernetes fleet.
+	- Design, write (Golang), and deliver software to improve the availability, scalability, latency, and efficiency of Reddit’s Compute Platform.
+	- Contribute feedback to the technical and strategic direction of the compute platform.
+	- Automate critical aspects of the development process such as service creation and management, as well as critical infrastructure operations.
+	- Share on-call responsibilities with the Compute team. 
+	- 7+ years of ***experience working in the infrastructure domain – with a focus on lower-level systems such as Linux***.
+	- Language proficiency in either ***Go (Preferred), Rust, or Python***.
+	- ***Understanding of kernel primitives (cgroups, namespaces), cpu scheduling, userspace concerns, and packet processing.***
+	- Experience developing on top of Kubernetes or similar distributed systems.
+	- Strong troubleshooting competency ranging from higher-level orchestration concerns to lower-level runtime ones.
+	- Experience designing large systems, scoping work, and building consensus with other engineers.
+	- Excellent communication skills to collaborate with a service-oriented team and company.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
 + skill set:
 	- BLAH.
 + skill set:

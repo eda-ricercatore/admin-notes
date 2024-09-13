@@ -19068,8 +19068,8 @@ Skill sets for DataOps:
 		* Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
 		* A mid-tier and UI that tie it all together
 	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
-	- [Simple, Composable, Open Source ETL; Singer powers data extraction and consolidation for all of your organization's tools.](https://www.singer.io/)
-	- https://github.com/singer-io
+	- [***Simple, Composable, Open Source ETL; Singer powers data extraction and consolidation for all of your organization's tools.***](https://www.singer.io/)
+	- ***Singer***: https://github.com/singer-io
 	- Destination loaders that efficiently import data into cloud systems like Redshift, Snowflake, and BigQuery
 	- Our backend services are written in Clojure and Python, and our front-end is written in React. We use MySQL and PostgreSQL to manage the state of our system. The entire system runs on Amazon Web Services (EC2, RDS, ELB, VPC, and more).
 + skill set:
@@ -19410,7 +19410,28 @@ Skill sets for DataOps:
 			+ Distributed systems design interview,
 			+ Meet the wider team and give a 20 minute presentation about the most difficult technical problems you have solved.
 		* Our goal is to finish the process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
-
++ Staff Software Engineer - Data Infrastructure/Data Products
+	- San Francisco, CA
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- The Data Infrastructure team is looking to hire a Staff software Engineer who is excited to solve large scale batch and streaming data challenges.
+	- Reddit’s mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit redditinc.com.
+	- Our community of users generates over 100B analytics events per day, each of which is ingested by the Data Infrastructure team into a data warehouse that sees 55,000+ daily queries. We utilize this data to enable both batch and streaming data usage at the company. The team also owns our Streaming Platform that is build using Kafka
+	- As a staff engineer, you will lead your team in the design and creation of our Snapshot product used to deliver high quality data to partners. You will partner with teams around Reddit to create and execute a strategy to ensure data quality and consistency at scale. 
+	- In your day-to-day, you can expect to:
+		* Contribute to developing the team and organization’s long term strategy.
+		* ***Refine and maintain our data infrastructure technologies to support real-time processing of hundreds of millions of users.***
+		* Own the tools we use to ingest, store and improve data quality.
+		* Mentor other engineers on how to design, build, and evangelize services used by external developers.
+	- 7+ years of ***coding experience in a production setting writing clean, maintainable, and well-tested code***.
+	- Excellent communication skills to collaborate with stakeholders in engineering, data science, machine learning, and product.
+	- Experience with programming languages such as ***Scala, Go, or Java***.
+	- Degree in Computer Science or equivalent technical field. 
+	- Experience working with ***Terraform, Helm, Kafka, CDC, Airflow, Prometheus, Docker, Kubernetes, and CI/CD.***
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is:
+	- $206,700 - $289,400 USD
 
 
 
