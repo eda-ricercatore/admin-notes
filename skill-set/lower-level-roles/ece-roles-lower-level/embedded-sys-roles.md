@@ -939,6 +939,26 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- Experience building BSPs and working on complex SoCs.
 	- Familiarity with hardware-software development methodologies.
 + skill set:
+	- Linux Driver Engineer, Networking
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- We are looking for a Linux driver engineer with experience of high-speed data center networking for scalable parallel AI infrastructure. The ideal candidate will be able to define a system scale-out plan for the design and implement Linux drivers for networking devices using RoCEv2.
+	- Develop high-speed Linux networking device driver and optimize system performance for large AI/ML use-cases.
+	- Collaborate closely with system engineers to select the right hardware and software stack.
+	- Build prototype systems to validate functionality and performance.
+	- Engage with customers to support deployment of AI inference systems in their own environment.
+	- 5+ years of experience in Linux driver development.
+	- 2+ years of experience with Infiniband/RoCEv2 development.
+	- Ability to learn quickly and have an open-minded mindset.
+	- Proficiency in C/C++ programming for Linux driver.
+	- Experience with debugging issues involving Ethernet Switches/Routers and network protocol.
+	- Knowledge of Infiniband/RoCEv2/RDMA/PCIe/CXL.
+	- Experience with AI infrastructure in large data-centers.
+	- Experience with ***multi-system NCCL programming***.
+	- Experience with network accessing patterns with AI inference accelerators.
+	- Experience with Bazel/Blaze/Buck build system.
+	- Etched believes in the Bitter Lesson. We think most of the progress in the AI field has come from using more FLOPs to train and run models, and the best way to get more FLOPs is to build model-specific hardware. Larger and larger training runs encourage companies to consolidate around fewer model architectures, which creates a market for single-model ASICs.
++ skill set:
 	- BLAH.
 + skill set:
 	- BLAH.
@@ -1002,6 +1022,143 @@ Sets of skills for embedded software development roles, in the automotive indust
 	- BLAH.
 
 
+
+
+
+
+
+
+
+
+
+###	Skill Sets for Firmware Development
+
+
+
+
++ skill set:
+	- Firmware Engineer
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- We are looking for a Firmware Engineer with experience with data-center servers. The ideal candidate will be able to contribute to firmware design, implementation, and performance optimization, as well as debug both firmware and hardware in simulation, emulation, and silicon environments.
+	- Develop firmware for our AI accelerator system.
+	- Work with hardware and system architects to optimize end-to-end performance of our AI accelerator system.
+	- Collaborate closely with hardware engineers to comprehend architecture and specifications.
+	- Conduct debugging, testing, and validation of machine learning accelerator blocks in simulation, emulation, and silicon environments.
+	- Propose feature/debuggability/performance enhancements for future generations of our AI accelerator SoC.
+	- 5+ years of experience in firmware development for RTOS embedded systems.
+	- Ability to learn quickly and have an open-minded mindset.
+	- Proficiency in C/C++ programming for embedded systems.
+	- Experience with ARM/ARC/Xtensa/RISC-V embedded architecture.
+	- Experience with hardware validation and debugging tools (e.g. OpenOCD/Segger/Lauterbach).
+	- Experience with electronics lab equipment (e.g. oscilloscopes and protocol analyzers)
+	- Experience with production silicon and system lifecycle.
+	- Experience with OCP/OAM/DTMF/Security standards.
+	- Experience working with simulation and emulation environments.
+	- Experience with SystemVerilog language and debugging with waveforms.
+	- Experience with Python language in scripting and automation.
+	- Experience with Bazel/Blaze/Buck build system.
++ skill set:
+	- Firmware Engineer, High-Speed Interface
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- We are looking for a Firmware Engineer with experience with high-speed interface subsystems, such as PCIe, HBM and Ethernet, for our machine learning accelerator silicon. The ideal candidate will be able to contribute to firmware design, implementation and performance optimization, as well as debug both firmware and hardware in simulation, emulation, and silicon environments.
+	- Develop firmware for high-speed interface IPs (e.g. PCIe, HBM and Ethernet).
+	- Optimize performance of high-speed interface with hardware software co-design.
+	- Collaborate closely with hardware engineers to comprehend architecture and specifications.
+	- Conduct debugging, testing and validation of high-speed interface IPs in simulation, emulation, and silicon environments.
+	- Propose feature/debuggability/performance enhancements for future generations of high-speed interfaces.
+	- 5+ years of experience in firmware development for RTOS embedded systems
+	- 5+ years of experience working with high-speed interfaces (e.g. PCIe/DDR/HBM/Ethernet).
+	- Ability to learn quickly and have an open-minded mindset.
+	- Proficiency in C/C++ programming for embedded systems.
+	- Experience with ARM/ARC/Xtensa/RISC-V embedded architecture.
+	- Experience with hardware validation and debugging tools (e.g. OpenOCD/Segger/Lauterbach).
+	- Experience with electronics lab equipment (e.g. oscilloscopes and protocol analyzers)
+	- Experience with production silicon and system lifecycle.
+	- Strong candidates may also have experience with:
+	- Experience working with simulation and emulation environments.
+	- Experience with SystemVerilog language and debugging with waveforms.
+	- Experience with Python language in scripting and automation.
+	- Experience with Bazel/Blaze/Buck build system.
++ skill set:
+	- Firmware Engineer, Machine Learning Accelerator
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- We are looking for a Firmware Engineer with experience with machine learning accelerators. The ideal candidate will be able to contribute to firmware design, implementation, and performance optimization, as well as debug both firmware and hardware in simulation, emulation, and silicon environments.
+	- Develop firmware for machine learning accelerator blocks (e.g. systolic array).
+	- Work with hardware and system architects to optimize performance of machine learning accelerators using hardware software co-design.
+	- Collaborate closely with hardware engineers to comprehend architecture and specifications.
+	- Conduct debugging, testing and validation of machine learning accelerator blocks in simulation, emulation and silicon environments.
+	- Propose feature/debuggability/performance enhancements for future generations of machine learning accelerator blocks.
+	- 2+ years of experience in ***firmware development for RTOS embedded systems***.
+	- 1+ years of experience with ***machine learning algorithms, especially transformers***.
+	- Ability to learn quickly and have an open-minded mindset.
+	- Proficiency in C/C++ programming for embedded systems.
+	- Experience with production silicon and system lifecycle.
+	- Experience working with simulation and emulation environments.
+	- Experience with ***ARM/ARC/Xtensa/RISC-V embedded architecture***.
+	- Experience with ***hardware validation and debugging tools (e.g. OpenOCD/Segger/Lauterbach)***.
+	- Experience with electronics lab equipment (e.g. oscilloscopes and protocol analyzers)
+	- Experience with SystemVerilog language and debugging with waveforms.
+	- Experience with Python language in scripting and automation.
+	- Experience with Bazel/Blaze/Buck build system.
++ skill set:
+	- Firmware Engineer, Machine Learning Validation
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- We are looking for a Firmware Engineer with experience validating machine learning accelerator silicon with high-speed interfaces. The ideal candidate will be able to design validation plans, write validation tests, and debug both software and hardware issues on custom machine learning accelerator silicon in the lab.
+	- Design validation plan for silicon bring-up.
+	- Develop tests and debug both software and hardware bugs in the lab.
+	- Optimize performance of silicon with hardware software co-design.
+	- Collaborate closely with both hardware, firmware, and software engineers to comprehend architecture and specifications.
+	- Validate tests in both simulation and emulation environments before silicon shows up.
+	- 5+ years of experience in silicon validation and debugging.
+	- 2+ years of experience with machine learning algorithms, such as transformer or CNN.
+	- Ability to learn quickly and have an open-minded mindset.
+	- Experience working with simulation and emulation environments.
+	- Proficiency in C/C++ programming for embedded systems.
+	- Experience with ***hardware validation and debugging tools (e.g. OpenOCD/Segger/Lauterbach)***.
+	- Experience with ***ARM/ARC/Xtensa/RISC-V architecture***.
+	- Experience with electronics lab equipment (e.g. oscilloscopes and protocol analyzers).
+	- Experience with ***production silicon and system lifecycle***.
+	- Experience with SystemVerilog language and debugging with waveforms.
+	- Experience with Python language in scripting and automation.
+	- Experience with Bazel/Blaze/Buck build system.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
 
 
 

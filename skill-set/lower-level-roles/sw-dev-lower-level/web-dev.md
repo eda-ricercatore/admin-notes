@@ -1227,11 +1227,81 @@ reactive programming = asynchronous dataflow programming
 + Experience with cloud platforms (AWS preferred, or GCP, Azure), databases (Postgres preferred, or MySQL, etc.), IaC (Terraform preferred), Containers (Docker, Kubernetes), and CI/CD systems (Jenkins, GitHub Actions)
 + Skills: Figma, Sketch, TypeScript, JavaScript, Vue, Hugo, Jekyll, WordPress, HTML/CSS, Bootstrap, Tailwind, OCaml, Java, Python, C, analytics, website SEO/speed optimisation.
 + skill set:
-	- BLAH.
+	- Full Stack Team Lead
+	- Hybrid/Engineering/Full time
+	- Somerville, Massachusetts, United States
+	- Based in Somerville, Massachusetts, Neural Magic is a series A startup backed by leading investors including Andreessen Horowitz, NEA, NEA, Pillar, VMware, Verizon Ventures, Comcast Ventures, and Amdocs. At Neural Magic we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and VLLM to every enterprise on the planet. Neural Magic accelerates AI for the enterprise and brings operational simplicity to GenAI deployments. As a leading developer and maintainer of the vLLM project and inventor of state-of-the-art techniques for model quantization and sparsification, Neural Magic provides a stable platform for enterprises to build, optimize and scale LLM deployments.
+	- Neural Magic is on a mission to bring the power of open-source LLMs and vLLM to every enterprise on the planet.
+	- As a Full Stack Engineer Team Lead, you'll play a pivotal role in shaping the next generation of tools and platforms for AI inference serving. You'll work closely with our product and UX teams to create intuitive monitoring dashboards, insightful analyzers, and other critical components that empower users to understand and optimize their LLM deployments.
+	- Lead and Collaborate: Guide a small team of front-end, full-stack, and back-end engineers, fostering a collaborative and high-performing environment.
+	- Drive the Roadmap: Partner with product management to translate business needs into technical solutions and actively contribute to our engineering and product roadmap.
+	- Build for the Future: Develop and maintain core features for our inference server platform, built upon technologies like vLLM and other cutting-edge solutions.
+	- Focus on Backend Excellence: Apply your deep expertise in Python-based backend development to build scalable, reliable, and performant systems.
+	- Full Stack Agility: Contribute to the front end using your proficiency in React, ensuring a seamless user experience.
+	- Data Expertise: Design and implement database solutions (SQL and NoSQL) that meet the unique demands of LLM-based applications.
+	- DevOps Advocate: Embrace DevOps principles and technologies (Kubernetes, CI/CD) to ensure smooth and efficient deployments.
+	- Experience: 5 or more years of experience in full-stack development.
+	- Proven Leadership: Experience leading engineering teams and projects to successful outcomes.
+	- Cloud Savvy: Demonstrated ability to build and maintain cloud-based applications.
+	- Python Pro: Strong proficiency in Python and related backend technologies.
+	- Front-End Skills: Comfort with React and modern single-page application (SPA) development.
+	- Database Know-How: Experience with SQL and NoSQL databases, with an understanding of their trade-offs.
+	- DevOps Experience: Familiarity with Kubernetes, CI/CD pipelines, and other DevOps best practices.
+	- Strong Collaboration: Ability to work effectively with cross-functional teams, including product and UX.
 + skill set:
-	- BLAH.
+	- Founding Full-Stack Product Engineer
+	- Location: San Francisco
+	- Type: Full time
+	- Department: Engineering
+	- Help us build the future of AI!
+	- Join our team to pioneer the future of Large Language Model (LLM) applications.
+	- Values we are looking for:
+		* Integrity, alignment and passion
+		* Adaptability and the ability to work with limited resources
+		* Intellectual horsepower (smart x get things done)
+		* Level up the people around you
+		* Domain specific knowledge
+	- Responsibilities:
+		* [Primary] Front-end/full-stack work for our managed applications/SaaS offering.
+			+ FE stack Next.JS, shadcn, react-query, etc.
+			+ Backend stack: Python, Node.JS, K8s, Docker, Terraform, Cloud services, databases, etc.
+		* [Secondary] General feature development, maintenance, and education for our open-source frameworks (Python and Typescript).
+		* [Secondary] Work closely with prospects and customers to build POC and production solutions.
+	- Experience with shipped web applications or completely new product features from scratch. Have gone from prototype to production serving end users in a short amount of time.
+	- Shipped AI/LLM-native applications - from UX to core algorithms.
+	- Iterated rapidly with customers - translate user feedback into features back to proactive user discovery. Help jointly develop and iterate on product roadmap for core features.
+	- Worked with product and design, demonstrating instances of wearing the PM hat yourself to proactively scope and design features.
+	- Shipped applications that scaled to millions of users.
+	- Nice to have: machine learning and NLP experience.
+	- Competitive salary (100-300K DOE)
+	- Meaningful equity options in a rapidly growing company
+	- Comprehensive medical/dental/vision coverage for you and your family
+	- Unlimited paid time off policy
+	- Daily catered lunch and snacks in the San Francisco office
+	- We offer a hybrid-friendly culture based out of our downtown San Francisco office.
+	- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
 + skill set:
-	- BLAH.
+	- Fullstack Engineer
+	- New York, New York, United States
+	- Or, Palo Alto, California, United States
+	- Lightning AI is the company reimagining the way AI is built. After creating and releasing PyTorch Lightning in 2019, Lightning AI was launched to reshape the development of artificial intelligence products for commercial and academic use.
+	- Focusing on simplicity, sustainability, modularity, and extensibility, Lightning AI streamlines the lifecycle of machine learning development to expand widespread AI adoption. Our aim is to enable individual and enterprise users to build deployment-ready AI tools without having to hire experts or sink resources into in-house infrastructure.
+	- Lightning AI has offices in New York City, Palo Alto, and London, and is backed by $58.6 million in funding from Coatue, Index Ventures, Bain Capital Ventures, and Firstminute.
+	- We are building a company of people who care deeply about the impact of AI on our society. We value:
+		* Integrity: AI is bound to change how we interact with computers, each other, and the world—for the better. We are committed to building an inclusive company and developing ethical AI that improves humanity.
+		* Perseverance: Be bold, take the initiative, and make decisions with confidence. We empower our community, clients, and colleagues to tackle the impossible.
+		* Curiosity: We are genuinely interested in finding solutions to advance the state of AI research and foster its application in novel products. It's not about whether we can solve the problem, but how.
+	- We also recognize the genuine lack of diversity in our industry, which has to change. One of our goals is to help drive that change. Lightning AI is fully committed to diversity, equity, and inclusion in all of its practices, especially when it comes to growing our team. Our culture promotes inclusion, and we embrace how rewarding it is to work with people from all walks of life.
+	- We are looking for a Fullstack Engineer to work on developing and scaling the Lightning AI platform from the frontend, CLI, and API, to billing, security, and integrations.
+	- We want someone who can take ownership of key features and drive development from end to end while collaborating with a super-smart team of engineers, product managers, and designers. Here, you’ll build from proof of concept to release with a focus on speed, quality, and iteration.
+	- This is an opportunity to create groundbreaking technology that will transform the machine-learning ecosystem!
+	- You will be joining the Red Squad and report to our Director of Product. This is a hybrid role based in our New York City office with in-office requirements of 2 days per week. The salary range for this role is $120,000 - $250,000.
+	- Write readable/testable/efficient code in React and either Python or Go (Golang).
+	- Master our technology stack to deliver new features, improve system stability, and increase overall performance.
+	- Partner with engineering and product leaders on developing the Lightning product while using your experience to set the technical direction for large projects.
+	- Evaluate, strengthen, and document technical architecture, tools, and processes.
+	- Champion software quality, implement automation, drive continuous delivery, and reduce time to production while proactively reducing technical debt.
+	- Mentor and coach engineers on system design, operating in high uncertainty, and problem-solving to create a supportive, inclusive environment where each engineer can grow.
 + skill set:
 	- BLAH.
 + skill set:
@@ -2568,7 +2638,27 @@ reactive programming = asynchronous dataflow programming
 		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
 	- Annual Salary Range: $180,000 - $440,000 USD
 + skill set:
-	- BLAH.
+	- Backend Engineer
+	- New York, New York, United States
+	- Or, Palo Alto, California, United States
+	- Lightning AI is the company reimagining the way AI is built. After creating and releasing PyTorch Lightning in 2019, Lightning AI was launched to reshape the development of artificial intelligence products for commercial and academic use.
+	- Focusing on simplicity, sustainability, modularity, and extensibility, Lightning AI streamlines the lifecycle of machine learning development to expand widespread AI adoption. Our aim is to enable individual and enterprise users to build deployment-ready AI tools without having to hire experts or sink resources into in-house infrastructure.
+	- Lightning AI has offices in New York City, Palo Alto, and London, and is backed by $58.6 million in funding from Coatue, Index Ventures, Bain Capital Ventures, and Firstminute.
+	- We are building a company of people who care deeply about the impact of AI on our society. We value:
+		* Integrity: AI is bound to change how we interact with computers, each other, and the world—for the better. We are committed to building an inclusive company and developing ethical AI that improves humanity.
+		* Perseverance: Be bold, take the initiative, and make decisions with confidence. We empower our community, clients, and colleagues to tackle the impossible.
+		* Curiosity: We are genuinely interested in finding solutions to advance the state of AI research and foster its application in novel products. It's not about whether we can solve the problem, but how.
+	- We also recognize the genuine lack of diversity in our industry, which has to change. One of our goals is to help drive that change. Lightning AI is fully committed to diversity, equity, and inclusion in all of its practices, especially when it comes to growing our team. Our culture promotes inclusion, and we embrace how rewarding it is to work with people from all walks of life.
+	- We are looking for a Backend Engineer to work on developing and scaling the Lightning AI platform from the frontend, CLI, and API, to billing, security, and integrations.
+	- We want someone who can take ownership of key features and drive development from end to end while collaborating with a super-smart team of engineers, product managers, and designers. Here, you’ll build from proof of concept to release with a focus on speed, quality, and iteration.
+	- This is an opportunity to create groundbreaking technology that will transform the machine-learning ecosystem!
+	- You will be joining the Red Squad and report to our Director of Product. This is a hybrid role based in our New York City office with in-office requirements of 2 days per week. The salary range for this role is $120,000 - $250,000.
+	- Write readable/testable/efficient code in Go (Golang).
+	- Master our technology stack to deliver new features, improve system stability, and increase overall performance.
+	- Partner with engineering and product leaders on developing the Lightning product while using your experience to set the technical direction for large projects.
+	- Evaluate, strengthen, and document technical architecture, tools, and processes.
+	- Champion software quality, implement automation, drive continuous delivery, and reduce time to production while proactively reducing technical debt.
+	- Mentor and coach engineers on system design, operating in high uncertainty, and problem-solving to create a supportive, inclusive environment where each engineer can grow.
 + skill set:
 	- BLAH.
 + skill set:
@@ -3114,7 +3204,23 @@ reactive programming = asynchronous dataflow programming
 		* Have a seat at the table in critical decisions about software direction
 		* Deliver quality products every week, every sprint, every quarter
 + skill set:
-	- BLAH.
+	- Software Engineer - Product (Frontend)
+	- Location: New York
+	- Type: Full time
+	- Department: Engineering
+	- Compensation: $150K – $270K; Offers Equity
+	- At Modal, we build foundational technology, including an optimized container runtime, a GPU-aware scheduler, and a distributed file system.
+	- We're a small team based out of New York and Stockholm and have raised over $23M. Our team includes creators of popular open-source projects (e.g., Seaborn, Luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.
+	- We're looking for strong frontend engineers who love building complex and gorgeous products, and have a high degree of customer empathy, product sense and ownership.
+	- Work in-person, in either our NYC or Stockholm office
+	- Full medical, dental, vision insurance
+	- Competitive salary and equity
+	- 2+ years of full-time software engineering experience.
+	- Experience building applications with a modern front-end Javascript framework such as React. Prior experience in Svelte is nice to have, but not required.
+	- Ability to build pixel-perfect components and polished interactions.
+	- Strong product sense and experience driving product outcomes.
+	- Strong communication skills and a desire to partner with our customers in solving their problems.
+	- Ability to partner closely with product design to craft delightful user experiences.
 + skill set:
 	- BLAH.
 + skill set:

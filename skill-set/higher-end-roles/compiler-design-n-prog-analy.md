@@ -429,6 +429,46 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 	- XLA
 + Design and implement a set of compiler tools to translate from ML-oriented domain-specific languages (TensorFlow, Caffe, Theano) to proprietary binary format
 + Working on the IPU architecture compiler. Understanding code generation & optimization of C / C++ code to the instruction set of the machine. The architecture compiler and its ability to target the IPU for maximum performance and flexibility, is a fundamental component of the Poplar framework.
++ Research/Compiler Engineer
+	- https://lightning.ai/careers
+	- Palo Alto, California, United States
+	- Or, New York, New York, United States
+	- Lightning AI is the company reimagining the way AI is built. After creating and releasing PyTorch Lightning in 2019, Lightning AI was launched to reshape the development of artificial intelligence products for commercial and academic use.
+	- Focusing on simplicity, sustainability, modularity, and extensibility, Lightning AI streamlines the lifecycle of machine learning development to expand widespread AI adoption. Our aim is to enable individual and enterprise users to build deployment-ready AI tools without having to hire experts or sink resources into in-house infrastructure.
+	- Lightning AI has offices in New York City, Palo Alto, and London, and is backed by $58.6 million in funding from Coatue, Index Ventures, Bain Capital Ventures, and Firstminute.
+	- We are building a company of people who care deeply about the impact of AI on our society. We value:
+		* Integrity: AI is bound to change how we interact with computers, each other, and the world—for the better. We are committed to building an inclusive company and developing ethical AI that improves humanity.
+		* Perseverance: Be bold, take the initiative, and make decisions with confidence. We empower our community, clients, and colleagues to tackle the impossible.
+		* Curiosity: We are genuinely interested in finding solutions to advance the state of AI research and foster its application in novel products. It's not about whether we can solve the problem, but how.
+	- We also recognize the genuine lack of diversity in our industry, which has to change. One of our goals is to help drive that change. Lightning AI is fully committed to diversity, equity, and inclusion in all of its practices, especially when it comes to growing our team. Our culture promotes inclusion, and we embrace how rewarding it is to work with people from all walks of life.
+	- We are looking for a research engineer to work directly on the ***Lightning Thunder compiler*** and the rest of the ***PyTorch Lightning stack***. This is an opportunity to create groundbreaking technology that will transform the ***machine learning ecosystem***.
+	- Develop the Thunder compiler, an open-source project developed in collaboration with NVIDIA, using your deep experience in ***PyTorch, JAX, or other deep learning frameworks***
+	- Engage in ***performance-oriented model optimizations, around distributed training as well as inference***
+	- ***Develop optimized kernels in CUDA or Triton to target specific use-cases***
+		* https://openai.com/index/triton/
+		* https://github.com/triton-lang/triton
+		* https://triton-lang.org/main/index.html
+	- ***Integrate Thunder throughout the PyTorch Lightning ecosystem***
+	- Engage with the community and champion its growth
+	- Support the adoption of Thunder across the industry
+	- Work closely within the Lightning team as a strategic partner
+	- We offer competitive base salaries and stock options with a 25% one year cliff and monthly vesting thereafter. For our international employees, we work with Velocity Global to pay you in your local currency and provide equitable benefits across the globe.
+	- In the US, we offer:
+		* 90% monthly premium contributions towards medical and 100% monthly premium contributions towards select dental and vision plans for you and your dependents
+		* Life and AD&D insurance 
+		* Flexible paid time off plus 1 week of winter closure
+		* Generous paid family leave benefits
+		* $500 monthly meal reimbursement, including groceries & food delivery services
+		* $1,000 home office stipend
+		* $1,000 annual learning & development stipend 
+		* 100% Citibike membership (NYC only)
+		* $45/month gym membership 
+		* Additional various medical and mental health services
+
+
+
+
+
 + skill set:
 	- Software Engineer, Programming Languages
 	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.

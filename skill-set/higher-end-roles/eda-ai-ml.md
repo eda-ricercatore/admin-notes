@@ -1577,7 +1577,15 @@ The sets of skills for circuit simulation are:
 	- 6. High performance computing / large scale scientific computing and deployment of parallel numerical algorithms
 	- Candidate should be proficient in C/C++ development.  Experience with scripting languages like Python and GUI frame works like QT is a plus. Knowledge or Demonstrated software engineering skills, with a good understanding of efficient implementation of high-performance numerical algorithms and associated data structure design, and experience  in relevant software frameworks is a plus. Exposure to high-performance numerical computing, CPU/GPU systems. The candidate should have ability to work with an engineering and cross-functional team to deliver innovative technologies in a production environment. 
 + skill set:
-	- BLAH.
+	- Software R&D Engineers
+	- Entry level and senior positions available
+	- http://xindadesign.com/career/
+	- XinDA Design Automation was founded to rewrite EDA tools for transistor-level analysis, library characterization, and process variation simulation at the 3nm technology node and beyond. Current solutions were developed before the 45nm technology node or four generations ago, and market landscape has changed drastically in the past 15 years. Nowadays the pain points are PVT (process-voltage-temperature) corner explosion and the increasing process variation effects on timing, both of which require an order of magnitude increase in EDA software performance. With a combined 80 years of R&D and business experience in helping customers tape-out with timing, power and signal integrity, the XinDA team provides world class software and breakthrough solutions for the next-generation memory and mixed-signal designs.
+	- XinDA is headquartered in Hong Kong, with R&D centers in Hong Kong and Beijing.
+	- Responsible for research, development and maintenance of large scale EDA software focusing on circuit analysis and characterization of digital and analog circuitries including custom digital block, mixed-signal circuit, and embedded memories. Software tasks include multi-threaded circuit and logic analysis, ***vector sensitization***, circuit simulation, ***measurement acquisition*** and ***graph tracing of timing, noise, power*** and ***statistical variation modeling of process, voltage and temperature effects.***
+	- Job requires MS/PhD in EE/CS. Solid programming skills in C++. Ideal candidates are self-motivated and possess good communication skills and be willing to work independently as well as in a team environment. We prefer candidates with experience in:
+	- SPICE simulation and understanding of digital/analog circuitry. Ability to understand and debug large and complex data structures and algorithms. Self-motivated, quick learner, and with strong problem solving ability. Good communication skills. Experience in transistor-level timing analysis and library characterization is highly desirable but not required.
+	- Interested candidates please send resume to: jobs@xindadesign.com
 + skill set:
 	- BLAH.
 + skill set:
@@ -7016,13 +7024,92 @@ Companies that have machine learning -centric products
 	- [AI Matrix](https://aimatrix.ai/en-us/)
 	- https://github.com/alibaba/ai-matrix
 + skill set:
-	- BLAH.
+	- Machine Learning Research Engineer
+	- Hybrid/Engineering/Full time
+	- Somerville, Massachusetts, United States
+	- Based in Somerville, Massachusetts, Neural Magic is a series A startup backed by leading investors including Andreessen Horowitz, NEA, NEA, Pillar, VMware, Verizon Ventures, Comcast Ventures, and Amdocs. At Neural Magic we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and VLLM to every enterprise on the planet. Neural Magic accelerates AI for the enterprise and brings operational simplicity to GenAI deployments. As a leading developer and maintainer of the vLLM project and inventor of state-of-the-art techniques for model quantization and sparsification, Neural Magic provides a stable platform for enterprises to build, optimize and scale LLM deployments.
+	- Neural Magic is on a mission to bring the power of open-source LLMs and vLLM to every enterprise on the planet.
+	- As an ML Research Engineer, you will be at the forefront of innovation, collaborating with our team to tackle the most pressing challenges in model performance and efficiency. Your research will directly impact the development of our cutting-edge software platform, helping to shape the future of AI deployment and utilization.
+	- Join us in shaping the future of AI!
+	- Research & Innovate: Spearhead the development of cutting-edge research projects focused on improving LLM performance, efficiency, and scalability.
+	- Prototype & Experiment: Design and implement prototypes to test novel algorithms and techniques, pushing the boundaries of model optimization and inference serving.
+	- Analyze & Evaluate: Conduct rigorous experiments and analysis to measure the impact of your research, document findings, and share insights with the team.
+	- Collaborate & Communicate: Work closely with product and engineering teams to translate research prototypes into production-ready features, ensuring seamless integration with our platform.
+	- Contribute & Share: Stay abreast of the latest advancements in the field, contribute to open-source projects, and share your findings through publications and presentations.
+	- Research Expertise: Proven experience conducting independent research or contributing to research projects, preferably in areas related to LLMs or generative AI.
+	- Technical Proficiency: Strong programming skills in Python and a deep understanding of PyTorch or similar deep learning frameworks.
+	- Optimization Experience: Familiarity with model optimization techniques like pruning, quantization, distillation, or other performance-enhancing methods.
+	- Problem-Solving Skills: Ability to identify and solve complex technical challenges, applying theoretical knowledge to real-world applications.
+	- Communication Skills: Excellent written and verbal communication skills to convey research findings and collaborate effectively with cross-functional teams.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer
+	- Remote/Engineering/Full time
+	- Somerville, Massachusetts, United States
+	- Based in Somerville, Massachusetts, Neural Magic is a series A startup backed by leading investors including Andreessen Horowitz, NEA, NEA, Pillar, VMware, Verizon Ventures, Comcast Ventures, and Amdocs. At Neural Magic we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and VLLM to every enterprise on the planet. Neural Magic accelerates AI for the enterprise and brings operational simplicity to GenAI deployments. As a leading developer and maintainer of the vLLM project and inventor of state-of-the-art techniques for model quantization and sparsification, Neural Magic provides a stable platform for enterprises to build, optimize and scale LLM deployments.
+	- Neural Magic is on a mission to bring the power of open-source LLMs and vLLM to every enterprise on the planet.
+	- As an ML Engineer, you will work closely with our product and research teams to develop SOTA deep learning software. You will collaborate with our technical and research teams to develop training and deployment pipelines, implement model compression algorithms, and productize deep learning research. If you are someone who wants to contribute to solving challenging technical problems at the forefront of deep learning, this is the role for you!
+	- Use your understanding of machine learning to tackle meaningful technical problems
+	- Collaborate with research and product development teams to build machine learning products
+	- Prototype and implement appropriate ML algorithms, tools, and pipelines
+	- Create and manage training and deployment pipelines
+	- Collaborate with a cross-functional team about market requirements and best practices
+	- Keep abreast of developments in the field
+	- Proven experience as a machine learning engineer or similar role
+	- Solid knowledge of machine learning and deep learning fundamentals with experience in one or more of computer vision, NLP, speech, reinforcement learning, generative models, etc
+	- Knowledge of common ML frameworks (like PyTorch or Keras) and libraries (like NumPy and scikit-learn)
+	- Strong programming skills with proven experience implementing Python-based machine learning solutions
+	- Experience with engineering and supporting ML pipelines in a popular ML framework such as PyTorch, TensorFlow, jax, etc.
+	- Experience with engineering and maintaining training and/or deployment pipelines for Generative models / NLG / LLMs
+	- Ability to interpret and implement research ideas and algorithms
+	- Creative, collaborative, and innovation-focused
+	- Strong sense of project ownership and personal responsibility
+	- Bachelor's in Computer Science, Mathematics or similar field
 + skill set:
-	- BLAH.
+	- Software Engineer - vLLM (ML)
+	- Hybrid/Engineering/Full time
+	- Somerville, Massachusetts, United States
+	- Based in Somerville, Massachusetts, Neural Magic is a series A startup backed by leading investors including Andreessen Horowitz, NEA, NEA, Pillar, VMware, Verizon Ventures, Comcast Ventures, and Amdocs. At Neural Magic we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and VLLM to every enterprise on the planet. Neural Magic accelerates AI for the enterprise and brings operational simplicity to GenAI deployments. As a leading developer and maintainer of the vLLM project and inventor of state-of-the-art techniques for model quantization and sparsification, Neural Magic provides a stable platform for enterprises to build, optimize and scale LLM deployments.
+	- Neural Magic is on a mission to bring the power of open-source LLMs and vLLM to every enterprise on the planet.
+	- As a Software Engineer focused in vLLM, you will be at the forefront of innovation, collaborating with our team to tackle the most pressing challenges in model performance and efficiency. Your work with machine learning and high performance computing will directly impact the development of our cutting-edge software platform, helping to shape the future of AI deployment and utilization.
+	- Join us in shaping the future of AI!
+	- Write robust Python and C++, working on vLLM systems, high-performance machine learning primitives, performance analysis and modeling, and numerical methods.
+	- Review code and help develop best practices for the team.
+	- Work closely with machine learning teams to attain high performance for neural networks in the engine.
+	- Extensive experience in writing high performance code for GPUs and deep knowledge of GPU hardware
+	- BS, MS, or PhD in computer science
+	- Mathematical software, especially linear algebra or signal processing
+	- Modern C++
+	- Python
+	- Pytorch
+	- Tensor computations
+	- Deep neural network models and techniques
+	- A self-directed practitioner who learns fast
+	- Strong communications skills with both technical and non-technical team members
+	- Strong sense of project ownership and personal responsibility
+	- Genuine interest in learning
 + skill set:
-	- BLAH.
+	- Software Engineer - vLLM (GPU)
+	- Hybrid/Engineering/Full time
+	- Somerville, Massachusetts, United States
+	- Based in Somerville, Massachusetts, Neural Magic is a series A startup backed by leading investors including Andreessen Horowitz, NEA, NEA, Pillar, VMware, Verizon Ventures, Comcast Ventures, and Amdocs. At Neural Magic we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and VLLM to every enterprise on the planet. Neural Magic accelerates AI for the enterprise and brings operational simplicity to GenAI deployments. As a leading developer and maintainer of the vLLM project and inventor of state-of-the-art techniques for model quantization and sparsification, Neural Magic provides a stable platform for enterprises to build, optimize and scale LLM deployments.
+	- Neural Magic is on a mission to bring the power of open-source LLMs and vLLM to every enterprise on the planet.
+	- As a Software Engineer focused in vLLM, you will be at the forefront of innovation, collaborating with our team to tackle the most pressing challenges in model performance and efficiency. Your work with machine learning and high performance computing will directly impact the development of our cutting-edge software platform, helping to shape the future of AI deployment and utilization.
+	- Join us in shaping the future of AI!
+	- Write robust and modern C++ and CUDA, working on high-performance machine learning primitives, performance analysis and modeling, and numerical methods.
+	- Review code and help develop best practices for the team.
+	- Work closely with machine learning teams to attain high performance for neural networks in vLLM.
+	- Extensive experience in writing high performance code for GPUs and deep knowledge of GPU hardware
+	- BS, MS, or PhD in computer science or computer engineering
+	- CUDA
+	- High performance computing
+	- Mathematical software, especially linear algebra or signal processing
+	- Modern C++
+	- Tensor computations
+	- Deep neural network models and techniques
+	- A self-directed practitioner who learns fast
+	- Strong communications skills with both technical and non-technical team members
+	- Strong sense of project ownership and personal responsibility
+	- Genuine interest in learning
 + skill set:
 	- BLAH.
 + skill set:
@@ -10584,7 +10671,28 @@ Companies that have machine learning -centric products
 	- At Kintsugi, we believe that mental health is just as important as physical health. We exist to ensure that everyone who needs mental healthcare has access to the right care at the right time. 
 	- We're a female-founded organization, united and driven by our shared passion to revolutionize access to mental healthcare. Our mission is ambitious, and each member of our team wears multiple hats and plays a pivotal role. As an early-stage, Series A startup, we offer exciting growth opportunities and the chance to make a real impact. Join us to embark on a rewarding journey, learning and growing alongside our dedicated team of trailblazers.
 + skill set:
-	- BLAH.
+	- Staff MLSys Engineer - Kernel Optimization
+	- https://octo.ai/company/careers/
+	- Remote Engineering /Salaried, Full-Time /Remote
+	- OctoAI is a leading startup in the fast-paced generative AI market. Our mission is to empower businesses to build differentiated applications that delight customers with the latest generative AI features.
+	- Our platform, OctoAI, delivers generative AI infrastructure to run, tune, and scale models that power AI applications. OctoAI makes models work for you by providing developers easy access to efficient AI infrastructure so they can run the models they choose, tune them for their specific use case, and scale from dev to production seamlessly. With the ***fastest foundation models on the market (including Llama-3, Stable Diffusion, and SDXL)***, integrated customization solutions, and world-class ML systems under the hood, developers can focus on building apps that wow their customers without becoming AI infrastructure experts.
+	- Our team consists of experts in cloud services, infrastructure, machine learning systems, hardware, and compilers as well as an accomplished go-to-market team with diverse backgrounds. We have secured over $130M in venture capital funding and will continue to grow over the next year. We're based largely in Seattle but have a remote-first culture with people working all over the US and elsewhere in the world.
+	- We dream big but execute with focus and believe in creativity, productivity, and a balanced life. We value diversity in all dimensions and are always looking for talented people to join our team!
+	- Our Automation team specializes in developing the most efficient engine for generative model deployment. We concentrate on enhancements from detailed GPU kernel adjustments to broader system-level optimizations, including continuous batching.
+	- We are seeking a highly skilled and experienced Machine Learning Systems Engineer with experience in ***CUDA Kernel optimization*** to join our dynamic team. In this role, you will be responsible for driving significant advancements in GPU performance optimizations and contributing to cutting-edge projects in AI and machine learning.
+	- Develop and optimize high-performance computing kernels with a focus on GPU acceleration
+	- Implement and enhance programming solutions in C/C++ and Python.
+	- Deep dive into GPU performance optimizations to maximize efficiency and speed.
+	- Work on kernel optimizations specifically for CUDA or other accelerators.
+	- Collaborate with the team to extend and improve existing ***machine learning compilers or frameworks such as TVM, MLIR, Pytorch, Tensorflow, ONNX Runtime, TensorRT***. (This is optional but beneficial)
+	- Bachelor's, Master’s or PhD’s degree in Computer Science, Electrical Engineering, or a related field.
+	- Strong programming skills in C/C++ and Python.
+	- Deep understanding and experience in GPU performance optimizations.
+	- Extensive experience with kernel optimizations on CUDA or other accelerators.
+	- Extensive experience contributing to innovative ***OSS/closed source projects like Cutlass, FlashAttention, FlashInfer, mlc-llm, vllm***.
+	- (Optional but preferred) Experience with ***machine learning compilers or frameworks such as TVM, MLIR, Pytorch, Tensorflow, ONNX Runtime, TensorRT***.
+	- $200,000 - $240,000 a year
+	- Our base salary ranges are based on paying competitively for our company's size and industry and are one part of the total compensation package that also includes annual bonuses, equity, benefits, and other opportunities at OctoAI. In accordance with pay transparency laws, OctoAI is required to provide a reasonable estimate of the compensation range for this role. Individual pay decisions are ultimately based on a number of factors, including qualifications for the role, experience level, skillset, geography, and balancing internal equity. This is a reasonable estimate of the current salary base range. We expect most candidates to fall in the middle of the range. We also believe that your personal needs and preferences should be taken into consideration, so we allow some choice between equity and cash.
 + skill set:
 	- BLAH.
 + skill set:
@@ -12948,9 +13056,71 @@ Skills for natural language processing, NLP:
 	- Contributions to open-source NLP projects.
 	- Publications or presentations in NLP-related conferences or journals.
 + skill set:
-	- BLAH.
+	- Founding Applied AI Engineer
+	- Location: San Francisco
+	- Type: Full time
+	- Department: Engineering
+	- Help us build the future of AI!
+	- Join our team to pioneer the future of Large Language Model (LLM) applications.
+	- Values we are looking for:
+		* Integrity, alignment and passion
+		* Adaptability and the ability to work with limited resources
+		* Intellectual horsepower (smart x get things done)
+		* Level up the people around you
+		* Domain specific knowledge
+	- We're seeking a Founding Applied AI Engineer to join our team and help maintain our position at the forefront of production-quality LLM application development. In this role, you'll work closely with customers to build and deploy LLM/RAG/agent applications while translating real-world feedback into framework improvements.
+	- Work closely with customers to design, build, and deploy custom LLM/RAG/agent applications
+	- Identify common challenges in production LLM applications and develop solutions
+	- Contribute to the improvement and expansion of our open-source framework based on real-world feedback
+	- Collaborate with the core engineering team to implement new features and optimizations
+	- Help develop best practices and documentation for production LLM application development
+	- Represent LlamaIndex in customer interactions and potentially in the wider AI community
+	- Passionate about applied AI and enjoy building practical solutions
+	- Adaptable and thrive in a fast-paced startup environment
+	- Excellent communicators, able to work with both technical teams and customers
+	- Quick learners who stay updated with the latest AI developments
+	- Hands-on experience building and deploying production-quality LLM, RAG, or agent applications for customers
+	- Strong understanding of the challenges in production LLM application development
+	- Ability to translate customer feedback into tangible framework improvements Excellent problem-solving skills and attention to detail
+	- Significant contributions to top open-source AI/ML projects
+	- Competitive programming or olympiad awards
+	- Completion of important AI projects
+	- Competitive salary (100-300K DOE)
 + skill set:
-	- BLAH.
+	- Founding AI Engineer
+	- https://www.llamaindex.ai/careers
+	- Location: San Francisco
+	- Type: Full time
+	- Department: Engineering
+	- Help us build the future of AI!
+	- Join our team to pioneer the future of Large Language Model (LLM) applications.
+	- Values we are looking for:
+		* Integrity, alignment and passion
+		* Adaptability and the ability to work with limited resources
+		* Intellectual horsepower (smart x get things done)
+		* Level up the people around you
+		* Domain specific knowledge
+	- We are seeking an AI Engineer to join our team and help shape the future of LLM application development. In this role, you will work on cutting-edge projects involving Retrieval-Augmented Generation (RAG), agents and more. You will contribute to our open-source frameworks and help develop our enterprise platform.
+	- Develop and optimize RAG pipelines, agent architectures, and other LLM-powered systems
+	- Contribute to our open-source Python and Typescript frameworks
+	- Collaborate with the product team to scope and implement new AI/LLM-powered features
+	- Help shape the technical direction and best practices for LLM application development
+	- Stay at the forefront of AI research and incorporate state-of-the-art techniques
+	- Significant contributions to top open-source AI/ML projects
+	- Proven track record of executing with high intensity and delivering results
+	- Competitive programming or olympiad awards demonstrating exceptional problem-solving skills
+	- Experience leading ML stack development at fast-growing startups
+	- Portfolio of impressive AI projects or applications
+	- Strong understanding of NLP, ML, and LLM fundamentals
+	- Competitive salary (100-300K DOE)
+		* **Deduction or earning, in payroll**
+		* **Also d.o.e. depends on experience; depending on experience: used in stating a salary range in help-wanted ads.**
+	- Meaningful equity options in a rapidly growing company
+	- Comprehensive medical/dental/vision coverage for you and your family
+	- ***Unlimited paid time off policy***
+	- Daily catered lunch and snacks in the San Francisco office
+	- We offer a hybrid-friendly culture based out of our downtown San Francisco office.
+	- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
 + skill set:
 	- BLAH.
 + skill set:
@@ -14543,7 +14713,42 @@ Use MLOps to support distributed machine learning, distributed ML.
 		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
 	- Annual Salary Range: $180,000 - $440,000 USD
 + skill set:
-	- BLAH.
+	- Machine Learning Tech Visualizer, Designer & Writer
+	- https://www.etched.com/careers
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- At Etched, we are creating machine intelligence at the next level. But it is useless unless humans can understand it. We hope you can join us to make this powerful machine intelligence understandable by humans and easily usable by humans. With Etched ASICs, we have fundamentally different constraints than existing AI chips. We don’t have the same batch-size-latency tradeoff as GPUs. We can parallelize workloads and digest large contexts much more efficiently than GPUs.
+	- Sohu enables entirely new research directions and products. When our chips come out, these use cases need to already be mature and visceral. Whether real-time video, agents, speculative decoding, or new tree search algorithms, we must create the market for our hardware.
+	- If you like to create beautiful things, using AI-tools, for humans to use AI-tools, come and join us as Transformer-based machine intelligence is about to fundamentally change human life - if not already.
+	- Design UI/UX for powerful LLMs that goes beyond “chatting”
+	- Design and enhance interactive google colab-based demos for both hardware and software ML products
+	- Implement doc-gen system like (python sphinx) for APIs and references
+	- Write tutorials and quickstart guides
+	- Visualizing continuous batching for LLM inference
+	- You may be a good fit if you are/have
+		* Excited and optimistic about AI
+		* Hunger to learn and use AI day to day
+		* Passionate about open source software and models
+		* Comfortable with reading and writing code, using CLI, scripting
+		* An exceptional communicator, both verbal and written
+		* A strong portfolio of UI designs and visualization
+		* Strong mathematical background, especially linear algebra
+		* The ability to understand and visualize abstract concepts rooted in academic research
+	- We encourage you to apply even if you do not believe you meet every single qualification.
+	- Strong candidates may also have experience with:
+		* Software/Web UX workflow design
+		* Software/Web UI design and mockup
+		* Google interactive python colab
+		* Python sphinx, readthedocs
+		* C++ doxygen
+		* Markdown
+		* Javascript, typescript with electron framework
+	- Etched believes in the Bitter Lesson. We think most of the progress in the AI field has come from using more FLOPs to train and run models, and the best way to get more FLOPs is to build model-specific hardware. Larger and larger training runs encourage companies to consolidate around fewer model architectures, which creates a market for single-model ASICs.
+	- We are a fully in-person team in Cupertino, and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both as needed.
+	- Full medical, dental, and vision packages, with 100% of premium covered, 90% for dependents
+	- Housing subsidy of $2,000/month for those living within walking distance of the office
+	- Daily lunch and dinner in our office
+	- Relocation support for those moving to Cupertino
 + skill set:
 	- BLAH.
 + skill set:
@@ -14772,7 +14977,27 @@ Skill set for AIOps:
 	- Familiar with the principles and parameter tuning of internal database optimizers preferred
 	- Solid knowledge of computer networking and systems preferred
 	- Broad knowledge of underlying storage technologies and principles preferred
-
++ Founding AI Engineer, Backend
+	- Location: San Francisco
+	- Type: Full time
+	- Department: Engineering
+	- Help us build the future of AI!
+	- Join our team to pioneer the future of Large Language Model (LLM) applications.
+	- Values we are looking for:
+		* Integrity, alignment and passion
+		* Adaptability and the ability to work with limited resources
+		* Intellectual horsepower (smart x get things done)
+		* Level up the people around you
+		* Domain specific knowledge
+	- Architecting and scaling LlamaIndex’s cloud platform.
+	- You will work closely with our framework engineering and full-stack engineering team to deliver a top-notch integrated developer experience for building the next-generation of context-aware (i.e. RAG) applications.
+	- Proven track record of building scalable cloud services that process massive amount of data. This include the full lifecycle of architecting scalable infrastructure, deploying containerized services to cloud providers via infrastructure-as-code.
+	- Expert at building quickly, but scale as necessary.
+	- You should know the in-and-out of building user-facing APIs.
+	- Prior experience with ETL / data orchestration / distributed data processing are strongly preferred.
+	- Ability to contextualize all backend decisions with the goal of creating an amazing set of tools for developers to use.
+	- Passionate about LLMs and the immense opportunities it offers for developers and end users.
+	- Competitive salary (100-300K DOE)
 
 
 
@@ -18432,7 +18657,34 @@ They support databases for:
 	- Experience building a developer tool (it can be personal dev)
 	- Proficiency in Python
 + skill set:
-	- BLAH.
+	- Founding AI Data Engineer
+	- Location: San Francisco
+	- Type: Full time
+	- Department: Engineering
+	- Help us build the future of AI!
+	- Join our team to pioneer the future of Large Language Model (LLM) applications.
+	- Values we are looking for:
+		* Integrity, alignment and passion
+		* Adaptability and the ability to work with limited resources
+		* Intellectual horsepower (smart x get things done)
+		* Level up the people around you
+		* Domain specific knowledge
+	- You will be responsible for architecting and scaling LlamaCloud's integrations to meet the needs of the next generation of agentic applications. This includes working on both data loading and agentic tool interfaces.
+		* Data loading refers to connecting to a data source, loading unstructured data, and performing ETL steps to transform and index it into a storage system (e.g. a vector database). It is vaguely similar to traditional ETL workloads (e.g. with dbt) but with very different steps.
+		* Agentic tool interfaces is a forward looking concept where LLM agents interact with every data system through a set of API interfaces. For each service, this not only includes API interfaces to load and retrieve data, but also API interfaces to take actions. As an example, you can treat Github as a data loader where you only load and index code files and issues; but you can also treat it as a more general tool where an LLM agent not only reads code/issues, but also responds to/triages issues, submits PRs, adds/removes organization members, and more.
+	- You have a proven track record of building scalable B2B data infrastructure systems that process large amounts of data. This includes the full lifecycle of architecting scalable infrastructure, implementing data connectors for enterprise systems, and ensuring data integrity and security.
+	- You're an expert at building quickly but scaling as necessary.
+	- You should know the ins and outs of working with various data sources, APIs, and authentication protocols.
+	- You're also passionate about LLMs and the immense opportunities they offer for developers and end users.
+	- You're able to contextualize all data integration decisions with the goal of creating an amazing set of tools for developers to use in AI-powered applications.
+	- Prior experience with ETL, data orchestration, or distributed data processing is strongly preferred.
+	- Competitive salary (100-300K DOE)
+	- Meaningful equity options in a rapidly growing company
+	- Comprehensive medical/dental/vision coverage for you and your family
+	- Unlimited paid time off policy
+	- Daily catered lunch and snacks in the San Francisco office
+	- We offer a hybrid-friendly culture based out of our downtown San Francisco office.
+	- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
 + skill set:
 	- BLAH.
 + skill set:

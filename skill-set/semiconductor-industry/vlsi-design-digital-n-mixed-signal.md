@@ -2362,11 +2362,38 @@ Skills for FPGA-based digital circuit and system design, or "FPGA design enginee
 
 
 
+###	Skills for VLSI Design for Memory Subsystems
 
 
 
-
-
++ DRAM Engineer
+	- Cupertino, CA
+	- Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep chain-of-thought reasoning.
+	- At Etched, we’re seeking a skilled DRAM Engineer to advance our memory systems. As a DRAM Engineer at Etched, you will collaborate with design and verification teams to ***optimize memory controllers and PHYs***, perform DRAM simulations, validate SoC memory integration, and oversee ***HBM silicon and package testing***. Additionally, you will develop and implement advanced debugging methodologies and ensure our memory solutions adhere to stringent performance and reliability specifications.
+	- Collaborate with design, verification, and integration engineers to ***define memory controller and PHY requirements***.
+	- Work with ***Memory Controller, DDRPHY/HBMPHY, and DRAM vendors*** to optimize main memory performance and power.
+	- Perform DRAM simulations to ensure they meet Etched's requirements.
+	- ***Validate SoC memory controller and PHY integration*** and help verification of features in simulation and emulation.
+	- Oversee internal and external ***HBM silicon and package level testing***.
+	- Develop bring-up and debug methodologies for ***DDR and HBM interfaces***.
+	- Perform ***Post-Si validation***.
+	- Minimum 5 years of experience.
+	- Knowledge of ***DRAM architectures and memory organization***.
+	- Experience with ***DRAM simulation and interface verification (HBM2E/HBM3 PHY, Memory Controller)***.
+	- Understanding of ***memory test patterns and DRAM reliability***.
+	- Excellent hardware and software debugging skills.
+	- Strong teamwork and interpersonal skills.
+	- Understanding of computer architecture and micro-architecture.
+	- Programming experience in C/C++/Python.
+	- Preferred: Master's or PhD Degree with 3 years of relevant industry experience. Experience with ***HBM2E/3/3E/DDR5/LPDDR4+ based products***.
+	- Minimum: Bachelor’s degree with a minimum of 5 years relevant industry experience. Experience with ***HBM2E/3/3E/DDR5/LPDDR4+ based products***.
+	- We encourage you to apply even if you do not believe you meet every single qualification.
+	- Etched believes in the Bitter Lesson. We think most of the progress in the AI field has come from using more FLOPs to train and run models, and the best way to get more FLOPs is to build model-specific hardware. Larger and larger training runs encourage companies to consolidate around fewer model architectures, which creates a market for single-model ASICs.
+	- We are a fully in-person team in Cupertino, and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both as needed.
+	- Full medical, dental, and vision packages, with 100% of premium covered, 90% for dependents
+	- Housing subsidy of $2,000/month for those living within walking distance of the office
+	- Daily lunch and dinner in our office
+	- Relocation support for those moving to Cupertino
 
 
 

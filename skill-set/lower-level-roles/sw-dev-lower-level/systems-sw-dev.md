@@ -223,6 +223,23 @@ Skill sets for domain-specific systems software development:
 	- Experience with hardware acceleration systems
 	- Experience with database systems and SQL
 	- We are looking for a highly skilled professional that is interested in working on cutting-edge technology and wants to be a part of something big. If you meet the qualifications and are excited about the opportunity to work with our team, we encourage you to apply.
++ Software Engineer - Systems
+	- Location: New York, Stockholm
+	- Type: Full time
+	- Department: Engineering
+	- Compensation: $150K – $270K; Offers Equity
+	- At Modal, we build foundational technology, including an optimized container runtime, a GPU-aware scheduler, and a distributed file system.
+	- We're a small team based out of New York and Stockholm and have raised over $23M. Our team includes creators of popular open-source projects (e.g., Seaborn, Luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.
+	- We are looking for strong engineers with experience and interest in designing, building, and maintaining the novel, high-performance systems that make up our serverless platform.
+	- Work in-person, in either our NYC or Stockholm office
+	- Full medical, dental, vision insurance
+	- Competitive salary and equity
+	- 5+ years of experience writing high-quality production code
+	- Experience building high-performance distributed systems at a large scale (the more battle scars, the better)
+	- Strong cloud skills
+	- Strong knowledge of low-level operating system foundations (Linux kernel, file systems, containers, etc.)
+	- Experience with performance engineering (tell us a story of when you shaved off a few milliseconds!)
+
 
 
 
@@ -275,7 +292,7 @@ Skill sets for domain-specific systems software development:
 
 
 
-##	Skill Sets for Software Engineer
+##	Skill Sets for Systems Software Development for Robotics
 
 
 
