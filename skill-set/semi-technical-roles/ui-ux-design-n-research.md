@@ -512,7 +512,28 @@ Quantitative UX research methods:
 		* Experience in a variety of product spaces, applied research and/or academic settings.
 		* Proficiency in communicating user research findings with cross functional partners to drive impact.
 		* Strong understanding of the strengths and shortcomings of different research methods, including when and how to apply them during the product development process.
-
++ Senior UX Researcher, Ads
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- As a Senior UX Researcher, you will join a high-impact Ads team that's working on some of the most important initiatives at the company! You will drive the understanding of advertiser behavior, motivations and experiences across Reddit, partnering with our product and design teams to further understand our advertisers and how we can amplify their experiences on the platform. You'll investigate user behavior and user needs using both qualitative methods (including semi-structured interviews, focus groups, journey mapping) and quantitative methods (including survey research) by designing and conducting foundational and evaluative research to guide executive decision-making. The ideal candidate will be able to combine their quantitative and qualitative skills to better understand advertiser behavior and motivations, drive product strategy and improve the overall advertiser experience across Reddit.
+	- Design and execute on quantitative research, including surveys and behavioral data analysis
+	- Prioritize and conduct research that varies in approach, scale, scope, timeframe and methodologies across multiple work streams, making sure to work on the right project at the right time.
+	- Select and communicate the appropriate method or mix of data collection methods (ranging from usability testing, diary studies, semi-structured interviews, participatory workshops, surveys, and everything in between) to answer questions for product teams and our broader company.
+	- Extract meaning from qualitative and survey data sets through appropriate analyses, including the creation and application of qualitative codebooks,  developing code, running models, and employing a range of statistical methods.
+	- Craft video summaries of interviews and experiences of users to illustrate findings with user voices.
+	- Build strong relationships as a strategic partner with Product, Design, Engineering, Sales and Data Analytics by proactively communicating and sharing research findings.
+	- Develop research programs that achieve business and product impact.
+	- 6+ years of industry experience
+	- 3+ years researching advertiser behavior.
+	- Understanding of strengths and shortcomings of different quantitative research methods, including when and how to apply them during each product phase.
+	- Detail-oriented and ability to work fairly independently on a variety of tasks.
+	- Strong interpersonal, organizational, written, and oral communication skills.
+	- Ability to work quickly to turn around high-quality research insights; can prioritize time between multiple projects, and be flexible, adapting to changing schedules and different projects.
+	- Experience working in ambiguity and complex cross-functional collaborations.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $164,200 - $229,900 USD
 
 
 

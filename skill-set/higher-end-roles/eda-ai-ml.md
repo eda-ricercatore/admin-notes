@@ -91,13 +91,22 @@ Important [technology roadmaps](https://en.wikipedia.org/wiki/Technology_roadmap
 
 Skills for EDA software development, and other high-end software development:
 + Production quality coding standards and patterns.
-	- You are curious and pragmatic: you want to explore extensions to our product but are motivated by delivering production code for business use cases
-	- industry best practices
-	- You will write clean, maintainable and production code with appropriate documentation and tests.
-	- Experience in contributing to production code bases. Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production code.
-	- Experience with building production code.
-	- Be easy to go from test to production code.
-	- Capable of designing high quality frameworks/toolings to reduce redundancy and ineffectiveness across components/services
+	- ***You are curious and pragmatic: you want to explore extensions to our product but are motivated by delivering production code for business use cases***
+	- ***industry best practices***
+	- ***You will write clean, maintainable and production code with appropriate documentation and tests.***
+	- ***Experience in contributing to production code bases. Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production code.***
+	- ***Experience with building production code.***
+	- ***Be easy to go from test to production code.***
+	- ***Capable of designing high quality frameworks/toolings to reduce redundancy and ineffectiveness across components/services***
+	- ***hands-on experience building clean, maintainable, and well-tested code***
+	- ***Strive for high code standards (continuously improving testability and code quality).***
+	- ***Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.***
+	- ***experiment driven development***
+	- ***Proven capability to create maintainable, adaptable software that is non-brittle and capable of change***
+	- ***Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.***
+	- ***ship high quality software at scale***
+	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
+	- ***Identify scaling bottlenecks and propose solutions.***
 + Build system experience, like:
 	- Apache Buildr, historic open-source build system, Rake-based, gives the full power of scripting in Ruby with integral support for most abilities wanted in a build system
 	- ***Bazel***
@@ -178,10 +187,12 @@ Skills for EDA software development, and other high-end software development:
 		* Rex, Perl-based
 		* Salt, Python-based
 		* ***Saltstack***, for event-driven IT automation, remote task execution, and configuration management
-+ tools for agile methods, such as XP and Scrum:
-	- Git
-	- JIRA
-	- Confluence
++ software development process models/methodologies:
+	- Familiarity with Agile methodologies, such as Scrum or Kanban, as well as software development practices such as Continuous Integration, Test-Driven Development and DevOps.
+	- tools for agile methods, such as XP and Scrum:
+		* Git
+		* JIRA
+		* Confluence
 + package managers:
 	- Mamba
 		* reimplementation of *conda* package manager in *C++*.
@@ -194,23 +205,12 @@ Skills for EDA software development, and other high-end software development:
 	- GitBook
 		* Modern documentation format and toolchain using Git and Markdown
 		* Good experiences with technologies used by GitBook: Go, Google Cloud Platform, Algolia, Firebase
-+ Experience with unit testing, and performance benchmarking and tuning.
-+ skill set:
-	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
-	- Production quality coding standards and patterns.
 + Hibernate ORM is an object-relational mapping tool for the Java programming language
 	- object-relational mapping allows software developers to convert data between type systems using object-oriented programming languages, OOPL.
 + ***Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.***
 	- use "checkpoint"s to save temporary results of computing
 		* This allows results from computation performed thus far to be reused.
 		* If computation crashes and has to be restarted from the most recent or second last checkpoint, this checkpoint provides intermittent results that the software can use to resume computing.
-+ skill set:
-	- Strive for high code standards (continuously improving testability and code quality).
-	- Disciplined, methodical, minimalist approach to design and construct layered software components that can be embedded within larger frameworks or applications.
-	- ***experiment driven development***
-+ Proven capability to create maintainable, adaptable software that is non-brittle and capable of change
-+ Take pride in the quality of the code you write. Your code is readable, testable, and understandable six months later. You adhere to the Zen of Python.
-+ ship high quality software at scale
 + experience with these software testing methodologies:
 	- unit tests
 	- integration tests
@@ -219,6 +219,7 @@ Skills for EDA software development, and other high-end software development:
 	- load tests
 	- chaos tests
 	- Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, readable code).
+	- Experience with unit testing, and performance benchmarking and tuning.
 + Software libraries
 	- C++ libraries:
 		* Boost C++
@@ -297,6 +298,8 @@ Skills for EDA software development, and other high-end software development:
 			+ Intel MPI
 			+ Apache Spark
 			+ ***Dask***
+		* skills for cloud computing:
+			+ ***Deep knowledge of large scale cloud analytics and storage technologies and SDLC best practices***
 + workflow management:
 	- goals/tasks:
 		* for data engineering pipelines
@@ -344,8 +347,7 @@ Skills for EDA software development, and other high-end software development:
 + ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
 	- knowledge of object-oriented and functional programming paradigms
 	- ***Refactoring existing C++ libraries for modularity and extensibility.***
-+ Identify scaling bottlenecks and propose solutions.
-+ Familiarity with Agile methodologies, such as Scrum or Kanban, as well as software development practices such as Continuous Integration, Test-Driven Development and DevOps.
+	- ***Comfortable navigating unfamiliar tech stacks and working with new languages and technologies***
 +
 + 
 

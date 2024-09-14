@@ -685,6 +685,8 @@ Roles in computing security:
 	- Create tools to speed up your own and your colleagues’ workflows, particularly when pre-existing solutions are inadequate
 	- Have previously been a startup founder or worked as an early-stage engineer with a focus on privacy
 	- Annual Salary Range: $245,000—$385,000 USD
++ Familiarity with Ads privacy (GDPR, CCPA, ePD, ATT, etc.)
++ Experience with data privacy requirements stemming from regulatory and legislative mandates including CCPA, GDPR, and state data breach notification laws is desirable but not mandatory.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1175,9 +1177,74 @@ Roles in computing security:
 		* US candidates only: For US based applicants, the salary range is $236,400 - $373,875 USD + equity + benefits.
 		* Canada candidates only: For Canada based applicants, the salary range is $243,010 - $384,328 CAD + equity + benefits.
 + skill set:
-	- BLAH.
+	- Senior Threat Detection Analyst
+	- Bangalore, India
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: Bangalore, India 
+	- Reddit is continuing to grow our teams with the best talent. This role is located in Bangalore, India.. If you happen to live close to one of our physical office locations, our doors are open for you to come into the office as often as you'd like. 
+	- The ***SPACE (Security, Privacy, And Compliance Engineering) team*** defends Reddit’s employees and compute assets to make Reddit the most trustworthy place for online human interaction.  We look for humble experts with a relentlessly resourceful and entrepreneurial “can do” perspective. If you work tirelessly to break into computer networks and just as tirelessly to ensure others cannot, we need you.
+	- This is a Threat Detections role within the SPACE Security Intelligence Center. We are incident commanders with product administration experience who analyze security threats, build detections, and respond to security events. We value builders and software engineers with broad and deep technical knowledge, specifically in the fields of ***insider threat, data analytics, system forensics, malware analysis, threat hunting, threat intelligence, and application, endpoint, & cloud/infrastructure security***. Security is tough, diversity is key, so unique experience is highly valued!
+	- If you are ***passionate about data, security, threat models, and building creative mitigations***, we need you. The ideal candidate has a strong coding background and has worked as part of a ***Computer Security Incident Response Team (CSIRT)***. We are looking for those with experience ***building creative detections and response automations, mapping detections to various security models, and using automation to validate detections are working***. You will help ***build a scalable detection and incident response system to analyze security events and find anomalies across Reddit’s technical ecosystem (endpoints, cloud, and SaaS)***.
+	- ***Building new and more powerful detection validation automations*** (Purple Team)
+	- ***Automating threat intel hunting as part of response processes***
+	- ***Empowering admins and engineers through robust and distributed response runbooks***
+	- Promoting Reddit’s unique combination of Privacy & Security
+	- Working across teams to ensure initiatives are greater than the sum of their parts
+	- ***Monitor and respond to security alerts, Join the on-call rotation***
+	- ***Analyze security events and build runbooks and automations***
+	- ***Hunting for indicators of compromise***
+	- ***Triage new threat vectors and identify detection opportunities***
+	- ***Develop, enhance, and implement detections and the system that validates detections***
+	- ***Security analyst with hands on experience triaging security alerts and building runbooks***
+	- Strong programmer with skills in ***Go/Python/shell scripts*** and knowledge of ***SQL/BigQuery/Sigma***
+	- ***Developer familiar with git and cloud tools like Terraform, Ansible, or associated concepts***
+	- ***Red/Blue/Purple team analyst with experience validating threat detections and hunting for IOCs***
+	- ***Admin or customer support expert with 1+ years managing Security Tools, MacOS, Windows, Linux, &/or Cloud infrastructure***
+	- ***Security wizard with 3+ years of experience within one or more areas: detections engineering, threat intelligence, endpoint hardening, device management, network/vpn/proxy/zero trust, XDR/EDR, DLP, insider threat processes, email security, forensic analysis, reverse engineering, data engineering, penetration testing***
+	- Human not reliant on ChatGPT to communicate effectively with business representatives, explaining ***security topics (ELI5)***
 + skill set:
-	- BLAH.
+	- Senior Software Engineer, SWE Services
+	- Bangalore, India
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: Bangalore, India (office-based)
+	- The SPACE (Security, Privacy, And Compliance Engineering) team defends Reddit’s employees and compute assets to make Reddit the most trustworthy place for online human interaction.  We look for humble experts with a relentlessly resourceful and entrepreneurial “can do” perspective. If you work tirelessly to break into computer networks and just as tirelessly to ensure others cannot, we need you.
+	- Reddit is looking for a hands-on strong technical professional with the right blend of privacy, data, and development experience.  You will partner with the Legal, Security, Engineering, and Product teams.  You will help establish software development and data engineering best practices to support privacy by design and global compliance. This role will report to our Senior Engineering Manager, Security, Privacy and Compliance Engineering team. Culture is important to us and a learning and developing mentality is vital regardless of the work assigned.
+	- If you are passionate about software engineering, privacy, and security, we need you.  The ideal candidate is technically strong and has built proven products to support security or privacy teams.  (our products).
+	- Design, build, and implement privacy software products
+	- Design, build and ship backend services powering privacy experiences for millions of daily users.
+	- Translate privacy rules and policies into robust, scalable, reusable solutions that protect user privacy while enabling safe, transparent use of data
+	- Deep dive and become an expert in a complex and heterogeneous codebase and cloud infrastructure to find and harden all data stores and microservices that process personal data
+	- Knowledge of large scale cloud analytics and storage technologies and SDLC best practices
+	- Comfortable in navigating unfamiliar tech stacks and working with new languages and technologies
+	- Privacy and Security is part of the Reddit DNA and we are dedicated to ensuring that our platforms, services, and products are built with privacy and security as core principles. We hold the privacy and security of our users as fundamental to our mission at Reddit. This role will support the evolution of security tooling and initiatives to protect user data.  As a Backend Engineer you will support the development of security and privacy products.( engineering products)
+	- Design, build, and implement privacy software products
+	- Design, build and ship backend services powering privacy experiences for millions of daily users.
+	- Translate privacy rules and policies into robust, scalable, reusable solutions that protect user privacy while enabling safe, transparent use of data
+	- Deep dive and become an expert in a complex and heterogeneous codebase and cloud infrastructure to find and harden all data stores and microservices that process personal data
+	- ***Knowledge of large scale cloud analytics and storage technologies and SDLC best practices***
+	- ***Comfortable in navigating unfamiliar tech stacks and working with new languages and technologies***
+	- Bring your background and passion for engineering and privacy into this role which will support our privacy focussed programs. Successful candidates will have many of the following skills and qualities: If you are worried about technology and experience requirements in privacy, please do not. All we are looking for is smart, proven and technically strong individuals with excitement and potential to grow. 
+	- Bachelor’s Degree in computer science, information systems, or a similar STEM field or equivalent professional experience.
+	- 6+ years of hands-on experience building clean, maintainable, and well-tested code.
+	- Deep knowledge of large scale cloud analytics and storage technologies and SDLC best practices
+	- Comfortable navigating unfamiliar tech stacks and working with new languages and technologies
+	- Experience with any of the following:  ***Python, Java, Go or JavaScript / TypeScript***. 
+	- Proven verbal and written communication skills for technical and non technical audiences.
+	- Experience in privacy enhancing technologies, security protocols, cryptography is  desirable. 
+	- Experience with data privacy requirements stemming from regulatory and legislative mandates including CCPA, GDPR, and state data breach notification laws is desirable but not mandatory. 
+	- Ability to effectively prioritize and execute tasks in a fast-paced environment. 
+	- Ability to learn and research new technologies and standards rapidly, assess them for security and privacy  exposures, and drive changes via code
+	- Experience with leveraging cryptography for encrypting data or building differential privacy solutions
+	- Excellent analytical, problem solving, technical writing, verbal communication, and interpersonal skills
+	- Excellent communication skills with the ability to interact with teams, be a thought leader and drive innovation
+	- Humble expert with a sense of urgency
+	- Skilled at taking complex topics and making them simple
+	- The ability to exhibit sound judgment and domain knowledge for multiple areas of expertise within the specialized discipline. 
+	- Work independently and own projects entirely, both within the department as well as cross-functionally
+	- Strong attention to detail  
+	- Ability to prioritize and work to tight deadlines and manage your own backlog. 
 + skill set:
 	- BLAH.
 + skill set:
