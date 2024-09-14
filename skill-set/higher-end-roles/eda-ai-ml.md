@@ -118,6 +118,18 @@ Skills for EDA software development, and other high-end software development:
 	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
 	- SDLC best practices
 	- ***Automate critical aspects of the event driven development process***
+	- You are responsible for contributing to a technical design, ***working across the [tech] stack to create new functionality with urgency and care***, and ***ensuring that codebases are healthy and maintainable in the long-term***.
+	- ***You will design, conduct, and analyze experiments to quantify the impact of the systems that you build***.
+	- ***Design and conduct rigorous A/B experiments to evaluate the business impact of [EDA] optimization[/verification] algorithms.***
+	- ***Writing maintainable code and conducting rigorous analyses.***
+	- ***Contribute data-driven insight to projects in your space.***
+	- ***Able to tackle ambiguous and undefined problems***
+	- ***Comfortable in innovative and fast-paced environments, and an innate ability to bias toward action***
+	- ***Able to tackle ambiguous and undefined problems***
+	- ***Champion and drive engineering processes and best practices***
+	- ***Design and develop reproducible ML systems pipelines that coordinate various components to enhance search relevance.***
+	- ***Work with large scale data, models, piplelines and product integration.***
+	- building production-quality code
 + ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
 	- knowledge of object-oriented and functional programming paradigms
 	- ***Refactoring existing C++ libraries for modularity and extensibility.***
@@ -10872,7 +10884,30 @@ Companies that have machine learning -centric products
 	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
 	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
-	- BLAH.
+	- Senior ML Engineer, Search & Recommendation Relevance
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- This role is completely remote-friendly. If you happen to live close to one of our physical office locations, our doors are open for you to come into the office as often as you'd like. 
+	- The Search & Recommendation Relevance team focuses on delivering the most relevant recommendations when users search for anything on Reddit. Our systems and algorithms operate on the world's largest corpus of human conversation, showcasing the best answers and opinions from all across Reddit on any topics, empowering discovery. 
+	- We are looking for a Senior Machine Learning Engineer to build and iterate on Guides, our next generation ***AI-driven search product***. The person will also be responsible for a ***seamless integration of Guides into our existing Search Recommendation system***. You’ll be responsible for ***designing and building pipelines and algorithms that make it easy for users to find answers*** - whether it's recommendations for the best hiking trail, travel advice, or reviews of the next product or restaurant. You’ll work closely with product managers, data scientists, ML modelers and platform engineers to build a state of the search recommender system.
+	- This is a ***high-impact role where you will be involved in technical & product strategy, operations, architecture, and execution for one of the largest sites in the world***.
+	- Contribute to improving Reddit's Search Recommendation Systems and Guides efforts ***prioritizing seamless and delightful user experience. This involves building out and testing new components in our pipelines, deploying ML models, integrating LLMs, and ensuring effective monitoring and product integration.***
+	- ***Collaborate across disciplines and with  ML, UX and Infra teams at Reddit to find technical solutions to complex challenges.***
+	- ***Leverage your technical expertise to ensure our pipelines maintain high uptime and low latency, while collaborating with other technical leaders to develop a long-term roadmap that aligns with the needs of a constantly evolving search product ecosystem.***
+	- ***Design and develop reproducible ML systems pipelines that coordinate various components to enhance search relevance.***
+	- ***Champion and drive engineering processes and best practices***
+	- ***Work with large scale data, models, piplelines and product integration.***
+	- 5+ years of industry experience as a ***machine learning engineer or software engineer developing backend / infrastructure at scale***.
+	- ***Experience building production-quality code incorporating testing, evaluation, and monitoring using object-oriented programming, including experience in Python, Golang.***
+	- ***Experienced with GraphQL, REST, HTTP, Thrift or gRPC basics, and the ability to design and implement maintainable APIs.***
+	- Experience working with ***search & recommender systems and pipelines***.
+	- ***Deep systems level understanding of industry scale recommendation systems.***
+	- Experience of ***developing applications using large scale data stack - e.g. Kubeflow, Airflow, BigQuery, GraphQL, Kafka, Redis*** etc.
+	- Big Plus: Experience in ***working and building machine learning models using PyTorch or Tensorflow***.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -16872,7 +16907,76 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- ***Unlimited paid time off subject to prior approval***
 	- ***Annual Salary Range: $140,000. to $196,000***
 + skill set:
-	- BLAH.
+	- Senior Data Scientist
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: US remote-friendly
+	- At Reddit we continue to grow our teams with the best talent. We're completely remote friendly and will continue to be after the pandemic.
+	- The Data Science Team at Reddit is growing and we are looking for experienced Data Scientists to partner with our cross-functional partners (Product, Engineering, Designer, Marketing, Business Development etc.) to help us build and improve the systems that continuously drive our user and revenue growth. 
+	- As a Senior Data Scientist on the team, you will have the opportunity to play a significant role in driving the success of key product areas at Reddit (Consumer, Ads, Safety etc.). You will ***lead and contribute to defining the product strategy through measurement and metrics design, experimentation and causal analyses, supporting product decisions via deep data analyses, and research***. 
+	- This person will be an industry technical leader with a solid technical background, strong business acumen, and excellent cross-functional stakeholders management skills. You will go through a general Data Scientists hiring process and get matched to the product area that best fits your background and interest. 
+	- ***Be actively involved in all phases of product development, including but not limited to, ideation, exploratory analysis, opportunity sizing, metrics design, offline modeling, experimentation and decision-making, post-launch monitoring/measurements etc.***
+	- You will have a ***keen interest in the collection and quality of underlying data (experiment design and analysis, data deep dive), along with working on ETLs, reporting dashboards and data aggregations needed for business tracking and/or ML model development***. 
+	- ***Serve as a thought-partner for product managers, engineering managers and leadership from your respective product domain, communicating and shaping the roadmap and strategy for Reddit by identifying actionable and impactful insights through deep-dive analyses and analytics insights.***
+	- Relevant experiences in quantitative or data science roles, preferably for a consumer-facing service/app, ads monetization, safety etc.
+	- Ph.D., M.S. or Bachelors degree in Statistics, Machine Learning, Economics, Computer Science, or other quantitative fields (If M.S. or Bachelors degree, a minimum of 4+ years of industry data science experience required; If PhD degree, a minimum of 2+ years of industry data science experience required)
+	- ***Familiar with statistical analysis, programming languages (e.g., R / Python) and querying relational databases (e.g., SQL)***
+	- Deep ***understanding of online experimentation and causal inference***
+	- Comfortable in innovative and fast-paced environments, and an innate ability to bias toward action
+	- Strong technical communication and demonstrated ability to discuss complex topics with technical and non-technical audiences alike
+	- ***Able to tackle ambiguous and undefined problems***
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $190,800 - $267,100 USD
++ skill set:
+	- Staff Data Scientist, Scaled Enforcement
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: US remote-friendly
+	- Reddit has a flexible first workforce
+	- We are looking for a Staff Data Scientist specialized in Spam to join our ***Safety Enforcement Data Science team***. Our team focuses on ***identifying trends in platform activity signaling potential or existing threats, providing intelligence to relevant stakeholders, and developing automated enforcement pipelines***. Our scope includes harmful, scaled activity that is relevant to any of our policy violations, including spam, coordinated inauthentic behavior, and general abuse.
+	- This role will involve exposure to ***sensitive content along with expectations of incident response on-call***.
+	- Elevate our ***enforcement strategy and capabilities*** by partnering with leaders in safety, community, and legal.
+	- Lead our ***Scaled Abuse detection and enforcement efforts across all policy violations with an emphasis on the many forms of Spam***.
+	- ***Provide data driven guidance*** to our Product and Engineering teams in ***developing real time enforcement systems that enable us to mitigate exposure to harmful and unwanted content***.
+	- Mentor Data Scientists and Threat Analyst in technical approaches for mitigating and detecting abuse.
+	- ***Share intelligence gathered to other safety stakeholders and executive decision makers.***
+	- Stay up to date with emerging trends and techniques in ***abuse detection and prevention while applying this knowledge to improve our systems***.
+	- Relevant experiences in ***quantitative or data science roles, preferably for safety, enforcement engineering, fraud*** etc.
+	- Ph.D., M.S. or Bachelors degree in Statistics, Machine Learning, Economics, Econometrics, Computer Science, or other quantitative fields (If M.S. or Bachelors degree, a minimum of 10+ years of industry data science experience required; If PhD degree, a minimum of 6+ years of industry data science experience required)
+	- Deep understanding of ***analyzing complex networks of behavior or large scale content patterns. Examples include network analysis, natural language processing at scale, clustering of unstructured data, etc.***
+	- Fluent with ***statistical analysis, programming languages (e.g., Python) and querying relational databases (e.g., SQL)***
+	- ***Comfortable in innovative and fast-paced environments, and an innate ability to bias toward action***
+	- Strong technical communication and demonstrated ability to discuss complex topics with technical and non-technical audiences alike
+	- ***Able to tackle ambiguous and undefined problems***
+	- Experience with ***enforcement pipeline development and spam mitigation*** is preferred.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
++ skill set:
+	- Data Scientist
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- At Reddit we continue to grow our teams with the best talent and we're completely remote friendly.
+	- The Data Science Team at Reddit is growing and we are looking for experienced Data Scientists to partner with our cross-functional partners (Product, Engineering, Designer, Marketing, Business Development etc.) to help us build and improve the systems that continuously drive our user and revenue growth. 
+	- As a Data Scientist on the team, you will have the opportunity to drive the success of Reddit’s core products by helping define the product strategy through identifying business opportunities and user pain points. You will also drive measurement and metrics design for a product area, along with experimentation and causal analyses to support product/engineering decisions and investments. 
+	- A successful candidate will have a solid technical background, strong business acumen, and excellent cross-functional stakeholder management skills. You will go through a general Data Scientists hiring process and get matched to the product area that best fits your background and interest. 
+	- Be actively involved in all phases of product development, including but not limited to, ***ideation, exploratory analysis, opportunity sizing, metrics design, offline modeling, experimentation and decision-making, post-launch monitoring/measurements*** etc.
+	- Leverage data to understand Reddit, its users, and potential product investments through ***experiment design and analysis, data deep dives, causal inference, and improving data accessibility for stakeholders (e.g. by creating ETLs, reporting dashboards and data aggregations needed for business tracking)***.
+	- Serve as a thought-partner for product managers, engineering managers and leadership from your respective product domain, communicating and shaping the roadmap and strategy for Reddit by identifying actionable and impactful insights through deep-dive analyses and analytics insights.
+	- Relevant experiences in quantitative or data science roles, preferably for a consumer-facing service/app, ads monetization, safety etc.
+	- Ph.D., M.S. or Bachelors degree in Statistics, Machine Learning, Economics, Computer Science, or other quantitative fields (If M.S. or Bachelors degree, a minimum of 3+ years of industry data science experience required; If PhD degree, a minimum of 1+ years of industry data science experience required)
+	- Familiar with ***statistical analysis, programming languages (e.g., R / Python) and querying relational databases (e.g., SQL)***
+	- Deep understanding of ***online experimentation and causal inference***
+	- ***Comfortable in innovative and fast-paced environments, and an innate ability to bias toward action***
+	- Strong technical communication and demonstrated ability to discuss complex topics with technical and non-technical audiences alike
+	- ***Able to tackle ambiguous and undefined problems***
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $164,200 - $229,900 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -16899,10 +17003,39 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- BLAH.
 + skill set:
 	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
+
+
+
+
+###	Generic Data Science Management Roles
+
+
+
+Sets of skills for generic data science management roles, or data science manager positions:
++ Data Science Manager, Growth
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: US remote-friendly
+	- At Reddit we continue to grow our teams with the best talent. We're completely remote friendly and will continue to be after the pandemic.
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 73+ million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- The Data Science Team at Reddit is growing and we are looking for an experienced Data Science Manager to ***lead a team of talented data scientists and analysts to uncover insights, drive strategic initiatives, and optimize growth across Reddit’s diverse user base***. This role will collaborate closely with cross-functional partners (Product, Engineering, Design, Marketing) to help us build and improve the systems that continuously drive our user growth.
+	- ***Serve as a thought-partner for product managers, engineering managers and leadership from your respective product domain, communicating and shaping the roadmap and strategy for Reddit by identifying actionable and impactful insights through deep-dive analyses and analytics insights.***
+	- ***Be proactively involved in all phases of product development, including but not limited to, ideation, exploratory analysis, opportunity sizing, metrics design, offline modeling, experimentation and decision-making, post-launch monitoring/measurements etc.***
+	- You will have a keen ***interest in the collection and quality of underlying data (experiment design and analysis, data deep dive), along with working on ETLs, reporting dashboards and data aggregations needed for business tracking and/or ML model development***.
+	- You have experience in ***driving product strategy and roadmaps through analytics, ideally for consumer technology products and marketplaces***
+	- You ***built, led and developed high performing product analytics teams*** before: ideally 3+ years of leadership experience as a people manager, leading a team of 5+ data scientists. 
+	- Teams you have led had ***expertise in causal inference, A/B testing experimentation, metric definition and governance, and product strategy***
+	- ***You have led initiatives to enable analytics self serve for cross-functional teams***
+	- You excel at communicating to both technical and non-technical people
+	- ***You have an ability to understand nuanced complex concepts and systems, and explain them simply.***
+	- ***You are proficient in SQL and Python/R for hands-on analysis. You can roll up your sleeves and work side by side with your team when needed***
+	- You have a collaborative attitude and natural curiosity and strong evidence-backed product opinions
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
+
+
 
 
 
@@ -17256,6 +17389,36 @@ Skill sets for business analytics:
 	- Has experience with open sourced deep learning framework.
 	- Familiar with main components for Ads system, including bidding, ranking and auction.
 	- Experience in resource management and task scheduling with large scale distributed software (such as Spark and TensorFlow).
++ Staff Data Scientist, Ads Experimentation
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: US remote-friendly
+	- Reddit has a flexible first workforce! If you happen to live close to one of our physical office locations, our doors are open for you to come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely.
+	- The Ads Data Science Team at Reddit is growing and we are looking for an experienced Staff Data Scientist to partner with product managers, engineers, and data scientists to ***up-level the experimentation capabilities of the ads organization***. You will ***work with your cross-functional partners to enable more successful decision-making, product creation and adoption of a variety of new techniques in modeling, experimentation, statistical frameworks, and causal inference***.
+	- ***Elevate the experimentation practice for the Ads org by creating the right processes, templates and tools catered for ads use cases.***
+	- ***Lead the experimentation council that approves/guides experiment designs to ensure high-quality and trustworthy experimental results that lead to action.***
+	- ***Explore new experiment designs/techniques such as budget split experiments, variance reduction techniques, Bayesian approaches, causal inference methodologies, dosage response studies, staggered experiments etc and apply them successfully for complex experiments on the ads side of the business.
+	- ***Liaise with the centralized experimentation team in building platform features to accelerate ads experimentation.***
+	- ***Develop and adopt metrics and statistical methods that help ads product teams better measure their feature areas, as well as the toolset to help experimenters understand the “why” behind what they are seeing in their experiments.***
+	- ***Serve as a thought-partner for product managers, engineering managers and leadership from your respective product domain, communicating and shaping the roadmap and strategy for Reddit by identifying actionable and impactful insights through experimentation.***
+	- Relevant experiences in quantitative or data science roles, preferably for a consumer-facing service/app, ads monetization, safety etc.
+	- Ph.D., M.S. or Bachelors degree in Statistics, Machine Learning, Economics, Econometrics, Computer Science, or other quantitative fields (If M.S. or Bachelors degree, a minimum of 10+ years of industry data science experience required; If PhD degree, a minimum of 6+ years of industry data science experience required)
+	- ***Deep understanding of online experimentation and causal inference. Able to demonstrate application of the statistical underpinnings of experimentation: hypothesis testing, p-values, causal inference, etc.***
+	- ***Fluent with statistical analysis, programming languages (e.g., Python/R) and querying relational databases (e.g., SQL)***
+	- ***Comfortable in innovative and fast-paced environments, and an innate ability to bias toward action***
+	- Strong technical communication and demonstrated ability to discuss complex topics with technical and non-technical audiences alike
+	- ***Able to tackle ambiguous and undefined problems***
+	- Experience with digital advertising and marketplace dynamics is preferred, but not required.
+	- Desire to mentor other data scientists and share best practices to elevate the data science practice at Reddit
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
+
+
+
+
+
 
 
 
@@ -18925,7 +19088,36 @@ They support databases for:
 	- We offer a hybrid-friendly culture based out of our downtown San Francisco office.
 	- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
 + skill set:
-	- BLAH.
+	- Staff Analytics Engineer, Ads
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Location: US remote-friendly
+	- Reddit has a flexible first workforce. 
+	- Reddit is poised to rapidly innovate and grow like no other time in its history and the Ads team fuels that growth. As an Analytics Engineering lead on the Ads Data Science team, you will achieve a Reddit-wide impact by leading a team of full-stack data scientists and performing hands-on execution. You will create a first-class Ads ***data warehouse and data tools to provide scalable solutions that meet a wide range of evolving needs - including high-quality metric reporting, product insights, and data engineering for ML models***. You will play a critical role in making ads data more accessible across reddit - unlocking innovation through the self-service of our data from Engineering to Sales teams. If you are passionate about building high-quality data products and leading a strategy to create an agile but reliable foundation to accelerate our advertising business, Reddit will be the perfect home for you.
+	- Reddit has a flexible workforce! If you happen to live close to one of our physical office locations, our doors are open so you can come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely in any country in which we have a physical presence.
+	- Act as the analytics engineering lead within Ads DS team and a key contributor to the success of data science data quality and automation initiatives. 
+	- You will have a ***keen interest in the collection and quality of underlying data (experiment design and analysis, data deep dive) and in working on ETLs, reporting dashboards, and data aggregations needed for business tracking and/or ML model development***. 
+	- ***Develop and maintain robust data pipelines and workflows for data ingestion, processing, and transformation. Work closely with engineering to ensure the quality and reliability of these data pipelines.*** 
+	- ***Create user-friendly tools and applications for internal use across Data Science and cross-functional teams, streamlining data analysis and reporting processes. Driver widespread adoption of these tools and applications***
+	- ***Lead transformational efforts to build a data-driven culture at Reddit by enabling data self-service.***
+	- ***Provide technical guidance, mentorship, coaching and/or training to data analysts***
+	- ***Serve as a thought partner for data scientists, engineering managers, and leadership on data foundations, communicating and shaping the data foundations roadmap and strategy for Reddit***
+	- MS or PhD in a quantitative discipline: engineering, statistics, operations research, computer science, informatics, applied mathematics, economics, etc. 
+	- 7+ years of experience working with ***large-scale ETL systems (implementation, strategy, and maintenance), building clean, maintainable, object-oriented code (Python preferred) in a production environment***. 
+	- Strong programming proficiency in ***Python, SQL, Spark, Scala***, etc.
+	- Experience with ***data modeling, ETL (Extraction, Transformation & Load) concepts, and patterns for efficient data governance. Experience with manipulating massive-scale structured and unstructured data***.
+	- Experience with ***data workflows (such as Airflow), data modeling, front-end or back-end engineering***.
+	- Experience in ***data visualization and dashboard design, including tools such as Looker, Tableau, R visualization packages, streamlit, D3, and other libraries***, etc.
+	- Deep ***understanding of technical and functional designs for relational and MPP Databases***
+	- Proven track record of ***cross-functional execution and collaboration***. Excellent communication skills to collaborate with cross-functional stakeholders at all levels of the company.
+	- Experience in mentoring junior data scientists and analytics engineers.
+	- Self starter, ability to work independently and autonomously, as well as part of a team. 
+	- Ads domain experience, including metrics, tracking, and ads product understanding, is a big plus
+	- Past experience collaborating closely with data scientists, machine learning engineers, and product managers.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -19716,6 +19908,25 @@ Skill sets for DataOps:
 	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
 	- The base pay range for this position is: $190,800 - $267,100 USD
++ Senior Software Engineer - Ads Bidding & Pacing
+	- Remote - Ontario, Canada
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- As a software engineer in the Ads Bidding and Pacing team, you will work closely with technical leaders to implement sophisticated ***optimization systems*** and make existing systems more robust. You are responsible for contributing to a technical design, ***working across the ad serving stack to create new functionality with urgency and care***, and ***ensuring that codebases are healthy and maintainable in the long-term***. You will collaborate with cross-functional engineering, product, and marketing teams to ensure that our customers’ voices are represented in your work. ***You will design, conduct, and analyze experiments to quantify the impact of the systems that you build***.
+	- You will serve as a leader and a key contributor to some of the most impactful monetization systems at Reddit.
+	- Identify and close infrastructural and operational gaps in our automated bidding products & pacing systems.
+	- Build systems that can ingest and process data at the scale of the whole-marketplace.
+	- Work closely with product and engineering teams to ensure that improvements to bidding & pacing systems are aligned with the business’ vision for the marketplace.
+	- ***Design and conduct rigorous A/B experiments to evaluate the business impact of new bid & budget optimization algorithms.***
+	- ***Writing maintainable code and conducting rigorous analyses.***
+	- ***Contribute data-driven insight to projects in your space.*** We give everyone a seat at the table and encourage active participation in planning for the future.
+	- Relevant experience working in ads & marketplace systems, and optimizing an ads marketplace
+	- MS or PhD degree in Computer Science, Statistics or related field, or equivalent is preferred.
+	- 4+ years of ***industry experience building systems that ingest and process data in real time using frameworks like Flink, Spark Streaming, Kinesis, and Kafka***.
+	- Experience with general-use programming languages such as ***Scala, Go, and Java***.
+	- ***Comfortable with distributed systems, big data (Petabyte scale) and data-intensive systems***.
+	- ***Comfort and willingness to explore data in order to understand experiment results and inform design decisions.***
+	- Excellent communication skills, both written and verbal, and the ability to work effectively with product managers, data scientists, and other stakeholders
+	- Strong ownership mentality & independence, and desire to contribute to roadmap development.
 
 
 
