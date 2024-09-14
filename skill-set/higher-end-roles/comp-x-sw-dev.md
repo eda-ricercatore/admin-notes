@@ -1920,8 +1920,34 @@ Skill set for software development for distributed programming (or distributed c
 	- Excellent problem-solving abilities and the ability to analyze and address complex performance and scalability challenges.
 	- Strong communication and collaboration skills to work effectively with cross-functional teams and domain experts.
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
-
-
++ Staff Software Engineer, Observability
+	- San Francisco, CA
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- The Observability (OBS) team is looking to hire a Staff Software Engineer that thrives at the intersection of infrastructure and software development. This team own a suite of tools for allowing engineers to understand their creations, based primarily on open-source solutions at scale. We’re active users of and contributors to Prometheus, Thanos, Grafana, Vector and more.
+	- Monitoring
+		* We run a monitoring stack at reddit that processes billions of data-points a minute. Our stack is one of the larger deployments in the world of Prometheus/Thanos/Grafana, and with this come unique challenges of scale for these systems. Fun problems include performance engineering on a distributed query system and product thinking around new features to remove the user pain from this stack.
+	- Logging
+		* We also operate a hybrid system for logging  that involves some open source (Vector) and SaaS for the search backend. The team is working to provide new features, and deliver more reliable, scalable logging in the future.
+	- Distributed Tracing
+		* We’re in the midst of releasing a tracing product for internal use at Reddit, based on OTEL, Clickhouse, and Grafana. There will be ongoing work to scale this platform and add features.
+		* As a member of the Observability team, your work will span these domains, which are rich with challenging infrastructure and software engineering problems. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+	- Work collaboratively with a team of software engineers to create and maintain the foundational platform for running Reddit’s infrastructure.
+	- Deliver software to improve the availability, scalability, latency, and efficiency of observability components.
+	- Contribute feedback to the technical and strategic direction of eventing at Reddit.
+	- Automate critical aspects of the event driven development process
+	- Share on-call responsibilities. 
+	- Contribute upstream changes to the open source projects we use
+	- 7+ years of experience developing internet-scale software, preferably in the context of infrastructure.
+	- Familiarity with distributed systems development, bonus if familiar with any of the specific tools (Prometheus, Thanos, Grafana, Vector, Clickhouse, Otel, Loki)
+	- Experience developing on top of Kubernetes or similar distributed systems.
+	- Kubernetes controller or operator development experience is a huge plus.
+	- Strong troubleshooting capabilities surrounding both systems and software.
+	- Experience engineering large systems, tracking work, and being a self-starter on projects.
+	- Excellent communication skills to collaborate with a service-oriented team and company.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $206,700 - $289,400 USD
 
 
 
