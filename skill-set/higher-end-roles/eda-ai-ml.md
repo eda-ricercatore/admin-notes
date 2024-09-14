@@ -107,6 +107,15 @@ Skills for EDA software development, and other high-end software development:
 	- ***ship high quality software at scale***
 	- Full ownership including: Designing, Implementing, Testing and Metric Analysis.
 	- ***Identify scaling bottlenecks and propose solutions.***
+	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
+	- ***Ability to prioritize and work to tight deadlines and manage your own backlog.***
+	- ***Work independently and own projects entirely, both within the department as well as cross-functionally***
+	- Excellent communication skills with the ability to interact with teams, ***be a thought leader and drive innovation***
+	- ***Humble expert with a sense of urgency***
+	- ***Skilled at taking complex topics and making them simple***
+	- ***The ability to exhibit sound judgment and domain knowledge for multiple areas of expertise within the specialized discipline.*** 
+	- ***Ability to effectively prioritize and execute tasks in a fast-paced environment.*** 
+	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
 + Build system experience, like:
 	- Apache Buildr, historic open-source build system, Rake-based, gives the full power of scripting in Ruby with integral support for most abilities wanted in a build system
 	- ***Bazel***
@@ -205,8 +214,9 @@ Skills for EDA software development, and other high-end software development:
 	- GitBook
 		* Modern documentation format and toolchain using Git and Markdown
 		* Good experiences with technologies used by GitBook: Go, Google Cloud Platform, Algolia, Firebase
-+ Hibernate ORM is an object-relational mapping tool for the Java programming language
-	- object-relational mapping allows software developers to convert data between type systems using object-oriented programming languages, OOPL.
++ skills for database systems and information systems:
+	- Hibernate ORM is an object-relational mapping tool for the Java programming language
+		* object-relational mapping allows software developers to convert data between type systems using object-oriented programming languages, OOPL.
 + ***Where possible, exploit [incremental computing](https://en.wikipedia.org/wiki/Incremental_computing), to speed up the performance of EDA tools that I develop.***
 	- use "checkpoint"s to save temporary results of computing
 		* This allows results from computation performed thus far to be reused.
