@@ -116,6 +116,11 @@ Skills for EDA software development, and other high-end software development:
 	- ***The ability to exhibit sound judgment and domain knowledge for multiple areas of expertise within the specialized discipline.*** 
 	- ***Ability to effectively prioritize and execute tasks in a fast-paced environment.*** 
 	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
+	- SDLC best practices
++ ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
+	- knowledge of object-oriented and functional programming paradigms
+	- ***Refactoring existing C++ libraries for modularity and extensibility.***
+	- ***Comfortable navigating unfamiliar tech stacks and working with new languages and technologies***
 + Build system experience, like:
 	- Apache Buildr, historic open-source build system, Rake-based, gives the full power of scripting in Ruby with integral support for most abilities wanted in a build system
 	- ***Bazel***
@@ -354,10 +359,6 @@ Skills for EDA software development, and other high-end software development:
 + program analysis tools:
 	- PerfView
 		* CPU, memory, garbage collection
-+ ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
-	- knowledge of object-oriented and functional programming paradigms
-	- ***Refactoring existing C++ libraries for modularity and extensibility.***
-	- ***Comfortable navigating unfamiliar tech stacks and working with new languages and technologies***
 +
 + 
 
