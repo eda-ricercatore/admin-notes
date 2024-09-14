@@ -10763,39 +10763,100 @@ Companies that have machine learning -centric products
 	- As a company, Reddit primarily generates revenue through advertising, and we're working towards building a massive business to fund our mission. We distinguish ourselves from other digital ad platforms by attracting advertisers who want to connect with a specific target audience because of our passionate and engaged communities.
 	- The Ads Ranking organization is responsible for predicting various ad engagement rates, including but not limited to click, conversion, and app install predictions. These rates are then used in the ad auction to maximize ad engagements and marketplace efficiency. This organization owns a critical piece in the ads delivery pipeline and machine learning infrastructure.
 	- Project highlights:
-		* Model architecture engineering via exploring different state-of-the-art model architectures such as Multi-task learning, Attention Layers, and Delayed Feedback models.
-		* Systematic feature engineering to build powerful features from Reddit’s data with aggregation, embedding, sub-models, content understanding techniques, etc.
-		* Build efficient ML infrastructure and tools such as auto ML flows and batch feature engineering framework to accelerate MLE dev cycle.
-	- As a machine learning engineer in the Ads Ranking organization, you will research, formulate, and execute projects, and actively participate in the end-to-end implementation process. You will collaborate with cross-functional teams to ensure successful product delivery. You will also be able to contribute your expertise and shape the future of ads ML at Reddit.
-	- Building industrial-level models for critical ML tasks with advanced modeling techniques
-	- Research, implement, test, and launch new model architectures including deep neural networks with advanced pooling and feature interaction architectures
-	- Systematic feature engineering work to convert all kinds of raw data in Reddit (dense & sparse, behavior & content, etc) into features with various FE technologies such as aggregation, embedding, sub-models, etc.  
+		* ***Model architecture engineering via exploring different state-of-the-art model architectures such as Multi-task learning, Attention Layers, and Delayed Feedback models.***
+		* ***Systematic feature engineering to build powerful features from Reddit’s data with aggregation, embedding, sub-models, content understanding techniques, etc.***
+		* ***Build efficient ML infrastructure and tools such as auto ML flows and batch feature engineering framework to accelerate MLE dev cycle.***
+	- As a machine learning engineer in the Ads Ranking organization, you will ***research, formulate, and execute projects, and actively participate in the end-to-end implementation process. You will collaborate with cross-functional teams to ensure successful product delivery. You will also be able to contribute your expertise and shape the future of ads ML at Reddit.***
+	- ***Building industrial-level models for critical ML tasks with advanced modeling techniques***
+	- ***Research, implement, test, and launch new model architectures including deep neural networks with advanced pooling and feature interaction architectures***
+	- ***Systematic feature engineering work to convert all kinds of raw data in Reddit (dense & sparse, behavior & content, etc) into features with various FE technologies such as aggregation, embedding, sub-models, etc.***  
 	- Contribute meaningfully to team strategy. We give everyone a seat at the table and encourage active participation in planning for the future
-	- Tracking records of consistently driving KPI wins through systematic works around model architecture and feature engineering
-	- 3+ years of experience with industry-level Machine Learning models
-	- 3+ years of experience with mainstream ML frameworks (such as Tensorflow and Pytorch)
-	- 3+ years of end-to-end experience of training, evaluating, testing, and deploying industry-level models
+	- ***Tracking records of consistently driving KPI wins through systematic works around model architecture and feature engineering***
+	- 3+ years of experience with ***industry-level Machine Learning models***
+	- 3+ years of experience with ***mainstream ML frameworks (such as Tensorflow and Pytorch)***
+	- 3+ years of ***end-to-end experience of training, evaluating, testing, and deploying industry-level models***
 	- Deep learning experience is a strong plus
-	- Experience in orchestrating complicated data generation pipelines on large-scale dataset is a plus
+	- Experience in ***orchestrating complicated data generation pipelines on large-scale dataset*** is a plus
 	- Experience with Ads domain is a plus
-	- Experience with Recommendation Systems is a plus
-	- Pay Transparency:
-
-This job posting may span more than one career level.
-
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
-
-The base pay range for this position is:
-
-$185,800 - $260,100 USD
+	- Experience with ***Recommendation Systems*** is a plus
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $185,800 - $260,100 USD
 + skill set:
-	- BLAH.
+	- Senior Machine Learning Engineer, Ads Targeting
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Reddit has a flexible first workforce! if you happen to live close to one of our physical office locations our doors are open for you to come into the office as often as you'd like. Don't live near one of our offices? No worries: You can apply to work remotely from the United States or Canada.
+	- We’re evolving and continuing our mission to bring community, belonging, and empowerment to everyone in the world. Providing a delightful and relevant experience to our users applies to our Ads like all of our offerings, and we’re excited to build a product that is best-in-class for our users and advertisers. The year ahead is a busy one - join us! 
+	- Ads Targeting ML engineers are focused on designing and implementing ML systems and solutions for improving targeting products. The team’s projects involve building large-scale offline & online retrieval systems across several dimensions to improve contextual & behavioral targeting for targeting products.
+	- As a senior machine learning engineer in the ads targeting core team, you will execute our mission to automate targeting and deliver the most relevant audiences to advertisers under the right context with data and ML-driven solutions.
+	- Own end-to-end execution of ML-based targeting products like smart targeting expansion, keyword targeting, auto targeting, user lookalikes etc
+	- Own offline & online experimentation of ML models for improving targeting products to drive advertiser outcomes
+	- Research, implement, test, and launch new model architectures for retrieval using deep learning (GNNs, transformers, two tower models) with a focus on improving advertiser outcomes
+	- Drive technical roadmaps and lead day to day project execution, and contribute meaningfully to team vision and strategy
+	- Work on large scale data systems, backend services and product integration
+	- Collaborate closely with multiple stakeholders cross product, engineering, research and marketing
+	- 2+ years of experience with ***leading applied machine learning models with Tensorflow/Pytorch with large-scale ML systems*** 
+	- 5+ years of ***end-to-end experience of training, evaluating, testing, and deploying machine learning models***
+	- Experience with ***large scale data processing & pipeline orchestration tools like Spark, Dataflow, Kubeflow, Airflow, BigQuery***
+	- Experience working with ***nearest-neighbor search systems*** is a big plus
+	- Experience ***building & improving MLOps tools and ML experimentation workflows*** 
+	- Experience working with cross functional stakeholders across research, product & infrastructure to productize ML research 
+	- Knowledge of ***large scale search & recommender systems, or modern ads ranking/retrieval/targeting systems*** is preferred
+	- Experience with ***deep learning, representation learning or transfer learning*** is preferred
+	- Tech lead experience in a product team is strongly preferred
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
-	- BLAH.
+	- Senior Machine Learning Engineer, Ads Marketplace Quality
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- Ads Marketplace Quality team is growing and we are looking for an experienced software engineer to be part of the journey of developing a world-class marketplace and optimizing for users, advertisers and Reddit value. 
+	- In this role, you will be responsible for developing and executing a vision to improve our Ads Marketplace. You will develop a deep understanding of our marketplace dynamics and identify areas of improvements by getting to the bottom of data, design, implement and ship algorithms to production that improve our ads delivery funnel with the goal of upleveling the utility for both our advertiser and user values. In particular, you will work on our Ad Relevance initiatives, where you will drive and execute on Reddit’s vision to transform Reddit into an advertising platform that serves ads that are highly relevant to our users 
+	- As a senior machine learning engineer in the Ads Marketplace Quality team, you will be an industry technical leader with domain knowledge in marketplace dynamics, you will research, formulate, and execute on our mission to build end-to-end ML solutions and deliver the highly relevant ad to the right user under the right context with data and ML driven solutions. You will deliver with strong execution and cross-functional management skills.
+	- ***Building industrial-level models for critical ML tasks with advanced modeling techniques to improve ad relevance on Reddit***
+	- ***Research, implement, test, and launch new model architectures including deep neural networks with advanced pooling and feature interaction architectures;***
+	- ***Proactively further our understanding of marketplace dynamics and develop algorithms to improve the efficiency and effectiveness of our ads ranking and auction***
+	- ***Drive technical roadmaps and lead day to day project execution, and contribute meaningfully to team vision and strategy***
+	- ***Lead junior engineers in implementing technical designs***
+	- ***Be a cross-functional advocate for the team, collaborate with product managers and data scientists to innovate and build products***
+	- ***Tracking records of consistently driving KPI wins through systematic works around model architecture and feature engineering***
+	- 3+ years of experience with ***industry-level product development***
+	- 4+ years of ***end-to-end experience of training, evaluating, testing, and deploying industry-level machine learning models***
+	- 4+ years of experience of ***orchestrating complicated data generation pipelines on large-scale dataset***
+	- Proficiency with programming languages (***Java, Python, Golang, C++***, or similar) and ***statistical analysis***.
+	- Experience with Ads (Marketplace) domain is a plus
+	- Experience with Ads Relevance is a plus
+	- Desire to mentor other engineers and level-up the team’s strength
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
-	- BLAH.
+	- Senior Machine Learning Engineer, Ads ML Platform
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- We’re evolving and continuing our mission to bring community, belonging, and empowerment to everyone in the world. Providing a delightful and relevant experience to our users applies to our Ads like all of our offerings, and we’re excited to build a product that is best-in-class for our users and advertisers. The year ahead is a busy one - join us! 
+	- Ads ML Platform engineers are focused on designing and implementing ML infrastructure solutions for ads modelling teams. The team’s projects involve building & maintaining large-scale online inference and feature serving, ads feature engineering platform, and the model training platform.
+	- As a Senior machine learning systems engineer in the ads ml platform team, you will own and build platform components to improve modelling velocity and infrastructure efficiency. Your work will empower the Ads organization to achieve revenue and advertiser-facing goals.
+	- ***Own end-to-end design and execution of ML-infrastructure modules for Features, Embeddings, RecSys, Model Training/Inference/Prediction***
+	- ***Developing state-of-the-art ML Training and Inference frameworks and Platforms***
+	- ***Building and optimizing ML distributed systems, with low latency and high volume***
+	- ***Collaborating with machine learning modelling teams and Reddit core platform team to improve modelling velocity and infrastructure performance & cost***
+	- ***Leading the processes needed to improve operational stability, including improving code quality, delivering dashboards, and creating data visualizations***
+	- ***Partnering and leading other engineers to implement your technical designs***
+	- 5+ years of hands on ***experience and deep understanding of infrastructure, especially with scaling and optimizations***
+	- 2+ years of hands on ***experience with ML operations at scale (inference, training, feature serving, feature engineering infrastructure) ideally using well-known frameworks***
+	- ***Experience with building and scaling infrastructure powering ads, recommendation, search, or other distributed systems.***
+	- Significant experience in one or more general purpose programming languages (***Go, Java, Scala, C++, Python***)
+	- ***Deep expertise in Backend engineering, distributed systems, databases, etc***
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -14893,7 +14954,28 @@ Use MLOps to support distributed machine learning, distributed ML.
 	- Daily lunch and dinner in our office
 	- Relocation support for those moving to Cupertino
 + skill set:
-	- BLAH.
+	- Senior Software Engineer, ML Platform
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- This role is completely remote-friendly. If you happen to live close to one of our physical office locations, our doors are open for you to come into the office as often as you'd like. 
+	- The Machine Learning Platform team at Reddit is a high-impact team that owns the infrastructure that powers recommendations, content discovery, user and content quantification, while directly impacting other teams such as Growth, Ads, Feeds, and Core Machine Learning teams.
+	- As a Senior Software Engineer, Machine Learning Platform, this person will be ***instrumental in architecting, implementing, and maintaining foundational Machine Learning infrastructure (especially on the Inference/Training Platform) that powers Feeds Ranking, Content Understanding, Recommendations and much more to fulfill Reddit’s mission of bringing community and belonging to everyone in the world. You will build systems and tools that enable machine learning engineers (MLEs) and data scientists (DSs) and continuously improve the ML software development lifecycle. You will deliver a self service ML platform that enables the continuous iteration and improvement of systems that use ML techniques including Deep Learning, Natural Language Processing, Recommendation Systems, Representation Learning and Computer Vision.***
+	- ***Lead the building, testing, and maintenance of ML infrastructure at Reddit, specifically within our Inference/Training Platform.***
+	- ***Propose, design, and implement high-performance ML platform solutions that significantly advance the deployment of models that serve millions of redditors a seamless experience for MLEs***
+	- ***Design and implement solutions that significantly advance the architecture of the ML Platform***
+	- ***Work with management on team goal setting, planning, and de-risk project execution***
+	- ***Mentor other team members in adopting a rigorous DevOps approach to maintain and/or improve ML platform components and services health and quality***
+	- 4+ years of work experience in a ***production software development environment or building data systems***, 
+	- 3+ years of work experience plus a degree in ML, Engineering, Computer Science, or other relevant discipline
+	- ***Experience with design and architecture of large scale ML Systems***
+	- ***Experience building production-quality code incorporating testing, evaluation, and monitoring using object oriented programming, experience in: Python, Scala, golang.***
+	- ***Knowledge of maintaining or developing applications using large-scale data stack, e.g, BigQuery, GraphQL, Kafka, Flink, Cassandra, Redis***
+	- ***Comfortable with distributed systems, big data (Petabyte scale) and data-intensive systems***
+	- Strong organizational & communication skills
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
 	- BLAH.
 + skill set:
@@ -19540,11 +19622,11 @@ Skill sets for DataOps:
 		* TypeScript and React or Angular
 		* gRPC
 		* Kubernetes
-		* JAX
+		* ***JAX***
 		* CUDA
-		* MLIR
-		* Triton
-		* XLA
+		* ***MLIR***
+		* ***Triton***
+		* ***XLA***
 		* The role is based in our London office close to Piccadilly Circus underground station. We usually work from the office 5 days a week but allow for work-from-home days when required. Candidates must be willing to attend late meetings at least twice a week to coordinate with the rest of our team, which is based in California. This role includes semi-regular business trips to California.
 	- Interview process
 		* After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
@@ -19575,6 +19657,58 @@ Skill sets for DataOps:
 	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
 	- The base pay range for this position is:
 	- $206,700 - $289,400 USD
++ Senior Software Engineer - Data Product
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- The Developer Platform - Data Products team is looking to hire a Senior Software Engineer who is excited to solve large scale batch and streaming data challenges.
+	- Reddit’s mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit redditinc.com.
+	- Our community of users generates over 100B analytics events per day, each of which is ingested by the Data Infrastructure team into a data warehouse that sees 55,000+ daily queries. We utilize this data to enable both batch and streaming data usage at the company. The team also owns our Streaming Platform that is build using Kafka.
+	- As a senior engineer, you will help develop our Snapshot product used to deliver high quality data to partners. You will partner with teams around Reddit to create and execute a strategy to ensure data quality and consistency at scale. 
+	- Refine and maintain our data infrastructure technologies to support batch and real-time processing of hundreds of millions of users.
+	- Own the tools we use to ingest, store and improve data quality.
+	- Design, Build and Deliver end-to-end data solutions to improve the reliability, scalability, latency and efficiency of Reddit’s Data Platform.
+	- Implement automation for key elements of the development process, including data quality, managing alerts and handling critical infrastructure operations.
+	- Guide and support fellow engineers within the team by serving as a mentor, while actively contributing to the sharing of knowledge through training sessions and comprehensive documentation.
+	- 4+ years of coding experience in a production setting writing clean, maintainable, and well-tested code.
+	- Excellent communication skills to collaborate with stakeholders in engineering, data science, machine learning, and product.
+	- Experience with programming languages such as Scala, Go, Java, or Python with expertise in SQL languages like BigQuery, SparkSQL or Postgres.
+	- Experience working with Terraform, Helm, Kafka, Flink, CDC, Airflow, Prometheus, Docker, Kubernetes, and CI/CD.
+	- Degree in Computer Science or equivalent experience.
+	- Excellent communication skills tailored for effective collaboration within both a service-oriented team and the broader organizational context
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $190,800 - $267,100 USD
++ Senior Software Engineer - Ads Bidding & Pacing
+	- Remote - United States
+	- Reddit is a community of communities. It’s built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 82M+ daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit redditinc.com.
+	- As a software engineer in the Ads Bidding and Pacing team, you will work closely with technical leaders to implement sophisticated optimization systems and make existing systems more robust. You are responsible for contributing to a technical design, working across the ad serving stack to create new functionality with urgency and care, and ensuring that codebases are healthy and maintainable in the long-term. You will collaborate with cross-functional engineering, product, and marketing teams to ensure that our customers’ voices are represented in your work. You will design, conduct, and analyze experiments to quantify the impact of the systems that you build. 
+	- You will serve as a leader and a key contributor to some of the most impactful monetization systems at Reddit.
+	- ***Identify and close infrastructural and operational gaps in our automated bidding products & pacing systems.***
+	- ***Build systems that can ingest and process data at the scale of the whole-marketplace.***
+	- ***Work closely with product and engineering teams to ensure that improvements to bidding & pacing systems are aligned with the business’ vision for the marketplace.***
+	- ***Design and conduct rigorous A/B experiments to evaluate the business impact of new bid & budget optimization algorithms.***
+	- ***Writing maintainable code and conducting rigorous analyses.***
+	- ***Contribute data-driven insight to projects in your space. We give everyone a seat at the table and encourage active participation in planning for the future.***
+	- ***Relevant experience working in ads & marketplace systems, and optimizing an ads marketplace***
+	- MS or PhD degree in Computer Science, Statistics or related field, or equivalent is preferred.
+	- 4+ years of industry experience ***building systems that ingest and process data in real time using frameworks like Flink, Spark Streaming, Kinesis, and Kafka***.
+	- Experience with general-use programming languages such as ***Scala, Go, and Java***.
+	- Comfortable with ***distributed systems, big data (Petabyte scale) and data-intensive systems***.
+	- Comfort and willingness to ***explore data in order to understand experiment results and inform design decisions***.
+	- Excellent communication skills, both written and verbal, and the ability to work effectively with product managers, data scientists, and other stakeholders
+	- Strong ownership mentality & independence, and desire to contribute to roadmap development.
+	- Pay Transparency: This job posting may span more than one career level.
+	- In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+	- To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+	- The base pay range for this position is: $190,800 - $267,100 USD
+
+
+
+
+
+
+
 
 
 
