@@ -117,6 +117,7 @@ Skills for EDA software development, and other high-end software development:
 	- ***Ability to effectively prioritize and execute tasks in a fast-paced environment.*** 
 	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
 	- SDLC best practices
+	- ***Automate critical aspects of the event driven development process***
 + ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
 	- knowledge of object-oriented and functional programming paradigms
 	- ***Refactoring existing C++ libraries for modularity and extensibility.***

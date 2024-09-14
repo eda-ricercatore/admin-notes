@@ -1227,24 +1227,24 @@ Roles in computing security:
 	- ***Comfortable in navigating unfamiliar tech stacks and working with new languages and technologies***
 	- Bring your background and passion for engineering and privacy into this role which will support our privacy focussed programs. Successful candidates will have many of the following skills and qualities: If you are worried about technology and experience requirements in privacy, please do not. All we are looking for is smart, proven and technically strong individuals with excitement and potential to grow. 
 	- Bachelor’s Degree in computer science, information systems, or a similar STEM field or equivalent professional experience.
-	- 6+ years of hands-on experience building clean, maintainable, and well-tested code.
-	- Deep knowledge of large scale cloud analytics and storage technologies and SDLC best practices
-	- Comfortable navigating unfamiliar tech stacks and working with new languages and technologies
+	- 6+ years of ***hands-on experience building clean, maintainable, and well-tested code***.
+	- ***Deep knowledge of large scale cloud analytics and storage technologies and SDLC best practices***
+	- ***Comfortable navigating unfamiliar tech stacks and working with new languages and technologies***
 	- Experience with any of the following:  ***Python, Java, Go or JavaScript / TypeScript***. 
 	- Proven verbal and written communication skills for technical and non technical audiences.
-	- Experience in privacy enhancing technologies, security protocols, cryptography is  desirable. 
-	- Experience with data privacy requirements stemming from regulatory and legislative mandates including CCPA, GDPR, and state data breach notification laws is desirable but not mandatory. 
-	- Ability to effectively prioritize and execute tasks in a fast-paced environment. 
-	- Ability to learn and research new technologies and standards rapidly, assess them for security and privacy  exposures, and drive changes via code
-	- Experience with leveraging cryptography for encrypting data or building differential privacy solutions
+	- Experience in ***privacy enhancing technologies, security protocols, cryptography*** is desirable. 
+	- Experience with ***data privacy requirements stemming from regulatory and legislative mandates including CCPA, GDPR, and state data breach notification laws*** is desirable but not mandatory. 
+	- ***Ability to effectively prioritize and execute tasks in a fast-paced environment.*** 
+	- ***Ability to learn and research new technologies and standards rapidly, assess them for security and privacy exposures, and drive changes via code***
+	- ***Experience with leveraging cryptography for encrypting data or building differential privacy solutions***
 	- Excellent analytical, problem solving, technical writing, verbal communication, and interpersonal skills
-	- Excellent communication skills with the ability to interact with teams, be a thought leader and drive innovation
-	- Humble expert with a sense of urgency
-	- Skilled at taking complex topics and making them simple
-	- The ability to exhibit sound judgment and domain knowledge for multiple areas of expertise within the specialized discipline. 
-	- Work independently and own projects entirely, both within the department as well as cross-functionally
-	- Strong attention to detail  
-	- Ability to prioritize and work to tight deadlines and manage your own backlog. 
+	- Excellent communication skills with the ability to interact with teams, ***be a thought leader and drive innovation***
+	- ***Humble expert with a sense of urgency***
+	- ***Skilled at taking complex topics and making them simple***
+	- ***The ability to exhibit sound judgment and domain knowledge for multiple areas of expertise within the specialized discipline.*** 
+	- ***Work independently and own projects entirely, both within the department as well as cross-functionally***
+	- Strong attention to detail
+	- ***Ability to prioritize and work to tight deadlines and manage your own backlog.*** 
 + skill set:
 	- BLAH.
 + skill set:
