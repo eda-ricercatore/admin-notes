@@ -21551,6 +21551,7 @@ Generic skill sets for research scientists:
 	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
 	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
 	- The Data Platform team works on challenges in big data infrastructure and data products. Our team focuses on internal tools relating to OLAP DBMS, logging and data ingestion infrastructure, A/B testing for all product and feature launches, workflow management, distributed cache, data visualization tools, and big data engineering, which supports TikTok's business products.
+		* OLAP: online analytical processing
 	- Data-Data Platform-Compute Platform - DB Boost team focuses on building the next generation DBMS kernel aiming for the best-in-class query latency and hardware utilization. The team operates the distributed OLAP infrastructure powering cloud native data warehouse, which is the foundation behind data-driven decision-making within TikTok.
 	- We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
 	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
