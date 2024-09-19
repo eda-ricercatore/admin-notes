@@ -1498,38 +1498,21 @@ Roles in computing security:
 		* Tuesday May 27 (Memorial Day May 26)
 		* Monday, June 9
 		* Monday, June 23
-
-We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
-
-Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
-
-Online Assessment
-Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
-
-Responsibilities
-We are looking for Research Interns to help us identify new opportunities and develop scientifically sound systems to improve technological guarantees for user privacy and advance the efficient frontier of privacy and utility in our systems, contribute to the development of libraries and tools to support research and business, and publish influential research findings in prestigious journals and at prestigious conferences.
-Qualifications
-Minimum Qualifications
-Currently pursuing a PhD degree in Computer Science, Electrical Engineering, Statistics, Mathematics, or a related technical discipline.
-- Able to commit to working for 12 weeks during Summer 2025.
-- At least one of the following skills is required: Secure Multi-Party Computation techniques, Differential Privacy, Federated Learning or Federated Analytics, Homomorphic Encryption.
-- Ability to communicate research findings clearly and precisely.
-- Ability to design and implement analytical and/or algorithmic solutions that are tailored to specific business needs and tested on large data sets.
-- Programming proficiency: Familiar with Python, C++, Pytorch, Tensorflow, etc.
-- A demonstrated track record of research publication.
-- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
-
-
-Preferred Qualifications
-- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
-
-
-TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-
-TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
-Job Information
-【For Pay Transparency】Compensation Description Intern (hourly)
-The hourly rate range for this position in the selected city is $57- $72. W
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Online Assessment: Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+	- We are looking for Research Interns to help us identify new opportunities and develop scientifically sound systems to improve technological guarantees for user privacy and advance the efficient frontier of privacy and utility in our systems, contribute to the development of libraries and tools to support research and business, and publish influential research findings in prestigious journals and at prestigious conferences.
+	- Currently pursuing a PhD degree in Computer Science, Electrical Engineering, Statistics, Mathematics, or a related technical discipline.
+	- Able to commit to working for 12 weeks during Summer 2025.
+	- At least one of the following skills is required: ***Secure Multi-Party Computation techniques, Differential Privacy, Federated Learning or Federated Analytics, Homomorphic Encryption***.
+	- Ability to communicate research findings clearly and precisely.
+	- Ability to design and implement analytical and/or algorithmic solutions that are tailored to specific business needs and tested on large data sets.
+	- Programming proficiency: Familiar with Python, C++, Pytorch, Tensorflow, etc.
+	- A demonstrated track record of research publication.
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $57- $72.
 + skill set:
 	- BLAH.
 + skill set:

@@ -14234,7 +14234,7 @@ Skill sets for using machine learning to engineer machine learning systems:
 	- xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
 	- Tech Stack
 		* Python
-		* JAX and XLA
+		* ***JAX and XLA***
 		* Rust
 		* CUDA (C++ and Triton)
 	- The role is based in the Bay Area [San Francisco and Palo Alto]. Candidates are expected to be located near the Bay Area or open to relocation.
@@ -17363,13 +17363,6 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Working level competency in one or more programming languages including ***SQL and Python*** are required. ***Understanding of ML models and how they can be leveraged to act upon a range of content and safety risks.***
 	- Collaborative, data-driven, ownership, communication, analytical mindset
 	- Previous work experience in quantitative analysis with relevant degree / experience is a plus
-
-TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-
-By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy.
-
-If you have any questions, please reach out to us at apac-earlycareers@tiktok.com.
-
 + skill set:
 	- BLAH.
 + skill set:
