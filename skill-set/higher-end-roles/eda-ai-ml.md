@@ -130,6 +130,8 @@ Skills for EDA software development, and other high-end software development:
 	- ***Design and develop reproducible ML systems pipelines that coordinate various components to enhance search relevance.***
 	- ***Work with large scale data, models, piplelines and product integration.***
 	- building production-quality code
+	- ***Performance Optimization: Monitor and optimize the performance of backend services, addressing bottlenecks and improving efficiency.***
+	- ***Code Quality: Write clean, maintainable, and efficient code, following best practices for software development and version control.***
 + ***Are language agnostic. We aren't overly concerned with tech stack - if you are interested in learning new things, we're interested in teaching you.***
 	- knowledge of object-oriented and functional programming paradigms
 	- ***Refactoring existing C++ libraries for modularity and extensibility.***
@@ -7138,7 +7140,7 @@ Companies that have machine learning -centric products
 	- Genuine interest in learning
 + skill set:
 	- Research Scientist Intern (Data-TnS-Algo)- 2025 Summer (PhD) (for ***machine learning theory***)
-	- Seattle/Intern/R&D - Algorithm/PhD Intern - 2025 / StartJob ID: A228228
+	- Seattle/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A228228
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -7171,7 +7173,7 @@ Companies that have machine learning -centric products
 		* Our time off and leave plans are: Paid holidays and paid sick leave. The sick leave entitlement is based on the time you join.
 + skill set:
 	- Research Scientist Intern (Data-TnS-Algo)- 2025 Summer (PhD) (for ***machine learning theory***)
-	- Vancouver/Intern/R&D - Algorithm/PhD Intern - 2025/StartJob ID: A144316
+	- Vancouver/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A144316
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
 	- The algorithm team is responsible for developing state-of-the-art computer vision, NLP and multimodality models and algorithms to protect our platform and users from the content and behaviors that violate community guidelines and related local regulations. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
@@ -7200,7 +7202,7 @@ Companies that have machine learning -centric products
 		* The base salary range for this position in the selected city is ***CAD$ 7280 - CAD$ 87360 annually***.
 + skill set:
 	- Research Scientist Intern (Data-TnS-Algo)- 2025 Summer (PhD) (for ***machine learning theory***)
-	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 / StartJob ID: A148696
+	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A148696
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -10998,7 +11000,7 @@ Companies that have machine learning -centric products
 	- The base pay range for this position is: $216,700 - $303,400 USD
 + skill set:
 	- ML Engineer Graduate (Search E-Commerce) - 2025 Start (PhD)
-	- San Jose/Regular/R&D/PhD Graduates - 2025 / StartJob ID: A90192
+	- San Jose/Regular/R&D/PhD Graduates - 2025 Start/Job ID: A90192
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -11024,15 +11026,169 @@ Companies that have machine learning -centric products
 	- (For Pay Transparency) Compensation Description (annually)
 		* The base salary range for this position in the selected city is $137750 - $237500 annually.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Intern (TikTok Multimedia) - 2025 Summer (PhD)
+	- San Jose/Intern/R&D/PhD Intern - 2025 Start / Job ID: A03109A
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The Multimedia Arch team is responsible for user experience optimization and cost optimization for the whole video on demand and live streaming system. We are building intelligence and personalized end-to-end multimedia systems to power the whole Tiktok ecosystem.
+	- We are currently seeking a passionate video algorithm engineer intern to join our team. In this role, you will collaborate with product and engineering teams to identify opportunities and improve overall system performance and efficiency by integrating video algorithms across the entire multimedia system. Your responsibilities will be implementing video streaming, network algorithms at large scales to optimize and improve user watching experience in the system.
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025. Successful candidates must be able to commit to one of the following summer internship start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 26)
+		* Monday, June 9
+		* Monday, June 23
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Online Assessment (Only for RD)
+		* Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+	- Develop machine learning solutions for user behavior prediction, app traffic prediction, and video understanding.
+	- Apply causal inference algorithms to understand users and improve user experience at Tiktok.
+	- Work cross-functionally with product managers, data scientists, and product engineers to understand insights, formulate problems, design and refine machine learning algorithms, and further drive the exciting growth of global TikTok users.
+	- Run regular A/B tests, perform analysis, and iterate algorithms accordingly.
+	- Currently pursuing an PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline
+	- Able to commit to working for 12 weeks during Summer 2025;
+	- Familiar with applied machine learning, such as classification, deep neural networks, transformers, multi-task learning, etc.
+	- Proficient in at least one programming language, such as Python and C++.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- Experience with recommendation systems, online advertising, search, and causal inference is preferred. Additional familiarity with LLM is a plus.
+	- Experience in Deep Learning Tools such as tensorflow/pytorch.
+	- Have a passion for learning and an eagerness to experiment with new techniques and good communication and a cooperative spirit.
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		- The hourly rate range for this position in the selected city is $45- $75. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.​
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Graduate (CV/NLP/Multimodal/LLM, E-Commerce Governance) - 2025 Start (PhD)
+	- Seattle/Regular/R&D/PhD Graduates - 2025 Start/Job ID: A109123A
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The Governance and Experience Algorithm team was established in September 2020 and its main job is to support the following businesses with the most advanced AI technology：
+	- Combat any kinds of risks/violations issues in E-commerce scenarios.
+	- Build an E-commerce ecosystem and improve platform service capabilities
+	- We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early.
+	- Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Responsible for identifying algorithms for risk/violation/low-quality issues in e-commerce scenarios such as products, shopping cart short videos, and live streaming with products.
+	- Responsible for mining and identifying algorithms to detect fraudulent behaviors and identify risky, violated, or low-quality merchants and creators.
+	- Responsible for optimizing algorithms for large-scale brand libraries, products, and content deduplication/clustering.
+	- Responsible for data construction, instruction fine-tuning, CoT, alignment, and other work for large models in the e-commerce domain, aiming for ultimate effect optimization in the e-commerce domain.
+	- Responsible for exploring reinforcement learning and operational research algorithms in intelligent dispatching and intelligent audit scheduling to improve audit quality and efficiency.
+	- Optimize various basic algorithms such as NLP, vision, multimodal, search, graph, LLM, etc. to provide support for governance business, explore cutting-edge technologies, and apply them to e-commerce business scenarios.
+	- Streamline the optimization and iteration process for computer vision models in e-commerce settings, including fine-grained classification of product images, product object recognition, product subject recognition, feature extraction, logo detection, brand recognition, etc.
+	- Optimize video classification, multimodal content mining, and multimodal content understanding of e-commerce short videos and live broadcasts, and optimize the e-commerce short video shopping experience.
+	- Optimize the risk identification model related to text content in e-commerce scenarios, such as product copywriting, picture text, and voice descriptions.
+	- Optimize the risk mining algorithm for comments, reports, and other public opinion content related to products/short videos/live broadcasts, and improve the platform governance effect.
+	- Responsible for the research of large-scale multimodal (vision, speech, natural language, etc.) algorithms and their implementation in e-commerce scenarios.
+	- Extract extensive data from various entities, such as content in e-commerce live broadcasts, products, merchants, and influencers. Model large-scale networks to support business scenarios like content understanding, multimodal representation, and community mining for problem-solving purposes.
+	- Participate in the construction of a large-scale graph storage and graph learning platform, supporting the basic ability of graph learning with billions of nodes and edges.
+	- Candidates who are pursuing a PhD degree in computer science or related field
+	- Solid coding skills, ability to develop in a Linux environment, proficient in Python, Go, or C++
+	- Solid foundation in data structures/algorithms, proficient in machine learning/deep learning theory, and rich practical experience
+	- Familiar with 1-2 areas in natural language processing, computer vision, multimodal, graph algorithms, search algorithms, text/data mining, and LLM
+	- Excellent analytical and problem-solving skills, passionate about challenging problems
+	- Good team spirit and strong communication skills
+	- Experience in platform governance/audit/risk control/content security or overseas internet/e-commerce business is preferred
+	- Fluent English listening, speaking, reading, and writing skills are preferred
+	- Experience studying, working, or living overseas is preferred.
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $129200 - $194750 annually.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Intern (Search E-commerce) - 2025 Summer (PhD)
+	- San Jose/Intern/R&D - Machine learning/PhD Intern - 2025 Start/Job ID: A256477
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The Search E-Commerce team is responsible for the search algorithm for TikTok's rapidly growing global e-commerce business. We use state-of-the-art large-scale machine learning technology, the cutting-edge NLP, CV and multi-modal technology to build the industry's top-class search engine to provide the best e-commerce search experience, for more than 1 billion monthly active TikTok users around the world. Our mission is to build a world where "there is no hard-to-sell good-priced product in the world".
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early. Candidates can apply to a maximum of TWO positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. It runs for 12-24 weeks and begins in May/June 2025 . Successful candidates must be able to commit to one of the following start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 27)
+		* Monday, June 9
+		* Monday, June 23
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Improve the basic search quality and user experience: Optimize query analysis and text relevance matching. Understand e-commerce video content and implement multi-modal matching. Improve users' perception of product authority, and deeply participate in the design and implementation of core search products. Comprehensively improve the end-to-end shopping experience from browsing to after-sales.
+	- Design and implement the end-to-end ranking system (recall, first stage ranking, final stage ranking and mixed row): Improve users' personalized shopping interests model. Improve the shopping conversion efficiency for merchandise, video and live stream to promote GMV growth.
+	- Promote the healthy development of the ecosystem: From the perspective of the industry and businesses, solve challenging problems such as supply and demand matching, business cold start, and sustainable business growth, etc. Think, analyze and adjust the evolution of the system to achieve long-term and sustainable growth of GMV.
+	- Currently pursuing an Master in Computer Science or a related technical discipline
+	- Able to commit to working for 12 weeks during Summer 2025
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Excellent coding skills. Solid knowledge of data structure and algorithms.
+	- Excellent in analysis, modeling and problem-solving, and can see the essence of problems from complex data.
+	- Publication records in top journals or conferences will be a plus. Experience winning ACM-ICPC medals will be a plus.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+	- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $60- $60. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.​
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Graduate (Location Based Service) - 2025 Start (PhD)
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 Start/Job ID: A184655
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- TikTok Location Team's goal is to deliver user-facing products based on the location that connects people with places, localized content, and service in the real world around the globe.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early.
+	- Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Work on ML models and algorithms to drive the creation of cutting-edge technical solutions to bridge the gap between technical capabilities and real-world business impact, including POI data production, POI recommendation, reviews sentiment analysis and ranking, geocoding, user profiling, etc.
+	- Responsible for algorithmic strategies in geographical content and services, enhancing and optimizing Location-Based Services (LBS) capabilities to support a range of international products.
+	- Thoroughly comprehend business intricacies, analyze issues, and devise appropriate algorithms and strategies tailored to various problem domains. Continuously optimize performance and efficacy.
+	- PHD Degree in Computer Science or related major.
+	- Experienced in programming and algorithmic skills, proficient in languages such as Python, Golang, or C++.
+	- Deep understanding of computer architectures, data structures and algorithms.
+	- Experienced in one or more of the following topics: Tensorflow, Caffe, MxNet, PyTorch or other machine learning frameworks
+	- Have good team communication and collaboration skills.
+	- Experience or domain expertise in one or more of the following areas is preferred: POI (Point of Interest) data algorithms, NLP, recommendation systems, reviews sentiment analysis and ranking, NER, text mining, geocoding, user profiling, etc.
+	- Experience in big data、data warehouse、streaming data flow and real time data processing system is preferred.
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $145000 - $250000 annually.​
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Intern (TikTok Eng-AI Innovation Center) - 2025 Summer(PhD)
+	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A197933
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The mission of the TikTok Eng-AI Innovation Center is to explore cutting-edge AGI technologies, including but not limited to LLM, multi-modal LLM (video/image/audio/text/code), etc., to let machine better understand user creations on Tiktok platform. Regarding video/image/audio/text, enhanced content understanding can bring better user experience of searching, recommendation, and can more accurately identify and defend internet abuse and fraud on our platform. Regarding code, developed LLM aims to automatically re-organize/optimize Tiktok codebase, and make the code/coding become more accessible for Tiktok engineers.
+	- In short, our team is a foundation model LLM group in Tiktok, aiming to explore large-scale&multi-modal LLMs and optimize systems to the level of other advanced models, e.g., Gemini and GPT4o.
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025. Successful candidates must be able to commit to one of the following summer internship start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 26)
+		* Monday, June 9
+		* Monday, June 23
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Participate in the design and implementation of a high-availability, scalable, distributed large-model machine learning platform to support the development and efficient iteration of large models for TikTok;
+	- Explore cutting-edge technologies related to large-model engineering(LLMOps), covering areas such as data processing, model training, inference services, evaluation system, automated orchestration, prompt engineering, and resource scheduling;
+	- PhD Degree with majors in artificial intelligence, computer science, automation, and mathematics or related fields
+	- Able to commit to working for 12 weeks during Summer 2025
+	- Experience in LLM or SFT, RL, model architecture modifications, computer vision, or multimodal large models.
+	- Research experience in the field of machine learning, particularly in large-scale language models (LLMs) and generative AI.
+	- Excellent problem analysis and solving skills, with a passion for tackling challenging problems.
+	- Outstanding programming abilities, data structures, and algorithm skills, proficient in C/C++ or Python programming languages.
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- Preference given to those who have published papers in the fields of machine learning (ML), computer vision (CV), natural language processing (NLP), etc. (NeurIPS, ICML, ICLR, CVPR, ACL, OSDI, NSDI, SC, and SigMOD, etc.), with practical development experience in LLM.;
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $60- $75. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.​
 + skill set:
 	- BLAH.
 + skill set:
@@ -12077,7 +12233,7 @@ Skill sets about applied machine learning, applied ML, for computational science
 		* The base salary range for this position in the selected city is $137750 - $237500 annually.
 + skill set:
 	- Research Scientist Intern, ***LLM (TikTok AI Innovation Center)*** - 2025 Summer (PhD)
-	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 / StartJob ID: A227767
+	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A227767
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -13567,7 +13723,7 @@ Skills for natural language processing, NLP:
 	- Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
 + skill set:
 	- Multimodal Research Scientist Graduate (AI Innovation Center) - 2025 Start (PhD)
-	- San Jose/Regular/R&D - Algorithm/PhD Graduates- 2025 / StartJob ID: A18166
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates- 2025 Start/Job ID: A18166
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -13848,7 +14004,7 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 		* The base salary range for this position in the selected city is $137750 - $237500 annually.​
 		* Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
 + ML Engineer Graduate (TikTok E-commerce Recommendation) - 2025 Start (PhD)
-	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A100328
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 Start/Job ID: A100328
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -13901,7 +14057,7 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 	- (For Pay Transparency) Compensation Description (annually)
 		* The base salary range for this position in the selected city is $145000 - $250000 annually.​
 + (General Hire) Research Scientist Graduate - TikTok Recommendation - 2025 Start (PhD)
-	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A207861A
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 Start/Job ID: A207861A
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -13923,6 +14079,48 @@ Sets of skills for recommender systems, recommendation systems (or, recommendati
 
 
 
+
+
+###	Risk Engineering and Uncertainty Engineering
+
+
+
++ Machine Learning Engineer Intern (Risk Data Mining) - 2025 Summer (PhD)
+	- San Jose/Intern/R&D/PhD Intern - 2025 Start / Job ID: A24376
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The Business Risk Integrated Control (BRIC) team is missioned to:
+		* Protect TikTok users, including and beyond content consumers, creators, advertisers;
+		* Secure platform health and community experience authenticity;
+		* Build infrastructures, platforms and technologies, as well as to collaborate with many cross-functional teams and stakeholders.
+	- The BRIC team works to minimize the damage of inauthentic behaviors on TikTok platforms (e.g. TikTok, CapCut, Resso, Lark), covering multiple classical and novel community and business risk areas such as account integrity, engagement authenticity, anti spam, API abuse, growth fraud, live streaming security and financial safety (ads or e-commerce), etc. In this team you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and robust, intelligent and privacy-safe, secure and product-friendly systems and solutions. Our challenges are not some regular day-to-day technical puzzles -- You'll be part of a team that's developing novel solutions to first-seen challenges of a non-stop evolvement of a phenomenal product eco-system. The work needs to be fast, transferrable, while still down to the ground to making quick and solid differences.
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025. Successful candidates must be able to commit to one of the following summer internship start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 26)
+		* Monday, June 9
+		* Monday, June 23
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Online Assessment
+		* Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+	- Build machine learning solutions to respond to and mitigate business risks in TikTok products/platforms. Such risks include and are not limited to abusive accounts, fake engagements, spammy redirection, scraping, fraud, etc.
+	- Improve modeling infrastructures, labels, features and algorithms towards robustness, automation and generalization, reduce modeling and operational load on risk adversaries and new product/risk ramping-ups.
+	- Uplevel risk machine learning excellence on privacy/compliance, interpretability, risk perception and analysis.
+	- Currently pursuing an Undergraduate/Graduate/Master in Software Development, Computer Science, Computer Engineering or a related technical discipline
+	- Able to commit to working for 12 weeks during Summer 2025;
+	- computer science, statistics, or other relevant, machine-learning-heavy majors.
+	- Solid engineering skills. Proficiency in at least two of: Linux, Hadoop, Hive, Spark, Storm.
+	- Strong machine learning background. Proficiency or publications in modern machine learning theories and applications such as deep neural nets, transfer/multi-task learning, reinforcement learning, time series or graph unsupervised learning.
+	- Ability to think critically, objectively, rationally. Reason and communicate in result-oriented, data-driven manner. High autonomy.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- Passionate about TikTok, augmented reality, as well as creating the most fun, original and creative ideas and experiences.
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $60- $75.
 
 
 
@@ -21336,6 +21534,56 @@ Generic skill sets for research scientists:
 	- Quantum communication may refer to quantum cryptography, quantum teleportation, and quantum entanglement. Among those, quantum key distribution (QKD) is one of the most practical applications in recent years. Quantum cryptography takes the advantage of the laws of quantum physics to protect data,
 	- Currently, the most significant problems in practical quantum cryptography systems include: high-speed quantum random number generation, long-distance fiber quantum key distribution with high key generation speed, co-fiber transmission of classical and quantum optical signals, as well as practical commercialization and stabilization.
 	- Our project aims to study these critical issues in quantum cryptography system for practical applications. Due to the transmission loss and dark count, the bottleneck for its practical application lies in the trade-off between high speed key generation rate and long transmission distance. In order to solve these problems, one potential solution is to design more efficient telecommunication protocol to exceed the theoretical up bound of the generation rate. Meanwhile, the project will also focus on the study and practical solutions for quantum random number generation, post-quantum cryptography algorithm, the migration of classical and quantum networks, etc
+
+
+
+
+
+##	Database and Information System Research
+
+
+
++ Research Scientist Graduate (Compute Platform - Database Acceleration)- 2025 Start (PhD)
+	- San Jose/Regular/R&D/PhD Graduates - 2025 Start/Job ID: A138260
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The Data Platform team works on challenges in big data infrastructure and data products. Our team focuses on internal tools relating to OLAP DBMS, logging and data ingestion infrastructure, A/B testing for all product and feature launches, workflow management, distributed cache, data visualization tools, and big data engineering, which supports TikTok's business products.
+	- Data-Data Platform-Compute Platform - DB Boost team focuses on building the next generation DBMS kernel aiming for the best-in-class query latency and hardware utilization. The team operates the distributed OLAP infrastructure powering cloud native data warehouse, which is the foundation behind data-driven decision-making within TikTok.
+	- We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Online Assessment: Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+	- Design and develop kernel modules or core features for cloud-native distributed analytical database systems
+	- Conduct research for cutting-edge technology evolvement in database and data management area and identify the potential future directions
+	- Solve unique and complex problems on large-scale, high-performance cloud infrastructure
+	- Partner with different teams on building backend support for cloud native database service
+	- Currently has or is in the process of obtaining a PhD in Computer Science, related STEM or quantitative field
+	- Current or recent graduate with a background in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+	- Experience with at least one system programming language: C++, Rust etc.
+	- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+	- Research or deep working experience in OLAP databases and data management systems is preferred, including but not limited to database kernel, query processing, query optimization, storage system, hardware acceleration, cloud native infrastructure, etc.
+	- Experience with open-source and industry databases and data management systems like Velox, DataFusion, DuckDB, Polars, Clickhouse, Spark, Presto etc is a plus
+	- Passionate & experienced for contributing to open source communities
+	- High levels of creativity and quick problem-solving capabilities
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $144000 - $168000 annually.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1274,7 +1274,41 @@ Roles in computing security:
 	- Strong attention to detail
 	- ***Ability to prioritize and work to tight deadlines and manage your own backlog.*** 
 + skill set:
-	- BLAH.
+	- Security Software Engineer Graduate (TikTok Eng - Backend Online Infra Team) - 2025 Start (PhD)
+	- San Jose/Regular/R&D/PhD Graduates - 2025 Start/Job ID: A125168
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- Join our forward-thinking Engineering Infrastructure team at TikTok, where we are dedicated to pioneering innovative solutions in data protection and privacy. Our team is at the forefront of developing and implementing cutting-edge frameworks to ensure the security and integrity of user data across a global platform. We pride ourselves on our collaborative culture, combining expertise in cloud computing, big data, and privacy engineering to tackle some of the most complex challenges in the tech industry. By fostering an environment of continuous learning and open communication, we empower each team member to contribute to impactful projects that set new industry standards. If you’re passionate about data privacy and want to be part of a team that is shaping the future of secure online environments, we invite you to join us in making a difference.
+	- We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Online Assessment: Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+	- Advanced Research: Conduct cutting-edge research in data privacy and security, applying your findings to ***develop innovative and scalable data protection frameworks***.
+	- Design and Development: ***Design, implement, and optimize secure architectures for data storage, access, and computation, ensuring compliance with global privacy regulations***.
+	- Collaboration: Collaborate with cross-functional teams including privacy engineering, product engineering, and legal to align on goals and deliver comprehensive data protection solutions.
+	- System Architecture: Collaborate with cross-functional teams to ***define system architecture and ensure alignment with business goals and technical requirements***.
+	- ***Performance Optimization: Monitor and optimize the performance of backend services, addressing bottlenecks and improving efficiency.***
+	- ***Code Quality: Write clean, maintainable, and efficient code, following best practices for software development and version control.***
+	- Troubleshooting: Identify and resolve complex technical issues, ensuring the stability and reliability of backend systems.
+	- PhD in Computer Science, Electrical Engineering, Information Security, or a related field with a focus on privacy and security.
+	- Demonstrated expertise in ***privacy-preserving technologies, cryptographic protocols, and data protection methodologies***.
+	- Proven ability to conduct independent research and translate findings into practical applications.
+	- Excellent problem-solving skills, with a keen eye for ***identifying and mitigating potential security risks***.
+	- Strong communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.
+	- Passionate about data privacy and committed to advancing the field through innovative solutions.
+	- Experience working with ***large-scale distributed systems and cloud computing environments***.
+	- Hands-on experience with implementing ***privacy-preserving machine learning algorithms***.
+	- Familiarity with ***privacy frameworks and tools such as Differential Privacy, Homomorphic Encryption, or Secure Multi-Party Computation, TEE***
+	- Published research in top-tier privacy and security conferences or journals.
+	- Proficiency in programming languages such as ***Python, Golang, Java, or C++***.
+	- Knowledge of ***secure software development practices and security auditing***.
+	- Participation in ***privacy and security communities or organizations***.
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $145000 - $250000 annually.​
 + skill set:
 	- BLAH.
 + skill set:
@@ -1432,7 +1466,7 @@ Roles in computing security:
 	- We are open to both local (San Francisco and London) arrangements. Candidates should expect to engage closely with researchers and engineers, but also to publish.
 + skill set:
 	- Research Scientist Graduate (Privacy Innovation Lab) - 2025 Start (PhD)
-	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A32552
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 Start/Job ID: A32552
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -1458,7 +1492,7 @@ Roles in computing security:
 		* The base salary range for this position in the selected city is $145000 - $250000 annually
 + skill set:
 	- Research Scientist Graduate (Privacy Innovation Lab) - 2025 Start (PhD)
-	- Seattle/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A164952
+	- Seattle/Regular/R&D - Algorithm/PhD Graduates - 2025 Start/Job ID: A164952
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
@@ -1484,7 +1518,7 @@ Roles in computing security:
 		* The base salary range for this position in the selected city is $137750 - $237500 annually.
 + skill set:
 	- Research Scientist Intern (Privacy Innovation Lab) - 2025 Summer (PhD)
-	- Seattle/Intern/R&D/PhD Intern - 2025 / StartJob ID: A201005
+	- Seattle/Intern/R&D/PhD Intern - 2025 Start/Job ID: A201005
 	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
 	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
 	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
