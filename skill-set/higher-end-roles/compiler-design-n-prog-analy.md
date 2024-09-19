@@ -370,11 +370,34 @@ Skill set for compiler design:
 
 
 
+##	Skill Set for Front-End Compiler Design
 
 
 
-
-
++ Software Engineer Graduate (Programming Language- Product RD and Infrastructure) - 2025 Start (PhD)
+	- San Jose/Regular/R&D/PhD Graduates - 2025 Start/Job ID: A249063A
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- Our team works to build out the development services that enable engineers to deliver high-quality features and systems to our users. We aim to provide systems enabling software development streamline and productive. The systems we are building include Cloud IDE, Intelligent Unit Test Generation, code and build systems, CI/CD software, Micro service management and monitoring. We are looking for engineers who have good programming language work experience and background to join our team.
+	- You will be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech:
+	- Build development infra including Cloud IDE, Plugins, Intelligent Unit Test Generation
+	- Create a highly visible development infrastructure that over 20,000 developers will engage with daily
+	- Contribute to impactful systems that serve billions of users around the world each day
+	- Work with world class developers on cutting-edge solutions that will shape the future of DevInfra technology globally
+	- PhD degree in Programming Language or a related technical discipline
+	- Expert with at least any of two of the following languages: Golang/Java/TypeScript/JavaScript/C++/Python
+	- Experience in Programming Language design is preferred
+	- Experience in IDE (eg: Jetbrains, VSCode) development is preferred
+	- Experience in Compiler Frontend development is preferred
+	- Experience in Tests or Quality or Security is preferred
+	- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+	- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $145000 - $250000 annually.​
+		* Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
 
 
 

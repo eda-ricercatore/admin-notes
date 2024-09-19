@@ -688,7 +688,35 @@ Roles in computing security:
 + Familiarity with Ads privacy (GDPR, CCPA, ePD, ATT, etc.)
 + Experience with data privacy requirements stemming from regulatory and legislative mandates including CCPA, GDPR, and state data breach notification laws is desirable but not mandatory.
 + skill set:
-	- BLAH.
+	- Software Engineer Intern (Security) - 2024 Fall Project Intern (BS/MS)
+	- San Jose/Intern/R&D - Backend/Project Intern/Job ID: A113844
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The team is missioned to build infrastructures, platforms and technologies, as well as to support cross-functional teams to protect our users, products and infrastructures. In this team you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and secure-by-design systems and solutions. Our challenges are not your regular day-to-day technical problems; you'll be part of a team that's developing new solutions to new challenges of a kind not previously addressed by big tech. It's working fast, at scale, and we're making a difference.
+	- We are looking for talented individuals to join the PASS team, leveraging the state-of-art technology "passkey" to bring more convenient and more secure authentication experience to users. You will work closely with senior software engineers, working on real problems and deliver features that are used by hundreds of millions of users.
+	- We are looking for talented individuals to join us for an internship in Fall 2024, starting from September or October. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early. Candidates can apply to a maximum of TWO positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Build and maintain high performance security services.
+	- Explore, develop and experiment with new features to improve performance and scalability.
+	- Collaborate with multiple cross-functional global teams to deliver high-quality work.
+	- Understand and address specific security requirements for different business scenarios.
+	- Currently pursuing a Bachelor's or Master's degree in Computer Science or related fields
+	- Ability to work as intern for at least 10 weeks starting from September/October, 2024
+	- Familiar with at least one of the programming languages such as Golang, Python, C, C++, or Java
+	- Strong written and verbal communication skills
+	- Proficient in Golang
+	- Solid software backend skills with one or more of the following: large scale distributed systems, microservice architecture, database
+	- Familiar with system monitoring related tools, like grafala, ELK, etc
+	- Solid background and experience working with one or more of the following: query engines, developing large software systems, and/or security software development.
+	- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+	- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $45- $60. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.​
+	- Our time off and leave plans are: Paid holidays and paid sick leave. The sick leave entitlement is based on the time you join.​
 + skill set:
 	- BLAH.
 + skill set:
@@ -1403,11 +1431,105 @@ Roles in computing security:
 		* privacy-preserving machine learning
 	- We are open to both local (San Francisco and London) arrangements. Candidates should expect to engage closely with researchers and engineers, but also to publish.
 + skill set:
-	- BLAH.
+	- Research Scientist Graduate (Privacy Innovation Lab) - 2025 Start (PhD)
+	- San Jose/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A32552
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- At TikTok, we treat privacy as our first priority in our product design and implementation. Privacy is not just about regulation compliance, but also about a more trusted way to enable technology innovation by respecting users’ privacy choices!
+	- Privacy Innovation (PI) Lab is established to explore the next frontier of privacy technology and theory in the digitalized world. We provide key insights and technical solutions on privacy-related innovation for all TikTok’s products. Furthermore, we also collaborate with worldwide technical and academic communities to build an open ecosystem to promote privacy friendly digital experience.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early.
+	- Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Design and execute technical and theoretic research on the critical industrial challenges of privacy innovation.
+	- Work with product teams to understand key privacy requirements from our product family and provide technical consulting on privacy related features.
+	- Work with engineering teams to apply technical achievements from our research to product prototyping.
+	- Advocate research findings to diverse audiences through written reports and verbal presentations.
+	- Represent PI Lab and our work in external technical and academic communities.
+	- PhD in Privacy, Security, Machine Learning, or 5+ years of experience working on related research.
+	- Demonstrated expertise in measurable AI privacy including quantized privacy risk measurement, differential privacy, membership inference attack, interpretable AI, AI fairness, synthetic data generation for AI, adversarial machine learning, etc.
+	- Proven records of publications and awards in top security and other related academic conferences.
+	- Ability to develop research questions regarding the critical industrial challenges of privacy innovation, and knowledge of using technical tools for the required experiments and proof-of-concept prototyping.
+	- Ability to work globally and collaboratively within a team and with external researchers.
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $145000 - $250000 annually
 + skill set:
-	- BLAH.
+	- Research Scientist Graduate (Privacy Innovation Lab) - 2025 Start (PhD)
+	- Seattle/Regular/R&D - Algorithm/PhD Graduates - 2025 / StartJob ID: A164952
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- At TikTok, we treat privacy as our first priority in our product design and implementation. Privacy is not just about regulation compliance, but also about a more trusted way to enable technology innovation by respecting users’ privacy choices!
+	- Privacy Innovation (PI) Lab is established to explore the next frontier of privacy technology and theory in the digitalized world. We provide key insights and technical solutions on privacy-related innovation for all TikTok’s products. Furthermore, we also collaborate with worldwide technical and academic communities to build an open ecosystem to promote privacy friendly digital experience.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply early.
+	- Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to TikTok and its affiliates' jobs globally.
+	- Design and execute technical and theoretic research on the critical industrial challenges of privacy innovation.
+	- Work with product teams to understand key privacy requirements from our product family and provide technical consulting on privacy related features.
+	- Work with engineering teams to apply technical achievements from our research to product prototyping.
+	- Advocate research findings to diverse audiences through written reports and verbal presentations.
+	- Represent PI Lab and our work in external technical and academic communities.
+	- PhD in Privacy, Security, Machine Learning, or 5+ years of experience working on related research.
+	- Demonstrated expertise in measurable AI privacy including quantized privacy risk measurement, differential privacy, membership inference attack, interpretable AI, AI fairness, synthetic data generation for AI, adversarial machine learning, etc.
+	- Proven records of publications and awards in top security and other related academic conferences.
+	- Ability to develop research questions regarding the critical industrial challenges of privacy innovation, and knowledge of using technical tools for the required experiments and proof-of-concept prototyping.
+	- Ability to work globally and collaboratively within a team and with external researchers.
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $137750 - $237500 annually.
 + skill set:
-	- BLAH.
+	- Research Scientist Intern (Privacy Innovation Lab) - 2025 Summer (PhD)
+	- Seattle/Intern/R&D/PhD Intern - 2025 / StartJob ID: A201005
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- Privacy Innovation (PI) Lab is established to explore the next frontier of privacy technology and theory in the digitalized world. We provide key insights and technical solutions on privacy-related innovation for all TikTok’s products. Furthermore, we also collaborate with worldwide technical and academic communities to build an open ecosystem to promote privacy friendly digital experience.
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025. Successful candidates must be able to commit to one of the following summer internship start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 26)
+		* Monday, June 9
+		* Monday, June 23
+
+We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Online Assessment
+Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+
+Responsibilities
+We are looking for Research Interns to help us identify new opportunities and develop scientifically sound systems to improve technological guarantees for user privacy and advance the efficient frontier of privacy and utility in our systems, contribute to the development of libraries and tools to support research and business, and publish influential research findings in prestigious journals and at prestigious conferences.
+Qualifications
+Minimum Qualifications
+Currently pursuing a PhD degree in Computer Science, Electrical Engineering, Statistics, Mathematics, or a related technical discipline.
+- Able to commit to working for 12 weeks during Summer 2025.
+- At least one of the following skills is required: Secure Multi-Party Computation techniques, Differential Privacy, Federated Learning or Federated Analytics, Homomorphic Encryption.
+- Ability to communicate research findings clearly and precisely.
+- Ability to design and implement analytical and/or algorithmic solutions that are tailored to specific business needs and tested on large data sets.
+- Programming proficiency: Familiar with Python, C++, Pytorch, Tensorflow, etc.
+- A demonstrated track record of research publication.
+- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+
+
+Preferred Qualifications
+- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+Job Information
+【For Pay Transparency】Compensation Description Intern (hourly)
+The hourly rate range for this position in the selected city is $57- $72. W
 + skill set:
 	- BLAH.
 + skill set:
