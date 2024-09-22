@@ -7233,7 +7233,36 @@ Companies that have machine learning -centric products
 	- (For Pay Transparency) Compensation Description Intern (hourly)
 		* The hourly rate range for this position in the selected city is $45- $45. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.
 + skill set:
-	- BLAH.
+	- Research Scientist Intern, LLM (TikTok AI Innovation Center) - 2025 Summer (PhD)
+	- San Jose/Intern/R&D - Algorithm/PhD Intern - 2025 Start/Job ID: A227767
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- The mission of the TikTok Eng-AI Innovation Center is to explore cutting-edge AGI technologies, including but not limited to LLM, multi-modal LLM (video/image/audio/text/code), etc., to let machine better understand user creations on Tiktok platform. Regarding video/image/audio/text, enhanced content understanding can bring better user experience of searching, recommendation, and can more accurately identify and defend internet abuse and fraud on our platform. Regarding code, developed LLM aims to automatically re-organize/optimize Tiktok codebase, and make the code/coding become more accessible for Tiktok engineers.
+	- In short, our team is a foundation model LLM group in Tiktok, aiming to explore large-scale&multi-modal LLMs and optimize systems to the level of other advanced models, e.g., Gemini and GPT4o.
+	- We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+	- Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025. Successful candidates must be able to commit to one of the following summer internship start dates below:
+		* Monday, May 12
+		* Monday, May 19
+		* Tuesday May 27 (Memorial Day May 26)
+		* Monday, June 9
+		* Monday, June 23
+	- We will prioritize candidates who are able to commit to these start dates. Please state your availability clearly in your resume (Start date, End date).
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Participate in the research and development of cutting-edge algorithms, publish top international conferend papers, and apply for patents.
+	- Participate in the research of cutting-edge technologies such as large language models and multimodal larg[e] models, and accumulate experience in solving practical problems with cutting-edge technologies.
+	- Provide rich computing and data resources, and a positive and progressive working atmosphere
+	- PhD Degree with majors in artificial intelligence, computer science, automation, and mathematics or related fields
+	- Able to commit to working for 12 weeks during Summer 2025
+	- Solid foundation in data structure and algorithm design, proficient in one or more Python/C++, proficient deep learning frameworks such as pytorch and tensorflow.
+	- Strong sense of responsibility, active and proactive, good communication and teamwork skills.
+	- Graduating December 2025 onwards with the intent to return to degree program after the completion of the internship.
+	- Have pre-training technology, including efficient training and packaging and deployment services, NLP, CV, video, multimodal and other related pre-training models and their downstream applications are preferred.
+	- Priority will be given to those who have published papers in top academic conferences and have won excellent results in competitions in the field of multimodaI, computer vision or machine learning.
+	- (For Pay Transparency) Compensation Description Intern (hourly)
+		* The hourly rate range for this position in the selected city is $60 - $75.
 + skill set:
 	- BLAH.
 + skill set:
@@ -12263,7 +12292,84 @@ Skill sets about applied machine learning, applied ML, for computational science
 	- (For Pay Transparency) Compensation Description Intern (hourly)
 		* The hourly rate range for this position in the selected city is $60- $75.
 + skill set:
-	- BLAH.
+	- Machine Learning Engineer Graduate (Large Language Models & Generative AI-US) - 2025 Start (PhD)
+San JoseRegularR&DPhD Graduates- 2025 StartJob ID: A14828
+Responsibilities
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+
+Team Introduction
+Our team is pioneering the future of large language model-based applications with a focus on developing long-term memory capabilities and delivering personalized chat, search, and recommendation experiences. We're leveraging our deep expertise in artificial intelligence to create advanced AI algorithms that can understand, learn, and predict, dramatically enhancing user interactions. Our mission is to revolutionize how we engage with machines, making them more intuitive and human-like than ever. With a relentless commitment to excellence and a profound understanding of AI, we are setting new standards and pushing the boundaries of what language model-based applications can achieve.
+
+We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+
+Successful candidates must be able to commit to an onboarding date by end of year 2025.
+
+Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
+
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+
+Responsibilities
+- Responsible for the design and implementation of a global-scale machine learning system for chat bot, feeds, ads and search ranking models
+- Responsible for leveraging large language models in applications, and improving them via techniques like SFT and RLHF
+- Responsible for improving the workflow of model training and serving, data pipelines and resource management
+- Responsible for connecting cutting edge academic research with user-facing next generation products
+Qualifications
+Minimum Qualifications
+- Currently pursuing a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline
+- Proficient in C/C++/Python/Golang, and have exceptional programming skills (expert with algorithms and data structures).
+- Familiarity with deep learning frameworks like TensorFlow/PyTorch
+- Exceptional problem-solving skills with the ability to think critically and creatively
+- Knowledge, passion, curiosity, and exposure to areas in Machine Learning / Artificial intelligence
+- Experience, research, internship, or coursework related in Large Language Models or related fields
+- Ability to work independently and complete projects from beginning to end and in a timely manner
+- Strong teamwork and communication skills. Any hands-on experience or group projects in relevant technical scenarios will be a plus!
+
+Preferred Qualifications
+- Experience in big data frameworks (e.g., K8s/Spark/Hadoop/Flink), experience in resource management and task scheduling for large scale distributed systems, experience in building solutions with AWS, GCP, Azures, OCI, AliCloud or other cloud services
+- Strong background in one of the following fields: High Performance Computing, ML Hardware Acceleration (e.g., GPU/TPU/RDMA) or ML for Systems
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+
+#LI-AC13
+Job Information
+【For Pay Transparency】Compensation Description (annually)
+The base salary range for this position in the selected city is $145000 - $250000 annually.​
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+
+Our company benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support our employees to give their best in both work and life. We offer the following benefits to eligible employees: ​
+
+We cover 100% premium coverage for employee medical insurance, approximately 75% premium coverage for dependents and offer a Health Savings Account(HSA) with a company match. As well as Dental, Vision, Short/Long term Disability, Basic Life, Voluntary Life and AD&D insurance plans. In addition to Flexible Spending Account(FSA) Options like Health Care, Limited Purpose and Dependent Care. ​
+
+Our time off and leave plans are: 10 paid holidays per year plus 17 days of Paid Personal Time Off (PPTO) (prorated upon hire and increased by tenure) and 10 paid sick days per year as well as 12 weeks of paid Parental leave and 8 weeks of paid Supplemental Disability. ​
+
+We also provide generous benefits like mental and emotional health benefits through our EAP and Lyra. A 401K company match, gym and cellphone service reimbursements. The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+
+For Los Angeles County (unincorporated) Candidates:​
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+
+3. Exercising sound judgment.​
+
+Share to
+
+
+
 + skill set:
 	- BLAH.
 + skill set:
