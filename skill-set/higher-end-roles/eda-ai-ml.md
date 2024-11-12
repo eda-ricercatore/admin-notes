@@ -5894,6 +5894,26 @@ Companies that have machine learning -centric products
 	- **Here are examples of things we’ve worked on:**
 		* Building an aesthetic classifier to predict aesthetically pleasing images by user ratings
 		* Predicting highly accurate object masks from bounding boxes
++ AI Research Scientist:
+	- Fractal is one of the most prominent providers of Artificial Intelligence to Fortune 500® companies. Fractal's vision is to power every human decision in the enterprise, and bring AI, engineering, and design to help the world's most admired companies.
+	- Fractal's businesses include Crux Intelligence (AI driven business intelligence), Eugenie.ai (AI for sustainability), Asper.ai (AI for revenue growth management) and Senseforth.ai (conversational AI for sales and customer service). Fractal incubated Qure.ai, a leading player in healthcare AI for detecting Tuberculosis and Lung cancer.
+	- Fractal currently has 4000+ employees across 16 global locations, including the United States, UK, Ukraine, India, Singapore, and Australia. Fractal has been recognized as 'Great Workplace' and 'India's Best Workplaces for Women' in the top 100 (large) category by The Great Place to Work® Institute; featured as a leader in Customer Analytics Service Providers Wave™ 2021, Computer Vision Consultancies Wave™ 2020 & Specialized Insights Service Providers Wave™ 2020 by Forrester Research Inc., a leader in Analytics & AI Services Specialists Peak Matrix 2022 by Everest Group and recognized as an 'Honorable Vendor' in 2022 Magic Quadrant™ for data & analytics by Gartner Inc. For more information, visit fractal.ai
+	- Fractal’s businesses have been involved in multiple areas of A.I. research for the past several years and we have recently setup a A.I. Research Lab to focus on the most important problems in A.I. The A.I. Research Lab has worked extensively on the Foundation Model /GenAI ecosystem across a wide variety of areas.  The team has helped build in-house foundation (diffusion) models, has extensively worked on Large Language Model innovations and has built various aspects of Agentic systems that can lead to AGI. The team has access to inhouse GPU-cluster farm along with cloud GPU resources for solving complex A.I. problems.
+	- The A.I. Research Lab will focus on foundational aspects of A.I. research that push the boundaries of what is possible and move us towards a world with safe and effective AGI.
+	- We are looking for people who can explore new ideas, design and implement next-generation architectures/techniques in image/video, language, audio and multimodal space. You should be motivated to push the boundaries not just in state-of-the-art performance, but also in balancing performance in terms of inference speed and compute resource usage. You will collaborate with a multidisciplinary team of researchers, engineers, and data scientists to develop and deploy practical and scalable solutions to real-world challenges in areas such as domain based instruction fine-tuning LLMs, improving text to image and foundational models, building multi-modal foundation models, researching agentic ecosystems to name a few. Your work will have a direct impact on the development of our AI-driven products and services.
+	- Conduct research and stay up to date with the latest advancements in Machine vision, NLP, Deep Learning, RL, Agentic systems and related fields.
+	- Design and develop novel and next generation of A.I. algorithms, models, and techniques to address specific problem domains
+	- Build A.I. Engineering pipelines for scaling A.I. models to internet scale
+	- Document research findings, methodologies, and experimental results in technical reports, blogs and papers.
+	- Publish research findings and contribute to conferences, workshops, and other scientific forums.
+	- Collaborate with engineering and business teams on model deployment and customised training respectively.
+	- Extensive understanding of advanced DL or generative architectures/techniques like diffusion architectures, attention models, LLMs, SAM, RLHF etc
+	- Have a track record of coming up with new ideas or improving upon existing ideas in deep learning quickly, demonstrated by accomplishments such as first author publications or published/deployed projects or impactful blogs.
+	- Ability to efficiently work on a modern deep learning stack, such as Python, PyTorch, and GPU-enabled compute, eg writing non-trivial custom architecture in Pytorch.
+	- Ability to iterate quickly on open-source code-bases with attention to backwards compatibility, usability, and readability. 
+	- Creative, fast-paced executor, detail-oriented, eager to learn, acquire new skills. 
+	- Ability to work effectively in a collaborative team environment and take ownership.
+	- Strong belief in a positive-sum game, valuing cooperation and collaboration over zero-sum competition.
 + Senior Applied Machine Learning Scientist
 	- DC-Washington-TWP Headquarters
 	- The Washington Post Personalization team is looking for a senior data scientist who is excited to create forward-thinking solutions for the next generation of journalism. Our team is at the heart of the Post’s machine learning strategies to build intelligent and adaptable personalized news experiences and business solutions capable of powering the most high-scale websites in the world.
@@ -12293,85 +12313,86 @@ Skill sets about applied machine learning, applied ML, for computational science
 		* The hourly rate range for this position in the selected city is $60- $75.
 + skill set:
 	- Machine Learning Engineer Graduate (Large Language Models & Generative AI-US) - 2025 Start (PhD)
-San JoseRegularR&DPhD Graduates- 2025 StartJob ID: A14828
-Responsibilities
-TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
-
-Why Join Us
-Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
-Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
-To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
-At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
-Join us.
-
-Team Introduction
-Our team is pioneering the future of large language model-based applications with a focus on developing long-term memory capabilities and delivering personalized chat, search, and recommendation experiences. We're leveraging our deep expertise in artificial intelligence to create advanced AI algorithms that can understand, learn, and predict, dramatically enhancing user interactions. Our mission is to revolutionize how we engage with machines, making them more intuitive and human-like than ever. With a relentless commitment to excellence and a profound understanding of AI, we are setting new standards and pushing the boundaries of what language model-based applications can achieve.
-
-We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
-
-Successful candidates must be able to commit to an onboarding date by end of year 2025.
-
-Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
-
-Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
-
-
-Responsibilities
-- Responsible for the design and implementation of a global-scale machine learning system for chat bot, feeds, ads and search ranking models
-- Responsible for leveraging large language models in applications, and improving them via techniques like SFT and RLHF
-- Responsible for improving the workflow of model training and serving, data pipelines and resource management
-- Responsible for connecting cutting edge academic research with user-facing next generation products
-Qualifications
-Minimum Qualifications
-- Currently pursuing a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline
-- Proficient in C/C++/Python/Golang, and have exceptional programming skills (expert with algorithms and data structures).
-- Familiarity with deep learning frameworks like TensorFlow/PyTorch
-- Exceptional problem-solving skills with the ability to think critically and creatively
-- Knowledge, passion, curiosity, and exposure to areas in Machine Learning / Artificial intelligence
-- Experience, research, internship, or coursework related in Large Language Models or related fields
-- Ability to work independently and complete projects from beginning to end and in a timely manner
-- Strong teamwork and communication skills. Any hands-on experience or group projects in relevant technical scenarios will be a plus!
-
-Preferred Qualifications
-- Experience in big data frameworks (e.g., K8s/Spark/Hadoop/Flink), experience in resource management and task scheduling for large scale distributed systems, experience in building solutions with AWS, GCP, Azures, OCI, AliCloud or other cloud services
-- Strong background in one of the following fields: High Performance Computing, ML Hardware Acceleration (e.g., GPU/TPU/RDMA) or ML for Systems
-
-TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
-
-TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
-
-
-#LI-AC13
-Job Information
-【For Pay Transparency】Compensation Description (annually)
-The base salary range for this position in the selected city is $145000 - $250000 annually.​
-
-Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
-
-Our company benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support our employees to give their best in both work and life. We offer the following benefits to eligible employees: ​
-
-We cover 100% premium coverage for employee medical insurance, approximately 75% premium coverage for dependents and offer a Health Savings Account(HSA) with a company match. As well as Dental, Vision, Short/Long term Disability, Basic Life, Voluntary Life and AD&D insurance plans. In addition to Flexible Spending Account(FSA) Options like Health Care, Limited Purpose and Dependent Care. ​
-
-Our time off and leave plans are: 10 paid holidays per year plus 17 days of Paid Personal Time Off (PPTO) (prorated upon hire and increased by tenure) and 10 paid sick days per year as well as 12 weeks of paid Parental leave and 8 weeks of paid Supplemental Disability. ​
-
-We also provide generous benefits like mental and emotional health benefits through our EAP and Lyra. A 401K company match, gym and cellphone service reimbursements. The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
-
-For Los Angeles County (unincorporated) Candidates:​
-
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
-
-1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
-
-2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
-
-3. Exercising sound judgment.​
-
-Share to
-
-
-
+	- San Jose/Regular/R&D/PhD Graduates- 2025/StartJob ID: A14828
+	- TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+	- Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+	- Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+	- To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+	- At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+	- Our team is pioneering the future of large language model-based applications with a focus on developing long-term memory capabilities and delivering personalized chat, search, and recommendation experiences. We're leveraging our deep expertise in artificial intelligence to create advanced AI algorithms that can understand, learn, and predict, dramatically enhancing user interactions. Our mission is to revolutionize how we engage with machines, making them more intuitive and human-like than ever. With a relentless commitment to excellence and a profound understanding of AI, we are setting new standards and pushing the boundaries of what language model-based applications can achieve.
+	- We are looking for talented individuals to join our team in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+	- Successful candidates must be able to commit to an onboarding date by end of year 2025.
+	- Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
+	- Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+	- Responsible for the design and implementation of a global-scale machine learning system for chat bot, feeds, ads and search ranking models
+	- Responsible for leveraging large language models in applications, and improving them via techniques like SFT and RLHF
+	- Responsible for improving the workflow of model training and serving, data pipelines and resource management
+	- Responsible for connecting cutting edge academic research with user-facing next generation products
+	- Currently pursuing a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline
+	- Proficient in C/C++/Python/Golang, and have exceptional programming skills (expert with algorithms and data structures).
+	- Familiarity with deep learning frameworks like TensorFlow/PyTorch
+	- Exceptional problem-solving skills with the ability to think critically and creatively
+	- Knowledge, passion, curiosity, and exposure to areas in Machine Learning / Artificial intelligence
+	- Experience, research, internship, or coursework related in Large Language Models or related fields
+	- Ability to work independently and complete projects from beginning to end and in a timely manner
+	- Strong teamwork and communication skills. Any hands-on experience or group projects in relevant technical scenarios will be a plus!
+	- Experience in big data frameworks (e.g., K8s/Spark/Hadoop/Flink), experience in resource management and task scheduling for large scale distributed systems, experience in building solutions with AWS, GCP, Azures, OCI, AliCloud or other cloud services
+	- Strong background in one of the following fields: High Performance Computing, ML Hardware Acceleration (e.g., GPU/TPU/RDMA) or ML for Systems
+	- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+	- TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+	- (For Pay Transparency) Compensation Description (annually)
+		* The base salary range for this position in the selected city is $145000 - $250000 annually.
+		* Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+		* Our company benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support our employees to give their best in both work and life. We offer the following benefits to eligible employees:
+			+ We cover 100% premium coverage for employee medical insurance, approximately 75% premium coverage for dependents and offer a Health Savings Account(HSA) with a company match. As well as Dental, Vision, Short/Long term Disability, Basic Life, Voluntary Life and AD&D insurance plans. In addition to Flexible Spending Account(FSA) Options like Health Care, Limited Purpose and Dependent Care.
 + skill set:
-	- BLAH.
+	- Lead Gen AI Data Scientist - GenAI
+	- What makes Fractal a GREAT fit for you? When you join Fractal, you’ll be part of a fast-growing team that helps our clients leverage AI together with the power of behavioural sciences to make better decisions. We’re a strategic analytics partner to most admired fortune 500 companies globally, we help them power every human decision in the enterprise by bringing analytics, AI and behavioural science to the decision.
+	- Our people enjoy a collaborative work environment, exceptional training and career development — as well as unlimited growth opportunities. We have a Glassdoor rating of 4 / 5 and achieve customer NPS of 9/ 10. If you like working with a curious, supportive, high-performing team, Fractal is the place for you. close.
+	- Design and implement advanced solutions utilizing Large Language Models (LLMs).
+	- Demonstrate self-driven initiative by taking ownership and creating end-to-end solutions.
+	- Conduct research and stay informed about the latest developments in generative AI and LLMs.
+	- Develop and maintain code libraries, tools, and frameworks to support generative AI development.
+	- Participate in code reviews and contribute to maintaining high code quality standards.
+	- Engage in the entire software development lifecycle, from design and testing to deployment and maintenance.
+	- Collaborate closely with cross-functional teams to align messaging, contribute to roadmaps, and integrate software into different repositories for core system compatibility.
+	- Possess strong analytical and problem-solving skills.
+	- Demonstrate excellent communication skills and the ability to work effectively in a team environment.
+	- Natural Language Processing (NLP): Hands-on experience in use case classification, topic modeling, Q&A and chatbots, search, Document AI, summarization, and content generation.
+	- Computer Vision and Audio: Hands-on experience in image classification, object detection, segmentation, image generation, audio, and video analysis.
+	- Generative AI: Proficiency with SaaS LLMs, including Lang chain, llama index, vector databases, Prompt engineering (COT, TOT, ReAct, agents). Experience with Azure OpenAI, Google Vertex AI, AWS Bedrock for text/audio/image/video modalities.
+	- Familiarity with Open-source LLMs, including tools like TensorFlow/Pytorch and huggingface. Techniques such as quantization, LLM finetuning using PEFT, RLHF, data annotation workflow, and GPU utilization.
+	- Cloud: Hands-on experience with cloud platforms such as Azure, AWS, and GCP. Cloud certification is preferred.
+	- Application Development: Proficiency in Python, Docker, FastAPI/Django/Flask, and Git.
+	- Machine Learning (ML) & Deep Learning:
+		* Solid understanding of supervised and unsupervised learning.
+		* Proficiency with deep learning architectures like Transformers, LSTMs, RNNs, etc.
+	- Generative AI:
+		* Hands-on experience with models such as OpenAI GPT4, Anthropic Claude, LLama etc.
+		* Knowledge of fine-tuning and optimizing large language models (LLMs) for specific tasks.
+	- Natural Language Processing (NLP):
+		* Expertise in NLP techniques, including text preprocessing, tokenization, embeddings, and sentiment analysis.
+		* Familiarity with NLP tasks such as text classification, summarization, translation, and question-answering.
+	- Retrieval-Augmented Generation (RAG):
+		* In-depth understanding of RAG pipelines, including knowledge retrieval techniques like dense/sparse retrieval.
+		* Experience integrating generative models with external knowledge bases or databases to augment responses.
+	- Data Engineering:
+		* Ability to build, manage, and optimize data pipelines for feeding large-scale data into AI models.
+	- Search and Retrieval Systems:
+		* Experience with building or integrating search and retrieval systems, leveraging knowledge of Elasticsearch, AI Search, ChromaDB, PGVector etc.
+	- Prompt Engineering:
+		* Expertise in crafting, fine-tuning, and optimizing prompts to improve model output quality and ensure desired results.
+		* Understanding how to guide large language models (LLMs) to achieve specific outcomes by using different prompt formats, strategies, and constraints.
+		* Knowledge of techniques like few-shot, zero-shot, and one-shot prompting, as well as using system and user prompts for enhanced model performance.
+	- Programming & Libraries:
+		* Proficiency in Python and libraries such as PyTorch, Hugging Face, etc.
+		* Knowledge of version control (Git), cloud platforms (AWS, GCP, Azure), and MLOps tools.
+	- Database Management:
+		* Experience working with SQL and NoSQL databases, as well as vector databases
+	- APIs & Integration:
+		* Ability to work with RESTful APIs and integrate generative models into applications.
+	- Evaluation & Benchmarking:
+		* Strong understanding of metrics and evaluation techniques for generative models.
 + skill set:
 	- BLAH.
 + skill set:
@@ -14705,6 +14726,54 @@ Use MLOps to support distributed machine learning, distributed ML.
 ***Skill sets for MLOps***:
 + We work with the best of open source technologies - ***Akka, Scala, Undertow, Spark, Spark ML, Hadoop, Cassandra, Mongo***.
 + In depth experience with Spark/Hadoop and either Theano/Tensorflow/Caffe/Torch.
++ Senior MLOps Engineer (Full Stack, React)
+	- Fractal is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite is the one who empowers imagination with intelligence. Fractal has been featured as a Great Place to Work by The Economic Times in partnership with the Great Place to Work® Institute and recognized as a ‘Cool Vendor’ and a ‘Vendor to Watch’ by Gartner.
+	- Location: Sunnyvale, USA
+	- We are seeking a Senior MLOps Engineer to join our dynamic Data Science team within our online retail division at a leading tech product company. The ideal candidate will have a strong background in machine learning operations, with the ability to productionalize ML models, including marketing mix models (MMM), experimentation frameworks, and voice of customer (VoC) analytics, at scale. Additionally, the candidate should be skilled in guiding data engineers to build robust ETL pipelines and possess extensive experience with AWS cloud platforms.
+	- Model Productionalization: Develop, deploy, and maintain machine learning models (MMM, experimentation, VoC) in production environments to ensure scalability and reliability.
+	- Pipeline Development: Collaborate with data engineers to design and build efficient ETL pipelines for data ingestion, transformation, and loading, and familiarity with e-commerce Adobe analytics data is preferred. 
+	- Automation and Monitoring: Implement automated monitoring and alerting for ML models and data pipelines to ensure performance and stability.
+	- Collaboration: Work closely with backend data engineers, product, and data science team to develop and ship new, innovative user experiences and performance data visualizations and optimization in retail.
+	- Optimization: Continuously optimize ML model performance and infrastructure to improve speed, accuracy, and cost-efficiency.
+	- Documentation: Write and review end-user and technical documents, including requirements and design documents for existing and future data systems, as well as data standards and policies.
+	- Cloud Management: Leverage AWS services to build, deploy, and manage ML models and data pipelines, ensuring best practices in cloud security and cost management.
+	- Mentorship: Guide and mentor data engineers, and other ML ops engineers in the team to improve efficiency with data pipelines and MLOps best practices.
+	- Innovation: Stay updated with the latest trends and advancements in MLOps, machine learning, and cloud technologies to drive continuous improvement and innovation within the team.
+	- Model Tracking and Experimentation: Enable model tracking, experimentation, and automation to streamline the ML development lifecycle.
+	- MLOps Component Development: Develop MLOps components using tools like MLFlow, Kubeflow Model Registry, and E2E PaaS/SaaS solutions like DataRobot, HopsWorks, or Dataiku.
+	- Lifecycle Management: Work across all phases of the model development lifecycle to build and integrate MLOps components.
+	- Knowledge Base: Build and maintain a knowledge base to deliver increasingly complex MLOps projects on the Cloud (AWS, Azure, GCP) or on-premises environments.
+	- Client Engagement: Be an integral part of client business development and delivery engagements across multiple domains.
+	- Education: Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or a related field.
+	- Experience: Minimum of 5 years of experience in MLOps, with a proven track record of productionalizing ML models at scale in a commercial setting.
+	- Proficiency in Python, Scala, or Java, and experience with ML frameworks such as TensorFlow, PyTorch, or scikit-learn.
+	- Strong experience with AWS services, including but not limited to SageMaker, EC2, S3, Lambda, and CloudFormation.
+	- Familiarity with containerization technologies such as Docker and Kubernetes.
+	- Expertise in building and maintaining ETL pipelines using tools such as Apache Airflow, Glue, or similar, and familiarity with e-commerce data and Adobe analytics preferred
+	- Knowledge of version control systems like Git and CI/CD tools such as Jenkins or GitLab CI.
+	- Experience with model repositories like MLFlow or Kubeflow Model Registry.
+	- Familiarity with ML platforms like Kubeflow, DataRobot, HopsWorks, or Dataiku.
+	- Experience with large-scale data warehouse solutions such as Teradata, Snowflake, or Redshift.
+	- Hands-on experience in a Unix/Linux environment.
+	- Experience with front-end technologies such as JavaScript, HTML, CSS, and frameworks like React and Angular.
+	- Solid technical database knowledge (Hadoop, Teradata, Snowflake data modeling) and experience optimizing SQL queries on large data.
+	- Familiarity with continuous integration & development and automation tools such as Jenkins, Artifactory, and Git.
+	- Excellent problem-solving skills and ability to work in a fast-paced, collaborative environment.
+	- Strong communication and interpersonal skills to effectively collaborate with cross-functional teams and stakeholders.
+	- Proven ability to mentor and guide junior team members.
+	- Ability to present complex ideas in a clear, concise way.
+	- Hunger and passion for learning new skills.
+	- Experience with marketing analytics, experimentation frameworks, and voice of customer analytics.
+	- Familiarity with big data technologies such as Spark or Hadoop.
+	- Certifications in AWS or related technologies.
+	- Experience with Agile and Test-Driven Development methodology.
+	- Experience in building data engineering monitoring tools.
+	- Familiarity with Tableau.
+	- The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.  The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled.  At Fractal, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case.  A reasonable estimate of the current range is: up to $135,000 USD. For the current performance period, you may be eligible for a discretionary bonus.
+
+
+	
+	
 + MLOps engineering lead
 	- As an experienced MLOps engineer, you understand that machine learning is critical to processing and analyzing massive datasets. Your ability to build, deploy, and maintain ML infrastructure makes you an integral part of delivering robust AI solutions to answer challenging problems. We need your technical expertise and domain knowledge to support the development of generative AI and natural language platforms. As an MLOps engineer in support of strategic innovations, you’ll be implementing cutting-edge ML and DevOps technologies to accelerate our clients’ understanding of their data.
 	- You’ll collaborate with a large community of data scientists, software engineers, and DevOps engineers to deliver world-class solutions. Your advanced consulting skills and hands-on technical experience will guide clients as they navigate the constantly evolving landscape of various ML tools and frameworks. You will also be involved in shaping team direction and will work without considerable direction, including mentoring and supervising team members. Work with us to solve real-world challenges and define ML strategy for the client and beyond.
@@ -17518,6 +17587,82 @@ Sets of skills for more senior data science roles, such as senior data scientist
 	- Demonstrated ability to work well with internal and external customers.
 	- Strong collaboration skills with a demonstrated ability of working well within a team.
 	- Bachelor's degree in Mathematics, Statistics, or quantitative field; or equivalent combination of education and experience.
++ Ability to lead the team to deliver AIML based solutions around a host of domains and problems, with hands on experience in Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, Price Optimization
++ skill set for Vision Language Data Scientist:
+	- Bengaluru, Pune, Mumbai, Chennai, Gurgaon
+	- Fractal is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite is the one who empowers imagination with intelligence. Fractal has been featured as a Great Place to Work by The Economic Times in partnership with the Great Place to Work® Institute and recognized as a ‘Cool Vendor’ and a ‘Vendor to Watch’ by Gartner.
+	- Job Location: Bangalore
+	- We are seeking highly skilled and motivated vision / vision-language data scientists to join our dynamic AI team.
+	- Ideal candidate should have experience into:
+		* Vision Transformers, BEiT, MAE, DINO, SAM, DINO v2, Visual chatGPT, segGPT, CLIP, BLIP, FILIP, GLIP, FLIP, VQA, Stable Diffusion, Visual Prompt Tuning
+		* Image classification, image retrieval, object detection and tracking, optical flow, instance segmentation, pose estimation, monocular depth estimation, image captioning, GAN
+		* Ideal candidate should have strong basics with proven experience / exposure in Computer Vision, along with fundamental understanding of NLP.
+	- The candidate will be responsible for developing and deploying state-of-the-art models and techniques to carry out client projects in the domain of retail, surveillance, manufacturing, process automation and content generation, and deploy them in production environments meeting the desired SLA.
+	- Proactive attitude towards quick adaptability in ongoing tasks.
+	- Develop contrastive, self-supervised, semi-supervised and natural language based learning techniques to boost the performance of computer vision tasks in retail, surveillance, CPG, manufacturing and automation, and extend their functionalities.
+	- Zero-shot and few-shot learning, implementing them to address in-house use cases effectively.
+	- Collaborate on vision language integration, employing cutting-edge vision/graphics and language-based prompt tuning, demonstrate proficiency in open-vocabulary classification, object detection, segmentation and image retrieval tasks.
+	- Follow up with state-of-the-art research in unimodal generative techniques in computer vision- encompassing adversarial networks, cross-attention mechanisms, and latent diffusion modelling based approaches.
+	- Demonstrate expertise in fundamental computer vision tasks, including object detection, segmentation, pose estimation, image captioning, and image/video understanding.
+	- Hands-on experience with PyTorch, TensorFlow for prototyping and deploying models.
+	- Collaborate with cross-functional teams to integrate R&D outcomes into practical solutions.
+	- Qualification and academic background is not a barrier for the right candidate with proven skills.
+	- Master's or Ph.D. (completed / degree awaited) in application of Computer Vision, Artificial Intelligence with the aforementioned skills, and a strong inclination for industrial research application will be preferred.
+	- Prior experience in working with the aforementioned technologies is indispensable. Your previous work experience should preferably be in CV/NLP & DL domain, but not mandatory.
+	- Vision Expertise: Demonstrated expertise in fundamental computer vision tasks, like object detection, segmentation, pose estimation, image captioning and image/video understanding.
+	- Proficiency in Python and C++ programming is essential. Strong knowledge of PyTorch is required for model development. Exposure to Langchain will be preferred.
+	- Problem-Solving: Strong analytical and problem-solving skills to tackle complex challenges in AI research and development.
+	- Communication: Excellent communication skills, both written and verbal, to articulate research findings and collaborate effectively with cross-functional teams, prepare proposals for client.
++ Senior Data Scientist - AI Labs:
+	- Veritone (NASDAQ: VERI) designs human-centered AI solutions. Serving customers in the talent acquisition, media, entertainment and public sector industries, Veritone’s software and services empower individuals at the world’s largest and most recognizable brands to run more efficiently, accelerate decision making and increase profitability. Veritone’s leading enterprise AI platform, aiWARE™, orchestrates an ever-growing ecosystem of machine learning models, transforming data sources into actionable intelligence. By blending human expertise with AI technology, Veritone advances human potential to help organizations solve problems and achieve more than ever before, enhancing lives everywhere. To learn more, visit Veritone.com.
+	- Develop and deploy systems utilizing LLMs and LMMs for various agent- and copilot-applications that delight our customers and offer new or enhanced functionality on our platform.
+	- Work on video search and -understanding for use cases of our Media & Entertainment and Public Sector units.
+	- Propose and deliver AI projects into production from end to end to drive business growth.
+	- Evaluate models to identify what works best in terms of accuracy, performance and cost.
+	- Develop data-driven storytelling narratives to effectively communicate findings and recommendations to stakeholders.
+	- Expert knowledge of LLMs, agent-based systems, Retrieval Augmented Generation (RAG), Multimodal Foundation Models.
+	- Deep learning proficiency, especially sequence- and generative models (Attention, Transformers, GANs, Diffusion etc.).
+	- Excellent communication (written / verbal).
+	- Experience with Python, PyTorch, LangGraph/LangChain/LlamaIndex, vector databases, Docker.
+	- Experience designing and implementing APIs that leverage AI models.
+	- Experience processing unstructured data for LLM applications.
+	- Experienced with embedding models for multiple modalities (e.g., text, image, video, etc.).
+	- Experience running LLMs locally (e.g. Ollama, llama.cpp, etc.).
+	- Awareness of AI related risk and potential countermeasures.
+	- PhD in one of the following: Computer Science, Electrical Engineering, Signal Processing, Physics, Robotics, Machine Learning, Applied Statistics, or Applied Mathematics.
+	- Experience in Video Retrieval or -understanding.
+	- Experience developing software in C++, Java, Go or similar.
+	- Experience in deep learning in Computer Vision, Speech/Audio processing or similar.
+	- Experience creating data preprocessors and exploratory data analysis.
+	- Experience creating web UIs for prototypes.
+	- An incredible opportunity to impact AI for good and empower the human with AI solutions and services
+	- A competitive compensation package
+	- Participation in the Company’s Equity Program 
+	- Remote first + Hybrid workplace
+	- VERI Communities (Affinity Groups) & Belonging
+	- Empowerment to build your career journey at Veritone
+	- Flexible (Paid) Time Off
+	- Benefits Program: medical, dental, vision, 401K matching, and more!
+	- Mental health awareness and support
+	- Loves learning & continuous growth; stays current on marketing trends
+	- Can juggle multiple projects, priorities, and deadlines with a positive attitude
+	- Comfortable in a fast-paced, small company environment
+	- Collaborative and always contributing value
+	- Driven to win as a team
+	- Remote first workplace
+	- Veritone is a leading provider of artificial intelligence (AI) technology and solutions. The company's proprietary operating system, aiWARE, orchestrates an expanding ecosystem of machine learning models to transform audio, video and other data sources into actionable intelligence. We love to continuously grow while staying ahead of trends and creating structure in an unstructured world. 
+	- (Colorado & California Only): The annual salary range of $128,000.00 - $164,000.00. This base pay is for illustrative purposes only and will be determined based on skills and experience comparable to the job requirements. This position may be eligible for additional compensation and benefits including but not limited to: incentive compensation; health benefits; retirement benefits; life insurance; paid time off; parental leave and benefits; and other employee perks and benefits.
+
+
+
+
+
+
++ skill set:
+	- Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: Customer Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization
+	- Experience of working on end-to-end data science pipeline: problem scoping, data gathering, EDA, modelling, insights, visualizations, monitoring and maintenance.
+	- Intermediate to advanced knowledge of machine learning, probability theory, statistics, and algorithms. You will be required to discuss and use various algorithms and approaches on a daily basis.
+	- We use regression, clustering, time series modelling, dimensionality reduction, Bayesian methods, tree-based learners, RF, XGBOOST etc. on a regular basis. If you know them, you are good to go.
 + skill set:
 	- Senior Data Analyst - Incubation
 	- Ramat Gan, Israel
