@@ -1618,6 +1618,21 @@ Skill set for software development for parallel programming, especially on heter
 	- Familiar with at least one parallel programming framework, such as CUDA, OpenACC, OpenMP, etc.
 	- You care deeply about robust, readable, high-performance code
 	- Excited to learn, explore new problem areas, and apply your creativity to some of the most challenging and rewarding problems we have
++ Accelerated Computing Software Developer:
+	- Mountain View, California
+	- Implement software to accelerate data processing operations by exploiting parallel execution capabilities of vectorized CPUs and by offloading CPU tasks to massively parallel GPUs, FPGA-based accelerators, and other custom accelerator silicon. Work closely with technical leads and other individual developers to develop this software and ensure data is processed accurately, efficiently, and reliably as part of the overall analytics engine. Investigate and address issues in the software and develop necessary enhancements in an ongoing manner.
+	- The developer will have the following specific responsibilities in achieving these objectives.
+		* Develop efficient parallel algorithms that can accelerate data processing applications on servers with accelerated computing hardware.
+		* Research advances in accelerated computing hardware and development tools, and ensure algorithms take maximal advantage of the capabilities of the platform.
+		* Characterize the performance of application workloads and benchmarks and optimize implementations.
+		* Implement, develop, and maintain code generation and runtime software in support of end-to-end application compilation and execution.
+		* Develop, maintain, and support production software.
+	- BS EE/CS or equivalent with work experience or MS CS
+	- 3+ year experience developing production applications leveraging SIMD extensions such as AVX, GPU frameworks such as CUDA, ROCm, and OpenCL. Experience working with associated software libraries, development tools, profiling tools, etc.
+	- Prior experience in performance analysis, particularly of GPU applications
+	- Solid understanding of computer architecture (e.g.: x86, ARM CPUs, GPUs).
+	- Experience working on Linux, knowledgeable about Linux OS, kernel, device driver model
+	- Strong programming ability in C, C++. Rust experience a strong plus
 + skill set:
 	- Developing high quality, scalable and innovative heterogeneous parallel computing runtime.
 	- Developing software that meets certain quality and real time requirements for applications in multiple domains such as Machine Learning and AI.

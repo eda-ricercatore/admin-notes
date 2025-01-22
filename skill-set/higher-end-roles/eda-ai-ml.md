@@ -18685,6 +18685,27 @@ They support databases for:
 			+ https://github.com/twitter/scalding
 			+ "Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details."
 			+ "Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs."
++ Data Processing Software Developer:
+	- Mountain View, California
+	- Implement software to perform data processing operations efficiently on large data sets as part of an overall data processing engine. Work closely with technical leads and other individual developers to develop this software and ensure data is processed accurately, efficiently, and reliably as part of the overall analytics engine. Investigate and address issues in the software and develop necessary enhancements in an ongoing manner.
+	- Working with cross-functional teams to deliver new algorithms and techniques in the core Datapelago GPU-powered, parallel and distributed execution engine
+	- Developing enterprise-grade, highly reliable code and owning the end-to-end delivery of solutions ensuring smooth production rollouts
+	- Designing, implementing, testing, and maintaining enhancements in different components of our engine. Developing highly modular components and ensuring clean integration with the entire stack
+	- Define algorithms, mechanisms, procedures, and policies for the required functionality. Document them, and secure review and approval from the technical lead(s)
+	- Continuously analyzing and identifying areas for differentiation and improvements in the execution engine
+	- Identifying bottlenecks in scaling and performance and implementing solutions
+	- Investigate and resolve all bugs before and after the release of the software
+	- Support troubleshooting and resolution of issues, incidents, and problems, working in collaboration with others as needed. Document findings, resolutions, and identify required enhancements to avoid recurrence
+	- Collaborating with other teams and team members and assisting with code reviews, design reviews, and development process improvements
+	- BS. EE/CS or equivalent with 5+ years of experience or MS with 3+ years’ experience
+	- 5+ years of experience developing database execution engine components including core database operations - joins, aggregations, sorts, analytic functions like window functions, etc., in an enterprise-class database serving large-scale data processing workloads
+	- Experience developing modern analytic databases and familiarity with vectorized execution, parallel and distributed database algorithms, memory management, etc.
+	- Good understanding of SQL and familiarity with Lakehouse architectures and technologies
+	- Solid experience in developing performant code that minimizes overheads and latency and maximizes throughput
+	- Experienced with the best practices in developing high quality, reliable software
+	- Experience developing, evaluating, and troubleshooting high-performance software
+	- Strong programming ability in C, C++. Rust experiences a strong plus
+	- Strong development experience on Linux platforms
 + Should have experience in dealing with XML and JSON data formats.
 + Product Data Engineer
 	- Bay Area (San Francisco and Palo Alto)
@@ -20089,6 +20110,21 @@ Skill sets for DataOps:
 + Integrate our data pipeline with available Augmented Analytics models, tools, and applications.
 + Leverage and advance our query processing engine to build a data pipeline that enables the development of features and integration with available Augmented Analytics models, tools, and applications.
 + Preferred (but not essential) experience any Big Data technologies such as languages like R, Hadoop, Machine Learning and Data Lakes
++ Lakehouse Platform Software Developer:
+	- Mountain View, California
+	- Implement software to perform data processing operations in a lakehouse architecture, where source data is typically maintained in Open Table Format on cloud object stores. Work closely with technical leads and other individual developers in developing this software and to ensure data is processed accurately, efficiently, and reliably as part of the overall engine. Investigate and address issues in the software and develop necessary enhancements in an ongoing manner.
+	- Develop platform software for consistent, efficient, scalable distributed processing on cloud object store and other data sources.
+	- Develop high-performance cloud object store access layer for Lakehouse data processing compute platform.
+	- Characterize the performance of application workloads and benchmarks and optimize implementations.
+	- Research advances in architectures, protocols, APIs, and formats for data lake integration, and enhance platform to take advantage of advanced capabilities.
+	- Develop, maintain, and support production software.
+	- BS. EE/CS or equivalent with 5+ years of experience or MS with no 3+ years’ experience
+	- Experience developing capabilities for distributed data processing platforms such as Apache Spark, Trino, Presto.
+	- Experience implementing open table formats such as Iceberg, Delta Lake, and Hudi.
+	- Experience working with data formats such as Parquet, ORC, and Avro.
+	- Experience developing software for scalable access to distributed storage.
+	- Experience developing, evaluating, and troubleshooting high-performance software.
+	- Strong programming ability in C, C++. Rust experiences a strong plus
 + Some of the technologies you’ll be working with include Apache Spark, Python, Terraform, Kafka, Azure EventHub, Vector DBs.
 + skill set:
 	- Scala, Flask, Big Data or cloud technologies

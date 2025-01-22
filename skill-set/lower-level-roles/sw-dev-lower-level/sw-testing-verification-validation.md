@@ -12,6 +12,24 @@
 
 
 
++ Quality Engineer
+	- Hyderabad, Telengana
+	- Ensure quality of the data processing engine, in terms of result accuracy,  performance fidelity, and robust execution at scale.
+	- B.E /B.Tech /M.Tech/MCA degree from a recognized and accredited university/college.
+	- 5-15 years of experience in Software testing or QA test role.
+	- Good knowledge of SQL, Python, and similar data processing languages
+	- Experience applying programming/scripting languages in QA Automation.
+	- Strong in problem-solving and coming up with the test strategy for the complex system.
+	- Strong in debugging, root cause, and narrowing down the failures.
+	- Good at test strategy analysis systematically and delivery focused.
+	- Experience in Unit, Functional, Integration, System Level testing.
+	- Experience in query testing of database, data warehouse, or query engine applications.
+	- Good Knowledge of tools like Jira, Confluence, Git, Jenkins.
+	- Good understanding of SDLC and agile methodologies.
+	- Good understanding of CI/CD implementations.
+	- Skills that will give you an edge
+		* Experience in analytical engines like Spark, Presto, and Trino.
+		* Experience with AWS and Cloud Technology (Docker, Kubernetes)
 + skill set:
 	- Familiarity with pytest, unittest, or nose
 		* Nose, a Python unit test framework

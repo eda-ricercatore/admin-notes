@@ -99,6 +99,13 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- December 8-13, 2020.
 	- ~~September 13-18, 2020~~
 	- Submission deadline: ~~April 8, 2020~~ July 1, 2020.
++ CoRL, Conference on Robot Learning
+	- https://www.corl.org
+	- https://www.corl.org/contributions/call-for-papers
+		* https://2024.corl.org/contributions/call-for-papers
+	- Seoul, Korea
+	- September 27-30, 2025
+	- Submission deadline: April 28, 2025, 23:59 AoE
 + CPAIOR 2021, International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research
 	- https://cpaior2021.dbai.tuwien.ac.at/
 	- https://cpaior.org/
@@ -186,6 +193,13 @@ Transparency**
 		* Has information about:
 			+ Upcoming Opportunities
 			+ Upcoming Events and Publications
++ Humanoids, IEEE-RAS International Conference on Humanoid Robots
+	- https://2025humanoids.org
+	- https://2025humanoids.org/paper-submission/
+		* https://2024.ieee-humanoids.org/submissions/call-for-contributions/
+	- COEX, Seoul, Korea
+	- September 30 – October 2, 2025
+	- Submission deadlines: May 1, 2025.
 + ICALP, International Colloquium on Automata, Languages and Programming
 	- http://easyconferences.eu/icalp2021/
 	- http://easyconferences.eu/icalp2021/cfp/
@@ -264,6 +278,10 @@ Transparency**
 	- August 4-7, 2021.
 	- Shenzhen, China & virtual conference, mixed mode (in person + virtual).
 	- Submission deadline: **March 24, 2021.**
++ IJCNLP-AACL, International Joint Conference on Natural Language Processing and the Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+	- https://www.afnlp.org/web/call-for-bids-ijcnlp-aacl-2025/
+	- Unknown date.
+	- Unknown venue.
 + IJCNN, International Joint Conference on Neural Networks
 	- https://www.ijcnn.org/callforpapers
 	- July 18-22, 2021.
@@ -288,6 +306,11 @@ Transparency**
 	- June 29 - July 1, 2021.
 	- Virtual conference. Or, Rome, Italy.
 	- Submission deadline: January 25 - February 1, 2021.
++ IUI, Annual ACM Conference on Intelligent User Interfaces
+	- https://iui.acm.org/2025/call_for_papers.html
+	- Cagliari, Italy
+	- March 24-27, 2025.
+	- Submission deadlines: October 3 and 10, 2024
 + Journal of Automated Reasoning
 	- https://www.springer.com/computer/theoretical+computer+science/journal/10817
 + KDD, SIGKDD Conference on Knowledge Discovery and Data Mining
@@ -518,6 +541,7 @@ Transparency**
 
 
 List of AI/ML -related conferences:
++ IJCAI, AAAI, NeurIPS, ACL, SIGIR, WWW, RSS, NAACL, KDD, IROS, ICRA, ICML, ICCV, EMNLP, EC, CVPR, AAMAS, HCOMP, HRI, ICAPS, ICDM, ICLR, ICWSM, IUI, KR, SAT, WSDM, UAI, AISTATS, COLT, CORL, CP, CPAIOR, ECAI, or ECML
 + AAAI, ECAI, ICML, NeurIPS, ACL, KDD, KR, CP, UAI, CVPR, ICCV, ACMLPKDD, NACL, EMNLP, COLT, ICLR, AAMAS
 + AISTATS, ALT, COLT, ICLR, ICML, NeurIPS, UAI, ECML, CIKM, ICDM, KDD, SIGIR, WSDM, WWW, AAAI, IJCAI, CVPR, ECCV, ICCV, SIGGRAPH, BMVC, ACL, EMNLP, ICASSP, INTERSPEECH, NAACL, ICRA, IROS, RSS, CORL, AAMAS, HRI, ICAPS, EC, HCOMP, ICWSM, IUI, KR, SAT, WSDM, CPAIOR, ECAI
 + AISTATS, ALT, COLT, ICLR, ICML, NeurIPS, or UAI
@@ -804,7 +828,7 @@ List of conference "Call for Papers" deadlines:
 	- San Francisco Bay Area, California.
 	- ~~November 6-8, 2019.~~
 	- December 1-3, 2020.
-	- ~~Submission deadline: May 12 and 20, 2019.~~~
+	- ~~Submission deadline: May 12 and 20, 2019.~~
 	- Submission deadline: August 14 and 28, 2020.
 
 

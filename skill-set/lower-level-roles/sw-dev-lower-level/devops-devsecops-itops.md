@@ -175,6 +175,20 @@ Skill set for DevOps:
 	- Working experience with AWS services (Aurora DB, Dynamo DB, Athena, EMR, Redshift, Data Catalog etc)
 	- Experience with log analysis tools like Splunk
 	- Experience with Issue trackers tools like Jira etc
++ DevOps Engineer
+	- Hyderabad, Telengana
+	- B.E /B.Tech /M.Tech/MCA degree from a recognized and accredited university/college.
+	- 5+ yearsof strong experience as a DevOps Engineer.
+	- Building and setting up new development tools and infrastructure.
+	- Experience in Container and Container Orchestration like Docker, ECS Fargate, Kubernetes (k8 cluster) with Helm, Istio and in cloud (EKS, GKE, AKS).
+	- Experience in deploying/configuring logging/monitoring/visualization dashboard tools like ELK, Grafana, Splunk, Prometheus, etc.
+	- Experience working in large-scale datacenter/cloud/network environments.
+	- Automate the development cycle using the CI/CD pipelines.
+	- Programmingexperience in Groovy/Python/Shell.
+	- Experience with Git and build tools such as Jenkins, Maven.
+	- Knowledge of REST API development standards.
+	- Experience with virtualized products/services/solutions.
+	- Good Knowledge of tools like Jira, Confluence, Git, Jenkins.
 + The role involves using a range of technologies, such as Python, CMake, BuildBot, Phabricator, AWS etc.
 	- BuildBot:
 		* job scheduling system

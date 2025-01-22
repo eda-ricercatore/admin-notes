@@ -449,7 +449,22 @@ Skill set for management of information systems, MIS, including data analyst rol
 	- ClickHouse columnar databases
 	- Spring Boot
 + skill set:
-	- BLAH.
+	- Big Data Query Optimization Engineer
+	- Mountain View, California
+	- Evaluate and enhance query optimization capabilities of our lakehouse platform.
+	- Research, design and implementation of Logical and Physical Query Plan Optimization techniques.
+	- Demonstrate expertise in Query Optimization topics like cost models, logical plan rewrite techniques, materialized view rewrites etc.
+	- Address both simple and complex product defects as a part of normal development
+	- Translate complex functional and technical requirements into detailed design
+	- Facilitate knowledge sharing by creating and maintaining detailed, comprehensive documentation.
+	- Mentor less knowledgeable team members as needed.
+	-A Bachelor’s degree is required in the field of Computer Science, or Engineering.
+	- 5+ years experience working on SQL Query Optimization, contributing to one or more optimization techniques at a DB vendor.
+	- Experienced in the query optimization implementation of one or more open source engines such as Apache Spark, Presto, Trino, and Calcite.
+	- Familiarity with development and deployment of enhancements on open source platforms such as Spark, Presto, Trino.
+	- Experience working in Open Source. Apache contributor and/or Committer a strong plus
+	- At least 10 years of relevant work experience
+	- Engineering experience with the following technologies preferred : Linux, Java, Scala, Python.
 + skill set:
 	- BLAH.
 + skill set:
