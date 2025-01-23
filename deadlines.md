@@ -3487,11 +3487,14 @@ Workshop on ML for Systems at NeurIPS 2023
 
 
 + ISSAC, International Symposium on Symbolic and Algebraic Computation
-	- http://www.issac-conference.org/2021/
-	- http://issac-conference.org/
+	- https://www.issac-conference.org/2025/
+	- https://www.issac-conference.org/2025/calls/ISSAC25-CFP-3.txt
+	- https://www.issac-conference.org
 	- July 18-22, 2021.
 	- Saint Petersburg, Russia. 
-	- Submission deadline: January 29 and February 5, 2021.
+	- Submission deadlines:
+		* Abstract submission: ~~January 23~~ January 30, 2025
+		* Paper submission: ~~January 30~~ February 6, 2025
 
 
 
@@ -3716,6 +3719,46 @@ Workshop on ML for Systems at NeurIPS 2023
 	- PQC Standardization Conference
 		* NIST Post-Quantum Cryptography Standardization Process
 		* https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference
+
+
+
+
+
+
+
++ SSP, IEEE Statistical Signal Processing workshop
+	- https://2025.ieeessp.org
+	- https://2025.ieeessp.org/call-for-papers/
+		* Sampling and reconstruction
+		* Adaptive signal processing
+		* Optimization techniques for signal processing
+		* Information forensics and security
+		* Social networks
+		* Sparsity-aware processing and compressive sensing
+		* Bioinformatics and genomics
+		* Physiological signal processing
+		* Medical and biomedical imaging
+		* Machine learning and pattern recognition
+		* Audio and acoustic signal processing
+		* Data driven methods
+		* Speech and language processing
+		* Data sciences
+		* High-dimensional statistical inference
+		* Signal processing over graphs
+		* Geoscience and seismology
+		* Signal processing over networks
+		* Financial signal processing
+		* Distributed signal processing
+		* Quantum signal processing
+		* Array processing, radar, and sonar
+		* Astrophysics
+		* Matrix and tensor methods
+		* Signal separation methods
+	- June 8-11, 2025
+	- Edinburgh, Scotland, U.K.
+	- Submission deadline: February 12, 2025.
+
+
 
 
 
