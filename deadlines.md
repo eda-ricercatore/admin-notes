@@ -73,6 +73,54 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Valencia, Spain
 	- Abstract deadline: ***October 6, 2023 (AoE)***
 	- Paper deadline: ***October 13, 2023 (AoE)***
++ CEC, IEEE Congress on Evolutionary Computation
+	- https://www.cec2025.org/index/page.html?id=1307
+	- https://www.cec2025.org
+	- Hangzhou, China
+	- June 8-12, 2025
+	- Submission deadline: ~~January 15~~ January 31, 2025, 11:59 PM Anywhere on Earth
+	- https://www.cec2025.org/index/page.html?id=1308
+		* Call for Journal to Conference (J2C) Papers
+	- Paper submission: https://www.cec2025.org/index/page.html?id=1298
+	- Special sessions:
+		* Evolutionary Large-scale multi-objective optimization: https://upyun.hw.85do.com/cec2025/044-2025%20CEC%20SS1%20proposal.pdf
+		* Computational Intelligence for Control and Optimization of Complex Energy Systems: https://upyun.hw.85do.com/cec2025/041-SS-CEC2025_CIS_TF3_v3.pdf
+			+ https://www.gecad.isep.ipp.pt/ERM-competitions/ss2025/
+		* Evolutionary Computation for Safety: Data, Methods and Applications: https://upyun.hw.85do.com/cec2025/040-ss-CEC1206.pdf
+		* Multimodal Multiobjective Optimization: Real-world Applications and Methods: https://upyun.hw.85do.com/cec2025/038-Special%20Session%20proposal%20on%20Multimodal%20Multiobjective%20Optimization%20Real-world%20Applications%20and%20Methods.pdf
+		* Advanced Optimization under Uncertainty: https://upyun.hw.85do.com/cec2025/036-Special%20Session%20Proposal%20CEC%202025_Aneta_Neumann_Advanced%20Optimization%20under%20Uncertainty.pdf
+		* EMO-AutoML: Evolutionary Multi-Objective Automated Machine Learning: https://upyun.hw.85do.com/cec2025/035-Special%20Session%20Proposal%20-%20EMO-AutoML%20for%20CEC2025.pdf
+		* Automating Computational Intelligence Systems: Trends, Challenges, and Real-World Applications: https://upyun.hw.85do.com/cec2025/034-Special%20Session%20Proposal%20-%20CEC%202025.pdf
+		* Integrating Machine Learning Methods into Evolutionary Optimization: https://upyun.hw.85do.com/cec2025/033-SessionCEC2025.pdf
+		* Quantum Artificial Intelligence: https://upyun.hw.85do.com/cec2025/032-QAI_CEC_Special_Session_Proposal.pdf
+		* Physics-Informed Evolutionary Learning and Optimization: https://upyun.hw.85do.com/cec2025/029-CEC2025%20Special%20Session%20Proposal.pdf
+		* Machine Learning Multiobjective Optimization: https://upyun.hw.85do.com/cec2025/028-CEC_2025_Special_Session_on_Machine_learning___multiobjective_optimization.pdf
+		* Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization: https://upyun.hw.85do.com/cec2025/027-2025--CEC%20special%20session%20proposal_Large%20Language%20Model-Enhanced%20Evolutionary%20Algorithms%20for%20Industrial%20Optimization.pdf
+		* Competitions on Numerical Optimization: https://upyun.hw.85do.com/cec2025/026-SS-%20CEC-real-para-comp-2025.pdf
+			+ https://github.com/P-N-Suganthan/2025-CEC
+		* Evolutionary Many-objective Optimization: https://upyun.hw.85do.com/cec2025/025-2025%20IEEE%20CEC%20Special%20Session%20Proposal%20(1).pdf
+		* Bio-inspired Intelligence and Evolutionary Computation for Robotics and Autonomous Systems: https://upyun.hw.85do.com/cec2025/023-Proposal_SS_Bio-inspired%20CEC%20for%20Robotics_MSU_Luo%202025%20-%20ECE%20MSU.pdf
+		* Design of General Purpose Artificial Intelligent Systems (GPAIS): https://upyun.hw.85do.com/cec2025/022-SS-CEC-GPAIS.pdf
+		* Quality Indicators in Evolutionary Multiobjective Optimization: Theory, Algorithms, and Practice: https://upyun.hw.85do.com/cec2025/021-IEEE_CEC_2025_Special_Session___QIs_in_EMO.pdf
+		* Evolutionary Computation in Dynamic and Uncertain Environments (ECiDUE): https://upyun.hw.85do.com/cec2025/020-ECiDUE-Proposal2025.pdf
+		* Fundamental and Applied Research on Large-Scale Evolutionary Algorithms for Artificial Intelligence: https://upyun.hw.85do.com/cec2025/019-CFP_Fundamental%20and%20Applied%20Research%20on%20Large-Scale%20Evolutionary%20algorithms%20for%20Artificial%20Intelligence.pdf
+		* Evolutionary Transfer Learning and Transfer Optimisation: https://upyun.hw.85do.com/cec2025/018-CEC2025SpecialSessionProposal-ETLTO.pdf
+		* Advances in Decomposition-based Evolutionary Multi-objective Optimization (ADEMO): https://upyun.hw.85do.com/cec2025/017-ADEMO%202025.pdf
+		* Data-Driven Evolutionary Optimization of Computationally Expensive Problems: https://upyun.hw.85do.com/cec2025/015-2025---CEC%20special%20session%20proposal_JF_update.pdf
+		* New frontiers in evolutionary computation for real-world optimization: Smart initialization and dynamic operators: https://upyun.hw.85do.com/cec2025/014-SS_Proposal_2025_IEEE%20Congress%20on%20Evolutionary%20Computation.pdf
+		* Computational Intelligence with Human Factors: https://upyun.hw.85do.com/cec2025/013-cec2025.pdf
+		* Computational Intelligence for Music, Art, and Creativity: https://upyun.hw.85do.com/cec2025/012-SS_ECMAC.pdf
+		* Evolutionary Learning and Learning to Optimize: https://upyun.hw.85do.com/cec2025/011-Proposal_of_Special_Session_on_Evolutionary_Learning_and_Learning_to_Optimize-r.pdf
+		* Evolutionary Computer Vision and Image Processing (ECVIP): https://upyun.hw.85do.com/cec2025/010-CEC2025_special_session.pdf
+		* Multimodal Data-Driven Optimization: https://upyun.hw.85do.com/cec2025/09-2025%20Special%20Issues%20CEC%20_Yan_He_YJ.pdf
+		* Application of Quantum Technologies to Industrial and Real-World use cases (Q4-RW): https://upyun.hw.85do.com/cec2025/08-CEC2025_Osaba_Villar_Oregi_Special_Session_proposal.pdf
+		* Evolutionary Computation for Feature Selection, Extraction and Dimensionality Reduction: https://upyun.hw.85do.com/cec2025/07-CEC2025_SpecialSessionProposal_EvolutionaryFeatureSelectionFeatureConstruction.pdf
+		* Evolutionary Computation for Symbolic Regression and Applications: https://upyun.hw.85do.com/cec2025/06-CEC2025-Special%20Session%20Proposal%20Form-ECSR-Qi%20Chen.pdf
+		* Evolutionary Deep Learning and Applications: https://upyun.hw.85do.com/cec2025/05-CEC2025SpecialSessionProposal_EDLA.pdf
+		* Evolutionary Computation for Scheduling and Combinatorial Optimization: https://upyun.hw.85do.com/cec2025/04-proposal_special_session_ESCO_2025.pdf
+		* Learning Guided Swarm Intelligence and Evolutionary Algorithms with Applications: https://upyun.hw.85do.com/cec2025/03-Proposal_for_Special_Session_at_IEEE_CEC_2025-KZ.pdf
+		* Neural Architecture Search: A Deep Evolutionary Optimization Perspective: https://upyun.hw.85do.com/cec2025/02-ENAS%20CEC-2025%20SS%20Proposal.pdf
+		* Learning-aided Evolutionary Computation: Principles, Algorithms, and Applications: https://upyun.hw.85do.com/cec2025/01-LEC%20-%20CEC-2025%20SS%20Proposal.pdf
 + CIBCB 2021, IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
 	- https://cibcb2020.uai.cl/#callforpapers
 	- ~~October 27-29, 2020~~
@@ -179,7 +227,7 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Virtual conference.
 	- May 25-27, 2021.
 	- Submission deadlines: November 25 and December 2, 2020, AoE.
-+ **ACM FAccT, ACM Conference on Fairness, Accountability, and
++ **FAccT, ACM Conference on Fairness, Accountability, and
 Transparency**
 	- https://facctconference.org/2021/cfp.html
 	- https://fatconference.org/2020/callforpapers.html
@@ -503,7 +551,8 @@ Transparency**
 	- New Orleans, LA.
 	- Submission deadlines: March 21 and 31, 2021.
 + WCCI, IEEE World Congress on Computational Intelligence (IEEE WCCI)
-	- https://wcci2022.org/call-for-papers/
+	- https://2024.ieeewcci.org/authors/call-for-papers
+	- https://2024.ieeewcci.org
 		* "bi-annual IEEE World Congress on Computational Intelligence (IEEE WCCI), which is the largest technical event in the field of computational intelligence"
 	- Conference dates: July 18-23, 2022.
 	- Padua, Italy.
