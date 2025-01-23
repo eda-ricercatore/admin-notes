@@ -112,6 +112,10 @@ Fix mathematical proof for paper and implement processor subsystems.
 	- Vienna, Austria.
 	- June 5-8, 2020
 	- Submission deadlines: ~~November 18 and 27, 2019~~ ~~November 18 and 29, 2019~~ January 21 and 28, 2021.
++ CPDP, International Conference on Computer, Privacy, Data Protection and Artificial Intelligence
+	- https://www.cpdpconferences.org/call-for-papers
+	- January 24, 2025
+	- Brussels, Belgium
 + **CVPR, Conference on Computer Vision and Pattern Recognition**
 	- http://cvpr2021.thecvf.com/node/36
 	- http://cvpr2021.thecvf.com/
@@ -343,17 +347,6 @@ Transparency**
 	- October 25, 2020.
 	- ~~October 21, 2019~~
 	- Submission deadline: ~~June 24, 2019~~ July 7 and 12, 2020.
-+ LICS, ACM/IEEE Symposium on Logic in Computer Science
-	- http://easyconferences.eu/lics2021/
-	- http://easyconferences.eu/lics2021/cfp/
-	- http://lics.siglog.org/
-	- Virtual conference.
-	- ~~Beijing, China~~.
-		* Venue and dates changed to: Saarbrücken, Germany, July 8-11.
-			+ This is because of the spread of the coronavirus/COVID-19 virus infections.
-	- June 29 - July 2, 2021. 
-	- ~~July 8-11, 2020.~~
-	- Submission deadline: ~~January 6 and 10, 2020.~~ **January 20 and 25, 2021.**
 + LPAR-24 & LPAR-23 (merged), International Conference on Logic for Programming, Artificial Intelligence and Reasoning
 	- http://lpar.net/
 	- https://easychair.org/smart-program/LPAR23/
@@ -3122,12 +3115,12 @@ Workshop on ML for Systems at NeurIPS 2023
 
 
 + LICS, ACM/IEEE Symposium on Logic in Computer Science
-	- http://lics.siglog.org/lics20/
-	- http://lics.siglog.org/lics20/cfp.php
-	- Saarbrücken, Germany.
-	- July 8-11, 2020.
-	- Submission deadline: **January 6 and 10, 2020.**
-
+	- https://lics.siglog.org/lics25/
+	- https://lics.siglog.org/lics25/cfp.php
+	- Singapore
+	- June 23-26, 2025
+	- Submission deadline: **January 16 and 23, 2020.**
+	
 
 
 
