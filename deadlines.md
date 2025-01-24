@@ -554,16 +554,15 @@ Transparency**
 	- https://2024.ieeewcci.org/authors/call-for-papers
 	- https://2024.ieeewcci.org
 		* "bi-annual IEEE World Congress on Computational Intelligence (IEEE WCCI), which is the largest technical event in the field of computational intelligence"
-	- Conference dates: July 18-23, 2022.
-	- Padua, Italy.
-	- ~~Glasgow, U.K.~~.
+	- Yokohama, Japan
+	- Conference dates: June 30 - July 5, 2024.
 	- Submission deadline:
-		* January 31, 2022.
-		* ~~January 15, 2020.~~ ~~January 30, 2020 (extended)~~
+		* January 29, 2024 (extended).
 	- Includes:
 		* International Joint Conference on Neural Networks (IJCNN)
 		* IEEE Congress on Evolutionary Computation (IEEE CEC)
 		* IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+	- Call for Journal to Conference (J2C) Papers: https://2024.ieeewcci.org/authors/call-for-journal-to-conference-j-2-c-papers
 + WSDM, ACM International Conference on Web Search and Data Mining
 	- http://www.wsdm-conference.org
 	- https://www2021.thewebconf.org/
