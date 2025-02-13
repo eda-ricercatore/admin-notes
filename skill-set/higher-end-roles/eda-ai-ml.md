@@ -18500,6 +18500,72 @@ Skill sets for data scientists for weather analysis, meteorology, and atmospheri
 	- Have good taste in research. The problems you will work on will aim to ***challenge the limits of atmospheric predictability***. You should be comfortable pushing in new and unknown directions while maintaining clarity of purpose
 	- Think and communicate precisely and openly. We believe great solutions come from the interaction between diverse groups of people across the firm
 	- Base salary is $200,000 - $250,000. Base salary is only one part of Jane Street total compensation, which includes an annual discretionary bonus.
++ Scientist (Loss modelling: physical risk from weather and climate)
+	- Position at: Climate X
+	- London - Hybrid
+	- We are a leading global climate risk and analytics provider located in London, UK and New York, US. Earlier this year, we closed Series A led by GV (Google Ventures) and are on a fast trajectory to lead the financial services and asset management industries with our B2E SaaS platform, comprised of three products, Carta, Spectra and Adapt, which resolve customer climate risk challenges across their entire workflows.
+	- We are at a pivotal point in scaling our product offering, expanding our market reach, and refining our product strategy to sustain continued success. 
+	- We are seeking a scientist with a strong background in applied statistics and physical loss modelling, who has specific experience in physical climate/weather risk. This role is ideal for someone experienced with natural catastrophe models and comfortable working with complex and large geospatial and loss datasets. You will be a key contributor to the development, calibration and validation of loss models that support our mission to help clients assess and manage climate risks.
+	- The impact you’ll own
+		* Loss Model Development: Research and implement loss models that quantify climate-related risks, focusing on robustly estimating asset vulnerabilities.
+		* Model Calibration & Validation: Calibrate and validate loss models against a wide variety of data sources ensuring they meet rigorous scientific and practical standards.
+		* Qualitative Validation: Leverage your experience in loss modelling to enhance qualitative validation, particularly in cases where data is limited.
+		* Framework Development: Contribute to building our overall loss modelling framework, ensuring robustness and adaptability across diverse client requirements and geographies.
+	- Experience in weather risk with a strong background in statistics and loss modelling.
+	- Proficiency working with geospatial data (climate and Earth Observation) and observed or modelled economic damage datasets.
+	- Prior experience in loss modelling with a focus on validation when data is limited.
+	- Skilled in model calibration, particularly for loss models and damage curves.
+	- Strong programming skills in python/R or another language.
+	- Strong communication skills with ability to explain complex concepts to a non-technical audience.
+	- Experience in any one of these areas makes you stand out but are not required for the role and if you are passionate and interested in the role we encourage you to apply!
+	- Expertise in catastrophe modelling, especially in the physical hazard and vulnerability domain.
+	- Experience with Bayesian statistics and/or Extreme Value Theory.
+	- Machine learning knowledge with applications in climate risk assessment.
+	- Experience with cloud computing (e.g. AWS/Google Cloud)
+	- PhD or equivalent experience in climate science, hazard modelling, statistical analysis and remote sensing.
+	- Minimum of 3 years of industry experience in statistical or catastrophe modelling.
++ Research Scientist Opportunity at University of Chicago
+	- AI for Climate (AICE), a program of the Institute for Climate and Sustainable Growth and the Data Science Institute, aims to accelerate and transform climate research with a focus on both scientific advances and societal impacts. AICE and Climate Extremes Theory and Data (CeTD) group invite applications for the position of Research Scientist to work with Prof. Pedram Hassanzadeh on advancing AI weather forecasting across scales, from short- and medium-range to subseasonal-to-seasonal (S2S) predictions. The researcher will closely collaborate with a growing multidisciplinary team, including Profs. Michael Kremer (Economics) and Amir Jina (Public Policy), focused on human-centered weather forecasts, and in conjunction with the international efforts at the Development Innovation Lab (DIL). The appointment will be for up to three years, with the possibility of extending it by one more year if necessary to complete the project. The expected start date is between January 1st and April 1st, 2025.
+	- Broadly, the topics of interest include
+		* Developing probabilistic S2S AI weather models
+		* Forecasting monsoon and other extreme precipitation events across scales
+		* Developing benchmarks and metrics for AI weather models based on climate and AI theories, particularly focusing on physical consistency and extreme events
+		* Exploring hybrid AI-numerical weather prediction modeling
+		* Developing algorithms for foundation AI weather models
+	- Work on these topics involves collaborations with leading experts in atmospheric science and AI from the University of Chicago and other institutions. The close partnership with economists and public policy experts at DIL accelerates the translation of the outcome of this work to significant societal impact.
+	- In addition to being part of the dynamic AICE and DIL communities, these researchers will benefit from major AI and climate activities at the University of Chicago, including the Data Science Institute, the Climate and Sustainable Growth Institute, and the AI Science Initiative, as well as those at the Argonne National Lab.
+	- PhD in Climate Science, Atmospheric Science, Physical Oceanography, Applied and Computational Mathematics, Physics, Engineering, or a related field at the time of the appointment;
+	- 2-3 years of postdoctoral experience
+	- Expertise in weather forecasting or climate modeling/dynamics;
+	- Experience with high-performance computing and analysis of large datasets;
+	- Familiarity with theoretial and practical aspects of scientifc deep learning;
+	- Experience with AI weather/climate models.
+	- Experience with writing grant proposals for funding
+	- Ability to work both independently and as part of a mutidisciplinary team;
+	- Strong communication skills
+	- Interested candidates should submit:
+		* A complete curriculum vitae that includes a list of publications 
+		* Three confidential letters of recommendation
+		* A statement (max three pages) detailing how their past research experience, interests, and career plans align with the topics mentioned above. It also has to include their experience with AI weather/climate models, scientific deep learning, and proposal writing.
+		* Applicants must apply online through the University of Chicago academic careers website using this link: http://apply.interfolio.com/159359
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

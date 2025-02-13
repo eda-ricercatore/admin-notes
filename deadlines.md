@@ -522,6 +522,7 @@ Transparency**
 	- September 6–9, 2021.
 	- Submission deadline: ~~March 15 and 29, 2020~~ April 18, 2021.
 + UAI, Conference on Uncertainty in Artificial Intelligence
+	- https://www.auai.org/uai2025
 	- https://www.auai.org/uai2021/
 	- https://www.auai.org/
 	- July 27-29, 2021, with workshops on July 30, 2021.
@@ -591,7 +592,7 @@ List of AI/ML -related conferences:
 + IJCAI, AAAI, NeurIPS, ACL, SIGIR, WWW, RSS, NAACL, KDD, IROS, ICRA, ICML, ICCV, EMNLP, EC, CVPR, AAMAS, HCOMP, HRI, ICAPS, ICDM, ICLR, ICWSM, IUI, KR, SAT, WSDM, UAI, AISTATS, COLT, CORL, CP, CPAIOR, ECAI, or ECML
 + NeurIPS, ICLR, ICML, AAAI, IJCAI, CVPR, AAMAS, UAI, AISTATS, KDD, CoRL, ICCV, IROS, ACL
 + NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ICASSP
-
++ NeurIPS, ICML, ICLR, JMLR, CVPR, ICCV, ECCV, IJCV, PAMI, RSS, CoRL, TRO, IJRR, Science Robotics, ACL, EMNLP, KDD, AAAI, IJCAI, COLT, UAI, AAMAS, AISTATS, TACL, SIGIR, WSDM, Web Conference
 
 
 

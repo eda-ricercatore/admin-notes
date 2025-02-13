@@ -1,0 +1,55 @@
+We invite submissions of original and previously unpublished research on rough set theory, including but not limited to the following topics:
+
++ Core Rough Set Models And Methods:
+	- Covering/Neighborhood-based rough set models
+	- Decision-theoretic rough set models
+	- Dominance-based rough set models
+	- Game-theoretic rough set models
+	- Logic in rough set models
+	- Partial rough set models
+	- Rough-Bayesian models
+	- Rough clustering
+	- Rough computing
+	- Rough mereology
+	- Rough-set-based feature selection
+	- Rule-based systems
+	- Variable precision rough set models
++ Related Methods And Hybridization:
+	- Anomaly, outlier, and novelty detection
+	- Decision support systems
+	- Dempster-Shafer theory
+	- Formal concept analysis
+	- Fuzzy sets
+	- Fuzzy rough sets and rough fuzzy sets
+	- Granular computing
+	- Intelligent agent models
+	- Interval computations
+	- Nature-inspired computation models
+	- Petri nets
+	- Rough sets in data science, artificial intelligence, and machine learning
+	- Three-way decision
+	- Three-way data analytics
+	- Topology and matroids
+	- Uncertain and approximate reasoning
+	- Uncertainty theory
+	- Cognitive computing
++ Areas Of Applications:
+	- Astronomy and atmospheric sciences
+	- Big data analytics
+	- Bioinformatics
+	- Business intelligence and business data analytics
+	- Computer vision and image processing
+	- Cybernetics and robotics
+	- Financial markets
+	- Interactive computing
+	- Knowledge discovery
+	- Knowledge engineering and representation
+	- Medicine and health
+	- Natural language processing
+	- Retail and E-commerce
+	- Risk monitoring
+	- Semantic web
+	- Smart cities
+	- Telecommunications
+	- Transportation
+	- Web mining and text mining
