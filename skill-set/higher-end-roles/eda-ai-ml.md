@@ -17924,7 +17924,9 @@ Skill sets for data visualization:
 	- experience in the design and implementation of static and / or interactive data visualizations and infographics;
 	- imagine, design and collaborate with UX / UI and development teams to create static and interactive data visualizations, infographics, reports and dashboards;
 	- interact and design solutions with customers that can satisfy both explicit and unidentified needs.
-
++ use the following for data visualization:
+	- Microsoft Power BI
+	- Microsoft Power Query
 
 
 
