@@ -378,6 +378,57 @@ reactive programming = asynchronous dataflow programming
 	- Experience implementing CI/CD using industry standards (we use Argo, Github Actions, and Drone).
 	- Lean, DevSecOps, GitOps, etc. 
 	- Kanban or other agile methodologies.
++ skill set for Professional Services Developer:
+	- Globus (www.globus.org) is a sustainable, non-profit entity within The University of Chicago delivering solutions to the research community worldwide.  Globus provides critical services that support scientific research for governmental, academic, and commercial organizations in a wide range of disciplines including life sciences, physics, and astronomy.  We develop, operate, and sell commercial-quality SaaS and PaaS used by hundreds of thousands of researchers to address their large–and growing–data management challenges. Our office is located in the heart of downtown Chicago and we also offer flexible remote/work-from-home options.
+	- As a Professional Services Developer, you will help researchers achieve their research goals by integrating Globus data and compute management services with research applications. Organizations that adopt Globus include universities, national laboratories, federal research agencies and commercial companies of all shapes and sizes. You will complete software development and integration assignments that support our team’s goals.
+	- Are you always eager to hack some Python or Javascript that highlights how to solve a customer’s problem? Do you enjoy learning how other people’s code works and where you can add new features? As a Globus professional services developer you will have ample opportunity to showcase these and many other skills in a collaborative, mission-driven environment at the University of Chicago. You will develop relationship-building skills that enable you to provide exemplary customer service, explore and uncover the research IT needs of our customers, and understand how Globus services can best support their mission.
+	- You will succeed in this role if you: treat it as your craft and are serious about constantly improving it; love technology, and are prepared to go as broad as possible and as deep as necessary to serve the customer; relish being challenged; and are open to deepening your software development skills and learning how to build customer relationships.
+	- Software Development: Perform as a team member in research software projects developing data portals, science gateways, data commons, and other research applications. Performs code testing on components and works to ensure that appropriate implementation standards are met. 
+	- Software Integration:  Assist research software engineers with utilizing Globus APIs, SDK, and web interfaces to add Globus data management features to their applications. Develop, test, document and deploy work with other research software engineers to optimize and troubleshoot Globus features in their applications.
+	- Support and Documentation: Grow the body of available Globus knowledge by documenting best practices, developing code samples, and sharing learnings with both Globus staff and customers.
+	- Team Coordination: Contribute to team coordination and development activities, including participating in project meetings and sprint reviews. Develop knowledge of current security and software development best practices.
+	- Performs code testing on components and works to ensure that appropriate implementation standards are met.
+	- Supports and maintains existing applications. Works with web developers and responds to requests from users.
+	- Investigates and resolves day-to-day technical problems using standard procedures. 
+	- Performs other related work as needed.
+	- Preferred Qualifications
+		* Education: Bachelor's degree in computer science or another relevant computer related field.
+		* Experience:
+			+ Knowledge and skills developed through 0-2 years of work experience in research software.
+			+ Proficiency in software development with Python and/or Javascript.
+			+ 2+ years of relevant programming experience developing, implementing, and debugging Python for personal or professional projects.
+			+ Knowledge of SQL, Databases, and web technologies.
+			+ Experience in a customer facing role.
+			+ Experience with high performance computing.
+			+ Experience with research software development.
+			+ Experience with cloud computing.
+			+ Experience with scientific applications.
+			+ Experience with Globus.
+		* Technical Skills or Knowledge:
+			+ Familiarity with Python web framework (e.g. Flask/Django).
+			+ Knowledge of SQL databases (e.g. PostgreSQL, MySQL, SQLite).
+			+ Knowledge of Web technologies (e.g. Javascript, HTML, CSS).
+			+ Unit testing and continuous integration tools (e.g. pytest, Jenkins, Github Actions).
+			+ Knowledge of open source project contribution.
+			+ Familiarity with Shell scripting (e.g., bash).
+			+ Effective oral and written communication skills.
+			+ Knowledge of Agile (e.g. Scrum) development processes.
+			+ Use standard software development applications and tools.
+	- Preferred Competencies
+		* Interest in modern security and data management technologies.
+		* Exposure to fundamental concepts, practices, and procedures of software development.
+		* Excellent verbal and written communication skills.
+		* Problem solving skills.
+		* Ability to use standard software development applications and tools.
+		* Ability to prioritize and manage workload to meet critical project milestones and deadlines.
+		* Ability to work in a collaborative team environment.
+		* Attention to detail.
+	- Working Conditions
+		* Ability to work on a flexible schedule, which will include occasional late night and/or weekend hours.
+		* Option available for remote work with occasional required attendance at in-person meetings.
+		* Occasional travel.
+	- Pay Range: $80,000.00 - $100,000.00
+		* The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.
 + skill set:
 	- Software Engineer - Fullstack
 	- Splunk is looking for highly motivated talent to build innovative full stack solutions that solve real world problems and empower our customers to quickly detect and resolve their infrastructure and application issues.

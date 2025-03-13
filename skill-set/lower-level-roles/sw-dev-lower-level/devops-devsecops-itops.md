@@ -2357,7 +2357,49 @@ DevSecOps is an augmentation of DevOps to allow for security practices to be int
 
 
 
-
++ Skill Set for Senior DevSecOps Engineer:
+	- Globus (www.globus.org) is a sustainable, non-profit unit within The University of Chicago delivering solutions to the research community worldwide. Globus develops and provides critical services that support scientific research for governmental, academic, and commercial organizations in a wide range of disciplines including life sciences, physics, and astronomy.  We develop and operate commercial-quality, cloud-based software application and platform services used by 10s of thousands of researchers to manage their large–and growing–data management challenges. We have offices located at the NBC Tower in the heart of downtown Chicago and remote employees who work-from-home. Globus, together with Globus Labs, a research group within the University of Chicago, and part of the Data Science and Learning Division at Argonne National Labs, develop and deploy cutting edge technologies to solve new challenges facing the scientific community and enable break-through scientific discoveries.
+	- As a senior member of the Globus Operations team, reporting to the System and Security Operations Manager, the focus of this position is to ensure security is comprehensively and effectively integrated into both our software services and AWS cloud infrastructure.  The Globus platform is a hybrid solution that combines AWS-hosted orchestration services with installable applications, enabling seamless integration into customer environments. It offers a range of capabilities, including identity and access management, data transfer and sharing, and task automation, delivered as both software-as-a-service (SaaS) and platform-as-a-service (PaaS).
+	- This position will architect, implement, and operate a resilient Cloud infrastructure to ensure high-security, high-performance, high-availability and scalability for Globus platform services. We’re looking for a talented senior DevSecOps engineer who can effectively work across teams to integrate security into new and existing software and infrastructure services as well as be an evangelist and educator of security best practices.
+	- Security Operations: lead the implementation and monitoring of Globus’ security procedures and controls, including creating audit reports to meet target security compliance standards. Participate in incident response, as required. 
+	- Security Integration: Integrate security features into the software development life cycle, as well as existing services and infrastructure. Identify potential threats and vulnerabilities early in the development process through techniques like STRIDE and implement mitigating strategies.
+	- Architecture and Design: lead the definition and documentation of Cloud infrastructure architecture, including security, monitoring, logging, and deployment strategies, for the production and development environments.
+	- SRE/Operations: Deploy, operate, monitor, and maintain production Globus services for high availability.
+	- Support: As a technical consultant and resource for other team members, including the engineering and user support team, assist in addressing operational issues and troubleshooting.
+	- Designs new systems, features, and tools. Solves complex problems and identifies opportunities for technical improvement and performance optimization. Reviews and tests solutions to ensure appropriate standards are met.
+	- Utilizes technical knowledge of existing and emerging technologies, including public cloud offerings from Amazon Web Services, Microsoft Azure, and Google Cloud.
+	- Performs other related work as needed.
+	- Strong understanding of security concepts, including threat modeling, risk assessment, and vulnerability management.
+	- Knowledge of the SDLC and experience integrating security best practices at every process stage.
+	- Understanding cloud security principles, including secure architecture design and configuration management.
+	- Knowledge of container security principles relating to Docker and AWS ECS.
+	- Good analytical problem-solving skills to scrutinize and solve very intricate security problems with effective solutions.
+	- System Administration, Operations Monitoring, Application Performance Monitoring, Logging, Incident and Problem Management.
+	- Use operational tools and monitoring platforms to gain in-depth knowledge, understanding, and ongoing system availability, performance, and capacity.
+	- Define requirements and develop tools and reporting as needed by projects and operations.
+	- Experience with threat modeling techniques and tools (e.g. STRIDE, Veracode, SonarCube, OWASP suite), as well as security frameworks and standards such as NIST 800-53, OWASP, and CIS Benchmarks.
+	- Experience developing in one or more scripting languages, preferably including Python and Bash, to automate, monitor and maintain infrastructure.
+	- Experience with Linux administration, troubleshooting, and management tools.
+	- Demonstrated experience with relevant AWS services including AWS IAM, VPC, WAF, KMS, EC2, RDS, DynamoDB, ElasticSearch, SQS, S3, ECS.
+	- A solid understanding of networking, firewalls, and DNS.
+	- Experience with monitoring solutions (e.g. AWS CloudWatch, Nagios).
+	- Expertise in common relational database administration tasks (e.g., PostgreSQL, MySQL, SQLite).
+	- Experience with CI/CD orchestration tools (e.g. GitHub Actions, Jenkins).
+	- Expertise with designing and building Infrastructure as Code (IaC) (Terraform, CloudFormation).
+	- Operational experience with web-servers (e.g. Apache, Nginx) and web-based technologies (e.g. RESTful APIs, SSL certificate management, TLS).
+	- Security Operations experience with public sector compliance regulations (e.g. FedRAMP, HIPAA, FISMA), as well as working with compliance teams and auditors to produce compliance records and artifacts.
+	- Proficient in uniting cross-functional teams and communicating clearly, while fervently pursuing knowledge of the latest trends and technologies in security.
+	- Exposure to fundamental concepts, practices, and procedures of software development.
+	- Expertise in integrating development and deployment framework with the monitoring, operations, and orchestration required for running applications securely and at-scale on public cloud platforms.
+	- Problem solving skills.
+	- Ability to prioritize and manage workload to meet critical project milestones and deadlines.
+	- Ability to work in a collaborative team environment.
+	- Confidentiality related to sensitive University matters such as, strategic initiatives, trade secrets, quiet periods, and scientific discoveries yet to be put in the public domain.
+	- Passionate about continued learning and being aware of current security trends and technologies.
+	- Working Conditions: This job requires occasional evening or weekend hours.
+		* This job is a remote position with occasional attendance at in-person meetings required. 
+	- Pay Range: $145,000.00 - $170,000.00
+		* The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.
 + skill set:
 	- Dev Sec Ops Manager (IT)
 	- At Edge Impulse we are building the future of data-driven engineering.
