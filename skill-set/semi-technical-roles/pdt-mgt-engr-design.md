@@ -109,7 +109,37 @@
 	- Experience working with Spark, Hadoop, or Presto
 	- Experience with AWS EMR, Azure Synapse, Databricks, or Snowflake
 + skill set:
-	- BLAH.
+	- Senior Product Engineer
+	- Location:  Hanoi, VN, 84
+	- Requisition ID:  8626
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	Product Test Yield and Key Test Parameters Analysis in relationship & correlation to key contributors from upstream manufacturing process such as laminators in assembly or failure patterns of a wafer map. 
+	- Drive New Product Introductions to meet schedule, commit to root cause analysis, problem solving and drive solutions to make sure of the OTD. 
+	- Adequate data mining and analytics skills to deliver speedy detection, prevention and prediction measures. 
+	- Collaborate with respective product owner PE to drive yield improvement opportunity based on data analysis or specific excursion with timely detection of abnormality or commonality studies. 
+	- Quality Monitoring Data & Customer Complaint Analysis in relations to Test Information & Manufacturing Process Data   
+	- Analyze real-time monitoring data abnormality (Maverick) detection & prevention measures effectiveness for applicable semiconductor manufacturing processes. 
+	- Collaborate with Manufacturing Site to Drive Data-Driven Process Optimization for Yield and Quality Improvement 
+	- Work closely with on-site Product, Test or Process engineers to analyze production data, identify trends, and optimize manufacturing processes. 
+	- Failure Mode Analysis & Customer Risk/RMA Mitigation 
+	- Collaborate with quality, process, product engineer on in-depth failure mode and effects analysis (FMEA) using historical and real-time data to predict and mitigate potential defects. 
+	- Collaborate with manufacturing teams to implement corrective actions based on predictive insights. 
+	- Track wafer and package yield trends on a daily basis  
+	- Leverage 2DID and Die Level Traceability to perform novel analyses and move yield/quality issues upstream to wafer level whenever possible 
+	- Identify opportunities for cost reduction 
+	- Generate analyses aimed at highlighting device sensitivities and interactions between design/fab/assy/test 
+	- Monitor/Report on KPI's and facilitate data-driven decision making 
+	- Domain Expertise: 
+		* Bachelor’s or Master degree in Telecommuniations, Computer Science, Electrical Engineering, or a related field, with specialized knowledge in semiconductor manufacturing processes. Experience in predictive analytics for yield and quality in semiconductor fabs is highly desirable 
+	- Technical Skills: 
+		* Proficiency in microwave transmission line and S-parameter theory. 
+		* Proficiency in at least one of following programming languages such as Python, Javascript or C# would be a plus.  
+	- Experience with Semiconductor Manufacturing: 
+		* At least 5 - 8 years of experience working in semiconductor manufacturing, particularly in roles focused on process monitoring, yield improvement, and quality control. Familiarity with Fab, Die probe, and Assembly processes is essential. 
+	- Cross-Functional Collaboration and Communication:
+		* Strong communication skills to effectively collaborate with process engineers, quality assurance teams, and other stakeholders. Ability to translate complex data insights into actionable strategies that improve product yield and quality. 
+	- Working Location:
+		* Candidate must be willing to work at Bac Ninh, Bac Giang
 + skill set:
 	- BLAH.
 + skill set:

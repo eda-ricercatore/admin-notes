@@ -2816,7 +2816,63 @@ Skill sets for mixed-signal IC design:
 	- Experience with mixed-mode simulation of analog and digital blocks, including behavioral modelling of analog circuits, using tools like Verilog or Verilog A for simulation.
 	- Familiarity with programming and scripting languages to enable automation in the design, simulation, and testing of ICs.
 	- Experience with synthesized digital design flows, using RTL descriptions to deliver verified netlists for physical synthesis.
++ skill set for Staff Design Engineer
+	- Location:  Greensboro, NC, US, 27409; Hiawatha, IA, US, 52233; Chelmsford, MA, US, 1824; Hillsboro, OR, US, 97124
+	- Requisition ID:  8959
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- We are looking for an innovative and detail-oriented Staff Analog Design Engineer with experience in Power Management circuit design to join our team. You will work in a fast-paced, highly cooperative environment in one of the following locations: Greensboro, NC; Hiawatha, IA; Chelmsford, MA; or Hillsboro, OR. 
+	- Collaborate with system engineers to architect/define/specify solutions 
+	- Responsible for design and simulation per defined product functionalities and specifications 
+	- Characterize, verify and debug the design through lab measurements 
+	- Understand and reinforce design review, best practice, and other product line design processes 
+	- Deliver design release notes, documentation for product characterization
+	- BS, MS or PhD in Electrical Engineering 
+	- 8+ years of relevant experience 
+	- Preferred Qualifications: 
+		* Experience in designing bandgap circuits, Op-Amps, bias networks, ADC, DAC, charge pumps and DC-DC converters.  
+		* Strong knowledge of low noise, low power, feedback, and compensation design techniques 
+		* Experience using Cadence Analog Artist, Virtuoso, AMS and parasitic extraction 
+		* Experience in LNA design and layout is a plus 
+		* Proficiency in the use of test equipment, including an Oscilloscope, digital multi-meter, waveform generator, etc. 
+		* Exceptional analytical and problem-solving skills 
+		* Well-developed interpersonal and communication skills 
+		* Self-starter and team player 
++ skill set for Analog/RF Design Engineering Intern
+	- Location:  Netherlands - Utrecht, NL
+	- Requisition ID:  8366
+	- Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available.
+	- Qorvo’s Internship Program offers:
+		* Challenging, skill-building assignments
+		* Mentoring and coaching from industry experts
+		* Lunch & Learns and other learning opportunities
+		* Collaborative team-based work environment
+		* Networking and social events
+		* Final presentation to business leaders
+ 
 
+SUMMARY: 
+
+Qorvo is looking for a student to work as a RF/Analog Integrated Circuits Design Engineering Intern in Utrecht for a period of 6 to 9 months starting August 2025.
+The student in this position will be exposed to design part of our BLE/ZigBee SOCs. Preferably on the new and innovative parts.
+Scope of work will depend heavily on the candidate’s experience level and skill set.
+
+ 
+
+RESPONSIBILITIES: 
+
+Perform system work on the blocks/circuits
+Assist in the design at block level in CMOS.   
+Prepare and present design review(s) to peers summarizing work/results. 
+Measure and analyze radio performance of our SOCs in the engineering lab. 
+ 
+
+REQUIREMENTS: 
+
+Candidate shall be currently enrolled in an accredited program seeking an MS or PhD in Electrical Engineering with focus on RF/Analog circuit design.  
+Student must have completed some relevant mixed- signal/analog/RF circuit design course work. 
+Candidate shall be proficient with Cadence (Spectre and Verilog-AMS) simulation software. 
+Knowledge of python programming is a plus. 
+Self-Starter with good communication skills. 
 
 
 

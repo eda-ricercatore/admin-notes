@@ -146,7 +146,18 @@
 	- MS/MSc/Ph.D in Electrical Engineering 
 	- 12+ years of design experience and 3+ years of experience leading a team. 
 + skill set:
-	- BLAH.
+	- Director, RFIC Design
+	- Location:  Chelmsford, MA, US, 1824
+	- Requisition ID:  8571
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Director of IC Design/Technology
+	- Manage members of the RFIC Design team
+	- Managing engineering projects end-to-end
+	- Monitor reliability and performance of all internal systems to suggest improvements
+	- Assist with hiring engineers and coordinating their training
+	- Strong technical background with 10+ years chip industry experience in at least one of the following areas in Analog/Mixed-Signal: data converters, filters, analog building blocks
+	- Excellent communication skills and ability to excel and leadership abilities with a strategic mind
+	- Master or Ph.D in Electrical Engineering
 + skill set:
 	- BLAH.
 + skill set:

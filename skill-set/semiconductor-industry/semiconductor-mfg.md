@@ -937,11 +937,78 @@ Semiconductor manufacturing companies to pay attention to:
 	- Candidates requiring work sponsorship must be eligible for access to export-controlled electronics technology.
 	- Santa Rosa, CA Pay Range: MIN $119,000.00 - MAX $199,000.00
 + skill set:
-	- BLAH.
+	- Process/Yield Engineer
+	- Location:  Hillsboro, OR, US, 97124
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- Process sentinel (PS):
+		* Device Engineering activity of monitoring parametric performance and taking appropriate proactive actions
+		* Collaborate with other Yield and Process engineers to drive yield improvements
+		* Monitor visual defect levels and work with other process engineers to find root cause solutions
+		* Partner with process development engineers to ensure new processes launch successfully with high yield
+		* Interface with other engineering groups in a team-oriented work environment to address yield issues and implement solutions to improve yields
+		* Must be willing to work flexible hours when required to support 24x7 manufacturing environment
+		* Support New Product Introductions into the fab (test vectors for die sort/and process flow setups); engineering review boards and change proposals
+	- Manufacturing Support:
+		* Disposition nonconforming product and establish disposition guidelines for production
+		* Determine root causes of nonconforming product and take appropriate action
+		* Implement corrective and preventive actions to eliminate defects and nonconforming material
+	- Master’s degree in Electrical Engineering, Material Science, Physics or equivalent required.
+	- Recent College Graduate within last 2 years
+	- Demonstrated expertise to interpret data using statistical techniques (time-series analysis, DOE, SPC, ANOVA)
+	- Data analysis skills using JMP, Spotfire or other statistical software
+	- Basic knowledge of analog/RF circuit analysis
+	- Knowledge of FMEA, Control plans, GRR, and SPC is desirable
+	- Expertise in SQL/AI/Python script writing and database manipulation
+	- Understand IC fabrication technology and techniques
+	- Knowledge of device physics and/or electrical operation of CMOS, HBT, pHEMT, and MESFET devices
+	- Engage in group problem-solving and process improvement projects (familiarity with Six Sigma or LEAN methods is desirable)
+	- Write clear and concise specifications, reports, instructions, etc.
+	- Exercise proper engineering discipline required in a manufacturing environment
+	- This position is not eligible for visa sponsorship by the Company.
 + skill set:
-	- BLAH.
+	- Process Engineer, SAW R&D
+	- Location:  Richardson, TX, US, 75081
+	- Requisition ID:  8856
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- The Qorvo Acoustic R&D team is looking for a process engineer specializing in plasma processing to support next generation acoustic filter device development. The candidate will be responsible for multiple processing areas for film deposition and removal including CVD as well as plasma etching (RIE/ICP). 
+	- Ownership of modules and process development of RIE/ICP processes for acoustic filter research and manufacturing 
+	- Ownership of modules and process development of CVD dielectric deposition for acoustic filter research and manufacturing 
+	- Collaboration with device integration engineers to meet project needs and implement innovative solutions to technical challenges 
+	- Solve technical problems individually and in a team environment 
+	- Design experiments to establish and optimize deposition and removal processes 
+	- Drive processes modules from development into high volume manufacturing executing project goals and managing risk through key milestone 
+	- Implement process monitoring, controls and metrics for high volume manufacturing processes
+	- MS in Electrical Engineering, Material Science, Physics or equivalent;  PhD preferred.
+	- 3+ years relevant work experience or PhD
+	- Experience in semiconductor research or manufacturing desirable, but not required. 
+	- Experience with statistical process control (SPC) and design of experiments (DoE) 
+	- Strong communication, presentation and collaboration skills required 
+	- Demonstrated problem-solving methods and experience 
+	- Experience with data analysis tools and techniques such as Matlab, Python, Spotfire or similar software packages
+	- Scripting/programming experience preferred; SQL queries, data analysis scripting
+	- Must be proficient in MS Excel, PowerPoint and windows-based software
+	- This position is not eligible for visa sponsorship by the Company.
 + skill set:
-	- BLAH.
+	- Design Engineer
+	- Location:  Spain - Barcelona, ES
+	- Requisition ID:  7855
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Qorvo supplies innovative semiconductor solutions that make a better world possible. We serve diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare, and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect, and power our planet.
+	- QORVO is looking for a RF Filter Design Engineer SAW/BAW (m/f/d) in Barcelona, Spain
+	- Development of RF acoustic BAW/SAW filters in the range of up to 6 GHz for 4G/5G applications
+	- Applying RF co-design techniques considering other RF components like PAs, LNAs and switches
+	- Integration into RF front end modules in close cooperation with larger product design teams
+	- Acoustic and electromagnetic (EM) simulations and optimizations
+	- Device characterization and diagnostics using the latest state of the art in RF test equipment
+	- Collaboration with an international team at multiple locations
+	- MS in Electrical Engineering with focus on RF
+	- Background in standard RF design techniques, RF measurements and characterization
+	- Experience in SAW or BAW design, MEMS design or RF module design desirable
+	- Experience with HFSS, AWR, ADS, or similar tools
+	- Understanding of microelectronic fabrication and high-volume manufacturing is a plus
+	- Communication and presentation skills
+	- Be able to work independently, but also in larger teams
+	- This position is only open to candidates having a qualified legal status to work in Spain
 + skill set:
 	- BLAH.
 + skill set:
