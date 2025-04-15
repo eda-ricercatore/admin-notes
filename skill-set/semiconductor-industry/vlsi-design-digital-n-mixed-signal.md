@@ -2837,42 +2837,24 @@ Skill sets for mixed-signal IC design:
 		* Exceptional analytical and problem-solving skills 
 		* Well-developed interpersonal and communication skills 
 		* Self-starter and team player 
-+ skill set for Analog/RF Design Engineering Intern
-	- Location:  Netherlands - Utrecht, NL
-	- Requisition ID:  8366
-	- Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available.
-	- Qorvo’s Internship Program offers:
-		* Challenging, skill-building assignments
-		* Mentoring and coaching from industry experts
-		* Lunch & Learns and other learning opportunities
-		* Collaborative team-based work environment
-		* Networking and social events
-		* Final presentation to business leaders
- 
 
-SUMMARY: 
 
-Qorvo is looking for a student to work as a RF/Analog Integrated Circuits Design Engineering Intern in Utrecht for a period of 6 to 9 months starting August 2025.
-The student in this position will be exposed to design part of our BLE/ZigBee SOCs. Preferably on the new and innovative parts.
-Scope of work will depend heavily on the candidate’s experience level and skill set.
 
- 
 
-RESPONSIBILITIES: 
 
-Perform system work on the blocks/circuits
-Assist in the design at block level in CMOS.   
-Prepare and present design review(s) to peers summarizing work/results. 
-Measure and analyze radio performance of our SOCs in the engineering lab. 
- 
 
-REQUIREMENTS: 
 
-Candidate shall be currently enrolled in an accredited program seeking an MS or PhD in Electrical Engineering with focus on RF/Analog circuit design.  
-Student must have completed some relevant mixed- signal/analog/RF circuit design course work. 
-Candidate shall be proficient with Cadence (Spectre and Verilog-AMS) simulation software. 
-Knowledge of python programming is a plus. 
-Self-Starter with good communication skills. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 

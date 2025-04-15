@@ -140,8 +140,33 @@
 		* Strong communication skills to effectively collaborate with process engineers, quality assurance teams, and other stakeholders. Ability to translate complex data insights into actionable strategies that improve product yield and quality. 
 	- Working Location:
 		* Candidate must be willing to work at Bac Ninh, Bac Giang
-+ skill set:
-	- BLAH.
++ skill set Sr. Product Engineer
+	- Location:  Hanoi, VN, 84
+	- Requisition ID:  8944
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- As a Product Engineer in the Power Management Group, you will be part of a focused team that develops, qualifies, and releases new Power Management semiconductor products while also maintaining an active portfolio of released Power Management products. Power Management Product Engineers drive innovation and continuous improvement in a fast-paced, dynamic environment using rigorous statistical methods. The position focuses on new product introductions, improving yields and maintaining quality for all assigned products to ensure customer expectations are exceeded. The Product Engineer interfaces with Design, Applications, Test, Packaging, Reliability, Operations and Quality Engineering teams. Position based onsite in Hanoi, Vietnam.
+	- Direct ownership of Product Engineering deliverables for new product introduction (NPI) and product sustaining efforts.
+	- Support NPI and sustaining test engineering activities to debug, validate and release production test hardware/software.
+	- Ensure on time completion of NPI and sustaining deliverables to meet project schedules for all owned products.   
+	- Compile and analyze data using common statistical techniques (time-series analysis, CPK, SPC, ANOVA). Effectively present key results and recommended actions from the data analysis to internal and external customers.
+	- Analyze products to ensure manufacturability and data sheet compliance, including setting the optimal test screening limits, guard-bands, and outlier controls in production test plans.
+	- Provide thorough and detailed test data analysis on initial NPI designs and revisions during product development cycle. Identify test and parameter deficiencies, implement improvements.
+	- Develop test plans for NPI prototype and production electrical testing of wafer and packaged devices. Minimize test costs by implementing test time reduction best practices and efficient test methods.
+	- Disposition test yield excursions using data derived from data analysis tools and Product Engineering skills.
+	- Practice continuous improvement and yield optimization by tracking test parameters, identifying outliers, uncovering correlations, and troubleshooting process and equipment issues.
+	- Support Design Engineering and Product Quality teams on product qualifications, failure analysis, customer returns and alternate vendor sourcing approvals.
+	- Effectively interface and communicate with Design Engineering, Test Engineering, Package Engineering, Customer Quality Engineering, Supplier Quality Engineering, Product Quality Engineering and Operations (US and Asia locations), as needed for Product Engineering support.
+	- Employ appropriate Statistical Process Control (SPC) principles to reduce variability in product performance.
+	- Fluency in the English language required, read/write/verbal. Position interfaces with teams across the globe.   
+	- Bachelor's degree in Electrical Engineering required. Master’s degree preferred.  
+	- 3+ years of semiconductor engineering experience required. Product and/or Test Engineering experience desired.
+	- Analog / digital semiconductor technology experience highly desired.
+	- Experience with motor control and/or battery management integrated circuits preferred.  
+	- Proficiency with statistical analysis methods and using statistical software required. (Spotfire, JMP, Excel, etc.)
+	- Time management skills for balancing multiple high-priority activities required.
+	- Must have strong attention to detail, be self-motivated and able to achieve results with minimal supervision.
+	- Ability to interface effectively and to build consensus with coworkers at every level of the company.
+	- Flexibility to attend regular evening and early morning meetings required, to interface with US based teams.
 + skill set:
 	- BLAH.
 + skill set:

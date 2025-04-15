@@ -1065,8 +1065,24 @@ Skill set for roles in VLSI testing:
 	- Experience with Fault Campaigns a plus.
 	- Strong problem solving and debug skills across various levels of design hierarchies.
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
-+ skill set:
-	- BLAH.
++ skill set for Sr. RF Test Development Engineer
+	- Location:  MA - Billerica, US
+	- Requisition ID:  7991
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- Design and develop test solutions for highly integrated Silicon mm-wave RFICs
+	- Evaluate, optimize and debug first silicon
+	- Characterize products to develop datasheet specifications
+	- Develop production test solutions and manage the tester transfer process to high volume sites including tester MSA and GRR studies
+	- Support the development customer facing collateral for product operation
+	- Participate in cross functional teams to support design reviews, test coverage, 8D and customer issues
+	- BSEE or MSEE with at least 5 years of relevant experience in RF Test Engineering
+	- In-depth understanding of RF network analyzers, including calibration methodologies, calset manipulation and advanced measurements
+	- Experience in RF measurements from X-band through W-band products at the IC or device level
+	- Strong Python programming abilities, including demonstrated familiarity with numpy and matplotlib libraries for data processing and visualization.  Experience in developing UIs with PyQt preferred but not required.
+	- Experience in analyzing large data sets using Spotfire or similar data analysis software.  Good understanding of statistical data analysis and DoE. 
+	- Ability to interface to digital control (SCAN testing, STIL files, SPI).  FPGA experience preferred but not required
+	- Strong communication skills to work across multiple departments including Sales, R&D, New Product Development and Introduction teams
+	- Highly self-motivated with a strong sense of ownership to drive high level tasks to completion
 + skill set:
 	- BLAH.
 + skill set:
@@ -1375,7 +1391,6 @@ Skill set for roles in VLSI device, circuit, and system characterization:
 	- Excellent analytical, troubleshooting, problem-solving, and communication skills
 	- Experience with FPGA design/ implementation tools is a plus
 	- Experience in validating FPGA blocks such as DSP, PLL, I/O, high-speed interfaces, etc. is a strong plus
-
 + skill set:
 	- Develop checkers and assertions to verify the memory subsystem designs with interconnect.
 	- A minimum of 3 years of recent experience with standard verification tools and methodologies (SystemVerification/UVM, Verdi/DVE, Verilog, Makefiles, scripting languages, etc.).

@@ -94,8 +94,39 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Interest in and understanding of machine learning
 	- Superior verbal and written communication skills
 	- Ability to work cross functionally and drive issues to closure
-+ skill set:
-	- BLAH.
++ skill set for Staff App/System Engineer:
+	- Location:  San Jose, CA, US, 95134
+	- Requisition ID:  8831
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Staff Application/System Engineer
+	- Qorvo SFBU is looking for a Staff Application Engineer. In this role, you will be working closely with our mechanical, electrical, and software teams to integrate our sensing products into our customers’ electronic devices. We work closely with different OEMs on next generation products such as window switch panels, smart surfaces and wearables, etc. This will provide you with an opportunity to understand how different products are designed and manufactured. In this role, you will see the entire process from concept design, proof of concept builds through mass production.  Your task will focus on system software integration and algorithm development. There will also be opportunities for traveling to customer headquarters in Asia and Europe. This job will give you the opportunity to work closely with MEMS and CMOS designers, helping them continuously improve the family of products we offer. This is a fast-paced role, we need engineers who are hungry to learn and move fast. 
+	- Owner of technical documentation like application notes, datasheet, design guide. 
+	- Hands-on in multi-disciplinary activities in electrical design, debug, hardware bring-up of solutions of targeted applications. 
+	- Propose and implement innovative solutions for internal and customers’ designs particularly in mechanical, electrical, software integration and algorithm development. 
+	- Prototype/product test & characterization 
+	- Support sensor promotion & training, address global customers & FEAs’ questions/issues from concept to MP 
+	- Work closely with R&D designers for new product test and verification 
+	- Work closely with customers & R&D to continuously improve the family of products Qorvo offers.
+	- 10% domestic and international travel
+	- Bachelor’s degree or master’s degree in mechanical engineering, electrical engineering, computer Engineering, or computer Science 
+	- Minimum of 5 years of relevant professional experience 
+	- Experience in technical writing for electronic devices including hardware, software, and mechanical structure   
+	- Fluent in at least one of the following languages: C/C++, Python 
+	- Comfortable in fast pace and a highly collaborative environment, able to discuss tactical problems with cross function team and working towards the common goal of the best solution possible. 
+	- Familiar with lab equipment such as oscilloscopes, spectrum Analyzer, digital analyzer, multimeter, solder iron... 
+	- Hands-on experience in sensor & embedded system design, firmware development, sensor signal postprocess is strongly desirable 
+	- Algorithm development experiences are a plus 
+	- Experience designing Proof-of-Concepts strongly preferred 
+	- Self-starter & adaptable to changing project requirements 
+	- Hands on and attention to detail 
+	- Enthusiasm to learn and incorporate new technologies 
+	- Strong communication skills to work efficiently with diverse stakeholders 
+	- Customer-centric work ethic 
+	- Team player 
+	- Time management 
+	- Competitive base salary commensurate with experience: $160,500 - $208,700, relevant for the California Bay Area (subject to change dependent on physical location)
+	- Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability.
+	- Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request.
 + skill set:
 	- BLAH.
 + skill set:
@@ -672,10 +703,64 @@ Sets of skills for embedded software development roles:
 	- Fluent English.
 	- Experience with Run time Firmware.
 	- Familiarity with hardware-software development methodologies.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
++ skill set for Software Engineering Intern
+	- Location:  Belgium - Zele, BE
+	- Requisition ID:  8315
+	- Qorvo is All Around You! We make a better world possible by providing innovative Radio Frequency (RF) solutions at the centre of connectivity. We are a global company thriving on a culture of innovation, diversity, and inclusion.  Our people are always at the core of Qorvo’s innovation. Qorvo is a place to stretch your imagination and push boundaries to achieve success.
+	- For our office in Belgium, we are looking for an engineering intern who can help us develop the next-generation of wireless connectivity for the smart home and industry 4.0. You will be involved in technologies such as ultra-Wideband, Matter, Thread, Zigbee and Bluetooth Low Energy.
+	- Qorvo Belgium covers a broad range of engineering practices. Depending on your interest and field of expertise, we will work with you to find an internship that best suits you. Qorvo Belgium can offer an internship on digital ASIC development, Embedded SW development for Wireless SoC’s, Application Engineering (SW or HW) or System validation.
+	- Qorvo’s Internship Program offers:
+		* Challenging, skill-building assignments
+		* Mentoring and coaching from industry experts
+		* Collaborative team-based work environment
+		* Networking and social events
+	- Enabling vision-based Edge AI applications on Qorvo’s Wireless SOC platform
+	- Extracting data from automatic regression test system, and performing statistical analysis
+	- Implementing a firmware upgrade system for internal development boards
+	- Setting up a virtual test environment with multiple simulated nodes
+	- Porting our test-node software to a raspberry-pi
+	- Setting up a system for automatic tracking of test plan progress based on gitlab test data.
+	- Setting up a FPGA based remote debugging approach
+	- Qualifications (depending on the final topic selected by the intern, not all skills are needed):
+		* Good knowledge of python
+		* Experience with embedded programming
+		* Familiar with VHDL and FPGA development
+		* Currently pursuing BS, MS, PhD in Computer Science, Electrical Engineering
+		* Excellent debugging and problem-solving skills
+		* Familiarity/understanding of IDEs, multithreading paradigms, shell scripting, algorithms and data-structures
+		* Self-Starter with strong written and verbal communication skills
+		* Strong organization skills and attention to detail
++ skill set for Sr SW Applications Engineer:
+	- Location:  Zele, BE, 9240
+	- Requisition ID:  8583
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Location: Open to Zele, Dublin, Paris and Utrecht
+	- Continuously deploy an SDK that guides our customers from project start to mass production using Qorvo silicon and software.
+	- Contribute by writing embedded SW (firmware) for these devices, ranging from small stand-alone examples to full-featured applications.
+	- Make the final deliverable a pleasant experience by including evaluation tools and getting started documentation that gets the best out of our evaluation kits.
+	- Validate that the end-product meets the team’s quality standards prior to releasing to customers.
+	- Using standard tools and by cross-referencing standards and documentation, you will debug SW and interoperability issues in the wireless protocol stacks in specific customer platforms.
+	- Additionally, the efforts made in this role are highly visible in the product and make the difference for our customers. Our customers include major US, EU and Asian operators, consumer electronics manufacturers, and other worldwide recognized technology leaders. 
+	- As part of the Development Kit SW team, the selected candidate will:
+	- Define and build reference applications for our Ultra-wideband, Matter, Thread, Zigbee and Bluetooth Low Energy IoT silicon.
+	- Bundle these reference applications in Software Development Kits to be used by the engineering departments of Qorvo’s customers which build a consumer or industry product.
+	- Focus on the embedded SW, either running on an RTOS or in a Linux operating system.
+	- Work on integrating firmware, low-level drivers and building reference applications in a customer-oriented SDK.
+	- Collaborate in a motivated and experienced SCRUM team, as part of the Agile Release Train to deliver high quality, customer oriented, solutions.
+	- Experienced Embedded SW engineer (>5 year), with solid, hands-on experience in embedded C programming.
+	- Experience with different microcontroller platforms (ARM Cortex-M), tools (GIT, GCC, make) and embedded Linux (kernel driver development, userspace applications in C).
+	- Experienced object oriented Python developer for host-side applications (provisioning, evaluation) that interface with the embedded system.
+	- Understand RF stack, PHY and MAC.  Ideally UWB or any other RF experience.
+	- Experience with standards like Ultra-wideband (FiRa and CCC), Matter, ZigBee, Bluetooth Low Energy, Thread is an asset.
+	- Real time operating system deep knowledge (Zephyr, RTOS or similar) including SPI operations, secure boot, flash access and profiling.
+	- Developing with quality in mind, design modular code with intuitive and well documented APIs.
+	- Experience with co-debugging software and HW issues, using oscilloscope, logic analyzer, digital multimeter, etc.
+	- Familiar with working in a customer-oriented environment. Open to communication with customers, both from a technical sales perspective as a customer support perspective.
+	- Willing to travel worldwide occasionally (max. 10%).
+	- Stands by the advantages of using SCRUM (for the team) and SAFe (for the organization).
+	- Team player, reaching out when stuck, sharing knowledge to grow the full team.
+	- Problem solver, exhibits a natural tendency to anticipate on customer needs.
+	- Excellent knowledge of English, strong communicator, both in writing and speaking.
 + skill set:
 	- BLAH.
 + skill set:

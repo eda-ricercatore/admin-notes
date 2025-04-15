@@ -988,35 +988,99 @@ Semiconductor manufacturing companies to pay attention to:
 	- Scripting/programming experience preferred; SQL queries, data analysis scripting
 	- Must be proficient in MS Excel, PowerPoint and windows-based software
 	- This position is not eligible for visa sponsorship by the Company.
-+ skill set:
-	- Design Engineer
-	- Location:  Spain - Barcelona, ES
-	- Requisition ID:  7855
-	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
-	- Qorvo supplies innovative semiconductor solutions that make a better world possible. We serve diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare, and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect, and power our planet.
-	- QORVO is looking for a RF Filter Design Engineer SAW/BAW (m/f/d) in Barcelona, Spain
-	- Development of RF acoustic BAW/SAW filters in the range of up to 6 GHz for 4G/5G applications
-	- Applying RF co-design techniques considering other RF components like PAs, LNAs and switches
-	- Integration into RF front end modules in close cooperation with larger product design teams
-	- Acoustic and electromagnetic (EM) simulations and optimizations
-	- Device characterization and diagnostics using the latest state of the art in RF test equipment
-	- Collaboration with an international team at multiple locations
-	- MS in Electrical Engineering with focus on RF
-	- Background in standard RF design techniques, RF measurements and characterization
-	- Experience in SAW or BAW design, MEMS design or RF module design desirable
-	- Experience with HFSS, AWR, ADS, or similar tools
-	- Understanding of microelectronic fabrication and high-volume manufacturing is a plus
-	- Communication and presentation skills
-	- Be able to work independently, but also in larger teams
-	- This position is only open to candidates having a qualified legal status to work in Spain
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
-+ skill set:
-	- BLAH.
++ skill set for Sr Process/Yield Engineer:
+	- Location:  Hillsboro, OR, US, 97124
+	- Requisition ID:  8953
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- Process sentinel (PE/YE)):
+	- Device Engineering activity of monitoring parametric performance and taking appropriate proactive actions
+	- Collaborate with other Yield and Process engineers to drive yield improvements
+	- Monitor visual defect levels and work with other process engineers to find root cause solutions
+	- Partner with process development engineers to ensure new processes launch successfully with high yield
+	- Interface with other engineering groups in a team-oriented work environment to address yield issues and implement solutions to improve yields
+	- Must be willing to work flexible hours when required to support 24x7 manufacturing environment
+	- Support New Product Introductions into the fab (test vectors for die sort/and process flow setups); engineering review boards change proposals 
+	- Disposition nonconforming product and establish disposition guidelines for production
+	- Determine root causes of nonconforming product and take appropriate action
+	- Implement corrective and preventive actions to eliminate defects and nonconforming material
+	- Bachelor's degree/ Master’s degree/PhD in Electrical Engineering, Material Science, Physics or equivalent required.
+	- Bachelor's degree and 12+ years of experience as a semiconductor product or yield engineer
+	- Master's degree and 10+ years of experience as a semiconductor product or yield engineer
+	- PhD and 7+ years of experience as a semiconductor product or yield engineer
+	- Demonstrated expertise to interpret data using statistical techniques (time-series analysis, DOE, SPC, ANOVA)
+	- Data analysis skills using JMP, Spotfire or other statistical software
+	- Basic knowledge of analog/RF circuit analysis
+	- Expertise in SQL/AI/Python script writing and database manipulation
+	- Understand IC fabrication technology and techniques
+	- Write clear and concise specifications, reports, instructions, etc.
+	- Exercise proper engineering discipline required in a manufacturing environment
+	- Knowledge of FMEA, Control plans, GRR, and SPC is desirable
+	- Knowledge of device physics and/or electrical operation of CMOS, HBT, pHEMT, and MESFET devices is desirable
+	- Engage in group problem-solving and process improvement projects (familiarity with Six Sigma or LEAN methods is desirable)
+	- This position is not eligible for visa sponsorship by the Company.
++ skill set for Staff Process Engineer (Photolithography):
+	- Location:  Hillsboro, OR, US, 97124
+	- Requisition ID:  8952
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- The candidate will be a key member of the photolithography team chartered with driving patterning technologies, materials, and tooling roadmaps to improve current capabilities and enable new capabilities for RF GaAs based integrated circuits.  Responsibilities include driving a wide range of lithography technologies and their integration with etching or lift off patterning.
+	- The ideal candidate will have greater than 5 years of track tool and process ownership experience, with in depth understanding of photoresist applications.  Fundamental understanding of photolithography processing is required. Layer patterning and knowledge of other key tools such as metrology tools in Photo is desired.  A strong data analysis background and a solid problem-solving methodology is also required.
+	- Education: PhD, Masters, or Bachelors in one of the following areas: Chemistry, Chemical Engineering, Materials Science, Physics, Optics, Electronic or Electrical Engineering.
+	- PhD candidates: 7+ years of  lithography experience.
+	- MS candidates: 10+ years of lithography experience.
+	- BS candidates: 12+ years of lithography experience.
+	- Strong knowledge and past tool ownership experience with lithography spin coat and develop tools.
+	- Thorough understanding of lithography principles, processes, photoresist types and applications, layer patterning.
+	- Exceptional technical and troubleshooting skills.
+	- Ability to think logically, construct meaningful experiments, analyze data, and use a structured problem-solving approach, proven application of SPC and DOE.
+	- Experience with data analysis tools and techniques such as JMP or Spotfire or similar SW packages.
+	- Communication: Excellent verbal and written communication skills, with the ability to communicate effectively at all levels of the organization.
+	- Teamwork: Ability to work collaboratively with a hands-on approach and a customer-oriented mindset.
+	- Adaptability: Capable of working in a highly dynamic environment with tolerance for ambiguity. Ability to follow instructions as well as being able to work on self-directed assignments and advise senior management.
+	- Attention to Detail: Keen eye for detail and precision.
+	- This position is not eligible for visa sponsorship by the Company.
++ skill set for Process Development Engineer:
+	- Location:  Richardson, TX, US, 75081
+	- Requisition ID:  8893
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- As a Process Development Engineer specializing in Plasma, you will be responsible for designing, developing, and optimizing plasma etch processes to support Qorvo’s manufacturing operation. You will work closely with R&D, Manufacturing and Equipment Engineering teams to ensure the successful implementation and integration of new plasma technologies in our production lines. This is a Tuesday through Saturday swing shift with a differential.
+	- Develop and optimize plasma processes for semiconductor fabrication.
+	- Conduct experiments and analyze data to improve process performance.
+	- Collaborate with R&D, production, and quality teams to ensure process integration.
+	- Troubleshoot and resolve plasma-related issues in manufacturing.
+	- Maintain and calibrate plasma equipment.
+	- Document process parameters and results for continuous improvement.
+	- Bachelor's degree in Electrical Engineering, Physics, Materials Science, or a related field.
+	- 5+ years of semiconductor device processing in industry or related graduate research
+	- Experience in semiconductor manufacturing.
+	- Strong understanding of plasma physics and chemistry.
+	- Proficiency in using plasma equipment and diagnostic tools.
+	- Excellent problem-solving skills and attention to detail.
+	- Masters or PhD in Electrical Engineering, Physics, Materials Science, or a related field.
+	- Experience in plasma engineering
+	- Experience with reactive ion etching (RIE) and deep reactive ion etching (DRIE).
+	- Knowledge of semiconductor device fabrication and characterization
+	- This position is an onsite position with a schedule of Tuesday through Saturday working from 2pm-11pm.
+	- This position is not eligible for visa sponsorship by the Company.
++ skill set for Process Development Engineer:
+	- Location:  Richardson, TX, US, 75081
+	- Requisition ID:  8894
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- Lithography Team Process Development Engineer (Swing Shift)
+	- Develop, optimize, and sustain processes used for device fabrication in a semiconductor fabrication facility supporting BAW, GaAs, and GaN Qorvo Technologies. 
+	- Position requires working Sunday-Thursday 2 pm to 11 pm schedule.
+	- Primary responsibility will include supporting photolithography processes and tools for resist coat, expose, develop, and associated metrology.
+	- You will work closely with cross-functional teams in Process and Equipment Engineering, Manufacturing, Quality, Integration, and R&D to ensure process stability, improve yield, and drive continuous improvement initiatives.
+	- BS in Engineering, Materials, Statistics, or the physical sciences.
+	- 8+ years photolithography semiconductor experience required.
+	- Experience/coursework in photolithography, process control, and semiconductor processing is required. 
+	- Role requires supporting of a manufacturing facility operating 24 hours a day, 7 days a week.
+	- Proficiency in design of experiments, statistical process control, and database query tools (Oracle, Spotfire, Access etc). 
+	- Position will demand large amounts of time working in a cleanroom environment. Some lifting and standing will be required.
+	- MS degree and 5+ years relevant experience.
+	- PhD and 3+ years relevant experience.
+	- Experience in setting up, supporting, and troubleshooting lithography processes with TEL coat/develop tools, ASML Steppers/Scanners, and dry film laminates is desired.
+	- Data analysis, programming skills to aid data mining will be a plus.
+	- This position is not eligible for visa sponsorship by the Company.
 + skill set:
 	- BLAH.
 + skill set:
@@ -1053,6 +1117,41 @@ Semiconductor manufacturing companies to pay attention to:
 
 
 
+
+
+
+
+
+
+###	Skill Sets for Semiconductor Manufacturing Management
+
+
+
+
+Skill sets for semiconductor manufacturing management:
++ skill set for Mgr, Equipment Engineering, Metrology:
+	- Location:  Richardson, TX, US, 75081
+	- Requisition ID:  8896
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- Lead engineering and maintenance support for equipment utilized in the manufacturing and development of Qorvo products
+	- Monitor equipment metrics and drive continuous improvement through data driven equipment and process analysis.   
+	- Develop systems to improve and maintain equipment availability, manufacturing capacity, and line and product yields.
+	- Lead cross functional continuous improvement teams to implement solutions that address the root cause of problem areas.
+	- Select, develop, and evaluate personnel to support manufacturing equipment.
+	- Ensure the effective use of materials, equipment, and personnel.
+	- Maintains accurate records of equipment performance and improvement activity.
+	- Assist in resolving complex equipment failures and documents lessons learned to improve technician skills.
+	- Define and improve detailed preventive maintenance procedures and schedules. 
+	- Coordinate machine installations to support factory capacity expansions.
+	- Present and communicate data analysis and improvement actions to FAB management and equipment technicians.
+	- 5+ years’ experience in a manufacturing environment.
+	- Experience managing, leading, or mentoring manufacturing equipment programs and related support personnel such as Technicians and Engineers.
+	- Proven success in organizing and managing people and projects across the various groups with successful results. 
+	- Strong technical capability, including knowledge of pneumatics, robotics, electronics, and semiconductor processes
+	- Excellent oral and written communication skills
+	- Special consideration will be given to candidates with Metrology equipment experience
+	- Bachelor’s Degree in Engineering or equivalent
+	- This position is not eligible for visa sponsorship by the Company.
 
 
 
@@ -1093,7 +1192,7 @@ Semiconductor manufacturing companies to pay attention to:
 
 
 
-##	Semiconductor Manufacturing Equipment Semiconductor Manufacturers
+##	Semiconductor Manufacturing Equipment Manufacturers
 
 
 
@@ -1201,8 +1300,35 @@ Skill sets to work for semiconductor manufacturing equipment manufacturers
 
 
 + Packaging knowledge (CSP, BGA, etc.)
-+ skill set:
-	- BLAH.
++ skill set for Staff PKG Development Engineer
+	- Experience Level:  Individual Contributor
+	- Location:  Vietnam - Hanoi, VN
+	- Requisition ID:  7248
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Position: Staff Packaging Development Engineer 
+	- Locations: Hanoi, Vietnam
+	- Qorvo seeks a seasoned Packaging Development Engineer with a robust background in semiconductor packaging development and integration. This role involves leading new packaging technologies and assembly capabilities, with a focus on SMT process expertise and innovation in packaging solutions. 
+	- Develop and integrate new semiconductor packaging technologies. 
+	- Manage technical projects for packaging technology advancement. 
+	- Serve as a lead expert in packaging assembly processes, especially SMT. 
+	- Innovate in package design, processes, and materials for next-generation solutions. 
+	- Offer technical guidance during development phases and address high-volume production challenges. 
+	- Spearhead projects from concept through to qualification and production in collaboration with R&D. 
+	- Support technical customer engagements and problem resolution. 
+	- Drive continuous process improvement (CPI) in packaging and support cross-functional areas. 
+	- Collaborate with offshore assembly, substrate partners, and suppliers. 
+	- Present project updates to executive management and contribute to patent creation.
+	- Bachelors degree in Mechanical, Microelectronics, or Materials Engineering. Master’s degree in Mechanical, Microelectronics, or Material Engineering preferred . 
+	- 10+ years experience in packaging or semiconductor assembly. 
+	- Strong leadership and project management skills in packaging and assembly tech. 
+	- Expertise in package design and SMT process development. 
+	- Experience with heterogeneous integration, SiP, and various packaging forms. 
+	- Proficiency in technology/assembly process development across SMT, Die Attach, Wire Bond, etc. 
+	- Exceptional communication skills for idea sharing and presenting to large groups. 
+	- Familiarity with high volume manufacturing, ideally in the cellular handset market. 
+	- Solid problem-solving skills; Lean and/or Six Sigma certification is a plus. 
+	- Knowledge of JEDEC, AEC Q100/200, and TS16949 automotive standards. 
+	- Interested candidates are encouraged to apply, demonstrating their innovative contributions to packaging technology and leadership capabilities. 
 + skill set:
 	- BLAH.
 + skill set:

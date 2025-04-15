@@ -4315,7 +4315,46 @@ Skill sets for cyber-physical system security, including robotics security and a
 	- The level of role will be based on applicable experience, education and skills; Most offers will be between the minimum and the midpoint of the Salary Range listed below.
 		* California pay range: MIN $132,000- MAX $220,000
 		* Colorado pay range: MIN $122,000 - Max $204,000
-
++ skill set for Software Engineer, SWR
+	- Location:  Barcelona, ES, 8034
+	- Requisition ID:  8660
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Qorvo is All Around You! We manufacture innovative RF solutions at the center of connectivity to enable high-performance applications for advanced wireless devices, wired and wireless networks and defense radar and communications for 5G networks, cloud computing, the Internet of Things, and other emerging applications. We are a global company thriving on a culture of innovation, diversity, and inclusion.  Our people are always at the core of Qorvo’s innovation. Qorvo is a place to stretch your imagination and push boundaries to achieve success. Learn more about  Top 10 Reasons to make a career at Qorvo.
+	- Qorvo’s R&D software team is seeking a talented software engineer. The ideal candidate chosen for this role will provide user friendly, seamlessly integrated software for improved design methodologies, faster visualization of results, process control and improvements, and general automation. The candidate will use Python, and C++ in conjunction with existing Software and APIs.
+	- Researching, designing, implementing, and managing software programs
+	- Deploying software tools, processes, and metrics
+	- Writing and implementing efficient code
+	- Working closely with other developers and engineers
+	- Testing and evaluating programs
+	- Determining operational practicality
+	- Provide comprehensive support to internal customers; achieve resolution to outstanding problems, or issues
+	- Excellent Python or C++ programming capabilities
+	- Experience with software product development experience preferred 
+	- Well versed in Object Oriented Design (OOD), programming and design patterns
+	- Experience in SCRUM (Agile) development process
+	- Extensive experience in the full life cycle of the software design process including requirement analysis, design, prototyping, coding, documentation, implementation, and maintenance
+	- Strong Version control skills (GIT, Perforce)
+	- Strong familiarity with the use of IDEs
+	- Excellent debugging and problem-solving skills
+	- Strong understanding of algorithms and data-structures
+	- Self-motivated, independent, proactive, detail oriented, and responsible team-player
+	- Excellent analytical skills
+	- Comfortable working in a dynamic and fast paced environment
+	- Passion for innovation and emerging technologies
+	- Excellent communication and interpersonal skills
+	- Able to handle multiple priorities
+	- Proficient in English
+	- Excellent communication and presentation skills
+	- Familiarity with the use of PyCharm or Visual Studio
+	- Good understanding of electromagnetics or Physics
+	- Performed unit testing in past development projects
+	- Oracle/SQL familiarity
+	- Exposure to Docker and containers
+	- Batch/Shell scripting experience
+	- QT or similar U/I development
+	- BS or MS in Computer Science with a SW development focus
+	- Position Location: Barcelona
+	- This position is only open to candidates having a qualified legal status to work in Spain
 
 
 

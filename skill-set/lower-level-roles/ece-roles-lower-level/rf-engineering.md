@@ -129,6 +129,54 @@ Skill sets for RF engineering, except RFIC design and millimeter-wave IC design:
 	- PLL Structures: Knowledge of PLL structures, contributing to the advancement of our projects.
 	- Test Equipment Experience: Familiarity with electronic test and measurement equipment, especially RF equipment, advantageous.
 	- Santa Rosa, CA Pay Range: MIN $117,000.00 - MAX $196,000.00
- 
+ + skill set:
+	- Design Engineer
+	- Location:  Spain - Barcelona, ES
+	- Requisition ID:  7855
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Qorvo supplies innovative semiconductor solutions that make a better world possible. We serve diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare, and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect, and power our planet.
+	- QORVO is looking for a RF Filter Design Engineer SAW/BAW (m/f/d) in Barcelona, Spain
+	- Development of RF acoustic BAW/SAW filters in the range of up to 6 GHz for 4G/5G applications
+	- Applying RF co-design techniques considering other RF components like PAs, LNAs and switches
+	- Integration into RF front end modules in close cooperation with larger product design teams
+	- Acoustic and electromagnetic (EM) simulations and optimizations
+	- Device characterization and diagnostics using the latest state of the art in RF test equipment
+	- Collaboration with an international team at multiple locations
+	- MS in Electrical Engineering with focus on RF
+	- Background in standard RF design techniques, RF measurements and characterization
+	- Experience in SAW or BAW design, MEMS design or RF module design desirable
+	- Experience with HFSS, AWR, ADS, or similar tools
+	- Understanding of microelectronic fabrication and high-volume manufacturing is a plus
+	- Communication and presentation skills
+	- Be able to work independently, but also in larger teams
+	- This position is only open to candidates having a qualified legal status to work in Spain
++ skill set for Staff Antenna Design Engineer:
+	- Location:  San Diego, CA, US, 92121
+	- Requisition ID:  8828
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- Staff Antenna Design Engineer
+	- A candidate in this position will be trained and expected to perform the following duties shortly after joining the antenna team:
+		* Collaborate with a multi-disciplinary team including mmWave antenna, electrical, RF component, and printed circuit board design engineers developing mmWave phased array prototype designs for emerging markets and applications
+		* Model RF and mmWave components (mmWave transitions in printed circuit boards, connector matching networks, filters, tuning networks, and other structures) using AWR, CST, or HFSS
+		* Design passive circuit components (power splitters/combiners, microstrip and stripline transmission lines, impedance transformers, etc) using AWR, CST, or HFSS
+		* Collaborate with design teams to develop, manage, and finalize bill of material (BOM) lists and guide the design team on parts selection that support cost models and prototype schedules
+		* Support test and troubleshooting of new mmWave phased array prototypes, including power supplies, control circuits, and RF/mmWave circuits
+		* Perform power integrity analysis on mmWave printed circuit board phased array prototypes
+		* Support hands on testing of RF and mmWave phased array antennas
+	- A candidate in this position will be trained and expected to perform the following duties 1-2 years after joining the antenna team:
+		* Develop, maintain, and update cascaded system design tools to track linear and nonlinear RF, IF, and DC performance of mmWave phased array antenna prototypes using Anokiwave ICs.
+		* Assume design responsibilities (cost, performance, schedule) for major subsystems of printed circuit based mmWave phased array prototype designs
+		* Interact with PCB manufacturers and assembly shops to produce prototype arrays
+		* Develop scripts and automation to improve design and testing efficiency.
+		* Mentor and train junior staff to develop and expand their skills
+	- Prior design experience of RF/mmWave phased array antenna components
+	- Experience using AWR, CST, and/or HFSS
+	- Experience testing RF and mmWave circuits, coupons, and systems
+	- Experience with scripting or programming with a language such as Python
+	- Bachelor’s degree (BSEE or equivalent) with a minimum of twelve+ years’ experience
+	- Competitive base salary commensurate with experience: $139,600- $181,500 (subject to change dependent on physical location)
+	- Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability.
+	- Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request.
 
+ 
 

@@ -508,8 +508,41 @@
 	- Ability to work evenings and weekends as needed 
 	- Ability to lift or carry 10-15lbs
 	- Position is subject to pre-employment drug and random drug and alcohol testing
-+ skill set:
-	- BLAH.
++ skill set for Network Engineer
+	- Location:  Richardson, TX, US, 75081
+	- Requisition ID:  8915
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.
+	- As a Network Engineer, you will participate in the design, implementation, and maintenance of network infrastructures. This role requires foundational knowledge of networking protocols, switching, SD-WAN, Wi-Fi, and automation tools like Ansible and Python. You will work closely with senior engineers and the IT operations team to deliver and support scalable network solutions.
+	- Assist in the deployment, configuration, and maintenance of network infrastructure including switches, routers, and firewalls.
+	- Work with SD-WAN technologies to configure and optimize wide area network connections.
+	- Provide support for Wi-Fi networks, including troubleshooting and performance monitoring.
+	- Collaborate with the network team to automate network tasks and configurations using Ansible and Python scripts.
+	- Troubleshoot network issues related to performance, connectivity, and security.
+	- Support network monitoring tools to ensure network uptime and optimal performance.
+	- Document network configurations, processes, and procedures.
+	- Provide technical support to internal teams and end-users.
+	- Assist in the implementation of network upgrades and changes as directed.
+	- Participate in network design and improvement projects as necessary.
+	- Stay up-to-date with emerging networking technologies and trends.
+	- This position will also coordinate cabling and work with vendors.
+	- A minimum of a high school diploma or equivalent
+	- 2+ years of experience in network systems administration, IT support, system administration, or a related role.
+	- Basic knowledge of networking protocols such as TCP/IP, DNS, DHCP, and HTTP.
+	- Experience with network switching technologies and protocols (e.g., VLANs, spanning-tree).
+	- Hands-on experience with Wi-Fi technologies and troubleshooting.
+	- Strong problem-solving skills and the ability to troubleshoot complex network issues.
+	- Good understanding of network security best practices.
+	- An Associates or Bachelors degree in information systems, computer science, or equivalent experience.
+	- Certifications such as CompTIA Network+, Cisco CCNA, or similar.
+	- Experience with Network Access Control – Aruba ClearPass Policy Manager
+	- Experience with network monitoring tools (e.g., SolarWinds, PRTG, etc.).
+	- Experience with cloud-based networking or hybrid cloud environments.
+	- Familiarity with network security technologies (e.g., VPNs, firewalls).
+	- Proficiency in scripting and automation using Python and/or Ansible.
+	- Familiarity with SD-WAN concepts and configurations.
+	- Hands-on experience with monitoring, diagnostic, and analytics tools.
+	- The expectation for this position is to be onsite five days a week.
+	- This position is not eligible for visa sponsorship by the Company.
 + skill set:
 	- BLAH.
 + skill set:

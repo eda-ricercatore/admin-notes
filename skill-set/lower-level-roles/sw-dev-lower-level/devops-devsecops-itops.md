@@ -1935,8 +1935,66 @@ Projects you will be expected to complete in your the first 6 months
 	- Great peer recommendations and appreciation
 	- Experience working in a fast-paced startup environment
 	- Experience working in an open-source, AI, or data science-oriented company
-+ skill set:
-	- BLAH.
++ skill set for Senior DevOps Engineer:
+	- Experience Level:  Recent College Grad
+	- Job Type:  Full-Time
+	- Location:  France - Paris, FR
+	- Requisition ID:  8062
+	- Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves diverse high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our diverse and innovative team is helping connect, protect and power our planet.
+	- QSWG is looking for a DevOps to work on cloud product development and CI/CD infrastructure.
+	- In Qorvo Infrastructure as a Code environment, the mission of DevOps is to understand Qorvo products and to create and maintain the appropriate CI pipeline and underlying infrastructure to support internal and external customers. The DevOps needs a good understanding of the software development process to train and review the developer teams on CI best practices and setup. To succeed in this role, a background in software development, system administration, automation and security is preferred.
+	- CI/CD pipelines design:
+		* Design complex pipeline interactions across multiple repositories
+		* Optimize pipeline run time (builds system, pipeline definition)
+		* Design GitLab runner architecture
+		* Design deployment process and automation (including hardware deployment)
+		* Design data collection platform
+		* Design security from the start
+		* Act as evangelist of the CI/CD platform
+	- Development:
+		* Design and develop tools in Python
+		* Implement compliance and security tools
+		* Data Engineering
+	- Maintenance:
+		* Monitor pipeline implementation
+		* Develop and improve Supervision
+		* CI/CD infrastructure management (GitLab runner on hybrid cloud environment)
+		* Enhance security tools and setup
+	- Technologies:
+		* GitLab CI
+		* AWS
+		* Docker
+		* Kubernetes
+		* Terraform
+		* Saltstack
+		* Git
+		* GitLab
+		* Python
+		* Prometheus
+		* Grafana
+		* ELK Stack
+ 
+
+QUALIFICATIONS
+
+ 
+
+ 
+
+Bachelor or higher degree in Computer Science or related discipline, or equivalent
+industry experience
+4-5+ years of relevant work experience
+Education: Master/Engineering Degree
+Experience in C development
+Deep understanding of build systems
+Deep knowledge of Git and Git workflows
+Experience in writing complex CI Pipelines across multiple projects
+Experience and expertise in Python development
+Familiarity with DevOps tools (Terraform, Saltstack/Ansible)
+Ability to understand complex development environment
+Good summary capabilities
+Good communication skills in English
+Autonomy and ability to learn new tech and tools
 + skill set:
 	- BLAH.
 + skill set:
