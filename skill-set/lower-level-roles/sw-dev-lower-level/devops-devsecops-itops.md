@@ -1973,28 +1973,21 @@ Projects you will be expected to complete in your the first 6 months
 		* Prometheus
 		* Grafana
 		* ELK Stack
- 
-
-QUALIFICATIONS
-
- 
-
- 
-
-Bachelor or higher degree in Computer Science or related discipline, or equivalent
-industry experience
-4-5+ years of relevant work experience
-Education: Master/Engineering Degree
-Experience in C development
-Deep understanding of build systems
-Deep knowledge of Git and Git workflows
-Experience in writing complex CI Pipelines across multiple projects
-Experience and expertise in Python development
-Familiarity with DevOps tools (Terraform, Saltstack/Ansible)
-Ability to understand complex development environment
-Good summary capabilities
-Good communication skills in English
-Autonomy and ability to learn new tech and tools
+	- QUALIFICATIONS
+		* Bachelor or higher degree in Computer Science or related discipline, or equivalent
+		* industry experience
+		* 4-5+ years of relevant work experience
+		* Education: Master/Engineering Degree
+		* Experience in C development
+		* Deep understanding of build systems
+		* Deep knowledge of Git and Git workflows
+		* Experience in writing complex CI Pipelines across multiple projects
+		* Experience and expertise in Python development
+		* Familiarity with DevOps tools (Terraform, Saltstack/Ansible)
+		* Ability to understand complex development environment
+		* Good summary capabilities
+		* Good communication skills in English
+		* Autonomy and ability to learn new tech and tools
 + skill set:
 	- BLAH.
 + skill set:
