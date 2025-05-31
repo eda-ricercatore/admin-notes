@@ -12,7 +12,7 @@
 
 Languages and frameworks:
 + Kotlin
-	- Google's preferred language for Android app development.
+	- It is the preferred language for Android app development, by Google.
 + Java
 + C++/C
 + Ionic
@@ -95,6 +95,505 @@ Sources for generative AI models, tools, and resources:
 + GitHub
 + Hugging Face
 + Vertex AI by Google
+
+
+
+
+
+
+
+###	Skills Mentioned in the 2025 Stack Overflow Developer Survey
+
+
++ "15th Annual Stack Overflow Developer Survey, the longest-running and most comprehensive study of those who code."
++ https://survey.stackoverflow.co/
++ https://meta.stackoverflow.com/questions/tagged/survey-2025
++ Learning and Career (23 questions)
++ Tech and Tech Culture (20 questions)
++ Community (21 questions)
++ AI (20 questions)
++ Final Thoughts (3 questions)
++ Open Database License
++ https://stackoverflow.com/legal/privacy-policy
+
+
+
+
+
++ How did you learn to code in the past year? Select all that apply.
+	- [ ] Technical documentation (is generated for/by the tool or system)
+	- [ ] School (i.e., University, College, etc)
+	- [ ] AI CodeGen tools or AI-enabled apps
+	- [ ] Online Courses or Certification (includes all media types)
+	- [ ] Videos (not associated with specific online course or certification
+	- [ ] Blogs or podcasts
+	- [ ] Stack Overflow or Stack Exchange
+	- [ ] Other online resources (e.g. standard search, forum, online community)
+	- [ ] Colleague or on-the-job training
+	- [ ] Games or coding challenges
+	- [ ] Coding Bootcamp
+	- [ ] Books / Physical media
++ AI programming or AI-enabled tooling
+	- AI-enabled tools
+	- AI enablement
++ UX, Research Ops or UI design professional
++ What attracts you to a technology or causes you to endorse it (most to least important)?
+	- [ ] AI integration or AI agent capabilities
+	- [ ] easy-to-use API
+	- [ ] robust and complete API
+	- [ ] reliable and low latency
+	- [ ] connected to an open-source project
+	- [ ] customizable and manageable codebase
++ What would turn you off or cause you to reject it (most to least important)?
+	- [ ] outdated or obsolete technology or features
+	- [ ] availability of better alternatives
+	- [ ] prohibitive pricing
+	- [ ] inefficient or time-costly
+	- [ ] poor usability
+	- [ ] lack of or sub-par API
+	- [ ] lack of AI or AI agents
+	- [ ] ethical concerns
+	- [ ] security or privacy concerns
++ Rank the following attributes of your current professional job in technology according to those that contribute your job satisfaction so that the first is the most important, last is least important (if you just started a new job, consider the job you spent the most time at in the past year):
+	- [ ] solving real-world problems
+	- [ ] innovations through solving challenging and complex problems
+	- [ ] expert mentors
+	- [ ] developing specialized expertise
+	- [ ] working with new technologies and tools 
+	- [ ] control over the level of quality in projects
+	- [ ] competitive pay and benefits
+	- [ ] autonomy and trust to manage your own tasks
+	- [ ] collaboration and support from a team
+	- [ ] you like your manager
+	- [ ] job stability and career growth with a single employer
+	- [ ] opportunities to mentor and lead junior-level co-workers
+	- [ ] recognition from peers for your work 
+	- [ ] recognition from leadership for your work 
++ development workflow tasks with AI integration or AI tool usage
+	- [ ] generating content or synthetic database
+	- [ ] deployment and monitoring
+	- [ ] project planning
+	- [ ] predictive analytics
+	- [ ] testing codebase
+	- [ ] learning about a codebase
+	- [ ] creating or monitoring documentation
+	- [ ] search for answers
+	- [ ] writing code 
+	- [ ] learning new concepts or technologies
+	- [ ] documenting code 
+	- [ ] debugging or fixing code 
+	- [ ] committing or reviewing code
++ https://en.wikipedia.org/wiki/Vibe_coding
++ What industry purposes or specific tasks are you using AI agents in your development work? Select all that apply.
+	- [ ] business process automation
+	- [ ] customer service support
+	- [ ] cybersecurity
+	- [ ] data and analytics
+	- [ ] decision intelligence
+	- [ ] IT operations
+	- [ ] marketing
+	- [ ] software engineering
+	- [ ] robotics
+	- [ ] agent/multi-agent orchestration
+	- [ ] integration with external agents and APIs 
+	- [ ] vector databases for AI applications
+	- [ ] personalized agent creation 
+	- [ ] MCP servers 
+	- [ ] language processing 
+	- [ ] multi-platform search enablement
++ You indicated you use or develop AI agents as part of your development work. Have you used any of the following tools for AI agent memory or data management in the past year?
+	- [ ] ChromaDB
+	- [ ] Fireproof
+	- [ ] GitHub MCP Server
+	- [ ] LanceDB
+	- [ ] LangMem
+	- [ ] Letta
+	- [ ] mem0
+	- [ ] Milvus
+	- [ ] Neo4j
+	- [ ] pgvector
+	- [ ] Pinecone
+	- [ ] Qdrant
+	- [ ] Redis
+	- [ ] supabase
+	- [ ] Weaviate
+	- [ ] Zep
++ Was the tool or tools for AI agent orchestration or agent frameworks you used in the past year not listed above?  Please write them below separated by a comma and space if there are more than one.
++ You indicated you use or develop AI agents as part of your development work. Have you used any of the following tools for AI agent orchestration or agent frameworks in the past year?
+	- [ ] Agno
+	- [ ] Amazon Bedrock Agents
+	- [ ] AutoGen (Microsoft)
+	- [ ] CrewAI
+	- [ ] Haystack
+	- [ ] IBM watsonx.ai
+	- [ ] LangChain
+	- [ ] LangGraph
+	- [ ] Llama Index
+	- [ ] lyzr
+	- [ ] Martian
+	- [ ] Ollama
+	- [ ] OpenRouter
+	- [ ] phidata
+	- [ ] Semantic Kernel
+	- [ ] Smol-AGI
+	- [ ] Smolagents
+	- [ ] Vertex AI
+	- [ ] Zapier
++ You indicated you use or develop AI agents as part of your development work. Have you used any of the following tools for AI agent observability, monitoring or security in the past year?
+	- [ ] Adversarial Robustness Toolbox (ART)
+	- [ ] arize
+	- [ ] Galileo
+	- [ ] Grafana + Prometheus
+	- [ ] helicone
+	- [ ] Honeycomb
+	- [ ] Langfuse
+	- [ ] LangSmith
+	- [ ] Metero
+	- [ ] New Relic
+	- [ ] opik
+	- [ ] Protect AI
+	- [ ] Sentry
+	- [ ] Snyk
+	- [ ] Vectra AI
+	- [ ] Wiz
++ You indicated you use or develop AI agents as part of your development work. Have you used any of the following out-of-the-box agents, copilots or assistants?
+	- [ ] AgentGPT
+	- [ ] Amazon Codewhisperer
+	- [ ] Auto-GPT
+	- [ ] Blackbox AI
+	- [ ] Bolt.new
+	- [ ] ChatGPT
+	- [ ] Claude Code
+	- [ ] Cody
+	- [ ] Devin AI
+	- [ ] GitHub Copilot
+	- [ ] Glean (Enterprise Agents)
+	- [ ] Google Gemini
+	- [ ] Lovable.dev
+	- [ ] Microsoft Copilot
+	- [ ] OpenHands (formerly OpenDevin)
+	- [ ] Perplexity
+	- [ ] Replit
+	- [ ] Roo code (Roo-Cline)
+	- [ ] Tabnine
+	- [ ] v0.dev
++ In the future, when AI can do most coding tasks, in which situations would you still want to ask another person for help? Select all that apply.
+	- [ ] When I’m stuck and can’t explain the problem
+	- [ ] When I want to fully understand something
+	- [ ] When I want to learn best practices
+	- [ ] When I don’t trust AI’s answers
+	- [ ] When I need help fixing complex or unfamiliar code
+	- [ ] When I need quick help troubleshooting
+	- [ ] When I want to compare different solutions
+	- [ ] When I have ethical or security concerns about code
++ Which programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.)
+	- [ ] Ada
+	- [ ] Assembly
+	- [ ] Bash/Shell (all shells)
+	- [ ] C
+	- [ ] C#
+	- [ ] C++
+	- [ ] COBOL
+	- [ ] Dart
+	- [ ] Delphi
+	- [ ] Elixir
+	- [ ] Erlang
+	- [ ] F#
+	- [ ] Fortran
+	- [ ] GDScript
+	- [ ] Go
+	- [ ] Groovy
+	- [ ] HTML/CSS
+	- [ ] Java
+	- [ ] JavaScript
+	- [ ] Kotlin
+	- [ ] Lisp
+	- [ ] Lua
+	- [ ] MATLAB
+	- [ ] MicroPython
+	- [ ] OCaml
+	- [ ] Perl
+	- [ ] PHP
+	- [ ] PowerShell
+	- [ ] Prolog
+	- [ ] Python
+	- [ ] R
+	- [ ] Ruby
+	- [ ] Rust
+	- [ ] Scala
+	- [ ] SQL
+	- [ ] Swift
+	- [ ] TypeScript
+	- [ ] VBA
+	- [ ] Visual Basic (.Net)
+	- [ ] Zig
+	- [ ] Mojo
+	- [ ] Gleam
++ Which database environments have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the database and want to continue to do so, please check both boxes in that row.)
+	- [ ] BigQuery
+	- [ ] Cassandra
+	- [ ] Cloud Firestore
+	- [ ] Cosmos DB
+	- [ ] Databricks SQL
+	- [ ] Datomic
+	- [ ] DuckDB
+	- [ ] Dynamodb
+	- [ ] Elasticsearch
+	- [ ] Firebase Realtime Database
+	- [ ] H2
+	- [ ] IBM DB2
+	- [ ] InfluxDB
+	- [ ] MariaDB
+	- [ ] Microsoft Access
+	- [ ] Microsoft SQL Server
+	- [ ] MongoDB
+	- [ ] MySQL
+	- [ ] Neo4J
+	- [ ] Oracle
+	- [ ] PostgreSQL
+	- [ ] Redis
+	- [ ] Snowflake
+	- [ ] SQLite
+	- [ ] Supabase
+	- [ ] Clickhouse
+	- [ ] Cockroachdb
+	- [ ] Amazon Redshift
+	- [ ] Pocketbase
+	- [ ] Valkey
++ Did you work with cloud platforms, containerization/orchestration tools, package managers, build tools or infrastructure as code solutions in the last year or do you plan to in the year to come?  Here, we are referring to tooling that automates, manages, and scales the entire application lifecycle, often leveraging remote, virtualized resources.
++ Which cloud platforms, containerization/orchestration tools, package managers, build tools, and infrastructure as code solutions have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the platform and want to continue to do so, please check both boxes in that row.)
+	- [ ] Amazon Web Services (AWS)
+	- [ ] Ansible
+	- [ ] APT
+	- [ ] Bun
+	- [ ] Cargo
+	- [ ] Chocolatey
+	- [ ] Cloudflare
+	- [ ] Composer
+	- [ ] Datadog
+	- [ ] Digital Ocean
+	- [ ] Docker
+	- [ ] Firebase
+	- [ ] Google Cloud
+	- [ ] Gradle
+	- [ ] Heroku
+	- [ ] Homebrew
+	- [ ] IBM Cloud
+	- [ ] Kubernetes
+	- [ ] Make
+	- [ ] Maven (build tool)
+	- [ ] Microsoft Azure
+	- [ ] MSBuild
+	- [ ] Netlify
+	- [ ] New Relic
+	- [ ] Ninja
+	- [ ] npm
+	- [ ] NuGet
+	- [ ] Pacman
+	- [ ] Pip
+	- [ ] pnpm
+	- [ ] Podman
+	- [ ] Poetry
+	- [ ] Prometheus
+	- [ ] Railway
+	- [ ] Splunk
+	- [ ] Supabase
+	- [ ] Terraform
+	- [ ] Vercel
+	- [ ] Vite
+	- [ ] Webpack
+	- [ ] Yandex Cloud
+	- [ ] Yarn
++ web frameworks and web technologies
++ Which web frameworks and web technologies have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)
+	- [ ] Angular
+	- [ ] AngularJS
+	- [ ] ASP.NET
+	- [ ] ASP.NET Core
+	- [ ] Astro
+	- [ ] Blazor
+	- [ ] Deno
+	- [ ] Django
+	- [ ] Drupal
+	- [ ] Express
+	- [ ] FastAPI
+	- [ ] Fastify
+	- [ ] Flask
+	- [ ] jQuery
+	- [ ] Laravel
+	- [ ] NestJS
+	- [ ] Next.js
+	- [ ] Node.js
+	- [ ] Nuxt.js
+	- [ ] Phoenix
+	- [ ] React
+	- [ ] Ruby on Rails
+	- [ ] Spring Boot
+	- [ ] Svelte
+	- [ ] Symfony
+	- [ ] Vue.js
+	- [ ] WordPress
+	- [ ] Axum
++ development environments or AI-enabled code editing tools
++ Which development environments and AI-enabled code editing tools did you use regularly over the past year, and which do you want to work with over the next year? Please check all that apply.
+	- [ ] Aider
+	- [ ] Android Studio
+	- [ ] Bolt
+	- [ ] Claude Code
+	- [ ] Cline and/or Roo
+	- [ ] Cursor
+	- [ ] Eclipse
+	- [ ] IntelliJ IDEA
+	- [ ] Jupyter Notebook/JupyterLab
+	- [ ] Lovable.dev
+	- [ ] Nano
+	- [ ] Neovim
+	- [ ] Notepad++
+	- [ ] PhpStorm
+	- [ ] PyCharm
+	- [ ] Rider
+	- [ ] RustRover
+	- [ ] Sublime Text
+	- [ ] Trae
+	- [ ] Vim
+	- [ ] Visual Studio
+	- [ ] Visual Studio Code
+	- [ ] VSCodium
+	- [ ] WebStorm
+	- [ ] Windsurf
+	- [ ] Xcode
+	- [ ] Zed
++ Which rising technology added as a new tag on Stack Overflow in the last few years have you used regularly in the past year, and which do you want to work with over the next year? Please check all that apply.
+	- [ ] .NET 7+
+	- [ ] Hugging Face Transformers
+	- [ ] c++23
+	- [ ] CUDA
+	- [ ] Mockito
+	- [ ] Tailwind CSS 4
+	- [ ] Polars
+	- [ ] hostinger
+	- [ ] Facebook or Facebook Graph API
+	- [ ] gpu
+	- [ ] OpenAPI
+	- [ ] Odoo
+	- [ ] std
+	- [ ] qml
+	- [ ] Large Language Model
+	- [ ] SwiftData
+	- [ ] Amazon ECS
+	- [ ] GDB
+	- [ ] PySide6
+	- [ ] MPI
+	- [ ] OCR
+	- [ ] Microsoft Power Apps
+	- [ ] RAG
+	- [ ] Microsoft Fabric
+	- [ ] Google Gemini
+	- [ ] Shadcn/ui
+	- [ ] Delphi 12+ Athens
++ What is the primary operating system in which you work? 
+	- [ ] Windows
+	- [ ] MacOS
+	- [ ] Ubuntu
+	- [ ] Android
+	- [ ] Windows Subsystem for Linux (WSL)
+	- [ ] iOS
+	- [ ] Debian
+	- [ ] Linux (non-WSL)
+	- [ ] Arch
+	- [ ] iPadOS
+	- [ ] Red Hat
+	- [ ] Fedora
+	- [ ] ChromeOS
+	- [ ] Pop!_OS
+	- [ ] NixOS
++ Which collaborative work management and/or code documentation tools did you use regularly over the past year, and which do you want to work with over the next year? Select all that apply
+	- [ ] Airtable
+	- [ ] Asana
+	- [ ] Azure Devops
+	- [ ] Clickup
+	- [ ] Coda
+	- [ ] Confluence
+	- [ ] Doxygen
+	- [ ] GitHub
+	- [ ] GitLab
+	- [ ] Google Colab
+	- [ ] Google Workspace
+	- [ ] Jira
+	- [ ] Linear
+	- [ ] Lucid (includes Lucidchart)
+	- [ ] Markdown File
+	- [ ] Microsoft Planner
+	- [ ] Miro
+	- [ ] Monday.com
+	- [ ] Notion
+	- [ ] Obsidian
+	- [ ] Redmine
+	- [ ] Stack Overflow for Teams
+	- [ ] Trello
+	- [ ] Wikis
+	- [ ] YouTrack
++ Which community platforms have you utilized considerably or consistently in the past year, and which would you like to use next year?  Select all that apply.
+	- [ ] Stack Overflow
+	- [ ] Stack Exchange
+	- [ ] Discord
+	- [ ] Reddit
+	- [ ] Dev.to
+	- [ ] Hacker News
+	- [ ] Hashnode
+	- [ ] GitHub (public projects, not private repos)
+	- [ ] Slack (public channels, not work)
+	- [ ] Bluesky
+	- [ ] X
+	- [ ] Kaggle
+	- [ ] YouTube
+	- [ ] Twitch
+	- [ ] LinkedIn
+	- [ ] Substack
+	- [ ] Medium
+	- [ ] Company-sponsored forums
++ Did you utilize or integrate specific Large Language Models (LLMs) to power your development tools or applications in the last year?  Here, we are referring to models like GPT-4, Llama, Claude, etc., within your development environments or solutions.
++ Which LLM models for AI tools have you used for development work in the past year, and which would you like to use next year?  Select all that apply.
+	- [ ] Alibaba Cloud Qwen models
+	- [ ] Amazon Titan models
+	- [ ] Anthropic: Claude Sonnet
+	- [ ] Cohere: Command A
+	- [ ] DeepSeek (R- Reasoning models)
+	- [ ] DeepSeek (V- General purpose models)
+	- [ ] Gemini (Flash general purpose models)
+	- [ ] Gemini (Pro Reasoning models)
+	- [ ] Meta Llama (all models)
+	- [ ] Microsoft Phi-4 models
+	- [ ] Mistral AI models
+	- [ ] openAI GPT (chatbot models)
+	- [ ] openAI Image generating models
+	- [ ] openAI Reasoning models
+	- [ ] Perplexity Sonar models
+	- [ ] Reka (Flash 3 or other Reka models)
+	- [ ] X Grok models
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
