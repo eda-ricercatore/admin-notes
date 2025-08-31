@@ -97,7 +97,10 @@ E.g., the command suggested is:
 
 
 
+###	macOS Sequoia
 
+UNIX commands:
++ dd – convert and copy a file
 
 
 
