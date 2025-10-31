@@ -52,7 +52,16 @@ Generic sets of skills in quantum computing:
 	- Bachelor’s degree (or higher) in engineering or similar 3+ years of commercial FPGA design and development experience Proven track record of IP design and verification using HDLs, preferably Verilog Proficiency with Vivado (scripting flow, defining constraints, build analysis) Experience in the design and implementation of DSP for FPGA Strong design, debug, and troubleshooting skills with solid hands-on experience using chipscope, oscilloscopes, spectrum analyzers and other test equipment Creative mindset for developing solutions to unique and challenging problems Technically versatile and able to learn new skills that you can apply across multiple types of work A willingness to take on other roles and responsibilities for the greater good of the team
 	- Appreciation and understanding of RF engineering Experience in PCB design, debug and bring-up Prior experience working in a start-up or small team environment
 + skill set:
-	- BLAH.
+	- Intern 2026: Quantum Computing Theory
+	- IBM Quantum leads the world in quantum computing. We aim to solve complex problems the world’s most powerful supercomputers cannot solve, and never will. We are advancing quantum computing technology, hardware, and software, while exploring applications to make quantum broadly usable and accessible. With a worldwide network of Fortune 500 companies, academic institutions, researchers, educators, and enthusiasts, we are committed to driving innovation for our clients, our partners, and the open source Qiskit community. IBM Quantum is building an equitable, diverse, and inclusive global quantum computing ecosystem.
+	- As a theoretical research scientist with IBM Quantum, your job will be to advance the field of quantum computing. Areas of research include quantum error correction, fault tolerant algorithms, information theory, and compilation.
+	- Experience in academic graduate program related to applicable area of quantum computing, such as error correction, fault tolerant algorithms, information theory, or compilation
+	- Coursework or projects in applicable area
+	- Experience performing theoretical research
+	- Experience with one or more general purpose programming languages such as Python
+	- Strong publication record in high-impact journals
+	- Programming experience in core & scientific language (e.g. python, numpy, scipy, matplotlib) and Qiskit
+	- Familiarity with Git and/or Github
 + skill set:
 	- BLAH.
 + skill set:
@@ -240,7 +249,24 @@ Sets of skills in quantum error detection and correction, and fault-tolerant qua
 		* Familiarity with quantum optics and continuous variables.
 		* Proficiency in working with python or other modern programming language.
 + skill set:
-	- BLAH.
+	- Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist
+	- Yorktown Heights, New York; Cambridge, Massachusetts, United States
+	- Quantum Information Theory and Error Correction
+	- Research Scientists at IBM drive the leading edge of quantum computing technologies with the industry’s most advanced hardware and software. Join an elite team of engineers and scientists building a path towards scalable fault tolerant quantum computation.
+	- identify feasible quantum algorithms and application areas for early fault tolerant quantum devices,
+	- benchmark resource requirements depending on problem parameters, implementation details, and circuit synthesis strategies,
+	- develop understanding in relevant application domains such as physics, chemistry, etc., develop estimates of relevant problem parameters, and characterize performance and accuracy of quantum algorithms in practice,
+	- compare quantum methods to the classical state of the art. 
+	- Doctorate degree in Engineering, Physics, or Computer Science, or related software experience
+	- Experience with quantum algorithm design, analysis, and resource estimation
+	- Familiarity with programming languages for scientific computing (Python, or equivalent)
+	- Familiarity with programming languages for high-performance computing (Rust, C++, or equivalent)
+	- Experience with large-scale software engineering projects involving multiple contributors and programming languages
+	- IBM Research is the organic growth engine of IBM and an innovation engine for our customers and partners. As part of this mission, IBM Research anticipates and examines 'What's Next in Computing' to ultimately create and integrate the technologies the world relies upon to solve big challenges and unlock new opportunities. We create and pioneer new markets for IBM, our partners and customers as exemplified in our ongoing quest to reach practical and large-scale quantum computing. Across IBM Research, we realize the power and potential to accelerate discovery with our partners and clients by combining the power of high performance computing, AI, and Quantum, all integrated through the hybrid cloud.
++ skill set:
+	- Intern 2026: Fault-tolerant quantum algorithms
+	- We are looking for interns who can design quantum algorithms for useful problems. The candidate should be able to quantify the run-time or gate complexity. Understand and compare to state-of-the-art classical algorithms. Highglight their published findings in reputed journals. Present work in conferences.
+	- PhD candidate in computer science, physics, mathematics, electrical engineering or equivalent. Experience in designing quantum algorithms for fault-tolerant quantum computers. Experience quantifying the worst-case performance of algorithms.
 + skill set:
 	- BLAH.
 + skill set:
@@ -411,6 +437,8 @@ Sets of skills in quantum machine learning scientists:
 
 
 
+
+
 ##	Sets of Skills in Quantum Machine Learning Engineers
 
 
@@ -502,6 +530,71 @@ Sets of skills in quantum machine learning engineers:
 
 
 
+##	Sets of Skills for Quantum Algorithm Research Scientist
+
+
+
+Sets of skills for quantum algorithm research scientists:
++ skill set:
+	- Intern 2026: Quantum Algorithm Research
+	- Yorktown Heights, NY; San Jose, CA; Cambridge, MA; Albany, NY
+	- Quantum Internship
+	- You are a passionate and technically skilled individual desiring to advance the field of quantum computing research. This role sits at the intersection of research and enablement, and it is ideal for someone who has is considerable appreciation for a wide range of scientific disciplines, thrives on explaining complex concepts, is highly collaborative, and enjoys devising creative solutions to difficult problems. As a Quantum Algorithm Research Intern, you will work closely with quantum researchers. In this role, you will provide support in advancing quantum computing research as applied to a variety of domain sciences. This role will give you the necessary exposure and experience to our team across multiple ecosystems. You must be passionate not only for technology but also for working collaboratively on projects and delivering high quality results. The ideal candidate must also possess communication skills appropriate for engaging scientists and the ability to elucidate complex concepts to technical and non-technical audiences.
+	- Strong background in physics, chemistry, computer science or similar
+	- Demonstrated proficiency in Python and Qiskit SDK
+	- Understanding of common quantum algorithms
+	- Exceptional communication skills, both written and verbal
+	- Ability to disseminate complex concepts to technical and non-technical audiences
+	- General knowledge of superconducting qubits
+	- Familiarity with quantum error suppression and mitigation techniques
+	- Practical experience executing workloads on IBM quantum devices
+	- Familiarity with limitations of classical computing
+	- Publication(s) in the area of quantum computational sciences
++ skill set:
+	- Intern 2026: Quantum Computing Applications Research
+	- Identifying feasible quantum algorithms and application areas relevant to near-term and/or early fault-tolerant quantum devices
+	- Benchmarking classical algorithms for problems of interest, to establish meaningful comparisons with quantum algorithms
+	- Benchmarking resource requirements depending on problem parameters, implementation details, and circuit synthesis strategies
+	- Implementing and testing near-term algorithms on current quantum processors using available hardware and software frameworks
+	- Developing new capabilities to enable advantage-scale experiments
+	- Developing and studying compiler optimizations for quantum circuits targeting fault tolerant architectures
+	- Bachelors degree in Engineering, Physics, or Computer Science, or related software experience
+	- Experience with quantum algorithm design and analysis, quantum compiler or computer architecture, experimental realization of quantum algorithms, or related topics in quantum computation
+	- Familiarity with programming languages for scientific computing (Python, or equivalent)
+	- Familiarity with programming languages for high-performance computing (Rust, C++, or equivalent)
+	- Experience with large-scale software engineering projects involving multiple contributors and programming languages.
+	- Experience using experimental techniques such as error mitigation, error suppression, or quantum control
+	- Experience with Qiskit or other quantum computing frameworks (Cirq, etc.)
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
+
+
+
+##	Sets of Skills for Hybrid Cloud/Quantum Computing Middleware/Firmware Software Development
+
+
+
+Sets of skills for hybrid cloud/quantum computing middleware/firmware software development:
++ skill set:
+	- Super Computing, SOSP, IEEE Cloud, NSDI, ACM Middleware, IEEE Cluster, ISPASS, IEEE International Conference in Quantum Software, RustConf, International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)
++ Research experience in an area of study related to quantum computing. And skills and capabilities (excel, Airtable, Power BI, Salesforce are a plus)
++ skill set:
+	- Programming experience in core & scientific language (e.g. python, numpy, scipy, matplotlib) and Qiskit
+	- Recognition as a Qiskit Advocate
+	- Certification as an IBM Quantum Developer (Quantum Computation using Qiskit v0.2X)
+
 
 
 
@@ -567,7 +660,7 @@ Sets of skills in integrated photonic quantum computing:
 
 
 
-Generic sets of skills in quantum computing:
+Generic sets of skills in quantum computing hardware:
 + R&D Engineer 2, Software
 	- Hachioji, Japan
 	- Overview
@@ -584,6 +677,18 @@ Generic sets of skills in quantum computing:
 	- Excellent organization and coordination skills
 	- Ability to consistently deliver on deadlines and delight the customer
 	- Ability to work in a collaborative environment and to influence individuals over geographically dispersed teams. 
++ Intern 2026: CMOS Circuit Design Intern – Quantum Computing Applications
+	- As a CMOS circuit design intern at IBM Quantum, you will contribute to the development of integrated circuits that support quantum computing systems. This may include digital, analog, mixed-signal, and RF blocks for qubit control, readout, and biasing. You will work closely with researchers to explore scalable, low-power, and high-precision circuit architectures that interface with quantum processors.
+	- Experience in an academic graduate program related to analog/mixed-signal/RF circuit design
+	- Coursework or projects in CMOS digital design, CMOS analog design, digital signal processing, data converters design, frequency synthesizer design
+	- Familiarity with Cadence Virtuoso & Spectre simulation tools and/or Cadence Innovus
+	- Experience with one or more general-purpose programming languages such as Python or MATLAB for data analysis and automation
+	- Understanding of system-level considerations in communications (e.g., noise, linearity, scalability)
+	- Hands-on experience with chip measurement setups, including probing and RF test equipment
+	- Knowledge of digital synthesis and/or layout techniques for advanced CMOS nodes (e.g., FinFET technologies)
+	- Experience with scripting for test automation and post-processing of measurement data
+	- Familiarity with Git/GitHub for version control and collaboration
+	- Strong publication record or contributions to conference papers (e.g., ISSCC, RFIC, VLSI, JSSC)
 
 
 

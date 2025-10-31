@@ -425,7 +425,76 @@ Sets of skills for product management for machine learning products and services
 
 
 
+###	Product Engineering for Machine Learning Products and Services
 
+
+
+
+
+Sets of skills for product engineering for machine learning products and services:
++ skill set:
+	- Senior AI Product Engineer, Code
+	- About Semgrep
+	- Our mission is to make world-class software security available to everyone. This means building program analysis tools that are open source, easy to use, powerful, and fast. It also means building a team with security expertise and a passion for great developer experiences. Most of all, it means working with honesty and respect in a diverse community of dreamers and builders. We’ve redefined static analysis tooling by committing to all of these, and turned our project, Semgrep, into an essential safeguard for code at Snowflake, Dropbox, and more.
+	- As an AI product engineer on Semgrep’s Code team, you’ll apply cutting-edge AI/ML tools from industry leaders (e.g. OpenAI, Anthropic, Hugging Face, Amazon, Google) to build user-facing security tools that help developers write and ship secure software faster.
+	- Semgrep’s Code product improves the software developers create by identifying real vulnerabilities without slowing them down. Other security tools often overwhelm developers with noise, but we deliver actionable, accurate, and intuitive results. AI has already had a profound effect on how we can cut through that noise, and we believe it will unlock even more potential in the future.
+	- You’ll learn about the application-security space, mentor other engineers, collaborate with product managers, security researchers, and application developers, and shape features our customers love. Through Semgrep’s culture of transparency, you’ll see and influence the decisions that make a startup successful. Your work will be key to making Semgrep the world’s leading code analysis project and trusted security platform.
+	- Integrate AI platform APIs into the Code product
+	- Develop and refine LLM prompt chains for real developer use cases
+	- Experiment with the latest AI/ML advances and determine how they can be productized
+	- Evaluate and fine-tune ML models using human- and machine-generated data
+	- Learn directly from users to understand their needs and deliver features that help them secure their code
+	- Work on major product initiatives end-to-end, from design and prototyping through implementation and deployment
+	- Contribute to technical discussions, roadmap planning, and mentoring within the team
+	- 5+ years of experience writing production software
+	- Curiosity and a love of new technologies, especially AI/ML
+	- Experience experimenting with GPT-4/GPT-5, Codex, Claude, or other LLMs; familiarity with ML algorithms and applied research
+	- Comfort working in a fast-paced environment where prototypes are rapidly iterated or discarded
+	- Strong Python skills (experience with other languages a plus)
+	- Interest in prompt engineering, embeddings, and vector databases
+	- Excitement about building for customers, iterating fast, and seeing solutions solve real developer problems
+	- Excellent and proactive communication skills, both verbal and written
+	- Some example projects you might work on include:
+		* Building new detection capabilities that utilize fast, deterministic static analysis technologies within an autonomous LLM-driven agentic code analysis pipeline
+		* Identifying causes of and solving for non-determinism in model output
+		* Generating real-time, AI-powered remediation guidance for vulnerabilities in developers’ own code
+		* Automatically drafting secure code suggestions that align with project context and frameworks
+		* Building and orchestrating purpose-built custom agents for evaluating and triaging code security risks
+		* Enhancing the IDE experience with AI-assisted security insights and explanations
+		* Experimenting with AI-powered rule generation to help customers expand and tailor their Code product usage
+	- Salary Range: $176,000 - $207,000
+		* Please note that the range listed is for someone based in the San Francisco Bay Area.
++ Staff AI Product Engineer, Code
+	- About Semgrep
+	- Our mission is to make world-class software security available to everyone. This means building program analysis tools that are open source, easy to use, powerful, and fast. It also means building a team with security expertise and a passion for great developer experiences. Most of all, it means working with honesty and respect in a diverse community of dreamers and builders. We’ve redefined static analysis tooling by committing to all of these, and turned our project, Semgrep, into an essential safeguard for code at Snowflake, Dropbox, and more.
+	- As an AI product engineer on Semgrep’s Code team, you’ll apply cutting-edge AI/ML tools from industry leaders (e.g. OpenAI, Anthropic, Hugging Face, Amazon, Google) to build user-facing security tools that help developers write and ship secure software faster.
+	- Semgrep’s Code product improves the software developers create by identifying real vulnerabilities without slowing them down. Other security tools often overwhelm developers with noise, but we deliver actionable, accurate, and intuitive results. AI has already had a profound effect on how we can cut through that noise, and we believe it will unlock even more potential in the future.
+	- You’ll learn about the application-security space, mentor other engineers, collaborate with product managers, security researchers, and application developers, and shape features our customers love. Through Semgrep’s culture of transparency, you’ll see and influence the decisions that make a startup successful. Your work will be key to making Semgrep the world’s leading code analysis project and trusted security platform.
+	- Integrate AI platform APIs into the Code product
+	- Develop and refine LLM prompt chains for real developer use cases
+	- Experiment with the latest AI/ML advances and determine how they can be productized
+	- Evaluate and fine-tune ML models using human- and machine-generated data
+	- Learn directly from users to understand their needs and deliver features that help them secure their code
+	- Work on major product initiatives end-to-end, from design and prototyping through implementation and deployment
+	- Contribute to technical discussions, roadmap planning, and mentoring within the team
+	- 8+ years of experience writing production software
+	- Curiosity and a love of new technologies, especially AI/ML
+	- Experience experimenting with GPT-4/GPT-5, Codex, Claude, or other LLMs; familiarity with ML algorithms and applied research
+	- Comfort working in a fast-paced environment where prototypes are rapidly iterated or discarded
+	- Strong Python skills (experience with other languages a plus)
+	- Interest in prompt engineering, embeddings, and vector databases
+	- Excitement about building for customers, iterating fast, and seeing solutions solve real developer problems
+	- Excellent and proactive communication skills, both verbal and written
+	- Some example projects you might work on include:
+		* Building new detection capabilities that utilize fast, deterministic static analysis technologies within an autonomous LLM-driven agentic code analysis pipeline
+		* Identifying causes of and solving for non-determinism in model output
+		* Generating real-time, AI-powered remediation guidance for vulnerabilities in developers’ own code
+		* Automatically drafting secure code suggestions that align with project context and frameworks
+		* Building and orchestrating purpose-built custom agents for evaluating and triaging code security risks
+		* Enhancing the IDE experience with AI-assisted security insights and explanations
+		* Experimenting with AI-powered rule generation to help customers expand and tailor their Code product usage
+	- Salary Range: $202,000 - $238,000
+		* Please note that the range listed is for someone based in the San Francisco Bay Area.
 
 
 

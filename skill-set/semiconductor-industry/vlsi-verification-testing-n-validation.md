@@ -763,7 +763,7 @@ Skill sets for mixed-signal VLSI verification:
 	- Working knowledge of **revision control tools such as SOS, SVN** is a plus
 		* ***Cliosoft SOS is a revision control tool, or version control tool, for IC designs.***
 	- Education Level: Bachelor's Degree (MSEE Preferred)
-
++ Interface analog microwave test environment with computer test system (digital-to-analog conversion, analog-to-digital conversion, python coding)
 
 
 

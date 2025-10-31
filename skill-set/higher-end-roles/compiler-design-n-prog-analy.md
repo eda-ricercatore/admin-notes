@@ -487,11 +487,29 @@ Skill sets for developing compilers for domain-specific languages (DSLs):
 		* 100% Citibike membership (NYC only)
 		* $45/month gym membership 
 		* Additional various medical and mental health services
-
-
-
-
-
++ Compiler Engineer – AI Accelerators
+	- BANGALORE, Karnataka, India
+	- As a Research Scientist (RS) at IBM, you will be at the forefront of innovation, contributing to groundbreaking advancements in science and engineering. Your role involves generating creative and original ideas, coupled with performing highly complex scientific or engineering tasks. Working collaboratively with IBM's business units, clients, academic institutions, and the global community, you will identify and address significant challenges, producing differentiating solutions that propel both our business and the global economy forward. Projects led by Research Scientists are typically long-term, spanning multiple years.
+	- Innovative Idea Generation: Generate innovative ideas and concepts that contribute to advanced scientific or engineering achievements.
+	- Collaborative Problem Solving: Collaborate with diverse stakeholders, including IBM business units, clients, academic institutions, and the community, to identify and address both large and small global challenges.
+	- Differentiating Solutions: Create differentiating solutions that not only meet business objectives but also contribute to the advancement of the global economy.
+	- Multi-Year Program Leadership: Lead and contribute to multi-year research programs, overseeing and actively participating in efforts that drive impactful results.
+	- Intellectual Property Generation: Produce intellectual property, including patents, open source contributions, and scientific papers, contributing to the body of knowledge in relevant fields.
+	- Publication and Presentation: Publish and present research findings at conferences, sharing insights with the wider scientific and technical community.
+	- Team Management (As Applicable): Manage or technically direct other Research Scientists, Developers/Engineers, and/or Technical support personnel involved in research projects.
+	- Bachelor’s or Master’s degree in Computer Science, Electrical/Computer Engineering, or related field
+	- 8+ years of experience in compiler development (LLVM, MLIR, TVM, or similar)
+	- Strong programming skills in C/C++; proficiency in Python
+	- Experience with state-of-the-art software collaboration practices
+	- Strong background in architecture and compilers with experience developing simulators and compilers.
+	- Strong interest and passion to drive new research topics in hardware/software co-design for domain-specific System-on-Chip architectures. 
+	- Solid understanding of microarchitecture concepts (SIMD/vector units, memory hierarchies)
+	- Experience with deep learning frameworks (e.g., PyTorch, TensorFlow, ONNX) – AI Libraries---including TensorFlow and PyTorch as well as CUDA for GPU programming 
+	- Strong background in deep-learning applications including large language models.
+	- Experience optimizing neural networks for custom hardware
+	- Familiarity with performance and precision modeling
+	- Contributions to open-source compiler ecosystems
+	- Exposure to end-to-end system software stacks for accelerators
 + skill set:
 	- Software Engineer, Programming Languages
 	- Lamini AI is at the forefront of bringing LLMs to production.  We are on a mission to help every company unlock the power of generative AI, by putting their own data to work. Our team is made up of highly experienced ML engineers and tech industry veterans and we’re backed by leading computing and technology companies.

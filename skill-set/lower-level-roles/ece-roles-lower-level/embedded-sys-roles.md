@@ -17,6 +17,7 @@ Sets of skills for lower-level embedded systems/hardware roles, such as those fo
 	- Experience with one of the following programming languages: Python, Go, Java/Scala/Kotlin.
 	- Experience in creating complex, highly distributed real-time embedded systems.
 + hardware-in-the-loop testing, HWIL testing
++ Knowledge of Industry standard protocols - PCIE, USB, DRR, etc, preferable.
 + skill set:
 	- Those with KVM/VFIO/QEMU/IOMMU related development experience are preferred;
 	- Experience in Linux PCIE driver development or relevant understanding of PCIE protocol is preferred;

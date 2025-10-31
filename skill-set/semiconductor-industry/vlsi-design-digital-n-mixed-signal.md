@@ -1062,6 +1062,7 @@ Interesting start-ups and other companies in the semiconductor industry:
 + Implement design by performing synthesis, timing closure, lint, CDC, UPF
 + Strong understanding of noise, EM/IR, process variation, and low voltage design techniques
 + https://www.glassdoor.co.uk/Jobs/Google-vlsi-design-engineer-San-Jose-Jobs-EI_IE9079.0,6_KO7,27_IL.28,36_IC1147436.htm?countryRedirect=true
++ Knowledge of Industry standard protocols - PCIE, USB, DRR, etc, preferable.
 + skill set:
 	- As an ALU Design Engineer at SiFive, you will be part of a global team designing the best CPU cores in the world, based on the revolutionary open RISC-V architecture. You will master the art of designing hardware as configurable generators in a hardware-enhanced software language. You will be working in a fast-paced dynamic environment to bring new hardware IP to market quickly, with high quality and exceptional performance.
 	- Architect, design and implement enhanced and new arithmetic functional units for RISC-V CPU Core generators in Chisel
@@ -1427,6 +1428,8 @@ Interesting start-ups and other companies in the semiconductor industry:
 
 
 
+
+
 ###	Skills for VLSI Design of Processor Architectures
 
 
@@ -1449,6 +1452,24 @@ Interesting start-ups and other companies in the semiconductor industry:
 	- Prior experience in industry standard ISAs – ARM, RISC-V, X86 preferred 
 	- Strong problem solving and debug skills across various levels of design hierarchies
 	- Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made.
+
+
+
+
+
+
+###	Skills for VLSI Design of Chiplet-Based Systems
+
+
+
+Skills for VLSI design of chiplet-based systems:
++ Knowledge of chiplet-based system implementation approaches and their assosciated communication interfaces
+
+
+
+
+
+
 
 
 

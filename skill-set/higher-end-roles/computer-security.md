@@ -804,6 +804,84 @@ Roles in computing security:
 	- Working knowledge of online service architectures for connected/IOT systems
 	- Well versed in Secure Architecture and Design fundamentals
 	- 10 years: 10+ years of experience in the hardware data security industry
++ Staff Infrastructure Security Software Engineer (Remote)
+	- Quora’s mission is to grow and share the world’s knowledge. To do so, we have two knowledge sharing products:
+		* Quora: a global knowledge sharing platform with over 400M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others.
+		* Poe: a platform providing millions of global users with one place to chat, explore and build with a wide variety of AI language models (bots), including GPT-5, Claude Sonnet 4.5, Grok 4, Veo 3, Gemini 2.5 Flash Image (Nano Banana), and more. As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models.
+	- Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world.
+	- This role will be working on both Quora and Poe.
+	- You will be a key member of the newly created Security Engineering Team, with a mission to keep Quora safe from security problems by building robust protections around our products, infrastructure and people. Our small engineering team works on challenging problems every day. We have a culture that's rooted in constantly learning and improving, and our engineers are encouraged to think big and experiment with new ideas.
+	- What We’re Looking For:
+		* Sweat The Right Details: you thrive in understanding the details but will also know to ruthlessly prioritize the critical issues.
+		* Right-Size The Solution: you recognize guidelines and framework do not always fit the problem and know how to adjust the solution for scalability not always at-scale.
+		* Ownership: you are outcome focused and can deftly navigate obstacles, decompose complexities, manage your time and can communicate your vision to peers and management.
+	- An Ideal Candidate Would ...
+		* ... be a capable software engineer while also spiking in at least one of the following domain expertise:
+			+ Cloud Infrastructure Security: You have hands-on experience securing large-scale cloud environments, particularly with AWS. You are passionate about building secure infrastructure-as-code (IaC) pipelines using tools like Terraform or CloudFormation. You understand IAM policies, network segmentation, and VPC design and have a thorough grasp of monitoring and logging in cloud-native environments. You are skilled in identifying misconfigurations, mitigating risks, and driving remediation processes. Bonus points if you’ve implemented security in Kubernetes clusters or serverless architectures.
+			+ Automation and Secure Development Practices: You believe in "security as code" and are skilled at automating security processes. You can develop and integrate security tools into CI/CD pipelines to ensure secure code delivery. Tools like SAST, DAST, and dependency scanning are part of your daily toolkit, and you have experience integrating them into workflows to catch vulnerabilities early. You also advocate for secure coding practices and are skilled at mentoring teams to write resilient, secure applications.
+			+ Linux/System Security: You are well versed in AWS infrastructure security but also are passionate about scalability, reliability and operational rigor. Beyond that, you know that root does not mean root and are passionate about container security, POSIX Capabilities, SECCOMP and have a favorite flavor of LSM. In your spare time, you love playing around with OSQuery and eBPF.
+	- Availability for meetings and impromptu communication during Quora's "coordination hours" (Mon-Fri: 9am-3pm Pacific Time)
+	- Partner with engineering teams to review cloud and compute architecture design changes.
+	- Establish threat models for cloud and compute paved roads to identify security risks.
+	- Develop or adopt open-source tools to monitor and harden our cloud Infrastructure, harden our OS, develop security logging pipelines and detect intrusions
+	- Apply your expert knowledge of security best practices for AWS and Kubernetes to inform remediations and the team’s control roadmap.
+	- Drive the definition and implementation of security policies and monitor in conformance to the policies
+	- Write code for automations that support security requirements like threat detection, incident containment, and network access management.
+	- Conduct initial incident triage; determine scope, urgency, and potential impact of security incidents; participate in the incident response process
+	- US candidates only: For US based applicants, the salary range is $155,656 - $267,615 USD + equity + benefits.
+	- Canada candidates only: For Toronto and Vancouver based applicants, the salary range is $202,383 - $278,361 CAD + equity + benefits. For all other locations in Canada, the salary range is $188,891 - $259,803 CAD + equity + benefits.
++ Senior Software Engineer, Security Workflows
+	- About Semgrep
+	- Our mission is to make world-class software security available to everyone. This means building program analysis tools that are open source, easy to use, powerful, and fast. It also means building a team with security expertise and a passion for great developer experiences. Most of all, it means working with honesty and respect in a diverse community of dreamers and builders. We’ve redefined static analysis tooling by committing to all of these, and turned our project, Semgrep, into an essential safeguard for code at Snowflake, Dropbox, and more.
+	- As a member of the Security Workflows team, you’ll build customer-facing, cross-product integrations that make it simple for application security teams to prioritize, triage, and remediate vulnerabilities at scale. Whether that is through notifications, automating their workflows, reporting on how much time you saved them, or the next great idea, you’ll see how you can bring all the products together to help teams fix vulnerabilities fast and easy. Application Security teams deal with thousands of vulnerabilities every day, and our goal is to enable teams to cut through the noise and more efficiently focus on the most impactful vulnerabilities first. We aim to help AppSec teams fix vulnerabilities by building integrations with the systems where developers are already active.
+	- You’ll learn about the application-security space, mentor more junior developers, collaborate with product managers and other engineers to create security tools our customers love, architect systems for storing and maintaining sensitive data, and help us surface those data back to our users to help them understand their individual security posture. Through Semgrep’s culture of transparency, you’ll see and influence the decisions that make a startup successful. Your decisions will be key to making Semgrep a world-leading static-analysis project, giving you lasting influence not only at Semgrep, but in the world’s developer community.
+	- Work on major product initiatives end-to-end, from user-research through design, implementation, and deployment
+	- Help set technical and product direction, collaborating with the team to determine the future of the product, what features to build, and how to build them
+	- Learn from users to understand their needs, build products to help keep them secure, and work with them to help them scale their security programs
+	- Advocate for and develop intuitive, simple, robust APIs that solve a wide variety of complex problems using simple, elegant abstractions
+	- Ensure continual, high-availability operation of services using modern site-reliability practices, including participation in an on-call rotation
+	- Advise and mentor other engineers via thoughtful code reviews, planning discussions, technical documentation, and formal mentorship
+	- 6+ years of experience writing production software and building web applications. Our stack includes Python, Javascript, and Postgres
+	- Have experience building 3rd party integrations
+	- Have experience with ClickHouse, or have experience building reporting / analytics solutions
+	- Excitement about building for customers, learning their needs, iterating fast, and seeing your solutions solve their core problems
+	- Excellent and proactive communication, both verbal and written
+	- Some examples projects you might work on include:
+		* “If this then that”-style notification system
+		* Expanding our integrations catalog (Jira on-prem, Linear, Asana, etc.)
+		* Unifying product experience by providing reusable foundational components that make building new products easy
+		* Provide customers and their champions visibility into the value Semgrep is bringing them through dashboards, reporting, and easy to understand metrics
+	- Salary Range: $176,000-207,000
+	- Please note that the range listed is for someone based in the San Francisco Bay Area.
++ Engineering Manager, Security Research Coverage
+	- About Semgrep
+	- Our mission is to make world-class software security available to everyone. This means building program analysis tools that are open source, easy to use, powerful, and fast. It also means building a team with security expertise and a passion for great developer experiences. Most of all, it means working with honesty and respect in a diverse community of dreamers and builders. We’ve redefined static analysis tooling by committing to all of these, and turned our project, Semgrep, into an essential safeguard for code at Snowflake, Dropbox, and more.
+	- You will lead the team of Security Researchers responsible for driving the coverage through rules for Secrets, Code, and Supply Chain: across all of our products. This team owns:
+	- Writing high-quality detection rules
+	- Advancing research and automation to make rule writing faster and more accurate
+	- Measuring and improving the overall quality and coverage of detections
+	- As the Manager of the Security Research Coverage team, you’ll report to the Head of Security Research. You’ll set the roadmap, partner with Product Management to focus on the most impactful detection areas, and drive continuous improvements in both accuracy and breadth of our vulnerability coverage. Success in this role means leading a team that delivers world-class detections, scales rule generation through automation and AI, and pushes the boundaries of what modern vulnerability research can achieve.
+	- Hire, develop, and grow the team, cultivating a productive, engaging, diverse, and inclusive work environment that aligns with Semgrep's core values
+	- Work closely with product management, sales, and product development teams across all product lines
+	- Understand, measure, and elevate the velocity and quality of Semgrep detection rule delivery
+	- Prioritize your team’s work and schedules, balancing current product needs with strategic research that will help scale the team through AI and automation
+	- Contribute to the technical direction and to the research (depending on your profile)
+	- Directly impact the security posture of many customers by improving the quality of our detection
+	- 2+ years experience as a People Manager
+	- 5+ years experience as a Tech Lead in the Security space: App Sec Engineer, Security Researcher, Vulnerability Researcher, etc
+	- Comfortable working in a fast-paced environments where prototypes are rapidly iterated or discarded
+	- Comfortable tech leading and mentoring Security Researchers
+	- Excellent proactive communication skills, both verbal and written
+	- Fit in our low-ego high-impact culture
+	- Excitement about building for customers, iterating fast, and seeing solutions solve real developer problems
+	- Curiosity and a love of new technologies, especially AI/ML
+	- Comfortable writing code, especially in Python or Rust
+	- Some example projects you might work on include:
+		* Improve and scale Semgrep’s automated pipelines for generating and validating high-confidence detection rules
+		* Lead a team to identify and analyze vulnerability patterns (CVEs or from first-principle) across languages and ecosystems, and turn those into detection rules. Example: Improve supply chain reachability product for a given language, Code product can report security issues that cross the Android JNI interfaces, etc.
+		* Put in place unified measurements for performance of detection to ensure the best quality across our customers
+	- Salary Range: $160,000 - $208,000
+		* Please note that the range listed is for someone based in the San Francisco Bay Area.
 + skill set:
 	- GitHub is seeking a Security Solutions Architect for our Professional Services team. They focus on helping our customers improve the lives of developers working on the GitHub platform. As a Security Solutions Architect you will have a direct impact on the security of some of the world’s largest code bases and the most commonly used applications. You will be a trusted consultant to the world's leading companies to assist them in transforming how they approach security in their software delivery life cycle. You will shape how they integrate security throughout their software delivery lifecycle. You will create a vision for these customers on how they can improve, and work closely with their stakeholders and teams to implement these changes.
 	- For this role, you can expect to spend about 60% of your time with customers on high-level details and driving Advanced Security adoption. The rest of the time is likely split between CodeQL and Advanced Security deployment.

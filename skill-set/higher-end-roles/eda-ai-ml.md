@@ -195,6 +195,7 @@ Skills for EDA software development, and other high-end software development:
 			+ Your Code, Your Cloud, Your Success
 			+ Build, manage, and scale your infrastructure, secrets, and configurations in one place.
 	- Produce high quality and well-documented code in an automated CI/CD environment
+	- Cloud-native development and toolkits such as Docker, Kubernetes, and OpenShift
 + configuration management:
 	- software configuration management includes:
 		* revision/version control
@@ -969,6 +970,23 @@ Skill sets for STCO and DTCO:
 		* Experience communicating research for public audiences of peers.
 		* Intent to return to degree-program after the completion of the internship/co-op.
 	- $7,650/month to $11,333/month + benefits
++ Intern 2026: IBM Research AI Systems
+	- Efficient and robust reasoning on multi-modal data have attracted many big data and AI powered computing enterprises in industry and academic research communities. Multi-modal data consists at least two or three data modalities, ranging from text (e.g., text documents, tabular, time series) to image, video, or audio. This project aims to develop systems and AI software co-design methods and optimizations to improve both efficiency and robustness of multi-modal cognitive systems in terms of inference performance and inference quality. The intern we are looking for will have the ability to work on efficient and robust AI systems based on multi-modal data, where at least two or more data modalities ranging from text, image, audio, or video are utilized. More specifically, the intern will develop AI systems and software co-design methods and optimizations to improve both efficiency and robustness of multi-modal cognitive system in terms of inference performance and quality.
+	- Experience with  Transformers, SciPy, Scikit-learn, LangChain, LLMs, PyTorch, Github, Numpy, Tensorflow, HuggingFace
+	- Experience with C, Java, Python, Matlab
+	- Experience with AI classification, AI for images, fine tuning, AI security
++ Software Engineer Intern - AI Accelerators Research
+	- In this role, you will join a world-class team of engineers and researchers and contribute to the development of an optimized software stack for IBM’s emerging and existing AI accelerators. This work will be carried out in a multi-disciplinary environment where hardware-software co-optimization is key. The developed software stack components will be part of complete AI solutions for both established and next-generation AI applications. Specific examples of job responsibilities include (a) Develop software optimization in the compiler for AI accelerators, (b) Investigate and prototype AI model optimizations for their execution in accelerators, (c) Contribute to the development of cutting-edge demonstrations with emerging AI accelerators
+	- Have strong background on AI accelerators and/or AI accelerator-associated software
+	- Possess a track record of research in hardware-software co-design
+	- Effective communication of technical ideas
+	- Preferred technical and professional experience
+	- Strong programming skills - C++
+	- Research experience on compilers for AI accelerators
+	- Experience with hardware/software co-optimization for AI applications
+	- Familiarity with a diverse set of AI applications
+	- Hands-on experience in prototyping AI-based solutions
+
 
 
 
@@ -3101,7 +3119,22 @@ Generic skill sets for technology CAD, TCAD:
 	- Familiarity with RF and microwave technologies, PDK designs, CMC Compact Models, Semiconductor characterization, Simulation technologies, Verilog-A, SPICE simulators and Foundry technologies is a plus. 
 	- Knowledge of CI/CD and DevSecOps will be beneficial. 
 	- Pay Salary Range: MIN $153,000 - MAX $255,000.00
-
++ Intern 2026: Research Scientist - Semiconductor
+	- Yorktown Heights, NY; San Jose, CA; Cambridge, MA; Albany, NY
+	- VP Systems Research
+	- In this role, you will apply your research skills toward new hardware design and applications from state-of-the-art chip architecture, design, fabrication and test to advanced chip packaging.   Interns are expected to have a strong research background as evidenced by project or publication in semiconductor technology, materials science or allied fields.
+	- Semiconductor or memory device fabrication
+	- Lithography
+	- Plasma Etch
+	- Novel Film deposition and epitaxial growth
+	- Wet chemical processes
+	- Device physics
+	- Chip Packaging and thernal management
+	- Polymer materials
+	- Computational materials science
+	- Computational optics
+	- Device simulation
+	- Semiconductor test and charecterization
 
 
 
@@ -5832,6 +5865,9 @@ Companies that have machine learning -centric products
 	- MLbox
 	- DataRobot AutoML
 + ***Publication in top-tier conferences and journals, such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACL, STOC, IEEE TPAMI, IEEE TNNLS, IEEE TSP, IEEE TIP, Information Fusion, JAIR, IJRR, IJCV, and JMLR.***
++ ***NeurIPS, AAAI, VLDB, SIGMOD, IJCAI, ICML, ICLR, and ICAPS***
++ Experience publishing scientific results in technical communities such as ***NeurIPS, ICML, ICLR, IJCAI, ACL, AAAI, KDD, CHI, IUI, CSCW***, or similar
++ Record of clear research communication, evidenced by publications or presentations at premier AI conferences (e.g., ***NeurIPS, ICLR, ICML, ACL, EMNLP, CVPR***).
 + If you work on any of these topics, publish in relevant ***conferences (CVPR, ICCV, ECCV, ACCV, NIPS, ICML, BMVC, WACV, ICIP, ICASSP, ICPR, EUSIPCO, MLSP, ICME, ACM Multimedia) and/or journals (IEEE PAMI, TIP, SMC, CSVT, TNNLS, TMM, Pattern Recognition, Information Sciences, Neurocomputing, Neural Networks, Image and Vision Computing, IJCV, ACM Transactions on Intelligent Systems and Technology, ACM Computing Surveys)*** and you want to get relevant regular news or post your own news, you can subscribe as shown above.
 	- Ioannis Pitas
 		* Professor, PhD, Director of the Artificial Intelligence and Information Analysis Lab, AUTH, Greece
@@ -5863,6 +5899,33 @@ Companies that have machine learning -centric products
 + Good knowledge of popular deep learning platforms (***Tensorflow, Pytorch, Paddlepaddle***)
 	- https://github.com/PaddlePaddle/Paddle
 	- https://www.paddlepaddle.org.cn/
++ sill set:
+	- Design and implement machine learning algorithms to derive novel insights from multimodal datasets by leveraging advanced machine learning frameworks.
+	- Contribute to the development of foundational models and workflows for applications in different areas.
+	- Proficiency in Python, SQL, and technologies like TensorFlow, PyTorch, CUDA, and Ray.
+	- Familiarity with high-performance computing environments, cloud platforms, and DevOps tools (Docker, GitHub Actions).
+	- Proficiency in test-driven development and continuous integration/continuous deployment (CI/CD) practices to ensure robust and scalable workflows.
+	- Experience in knowledge engineering, machine learning, and scientific software development.
+	- Familiarity with multi-agent frameworks (LangChain, LangGraph) and advanced RAG workflows.
++ skill set:
+	- AI model development
+	- R&D of new neural architectures and learning methods
+	- Development and demonstration of working AI methods and systems
++ Knowledge in one or more of the following topics: finetuning algorithms (e.g., LoRA, DPO, etc.), reinforcement learning, model architectures (e.g., transformers, state-space models, etc.), LLM-based agents, agentic workflows, multi-agent systems, RAG, agent frameworks (e.g., LangGraph, CrewAI, etc.), time series data
++ skill set:
+	- Designing novel AI architectures and training algorithms to improve the efficiency, robustness, and scalability of generative models across multi-modal tasks.
+	- Creating and testing single- and multi-agent systems, introducing new optimization and learning strategies that redefine state-of-the-art performance.
+	- Investigating innovative techniques in model alignment, adaptive learning, and resource-efficient training for real-world impact.
+	- Advancing foundation models for urgent global sustainability challenges.
+	- Research or practical experience with generative models (e.g., large language models, multi-modal foundation models).
+	- Background in algorithm design or optimization techniques (e.g., novel training objectives, efficient inference strategies).
++ skill set:
+	- Strong background in artificial intelligence and machine learning, including expertise in areas such as deep learning, LLMs and foundation models.
+	- Experience with containerization using Docker, Kubernetes, or other container orchestration tools.
+	- Research and development experience in AI platforms, including the design, implementation, and optimization of AI frameworks, tools, compilers, or infrastructure. 
+	- Developing and optimizing the AI software stack, including components such as data ingestion and pre-processing, model training, model serving, and monitoring.
+	- Design and development of cloud-based AI platforms that leverage cloud computing resources, including compute, storage, and networking.
+	- Collaboration with research and engineering teams to advance the state-of-the-art in AI platforms and AI model architectures. Drive innovation in the field, as evident from publications, patents, or opensource activity.
 + skill set:
 	- General knowledge in machine learning, natural language processing, knowledge graph, image processing and computer vision, with deep insight in recent progress and practical experience in one of the fields
 	- Understanding principles of deep learning, probabilistic inference, graphical models, reinforcement learning, transfer learning and adversarial learning, with extensive knowledge in one of the fields mentioned
@@ -7389,6 +7452,9 @@ Companies that have machine learning -centric products
 	- ***Jax, PyTorch, TensorFlow, Apache (Spark, Hive, Airflow), Numpy, Pandas, Matplotlib***
 	- ***Docker, Git, AWS (S3, Athena, Presto, Glue), Jenkins, Linux, GCP***
 + Knowledge of ***Apache Spark***
++ skill set:
+	- Experience in developing and integrating CUTLASS or Triton based kernels
+	- Experience in developing machine learning kernels such as GEMM, Convolution, Flash attention, MoE etc.
 + Experience with ML frameworks such as ***PyTorch, MxNET, Tensorflow***, etc.
 + Experience with ***distributed analytic processing technologies (Hive, Pig, Presto, Spark)***
 + Machine Learning: build systems and processes that apply ***ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction***, etc.
@@ -12219,6 +12285,79 @@ Skill sets about applied machine learning, applied ML, for computational science
 
 
 
+###	Agentic AI
+
+
+####	Notes about Agentic AI
+
+
+
+
+
+
+
+
+
+
+
+
+####	Skill Sets about Agentic AI
+
+
+Skill sets about agentic AI:
++ skill set:
+	- 2026 Intern: Agentic AI System Benchmarking
+	- Yorktown Heights, NY; San Jose, CA; Cambridge, MA; Albany, NY
+	- VP Systems Research
+	- Hybrid Cloud Infrastructure Research group is looking for motivated researchers interested in working at the intersection of storage, AI, and Quantum computing. The intern would be part of the team that would be building the next generation storage systems to address the needs of Agentic AI and Quantum computing workloads. We look for entrepreneurial candidates interested in conducting the full industrial research cycle - from ideation and design to prototyping the solution to demonstrate the benefits leading to scientific publication(s) and IP protection. 
+	- Programming languages: Python, Go, Bash, C++
+	- Using, administering, and programming for Linux environment
+	- Tools and platforms: Kubernetes, Docker, Git
+	- Basic understanding of the storage stack in Linux
+	- Experience with system and storage performance measurement analysis
+	- Understanding of LLM technology, inference, and vLLM/LMCache in particular
+	- Designing and implementing distributed systems and storage
+	- Rust programming language
++ skill set:
+	- RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026
+	- Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States
+	- IBM Research AI
+	- We are looking for a talented and highly motivated intern to help advance our efforts in building autonomous data management systems. The work will include using foundation models (FMs) and AI agents for tasks such as data discovery, knowledge representation, data access and retrieval with querying, and automated data-driven insights. This is the core of the role: turning FMs and AI agents into dependable partners for real data work across modern data stacks.
+	- Our focus is on research and development for data workflow orchestration — taking natural language all the way to trusted insights across multiple tools and functions. This includes step-by-step planning and reasoning for complex data workflows, developing low-computational-cost inference techniques so FMs and AI agents can efficiently automate or assist users on data tasks, and advancing trustworthy data agents where gauging factuality, faithfulness, and transparency of outputs over structured and unstructured data is critical. In this context, uncertainty quantification and mitigation, along with improved planning and reasoning, play a central role, providing useful tools to strengthen user confidence, manage model error propagation, and enable uncertainty-aware post-training. Together, these efforts make agentic solutions more efficient, accurate, and trustworthy.
+	- [LLM for code generation] Using foundation models for code generation specific to data tasks such as SQL or NoSQL for data retrieval, python code generation for analytical insights.
+	- [Knowledge Graphs, Multi-Modal FMs] Combining foundation models, knowledge graphs, multi-modal structured and unstructured data to improve data discovery and automated Text-to-SQL.
+	- [FM Inference] Improving FM inference for both answer quality and computational cost.
+	- [LLMs for DataOps] Creating generative-AI tooling for DataOps (e.g., data integration and flows), analogous to DevOps accelerators but for data engineering and analytics.
+	- [Efficient and Reliable AI Agents] Creating efficient AI Agents that can reliably operate as part of an autonomous system.
+	- Pursuing graduate studies in computer science or related fields 
+	- At least one main author research publication at a top conference in AI such as NeurIPS, AAAI, VLDB, SIGMOD, IJCAI, ICML, ICLR, and ICAPS
+	- Familiarity and working expertise with large language models
+	- Familiarity with knowledge graphs, SQL, RAG, Agentic frameworks 
+	- Familiarity with reinforcement learning, AI planning 
+	- Familiarity with prompt optimization techniques
++ skill set:
+	- Intern 2026: AI and Agentic Security Intern
+	- Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States
+	- AI Models: Generative AI Technologies (Akash Srivastava)
+	- We are looking to grow our team of research scientists and engineers. We value research skills, innovation, strong systems intuition, systems building experience and a strong desire to implement one’s own ideas. You will advance fundamental science and publish in top-tier journals and conferences. You will also help conceive and build the next generation of innovative solutions to address real-world security challenges. Successful candidates will design, implement, and analyze state-of-the-art tools and systems for improving the security operations or systems and organizations to solve real-world problems.
+	- Strong programming skills (Python, Go, Javascript, etc.)
+	- System building/debugging/testing skills and software engineering practices
+	- Designing, building, and evaluating AI and agentic systems and frameworks
+	- Systems and software security experience
+	- Excellent written and verbal communication skills
+	- Experience with AI, large language models, and LLM / agentic frameworks
+	- Building cloud applications experience
+	- Publishing scientific results in top tier conferences and/or journals
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
++ skill set:
+	- BLAH.
+
+
+
+
 
 
 
@@ -14619,8 +14758,36 @@ Skill sets for using machine learning to engineer machine learning systems:
 			+ Meet and greet with the wider team.
 		* Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
 	- Annual Salary Range: $180,000 - $440,000 USD
-
-
++ Research Software Developer AI for Math and Science
+	- San Jose, California, United States
+	- Algorithms, Information, Data & Applications
+	- We are seeking a motivated individual to develop/work on  cutting-edge algorithms in math and science domains (e.g., physics, biology, or engineering) and translate them into scalable AI/ML models. The ideal candidate will bridge research and software development, collaborating with cross-functional teams to solve complex problems.
+	- Design and implement algorithms for scientific or mathematical problems (e.g., optimization, simulation, data analysis).
+	- Develop and train AI/ML models (e.g., neural networks, NLP, computer vision) using Python and frameworks like PyTorch/TensorFlow.
+	- Translate research papers or theoretical concepts into production-ready code.
+	- Collaborate with researchers, data scientists, and engineers to integrate models into software systems.
+	- Document code, write unit tests, and maintain clean, modular software.
+	- Bachelor’s degree in Computer Science, Mathematics, Physics, Engineering, or a related field.
+	- Published research experience (peer-reviewed papers in journals or conferences like NeurIPS, ICML, or domain-specific venues—preferably in PDEs, stochastic processes, or statistical modeling).
+	- Strong Python skills (e.g., NumPy, Pandas, Scikit-learn, and libraries for PDE solvers [e.g., FEniCS], stochastic simulations [e.g., PyMC3], or regression analysis [e.g., Statsmodels]).
+	- Proficiency in AI/ML model development (e.g., model training, evaluation, deployment).
+	- Basic software development skills: version control (Git), API design, cloud platforms (AWS/Azure/GCP), and software lifecycle principles.
+	- Strong foundation in mathematical modeling, including PDEs, stochastic processes, and linear regression.
+	- Experience with scientific computing libraries (e.g., SciPy, JAX, TensorFlow Probability).
+	- Familiarity with domain-specific tools (e.g., computational biology, quantum computing, or physics simulation).
+	- Open-source contributions or a GitHub portfolio demonstrating technical capabilities (e.g., PDE solvers, stochastic optimization, or regression-based AI models).
+	- Hiring manager and Recruiter should collaborate to create the relevant verbiage.
++ AI Algorithms and Applications Intern
+	- Yorktown Heights, NY; San Jose, CA; Cambridge, MA; Albany, NY
+	- Director - IBM Research Ireland
+	- As a summer intern, you will contribute to the design and development of large-scale AI models and algorithms for applications across scientific domains. Your work will focus on building and evaluating research prototypes that advance AI methods for scientific applications while maintaining adherence to domain physics. Our team collaborates actively with NASA and the European Space Agency to develop AI foundation models for science.
+	- Strong foundation in mathematics and algorithms with the ability to reason about complex dynamic systems
+	- Experience with AI/ML model design and training
+	- Proficiency in Python and modern deep learning frameworks (e.g., PyTorch)
+	- Collaborative mindset with a drive to produce innovative, publishable research
+	- Current enrollment in a PhD program
+	- Experience working with large, complex datasets and high-performance computing environments
+	- Background in developing and implementing new AI methods, such as extending context length in vision models, improving memory efficiency, effective model distillation or enhancing structural awareness in dynamic system modeling
 
 
 
@@ -16335,6 +16502,7 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 + Experience with SQL and Statistical/mathematical programming software packages (R, SPSS, CPLEX, LONDO or Xpress etc)
 + Second, help build a Data Science team to support the delivery of the Predictive Analytics core AI offerings for US-based pharmaceutical companies. These offerings include developing algorithms to find undiagnosed patients (often patients with rare diseases) or algorithms to predict patients likely to experience rapid disease progression and / or switch therapies. These core offerings involve very large datasets (typically many millions of patients) extracted from claims and prescription data and use Python and PySpark tools and libraries as part of IQVIA's Hadoop cloud environment.
 + Experience building data science models (Regression, Decision Trees, K-Means, etc.)
++ Backend storage technologies such as SQL and NoSQL databases such as Postgres, MongoDB, Cloudant, ElasticSearch, etc.
 + skill set:
 	- Efficient in SQL, Hive, SparkSQL, etc.
 	- Serve as technical “go to” person for our core technologies – Hadoop, Spark, AWS, Vertica, Tableau, Cassandra, Graph Databases and others
@@ -16344,6 +16512,8 @@ Sets of skills for generic data science roles, or data scientist positions (i.e.
 	- dask
 	- pandas
 	- scikit-learn
++ skill set:
+	- Data Analysis/Visualizations, TIBCO Spotfire (Preferred): Power BI or Tableau.Ability to create custom dashboards
 + skill set:
 	- Exceptional SQL skills and experience working with granular web clickstream data and behavior tracking tools like SiteCatalyst
 	- Fluency in data analysis, including defining KPIs, statistical and predictive modeling concepts, descriptive statistics, experimental design and multivariate A/B testing
@@ -18745,6 +18915,7 @@ They support databases for:
 	- Google Cloud Firestore
 + ***process structured and unstructured data***
 + You've used several data storage technologies like ***Elasticsearch, Solr, PostgreSQL, MongoDB, or Cassandra*** and have some idea how they work and why they work that way.
++ Familiarity with Apache NiFI, Kafka or similar ETL frameworks
 + Experience with ***Scala, Scalding, Luigi, Hive, machine learning pipelines and model training*** is a plus
 	- Luigi:
 		* [The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
@@ -20259,6 +20430,7 @@ Skill sets for DataOps:
 + skill set:
 	- Experience with NoSQL databases (eg MongoDB, Redis) is an advantage
 	- An advantage: experience with Docker / Rancher or Kubernetes and with Native Mobile Development or NativeScript / ReactNative knowledge
++ 
 + skill set:
 	- Strong understanding of core Hadoop concepts including Yarn, MapReduce, Hive, Pig, Sqoop, HDFS
 	- Experience implementing large scale data loading, manipulation, processing and exploration using a range of AWS based technologies such as Spark, Kinesis, Athena, RedShift, Postgres etc
