@@ -12172,7 +12172,33 @@ Skill sets for generic applied machine learning, applied ML
 	- Experience in machine learning and data analysis
 	- Programming in Python, working with Linux
 + skill set:
-	- BLAH.
+	- AI Solution Architect
+	- Mountain View, CA
+	- Remote
+	- Full-time
+	- Groq delivers fast, efficient AI inference. Our LPU-based system powers GroqCloud™, giving businesses and developers the speed and scale they need. From our Bay Area roots to our growing global presence, we are on a mission to make high performance AI compute more accessible and affordable. When real-time AI is within reach, anything is possible. Build fast.
+	- Duties: Requiring limited supervision
+	- Our AI Solutions Architect, AI/ML will be at the intersection of technology and business. The architect will blend the technical expertise of a solutions architect, the customer-facing skills of a sales engineer, and the hands-on implementation responsibilities of a forward-deployed engineer.
+	- Responsibilities include:
+		* Lead all technical sales activities related to customer engagements from early-stage discussions through successful design wins.
+		* Uncover critical technical and business considerations
+		* Work closely with sales account leaders to craft winning technical proposals with Groq products. 
+		* Build deep relationships with customers by understanding their solutions and challenges, positioning Groq's products effectively, and providing exceptional technical support throughout the customer lifecycle.
+		* Engage in technical discussions and deliver compelling demos to establish technical credibility. 
+		* Develop an in-depth understanding of Groq's Language Processor Unit (LPU) and software stack, effectively translating this knowledge into valuable customer insights and product positioning.
+		* Lead technical discussions on AI/ML models, algorithmic kernels, and accelerated hardware in production environments. 
+		* Drive the adoption of Groq's AI/ML solutions by articulating their unique value propositions in key verticals like hyperscale data centers, automotive, and high-performance computing (HPC).
+		* Recommend product enhancements based on first-hand knowledge to influence Groq's product development strategy. 
+		* Act as the primary technical contact for key customers, providing ongoing support and technical advice to maximize the value of Groq’s technology.
+		* Lead continuous optimization and enhancement of deployed systems, identifying areas for improvement and expansion within client environments. 
+		* Partner with the customer success team to develop strategies that ensure customer satisfaction, contributing to long-term relationships and potential upsell opportunities.
+		* Provide hands-on support and technical training to customer teams, ensuring they are empowered to operate Groq systems independently. 
+		* Will work remotely
+	- We offer competitive salaries and comprehensive benefits packages. Please email your resumes to hiring@groq.com.
+	- On your resume, please clearly note ADV: [source] and job title.
+	- Groq is an equal opportunity employer. 
+	- Salary Range: $240,000 – $250,000
+	- Location: Santa Clara County #LI-DNI
 + skill set:
 	- BLAH.
 + skill set:
