@@ -1354,9 +1354,134 @@ reactive programming = asynchronous dataflow programming
 	- Champion software quality, implement automation, drive continuous delivery, and reduce time to production while proactively reducing technical debt.
 	- Mentor and coach engineers on system design, operating in high uncertainty, and problem-solving to create a supportive, inclusive environment where each engineer can grow.
 + skill set:
-	- BLAH.
+	- Staff Engineer (Campaign)
+	- Los Angeles, California, United States
+	- Later is the enterprise leader in social media and influencer marketing software, services, and data, trusted by leading brands and agencies worldwide. Following our acquisition of Mavely, the Everyday Influencer Platform®, Later enables brands to scale creator partnerships from nano to premium influencers while managing social media content and campaigns across all major social and affiliate networks. Through proprietary performance data, marketing leaders can drive attributable sales and optimize social commerce with our software platform or award-winning services. 
+	- Later is founded on two success stories that began in 2014: Mavrck, the industry-leading influencer marketing solution (now Later Influence™), and Later, the best social media management platform (now Later Social™) and first-to-market link in bio tool, Later Link in Bio. In 2024, Mavrck and Later officially joined together as one unified business, with a shared vision: to enable the world to make a living with their creativity.
+	- We’re trusted by the top social platforms, with partnerships and integrations with Meta, TikTok, LinkedIn, YouTube, and Pinterest.
+	- We enable marketers to create high-performing content and engage in authentic collaborations with creators to reach new audiences, drive engagement, and generate predictable ROI. 
+	- We’re looking for a Staff Developer to play a critical role in shaping the future of Later’s technology stack. This is a senior-level role for a highly skilled engineer who thrives in fast-paced, high-growth environments and takes ownership of complex, high-impact initiatives. You’ll scope, lead, and deliver large projects that elevate our platform while mentoring others and upholding a high bar for engineering excellence.
+	- This is a hands-on technical leadership role where you’ll not only ship code but also shape architecture, coach teammates, and influence the direction of our product. If you’re passionate about building scalable, secure, and high-quality applications that serve millions of users—and you want to be the person others turn to when things get tough—this is the opportunity for you.
+	- What you'll be doing:
+		* Strategy
+			+ Scope, plan, and lead large-scale technical initiatives, ensuring alignment with business priorities and product roadmaps.
+			+ Anticipate risks, identify opportunities for innovation, and guide technical decision-making to deliver long-term impact.
+		* Technical / Execution
+			+ Design, build, and optimize scalable systems across the stack, from frontend (React, TypeScript) to backend (Node.js).
+			+ Deliver production-grade features end-to-end, while maintaining performance, security, and reliability at scale.
+			+ Improve and maintain codebases, ensuring clean architecture, best practices in testing and deployment, and strong CI/CD pipelines.
+			+ Debug and resolve complex issues across systems and services, serving as the go-to expert when problems arise.
+			+ Implement and advocate for strong application and infrastructure security practices.
+		* Team / Collaboration
+			+ Partner cross-functionally with Product, Design, and other Engineering teams to clarify requirements, resolve ambiguities, and deliver solutions that delight users.
+			+ Communicate technical and non-technical ideas clearly, ensuring stakeholders and teammates feel informed and engaged.
+			+ Act as a technical mentor, coaching junior and mid-level engineers while fostering a culture of collaboration and learning.
+		* Research / Best Practices
+			+ Stay current on emerging tools, frameworks, and methods that can drive performance, security, and scalability.
+			+ Experiment with new technologies—including AI/ML applications—and share learnings to elevate team performance.
+			+ Promote continuous improvement, introducing practices that improve speed, quality, and developer experience.
+	- What success looks like:
+		* You consistently deliver high-impact projects on time, meeting both technical and business objectives.
+		* You’re seen as a trusted technical leader who raises the bar for engineering excellence across the team.
+		* You proactively identify opportunities to optimize performance, security, and scalability, and successfully implement solutions.
+		* You coach and influence peers, creating a ripple effect that improves team performance and morale.
+	- 7+ years of professional experience in software development, with a track record of shipping large-scale, high-quality features and systems.
+	- Strong frontend expertise in React and TypeScript
+	- Backend proficiency in Node.js (Kotlin experience a plus)
+	- Experience with SQL and NoSQL databases (MySQL, DynamoDB).
+	- Deep experience with API integration and third-party API management.
+	- Familiarity with AWS or equivalent cloud infrastructure.
+	- Proven ability in system design, architecture, and performance optimization.
+	- In-depth knowledge of application and infrastructure security best practices.
+	- Hands-on experience with Git, CI/CD pipelines, Docker (Kubernetes a plus), and YAML configuration.
+	- Knowledge of automated testing frameworks and QA best practices.
+	- Experience mentoring and coaching engineers, influencing without authority.
+	- Nice to haves:
+		* Experience with social networking platforms
+		* Knowledge of accessibility standards
+		* Familiarity with AI-powered development tools (Copilot, Cursor, etc.)
+		* Experience with monitoring solutions (e.g., DataDog)
+		* Background in rapid, iterative development environments
+	- How you work: 
+		* Driven by Impact: You deliver results that matter—prioritizing high-value work, meeting deadlines, and adapting quickly while keeping outcomes clear.
+		* Strategic & Customer-Centric: You anticipate risks and opportunities, connect decisions to long-term growth, and build trust through proactive insights.
+		* Curious & Growth-Oriented: You seek knowledge, ask sharp questions, and apply learnings fast—challenging the status quo with a mindset of improvement.
+		* Collaborative & Resilient: You thrive in change by staying resourceful, solution-focused, and positive—removing roadblocks, sharing insights, and keeping morale high.
+		* Accountable & Honest: You own your work, hold yourself and others to a high bar, and use transparent feedback to drive growth.
+		* Emotionally Intelligent: You build trust through empathy and collaboration, foster inclusion, and inspire others with grit, optimism, and integrity. 
+	- Our approach to compensation:
+		* We take a market-based & data-driven approach to compensation. We leverage data from trusted third-party compensation sources to help us understand the market value of a role based on function, level, geographic location, and scope. We evaluate compensation bi-annually, including performance and market-related factors.
+		* Our salaries are benchmarked against market Total Cash Compensation for the geographic location of our job posting. Compensation for some roles is structured as On Target Earnings (OTE = base + commission/variable) while for others it is structured as Salary only.
+		* To comply with local legislation and ensure transparency, we share salary ranges on all job postings. Skills, experience and other factors help determine the final salary we offer which may vary from the original range posted. 
+		* Additionally, all permanent team members are eligible to participate in various benefits plans as part of their overall compensation package.
+	- Salary Range: $ 190,000 - 230,000
+	- LI-Remote
 + skill set:
-	- BLAH.
+	- Staff Engineer (Platform)
+	- Boston, MA
+	- Later is the enterprise leader in social media and influencer marketing software, services, and data, trusted by leading brands and agencies worldwide. Following our acquisition of Mavely, the Everyday Influencer Platform®, Later enables brands to scale creator partnerships from nano to premium influencers while managing social media content and campaigns across all major social and affiliate networks. Through proprietary performance data, marketing leaders can drive attributable sales and optimize social commerce with our software platform or award-winning services. 
+	- Later is founded on two success stories that began in 2014: Mavrck, the industry-leading influencer marketing solution (now Later Influence™), and Later, the best social media management platform (now Later Social™) and first-to-market link in bio tool, Later Link in Bio. In 2024, Mavrck and Later officially joined together as one unified business, with a shared vision: to enable the world to make a living with their creativity.
+	- We’re trusted by the top social platforms, with partnerships and integrations with Meta, TikTok, LinkedIn, YouTube, and Pinterest.
+	- We enable marketers to create high-performing content and engage in authentic collaborations with creators to reach new audiences, drive engagement, and generate predictable ROI. 
+	- We are seeking a Staff Engineer with a strong background in modern web development technologies and a passion for building high-quality, distributed applications within our Platform’s Shared Services group. The ideal candidate is a problem solver who thrives in a fast-paced environment, takes ownership of their work, and collaborates well with peers, including coaching junior team members.
+	- What you'll be doing:
+		* Strategy
+			+ Design scalable, maintainable, and secure service architectures.
+			+ Identify opportunities for platform-wide improvements, new service development, and reduction of technical debt.
+			+ Contribute to long-term platform vision and help shape standards for engineering excellence.
+		* Technical / Execution
+			+ Build backend services using C# and TypeScript for web and background worker applications.
+			+ Work with both SQL and NoSQL databases; PostgreSQL expertise preferred.
+			+ Design, containerize, and deploy services with Docker and Kubernetes.
+			+ Build and optimize cloud infrastructure using AWS or similar platforms.
+			+ Implement and maintain CI/CD pipelines, Git workflows, and Infrastructure as Code.
+			+ Apply security best practices across applications and infrastructure (secure coding, vulnerability assessments, secrets management).
+			+ Ensure reliability and scalability through test automation, performance profiling, and optimization.
+			+ Integrate and manage third-party APIs with robust monitoring and management practices.
+			+ Explore and implement AI/ML-driven features or integrations into applications.
+		* Team / Collaboration
+			+ Act as a technical mentor, multiplying team impact by elevating skills and practices of peers and junior engineers.
+			+ Collaborate with Product Managers, other Staff Engineers, and cross-functional teams to define requirements, scope projects, and deliver platform solutions.
+			+ Work closely with stakeholders to debug, troubleshoot, and resolve complex backend issues across the stack.
+			+ Contribute to engineering culture by modeling ownership, accountability, and a growth mindset.
+		* Research / Best Practices
+			+ Stay current on emerging technologies in distributed systems, cloud infrastructure, and secure software practices.
+			+ Share learnings and elevate engineering standards across teams.
+			+ Continuously improve system performance, scalability, and developer experience.
+			+ Identify and advocate for adoption of new technologies that create leverage for the business.
+	- What success looks like:
+		* You consistently deliver high-impact projects on time, meeting both technical and business objectives.
+		* You’re seen as a trusted technical leader who raises the bar for engineering excellence across the team.
+		* You proactively identify opportunities to optimize performance, security, and scalability, and successfully implement solutions.
+		* You coach and influence peers, creating a ripple effect that improves team performance and morale.
+	- What you bring:
+		* Proficiency with C# and TypeScript for backend services.
+		* Strong experience with SQL and NoSQL databases, with PostgreSQL expertise preferred.
+		* Expertise in system architecture, designing secure, scalable, and maintainable platforms.
+		* Broad experience with Docker, Kubernetes, and AWS (or equivalent cloud).
+		* Strong knowledge of DevOps practices (Git, CI/CD, Infrastructure as Code).
+		* Expertise in application and infrastructure security best practices.
+		* Strong understanding of testing and automation practices.
+		* Experience in performance optimization for reliability and scalability.
+		* Proficiency in third-party API integration and management.
+		* Experience (or strong interest) in AI/ML applications in production systems.
+		* Demonstrated mentorship ability, helping elevate the technical impact of the team.
+		* Proven experience working in ambiguous, complex problem spaces with strong problem-solving skills.
+	- How you work: 
+		* Driven by Impact: You deliver results that matter—prioritizing high-value work, meeting deadlines, and adapting quickly while keeping outcomes clear.
+		* Strategic & Customer-Centric: You anticipate risks and opportunities, connect decisions to long-term growth, and build trust through proactive insights.
+		* Curious & Growth-Oriented: You seek knowledge, ask sharp questions, and apply learnings fast—challenging the status quo with a mindset of improvement.
+		* Collaborative & Resilient: You thrive in change by staying resourceful, solution-focused, and positive—removing roadblocks, sharing insights, and keeping morale high.
+		* Accountable & Honest: You own your work, hold yourself and others to a high bar, and use transparent feedback to drive growth.
+		* Emotionally Intelligent: You build trust through empathy and collaboration, foster inclusion, and inspire others with grit, optimism, and integrity. 
+	- Our approach to compensation:
+		* We take a market-based & data-driven approach to compensation. We leverage data from trusted third-party compensation sources to help us understand the market value of a role based on function, level, geographic location, and scope. We evaluate compensation bi-annually, including performance and market-related factors.
+		* Our salaries are benchmarked against market Total Cash Compensation for the geographic location of our job posting. Compensation for some roles is structured as On Target Earnings (OTE = base + commission/variable) while for others it is structured as Salary only.
+		* To comply with local legislation and ensure transparency, we share salary ranges on all job postings. Skills, experience and other factors help determine the final salary we offer which may vary from the original range posted. 
+		* Additionally, all permanent team members are eligible to participate in various benefits plans as part of their overall compensation package.
+		* Salary Range: $ 190,000 - 230,000
+		* LI-Hybrid
+	- We have offices in Boston, MA; Vancouver, BC; Chicago, IL; and Vancouver, WA. For select positions, we are open to hiring fully remote candidates. We post our positions in the location(s) where we are open to having the successful candidate be located. 
 + skill set:
 	- BLAH.
 + skill set:
@@ -3398,7 +3523,77 @@ reactive programming = asynchronous dataflow programming
 
 
 
+##	Software Architects for Web Development
 
+
+
++ Skill set for Domain Architect
+	- New York, New York, United States
+	- Later is the enterprise leader in social media and influencer marketing software, services, and data, trusted by leading brands and agencies worldwide. Following our acquisition of Mavely, the Everyday Influencer Platform®, Later enables brands to scale creator partnerships from nano to premium influencers while managing social media content and campaigns across all major social and affiliate networks. Through proprietary performance data, marketing leaders can drive attributable sales and optimize social commerce with our software platform or award-winning services. 
+	- Later is founded on two success stories that began in 2014: Mavrck, the industry-leading influencer marketing solution (now Later Influence™), and Later, the best social media management platform (now Later Social™) and first-to-market link in bio tool, Later Link in Bio. In 2024, Mavrck and Later officially joined together as one unified business, with a shared vision: to enable the world to make a living with their creativity.
+	- We’re trusted by the top social platforms, with partnerships and integrations with Meta, TikTok, LinkedIn, YouTube, and Pinterest.
+	- We enable marketers to create high-performing content and engage in authentic collaborations with creators to reach new audiences, drive engagement, and generate predictable ROI. 
+	- We’re looking for a deeply technical, strategically minded Domain Architect to lead the next evolution of our platform architecture. In this role, you’ll rapidly assess our existing systems, define convergence opportunities between key domains, and shape the integration strategy that drives scalability, velocity, and long-term technical excellence. You’ll bridge product, engineering, and data to define clear domain boundaries, establish technical standards, and guide the modernization of our architecture—ensuring we balance innovation with business impact.
+	- This role is ideal for an experienced architect who thrives in fast-moving environments, understands the trade-offs between pragmatism and purity, and can translate complex technical concepts into clear, actionable decisions across teams.
+	- What you'll be doing:
+		* Strategy
+			+ Evaluate and define the target-state domain architecture across multiple products, identifying convergence opportunities and technical debt reduction paths.
+			+ Design and lead a scalable integration strategy between heterogeneous systems (e.g., Rails <-> Node/React Native via APIs, Kafka, or event streams).
+			+ Define domain boundaries and service ownership models that enable sustainable growth and platform flexibility.
+			+ Partner with Product and Engineering leadership to align architectural priorities with product roadmaps and business outcomes.
+			+ Lead cross-functional discussions on modernization strategy, balancing short-term delivery with long-term scalability.
+		* Technical/ Execution
+			+ Decompose monolithic applications (Rails, Django, Laravel) into domain-based services or bounded contexts, using domain-driven design principles.
+			+ Define integration and data synchronization patterns between distributed systems, ensuring schema evolution and API versioning best practices.
+			+ Architect core platform services—authentication, identity, content, and analytics—shared across web and mobile products.
+			+ Apply deep hands-on knowledge of AWS (EC2, ECS/EKS, Lambda, S3, RDS/Postgres, EventBridge/SNS/SQS) and IaC tools (Terraform, CloudFormation).
+			+ Introduce observability, monitoring, and CI/CD standards (Datadog, OpenTelemetry, GitHub Actions, CircleCI) that support secure, high-quality releases.
+			+ Provide technical mentorship and architectural reviews to ensure strong engineering standards and knowledge transfer across teams.
+		* Team / Collaboration
+			+ Partner with Product, Design, and Engineering leaders to guide architecture decisions that optimize both user experience and technical sustainability.
+			+ Contribute to architecture guilds and domain working groups, defining shared frameworks and principles for system evolution.
+			+ Communicate architectural trade-offs clearly—speed vs scalability, build vs buy, monolith vs microservice—to technical and non-technical stakeholders.
+			+ Author and socialize Architecture Decision Records (ADRs), domain maps, and shared service contracts to ensure alignment and transparency.
+			+ Act as a trusted advisor and mentor to senior engineers, promoting best practices in distributed system design and software craftsmanship.
+		* Leadership
+			+ Lead by influence across engineering teams, setting a high bar for architectural rigor, documentation, and technical collaboration.
+			+ Champion scalable, pragmatic engineering principles that accelerate business velocity while building for the future.
+			+ Drive the adoption of a modern technical culture—balancing innovation, quality, and accountability.
+		* Research/Best Practices
+			+ Stay current on evolving architectural paradigms (domain-driven design, event-driven systems, microservices, and data mesh patterns).
+			+ Introduce architectural innovations and tools that improve developer efficiency, code quality, and system observability.
+			+ Conduct architecture reviews and share learnings company-wide to foster continuous improvement and technical excellence.
+	- What success looks like:
+		* Clear domain boundaries and service ownership models are defined and adopted across engineering teams.
+		* Integration patterns between systems are reliable, documented, and scalable, supporting faster feature delivery.
+		* Architecture decisions are data-informed, balancing speed, cost, and technical debt effectively.
+		* The engineering organization demonstrates improved velocity and reduced friction between teams.
+		* Foundational technical debt reduction and modernization initiatives are underway, with measurable impact on reliability and maintainability.
+		* You’re seen as a collaborative, trusted technical leader who bridges architecture and product strategy seamlessly.
+	- What you bring:
+		* 10+ years of progressive software engineering experience, with at least 3+ years in a senior or principal architecture role.
+		* Proven expertise designing and evolving architectures in high-scale, multi-product environments (Rails, Node.js, React Native preferred).
+		* Deep understanding of domain-driven design (DDD), service decomposition, and event-driven patterns.
+		* Strong AWS architecture experience (ECS/EKS, Lambda, RDS, S3, EventBridge, SQS/SNS) and infrastructure-as-code (Terraform, CloudFormation).
+		* Demonstrated ability to modernize legacy systems incrementally, driving results without full rebuilds.
+		* Solid understanding of data synchronization, API design, schema evolution, and distributed systems reliability.
+		* Experience defining and implementing CI/CD pipelines, observability stacks, and deployment strategies (canary, blue-green, multi-env).
+		* Excellent communication and stakeholder management skills, with the ability to simplify complex ideas for diverse audiences.
+		* Passion for mentorship, system design, and building architectures that enable product and team growth.
+	- How you work: 
+		* Driven by Impact: You deliver results that matter—prioritizing high-value work, meeting deadlines, and adapting quickly while keeping outcomes clear.
+		* Strategic & Customer-Centric: You anticipate risks and opportunities, connect decisions to long-term growth, and build trust through proactive insights.
+		* Curious & Growth-Oriented: You seek knowledge, ask sharp questions, and apply learnings fast—challenging the status quo with a mindset of improvement.
+		* Collaborative & Resilient: You thrive in change by staying resourceful, solution-focused, and positive—removing roadblocks, sharing insights, and keeping morale high.
+		* Accountable & Honest: You own your work, hold yourself and others to a high bar, and use transparent feedback to drive growth.
+		* Emotionally Intelligent: You build trust through empathy and collaboration, foster inclusion, and inspire others with grit, optimism, and integrity.
+	- We take a market-based & data-driven approach to compensation. We leverage data from trusted third-party compensation sources to help us understand the market value of a role based on function, level, geographic location, and scope. We evaluate compensation bi-annually, including performance and market-related factors.
+	- Our salaries are benchmarked against market Total Cash Compensation for the geographic location of our job posting. Compensation for some roles is structured as On Target Earnings (OTE = base + commission/variable) while for others it is structured as Salary only.
+	- To comply with local legislation and ensure transparency, we share salary ranges on all job postings. Skills, experience and other factors help determine the final salary we offer which may vary from the original range posted. 
+	- Additionally, all permanent team members are eligible to participate in various benefits plans as part of their overall compensation package.
+	- Salary Range: $200,000 - 230,000 OTE
+	- LI-remote
+	- We have offices in Boston, MA; Vancouver, BC; Chicago, IL; and Vancouver, WA. For select positions, we are open to hiring fully remote candidates. We post our positions in the location(s) where we are open to having the successful candidate be located. 
 
 
 

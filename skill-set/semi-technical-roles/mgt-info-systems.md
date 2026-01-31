@@ -466,7 +466,61 @@ Skill set for management of information systems, MIS, including data analyst rol
 	- At least 10 years of relevant work experience
 	- Engineering experience with the following technologies preferred : Linux, Java, Scala, Python.
 + skill set:
-	- BLAH.
+	- Data Analyst
+	- Vancouver, British Columbia, Canada
+	- Later is the enterprise leader in social media and influencer marketing software, services, and data, trusted by leading brands and agencies worldwide. Following our acquisition of Mavely, the Everyday Influencer Platform®, Later enables brands to scale creator partnerships from nano to premium influencers while managing social media content and campaigns across all major social and affiliate networks. Through proprietary performance data, marketing leaders can drive attributable sales and optimize social commerce with our software platform or award-winning services. 
+	- Later is founded on two success stories that began in 2014: Mavrck, the industry-leading influencer marketing solution (now Later Influence™), and Later, the best social media management platform (now Later Social™) and first-to-market link in bio tool, Later Link in Bio. In 2024, Mavrck and Later officially joined together as one unified business, with a shared vision: to enable the world to make a living with their creativity.
+	- We’re trusted by the top social platforms, with partnerships and integrations with Meta, TikTok, LinkedIn, YouTube, and Pinterest.
+	- We enable marketers to create high-performing content and engage in authentic collaborations with creators to reach new audiences, drive engagement, and generate predictable ROI. 
+	- We’re looking for a Data Analyst In this role, you’ll work closely with senior analysts and business stakeholders to turn data into actionable insights. You’ll help design reports and dashboards, conduct analysis on business performance, and support data-driven decision-making across the company.
+	- This is a great opportunity for someone early in their data career who wants to grow their technical skills and business impact in a fast-paced, high-growth environment.
+	- What you'll be doing:
+		* Strategy
+			+ Analyze performance data to identify trends, opportunities, and areas for improvement.
+			+ Translate findings into clear recommendations that support business objectives.
+			+ Support KPI development and reporting for marketing, product, and finance teams.
+			+ Conduct exploratory data analysis to uncover new insights that influence strategy.
+		* Technical/ Execution
+			+ Build and maintain dashboards in tools like Tableau, Looker, or Power BI.
+			+ Develop automated reports that make business-critical data accessible to stakeholders.
+			+ Ensure reporting is accurate, consistent, and aligned with company metrics.
+			+ Write SQL queries to extract and manipulate data from our data warehouse.
+			+ Apply basic data cleaning and transformation techniques to prepare data for analysis.
+		* Team / Collaboration
+			+ Partner with senior analysts, product managers, and marketers to define reporting needs.
+			+ Support ad-hoc analysis requests from cross-functional teams.
+			+ Document data definitions and reporting processes to enable self-service analytics.
+			+ Collaborate with senior analysts on improving data quality and reliability.
+		* Research/Best Practices
+			+ Stay curious about industry trends in analytics, BI tools, and data-driven decision-making.
+			+ Develop your technical skills (Python, R, dbt a plus) and apply new methods to improve outcomes.
+			+ Identify opportunities to streamline reporting processes and share learnings with the team.
+	- What success looks like:
+		* Deliver clear, accurate reports and dashboards that are regularly used by business teams.
+		* Improve decision-making speed and accuracy by providing timely insights.
+		* Consistently meet deadlines while balancing multiple analysis requests.
+		* Demonstrate growth in technical skills and take on increasingly complex analyses over time.
+	- What you bring:
+		* Bachelor’s degree in Economics, Statistics, Business, Data Science, or related field (or equivalent experience).
+		* 1–3 years of experience in data analysis, reporting, or business intelligence.
+		* Strong SQL skills and comfort working with relational databases.
+		* Experience with at least one BI tool (Tableau, Looker, Power BI, or similar).
+		* Strong problem-solving skills and ability to explain data insights in plain language.
+		* Curiosity and eagerness to learn more advanced analytics skills.Nice to have: exposure to SaaS, subscription, or digital marketing businesses.
+	- How you work: 
+		* Driven by Impact: You deliver results that matter—prioritizing high-value work, meeting deadlines, and adapting quickly while keeping outcomes clear.
+		* Strategic & Customer-Centric: You anticipate risks and opportunities, connect decisions to long-term growth, and build trust through proactive insights.
+		* Curious & Growth-Oriented: You seek knowledge, ask sharp questions, and apply learnings fast—challenging the status quo with a mindset of improvement.
+		* Collaborative & Resilient: You thrive in change by staying resourceful, solution-focused, and positive—removing roadblocks, sharing insights, and keeping morale high.
+		* Accountable & Honest: You own your work, hold yourself and others to a high bar, and use transparent feedback to drive growth.
+		* Emotionally Intelligent: You build trust through empathy and collaboration, foster inclusion, and inspire others with grit, optimism, and integrity.
+	- We take a market-based & data-driven approach to compensation. We leverage data from trusted third-party compensation sources to help us understand the market value of a role based on function, level, geographic location, and scope. We evaluate compensation bi-annually, including performance and market-related factors.
+	- Our salaries are benchmarked against market Total Cash Compensation for the geographic location of our job posting. Compensation for some roles is structured as On Target Earnings (OTE = base + commission/variable) while for others it is structured as Salary only.
+	- To comply with local legislation and ensure transparency, we share salary ranges on all job postings. Skills, experience and other factors help determine the final salary we offer which may vary from the original range posted. 
+	- Additionally, all permanent team members are eligible to participate in various benefits plans as part of their overall compensation package.
+	- Salary Range: $ 76,000 - 87,000 CAD
+	- LI-Hybrid  
+	- We have offices in Boston, MA; Vancouver, BC; Chicago, IL; and Vancouver, WA. For select positions, we are open to hiring fully remote candidates. We post our positions in the location(s) where we are open to having the successful candidate be located. 
 + skill set:
 	- BLAH.
 + skill set:
