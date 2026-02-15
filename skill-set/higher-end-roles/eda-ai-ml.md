@@ -1309,7 +1309,13 @@ Sets of skills for VLSI formal verification, in terms of developing VLSI formal 
 		* Familiarity with hardware design and verification languages, such as Verilog and SystemVerilog
 		* Hands-on use of software construction tools, such as GNU Make and SVN
 + skill set:
-	- BLAH.
+	- Architect / R&D Engineer / Senior R&D Engineer
+	- Real Intent is developing breakthrough products to enable Advanced Sign-off of large SoCs. These products include CDC Verification, Lint, SDC Verification, Formal Verification and X-Verification. We believe in hiring driven and creative individuals and challenging them to develop top-class technology and products. We value individuals with experience in any subset of the following fields: GUI, Verilog/System Verilog/VHDL Compilation, Synthesis Optimization, Databases and Core Infrastructure, Formal Technology, DFT, Test, SDC and Low Power applications. If you are creative and enjoy working in a fast paced supportive environment, we have a job for you. Our open communication and small team-based approach creates an ideal environment for individuals to make major contributions and also to develop their personal horizons through exposure to sales and marketing efforts for EDA products.
+	- BS/MS/Ph.D. in EE/CS plus 3 years of experience in EDA software development, with proven track record of successful software commercialization; candidates will be considered for an appropriate position depending upon the experience level
+	- Expert in software design with C++ and architecting and developing complex algorithmic solutions
+	- Good understanding of SoC design methodologies and the overall front-end design and verification flow, working knowledge of Verilog, VHDL, and SystemVerilog languages
+	- Self-motivating, self-disciplined, a team player and requiring minimal supervision to achieve software development milestones
+	- Excellent communication skills
 + skill set:
 	- BLAH.
 + skill set:
